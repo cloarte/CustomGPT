@@ -1,0 +1,2912 @@
+NEWCASTLE DISEASE RESPONSE PLAN: 
+THE RED BOOK
+Presentation 
+updated April 2016, 
+based on the 
+February 2014 Plan
+1
+
+2
+The draft version of the Newcastle Disease Response 
+Plan: The Red Book (2014) incorporates comments 
+received on the Exotic ND Response Plan: The Red Book 
+(2013) and reflects updates to Foreign Animal Disease 
+Preparedness and Response Plan (FAD PReP) materials.
+This plan does not replace existing regional, State, 
+Tribal, local, or industry preparedness and response 
+plans relating to ND. Regional, State, Tribal, local, and 
+industry plans should be aimed at more specific issues 
+in ND response.
+States should develop response plans focused on the 
+specific characteristics of the State and its poultry 
+industry. 
+3
+Outline
+Introduction and Information
+Framework for Preparedness and Response
+Preparedness and Response
+Response Goals and Strategy
+Specific Response Critical Activities and Tools
+Recovery after an Outbreak
+4
+
+5
+Introduction and 
+Information
+ND RESPONSE PLAN
+
+Objectives of this Plan
+Identify the capabilities needed to respond to an ND 
+outbreak. 
+Identify critical activities that are involved in 
+responding to that outbreak and associated time-
+frames.
+In an outbreak situation, critical activities are under the 
+authority of an Incident Command (IC).
+6Introduction and Information
+Definitions
+Avian paramyxovirus serotype 1(APMV-1) is the 
+etiologic agent of Newcastle disease (ND) in birds.
+APMV-1 viruses that
+Text Len: 1472
+--------------------------------------------------------------------------------
+frames.
+In an outbreak situation, critical activities are under the 
+authority of an Incident Command (IC).
+6Introduction and Information
+Definitions
+Avian paramyxovirus serotype 1(APMV-1) is the 
+etiologic agent of Newcastle disease (ND) in birds.
+APMV-1 viruses that cause ND are either virulent 
+(vNDV) or low virulence (loNDV).
+In the Code of Federal Regulations (CFR), Newcastle 
+Disease (ND) refers to an infection of poultry with 
+vNDV.
+NDV refers to the virus in general, for example, when 
+discussing environmental persistence.
+7Introduction and Information
+Etiology
+8Introduction and Information
+ ND is an infection of birds caused by vNDV, an avian 
+paramyxovirus serotype-1 (APMV-1). 
+ Nine serotypes of avian paramyxovirus have been 
+identified. 
+– There is one serotype of APMV-1 and six phylogenetic lineages.
+ There are three major pathotypes based on virulence: 
+– Lentogenic (low virulence viruses), 
+– Mesogenic, and 
+– Velogenic (virulent viruses). 
+o The velogenic viruses are further classified as either neurotropic or 
+viscerotropic.
+History
+9Introduction and Information
+ ND was first identified in England in 1927. 
+ The first major outbreak of ND in the United States was 
+identified in the early 1970s; this outbreak was 
+epidemiologically linked to the transmission of ND from 
+infected parrots to commercial poultry.
+– The last ND outbreaks in the
+Text Len: 1386
+--------------------------------------------------------------------------------
+.
+History
+9Introduction and Information
+ ND was first identified in England in 1927. 
+ The first major outbreak of ND in the United States was 
+identified in the early 1970s; this outbreak was 
+epidemiologically linked to the transmission of ND from 
+infected parrots to commercial poultry.
+– The last ND outbreaks in the United States included the States 
+of California (2002–2003), Nevada (2003), Arizona (2003), and 
+Texas (2003).
+– Virulent NDV is endemic in wild cormorants in the United States 
+and Canada, but commercial poultry are currently free of 
+velogenic isolates.
+ Virulent NDV remains endemic in many parts of the 
+world, including Asia, the Middle East, and Africa. 
+Economic Impact
+In 1971, the ND outbreak in the United States 
+resulted in the destruction of 12 million birds at a 
+cost of $56 million to eradicate the virus in 3 years. 
+The 2002–2003 epidemic in the western United 
+States resulted in industry losses estimated at $5 
+billion, and a direct cost of $160 million to control 
+the outbreak.
+An ND outbreak in the United States today could 
+exceed these economic costs and also result in 
+significant disruptions to the U.S. food supply.
+10Introduction and Information
+Zoonotic Potential
+ Virulent NDV can cause infection in humans. 
+ This infection is mild and self-limiting.
+– It usually causes conjunctivitis but can also result in mild 
+influenza-like symptoms. 
+ Direct contact with infected birds is the most common 
+transmission pathway; it is not transmitted through the 
+consumption of poultry products. 
+Text Len: 1554
+--------------------------------------------------------------------------------
+ can cause infection in humans. 
+ This infection is mild and self-limiting.
+– It usually causes conjunctivitis but can also result in mild 
+influenza-like symptoms. 
+ Direct contact with infected birds is the most common 
+transmission pathway; it is not transmitted through the 
+consumption of poultry products. 
+ Responders—particularly poultry workers and 
+vaccination crews—should be protected from the virus 
+through appropriate health and safety measures and 
+personal protective equipment (PPE).
+11Introduction and Information
+Susceptible Species
+More than 250 avian species can be infected with 
+NDV. The most severely affected avian species are 
+typically Galliformes, an order that includes:
+– chickens,
+– guinea fowl,
+– peafowl,
+– pheasant, and
+– quail.
+Turkeys can be infected, but usually present less 
+severe clinical signs than chickens.
+12Introduction and Information
+
+Reservoirs
+Wild birds and waterfowl can be reservoirs for NDV.
+Upon transmission to domestic poultry, these strains 
+may mutate into more virulent viruses. 
+In addition, some psittacine species may shed virus 
+for extended periods of time (several months to a 
+year) but may not show clinical signs.
+13Introduction and Information
+
+Transmission
+14
+Animal to animal contact
+Fomites
+Wildlife
+Airborne
+Introduction and Information
+
+NDV can be easily inactivated, but it remains viable 
+for long periods of time, particularly at ambient 
+temperatures and in the presence of feces.
+ND
+Text Len: 1477
+--------------------------------------------------------------------------------
+Transmission
+14
+Animal to animal contact
+Fomites
+Wildlife
+Airborne
+Introduction and Information
+
+NDV can be easily inactivated, but it remains viable 
+for long periods of time, particularly at ambient 
+temperatures and in the presence of feces.
+NDV may be present in
+eggs and egg products.
+15
+Persistence in the Environment 
+and Animal Products
+Introduction and Information
+
+Diagnosis in Avian Species
+Incubation period for ND typically ranges from 5–6 
+days.
+– World Organization for Animal Health (OIE) Terrestrial 
+Animal Health Code (2015) gives the incubation period for 
+AI infection as 21 days.
+16
+Introduction and Information
+Clinical Signs: Low Virulence Strains
+Strains of loNDV typically result in little mortality.
+Common clinical signs:
+– Coughing,
+– Gasping,
+– Sneezing, and
+– Rales.
+17Introduction and Information
+
+Clinical Signs: Virulent Strains
+– Lethargy,
+– Inappetence,
+– Ruffled feathers,
+– Edema,
+– Greenish or watery diarrhea,
+– Dyspnoea,
+– Inflammation of the head 
+and neck,
+– Cyanotic discoloration,
+– Death.
+18Introduction and Information
+ Mesogenic strains of NDV typically result in low mortality 
+but can cause acute respiratory and neurologic signs.
+ Velogenic strains cause severe disease, particularly in 
+chickens.
+Gross Pathological Lesions
+ Only velogenic strains will result in significant gross 
+lesions.
+ Lesions can
+Text Len: 1368
+--------------------------------------------------------------------------------
+ and Information
+ Mesogenic strains of NDV typically result in low mortality 
+but can cause acute respiratory and neurologic signs.
+ Velogenic strains cause severe disease, particularly in 
+chickens.
+Gross Pathological Lesions
+ Only velogenic strains will result in significant gross 
+lesions.
+ Lesions can be variable within neurotropic and 
+viscerotropic forms. In general, velogenic gross lesions 
+may include the following:
+– Swelling of the periorbital area or head,
+– Edema of the interstitial or peritracheal neck tissue,
+– Petechiae and small ecchymoses on the mucosa of the 
+proventriculus,
+– Necrosis, ulcerations, or hemorrhages of respiratory, digestive, 
+or lymphoid tissue, and
+– Enlarged spleen.
+19Introduction and Information
+Differential Diagnosis
+Virulent NDV can resemble 
+– highly pathogenic avian influenza (caused by 
+influenzavirus A), 
+– laryngotracheitis (caused by infectious 
+laryngotracheitis virus), 
+– psittacosis (caused by Chlamydophila psittaci), 
+mycoplasmosis (caused by mycoplasma 
+gallisepticum), 
+– and fowl cholera (caused by Pasturella spp.).
+20Introduction and Information
+Vaccination
+Vaccination has long been used in the United States 
+as a control measure for loNDV in many commercial 
+poultry operations.
+Mesogenic strains of vaccine are available. However, 
+these strains are not used as live vaccines in many 
+countries
+Text Len: 1373
+--------------------------------------------------------------------------------
+ Pasturella spp.).
+20Introduction and Information
+Vaccination
+Vaccination has long been used in the United States 
+as a control measure for loNDV in many commercial 
+poultry operations.
+Mesogenic strains of vaccine are available. However, 
+these strains are not used as live vaccines in many 
+countries, including the United States, because 
+mesogenic and velogenic NDV infections have been 
+eradicated in poultry.
+21Introduction and Information
+22
+Framework for Preparedness 
+and Response
+ND RESPONSE PLAN
+
+Foundation of Preparedness and Response
+Successful emergency preparedness for and 
+response to ND requires integration between the 
+National Response Framework (NRF), National 
+Incident Management System (NIMS), and National 
+Animal Health Emergency Management System 
+(NAHEMS).
+23Framework for Preparedness and Response
+
+National Response Framework
+The NRF is a guide to how the Nation conducts all-
+hazards response.
+It describes specific authorities and establishes a 
+comprehensive approach for responding to domestic 
+incidents that range from serious but purely local 
+events to large-scale terrorist attacks or catastrophic 
+natural disasters. 
+The NRF is available at 
+www.fema.gov/national-response-framework.
+24Framework for Preparedness and Response
+National Incident Management System
+ NIMS is a companion document to the NRF.
+ It provides a systematic, nationwide, proactive approach 
+guiding departments and agencies at all levels of 
+government, the private sector, and non-governmental 
+organizations.
+ Its goal is to help these organizations work seamlessly to 
+prep
+Text Len: 1600
+--------------------------------------------------------------------------------
+ Response
+National Incident Management System
+ NIMS is a companion document to the NRF.
+ It provides a systematic, nationwide, proactive approach 
+guiding departments and agencies at all levels of 
+government, the private sector, and non-governmental 
+organizations.
+ Its goal is to help these organizations work seamlessly to 
+prepare for, prevent, respond to, recover from, and 
+mitigate the effects of incidents, regardless of cause, size, 
+location, or complexity, to reduce the loss of life, liberty, 
+property, and harm to the environment. 
+ NIMS information is available at 
+www.fema.gov/national-incident-management-system.
+25Framework for Preparedness and Response
+NIMS Key Components
+Preparedness
+Communications and information management
+Resource management
+Scalability 
+Ongoing management and maintenance
+26Framework for Preparedness and Response
+National Animal Health 
+Emergency Management System
+APHIS and its stakeholders established NAHEMS to 
+provide a functional framework for responding to 
+foreign animal disease (FAD) incidents through 
+NAHEMS Guidelines, disease response plans (such as 
+this ND-specific plan), SOPs, and other associated 
+documents. 
+The purpose of the NAHEMS Guidelines is to ensure 
+a successful response commensurate with the 
+severity of the outbreak.
+27Framework for Preparedness and Response
+FAD PReP offers…
+competent veterinary guidance on cleaning and 
+disinfection, disposal, mass depopulation, and other 
+activities;
+information on disease control and erad
+Text Len: 1521
+--------------------------------------------------------------------------------
+ to ensure 
+a successful response commensurate with the 
+severity of the outbreak.
+27Framework for Preparedness and Response
+FAD PReP offers…
+competent veterinary guidance on cleaning and 
+disinfection, disposal, mass depopulation, and other 
+activities;
+information on disease control and eradication 
+strategies and principles;
+guidance on health, safety, and PPE issues;
+biosecurity information and site-specific 
+management strategies; and
+training and educational resources.
+28Framework for Preparedness and Response
+USDA Roles and Responsibilities
+As the primary Federal agency for incident 
+management during an FAD event of livestock or 
+poultry, USDA APHIS 
+– coordinates Incident Management Teams (IMTs), 
+– manages incident response, 
+– manages public messages, and 
+– takes measures to control and eradicate ND.
+29Framework for Preparedness and Response
+Measures to Control and Eradicate ND
+Active surveillance for additional cases
+Quarantine and movement control
+Epidemiologic investigations
+Appraisal and compensation
+Depopulation (euthanasia) of affected poultry
+Carcass disposal
+Cleaning and disinfection
+Diagnostics 
+Emergency vaccination (may be used in some cases)
+30Framework for Preparedness and Response
+Requesting Support
+During the course of an ND outbreak response, USDA 
+may request support as necessary from other Federal 
+agencies. 
+If the President declares an emergency or major 
+disaster, or if the Secretary of Agriculture requests 
+
+Text Len: 1482
+--------------------------------------------------------------------------------
+Emergency vaccination (may be used in some cases)
+30Framework for Preparedness and Response
+Requesting Support
+During the course of an ND outbreak response, USDA 
+may request support as necessary from other Federal 
+agencies. 
+If the President declares an emergency or major 
+disaster, or if the Secretary of Agriculture requests 
+the Department of Homeland Security (DHS) lead 
+coordination, the Secretary of Homeland Security 
+and DHS assume the lead for coordinating Federal 
+resources. 
+USDA maintains the lead of overall incident 
+management.
+31Framework for Preparedness and Response
+32
+Preparedness and Response
+ND RESPONSE PLAN
+
+Domestic Activities
+USDA has a variety of 
+ongoing preparedness 
+and response activities 
+with respect to ND. 
+The following list is a 
+selection of ongoing 
+USDA activities:
+ National Import Export 
+Services (NIES)
+ Smuggling Interdiction 
+and Trade Compliance 
+(SITC)
+ Emergency veterinary 
+assistance
+33Preparedness and Response
+International Activities
+34
+Preparedness and Response
+In addition to domestic 
+activities, the USDA also 
+has ongoing international 
+activities to bolster ND 
+preparedness planning 
+and response capabilities:
+ International 
+coordination
+ Emergency veterinary 
+assistance
+USDA APHIS Organizational Strategy
+APHIS has adopted NIMS and Incident Command 
+System (ICS) organizational structures to manage the 
+response to an
+The ICS is designed to enable efficient and effective 
+domestic incident management by integrating 
+facilities, equipment, personnel, procedures, and 
+communications operating
+Text Len: 1575
+--------------------------------------------------------------------------------
+
+assistance
+USDA APHIS Organizational Strategy
+APHIS has adopted NIMS and Incident Command 
+System (ICS) organizational structures to manage the 
+response to an
+The ICS is designed to enable efficient and effective 
+domestic incident management by integrating 
+facilities, equipment, personnel, procedures, and 
+communications operating within a common 
+organizational structure.
+35Preparedness and Response
+APHIS Incident Management Structure
+The APHIS Administrator is the Federal executive 
+responsible for implementing APHIS policy during an 
+ND outbreak.
+The APHIS Administrator will delegate much of the 
+actual multiagency coordination (MAC) functions to 
+the Veterinary Services (VS) Deputy Administrator, 
+who is the Chief Veterinary Officer (CVO) of the 
+United States, and the APHIS Emergency Management 
+Leadership Council (EMLC).
+36Preparedness and Response
+APHIS Incident Management Structure, continued
+The VS Deputy Administrator and the EMLC will 
+establish an APHIS Incident Coordination Group (ICG) 
+to oversee the staff functions associated with the 
+incident at the APHIS headquarters level.
+The APHIS ICG will work closely with the personnel in 
+charge of establishing operations for the incident 
+response at the Area Command (AC) or Incident 
+Command Post (ICP) in the field and coordinate with 
+the APHIS MAC Group.
+37Preparedness and Response
+Multiagency Coordination
+In the event of an ND outbreak, the EMLC typically 
+serves as the APHIS MAC Group, unless the members 
+decide to transfer responsibility for a specific 
+incident.
+The APHIS MAC Group structure is adaptable
+Text Len: 1607
+--------------------------------------------------------------------------------
+
+the APHIS MAC Group.
+37Preparedness and Response
+Multiagency Coordination
+In the event of an ND outbreak, the EMLC typically 
+serves as the APHIS MAC Group, unless the members 
+decide to transfer responsibility for a specific 
+incident.
+The APHIS MAC Group structure is adaptable and 
+easily expands and contracts to provide flexibility.
+The MAC Group—formed if the ND response needs 
+more support—establishes supportive relationships 
+among the agencies preparing for and responding to 
+an ND outbreak.
+38Preparedness and Response
+APHIS Incident Coordination Group
+APHIS ICG responsibilities in an ND outbreak include:
+– providing guidance to ensure responder and public health 
+and safety,
+– supporting ICP(s) and AC(s),
+– assisting in coordinating resources and integrating 
+response organizations into the ICS, and
+– providing information to the Joint Information Center (JIC) 
+for use in media and stakeholder briefings.
+39Preparedness and Response
+APHIS Multiagency Coordination Structures and APHIS Emergency Operations 
+Center: Relationship to Incident Management Team (Assuming Single Incident)
+40Preparedness and Response
+
+41Preparedness and Response
+APHIS Multiagency Coordination Structures and APHIS Emergency Operations
+Center: Relationship to Multiple Incident Management Team Structures
+(Assuming Multiple Incidents and Unified Area Command)
+
+APHIS Incident Management Levels
+APHIS uses a three-level system of emergency 
+response types .
+The levels range from Level III, which has the lowest 
+significance, to Level I, which is an event of national 
+significance. 
+The levels are used both within APHIS and externally 
+Text Len: 1643
+--------------------------------------------------------------------------------
+
+
+APHIS Incident Management Levels
+APHIS uses a three-level system of emergency 
+response types .
+The levels range from Level III, which has the lowest 
+significance, to Level I, which is an event of national 
+significance. 
+The levels are used both within APHIS and externally 
+to communicate the resource requirements for an 
+event or incident. 
+42Preparedness and Response
+Incident Management Levels
+43Preparedness and Response
+
+National Animal Health Emergency Response Corps
+ NAHERC assists and augments 
+Federal and State response to 
+domestic and international animal 
+disease outbreaks, threats, or 
+natural disasters.
+ NAHERC is composed of 
+veterinarians and veterinary 
+technicians who volunteer to 
+become temporary Federal 
+employees in the event of a national 
+animal health emergency.
+44Preparedness and Response
+
+Diagnostic Resources and Laboratory Support
+National Veterinary Services Laboratories
+The National Veterinary Services Laboratories (NVSL) 
+is the official reference laboratory for FAD diagnostic 
+testing and study in the United States.
+– The NVSL provides all confirmatory testing for ND on all 
+specimens found presumptively positive at a National 
+Animal Health Laboratory Network (NAHLN) laboratory or 
+other USDA-approved laboratory. 
+– The NVSL has two locations for FAD diagnostic testing:
+o Ames, IA (NVSL-Ames).
+o Foreign Animal Disease Diagnostic Laboratory (FADDL), Plum 
+Island, NY (NVSL-FADDL).
+45Preparedness and Response
+Diagnostic Resources and Laboratory Support
+National Animal Health Laboratory Network
+NAHLN consists of more than 60 laboratories
+Text Len: 1601
+--------------------------------------------------------------------------------
+ for FAD diagnostic testing:
+o Ames, IA (NVSL-Ames).
+o Foreign Animal Disease Diagnostic Laboratory (FADDL), Plum 
+Island, NY (NVSL-FADDL).
+45Preparedness and Response
+Diagnostic Resources and Laboratory Support
+National Animal Health Laboratory Network
+NAHLN consists of more than 60 laboratories and 
+coordinates the veterinary diagnostic laboratory 
+capacity of State animal health laboratories and their 
+extensive infrastructure, including facilities, 
+equipment, and professional expertise.
+Of these laboratories, over 50 are currently approved 
+to perform ND testing diagnostics.
+– The NAHLN provides a means for early detection of ND, 
+rapid response through surge capacity to test outbreak 
+samples, and recovery by the capability to test large 
+numbers of samples to show freedom from ND. 
+46Preparedness and Response
+47
+Response Goals and Strategy
+ND RESPONSE PLAN
+
+Response Goals
+The goals of an ND response are to:
+– detect, control, and contain ND in domestic poultry as 
+quickly as possible;
+– eradicate ND using strategies that seek to protect public 
+health and the environment, and stabilize animal 
+agriculture, the food supply, and the economy; and
+– provide science- and risk-based approaches and systems to 
+facilitate continuity of business for non-infected animals 
+and non-contaminated animal products.
+48Response Goals and Strategy
+Critical Activities
+ Public awareness campaign
+ Swift imposition of effective quarantine and movement controls
+ Rapid diagnosis and reporting
+ Epidemiological investigation and tracing
+ Increased surveillance
+ Continuity of business measures for non-infected premises and 
+non-contaminated animal products 
+
+Text Len: 1674
+--------------------------------------------------------------------------------
+ products.
+48Response Goals and Strategy
+Critical Activities
+ Public awareness campaign
+ Swift imposition of effective quarantine and movement controls
+ Rapid diagnosis and reporting
+ Epidemiological investigation and tracing
+ Increased surveillance
+ Continuity of business measures for non-infected premises and 
+non-contaminated animal products 
+ Biosecurity measures
+ Mass depopulation and euthanasia, potentially including 
+preemptive depopulation
+ Effective and appropriate disposal procedures
+ Cleaning and disinfection measures
+ Emergency vaccination (as the response strategy indicates)
+49Response Goals and Strategy
+Epidemiological Principles
+Three basic epidemiological principles form the 
+foundation to contain, control, and eradicate ND in 
+the U.S. domestic poultry population:
+– Prevent contact between the ND virus and susceptible 
+poultry.
+– Stop the production of ND virus by infected or exposed 
+poultry.
+– Increase the disease resistance of susceptible poultry to 
+the ND virus.
+50Response Goals and Strategy
+Critical Activities in the First 72 Hours of U.S. ND 
+Response
+51Response Goals and Strategy
+
+Response Strategy for Control 
+and Eradication of ND in Poultry
+The United States’ primary control and eradication 
+strategy for ND in poultry is stamping-out.
+If the spread of ND outpaces the resources for 
+stamping-out, or if other factors direct the response 
+away from a stamping-out 
+strategy alone, emergency 
+vaccination strategies 
+may be considered.
+52
+Response Goals and Strategy
+Stamping-Out
+Definition
+“Stamping-out” is defined in the OIE Terrestrial Animal 
+Health Code
+Text Len: 1619
+--------------------------------------------------------------------------------
+ the resources for 
+stamping-out, or if other factors direct the response 
+away from a stamping-out 
+strategy alone, emergency 
+vaccination strategies 
+may be considered.
+52
+Response Goals and Strategy
+Stamping-Out
+Definition
+“Stamping-out” is defined in the OIE Terrestrial Animal 
+Health Code as the “killing of animals which are 
+affected and those suspected of being affected in the 
+herd and, where appropriate, those in other herds 
+which have been exposed to infection by direct animal 
+to animal contact, or by indirect contact with the causal 
+pathogen; this includes all susceptible animals, 
+vaccinated or unvaccinated, on infected 
+establishments.”
+53Response Goals and Strategy
+Stamping-Out
+Critical Goals
+ Within 24 hours of (or as soon as possible after) a premises 
+being classified as an Infected Premises (IP), infected poultry 
+will be depopulated in the quickest, safest, and most humane 
+way possible. In many cases, poultry on Contact Premises (CP) 
+may also be depopulated as soon as possible.
+ Where resources are limited, premises will be prioritized so 
+that those with the highest potential for active ND spread are 
+‘stamped-out’ first.
+ Based on the epidemiology of the outbreak, prioritizing the 
+poultry to depopulate first may be necessary.
+ Public concerns about stamping-out require a well-planned 
+and proactive public relations and liaison campaign. 
+Stakeholders, the public, and the international community 
+must be involved.
+54Response Goals and Strategy
+Zones and Areas in Relation to Stamping-Out
+55
+Response Goals and Strategy
+
+Text Len: 1573
+--------------------------------------------------------------------------------
+ depopulate first may be necessary.
+ Public concerns about stamping-out require a well-planned 
+and proactive public relations and liaison campaign. 
+Stakeholders, the public, and the international community 
+must be involved.
+54Response Goals and Strategy
+Zones and Areas in Relation to Stamping-Out
+55
+Response Goals and Strategy
+Assessing a Possible Outbreak
+ During the investigation of premises suspected of having 
+ND, animal health responders use clinical signs, history, 
+and professional judgment to determine the likelihood 
+that ND exists on the premises. This assessment includes
+– a history of clinical and epidemiological findings,
+– results of physical examinations,
+– necropsy findings,
+– specimen collection and submission to an approved laboratory,
+– reporting, and
+– initiating appropriate control measures.
+56Response Goals and Strategy
+Authorization for Response 
+and Associated Activities
+When the criteria for a presumptive ND case have been 
+met, the APHIS Administrator or VS Deputy 
+Administrator (Chief Veterinary Officer [CVO] of the 
+United States) can authorize APHIS personnel—in 
+conjunction with State, Tribal, and IC personnel—to 
+initiate depopulation, cleaning and disinfection 
+procedures of the index case and investigation of 
+Contact Premises (CP).
+57Response Goals and Strategy
+Management of Incident
+ The outbreak response effort should be implemented 
+through ICS with an appropriate span of control and 
+delegation of authority.
+ An Incident Commander should be identified and an ICP 
+established.
+ In-State resources (whether Federal, State, Tribal, local, 
+or privately owned) should be used to manage a local 
+response.
+ Out-of-State resources may be used
+Text Len: 1708
+--------------------------------------------------------------------------------
+ an appropriate span of control and 
+delegation of authority.
+ An Incident Commander should be identified and an ICP 
+established.
+ In-State resources (whether Federal, State, Tribal, local, 
+or privately owned) should be used to manage a local 
+response.
+ Out-of-State resources may be used to support the State 
+impacted by the outbreak. 
+ The USDA will notify and coordinate with public health 
+agencies in response to ND in poultry.
+58Response Goals and Strategy
+Factors Influencing Response
+Consequences of the ND outbreak
+Acceptance
+Scale of the outbreak
+Rate of outbreak spread
+Veterinary countermeasures available
+Resources available to implement response 
+strategies
+59Response Goals and Strategy
+ND-Free Status
+ The criteria needed for ND-free status as described in 
+Article 10.9.2 of the OIE Terrestrial Animal Health Code 
+(2013). :
+ It has been shown that NDV infection in poultry has not 
+been present in the country, zone or compartment for 
+the past 12 months, based on surveillance in accordance 
+with Articles 10.9.22. to 10.9.26 
+ If infection has occurred in poultry in a previously free 
+country, zone, or compartment, ND free status can be 
+regained three months after a stamping-out policy 
+(including disinfection of all affected establishments) is 
+applied, providing that surveillance in accordance with 
+Articles 10.9.22. to 10.9.26. has been carried out during 
+that three-month period.
+60Response Goals and Strategy
+61
+Critical Activities and Tools
+ND
+Text Len: 1494
+--------------------------------------------------------------------------------
+
+regained three months after a stamping-out policy 
+(including disinfection of all affected establishments) is 
+applied, providing that surveillance in accordance with 
+Articles 10.9.22. to 10.9.26. has been carried out during 
+that three-month period.
+60Response Goals and Strategy
+61
+Critical Activities and Tools
+ND RESPONSE PLAN
+
+Suspect Case
+Definition
+Domesticated bird or flock having clinical signs 
+consistent with virulent Newcastle disease virus.
+62Critical Activities and Tools
+
+Presumptive Positive Case
+Definition
+A suspect case that has either:
+– Positive screening test (rRT-PCR) for Newcastle disease 
+virus (APMV-1); OR
+– Epidemiological information indicating exposure to 
+virulent Newcastle disease virus.
+63
+Critical Activities and Tools
+Confirmed Positive Case
+Definition
+ Domesticated bird or flock from which:
+– Newcastle disease virus (APMV-1) has been isolated and 
+identified at the NVSL or laboratory designated by the Secretary 
+of Agriculture; AND
+– The Newcastle disease virus (APMV-1) has an ICPI in day-old 
+chicks (Gallus gallus) of 0.7 or greater; OR
+– Presumptive positive and presence of multiple basic amino acids 
+in the virus (either directly or by deduction) at the C-terminus of 
+the F2 protein and phenylalanine at residue 117, which is the N-
+terminus of the F1 protein. 
+o Failure to demonstrate the characteristic pattern of amino acid 
+residues as described above would require virus isolation and further 
+characterization by an ICPI test.
+64Critical Activities and Tools
+Surveillance
+The following are goals in
+Text Len: 1562
+--------------------------------------------------------------------------------
+the F2 protein and phenylalanine at residue 117, which is the N-
+terminus of the F1 protein. 
+o Failure to demonstrate the characteristic pattern of amino acid 
+residues as described above would require virus isolation and further 
+characterization by an ICPI test.
+64Critical Activities and Tools
+Surveillance
+The following are goals in an ND outbreak:
+ To implement surveillance plans within 48 hours of the 
+confirmation of an outbreak.
+ To implement a surveillance plan that will (1) define the present 
+extent of ND and (2) detect unknown IP quickly.
+ To have the surveillance plan consider the susceptible wild bird 
+population in the area, to coordinate with APHIS, U.S. Department 
+of the Interior, State wildlife agencies, and State agriculture 
+departments to perform appropriate ND surveillance in these 
+populations.
+ To provide complete surveillance data summaries and analysis at 
+intervals as specified by IC.
+ To develop effective surveillance plans that can achieve desired 
+outcomes by leveraging available resources, satisfying jurisdictional 
+requirements, and implementing continuity of business measures
+65Critical Activities and Tools
+Surveillance
+The following are goals in an ND outbreak:
+ Detect ND infected premises during an outbreak.
+ Determine the size and extent of an ND outbreak.
+ Supply information to evaluate outbreak control 
+activities.
+ Provide information for poultry and product movement 
+within the CA.
+ Provide information for poultry and product movement 
+out of the CA.
+ Prove disease freedom (DF) and regain disease-free 
+status after eradication of the outbreak.
+66Critical Activities and Tools
+Surveillance Planning for ND Outbreak
+• A surveillance plan
+Text Len: 1712
+--------------------------------------------------------------------------------
+
+ Provide information for poultry and product movement 
+within the CA.
+ Provide information for poultry and product movement 
+out of the CA.
+ Prove disease freedom (DF) and regain disease-free 
+status after eradication of the outbreak.
+66Critical Activities and Tools
+Surveillance Planning for ND Outbreak
+• A surveillance plan indicates the frequency, number, 
+and distribution of poultry and premises to be 
+sampled. This requires tradeoffs be made among six 
+surveillance parameters:
+– design (threshold) prevalence,
+– confidence level,
+– types of tests,
+– sampling frequency,
+– risk-based sampling, and
+– sampling scheme.
+67
+Critical Activities and Tools
+Surveillance Objectives by Time Period
+ The initial 72 hours post-ND outbreak declaration. 
+Detect existing infected flocks and premises as quickly as possible.
+ The control and eradication period (from initial 72-hour period until 
+last case is detected and eradicated).
+Detect infected premises so that control measures can be put in 
+place.
+Provide evidence that premises are free of ND, thereby permitting 
+poultry and poultry product movements in the CA.
+Evaluate outbreak management control activities.
+Provide evidence that disease is absent from the free area to 
+enable unrestricted poultry and poultry product movement.
+ Post eradication.
+68Critical Activities and Tools
+Diagnostics
+During a suspected or actual ND outbreak, the key 
+goals of response are to:
+– meet the surge requirements for diagnostic testing at 
+specific intervals, starting at time zero and at 24-hour 
+intervals as the response escalates, and 
+– report all diagnostic test results to appropriate personnel 
+and information management systems within 12 hours of 
+diagnostic
+Text Len: 1721
+--------------------------------------------------------------------------------
+�During a suspected or actual ND outbreak, the key 
+goals of response are to:
+– meet the surge requirements for diagnostic testing at 
+specific intervals, starting at time zero and at 24-hour 
+intervals as the response escalates, and 
+– report all diagnostic test results to appropriate personnel 
+and information management systems within 12 hours of 
+diagnostic test completion.
+The FAD Investigation Manual (FAD PReP Manual 4-0) offers 
+detailed information on diagnostic sample collection, diagnostic 
+testing, and reporting.
+69Critical Activities and Tools
+Diagnostic Flow for FAD Investigations for ND
+FAD Investigations
+70Critical Activities and Tools
+Diagnostic Flow for FAD Investigations for ND
+Outbreak Surveillance Testing
+71Critical Activities and Tools
+
+Surge Capacity
+ Surge capacity may be needed in an ND outbreak. 
+Additional resources, such as personnel and materials, 
+will be needed for sample collection. 
+– Additional capacity may also be required for laboratory sample 
+testing. 
+ Surge capacity can help facilitate a rapid response and 
+continuity of business for non-infected premises. 
+ In the event that the State NAHLN laboratory and NVSL-
+Ames are overwhelmed by the diagnostic testing 
+requirements, NAHLN labs from across the country will 
+provide surge capacity for diagnostic testing.
+72Preparedness and Response
+Reporting and Notification
+Cases considered a presumptive positive for ND at 
+NVSL-Ames, based on the current case definition, 
+will be reported to the affected States, other States, 
+Tribal nations, industry, other Federal agencies, 
+trading partners, and the OIE.
+This includes breeder and commercial poultry flocks, 
+domestic waterfowl and
+Text Len: 1694
+--------------------------------------------------------------------------------
+ a presumptive positive for ND at 
+NVSL-Ames, based on the current case definition, 
+will be reported to the affected States, other States, 
+Tribal nations, industry, other Federal agencies, 
+trading partners, and the OIE.
+This includes breeder and commercial poultry flocks, 
+domestic waterfowl and upland game birds, backyard 
+flocks, and live bird marketing system (LBMS).
+Appropriate Federal-State-Tribal-industry response 
+and containment measures are initiated during ND 
+investigations.
+73Critical Activities and Tools
+Example of Zones, Areas, 
+and Premises in ND Outbreak Response
+74
+Critical Activities and Tools
+Epidemiological Investigation
+Epidemiological investigation and movement tracing 
+during an outbreak are critical in controlling and 
+eradicating ND. 
+In an ND outbreak, the goals are to:
+– within 6 hours of identifying potential IP or CP through 
+tracing activities, assign a premises classification and a 
+priority of investigation; 
+– within 24 hours of identifying the IP or initial CP , identify all 
+additional CP; and
+– within 96 hours of identifying the index case, characterize 
+the nature of the ND outbreak, identify the risk factors for 
+transmission, and develop mitigation strategies.
+75Critical Activities and Tools
+Tracing
+ One of the single most important and urgent veterinary 
+activities during an ND outbreak is to rapidly and 
+diligently trace-back and trace-forward movements from 
+an IP .
+ This tracing will aid in the control of the spread of ND 
+virus and limit the impact of the outbreak.
+ Tracing should cover all movements from the premises, 
+including susceptible
+Text Len: 1621
+--------------------------------------------------------------------------------
+ urgent veterinary 
+activities during an ND outbreak is to rapidly and 
+diligently trace-back and trace-forward movements from 
+an IP .
+ This tracing will aid in the control of the spread of ND 
+virus and limit the impact of the outbreak.
+ Tracing should cover all movements from the premises, 
+including susceptible poultry, non-susceptible species, 
+animal products, vehicles, crops and grains, and people.
+ Tracing also includes consideration of all potential modes 
+of transmission and possible contact with wild birds.
+76Critical Activities and Tools
+Communication
+ Establish a network of stakeholders and systems for 
+communication prior to an incident or outbreak.
+ Brief the media, public, industry, Congress, trading partners, 
+and others on the ND outbreak status and the actions being 
+taken to control and eradicate the disease.
+ Coordinate with Federal, State, and local agencies, Tribal 
+entities, producer groups, and Land Grant University-based 
+Cooperative Extension Services to ensure consistent 
+messaging regarding animal health, public health, and food 
+safety.
+ Assure consumers that USDA is working on animal health 
+issues, in an informed and timely manner, along with HHS, 
+which is working on human health issues.
+77Critical Activities and Tools
+Communication Objectives
+All ND communications must:
+– furnish accurate, timely, and consistent information;
+– maintain credibility and instill public confidence in the 
+government’s ability to respond to an outbreak;
+– minimize public panic and fear; and
+– address rumors, inaccuracies, 
+and misperceptions as quickly 
+as possible.
+78
+Critical Activities and Tools
+Key Communication Messages
+For consumers:
+
+Text Len: 1689
+--------------------------------------------------------------------------------
+, timely, and consistent information;
+– maintain credibility and instill public confidence in the 
+government’s ability to respond to an outbreak;
+– minimize public panic and fear; and
+– address rumors, inaccuracies, 
+and misperceptions as quickly 
+as possible.
+78
+Critical Activities and Tools
+Key Communication Messages
+For consumers:
+– ND is not a food-safety issue.
+– Properly prepared eggs and poultry are safe to eat.
+– We are responding quickly and decisively to eradicate the 
+disease.
+For producers:
+– You are the best protection your birds have.
+– Protect your flocks with good biosecurity practices.
+– Know the signs of ND, and be vigilant in reporting signs of 
+illness.
+79Critical Activities and Tools
+Health and Safety and 
+Personal Protective Equipment
+During an ND outbreak, responders 
+are exposed to many hazards.
+In an ND response, personal 
+protection and safety is particularly 
+essential to protect individuals from 
+ND infection.
+Those at increased risk for ND 
+infection are personnel in prolonged 
+and direct contact with infected 
+birds in an enclosed setting.
+80
+Critical Activities and Tools
+Biosecurity
+An ND outbreak will have a serious impact on the 
+agricultural industry.
+Strict biosecurity measures need to be implemented 
+immediately to prevent or slow the spread of ND. 
+Biosecurity procedures should be implemented 
+within 24 hours of the identification of an index ND 
+case.
+Because some people in contact with ND virus may 
+develop conjunctivitis or a mild “flu-like” illness, 
+USDA will coordinate with public health agencies
+Text Len: 1574
+--------------------------------------------------------------------------------
+ to prevent or slow the spread of ND. 
+Biosecurity procedures should be implemented 
+within 24 hours of the identification of an index ND 
+case.
+Because some people in contact with ND virus may 
+develop conjunctivitis or a mild “flu-like” illness, 
+USDA will coordinate with public health agencies to 
+minimize risks to responders and others exposed.
+81Critical Activities and Tools
+ND Biosecurity Hazards and Appropriate 
+Biosecurity Measures
+82Critical Activities and Tools
+
+Biosecurity
+Closed Flocks
+To the fullest extent possible, close the flock to the 
+introduction of new poultry (with population 
+increases occurring only from offspring).
+If closing a flock is not possible, isolate newly 
+purchased poultry (from the 
+healthiest possible sources) and those returning 
+from existing flocks for 30 days or more.
+Vaccination status of introduced poultry should be
+known.
+83Critical Activities and Tools
+Quarantine and Movement Control
+ By restricting the movement of infected animals, animal 
+products, and contaminated fomites, quarantine and 
+movement control can be a powerful tool in controlling 
+and eradicating an ND outbreak.
+ Movement control is accomplished through a permit 
+system that allows entities to 
+make necessary movements 
+without creating an 
+unacceptable risk of disease 
+spread. 
+– EMRS  2.0 is the system of
+record for these movements.
+84
+Critical Activities and Tools
+Inactivation of AI in Eggs, 
+Egg Products, and Meat
+85
+Critical Activities and Tools
+Inactivation of Newcastle Disease in Eggs and Egg Products
+Inactivation of Newcastle Disease in Meat
+Continuity of Business
+�
+Text Len: 1616
+--------------------------------------------------------------------------------
+ disease 
+spread. 
+– EMRS  2.0 is the system of
+record for these movements.
+84
+Critical Activities and Tools
+Inactivation of AI in Eggs, 
+Egg Products, and Meat
+85
+Critical Activities and Tools
+Inactivation of Newcastle Disease in Eggs and Egg Products
+Inactivation of Newcastle Disease in Meat
+Continuity of Business
+ Continuity of business is the management of non-IP and non-
+contaminated animal products in the event of an ND 
+outbreak.
+ This helps agriculture and food industries facilitate routine 
+business, or a return to business, during a disease response, 
+while the risk of disease spread and threat to public health is 
+effectively managed.
+86
+Critical Activities and Tools
+Mass Depopulation and Euthanasia
+Poultry on an IP will be depopulated as soon as 
+possible after declaration of an ND outbreak.
+Poultry on CP may also be depopulated as soon as 
+possible after the premises are classified as CP.
+The NAHEMS Guidelines: Mass Depopulation and 
+Euthanasia contains additional information on 
+euthanasia and mass depopulation.
+87Critical Activities and Tools
+Disposal
+ Appropriate disposal of animal carcasses and materials is a critical 
+component of a successful ND response.
+ The Disposal SOP discusses how to dispose of thousands of bird 
+carcasses, contaminated and potentially contaminated materials, 
+poultry products, items that cannot be properly cleaned and 
+disinfected (such as manure, litter, and bedding), products of the 
+response effort (such as PPE), and products of vaccination 
+response. 
+ Disposal will occur as soon as possible after flock depopulation.
+The NA
+Text Len: 1603
+--------------------------------------------------------------------------------
+asses, contaminated and potentially contaminated materials, 
+poultry products, items that cannot be properly cleaned and 
+disinfected (such as manure, litter, and bedding), products of the 
+response effort (such as PPE), and products of vaccination 
+response. 
+ Disposal will occur as soon as possible after flock depopulation.
+The NAHEMS Guidelines: Disposal also contains further guidance on 
+disposal activities.
+88Critical Activities and Tools
+Cleaning and Disinfection
+89
+Because of ND’s high survival rate on both 
+organic and inorganic materials, aggressive 
+cleaning and disinfection practices are required 
+for control and eradication.
+ Cleaning and disinfection are to be conducted 
+within 48 hours of the disposal of depopulated 
+poultry.
+The NAHEMS Guidelines: Cleaning and Disinfection 
+contains additional information on cleaning and 
+disinfection.
+Critical Activities and Tools
+Vaccination 
+Vaccination using lentogenic (low virulence) vaccines 
+is widely practiced in the U.S. poultry industry, 
+particularly in broiler breeders, layers, and turkeys.
+Vaccination does prevent clinical signs, and can 
+thereby mitigate production losses from low 
+virulence strains of APMV-1. 
+– However, poultry will still shed the virus, and typical 
+lentogenic vaccination may not be sufficient to protect 
+poultry from a velogenic challenge.
+90Critical Activities and Tools
+Deciding to Vaccinate for ND
+ Probability that the disease can or 
+cannot be rapidly contained;
+ Proximity of high-value genetic 
+birds to the rapidly spreading 
+disease focal point;
+�
+Text Len: 1567
+--------------------------------------------------------------------------------
+ogenic vaccination may not be sufficient to protect 
+poultry from a velogenic challenge.
+90Critical Activities and Tools
+Deciding to Vaccinate for ND
+ Probability that the disease can or 
+cannot be rapidly contained;
+ Proximity of high-value genetic 
+birds to the rapidly spreading 
+disease focal point;
+ Risk of infection of valuable, rare, 
+or endangered nondomestic 
+species;
+ Poultry density in an area;
+ Increased risk of introduction due 
+to the presence of ND in 
+neighboring countries;
+ The extent to which disease is 
+found in waterfowl, other wild 
+birds, backyard flocks, or in live 
+bird markets;
+ Availability of physical and human 
+resources;
+ Sociopolitical factors (public 
+confidence in commercial poultry 
+products);
+ Impact on international trade; and
+ Economic consequences of failure 
+to control the disease.
+91
+The decision for emergency vaccination will be based on:
+Critical Activities and Tools
+Examples of Containment
+Vaccination Zones
+92
+Critical Activities and Tools
+
+Examples of Containment
+Vaccination Zones, continued
+93
+Critical Activities and Tools
+Examples of Protection Vaccination Zones
+Typically, a PVZ would observed with stamping-out modified with emergency 
+vaccination to live.
+94Critical Activities and Tools
+VP is typically a secondary designation to another premises designation and is 
+only used if vaccination is employed in an outbreak.
+Examples of Vaccinated Premises
+95Critical Activities and Tools
+Wildlife Management and Vector Control
+Wildlife surveillance and management must be 
+conducted by persons trained and proficient in 
+wildlife health, capture, collection
+Text Len: 1628
+--------------------------------------------------------------------------------
+94Critical Activities and Tools
+VP is typically a secondary designation to another premises designation and is 
+only used if vaccination is employed in an outbreak.
+Examples of Vaccinated Premises
+95Critical Activities and Tools
+Wildlife Management and Vector Control
+Wildlife surveillance and management must be 
+conducted by persons trained and proficient in 
+wildlife health, capture, collection, biosecurity, and 
+restraint.
+ND can be transmitted mechanically by mice, 
+vultures, and other vectors. 
+Appropriate biosecurity measures should be in place 
+during an ND outbreak to ensure that mechanical 
+vectors do not have contact with infected flocks or 
+other infected material.
+96Critical Activities and Tools
+Appraisal and Compensation
+ Indemnity is a key component of APHIS’s disease control 
+programs in that the promise of fair compensation for 
+losses helps to ensure cooperation from the owners of 
+affected poultry.
+ In an ND outbreak, ordering the destruction of poultry on 
+premises that are epidemiologically linked to an IP may 
+be necessary to ensure that the ND does not spread. 
+ The Secretary of Agriculture has the authority to pay up 
+to 100 percent of the fair market value of the poultry, as 
+well as for disposal, cleaning, and disinfection.
+97Critical Activities and Tools
+Finance
+During an ND outbreak, funding may be rapidly 
+required. For responding to specific emergency 
+situations, VS has access to a variety of sources for 
+funding. The two most common sources are the 
+APHIS Contingency Fund (CF) and the Commodity 
+Credit Corporation (CCC).
+98Critical Activities and Tools
+99
+Recovery after an Outbreak
+
+Text Len: 1646
+--------------------------------------------------------------------------------
+ an ND outbreak, funding may be rapidly 
+required. For responding to specific emergency 
+situations, VS has access to a variety of sources for 
+funding. The two most common sources are the 
+APHIS Contingency Fund (CF) and the Commodity 
+Credit Corporation (CCC).
+98Critical Activities and Tools
+99
+Recovery after an Outbreak
+ND RESPONSE PLAN
+
+Surveillance for Recognition 
+of Disease Freedom
+Surveillance is fundamental in proving DF to regain 
+disease-free status after an ND outbreak.
+The OIE does not grant official recognition for ND-
+freedom, but as a member of the OIE, the United 
+States can self-declare a compartment, zone, or the 
+country free from certain OIE-listed diseases such as 
+ND.
+100Recovery after an Outbreak
+Release of Quarantine and 
+Movement Control
+Quarantine and movement control restrictions are 
+maintained until at least 21 days have elapsed since 
+the decontamination of all confirmed IP and negative 
+results of surveillance activities.
+101Recovery after an Outbreak
+
+Repopulation
+Following official approval of cleaning and 
+disinfection procedures, IP will remain vacant for a 
+minimum of 21 days to ensure that any residual virus 
+has been eliminated. 
+This period may be decreased if external heat is used 
+to raise the temperature of the houses sufficiently to 
+inactivate any residual virus in a shorter period.
+Source flocks for all introduced poultry must test 
+negative through rRT-PCR and other diagnostics, as 
+determined by IC.
+102Recovery after an Outbreak
+103
+Further Information
+FAD PReP Supporting Documents and Materials
+Str
+Text Len: 1579
+--------------------------------------------------------------------------------
+ temperature of the houses sufficiently to 
+inactivate any residual virus in a shorter period.
+Source flocks for all introduced poultry must test 
+negative through rRT-PCR and other diagnostics, as 
+determined by IC.
+102Recovery after an Outbreak
+103
+Further Information
+FAD PReP Supporting Documents and Materials
+Strategic Plans—Concept of Operations
+National Animal Health Emergency Management 
+System (NAHEMS) Guidelines
+Industry Manuals
+Disease Response Plans
+Standard Operating Procedures (SOPs) for Critical 
+Activities
+Continuity of Business Plans 
+– Commodity specific plans developed by public-private-
+academic partnerships
+Ready Reference Guides
+104
+Key Abbreviations
+APMV-1 avian paramyxovirus 
+serotype-1
+FAD foreign animal disease
+FAD 
+PReP
+Foreign Animal Disease 
+Preparedness and 
+Response Plan
+loNDV low virulence Newcastle 
+disease virus
+ND Newcastle Disease
+NDV Newcastle disease virus
+NIMS National Incident 
+Management System
+105
+NRF National Response 
+Framework
+NVSL National Veterinary 
+Services Laboratories
+OIE World Organization for 
+Animal Health
+PPE personal protective 
+equipment
+vNDV virulent Newcastle 
+disease virus
+VS Veterinary Services
+WHO World Health 
+Organization
+Text Len: 1210
+--------------------------------------------------------------------------------
+NEWCASTLE DISEASE RESPONSE PLAN: 
+THE RED BOOK
+Presentation 
+updated April 2016, 
+based on the 
+February 2014 Plan
+1
+
+2
+The draft version of the Newcastle Disease Response 
+Plan: The Red Book (2014) incorporates comments 
+received on the Exotic ND Response Plan: The Red Book 
+(2013) and reflects updates to Foreign Animal Disease 
+Preparedness and Response Plan (FAD PReP) materials.
+This plan does not replace existing regional, State, 
+Tribal, local, or industry preparedness and response 
+plans relating to ND. Regional, State, Tribal, local, and 
+industry plans should be aimed at more specific issues 
+in ND response.
+States should develop response plans focused on the 
+specific characteristics of the State and its poultry 
+industry. 
+3
+Outline
+Introduction and Information
+Framework for Preparedness and Response
+Preparedness and Response
+Response Goals and Strategy
+Specific Response Critical Activities and Tools
+Recovery after an Outbreak
+4
+
+5
+Introduction and 
+Information
+ND RESPONSE PLAN
+
+Objectives of this Plan
+Identify the capabilities needed to respond to an ND 
+outbreak. 
+Identify critical activities that are involved in 
+responding to that outbreak and associated time-
+frames.
+In an outbreak situation, critical activities are under the 
+authority of an Incident Command (IC).
+6Introduction and Information
+Definitions
+Avian paramyxovirus serotype 1(APMV-1) is the 
+etiologic agent of Newcastle disease (ND) in birds.
+APMV-1 viruses that
+Text Len: 1472
+--------------------------------------------------------------------------------
+frames.
+In an outbreak situation, critical activities are under the 
+authority of an Incident Command (IC).
+6Introduction and Information
+Definitions
+Avian paramyxovirus serotype 1(APMV-1) is the 
+etiologic agent of Newcastle disease (ND) in birds.
+APMV-1 viruses that cause ND are either virulent 
+(vNDV) or low virulence (loNDV).
+In the Code of Federal Regulations (CFR), Newcastle 
+Disease (ND) refers to an infection of poultry with 
+vNDV.
+NDV refers to the virus in general, for example, when 
+discussing environmental persistence.
+7Introduction and Information
+Etiology
+8Introduction and Information
+ ND is an infection of birds caused by vNDV, an avian 
+paramyxovirus serotype-1 (APMV-1). 
+ Nine serotypes of avian paramyxovirus have been 
+identified. 
+– There is one serotype of APMV-1 and six phylogenetic lineages.
+ There are three major pathotypes based on virulence: 
+– Lentogenic (low virulence viruses), 
+– Mesogenic, and 
+– Velogenic (virulent viruses). 
+o The velogenic viruses are further classified as either neurotropic or 
+viscerotropic.
+History
+9Introduction and Information
+ ND was first identified in England in 1927. 
+ The first major outbreak of ND in the United States was 
+identified in the early 1970s; this outbreak was 
+epidemiologically linked to the transmission of ND from 
+infected parrots to commercial poultry.
+– The last ND outbreaks in the
+Text Len: 1386
+--------------------------------------------------------------------------------
+.
+History
+9Introduction and Information
+ ND was first identified in England in 1927. 
+ The first major outbreak of ND in the United States was 
+identified in the early 1970s; this outbreak was 
+epidemiologically linked to the transmission of ND from 
+infected parrots to commercial poultry.
+– The last ND outbreaks in the United States included the States 
+of California (2002–2003), Nevada (2003), Arizona (2003), and 
+Texas (2003).
+– Virulent NDV is endemic in wild cormorants in the United States 
+and Canada, but commercial poultry are currently free of 
+velogenic isolates.
+ Virulent NDV remains endemic in many parts of the 
+world, including Asia, the Middle East, and Africa. 
+Economic Impact
+In 1971, the ND outbreak in the United States 
+resulted in the destruction of 12 million birds at a 
+cost of $56 million to eradicate the virus in 3 years. 
+The 2002–2003 epidemic in the western United 
+States resulted in industry losses estimated at $5 
+billion, and a direct cost of $160 million to control 
+the outbreak.
+An ND outbreak in the United States today could 
+exceed these economic costs and also result in 
+significant disruptions to the U.S. food supply.
+10Introduction and Information
+Zoonotic Potential
+ Virulent NDV can cause infection in humans. 
+ This infection is mild and self-limiting.
+– It usually causes conjunctivitis but can also result in mild 
+influenza-like symptoms. 
+ Direct contact with infected birds is the most common 
+transmission pathway; it is not transmitted through the 
+consumption of poultry products. 
+Text Len: 1554
+--------------------------------------------------------------------------------
+ can cause infection in humans. 
+ This infection is mild and self-limiting.
+– It usually causes conjunctivitis but can also result in mild 
+influenza-like symptoms. 
+ Direct contact with infected birds is the most common 
+transmission pathway; it is not transmitted through the 
+consumption of poultry products. 
+ Responders—particularly poultry workers and 
+vaccination crews—should be protected from the virus 
+through appropriate health and safety measures and 
+personal protective equipment (PPE).
+11Introduction and Information
+Susceptible Species
+More than 250 avian species can be infected with 
+NDV. The most severely affected avian species are 
+typically Galliformes, an order that includes:
+– chickens,
+– guinea fowl,
+– peafowl,
+– pheasant, and
+– quail.
+Turkeys can be infected, but usually present less 
+severe clinical signs than chickens.
+12Introduction and Information
+
+Reservoirs
+Wild birds and waterfowl can be reservoirs for NDV.
+Upon transmission to domestic poultry, these strains 
+may mutate into more virulent viruses. 
+In addition, some psittacine species may shed virus 
+for extended periods of time (several months to a 
+year) but may not show clinical signs.
+13Introduction and Information
+
+Transmission
+14
+Animal to animal contact
+Fomites
+Wildlife
+Airborne
+Introduction and Information
+
+NDV can be easily inactivated, but it remains viable 
+for long periods of time, particularly at ambient 
+temperatures and in the presence of feces.
+ND
+Text Len: 1477
+--------------------------------------------------------------------------------
+Transmission
+14
+Animal to animal contact
+Fomites
+Wildlife
+Airborne
+Introduction and Information
+
+NDV can be easily inactivated, but it remains viable 
+for long periods of time, particularly at ambient 
+temperatures and in the presence of feces.
+NDV may be present in
+eggs and egg products.
+15
+Persistence in the Environment 
+and Animal Products
+Introduction and Information
+
+Diagnosis in Avian Species
+Incubation period for ND typically ranges from 5–6 
+days.
+– World Organization for Animal Health (OIE) Terrestrial 
+Animal Health Code (2015) gives the incubation period for 
+AI infection as 21 days.
+16
+Introduction and Information
+Clinical Signs: Low Virulence Strains
+Strains of loNDV typically result in little mortality.
+Common clinical signs:
+– Coughing,
+– Gasping,
+– Sneezing, and
+– Rales.
+17Introduction and Information
+
+Clinical Signs: Virulent Strains
+– Lethargy,
+– Inappetence,
+– Ruffled feathers,
+– Edema,
+– Greenish or watery diarrhea,
+– Dyspnoea,
+– Inflammation of the head 
+and neck,
+– Cyanotic discoloration,
+– Death.
+18Introduction and Information
+ Mesogenic strains of NDV typically result in low mortality 
+but can cause acute respiratory and neurologic signs.
+ Velogenic strains cause severe disease, particularly in 
+chickens.
+Gross Pathological Lesions
+ Only velogenic strains will result in significant gross 
+lesions.
+ Lesions can
+Text Len: 1368
+--------------------------------------------------------------------------------
+ and Information
+ Mesogenic strains of NDV typically result in low mortality 
+but can cause acute respiratory and neurologic signs.
+ Velogenic strains cause severe disease, particularly in 
+chickens.
+Gross Pathological Lesions
+ Only velogenic strains will result in significant gross 
+lesions.
+ Lesions can be variable within neurotropic and 
+viscerotropic forms. In general, velogenic gross lesions 
+may include the following:
+– Swelling of the periorbital area or head,
+– Edema of the interstitial or peritracheal neck tissue,
+– Petechiae and small ecchymoses on the mucosa of the 
+proventriculus,
+– Necrosis, ulcerations, or hemorrhages of respiratory, digestive, 
+or lymphoid tissue, and
+– Enlarged spleen.
+19Introduction and Information
+Differential Diagnosis
+Virulent NDV can resemble 
+– highly pathogenic avian influenza (caused by 
+influenzavirus A), 
+– laryngotracheitis (caused by infectious 
+laryngotracheitis virus), 
+– psittacosis (caused by Chlamydophila psittaci), 
+mycoplasmosis (caused by mycoplasma 
+gallisepticum), 
+– and fowl cholera (caused by Pasturella spp.).
+20Introduction and Information
+Vaccination
+Vaccination has long been used in the United States 
+as a control measure for loNDV in many commercial 
+poultry operations.
+Mesogenic strains of vaccine are available. However, 
+these strains are not used as live vaccines in many 
+countries
+Text Len: 1373
+--------------------------------------------------------------------------------
+ Pasturella spp.).
+20Introduction and Information
+Vaccination
+Vaccination has long been used in the United States 
+as a control measure for loNDV in many commercial 
+poultry operations.
+Mesogenic strains of vaccine are available. However, 
+these strains are not used as live vaccines in many 
+countries, including the United States, because 
+mesogenic and velogenic NDV infections have been 
+eradicated in poultry.
+21Introduction and Information
+22
+Framework for Preparedness 
+and Response
+ND RESPONSE PLAN
+
+Foundation of Preparedness and Response
+Successful emergency preparedness for and 
+response to ND requires integration between the 
+National Response Framework (NRF), National 
+Incident Management System (NIMS), and National 
+Animal Health Emergency Management System 
+(NAHEMS).
+23Framework for Preparedness and Response
+
+National Response Framework
+The NRF is a guide to how the Nation conducts all-
+hazards response.
+It describes specific authorities and establishes a 
+comprehensive approach for responding to domestic 
+incidents that range from serious but purely local 
+events to large-scale terrorist attacks or catastrophic 
+natural disasters. 
+The NRF is available at 
+www.fema.gov/national-response-framework.
+24Framework for Preparedness and Response
+National Incident Management System
+ NIMS is a companion document to the NRF.
+ It provides a systematic, nationwide, proactive approach 
+guiding departments and agencies at all levels of 
+government, the private sector, and non-governmental 
+organizations.
+ Its goal is to help these organizations work seamlessly to 
+prep
+Text Len: 1600
+--------------------------------------------------------------------------------
+ Response
+National Incident Management System
+ NIMS is a companion document to the NRF.
+ It provides a systematic, nationwide, proactive approach 
+guiding departments and agencies at all levels of 
+government, the private sector, and non-governmental 
+organizations.
+ Its goal is to help these organizations work seamlessly to 
+prepare for, prevent, respond to, recover from, and 
+mitigate the effects of incidents, regardless of cause, size, 
+location, or complexity, to reduce the loss of life, liberty, 
+property, and harm to the environment. 
+ NIMS information is available at 
+www.fema.gov/national-incident-management-system.
+25Framework for Preparedness and Response
+NIMS Key Components
+Preparedness
+Communications and information management
+Resource management
+Scalability 
+Ongoing management and maintenance
+26Framework for Preparedness and Response
+National Animal Health 
+Emergency Management System
+APHIS and its stakeholders established NAHEMS to 
+provide a functional framework for responding to 
+foreign animal disease (FAD) incidents through 
+NAHEMS Guidelines, disease response plans (such as 
+this ND-specific plan), SOPs, and other associated 
+documents. 
+The purpose of the NAHEMS Guidelines is to ensure 
+a successful response commensurate with the 
+severity of the outbreak.
+27Framework for Preparedness and Response
+FAD PReP offers…
+competent veterinary guidance on cleaning and 
+disinfection, disposal, mass depopulation, and other 
+activities;
+information on disease control and erad
+Text Len: 1521
+--------------------------------------------------------------------------------
+ to ensure 
+a successful response commensurate with the 
+severity of the outbreak.
+27Framework for Preparedness and Response
+FAD PReP offers…
+competent veterinary guidance on cleaning and 
+disinfection, disposal, mass depopulation, and other 
+activities;
+information on disease control and eradication 
+strategies and principles;
+guidance on health, safety, and PPE issues;
+biosecurity information and site-specific 
+management strategies; and
+training and educational resources.
+28Framework for Preparedness and Response
+USDA Roles and Responsibilities
+As the primary Federal agency for incident 
+management during an FAD event of livestock or 
+poultry, USDA APHIS 
+– coordinates Incident Management Teams (IMTs), 
+– manages incident response, 
+– manages public messages, and 
+– takes measures to control and eradicate ND.
+29Framework for Preparedness and Response
+Measures to Control and Eradicate ND
+Active surveillance for additional cases
+Quarantine and movement control
+Epidemiologic investigations
+Appraisal and compensation
+Depopulation (euthanasia) of affected poultry
+Carcass disposal
+Cleaning and disinfection
+Diagnostics 
+Emergency vaccination (may be used in some cases)
+30Framework for Preparedness and Response
+Requesting Support
+During the course of an ND outbreak response, USDA 
+may request support as necessary from other Federal 
+agencies. 
+If the President declares an emergency or major 
+disaster, or if the Secretary of Agriculture requests 
+
+Text Len: 1482
+--------------------------------------------------------------------------------
+Emergency vaccination (may be used in some cases)
+30Framework for Preparedness and Response
+Requesting Support
+During the course of an ND outbreak response, USDA 
+may request support as necessary from other Federal 
+agencies. 
+If the President declares an emergency or major 
+disaster, or if the Secretary of Agriculture requests 
+the Department of Homeland Security (DHS) lead 
+coordination, the Secretary of Homeland Security 
+and DHS assume the lead for coordinating Federal 
+resources. 
+USDA maintains the lead of overall incident 
+management.
+31Framework for Preparedness and Response
+32
+Preparedness and Response
+ND RESPONSE PLAN
+
+Domestic Activities
+USDA has a variety of 
+ongoing preparedness 
+and response activities 
+with respect to ND. 
+The following list is a 
+selection of ongoing 
+USDA activities:
+ National Import Export 
+Services (NIES)
+ Smuggling Interdiction 
+and Trade Compliance 
+(SITC)
+ Emergency veterinary 
+assistance
+33Preparedness and Response
+International Activities
+34
+Preparedness and Response
+In addition to domestic 
+activities, the USDA also 
+has ongoing international 
+activities to bolster ND 
+preparedness planning 
+and response capabilities:
+ International 
+coordination
+ Emergency veterinary 
+assistance
+USDA APHIS Organizational Strategy
+APHIS has adopted NIMS and Incident Command 
+System (ICS) organizational structures to manage the 
+response to an
+The ICS is designed to enable efficient and effective 
+domestic incident management by integrating 
+facilities, equipment, personnel, procedures, and 
+communications operating
+Text Len: 1575
+--------------------------------------------------------------------------------
+
+assistance
+USDA APHIS Organizational Strategy
+APHIS has adopted NIMS and Incident Command 
+System (ICS) organizational structures to manage the 
+response to an
+The ICS is designed to enable efficient and effective 
+domestic incident management by integrating 
+facilities, equipment, personnel, procedures, and 
+communications operating within a common 
+organizational structure.
+35Preparedness and Response
+APHIS Incident Management Structure
+The APHIS Administrator is the Federal executive 
+responsible for implementing APHIS policy during an 
+ND outbreak.
+The APHIS Administrator will delegate much of the 
+actual multiagency coordination (MAC) functions to 
+the Veterinary Services (VS) Deputy Administrator, 
+who is the Chief Veterinary Officer (CVO) of the 
+United States, and the APHIS Emergency Management 
+Leadership Council (EMLC).
+36Preparedness and Response
+APHIS Incident Management Structure, continued
+The VS Deputy Administrator and the EMLC will 
+establish an APHIS Incident Coordination Group (ICG) 
+to oversee the staff functions associated with the 
+incident at the APHIS headquarters level.
+The APHIS ICG will work closely with the personnel in 
+charge of establishing operations for the incident 
+response at the Area Command (AC) or Incident 
+Command Post (ICP) in the field and coordinate with 
+the APHIS MAC Group.
+37Preparedness and Response
+Multiagency Coordination
+In the event of an ND outbreak, the EMLC typically 
+serves as the APHIS MAC Group, unless the members 
+decide to transfer responsibility for a specific 
+incident.
+The APHIS MAC Group structure is adaptable
+Text Len: 1607
+--------------------------------------------------------------------------------
+
+the APHIS MAC Group.
+37Preparedness and Response
+Multiagency Coordination
+In the event of an ND outbreak, the EMLC typically 
+serves as the APHIS MAC Group, unless the members 
+decide to transfer responsibility for a specific 
+incident.
+The APHIS MAC Group structure is adaptable and 
+easily expands and contracts to provide flexibility.
+The MAC Group—formed if the ND response needs 
+more support—establishes supportive relationships 
+among the agencies preparing for and responding to 
+an ND outbreak.
+38Preparedness and Response
+APHIS Incident Coordination Group
+APHIS ICG responsibilities in an ND outbreak include:
+– providing guidance to ensure responder and public health 
+and safety,
+– supporting ICP(s) and AC(s),
+– assisting in coordinating resources and integrating 
+response organizations into the ICS, and
+– providing information to the Joint Information Center (JIC) 
+for use in media and stakeholder briefings.
+39Preparedness and Response
+APHIS Multiagency Coordination Structures and APHIS Emergency Operations 
+Center: Relationship to Incident Management Team (Assuming Single Incident)
+40Preparedness and Response
+
+41Preparedness and Response
+APHIS Multiagency Coordination Structures and APHIS Emergency Operations
+Center: Relationship to Multiple Incident Management Team Structures
+(Assuming Multiple Incidents and Unified Area Command)
+
+APHIS Incident Management Levels
+APHIS uses a three-level system of emergency 
+response types .
+The levels range from Level III, which has the lowest 
+significance, to Level I, which is an event of national 
+significance. 
+The levels are used both within APHIS and externally 
+Text Len: 1643
+--------------------------------------------------------------------------------
+
+
+APHIS Incident Management Levels
+APHIS uses a three-level system of emergency 
+response types .
+The levels range from Level III, which has the lowest 
+significance, to Level I, which is an event of national 
+significance. 
+The levels are used both within APHIS and externally 
+to communicate the resource requirements for an 
+event or incident. 
+42Preparedness and Response
+Incident Management Levels
+43Preparedness and Response
+
+National Animal Health Emergency Response Corps
+ NAHERC assists and augments 
+Federal and State response to 
+domestic and international animal 
+disease outbreaks, threats, or 
+natural disasters.
+ NAHERC is composed of 
+veterinarians and veterinary 
+technicians who volunteer to 
+become temporary Federal 
+employees in the event of a national 
+animal health emergency.
+44Preparedness and Response
+
+Diagnostic Resources and Laboratory Support
+National Veterinary Services Laboratories
+The National Veterinary Services Laboratories (NVSL) 
+is the official reference laboratory for FAD diagnostic 
+testing and study in the United States.
+– The NVSL provides all confirmatory testing for ND on all 
+specimens found presumptively positive at a National 
+Animal Health Laboratory Network (NAHLN) laboratory or 
+other USDA-approved laboratory. 
+– The NVSL has two locations for FAD diagnostic testing:
+o Ames, IA (NVSL-Ames).
+o Foreign Animal Disease Diagnostic Laboratory (FADDL), Plum 
+Island, NY (NVSL-FADDL).
+45Preparedness and Response
+Diagnostic Resources and Laboratory Support
+National Animal Health Laboratory Network
+NAHLN consists of more than 60 laboratories
+Text Len: 1601
+--------------------------------------------------------------------------------
+ for FAD diagnostic testing:
+o Ames, IA (NVSL-Ames).
+o Foreign Animal Disease Diagnostic Laboratory (FADDL), Plum 
+Island, NY (NVSL-FADDL).
+45Preparedness and Response
+Diagnostic Resources and Laboratory Support
+National Animal Health Laboratory Network
+NAHLN consists of more than 60 laboratories and 
+coordinates the veterinary diagnostic laboratory 
+capacity of State animal health laboratories and their 
+extensive infrastructure, including facilities, 
+equipment, and professional expertise.
+Of these laboratories, over 50 are currently approved 
+to perform ND testing diagnostics.
+– The NAHLN provides a means for early detection of ND, 
+rapid response through surge capacity to test outbreak 
+samples, and recovery by the capability to test large 
+numbers of samples to show freedom from ND. 
+46Preparedness and Response
+47
+Response Goals and Strategy
+ND RESPONSE PLAN
+
+Response Goals
+The goals of an ND response are to:
+– detect, control, and contain ND in domestic poultry as 
+quickly as possible;
+– eradicate ND using strategies that seek to protect public 
+health and the environment, and stabilize animal 
+agriculture, the food supply, and the economy; and
+– provide science- and risk-based approaches and systems to 
+facilitate continuity of business for non-infected animals 
+and non-contaminated animal products.
+48Response Goals and Strategy
+Critical Activities
+ Public awareness campaign
+ Swift imposition of effective quarantine and movement controls
+ Rapid diagnosis and reporting
+ Epidemiological investigation and tracing
+ Increased surveillance
+ Continuity of business measures for non-infected premises and 
+non-contaminated animal products 
+
+Text Len: 1674
+--------------------------------------------------------------------------------
+ products.
+48Response Goals and Strategy
+Critical Activities
+ Public awareness campaign
+ Swift imposition of effective quarantine and movement controls
+ Rapid diagnosis and reporting
+ Epidemiological investigation and tracing
+ Increased surveillance
+ Continuity of business measures for non-infected premises and 
+non-contaminated animal products 
+ Biosecurity measures
+ Mass depopulation and euthanasia, potentially including 
+preemptive depopulation
+ Effective and appropriate disposal procedures
+ Cleaning and disinfection measures
+ Emergency vaccination (as the response strategy indicates)
+49Response Goals and Strategy
+Epidemiological Principles
+Three basic epidemiological principles form the 
+foundation to contain, control, and eradicate ND in 
+the U.S. domestic poultry population:
+– Prevent contact between the ND virus and susceptible 
+poultry.
+– Stop the production of ND virus by infected or exposed 
+poultry.
+– Increase the disease resistance of susceptible poultry to 
+the ND virus.
+50Response Goals and Strategy
+Critical Activities in the First 72 Hours of U.S. ND 
+Response
+51Response Goals and Strategy
+
+Response Strategy for Control 
+and Eradication of ND in Poultry
+The United States’ primary control and eradication 
+strategy for ND in poultry is stamping-out.
+If the spread of ND outpaces the resources for 
+stamping-out, or if other factors direct the response 
+away from a stamping-out 
+strategy alone, emergency 
+vaccination strategies 
+may be considered.
+52
+Response Goals and Strategy
+Stamping-Out
+Definition
+“Stamping-out” is defined in the OIE Terrestrial Animal 
+Health Code
+Text Len: 1619
+--------------------------------------------------------------------------------
+ the resources for 
+stamping-out, or if other factors direct the response 
+away from a stamping-out 
+strategy alone, emergency 
+vaccination strategies 
+may be considered.
+52
+Response Goals and Strategy
+Stamping-Out
+Definition
+“Stamping-out” is defined in the OIE Terrestrial Animal 
+Health Code as the “killing of animals which are 
+affected and those suspected of being affected in the 
+herd and, where appropriate, those in other herds 
+which have been exposed to infection by direct animal 
+to animal contact, or by indirect contact with the causal 
+pathogen; this includes all susceptible animals, 
+vaccinated or unvaccinated, on infected 
+establishments.”
+53Response Goals and Strategy
+Stamping-Out
+Critical Goals
+ Within 24 hours of (or as soon as possible after) a premises 
+being classified as an Infected Premises (IP), infected poultry 
+will be depopulated in the quickest, safest, and most humane 
+way possible. In many cases, poultry on Contact Premises (CP) 
+may also be depopulated as soon as possible.
+ Where resources are limited, premises will be prioritized so 
+that those with the highest potential for active ND spread are 
+‘stamped-out’ first.
+ Based on the epidemiology of the outbreak, prioritizing the 
+poultry to depopulate first may be necessary.
+ Public concerns about stamping-out require a well-planned 
+and proactive public relations and liaison campaign. 
+Stakeholders, the public, and the international community 
+must be involved.
+54Response Goals and Strategy
+Zones and Areas in Relation to Stamping-Out
+55
+Response Goals and Strategy
+
+Text Len: 1573
+--------------------------------------------------------------------------------
+ depopulate first may be necessary.
+ Public concerns about stamping-out require a well-planned 
+and proactive public relations and liaison campaign. 
+Stakeholders, the public, and the international community 
+must be involved.
+54Response Goals and Strategy
+Zones and Areas in Relation to Stamping-Out
+55
+Response Goals and Strategy
+Assessing a Possible Outbreak
+ During the investigation of premises suspected of having 
+ND, animal health responders use clinical signs, history, 
+and professional judgment to determine the likelihood 
+that ND exists on the premises. This assessment includes
+– a history of clinical and epidemiological findings,
+– results of physical examinations,
+– necropsy findings,
+– specimen collection and submission to an approved laboratory,
+– reporting, and
+– initiating appropriate control measures.
+56Response Goals and Strategy
+Authorization for Response 
+and Associated Activities
+When the criteria for a presumptive ND case have been 
+met, the APHIS Administrator or VS Deputy 
+Administrator (Chief Veterinary Officer [CVO] of the 
+United States) can authorize APHIS personnel—in 
+conjunction with State, Tribal, and IC personnel—to 
+initiate depopulation, cleaning and disinfection 
+procedures of the index case and investigation of 
+Contact Premises (CP).
+57Response Goals and Strategy
+Management of Incident
+ The outbreak response effort should be implemented 
+through ICS with an appropriate span of control and 
+delegation of authority.
+ An Incident Commander should be identified and an ICP 
+established.
+ In-State resources (whether Federal, State, Tribal, local, 
+or privately owned) should be used to manage a local 
+response.
+ Out-of-State resources may be used
+Text Len: 1708
+--------------------------------------------------------------------------------
+ an appropriate span of control and 
+delegation of authority.
+ An Incident Commander should be identified and an ICP 
+established.
+ In-State resources (whether Federal, State, Tribal, local, 
+or privately owned) should be used to manage a local 
+response.
+ Out-of-State resources may be used to support the State 
+impacted by the outbreak. 
+ The USDA will notify and coordinate with public health 
+agencies in response to ND in poultry.
+58Response Goals and Strategy
+Factors Influencing Response
+Consequences of the ND outbreak
+Acceptance
+Scale of the outbreak
+Rate of outbreak spread
+Veterinary countermeasures available
+Resources available to implement response 
+strategies
+59Response Goals and Strategy
+ND-Free Status
+ The criteria needed for ND-free status as described in 
+Article 10.9.2 of the OIE Terrestrial Animal Health Code 
+(2013). :
+ It has been shown that NDV infection in poultry has not 
+been present in the country, zone or compartment for 
+the past 12 months, based on surveillance in accordance 
+with Articles 10.9.22. to 10.9.26 
+ If infection has occurred in poultry in a previously free 
+country, zone, or compartment, ND free status can be 
+regained three months after a stamping-out policy 
+(including disinfection of all affected establishments) is 
+applied, providing that surveillance in accordance with 
+Articles 10.9.22. to 10.9.26. has been carried out during 
+that three-month period.
+60Response Goals and Strategy
+61
+Critical Activities and Tools
+ND
+Text Len: 1494
+--------------------------------------------------------------------------------
+
+regained three months after a stamping-out policy 
+(including disinfection of all affected establishments) is 
+applied, providing that surveillance in accordance with 
+Articles 10.9.22. to 10.9.26. has been carried out during 
+that three-month period.
+60Response Goals and Strategy
+61
+Critical Activities and Tools
+ND RESPONSE PLAN
+
+Suspect Case
+Definition
+Domesticated bird or flock having clinical signs 
+consistent with virulent Newcastle disease virus.
+62Critical Activities and Tools
+
+Presumptive Positive Case
+Definition
+A suspect case that has either:
+– Positive screening test (rRT-PCR) for Newcastle disease 
+virus (APMV-1); OR
+– Epidemiological information indicating exposure to 
+virulent Newcastle disease virus.
+63
+Critical Activities and Tools
+Confirmed Positive Case
+Definition
+ Domesticated bird or flock from which:
+– Newcastle disease virus (APMV-1) has been isolated and 
+identified at the NVSL or laboratory designated by the Secretary 
+of Agriculture; AND
+– The Newcastle disease virus (APMV-1) has an ICPI in day-old 
+chicks (Gallus gallus) of 0.7 or greater; OR
+– Presumptive positive and presence of multiple basic amino acids 
+in the virus (either directly or by deduction) at the C-terminus of 
+the F2 protein and phenylalanine at residue 117, which is the N-
+terminus of the F1 protein. 
+o Failure to demonstrate the characteristic pattern of amino acid 
+residues as described above would require virus isolation and further 
+characterization by an ICPI test.
+64Critical Activities and Tools
+Surveillance
+The following are goals in
+Text Len: 1562
+--------------------------------------------------------------------------------
+the F2 protein and phenylalanine at residue 117, which is the N-
+terminus of the F1 protein. 
+o Failure to demonstrate the characteristic pattern of amino acid 
+residues as described above would require virus isolation and further 
+characterization by an ICPI test.
+64Critical Activities and Tools
+Surveillance
+The following are goals in an ND outbreak:
+ To implement surveillance plans within 48 hours of the 
+confirmation of an outbreak.
+ To implement a surveillance plan that will (1) define the present 
+extent of ND and (2) detect unknown IP quickly.
+ To have the surveillance plan consider the susceptible wild bird 
+population in the area, to coordinate with APHIS, U.S. Department 
+of the Interior, State wildlife agencies, and State agriculture 
+departments to perform appropriate ND surveillance in these 
+populations.
+ To provide complete surveillance data summaries and analysis at 
+intervals as specified by IC.
+ To develop effective surveillance plans that can achieve desired 
+outcomes by leveraging available resources, satisfying jurisdictional 
+requirements, and implementing continuity of business measures
+65Critical Activities and Tools
+Surveillance
+The following are goals in an ND outbreak:
+ Detect ND infected premises during an outbreak.
+ Determine the size and extent of an ND outbreak.
+ Supply information to evaluate outbreak control 
+activities.
+ Provide information for poultry and product movement 
+within the CA.
+ Provide information for poultry and product movement 
+out of the CA.
+ Prove disease freedom (DF) and regain disease-free 
+status after eradication of the outbreak.
+66Critical Activities and Tools
+Surveillance Planning for ND Outbreak
+• A surveillance plan
+Text Len: 1712
+--------------------------------------------------------------------------------
+
+ Provide information for poultry and product movement 
+within the CA.
+ Provide information for poultry and product movement 
+out of the CA.
+ Prove disease freedom (DF) and regain disease-free 
+status after eradication of the outbreak.
+66Critical Activities and Tools
+Surveillance Planning for ND Outbreak
+• A surveillance plan indicates the frequency, number, 
+and distribution of poultry and premises to be 
+sampled. This requires tradeoffs be made among six 
+surveillance parameters:
+– design (threshold) prevalence,
+– confidence level,
+– types of tests,
+– sampling frequency,
+– risk-based sampling, and
+– sampling scheme.
+67
+Critical Activities and Tools
+Surveillance Objectives by Time Period
+ The initial 72 hours post-ND outbreak declaration. 
+Detect existing infected flocks and premises as quickly as possible.
+ The control and eradication period (from initial 72-hour period until 
+last case is detected and eradicated).
+Detect infected premises so that control measures can be put in 
+place.
+Provide evidence that premises are free of ND, thereby permitting 
+poultry and poultry product movements in the CA.
+Evaluate outbreak management control activities.
+Provide evidence that disease is absent from the free area to 
+enable unrestricted poultry and poultry product movement.
+ Post eradication.
+68Critical Activities and Tools
+Diagnostics
+During a suspected or actual ND outbreak, the key 
+goals of response are to:
+– meet the surge requirements for diagnostic testing at 
+specific intervals, starting at time zero and at 24-hour 
+intervals as the response escalates, and 
+– report all diagnostic test results to appropriate personnel 
+and information management systems within 12 hours of 
+diagnostic
+Text Len: 1721
+--------------------------------------------------------------------------------
+�During a suspected or actual ND outbreak, the key 
+goals of response are to:
+– meet the surge requirements for diagnostic testing at 
+specific intervals, starting at time zero and at 24-hour 
+intervals as the response escalates, and 
+– report all diagnostic test results to appropriate personnel 
+and information management systems within 12 hours of 
+diagnostic test completion.
+The FAD Investigation Manual (FAD PReP Manual 4-0) offers 
+detailed information on diagnostic sample collection, diagnostic 
+testing, and reporting.
+69Critical Activities and Tools
+Diagnostic Flow for FAD Investigations for ND
+FAD Investigations
+70Critical Activities and Tools
+Diagnostic Flow for FAD Investigations for ND
+Outbreak Surveillance Testing
+71Critical Activities and Tools
+
+Surge Capacity
+ Surge capacity may be needed in an ND outbreak. 
+Additional resources, such as personnel and materials, 
+will be needed for sample collection. 
+– Additional capacity may also be required for laboratory sample 
+testing. 
+ Surge capacity can help facilitate a rapid response and 
+continuity of business for non-infected premises. 
+ In the event that the State NAHLN laboratory and NVSL-
+Ames are overwhelmed by the diagnostic testing 
+requirements, NAHLN labs from across the country will 
+provide surge capacity for diagnostic testing.
+72Preparedness and Response
+Reporting and Notification
+Cases considered a presumptive positive for ND at 
+NVSL-Ames, based on the current case definition, 
+will be reported to the affected States, other States, 
+Tribal nations, industry, other Federal agencies, 
+trading partners, and the OIE.
+This includes breeder and commercial poultry flocks, 
+domestic waterfowl and
+Text Len: 1694
+--------------------------------------------------------------------------------
+ a presumptive positive for ND at 
+NVSL-Ames, based on the current case definition, 
+will be reported to the affected States, other States, 
+Tribal nations, industry, other Federal agencies, 
+trading partners, and the OIE.
+This includes breeder and commercial poultry flocks, 
+domestic waterfowl and upland game birds, backyard 
+flocks, and live bird marketing system (LBMS).
+Appropriate Federal-State-Tribal-industry response 
+and containment measures are initiated during ND 
+investigations.
+73Critical Activities and Tools
+Example of Zones, Areas, 
+and Premises in ND Outbreak Response
+74
+Critical Activities and Tools
+Epidemiological Investigation
+Epidemiological investigation and movement tracing 
+during an outbreak are critical in controlling and 
+eradicating ND. 
+In an ND outbreak, the goals are to:
+– within 6 hours of identifying potential IP or CP through 
+tracing activities, assign a premises classification and a 
+priority of investigation; 
+– within 24 hours of identifying the IP or initial CP , identify all 
+additional CP; and
+– within 96 hours of identifying the index case, characterize 
+the nature of the ND outbreak, identify the risk factors for 
+transmission, and develop mitigation strategies.
+75Critical Activities and Tools
+Tracing
+ One of the single most important and urgent veterinary 
+activities during an ND outbreak is to rapidly and 
+diligently trace-back and trace-forward movements from 
+an IP .
+ This tracing will aid in the control of the spread of ND 
+virus and limit the impact of the outbreak.
+ Tracing should cover all movements from the premises, 
+including susceptible
+Text Len: 1621
+--------------------------------------------------------------------------------
+ urgent veterinary 
+activities during an ND outbreak is to rapidly and 
+diligently trace-back and trace-forward movements from 
+an IP .
+ This tracing will aid in the control of the spread of ND 
+virus and limit the impact of the outbreak.
+ Tracing should cover all movements from the premises, 
+including susceptible poultry, non-susceptible species, 
+animal products, vehicles, crops and grains, and people.
+ Tracing also includes consideration of all potential modes 
+of transmission and possible contact with wild birds.
+76Critical Activities and Tools
+Communication
+ Establish a network of stakeholders and systems for 
+communication prior to an incident or outbreak.
+ Brief the media, public, industry, Congress, trading partners, 
+and others on the ND outbreak status and the actions being 
+taken to control and eradicate the disease.
+ Coordinate with Federal, State, and local agencies, Tribal 
+entities, producer groups, and Land Grant University-based 
+Cooperative Extension Services to ensure consistent 
+messaging regarding animal health, public health, and food 
+safety.
+ Assure consumers that USDA is working on animal health 
+issues, in an informed and timely manner, along with HHS, 
+which is working on human health issues.
+77Critical Activities and Tools
+Communication Objectives
+All ND communications must:
+– furnish accurate, timely, and consistent information;
+– maintain credibility and instill public confidence in the 
+government’s ability to respond to an outbreak;
+– minimize public panic and fear; and
+– address rumors, inaccuracies, 
+and misperceptions as quickly 
+as possible.
+78
+Critical Activities and Tools
+Key Communication Messages
+For consumers:
+
+Text Len: 1689
+--------------------------------------------------------------------------------
+, timely, and consistent information;
+– maintain credibility and instill public confidence in the 
+government’s ability to respond to an outbreak;
+– minimize public panic and fear; and
+– address rumors, inaccuracies, 
+and misperceptions as quickly 
+as possible.
+78
+Critical Activities and Tools
+Key Communication Messages
+For consumers:
+– ND is not a food-safety issue.
+– Properly prepared eggs and poultry are safe to eat.
+– We are responding quickly and decisively to eradicate the 
+disease.
+For producers:
+– You are the best protection your birds have.
+– Protect your flocks with good biosecurity practices.
+– Know the signs of ND, and be vigilant in reporting signs of 
+illness.
+79Critical Activities and Tools
+Health and Safety and 
+Personal Protective Equipment
+During an ND outbreak, responders 
+are exposed to many hazards.
+In an ND response, personal 
+protection and safety is particularly 
+essential to protect individuals from 
+ND infection.
+Those at increased risk for ND 
+infection are personnel in prolonged 
+and direct contact with infected 
+birds in an enclosed setting.
+80
+Critical Activities and Tools
+Biosecurity
+An ND outbreak will have a serious impact on the 
+agricultural industry.
+Strict biosecurity measures need to be implemented 
+immediately to prevent or slow the spread of ND. 
+Biosecurity procedures should be implemented 
+within 24 hours of the identification of an index ND 
+case.
+Because some people in contact with ND virus may 
+develop conjunctivitis or a mild “flu-like” illness, 
+USDA will coordinate with public health agencies
+Text Len: 1574
+--------------------------------------------------------------------------------
+ to prevent or slow the spread of ND. 
+Biosecurity procedures should be implemented 
+within 24 hours of the identification of an index ND 
+case.
+Because some people in contact with ND virus may 
+develop conjunctivitis or a mild “flu-like” illness, 
+USDA will coordinate with public health agencies to 
+minimize risks to responders and others exposed.
+81Critical Activities and Tools
+ND Biosecurity Hazards and Appropriate 
+Biosecurity Measures
+82Critical Activities and Tools
+
+Biosecurity
+Closed Flocks
+To the fullest extent possible, close the flock to the 
+introduction of new poultry (with population 
+increases occurring only from offspring).
+If closing a flock is not possible, isolate newly 
+purchased poultry (from the 
+healthiest possible sources) and those returning 
+from existing flocks for 30 days or more.
+Vaccination status of introduced poultry should be
+known.
+83Critical Activities and Tools
+Quarantine and Movement Control
+ By restricting the movement of infected animals, animal 
+products, and contaminated fomites, quarantine and 
+movement control can be a powerful tool in controlling 
+and eradicating an ND outbreak.
+ Movement control is accomplished through a permit 
+system that allows entities to 
+make necessary movements 
+without creating an 
+unacceptable risk of disease 
+spread. 
+– EMRS  2.0 is the system of
+record for these movements.
+84
+Critical Activities and Tools
+Inactivation of AI in Eggs, 
+Egg Products, and Meat
+85
+Critical Activities and Tools
+Inactivation of Newcastle Disease in Eggs and Egg Products
+Inactivation of Newcastle Disease in Meat
+Continuity of Business
+�
+Text Len: 1616
+--------------------------------------------------------------------------------
+ disease 
+spread. 
+– EMRS  2.0 is the system of
+record for these movements.
+84
+Critical Activities and Tools
+Inactivation of AI in Eggs, 
+Egg Products, and Meat
+85
+Critical Activities and Tools
+Inactivation of Newcastle Disease in Eggs and Egg Products
+Inactivation of Newcastle Disease in Meat
+Continuity of Business
+ Continuity of business is the management of non-IP and non-
+contaminated animal products in the event of an ND 
+outbreak.
+ This helps agriculture and food industries facilitate routine 
+business, or a return to business, during a disease response, 
+while the risk of disease spread and threat to public health is 
+effectively managed.
+86
+Critical Activities and Tools
+Mass Depopulation and Euthanasia
+Poultry on an IP will be depopulated as soon as 
+possible after declaration of an ND outbreak.
+Poultry on CP may also be depopulated as soon as 
+possible after the premises are classified as CP.
+The NAHEMS Guidelines: Mass Depopulation and 
+Euthanasia contains additional information on 
+euthanasia and mass depopulation.
+87Critical Activities and Tools
+Disposal
+ Appropriate disposal of animal carcasses and materials is a critical 
+component of a successful ND response.
+ The Disposal SOP discusses how to dispose of thousands of bird 
+carcasses, contaminated and potentially contaminated materials, 
+poultry products, items that cannot be properly cleaned and 
+disinfected (such as manure, litter, and bedding), products of the 
+response effort (such as PPE), and products of vaccination 
+response. 
+ Disposal will occur as soon as possible after flock depopulation.
+The NA
+Text Len: 1603
+--------------------------------------------------------------------------------
+asses, contaminated and potentially contaminated materials, 
+poultry products, items that cannot be properly cleaned and 
+disinfected (such as manure, litter, and bedding), products of the 
+response effort (such as PPE), and products of vaccination 
+response. 
+ Disposal will occur as soon as possible after flock depopulation.
+The NAHEMS Guidelines: Disposal also contains further guidance on 
+disposal activities.
+88Critical Activities and Tools
+Cleaning and Disinfection
+89
+Because of ND’s high survival rate on both 
+organic and inorganic materials, aggressive 
+cleaning and disinfection practices are required 
+for control and eradication.
+ Cleaning and disinfection are to be conducted 
+within 48 hours of the disposal of depopulated 
+poultry.
+The NAHEMS Guidelines: Cleaning and Disinfection 
+contains additional information on cleaning and 
+disinfection.
+Critical Activities and Tools
+Vaccination 
+Vaccination using lentogenic (low virulence) vaccines 
+is widely practiced in the U.S. poultry industry, 
+particularly in broiler breeders, layers, and turkeys.
+Vaccination does prevent clinical signs, and can 
+thereby mitigate production losses from low 
+virulence strains of APMV-1. 
+– However, poultry will still shed the virus, and typical 
+lentogenic vaccination may not be sufficient to protect 
+poultry from a velogenic challenge.
+90Critical Activities and Tools
+Deciding to Vaccinate for ND
+ Probability that the disease can or 
+cannot be rapidly contained;
+ Proximity of high-value genetic 
+birds to the rapidly spreading 
+disease focal point;
+�
+Text Len: 1567
+--------------------------------------------------------------------------------
+ogenic vaccination may not be sufficient to protect 
+poultry from a velogenic challenge.
+90Critical Activities and Tools
+Deciding to Vaccinate for ND
+ Probability that the disease can or 
+cannot be rapidly contained;
+ Proximity of high-value genetic 
+birds to the rapidly spreading 
+disease focal point;
+ Risk of infection of valuable, rare, 
+or endangered nondomestic 
+species;
+ Poultry density in an area;
+ Increased risk of introduction due 
+to the presence of ND in 
+neighboring countries;
+ The extent to which disease is 
+found in waterfowl, other wild 
+birds, backyard flocks, or in live 
+bird markets;
+ Availability of physical and human 
+resources;
+ Sociopolitical factors (public 
+confidence in commercial poultry 
+products);
+ Impact on international trade; and
+ Economic consequences of failure 
+to control the disease.
+91
+The decision for emergency vaccination will be based on:
+Critical Activities and Tools
+Examples of Containment
+Vaccination Zones
+92
+Critical Activities and Tools
+
+Examples of Containment
+Vaccination Zones, continued
+93
+Critical Activities and Tools
+Examples of Protection Vaccination Zones
+Typically, a PVZ would observed with stamping-out modified with emergency 
+vaccination to live.
+94Critical Activities and Tools
+VP is typically a secondary designation to another premises designation and is 
+only used if vaccination is employed in an outbreak.
+Examples of Vaccinated Premises
+95Critical Activities and Tools
+Wildlife Management and Vector Control
+Wildlife surveillance and management must be 
+conducted by persons trained and proficient in 
+wildlife health, capture, collection
+Text Len: 1628
+--------------------------------------------------------------------------------
+94Critical Activities and Tools
+VP is typically a secondary designation to another premises designation and is 
+only used if vaccination is employed in an outbreak.
+Examples of Vaccinated Premises
+95Critical Activities and Tools
+Wildlife Management and Vector Control
+Wildlife surveillance and management must be 
+conducted by persons trained and proficient in 
+wildlife health, capture, collection, biosecurity, and 
+restraint.
+ND can be transmitted mechanically by mice, 
+vultures, and other vectors. 
+Appropriate biosecurity measures should be in place 
+during an ND outbreak to ensure that mechanical 
+vectors do not have contact with infected flocks or 
+other infected material.
+96Critical Activities and Tools
+Appraisal and Compensation
+ Indemnity is a key component of APHIS’s disease control 
+programs in that the promise of fair compensation for 
+losses helps to ensure cooperation from the owners of 
+affected poultry.
+ In an ND outbreak, ordering the destruction of poultry on 
+premises that are epidemiologically linked to an IP may 
+be necessary to ensure that the ND does not spread. 
+ The Secretary of Agriculture has the authority to pay up 
+to 100 percent of the fair market value of the poultry, as 
+well as for disposal, cleaning, and disinfection.
+97Critical Activities and Tools
+Finance
+During an ND outbreak, funding may be rapidly 
+required. For responding to specific emergency 
+situations, VS has access to a variety of sources for 
+funding. The two most common sources are the 
+APHIS Contingency Fund (CF) and the Commodity 
+Credit Corporation (CCC).
+98Critical Activities and Tools
+99
+Recovery after an Outbreak
+
+Text Len: 1646
+--------------------------------------------------------------------------------
+ an ND outbreak, funding may be rapidly 
+required. For responding to specific emergency 
+situations, VS has access to a variety of sources for 
+funding. The two most common sources are the 
+APHIS Contingency Fund (CF) and the Commodity 
+Credit Corporation (CCC).
+98Critical Activities and Tools
+99
+Recovery after an Outbreak
+ND RESPONSE PLAN
+
+Surveillance for Recognition 
+of Disease Freedom
+Surveillance is fundamental in proving DF to regain 
+disease-free status after an ND outbreak.
+The OIE does not grant official recognition for ND-
+freedom, but as a member of the OIE, the United 
+States can self-declare a compartment, zone, or the 
+country free from certain OIE-listed diseases such as 
+ND.
+100Recovery after an Outbreak
+Release of Quarantine and 
+Movement Control
+Quarantine and movement control restrictions are 
+maintained until at least 21 days have elapsed since 
+the decontamination of all confirmed IP and negative 
+results of surveillance activities.
+101Recovery after an Outbreak
+
+Repopulation
+Following official approval of cleaning and 
+disinfection procedures, IP will remain vacant for a 
+minimum of 21 days to ensure that any residual virus 
+has been eliminated. 
+This period may be decreased if external heat is used 
+to raise the temperature of the houses sufficiently to 
+inactivate any residual virus in a shorter period.
+Source flocks for all introduced poultry must test 
+negative through rRT-PCR and other diagnostics, as 
+determined by IC.
+102Recovery after an Outbreak
+103
+Further Information
+FAD PReP Supporting Documents and Materials
+Str
+Text Len: 1579
+--------------------------------------------------------------------------------
+ temperature of the houses sufficiently to 
+inactivate any residual virus in a shorter period.
+Source flocks for all introduced poultry must test 
+negative through rRT-PCR and other diagnostics, as 
+determined by IC.
+102Recovery after an Outbreak
+103
+Further Information
+FAD PReP Supporting Documents and Materials
+Strategic Plans—Concept of Operations
+National Animal Health Emergency Management 
+System (NAHEMS) Guidelines
+Industry Manuals
+Disease Response Plans
+Standard Operating Procedures (SOPs) for Critical 
+Activities
+Continuity of Business Plans 
+– Commodity specific plans developed by public-private-
+academic partnerships
+Ready Reference Guides
+104
+Key Abbreviations
+APMV-1 avian paramyxovirus 
+serotype-1
+FAD foreign animal disease
+FAD 
+PReP
+Foreign Animal Disease 
+Preparedness and 
+Response Plan
+loNDV low virulence Newcastle 
+disease virus
+ND Newcastle Disease
+NDV Newcastle disease virus
+NIMS National Incident 
+Management System
+105
+NRF National Response 
+Framework
+NVSL National Veterinary 
+Services Laboratories
+OIE World Organization for 
+Animal Health
+PPE personal protective 
+equipment
+vNDV virulent Newcastle 
+disease virus
+VS Veterinary Services
+WHO World Health 
+Organization
+Text Len: 1210
+--------------------------------------------------------------------------------

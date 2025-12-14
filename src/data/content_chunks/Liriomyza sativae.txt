@@ -1,0 +1,210 @@
+Crop Knowledge Master
+Liriomyza sativae (Blanchard)
+Vegetable Leafminer
+Hosts Distribution Damage Biology Behavior Management Reference
+Author
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+There are well over 20 hosts in the Cucurbitaccae, Fabaceae, Solanaceae and Brassicaceae families recorded for this insect. In Hawaii it is considered a serious pest of beans, broccoli, cauliflower, celery, Chinese cabbage, Chinese wax gourd, cucumber, edible gourds, eggplant, green beans, hyotan, lettuce, luffa, onion, passion fruit, peppers, pumpkin, squash, togan, tomatoes, watermelon, yardlong beans and zucchini..
+DISTRIBUTION
+Native to the Americas, this insect is widespread over North, South, and Central America. In the Pacific it is present in Tahiti, Guam, New Caledonia, American and Western Samoa, Vanuatu, Cook Is. and Hawaii. It is present on all major islands in Hawaii.
+DAMAGE
+Larvae produce continuous mines in leaves and young tender stems. Mines are linear and irregular, whitish or greenish in color, with conspicuous black thread-like strips of frass at alternate sides of the channel. Individual mines are of little significance; however, entire leaves may be mined when larval populations are large. In large numbers the feeding damage can severely weaken or even destroy both mature and young plants. Heavily damaged plants appear as if they have been scorched by fire. Infested leaves are more susceptible to wind damage and possibly plant pathogen infection.
+Adult female flies make tiny punctures in the upper sides of the leaf with their
+Text Len: 1681
+--------------------------------------------------------------------------------
+, entire leaves may be mined when larval populations are large. In large numbers the feeding damage can severely weaken or even destroy both mature and young plants. Heavily damaged plants appear as if they have been scorched by fire. Infested leaves are more susceptible to wind damage and possibly plant pathogen infection.
+Adult female flies make tiny punctures in the upper sides of the leaf with their pointed ovipositor. The flies feed on about 8 out of 10 of these punctures, and deposit eggs in the remaining two. Males are unable to puncture leaves, but occasionally feed upon the food sources made available by female activity. Puncture wounds made my the adult females cause a stippled and yellowish appearance to the leaves and are easily seen in heavy infestations.
+On tomatoes, secondary problems of plant stress, moisture loss, or sun scald of fruit due to absence of shading foliage may occur. In heavily mined crops, accumulations of mines, larvae, and pupae may necessitate more trimming, cleaning and culling before the produce is marketed.
+BIOLOGY
+The average period of the life cycle of the vegetable leafminer is 21 days, but can be as short as 15 days. The length of the life cycle varies with host and temperature.
+EGGS
+Eggs are laid singly in punctures in the leaf epidermis. There is no preference for upper or lower surface. The freshly laid eggs are creamy white and shaped like an elongated oval. The eggs are small, 1/100 inch in length, and hatch 2-4 days.
+LARVAE
+The maggots are bright yellow to yellow green in color, measuring 1/6 inch in length and 1/50 inch in breadth. There are three larval stages. Each larval instar is completed in 2 - 3 days.
+PUPAE
+The pupal stage is yellow-brown in color and distinctly segmented.
+Text Len: 1756
+--------------------------------------------------------------------------------
+ hatch 2-4 days.
+LARVAE
+The maggots are bright yellow to yellow green in color, measuring 1/6 inch in length and 1/50 inch in breadth. There are three larval stages. Each larval instar is completed in 2 - 3 days.
+PUPAE
+The pupal stage is yellow-brown in color and distinctly segmented. Pupae are rectangular oval shaped narrowing at the ends. This stage does no feeding damage and development is completed in 5 to 12 days.
+ADULTS
+This adult is a small fly of mat gray with black and yellow splotches and about 1/12 inch of length. Adults live for 10-20 days depending on environmental conditions.
+BEHAVIOR
+The first larval stage of the vegetable leafminer burrows into the mesophyl tissue. The second stage also feeds in the mesophyl tissue. The third stage larva concentrates its feeding towards the upper leaf surface. When it is mature, it cuts a longitudinal slit in the leaf and leaves to pupate on the leaf surface or on the ground.
+Feeding and oviposition begins at sunrise, peaking at mid-morning. Mating may occur at any time, but is most frequent during daylight hours.
+The adult flies move about the plant in rapid jerky movements.
+MANAGEMENT
+The vegetable leafminer is generally difficult to control. Natural enemies such as parasites play an important role in controlling vegetable leafminer populations in Hawaii.
+The ultimate management strategy is to use tolerant cultivars in weed-free fields. Reduce insecticde applications for other pests to allow leafminer parasites to establish in the fields.
+NON-CHEMICAL CONTROL
+An integrated pest management program successfully controls leafminer populations in watermelon. These programs utilizes conservation of natural enemies as the main control tactic. Insecticide application to control secondary pests is made infrequently (Johnson,
+Text Len: 1798
+--------------------------------------------------------------------------------
+ tolerant cultivars in weed-free fields. Reduce insecticde applications for other pests to allow leafminer parasites to establish in the fields.
+NON-CHEMICAL CONTROL
+An integrated pest management program successfully controls leafminer populations in watermelon. These programs utilizes conservation of natural enemies as the main control tactic. Insecticide application to control secondary pests is made infrequently (Johnson, 1987).
+Biological Control
+Several parasites for this insect have been recorded in Hawaii, they include Opius dissitus Muesebeck, Halticoptera patellana (Dalman), Diglyphus begini (Ashmead), Hemiptarsenus semialbiclavus (Girault), Derostenus fullawayi Crawford, Chrysocharis parksi Crawford, Cothonapis pacifica, Ganaspidium hunteri and Closterocerus sp., utahensis (Girault). These parasites attack vegetable leafminer larvae while they are feeding within the leaf tissue.
+Parasitized larvae eventually become immobile in their mines. The larva may become bloated or blackened as the parasite develops internally. Parasitized larvae that successfully pupate may do so inside the leaves or outside. All parasite larvae observed to date are legless, headless, white, and round in cross-section as opposed to the laterally flattened leafminer larvae. Only one larva develops per host. Chalcidoids and Braconids pupate in the remains of their hosts; the parasites' pupae are glossy black and are not covered by silk.
+Cultural Control
+When ornamental and vegetable crops are not present in the fields, leafminers can occur on a variety of plants including broad-leaf weeds. These plants can serve as reservoirs for pest.
+Removal or destruction of all crop residues is an important control tactic that is overlooked.
+Host ResistancE
+Some plant
+Text Len: 1766
+--------------------------------------------------------------------------------
+ae are glossy black and are not covered by silk.
+Cultural Control
+When ornamental and vegetable crops are not present in the fields, leafminers can occur on a variety of plants including broad-leaf weeds. These plants can serve as reservoirs for pest.
+Removal or destruction of all crop residues is an important control tactic that is overlooked.
+Host ResistancE
+Some plant varieties appear to be resistant to leafminer attack. For example, Musgrave (1975) reported that celery variety #214 seems to be highly attractive to adult Liriomyza, and the plant's leaves frequently are riddled with mines. Conversely, celery variety #16-24 is less attractive to adults; mines are far less frequent, although there is no evidence of antibiosis. A similar example of resistance can be found on chrysanthemums where variety 'Yellow Iceberg' is highly susceptible whereas 'Improved Rivalry' appears resistant.
+CHEMICAL CONTROL
+Cyromazine (Trigard) and abamectin (Avid) are effective against this leafminer pest. Both of the insecticide products have limited crop registrations and must not be used on unregistered crops.
+The pest is highly resistant to most other insecticides. Application of ineffective insecticides to control the vegetable leafminer is futile. It usually results in a larger leafminer problem in the pesticide reduces field densities of leafminer parasites.
+There are no listings for Trigard and Avid as of April 2007.
+REFERENCES
+Hardy, D. E. and M. D. Delfinado. 1980. Liriomyza sativae Blanchard. pp. 214-216. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 13, Diptera: Cyclor
+Text Len: 1719
+--------------------------------------------------------------------------------
+ D. E. and M. D. Delfinado. 1980. Liriomyza sativae Blanchard. pp. 214-216. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 13, Diptera: Cyclorrhapha. 451 pages.
+Johnson, M. W. 1987. Parasitization of Liriomyza spp. (Diptera: Agromyzidae) Infesting Commercial Watermelon Plantings in Hawaii. J. Econ. Entomol. 80(1): 56-61.
+Johnson, M., E. R. Oatman and J. A. Wyman. 1980a. Effects of Insecticides on Populations of the Vegetable Leafminer and Associated Parasites on Summer Pole Tomatoes. J. Econ. Ent. 73(1): 61-66.
+Johnson, M., E. R. Oatman and J. A. Wyman. 1980b. Natural Control of Liriomyza sativae [Dip: Agromyzidae] in Pole Tomatoes in Southern California. Entomophaga. 25(2): 193-198.
+LaPlante, A.A. and M. Sherman. 1976. Serpentine Leafminer. Insect Pest Series, No. 2. Cooperative Extension Service College of Tropical Agriculture. University of Hawaii.
+Musgrave, C. A., S. L. Poe, and H. V. Weems. 1975. The Vegetable Leafminer, Liriomyza sativae Blanchard (Diptera: Agromyzidae), in Florida. Fla. Dept. Agr. & Consumer Services, Division of Plant Industry. Entomology Circular No. 162. 4 pages.
+Parrella, M
+Text Len: 1250
+--------------------------------------------------------------------------------
+ S. L. Poe, and H. V. Weems. 1975. The Vegetable Leafminer, Liriomyza sativae Blanchard (Diptera: Agromyzidae), in Florida. Fla. Dept. Agr. & Consumer Services, Division of Plant Industry. Entomology Circular No. 162. 4 pages.
+Parrella, M. P. 1982. A Review of the History and Taxonomy of Economically Important Serpentine Leafminers (Liriomyza spp.) in California (Diptera: Agromyzidae). Pan-Pacific Entomologist 58(4): 302-308.
+Petit, F. L. 1990. Distinguishing Larval Instars of the Vegetable Leafminer, Liriomyza sativae (Diptera: Agromyzidae). Florida Entomologist. 73(2): 280-286.
+Spencer, K. A. 1973. Liriomyza sativae Blanchard - South and North America, Pacific. pp. 219-225. In Agromyzidae (Diptera) of Economic Importance. Dr. W. Junk B. V., The Hague. 418 pages.
+Tamashiro, M and D. H. Habeck. 1963. Serpentine Leaf Miner Control on Pole Beans. Hawaii Farm Science. 12(3): 7-9.
+Tyron, E. H. and S. L. Poe. 1981. Developmental Rates and Emergence of Vegetable Leafminer Pupae and Their Parasites Reared from Celery Foliage. Florida Entomologist. 64(4): 477-483.
+Waterhouse, D. F. and K. R. Norris eds. 1987. Chapter 21: Liriomyza species, Diptera: Agromyzidae, Leafminers. pp. 159-176. In
+Text Len: 1199
+--------------------------------------------------------------------------------
+ Leafminer Pupae and Their Parasites Reared from Celery Foliage. Florida Entomologist. 64(4): 477-483.
+Waterhouse, D. F. and K. R. Norris eds. 1987. Chapter 21: Liriomyza species, Diptera: Agromyzidae, Leafminers. pp. 159-176. In Biological Control, Pacific Prospects. Inkata Press, Melbourne. 754 pages.
+  OCT/1991.
+  L-SATIVA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 387
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Liriomyza sativae (Blanchard)
+Vegetable Leafminer
+Hosts Distribution Damage Biology Behavior Management Reference
+Author
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+There are well over 20 hosts in the Cucurbitaccae, Fabaceae, Solanaceae and Brassicaceae families recorded for this insect. In Hawaii it is considered a serious pest of beans, broccoli, cauliflower, celery, Chinese cabbage, Chinese wax gourd, cucumber, edible gourds, eggplant, green beans, hyotan, lettuce, luffa, onion, passion fruit, peppers, pumpkin, squash, togan, tomatoes, watermelon, yardlong beans and zucchini..
+DISTRIBUTION
+Native to the Americas, this insect is widespread over North, South, and Central America. In the Pacific it is present in Tahiti, Guam, New Caledonia, American and Western Samoa, Vanuatu, Cook Is. and Hawaii. It is present on all major islands in Hawaii.
+DAMAGE
+Larvae produce continuous mines in leaves and young tender stems. Mines are linear and irregular, whitish or greenish in color, with conspicuous black thread-like strips of frass at alternate sides of the channel. Individual mines are of little significance; however, entire leaves may be mined when larval populations are large. In large numbers the feeding damage can severely weaken or even destroy both mature and young plants. Heavily damaged plants appear as if they have been scorched by fire. Infested leaves are more susceptible to wind damage and possibly plant pathogen infection.
+Adult female flies make tiny punctures in the upper sides of the leaf with their
+Text Len: 1681
+--------------------------------------------------------------------------------
+, entire leaves may be mined when larval populations are large. In large numbers the feeding damage can severely weaken or even destroy both mature and young plants. Heavily damaged plants appear as if they have been scorched by fire. Infested leaves are more susceptible to wind damage and possibly plant pathogen infection.
+Adult female flies make tiny punctures in the upper sides of the leaf with their pointed ovipositor. The flies feed on about 8 out of 10 of these punctures, and deposit eggs in the remaining two. Males are unable to puncture leaves, but occasionally feed upon the food sources made available by female activity. Puncture wounds made my the adult females cause a stippled and yellowish appearance to the leaves and are easily seen in heavy infestations.
+On tomatoes, secondary problems of plant stress, moisture loss, or sun scald of fruit due to absence of shading foliage may occur. In heavily mined crops, accumulations of mines, larvae, and pupae may necessitate more trimming, cleaning and culling before the produce is marketed.
+BIOLOGY
+The average period of the life cycle of the vegetable leafminer is 21 days, but can be as short as 15 days. The length of the life cycle varies with host and temperature.
+EGGS
+Eggs are laid singly in punctures in the leaf epidermis. There is no preference for upper or lower surface. The freshly laid eggs are creamy white and shaped like an elongated oval. The eggs are small, 1/100 inch in length, and hatch 2-4 days.
+LARVAE
+The maggots are bright yellow to yellow green in color, measuring 1/6 inch in length and 1/50 inch in breadth. There are three larval stages. Each larval instar is completed in 2 - 3 days.
+PUPAE
+The pupal stage is yellow-brown in color and distinctly segmented.
+Text Len: 1756
+--------------------------------------------------------------------------------
+ hatch 2-4 days.
+LARVAE
+The maggots are bright yellow to yellow green in color, measuring 1/6 inch in length and 1/50 inch in breadth. There are three larval stages. Each larval instar is completed in 2 - 3 days.
+PUPAE
+The pupal stage is yellow-brown in color and distinctly segmented. Pupae are rectangular oval shaped narrowing at the ends. This stage does no feeding damage and development is completed in 5 to 12 days.
+ADULTS
+This adult is a small fly of mat gray with black and yellow splotches and about 1/12 inch of length. Adults live for 10-20 days depending on environmental conditions.
+BEHAVIOR
+The first larval stage of the vegetable leafminer burrows into the mesophyl tissue. The second stage also feeds in the mesophyl tissue. The third stage larva concentrates its feeding towards the upper leaf surface. When it is mature, it cuts a longitudinal slit in the leaf and leaves to pupate on the leaf surface or on the ground.
+Feeding and oviposition begins at sunrise, peaking at mid-morning. Mating may occur at any time, but is most frequent during daylight hours.
+The adult flies move about the plant in rapid jerky movements.
+MANAGEMENT
+The vegetable leafminer is generally difficult to control. Natural enemies such as parasites play an important role in controlling vegetable leafminer populations in Hawaii.
+The ultimate management strategy is to use tolerant cultivars in weed-free fields. Reduce insecticde applications for other pests to allow leafminer parasites to establish in the fields.
+NON-CHEMICAL CONTROL
+An integrated pest management program successfully controls leafminer populations in watermelon. These programs utilizes conservation of natural enemies as the main control tactic. Insecticide application to control secondary pests is made infrequently (Johnson,
+Text Len: 1798
+--------------------------------------------------------------------------------
+ tolerant cultivars in weed-free fields. Reduce insecticde applications for other pests to allow leafminer parasites to establish in the fields.
+NON-CHEMICAL CONTROL
+An integrated pest management program successfully controls leafminer populations in watermelon. These programs utilizes conservation of natural enemies as the main control tactic. Insecticide application to control secondary pests is made infrequently (Johnson, 1987).
+Biological Control
+Several parasites for this insect have been recorded in Hawaii, they include Opius dissitus Muesebeck, Halticoptera patellana (Dalman), Diglyphus begini (Ashmead), Hemiptarsenus semialbiclavus (Girault), Derostenus fullawayi Crawford, Chrysocharis parksi Crawford, Cothonapis pacifica, Ganaspidium hunteri and Closterocerus sp., utahensis (Girault). These parasites attack vegetable leafminer larvae while they are feeding within the leaf tissue.
+Parasitized larvae eventually become immobile in their mines. The larva may become bloated or blackened as the parasite develops internally. Parasitized larvae that successfully pupate may do so inside the leaves or outside. All parasite larvae observed to date are legless, headless, white, and round in cross-section as opposed to the laterally flattened leafminer larvae. Only one larva develops per host. Chalcidoids and Braconids pupate in the remains of their hosts; the parasites' pupae are glossy black and are not covered by silk.
+Cultural Control
+When ornamental and vegetable crops are not present in the fields, leafminers can occur on a variety of plants including broad-leaf weeds. These plants can serve as reservoirs for pest.
+Removal or destruction of all crop residues is an important control tactic that is overlooked.
+Host ResistancE
+Some plant
+Text Len: 1766
+--------------------------------------------------------------------------------
+ae are glossy black and are not covered by silk.
+Cultural Control
+When ornamental and vegetable crops are not present in the fields, leafminers can occur on a variety of plants including broad-leaf weeds. These plants can serve as reservoirs for pest.
+Removal or destruction of all crop residues is an important control tactic that is overlooked.
+Host ResistancE
+Some plant varieties appear to be resistant to leafminer attack. For example, Musgrave (1975) reported that celery variety #214 seems to be highly attractive to adult Liriomyza, and the plant's leaves frequently are riddled with mines. Conversely, celery variety #16-24 is less attractive to adults; mines are far less frequent, although there is no evidence of antibiosis. A similar example of resistance can be found on chrysanthemums where variety 'Yellow Iceberg' is highly susceptible whereas 'Improved Rivalry' appears resistant.
+CHEMICAL CONTROL
+Cyromazine (Trigard) and abamectin (Avid) are effective against this leafminer pest. Both of the insecticide products have limited crop registrations and must not be used on unregistered crops.
+The pest is highly resistant to most other insecticides. Application of ineffective insecticides to control the vegetable leafminer is futile. It usually results in a larger leafminer problem in the pesticide reduces field densities of leafminer parasites.
+There are no listings for Trigard and Avid as of April 2007.
+REFERENCES
+Hardy, D. E. and M. D. Delfinado. 1980. Liriomyza sativae Blanchard. pp. 214-216. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 13, Diptera: Cyclor
+Text Len: 1719
+--------------------------------------------------------------------------------
+ D. E. and M. D. Delfinado. 1980. Liriomyza sativae Blanchard. pp. 214-216. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 13, Diptera: Cyclorrhapha. 451 pages.
+Johnson, M. W. 1987. Parasitization of Liriomyza spp. (Diptera: Agromyzidae) Infesting Commercial Watermelon Plantings in Hawaii. J. Econ. Entomol. 80(1): 56-61.
+Johnson, M., E. R. Oatman and J. A. Wyman. 1980a. Effects of Insecticides on Populations of the Vegetable Leafminer and Associated Parasites on Summer Pole Tomatoes. J. Econ. Ent. 73(1): 61-66.
+Johnson, M., E. R. Oatman and J. A. Wyman. 1980b. Natural Control of Liriomyza sativae [Dip: Agromyzidae] in Pole Tomatoes in Southern California. Entomophaga. 25(2): 193-198.
+LaPlante, A.A. and M. Sherman. 1976. Serpentine Leafminer. Insect Pest Series, No. 2. Cooperative Extension Service College of Tropical Agriculture. University of Hawaii.
+Musgrave, C. A., S. L. Poe, and H. V. Weems. 1975. The Vegetable Leafminer, Liriomyza sativae Blanchard (Diptera: Agromyzidae), in Florida. Fla. Dept. Agr. & Consumer Services, Division of Plant Industry. Entomology Circular No. 162. 4 pages.
+Parrella, M
+Text Len: 1250
+--------------------------------------------------------------------------------
+ S. L. Poe, and H. V. Weems. 1975. The Vegetable Leafminer, Liriomyza sativae Blanchard (Diptera: Agromyzidae), in Florida. Fla. Dept. Agr. & Consumer Services, Division of Plant Industry. Entomology Circular No. 162. 4 pages.
+Parrella, M. P. 1982. A Review of the History and Taxonomy of Economically Important Serpentine Leafminers (Liriomyza spp.) in California (Diptera: Agromyzidae). Pan-Pacific Entomologist 58(4): 302-308.
+Petit, F. L. 1990. Distinguishing Larval Instars of the Vegetable Leafminer, Liriomyza sativae (Diptera: Agromyzidae). Florida Entomologist. 73(2): 280-286.
+Spencer, K. A. 1973. Liriomyza sativae Blanchard - South and North America, Pacific. pp. 219-225. In Agromyzidae (Diptera) of Economic Importance. Dr. W. Junk B. V., The Hague. 418 pages.
+Tamashiro, M and D. H. Habeck. 1963. Serpentine Leaf Miner Control on Pole Beans. Hawaii Farm Science. 12(3): 7-9.
+Tyron, E. H. and S. L. Poe. 1981. Developmental Rates and Emergence of Vegetable Leafminer Pupae and Their Parasites Reared from Celery Foliage. Florida Entomologist. 64(4): 477-483.
+Waterhouse, D. F. and K. R. Norris eds. 1987. Chapter 21: Liriomyza species, Diptera: Agromyzidae, Leafminers. pp. 159-176. In
+Text Len: 1199
+--------------------------------------------------------------------------------
+ Leafminer Pupae and Their Parasites Reared from Celery Foliage. Florida Entomologist. 64(4): 477-483.
+Waterhouse, D. F. and K. R. Norris eds. 1987. Chapter 21: Liriomyza species, Diptera: Agromyzidae, Leafminers. pp. 159-176. In Biological Control, Pacific Prospects. Inkata Press, Melbourne. 754 pages.
+  OCT/1991.
+  L-SATIVA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 387
+--------------------------------------------------------------------------------

@@ -1,0 +1,918 @@
+   
+ 
+1  
+U.S. Highly Pathogenic Avian Influenza A(H5N1) Research Priorities: 
+October 2024 
+ 
+ 
+Introduction 
+The outbreak of highly pathogenic avian influenza HPAI A(H5N1) has impacted more than 200 dairy cattle 
+herds and led to sporadic human cases in the United States in 2024. So far, human cases in this outbreak 
+have been mild, and the virus has thus far not demonstrated the ability to efficiently bind to receptors that 
+predominate in the human upper respiratory tract. However, influenza viruses have potential to evolve, and 
+A(H5N1) viruses are widely prevalent globally in wild birds. Therefore, continued comprehensive and 
+coordinated, multisectoral surveillance across public health and animal health for these viruses in wild birds, 
+poultry, mammals, and people worldwide, are critical to determine the public health risk. To control this 
+outbreak and minimize its current and potential impacts, we must continue to better understand why and 
+how this is happening, and what actions need to be taken to better protect the health and safety of people and 
+animals, and keep the food supply safe.  
+ 
+Today, the U.S. Government is laying out its clear set of research priorities to address this outbreak.  
+ 
+Experts from across the U.S. Government have outlined a research plan to continue furthering our 
+understanding of the A(H5N1) virus and guide response activities to stop the expansion of the outbreak. 
+These priorities will also guide the broader global scientific community.   
+ 
+This collaborative, whole-of-government, one-health response is focused on addressing scientific questions 
+that have arisen across both animal and human health. For animals, the Agricultural Research Service 
+Text Len: 1720
+--------------------------------------------------------------------------------
+ of the A(H5N1) virus and guide response activities to stop the expansion of the outbreak. 
+These priorities will also guide the broader global scientific community.   
+ 
+This collaborative, whole-of-government, one-health response is focused on addressing scientific questions 
+that have arisen across both animal and human health. For animals, the Agricultural Research Service 
+(ARS), as the in-house research agency of the U.S. Department of Agriculture (USDA), is the leading 
+authority for influenza research in poultry and livestock, partnering with other agencies, academia, and 
+research institutions. Additionally, other USDA agencies including Animal and Plant Health Inspection 
+Service (APHIS), Food Safety Inspection Service (FSIS), the National Institute for Food and Agriculture 
+(NIFA), have been working in coordination with sister agencies and in their respective mission areas 
+through field investigation and epidemiology, diagnostics, food safety, and applied research coordination 
+activities to comprehensively learn as much as possible about A(H5N1) virus transmission and risk factors 
+within herds, between herds, and between dairy and poultry premises. 
+ 
+When it comes to human health, the U.S. Department of Health and Human Services (HHS) is charged with 
+protecting public health and the safety of the food supply. HHS stood up a response team of four HHS 
+agencies – Administration for Strategic Preparedness and Response (ASPR), Centers for Disease Control 
+and Prevention (CDC), Food and Drug Administration (FDA), and National Institute of Allergy and 
+Infectious Diseases (NIAID) within the National Institutes of Health (NIH) – that is working closely with 
+USDA to understand A(H5N1) virus biology, epidemiology, and factors that influence disease pathogenesis 
+and transmission, mitigate risk and
+Text Len: 1836
+--------------------------------------------------------------------------------
+ Prevention (CDC), Food and Drug Administration (FDA), and National Institute of Allergy and 
+Infectious Diseases (NIAID) within the National Institutes of Health (NIH) – that is working closely with 
+USDA to understand A(H5N1) virus biology, epidemiology, and factors that influence disease pathogenesis 
+and transmission, mitigate risk and prevent the transmission among both people and animals, ensure that 
+America’s food supply remains safe, support preclinical and clinical development, regulatory approval, and 
+procure treatments, vaccines, and diagnostics for H5 viruses. 
+ 
+In response to the ongoing A(H5N1) outbreak, the interagency team has prioritized research focusing on the 
+following objectives: 
+ 
+Objective 1: Understand the infections, pathogenesis, transmission and molecular epidemiology of 
+A(H5N1) virus, and mitigate risk to prevent transmission among both people and animals.  
+ 
+Animal health 
+ 
+   
+ 
+2  
+Focus Area 1.1: Understand A(H5N1) infection, pathogenesis, and transmission in dairy cattle 
+• Continue to identify and characterize transmission paths and risk factors for A(H5N1) in cattle 
+within farms, between cattle farms, and between cattle and poultry farms. (USDA NIFA and 
+APHIS) 
+• Determine if A(H5N1) virus is transmitted via aerosolized mucosal virus, or through aerosolized 
+virus laden milk. (USDA ARS) 
+• Better understand potential transmission of the A(H5N1) virus through the milking machine claw 
+when used on virus-infected lactating cows and then transferred without cleaning and disinfection 
+to naïve lactating dairy cows. (US
+Text Len: 1585
+--------------------------------------------------------------------------------
+ aerosolized mucosal virus, or through aerosolized 
+virus laden milk. (USDA ARS) 
+• Better understand potential transmission of the A(H5N1) virus through the milking machine claw 
+when used on virus-infected lactating cows and then transferred without cleaning and disinfection 
+to naïve lactating dairy cows. (USDA ARS) 
+• Determine if A(H5N1) virus can infect calves though bucket feeding milk to calves from cows with 
+acute A(H5N1) infections compared to milk from cows later in infection process as the virus 
+quantity declines to low levels. (USDA ARS) 
+ 
+Focus Area 1.2. Understand A(H5N1) infections and pathogenesis in small ruminants 
+• Challenge goats through intramammary, respiratory, and oral routes to determine if virus infection 
+and illness occurs, the distribution of virus in tissues including mammary glands and meat, and any 
+potential for onward virus spread through shedding in feces, urine, and milk. (USDA ARS) 
+ 
+Focus Area 1.3. Understand A(H5N1) infections and pathogenesis in swine 
+• Use a swine respiratory challenge model to test multiple A(H5N1) viruses including B3.13 
+genotype virus from dairy cattle to determine infectivity and severity of disease production, 
+distribution of virus in tissues, and if the viruses can transmit between pigs. (USDA ARS) 
+ 
+Focus Area 1.4: Understand A(H5N1) infections and pathogenesis in poultry 
+• Use established challenge models for poultry to determine the infectivity, ability to produce 
+disease, and transmissibility of multiple A(H5N1) viruses from dairy cattle
+Text Len: 1541
+--------------------------------------------------------------------------------
+ and if the viruses can transmit between pigs. (USDA ARS) 
+ 
+Focus Area 1.4: Understand A(H5N1) infections and pathogenesis in poultry 
+• Use established challenge models for poultry to determine the infectivity, ability to produce 
+disease, and transmissibility of multiple A(H5N1) viruses from dairy cattle and wild birds to 
+chickens and turkeys. (USDA ARS) 
+ 
+Focus Area 1.5: Continue molecular epidemiology studies 
+• Study the A(H5N1) virus to better understand the mechanisms for movement of the virus between 
+farms, including between dairy cattle herds, dairy cattle to poultry, and dairy cattle to wildlife. 
+These studies incorporate phylodynamic and other studies using genomic epidemiology methods 
+with sequence data to identify how spread can be mitigated. (USDA ARS)  
+ 
+Focus Area 1.6: Dairy waste 
+• Examine different matrices of dairy waste and effluent for microbial action and thermal 
+inactivation of A(H5N1) virus over time and under varying temperatures including generation of D 
+and Z values. (USDA ARS) 
+ 
+Focus Area 1.7: Additional research related activities  
+• Data collection and analysis of affected dairy and poultry farms to understand the A(H5N1) virus 
+transmission and risk factors at the herd/flock and inter-herd/flock levels; Sample collection of 
+wild birds and mammals and peridomestic birds on and around affected premises to better 
+understand their role in disease transmission. (USDA APHIS) 
+• Funding multiple real-time, applied field research projects with State, universities and laboratories 
+to answer key questions related to active infection, virus transmission, and recovery. (
+Text Len: 1632
+--------------------------------------------------------------------------------
+flock levels; Sample collection of 
+wild birds and mammals and peridomestic birds on and around affected premises to better 
+understand their role in disease transmission. (USDA APHIS) 
+• Funding multiple real-time, applied field research projects with State, universities and laboratories 
+to answer key questions related to active infection, virus transmission, and recovery. (USDA NIFA 
+and APHIS) 
+  
+Human health 
+ 
+Focus Area 1.8: Understand A(H5N1) virus biology. 
+   
+ 
+3  
+• Continue to identify and monitor virologic characteristics of A(H5N1) viruses. (CDC, NIAID) 
+• Identify genetic markers associated with increased infectivity, transmissibility or reduced antiviral 
+susceptibility. (CDC) 
+• Track genetic changes that occur in the virus during animal and human infections. (CDC) 
+• Enable tracking of pathogen evolution through Nextstrain, a collection of open-source tools for 
+real-time phylogenetic analysis of viral outbreaks. (NIAID) 
+• Conduct comprehensive antigenic, phenotypic, genotypic, and evolutionary characterization of 
+A(H5N1) viruses detected in humans and animals. (CDC, NIAID) 
+ 
+Focus Area 1.9: Understand virus and host factors that influence disease pathogenesis and lead to 
+transmission. 
+• Better understand the primary means of transmission for A(H5N1) human infections. This 
+includes animal-to-human zoonotic transmission and transmission via fomites. It also includes 
+assessment of how the virus gains entry and replicates in humans. (CDC, NIAID) 
+• Characterize the spectrum of human clinical illness, including potential prevalence
+Text Len: 1580
+--------------------------------------------------------------------------------
+• Better understand the primary means of transmission for A(H5N1) human infections. This 
+includes animal-to-human zoonotic transmission and transmission via fomites. It also includes 
+assessment of how the virus gains entry and replicates in humans. (CDC, NIAID) 
+• Characterize the spectrum of human clinical illness, including potential prevalence of severe 
+illness, illness resulting in hospitalization or death, and asymptomatic and pauci- symptomatic 
+cases. (CDC) 
+• Outline parameters important to human infection and resolution of illness, including estimated 
+incubation period and duration of infectiousness. (CDC) 
+• Determine virus and host factors that impact virulence and transmission of novel influenza viruses, 
+to include serology studies to determine the population immunity among the general population to 
+A(H5N1) viruses. (CDC) 
+• Employ animal models to help describe clinical presentation, virulence, sites of viral replication, 
+and transmissibility following different routes of exposure for these A(H5N1) viruses compared to 
+seasonal and other zoonotic influenza viruses. (CDC, NIAID) 
+• Determine the biology of transmission in cattle (cow to cow, cow to calf via milk consumption), 
+characterize infection in other animal models, and determine if consumption of infected milk is a 
+viable method of transmission. (NIAID)  
+• Conduct immunologic and virologic pandemic risk assessment of novel influenza viruses in 
+animal models and other model systems. (CDC) 
+• Characterize immune responses to the A(H5N1) virus in cattle and other animal models, and how 
+the immune response may shape pathology. In addition, human sera collected from clinical trial 
+volunteers immunized with existing
+Text Len: 1720
+--------------------------------------------------------------------------------
+ologic and virologic pandemic risk assessment of novel influenza viruses in 
+animal models and other model systems. (CDC) 
+• Characterize immune responses to the A(H5N1) virus in cattle and other animal models, and how 
+the immune response may shape pathology. In addition, human sera collected from clinical trial 
+volunteers immunized with existing vaccines and vaccine candidates will be tested against the 
+A(H5N1) virus. (NIAID) 
+ 
+F
+ocus Area 1.10: Mitigate risk and prevent the transmission of A(H5N1) virus among both people and 
+animals.  
+• Continue monitoring for human infections using existing influenza surveillance platforms and 
+develop strategies for enhanced surveillance and laboratory testing. (CDC) 
+• Continue monitoring how widespread human exposure and infection are, to include estimating the 
+prevalence and incidence of human infections. (CDC) 
+•  Continue tracking the risk of infection among people exposed to infected dairy cattle, other 
+animals, and their environment or contaminated animal products (e.g., raw milk). (CDC, NIAID) 
+• Better understand what measures most minimize the risk of infection among exposed persons. This 
+includes personal protective equipment (PPE), and administrative and engineering controls. (CDC) 
+• Identify host, pathogen, and exposure risk indicators for severe illness. (CDC) 
+• Continue to monitor the pandemic potential of this A(H5N1) virus with the Influenza Risk 
+Assessment Tool (IRAT). (CDC) 
+• Estimate the impact of nonpharmaceutical interventions and medical countermeasures, including 
+pre-pandemic H5 vaccines and potential H5 vaccines made using existing candidate vaccine 
+   
+ 
+4  
+viruses, in preventing infection
+Text Len: 1696
+--------------------------------------------------------------------------------
+H5N1) virus with the Influenza Risk 
+Assessment Tool (IRAT). (CDC) 
+• Estimate the impact of nonpharmaceutical interventions and medical countermeasures, including 
+pre-pandemic H5 vaccines and potential H5 vaccines made using existing candidate vaccine 
+   
+ 
+4  
+viruses, in preventing infection and/or severe illness, should widespread person-to-person 
+transmission occur. (CDC) 
+• Monitor and evaluate the effectiveness of influenza antiviral medications in preventing and 
+attenuating illness, and public health interventions, including A(H5N1) vaccine (should it be 
+employed). (CDC, NIAID) 
+• Evaluate strategies to increase uptake of public health interventions such as diagnostics, treatments, 
+and vaccines. (CDC) 
+• Coordinate with the WHO's Global Influenza Programme and the Global Influenza Surveillance 
+and Response System (GISRS) and the OFFLU animal health network (World Organization for 
+Animal Health, Food and Agriculture Organization, and reference laboratories) to support rapid 
+information and resource sharing. (CDC) 
+ 
+Objective 2: Ensure that the Nation’s food supply remains safe. 
+ 
+Animal health 
+ 
+Focus Area 2.1: Continue evaluation of the variability/infectivity of A(H5N1) virus in food systems  
+• Conduct collaborative studies to quantify viability/infectivity of A(H5N1) in both model food 
+systems (i.e., meat slurries, meat juice, meat tissues, raw milk, etc.), as well as in dairy foods (i.e., 
+yogurt, Hispanic-style cheese, raw milk cheese, etc.), and fermented and dried meats (i.e., salami, 
+biltong,
+Text Len: 1547
+--------------------------------------------------------------------------------
+(H5N1) in both model food 
+systems (i.e., meat slurries, meat juice, meat tissues, raw milk, etc.), as well as in dairy foods (i.e., 
+yogurt, Hispanic-style cheese, raw milk cheese, etc.), and fermented and dried meats (i.e., salami, 
+biltong, pepperoni, etc.) in response to varying intrinsic and extrinsic food relevant parameters (i.e., 
+temperature, time, pH, salt, fat, moisture, etc.). (USDA ARS) 
+ 
+Focus Area 2.2: Determine the pathogenesis and tissue distribution of A(H5N1) virus in dairy cattle 
+• Conduct studies to determine the full tissue distribution of A(H5N1) in infected dairy cattle over 
+the 3-week infection period to better understand levels and distribution of A(H5N1) in tissues from 
+end-of-production dairy cattle. (USDA ARS) 
+• Address gaps in virus pathogenesis, tissue tropisms, and animal species susceptibility of B3.13 and 
+other genotypes. (USDA NIFA and APHIS) 
+ 
+Focus Area 2.3: Conduct mid- and long-term research to enhance predictive analytics capabilities, 
+validate processing technologies, and develop interventions 
+• Enhance capacity of the Food Safety National Program to respond to emerging viral contaminants 
+by building capacity related to needed expertise (i.e., virus propagation and assay technologies and 
+clearance/training for scientists to work in BSL-3 laboratories) via the recruitment, mentoring, and 
+training of students and post-docs to be shared among collaborators. Efforts will be directed to 
+utilize the capacity generated to validate processing technologies, improve predictive analytics 
+capabilities, and identify processing
+Text Len: 1594
+--------------------------------------------------------------------------------
+ (i.e., virus propagation and assay technologies and 
+clearance/training for scientists to work in BSL-3 laboratories) via the recruitment, mentoring, and 
+training of students and post-docs to be shared among collaborators. Efforts will be directed to 
+utilize the capacity generated to validate processing technologies, improve predictive analytics 
+capabilities, and identify processing plant interventions effect on virus reduction and product 
+safety. (USDA ARS) 
+ 
+Human health  
+ 
+Focus Area 2.4: Understand characteristics of inactivation methods for A(H5N1) in dairy products. 
+(FDA) 
+• Continue to test pooled raw milk samples to characterize potential virus levels that pasteurization 
+may encounter. (FDA) 
+• Conduct additional bench-top equipment studies to estimate the precise time and temperature 
+needed for inactivation of A(H5N1) virus in milk and milk products. (FDA) 
+• Conduct additional studies using continuous flow pasteurization equipment, reflective of those in 
+commercial use, to confirm pasteurization parameters effective at inactivating A(H5N1) virus in 
+milk processes. (FDA) 
+   
+ 
+5  
+• Assess the survival of A(H5N1) virus in raw milk cheeses under various parameters over the aging 
+process. (FDA) 
+• Examine factors required for infectious virus persistence in raw milk, the parameters for heat 
+inactivation of virus in milk, and virus stability in milk on various surfaces and in aerosols. 
+(NIAID) 
+ 
+Focus Area 2.5: Monitor the safety of retail dairy products  
+• Sample retail dairy products to determine if any viable A(H5N1) virus survives commercial 
+processing. (
+Text Len: 1610
+--------------------------------------------------------------------------------
+ milk, the parameters for heat 
+inactivation of virus in milk, and virus stability in milk on various surfaces and in aerosols. 
+(NIAID) 
+ 
+Focus Area 2.5: Monitor the safety of retail dairy products  
+• Sample retail dairy products to determine if any viable A(H5N1) virus survives commercial 
+processing. (FDA) 
+ 
+Focus Area 2.6: Develop One Health interventions to prevent, control, or eliminate A(H5N1) in 
+animals, milk, and the environment.  
+• Develop strategies to decrease the impact of A(H5N1), interventions to prevent or control spread of 
+A(H5N1) (FDA) 
+• Develop alternative viral inactivation and disposal methods for discarded milk. (FDA) 
+ 
+Objective 3: Support preclinical and clinical development, regulatory approval, and, if needed, 
+procurement of treatments, vaccines, and diagnostics for H5 viruses. 
+ 
+Animal health 
+ 
+Focus Area 3.1: Develop an A(H5N1) vaccine efficacy challenge model and testing vaccines in dairy 
+cattle 
+• Continue to develop an influenza vaccine challenge model for lactating dairy cows exploring 
+intramammary, respiratory, and oral challenge by A(H5N1) virus and will use the best challenge 
+model for testing multiple vaccines including mRNA vaccines for protection. (USDA ARS) 
+ 
+Focus Area 3.2: Develop H5 HPAI vaccines for poultry, cattle, and other livestock  
+• Multiple commercial companies are investing in the development of A(H5N1) vaccines for a 
+variety of species. USDA is also able to use its extensive experience in animal influenza vaccine 
+development to design vaccines that address the target
+Text Len: 1561
+--------------------------------------------------------------------------------
+S) 
+ 
+Focus Area 3.2: Develop H5 HPAI vaccines for poultry, cattle, and other livestock  
+• Multiple commercial companies are investing in the development of A(H5N1) vaccines for a 
+variety of species. USDA is also able to use its extensive experience in animal influenza vaccine 
+development to design vaccines that address the target product profile and are fit for purpose. 
+(USDA) 
+• Evaluate vaccines for protecting turkeys against A(H5N1) including inactivated whole avian 
+influenza virus vaccine, RNA vaccine, turkey herpesvirus vectored vaccines, and newly developed 
+live avian influenza virus vaccines with genomic changes to reduce reassortment risk. Serological 
+tests are being validated to identify A(H5N1) infections in vaccinated poultry. Studies are ongoing 
+to antigenically match the vaccine seed strain to the field virus to produce optimal protection. 
+(USDA ARS) 
+• Conduct vaccine studies using the goat infection model from Objective 1 as a vaccine challenge 
+model to determine if vaccines are effective at protecting goats and as a potential surrogate model 
+for screening vaccines for protection against HPAI in cattle. USDA ARS also plans to conduct 
+vaccine studies in swine using the challenge model from Objective 1 to assess protection of 
+existing and new vaccines to protect livestock. (USDA ARS) 
+• Expand knowledge on vaccinology of HPAI in dairy cattle, vaccine development, and product 
+evaluation for USDA licensure. (USDA ARS, NIFA, and APHIS) 
+ 
+Focus Area 3.3: Validate and improve HPAI diagnostics for use in livestock. 
+ 
+• Evaluate and validate available serological and pen side influenza diagnostic assays to fully 
+understand their performance characteristics and
+Text Len: 1712
+--------------------------------------------------------------------------------
+ development, and product 
+evaluation for USDA licensure. (USDA ARS, NIFA, and APHIS) 
+ 
+Focus Area 3.3: Validate and improve HPAI diagnostics for use in livestock. 
+ 
+• Evaluate and validate available serological and pen side influenza diagnostic assays to fully 
+understand their performance characteristics and appropriate use in livestock. (USDA APHIS) 
+ 
+   
+ 
+6  
+Human health  
+ 
+Focus Area 3.4: Advance H5Nx vaccines 
+• Identify additional candidate vaccine viruses (CVVs) expected to provide protection against 
+currently circulating A(H5N1) viruses in animals. (CDC)  
+• Support clinical trials and manufacturing of antigenically well-matched vaccine candidates stored 
+in the National Pre-pandemic Influenza Vaccine Stockpile (NPIVS) to enable regulatory action 
+and distribution, if needed. (ASPR)  
+• Partner with laboratories with existing capabilities to perform centralized immune assays using 
+samples collected from nonclinical studies and from subjects enrolled in influenza vaccine clinical 
+trials conducted under FDA Investigational New Drug (IND) applications and to perform cross-
+reactive immune response testing of clinical samples for pandemic preparedness and response. 
+(ASPR) 
+• Continue supporting development of mRNA-based pandemic influenza vaccines for influenza 
+viruses of pandemic potential, e.g., H5Nx and H7Nx, and following regulatory approval, 
+incorporate into the NPIVS, to add a more rapid option to the arsenal for the nation’s pandemic 
+influenza preparedness and response. (ASPR) 
+• Partner with companies to advance needle-free vaccine technologies, including oral, intranas
+Text Len: 1622
+--------------------------------------------------------------------------------
+.g., H5Nx and H7Nx, and following regulatory approval, 
+incorporate into the NPIVS, to add a more rapid option to the arsenal for the nation’s pandemic 
+influenza preparedness and response. (ASPR) 
+• Partner with companies to advance needle-free vaccine technologies, including oral, intranasal, 
+transdermal, and subcutaneous microarray patches (MAPs), which offer several advantages over 
+injectable preparations, including the potential for rapid delivery, ease of administration, and 
+improved vaccine performance. (ASPR) 
+• Support decentralized clinical trials (DCTs) where various trial elements will occur either in the 
+home or at a retail pharmacy location to increase the breadth and diversity of participants and 
+improve accessibility by reducing the participation barrier. (ASPR) 
+• Research universal and supra-seasonal vaccines that incorporate broadly conserved immunogens 
+into existing seasonal vaccine to mitigate the impact that any influenza pandemic would have 
+during the time needed to develop and deploy a matched vaccine, decreasing severe disease and 
+death for the entire population and potentially delaying incidence and spread. (ASPR, NIAID)  
+• Conduct and sponsor basic and clinical research on adjuvants for influenza vaccines to enhance 
+their safety and efficacy against A(H5N1) virus. (NIAID) 
+ 
+Focus Area 3.5: Advance treatments for influenza diseases, including antiviral drugs and monoclonal 
+antibodies. 
+• Evaluate antiviral drugs to assess the emergence of drug-resistant viruses. (CDC, NIAID) 
+• Investigate the safety and efficacy of broad-spectrum direct acting antivirals as well as pan-
+influenza host-targeted molecules that can target multiple influenza viruses. (
+Text Len: 1715
+--------------------------------------------------------------------------------
+ antiviral drugs and monoclonal 
+antibodies. 
+• Evaluate antiviral drugs to assess the emergence of drug-resistant viruses. (CDC, NIAID) 
+• Investigate the safety and efficacy of broad-spectrum direct acting antivirals as well as pan-
+influenza host-targeted molecules that can target multiple influenza viruses. (NIAID) 
+• Conduct a phase 2 platform clinical trial investigating host-directed therapeutics for the treatment 
+of Acute Respiratory Distress Syndrome (ARDS), including ARDS caused by influenza infections. 
+In addition to collecting safety and efficacy data on enrolled patients, biomarker data investigation 
+to aid in the planning of pivotal phase 3 clinical studies by identifying specific patients that may 
+benefit from a specific therapeutic or therapeutic mechanism of action. (ASPR) 
+• Invest in pre-exposure prophylaxis (PrEP) therapeutic candidates that require one dose to provide 
+six months of protection (the entire influenza season) to provide an FDA-licensed PrEP therapeutic 
+to protect healthcare workers and first responders. (ASPR) 
+• Pursue multiple strategies to develop antibody-based therapeutics for use as PrEP or treatment for 
+influenza infection, to include broadly neutralizing antibodies (which target multiple strains) and 
+more targeted monoclonal antibodies aimed at A(H5N1)-specific surface components that could 
+protect from death or severe respiratory disease from A(H5N1) influenza. (NIAID) 
+ 
+Focus Area 3.6: Develop diagnostic tests and assays to rapidly and accurately identify A(H5N1) 
+infections. 
+   
+ 
+7  
+• Support in vitro diagnostics product developers as they upgrade existing tests for A(H5N1) 
+through the NIA
+Text Len: 1675
+--------------------------------------------------------------------------------
+) influenza. (NIAID) 
+ 
+Focus Area 3.6: Develop diagnostic tests and assays to rapidly and accurately identify A(H5N1) 
+infections. 
+   
+ 
+7  
+• Support in vitro diagnostics product developers as they upgrade existing tests for A(H5N1) 
+through the NIAID Diagnostics Development Services and make A(H5N1) virus-specific reagents 
+available for diagnostics development through the BEI Repository. (NIAID) 
+• Continue investing in home-use/remote use molecular flu tests that move testing closer to the 
+patient, both speeding up test results and increasing testing access. Investments will focus on tests 
+that are lower cost to manufacture, and more affordable to the patient, have an increased ability to 
+multiplex, providing more test results in a single testing action (e.g., Flu A, Flu B, COVID-19, 
+RSV in a single test). (ASPR) 
+• Invest in Next Generation Sequencing (NGS) platforms as diagnostics to inform clinical patient 
+care. (ASPR) 
+Text Len: 947
+--------------------------------------------------------------------------------
+   
+ 
+1  
+U.S. Highly Pathogenic Avian Influenza A(H5N1) Research Priorities: 
+October 2024 
+ 
+ 
+Introduction 
+The outbreak of highly pathogenic avian influenza HPAI A(H5N1) has impacted more than 200 dairy cattle 
+herds and led to sporadic human cases in the United States in 2024. So far, human cases in this outbreak 
+have been mild, and the virus has thus far not demonstrated the ability to efficiently bind to receptors that 
+predominate in the human upper respiratory tract. However, influenza viruses have potential to evolve, and 
+A(H5N1) viruses are widely prevalent globally in wild birds. Therefore, continued comprehensive and 
+coordinated, multisectoral surveillance across public health and animal health for these viruses in wild birds, 
+poultry, mammals, and people worldwide, are critical to determine the public health risk. To control this 
+outbreak and minimize its current and potential impacts, we must continue to better understand why and 
+how this is happening, and what actions need to be taken to better protect the health and safety of people and 
+animals, and keep the food supply safe.  
+ 
+Today, the U.S. Government is laying out its clear set of research priorities to address this outbreak.  
+ 
+Experts from across the U.S. Government have outlined a research plan to continue furthering our 
+understanding of the A(H5N1) virus and guide response activities to stop the expansion of the outbreak. 
+These priorities will also guide the broader global scientific community.   
+ 
+This collaborative, whole-of-government, one-health response is focused on addressing scientific questions 
+that have arisen across both animal and human health. For animals, the Agricultural Research Service 
+Text Len: 1720
+--------------------------------------------------------------------------------
+ of the A(H5N1) virus and guide response activities to stop the expansion of the outbreak. 
+These priorities will also guide the broader global scientific community.   
+ 
+This collaborative, whole-of-government, one-health response is focused on addressing scientific questions 
+that have arisen across both animal and human health. For animals, the Agricultural Research Service 
+(ARS), as the in-house research agency of the U.S. Department of Agriculture (USDA), is the leading 
+authority for influenza research in poultry and livestock, partnering with other agencies, academia, and 
+research institutions. Additionally, other USDA agencies including Animal and Plant Health Inspection 
+Service (APHIS), Food Safety Inspection Service (FSIS), the National Institute for Food and Agriculture 
+(NIFA), have been working in coordination with sister agencies and in their respective mission areas 
+through field investigation and epidemiology, diagnostics, food safety, and applied research coordination 
+activities to comprehensively learn as much as possible about A(H5N1) virus transmission and risk factors 
+within herds, between herds, and between dairy and poultry premises. 
+ 
+When it comes to human health, the U.S. Department of Health and Human Services (HHS) is charged with 
+protecting public health and the safety of the food supply. HHS stood up a response team of four HHS 
+agencies – Administration for Strategic Preparedness and Response (ASPR), Centers for Disease Control 
+and Prevention (CDC), Food and Drug Administration (FDA), and National Institute of Allergy and 
+Infectious Diseases (NIAID) within the National Institutes of Health (NIH) – that is working closely with 
+USDA to understand A(H5N1) virus biology, epidemiology, and factors that influence disease pathogenesis 
+and transmission, mitigate risk and
+Text Len: 1836
+--------------------------------------------------------------------------------
+ Prevention (CDC), Food and Drug Administration (FDA), and National Institute of Allergy and 
+Infectious Diseases (NIAID) within the National Institutes of Health (NIH) – that is working closely with 
+USDA to understand A(H5N1) virus biology, epidemiology, and factors that influence disease pathogenesis 
+and transmission, mitigate risk and prevent the transmission among both people and animals, ensure that 
+America’s food supply remains safe, support preclinical and clinical development, regulatory approval, and 
+procure treatments, vaccines, and diagnostics for H5 viruses. 
+ 
+In response to the ongoing A(H5N1) outbreak, the interagency team has prioritized research focusing on the 
+following objectives: 
+ 
+Objective 1: Understand the infections, pathogenesis, transmission and molecular epidemiology of 
+A(H5N1) virus, and mitigate risk to prevent transmission among both people and animals.  
+ 
+Animal health 
+ 
+   
+ 
+2  
+Focus Area 1.1: Understand A(H5N1) infection, pathogenesis, and transmission in dairy cattle 
+• Continue to identify and characterize transmission paths and risk factors for A(H5N1) in cattle 
+within farms, between cattle farms, and between cattle and poultry farms. (USDA NIFA and 
+APHIS) 
+• Determine if A(H5N1) virus is transmitted via aerosolized mucosal virus, or through aerosolized 
+virus laden milk. (USDA ARS) 
+• Better understand potential transmission of the A(H5N1) virus through the milking machine claw 
+when used on virus-infected lactating cows and then transferred without cleaning and disinfection 
+to naïve lactating dairy cows. (US
+Text Len: 1585
+--------------------------------------------------------------------------------
+ aerosolized mucosal virus, or through aerosolized 
+virus laden milk. (USDA ARS) 
+• Better understand potential transmission of the A(H5N1) virus through the milking machine claw 
+when used on virus-infected lactating cows and then transferred without cleaning and disinfection 
+to naïve lactating dairy cows. (USDA ARS) 
+• Determine if A(H5N1) virus can infect calves though bucket feeding milk to calves from cows with 
+acute A(H5N1) infections compared to milk from cows later in infection process as the virus 
+quantity declines to low levels. (USDA ARS) 
+ 
+Focus Area 1.2. Understand A(H5N1) infections and pathogenesis in small ruminants 
+• Challenge goats through intramammary, respiratory, and oral routes to determine if virus infection 
+and illness occurs, the distribution of virus in tissues including mammary glands and meat, and any 
+potential for onward virus spread through shedding in feces, urine, and milk. (USDA ARS) 
+ 
+Focus Area 1.3. Understand A(H5N1) infections and pathogenesis in swine 
+• Use a swine respiratory challenge model to test multiple A(H5N1) viruses including B3.13 
+genotype virus from dairy cattle to determine infectivity and severity of disease production, 
+distribution of virus in tissues, and if the viruses can transmit between pigs. (USDA ARS) 
+ 
+Focus Area 1.4: Understand A(H5N1) infections and pathogenesis in poultry 
+• Use established challenge models for poultry to determine the infectivity, ability to produce 
+disease, and transmissibility of multiple A(H5N1) viruses from dairy cattle
+Text Len: 1541
+--------------------------------------------------------------------------------
+ and if the viruses can transmit between pigs. (USDA ARS) 
+ 
+Focus Area 1.4: Understand A(H5N1) infections and pathogenesis in poultry 
+• Use established challenge models for poultry to determine the infectivity, ability to produce 
+disease, and transmissibility of multiple A(H5N1) viruses from dairy cattle and wild birds to 
+chickens and turkeys. (USDA ARS) 
+ 
+Focus Area 1.5: Continue molecular epidemiology studies 
+• Study the A(H5N1) virus to better understand the mechanisms for movement of the virus between 
+farms, including between dairy cattle herds, dairy cattle to poultry, and dairy cattle to wildlife. 
+These studies incorporate phylodynamic and other studies using genomic epidemiology methods 
+with sequence data to identify how spread can be mitigated. (USDA ARS)  
+ 
+Focus Area 1.6: Dairy waste 
+• Examine different matrices of dairy waste and effluent for microbial action and thermal 
+inactivation of A(H5N1) virus over time and under varying temperatures including generation of D 
+and Z values. (USDA ARS) 
+ 
+Focus Area 1.7: Additional research related activities  
+• Data collection and analysis of affected dairy and poultry farms to understand the A(H5N1) virus 
+transmission and risk factors at the herd/flock and inter-herd/flock levels; Sample collection of 
+wild birds and mammals and peridomestic birds on and around affected premises to better 
+understand their role in disease transmission. (USDA APHIS) 
+• Funding multiple real-time, applied field research projects with State, universities and laboratories 
+to answer key questions related to active infection, virus transmission, and recovery. (
+Text Len: 1632
+--------------------------------------------------------------------------------
+flock levels; Sample collection of 
+wild birds and mammals and peridomestic birds on and around affected premises to better 
+understand their role in disease transmission. (USDA APHIS) 
+• Funding multiple real-time, applied field research projects with State, universities and laboratories 
+to answer key questions related to active infection, virus transmission, and recovery. (USDA NIFA 
+and APHIS) 
+  
+Human health 
+ 
+Focus Area 1.8: Understand A(H5N1) virus biology. 
+   
+ 
+3  
+• Continue to identify and monitor virologic characteristics of A(H5N1) viruses. (CDC, NIAID) 
+• Identify genetic markers associated with increased infectivity, transmissibility or reduced antiviral 
+susceptibility. (CDC) 
+• Track genetic changes that occur in the virus during animal and human infections. (CDC) 
+• Enable tracking of pathogen evolution through Nextstrain, a collection of open-source tools for 
+real-time phylogenetic analysis of viral outbreaks. (NIAID) 
+• Conduct comprehensive antigenic, phenotypic, genotypic, and evolutionary characterization of 
+A(H5N1) viruses detected in humans and animals. (CDC, NIAID) 
+ 
+Focus Area 1.9: Understand virus and host factors that influence disease pathogenesis and lead to 
+transmission. 
+• Better understand the primary means of transmission for A(H5N1) human infections. This 
+includes animal-to-human zoonotic transmission and transmission via fomites. It also includes 
+assessment of how the virus gains entry and replicates in humans. (CDC, NIAID) 
+• Characterize the spectrum of human clinical illness, including potential prevalence
+Text Len: 1580
+--------------------------------------------------------------------------------
+• Better understand the primary means of transmission for A(H5N1) human infections. This 
+includes animal-to-human zoonotic transmission and transmission via fomites. It also includes 
+assessment of how the virus gains entry and replicates in humans. (CDC, NIAID) 
+• Characterize the spectrum of human clinical illness, including potential prevalence of severe 
+illness, illness resulting in hospitalization or death, and asymptomatic and pauci- symptomatic 
+cases. (CDC) 
+• Outline parameters important to human infection and resolution of illness, including estimated 
+incubation period and duration of infectiousness. (CDC) 
+• Determine virus and host factors that impact virulence and transmission of novel influenza viruses, 
+to include serology studies to determine the population immunity among the general population to 
+A(H5N1) viruses. (CDC) 
+• Employ animal models to help describe clinical presentation, virulence, sites of viral replication, 
+and transmissibility following different routes of exposure for these A(H5N1) viruses compared to 
+seasonal and other zoonotic influenza viruses. (CDC, NIAID) 
+• Determine the biology of transmission in cattle (cow to cow, cow to calf via milk consumption), 
+characterize infection in other animal models, and determine if consumption of infected milk is a 
+viable method of transmission. (NIAID)  
+• Conduct immunologic and virologic pandemic risk assessment of novel influenza viruses in 
+animal models and other model systems. (CDC) 
+• Characterize immune responses to the A(H5N1) virus in cattle and other animal models, and how 
+the immune response may shape pathology. In addition, human sera collected from clinical trial 
+volunteers immunized with existing
+Text Len: 1720
+--------------------------------------------------------------------------------
+ologic and virologic pandemic risk assessment of novel influenza viruses in 
+animal models and other model systems. (CDC) 
+• Characterize immune responses to the A(H5N1) virus in cattle and other animal models, and how 
+the immune response may shape pathology. In addition, human sera collected from clinical trial 
+volunteers immunized with existing vaccines and vaccine candidates will be tested against the 
+A(H5N1) virus. (NIAID) 
+ 
+F
+ocus Area 1.10: Mitigate risk and prevent the transmission of A(H5N1) virus among both people and 
+animals.  
+• Continue monitoring for human infections using existing influenza surveillance platforms and 
+develop strategies for enhanced surveillance and laboratory testing. (CDC) 
+• Continue monitoring how widespread human exposure and infection are, to include estimating the 
+prevalence and incidence of human infections. (CDC) 
+•  Continue tracking the risk of infection among people exposed to infected dairy cattle, other 
+animals, and their environment or contaminated animal products (e.g., raw milk). (CDC, NIAID) 
+• Better understand what measures most minimize the risk of infection among exposed persons. This 
+includes personal protective equipment (PPE), and administrative and engineering controls. (CDC) 
+• Identify host, pathogen, and exposure risk indicators for severe illness. (CDC) 
+• Continue to monitor the pandemic potential of this A(H5N1) virus with the Influenza Risk 
+Assessment Tool (IRAT). (CDC) 
+• Estimate the impact of nonpharmaceutical interventions and medical countermeasures, including 
+pre-pandemic H5 vaccines and potential H5 vaccines made using existing candidate vaccine 
+   
+ 
+4  
+viruses, in preventing infection
+Text Len: 1696
+--------------------------------------------------------------------------------
+H5N1) virus with the Influenza Risk 
+Assessment Tool (IRAT). (CDC) 
+• Estimate the impact of nonpharmaceutical interventions and medical countermeasures, including 
+pre-pandemic H5 vaccines and potential H5 vaccines made using existing candidate vaccine 
+   
+ 
+4  
+viruses, in preventing infection and/or severe illness, should widespread person-to-person 
+transmission occur. (CDC) 
+• Monitor and evaluate the effectiveness of influenza antiviral medications in preventing and 
+attenuating illness, and public health interventions, including A(H5N1) vaccine (should it be 
+employed). (CDC, NIAID) 
+• Evaluate strategies to increase uptake of public health interventions such as diagnostics, treatments, 
+and vaccines. (CDC) 
+• Coordinate with the WHO's Global Influenza Programme and the Global Influenza Surveillance 
+and Response System (GISRS) and the OFFLU animal health network (World Organization for 
+Animal Health, Food and Agriculture Organization, and reference laboratories) to support rapid 
+information and resource sharing. (CDC) 
+ 
+Objective 2: Ensure that the Nation’s food supply remains safe. 
+ 
+Animal health 
+ 
+Focus Area 2.1: Continue evaluation of the variability/infectivity of A(H5N1) virus in food systems  
+• Conduct collaborative studies to quantify viability/infectivity of A(H5N1) in both model food 
+systems (i.e., meat slurries, meat juice, meat tissues, raw milk, etc.), as well as in dairy foods (i.e., 
+yogurt, Hispanic-style cheese, raw milk cheese, etc.), and fermented and dried meats (i.e., salami, 
+biltong,
+Text Len: 1547
+--------------------------------------------------------------------------------
+(H5N1) in both model food 
+systems (i.e., meat slurries, meat juice, meat tissues, raw milk, etc.), as well as in dairy foods (i.e., 
+yogurt, Hispanic-style cheese, raw milk cheese, etc.), and fermented and dried meats (i.e., salami, 
+biltong, pepperoni, etc.) in response to varying intrinsic and extrinsic food relevant parameters (i.e., 
+temperature, time, pH, salt, fat, moisture, etc.). (USDA ARS) 
+ 
+Focus Area 2.2: Determine the pathogenesis and tissue distribution of A(H5N1) virus in dairy cattle 
+• Conduct studies to determine the full tissue distribution of A(H5N1) in infected dairy cattle over 
+the 3-week infection period to better understand levels and distribution of A(H5N1) in tissues from 
+end-of-production dairy cattle. (USDA ARS) 
+• Address gaps in virus pathogenesis, tissue tropisms, and animal species susceptibility of B3.13 and 
+other genotypes. (USDA NIFA and APHIS) 
+ 
+Focus Area 2.3: Conduct mid- and long-term research to enhance predictive analytics capabilities, 
+validate processing technologies, and develop interventions 
+• Enhance capacity of the Food Safety National Program to respond to emerging viral contaminants 
+by building capacity related to needed expertise (i.e., virus propagation and assay technologies and 
+clearance/training for scientists to work in BSL-3 laboratories) via the recruitment, mentoring, and 
+training of students and post-docs to be shared among collaborators. Efforts will be directed to 
+utilize the capacity generated to validate processing technologies, improve predictive analytics 
+capabilities, and identify processing
+Text Len: 1594
+--------------------------------------------------------------------------------
+ (i.e., virus propagation and assay technologies and 
+clearance/training for scientists to work in BSL-3 laboratories) via the recruitment, mentoring, and 
+training of students and post-docs to be shared among collaborators. Efforts will be directed to 
+utilize the capacity generated to validate processing technologies, improve predictive analytics 
+capabilities, and identify processing plant interventions effect on virus reduction and product 
+safety. (USDA ARS) 
+ 
+Human health  
+ 
+Focus Area 2.4: Understand characteristics of inactivation methods for A(H5N1) in dairy products. 
+(FDA) 
+• Continue to test pooled raw milk samples to characterize potential virus levels that pasteurization 
+may encounter. (FDA) 
+• Conduct additional bench-top equipment studies to estimate the precise time and temperature 
+needed for inactivation of A(H5N1) virus in milk and milk products. (FDA) 
+• Conduct additional studies using continuous flow pasteurization equipment, reflective of those in 
+commercial use, to confirm pasteurization parameters effective at inactivating A(H5N1) virus in 
+milk processes. (FDA) 
+   
+ 
+5  
+• Assess the survival of A(H5N1) virus in raw milk cheeses under various parameters over the aging 
+process. (FDA) 
+• Examine factors required for infectious virus persistence in raw milk, the parameters for heat 
+inactivation of virus in milk, and virus stability in milk on various surfaces and in aerosols. 
+(NIAID) 
+ 
+Focus Area 2.5: Monitor the safety of retail dairy products  
+• Sample retail dairy products to determine if any viable A(H5N1) virus survives commercial 
+processing. (
+Text Len: 1610
+--------------------------------------------------------------------------------
+ milk, the parameters for heat 
+inactivation of virus in milk, and virus stability in milk on various surfaces and in aerosols. 
+(NIAID) 
+ 
+Focus Area 2.5: Monitor the safety of retail dairy products  
+• Sample retail dairy products to determine if any viable A(H5N1) virus survives commercial 
+processing. (FDA) 
+ 
+Focus Area 2.6: Develop One Health interventions to prevent, control, or eliminate A(H5N1) in 
+animals, milk, and the environment.  
+• Develop strategies to decrease the impact of A(H5N1), interventions to prevent or control spread of 
+A(H5N1) (FDA) 
+• Develop alternative viral inactivation and disposal methods for discarded milk. (FDA) 
+ 
+Objective 3: Support preclinical and clinical development, regulatory approval, and, if needed, 
+procurement of treatments, vaccines, and diagnostics for H5 viruses. 
+ 
+Animal health 
+ 
+Focus Area 3.1: Develop an A(H5N1) vaccine efficacy challenge model and testing vaccines in dairy 
+cattle 
+• Continue to develop an influenza vaccine challenge model for lactating dairy cows exploring 
+intramammary, respiratory, and oral challenge by A(H5N1) virus and will use the best challenge 
+model for testing multiple vaccines including mRNA vaccines for protection. (USDA ARS) 
+ 
+Focus Area 3.2: Develop H5 HPAI vaccines for poultry, cattle, and other livestock  
+• Multiple commercial companies are investing in the development of A(H5N1) vaccines for a 
+variety of species. USDA is also able to use its extensive experience in animal influenza vaccine 
+development to design vaccines that address the target
+Text Len: 1561
+--------------------------------------------------------------------------------
+S) 
+ 
+Focus Area 3.2: Develop H5 HPAI vaccines for poultry, cattle, and other livestock  
+• Multiple commercial companies are investing in the development of A(H5N1) vaccines for a 
+variety of species. USDA is also able to use its extensive experience in animal influenza vaccine 
+development to design vaccines that address the target product profile and are fit for purpose. 
+(USDA) 
+• Evaluate vaccines for protecting turkeys against A(H5N1) including inactivated whole avian 
+influenza virus vaccine, RNA vaccine, turkey herpesvirus vectored vaccines, and newly developed 
+live avian influenza virus vaccines with genomic changes to reduce reassortment risk. Serological 
+tests are being validated to identify A(H5N1) infections in vaccinated poultry. Studies are ongoing 
+to antigenically match the vaccine seed strain to the field virus to produce optimal protection. 
+(USDA ARS) 
+• Conduct vaccine studies using the goat infection model from Objective 1 as a vaccine challenge 
+model to determine if vaccines are effective at protecting goats and as a potential surrogate model 
+for screening vaccines for protection against HPAI in cattle. USDA ARS also plans to conduct 
+vaccine studies in swine using the challenge model from Objective 1 to assess protection of 
+existing and new vaccines to protect livestock. (USDA ARS) 
+• Expand knowledge on vaccinology of HPAI in dairy cattle, vaccine development, and product 
+evaluation for USDA licensure. (USDA ARS, NIFA, and APHIS) 
+ 
+Focus Area 3.3: Validate and improve HPAI diagnostics for use in livestock. 
+ 
+• Evaluate and validate available serological and pen side influenza diagnostic assays to fully 
+understand their performance characteristics and
+Text Len: 1712
+--------------------------------------------------------------------------------
+ development, and product 
+evaluation for USDA licensure. (USDA ARS, NIFA, and APHIS) 
+ 
+Focus Area 3.3: Validate and improve HPAI diagnostics for use in livestock. 
+ 
+• Evaluate and validate available serological and pen side influenza diagnostic assays to fully 
+understand their performance characteristics and appropriate use in livestock. (USDA APHIS) 
+ 
+   
+ 
+6  
+Human health  
+ 
+Focus Area 3.4: Advance H5Nx vaccines 
+• Identify additional candidate vaccine viruses (CVVs) expected to provide protection against 
+currently circulating A(H5N1) viruses in animals. (CDC)  
+• Support clinical trials and manufacturing of antigenically well-matched vaccine candidates stored 
+in the National Pre-pandemic Influenza Vaccine Stockpile (NPIVS) to enable regulatory action 
+and distribution, if needed. (ASPR)  
+• Partner with laboratories with existing capabilities to perform centralized immune assays using 
+samples collected from nonclinical studies and from subjects enrolled in influenza vaccine clinical 
+trials conducted under FDA Investigational New Drug (IND) applications and to perform cross-
+reactive immune response testing of clinical samples for pandemic preparedness and response. 
+(ASPR) 
+• Continue supporting development of mRNA-based pandemic influenza vaccines for influenza 
+viruses of pandemic potential, e.g., H5Nx and H7Nx, and following regulatory approval, 
+incorporate into the NPIVS, to add a more rapid option to the arsenal for the nation’s pandemic 
+influenza preparedness and response. (ASPR) 
+• Partner with companies to advance needle-free vaccine technologies, including oral, intranas
+Text Len: 1622
+--------------------------------------------------------------------------------
+.g., H5Nx and H7Nx, and following regulatory approval, 
+incorporate into the NPIVS, to add a more rapid option to the arsenal for the nation’s pandemic 
+influenza preparedness and response. (ASPR) 
+• Partner with companies to advance needle-free vaccine technologies, including oral, intranasal, 
+transdermal, and subcutaneous microarray patches (MAPs), which offer several advantages over 
+injectable preparations, including the potential for rapid delivery, ease of administration, and 
+improved vaccine performance. (ASPR) 
+• Support decentralized clinical trials (DCTs) where various trial elements will occur either in the 
+home or at a retail pharmacy location to increase the breadth and diversity of participants and 
+improve accessibility by reducing the participation barrier. (ASPR) 
+• Research universal and supra-seasonal vaccines that incorporate broadly conserved immunogens 
+into existing seasonal vaccine to mitigate the impact that any influenza pandemic would have 
+during the time needed to develop and deploy a matched vaccine, decreasing severe disease and 
+death for the entire population and potentially delaying incidence and spread. (ASPR, NIAID)  
+• Conduct and sponsor basic and clinical research on adjuvants for influenza vaccines to enhance 
+their safety and efficacy against A(H5N1) virus. (NIAID) 
+ 
+Focus Area 3.5: Advance treatments for influenza diseases, including antiviral drugs and monoclonal 
+antibodies. 
+• Evaluate antiviral drugs to assess the emergence of drug-resistant viruses. (CDC, NIAID) 
+• Investigate the safety and efficacy of broad-spectrum direct acting antivirals as well as pan-
+influenza host-targeted molecules that can target multiple influenza viruses. (
+Text Len: 1715
+--------------------------------------------------------------------------------
+ antiviral drugs and monoclonal 
+antibodies. 
+• Evaluate antiviral drugs to assess the emergence of drug-resistant viruses. (CDC, NIAID) 
+• Investigate the safety and efficacy of broad-spectrum direct acting antivirals as well as pan-
+influenza host-targeted molecules that can target multiple influenza viruses. (NIAID) 
+• Conduct a phase 2 platform clinical trial investigating host-directed therapeutics for the treatment 
+of Acute Respiratory Distress Syndrome (ARDS), including ARDS caused by influenza infections. 
+In addition to collecting safety and efficacy data on enrolled patients, biomarker data investigation 
+to aid in the planning of pivotal phase 3 clinical studies by identifying specific patients that may 
+benefit from a specific therapeutic or therapeutic mechanism of action. (ASPR) 
+• Invest in pre-exposure prophylaxis (PrEP) therapeutic candidates that require one dose to provide 
+six months of protection (the entire influenza season) to provide an FDA-licensed PrEP therapeutic 
+to protect healthcare workers and first responders. (ASPR) 
+• Pursue multiple strategies to develop antibody-based therapeutics for use as PrEP or treatment for 
+influenza infection, to include broadly neutralizing antibodies (which target multiple strains) and 
+more targeted monoclonal antibodies aimed at A(H5N1)-specific surface components that could 
+protect from death or severe respiratory disease from A(H5N1) influenza. (NIAID) 
+ 
+Focus Area 3.6: Develop diagnostic tests and assays to rapidly and accurately identify A(H5N1) 
+infections. 
+   
+ 
+7  
+• Support in vitro diagnostics product developers as they upgrade existing tests for A(H5N1) 
+through the NIA
+Text Len: 1675
+--------------------------------------------------------------------------------
+) influenza. (NIAID) 
+ 
+Focus Area 3.6: Develop diagnostic tests and assays to rapidly and accurately identify A(H5N1) 
+infections. 
+   
+ 
+7  
+• Support in vitro diagnostics product developers as they upgrade existing tests for A(H5N1) 
+through the NIAID Diagnostics Development Services and make A(H5N1) virus-specific reagents 
+available for diagnostics development through the BEI Repository. (NIAID) 
+• Continue investing in home-use/remote use molecular flu tests that move testing closer to the 
+patient, both speeding up test results and increasing testing access. Investments will focus on tests 
+that are lower cost to manufacture, and more affordable to the patient, have an increased ability to 
+multiplex, providing more test results in a single testing action (e.g., Flu A, Flu B, COVID-19, 
+RSV in a single test). (ASPR) 
+• Invest in Next Generation Sequencing (NGS) platforms as diagnostics to inform clinical patient 
+care. (ASPR) 
+Text Len: 947
+--------------------------------------------------------------------------------

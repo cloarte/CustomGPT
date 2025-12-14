@@ -1,0 +1,170 @@
+Crop Knowledge Master
+Lipaphis erysimi (Kaltenbach)
+Turnip Aphid
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This aphid attacks several vegetable crops including: broccoli, cabbage, Chinese broccoli (gai lon), Chinese cabbage (Napa cabbage, won bok), daikon, mustard cabbage (kai choy), radish, tomato and zucchini.
+DISTRIBUTION
+The turnip aphid has a worldwide distribution (Blackman and Eastop, 1984). Records in the literature report this aphid has been on Maui since 1987. Its distribution on other islands is unknown.
+DAMAGE
+Aphids feed by sucking sap from their hosts. Large colonies can cause the plants to become deformed and the leaves curled, shriveled and yellowed (Metcalf, 1962). The turnip aphid can sometimes be found in large numbers on the undersides of outer open leaves or in the inflorescences (flowers) (Blackman and Eastop, 1984). In severe infestations, both sides of leaves are infested (Yadav et. al., 1988). On cabbage, large populations can affect leaf size (Deshpande, 1937) and yield (Jagan Mohan et al., 1981). On mustard, these aphids prefer flowers to leaves (Singh, et al., 1965).
+Like other soft bodied insects such as leafhoppers, mealybugs and scales, aphids produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew serves as a medium on which a so
+Text Len: 1537
+--------------------------------------------------------------------------------
+). On mustard, these aphids prefer flowers to leaves (Singh, et al., 1965).
+Like other soft bodied insects such as leafhoppers, mealybugs and scales, aphids produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Honeydew gives cabbage plants a dirty appearance that reduces their market value (Deshpande, 1937).
+Aphids vector many plant diseases that cause greater losses than caused by direct feeding injury. This is often the greatest impact of an aphid infestation. The turnip aphid is a vector of about 10 non-persistent plant viruses, including cabbage black ring spot and mosaic diseases of cauliflower, radish and turnip (Blackman and Eastop, 1984). In nonpersistent transmission the virus reproduces in the plant and aphids simply aid in dissemination of the virus and the infection process.
+BIOLOGY
+This aphid has two modes producing young: fertilization of females by males resulting in the production of eggs (sexual reproduction), and the birthing of live female nymphs by adult females without fertilization by males (parthenogenesis). Reproduction through parthenogenesis seems to be the norm as males are very rare and females are almost exclusively viviparous (birth live young) throughout the year and males have only been observed in the cooler months (Kawada and Murai, 1979).
+Temperature is a crucial factor in the longevity of the turnip aphid. Within the viable temperature ranges, high temperatures shorten the life span and cooler temperatures increase longevity (Sidhu and Singh, 1964). A study by Sidhu and Singh (1964) reported the longevity of the turnip aphid on radish at several temperatures throughout the year in India. Adults live for 15
+Text Len: 1799
+--------------------------------------------------------------------------------
+, 1979).
+Temperature is a crucial factor in the longevity of the turnip aphid. Within the viable temperature ranges, high temperatures shorten the life span and cooler temperatures increase longevity (Sidhu and Singh, 1964). A study by Sidhu and Singh (1964) reported the longevity of the turnip aphid on radish at several temperatures throughout the year in India. Adults live for 15 - 18 days during the summer when temperatures are varied between 85û - 94û F. Lifespan was considerable longer at winter temperatures (55û - 68û F) and varied from 31 - 61 days. The number of nymphs produced is also influenced by temperature. At an average temperature of 55.4û F (13.0û C) 132 young were produced by each aphid where at 86.36û F (30.2û C) 26 nymphs were produced (Sidhu and Singh, 1964). On different rape and mustard species, fecundity is influenced by the species and variety of the host plant (Singh, et. al., 1965).
+EGGS
+Eggs are laid along the veins of leaves (Kawada and Murai, 1979). Eggs of this aphid have not been found in Hawaii.
+NYMPHS
+There are four nymphal stages (instars). The general appearance of each stage is similar except for increase in size during subsequent instars. The first, second, third and fourth nymphal stages last 1-2, 2, 2, and 3 days respectfully (Sachan and Bansal, 1975), giving the nymphal stage a length of 8-9 days total. Minor variations in these durations occur between winged and wingless forms when raised on cabbage, cauliflower, mustard and radish (Sachan and Bansal, 1975). Refer to Sidhu and Singh (1964) for a shaded drawing of the first and fourth instars.
+
+Text Len: 1610
+--------------------------------------------------------------------------------
+ and Bansal, 1975), giving the nymphal stage a length of 8-9 days total. Minor variations in these durations occur between winged and wingless forms when raised on cabbage, cauliflower, mustard and radish (Sachan and Bansal, 1975). Refer to Sidhu and Singh (1964) for a shaded drawing of the first and fourth instars.
+ADULTS
+Wingless, female, aphids (called apterae) are yellowish green, gray green or olive green with a white waxy bloom covering the body (Blackman and Eastop, 1984). The waxy coating is more dense under humid conditions. The winged, female, adult aphids (called alate) have a dusky green abdomen with dark lateral stripes separating the body segments and dusky wing veins (Blackman and Eastop, 1984). Antennae are dark in color except at the base (Deshpande, 1937). The apterae females are about 3/50-1/10 inch (1.2-2.4 mm) long and the alate forms are about 3/50-1/12 inch (1.4-2.2 mm) long (Blackman and Eastop, 1984). Refer to Sidhu and Singh (1964) for a shaded drawing of the apterous and alate adults.
+After emerging from the last molt, 1-2 days pass before the adult females begin producing young (Sachan and Bansal, 1975). They continue producing young for 13-20 days followed by a 2-3 day post reproductive stage. The total duration of the adult stage is 26-37 days (Sachan and Bansal, 1975). Sachan and Bansal (1975) reported that wingless females produce 70-87 young in their lifetime, while winged females produce 31-40 young.
+Male aphids are olive-green to brown in color. They
+Text Len: 1509
+--------------------------------------------------------------------------------
+ days followed by a 2-3 day post reproductive stage. The total duration of the adult stage is 26-37 days (Sachan and Bansal, 1975). Sachan and Bansal (1975) reported that wingless females produce 70-87 young in their lifetime, while winged females produce 31-40 young.
+Male aphids are olive-green to brown in color. They are considerably smaller than the females and measure approximately 3/50 inch (1.20-1.35 mm) in length (Kawada and Murai, 1979). A technical description of the apterous male is provided by Kawada and Murai (1979) and Verma and Mathur (1966).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+In India, the turnip aphid is preyed upon by three species of lady-bird beetles and their grubs and parsatized by two wasp parasites (a Chalcid and an Ichneumonid) (Deshpande, 1937). In Hawaii, it is suspected that this aphid is attacked by several parasites and predators that are general to aphids.
+Lai (1969) reported several varieties of mustard and rape that were highly resistant to turnip aphid attack.
+CHEMICAL CONTROL
+Jagan Mohan, et. al. (1981) and Krishnaiah and Jagan Mohan (1977) found that chemical treatments with methamidophos and quinalphos offered the best protection against the turnip aphid on cabbage. Jagan Mohan et. al. (1981) also found endosulfan, ethiofencarb and pirimicarb significantly effective against this pest. However, their tests were inconclusive in regard to the efficacy of synthetic pyrethroids, fenvalerate and permethrin (Jagan Mohan et. al., 1981). Yadav, et. al. (1988) reported excellent kill using
+Text Len: 1537
+--------------------------------------------------------------------------------
+. al. (1981) also found endosulfan, ethiofencarb and pirimicarb significantly effective against this pest. However, their tests were inconclusive in regard to the efficacy of synthetic pyrethroids, fenvalerate and permethrin (Jagan Mohan et. al., 1981). Yadav, et. al. (1988) reported excellent kill using methyl-demeton and endosulfan and up to 8 days of keeping aphid populations in check using malathion and chlorpyrifos.
+There are no listings for chlorpyrifos, endosuphan, ethiofencarb, malathion, methyl-demeton, pirimicarb as of April 2007.
+REFERENCES
+Blackman, R. L. and V. F. Eastop. 1984. Aphids on the World's Crops: An Identification and Information Guide. John Wiley and Sons: Chichester, New York, Brisbane, Toronto, Singapore. 466 pages.
+Deshpande, V. G. 1937. Cabbage Aphis - Siphocoryne indobrassicae - and Its Control with Home-Made Nicotine Spray. Agric. and Live-Stock in India. 7(6): 756-762.
+Jagan Mohan, N., K. Krishnaiah and N. K. Krishna Kumar. 1981. Chemical Control of Mustard Aphid, Lipaphis erysimi Kalt and Leaf Webber, Crocidolomia binotalis Zell on Cabbage. Pesticides. 15(2): 29-32.
+Kawada, K. and T. Murai. 1979. Short Communication. Entomologia experimentalis et applicata. 26: 343-345.
+Krishnaiah, K. and N. Jagan Mohan. 1977. Control of Cabbage Pests by New Insecticides
+Text Len: 1306
+--------------------------------------------------------------------------------
+ Zell on Cabbage. Pesticides. 15(2): 29-32.
+Kawada, K. and T. Murai. 1979. Short Communication. Entomologia experimentalis et applicata. 26: 343-345.
+Krishnaiah, K. and N. Jagan Mohan. 1977. Control of Cabbage Pests by New Insecticides, Presented at the Second Oriental Entomology Symposium, Loyola College, Madras. Abstracts of papers: 88-89.
+Lai, O. P. 1969. Field Studies for Varietal Resistance in Rape and Mustard Aphid Lipaphis erysimi Kalt. Zeitschrift fur Angewandte Entomologie. 64: 394-400.
+Metcalf, R. L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Sachan, J. N. and O. P. Bansal. 1975. Influence of Different Host Plants on the Biology of Mustard Aphid, Lipaphis erysimi Kalt. Indian J. Entomology. 37(4): 420-424.
+Sidhu, H. S. and S. Singh. 1964. Biology of the Mustard Aphid - Lipaphis erysimi (Kaltenbach) - in the Punjab. Indian Oilseeds J. 8(4): 348-359.
+Singh, S. R., A. Narain, K. P. Srivastava and J. A. Siddiqui. 1965. Fecundity of Mustard Aphid of Different Rapes and Mustard Species. Indian Oilseeds J. 9(3): 215-219.
+Verma, K. D. and A. C. Mathur. 1966.
+Text Len: 1176
+--------------------------------------------------------------------------------
+h, S. R., A. Narain, K. P. Srivastava and J. A. Siddiqui. 1965. Fecundity of Mustard Aphid of Different Rapes and Mustard Species. Indian Oilseeds J. 9(3): 215-219.
+Verma, K. D. and A. C. Mathur. 1966. Short Notes. Indian J. Entomology. 28: 277-278.
+Yadav, P. R., L. S. Yadav and S. S. Dashad. 1988. Comparative Efficacy of Some Insecticides Against the Aphid, Lipaphis erysimi Kalt. on Cabbage Crop. Indian J. Entomology. 50(1): 61-68.
+  APR/1993.
+  L-ERYSIM
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 519
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Lipaphis erysimi (Kaltenbach)
+Turnip Aphid
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This aphid attacks several vegetable crops including: broccoli, cabbage, Chinese broccoli (gai lon), Chinese cabbage (Napa cabbage, won bok), daikon, mustard cabbage (kai choy), radish, tomato and zucchini.
+DISTRIBUTION
+The turnip aphid has a worldwide distribution (Blackman and Eastop, 1984). Records in the literature report this aphid has been on Maui since 1987. Its distribution on other islands is unknown.
+DAMAGE
+Aphids feed by sucking sap from their hosts. Large colonies can cause the plants to become deformed and the leaves curled, shriveled and yellowed (Metcalf, 1962). The turnip aphid can sometimes be found in large numbers on the undersides of outer open leaves or in the inflorescences (flowers) (Blackman and Eastop, 1984). In severe infestations, both sides of leaves are infested (Yadav et. al., 1988). On cabbage, large populations can affect leaf size (Deshpande, 1937) and yield (Jagan Mohan et al., 1981). On mustard, these aphids prefer flowers to leaves (Singh, et al., 1965).
+Like other soft bodied insects such as leafhoppers, mealybugs and scales, aphids produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew serves as a medium on which a so
+Text Len: 1537
+--------------------------------------------------------------------------------
+). On mustard, these aphids prefer flowers to leaves (Singh, et al., 1965).
+Like other soft bodied insects such as leafhoppers, mealybugs and scales, aphids produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Honeydew gives cabbage plants a dirty appearance that reduces their market value (Deshpande, 1937).
+Aphids vector many plant diseases that cause greater losses than caused by direct feeding injury. This is often the greatest impact of an aphid infestation. The turnip aphid is a vector of about 10 non-persistent plant viruses, including cabbage black ring spot and mosaic diseases of cauliflower, radish and turnip (Blackman and Eastop, 1984). In nonpersistent transmission the virus reproduces in the plant and aphids simply aid in dissemination of the virus and the infection process.
+BIOLOGY
+This aphid has two modes producing young: fertilization of females by males resulting in the production of eggs (sexual reproduction), and the birthing of live female nymphs by adult females without fertilization by males (parthenogenesis). Reproduction through parthenogenesis seems to be the norm as males are very rare and females are almost exclusively viviparous (birth live young) throughout the year and males have only been observed in the cooler months (Kawada and Murai, 1979).
+Temperature is a crucial factor in the longevity of the turnip aphid. Within the viable temperature ranges, high temperatures shorten the life span and cooler temperatures increase longevity (Sidhu and Singh, 1964). A study by Sidhu and Singh (1964) reported the longevity of the turnip aphid on radish at several temperatures throughout the year in India. Adults live for 15
+Text Len: 1799
+--------------------------------------------------------------------------------
+, 1979).
+Temperature is a crucial factor in the longevity of the turnip aphid. Within the viable temperature ranges, high temperatures shorten the life span and cooler temperatures increase longevity (Sidhu and Singh, 1964). A study by Sidhu and Singh (1964) reported the longevity of the turnip aphid on radish at several temperatures throughout the year in India. Adults live for 15 - 18 days during the summer when temperatures are varied between 85û - 94û F. Lifespan was considerable longer at winter temperatures (55û - 68û F) and varied from 31 - 61 days. The number of nymphs produced is also influenced by temperature. At an average temperature of 55.4û F (13.0û C) 132 young were produced by each aphid where at 86.36û F (30.2û C) 26 nymphs were produced (Sidhu and Singh, 1964). On different rape and mustard species, fecundity is influenced by the species and variety of the host plant (Singh, et. al., 1965).
+EGGS
+Eggs are laid along the veins of leaves (Kawada and Murai, 1979). Eggs of this aphid have not been found in Hawaii.
+NYMPHS
+There are four nymphal stages (instars). The general appearance of each stage is similar except for increase in size during subsequent instars. The first, second, third and fourth nymphal stages last 1-2, 2, 2, and 3 days respectfully (Sachan and Bansal, 1975), giving the nymphal stage a length of 8-9 days total. Minor variations in these durations occur between winged and wingless forms when raised on cabbage, cauliflower, mustard and radish (Sachan and Bansal, 1975). Refer to Sidhu and Singh (1964) for a shaded drawing of the first and fourth instars.
+
+Text Len: 1610
+--------------------------------------------------------------------------------
+ and Bansal, 1975), giving the nymphal stage a length of 8-9 days total. Minor variations in these durations occur between winged and wingless forms when raised on cabbage, cauliflower, mustard and radish (Sachan and Bansal, 1975). Refer to Sidhu and Singh (1964) for a shaded drawing of the first and fourth instars.
+ADULTS
+Wingless, female, aphids (called apterae) are yellowish green, gray green or olive green with a white waxy bloom covering the body (Blackman and Eastop, 1984). The waxy coating is more dense under humid conditions. The winged, female, adult aphids (called alate) have a dusky green abdomen with dark lateral stripes separating the body segments and dusky wing veins (Blackman and Eastop, 1984). Antennae are dark in color except at the base (Deshpande, 1937). The apterae females are about 3/50-1/10 inch (1.2-2.4 mm) long and the alate forms are about 3/50-1/12 inch (1.4-2.2 mm) long (Blackman and Eastop, 1984). Refer to Sidhu and Singh (1964) for a shaded drawing of the apterous and alate adults.
+After emerging from the last molt, 1-2 days pass before the adult females begin producing young (Sachan and Bansal, 1975). They continue producing young for 13-20 days followed by a 2-3 day post reproductive stage. The total duration of the adult stage is 26-37 days (Sachan and Bansal, 1975). Sachan and Bansal (1975) reported that wingless females produce 70-87 young in their lifetime, while winged females produce 31-40 young.
+Male aphids are olive-green to brown in color. They
+Text Len: 1509
+--------------------------------------------------------------------------------
+ days followed by a 2-3 day post reproductive stage. The total duration of the adult stage is 26-37 days (Sachan and Bansal, 1975). Sachan and Bansal (1975) reported that wingless females produce 70-87 young in their lifetime, while winged females produce 31-40 young.
+Male aphids are olive-green to brown in color. They are considerably smaller than the females and measure approximately 3/50 inch (1.20-1.35 mm) in length (Kawada and Murai, 1979). A technical description of the apterous male is provided by Kawada and Murai (1979) and Verma and Mathur (1966).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+In India, the turnip aphid is preyed upon by three species of lady-bird beetles and their grubs and parsatized by two wasp parasites (a Chalcid and an Ichneumonid) (Deshpande, 1937). In Hawaii, it is suspected that this aphid is attacked by several parasites and predators that are general to aphids.
+Lai (1969) reported several varieties of mustard and rape that were highly resistant to turnip aphid attack.
+CHEMICAL CONTROL
+Jagan Mohan, et. al. (1981) and Krishnaiah and Jagan Mohan (1977) found that chemical treatments with methamidophos and quinalphos offered the best protection against the turnip aphid on cabbage. Jagan Mohan et. al. (1981) also found endosulfan, ethiofencarb and pirimicarb significantly effective against this pest. However, their tests were inconclusive in regard to the efficacy of synthetic pyrethroids, fenvalerate and permethrin (Jagan Mohan et. al., 1981). Yadav, et. al. (1988) reported excellent kill using
+Text Len: 1537
+--------------------------------------------------------------------------------
+. al. (1981) also found endosulfan, ethiofencarb and pirimicarb significantly effective against this pest. However, their tests were inconclusive in regard to the efficacy of synthetic pyrethroids, fenvalerate and permethrin (Jagan Mohan et. al., 1981). Yadav, et. al. (1988) reported excellent kill using methyl-demeton and endosulfan and up to 8 days of keeping aphid populations in check using malathion and chlorpyrifos.
+There are no listings for chlorpyrifos, endosuphan, ethiofencarb, malathion, methyl-demeton, pirimicarb as of April 2007.
+REFERENCES
+Blackman, R. L. and V. F. Eastop. 1984. Aphids on the World's Crops: An Identification and Information Guide. John Wiley and Sons: Chichester, New York, Brisbane, Toronto, Singapore. 466 pages.
+Deshpande, V. G. 1937. Cabbage Aphis - Siphocoryne indobrassicae - and Its Control with Home-Made Nicotine Spray. Agric. and Live-Stock in India. 7(6): 756-762.
+Jagan Mohan, N., K. Krishnaiah and N. K. Krishna Kumar. 1981. Chemical Control of Mustard Aphid, Lipaphis erysimi Kalt and Leaf Webber, Crocidolomia binotalis Zell on Cabbage. Pesticides. 15(2): 29-32.
+Kawada, K. and T. Murai. 1979. Short Communication. Entomologia experimentalis et applicata. 26: 343-345.
+Krishnaiah, K. and N. Jagan Mohan. 1977. Control of Cabbage Pests by New Insecticides
+Text Len: 1306
+--------------------------------------------------------------------------------
+ Zell on Cabbage. Pesticides. 15(2): 29-32.
+Kawada, K. and T. Murai. 1979. Short Communication. Entomologia experimentalis et applicata. 26: 343-345.
+Krishnaiah, K. and N. Jagan Mohan. 1977. Control of Cabbage Pests by New Insecticides, Presented at the Second Oriental Entomology Symposium, Loyola College, Madras. Abstracts of papers: 88-89.
+Lai, O. P. 1969. Field Studies for Varietal Resistance in Rape and Mustard Aphid Lipaphis erysimi Kalt. Zeitschrift fur Angewandte Entomologie. 64: 394-400.
+Metcalf, R. L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Sachan, J. N. and O. P. Bansal. 1975. Influence of Different Host Plants on the Biology of Mustard Aphid, Lipaphis erysimi Kalt. Indian J. Entomology. 37(4): 420-424.
+Sidhu, H. S. and S. Singh. 1964. Biology of the Mustard Aphid - Lipaphis erysimi (Kaltenbach) - in the Punjab. Indian Oilseeds J. 8(4): 348-359.
+Singh, S. R., A. Narain, K. P. Srivastava and J. A. Siddiqui. 1965. Fecundity of Mustard Aphid of Different Rapes and Mustard Species. Indian Oilseeds J. 9(3): 215-219.
+Verma, K. D. and A. C. Mathur. 1966.
+Text Len: 1176
+--------------------------------------------------------------------------------
+h, S. R., A. Narain, K. P. Srivastava and J. A. Siddiqui. 1965. Fecundity of Mustard Aphid of Different Rapes and Mustard Species. Indian Oilseeds J. 9(3): 215-219.
+Verma, K. D. and A. C. Mathur. 1966. Short Notes. Indian J. Entomology. 28: 277-278.
+Yadav, P. R., L. S. Yadav and S. S. Dashad. 1988. Comparative Efficacy of Some Insecticides Against the Aphid, Lipaphis erysimi Kalt. on Cabbage Crop. Indian J. Entomology. 50(1): 61-68.
+  APR/1993.
+  L-ERYSIM
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 519
+--------------------------------------------------------------------------------

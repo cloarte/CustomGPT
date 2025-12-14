@@ -1,0 +1,270 @@
+Crop Knowledge Master
+Frankliniella occidentalis (Pergande)
+Western Flower Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+Western flower thrips have a broad host range of more than 500 species in 50 plant families and are associated with many cultivated crops and ornamentals. Crops attacked by this pest include beans, burdock (gobo), capsicum, cucumber, eggplant, lettuce, onion, tomatoes and watermelon. Ornamental crops include carnation, chrysanthemum, orchids, pikake, rose and tuberose. Refer to Yudin et al., (1986) for a listing of hosts in the vegetable-growing region of Kula, Maui.
+DISTRIBUTION
+Native to North America, the western flower thrips is widespread from sea level to sub-alpine altitudes. It is the most common thrips species of California (Bryan and Smith, 1989) and Arizona (Bibby, 1958). This thrips has spread to the Canary Islands, Europe, Hawaii, New Zealand, RŽunion and northern South America (Waterhouse and Norris, 1989). Although it has been intercepted in Guam on lettuce shipments from North America, it has not become established there as yet (Waterhouse and Norris, 1989). This thrips was first reported in Hawaii on the island of Kauai in 1955 and has since spread to all major islands except Molokai. It did not become a serious pest until the mid seventies when sporadic and economically significant outbreaks occurred, particularly on lettuce and chrysanthemums (Waterhouse and Norris, 1989).
+DAMAGE
+Thrips puncture the leaves, flowers, or stems with their mouth parts and suck
+Text Len: 1687
+--------------------------------------------------------------------------------
+ the island of Kauai in 1955 and has since spread to all major islands except Molokai. It did not become a serious pest until the mid seventies when sporadic and economically significant outbreaks occurred, particularly on lettuce and chrysanthemums (Waterhouse and Norris, 1989).
+DAMAGE
+Thrips puncture the leaves, flowers, or stems with their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance, eventually browning and dying. Leaf tips wither, curl and die. The undersides of leaves are spotted with small black specks. Flowers become flecked, spotted, and deformed and many buds fail to open. Thrips can be found in greatest numbers between leaf sheaths and the stem (Metcalf, 1962). The western flower thrips is primarily a flower feeder that eats both the flower petals and pollen.
+They also feed on foliage of certain hosts and produce a characteristic silvery appearance of thrips damage. Fruit scarring occurs on cucumber (Rosenheim et al., 1990), beans.
+In addition to the direct feeding damage, extensive losses occur when this thrips vectors tomato spotted wilt tospovirus. Western flower thrips adults that have feed on diseased tissue as larvae may infect host plants with tomato spotted wilt virus (TSWV). It is a serious disease in several economically important crops worldwide (Cho et al., 1988). In Hawaii, TSWV disease affects the production of several economically important vegetables and ornamental crops. Lettuce and tomato that have experienced losses of 50-90% (Cho et al., 1986; Yudin et al., 1986). TSWV is a unique virus in that it has one of the widest known host ranges of any plant virus. It is the only virus transmitted in a persistent manner by thrips (Best, 1968; Cho et al., 1989). Along with the
+Text Len: 1798
+--------------------------------------------------------------------------------
+. Lettuce and tomato that have experienced losses of 50-90% (Cho et al., 1986; Yudin et al., 1986). TSWV is a unique virus in that it has one of the widest known host ranges of any plant virus. It is the only virus transmitted in a persistent manner by thrips (Best, 1968; Cho et al., 1989). Along with the western flower thrips (Frankliniella occidentalis), TSWV is also vectored by other thrips species present in Hawaii including yellow flower thrips (Frankliniella schultzei), onion thrips (Thrips tabaci), and chili thrips (Scirtothrips dorsalis). The western flower thrips, however, is considered the most important vector.
+Symptoms of TSWV disease are variable. Infections on the same host species vary according to the plant age, plant nutrition and environmental conditions such as temperature (Best, 1968). Several strains of this virus exist with different symptoms and host ranges. On lettuce, the disease causes brown necrotic spots tissue, usually on one side of the plant. Two classes of hosts are known. Those characterized by localized sites of infection in tissues inoculated by the vector. The second type of host is called a systemic host. In this host, the virus spread systematically from the inoculation site to other parts of the plant. On tomato, early stages of the disease are characterized by chlorosis (yellowing) of leaves and terminal shoots that may develop into bronzing and necrosis. Tomato fruits are discolored with pale red or yellow areas that may be in the form of irregular mottling, blotches or distinct concentric rings (Cho et al., 1989). Symptoms on pepper plants include chlorosis and necrotic spotting of leaves, necrosis of terminal shoots and overall stunting of the plant. Peppers have chlorotic spots of green or red areas surrounded by yellow hal
+Text Len: 1797
+--------------------------------------------------------------------------------
+ fruits are discolored with pale red or yellow areas that may be in the form of irregular mottling, blotches or distinct concentric rings (Cho et al., 1989). Symptoms on pepper plants include chlorosis and necrotic spotting of leaves, necrosis of terminal shoots and overall stunting of the plant. Peppers have chlorotic spots of green or red areas surrounded by yellow halos and concentric rings (Cho et al., 1989). Infected chrysanthemums have chlorotic and necrotic rings on leaves and stems and stunting and necrosis of terminal shoots (Cho et al., 1989).
+BIOLOGY
+There are 4 stages, or instars, between the egg and adult. The feeding instars (the first 2 stages) are called larvae and the non-feeding instars are called pupae. Durations of each stage vary depending primarily on temperature. Reproduction in many species it may occur without fertilization (parthenogenetically) where only males are produced (Waterhouse and Norris, 1989). Most thrips lay eggs, but some species can birth live young. Generations are continuous in Hawaii and thrips of all stages may be found on the same locality of the plant.
+Populations are highest during the spring and summer months and decline during fall and winter. Prolonged wet weather is detrimental to thrips development.
+EGGS
+Western flower thrips eggs are opaque and kidney-shaped. They are very small, measuring less than 22/1000 inch (550 µ) long by 10/1000 inch (250 µ) wide. They are usually laid singly in a scattered pattern, but sometimes may occur in rows alongside or beneath veins (Lewis, 1973). They are partially or completely inserted into an incision made into the parenchyma tissue of leaves, flowers or fruit by the saw-like ovipositor of the female. Eggs hatch in 11.18, 6.37 and 4.26 days
+Text Len: 1757
+--------------------------------------------------------------------------------
+ wide. They are usually laid singly in a scattered pattern, but sometimes may occur in rows alongside or beneath veins (Lewis, 1973). They are partially or completely inserted into an incision made into the parenchyma tissue of leaves, flowers or fruit by the saw-like ovipositor of the female. Eggs hatch in 11.18, 6.37 and 4.26 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively (Lublinkoh and Foster, 1977). Eggs are susceptible to desiccation (Waterhouse and Norris, 1989).
+LARVAE
+Larvae and adults are the only feeding stages. The first instar larvae are white or nearly transparent at first and turn yellow, orange, crimson, or even purple later. Their small bodies consist of the head, 3 thoracic segments and 11 abdominal segments, 3 pairs of similarly structured legs and no wing buds (Lewis, 1973). They begin feeding immediately. The duration of the first instar is 4.90, 2.33 and 1.11 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the first instars have doubled in size they find a protected spot and molt.
+The second instar larvae are light yellow. Antennal shape differs from that of the previous stage. The second instar stage lasts for 9.08, 5.22 and 4.32 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the second instar larvae are ready to molt into the pupal stage they usually enter the soil or litter beneath the host plant.
+PUPAE
+There are two non-feeding stages between the larva and adult. Both stages have
+Text Len: 1538
+--------------------------------------------------------------------------------
+û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the second instar larvae are ready to molt into the pupal stage they usually enter the soil or litter beneath the host plant.
+PUPAE
+There are two non-feeding stages between the larva and adult. Both stages have functional legs. The first is called the prepupa. It has wing buds, rudimentary antennae, and does not excrete. After prepupal development is completed, the insect molts into the pupal stage. The pupa has developed antennae that curve back over the head, elongated wing pads and legs and body have assumed adult proportions (Lewis, 1973). The prepupal stage lasts for 2.93, 2.22 and 1.37 days and the pupal stage lasts for 5.56, 2.85 and 1.56 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively (Lublinkoh and Foster, 1977).
+ADULTS
+Adults are slender and dorso-ventrally flattened (Heming, 1985). They have four wings fringed with long hairs. At rest, the wings are folded over the back lengthwise (Heming, 1985). Females have three color forms (pale, intermediate and dark), all of which can mate with the pale males.
+Female adults live for 71, 57 and 28 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively. Males have about half the life expectancy of females (Bryan and Smith, 1956). Egg laying begins about 3 days after emergence (Waterhouse and Norris, 1989). Females lay 0.7 to 1.6 eggs per day at 79.88û F (26.6û C) (Bryan and Smith, 1956).
+Text Len: 1462
+--------------------------------------------------------------------------------
+ F (15û, 20û and 30û C) respectively. Males have about half the life expectancy of females (Bryan and Smith, 1956). Egg laying begins about 3 days after emergence (Waterhouse and Norris, 1989). Females lay 0.7 to 1.6 eggs per day at 79.88û F (26.6û C) (Bryan and Smith, 1956). The number of offspring produced by each female also varies with temperature, with the optimum temperature being around 68û F (20û C) (Lublinkoh and Foster, 1977). The mean number of offspring produced per female thrips reported by Lublinkoh and Foster (1977) was 24, 96 and 49 at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully.
+BEHAVIOR
+Larvae are quite nimble. Prepupae and pupae are seldom found on the plants. Females are relatively still the first day after emerging, but later become very active (Waterhouse and Norris, 1989).
+MANAGEMENT
+Biological Control
+They are also attacked by a few parasitic wasps and flies and entomopathogenic nematodes. The minute pirate bug, Orius tristicolor, is the most important predator of western flower thrips in California and a general thrips predator like other species belonging to the Orius genus (Waterhouse and Norris, 1989). Other important predators include bugs belonging to the Geocoris (van den Bosch and Hagen, 1966) and Nabis (Benedict and Cothran, 1980) genuses and the lacewing larvae of Chrysoperla (Chrysopa) carnea (Waterhouse and Norris, 1989). Refer to Waterhouse and Norris (1989) for an extensive listing of natural enemies of the western flower thrips.
+In Hawaii, the anthocorid bugs, Orius persequens, Orius insidios
+Text Len: 1565
+--------------------------------------------------------------------------------
+ict and Cothran, 1980) genuses and the lacewing larvae of Chrysoperla (Chrysopa) carnea (Waterhouse and Norris, 1989). Refer to Waterhouse and Norris (1989) for an extensive listing of natural enemies of the western flower thrips.
+In Hawaii, the anthocorid bugs, Orius persequens, Orius insidiosus, and Orius tristicolor attack western flower thrips (Nakahara and Brennan, 1977). O. persequens is a long-time resident of Hawaii, it has been associated with thrips predation on chrysanthemum (Nakahara and Brennan, 1977) and koa-haole (Nakahara and Brennan, 1978) and is the most abundant predator. O. insidiosus was brought into Hawaii in 1952 (R. Heu, personal communication). Refer to Ryerson and Stone (1979) for an extensive bibliography on O. insidiosus. O. tristicolor was introduced to Hawaii in 1962, but although it has become established, it is rarely found (R. Heu, personal communication). Refer to Stoltz and Stern (1978) and Letourneau and Altieri (1983) for predator and prey information on O. tristicolor. Western flower thrips are also attacked by the predatory the anthocorid bug, Paratriphleps laevisculus; thrips, Franklinothrips vespiformi; and possibly by the eulophid parasite, Ceranisus menes (Waterhouse and Norris, 1989).
+Barriers
+Physical barriers have been created by intercropping with fast growing, tall cereals which are not hosts of TSWV and thrips (Reddy and Wightman, 1988), growing the crop under screening or polyvinyl fabric, and planting trees between fields. These barriers limit the movement of thri
+Text Len: 1539
+--------------------------------------------------------------------------------
+, Ceranisus menes (Waterhouse and Norris, 1989).
+Barriers
+Physical barriers have been created by intercropping with fast growing, tall cereals which are not hosts of TSWV and thrips (Reddy and Wightman, 1988), growing the crop under screening or polyvinyl fabric, and planting trees between fields. These barriers limit the movement of thrips and reduce direct feeding damage and TSWV incidence.
+Reservoir Hosts
+Bautista (1993) reported that romaine lettuce (Lactuca sativa v. longifolia) and cheese weed (Malva parviflora) are preferred hosts of western flower thrips in warmer temperatures, while jimson weed (Datura stramonium) and burdock (Arctium lappa) are preferred at cooler temperatures. Weed hosts of the western flower thrips in fallow fields and outlying areas of the field serve as reservoir hosts of the thrips and TSWV. Transmission occurs from weed hosts to romaine lettuce, between plants of the crop species and from romaine lettuce to weed hosts and other crop species (Bautista, 1993). The removal of these reservoir weeds is a possible method of reducing thrips populations and disease incidence. Limited success was achieved in Australia by destroying major weed hosts around peanut crops (Reddy and Wightman, 1988). However, this practice must be done on a large scale basis to be effective. On a small scale this practice is ineffective because many crops harbor both TSWV and the thrips that provide continuing alternative sources for infestation (Reddy and Wightman, 1988).
+Resistant Cultivars
+The development and use of resistant cultivars to control thrips populations and plant diseases such as TSWV is a promising avenue that may provide an economic and efficient solution to pest problems.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury
+Text Len: 1806
+--------------------------------------------------------------------------------
+ thrips that provide continuing alternative sources for infestation (Reddy and Wightman, 1988).
+Resistant Cultivars
+The development and use of resistant cultivars to control thrips populations and plant diseases such as TSWV is a promising avenue that may provide an economic and efficient solution to pest problems.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury. None are effective in reducing TSWV disease losses.
+REFERENCES
+Bautista, R. C. 1993. Thrips Preferences and Host Suitability - Factors in the Transmission of Tomato Spotted Wilt Tospovirus by the Western Flower Thrips. Ph.D. Dissertation. University of Hawaii, Department of Entomology.
+Benedict, J. H. and W. R. Cothran. 1980. Damsel bugs useful as predators but need help. California Agriculture. 39(8/9): 11-12.
+Best, R. J. 1968. Tomato Spotted Wilt Virus. pp. 65-145. In: Advances in Virus Research. Volume 13. eds. K. M. Smith and M. A. Lauffer. Academic Press, New York.
+Bibby, F. F. 1958. Notes on Thrips of Arizona. J. Econ. Ent. 51(4): 450-452.
+Cho, J. J., R. F. L. Mau, D. Gonsalves and W. C. Mitchell. 1986. Reservoir Weed Hosts of Tomato Spotted Wilt Virus. Plant Disease. 70(11): 1014-1016.
+Cho, J. J., R. F. L. Mau, R. T. Hamasaki and D. Gonsalves. 1988. Detection of Tomato Spotted Wilt Virus in Individual Thrips by Enzyme-Linked Immunosorbent Assay.
+Text Len: 1370
+--------------------------------------------------------------------------------
+ Weed Hosts of Tomato Spotted Wilt Virus. Plant Disease. 70(11): 1014-1016.
+Cho, J. J., R. F. L. Mau, R. T. Hamasaki and D. Gonsalves. 1988. Detection of Tomato Spotted Wilt Virus in Individual Thrips by Enzyme-Linked Immunosorbent Assay. Phytopathology. 78(10): 1348-1352.
+Cho, J. J., R. F. L. Mau, T. L. German, R. W. Hartmann, L. S. Yudin, D. Gonsalves and R. Provvidenti. 1989. A Multidisciplinary Approach to Management of Tomato Spotted Wilt Virus in Hawaii. Plant Disease. 73(5): 375-383.
+Guerra-Sobrevilla, L. 1989. Effectiveness of aldicarb in the control of the western flower thrips, Frankliniella occidentalis (Pergande), in table grapes in Northwestern Mexico. Crop Protection. 8(4): 277-279.
+Heming, B. S. 1985. Thrips (Thysanoptera) in Alberta. Agriculture and Forestry Bulletin. 8(2): 19-24.
+Letourneau, D. K. and M. A. Altieri. 1983. Abundance Patterns of a Predator, Orius tristicolor (Hemiptera: Anthocoridae), and Its Prey, Frankliniella occidentalis (Thysanoptera: Thripidae) Habitat Attraction in Polycultures versus Monocultures. Environ. Entomol. 12(5): 1464-1469.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+
+Text Len: 1205
+--------------------------------------------------------------------------------
+, Frankliniella occidentalis (Thysanoptera: Thripidae) Habitat Attraction in Polycultures versus Monocultures. Environ. Entomol. 12(5): 1464-1469.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+Lublinkoh, J. and D. E. Foster. 1977. Development and Reproductive Capacity of Frankliniella occidentalis (Thysanoptera: Thripidae) Reared at Three Temperatures. Kansas Entomological Society. 50(3): 313-316.
+Metcalf, C. L. and W. P. Flint. 1962. Destructive and Useful Insects Their Habits and Control 4 Th. Edition (Revised by: R. L. Metcalf). McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Nakahara, L. M. and B. M. Brennan. 1977. Hawaii Cooperative Economic Pest Report, Week Ending May 27, 1977.
+Nakahara, L. M. and B. M. Brennan. 1978. Hawaii Cooperative Economic Pest Report, Week Ending February 10, 1978.
+Race, S. R. 1965. Importance and Control of Western Flower Thrips, Frankliniella occidentalis, on Seedling Cotton. Agricultural Experiment Station - New Mexico State University Bulletin 497.
+Reddy, D. V. R. and J. A. Wightman. 1988. Tomato Spotted Wilt Virus: Thrips Transmission and Control. Advances in Disease Vector Research. 5: 203-220.
+Rosenheim, J. A., S. C. Welter, M. W. Johnson, R. F. L. Mau and L. R.
+Text Len: 1320
+--------------------------------------------------------------------------------
+eddy, D. V. R. and J. A. Wightman. 1988. Tomato Spotted Wilt Virus: Thrips Transmission and Control. Advances in Disease Vector Research. 5: 203-220.
+Rosenheim, J. A., S. C. Welter, M. W. Johnson, R. F. L. Mau and L. R. Gusukuma-Minuto. 1990. Direct Feeding Damage on Cucumber by Mixed-Species Infestations of Thrips palmi and Frankliniella occidentalis (Thysanoptera: Thripidae). J. Econ. Ent. 83(4): 1519-1525.
+Ryerson, S. A. and J. D. Stone. 1979. A Selected Bibliography of Two Species of Orius: the Minute Pirate Bug, Orius tristicolor, and Orius insidiosus (Heteroptera: Anthocoridae). Bull. Entomol. Soc. Am. 25(2): 131-135.
+Sakimura, B. P. 1976. Frankliniella chrysanthemi Synonymous with F. occidentalis (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22(2): 333-334.
+Stoltz, R. L. and V. M. Stern. 1978. The Longevity and Fecundity of Orius tristicolor When Introduced to Increasing Numbers of the Prey Frankliniella occidentalis. Environ. Entomol. 7(2): 197-198.
+van den Bosch, R. and K. S. Hagen. 1966. Predaceous and parasitic arthropods in California cotton fields. California Agricultural Experiment Station Bulletin 820. 32 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Franklinie
+Text Len: 1217
+--------------------------------------------------------------------------------
+ occidentalis. Environ. Entomol. 7(2): 197-198.
+van den Bosch, R. and K. S. Hagen. 1966. Predaceous and parasitic arthropods in California cotton fields. California Agricultural Experiment Station Bulletin 820. 32 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Frankliniella occidentalis (Pergande). pp. 24-35. In: Biological Control Pacific Prospects - Supplement 1. Australian Centre for International Agriculture Research: Canberra. 123 pages.
+Yudin, L. S, J. J. Cho and W. C. Mitchell. 1986. Host Range of Western Flower Thrips, Frankliniella occidentalis (Thysanoptera: Thripidae), with Special References to Leucaena glauca. Environ. Ent. 15(6): 1292-1295.
+  MAR/1993.
+  F-OCCIDE
+RELATED LINKS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 771
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Frankliniella occidentalis (Pergande)
+Western Flower Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+Western flower thrips have a broad host range of more than 500 species in 50 plant families and are associated with many cultivated crops and ornamentals. Crops attacked by this pest include beans, burdock (gobo), capsicum, cucumber, eggplant, lettuce, onion, tomatoes and watermelon. Ornamental crops include carnation, chrysanthemum, orchids, pikake, rose and tuberose. Refer to Yudin et al., (1986) for a listing of hosts in the vegetable-growing region of Kula, Maui.
+DISTRIBUTION
+Native to North America, the western flower thrips is widespread from sea level to sub-alpine altitudes. It is the most common thrips species of California (Bryan and Smith, 1989) and Arizona (Bibby, 1958). This thrips has spread to the Canary Islands, Europe, Hawaii, New Zealand, RŽunion and northern South America (Waterhouse and Norris, 1989). Although it has been intercepted in Guam on lettuce shipments from North America, it has not become established there as yet (Waterhouse and Norris, 1989). This thrips was first reported in Hawaii on the island of Kauai in 1955 and has since spread to all major islands except Molokai. It did not become a serious pest until the mid seventies when sporadic and economically significant outbreaks occurred, particularly on lettuce and chrysanthemums (Waterhouse and Norris, 1989).
+DAMAGE
+Thrips puncture the leaves, flowers, or stems with their mouth parts and suck
+Text Len: 1687
+--------------------------------------------------------------------------------
+ the island of Kauai in 1955 and has since spread to all major islands except Molokai. It did not become a serious pest until the mid seventies when sporadic and economically significant outbreaks occurred, particularly on lettuce and chrysanthemums (Waterhouse and Norris, 1989).
+DAMAGE
+Thrips puncture the leaves, flowers, or stems with their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance, eventually browning and dying. Leaf tips wither, curl and die. The undersides of leaves are spotted with small black specks. Flowers become flecked, spotted, and deformed and many buds fail to open. Thrips can be found in greatest numbers between leaf sheaths and the stem (Metcalf, 1962). The western flower thrips is primarily a flower feeder that eats both the flower petals and pollen.
+They also feed on foliage of certain hosts and produce a characteristic silvery appearance of thrips damage. Fruit scarring occurs on cucumber (Rosenheim et al., 1990), beans.
+In addition to the direct feeding damage, extensive losses occur when this thrips vectors tomato spotted wilt tospovirus. Western flower thrips adults that have feed on diseased tissue as larvae may infect host plants with tomato spotted wilt virus (TSWV). It is a serious disease in several economically important crops worldwide (Cho et al., 1988). In Hawaii, TSWV disease affects the production of several economically important vegetables and ornamental crops. Lettuce and tomato that have experienced losses of 50-90% (Cho et al., 1986; Yudin et al., 1986). TSWV is a unique virus in that it has one of the widest known host ranges of any plant virus. It is the only virus transmitted in a persistent manner by thrips (Best, 1968; Cho et al., 1989). Along with the
+Text Len: 1798
+--------------------------------------------------------------------------------
+. Lettuce and tomato that have experienced losses of 50-90% (Cho et al., 1986; Yudin et al., 1986). TSWV is a unique virus in that it has one of the widest known host ranges of any plant virus. It is the only virus transmitted in a persistent manner by thrips (Best, 1968; Cho et al., 1989). Along with the western flower thrips (Frankliniella occidentalis), TSWV is also vectored by other thrips species present in Hawaii including yellow flower thrips (Frankliniella schultzei), onion thrips (Thrips tabaci), and chili thrips (Scirtothrips dorsalis). The western flower thrips, however, is considered the most important vector.
+Symptoms of TSWV disease are variable. Infections on the same host species vary according to the plant age, plant nutrition and environmental conditions such as temperature (Best, 1968). Several strains of this virus exist with different symptoms and host ranges. On lettuce, the disease causes brown necrotic spots tissue, usually on one side of the plant. Two classes of hosts are known. Those characterized by localized sites of infection in tissues inoculated by the vector. The second type of host is called a systemic host. In this host, the virus spread systematically from the inoculation site to other parts of the plant. On tomato, early stages of the disease are characterized by chlorosis (yellowing) of leaves and terminal shoots that may develop into bronzing and necrosis. Tomato fruits are discolored with pale red or yellow areas that may be in the form of irregular mottling, blotches or distinct concentric rings (Cho et al., 1989). Symptoms on pepper plants include chlorosis and necrotic spotting of leaves, necrosis of terminal shoots and overall stunting of the plant. Peppers have chlorotic spots of green or red areas surrounded by yellow hal
+Text Len: 1797
+--------------------------------------------------------------------------------
+ fruits are discolored with pale red or yellow areas that may be in the form of irregular mottling, blotches or distinct concentric rings (Cho et al., 1989). Symptoms on pepper plants include chlorosis and necrotic spotting of leaves, necrosis of terminal shoots and overall stunting of the plant. Peppers have chlorotic spots of green or red areas surrounded by yellow halos and concentric rings (Cho et al., 1989). Infected chrysanthemums have chlorotic and necrotic rings on leaves and stems and stunting and necrosis of terminal shoots (Cho et al., 1989).
+BIOLOGY
+There are 4 stages, or instars, between the egg and adult. The feeding instars (the first 2 stages) are called larvae and the non-feeding instars are called pupae. Durations of each stage vary depending primarily on temperature. Reproduction in many species it may occur without fertilization (parthenogenetically) where only males are produced (Waterhouse and Norris, 1989). Most thrips lay eggs, but some species can birth live young. Generations are continuous in Hawaii and thrips of all stages may be found on the same locality of the plant.
+Populations are highest during the spring and summer months and decline during fall and winter. Prolonged wet weather is detrimental to thrips development.
+EGGS
+Western flower thrips eggs are opaque and kidney-shaped. They are very small, measuring less than 22/1000 inch (550 µ) long by 10/1000 inch (250 µ) wide. They are usually laid singly in a scattered pattern, but sometimes may occur in rows alongside or beneath veins (Lewis, 1973). They are partially or completely inserted into an incision made into the parenchyma tissue of leaves, flowers or fruit by the saw-like ovipositor of the female. Eggs hatch in 11.18, 6.37 and 4.26 days
+Text Len: 1757
+--------------------------------------------------------------------------------
+ wide. They are usually laid singly in a scattered pattern, but sometimes may occur in rows alongside or beneath veins (Lewis, 1973). They are partially or completely inserted into an incision made into the parenchyma tissue of leaves, flowers or fruit by the saw-like ovipositor of the female. Eggs hatch in 11.18, 6.37 and 4.26 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively (Lublinkoh and Foster, 1977). Eggs are susceptible to desiccation (Waterhouse and Norris, 1989).
+LARVAE
+Larvae and adults are the only feeding stages. The first instar larvae are white or nearly transparent at first and turn yellow, orange, crimson, or even purple later. Their small bodies consist of the head, 3 thoracic segments and 11 abdominal segments, 3 pairs of similarly structured legs and no wing buds (Lewis, 1973). They begin feeding immediately. The duration of the first instar is 4.90, 2.33 and 1.11 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the first instars have doubled in size they find a protected spot and molt.
+The second instar larvae are light yellow. Antennal shape differs from that of the previous stage. The second instar stage lasts for 9.08, 5.22 and 4.32 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the second instar larvae are ready to molt into the pupal stage they usually enter the soil or litter beneath the host plant.
+PUPAE
+There are two non-feeding stages between the larva and adult. Both stages have
+Text Len: 1538
+--------------------------------------------------------------------------------
+û, 68û and 86û F (15û, 20û and 30û C) respectfully (Lublinkoh and Foster, 1977). When the second instar larvae are ready to molt into the pupal stage they usually enter the soil or litter beneath the host plant.
+PUPAE
+There are two non-feeding stages between the larva and adult. Both stages have functional legs. The first is called the prepupa. It has wing buds, rudimentary antennae, and does not excrete. After prepupal development is completed, the insect molts into the pupal stage. The pupa has developed antennae that curve back over the head, elongated wing pads and legs and body have assumed adult proportions (Lewis, 1973). The prepupal stage lasts for 2.93, 2.22 and 1.37 days and the pupal stage lasts for 5.56, 2.85 and 1.56 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively (Lublinkoh and Foster, 1977).
+ADULTS
+Adults are slender and dorso-ventrally flattened (Heming, 1985). They have four wings fringed with long hairs. At rest, the wings are folded over the back lengthwise (Heming, 1985). Females have three color forms (pale, intermediate and dark), all of which can mate with the pale males.
+Female adults live for 71, 57 and 28 days at 59û, 68û and 86û F (15û, 20û and 30û C) respectively. Males have about half the life expectancy of females (Bryan and Smith, 1956). Egg laying begins about 3 days after emergence (Waterhouse and Norris, 1989). Females lay 0.7 to 1.6 eggs per day at 79.88û F (26.6û C) (Bryan and Smith, 1956).
+Text Len: 1462
+--------------------------------------------------------------------------------
+ F (15û, 20û and 30û C) respectively. Males have about half the life expectancy of females (Bryan and Smith, 1956). Egg laying begins about 3 days after emergence (Waterhouse and Norris, 1989). Females lay 0.7 to 1.6 eggs per day at 79.88û F (26.6û C) (Bryan and Smith, 1956). The number of offspring produced by each female also varies with temperature, with the optimum temperature being around 68û F (20û C) (Lublinkoh and Foster, 1977). The mean number of offspring produced per female thrips reported by Lublinkoh and Foster (1977) was 24, 96 and 49 at 59û, 68û and 86û F (15û, 20û and 30û C) respectfully.
+BEHAVIOR
+Larvae are quite nimble. Prepupae and pupae are seldom found on the plants. Females are relatively still the first day after emerging, but later become very active (Waterhouse and Norris, 1989).
+MANAGEMENT
+Biological Control
+They are also attacked by a few parasitic wasps and flies and entomopathogenic nematodes. The minute pirate bug, Orius tristicolor, is the most important predator of western flower thrips in California and a general thrips predator like other species belonging to the Orius genus (Waterhouse and Norris, 1989). Other important predators include bugs belonging to the Geocoris (van den Bosch and Hagen, 1966) and Nabis (Benedict and Cothran, 1980) genuses and the lacewing larvae of Chrysoperla (Chrysopa) carnea (Waterhouse and Norris, 1989). Refer to Waterhouse and Norris (1989) for an extensive listing of natural enemies of the western flower thrips.
+In Hawaii, the anthocorid bugs, Orius persequens, Orius insidios
+Text Len: 1565
+--------------------------------------------------------------------------------
+ict and Cothran, 1980) genuses and the lacewing larvae of Chrysoperla (Chrysopa) carnea (Waterhouse and Norris, 1989). Refer to Waterhouse and Norris (1989) for an extensive listing of natural enemies of the western flower thrips.
+In Hawaii, the anthocorid bugs, Orius persequens, Orius insidiosus, and Orius tristicolor attack western flower thrips (Nakahara and Brennan, 1977). O. persequens is a long-time resident of Hawaii, it has been associated with thrips predation on chrysanthemum (Nakahara and Brennan, 1977) and koa-haole (Nakahara and Brennan, 1978) and is the most abundant predator. O. insidiosus was brought into Hawaii in 1952 (R. Heu, personal communication). Refer to Ryerson and Stone (1979) for an extensive bibliography on O. insidiosus. O. tristicolor was introduced to Hawaii in 1962, but although it has become established, it is rarely found (R. Heu, personal communication). Refer to Stoltz and Stern (1978) and Letourneau and Altieri (1983) for predator and prey information on O. tristicolor. Western flower thrips are also attacked by the predatory the anthocorid bug, Paratriphleps laevisculus; thrips, Franklinothrips vespiformi; and possibly by the eulophid parasite, Ceranisus menes (Waterhouse and Norris, 1989).
+Barriers
+Physical barriers have been created by intercropping with fast growing, tall cereals which are not hosts of TSWV and thrips (Reddy and Wightman, 1988), growing the crop under screening or polyvinyl fabric, and planting trees between fields. These barriers limit the movement of thri
+Text Len: 1539
+--------------------------------------------------------------------------------
+, Ceranisus menes (Waterhouse and Norris, 1989).
+Barriers
+Physical barriers have been created by intercropping with fast growing, tall cereals which are not hosts of TSWV and thrips (Reddy and Wightman, 1988), growing the crop under screening or polyvinyl fabric, and planting trees between fields. These barriers limit the movement of thrips and reduce direct feeding damage and TSWV incidence.
+Reservoir Hosts
+Bautista (1993) reported that romaine lettuce (Lactuca sativa v. longifolia) and cheese weed (Malva parviflora) are preferred hosts of western flower thrips in warmer temperatures, while jimson weed (Datura stramonium) and burdock (Arctium lappa) are preferred at cooler temperatures. Weed hosts of the western flower thrips in fallow fields and outlying areas of the field serve as reservoir hosts of the thrips and TSWV. Transmission occurs from weed hosts to romaine lettuce, between plants of the crop species and from romaine lettuce to weed hosts and other crop species (Bautista, 1993). The removal of these reservoir weeds is a possible method of reducing thrips populations and disease incidence. Limited success was achieved in Australia by destroying major weed hosts around peanut crops (Reddy and Wightman, 1988). However, this practice must be done on a large scale basis to be effective. On a small scale this practice is ineffective because many crops harbor both TSWV and the thrips that provide continuing alternative sources for infestation (Reddy and Wightman, 1988).
+Resistant Cultivars
+The development and use of resistant cultivars to control thrips populations and plant diseases such as TSWV is a promising avenue that may provide an economic and efficient solution to pest problems.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury
+Text Len: 1806
+--------------------------------------------------------------------------------
+ thrips that provide continuing alternative sources for infestation (Reddy and Wightman, 1988).
+Resistant Cultivars
+The development and use of resistant cultivars to control thrips populations and plant diseases such as TSWV is a promising avenue that may provide an economic and efficient solution to pest problems.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury. None are effective in reducing TSWV disease losses.
+REFERENCES
+Bautista, R. C. 1993. Thrips Preferences and Host Suitability - Factors in the Transmission of Tomato Spotted Wilt Tospovirus by the Western Flower Thrips. Ph.D. Dissertation. University of Hawaii, Department of Entomology.
+Benedict, J. H. and W. R. Cothran. 1980. Damsel bugs useful as predators but need help. California Agriculture. 39(8/9): 11-12.
+Best, R. J. 1968. Tomato Spotted Wilt Virus. pp. 65-145. In: Advances in Virus Research. Volume 13. eds. K. M. Smith and M. A. Lauffer. Academic Press, New York.
+Bibby, F. F. 1958. Notes on Thrips of Arizona. J. Econ. Ent. 51(4): 450-452.
+Cho, J. J., R. F. L. Mau, D. Gonsalves and W. C. Mitchell. 1986. Reservoir Weed Hosts of Tomato Spotted Wilt Virus. Plant Disease. 70(11): 1014-1016.
+Cho, J. J., R. F. L. Mau, R. T. Hamasaki and D. Gonsalves. 1988. Detection of Tomato Spotted Wilt Virus in Individual Thrips by Enzyme-Linked Immunosorbent Assay.
+Text Len: 1370
+--------------------------------------------------------------------------------
+ Weed Hosts of Tomato Spotted Wilt Virus. Plant Disease. 70(11): 1014-1016.
+Cho, J. J., R. F. L. Mau, R. T. Hamasaki and D. Gonsalves. 1988. Detection of Tomato Spotted Wilt Virus in Individual Thrips by Enzyme-Linked Immunosorbent Assay. Phytopathology. 78(10): 1348-1352.
+Cho, J. J., R. F. L. Mau, T. L. German, R. W. Hartmann, L. S. Yudin, D. Gonsalves and R. Provvidenti. 1989. A Multidisciplinary Approach to Management of Tomato Spotted Wilt Virus in Hawaii. Plant Disease. 73(5): 375-383.
+Guerra-Sobrevilla, L. 1989. Effectiveness of aldicarb in the control of the western flower thrips, Frankliniella occidentalis (Pergande), in table grapes in Northwestern Mexico. Crop Protection. 8(4): 277-279.
+Heming, B. S. 1985. Thrips (Thysanoptera) in Alberta. Agriculture and Forestry Bulletin. 8(2): 19-24.
+Letourneau, D. K. and M. A. Altieri. 1983. Abundance Patterns of a Predator, Orius tristicolor (Hemiptera: Anthocoridae), and Its Prey, Frankliniella occidentalis (Thysanoptera: Thripidae) Habitat Attraction in Polycultures versus Monocultures. Environ. Entomol. 12(5): 1464-1469.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+
+Text Len: 1205
+--------------------------------------------------------------------------------
+, Frankliniella occidentalis (Thysanoptera: Thripidae) Habitat Attraction in Polycultures versus Monocultures. Environ. Entomol. 12(5): 1464-1469.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+Lublinkoh, J. and D. E. Foster. 1977. Development and Reproductive Capacity of Frankliniella occidentalis (Thysanoptera: Thripidae) Reared at Three Temperatures. Kansas Entomological Society. 50(3): 313-316.
+Metcalf, C. L. and W. P. Flint. 1962. Destructive and Useful Insects Their Habits and Control 4 Th. Edition (Revised by: R. L. Metcalf). McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Nakahara, L. M. and B. M. Brennan. 1977. Hawaii Cooperative Economic Pest Report, Week Ending May 27, 1977.
+Nakahara, L. M. and B. M. Brennan. 1978. Hawaii Cooperative Economic Pest Report, Week Ending February 10, 1978.
+Race, S. R. 1965. Importance and Control of Western Flower Thrips, Frankliniella occidentalis, on Seedling Cotton. Agricultural Experiment Station - New Mexico State University Bulletin 497.
+Reddy, D. V. R. and J. A. Wightman. 1988. Tomato Spotted Wilt Virus: Thrips Transmission and Control. Advances in Disease Vector Research. 5: 203-220.
+Rosenheim, J. A., S. C. Welter, M. W. Johnson, R. F. L. Mau and L. R.
+Text Len: 1320
+--------------------------------------------------------------------------------
+eddy, D. V. R. and J. A. Wightman. 1988. Tomato Spotted Wilt Virus: Thrips Transmission and Control. Advances in Disease Vector Research. 5: 203-220.
+Rosenheim, J. A., S. C. Welter, M. W. Johnson, R. F. L. Mau and L. R. Gusukuma-Minuto. 1990. Direct Feeding Damage on Cucumber by Mixed-Species Infestations of Thrips palmi and Frankliniella occidentalis (Thysanoptera: Thripidae). J. Econ. Ent. 83(4): 1519-1525.
+Ryerson, S. A. and J. D. Stone. 1979. A Selected Bibliography of Two Species of Orius: the Minute Pirate Bug, Orius tristicolor, and Orius insidiosus (Heteroptera: Anthocoridae). Bull. Entomol. Soc. Am. 25(2): 131-135.
+Sakimura, B. P. 1976. Frankliniella chrysanthemi Synonymous with F. occidentalis (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22(2): 333-334.
+Stoltz, R. L. and V. M. Stern. 1978. The Longevity and Fecundity of Orius tristicolor When Introduced to Increasing Numbers of the Prey Frankliniella occidentalis. Environ. Entomol. 7(2): 197-198.
+van den Bosch, R. and K. S. Hagen. 1966. Predaceous and parasitic arthropods in California cotton fields. California Agricultural Experiment Station Bulletin 820. 32 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Franklinie
+Text Len: 1217
+--------------------------------------------------------------------------------
+ occidentalis. Environ. Entomol. 7(2): 197-198.
+van den Bosch, R. and K. S. Hagen. 1966. Predaceous and parasitic arthropods in California cotton fields. California Agricultural Experiment Station Bulletin 820. 32 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Frankliniella occidentalis (Pergande). pp. 24-35. In: Biological Control Pacific Prospects - Supplement 1. Australian Centre for International Agriculture Research: Canberra. 123 pages.
+Yudin, L. S, J. J. Cho and W. C. Mitchell. 1986. Host Range of Western Flower Thrips, Frankliniella occidentalis (Thysanoptera: Thripidae), with Special References to Leucaena glauca. Environ. Ent. 15(6): 1292-1295.
+  MAR/1993.
+  F-OCCIDE
+RELATED LINKS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 771
+--------------------------------------------------------------------------------

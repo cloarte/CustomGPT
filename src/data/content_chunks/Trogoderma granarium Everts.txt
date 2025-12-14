@@ -1,0 +1,2834 @@
+Khapra Beetle Program Manual
+
+Some processes, equipment, and materials described in this manual may be patented. Inclusion in this 
+manual does not constitute permission for use from the patent owner. The use of any patented invention in 
+the performance of the processes described in this manual is solely the responsibility of the user. APHIS 
+does not indemnify the user against liability for patent infringement and will not be liable to the user or to any 
+third party for patent infringement.
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the 
+basis of race, color, national origin, age, disability, and where applicable, sex, marital status, familial status, 
+parental status, religion, sexual orientation, genetic information, political beliefs, reprisal, or because all or 
+part of any individual’s income is derived from any public assistance program. (Not all prohibited bases 
+apply to all programs). Persons with disabilities who require alternative means for communication of 
+program information (Braille, large print, audiotape, etc.) should contact USDA’s TARGET Center at (202) 
+720-2600 (voice and TDD). To file a complaint of discrimination, write to USDA, Director, Office of Civil 
+Rights, 1400 Independence Avenue, SW., Washington, DC 20250-9410, or call (800) 795-3272 (voice) or 
+(202) 720-6382 (TDD). USDA is an equal opportunity provider and employer.
+When using pesticides, read and follow all label instructions.
+First Edition Issued 2022
+01/2022-01 Khapra Beetle Program Manual TOC-1
+Khapra Beetle 
+Program 
+Contents
+Khapra Beetle Program Manual 1-1
+Contents TOC-1
+List of Figures LOF
+Text Len: 1673
+--------------------------------------------------------------------------------
+TDD). USDA is an equal opportunity provider and employer.
+When using pesticides, read and follow all label instructions.
+First Edition Issued 2022
+01/2022-01 Khapra Beetle Program Manual TOC-1
+Khapra Beetle 
+Program 
+Contents
+Khapra Beetle Program Manual 1-1
+Contents TOC-1
+List of Figures LOF-1
+Acknowledgments Acknowledgements-1
+Introduction 1-1
+Survey and Trapping 2-1
+Identification 3-1
+Index Index-1
+TOC-2 Khapra Beetle Program Manual  01/2022-01
+01/2022-01 Khapra Beetle Program Manual LOF-1
+Khapra Beetle 
+Program 
+List of Figures
+Figure 2-1 Khapra Beetle Wall-Mounted Trap 2-4
+Figure 2-2 Khapra Beetle Pheromone Lure 2-4
+Figure 2-3 Organic Wheat Germ 2-5
+Figure 2-4 Plastic Collection Tray with Wheat Germ 2-5
+Figure 2-5 Decoy Aerial Trap with Khapra Beetle Pheromone Lure 2-5
+Figure 2-6 Correct Placement of Khapra Beetle Trap 2-6
+Figure 2-7 Wall Trap with Back Entry Tabs Opened Correctly 2-7
+List of Figures
+LOF-2 Khapra Beetle Program Manual  01/2022-01
+01/2022-01 Khapra Beetle Program Manual Acknowledgements-1
+Khapra Beetle 
+Program 
+Acknowledgments
+Cover photograph courtesy of USDA-APHIS-PPQ Sindhu Krishnankutty.
+Acknowledgments
+Acknowledgements-2 Khapra Beetle Program Manual  01/2022-01
+05/2023-02 Khapra Beetle Program Manual 1-1
+Chapter
+1
+Introduction
+Contents
+
+Text Len: 1283
+--------------------------------------------------------------------------------
+-1
+Khapra Beetle 
+Program 
+Acknowledgments
+Cover photograph courtesy of USDA-APHIS-PPQ Sindhu Krishnankutty.
+Acknowledgments
+Acknowledgements-2 Khapra Beetle Program Manual  01/2022-01
+05/2023-02 Khapra Beetle Program Manual 1-1
+Chapter
+1
+Introduction
+Contents
+Purpose of the Khapra Beetle Program Manual     1-2
+Background     1-2
+Biology and Ecology     1-2
+Lifecycle     1-2
+Infestations     1-3
+Pathways of Introduction and Dispersal     1-4
+Conventions     1-4
+Advisories     1-4
+Boldface     1-5
+Bullets     1-5
+Change Bars     1-5
+Chapters     1-5
+Contents     1-5
+Control Data     1-5
+Examples     1-5
+Heading Levels     1-6
+Hypertext Links (Highlighting) to Tables, Figures, and Headings     1-6
+Indentions     1-6
+Italics     1-6
+Numbering Scheme     1-6
+Transmittal Number     1-6
+Using the Manual     1-7
+Reporting Issues With or Suggestions For the Khapra Beetle Program 
+Manual     1-7
+Manual Updates     1-7
+Ordering Additional Manuals and Revisions     1-8
+Introduction
+Purpose of the Khapra Beetle Program
+Text Len: 1022
+--------------------------------------------------------------------------------
+   1-6
+Using the Manual     1-7
+Reporting Issues With or Suggestions For the Khapra Beetle Program 
+Manual     1-7
+Manual Updates     1-7
+Ordering Additional Manuals and Revisions     1-8
+Introduction
+Purpose of the Khapra Beetle Program Manual
+1-2 Khapra Beetle Program Manual  05/2023-02
+Purpose of the Khapra Beetle Program Manual
+The APHIS PPQ Khapra Beetle Program Manual is intended to provide 
+information to guide PPQ Field Operations and cooperators in the following 
+areas:
+Survey and sampling to detect isolated infestations at low population 
+levels
+Eradication efforts on isolated infestations
+Prevention of human assisted spread of khapra beetle to non-infested 
+areas
+Background
+The khapra beetle, Trogoderma granarium Everts (Coleoptera: Dermestidae), 
+is a destructive pest of grain, seeds, and stored food products. Additionally, 
+food products infested by khapra beetle pose a threat to humans as hairs and 
+cast skins from larvae are known allergens and a respiratory hazard. Originally 
+native to the Indian subcontinent, it has expanded into other parts of Asia, 
+Africa, and Europe. Khapra beetle and associated host material are regulated 
+by the USDA under authority of 7 CFR 319.75. While khapra beetle is no t 
+known to occur in the United States, interceptions at ports of entry are common 
+and the pest risk potential of khapra beetle is high. If khapra beetle were to 
+become established in the United States, it
+Text Len: 1448
+--------------------------------------------------------------------------------
+ra beetle and associated host material are regulated 
+by the USDA under authority of 7 CFR 319.75. While khapra beetle is no t 
+known to occur in the United States, interceptions at ports of entry are common 
+and the pest risk potential of khapra beetle is high. If khapra beetle were to 
+become established in the United States, it would pose a significant threat to 
+the domestic grain industry in terms of yield losses, but more consequentially it 
+would impact the $10+ billion United States grain export market. The goal of 
+routine survey efforts is to monitor high risk areas for detection of isolated 
+populations to help ensure the United States remains free from khapra beetle.
+Biology and Ecology
+Lifecycle
+Khapra beetle has four life stages; egg, larva, pupa, and adult. Females may lay 
+up to 100 eggs during their lifetime. Eggs are very small and translucent, 
+making them difficult to detect. Eggs usually hatch in 3-10 days, depending on 
+temperature and humidity.
+Khapra beetle spends most of its life in the larval stage and nearly all of its 
+feeding occurs during this stage. The number of larval instars is indeterminate, 
+as development is influenced by temperature, food availability, and crowding. 
+Under favorable conditions, the larval period is 20-40 days. However, khapra 
+beetle frequently enter dormancy during later stages of larval development. 
+Introduction
+Biology and Ecology
+05/2023-02 Khapra Beetle Program Manual 1-3
+During dormancy, development is paused in response to adverse conditions 
+such as overcrowding, low temperature, low food quality, and/or lack of food. 
+The dormancy of khapra beetle larvae is usually referred to as a
+Text Len: 1673
+--------------------------------------------------------------------------------
+ of larval development. 
+Introduction
+Biology and Ecology
+05/2023-02 Khapra Beetle Program Manual 1-3
+During dormancy, development is paused in response to adverse conditions 
+such as overcrowding, low temperature, low food quality, and/or lack of food. 
+The dormancy of khapra beetle larvae is usually referred to as a facultative 
+diapause, where molting and feeding occur sporadically, but development to 
+the pupal stage does not occur. In the absence of food, diapausing larvae have 
+been observed to survive for several years.
+The pupation period usually lasts 4-6 days. The adult is short lived, typically 
+for 1-2 weeks. One to ten generations of khapra beetle may occur per year. 
+Under favorable conditions, khapra beetle can complete development in as 
+little as 26 days. Under less favorable conditions, diapause in the late larval 
+stage is common though larvae may resume development and pupate when 
+favorable conditions return.
+Khapra beetle is best suited to hot and dry climates, but they are tolerant of 
+both extreme cold and heat. Optimal temperature for development is around 
+30 °C. At temperatures below 20 °C or above 35 °C development is halted. 
+Khapra beetle endures adverse conditions as late stage larvae in diapause. 
+Diapausing larvae are less susceptible to fumigation treatments due to reduced 
+metabolic activity. They can also be difficult to control with contact 
+insecticides as they frequently seek refuge in cracks or crevices that are hard to 
+reach.
+Infestations
+Khapra beetles live in stored grains and other plant and animal products. Hairy 
+larval skins (exuviae) found in grain can indicate that there is
+Text Len: 1650
+--------------------------------------------------------------------------------
+ 
+metabolic activity. They can also be difficult to control with contact 
+insecticides as they frequently seek refuge in cracks or crevices that are hard to 
+reach.
+Infestations
+Khapra beetles live in stored grains and other plant and animal products. Hairy 
+larval skins (exuviae) found in grain can indicate that there is an infestation. 
+Live insects are usually in the top 50 cm of the grain pile. Larvae tend to 
+aggregate in cracks, corners, and other tight spaces in storage facilities, 
+shipping containers, or other structures without large available food sources.
+Khapra beetles can feed on a wide variety of dried plant and animal products. 
+This includes important commercially traded grains and other commodities 
+such as wheat, barley, rice, peanut, cowpea, dried distillers grain, and sorghum. 
+Khapra beetles may also feed on processed products such as dog food, protein 
+drink mix, ground grains, tapioca, dried fruits, pasta, and cereal among others. 
+Animal products like powdered milk, dried blood, dried animal skins, and fish 
+meal are also known to serve as food sources.
+Khapra beetle population growth is dependent upon host food, as well as 
+environmental conditions (temperature, humidity) and crowding. Larval 
+development is usually faster when foods with higher protein content are 
+available. For example, population growth is typically higher on wheat 
+compared to barley or rice. Similarly, processed foods such as dog food or 
+protein shake mix can provide excellent food sources for khapra beetle.
+Introduction
+Pathways of Introduction and Dispersal
+1-4 Khapra Beetle Program Manual  05/2023-02
+Pathways of Introduction and Dispersal
+Khapra beetle has been
+Text Len: 1691
+--------------------------------------------------------------------------------
+ on wheat 
+compared to barley or rice. Similarly, processed foods such as dog food or 
+protein shake mix can provide excellent food sources for khapra beetle.
+Introduction
+Pathways of Introduction and Dispersal
+1-4 Khapra Beetle Program Manual  05/2023-02
+Pathways of Introduction and Dispersal
+Khapra beetle has been intercepted at ports of entry in mail, stores, general 
+cargo, and permit cargo; however, the majority are found in passenger 
+baggage. In recent years, the number of detections of khapra beetle has 
+increased, prompting greater concern for the potential of establishment. This is 
+due to an increase in the number of travelers from countries where khapra 
+beetle is present, along with efforts to train inspectors and improve targeting of 
+inspections. 
+Khapra beetle adults are flightless, and the movement of adults and larvae is 
+limited to short distances. Infestation of grain stores or other products from the 
+surrounding environment is unlikely. Therefore, the spread of khapra beetle to 
+new areas typically occurs through the movement of host commodities. Spread 
+at a local level may occur on items such as bags, clothing, or in stored 
+products. Over long distances, the pest is spread mostly by humans in 
+commerce and trade, through household moves, and in personal baggage 
+containing dried food products. Movement of grain and seed products or 
+contaminated machinery can also spread khapra beetle. These infestations 
+present the greatest risk for spread into the domestic grain supply where trade 
+could be impacted.
+Conventions
+Conventions are established by custom and are widely recognized and 
+accepted. Major conventions used in this manual follow.
+Advisories
+Advisories are used throughout the Khapra
+Text Len: 1743
+--------------------------------------------------------------------------------
+contaminated machinery can also spread khapra beetle. These infestations 
+present the greatest risk for spread into the domestic grain supply where trade 
+could be impacted.
+Conventions
+Conventions are established by custom and are widely recognized and 
+accepted. Major conventions used in this manual follow.
+Advisories
+Advisories are used throughout the Khapra Beetle Program Manual to bring 
+important information to the user’s attention. Please carefully review each 
+advisory. The definitions coincide with the American National Standards 
+Institute (ANSI) and are in the format shown below.
+DANGER!
+The danger message is used in the event of imminent risk of death or serious injury
+! WARNING
+The warning message is used in the event of possible risk of serious injury.
+! CAUTION
+The caution message is used for tasks involving minor to moderate risk of injury.
+Introduction
+Conventions
+05/2023-02 Khapra Beetle Program Manual 1-5
+Boldface
+Boldface type is used to emphasize important words throughout this manual. 
+These words include, but are not limited to: always; cannot; do not; does not; 
+except; lacks; must; neither; never; no; nor; not; only; other than.
+Bullets
+Bulleted lists indicate that there is no order to the information listed.
+Change Bars
+Black change bars are used to indicate changes and appear on the revised 
+pages. Unfortunately, change bars do not always appear when text is merely 
+deleted. Change bars from the previous update are deleted when the chapter or 
+appendix is revised.
+Chapters
+This manual contains the following chapters: Introduction; Identification; and 
+Survey and Trapping.
+Contents
+Each chapter has a table of contents listing the heading titles within.
+Control Data
+Control data is located at
+Text Len: 1746
+--------------------------------------------------------------------------------
+ not always appear when text is merely 
+deleted. Change bars from the previous update are deleted when the chapter or 
+appendix is revised.
+Chapters
+This manual contains the following chapters: Introduction; Identification; and 
+Survey and Trapping.
+Contents
+Each chapter has a table of contents listing the heading titles within.
+Control Data
+Control data is located at the top and bottom of each page to help manual users 
+keep track of where they are in the manual and to be aware of updates to 
+specific chapters, sections, appendixes, etc., in the manual. At the top of each 
+page is the chapter title and first-level heading for that page. At the bottom of 
+each page is the transmittal number (month, year, number), title of the manual, 
+page number, and unit responsible for content.
+To track revisions to the Khapra Beetle Program Manual, use the Control 
+Data.
+Examples
+Examples are used to clarify a point by applying it to a real-world situation. 
+Examples always appear in boxes as a means of visually separating them from 
+the other information contained on the page.
+NOTICE
+The notice message is used to alert a reader of important information or Agency
+policy.
+SAFETY
+The safety message is used for general instructions or reminders related to safety.
+Introduction
+Conventions
+1-6 Khapra Beetle Program Manual  05/2023-02
+Heading Levels
+Within each chapter there are four heading levels. The first-level heading is 
+indicated by a horizontal line across both the left and right columns with the 
+heading language across the left and right columns directly underneath. The 
+second- and third-level headings are inside the margined text area with the 
+body text following underneath. The fourth-level heading is inside the 
+margined
+Text Len: 1746
+--------------------------------------------------------------------------------
+ are four heading levels. The first-level heading is 
+indicated by a horizontal line across both the left and right columns with the 
+heading language across the left and right columns directly underneath. The 
+second- and third-level headings are inside the margined text area with the 
+body text following underneath. The fourth-level heading is inside the 
+margined text area followed by a period and leading into the text.
+Hypertext Links (Highlighting) to Tables, Figures, and 
+Headings
+Figures, headings, and tables are cross-referenced in the body of the manual 
+and are highlighted in blue hypertext type.
+Indentions
+Entry requirements summarized from CFRs, import permits, or policies are 
+indented on the page.
+Italics
+Scientific names are italicized throughout the Khapra Beetle Program Manual.
+Numbering Scheme
+A two-level numbering scheme is used in this manual for pages, tables, and 
+figures. The first number represents the chapter. The second number represents 
+the page, table, or figure. This numbering scheme allows for identifying and 
+updating. Dashes are used in page numbering to differentiate page numbers 
+from decimal points.
+Transmittal Number
+The transmittal number contains the month, year, and a consecutively issued 
+number (beginning with -01 for the first edition and increasing consecutively 
+for each update to the chapter). The transmittal number is only changed when 
+specific chapter sections, appendixes, figures, tables, glossary, or index is 
+updated. If no changes are made, the transmittal number remains unchanged. 
+The transmittal number only changes for the entire manual when a new edition 
+is issued or changes are made to the entire manual.
+EXAMPLE Examples are graphically placed boxes
+Text Len: 1736
+--------------------------------------------------------------------------------
+ only changed when 
+specific chapter sections, appendixes, figures, tables, glossary, or index is 
+updated. If no changes are made, the transmittal number remains unchanged. 
+The transmittal number only changes for the entire manual when a new edition 
+is issued or changes are made to the entire manual.
+EXAMPLE Examples are graphically placed boxes within the text as a means of 
+visually separating information from other information contained on 
+the page. Examples always appear in a box like this.
+EXAMPLE See Table 1-1 if you want to report an issue with the manual or have 
+a 
+suggestion for improving the manual.
+Introduction
+Using the Manual
+05/2023-02 Khapra Beetle Program Manual 1-7
+Using the Manual
+Review the contents of this manual to get a feel for the scope of material 
+covered. Glance through the section to become familiar with the organization 
+of the information. Use the tables of contents that follow each tab to find the 
+needed information. If the tables of contents are not specific enough, turn to 
+the index to find the topic and corresponding page number.
+Reporting Issues With or Suggestions For the Khapra Beetle 
+Program Manual
+Use Table 1-1 to determine where to report issues, disagreements, or 
+improvements that directly affect the co
+ntents of the Khapra Beetle Program 
+Manual.
+Manual Updates
+The PPQ Manuals Unit electronically issues and maintains manuals on the 
+Manuals Unit Web site. The online manuals contain the most up-to-date 
+information. Immediate update revisions to the manual are issued and 
+distributed via email.
+Each immediate update contains the following information:
+Link to access and download the online manual
+List of the
+Text Len: 1689
+--------------------------------------------------------------------------------
+ and maintains manuals on the 
+Manuals Unit Web site. The online manuals contain the most up-to-date 
+information. Immediate update revisions to the manual are issued and 
+distributed via email.
+Each immediate update contains the following information:
+Link to access and download the online manual
+List of the revised page/table numbers
+EXAMPLE 01/2021-01 is the transmittal number for this update and is located in 
+the control data on the pages in this chapter.
+01 is the month the updated was issued.
+2021 is the year the update was issued.
+01 is the edition number (the entire manual has been reformatted).
+EXAMPLE To find information on trapping, see Trapping on page 2-3.
+T
+able 1-1  Reporting Issues With or Suggestions for the Khapra Beetle Program 
+Manual 
+If you: Then:
+ Are unable to access the online 
+manual
+ Have a suggestion for improving 
+the format (layout, spelling, etc.)
+CONTACT PPQ Manuals Unit at 240-529-0350 or 
+email PPQ.IRM.ISMU.Manuals.Fee dback@usda.gov
+Disagree with a policy or procedure, 
+or have
+ an urgent situation requiring 
+an immediate response
+CONTACT anne.lebrun@usda.gov
+Introduction
+Using the Manual
+1-8 Khapra Beetle Program Manual  05/2023-02
+Purpose of the revision(s)
+Transmittal number
+Ordering Additional Manuals and Revisions
+Although using the online manuals is the preferred method, APHIS employees 
+may order hard copies of manuals
+Text Len: 1393
+--------------------------------------------------------------------------------
+Introduction
+Using the Manual
+1-8 Khapra Beetle Program Manual  05/2023-02
+Purpose of the revision(s)
+Transmittal number
+Ordering Additional Manuals and Revisions
+Although using the online manuals is the preferred method, APHIS employees 
+may order hard copies of manuals from the APHIS Printing, Distribution, and 
+Mail Services Center in Riverdale, Maryland. Visit the Riverdale Print Shop 
+We
+b site for detailed information and printing costs. The Manuals Unit is not 
+responsible for printing costs.
+05/2023-02 Khapra Beetle Program Manual 2-1
+Chapter
+2
+Survey and Trapping
+Contents
+Introduction     2-1
+Selecting Survey Locations     2-1
+Trapping     2-3
+Trap Placement     2-3
+When to Trap     2-3
+Trapping Supplies     2-3
+Additional Supplies (Locally Available)     2-5
+Trap Set Up     2-6
+Areas to Avoid     2-7
+Height     2-7
+Density     2-8
+Survey Supply Procurement     2-8
+Product Names in the IPHIS Survey Supply Ordering System     2-8
+Trap Servicing and Sample Collection     2-8
+Sample Preparation and Storage     2-9
+Survey Records     2-9
+Introduction
+This chapter provides instruction on how to complete surveys for khapra 
+beetle. Early detection surveys are necessary to find small khapra beetle 
+populations in a timely
+Text Len: 1247
+--------------------------------------------------------------------------------
+
+Trap Servicing and Sample Collection     2-8
+Sample Preparation and Storage     2-9
+Survey Records     2-9
+Introduction
+This chapter provides instruction on how to complete surveys for khapra 
+beetle. Early detection surveys are necessary to find small khapra beetle 
+populations in a timely manner. This ensures that PPQ is able to eradicate the 
+infestation before khapra beetle becomes established locally and ensures trade 
+is not impacted. Delimiting surveys are used to define the extent of infestation 
+and to guide programmatic response. Monitoring surveys are used to determine 
+if treatment is successful and to ensure that the location remains free of khapra 
+beetle for an established amount of time after the initial find.
+To ensure that khapra beetle surveys 1) detect early populations and 2) provide 
+reliable negative survey data, it is critical that the surveyor follows the 
+guidance in this chapter and the Identification chapter. This chapter provides 
+guidance on how to properly plan and conduct a khapra beetle survey
+.
+Selecting Survey Locations
+Use the following information to select the highest risk locations to survey in 
+your state. Since staffing resources are often limited, you may need to rotate 
+surveys through different locations each year.
+Survey and Trapping
+Selecting Survey Locations
+2-2 Khapra Beetle Program Manual  05/2023-02
+Use locally available resources to assist you in identifying high risk sites of 
+introduction/interception. Local PPQ Smuggling Interdiction and Trade 
+Compliance (SITC) staff are a good resource to identify high risk products, as 
+well as importers, distributors, and retailers in the area. Your local U.S. 
+Customs
+Text Len: 1688
+--------------------------------------------------------------------------------
+02
+Use locally available resources to assist you in identifying high risk sites of 
+introduction/interception. Local PPQ Smuggling Interdiction and Trade 
+Compliance (SITC) staff are a good resource to identify high risk products, as 
+well as importers, distributors, and retailers in the area. Your local U.S. 
+Customs and Border Protection (CBP) contacts can assist with finding high 
+risk locations as well. In addition, you may want to include locations that have 
+received Emergency Action Notifications (EANs) for khapra beetle.
+Use the following list as a starting point to identify areas of potential risk in 
+your state in conjunction with the input from your local SITC and CBP 
+counterparts:
+A commercial location that is the known, intended destination for a 
+shipment of host material that CBP found to be infested by live khapra 
+beetle at the port of entry. Previous shipments from the same supplier are 
+possible and may have entered without inspection.
+Air cargo warehouses at international airports. These warehouses belong 
+to individual airlines that service that airport. The warehouses often 
+receive household goods and other materials that may be a pathway.
+Coffee roasters that import coffee beans in used burlap bags from khapra 
+beetle countries
+Distribution warehouses for companies that sell high-risk merchandise
+Express consignment facilities (DHL, FedEx, UPS, etc.) or other facilities 
+where potentially infested materials may pass through
+Grain dealers. If there is a known pathway for introduction of khapra 
+beetle, or if in proximity to a known
+Text Len: 1593
+--------------------------------------------------------------------------------
+ribution warehouses for companies that sell high-risk merchandise
+Express consignment facilities (DHL, FedEx, UPS, etc.) or other facilities 
+where potentially infested materials may pass through
+Grain dealers. If there is a known pathway for introduction of khapra 
+beetle, or if in proximity to a known or possible pathway, then these sites 
+may be considered much higher risk.
+Importers of brassware or other products from khapra beetle countries 
+packaged in burlap bags
+Importers of bulk grains and spices from khapra beetle countries. 
+Importers who repackage these products within the warehouse for retail 
+distribution are highest risk. Examples include but are not limited to dried 
+chickpeas, cracked corn, cracked or bulghur wheat, and hibiscus.
+Importers of manufactured, processed, or otherwise pre-packaged host 
+material that is ready for retail sale from khapra beetle countries
+Military facilities where returning luggage or household goods are stored
+Retail markets selling materials outlined above
+Transload facilities, locations where container cargo is transferred from 
+one load unit to another. When a container is transloaded, it usually 
+occurs at a facility that is close to a port terminal. A container will be 
+taken into a facility and transferred to a domestic container or truckload.
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-3
+Trapping
+Trap Placement
+Survey a new facility with a company representative, if possible, to identify 
+locations before placing traps. Check
+Text Len: 1544
+--------------------------------------------------------------------------------
+. A container will be 
+taken into a facility and transferred to a domestic container or truckload.
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-3
+Trapping
+Trap Placement
+Survey a new facility with a company representative, if possible, to identify 
+locations before placing traps. Check exit and entry areas, as well as any 
+storage locations on the premises. Observe the movement of products, 
+containers, and/or people handling products which could have been exposed to 
+khapra beetle.
+Be alert for cartons, burlap or jute sacks, debris, woodwork, cracks, loose 
+plaster, loose paint, and other such hiding places. Carefully inspect rodent bait 
+stations and other such traps with grain or cereal. Khapra beetle are attracted to 
+dirty grain and storage or handling facilities; conversely, sanitary conditions 
+are a deterrent. Areas of low light are also favorable for khapra beetle.
+In empty bins and warehouses, larvae are likely to be in or on ledges, cracks in 
+the floor or walls, old cartons, rags, sacks, newspapers, scrap lumber, or other 
+debris. Elevator tunnels also serve as hiding places for khapra beetle larvae. 
+When inspecting sacked material, the ears and seams of bags are common 
+hiding places for the beetle and should be inspected. In bulk storage where 
+heavy infestations may occur, larvae tend to congregate in the surface grain 
+and on or near the walls. Look for cast larval skins as a sign of an active 
+infestation.
+When to Trap
+Conduct surveys when average temperatures are above 70 ºF in the trapping 
+environment. Survey outdoor areas throughout the warm season. 
+Environmental conditions may
+Text Len: 1653
+--------------------------------------------------------------------------------
+
+heavy infestations may occur, larvae tend to congregate in the surface grain 
+and on or near the walls. Look for cast larval skins as a sign of an active 
+infestation.
+When to Trap
+Conduct surveys when average temperatures are above 70 ºF in the trapping 
+environment. Survey outdoor areas throughout the warm season. 
+Environmental conditions may be less severe than prevailing weather 
+conditions in areas immediately surrounding ports and grain processing and 
+storage facilities. Use practical judgment to determine if temperatures are 
+warm enough. In more temperate areas, conduct surveys from mid-May 
+through mid-September. In heated warehouses, food storage and processing 
+areas, dwellings, and other moderated environments, surveys with traps are 
+appropriate at any time of year.
+Trapping Supplies
+The Khapra Beetle Wall Mount Trap Kit contains all supplies necessary to 
+complete a khapra beetle survey. The kit includes:
+Six khapra beetle wall-mounted traps (Figure 2-1)
+Seven khapra beetle pheromone lures (Figure 2-2)
+Or
+ganic wheat germ (the food bait for the beetle) (Figure 2-3)
+Plastic collection tray for wh
+eat germ (Figure 2-4)
+Survey and Trapping
+Trapping
+2-4 Khapra Beetle Program Manual  05/2023-02
+One decoy sticky trap (Figure 2-5)
+The wall mount traps may be re-used.
+Use the decoy aerial trap to capture warehouse beetle, T
+rogoderma variabile 
+Ballion adults and minimize their numbers in khapra beetle wall traps. The 
+warehouse beetle is often present
+Text Len: 1495
+--------------------------------------------------------------------------------
+/2023-02
+One decoy sticky trap (Figure 2-5)
+The wall mount traps may be re-used.
+Use the decoy aerial trap to capture warehouse beetle, T
+rogoderma variabile 
+Ballion adults and minimize their numbers in khapra beetle wall traps. The 
+warehouse beetle is often present in warehouses and it is difficult to distinguish 
+between warehouse beetle and khapra beetle. Since both species are attracted 
+to the same pheromone lure, warehouse beetles may overwhelm khapra beetle 
+traps. However, since the warehouse beetle is a strong flyer, unlike khapra 
+beetle, which does not fly, use the aerial decoy trap to minimize or exclude 
+warehouse beetles collected in khapra beetle wall traps.
+Fit the decoy aerial trap with one of the khapra beetle lures and hang it high in 
+the open head space of the building. Use one aerial trap for every five to six 
+khapra beetle wall-mounted traps.
+Figure 2-1  Khapra Beetle Wall-Mounted Trap
+Figure 2-2  Khapra Beetle Pheromone Lure
+
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-5
+Additional Supplies (Locally Available)
+Aspirator or vacuum collection device (may be sourced from vendors 
+such as BioQuip Products)
+Brightly colored flagging (to help you find traps for return visits)
+Cooler with ice packs
+Disposable gloves (for sweep sampling)
+Double-sided tape or another adhesive (Gorilla brand tape works well)
+Figure
+Text Len: 1392
+--------------------------------------------------------------------------------
+ BioQuip Products)
+Brightly colored flagging (to help you find traps for return visits)
+Cooler with ice packs
+Disposable gloves (for sweep sampling)
+Double-sided tape or another adhesive (Gorilla brand tape works well)
+Figure 2-3  Organic Wheat Germ
+Figure 2-4  Plastic Collection Tray with Wheat Germ
+Figure 2-5  Decoy Aerial Trap with Khapra Beetle Pheromone Lure
+
+Survey and Trapping
+Trapping
+2-6 Khapra Beetle Program Manual  05/2023-02
+Dust mask (for sweep sampling)
+Forceps
+Hard hat
+Headlamp
+Labels for samples
+Orange safety vest
+Permanent marker
+Pencil
+Plastic bins to store and provide easy access to equipment
+Plastic re-sealable bags (sandwich and gallon sized)
+Small paintbrush for brushing insects out of the trap
+Wipes or paper towels to clean the wall surface before hanging traps
+Trap Set Up
+Follow the instructions from the manufacturer that are included with the trap 
+kit to assemble the traps. Use a permanent marker to label each trap with a 
+unique identification number, for instance County Code-Facility Code-Trap 
+Number. Use the wall mount trap inside and outside structures. Place traps 
+around the inside of exterior walls and along interior walls of structures under 
+investigation (Figure 2-6).
+Text Len: 1255
+--------------------------------------------------------------------------------
+ included with the trap 
+kit to assemble the traps. Use a permanent marker to label each trap with a 
+unique identification number, for instance County Code-Facility Code-Trap 
+Number. Use the wall mount trap inside and outside structures. Place traps 
+around the inside of exterior walls and along interior walls of structures under 
+investigation (Figure 2-6). Pay special attention to cracks in the walls and 
+walls made of porous materials like cement blocks. Cracks may serve as 
+pathways for ins
+ect movement. If possible, place a trap over a wall crack if one 
+is found.
+Clean the wall thoroughly before attaching the trap to the wall. An alcohol prep 
+pad or paper towel soaked with ethanol works well to clean the wall. Allow the 
+wall to dry before affixing the trap to the wall. You may use any locally 
+available double-sided foam tape (Gorilla brand, 3M, double-sided foam tape, 
+etc.). Duct tape does not work well for this purpose. Replacing the tape is often 
+Figure 2-6  Correct Placement of Khapra Beetle Trap
+
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-7
+necessary when servicing traps. Do not cover the entry holes on the back of the 
+trap. Use an opened paper clip to open the side tabs, which may not be 
+perforated completely. When attaching the trap to the wall, make sure that all 
+four back entry tabs are in contact with the wall and that the trap is also 
+attached loosely enough so that entry holes are not closed (Figure 2-7). These 
+are the places where the larvae will enter the trap.
+Be aware that the trap adhesive or tape (if used) may remove some paint from 
+w
+Text Len: 1624
+--------------------------------------------------------------------------------
+ to the wall, make sure that all 
+four back entry tabs are in contact with the wall and that the trap is also 
+attached loosely enough so that entry holes are not closed (Figure 2-7). These 
+are the places where the larvae will enter the trap.
+Be aware that the trap adhesive or tape (if used) may remove some paint from 
+walls when the trap or tape is removed. Let the facility know this. 
+You may 
+need to choose a less prominent location.
+Fill the plastic collection tray with wheat germ (Figure 2-3). Fill the dish only 
+1/4 to 1/3 full, being careful no
+t to spill wheat germ in the trap, and keeping it 
+vertically oriented after assembly through attachment to the wall.
+Areas to Avoid
+Areas exposed to human activities such as sweeping, foot traffic, or frequent 
+use of mechanized equipment may lead to trap loss. Placement in very oily or 
+damp locations will lead to trap damage or poor adhesion. Slippery surfaces, 
+such as metal, plastic, glossy painted concrete, or glass walls may inhibit 
+khapra beetle movement.
+Height
+Mount traps as low as possible to maximize captures. However, in most cases, 
+to avoid trap loss from maintenance activities, mount the traps at least above 
+broom height. Look for locations up to about 2 feet off the floor where they can 
+be easily serviced.
+Figure 2-7  Wall Trap with Back Entry Tabs Opened Correctly
+
+Survey and Trapping
+Survey Supply Procurement
+2-8 Khapra Beetle Program Manual  05/2023-02
+Density
+Allow 25 to 40 feet between traps or base the placement of traps on the layout 
+of buildings. The more traps that are set, the greater the chance of finding
+Text Len: 1611
+--------------------------------------------------------------------------------
+ Wall Trap with Back Entry Tabs Opened Correctly
+
+Survey and Trapping
+Survey Supply Procurement
+2-8 Khapra Beetle Program Manual  05/2023-02
+Density
+Allow 25 to 40 feet between traps or base the placement of traps on the layout 
+of buildings. The more traps that are set, the greater the chance of finding 
+khapra beetle, if present. However, if there are too many buildings and travel is 
+a problem, half of the locations can be trapped in alternate years. This way, a 
+building can be more intensively trapped, thus increasing the chances of 
+finding khapra beetle.
+Survey Supply Procurement
+Order all traps and lures through the IPHIS Survey Supply Ordering System. 
+Follow the national guidance for procuring traps and lures during the two 
+ordering open periods each year. If you need immediate assistance, contact 
+Laurie Morales at laurie.m.morales@usda.gov or 970-494-7535 or Darrell 
+Bays at darrell.a.bays@usda.gov or 919-500-9959.
+When ordering the trap kits, be sure to order additional lures so that you can 
+change out the lures during the trapping season.
+Product Names in the IPHIS Survey Supply Ordering System
+Khapra Beetle Wall Mount Trap Kit (includes 6 traps and 7 lures)
+Khapra Beetle Lure (additional lures that can be ordered)
+If you need to purchase additional organic wheat germ, it may be purchased 
+locally; however, it must be organic wheat germ.
+Trap Servicing and Sample Collection
+Check traps every 1-2 weeks. When inspecting the trap, dump the contents of
+Text Len: 1492
+--------------------------------------------------------------------------------
+ures)
+Khapra Beetle Lure (additional lures that can be ordered)
+If you need to purchase additional organic wheat germ, it may be purchased 
+locally; however, it must be organic wheat germ.
+Trap Servicing and Sample Collection
+Check traps every 1-2 weeks. When inspecting the trap, dump the contents of 
+the plastic collection tray (including the wheat germ and any insects) into a 
+resealable plastic bag. Inspect the trap for any other larvae that have not yet 
+reached the collection tray. You can do this by tapping the tray into the plastic 
+bag and using a fine paintbrush to dislodge any insects into the tray. Place a 
+label on or inside each bag with a unique trap identification number, date of 
+location, and facility name. Place the bag in a cooler with ice packs.
+Refill the plastic collection tray with fresh wheat germ. Do not dispose of used 
+wheat germ onsite. Even if there are no visible insects present in the wheat 
+NOTICE
+It can be difficult to remove the wheat germ tray when servicing the trap. If this is an 
+issue, the entire trap may be removed at each sample collection, and a new trap 
+placed.
+Survey and Trapping
+Survey Records
+05/2023-02 Khapra Beetle Program Manual 2-9
+germ, bring the used wheat germ back to the lab/office for proper disposal. See 
+the Identification chapter for further information.
+The khapra beetle lure is ef
+fective for 28 days. Change lures in both the khapra 
+beetle and decoy traps every 28 days.
+When checking a trap for the last time and removing it, place the complete trap 
+in a resealable plastic bag. Place a label inside the
+Text Len: 1591
+--------------------------------------------------------------------------------
+ 
+the Identification chapter for further information.
+The khapra beetle lure is ef
+fective for 28 days. Change lures in both the khapra 
+beetle and decoy traps every 28 days.
+When checking a trap for the last time and removing it, place the complete trap 
+in a resealable plastic bag. Place a label inside the bag with a unique trap 
+identification number, date, and facility name.
+Before leaving each facility, wipe down any tubs or containers that you 
+brought into the facility with a lab wipe or paper towel soaked with ethanol. 
+Clean your boots and clothing well before traveling in the government owned 
+vehicle to avoid tracking khapra beetle life stages to other locations.
+Sample Preparation and Storage
+Keep specimens as cool as possible. Transport samples back to the lab in a 
+cooler. At the lab, if samples cannot be sorted and screened immediately, store 
+the samples in a freezer. Place the entire plastic bag with the trap contents in 
+the freezer. For samples taken from the last trap servicing of the season, freeze 
+the entire trap inside a plastic bag. This will prevent sample degradation and 
+also the potential for larvae or adults to escape into the lab. Larvae otherwise 
+may degrade to the point where they are difficult to find within sweepings or 
+food baits. Such precautions will also help with potential visual or molecular 
+identification. 
+Refer to the Identification chapter for instructions on sample sorting, sample 
+screening, specimen routing, and taxonomic guidelines.
+Survey Records
+Enter survey records into the Integrated Plant Health Information System 
+(IPHIS) under the template Khapra Beetle Detection. The types of data that 
+will be collected are: location, date, host, activity (install, remove, or trap 
+check), and lure
+Text Len: 1771
+--------------------------------------------------------------------------------
+ sample sorting, sample 
+screening, specimen routing, and taxonomic guidelines.
+Survey Records
+Enter survey records into the Integrated Plant Health Information System 
+(IPHIS) under the template Khapra Beetle Detection. The types of data that 
+will be collected are: location, date, host, activity (install, remove, or trap 
+check), and lure.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or Plant Protection Act (PPA) 7721-funded khapra beetle surveys.
+Survey and Trapping
+Survey Records
+2-10 Khapra Beetle Program Manual  05/2023-02
+04/2024-03 Khapra Beetle Program Manual 3-1
+Chapter
+3
+Identification
+Contents
+Introduction     3-1
+Sorting and Screening     3-1
+Specimen Routing and Taxonomic Guidelines     3-3
+Results Reporting     3-4
+Introduction
+This chapter provides guidance for individuals who will process trap 
+collections and submit samples of suspected khapra beetles for identification. 
+In addition, the chapter provides information for specimen routing and results 
+reporting.
+Sorting and Screening
+Sort and screen trap collections before submitting specimens for identification. 
+Sorting raw trap samples requires familiarity with insect groups and 
+experience in examining specimens. Sorting is the first level of activity that 
+assures samples submitted are of the correct target group of pests being 
+surveyed. Sorting samples in a khapra beetle survey involves removal of non-
+beetle specimens.
+Screening is removing obvious beetle larvae or adults not fitting the general 
+Text Len: 1634
+--------------------------------------------------------------------------------
+ requires familiarity with insect groups and 
+experience in examining specimens. Sorting is the first level of activity that 
+assures samples submitted are of the correct target group of pests being 
+surveyed. Sorting samples in a khapra beetle survey involves removal of non-
+beetle specimens.
+Screening is removing obvious beetle larvae or adults not fitting the general 
+descriptions of dermestid or similar-looking beetle families. Screening in a 
+khapra beetle survey involves removal of non-dermestid beetles before 
+specimens are submitted to a PPQ Identifier.
+Freeze samples according to the directions outlined in the Survey and Trapping 
+Chapter
+. Pour the frozen contents of the trap onto a lab tray. Remove wheat 
+germ and other debris. Remove insects that are not beetles. To the best of your 
+ability, remove any beetles that are not in the Dermestidae family. When in 
+doubt, keep the insect in the final sample to be submitted.
+NOTICE
+Microscopes with 10X–15X magnification are recommended for sorting and
+screening.
+Identification
+Sorting and Screening
+3-2 Khapra Beetle Program Manual  04/2024-03
+The following linked module, developed for Customs and Border Protection 
+Agriculture Specialists, provides useful background on sorting and screening 
+of domestic survey samples: Dermestid Beetle Recognition and Screening Aid.
+Whenever an entire trap is removed and replaced, such as during the last trap 
+servicing of the season, thoroughly inspect for larvae that may be hidden 
+inside. Gently dismantle the trap and inspect the corrugated cardboard and the 
+entire interior of the trap. Khapra beetle larv
+ae are attracted to the corrugated 
+cardboard, and specimens may be found
+Text Len: 1698
+--------------------------------------------------------------------------------
+ trap is removed and replaced, such as during the last trap 
+servicing of the season, thoroughly inspect for larvae that may be hidden 
+inside. Gently dismantle the trap and inspect the corrugated cardboard and the 
+entire interior of the trap. Khapra beetle larv
+ae are attracted to the corrugated 
+cardboard, and specimens may be found within the folds of the cardboard. 
+Separate the corrugated cardboard to examine for larvae within the folds. Use a 
+fine paintbrush to dislodge any insects from the cardboard. If the specimen is 
+caught in adhesive, cut the insect out of the trap with scissors so that only a 
+small piece of trap backing remains.
+The following resources are useful guides for identification of suspect 
+specimens from sorted or screened samples:
+Dermestidae Adults Self-tutorial 
+Dermestidae Larvae Self-tutorial 
+If th
+e trap was not previously frozen, place the entire trap in a freezer for 15 
+days before disposal or reuse after the trap has been inspected. The majority of 
+household freezers maintain temperatures from -9 °F to 0 °F.
+Likewise, freeze any used wheat germ for 15 days before disposal, even if 
+suspect specimens are not found.
+Place insect larvae and adults in vials with non-denatured 95% or higher ethyl 
+alcohol.
+NOTICE
+A small paintbrush moistened with alcohol is useful for moving suspect specimens 
+from the sample to a vial without damaging the specimens.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or PPA Section
+Text Len: 1609
+--------------------------------------------------------------------------------
+ small paintbrush moistened with alcohol is useful for moving suspect specimens 
+from the sample to a vial without damaging the specimens.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or PPA Section 7721-funded khapra beetle surveys.
+Identification
+Specimen Routing and Taxonomic Guidelines
+04/2024-03 Khapra Beetle Program Manual 3-3
+Specimen Routing and Taxonomic Guidelines
+Identification of dermestid beetle larvae or adults recovered from khapra beetle 
+survey traps is difficult and requires specialized training. State or PPQ offices 
+given the responsibility for this survey should consider the ability, experience, 
+and expertise of those assigned to the various steps of sorting, screening, and 
+identification of trap samples to ensure quality data is collected.
+Qualified state, county, or cooperating university personnel can screen and 
+perform tentative identification of suspected khapra beetle specimens. The 
+specimens must be forwarded with a completed PPQ Form 391 to a PPQ 
+domestic identifier. (Many PPQ port identifiers are skilled at identifying 
+Trogoderma granarium, but their workloads normally do not allow processing 
+of domestic samples). Suspect Trogoderma spp. going to a domestic identifier 
+should be entered into the Agricultural Risk Management system (ARM) by 
+those who have access. 
+The domestic identifiers can also enter these records if 
+necessary for samples going forward for final confirmation.
+The domestic identifiers listed below will accept specimens for possible 
+dissection, forwarding to the USDA Systematic Entomology Laboratory for 
+final confirmation, and logging into the ARM database.
+Before initiating delimiting surveys and/
+Text Len: 1822
+--------------------------------------------------------------------------------
+ (ARM) by 
+those who have access. 
+The domestic identifiers can also enter these records if 
+necessary for samples going forward for final confirmation.
+The domestic identifiers listed below will accept specimens for possible 
+dissection, forwarding to the USDA Systematic Entomology Laboratory for 
+final confirmation, and logging into the ARM database.
+Before initiating delimiting surveys and/or control activities in the United 
+States, a specialist recognized by USDA-APHIS-PPQ National Identification 
+Services (NIS) must confirm the specimen is khapra beetle. All Trogoderma 
+species that are not khapra beetle will be recorded as Trogoderma sp. (not T. 
+granarium). All specimens that NIS morphologically confirm as khapra beetle 
+collected during domestic surveys require molecular confirmation.
+For confirmatory identification, follow the steps here: Request Official 
+Confirmation of Preliminary Pest Identifications of Domestic Samples
+Prior to each survey season (fall/winter), confirm by phone or email with the 
+identifier that they have the capacity to process your sample(s). Include the 
+following information:
+Expected number of samples for the survey season
+Name and email of person who will be submitting samples
+Always n
+otify the identifier that samples are being mailed along with the 
+following information:
+The number of samples and how many adults and larvae in each
+The shipment’s tracking number
+Identification
+Results Reporting
+3-4 Khapra Beetle Program Manual  04/2024-03
+For the Eastern States, both PPQ surveyors and/or state taxonomists may send 
+screened specimens (to Dermestidae) to:
+Bobby Brown
+Department of Entom
+Text Len: 1660
+--------------------------------------------------------------------------------
+
+The shipment’s tracking number
+Identification
+Results Reporting
+3-4 Khapra Beetle Program Manual  04/2024-03
+For the Eastern States, both PPQ surveyors and/or state taxonomists may send 
+screened specimens (to Dermestidae) to:
+Bobby Brown
+Department of Entomology, Purdue University
+Smith Hall
+901 W. State Street
+West Lafayette, IN 47907-2089
+robert.c.brown@usda.gov
+Phone: 765-496-9673
+For the W
+estern States, both PPQ and/or state taxonomists may send screened 
+specimens (to Dermestidae) to:
+Xanthe Shirley
+USDA, APHIS, PPQ
+2771 F&B Road, Building 2, Room 105
+College Station, TX 77845
+xanthe.a.shirley@usda.gov
+Phone: 512-383-2474
+For States with no taxonomist and/or screening ability
+, the domestic identifiers 
+can accept sorted or screened samples with prior arrangement. Contact the 
+National Operations Manager for Khapra Beetle to arrange taxonomic 
+assistance (feridoon.mehdizadegan@usda.gov).
+Results Reporting
+Negative results from identifiers will be communicated directly back to the 
+submitter. Morphological determinations of “Trogoderma sp. (not granarium)” 
+are considered negative results. No additional information is required for 
+specimens with final determinations of “Trogoderma sp. (not granarium)”.
+Any suspect positives going to SEL for molecular confirmation will be 
+communicated via the PPQ Domestic Diagnostics Coordinator to the khapra 
+beetle
+Text Len: 1382
+--------------------------------------------------------------------------------
+ (not granarium)” 
+are considered negative results. No additional information is required for 
+specimens with final determinations of “Trogoderma sp. (not granarium)”.
+Any suspect positives going to SEL for molecular confirmation will be 
+communicated via the PPQ Domestic Diagnostics Coordinator to the khapra 
+beetle cross functional working group members as well as the State Plant 
+Health Director and State Plant Regulatory Official of the state of origin.
+01/2022-01 Khapra Beetle Program Manual Index-1
+Khapra Beetle 
+Program 
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Index
+A
+alcohol 3-2
+aspirator 2-5
+B
+beetle larvae 3-3
+biology 1-2
+brassware 2-2
+bulk grains 2-2
+bulk storage 2-3
+burlap sacks 2-3
+C
+cartons 2-3
+cement blocks 2-6
+cereal 1-3, 2-3
+coffee roasters 2-2
+colored flagging 2-5
+control activities 3-3
+cooler 2-5, 2-8
+cooperating university personnel 3-3
+corrugated cardboard 3-2
+cracks 1-3, 2-3, 2-6
+crowding 1-2, 1-3
+D
+data 3-3
+debris 2-3
+decoy sticky trap 2-4
+decoy traps 2-4, 2-5, 2-9
+delimiting surveys 2-1, 3-3
+Dermestid Beetle Recognition and Screening Aid
+Text Len: 1089
+--------------------------------------------------------------------------------
+3, 2-3, 2-6
+crowding 1-2, 1-3
+D
+data 3-3
+debris 2-3
+decoy sticky trap 2-4
+decoy traps 2-4, 2-5, 2-9
+delimiting surveys 2-1, 3-3
+Dermestid Beetle Recognition and Screening Aid 3-
+2
+Dermestidae 1-2, 3-1, 3-4
+diapause 1-3
+disposable gloves 2-5
+distribution warehouses 2-2
+Domestic Diagnostics Coordinator 3-4
+domestic identifier
+Eastern States 3-4
+Western States 3-4
+domestic survey samples 3-2
+dormancy 1-2
+double-sided foam tape 2-6
+double-sided tape 2-5
+dust mask 2-6
+E
+ears of bags 2-3
+eggs 2-9
+elevator tunnels 2-3
+entry tabs 2-7
+environmental conditions 1-3, 2-3
+ethyl alcohol 3-2
+examining specimens 3-1
+express consignment facilities 2-2
+exterior walls 2-6
+F
+facultative diapause 1-3
+final confirmation 3-3
+final determinations 3-4
+food baits 2-3, 2-9
+freezer 2-9
+G
+gloves 2-5
+grain 1-2, 1-3, 1-4, 2-3
+grain dealers 2-2
+grain pile 1-3
+grain processing facilities 2-3
+H
+hard hat 2-6
+headlamp 2-6
+hiding places 2-3
+highest risk locations 2-1
+I
+ice packs 2-5, 2-8
+identification of trap samples 3-3
+identifiers 3-4
+infestations
+Text Len: 1029
+--------------------------------------------------------------------------------
+3
+grain dealers 2-2
+grain pile 1-3
+grain processing facilities 2-3
+H
+hard hat 2-6
+headlamp 2-6
+hiding places 2-3
+highest risk locations 2-1
+I
+ice packs 2-5, 2-8
+identification of trap samples 3-3
+identifiers 3-4
+infestations 1-3
+Integrated Plant Health Information System 2-9
+interior walls 2-6
+international airports 2-2
+IPHIS Survey Supply Ordering System 2-8
+J
+jute sacks 2-3
+L
+labels for samples 2-6
+larvae 1-2, 1-3, 2-7, 2-8, 2-9, 3-2, 3-3
+larval instars 1-2
+larval stage 1-2
+last trap servicing of the season 2-9, 3-2
+ledges 2-3
+lifecycle 1-2
+live insects 1-3
+loose paint 2-3
+loose plaster 2-3
+lures 2-4, 2-8, 2-9
+M
+manufacturer’s instructions 2-9, 3-2
+military facilities 2-2
+molecular confirmation 3-4
+molecular identification 2-9
+molting 1-3
+monitoring surveys 2-1
+Index
+Index-2 Khapra Beetle Program Manual  01/2022-01
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+morphological determinations 3-4
+N
+National Identification Services 3-3
+National Operations Manager 3-4
+negative results 3-4
+negative survey data 2-
+Text Len: 1029
+--------------------------------------------------------------------------------
+
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+morphological determinations 3-4
+N
+National Identification Services 3-3
+National Operations Manager 3-4
+negative results 3-4
+negative survey data 2-1
+non-infested areas 1-2
+O
+optimal temperature for development 1-3
+orange safety vest 2-6
+organic wheat germ 2-3, 2-5, 2-8
+outdoor areas 2-3
+P
+paintbrush 2-6, 2-8, 3-2
+paper towels 2-6
+pathways of introduction and dispersal 1-4
+pencil 2-6
+permanent marker 2-6
+pheromone lure 2-3, 2-4, 2-5
+placement of traps 2-8
+plastic bins 2-6
+plastic collection tray 2-3, 2-5, 2-7, 2-8
+plastic re-sealable bags 2-6
+population growth 1-3
+ports of entry 1-4
+PPQ Form 391 3-3
+PPQ port identifiers 3-3
+pre-packaged host material 2-2
+processed products 1-3
+pupation 1-3
+Purdue University 3-4
+R
+rearing out of specimens 2-9, 3-2
+resources 3-2
+results reporting 3-1, 3-4
+retail markets 2-2
+S
+safety vest 2-6
+sample collection 2-8
+sample degradation 2-9
+sample preparation and storage 2-9
+sanitary conditions 2-3
+screened samples 3-2, 3-4
+screening 3-1, 3-3
+screening ability 3-
+Text Len: 1049
+--------------------------------------------------------------------------------
+2
+results reporting 3-1, 3-4
+retail markets 2-2
+S
+safety vest 2-6
+sample collection 2-8
+sample degradation 2-9
+sample preparation and storage 2-9
+sanitary conditions 2-3
+screened samples 3-2, 3-4
+screening 3-1, 3-3
+screening ability 3-4
+selecting survey locations 2-1
+sorted samples 3-2, 3-4
+sorting 3-1, 3-3
+specimen 3-2
+specimen routing 2-9, 3-1, 3-3
+specimens 2-9, 3-3
+specimens for identification 3-1
+storage facilities 1-3, 2-3
+storage locations 2-3
+stored food products 1-2
+stored grains 1-3
+stored products 1-4
+structures under investigation 2-6
+supplies 2-5, 2-8
+survey
+locations 2-2
+records 2-9
+season 3-3
+survey supply procurement 2-8
+suspect positives 3-4
+suspect specimens 3-2
+sweep sampling 2-5
+sweepings 2-9
+Systematic Entomology Laboratory 3-3
+T
+taxonomic assistance 3-4
+taxonomic guidelines 2-9, 3-3
+temperate areas 2-3
+tentative identification 3-3
+tracking number 3-3
+transload facilities 2-2
+trap backing 3-2
+trap collections 3-1
+trap contents 2-9
+trap identification number 2-8
+trap kits 2-8
+trap loss 2-7
+trap servicing 2-8
+trap set up 2-6
+trapping 2-3
+trapping environment 2-3
+areas to avoid 2-7
+trapping supplies 2-3
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+2
+trap backing 3-2
+trap collections 3-1
+trap contents 2-9
+trap identification number 2-8
+trap kits 2-8
+trap loss 2-7
+trap servicing 2-8
+trap set up 2-6
+trapping 2-3
+trapping environment 2-3
+areas to avoid 2-7
+trapping supplies 2-3
+Trogoderma granarium Everts 1-2
+Trogoderma species 3-3
+Trogoderma variable 2-4
+V
+vacuum collection device 2-5
+visual identification 2-9
+W
+wall mount trap kit 2-3
+wall mounted traps 2-6
+wall-mounted traps 2-3, 2-4
+warehouse beetle 2-4
+warehouses 2-2, 2-3, 2-4
+wheat germ 2-3, 2-5, 2-7, 2-8, 3-1
+when to trap 2-3
+Text Len: 541
+--------------------------------------------------------------------------------
+Khapra Beetle Program Manual
+
+Some processes, equipment, and materials described in this manual may be patented. Inclusion in this 
+manual does not constitute permission for use from the patent owner. The use of any patented invention in 
+the performance of the processes described in this manual is solely the responsibility of the user. APHIS 
+does not indemnify the user against liability for patent infringement and will not be liable to the user or to any 
+third party for patent infringement.
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the 
+basis of race, color, national origin, age, disability, and where applicable, sex, marital status, familial status, 
+parental status, religion, sexual orientation, genetic information, political beliefs, reprisal, or because all or 
+part of any individual’s income is derived from any public assistance program. (Not all prohibited bases 
+apply to all programs). Persons with disabilities who require alternative means for communication of 
+program information (Braille, large print, audiotape, etc.) should contact USDA’s TARGET Center at (202) 
+720-2600 (voice and TDD). To file a complaint of discrimination, write to USDA, Director, Office of Civil 
+Rights, 1400 Independence Avenue, SW., Washington, DC 20250-9410, or call (800) 795-3272 (voice) or 
+(202) 720-6382 (TDD). USDA is an equal opportunity provider and employer.
+When using pesticides, read and follow all label instructions.
+First Edition Issued 2022
+01/2022-01 Khapra Beetle Program Manual TOC-1
+Khapra Beetle 
+Program 
+Contents
+Khapra Beetle Program Manual 1-1
+Contents TOC-1
+List of Figures LOF
+Text Len: 1673
+--------------------------------------------------------------------------------
+TDD). USDA is an equal opportunity provider and employer.
+When using pesticides, read and follow all label instructions.
+First Edition Issued 2022
+01/2022-01 Khapra Beetle Program Manual TOC-1
+Khapra Beetle 
+Program 
+Contents
+Khapra Beetle Program Manual 1-1
+Contents TOC-1
+List of Figures LOF-1
+Acknowledgments Acknowledgements-1
+Introduction 1-1
+Survey and Trapping 2-1
+Identification 3-1
+Index Index-1
+TOC-2 Khapra Beetle Program Manual  01/2022-01
+01/2022-01 Khapra Beetle Program Manual LOF-1
+Khapra Beetle 
+Program 
+List of Figures
+Figure 2-1 Khapra Beetle Wall-Mounted Trap 2-4
+Figure 2-2 Khapra Beetle Pheromone Lure 2-4
+Figure 2-3 Organic Wheat Germ 2-5
+Figure 2-4 Plastic Collection Tray with Wheat Germ 2-5
+Figure 2-5 Decoy Aerial Trap with Khapra Beetle Pheromone Lure 2-5
+Figure 2-6 Correct Placement of Khapra Beetle Trap 2-6
+Figure 2-7 Wall Trap with Back Entry Tabs Opened Correctly 2-7
+List of Figures
+LOF-2 Khapra Beetle Program Manual  01/2022-01
+01/2022-01 Khapra Beetle Program Manual Acknowledgements-1
+Khapra Beetle 
+Program 
+Acknowledgments
+Cover photograph courtesy of USDA-APHIS-PPQ Sindhu Krishnankutty.
+Acknowledgments
+Acknowledgements-2 Khapra Beetle Program Manual  01/2022-01
+05/2023-02 Khapra Beetle Program Manual 1-1
+Chapter
+1
+Introduction
+Contents
+
+Text Len: 1283
+--------------------------------------------------------------------------------
+-1
+Khapra Beetle 
+Program 
+Acknowledgments
+Cover photograph courtesy of USDA-APHIS-PPQ Sindhu Krishnankutty.
+Acknowledgments
+Acknowledgements-2 Khapra Beetle Program Manual  01/2022-01
+05/2023-02 Khapra Beetle Program Manual 1-1
+Chapter
+1
+Introduction
+Contents
+Purpose of the Khapra Beetle Program Manual     1-2
+Background     1-2
+Biology and Ecology     1-2
+Lifecycle     1-2
+Infestations     1-3
+Pathways of Introduction and Dispersal     1-4
+Conventions     1-4
+Advisories     1-4
+Boldface     1-5
+Bullets     1-5
+Change Bars     1-5
+Chapters     1-5
+Contents     1-5
+Control Data     1-5
+Examples     1-5
+Heading Levels     1-6
+Hypertext Links (Highlighting) to Tables, Figures, and Headings     1-6
+Indentions     1-6
+Italics     1-6
+Numbering Scheme     1-6
+Transmittal Number     1-6
+Using the Manual     1-7
+Reporting Issues With or Suggestions For the Khapra Beetle Program 
+Manual     1-7
+Manual Updates     1-7
+Ordering Additional Manuals and Revisions     1-8
+Introduction
+Purpose of the Khapra Beetle Program
+Text Len: 1022
+--------------------------------------------------------------------------------
+   1-6
+Using the Manual     1-7
+Reporting Issues With or Suggestions For the Khapra Beetle Program 
+Manual     1-7
+Manual Updates     1-7
+Ordering Additional Manuals and Revisions     1-8
+Introduction
+Purpose of the Khapra Beetle Program Manual
+1-2 Khapra Beetle Program Manual  05/2023-02
+Purpose of the Khapra Beetle Program Manual
+The APHIS PPQ Khapra Beetle Program Manual is intended to provide 
+information to guide PPQ Field Operations and cooperators in the following 
+areas:
+Survey and sampling to detect isolated infestations at low population 
+levels
+Eradication efforts on isolated infestations
+Prevention of human assisted spread of khapra beetle to non-infested 
+areas
+Background
+The khapra beetle, Trogoderma granarium Everts (Coleoptera: Dermestidae), 
+is a destructive pest of grain, seeds, and stored food products. Additionally, 
+food products infested by khapra beetle pose a threat to humans as hairs and 
+cast skins from larvae are known allergens and a respiratory hazard. Originally 
+native to the Indian subcontinent, it has expanded into other parts of Asia, 
+Africa, and Europe. Khapra beetle and associated host material are regulated 
+by the USDA under authority of 7 CFR 319.75. While khapra beetle is no t 
+known to occur in the United States, interceptions at ports of entry are common 
+and the pest risk potential of khapra beetle is high. If khapra beetle were to 
+become established in the United States, it
+Text Len: 1448
+--------------------------------------------------------------------------------
+ra beetle and associated host material are regulated 
+by the USDA under authority of 7 CFR 319.75. While khapra beetle is no t 
+known to occur in the United States, interceptions at ports of entry are common 
+and the pest risk potential of khapra beetle is high. If khapra beetle were to 
+become established in the United States, it would pose a significant threat to 
+the domestic grain industry in terms of yield losses, but more consequentially it 
+would impact the $10+ billion United States grain export market. The goal of 
+routine survey efforts is to monitor high risk areas for detection of isolated 
+populations to help ensure the United States remains free from khapra beetle.
+Biology and Ecology
+Lifecycle
+Khapra beetle has four life stages; egg, larva, pupa, and adult. Females may lay 
+up to 100 eggs during their lifetime. Eggs are very small and translucent, 
+making them difficult to detect. Eggs usually hatch in 3-10 days, depending on 
+temperature and humidity.
+Khapra beetle spends most of its life in the larval stage and nearly all of its 
+feeding occurs during this stage. The number of larval instars is indeterminate, 
+as development is influenced by temperature, food availability, and crowding. 
+Under favorable conditions, the larval period is 20-40 days. However, khapra 
+beetle frequently enter dormancy during later stages of larval development. 
+Introduction
+Biology and Ecology
+05/2023-02 Khapra Beetle Program Manual 1-3
+During dormancy, development is paused in response to adverse conditions 
+such as overcrowding, low temperature, low food quality, and/or lack of food. 
+The dormancy of khapra beetle larvae is usually referred to as a
+Text Len: 1673
+--------------------------------------------------------------------------------
+ of larval development. 
+Introduction
+Biology and Ecology
+05/2023-02 Khapra Beetle Program Manual 1-3
+During dormancy, development is paused in response to adverse conditions 
+such as overcrowding, low temperature, low food quality, and/or lack of food. 
+The dormancy of khapra beetle larvae is usually referred to as a facultative 
+diapause, where molting and feeding occur sporadically, but development to 
+the pupal stage does not occur. In the absence of food, diapausing larvae have 
+been observed to survive for several years.
+The pupation period usually lasts 4-6 days. The adult is short lived, typically 
+for 1-2 weeks. One to ten generations of khapra beetle may occur per year. 
+Under favorable conditions, khapra beetle can complete development in as 
+little as 26 days. Under less favorable conditions, diapause in the late larval 
+stage is common though larvae may resume development and pupate when 
+favorable conditions return.
+Khapra beetle is best suited to hot and dry climates, but they are tolerant of 
+both extreme cold and heat. Optimal temperature for development is around 
+30 °C. At temperatures below 20 °C or above 35 °C development is halted. 
+Khapra beetle endures adverse conditions as late stage larvae in diapause. 
+Diapausing larvae are less susceptible to fumigation treatments due to reduced 
+metabolic activity. They can also be difficult to control with contact 
+insecticides as they frequently seek refuge in cracks or crevices that are hard to 
+reach.
+Infestations
+Khapra beetles live in stored grains and other plant and animal products. Hairy 
+larval skins (exuviae) found in grain can indicate that there is
+Text Len: 1650
+--------------------------------------------------------------------------------
+ 
+metabolic activity. They can also be difficult to control with contact 
+insecticides as they frequently seek refuge in cracks or crevices that are hard to 
+reach.
+Infestations
+Khapra beetles live in stored grains and other plant and animal products. Hairy 
+larval skins (exuviae) found in grain can indicate that there is an infestation. 
+Live insects are usually in the top 50 cm of the grain pile. Larvae tend to 
+aggregate in cracks, corners, and other tight spaces in storage facilities, 
+shipping containers, or other structures without large available food sources.
+Khapra beetles can feed on a wide variety of dried plant and animal products. 
+This includes important commercially traded grains and other commodities 
+such as wheat, barley, rice, peanut, cowpea, dried distillers grain, and sorghum. 
+Khapra beetles may also feed on processed products such as dog food, protein 
+drink mix, ground grains, tapioca, dried fruits, pasta, and cereal among others. 
+Animal products like powdered milk, dried blood, dried animal skins, and fish 
+meal are also known to serve as food sources.
+Khapra beetle population growth is dependent upon host food, as well as 
+environmental conditions (temperature, humidity) and crowding. Larval 
+development is usually faster when foods with higher protein content are 
+available. For example, population growth is typically higher on wheat 
+compared to barley or rice. Similarly, processed foods such as dog food or 
+protein shake mix can provide excellent food sources for khapra beetle.
+Introduction
+Pathways of Introduction and Dispersal
+1-4 Khapra Beetle Program Manual  05/2023-02
+Pathways of Introduction and Dispersal
+Khapra beetle has been
+Text Len: 1691
+--------------------------------------------------------------------------------
+ on wheat 
+compared to barley or rice. Similarly, processed foods such as dog food or 
+protein shake mix can provide excellent food sources for khapra beetle.
+Introduction
+Pathways of Introduction and Dispersal
+1-4 Khapra Beetle Program Manual  05/2023-02
+Pathways of Introduction and Dispersal
+Khapra beetle has been intercepted at ports of entry in mail, stores, general 
+cargo, and permit cargo; however, the majority are found in passenger 
+baggage. In recent years, the number of detections of khapra beetle has 
+increased, prompting greater concern for the potential of establishment. This is 
+due to an increase in the number of travelers from countries where khapra 
+beetle is present, along with efforts to train inspectors and improve targeting of 
+inspections. 
+Khapra beetle adults are flightless, and the movement of adults and larvae is 
+limited to short distances. Infestation of grain stores or other products from the 
+surrounding environment is unlikely. Therefore, the spread of khapra beetle to 
+new areas typically occurs through the movement of host commodities. Spread 
+at a local level may occur on items such as bags, clothing, or in stored 
+products. Over long distances, the pest is spread mostly by humans in 
+commerce and trade, through household moves, and in personal baggage 
+containing dried food products. Movement of grain and seed products or 
+contaminated machinery can also spread khapra beetle. These infestations 
+present the greatest risk for spread into the domestic grain supply where trade 
+could be impacted.
+Conventions
+Conventions are established by custom and are widely recognized and 
+accepted. Major conventions used in this manual follow.
+Advisories
+Advisories are used throughout the Khapra
+Text Len: 1743
+--------------------------------------------------------------------------------
+contaminated machinery can also spread khapra beetle. These infestations 
+present the greatest risk for spread into the domestic grain supply where trade 
+could be impacted.
+Conventions
+Conventions are established by custom and are widely recognized and 
+accepted. Major conventions used in this manual follow.
+Advisories
+Advisories are used throughout the Khapra Beetle Program Manual to bring 
+important information to the user’s attention. Please carefully review each 
+advisory. The definitions coincide with the American National Standards 
+Institute (ANSI) and are in the format shown below.
+DANGER!
+The danger message is used in the event of imminent risk of death or serious injury
+! WARNING
+The warning message is used in the event of possible risk of serious injury.
+! CAUTION
+The caution message is used for tasks involving minor to moderate risk of injury.
+Introduction
+Conventions
+05/2023-02 Khapra Beetle Program Manual 1-5
+Boldface
+Boldface type is used to emphasize important words throughout this manual. 
+These words include, but are not limited to: always; cannot; do not; does not; 
+except; lacks; must; neither; never; no; nor; not; only; other than.
+Bullets
+Bulleted lists indicate that there is no order to the information listed.
+Change Bars
+Black change bars are used to indicate changes and appear on the revised 
+pages. Unfortunately, change bars do not always appear when text is merely 
+deleted. Change bars from the previous update are deleted when the chapter or 
+appendix is revised.
+Chapters
+This manual contains the following chapters: Introduction; Identification; and 
+Survey and Trapping.
+Contents
+Each chapter has a table of contents listing the heading titles within.
+Control Data
+Control data is located at
+Text Len: 1746
+--------------------------------------------------------------------------------
+ not always appear when text is merely 
+deleted. Change bars from the previous update are deleted when the chapter or 
+appendix is revised.
+Chapters
+This manual contains the following chapters: Introduction; Identification; and 
+Survey and Trapping.
+Contents
+Each chapter has a table of contents listing the heading titles within.
+Control Data
+Control data is located at the top and bottom of each page to help manual users 
+keep track of where they are in the manual and to be aware of updates to 
+specific chapters, sections, appendixes, etc., in the manual. At the top of each 
+page is the chapter title and first-level heading for that page. At the bottom of 
+each page is the transmittal number (month, year, number), title of the manual, 
+page number, and unit responsible for content.
+To track revisions to the Khapra Beetle Program Manual, use the Control 
+Data.
+Examples
+Examples are used to clarify a point by applying it to a real-world situation. 
+Examples always appear in boxes as a means of visually separating them from 
+the other information contained on the page.
+NOTICE
+The notice message is used to alert a reader of important information or Agency
+policy.
+SAFETY
+The safety message is used for general instructions or reminders related to safety.
+Introduction
+Conventions
+1-6 Khapra Beetle Program Manual  05/2023-02
+Heading Levels
+Within each chapter there are four heading levels. The first-level heading is 
+indicated by a horizontal line across both the left and right columns with the 
+heading language across the left and right columns directly underneath. The 
+second- and third-level headings are inside the margined text area with the 
+body text following underneath. The fourth-level heading is inside the 
+margined
+Text Len: 1746
+--------------------------------------------------------------------------------
+ are four heading levels. The first-level heading is 
+indicated by a horizontal line across both the left and right columns with the 
+heading language across the left and right columns directly underneath. The 
+second- and third-level headings are inside the margined text area with the 
+body text following underneath. The fourth-level heading is inside the 
+margined text area followed by a period and leading into the text.
+Hypertext Links (Highlighting) to Tables, Figures, and 
+Headings
+Figures, headings, and tables are cross-referenced in the body of the manual 
+and are highlighted in blue hypertext type.
+Indentions
+Entry requirements summarized from CFRs, import permits, or policies are 
+indented on the page.
+Italics
+Scientific names are italicized throughout the Khapra Beetle Program Manual.
+Numbering Scheme
+A two-level numbering scheme is used in this manual for pages, tables, and 
+figures. The first number represents the chapter. The second number represents 
+the page, table, or figure. This numbering scheme allows for identifying and 
+updating. Dashes are used in page numbering to differentiate page numbers 
+from decimal points.
+Transmittal Number
+The transmittal number contains the month, year, and a consecutively issued 
+number (beginning with -01 for the first edition and increasing consecutively 
+for each update to the chapter). The transmittal number is only changed when 
+specific chapter sections, appendixes, figures, tables, glossary, or index is 
+updated. If no changes are made, the transmittal number remains unchanged. 
+The transmittal number only changes for the entire manual when a new edition 
+is issued or changes are made to the entire manual.
+EXAMPLE Examples are graphically placed boxes
+Text Len: 1736
+--------------------------------------------------------------------------------
+ only changed when 
+specific chapter sections, appendixes, figures, tables, glossary, or index is 
+updated. If no changes are made, the transmittal number remains unchanged. 
+The transmittal number only changes for the entire manual when a new edition 
+is issued or changes are made to the entire manual.
+EXAMPLE Examples are graphically placed boxes within the text as a means of 
+visually separating information from other information contained on 
+the page. Examples always appear in a box like this.
+EXAMPLE See Table 1-1 if you want to report an issue with the manual or have 
+a 
+suggestion for improving the manual.
+Introduction
+Using the Manual
+05/2023-02 Khapra Beetle Program Manual 1-7
+Using the Manual
+Review the contents of this manual to get a feel for the scope of material 
+covered. Glance through the section to become familiar with the organization 
+of the information. Use the tables of contents that follow each tab to find the 
+needed information. If the tables of contents are not specific enough, turn to 
+the index to find the topic and corresponding page number.
+Reporting Issues With or Suggestions For the Khapra Beetle 
+Program Manual
+Use Table 1-1 to determine where to report issues, disagreements, or 
+improvements that directly affect the co
+ntents of the Khapra Beetle Program 
+Manual.
+Manual Updates
+The PPQ Manuals Unit electronically issues and maintains manuals on the 
+Manuals Unit Web site. The online manuals contain the most up-to-date 
+information. Immediate update revisions to the manual are issued and 
+distributed via email.
+Each immediate update contains the following information:
+Link to access and download the online manual
+List of the
+Text Len: 1689
+--------------------------------------------------------------------------------
+ and maintains manuals on the 
+Manuals Unit Web site. The online manuals contain the most up-to-date 
+information. Immediate update revisions to the manual are issued and 
+distributed via email.
+Each immediate update contains the following information:
+Link to access and download the online manual
+List of the revised page/table numbers
+EXAMPLE 01/2021-01 is the transmittal number for this update and is located in 
+the control data on the pages in this chapter.
+01 is the month the updated was issued.
+2021 is the year the update was issued.
+01 is the edition number (the entire manual has been reformatted).
+EXAMPLE To find information on trapping, see Trapping on page 2-3.
+T
+able 1-1  Reporting Issues With or Suggestions for the Khapra Beetle Program 
+Manual 
+If you: Then:
+ Are unable to access the online 
+manual
+ Have a suggestion for improving 
+the format (layout, spelling, etc.)
+CONTACT PPQ Manuals Unit at 240-529-0350 or 
+email PPQ.IRM.ISMU.Manuals.Fee dback@usda.gov
+Disagree with a policy or procedure, 
+or have
+ an urgent situation requiring 
+an immediate response
+CONTACT anne.lebrun@usda.gov
+Introduction
+Using the Manual
+1-8 Khapra Beetle Program Manual  05/2023-02
+Purpose of the revision(s)
+Transmittal number
+Ordering Additional Manuals and Revisions
+Although using the online manuals is the preferred method, APHIS employees 
+may order hard copies of manuals
+Text Len: 1393
+--------------------------------------------------------------------------------
+Introduction
+Using the Manual
+1-8 Khapra Beetle Program Manual  05/2023-02
+Purpose of the revision(s)
+Transmittal number
+Ordering Additional Manuals and Revisions
+Although using the online manuals is the preferred method, APHIS employees 
+may order hard copies of manuals from the APHIS Printing, Distribution, and 
+Mail Services Center in Riverdale, Maryland. Visit the Riverdale Print Shop 
+We
+b site for detailed information and printing costs. The Manuals Unit is not 
+responsible for printing costs.
+05/2023-02 Khapra Beetle Program Manual 2-1
+Chapter
+2
+Survey and Trapping
+Contents
+Introduction     2-1
+Selecting Survey Locations     2-1
+Trapping     2-3
+Trap Placement     2-3
+When to Trap     2-3
+Trapping Supplies     2-3
+Additional Supplies (Locally Available)     2-5
+Trap Set Up     2-6
+Areas to Avoid     2-7
+Height     2-7
+Density     2-8
+Survey Supply Procurement     2-8
+Product Names in the IPHIS Survey Supply Ordering System     2-8
+Trap Servicing and Sample Collection     2-8
+Sample Preparation and Storage     2-9
+Survey Records     2-9
+Introduction
+This chapter provides instruction on how to complete surveys for khapra 
+beetle. Early detection surveys are necessary to find small khapra beetle 
+populations in a timely
+Text Len: 1247
+--------------------------------------------------------------------------------
+
+Trap Servicing and Sample Collection     2-8
+Sample Preparation and Storage     2-9
+Survey Records     2-9
+Introduction
+This chapter provides instruction on how to complete surveys for khapra 
+beetle. Early detection surveys are necessary to find small khapra beetle 
+populations in a timely manner. This ensures that PPQ is able to eradicate the 
+infestation before khapra beetle becomes established locally and ensures trade 
+is not impacted. Delimiting surveys are used to define the extent of infestation 
+and to guide programmatic response. Monitoring surveys are used to determine 
+if treatment is successful and to ensure that the location remains free of khapra 
+beetle for an established amount of time after the initial find.
+To ensure that khapra beetle surveys 1) detect early populations and 2) provide 
+reliable negative survey data, it is critical that the surveyor follows the 
+guidance in this chapter and the Identification chapter. This chapter provides 
+guidance on how to properly plan and conduct a khapra beetle survey
+.
+Selecting Survey Locations
+Use the following information to select the highest risk locations to survey in 
+your state. Since staffing resources are often limited, you may need to rotate 
+surveys through different locations each year.
+Survey and Trapping
+Selecting Survey Locations
+2-2 Khapra Beetle Program Manual  05/2023-02
+Use locally available resources to assist you in identifying high risk sites of 
+introduction/interception. Local PPQ Smuggling Interdiction and Trade 
+Compliance (SITC) staff are a good resource to identify high risk products, as 
+well as importers, distributors, and retailers in the area. Your local U.S. 
+Customs
+Text Len: 1688
+--------------------------------------------------------------------------------
+02
+Use locally available resources to assist you in identifying high risk sites of 
+introduction/interception. Local PPQ Smuggling Interdiction and Trade 
+Compliance (SITC) staff are a good resource to identify high risk products, as 
+well as importers, distributors, and retailers in the area. Your local U.S. 
+Customs and Border Protection (CBP) contacts can assist with finding high 
+risk locations as well. In addition, you may want to include locations that have 
+received Emergency Action Notifications (EANs) for khapra beetle.
+Use the following list as a starting point to identify areas of potential risk in 
+your state in conjunction with the input from your local SITC and CBP 
+counterparts:
+A commercial location that is the known, intended destination for a 
+shipment of host material that CBP found to be infested by live khapra 
+beetle at the port of entry. Previous shipments from the same supplier are 
+possible and may have entered without inspection.
+Air cargo warehouses at international airports. These warehouses belong 
+to individual airlines that service that airport. The warehouses often 
+receive household goods and other materials that may be a pathway.
+Coffee roasters that import coffee beans in used burlap bags from khapra 
+beetle countries
+Distribution warehouses for companies that sell high-risk merchandise
+Express consignment facilities (DHL, FedEx, UPS, etc.) or other facilities 
+where potentially infested materials may pass through
+Grain dealers. If there is a known pathway for introduction of khapra 
+beetle, or if in proximity to a known
+Text Len: 1593
+--------------------------------------------------------------------------------
+ribution warehouses for companies that sell high-risk merchandise
+Express consignment facilities (DHL, FedEx, UPS, etc.) or other facilities 
+where potentially infested materials may pass through
+Grain dealers. If there is a known pathway for introduction of khapra 
+beetle, or if in proximity to a known or possible pathway, then these sites 
+may be considered much higher risk.
+Importers of brassware or other products from khapra beetle countries 
+packaged in burlap bags
+Importers of bulk grains and spices from khapra beetle countries. 
+Importers who repackage these products within the warehouse for retail 
+distribution are highest risk. Examples include but are not limited to dried 
+chickpeas, cracked corn, cracked or bulghur wheat, and hibiscus.
+Importers of manufactured, processed, or otherwise pre-packaged host 
+material that is ready for retail sale from khapra beetle countries
+Military facilities where returning luggage or household goods are stored
+Retail markets selling materials outlined above
+Transload facilities, locations where container cargo is transferred from 
+one load unit to another. When a container is transloaded, it usually 
+occurs at a facility that is close to a port terminal. A container will be 
+taken into a facility and transferred to a domestic container or truckload.
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-3
+Trapping
+Trap Placement
+Survey a new facility with a company representative, if possible, to identify 
+locations before placing traps. Check
+Text Len: 1544
+--------------------------------------------------------------------------------
+. A container will be 
+taken into a facility and transferred to a domestic container or truckload.
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-3
+Trapping
+Trap Placement
+Survey a new facility with a company representative, if possible, to identify 
+locations before placing traps. Check exit and entry areas, as well as any 
+storage locations on the premises. Observe the movement of products, 
+containers, and/or people handling products which could have been exposed to 
+khapra beetle.
+Be alert for cartons, burlap or jute sacks, debris, woodwork, cracks, loose 
+plaster, loose paint, and other such hiding places. Carefully inspect rodent bait 
+stations and other such traps with grain or cereal. Khapra beetle are attracted to 
+dirty grain and storage or handling facilities; conversely, sanitary conditions 
+are a deterrent. Areas of low light are also favorable for khapra beetle.
+In empty bins and warehouses, larvae are likely to be in or on ledges, cracks in 
+the floor or walls, old cartons, rags, sacks, newspapers, scrap lumber, or other 
+debris. Elevator tunnels also serve as hiding places for khapra beetle larvae. 
+When inspecting sacked material, the ears and seams of bags are common 
+hiding places for the beetle and should be inspected. In bulk storage where 
+heavy infestations may occur, larvae tend to congregate in the surface grain 
+and on or near the walls. Look for cast larval skins as a sign of an active 
+infestation.
+When to Trap
+Conduct surveys when average temperatures are above 70 ºF in the trapping 
+environment. Survey outdoor areas throughout the warm season. 
+Environmental conditions may
+Text Len: 1653
+--------------------------------------------------------------------------------
+
+heavy infestations may occur, larvae tend to congregate in the surface grain 
+and on or near the walls. Look for cast larval skins as a sign of an active 
+infestation.
+When to Trap
+Conduct surveys when average temperatures are above 70 ºF in the trapping 
+environment. Survey outdoor areas throughout the warm season. 
+Environmental conditions may be less severe than prevailing weather 
+conditions in areas immediately surrounding ports and grain processing and 
+storage facilities. Use practical judgment to determine if temperatures are 
+warm enough. In more temperate areas, conduct surveys from mid-May 
+through mid-September. In heated warehouses, food storage and processing 
+areas, dwellings, and other moderated environments, surveys with traps are 
+appropriate at any time of year.
+Trapping Supplies
+The Khapra Beetle Wall Mount Trap Kit contains all supplies necessary to 
+complete a khapra beetle survey. The kit includes:
+Six khapra beetle wall-mounted traps (Figure 2-1)
+Seven khapra beetle pheromone lures (Figure 2-2)
+Or
+ganic wheat germ (the food bait for the beetle) (Figure 2-3)
+Plastic collection tray for wh
+eat germ (Figure 2-4)
+Survey and Trapping
+Trapping
+2-4 Khapra Beetle Program Manual  05/2023-02
+One decoy sticky trap (Figure 2-5)
+The wall mount traps may be re-used.
+Use the decoy aerial trap to capture warehouse beetle, T
+rogoderma variabile 
+Ballion adults and minimize their numbers in khapra beetle wall traps. The 
+warehouse beetle is often present
+Text Len: 1495
+--------------------------------------------------------------------------------
+/2023-02
+One decoy sticky trap (Figure 2-5)
+The wall mount traps may be re-used.
+Use the decoy aerial trap to capture warehouse beetle, T
+rogoderma variabile 
+Ballion adults and minimize their numbers in khapra beetle wall traps. The 
+warehouse beetle is often present in warehouses and it is difficult to distinguish 
+between warehouse beetle and khapra beetle. Since both species are attracted 
+to the same pheromone lure, warehouse beetles may overwhelm khapra beetle 
+traps. However, since the warehouse beetle is a strong flyer, unlike khapra 
+beetle, which does not fly, use the aerial decoy trap to minimize or exclude 
+warehouse beetles collected in khapra beetle wall traps.
+Fit the decoy aerial trap with one of the khapra beetle lures and hang it high in 
+the open head space of the building. Use one aerial trap for every five to six 
+khapra beetle wall-mounted traps.
+Figure 2-1  Khapra Beetle Wall-Mounted Trap
+Figure 2-2  Khapra Beetle Pheromone Lure
+
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-5
+Additional Supplies (Locally Available)
+Aspirator or vacuum collection device (may be sourced from vendors 
+such as BioQuip Products)
+Brightly colored flagging (to help you find traps for return visits)
+Cooler with ice packs
+Disposable gloves (for sweep sampling)
+Double-sided tape or another adhesive (Gorilla brand tape works well)
+Figure
+Text Len: 1392
+--------------------------------------------------------------------------------
+ BioQuip Products)
+Brightly colored flagging (to help you find traps for return visits)
+Cooler with ice packs
+Disposable gloves (for sweep sampling)
+Double-sided tape or another adhesive (Gorilla brand tape works well)
+Figure 2-3  Organic Wheat Germ
+Figure 2-4  Plastic Collection Tray with Wheat Germ
+Figure 2-5  Decoy Aerial Trap with Khapra Beetle Pheromone Lure
+
+Survey and Trapping
+Trapping
+2-6 Khapra Beetle Program Manual  05/2023-02
+Dust mask (for sweep sampling)
+Forceps
+Hard hat
+Headlamp
+Labels for samples
+Orange safety vest
+Permanent marker
+Pencil
+Plastic bins to store and provide easy access to equipment
+Plastic re-sealable bags (sandwich and gallon sized)
+Small paintbrush for brushing insects out of the trap
+Wipes or paper towels to clean the wall surface before hanging traps
+Trap Set Up
+Follow the instructions from the manufacturer that are included with the trap 
+kit to assemble the traps. Use a permanent marker to label each trap with a 
+unique identification number, for instance County Code-Facility Code-Trap 
+Number. Use the wall mount trap inside and outside structures. Place traps 
+around the inside of exterior walls and along interior walls of structures under 
+investigation (Figure 2-6).
+Text Len: 1255
+--------------------------------------------------------------------------------
+ included with the trap 
+kit to assemble the traps. Use a permanent marker to label each trap with a 
+unique identification number, for instance County Code-Facility Code-Trap 
+Number. Use the wall mount trap inside and outside structures. Place traps 
+around the inside of exterior walls and along interior walls of structures under 
+investigation (Figure 2-6). Pay special attention to cracks in the walls and 
+walls made of porous materials like cement blocks. Cracks may serve as 
+pathways for ins
+ect movement. If possible, place a trap over a wall crack if one 
+is found.
+Clean the wall thoroughly before attaching the trap to the wall. An alcohol prep 
+pad or paper towel soaked with ethanol works well to clean the wall. Allow the 
+wall to dry before affixing the trap to the wall. You may use any locally 
+available double-sided foam tape (Gorilla brand, 3M, double-sided foam tape, 
+etc.). Duct tape does not work well for this purpose. Replacing the tape is often 
+Figure 2-6  Correct Placement of Khapra Beetle Trap
+
+Survey and Trapping
+Trapping
+05/2023-02 Khapra Beetle Program Manual 2-7
+necessary when servicing traps. Do not cover the entry holes on the back of the 
+trap. Use an opened paper clip to open the side tabs, which may not be 
+perforated completely. When attaching the trap to the wall, make sure that all 
+four back entry tabs are in contact with the wall and that the trap is also 
+attached loosely enough so that entry holes are not closed (Figure 2-7). These 
+are the places where the larvae will enter the trap.
+Be aware that the trap adhesive or tape (if used) may remove some paint from 
+w
+Text Len: 1624
+--------------------------------------------------------------------------------
+ to the wall, make sure that all 
+four back entry tabs are in contact with the wall and that the trap is also 
+attached loosely enough so that entry holes are not closed (Figure 2-7). These 
+are the places where the larvae will enter the trap.
+Be aware that the trap adhesive or tape (if used) may remove some paint from 
+walls when the trap or tape is removed. Let the facility know this. 
+You may 
+need to choose a less prominent location.
+Fill the plastic collection tray with wheat germ (Figure 2-3). Fill the dish only 
+1/4 to 1/3 full, being careful no
+t to spill wheat germ in the trap, and keeping it 
+vertically oriented after assembly through attachment to the wall.
+Areas to Avoid
+Areas exposed to human activities such as sweeping, foot traffic, or frequent 
+use of mechanized equipment may lead to trap loss. Placement in very oily or 
+damp locations will lead to trap damage or poor adhesion. Slippery surfaces, 
+such as metal, plastic, glossy painted concrete, or glass walls may inhibit 
+khapra beetle movement.
+Height
+Mount traps as low as possible to maximize captures. However, in most cases, 
+to avoid trap loss from maintenance activities, mount the traps at least above 
+broom height. Look for locations up to about 2 feet off the floor where they can 
+be easily serviced.
+Figure 2-7  Wall Trap with Back Entry Tabs Opened Correctly
+
+Survey and Trapping
+Survey Supply Procurement
+2-8 Khapra Beetle Program Manual  05/2023-02
+Density
+Allow 25 to 40 feet between traps or base the placement of traps on the layout 
+of buildings. The more traps that are set, the greater the chance of finding
+Text Len: 1611
+--------------------------------------------------------------------------------
+ Wall Trap with Back Entry Tabs Opened Correctly
+
+Survey and Trapping
+Survey Supply Procurement
+2-8 Khapra Beetle Program Manual  05/2023-02
+Density
+Allow 25 to 40 feet between traps or base the placement of traps on the layout 
+of buildings. The more traps that are set, the greater the chance of finding 
+khapra beetle, if present. However, if there are too many buildings and travel is 
+a problem, half of the locations can be trapped in alternate years. This way, a 
+building can be more intensively trapped, thus increasing the chances of 
+finding khapra beetle.
+Survey Supply Procurement
+Order all traps and lures through the IPHIS Survey Supply Ordering System. 
+Follow the national guidance for procuring traps and lures during the two 
+ordering open periods each year. If you need immediate assistance, contact 
+Laurie Morales at laurie.m.morales@usda.gov or 970-494-7535 or Darrell 
+Bays at darrell.a.bays@usda.gov or 919-500-9959.
+When ordering the trap kits, be sure to order additional lures so that you can 
+change out the lures during the trapping season.
+Product Names in the IPHIS Survey Supply Ordering System
+Khapra Beetle Wall Mount Trap Kit (includes 6 traps and 7 lures)
+Khapra Beetle Lure (additional lures that can be ordered)
+If you need to purchase additional organic wheat germ, it may be purchased 
+locally; however, it must be organic wheat germ.
+Trap Servicing and Sample Collection
+Check traps every 1-2 weeks. When inspecting the trap, dump the contents of
+Text Len: 1492
+--------------------------------------------------------------------------------
+ures)
+Khapra Beetle Lure (additional lures that can be ordered)
+If you need to purchase additional organic wheat germ, it may be purchased 
+locally; however, it must be organic wheat germ.
+Trap Servicing and Sample Collection
+Check traps every 1-2 weeks. When inspecting the trap, dump the contents of 
+the plastic collection tray (including the wheat germ and any insects) into a 
+resealable plastic bag. Inspect the trap for any other larvae that have not yet 
+reached the collection tray. You can do this by tapping the tray into the plastic 
+bag and using a fine paintbrush to dislodge any insects into the tray. Place a 
+label on or inside each bag with a unique trap identification number, date of 
+location, and facility name. Place the bag in a cooler with ice packs.
+Refill the plastic collection tray with fresh wheat germ. Do not dispose of used 
+wheat germ onsite. Even if there are no visible insects present in the wheat 
+NOTICE
+It can be difficult to remove the wheat germ tray when servicing the trap. If this is an 
+issue, the entire trap may be removed at each sample collection, and a new trap 
+placed.
+Survey and Trapping
+Survey Records
+05/2023-02 Khapra Beetle Program Manual 2-9
+germ, bring the used wheat germ back to the lab/office for proper disposal. See 
+the Identification chapter for further information.
+The khapra beetle lure is ef
+fective for 28 days. Change lures in both the khapra 
+beetle and decoy traps every 28 days.
+When checking a trap for the last time and removing it, place the complete trap 
+in a resealable plastic bag. Place a label inside the
+Text Len: 1591
+--------------------------------------------------------------------------------
+ 
+the Identification chapter for further information.
+The khapra beetle lure is ef
+fective for 28 days. Change lures in both the khapra 
+beetle and decoy traps every 28 days.
+When checking a trap for the last time and removing it, place the complete trap 
+in a resealable plastic bag. Place a label inside the bag with a unique trap 
+identification number, date, and facility name.
+Before leaving each facility, wipe down any tubs or containers that you 
+brought into the facility with a lab wipe or paper towel soaked with ethanol. 
+Clean your boots and clothing well before traveling in the government owned 
+vehicle to avoid tracking khapra beetle life stages to other locations.
+Sample Preparation and Storage
+Keep specimens as cool as possible. Transport samples back to the lab in a 
+cooler. At the lab, if samples cannot be sorted and screened immediately, store 
+the samples in a freezer. Place the entire plastic bag with the trap contents in 
+the freezer. For samples taken from the last trap servicing of the season, freeze 
+the entire trap inside a plastic bag. This will prevent sample degradation and 
+also the potential for larvae or adults to escape into the lab. Larvae otherwise 
+may degrade to the point where they are difficult to find within sweepings or 
+food baits. Such precautions will also help with potential visual or molecular 
+identification. 
+Refer to the Identification chapter for instructions on sample sorting, sample 
+screening, specimen routing, and taxonomic guidelines.
+Survey Records
+Enter survey records into the Integrated Plant Health Information System 
+(IPHIS) under the template Khapra Beetle Detection. The types of data that 
+will be collected are: location, date, host, activity (install, remove, or trap 
+check), and lure
+Text Len: 1771
+--------------------------------------------------------------------------------
+ sample sorting, sample 
+screening, specimen routing, and taxonomic guidelines.
+Survey Records
+Enter survey records into the Integrated Plant Health Information System 
+(IPHIS) under the template Khapra Beetle Detection. The types of data that 
+will be collected are: location, date, host, activity (install, remove, or trap 
+check), and lure.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or Plant Protection Act (PPA) 7721-funded khapra beetle surveys.
+Survey and Trapping
+Survey Records
+2-10 Khapra Beetle Program Manual  05/2023-02
+04/2024-03 Khapra Beetle Program Manual 3-1
+Chapter
+3
+Identification
+Contents
+Introduction     3-1
+Sorting and Screening     3-1
+Specimen Routing and Taxonomic Guidelines     3-3
+Results Reporting     3-4
+Introduction
+This chapter provides guidance for individuals who will process trap 
+collections and submit samples of suspected khapra beetles for identification. 
+In addition, the chapter provides information for specimen routing and results 
+reporting.
+Sorting and Screening
+Sort and screen trap collections before submitting specimens for identification. 
+Sorting raw trap samples requires familiarity with insect groups and 
+experience in examining specimens. Sorting is the first level of activity that 
+assures samples submitted are of the correct target group of pests being 
+surveyed. Sorting samples in a khapra beetle survey involves removal of non-
+beetle specimens.
+Screening is removing obvious beetle larvae or adults not fitting the general 
+Text Len: 1634
+--------------------------------------------------------------------------------
+ requires familiarity with insect groups and 
+experience in examining specimens. Sorting is the first level of activity that 
+assures samples submitted are of the correct target group of pests being 
+surveyed. Sorting samples in a khapra beetle survey involves removal of non-
+beetle specimens.
+Screening is removing obvious beetle larvae or adults not fitting the general 
+descriptions of dermestid or similar-looking beetle families. Screening in a 
+khapra beetle survey involves removal of non-dermestid beetles before 
+specimens are submitted to a PPQ Identifier.
+Freeze samples according to the directions outlined in the Survey and Trapping 
+Chapter
+. Pour the frozen contents of the trap onto a lab tray. Remove wheat 
+germ and other debris. Remove insects that are not beetles. To the best of your 
+ability, remove any beetles that are not in the Dermestidae family. When in 
+doubt, keep the insect in the final sample to be submitted.
+NOTICE
+Microscopes with 10X–15X magnification are recommended for sorting and
+screening.
+Identification
+Sorting and Screening
+3-2 Khapra Beetle Program Manual  04/2024-03
+The following linked module, developed for Customs and Border Protection 
+Agriculture Specialists, provides useful background on sorting and screening 
+of domestic survey samples: Dermestid Beetle Recognition and Screening Aid.
+Whenever an entire trap is removed and replaced, such as during the last trap 
+servicing of the season, thoroughly inspect for larvae that may be hidden 
+inside. Gently dismantle the trap and inspect the corrugated cardboard and the 
+entire interior of the trap. Khapra beetle larv
+ae are attracted to the corrugated 
+cardboard, and specimens may be found
+Text Len: 1698
+--------------------------------------------------------------------------------
+ trap is removed and replaced, such as during the last trap 
+servicing of the season, thoroughly inspect for larvae that may be hidden 
+inside. Gently dismantle the trap and inspect the corrugated cardboard and the 
+entire interior of the trap. Khapra beetle larv
+ae are attracted to the corrugated 
+cardboard, and specimens may be found within the folds of the cardboard. 
+Separate the corrugated cardboard to examine for larvae within the folds. Use a 
+fine paintbrush to dislodge any insects from the cardboard. If the specimen is 
+caught in adhesive, cut the insect out of the trap with scissors so that only a 
+small piece of trap backing remains.
+The following resources are useful guides for identification of suspect 
+specimens from sorted or screened samples:
+Dermestidae Adults Self-tutorial 
+Dermestidae Larvae Self-tutorial 
+If th
+e trap was not previously frozen, place the entire trap in a freezer for 15 
+days before disposal or reuse after the trap has been inspected. The majority of 
+household freezers maintain temperatures from -9 °F to 0 °F.
+Likewise, freeze any used wheat germ for 15 days before disposal, even if 
+suspect specimens are not found.
+Place insect larvae and adults in vials with non-denatured 95% or higher ethyl 
+alcohol.
+NOTICE
+A small paintbrush moistened with alcohol is useful for moving suspect specimens 
+from the sample to a vial without damaging the specimens.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or PPA Section
+Text Len: 1609
+--------------------------------------------------------------------------------
+ small paintbrush moistened with alcohol is useful for moving suspect specimens 
+from the sample to a vial without damaging the specimens.
+NOTICE
+The manufacturer’s instructions mention rearing out of specimens. DO NOT rear out 
+suspect khapra beetle eggs or larvae from PPQ, Cooperative Agricultural Pest Sur-
+vey (CAPS), or PPA Section 7721-funded khapra beetle surveys.
+Identification
+Specimen Routing and Taxonomic Guidelines
+04/2024-03 Khapra Beetle Program Manual 3-3
+Specimen Routing and Taxonomic Guidelines
+Identification of dermestid beetle larvae or adults recovered from khapra beetle 
+survey traps is difficult and requires specialized training. State or PPQ offices 
+given the responsibility for this survey should consider the ability, experience, 
+and expertise of those assigned to the various steps of sorting, screening, and 
+identification of trap samples to ensure quality data is collected.
+Qualified state, county, or cooperating university personnel can screen and 
+perform tentative identification of suspected khapra beetle specimens. The 
+specimens must be forwarded with a completed PPQ Form 391 to a PPQ 
+domestic identifier. (Many PPQ port identifiers are skilled at identifying 
+Trogoderma granarium, but their workloads normally do not allow processing 
+of domestic samples). Suspect Trogoderma spp. going to a domestic identifier 
+should be entered into the Agricultural Risk Management system (ARM) by 
+those who have access. 
+The domestic identifiers can also enter these records if 
+necessary for samples going forward for final confirmation.
+The domestic identifiers listed below will accept specimens for possible 
+dissection, forwarding to the USDA Systematic Entomology Laboratory for 
+final confirmation, and logging into the ARM database.
+Before initiating delimiting surveys and/
+Text Len: 1822
+--------------------------------------------------------------------------------
+ (ARM) by 
+those who have access. 
+The domestic identifiers can also enter these records if 
+necessary for samples going forward for final confirmation.
+The domestic identifiers listed below will accept specimens for possible 
+dissection, forwarding to the USDA Systematic Entomology Laboratory for 
+final confirmation, and logging into the ARM database.
+Before initiating delimiting surveys and/or control activities in the United 
+States, a specialist recognized by USDA-APHIS-PPQ National Identification 
+Services (NIS) must confirm the specimen is khapra beetle. All Trogoderma 
+species that are not khapra beetle will be recorded as Trogoderma sp. (not T. 
+granarium). All specimens that NIS morphologically confirm as khapra beetle 
+collected during domestic surveys require molecular confirmation.
+For confirmatory identification, follow the steps here: Request Official 
+Confirmation of Preliminary Pest Identifications of Domestic Samples
+Prior to each survey season (fall/winter), confirm by phone or email with the 
+identifier that they have the capacity to process your sample(s). Include the 
+following information:
+Expected number of samples for the survey season
+Name and email of person who will be submitting samples
+Always n
+otify the identifier that samples are being mailed along with the 
+following information:
+The number of samples and how many adults and larvae in each
+The shipment’s tracking number
+Identification
+Results Reporting
+3-4 Khapra Beetle Program Manual  04/2024-03
+For the Eastern States, both PPQ surveyors and/or state taxonomists may send 
+screened specimens (to Dermestidae) to:
+Bobby Brown
+Department of Entom
+Text Len: 1660
+--------------------------------------------------------------------------------
+
+The shipment’s tracking number
+Identification
+Results Reporting
+3-4 Khapra Beetle Program Manual  04/2024-03
+For the Eastern States, both PPQ surveyors and/or state taxonomists may send 
+screened specimens (to Dermestidae) to:
+Bobby Brown
+Department of Entomology, Purdue University
+Smith Hall
+901 W. State Street
+West Lafayette, IN 47907-2089
+robert.c.brown@usda.gov
+Phone: 765-496-9673
+For the W
+estern States, both PPQ and/or state taxonomists may send screened 
+specimens (to Dermestidae) to:
+Xanthe Shirley
+USDA, APHIS, PPQ
+2771 F&B Road, Building 2, Room 105
+College Station, TX 77845
+xanthe.a.shirley@usda.gov
+Phone: 512-383-2474
+For States with no taxonomist and/or screening ability
+, the domestic identifiers 
+can accept sorted or screened samples with prior arrangement. Contact the 
+National Operations Manager for Khapra Beetle to arrange taxonomic 
+assistance (feridoon.mehdizadegan@usda.gov).
+Results Reporting
+Negative results from identifiers will be communicated directly back to the 
+submitter. Morphological determinations of “Trogoderma sp. (not granarium)” 
+are considered negative results. No additional information is required for 
+specimens with final determinations of “Trogoderma sp. (not granarium)”.
+Any suspect positives going to SEL for molecular confirmation will be 
+communicated via the PPQ Domestic Diagnostics Coordinator to the khapra 
+beetle
+Text Len: 1382
+--------------------------------------------------------------------------------
+ (not granarium)” 
+are considered negative results. No additional information is required for 
+specimens with final determinations of “Trogoderma sp. (not granarium)”.
+Any suspect positives going to SEL for molecular confirmation will be 
+communicated via the PPQ Domestic Diagnostics Coordinator to the khapra 
+beetle cross functional working group members as well as the State Plant 
+Health Director and State Plant Regulatory Official of the state of origin.
+01/2022-01 Khapra Beetle Program Manual Index-1
+Khapra Beetle 
+Program 
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Index
+A
+alcohol 3-2
+aspirator 2-5
+B
+beetle larvae 3-3
+biology 1-2
+brassware 2-2
+bulk grains 2-2
+bulk storage 2-3
+burlap sacks 2-3
+C
+cartons 2-3
+cement blocks 2-6
+cereal 1-3, 2-3
+coffee roasters 2-2
+colored flagging 2-5
+control activities 3-3
+cooler 2-5, 2-8
+cooperating university personnel 3-3
+corrugated cardboard 3-2
+cracks 1-3, 2-3, 2-6
+crowding 1-2, 1-3
+D
+data 3-3
+debris 2-3
+decoy sticky trap 2-4
+decoy traps 2-4, 2-5, 2-9
+delimiting surveys 2-1, 3-3
+Dermestid Beetle Recognition and Screening Aid
+Text Len: 1089
+--------------------------------------------------------------------------------
+3, 2-3, 2-6
+crowding 1-2, 1-3
+D
+data 3-3
+debris 2-3
+decoy sticky trap 2-4
+decoy traps 2-4, 2-5, 2-9
+delimiting surveys 2-1, 3-3
+Dermestid Beetle Recognition and Screening Aid 3-
+2
+Dermestidae 1-2, 3-1, 3-4
+diapause 1-3
+disposable gloves 2-5
+distribution warehouses 2-2
+Domestic Diagnostics Coordinator 3-4
+domestic identifier
+Eastern States 3-4
+Western States 3-4
+domestic survey samples 3-2
+dormancy 1-2
+double-sided foam tape 2-6
+double-sided tape 2-5
+dust mask 2-6
+E
+ears of bags 2-3
+eggs 2-9
+elevator tunnels 2-3
+entry tabs 2-7
+environmental conditions 1-3, 2-3
+ethyl alcohol 3-2
+examining specimens 3-1
+express consignment facilities 2-2
+exterior walls 2-6
+F
+facultative diapause 1-3
+final confirmation 3-3
+final determinations 3-4
+food baits 2-3, 2-9
+freezer 2-9
+G
+gloves 2-5
+grain 1-2, 1-3, 1-4, 2-3
+grain dealers 2-2
+grain pile 1-3
+grain processing facilities 2-3
+H
+hard hat 2-6
+headlamp 2-6
+hiding places 2-3
+highest risk locations 2-1
+I
+ice packs 2-5, 2-8
+identification of trap samples 3-3
+identifiers 3-4
+infestations
+Text Len: 1029
+--------------------------------------------------------------------------------
+3
+grain dealers 2-2
+grain pile 1-3
+grain processing facilities 2-3
+H
+hard hat 2-6
+headlamp 2-6
+hiding places 2-3
+highest risk locations 2-1
+I
+ice packs 2-5, 2-8
+identification of trap samples 3-3
+identifiers 3-4
+infestations 1-3
+Integrated Plant Health Information System 2-9
+interior walls 2-6
+international airports 2-2
+IPHIS Survey Supply Ordering System 2-8
+J
+jute sacks 2-3
+L
+labels for samples 2-6
+larvae 1-2, 1-3, 2-7, 2-8, 2-9, 3-2, 3-3
+larval instars 1-2
+larval stage 1-2
+last trap servicing of the season 2-9, 3-2
+ledges 2-3
+lifecycle 1-2
+live insects 1-3
+loose paint 2-3
+loose plaster 2-3
+lures 2-4, 2-8, 2-9
+M
+manufacturer’s instructions 2-9, 3-2
+military facilities 2-2
+molecular confirmation 3-4
+molecular identification 2-9
+molting 1-3
+monitoring surveys 2-1
+Index
+Index-2 Khapra Beetle Program Manual  01/2022-01
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+morphological determinations 3-4
+N
+National Identification Services 3-3
+National Operations Manager 3-4
+negative results 3-4
+negative survey data 2-
+Text Len: 1029
+--------------------------------------------------------------------------------
+
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+morphological determinations 3-4
+N
+National Identification Services 3-3
+National Operations Manager 3-4
+negative results 3-4
+negative survey data 2-1
+non-infested areas 1-2
+O
+optimal temperature for development 1-3
+orange safety vest 2-6
+organic wheat germ 2-3, 2-5, 2-8
+outdoor areas 2-3
+P
+paintbrush 2-6, 2-8, 3-2
+paper towels 2-6
+pathways of introduction and dispersal 1-4
+pencil 2-6
+permanent marker 2-6
+pheromone lure 2-3, 2-4, 2-5
+placement of traps 2-8
+plastic bins 2-6
+plastic collection tray 2-3, 2-5, 2-7, 2-8
+plastic re-sealable bags 2-6
+population growth 1-3
+ports of entry 1-4
+PPQ Form 391 3-3
+PPQ port identifiers 3-3
+pre-packaged host material 2-2
+processed products 1-3
+pupation 1-3
+Purdue University 3-4
+R
+rearing out of specimens 2-9, 3-2
+resources 3-2
+results reporting 3-1, 3-4
+retail markets 2-2
+S
+safety vest 2-6
+sample collection 2-8
+sample degradation 2-9
+sample preparation and storage 2-9
+sanitary conditions 2-3
+screened samples 3-2, 3-4
+screening 3-1, 3-3
+screening ability 3-
+Text Len: 1049
+--------------------------------------------------------------------------------
+2
+results reporting 3-1, 3-4
+retail markets 2-2
+S
+safety vest 2-6
+sample collection 2-8
+sample degradation 2-9
+sample preparation and storage 2-9
+sanitary conditions 2-3
+screened samples 3-2, 3-4
+screening 3-1, 3-3
+screening ability 3-4
+selecting survey locations 2-1
+sorted samples 3-2, 3-4
+sorting 3-1, 3-3
+specimen 3-2
+specimen routing 2-9, 3-1, 3-3
+specimens 2-9, 3-3
+specimens for identification 3-1
+storage facilities 1-3, 2-3
+storage locations 2-3
+stored food products 1-2
+stored grains 1-3
+stored products 1-4
+structures under investigation 2-6
+supplies 2-5, 2-8
+survey
+locations 2-2
+records 2-9
+season 3-3
+survey supply procurement 2-8
+suspect positives 3-4
+suspect specimens 3-2
+sweep sampling 2-5
+sweepings 2-9
+Systematic Entomology Laboratory 3-3
+T
+taxonomic assistance 3-4
+taxonomic guidelines 2-9, 3-3
+temperate areas 2-3
+tentative identification 3-3
+tracking number 3-3
+transload facilities 2-2
+trap backing 3-2
+trap collections 3-1
+trap contents 2-9
+trap identification number 2-8
+trap kits 2-8
+trap loss 2-7
+trap servicing 2-8
+trap set up 2-6
+trapping 2-3
+trapping environment 2-3
+areas to avoid 2-7
+trapping supplies 2-3
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+2
+trap backing 3-2
+trap collections 3-1
+trap contents 2-9
+trap identification number 2-8
+trap kits 2-8
+trap loss 2-7
+trap servicing 2-8
+trap set up 2-6
+trapping 2-3
+trapping environment 2-3
+areas to avoid 2-7
+trapping supplies 2-3
+Trogoderma granarium Everts 1-2
+Trogoderma species 3-3
+Trogoderma variable 2-4
+V
+vacuum collection device 2-5
+visual identification 2-9
+W
+wall mount trap kit 2-3
+wall mounted traps 2-6
+wall-mounted traps 2-3, 2-4
+warehouse beetle 2-4
+warehouses 2-2, 2-3, 2-4
+wheat germ 2-3, 2-5, 2-7, 2-8, 3-1
+when to trap 2-3
+Text Len: 541
+--------------------------------------------------------------------------------

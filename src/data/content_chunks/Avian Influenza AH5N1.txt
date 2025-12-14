@@ -1,0 +1,1056 @@
+Page 1 of 10 
+2024 Highly Pathogenic Avian 
+Influenza (H5N1) - Michigan 
+Dairy Herd and Poultry Flock 
+Summary  
+Epidemiological Investigations of HPAI H5N1 Genotype B3.13 in 
+Michigan Dairy Herds and Poultry Flocks: Observations on viral 
+spread between premises and mitigation recommendations  
+June 9, 2024 
+1. Executive Summary
+Highly Pathogenic Avian Influenza (HPAI) H5N1 viral infection in dairy cattle was first confirmed on a Texas dairy 
+premises on March 25, 2024.  Dairy cattle from an HPAI affected dairy premises in Texas – non-clinical and 
+undetected at the time of the cattle movement – were shipped to Michigan, arriving on March 8, 2024.  Clinical 
+signs were first observed in the premises’ resident cattle on March 20, 2024.  On April 1, 2024, a commercial 
+poultry premises reported clinical signs associated with HPAI. The flock was confirmed infected on April 2, 2024. 
+Whole genome sequencing (WGS) of viruses from the dairy and poultry premises identified Eurasian lineage 
+goose/Guangdong clade 2.3.4.4b, genotype B3.13 on both premises and suggests likely indirect transfer of virus 
+from the dairy premises to the poultry premises.   
+In early April 2024, the Michigan Department of Agriculture and Rural Development (MDARD) invited a USDA 
+Epidemiological Strike Team into Michigan to investigate the links between HPAI affected dairy premises and 
+evidence of spillover into poultry premises.  This report summarizes the findings from field epidemiological 
+investigations of disease spread between premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI 
+genotype
+Text Len: 1608
+--------------------------------------------------------------------------------
+ Agriculture and Rural Development (MDARD) invited a USDA 
+Epidemiological Strike Team into Michigan to investigate the links between HPAI affected dairy premises and 
+evidence of spillover into poultry premises.  This report summarizes the findings from field epidemiological 
+investigations of disease spread between premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI 
+genotype B3.13 in Michigan. 
+After interstate animal movement initially introduced the HPAI genotype B3.13 virus into a Michigan dairy, 
+continued disease transmission within the state is determined to be multifactorial. Transmission between farms is 
+likely due to indirect epidemiological links related to normal business operations such as numerous people, 
+vehicles, and other conveyances frequently moving on and off the affected dairy premises, with many of these 
+indirect links shared between premises. Importantly, disease spread due to independent introduction of the virus 
+onto dairy or poultry premises from migratory waterfowl is not supported based on both genomic and 
+epidemiological data analysis. 
+Key findings identified to date and potential risk factors for local transmission include: 
+• Shared personnel b etween premises
+o 20% of affected dairies’ employees and 7% of dairies’ employees family members work on other
+dairy premises
+o 7% of affected dairies’ employees also work on poultry premises; 13% of affected dairies’
+employees have family members who work on poultry premises
+o 31% of dairies have employees who own livestock or poultry at their personal residence
+• Shared v ehicles between premises
+
+Page 2 of 10 
+o 6 2%  of affected dairy premises use shared vehicles to transport cattle, with only 12% of premises
+cleaning vehicles before use
+• F requent visitors on/off premises
+o 100% of affected dairy premises have
+Text Len: 1842
+--------------------------------------------------------------------------------
+ 31% of dairies have employees who own livestock or poultry at their personal residence
+• Shared v ehicles between premises
+
+Page 2 of 10 
+o 6 2%  of affected dairy premises use shared vehicles to transport cattle, with only 12% of premises
+cleaning vehicles before use
+• F requent visitors on/off premises
+o 100% of affected dairy premises have regular visits by veterinarians, nutritionist/feed consultant,
+and/or contract haulers (e.g., cattle or manure); the majority of these visitors have direct contact
+w
+ith cattle
+o 40% of affected dairy premises have regular visits for deadstock removal, with 20% having direct
+contact with cattle
+ 53% of affected dairies utilized the same deadstock removal company and 40% had
+animals removed from the premises by that company within 30 days prior to clinical
+o
+nset
+o Milk haulers visit dairy premises, on average, 34 times within a 30-day time period
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other
+affected dairy premises within the state (i.e., only one of the affected dairy herds is part
+of a milk co-op that none of the other 14 affected dairy herds belong to)
+Based on the epidemiological findings, the majority of links between affected dairy premises, and between dairy 
+and poultry premises, are indirect from shared people, vehicles, and equipment.  As such, HPAI disease spread 
+between dairy and poultry premises can be mitigated by identifying potential interconnections between 
+operations (people, conveyances, etc.) and increasing biosecurity practices on all premises and associated animal 
+businesses (e.g., milk haulers, deadstock/contract haulers and other shared vehicles/trailers between premises, 
+livestock markets
+Text Len: 1730
+--------------------------------------------------------------------------------
+ disease spread 
+between dairy and poultry premises can be mitigated by identifying potential interconnections between 
+operations (people, conveyances, etc.) and increasing biosecurity practices on all premises and associated animal 
+businesses (e.g., milk haulers, deadstock/contract haulers and other shared vehicles/trailers between premises, 
+livestock markets).  Identifying as many affected herds as possible will assist in assessing the scope of the event 
+and allow decision-makers to better manage the response. 
+2. Background
+After more than a month of investigations into dramatically decreased milk production and changes in milk 
+composition in dairy herds in Texas, on March 25, 2024, the cause was confirmed to be the highly pathogenic 
+avian influenza (HPAI) H5N1 virus of Eurasian lineage goose/Guangdong clade 2.3.4.4b, genotype B3.13.  The HPAI 
+H5N1 virus is detected at high levels in milk of infected cows and at lower levels in nasal swabs and urine of 
+infected cows; manure does not appear to be a meaningful viral source and is unlikely to transmit the virus.  
+Whole genome sequencing (WGS) analysis suggests an initial single spillover event of the virus from wild birds to 
+dairy cattle, most likely occurring in the Texas panhandle in December 2023, with onward spread of the virus to 
+eight other states (Nguen et al, 2024).   
+On March 29, 2024, HPAI was confirmed on a Michigan dairy cattle premises with disease introduction traced 
+back to movement of lactating dairy cattle from an affected dairy premises in Texas which was non-clinical at the 
+time of animal movement.  The Texas dairy herd was detected shortly after cattle movement into Michigan 
+occurred when
+Text Len: 1701
+--------------------------------------------------------------------------------
+en et al, 2024).   
+On March 29, 2024, HPAI was confirmed on a Michigan dairy cattle premises with disease introduction traced 
+back to movement of lactating dairy cattle from an affected dairy premises in Texas which was non-clinical at the 
+time of animal movement.  The Texas dairy herd was detected shortly after cattle movement into Michigan 
+occurred when the Texas herd displayed clinical signs.  On April 2, 2024, HPAI was confirmed on a commercial 
+poultry premises in Michigan; WGS supports this premises was infected with the same B3.13 genotype as the first 
+Michigan affected dairy with directional movement of the virus from the dairy premises to the poultry premises.    
+On April 10, 2024, a team of USDA epidemiologists (Epidemiological Strike Team) was invited by the Michigan 
+Department of Agriculture and Rural Development (MDARD) to deploy to Michigan to rapidly investigate 
+detections of HPAI in Michigan dairies with evidence of spillover into poultry premises.  A USDA Incident 
+Management Team (IMT) was also deployed to Michigan at the same time to support the state’s HPAI poultry 
+response; epidemiologists from both groups communicated daily during deployment and regularly after 
+demobilization to discuss details about affected premises. 
+Page 3 of 10 
+This report summarizes the findings from the Strike Team’s field epidemiological investigations of disease spread 
+b
+etween premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI H5N1 genotype B3.13 in Michigan. 
+3. Epidemiologic Investigation Methods
+The focus of the epidemiological investigations was to identify potential transmission routes for disease spread 
+between affected dairy premises and links to affected poultry premises in Michigan.  All affected dairy herds in 
+Michigan were identified by reporting sick cattle on
+Text Len: 1832
+--------------------------------------------------------------------------------
+ and 8 poultry flocks confirmed with HPAI H5N1 genotype B3.13 in Michigan. 
+3. Epidemiologic Investigation Methods
+The focus of the epidemiological investigations was to identify potential transmission routes for disease spread 
+between affected dairy premises and links to affected poultry premises in Michigan.  All affected dairy herds in 
+Michigan were identified by reporting sick cattle on their operations to the MDARD.  Michigan’s first affected 
+dairy submitted samples from affected cattle to Iowa State University Veterinary Diagnostic Laboratory for 
+preliminary testing and subsequent affected herds submitted samples to the Michigan State University Veterinary 
+Diagnostic Laboratory; both laboratories are members of the National Animal Health Laboratory Network.  
+Confirmatory testing was performed at USDA’s National Veterinary Services Laboratories (NVSL).  Initial 
+epidemiological information was collected at the time of reporting of clinical signs, followed by administration of 
+the USDA Dairy Cattle Emerging Health Event: Epidemiological Questionnaire.  The questionnaire took 1-2 hours 
+to complete depending on the complexity of the operation and the willingness of the producer.  Both WGS 
+analysis and follow-up field epidemiology investigations were then conducted with producers/herd veterinarians 
+on affected dairy premises and associated animal businesses (e.g., deadstock haulers, milk haulers, feed 
+deliveries) to further identify epidemiological links between affected dairy and poultry premises.  A subset of 
+affected dairy and poultry premises also agreed to additional on-farm sampling of wild birds and peri-domestic 
+species by USDA Wildlife Services personnel.  Data analyses were ongoing and performed as soon as possible after 
+data collection.  
+4. Epidemiologic Summary
+4.1 Summary of HPAI H5N1 Cases
+A summary description of the 15 dairy herds and 8 poultry flocks that were confirmed in
+Text Len: 1938
+--------------------------------------------------------------------------------
+ on-farm sampling of wild birds and peri-domestic 
+species by USDA Wildlife Services personnel.  Data analyses were ongoing and performed as soon as possible after 
+data collection.  
+4. Epidemiologic Summary
+4.1 Summary of HPAI H5N1 Cases
+A summary description of the 15 dairy herds and 8 poultry flocks that were confirmed in Michigan between March 
+29, 2024 and May 16, 2024 is presented in Table 1.  On average, dairy premises had approximately 1,000 cattle 
+onsite and poultry premises had approximately 84,000 birds onsite.  The range of Euclidean geographic distances 
+between dairy premises is 1 to 93 miles; between dairy and poultry premises is 1 to 93 miles; and between 
+poultry premises is 0.7 to 68 miles.     
+Clinical signs were first observed in dairy cattle in Michigan on March 20, 2024.  The last date that clinical signs 
+were initially reported on affected premises investigated in this report was May 6, 2024 in dairy and May 3, 2024 
+in poultry. The date ranges of clinical onset are shown in Table 1. The order of clinical signs observed does not 
+match the order the herds/flocks were detected due to variability in the timing of reporting, sample collection, 
+and laboratory confirmation.  
+Figure 1 provides the timeline of the HPAI H5N1 detections based on the date of clinical onset for each affected 
+dairy herd and poultry flock.  
+Figure 2 provides the epidemiological timeline curve of HPAI H5N1 detections based on the date of confirmation 
+for affected dairy herds and poultry flocks.   
+Page 4 of 10 
+Table 1. Description  of 15 dairy herds and 8 poultry flocks affected with HPAI H5N1 genotype B3.13 in Michigan.
+Text Len: 1650
+--------------------------------------------------------------------------------
+  
+Figure 2 provides the epidemiological timeline curve of HPAI H5N1 detections based on the date of confirmation 
+for affected dairy herds and poultry flocks.   
+Page 4 of 10 
+Table 1. Description  of 15 dairy herds and 8 poultry flocks affected with HPAI H5N1 genotype B3.13 in Michigan. 
+# of 
+Herds/Flocks Animal Type Size1 
+Clinical Onset Date 
+Range 
+Confirmation Date 
+Range 
+6 Dairy Cattle Medium 3/30/2024 - 5/6/2024 4/4/2024 - 5/14/2024 
+9 Dairy Cattle Large 3/20/2024 - 5/4/2024 3/29/2024 - 5/16/2024 
+3 Poultry - Layers Commercial 3/29/2024 - 04/12/2024 4/2/2024 - 4/16/2024 
+4 Poultry - Turkeys Commercial 4/15/2024 - 4/29/2024 4/17/2024 - 5/2/2024 
+1 Poultry - Layers Backyard 5/3/2024 5/10/2024 
+1Size classifications for dairy premises based on the USDA National Agricultural Statistics Service herd size categories: Smal l (1-99 head), 
+Medium (100-499 head), Large ( >500 head).  Size classifications for poultry premises based on the National Poultry Improvement Plan 
+classification: Commercial (table egg layer premises with over 75,000 birds, commercial meat- type turkey premises that raise more than 
+30,000 turkeys annually) or else backyard if the premises has less than these bird numbers.  
+F
+igure 1. Graphic representation of the date of clinical signs observed by Michigan
+Text Len: 1303
+--------------------------------------------------------------------------------
+ for poultry premises based on the National Poultry Improvement Plan 
+classification: Commercial (table egg layer premises with over 75,000 birds, commercial meat- type turkey premises that raise more than 
+30,000 turkeys annually) or else backyard if the premises has less than these bird numbers.  
+F
+igure 1. Graphic representation of the date of clinical signs observed by Michigan HPAI H5N1 genotype B3.13 
+affected dairy herd or poultry flock. Shedding of HPAI virus occurs before clinical signs appear based on data 
+from herds outside of Michigan. 
+F
+igure 2. Epidemiological curve of detections of HPAI H5N1 genotype B3.13 in dairy and poultry premises based 
+on the date of confirmation. 
+
+Page 5 of 10  
+4.2 Summary of Disease Spread between Premises   
+A summary of the identified genomic and epidemiological links (Figures 3, 4) between affected dairy and poultry 
+premises are conceptualized in the figures below.  Michigan’s first affected dairy was infected by the importation 
+of cattle from an affected herd in Texas, which was undetected at the time of movement.  Based on movement 
+information and WGS, the virus in this herd likely moved to other Michigan dairy herds and poultry flocks.  While 
+the exact mechanism of disease spread onto each premises is unknown, the route of transmission is likely 
+multifactorial based on epidemiological investigations.   
+4.2.1 Disease Spread Between Dairy Premises 
+All dairy premises had numerous risk factors for virus introduction, including many visitors within 30 days prior to 
+clinical signs appearing in cattle.  Key risk factors shared between dairy premises are summarized below and 
+additional characteristics of affected dairy farms is provided in Table 2.  Key findings include the following:  
+Text Len: 1768
+--------------------------------------------------------------------------------
+   
+4.2.1 Disease Spread Between Dairy Premises 
+All dairy premises had numerous risk factors for virus introduction, including many visitors within 30 days prior to 
+clinical signs appearing in cattle.  Key risk factors shared between dairy premises are summarized below and 
+additional characteristics of affected dairy farms is provided in Table 2.  Key findings include the following:  
+• 6 dairy premises had cattle brought onto the premises in the previous 30 days, although only one of these 
+premises’ movements is associated with disease transmission. 
+• All dairy premises reported visitors having contact with cattle on their premises.  
+o 100% of affected dairy premises have regular visits by veterinarians, nutritionist/feed consultant, 
+and/or contract haulers (e.g., cattle or manure); the majority of these visitors have direct contact 
+with cattle. 
+o 40% of affected dairy premises have regular visits for deadstock removal, with 20% having direct 
+contact with cattle.  
+ 53% of affected dairies (8/15) utilized the same deadstock removal company and 67% of 
+those (6/8) had animals removed from the premises by that company within 30 days prior 
+to clinical onset, 13% (1/8) reported that no animals were removed but that the 
+deadstock hauler they have in common did stop on their property. 
+o Milk haulers visit dairy premises on average 34 times within a 30-day time period. 
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other 
+affected dairy premises (i.e., only one of the affected dairy herds is part of a milk co-op 
+that none of the other 14 affected dairy herds belong to). 
+• 7 dairy premises reported shared personnel between premises. 
+Text Len: 1709
+--------------------------------------------------------------------------------
+. 
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other 
+affected dairy premises (i.e., only one of the affected dairy herds is part of a milk co-op 
+that none of the other 14 affected dairy herds belong to). 
+• 7 dairy premises reported shared personnel between premises. 
+o 20% of affected dairies’ employees and 7% of dairies’ employees family members work on other 
+dairy premises. 
+o 7% of affected dairies’ employees also work on poultry premises; 13% of affected dairies’ 
+employees have family members who work on poultry premises.   
+o 31% of dairies have employees who own livestock or poultry at their personal residence. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 10 
+Figu
+re 3. Conceptual overview of genomic 
+relatedness supported by whole genome 
+sequencing for dairy herds and poultry flocks 
+affected with HPAI H5N1 genotype B3.13 in 
+Michigan. Round shapes represent cattle 
+(blue) and poultry (green) genomic clustering 
+of individual animal samples tested, with 
+increased relatedness as colors darken. Blue 
+boxes represent affected dairies, green boxes 
+represent affected poultry flocks, and orange 
+boxes represent the movement of cattle onto 
+affected dairies from premises with an 
+unknown disease status at time of movement. 
+F
+igure 4. Potential transmission pathways supported by identified epidemiological links including animal and 
+human movements and shared vehicles and equipment for the 15 dairy herds and 8 poultry flocks affected with 
+HPAI H5N1 genotype B3.13 in Michigan. 
+
+Page 7
+Text Len: 1537
+--------------------------------------------------------------------------------
+ dairies from premises with an 
+unknown disease status at time of movement. 
+F
+igure 4. Potential transmission pathways supported by identified epidemiological links including animal and 
+human movements and shared vehicles and equipment for the 15 dairy herds and 8 poultry flocks affected with 
+HPAI H5N1 genotype B3.13 in Michigan. 
+
+Page 7 of 10  
+Table 2. Additional characteristics of HPAI genotype B3.13-affected dairies in Michigan. 
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+ Yes If yes, % Commingled  
+Dairy heifers raised offsite during the 30 days prior to clinical signs 31 (4/13) 75 (3/4)  
+    
+Other animals present on the operation Yes If yes, any sick or died?   
+Chickens 40 (6/15) 13 (2/6)  
+Cats  80 (12/15) 58 (7/12)  
+Waste milk fed to calves on the dairy 33 (5/15)   
+Pasteurized? 40 (2/5)   
+No treatment? 60 (3/5)   
+Waste milk disposed in lagoons 73 (11/15)   
+No treatment 91 (10/11)   
+Combination of not treated and pasteurized 9 (1/11)   
+    
+Disposition of manure    
+Within 30 days of clinical signs Yes No  
+Stored on premises 87 (13/15)  13 (2/15)  
+Composted for bedding 7 (1/15) 80 (12/15)  
+Applied to land management by this premises 73 (11/
+Text Len: 1216
+--------------------------------------------------------------------------------
+ 
+    
+Disposition of manure    
+Within 30 days of clinical signs Yes No  
+Stored on premises 87 (13/15)  13 (2/15)  
+Composted for bedding 7 (1/15) 80 (12/15)  
+Applied to land management by this premises 73 (11/15) 13 (2/15)  
+Removed, sold, or given away 20 (3/15) 67 (10/15)  
+After clinical signs were observed    
+Stored on premises 80 (12/15) --  
+Composted for bedding -- 73 (11/15)  
+Applied to land management by this premises 53 (8/15) 20 (3/15)  
+Removed, sold, or given away 7 (1/15) 67 (10/15)  
+ 
+Cattle added to the operation in the 30 days prior to clinical signs  Yes 
+If yes, average number 
+added 
+ 
+Preweaned dairy or beef calves 0 (15/15) N/A  
+Weaned but not bred dairy heifers 7 (1/15) 30  
+Bred dairy heifers 13 (2/15) 5  
+Fresh dairy heifers 27 (4/15) 31  
+Lactating dairy cows 20 (3/15) --  
+Dry dairy cows 0 (15/15) N/A  
+Page 8 of 10  
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+Beef cows, bulls, steers, heifers 0 (15/15) N/A  
+Dairy bulls 0 (15/15) N/A  
+Any cattle added 40 (6/15
+Text Len: 1045
+--------------------------------------------------------------------------------
+15/15) N/A  
+Page 8 of 10  
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+Beef cows, bulls, steers, heifers 0 (15/15) N/A  
+Dairy bulls 0 (15/15) N/A  
+Any cattle added 40 (6/15) --  
+    
+ Yes Cleaned prior to use?   
+Shared transport vehicles with other operations 62 (8/13) 12 (1/8)  
+    
+ Always Never N/A 
+Cattle were isolated prior to commingling with resident cattle 21 (3/14) 21 (3/14) 57 (8/14) 
+    
+Access to cattle feed Yes    
+Wild birds had access to cattle feed 100 (15/15)   
+Wild animals had access to cattle feed 100 (15/15)   
+Rodents had access to cattle feed 100 (15/15)   
+    
+Shared personnel Dairy workers Family members  
+Dairy workers/family also employed at other dairy operations 21 (3/14) 7 (1/14)  
+Dairy workers/family also employed on swine farms  7 (1/14) 7 (1/14)  
+Dairy workers/family also employed at poultry operations 7 (1/14) 14 (2/14)  
+Dairy workers/family also employed on other livestock operations  14 (2/14) 7 (1/14)  
+Employees own livestock or poultry 31 (4/13) --  
+    
+Visitors to the operation within 30 days prior to clinical signs Yes  
+Average number of 
+visits 
+If
+Text Len: 1153
+--------------------------------------------------------------------------------
+/14)  
+Dairy workers/family also employed on other livestock operations  14 (2/14) 7 (1/14)  
+Employees own livestock or poultry 31 (4/13) --  
+    
+Visitors to the operation within 30 days prior to clinical signs Yes  
+Average number of 
+visits 
+If Yes, % contact with 
+cattle 
+Veterinarians 93 (13/14) 4  100 (13/13) 
+Nutritionist or feed consultant 92 (11/13) 2 82 (9/11)  
+Breed technician 25 (3/13) 30 100 (3/3) 
+Feed or feed ingredient deliveries 100 (14/14) 8 7 (1/14) 
+Milk hauler 100 (13/13) 34 0 (15/15) 
+Contract hauler (e.g., cattle or manure) 92 (12/13) 4 58 (7/12) 
+Dead stock/ renderer 43 (6/14) 4 50 (3/6) 
+Hoof trimmer 69 (9/13) 4 100 (9/9) 
+ Yes    
+Any sick or dead wild birds within the 30 days prior to clinical signs 15 (2/13)   
+ 
+Page 9 of 10  
+Despite no genomic evidence that migratory birds are spreading HPAI genotype B3.13 within Michigan, the 
+potential for resident wild birds or peri-domestic species to move and transmit the virus between dairy herds 
+cannot be ruled out, especially for dairy premises located in close proximity.  All dairy herds reported wild bird, 
+wild animal, or rodent presence on farms, with these species always having access to cattle feed.  HPAI H5N1 
+genotype B
+Text Len: 1222
+--------------------------------------------------------------------------------
+ential for resident wild birds or peri-domestic species to move and transmit the virus between dairy herds 
+cannot be ruled out, especially for dairy premises located in close proximity.  All dairy herds reported wild bird, 
+wild animal, or rodent presence on farms, with these species always having access to cattle feed.  HPAI H5N1 
+genotype B3.13 detections in pigeons, a starling, cats, racoons, opossums, and foxes have occurred on 5 affected 
+dairy premises and 1 affected poultry premises that participated in on-farm sampling.  Still, it was a small number 
+of individual animals and species that were detected from the large number of samples collected.         
+4.2.2 Disease Spread Between Dairy and Poultry Premises 
+Apart from the potential for resident wild birds or peri-domestic species to move and transmit the virus, as 
+discussed above, the only other potential transmission routes found from dairy herds to the poultry flocks were 
+through shared employment, housing, or movement of employees.  Approximately 22 employees of 3 poultry 
+flocks worked weekend shifts at 2 different dairy premises.  Shared housing between dairy and poultry workers 
+was identified between 3 poultry premises and 2 dairy premises. It is also possible that dairy employees have 
+social contact with poultry premises employees.   
+5. Recommendations to Mitigate Disease Spread Between Premises 
+The intensive, integrated, and specialized nature of the dairy industry results in biosecurity risks that are not 
+completely avoidable, but these risks can be mitigated.  Given that disease spread between dairy and poultry 
+premises is multifactorial, mitigation measures that are integrated and target multiple risk factors are needed.  
+The USDA Federal Order requires premovement testing for interstate movement of lactating dairy
+Text Len: 1827
+--------------------------------------------------------------------------------
+ specialized nature of the dairy industry results in biosecurity risks that are not 
+completely avoidable, but these risks can be mitigated.  Given that disease spread between dairy and poultry 
+premises is multifactorial, mitigation measures that are integrated and target multiple risk factors are needed.  
+The USDA Federal Order requires premovement testing for interstate movement of lactating dairy cattle (as of 
+April 29, 2024) which greatly reduces the risk of premises-to-premises disease spread.  Since 9 of 15 of the 
+affected dairy herds in Michigan were closed herds which did not bring any new cattle into the herd, restriction of 
+live cattle movements would not have prevented disease in these herds.  Movement restrictions on cattle in 
+some Michigan affected herds may result in serious animal welfare issues since these specialized operations do 
+not have the facilities to manage all classes of dairy cattle and rely on an integrated network of operations to 
+raise and manage the different classes of cattle.  However, testing before moving cattle would help limit 
+premises-to-premises transmission from cattle movement within the state and may identify additionally affected 
+herds.   
+The biosecurity practices outlined in the Secure Milk Supply’s “Enhanced Biosecurity Plan” include not moving 
+cattle if possible, restricting visitors’ access to the premises, cleaning and disinfecting vehicles and equipment 
+moved on/off the premises – especially those having contact with cattle or cattle areas, requiring use of personal 
+protective equipment and/or changing or cleaning and disinfecting footwear, and implementing a line of 
+separation to mitigate virus movement; are all applicable in this event.  In addition, reducing wild bird/animal 
+exposure to unpasteurized or waste milk, cattle feed, and other areas of the premises, as is possible, would also 
+mitigate
+Text Len: 1894
+--------------------------------------------------------------------------------
+ of personal 
+protective equipment and/or changing or cleaning and disinfecting footwear, and implementing a line of 
+separation to mitigate virus movement; are all applicable in this event.  In addition, reducing wild bird/animal 
+exposure to unpasteurized or waste milk, cattle feed, and other areas of the premises, as is possible, would also 
+mitigate this transmission route.  The MDARD Director signed a “Determination of Extraordinary Emergency -  
+HPAI Risk Reduction Response Order” on May 1, 2024 to further protect Michigan’s poultry and livestock 
+industries from the ongoing threat of the virus.  The order requires dairy and poultry premises to implement the 
+above biosecurity practices; prohibits all cattle from affected dairy herds and lactating or late pregnancy cattle 
+from unaffected dairy herds from being exhibited until at least 60 days have passed with no new dairy detections; 
+and prohibits all poultry from being exhibited until at least 30 days have passed with no new poultry detections.  
+Implementation of this order will also greatly mitigate disease exposure and spread within the state.    
+Page 10 of 10  
+Finally, testing dairy cattle as early as possible after onset of clinical signs or changes in production metrics within 
+the herd (e.g., decreased milk production, decreased rumen motility) allows earlier detection of affected dairy 
+herds and evaluation if the above mitigation measures can be implemented.          
+6. Conclusion 
+The investigations discussed in this report, including the respective WGS information, indicate that HPAI H5N1 
+genotype B3.13 was introduced into Michigan through animal movement and subsequently spread within the 
+state between dairy premises with spillover into poultry premises through multiple possible routes. Factors that 
+appear to be of greater risk for introduction
+Text Len: 1852
+--------------------------------------------------------------------------------
+ 
+6. Conclusion 
+The investigations discussed in this report, including the respective WGS information, indicate that HPAI H5N1 
+genotype B3.13 was introduced into Michigan through animal movement and subsequently spread within the 
+state between dairy premises with spillover into poultry premises through multiple possible routes. Factors that 
+appear to be of greater risk for introduction into a dairy premises may be mitigated through enhanced 
+biosecurity, increased animal testing, and potentially through within-state animal movement restrictions if they 
+can be implemented without impacting animal welfare.  
+The willingness of Michigan producers to participate in these investigations has greatly increased the body of 
+knowledge of HPAI H5N1 B3.13 detections in Michigan and throughout the nation; this report could not have 
+been completed without them.   
+ 
+Contributors 
+USDA APHIS Unit or  
+External Organization 
+Stacey Schwabenlander, DVM, MPH, DACVPM USDA APHIS VS Strategy and Policy 
+Jason Lombard, DVM, MS Colorado State University  
+College of Veterinary Medicine and Biomedical 
+Sciences 
+Bradley Christensen, DVM, MPH, DACVPM USDA APHIS VS Strategy and Policy 
+Nicole Amey, DVM, DrPH USDA APHIS VS Field Operations 
+Jean Ray, DVM, PhD  USDA APHIS VS Field Operations 
+Sara Ahola, DVM, MA USDA APHIS VS Field Operations 
+Kammy Johnson, DVM, MS, PhD, DACVPM USDA APHIS VS Field Operations 
+Lindsey Holmstrom, DVM USDA APHIS VS Strategy and Policy 
+Suelee Robbe-Austerman, DVM, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+M
+Text Len: 1563
+--------------------------------------------------------------------------------
+, MA USDA APHIS VS Field Operations 
+Kammy Johnson, DVM, MS, PhD, DACVPM USDA APHIS VS Field Operations 
+Lindsey Holmstrom, DVM USDA APHIS VS Strategy and Policy 
+Suelee Robbe-Austerman, DVM, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+Mia Torchetti, DVM, MS, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+Kristina Lantz, DVM, MS USDA APHIS VS National Veterinary Services 
+Laboratories 
+Nora Wineland, DVM, MS, DACVPM 
+Michigan State Veterinarian 
+Michigan Department of Agriculture and Rural 
+Development  
+ 
+References 
+ 
+Nguyen, T-Q., Hutter, C., Markin, A. , Thomas, M., Lantz, K. , Killian, M.L. , Garrett M. Janzen, G.M., Vijendran, S., 
+Wagle, S., Inderski, B. , Magstadt, D.R., Li, G., Diel, D.G., Frye, E.A., Dimitrov, K.M., Swinford, A.K., 
+Thompson, A.C. , Snevik, K.R., Suarez, D.L., Spackman, E., Lakin, S.M., Ahola, S.C., Johnson, K.R., Baker, A.L., 
+Robbe-Austerman, S., Torchetti, M.K., and Anderson, T.K. (2024). Emergence and interstate spread of 
+highly pathogenic avian influenza A(H5N1) in dairy cattle. BioRxIv.org. 
+https://doi.org/
+Text Len: 1090
+--------------------------------------------------------------------------------
+, K.R., Baker, A.L., 
+Robbe-Austerman, S., Torchetti, M.K., and Anderson, T.K. (2024). Emergence and interstate spread of 
+highly pathogenic avian influenza A(H5N1) in dairy cattle. BioRxIv.org. 
+https://doi.org/10.1101/2024.05.01.591751  
+ 
+Text Len: 241
+--------------------------------------------------------------------------------
+Page 1 of 10 
+2024 Highly Pathogenic Avian 
+Influenza (H5N1) - Michigan 
+Dairy Herd and Poultry Flock 
+Summary  
+Epidemiological Investigations of HPAI H5N1 Genotype B3.13 in 
+Michigan Dairy Herds and Poultry Flocks: Observations on viral 
+spread between premises and mitigation recommendations  
+June 9, 2024 
+1. Executive Summary
+Highly Pathogenic Avian Influenza (HPAI) H5N1 viral infection in dairy cattle was first confirmed on a Texas dairy 
+premises on March 25, 2024.  Dairy cattle from an HPAI affected dairy premises in Texas – non-clinical and 
+undetected at the time of the cattle movement – were shipped to Michigan, arriving on March 8, 2024.  Clinical 
+signs were first observed in the premises’ resident cattle on March 20, 2024.  On April 1, 2024, a commercial 
+poultry premises reported clinical signs associated with HPAI. The flock was confirmed infected on April 2, 2024. 
+Whole genome sequencing (WGS) of viruses from the dairy and poultry premises identified Eurasian lineage 
+goose/Guangdong clade 2.3.4.4b, genotype B3.13 on both premises and suggests likely indirect transfer of virus 
+from the dairy premises to the poultry premises.   
+In early April 2024, the Michigan Department of Agriculture and Rural Development (MDARD) invited a USDA 
+Epidemiological Strike Team into Michigan to investigate the links between HPAI affected dairy premises and 
+evidence of spillover into poultry premises.  This report summarizes the findings from field epidemiological 
+investigations of disease spread between premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI 
+genotype
+Text Len: 1608
+--------------------------------------------------------------------------------
+ Agriculture and Rural Development (MDARD) invited a USDA 
+Epidemiological Strike Team into Michigan to investigate the links between HPAI affected dairy premises and 
+evidence of spillover into poultry premises.  This report summarizes the findings from field epidemiological 
+investigations of disease spread between premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI 
+genotype B3.13 in Michigan. 
+After interstate animal movement initially introduced the HPAI genotype B3.13 virus into a Michigan dairy, 
+continued disease transmission within the state is determined to be multifactorial. Transmission between farms is 
+likely due to indirect epidemiological links related to normal business operations such as numerous people, 
+vehicles, and other conveyances frequently moving on and off the affected dairy premises, with many of these 
+indirect links shared between premises. Importantly, disease spread due to independent introduction of the virus 
+onto dairy or poultry premises from migratory waterfowl is not supported based on both genomic and 
+epidemiological data analysis. 
+Key findings identified to date and potential risk factors for local transmission include: 
+• Shared personnel b etween premises
+o 20% of affected dairies’ employees and 7% of dairies’ employees family members work on other
+dairy premises
+o 7% of affected dairies’ employees also work on poultry premises; 13% of affected dairies’
+employees have family members who work on poultry premises
+o 31% of dairies have employees who own livestock or poultry at their personal residence
+• Shared v ehicles between premises
+
+Page 2 of 10 
+o 6 2%  of affected dairy premises use shared vehicles to transport cattle, with only 12% of premises
+cleaning vehicles before use
+• F requent visitors on/off premises
+o 100% of affected dairy premises have
+Text Len: 1842
+--------------------------------------------------------------------------------
+ 31% of dairies have employees who own livestock or poultry at their personal residence
+• Shared v ehicles between premises
+
+Page 2 of 10 
+o 6 2%  of affected dairy premises use shared vehicles to transport cattle, with only 12% of premises
+cleaning vehicles before use
+• F requent visitors on/off premises
+o 100% of affected dairy premises have regular visits by veterinarians, nutritionist/feed consultant,
+and/or contract haulers (e.g., cattle or manure); the majority of these visitors have direct contact
+w
+ith cattle
+o 40% of affected dairy premises have regular visits for deadstock removal, with 20% having direct
+contact with cattle
+ 53% of affected dairies utilized the same deadstock removal company and 40% had
+animals removed from the premises by that company within 30 days prior to clinical
+o
+nset
+o Milk haulers visit dairy premises, on average, 34 times within a 30-day time period
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other
+affected dairy premises within the state (i.e., only one of the affected dairy herds is part
+of a milk co-op that none of the other 14 affected dairy herds belong to)
+Based on the epidemiological findings, the majority of links between affected dairy premises, and between dairy 
+and poultry premises, are indirect from shared people, vehicles, and equipment.  As such, HPAI disease spread 
+between dairy and poultry premises can be mitigated by identifying potential interconnections between 
+operations (people, conveyances, etc.) and increasing biosecurity practices on all premises and associated animal 
+businesses (e.g., milk haulers, deadstock/contract haulers and other shared vehicles/trailers between premises, 
+livestock markets
+Text Len: 1730
+--------------------------------------------------------------------------------
+ disease spread 
+between dairy and poultry premises can be mitigated by identifying potential interconnections between 
+operations (people, conveyances, etc.) and increasing biosecurity practices on all premises and associated animal 
+businesses (e.g., milk haulers, deadstock/contract haulers and other shared vehicles/trailers between premises, 
+livestock markets).  Identifying as many affected herds as possible will assist in assessing the scope of the event 
+and allow decision-makers to better manage the response. 
+2. Background
+After more than a month of investigations into dramatically decreased milk production and changes in milk 
+composition in dairy herds in Texas, on March 25, 2024, the cause was confirmed to be the highly pathogenic 
+avian influenza (HPAI) H5N1 virus of Eurasian lineage goose/Guangdong clade 2.3.4.4b, genotype B3.13.  The HPAI 
+H5N1 virus is detected at high levels in milk of infected cows and at lower levels in nasal swabs and urine of 
+infected cows; manure does not appear to be a meaningful viral source and is unlikely to transmit the virus.  
+Whole genome sequencing (WGS) analysis suggests an initial single spillover event of the virus from wild birds to 
+dairy cattle, most likely occurring in the Texas panhandle in December 2023, with onward spread of the virus to 
+eight other states (Nguen et al, 2024).   
+On March 29, 2024, HPAI was confirmed on a Michigan dairy cattle premises with disease introduction traced 
+back to movement of lactating dairy cattle from an affected dairy premises in Texas which was non-clinical at the 
+time of animal movement.  The Texas dairy herd was detected shortly after cattle movement into Michigan 
+occurred when
+Text Len: 1701
+--------------------------------------------------------------------------------
+en et al, 2024).   
+On March 29, 2024, HPAI was confirmed on a Michigan dairy cattle premises with disease introduction traced 
+back to movement of lactating dairy cattle from an affected dairy premises in Texas which was non-clinical at the 
+time of animal movement.  The Texas dairy herd was detected shortly after cattle movement into Michigan 
+occurred when the Texas herd displayed clinical signs.  On April 2, 2024, HPAI was confirmed on a commercial 
+poultry premises in Michigan; WGS supports this premises was infected with the same B3.13 genotype as the first 
+Michigan affected dairy with directional movement of the virus from the dairy premises to the poultry premises.    
+On April 10, 2024, a team of USDA epidemiologists (Epidemiological Strike Team) was invited by the Michigan 
+Department of Agriculture and Rural Development (MDARD) to deploy to Michigan to rapidly investigate 
+detections of HPAI in Michigan dairies with evidence of spillover into poultry premises.  A USDA Incident 
+Management Team (IMT) was also deployed to Michigan at the same time to support the state’s HPAI poultry 
+response; epidemiologists from both groups communicated daily during deployment and regularly after 
+demobilization to discuss details about affected premises. 
+Page 3 of 10 
+This report summarizes the findings from the Strike Team’s field epidemiological investigations of disease spread 
+b
+etween premises for 15 dairy herds and 8 poultry flocks confirmed with HPAI H5N1 genotype B3.13 in Michigan. 
+3. Epidemiologic Investigation Methods
+The focus of the epidemiological investigations was to identify potential transmission routes for disease spread 
+between affected dairy premises and links to affected poultry premises in Michigan.  All affected dairy herds in 
+Michigan were identified by reporting sick cattle on
+Text Len: 1832
+--------------------------------------------------------------------------------
+ and 8 poultry flocks confirmed with HPAI H5N1 genotype B3.13 in Michigan. 
+3. Epidemiologic Investigation Methods
+The focus of the epidemiological investigations was to identify potential transmission routes for disease spread 
+between affected dairy premises and links to affected poultry premises in Michigan.  All affected dairy herds in 
+Michigan were identified by reporting sick cattle on their operations to the MDARD.  Michigan’s first affected 
+dairy submitted samples from affected cattle to Iowa State University Veterinary Diagnostic Laboratory for 
+preliminary testing and subsequent affected herds submitted samples to the Michigan State University Veterinary 
+Diagnostic Laboratory; both laboratories are members of the National Animal Health Laboratory Network.  
+Confirmatory testing was performed at USDA’s National Veterinary Services Laboratories (NVSL).  Initial 
+epidemiological information was collected at the time of reporting of clinical signs, followed by administration of 
+the USDA Dairy Cattle Emerging Health Event: Epidemiological Questionnaire.  The questionnaire took 1-2 hours 
+to complete depending on the complexity of the operation and the willingness of the producer.  Both WGS 
+analysis and follow-up field epidemiology investigations were then conducted with producers/herd veterinarians 
+on affected dairy premises and associated animal businesses (e.g., deadstock haulers, milk haulers, feed 
+deliveries) to further identify epidemiological links between affected dairy and poultry premises.  A subset of 
+affected dairy and poultry premises also agreed to additional on-farm sampling of wild birds and peri-domestic 
+species by USDA Wildlife Services personnel.  Data analyses were ongoing and performed as soon as possible after 
+data collection.  
+4. Epidemiologic Summary
+4.1 Summary of HPAI H5N1 Cases
+A summary description of the 15 dairy herds and 8 poultry flocks that were confirmed in
+Text Len: 1938
+--------------------------------------------------------------------------------
+ on-farm sampling of wild birds and peri-domestic 
+species by USDA Wildlife Services personnel.  Data analyses were ongoing and performed as soon as possible after 
+data collection.  
+4. Epidemiologic Summary
+4.1 Summary of HPAI H5N1 Cases
+A summary description of the 15 dairy herds and 8 poultry flocks that were confirmed in Michigan between March 
+29, 2024 and May 16, 2024 is presented in Table 1.  On average, dairy premises had approximately 1,000 cattle 
+onsite and poultry premises had approximately 84,000 birds onsite.  The range of Euclidean geographic distances 
+between dairy premises is 1 to 93 miles; between dairy and poultry premises is 1 to 93 miles; and between 
+poultry premises is 0.7 to 68 miles.     
+Clinical signs were first observed in dairy cattle in Michigan on March 20, 2024.  The last date that clinical signs 
+were initially reported on affected premises investigated in this report was May 6, 2024 in dairy and May 3, 2024 
+in poultry. The date ranges of clinical onset are shown in Table 1. The order of clinical signs observed does not 
+match the order the herds/flocks were detected due to variability in the timing of reporting, sample collection, 
+and laboratory confirmation.  
+Figure 1 provides the timeline of the HPAI H5N1 detections based on the date of clinical onset for each affected 
+dairy herd and poultry flock.  
+Figure 2 provides the epidemiological timeline curve of HPAI H5N1 detections based on the date of confirmation 
+for affected dairy herds and poultry flocks.   
+Page 4 of 10 
+Table 1. Description  of 15 dairy herds and 8 poultry flocks affected with HPAI H5N1 genotype B3.13 in Michigan.
+Text Len: 1650
+--------------------------------------------------------------------------------
+  
+Figure 2 provides the epidemiological timeline curve of HPAI H5N1 detections based on the date of confirmation 
+for affected dairy herds and poultry flocks.   
+Page 4 of 10 
+Table 1. Description  of 15 dairy herds and 8 poultry flocks affected with HPAI H5N1 genotype B3.13 in Michigan. 
+# of 
+Herds/Flocks Animal Type Size1 
+Clinical Onset Date 
+Range 
+Confirmation Date 
+Range 
+6 Dairy Cattle Medium 3/30/2024 - 5/6/2024 4/4/2024 - 5/14/2024 
+9 Dairy Cattle Large 3/20/2024 - 5/4/2024 3/29/2024 - 5/16/2024 
+3 Poultry - Layers Commercial 3/29/2024 - 04/12/2024 4/2/2024 - 4/16/2024 
+4 Poultry - Turkeys Commercial 4/15/2024 - 4/29/2024 4/17/2024 - 5/2/2024 
+1 Poultry - Layers Backyard 5/3/2024 5/10/2024 
+1Size classifications for dairy premises based on the USDA National Agricultural Statistics Service herd size categories: Smal l (1-99 head), 
+Medium (100-499 head), Large ( >500 head).  Size classifications for poultry premises based on the National Poultry Improvement Plan 
+classification: Commercial (table egg layer premises with over 75,000 birds, commercial meat- type turkey premises that raise more than 
+30,000 turkeys annually) or else backyard if the premises has less than these bird numbers.  
+F
+igure 1. Graphic representation of the date of clinical signs observed by Michigan
+Text Len: 1303
+--------------------------------------------------------------------------------
+ for poultry premises based on the National Poultry Improvement Plan 
+classification: Commercial (table egg layer premises with over 75,000 birds, commercial meat- type turkey premises that raise more than 
+30,000 turkeys annually) or else backyard if the premises has less than these bird numbers.  
+F
+igure 1. Graphic representation of the date of clinical signs observed by Michigan HPAI H5N1 genotype B3.13 
+affected dairy herd or poultry flock. Shedding of HPAI virus occurs before clinical signs appear based on data 
+from herds outside of Michigan. 
+F
+igure 2. Epidemiological curve of detections of HPAI H5N1 genotype B3.13 in dairy and poultry premises based 
+on the date of confirmation. 
+
+Page 5 of 10  
+4.2 Summary of Disease Spread between Premises   
+A summary of the identified genomic and epidemiological links (Figures 3, 4) between affected dairy and poultry 
+premises are conceptualized in the figures below.  Michigan’s first affected dairy was infected by the importation 
+of cattle from an affected herd in Texas, which was undetected at the time of movement.  Based on movement 
+information and WGS, the virus in this herd likely moved to other Michigan dairy herds and poultry flocks.  While 
+the exact mechanism of disease spread onto each premises is unknown, the route of transmission is likely 
+multifactorial based on epidemiological investigations.   
+4.2.1 Disease Spread Between Dairy Premises 
+All dairy premises had numerous risk factors for virus introduction, including many visitors within 30 days prior to 
+clinical signs appearing in cattle.  Key risk factors shared between dairy premises are summarized below and 
+additional characteristics of affected dairy farms is provided in Table 2.  Key findings include the following:  
+Text Len: 1768
+--------------------------------------------------------------------------------
+   
+4.2.1 Disease Spread Between Dairy Premises 
+All dairy premises had numerous risk factors for virus introduction, including many visitors within 30 days prior to 
+clinical signs appearing in cattle.  Key risk factors shared between dairy premises are summarized below and 
+additional characteristics of affected dairy farms is provided in Table 2.  Key findings include the following:  
+• 6 dairy premises had cattle brought onto the premises in the previous 30 days, although only one of these 
+premises’ movements is associated with disease transmission. 
+• All dairy premises reported visitors having contact with cattle on their premises.  
+o 100% of affected dairy premises have regular visits by veterinarians, nutritionist/feed consultant, 
+and/or contract haulers (e.g., cattle or manure); the majority of these visitors have direct contact 
+with cattle. 
+o 40% of affected dairy premises have regular visits for deadstock removal, with 20% having direct 
+contact with cattle.  
+ 53% of affected dairies (8/15) utilized the same deadstock removal company and 67% of 
+those (6/8) had animals removed from the premises by that company within 30 days prior 
+to clinical onset, 13% (1/8) reported that no animals were removed but that the 
+deadstock hauler they have in common did stop on their property. 
+o Milk haulers visit dairy premises on average 34 times within a 30-day time period. 
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other 
+affected dairy premises (i.e., only one of the affected dairy herds is part of a milk co-op 
+that none of the other 14 affected dairy herds belong to). 
+• 7 dairy premises reported shared personnel between premises. 
+Text Len: 1709
+--------------------------------------------------------------------------------
+. 
+ 93.3% of affected dairy premises are part of the same milk co-op with at least one other 
+affected dairy premises (i.e., only one of the affected dairy herds is part of a milk co-op 
+that none of the other 14 affected dairy herds belong to). 
+• 7 dairy premises reported shared personnel between premises. 
+o 20% of affected dairies’ employees and 7% of dairies’ employees family members work on other 
+dairy premises. 
+o 7% of affected dairies’ employees also work on poultry premises; 13% of affected dairies’ 
+employees have family members who work on poultry premises.   
+o 31% of dairies have employees who own livestock or poultry at their personal residence. 
+ 
+ 
+ 
+ 
+ 
+ 
+Page 6 of 10 
+Figu
+re 3. Conceptual overview of genomic 
+relatedness supported by whole genome 
+sequencing for dairy herds and poultry flocks 
+affected with HPAI H5N1 genotype B3.13 in 
+Michigan. Round shapes represent cattle 
+(blue) and poultry (green) genomic clustering 
+of individual animal samples tested, with 
+increased relatedness as colors darken. Blue 
+boxes represent affected dairies, green boxes 
+represent affected poultry flocks, and orange 
+boxes represent the movement of cattle onto 
+affected dairies from premises with an 
+unknown disease status at time of movement. 
+F
+igure 4. Potential transmission pathways supported by identified epidemiological links including animal and 
+human movements and shared vehicles and equipment for the 15 dairy herds and 8 poultry flocks affected with 
+HPAI H5N1 genotype B3.13 in Michigan. 
+
+Page 7
+Text Len: 1537
+--------------------------------------------------------------------------------
+ dairies from premises with an 
+unknown disease status at time of movement. 
+F
+igure 4. Potential transmission pathways supported by identified epidemiological links including animal and 
+human movements and shared vehicles and equipment for the 15 dairy herds and 8 poultry flocks affected with 
+HPAI H5N1 genotype B3.13 in Michigan. 
+
+Page 7 of 10  
+Table 2. Additional characteristics of HPAI genotype B3.13-affected dairies in Michigan. 
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+ Yes If yes, % Commingled  
+Dairy heifers raised offsite during the 30 days prior to clinical signs 31 (4/13) 75 (3/4)  
+    
+Other animals present on the operation Yes If yes, any sick or died?   
+Chickens 40 (6/15) 13 (2/6)  
+Cats  80 (12/15) 58 (7/12)  
+Waste milk fed to calves on the dairy 33 (5/15)   
+Pasteurized? 40 (2/5)   
+No treatment? 60 (3/5)   
+Waste milk disposed in lagoons 73 (11/15)   
+No treatment 91 (10/11)   
+Combination of not treated and pasteurized 9 (1/11)   
+    
+Disposition of manure    
+Within 30 days of clinical signs Yes No  
+Stored on premises 87 (13/15)  13 (2/15)  
+Composted for bedding 7 (1/15) 80 (12/15)  
+Applied to land management by this premises 73 (11/
+Text Len: 1216
+--------------------------------------------------------------------------------
+ 
+    
+Disposition of manure    
+Within 30 days of clinical signs Yes No  
+Stored on premises 87 (13/15)  13 (2/15)  
+Composted for bedding 7 (1/15) 80 (12/15)  
+Applied to land management by this premises 73 (11/15) 13 (2/15)  
+Removed, sold, or given away 20 (3/15) 67 (10/15)  
+After clinical signs were observed    
+Stored on premises 80 (12/15) --  
+Composted for bedding -- 73 (11/15)  
+Applied to land management by this premises 53 (8/15) 20 (3/15)  
+Removed, sold, or given away 7 (1/15) 67 (10/15)  
+ 
+Cattle added to the operation in the 30 days prior to clinical signs  Yes 
+If yes, average number 
+added 
+ 
+Preweaned dairy or beef calves 0 (15/15) N/A  
+Weaned but not bred dairy heifers 7 (1/15) 30  
+Bred dairy heifers 13 (2/15) 5  
+Fresh dairy heifers 27 (4/15) 31  
+Lactating dairy cows 20 (3/15) --  
+Dry dairy cows 0 (15/15) N/A  
+Page 8 of 10  
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+Beef cows, bulls, steers, heifers 0 (15/15) N/A  
+Dairy bulls 0 (15/15) N/A  
+Any cattle added 40 (6/15
+Text Len: 1045
+--------------------------------------------------------------------------------
+15/15) N/A  
+Page 8 of 10  
+Characteristic Response - % of Premises (Count), unless otherwise specified 
+Beef cows, bulls, steers, heifers 0 (15/15) N/A  
+Dairy bulls 0 (15/15) N/A  
+Any cattle added 40 (6/15) --  
+    
+ Yes Cleaned prior to use?   
+Shared transport vehicles with other operations 62 (8/13) 12 (1/8)  
+    
+ Always Never N/A 
+Cattle were isolated prior to commingling with resident cattle 21 (3/14) 21 (3/14) 57 (8/14) 
+    
+Access to cattle feed Yes    
+Wild birds had access to cattle feed 100 (15/15)   
+Wild animals had access to cattle feed 100 (15/15)   
+Rodents had access to cattle feed 100 (15/15)   
+    
+Shared personnel Dairy workers Family members  
+Dairy workers/family also employed at other dairy operations 21 (3/14) 7 (1/14)  
+Dairy workers/family also employed on swine farms  7 (1/14) 7 (1/14)  
+Dairy workers/family also employed at poultry operations 7 (1/14) 14 (2/14)  
+Dairy workers/family also employed on other livestock operations  14 (2/14) 7 (1/14)  
+Employees own livestock or poultry 31 (4/13) --  
+    
+Visitors to the operation within 30 days prior to clinical signs Yes  
+Average number of 
+visits 
+If
+Text Len: 1153
+--------------------------------------------------------------------------------
+/14)  
+Dairy workers/family also employed on other livestock operations  14 (2/14) 7 (1/14)  
+Employees own livestock or poultry 31 (4/13) --  
+    
+Visitors to the operation within 30 days prior to clinical signs Yes  
+Average number of 
+visits 
+If Yes, % contact with 
+cattle 
+Veterinarians 93 (13/14) 4  100 (13/13) 
+Nutritionist or feed consultant 92 (11/13) 2 82 (9/11)  
+Breed technician 25 (3/13) 30 100 (3/3) 
+Feed or feed ingredient deliveries 100 (14/14) 8 7 (1/14) 
+Milk hauler 100 (13/13) 34 0 (15/15) 
+Contract hauler (e.g., cattle or manure) 92 (12/13) 4 58 (7/12) 
+Dead stock/ renderer 43 (6/14) 4 50 (3/6) 
+Hoof trimmer 69 (9/13) 4 100 (9/9) 
+ Yes    
+Any sick or dead wild birds within the 30 days prior to clinical signs 15 (2/13)   
+ 
+Page 9 of 10  
+Despite no genomic evidence that migratory birds are spreading HPAI genotype B3.13 within Michigan, the 
+potential for resident wild birds or peri-domestic species to move and transmit the virus between dairy herds 
+cannot be ruled out, especially for dairy premises located in close proximity.  All dairy herds reported wild bird, 
+wild animal, or rodent presence on farms, with these species always having access to cattle feed.  HPAI H5N1 
+genotype B
+Text Len: 1222
+--------------------------------------------------------------------------------
+ential for resident wild birds or peri-domestic species to move and transmit the virus between dairy herds 
+cannot be ruled out, especially for dairy premises located in close proximity.  All dairy herds reported wild bird, 
+wild animal, or rodent presence on farms, with these species always having access to cattle feed.  HPAI H5N1 
+genotype B3.13 detections in pigeons, a starling, cats, racoons, opossums, and foxes have occurred on 5 affected 
+dairy premises and 1 affected poultry premises that participated in on-farm sampling.  Still, it was a small number 
+of individual animals and species that were detected from the large number of samples collected.         
+4.2.2 Disease Spread Between Dairy and Poultry Premises 
+Apart from the potential for resident wild birds or peri-domestic species to move and transmit the virus, as 
+discussed above, the only other potential transmission routes found from dairy herds to the poultry flocks were 
+through shared employment, housing, or movement of employees.  Approximately 22 employees of 3 poultry 
+flocks worked weekend shifts at 2 different dairy premises.  Shared housing between dairy and poultry workers 
+was identified between 3 poultry premises and 2 dairy premises. It is also possible that dairy employees have 
+social contact with poultry premises employees.   
+5. Recommendations to Mitigate Disease Spread Between Premises 
+The intensive, integrated, and specialized nature of the dairy industry results in biosecurity risks that are not 
+completely avoidable, but these risks can be mitigated.  Given that disease spread between dairy and poultry 
+premises is multifactorial, mitigation measures that are integrated and target multiple risk factors are needed.  
+The USDA Federal Order requires premovement testing for interstate movement of lactating dairy
+Text Len: 1827
+--------------------------------------------------------------------------------
+ specialized nature of the dairy industry results in biosecurity risks that are not 
+completely avoidable, but these risks can be mitigated.  Given that disease spread between dairy and poultry 
+premises is multifactorial, mitigation measures that are integrated and target multiple risk factors are needed.  
+The USDA Federal Order requires premovement testing for interstate movement of lactating dairy cattle (as of 
+April 29, 2024) which greatly reduces the risk of premises-to-premises disease spread.  Since 9 of 15 of the 
+affected dairy herds in Michigan were closed herds which did not bring any new cattle into the herd, restriction of 
+live cattle movements would not have prevented disease in these herds.  Movement restrictions on cattle in 
+some Michigan affected herds may result in serious animal welfare issues since these specialized operations do 
+not have the facilities to manage all classes of dairy cattle and rely on an integrated network of operations to 
+raise and manage the different classes of cattle.  However, testing before moving cattle would help limit 
+premises-to-premises transmission from cattle movement within the state and may identify additionally affected 
+herds.   
+The biosecurity practices outlined in the Secure Milk Supply’s “Enhanced Biosecurity Plan” include not moving 
+cattle if possible, restricting visitors’ access to the premises, cleaning and disinfecting vehicles and equipment 
+moved on/off the premises – especially those having contact with cattle or cattle areas, requiring use of personal 
+protective equipment and/or changing or cleaning and disinfecting footwear, and implementing a line of 
+separation to mitigate virus movement; are all applicable in this event.  In addition, reducing wild bird/animal 
+exposure to unpasteurized or waste milk, cattle feed, and other areas of the premises, as is possible, would also 
+mitigate
+Text Len: 1894
+--------------------------------------------------------------------------------
+ of personal 
+protective equipment and/or changing or cleaning and disinfecting footwear, and implementing a line of 
+separation to mitigate virus movement; are all applicable in this event.  In addition, reducing wild bird/animal 
+exposure to unpasteurized or waste milk, cattle feed, and other areas of the premises, as is possible, would also 
+mitigate this transmission route.  The MDARD Director signed a “Determination of Extraordinary Emergency -  
+HPAI Risk Reduction Response Order” on May 1, 2024 to further protect Michigan’s poultry and livestock 
+industries from the ongoing threat of the virus.  The order requires dairy and poultry premises to implement the 
+above biosecurity practices; prohibits all cattle from affected dairy herds and lactating or late pregnancy cattle 
+from unaffected dairy herds from being exhibited until at least 60 days have passed with no new dairy detections; 
+and prohibits all poultry from being exhibited until at least 30 days have passed with no new poultry detections.  
+Implementation of this order will also greatly mitigate disease exposure and spread within the state.    
+Page 10 of 10  
+Finally, testing dairy cattle as early as possible after onset of clinical signs or changes in production metrics within 
+the herd (e.g., decreased milk production, decreased rumen motility) allows earlier detection of affected dairy 
+herds and evaluation if the above mitigation measures can be implemented.          
+6. Conclusion 
+The investigations discussed in this report, including the respective WGS information, indicate that HPAI H5N1 
+genotype B3.13 was introduced into Michigan through animal movement and subsequently spread within the 
+state between dairy premises with spillover into poultry premises through multiple possible routes. Factors that 
+appear to be of greater risk for introduction
+Text Len: 1852
+--------------------------------------------------------------------------------
+ 
+6. Conclusion 
+The investigations discussed in this report, including the respective WGS information, indicate that HPAI H5N1 
+genotype B3.13 was introduced into Michigan through animal movement and subsequently spread within the 
+state between dairy premises with spillover into poultry premises through multiple possible routes. Factors that 
+appear to be of greater risk for introduction into a dairy premises may be mitigated through enhanced 
+biosecurity, increased animal testing, and potentially through within-state animal movement restrictions if they 
+can be implemented without impacting animal welfare.  
+The willingness of Michigan producers to participate in these investigations has greatly increased the body of 
+knowledge of HPAI H5N1 B3.13 detections in Michigan and throughout the nation; this report could not have 
+been completed without them.   
+ 
+Contributors 
+USDA APHIS Unit or  
+External Organization 
+Stacey Schwabenlander, DVM, MPH, DACVPM USDA APHIS VS Strategy and Policy 
+Jason Lombard, DVM, MS Colorado State University  
+College of Veterinary Medicine and Biomedical 
+Sciences 
+Bradley Christensen, DVM, MPH, DACVPM USDA APHIS VS Strategy and Policy 
+Nicole Amey, DVM, DrPH USDA APHIS VS Field Operations 
+Jean Ray, DVM, PhD  USDA APHIS VS Field Operations 
+Sara Ahola, DVM, MA USDA APHIS VS Field Operations 
+Kammy Johnson, DVM, MS, PhD, DACVPM USDA APHIS VS Field Operations 
+Lindsey Holmstrom, DVM USDA APHIS VS Strategy and Policy 
+Suelee Robbe-Austerman, DVM, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+M
+Text Len: 1563
+--------------------------------------------------------------------------------
+, MA USDA APHIS VS Field Operations 
+Kammy Johnson, DVM, MS, PhD, DACVPM USDA APHIS VS Field Operations 
+Lindsey Holmstrom, DVM USDA APHIS VS Strategy and Policy 
+Suelee Robbe-Austerman, DVM, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+Mia Torchetti, DVM, MS, PhD USDA APHIS VS National Veterinary Services 
+Laboratories 
+Kristina Lantz, DVM, MS USDA APHIS VS National Veterinary Services 
+Laboratories 
+Nora Wineland, DVM, MS, DACVPM 
+Michigan State Veterinarian 
+Michigan Department of Agriculture and Rural 
+Development  
+ 
+References 
+ 
+Nguyen, T-Q., Hutter, C., Markin, A. , Thomas, M., Lantz, K. , Killian, M.L. , Garrett M. Janzen, G.M., Vijendran, S., 
+Wagle, S., Inderski, B. , Magstadt, D.R., Li, G., Diel, D.G., Frye, E.A., Dimitrov, K.M., Swinford, A.K., 
+Thompson, A.C. , Snevik, K.R., Suarez, D.L., Spackman, E., Lakin, S.M., Ahola, S.C., Johnson, K.R., Baker, A.L., 
+Robbe-Austerman, S., Torchetti, M.K., and Anderson, T.K. (2024). Emergence and interstate spread of 
+highly pathogenic avian influenza A(H5N1) in dairy cattle. BioRxIv.org. 
+https://doi.org/
+Text Len: 1090
+--------------------------------------------------------------------------------
+, K.R., Baker, A.L., 
+Robbe-Austerman, S., Torchetti, M.K., and Anderson, T.K. (2024). Emergence and interstate spread of 
+highly pathogenic avian influenza A(H5N1) in dairy cattle. BioRxIv.org. 
+https://doi.org/10.1101/2024.05.01.591751  
+ 
+Text Len: 241
+--------------------------------------------------------------------------------

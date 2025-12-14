@@ -1,0 +1,262 @@
+Crop Knowledge Master
+Rotylenchulus reniformis
+reniform nematode (general) (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+R. reniformis parasitizes a large number of cultivated plants and fruit trees throughout tropical and subtropical areas.
+In Hawaii, the nematode is known to affect Allium (A. cepa, onion; A. ascalonicum, shallot; A. fistulosum, green onion; and A. tuberosum, Chinese chives), pineapple (Ananas comosus (L.) Merr.), begonia (Begonia rex-cultorum Bailey), beet and swiss chard (Beta vulgaris and B. vulgaris var. cicla), bougainvillea (Bougainvillea umbellifera), kale (Brassica oleracea L. var. acephala), broccoli and cauliflower (B. oleracea L. var. botrytis), cabbage (B. oleracea L. var. capitata), Chinese or celery cabbage (B. pekinensis (Lour.) Rupr.), pigeon pea (Cajanus cajan (L.) E. Huth), sweet pepper (Capsicum frutescens L.; syn. C. annum L.), papaya (Carica papaya), chrysanthemum (Chrysanthemum frutescens), watermelon (Citrullus vulgaris; syn. Citrullus lanantus), ti (Cordyline terminalis), cantaloupe (Cucumis melo L. var. cantal
+Text Len: 1287
+--------------------------------------------------------------------------------
+ L.; syn. C. annum L.), papaya (Carica papaya), chrysanthemum (Chrysanthemum frutescens), watermelon (Citrullus vulgaris; syn. Citrullus lanantus), ti (Cordyline terminalis), cantaloupe (Cucumis melo L. var. cantalupensis), cucumber (Cucumis sativus), winter squash (Cucurbita maxima), carrot (Daucus carota L. var. sativa), mountain apple (Eugenia malaccensis), poinsettia (Euphorbia pulcherrima), gardenia (Gardenia jasminoides), whiter ginger (Hedychium coroarium), okra (Hibiscus esculentus), garden balsam (Impatiens balsamina), head lettuce (Lactuca sativa L. var. capitata), tomato (Lycopersicon esculentum), bitter melon (Momordica charantia), banana (Musa acuminata and M. bulbisiana), passion fruit (Passiflora edulis, P. edulis f. flavicarpa, and P. seemanni), wild bean (Phaseolus lathyroides), lima bean (P. limensis), garden bean (P. vulgaris), pea (Pisum sativum), edible-podded pea (P. sativum var. macrocarpon), tuberose (Polianthes tuberosa), radish (Raphanus sativus), eggplant (Solanum melongena), black nightshade (S. nigrum), potato (S. tuberosum), Sorgum caudatum, marigold (Tagetes erecta and T. patula), cowpe
+Text Len: 1134
+--------------------------------------------------------------------------------
+um var. macrocarpon), tuberose (Polianthes tuberosa), radish (Raphanus sativus), eggplant (Solanum melongena), black nightshade (S. nigrum), potato (S. tuberosum), Sorgum caudatum, marigold (Tagetes erecta and T. patula), cowpea (Vigna sinensis), corn (Zea mays), and ginger (Zingiber officinale).
+Other important hosts not recorded in Hawaii are coffee (Coffea spp.), taro (Colocasia esculenta), Xanthosoma spp. (similar to taro), and citrus fruits.
+DISTRIBUTION
+R. reniformis exists practically everywhere in tropical and subtropical soils. It is known to exist in southern USA, Mexico, the Caribbean, South America, the Middle East, most of Africa, India, South East Asia and the Pacific islands. The nematode has been recorded in more than 36 countries, and was first described in Hawaii.
+SYMPTOMS
+The amount and type of damage incurred by R. reniformis often depends on the host species and/or cultivar as well as the nematode population. General symptoms include reduced root systems, leaf chlorosis, overall stunting of host plants, and reduced yields and plant longevity. Female nematodes and their eggs are often visible when plant roots are viewed under a dissecting microscope.
+BIOLOGY
+Only the female reniform nematode parasitizes plant roots. An immature female imbeds her head into root tissue while the tail end remains in the soil. As she feeds and grows, her head end enlarges. When environmental conditions are optimal a female will deposit approximately 50 eggs into the soil, surrounded by a gelatinous matrix, seven to nine days after infecting the root. A nematode goes
+Text Len: 1591
+--------------------------------------------------------------------------------
+iform nematode parasitizes plant roots. An immature female imbeds her head into root tissue while the tail end remains in the soil. As she feeds and grows, her head end enlarges. When environmental conditions are optimal a female will deposit approximately 50 eggs into the soil, surrounded by a gelatinous matrix, seven to nine days after infecting the root. A nematode goes through four molts before becoming an adult. The first molt occurs within the egg. After the eggs hatch, the larvae develop to the preadult stage without feeding or growing. Nematodes differentiate into adult males and females after the fourth molt. This complete cycle takes 24 to 29 days at optimum conditions.
+Nematodes require at least a film of water in order to move through the soil, thus soil water content is a primary ecological factor. Too much water results in an oxygen deficit, and flooding is sometimes used as a control measure. Too little water may kill nematodes, unless the drying process is slow. Slow-drying gives nematodes time to enter anhydrobiosis and revive when soil water content returns to an acceptable level.
+R. reniformis is a tropical nematode, thus soil temperature is not an extremely important factor since temperatures remain relatively stable. Heald and Inserra (1988) reported optimal temperatures for nematode infection and reproduction on lettuce at 25-34 C (77-92 F). Under these conditions females in roots and eggs were recovered after 7 days. At 20 C (68 F), females and eggs were recovered after 13-14 days. It is possible that crops or even cultivars may alter the relationship between optimal nematode infection and temperature, but probably at extreme temperatures.
+For example, Heald and Inserra (1988) reported that moist soil at 25 C allowed up to 50% of nematodes to survive after 6 months (comparing 3 geographical populations). Air-dried
+Text Len: 1868
+--------------------------------------------------------------------------------
+ recovered after 13-14 days. It is possible that crops or even cultivars may alter the relationship between optimal nematode infection and temperature, but probably at extreme temperatures.
+For example, Heald and Inserra (1988) reported that moist soil at 25 C allowed up to 50% of nematodes to survive after 6 months (comparing 3 geographical populations). Air-dried soil at 25 C did not allow for any survival after 6 months; one population did not survive 2 months under these conditions. When temperatures dropped to 4 C, nematode survival in moist soil dropped to 10% after 5 months and no survival at 6 months. Nematodes in air-dried soil fared better; as many as 40% survived after 5 months, and 10% survived 6 months. Two of the nematode populations had a 10% and 20% survival rate at air-dried soil temperatures of -1 and -5 C, respectively. A population from Louisiana did not survive one month under these conditions, and all three populations did not survive one month in moist soil at these temperatures. Once temperatures really start to fall, air-dried soil provides better chances for survival than moist soil probably because ice crystals begin to form at these low temperatures.
+R. reniformis generally remains in the first 15 cm of soil. Distribution is irregular and is greatest in or around roots of susceptible plants. Nematodes sometimes follow roots to considerable depths (30 to 150 cm or more).
+EPIDEMIOLOGY
+R. reniformis moves slowly through the soil under its own power. The overall distance traveled by a nematode probably does not exceed one meter per season. Nematodes move faster when soil pores are lined with a thin (a few micrometers) film of water than when soil is waterlogged. In addition, nematodes can be easily transported by anything that moves or carries particles of soil. Farm equipment, irrigation, flood
+Text Len: 1850
+--------------------------------------------------------------------------------
+ under its own power. The overall distance traveled by a nematode probably does not exceed one meter per season. Nematodes move faster when soil pores are lined with a thin (a few micrometers) film of water than when soil is waterlogged. In addition, nematodes can be easily transported by anything that moves or carries particles of soil. Farm equipment, irrigation, flood or drainage water, animals (including humans), and dust storms spread nematodes in local areas, while over long distances nematodes are spread primarily with farm produce and nursery plants (Agrios, 1978).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+A number of susceptible crops have resistant or somewhat resistant cultivars to the reniform nematode. For example, coffee cultivar Guraini has shown resistance while Numdo Novo and Catuai are less resistant. A sweet potato variety P-104 is resistant to the reniform nematode while there is no cowpea commercial cultivar available, and Egyptian tomato varieties EC-188272 and EC-188276 have been shown to be resistant, while varieties VFN8 and Kalyanpur Sel 1 and Sel 2 are moderately resistant.
+Recent studies (Heald and Robinson, 1987; Sharma and Nene; 1990) in soil solarization have shown reductions in nematode populations when soil is covered with polyethylene during summer months. This raises the soil temperature so that it becomes unfavorable to reniform nematodes and has resulted in temporary decreases of nematode populations for chickpea, pigeonpea, cowpea, and lettuce. The effects of solarization does not last beyond one crop season and may or may not last through harvest. Yield increases have been attributed to reduced nematode populations in the early season which allow good plant development. Rain, duration of solarization, and sunshine hours influence the efficacy of solarization. Also, high temperatures can be reached
+Text Len: 1857
+--------------------------------------------------------------------------------
+a, pigeonpea, cowpea, and lettuce. The effects of solarization does not last beyond one crop season and may or may not last through harvest. Yield increases have been attributed to reduced nematode populations in the early season which allow good plant development. Rain, duration of solarization, and sunshine hours influence the efficacy of solarization. Also, high temperatures can be reached in shorter time intervals with thinner plastic. However, the thinner plastics degrade more quickly and are more susceptible to mechanical fatigue and degredation.
+At 44 C -- high mortality no matter how long the exposure time -- when extracting nematodes daily, an increase is seen between 5 and 9 days indicating a slow recover or egg hatch
+Soil ammendments have also been shown to aid in nematode reduction. Siddiqui and Alam (1990) tested neem (Azadirachta indica A. Juss) and mango (Mangifer indica L.) sawdust (separately) in the soil of tomato and eggplant crops with and without the addition of ammonium sulphate. While both sawdusts reduced nematode development and reproduction, neem fared better than mango. The combination of sawdust with ammonium sulphate provided better control than sawdust alone and improved plant growth as well. While high doses of sawdust alone were phytotoxic to tomato and eggplant, the addition of ammonium sulphate eliminated the phytotoxicity. Ammonium sulphate alone was somewhat effective as a control, but not as much so as sawdust alone.
+Vincente et al. (1991) compared the effectiveness of the fungus (Paecilomyces lilacinus (Thom) Samson), a parasite of nematode eggs, with carbofuran (Furadan 10G), phenamiphos 15G at 6.73 kg a.i./ha, and phenamiphos 15G at 13.
+Text Len: 1704
+--------------------------------------------------------------------------------
+ sawdust alone.
+Vincente et al. (1991) compared the effectiveness of the fungus (Paecilomyces lilacinus (Thom) Samson), a parasite of nematode eggs, with carbofuran (Furadan 10G), phenamiphos 15G at 6.73 kg a.i./ha, and phenamiphos 15G at 13.46 kg a.i./ha. There were no differences in the number of fruits (watermelon) or yield (kg/plot) among the treatments; all gave better control than untreated plots, and the fungus and carbofuran provided heavier fruit than the other two treatments and the untreated plots. The results of the nematicides are consistent with other watermelon and squash studies that found carbofuran treated plots giving higher yields, while another study found phenamiphos-treated plots giving higher yields. This study only found differences among treatments in the weight of the fruit.
+Soybean - Rotation with non-host crops for two or more years is an effective control measure. Resistant cultivars are available.
+Pineapple - Rotation with non-host crops between cropping cycles aided in nematode control in Hawaii. Non-host crops included marigold (Tagetes patula L. and T. erecta L.), sunn hemp (Crotalaria juncea L.), rhodes grass (Chloris gayana Kunth), and pangola grass (Digitaria decumberns Sent.).
+Vegetables- Soil amendments such as animal manure and cotton seed cakes have been used with success to control the reniform nematode. In glasshouse experiments, peanut was a poor host of two populations of R. reniformis. Short periods of flooding of tomato pots experiments reduced populations of the reniform nematode. The nematode was also eradicated from infested soil following treatment with 50 C hot
+Text Len: 1639
+--------------------------------------------------------------------------------
+il amendments such as animal manure and cotton seed cakes have been used with success to control the reniform nematode. In glasshouse experiments, peanut was a poor host of two populations of R. reniformis. Short periods of flooding of tomato pots experiments reduced populations of the reniform nematode. The nematode was also eradicated from infested soil following treatment with 50 C hot water for 5 minutes.
+CHEMICAL CONTROL
+Krishna Prasad et al. (1977) tested 5 systemic pesticides to tomato seedlings at 1, 2, and 3 kg a.i./ha: carbofuran, counter, disyston, aldicarb, and phorate. These were compared to a general nematode control of DBCP applied at the same rates. After 60 days when shoot weight and root weight were compared, there were no differences among the six chemical treatments. When the number of nematodes in soil and roots were compared among the six treatments, counter (at 2 and 3 kg a.i./ha) and carborfuran (at 3 kg a.i./ha) resulted in the greatest reduction of nematodes (90%+), carbofuran (at 1 and 2 kg a.i./ha) provided 81 and 86% reduction, respectively, and counter (at 1 kg a.i./ha) provided 74% reduction. Phorate provided from 70% to 84% nematode reduction at 1 to 3 kg a.i./ha. Disyston was not effective in reducing the nematode population.
+Acosta et al. (1987) compared oxamyl and phenamiphos (nematicides) for their control on 2 species of pepper (Capsicum annum and C. frutescens). Both nematicides reduced nematode populations equally well, while plants treated with oxamyl (at 0.56 and 1.12 kg a
+Text Len: 1538
+--------------------------------------------------------------------------------
+ nematode population.
+Acosta et al. (1987) compared oxamyl and phenamiphos (nematicides) for their control on 2 species of pepper (Capsicum annum and C. frutescens). Both nematicides reduced nematode populations equally well, while plants treated with oxamyl (at 0.56 and 1.12 kg a.i./ha) provided greater numbers of fruit and heavier fruit. Oxamyl at a dosage of 1.12 kg a.i./ha gave greater numbers of fruit for both species than at 0.56 kg a.i./ha, but heavier fruit for C. annum only. In contrast, Patel and Thakar (1986) tested 11 nematicides and found that phenamiphos at 4 kg/ha resulted in fewer eggs per plant and nematodes in soil than oxamyl at 4 kg/ha (results were not statistically analyzed).
+Echavez-Badel (1989) tested the nematicide carbofuran (Furadan 10G) at 18 kg/ha on naturally infested soil with untreated soil using 3 cucumber varieties (Geminis 7, Poinsett 76 and Dasheen II); seeds were treated with chloroneb (Captan). Plots treated with carbofuran resulted in better yields and fewer nematodes at harvest. Data from untreated plots indicated that all three varieties are susceptible to the reniform nematode. While Dasher II provided significantly better yield than Poinsett 76, Geminis 7 fell in the middle and its yield did not differ from Dasher II or Poinsett 76.
+Sweet potatoes:
+Reniform nematodes can be controlled by in-row treatment with some nematicides in the halogenated hydrocarbon group. Some nematicides in the organophosphate and carbamate group also show good control of nematodes, resulting in improved
+Text Len: 1547
+--------------------------------------------------------------------------------
+is 7 fell in the middle and its yield did not differ from Dasher II or Poinsett 76.
+Sweet potatoes:
+Reniform nematodes can be controlled by in-row treatment with some nematicides in the halogenated hydrocarbon group. Some nematicides in the organophosphate and carbamate group also show good control of nematodes, resulting in improved quality and yields.
+Common bean:
+Satisfactory nematode control had been obtained with six foliar sprays of oxamyl at 0.56 kg a.i./ha combined with a soil drench of 2.24 kg a.i./ha of the same chemical, furrow, application of 2.5 kg a.i./ha of carbofuran, and preplant fumigation with 120-240 l of DD/ha.
+Mung bean:
+Chemical contorl measures have not been developed.
+Vegetables:
+A wide range of fumigant and non-fumigant nematicides are effective in controlling R. reniformis. Some reports have shown a reduction in nematode penetration after a single foliar application of oxamyl. However, in later observations it was reported that there was no effective nematode control following six weekly sprays with oxamyl on snapbean.
+Papaya:
+Preplant soil fumigation in Hawaii with various chemicals - including DD, DBCP, and Methyl Bromide - have effectively controlled the nematode and maintained low populations over periods of up to six months, with resultant yield increases in 15-month old plants; however, foliar applications of the systemic nematicides phenamiphos and oxamyl in Puerto Rico, were not only ineffective in reducing nematode numbers but also showed some phytotoxicity.
+REFERENCES
+Acosta, N., N. Vincente, E. Ab
+Text Len: 1560
+--------------------------------------------------------------------------------
+ over periods of up to six months, with resultant yield increases in 15-month old plants; however, foliar applications of the systemic nematicides phenamiphos and oxamyl in Puerto Rico, were not only ineffective in reducing nematode numbers but also showed some phytotoxicity.
+REFERENCES
+Acosta, N., N. Vincente, E. Abreu, and S. Medina-Gaud. 1987. Chemical control of Meloidogyne incognita, Rotylenchulus reniformis, and Anthonomus eugenii in Capsicum annuum and C. frutescens. Nematropica 17: 163-169.
+Agrios, G.N., ed. 1978. Plant Pathology, 2nd ed. Academic Press. New York. 703pp.
+Bridge, J. 1988. Plant parasitic nematode problems in the pacific islands. Journal of Nematology 20:173-83.
+Campos, V. P., Sivapalan, P. & Gnanapragasam, N. C. 1990. Nematode parasites of coffee, cocoa, and tea. In "Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, & J. Bridge (eds). CAB International, London. pp. 387-430.
+Chitwood, B. G. & Berger, C. A. 1960. Preliminary report on nemaic parasites of coffee in Guatemala, with suggested ad interim control measures. Plant Dis. Rep. 44:841-848.
+Dasgupta, M. K. & Rama, K. 1987. Plant parasitic nematodes associated with plantation crops. Rev. Trop. Pl. Path. 4:289-304.
+Echavez-Badel, R. 1989. Performance of cucumber varieties in
+Text Len: 1308
+--------------------------------------------------------------------------------
+ with suggested ad interim control measures. Plant Dis. Rep. 44:841-848.
+Dasgupta, M. K. & Rama, K. 1987. Plant parasitic nematodes associated with plantation crops. Rev. Trop. Pl. Path. 4:289-304.
+Echavez-Badel, R. 1989. Performance of cucumber varieties in soil infested with root-knot and reniform nematodes. J. Agric. Univ. P.R. 73(4): 321-325.
+Fazuoli, L. C. 1986. GenŽtica e melhoramento do cafeeiro. In: Rena, A. B., Malavolta, E., Rocha, M. & Yamada, T. (Eds.) "Cultura do cafeeiro, fatores que afetam a produtividade." Associa•o Brasileira para Pesquisa da Potassa e do Fosfato. Piracicaba, SP., Brazil. pp. 87-113.
+Heald, C.M. and R.N. Inserra. 1988. Effect of temperature on infection and survival of Rotylenchulus reniformis. J. Nematology 20(3): 356-361.
+Heald, C.M. and A.F. Robinson. 1987. Effects of soil solarization on Rotylenchulus reniformis in the lower Rio Grande Valley of Texas. J. Nematology 19(1): 93-103.
+Krishna Prasad, K.S., H. Anandappa, and A.L. Siddaramaiah. 1977. Relative efficacy of a few pesticides in the control of Rotylenchulus reniformis on tomato. Z. Pflanzenkr Pflanzenschutz (J. Plant Diseases
+Text Len: 1137
+--------------------------------------------------------------------------------
+. Nematology 19(1): 93-103.
+Krishna Prasad, K.S., H. Anandappa, and A.L. Siddaramaiah. 1977. Relative efficacy of a few pesticides in the control of Rotylenchulus reniformis on tomato. Z. Pflanzenkr Pflanzenschutz (J. Plant Diseases and Protection) 84(11): 671-674.
+Macedo, M. C. M. 1974. Suscetibilidade de cafeeiros ao nemt—ide reniforme. Solo 66:15-16.
+Patel, O.S. and N.A. Thakar. 1986. Efficacy of some systemic chemicals in control of Rotylenchulus reniformis infecting mungbean. Indian J. Nematology 16(2): 281-282.
+Schrieber, E. & Grullon, L. 1969. El problema de nematodos que atacam el cafŽ (Coffea arabica L.) en la Republica Dominicana. Turrialba 19:513-17.
+Schrieber, E. 1971. The nematode problems of coffee in Guatemala. Nematropica 1:17.
+Sharma, S.B. and Y.L. Nene. 1990. Effects of soil solarization on nematodes parasitic to chickpea and pigeonpea. J. Nematology 22(45): 658-664.
+Siddiqui, M.A. and M.M. Alam. 1990. Sawdusts as soil amendments for control of nematodes infesting some vegetables. Biological Wastes 33:123-129.
+Vincente, N.E., L.A. Sanchez, and N. Acosta. 1991. Effect of granular nematic
+Text Len: 1121
+--------------------------------------------------------------------------------
+ 658-664.
+Siddiqui, M.A. and M.M. Alam. 1990. Sawdusts as soil amendments for control of nematodes infesting some vegetables. Biological Wastes 33:123-129.
+Vincente, N.E., L.A. Sanchez, and N. Acosta. 1991. Effect of granular nematicides and the fungus Paecilomyces lilacinus in nematode control in watermelon. J. Agric. Univ. P.R. 75(3): 307-309.
+Whitehead, A. G. 1968. Nematodea. In: "Pests of Coffee." Le Pelley, R. H. (Ed.). Longmans, Green and Co. Ltd, London and Harlow. pp. 407-422.
+    NOVEMBER 1991
+  2A-ROREN
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 578
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Rotylenchulus reniformis
+reniform nematode (general) (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+R. reniformis parasitizes a large number of cultivated plants and fruit trees throughout tropical and subtropical areas.
+In Hawaii, the nematode is known to affect Allium (A. cepa, onion; A. ascalonicum, shallot; A. fistulosum, green onion; and A. tuberosum, Chinese chives), pineapple (Ananas comosus (L.) Merr.), begonia (Begonia rex-cultorum Bailey), beet and swiss chard (Beta vulgaris and B. vulgaris var. cicla), bougainvillea (Bougainvillea umbellifera), kale (Brassica oleracea L. var. acephala), broccoli and cauliflower (B. oleracea L. var. botrytis), cabbage (B. oleracea L. var. capitata), Chinese or celery cabbage (B. pekinensis (Lour.) Rupr.), pigeon pea (Cajanus cajan (L.) E. Huth), sweet pepper (Capsicum frutescens L.; syn. C. annum L.), papaya (Carica papaya), chrysanthemum (Chrysanthemum frutescens), watermelon (Citrullus vulgaris; syn. Citrullus lanantus), ti (Cordyline terminalis), cantaloupe (Cucumis melo L. var. cantal
+Text Len: 1287
+--------------------------------------------------------------------------------
+ L.; syn. C. annum L.), papaya (Carica papaya), chrysanthemum (Chrysanthemum frutescens), watermelon (Citrullus vulgaris; syn. Citrullus lanantus), ti (Cordyline terminalis), cantaloupe (Cucumis melo L. var. cantalupensis), cucumber (Cucumis sativus), winter squash (Cucurbita maxima), carrot (Daucus carota L. var. sativa), mountain apple (Eugenia malaccensis), poinsettia (Euphorbia pulcherrima), gardenia (Gardenia jasminoides), whiter ginger (Hedychium coroarium), okra (Hibiscus esculentus), garden balsam (Impatiens balsamina), head lettuce (Lactuca sativa L. var. capitata), tomato (Lycopersicon esculentum), bitter melon (Momordica charantia), banana (Musa acuminata and M. bulbisiana), passion fruit (Passiflora edulis, P. edulis f. flavicarpa, and P. seemanni), wild bean (Phaseolus lathyroides), lima bean (P. limensis), garden bean (P. vulgaris), pea (Pisum sativum), edible-podded pea (P. sativum var. macrocarpon), tuberose (Polianthes tuberosa), radish (Raphanus sativus), eggplant (Solanum melongena), black nightshade (S. nigrum), potato (S. tuberosum), Sorgum caudatum, marigold (Tagetes erecta and T. patula), cowpe
+Text Len: 1134
+--------------------------------------------------------------------------------
+um var. macrocarpon), tuberose (Polianthes tuberosa), radish (Raphanus sativus), eggplant (Solanum melongena), black nightshade (S. nigrum), potato (S. tuberosum), Sorgum caudatum, marigold (Tagetes erecta and T. patula), cowpea (Vigna sinensis), corn (Zea mays), and ginger (Zingiber officinale).
+Other important hosts not recorded in Hawaii are coffee (Coffea spp.), taro (Colocasia esculenta), Xanthosoma spp. (similar to taro), and citrus fruits.
+DISTRIBUTION
+R. reniformis exists practically everywhere in tropical and subtropical soils. It is known to exist in southern USA, Mexico, the Caribbean, South America, the Middle East, most of Africa, India, South East Asia and the Pacific islands. The nematode has been recorded in more than 36 countries, and was first described in Hawaii.
+SYMPTOMS
+The amount and type of damage incurred by R. reniformis often depends on the host species and/or cultivar as well as the nematode population. General symptoms include reduced root systems, leaf chlorosis, overall stunting of host plants, and reduced yields and plant longevity. Female nematodes and their eggs are often visible when plant roots are viewed under a dissecting microscope.
+BIOLOGY
+Only the female reniform nematode parasitizes plant roots. An immature female imbeds her head into root tissue while the tail end remains in the soil. As she feeds and grows, her head end enlarges. When environmental conditions are optimal a female will deposit approximately 50 eggs into the soil, surrounded by a gelatinous matrix, seven to nine days after infecting the root. A nematode goes
+Text Len: 1591
+--------------------------------------------------------------------------------
+iform nematode parasitizes plant roots. An immature female imbeds her head into root tissue while the tail end remains in the soil. As she feeds and grows, her head end enlarges. When environmental conditions are optimal a female will deposit approximately 50 eggs into the soil, surrounded by a gelatinous matrix, seven to nine days after infecting the root. A nematode goes through four molts before becoming an adult. The first molt occurs within the egg. After the eggs hatch, the larvae develop to the preadult stage without feeding or growing. Nematodes differentiate into adult males and females after the fourth molt. This complete cycle takes 24 to 29 days at optimum conditions.
+Nematodes require at least a film of water in order to move through the soil, thus soil water content is a primary ecological factor. Too much water results in an oxygen deficit, and flooding is sometimes used as a control measure. Too little water may kill nematodes, unless the drying process is slow. Slow-drying gives nematodes time to enter anhydrobiosis and revive when soil water content returns to an acceptable level.
+R. reniformis is a tropical nematode, thus soil temperature is not an extremely important factor since temperatures remain relatively stable. Heald and Inserra (1988) reported optimal temperatures for nematode infection and reproduction on lettuce at 25-34 C (77-92 F). Under these conditions females in roots and eggs were recovered after 7 days. At 20 C (68 F), females and eggs were recovered after 13-14 days. It is possible that crops or even cultivars may alter the relationship between optimal nematode infection and temperature, but probably at extreme temperatures.
+For example, Heald and Inserra (1988) reported that moist soil at 25 C allowed up to 50% of nematodes to survive after 6 months (comparing 3 geographical populations). Air-dried
+Text Len: 1868
+--------------------------------------------------------------------------------
+ recovered after 13-14 days. It is possible that crops or even cultivars may alter the relationship between optimal nematode infection and temperature, but probably at extreme temperatures.
+For example, Heald and Inserra (1988) reported that moist soil at 25 C allowed up to 50% of nematodes to survive after 6 months (comparing 3 geographical populations). Air-dried soil at 25 C did not allow for any survival after 6 months; one population did not survive 2 months under these conditions. When temperatures dropped to 4 C, nematode survival in moist soil dropped to 10% after 5 months and no survival at 6 months. Nematodes in air-dried soil fared better; as many as 40% survived after 5 months, and 10% survived 6 months. Two of the nematode populations had a 10% and 20% survival rate at air-dried soil temperatures of -1 and -5 C, respectively. A population from Louisiana did not survive one month under these conditions, and all three populations did not survive one month in moist soil at these temperatures. Once temperatures really start to fall, air-dried soil provides better chances for survival than moist soil probably because ice crystals begin to form at these low temperatures.
+R. reniformis generally remains in the first 15 cm of soil. Distribution is irregular and is greatest in or around roots of susceptible plants. Nematodes sometimes follow roots to considerable depths (30 to 150 cm or more).
+EPIDEMIOLOGY
+R. reniformis moves slowly through the soil under its own power. The overall distance traveled by a nematode probably does not exceed one meter per season. Nematodes move faster when soil pores are lined with a thin (a few micrometers) film of water than when soil is waterlogged. In addition, nematodes can be easily transported by anything that moves or carries particles of soil. Farm equipment, irrigation, flood
+Text Len: 1850
+--------------------------------------------------------------------------------
+ under its own power. The overall distance traveled by a nematode probably does not exceed one meter per season. Nematodes move faster when soil pores are lined with a thin (a few micrometers) film of water than when soil is waterlogged. In addition, nematodes can be easily transported by anything that moves or carries particles of soil. Farm equipment, irrigation, flood or drainage water, animals (including humans), and dust storms spread nematodes in local areas, while over long distances nematodes are spread primarily with farm produce and nursery plants (Agrios, 1978).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+A number of susceptible crops have resistant or somewhat resistant cultivars to the reniform nematode. For example, coffee cultivar Guraini has shown resistance while Numdo Novo and Catuai are less resistant. A sweet potato variety P-104 is resistant to the reniform nematode while there is no cowpea commercial cultivar available, and Egyptian tomato varieties EC-188272 and EC-188276 have been shown to be resistant, while varieties VFN8 and Kalyanpur Sel 1 and Sel 2 are moderately resistant.
+Recent studies (Heald and Robinson, 1987; Sharma and Nene; 1990) in soil solarization have shown reductions in nematode populations when soil is covered with polyethylene during summer months. This raises the soil temperature so that it becomes unfavorable to reniform nematodes and has resulted in temporary decreases of nematode populations for chickpea, pigeonpea, cowpea, and lettuce. The effects of solarization does not last beyond one crop season and may or may not last through harvest. Yield increases have been attributed to reduced nematode populations in the early season which allow good plant development. Rain, duration of solarization, and sunshine hours influence the efficacy of solarization. Also, high temperatures can be reached
+Text Len: 1857
+--------------------------------------------------------------------------------
+a, pigeonpea, cowpea, and lettuce. The effects of solarization does not last beyond one crop season and may or may not last through harvest. Yield increases have been attributed to reduced nematode populations in the early season which allow good plant development. Rain, duration of solarization, and sunshine hours influence the efficacy of solarization. Also, high temperatures can be reached in shorter time intervals with thinner plastic. However, the thinner plastics degrade more quickly and are more susceptible to mechanical fatigue and degredation.
+At 44 C -- high mortality no matter how long the exposure time -- when extracting nematodes daily, an increase is seen between 5 and 9 days indicating a slow recover or egg hatch
+Soil ammendments have also been shown to aid in nematode reduction. Siddiqui and Alam (1990) tested neem (Azadirachta indica A. Juss) and mango (Mangifer indica L.) sawdust (separately) in the soil of tomato and eggplant crops with and without the addition of ammonium sulphate. While both sawdusts reduced nematode development and reproduction, neem fared better than mango. The combination of sawdust with ammonium sulphate provided better control than sawdust alone and improved plant growth as well. While high doses of sawdust alone were phytotoxic to tomato and eggplant, the addition of ammonium sulphate eliminated the phytotoxicity. Ammonium sulphate alone was somewhat effective as a control, but not as much so as sawdust alone.
+Vincente et al. (1991) compared the effectiveness of the fungus (Paecilomyces lilacinus (Thom) Samson), a parasite of nematode eggs, with carbofuran (Furadan 10G), phenamiphos 15G at 6.73 kg a.i./ha, and phenamiphos 15G at 13.
+Text Len: 1704
+--------------------------------------------------------------------------------
+ sawdust alone.
+Vincente et al. (1991) compared the effectiveness of the fungus (Paecilomyces lilacinus (Thom) Samson), a parasite of nematode eggs, with carbofuran (Furadan 10G), phenamiphos 15G at 6.73 kg a.i./ha, and phenamiphos 15G at 13.46 kg a.i./ha. There were no differences in the number of fruits (watermelon) or yield (kg/plot) among the treatments; all gave better control than untreated plots, and the fungus and carbofuran provided heavier fruit than the other two treatments and the untreated plots. The results of the nematicides are consistent with other watermelon and squash studies that found carbofuran treated plots giving higher yields, while another study found phenamiphos-treated plots giving higher yields. This study only found differences among treatments in the weight of the fruit.
+Soybean - Rotation with non-host crops for two or more years is an effective control measure. Resistant cultivars are available.
+Pineapple - Rotation with non-host crops between cropping cycles aided in nematode control in Hawaii. Non-host crops included marigold (Tagetes patula L. and T. erecta L.), sunn hemp (Crotalaria juncea L.), rhodes grass (Chloris gayana Kunth), and pangola grass (Digitaria decumberns Sent.).
+Vegetables- Soil amendments such as animal manure and cotton seed cakes have been used with success to control the reniform nematode. In glasshouse experiments, peanut was a poor host of two populations of R. reniformis. Short periods of flooding of tomato pots experiments reduced populations of the reniform nematode. The nematode was also eradicated from infested soil following treatment with 50 C hot
+Text Len: 1639
+--------------------------------------------------------------------------------
+il amendments such as animal manure and cotton seed cakes have been used with success to control the reniform nematode. In glasshouse experiments, peanut was a poor host of two populations of R. reniformis. Short periods of flooding of tomato pots experiments reduced populations of the reniform nematode. The nematode was also eradicated from infested soil following treatment with 50 C hot water for 5 minutes.
+CHEMICAL CONTROL
+Krishna Prasad et al. (1977) tested 5 systemic pesticides to tomato seedlings at 1, 2, and 3 kg a.i./ha: carbofuran, counter, disyston, aldicarb, and phorate. These were compared to a general nematode control of DBCP applied at the same rates. After 60 days when shoot weight and root weight were compared, there were no differences among the six chemical treatments. When the number of nematodes in soil and roots were compared among the six treatments, counter (at 2 and 3 kg a.i./ha) and carborfuran (at 3 kg a.i./ha) resulted in the greatest reduction of nematodes (90%+), carbofuran (at 1 and 2 kg a.i./ha) provided 81 and 86% reduction, respectively, and counter (at 1 kg a.i./ha) provided 74% reduction. Phorate provided from 70% to 84% nematode reduction at 1 to 3 kg a.i./ha. Disyston was not effective in reducing the nematode population.
+Acosta et al. (1987) compared oxamyl and phenamiphos (nematicides) for their control on 2 species of pepper (Capsicum annum and C. frutescens). Both nematicides reduced nematode populations equally well, while plants treated with oxamyl (at 0.56 and 1.12 kg a
+Text Len: 1538
+--------------------------------------------------------------------------------
+ nematode population.
+Acosta et al. (1987) compared oxamyl and phenamiphos (nematicides) for their control on 2 species of pepper (Capsicum annum and C. frutescens). Both nematicides reduced nematode populations equally well, while plants treated with oxamyl (at 0.56 and 1.12 kg a.i./ha) provided greater numbers of fruit and heavier fruit. Oxamyl at a dosage of 1.12 kg a.i./ha gave greater numbers of fruit for both species than at 0.56 kg a.i./ha, but heavier fruit for C. annum only. In contrast, Patel and Thakar (1986) tested 11 nematicides and found that phenamiphos at 4 kg/ha resulted in fewer eggs per plant and nematodes in soil than oxamyl at 4 kg/ha (results were not statistically analyzed).
+Echavez-Badel (1989) tested the nematicide carbofuran (Furadan 10G) at 18 kg/ha on naturally infested soil with untreated soil using 3 cucumber varieties (Geminis 7, Poinsett 76 and Dasheen II); seeds were treated with chloroneb (Captan). Plots treated with carbofuran resulted in better yields and fewer nematodes at harvest. Data from untreated plots indicated that all three varieties are susceptible to the reniform nematode. While Dasher II provided significantly better yield than Poinsett 76, Geminis 7 fell in the middle and its yield did not differ from Dasher II or Poinsett 76.
+Sweet potatoes:
+Reniform nematodes can be controlled by in-row treatment with some nematicides in the halogenated hydrocarbon group. Some nematicides in the organophosphate and carbamate group also show good control of nematodes, resulting in improved
+Text Len: 1547
+--------------------------------------------------------------------------------
+is 7 fell in the middle and its yield did not differ from Dasher II or Poinsett 76.
+Sweet potatoes:
+Reniform nematodes can be controlled by in-row treatment with some nematicides in the halogenated hydrocarbon group. Some nematicides in the organophosphate and carbamate group also show good control of nematodes, resulting in improved quality and yields.
+Common bean:
+Satisfactory nematode control had been obtained with six foliar sprays of oxamyl at 0.56 kg a.i./ha combined with a soil drench of 2.24 kg a.i./ha of the same chemical, furrow, application of 2.5 kg a.i./ha of carbofuran, and preplant fumigation with 120-240 l of DD/ha.
+Mung bean:
+Chemical contorl measures have not been developed.
+Vegetables:
+A wide range of fumigant and non-fumigant nematicides are effective in controlling R. reniformis. Some reports have shown a reduction in nematode penetration after a single foliar application of oxamyl. However, in later observations it was reported that there was no effective nematode control following six weekly sprays with oxamyl on snapbean.
+Papaya:
+Preplant soil fumigation in Hawaii with various chemicals - including DD, DBCP, and Methyl Bromide - have effectively controlled the nematode and maintained low populations over periods of up to six months, with resultant yield increases in 15-month old plants; however, foliar applications of the systemic nematicides phenamiphos and oxamyl in Puerto Rico, were not only ineffective in reducing nematode numbers but also showed some phytotoxicity.
+REFERENCES
+Acosta, N., N. Vincente, E. Ab
+Text Len: 1560
+--------------------------------------------------------------------------------
+ over periods of up to six months, with resultant yield increases in 15-month old plants; however, foliar applications of the systemic nematicides phenamiphos and oxamyl in Puerto Rico, were not only ineffective in reducing nematode numbers but also showed some phytotoxicity.
+REFERENCES
+Acosta, N., N. Vincente, E. Abreu, and S. Medina-Gaud. 1987. Chemical control of Meloidogyne incognita, Rotylenchulus reniformis, and Anthonomus eugenii in Capsicum annuum and C. frutescens. Nematropica 17: 163-169.
+Agrios, G.N., ed. 1978. Plant Pathology, 2nd ed. Academic Press. New York. 703pp.
+Bridge, J. 1988. Plant parasitic nematode problems in the pacific islands. Journal of Nematology 20:173-83.
+Campos, V. P., Sivapalan, P. & Gnanapragasam, N. C. 1990. Nematode parasites of coffee, cocoa, and tea. In "Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, & J. Bridge (eds). CAB International, London. pp. 387-430.
+Chitwood, B. G. & Berger, C. A. 1960. Preliminary report on nemaic parasites of coffee in Guatemala, with suggested ad interim control measures. Plant Dis. Rep. 44:841-848.
+Dasgupta, M. K. & Rama, K. 1987. Plant parasitic nematodes associated with plantation crops. Rev. Trop. Pl. Path. 4:289-304.
+Echavez-Badel, R. 1989. Performance of cucumber varieties in
+Text Len: 1308
+--------------------------------------------------------------------------------
+ with suggested ad interim control measures. Plant Dis. Rep. 44:841-848.
+Dasgupta, M. K. & Rama, K. 1987. Plant parasitic nematodes associated with plantation crops. Rev. Trop. Pl. Path. 4:289-304.
+Echavez-Badel, R. 1989. Performance of cucumber varieties in soil infested with root-knot and reniform nematodes. J. Agric. Univ. P.R. 73(4): 321-325.
+Fazuoli, L. C. 1986. GenŽtica e melhoramento do cafeeiro. In: Rena, A. B., Malavolta, E., Rocha, M. & Yamada, T. (Eds.) "Cultura do cafeeiro, fatores que afetam a produtividade." Associa•o Brasileira para Pesquisa da Potassa e do Fosfato. Piracicaba, SP., Brazil. pp. 87-113.
+Heald, C.M. and R.N. Inserra. 1988. Effect of temperature on infection and survival of Rotylenchulus reniformis. J. Nematology 20(3): 356-361.
+Heald, C.M. and A.F. Robinson. 1987. Effects of soil solarization on Rotylenchulus reniformis in the lower Rio Grande Valley of Texas. J. Nematology 19(1): 93-103.
+Krishna Prasad, K.S., H. Anandappa, and A.L. Siddaramaiah. 1977. Relative efficacy of a few pesticides in the control of Rotylenchulus reniformis on tomato. Z. Pflanzenkr Pflanzenschutz (J. Plant Diseases
+Text Len: 1137
+--------------------------------------------------------------------------------
+. Nematology 19(1): 93-103.
+Krishna Prasad, K.S., H. Anandappa, and A.L. Siddaramaiah. 1977. Relative efficacy of a few pesticides in the control of Rotylenchulus reniformis on tomato. Z. Pflanzenkr Pflanzenschutz (J. Plant Diseases and Protection) 84(11): 671-674.
+Macedo, M. C. M. 1974. Suscetibilidade de cafeeiros ao nemt—ide reniforme. Solo 66:15-16.
+Patel, O.S. and N.A. Thakar. 1986. Efficacy of some systemic chemicals in control of Rotylenchulus reniformis infecting mungbean. Indian J. Nematology 16(2): 281-282.
+Schrieber, E. & Grullon, L. 1969. El problema de nematodos que atacam el cafŽ (Coffea arabica L.) en la Republica Dominicana. Turrialba 19:513-17.
+Schrieber, E. 1971. The nematode problems of coffee in Guatemala. Nematropica 1:17.
+Sharma, S.B. and Y.L. Nene. 1990. Effects of soil solarization on nematodes parasitic to chickpea and pigeonpea. J. Nematology 22(45): 658-664.
+Siddiqui, M.A. and M.M. Alam. 1990. Sawdusts as soil amendments for control of nematodes infesting some vegetables. Biological Wastes 33:123-129.
+Vincente, N.E., L.A. Sanchez, and N. Acosta. 1991. Effect of granular nematic
+Text Len: 1121
+--------------------------------------------------------------------------------
+ 658-664.
+Siddiqui, M.A. and M.M. Alam. 1990. Sawdusts as soil amendments for control of nematodes infesting some vegetables. Biological Wastes 33:123-129.
+Vincente, N.E., L.A. Sanchez, and N. Acosta. 1991. Effect of granular nematicides and the fungus Paecilomyces lilacinus in nematode control in watermelon. J. Agric. Univ. P.R. 75(3): 307-309.
+Whitehead, A. G. 1968. Nematodea. In: "Pests of Coffee." Le Pelley, R. H. (Ed.). Longmans, Green and Co. Ltd, London and Harlow. pp. 407-422.
+    NOVEMBER 1991
+  2A-ROREN
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 578
+--------------------------------------------------------------------------------

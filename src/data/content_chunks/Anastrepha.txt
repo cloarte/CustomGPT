@@ -1,0 +1,3236 @@
+ 
+ 
+New Pest Response Guidelines 
+Anastrepha spp. 
+ 
+ 
+Caribbean fruit fly, Anastrepha suspensa (Source: Florida Division of Plant Industry, FDACS, 
+Bugwood.org) 
+ 
+  
+
+Last update 23MAY2023 Anastrepha spp. 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the 
+basis of race, color, national origin, age, disability, and where applicable, sex, marital status, familial status, 
+parental status, religion, sexual orientation, genetic information, political beliefs, reprisal or because all or part of 
+an individual’s income is derived from any public assistance program. (Not all prohibited bases apply to all 
+programs.) Persons with disabilities who require alternative means for communication of program information 
+(Braille, large print, audiotape, etc.) should contact USDA’s TARGET center at (202) 720-2600 (voice and 
+TDD). To file a complaint of discrimination, write to USDA, Director, Office of Civil Rights, 1400 Independence 
+Avenue, SW, Washington, DC 20250-9410, or call (800) 795-3272 (voice) or (202) 720-6382 (TDD). USDA is 
+an equal opportunity provider and employer. 
+The opinions expressed by individuals in this report do not necessarily represent the policies of the U.S. 
+Department of Agriculture. 
+Mention of companies or commercial products does not imply recommendation or endorsement by the U.S. 
+Department of Agriculture over others not mentioned. USDA neither guarantees nor warrants the standard of 
+any
+Text Len: 1515
+--------------------------------------------------------------------------------
+ is 
+an equal opportunity provider and employer. 
+The opinions expressed by individuals in this report do not necessarily represent the policies of the U.S. 
+Department of Agriculture. 
+Mention of companies or commercial products does not imply recommendation or endorsement by the U.S. 
+Department of Agriculture over others not mentioned. USDA neither guarantees nor warrants the standard of 
+any product mentioned. Product names are mentioned solely to report factually on available data and to provide 
+specific information. 
+This publication reports research involving pesticides. All uses of pesticides must be registered by appropriate 
+state and/or federal agencies before they can be recommended. 
+CAUTION: Pesticides can be injurious to humans, domestic animals, desirable plants, and fish or other 
+wildlife—if they are not handled or applied properly. Use all pesticides selectively and carefully. Follow 
+recommended practices for the disposal of surplus pesticides and pesticide containers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 3 
+Contents 
+ 
+Figures and Tables  ............................................................................................... 4 
+1. Introduction  ................................................................................................... 5 
+2. Pest Overview  ................................................................................................ 6 
+3. Pest Identification  ........................................................................................ 10 
+4. Delimitation Survey  ..................................................................................... 15 
+5. Eradication and Control Options  .............................................................. 22 
+Literature Cited  ................................................................................................. 26 
+Appendix A: Environmental Compliance   ...................................................... 33 
+Authors and Reviewers ...................................................................................... 36 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 4 
+Figures and Tables 
+ 
+Figures 
+Cover Caribbean fruit fly, Anastre
+Text Len: 2213
+--------------------------------------------------------------------------------
+ature Cited  ................................................................................................. 26 
+Appendix A: Environmental Compliance   ...................................................... 33 
+Authors and Reviewers ...................................................................................... 36 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 4 
+Figures and Tables 
+ 
+Figures 
+Cover Caribbean fruit fly, Anastrepha suspensa .......................................... 1 
+Figure 3-1 General appearance of four fruit fly genera; A. Anastrepha ludens; 
+B. Rhagoletis cerasi; C. Bactrocera dorsalis;  
+D. Ceratitis capitata ......................................................................... 11 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus and  
+A. striata ........................................................................................... 11 
+Figure 3-3 Adult female and wing venation of A. grandis, A. serpentina, A. 
+suspensa and A. obliqua ................................................................... 12 
+Figure 3-4 Eggs of Anastrepha spp, (top to bottom): A. ludens, A. serpentina 
+and A. obliqua .................................................................................. 12 
+Figure 3-5 A. Larva of Anastrepha sp.; B. Lateral view showing the mouth 
+hook.................................................................................................. 13 
+Figure 3-6 Anastrepha suspensa larvae on citrus fruit ...................................... 14 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. 
+with a designated core and four concentric buffer areas .................. 17 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to  
+delimit Anastrepha spp .................................................................... 18 
+Figure 4-
+Text Len: 1876
+--------------------------------------------------------------------------------
+...................................... 14 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. 
+with a designated core and four concentric buffer areas .................. 17 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to  
+delimit Anastrepha spp .................................................................... 18 
+Figure 4-3 Trapping in the core area requires 80 Multilure or McPhail traps ... 20  
+Figure 4-4 Expansion of the existing survey grid and trapping layout in the 
+event of additional detection in the buffer area ............................... 21 
+Tables 
+Table 4-1 Cooperative fruit fly emergency response triggers for  
+Anastrepha spp................................................................................. 16 
+Table 4-2 Details of area and total traps required to delimit Anastrepha spp.  
+in the core and designated buffer areas ............................................ 18 
+Table 5-1 Insecticides with efficacy for use against Anastrepha spp .............. 23 
+  
+Last update 23MAY2023 Anastrepha spp. 5 
+1. Introduction 
+ 
+ 
+ 
+ 
+ 
+Plant Protection and Quarantine (PPQ) develops New Pest Response Guidelines 
+(NPRGs) in preparation for potential pest introductions. This document is based 
+on the best information available at the time of development and may not reflect 
+the latest state of knowledge at the time the pest is detected. In addition, PPQ’s 
+response must be tailored to the specific circumstances of each pest introduction 
+event, which cannot be predicted. Therefore, this document provides only general 
+guidelines that can be used as a basis for developing a situation-specific response 
+plan at the time a new pest is detected. 
+Program managers of Federal emergency response or domestic
+Text Len: 1795
+--------------------------------------------------------------------------------
+ detected. In addition, PPQ’s 
+response must be tailored to the specific circumstances of each pest introduction 
+event, which cannot be predicted. Therefore, this document provides only general 
+guidelines that can be used as a basis for developing a situation-specific response 
+plan at the time a new pest is detected. 
+Program managers of Federal emergency response or domestic pest control 
+programs must ensure that their programs comply with all Federal Acts and 
+Executive Orders pertaining to the environment, as applicable. Refer to the 
+Environmental Compliance section in Appendix A for details. 
+ 
+ 
+Chapter 
+ 
+1 
+This document is intended to cover all Anastrepha spp. excluding A. ludens. 
+Anastrepha ludens is referenced in this document only for comparison 
+purposes. For additional information about A. ludens, refer to the Mexican 
+fruit fly program website. For more information about other fruit fly 
+programs, refer to the USDA fruit fly exclusion and detection program 
+website. 
+Last update 23MAY2023 Anastrepha spp. 6 
+2. Pest Overview 
+ 
+ 
+ 
+ 
+Key Information 
+♦ Fruit flies of the genus Anastrepha are among the most damaging endemic 
+fruit flies in the Americas. 
+♦ Anastrepha fraterculus, A. ludens, A. obliqua, A. serpentina, and A. striata 
+are widely distributed throughout Mexico and Central and South America. 
+Anastrepha grandis is native to South America, and A. suspensa is found 
+in the Caribbean and established in Florida. 
+♦ Anastrepha spp. are estimated to cause losses of 25-80% in various crops 
+in Central and South America.
+Text Len: 1568
+--------------------------------------------------------------------------------
+ A. striata 
+are widely distributed throughout Mexico and Central and South America. 
+Anastrepha grandis is native to South America, and A. suspensa is found 
+in the Caribbean and established in Florida. 
+♦ Anastrepha spp. are estimated to cause losses of 25-80% in various crops 
+in Central and South America. 
+♦ Anastrepha spp. can have one or more generations per year. Adult 
+populations peak when host fruiting peaks. 
+♦ Anastrepha spp. primarily spread as adults through flight or as larvae 
+through movement of infested fruit.  
+♦ For the majority of Anastrepha spp., identification is morphological and 
+based primarily on female ovipositor characteristics and wing patterns. 
+♦ Several insecticides offer close to 100% control; bait sprays containing 
+malathion or spinosad insecticides are recommended for eradication. 
+ 
+Taxonomy 
+The genus Anastrepha has more than 300 recognized species belonging to 27 
+species groups (Norrbom, 2022; Norrbom et al., 2018; Rodriguez et al., 2022; 
+Steck et al., 2019). 
+Taxonomic Position 
+♦ Arthropoda : Insecta : Diptera : Tephritidae 
+ 
+Chapter 
+ 
+2 
+Last update 23MAY2023 Anastrepha spp. 7 
+Distribution and Impact 
+Fruit flies of the genus Anastrepha are among the most damaging endemic fruit 
+flies in the Americas (Aluja, 1994; Norrbom and Foote, 1989). Anastrepha spp. 
+are major pests of commercially important fruit, such as mango, citrus, and guava 
+(Baker et al., 1944). The genus has
+Text Len: 1443
+--------------------------------------------------------------------------------
+ 
+Fruit flies of the genus Anastrepha are among the most damaging endemic fruit 
+flies in the Americas (Aluja, 1994; Norrbom and Foote, 1989). Anastrepha spp. 
+are major pests of commercially important fruit, such as mango, citrus, and guava 
+(Baker et al., 1944). The genus has about a dozen economically important species 
+(Aluja, 1994; Steck et al., 2019; White and Elson-Harris, 1992); these species 
+cause losses in Central and South America of 25 to 80% on average (Enkerlin et 
+al., 1989; Soto-Manitiu et al., 1987; Gonzalez et al, 2002, cited by Pérez Chávez 
+et al., 2008). 
+Among the economically important species, A. fraterculus, A. striata, A. 
+serpentina, A. obliqua and A. distincta are distributed throughout Mexico and 
+Central and South America (Norrbom and Foote, 1989; Steck et al., 1990). 
+Anastrepha ludens is distributed primarily in Mexico and areas of higher 
+elevations in Central America (Norrbom and Foote, 1989). Anastrepha grandis is 
+native to South America (Silva and Malavasi, 1993), and A. suspensa is native to 
+the Caribbean and established in Florida (Enkerlin et al., 1989; Greany and 
+Riherd, 1993). Anastrepha curvicauda is present in Mexico, the United States 
+(Florida and Texas), and Central and South America (Norrbom et al., 2018).  
+ 
+Biology and Ecology 
+Life Cycle 
+The general life cycle and basic biology of Anastrepha fruit
+Text Len: 1374
+--------------------------------------------------------------------------------
+., 1989; Greany and 
+Riherd, 1993). Anastrepha curvicauda is present in Mexico, the United States 
+(Florida and Texas), and Central and South America (Norrbom et al., 2018).  
+ 
+Biology and Ecology 
+Life Cycle 
+The general life cycle and basic biology of Anastrepha fruit flies are similar 
+among species (Aluja, 1994; Aluja et al., 2001; Christenson and Foote, 1960). 
+However, developmental times vary and depend on the fly species, host and 
+environmental conditions (Baker et al., 1944). Lower temperatures and less 
+favorable hosts prolong developmental time among several species (Aluja, 1994; 
+Leyva et al., 1991; Bolzan et al., 2017; Telles-Romero et al., 2011; Bolzan et al., 
+2015). Anastrepha spp. have one or more generations per year (Aluja, 1994; dos 
+Santos et al., 2017; Weems et al., 2012a; Garcia et al., 2003). Adult populations 
+peak when host fruiting peaks (Celedonio-Hurtado et al., 1995; Soto‐Manitiu and 
+Jirón, 1989; dos Santos et al., 2017; Ronchi-Teles and Da Silva, 2005; Hedström, 
+1991). Diapause has not been reported in any Anastrepha spp. (Aluja et al., 2001). 
+Eggs 
+Most Anastrepha spp. lay eggs in mature or ripe fruit (Aluja et al., 2003; Baker et 
+al., 1944; Malavasi et al., 1983; Weems, 1969). Eggs are typically inserted in fruit 
+Last update 23MAY20
+Text Len: 1292
+--------------------------------------------------------------------------------
+repha spp. (Aluja et al., 2001). 
+Eggs 
+Most Anastrepha spp. lay eggs in mature or ripe fruit (Aluja et al., 2003; Baker et 
+al., 1944; Malavasi et al., 1983; Weems, 1969). Eggs are typically inserted in fruit 
+Last update 23MAY2023 Anastrepha spp. 8 
+skin or pulp, but some species, such as A. hamata, deposit eggs inside developing 
+seeds (Aluja et al., 2001). Eggs can be laid singly (e.g., A. obliqua) or in clutches 
+of up to 110 eggs (e.g., A. grandis), with clutch size dependent on fly species and 
+fruit size/ripeness (Aluja et al., 2014; Aluja et al., 2001; Leyva et al., 1991). 
+Females may produce hundreds of eggs during their lifetime (Bisognin et al., 
+2015; Bolzan et al., 2015); for example, A. ludens has laid up to 1,400 eggs under 
+laboratory conditions (Carey et al., 2005). Under favorable temperatures (73oF– 
+82oF), Anastrepha eggs hatch in 2–9 days (Leyva et al., 1991; Bolzan et al., 2017; 
+Dias and Lucky, 2017; Celedonio-Hurtado et al., 1988). 
+Larvae 
+Larvae develop inside fruit, consuming pulp and/or seeds (Aluja et al., 2001; 
+Morgante et al., 1996; Plummer et al., 1941). They typically exit the fruit after it 
+has fallen to the ground to pupate in soil, but some larvae may exit while
+Text Len: 1220
+--------------------------------------------------------------------------------
+Hurtado et al., 1988). 
+Larvae 
+Larvae develop inside fruit, consuming pulp and/or seeds (Aluja et al., 2001; 
+Morgante et al., 1996; Plummer et al., 1941). They typically exit the fruit after it 
+has fallen to the ground to pupate in soil, but some larvae may exit while the fruit 
+is still on the tree (Aluja et al., 2001). The larval period generally lasts between 2–
+4 weeks (Leyva et al., 1991; Weems et al., 2012b; Celedonio-Hurtado et al., 1988; 
+Weems, 1965; Dias and Lucky, 2017; Lawrence, 1979; Bolzan et al., 2017). 
+Pupae 
+Pupation typically occurs in soil at a depth of 1–2 inches (Aluja et al., 2001; 
+Hodgson et al., 1998). Pupal development takes a variable amount of time 
+depending on the species and temperature (Aluja et al., 2014; Bolzan et al., 2017; 
+Telles-Romero et al., 2011). Some species may overwinter as pupae (McGrath et 
+al., 2021; Thomas, 2003). 
+Adults 
+Adult fruit flies typically emerge during morning hours (Aluja, 1994; Aluja et al., 
+1993). After emergence, adults rest and feed on carbohydrate and protein sources 
+(e.g., plant sap, rotting fruit, aphid honeydew) before becoming sexually mature 
+(Aluja, 1994; Christenson and Foote, 1960). Females can reach sexual maturity 
+within 7–20 days (Aluja et al., 2009; Dias et al., 2017; Dickens et al., 1982; 
+Martínez et
+Text Len: 1307
+--------------------------------------------------------------------------------
+
+(e.g., plant sap, rotting fruit, aphid honeydew) before becoming sexually mature 
+(Aluja, 1994; Christenson and Foote, 1960). Females can reach sexual maturity 
+within 7–20 days (Aluja et al., 2009; Dias et al., 2017; Dickens et al., 1982; 
+Martínez et al., 1995). Males of most Anastrepha spp. aggregate in non-host trees 
+to compete for females (lekking behavior) (Aluja, 1994; Aluja et al., 1993; Aluja 
+et al., 2001). However, in at least one monophagous species (A. bistrigata), males 
+patrol host fruit for mating opportunities (Morgante et al., 1993). Egg laying can 
+begin shortly after mating (Thomas, 2003). Daily activities (e.g., resting, feeding, 
+mating, and oviposition) occur in species-specific patterns, but the timing of these 
+behaviors also varies according to environmental conditions, with adults generally 
+resting among foliage during the hottest part of the day (Aluja, 1994; Aluja et al., 
+1993; Aluja et al., 2001; Malavasi et al., 1983). Longevity is highly variable 
+among species (Aluja et al., 2001), but A. ludens adults have been recorded living 
+Last update 23MAY2023 Anastrepha spp. 9 
+for as long as 12 months in the field (Shaw et al., 1967). 
+ 
+Hosts 
+The Global Pest and Disease Database (GPDD) provides host lists of various fruit 
+fly species. Host lists of the following Anastrepha spp. are available at the links 
+below.
+Text Len: 1365
+--------------------------------------------------------------------------------
+23 Anastrepha spp. 9 
+for as long as 12 months in the field (Shaw et al., 1967). 
+ 
+Hosts 
+The Global Pest and Disease Database (GPDD) provides host lists of various fruit 
+fly species. Host lists of the following Anastrepha spp. are available at the links 
+below.  
+♦ Anastrepha curvicauda 
+♦ Anastrepha distincta 
+♦ Anastrepha fraterculus 
+♦ Anastrepha grandis 
+♦ Anastrepha ludens 
+♦ Anastrepha obliqua 
+♦ Anastrepha serpentina 
+♦ Anastrepha striata 
+♦ Anastrepha suspensa 
+ 
+Dispersal 
+Human-Assisted Spread 
+Human-assisted spread of Anastrepha spp. primarily occurs by the transport of 
+infested fruit through trade or travel (Weems, 1965; EFSA, 2021; USDA-APHIS-
+PPQ, 2001). Pupae in soil or packaging of fruit-bearing trees can also transport 
+the pest to new areas (USDA-APHIS-PPQ, 2001).  
+Natural Dispersal 
+Members of the genus Anastrepha have varying dispersal capabilities. Prevailing 
+winds aid Anastrepha dispersal and orientation (Baker and Chan, 1991; Baker et 
+al., 1986). Anastrepha ludens can fly up to 23 miles within a year, but typically 
+flies between 3 and 5 miles (Shaw et al., 1967), with a short-range dispersal of 
+0.15 miles (Thomas and Loera-Gallardo, 1998). Similarly, A. obliqua, A. 
+fraterculus, and
+Text Len: 1233
+--------------------------------------------------------------------------------
+ 1986). Anastrepha ludens can fly up to 23 miles within a year, but typically 
+flies between 3 and 5 miles (Shaw et al., 1967), with a short-range dispersal of 
+0.15 miles (Thomas and Loera-Gallardo, 1998). Similarly, A. obliqua, A. 
+fraterculus, and A. suspensa have a general short-range dispersal of less than 0.2 
+miles (Hernández et al., 2007; Kendra et al., 2010; Kovaleski et al., 1999). The 
+maximum reported dispersal range for A. fraterculus and A. obliqua is 0.6 miles 
+within 3–5 weeks (Kovaleski et al., 1999; Soto‐Manitiu and Jirón, 1989).  
+  
+Last update 23MAY2023 Anastrepha spp. 10 
+3. Pest Identification  
+ 
+ 
+ 
+ 
+Species ID/Diagnostic 
+Morphological  
+Adults 
+Adult Anastrepha are predominantly yellowish-brown flies, slightly larger than a 
+house fly, with a wingspan of 0.24–0.35 inches depending on the species. The 
+genus Anastrepha differs from other fruit fly genera by wing venation characters, 
+yellow and brown banding on the wings and body, and the shape and length of the 
+ovipositor (Fig. 3-1) (Weems, 1965, 1969, 1982; Weems and Fasulo, 2006; 
+Weems, 2001). Typically, most species have an inverted 'V'-shaped marking on 
+the outer half of the wings (Figs. 3-2, 3-3) (Norrbom
+Text Len: 1209
+--------------------------------------------------------------------------------
+ shape and length of the 
+ovipositor (Fig. 3-1) (Weems, 1965, 1969, 1982; Weems and Fasulo, 2006; 
+Weems, 2001). Typically, most species have an inverted 'V'-shaped marking on 
+the outer half of the wings (Figs. 3-2, 3-3) (Norrbom and Foote, 1989; Weems et 
+al., 2012a; Weems et al., 2012b). Females are generally larger than males (Dias 
+and Lucky, 2017; Sivinski and Dodson, 1992). Identification to the species level 
+is based primarily on adult female ovipositor characteristics and wing venation 
+and banding (Dias and Lucky, 2017; Weems, 1963; Weems, 1965, 1982; Weems, 
+1969, 2001; Norrbom et al., 2019; White and Elson-Harris, 1992).  
+ 
+Chapter 
+ 
+3 
+Last update 23MAY2023 Anastrepha spp. 11 
+ 
+Figure 3-1 General appearance of four fruit fly genera; A. Anastrepha ludens; B. 
+Rhagoletis cerasi; C. Bactrocera dorsalis; D. Ceratitis capitata. Note the differences in the 
+wing banding among major genera (Source: Taina Litwak, USDA-ARS, Bugwood.org; 
+Arthur D. Cushman, USDA; IAEA imagebank; G. Georgen, IITA). 
+ 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus, and A. striata. 
+The inverted ‘V-shaped’ marking on the wing is indicated with an arrow (Source:
+Text Len: 1191
+--------------------------------------------------------------------------------
+Arthur D. Cushman, USDA; IAEA imagebank; G. Georgen, IITA). 
+ 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus, and A. striata. 
+The inverted ‘V-shaped’ marking on the wing is indicated with an arrow (Source: Taina 
+Litwak, USDA-ARS; A. Norrbom et al., USDA-APHIS-PPQ, Bugwood.org). 
+
+Last update 23MAY2023 Anastrepha spp. 12 
+ 
+Figure 3-3 Adult female and wing venation of A. grandis, A. serpentina, A. suspensa, 
+and A. obliqua. The inverted ‘V-shaped’ marking on the wing, when visible, is indicated 
+with an arrow (Source: Taina Litwak, USDA–ARS, A. Norrbom et al., USDA–APHIS–
+PPQ, Bugwood.org). 
+Eggs 
+Eggs of Anastrepha spp. are very small, white and spindle-shaped, wider towards 
+the front and tapering towards the rear (Fig. 3-4) (Emmart, 1933; Lawrence, 1979; 
+Selivon and Perondini, 1999).  
+ 
+Figure 3-4 Eggs of Anastrepha spp., (top to bottom): A. ludens, A. serpentina, and A. 
+obliqua (Source: A. Norrbom et al., USDA–APHIS–PPQ, Bugwood.org) 
+Larvae 
+Larvae are typically cylindrical and pale yellow and have a pair of well-developed 
+mouth hooks (
+Text Len: 1087
+--------------------------------------------------------------------------------
+., (top to bottom): A. ludens, A. serpentina, and A. 
+obliqua (Source: A. Norrbom et al., USDA–APHIS–PPQ, Bugwood.org) 
+Larvae 
+Larvae are typically cylindrical and pale yellow and have a pair of well-developed 
+mouth hooks (Fig. 3-5). Third instar larvae are usually 0.35–0.47 inches in length. 
+Identification of several Anastrepha spp. by larval features is possible using 
+scanning electron microscopy (Weems, 2001; Steck et al., 1990; Dutra et al., 
+2018a; Dutra et al., 2018b; Rodriguez et al., 2022; Rodriguez et al., 2021). 
+
+Last update 23MAY2023 Anastrepha spp. 13 
+ 
+Figure 3-5 A. Larva of Anastrepha sp.; B. Lateral view showing the mouth hook 
+(Sources: Pedro Rendon, USDA–APHIS; Gary Steck, Florida Division of Plant Industry) 
+Pupae 
+Pupae are brown and cylindrical, measuring about 0.15–0.31 inches in length and 
+up to 0.11 inches in diameter depending upon the species (Greene, 1929). 
+Molecular 
+Molecular identification of some Anastrepha spp. can be done through DNA 
+sequencing of the COI gene (Barr et al., 2018) or a portion of the ITS2 gene (Barr 
+et al., 2017). 
+ 
+Signs and Symptoms 
+External signs of fruit fly infestation include oviposition punctures, but these may 
+
+Last update 23MAY2023 Anastrepha spp. 14 
+
+Text Len: 1240
+--------------------------------------------------------------------------------
+sequencing of the COI gene (Barr et al., 2018) or a portion of the ITS2 gene (Barr 
+et al., 2017). 
+ 
+Signs and Symptoms 
+External signs of fruit fly infestation include oviposition punctures, but these may 
+
+Last update 23MAY2023 Anastrepha spp. 14 
+be difficult to detect during early infestation (EFSA, 2021). The most obvious 
+sign of infestation is the presence of larvae inside the fruit and exit holes on the 
+fruit (Fig. 3-6). Anastrepha ludens infestation may change the color of grapefruit 
+(Baker et al., 1944). 
+ 
+Figure 3-6 Anastrepha suspensa larvae in citrus fruit (Source: Florida Division of Plant 
+Industry) 
+  
+
+Last update 23MAY2023 Anastrepha spp. 15 
+4. Delimitation Survey 
+ 
+ 
+ 
+ 
+Introduction 
+Delimitation surveys are used to determine the extent of the infested area after a 
+detection has been confirmed. The criteria for initiating a delimitation survey are 
+determined by the specific response triggers for Anastrepha spp. developed by 
+USDA-APHIS Fruit Fly Exclusion and Detection Program (see Emergency 
+Response Triggers). Refer to the USDA-APHIS Fruit Fly Exclusion and 
+Detection Program Website for updated information regarding quarantine 
+information, program updates and reviews, and additional resources. 
+ 
+Delimitation Area 
+The standard delimitation area for Anastrepha spp. is a 9 x 9-mile square grid (81 
+square miles) around the initial detection. The delimitation area will be expanded 
+if there are additional detections within the original
+Text Len: 1489
+--------------------------------------------------------------------------------
+ for updated information regarding quarantine 
+information, program updates and reviews, and additional resources. 
+ 
+Delimitation Area 
+The standard delimitation area for Anastrepha spp. is a 9 x 9-mile square grid (81 
+square miles) around the initial detection. The delimitation area will be expanded 
+if there are additional detections within the original 9 x 9-mile delimitation area 
+(USDA-APHIS, 2015b). 
+ 
+Survey Considerations 
+Surveyors will need to consider the potential challenges when adjusting this 
+survey to fit highly developed urban or residential landscapes with few suitable or 
+accessible trapping sites. Optimize the likelihood of capture by placing traps 
+within or around host plants or in green areas near high-risk introduction points. 
+High-risk areas will often include airports, warehouses, nurseries, or other sites 
+that are likely to move high volumes of fresh produce and other products that can 
+carry pests. Surveying around these high-risk areas will require on the ground 
+assessments for access and site suitability as well as permissions from property 
+owners to place and maintain traps.  
+ 
+Chapter 
+ 
+4 
+Last update 23MAY2023 Anastrepha spp. 16 
+Emergency Response Triggers 
+Anastrepha spp. are regulated pests, and their detection will trigger delimitation, 
+quarantine, and/or eradication responses. The triggers for emergency response 
+activities in the event of an Anastrepha spp. detection are given in Table 4-1.  
+Table 4-1 Cooperative fruit fly emergency response triggers for Anastrepha spp. 
+(USDA-APHIS, 2020) 
+Pest Species Trigger for 
+Delimitation 
+Duration of 
+
+Text Len: 1618
+--------------------------------------------------------------------------------
+ The triggers for emergency response 
+activities in the event of an Anastrepha spp. detection are given in Table 4-1.  
+Table 4-1 Cooperative fruit fly emergency response triggers for Anastrepha spp. 
+(USDA-APHIS, 2020) 
+Pest Species Trigger for 
+Delimitation 
+Duration of 
+Delimitation 
+Trigger for 
+Eradication 
+Trigger for 
+Quarantine 
+Anastrepha spp. 1 fly 3 generations 
+2 flies within a 
+3-mile radius 
+during 1 life 
+cycle 
+2–5 flies (based 
+on risk 
+assessment) 
+within a 3-mile 
+radius during 1 
+life cycle 
+Mated female of 
+any genus and 
+species of fruit fly 
+presumed or 
+known to be 
+mated to a wild 
+male; a larva or 
+pupa 
+1 mated female 
+or immature 
+stage 
+3 generations 
+1 mated female 
+or immature 
+stage 
+1 mated female 
+or immature 
+stage 
+ 
+Timing of Surveys 
+Start delimitation surveys immediately after detecting a single wild fly, mated 
+female, or immature stages of any Anastrepha spp. (see Emergency Response 
+Triggers). A buffer area around the site should be established within 72 hours 
+following confirmation of the initial detection. Delimitation surveys should 
+continue for at least three life cycles based on the degree day requirements of the 
+detected Anastrepha spp. (USDA-APHIS, 2020).  
+ 
+Survey Techniques for Delimitation 
+Trapping 
+Trapping using Multilure traps or McPhail
+Text Len: 1317
+--------------------------------------------------------------------------------
+
+following confirmation of the initial detection. Delimitation surveys should 
+continue for at least three life cycles based on the degree day requirements of the 
+detected Anastrepha spp. (USDA-APHIS, 2020).  
+ 
+Survey Techniques for Delimitation 
+Trapping 
+Trapping using Multilure traps or McPhail traps is the primary method for 
+detection and delimitation of adult Anastrepha spp. Multilure traps are baited with 
+the two-component (2C) lure of ammonium acetate and putrescine. When 
+McPhail traps are used, bait with torula yeast pellets or a liquid mixture of Nu-
+Lure, borax, and water (USDA-APHIS, 2015a, 2015b). Refer to the National 
+Exotic Fruit Fly Detection Trapping Guidelines for detailed instructions on the 
+preparation of attractant bait mixtures and trap setup. 
+Last update 23MAY2023 Anastrepha spp. 17 
+Trap Density 
+The recommended delimitation survey design for Anastrepha spp. consists of a 1 
+square mile core area around the initial detection, surrounded by four concentric 
+buffer areas comprising a total of 81 square miles (Fig. 4-1). Place traps in the 
+core and four buffer areas with an 80-40-20-10-5 array of traps per square mile 
+(Table 4-2) (USDA-APHIS, 2015b). 
+Trap Placement 
+Whenever possible, traps should be placed on host trees (see Hosts), in the upper 
+two-thirds of the canopy (Fig. 4-2a). Prioritize host trees with mature or ripe fruits 
+when placing traps. Hang traps near ripe or ripening
+Text Len: 1439
+--------------------------------------------------------------------------------
+Table 4-2) (USDA-APHIS, 2015b). 
+Trap Placement 
+Whenever possible, traps should be placed on host trees (see Hosts), in the upper 
+two-thirds of the canopy (Fig. 4-2a). Prioritize host trees with mature or ripe fruits 
+when placing traps. Hang traps near ripe or ripening fruits and foliage, but do not 
+place in dense foliage that may block the trap entrance (Fig 4-2b). Hang traps 
+high enough so that they are out of reach (Fig. 4-2c). Distribute traps evenly based 
+on the host tree distribution (USDA-APHIS, 2015a). 
+ 
+ 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. with a 
+designated core and four concentric buffer areas 
+ 
+  
+
+Last update 23MAY2023 Anastrepha spp. 18 
+Table 4-2 Details of area and total traps required to delimit Anastrepha spp. infestation 
+in the core and designated buffer areas 
+Delimitation Area Total Square Miles # Traps per Square 
+Mile 
+Total Traps 
+Core 1 80 80 
+1st buffer area 8 40 320 
+2nd buffer area 16 20 320 
+3rd buffer area 24 10 240 
+4th buffer area 32 5 160 
+Total 81 NA 1120 
+ 
+ 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to delimit 
+Anastrepha spp. infestation 
+
+Last update 23MAY2023 Anastrepha spp. 19 
+Fruit Sampling 
+Fruit sampling is required to determine if the detected species has started 
+reproducing in the area. Randomly
+Text Len: 1342
+--------------------------------------------------------------------------------
+ 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to delimit 
+Anastrepha spp. infestation 
+
+Last update 23MAY2023 Anastrepha spp. 19 
+Fruit Sampling 
+Fruit sampling is required to determine if the detected species has started 
+reproducing in the area. Randomly collect 100 or more preferred host fruits (if 
+available, see Hosts) from the initial detection site and visually inspect for 
+possible signs of oviposition. If there are no visible signs, cut open the fruits and 
+inspect for larval presence. Take care not to miss any early larval instars that 
+might be feeding immediately under the skin of fruits. If two or more flies are 
+trapped in the vicinity, fruit inspection may be expanded to cover all preferred 
+host trees within a 656 ft (200 m) radius of detection. Fruit should not be moved 
+from the site of detection during inspection and sampled fruits must be destroyed 
+(see Fruit Removal) (USDA-APHIS, 2015b; USDA-APHIS-PPQ, 2021). 
+ 
+Delimitation Survey 
+To delimit Anastrepha spp. infestation using a core and buffer grid design: 
+1. Identify and survey the core area. 
+a. Using a map or mapping software, establish a one-square mile core 
+area around the initial detection site (Fig. 4-3). 
+b. Place 80 traps in the core area. Increase existing trap density to 80 
+traps/square mile, for example, if there are already five traps in the 
+area, add 75 more to achieve a total of 80 traps in the area. 
+Last update 23MAY2023 Anastrepha spp. 20 
+ 
+Figure
+Text Len: 1495
+--------------------------------------------------------------------------------
+-3). 
+b. Place 80 traps in the core area. Increase existing trap density to 80 
+traps/square mile, for example, if there are already five traps in the 
+area, add 75 more to achieve a total of 80 traps in the area. 
+Last update 23MAY2023 Anastrepha spp. 20 
+ 
+Figure 4-3 Trapping in the core area requires 80 traps.  
+ 
+c. Distribute the traps evenly throughout the core area based on the host 
+tree distribution patterns (see Trap Placement). 
+d. If multiple flies are detected within the existing core area, do not 
+expand the core area. 
+e. If an additional detection is made outside the initial core area, establish 
+a new core area around the detection with 80 traps per square mile. 
+f. Service traps daily for the first week following detection. If there are 
+no additional detections, service traps weekly and keep in place 
+according to the guidelines in Timing of Surveys. 
+2. Identify and survey the buffer area 
+a. Using a map or mapping software, establish four concentric buffer 
+areas moving outward from the core. 
+b. Place traps with a density of 40-20-10-5 traps per square mile in 
+successive buffer areas, moving outward from the core (Table 4-2). 
+c. Distribute the traps evenly throughout the buffer area based on the host 
+tree distribution patterns (see Trap Placement).  
+d. If no new detections are made in the core or buffer areas, continue 
+delimitation survey for three generations of the detected Anastrepha 
+spp.  
+ 
+
+Last update 23MAY2023 Anastrepha spp. 21 
+Survey Grid Modification
+Text Len: 1514
+--------------------------------------------------------------------------------
+ 
+tree distribution patterns (see Trap Placement).  
+d. If no new detections are made in the core or buffer areas, continue 
+delimitation survey for three generations of the detected Anastrepha 
+spp.  
+ 
+
+Last update 23MAY2023 Anastrepha spp. 21 
+Survey Grid Modification 
+If an additional adult fruit fly is detected during the trapping period in the buffer 
+area: 
+a. Increase the trap density to 80 traps per square mile around the new 
+detection site. 
+b. Expand and modify the existing trap array to align with the new core 
+(Fig. 4-4) and adjust trapping densities in the new buffer area.  
+c. Service the traps in the new core twice weekly and service traps in the 
+buffer areas weekly. Keep traps in place according to the guidelines in 
+Timing of Surveys. 
+ 
+Figure 4-4 Expansion of the existing survey grid and trapping layout if an additional 
+detection occurs in the buffer area 
+  
+
+Last update 23MAY2023 Anastrepha spp. 22 
+5. Eradication and Control 
+Options 
+ 
+ 
+ 
+Overview 
+This information can be used by PPQ decision-makers after an eradication or 
+quarantine-triggering detection to determine the best course of action to eradicate 
+the incursion of Anastrepha spp. most expeditiously. The efficacy and feasibility 
+of each control option will depend on the pest situation at the time of detection. 
+Factors, such as where the pest is detected (i.e., natural or urban environments, 
+agricultural crops, greenhouses), how widespread the pest is, the climatic region, 
+the time of year, the
+Text Len: 1508
+--------------------------------------------------------------------------------
+pp. most expeditiously. The efficacy and feasibility 
+of each control option will depend on the pest situation at the time of detection. 
+Factors, such as where the pest is detected (i.e., natural or urban environments, 
+agricultural crops, greenhouses), how widespread the pest is, the climatic region, 
+the time of year, the phenology of the hosts, and current practices already in 
+place, contribute to determining whether a particular control option is appropriate. 
+ 
+Eradication and Control Options 
+A combination of the following mitigation options can be used in a systems 
+approach to eradicate Anastrepha spp. These protocols are based on the USDA-
+APHIS preferred alternative for the eradication of these fruit flies (USDA-
+APHIS-PPQ, 2021). Mitigation options include: 
+♦ Host fruit removal to target immature stages. 
+♦ Chemical control using insecticide-based foliar bait spray treatments to 
+target adults and soil drenching with insecticide to prevent larvae or 
+pupae maturing to adults. 
+♦ Regulatory quarantine procedures to prevent the spread of Anastrepha 
+spp. 
+Public Notification 
+Before the eradication process begins, inform the public and potentially affected 
+industries about the eradication and quarantine process via press releases, 
+meetings, or any other appropriate forms of communication. Notify residents, 
+owners or operators of groves, vendors, nurseries, and other related industries 
+whose property will be impacted at least 48 hours in advance of treatment or fruit 
+removal (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Chapter 
+ 
+5 
+Last update 23MAY2023 Anastrepha spp. 23 
+Fruit Removal 
+Strip
+Text Len: 1636
+--------------------------------------------------------------------------------
+, and other related industries 
+whose property will be impacted at least 48 hours in advance of treatment or fruit 
+removal (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Chapter 
+ 
+5 
+Last update 23MAY2023 Anastrepha spp. 23 
+Fruit Removal 
+Strip all host fruits within a 656 ft (200 m) radius of the site where the 
+eradication-triggering detection(s) occurred. Destroy stripped host fruits either by 
+bagging in heavy-duty plastic bags, burying them at an approved landfill at least 
+one foot deep, or by incineration (USDA-APHIS, 2001, 2018).  
+Chemical Control Options 
+Insecticide classes listed in Table 5-1 are reported to be effective against various 
+Anastrepha spp. Insecticides in the table are registered in the United States, 
+although some are not registered for use against fruit flies.  
+ 
+Table 5-1 Insecticides with efficacy for use against Anastrepha spp.1 
+IRAC Insecticide 
+Class (Mode of 
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+Carbamates (1A) methomyl** A. suspensa applied as a 
+bait station 
+98% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+dimethoate* A. suspensa applied as a 
+bait station 
+99% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+malathion* A. fraterculus; 
+A. grand
+Text Len: 1259
+--------------------------------------------------------------------------------
+% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+dimethoate* A. suspensa applied as a 
+bait station 
+99% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+malathion* A. fraterculus; 
+A. grandis 
+applied as a 
+bait station; 
+foliar spray 
+>90% Nunes et 
+al., 2020; 
+Raga et al., 
+2018 
+Organophosphates 
+(1B) 
+phosmet* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Pyrethroids (3A) deltamethrin* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Pyrethroids (3A) alpha-
+cypermethrin** 
+A. fraterculus applied as a 
+bait station 
+>97% Nunes et 
+al., 2020 
+Pyrethroids (3A) zeta-
+cypermethrin* 
+A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+acetamiprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+imidacloprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotin
+Text Len: 905
+--------------------------------------------------------------------------------
+* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+imidacloprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+thiamethoxam* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Butenolides (4D) flupyradifurone
+** 
+A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Spinosyns (5) spinetoram* A. obliqua applied as a 
+bait station 
+96% Raga et al., 
+2021 
+Spinosyns (5) spinosad* A. fraterculus; 
+A. grandis; A. 
+suspensa 
+applied as a 
+bait station 
+82-100% Heath et al., 
+2009; 
+Nunes et 
+al., 2020; 
+Raga et al., 
+2019 
+Last update 23MAY2023 Anastrepha spp. 24 
+IRAC Insecticide 
+Class (Mode of 
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+UNE neem oil* A. fraterculus applied to 
+infested 
+fruit 
+45-93% 
+depending 
+on life 
+stage 
+Raga et al., 
+Text Len: 914
+--------------------------------------------------------------------------------
+
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+UNE neem oil* A. fraterculus applied to 
+infested 
+fruit 
+45-93% 
+depending 
+on life 
+stage 
+Raga et al., 
+2020 
+1 Registration status and pest labeling confirmed by CDMS, 2022 and EPA, 2023. Note that U.S. states, tribes, and territories 
+can have additional registration requirements and may have restrictions on pesticides used or sold within their jurisdictions. 
+Registration and site restrictions should be confirmed prior to setting up any control programs. 
+2 MOA: Insecticide acts on nerve & muscle (1A, 1B, 3A, 4A, 4D, 5). For full definitions for each mode of action see https://irac-
+online.org/modes-of-action.  
+* Registered for use against fruit flies in the United States. 
+** Registered in the United States, but no commercial products available for fruit flies.  
+Foliar Bait Spray Treatments 
+Apply foliar bait spray insecticides either as a targeted ground treatment within a 
+0.3 mile radius of each detection site or as an aerial treatment to orchards growing 
+Anastrepha hosts (see Hosts, Chemical Control Options). Protein hydrolysate 
+(derived from plants or yeast) is generally recommended as the bait. (USDA-
+APHIS-PPQ, 2021).  
+Soil Drenching  
+Soil drenching kills developing pupae in the soil. Apply approved insecticides 
+(see Chemical Control Options) within existing driplines under host trees within a 
+1312 ft radius of the detection (USDA-APHIS
+Text Len: 1478
+--------------------------------------------------------------------------------
+ generally recommended as the bait. (USDA-
+APHIS-PPQ, 2021).  
+Soil Drenching  
+Soil drenching kills developing pupae in the soil. Apply approved insecticides 
+(see Chemical Control Options) within existing driplines under host trees within a 
+1312 ft radius of the detection (USDA-APHIS-PPQ, 2021). 
+Regulatory Quarantine Procedures 
+Regulatory quarantine procedures and controlling movement of host materials 
+from the quarantine areas will limit the spread of Anastrepha spp. from infested 
+areas. If an infestation is confirmed and Emergency Response Triggers for 
+quarantine are met, state program personnel will issue ‘hold orders’ on all infested 
+properties and an emergency quarantine will be established (USDA-APHIS, 
+2015b; USDA-APHIS-PPQ, 2021). 
+Any area that falls within a 4.5 mile radius of a confirmed infestation will be 
+treated as a quarantine area (USDA-APHIS, 2015b). Quarantines will remain in 
+effect for three Anastrepha life cycles from the date of the last detection, until 
+eradication is declared (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Regulatory Phytosanitary Treatment 
+Post-harvest phytosanitary measures may be required to kill fruit flies from the 
+quarantine areas. These measures include cold and hot water treatments, 
+irradiation with gamma rays and fumigation with methyl bromide (IPPC, 2019).  
+Refer to the USDA APHIS Treatment Manual for detailed instructions for post-
+Last update 23MAY2023 Anastrepha spp. 25 
+harvest treatment of fruit flies (
+Text Len: 1493
+--------------------------------------------------------------------------------
+
+quarantine areas. These measures include cold and hot water treatments, 
+irradiation with gamma rays and fumigation with methyl bromide (IPPC, 2019).  
+Refer to the USDA APHIS Treatment Manual for detailed instructions for post-
+Last update 23MAY2023 Anastrepha spp. 25 
+harvest treatment of fruit flies (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2018). 
+  
+Last update 23MAY2023 Anastrepha spp. 26 
+Literature Cited 
+ 
+Aluja, M. 1994. Bionomics and management of Anastrepha. Annual Review of Entomology 39:155-
+178. 
+Aluja, M., J. Arredondo, F. Díaz-Fleischer, A. Birke, J. Rull, J. Niogret, and N. D. Epsky. 2014. 
+Susceptibility of 15 mango (Sapindales: Anacardiaceae) cultivars to the attack by Anastrepha 
+ludens and Anastrepha obliqua (Diptera: Tephritidae) and the role of underdeveloped fruit as 
+pest reservoirs: Management implications. Journal of Economic Entomology 107(1):375-
+388. 
+Aluja, M., I. Jacome, A. Birke, N. Lozada, and G. Quintero. 1993. Basic patterns of behavior in wild 
+Anastrepha striata (Diptera: Tephritidae) flies under field-cage conditions. Annals of the 
+Entomological Society of America 86(6):776-793. 
+Aluja, M., M. Ordano, P. E. A. Teal
+Text Len: 1167
+--------------------------------------------------------------------------------
+. Quintero. 1993. Basic patterns of behavior in wild 
+Anastrepha striata (Diptera: Tephritidae) flies under field-cage conditions. Annals of the 
+Entomological Society of America 86(6):776-793. 
+Aluja, M., M. Ordano, P. E. A. Teal, J. Sivinski, D. Garcia-Medel, and A. Anzures-Dadda. 2009. 
+Larval feeding substrate and species significantly influence the effect of a juvenile hormone 
+analog on sexual development/performance in four tropical tephritid flies. Journal of Insect 
+Physiology 55(3):231-242. 
+Aluja, M., J. Piñero, I. Jácome, F. Díaz-Fleischer, and J. Sivinski. 2001. Behavior of flies in the 
+genus Anastrepha (Trypetinae: Toxotrypanini). Pages 375-406 in M. Aluja and A. Norrbom, 
+(eds.). Fruit flies (Tephritidae): Phylogeny and evolution of behavior. CRC Press, Boca 
+Raton, FL. 
+Aluja, M., J. Rull, J. Sivinski, A. L. Norrbom, R. A. Wharton, and R. Macias-Ordonez. 2003. Fruit 
+flies of the genus Anastrepha (Diptera: Tephritidae) and associated native parasitoids 
+(Hymenoptera) in the Tropical Rainforest Biosphere Reserve of Montes Azules, Chiapas, 
+Mexico. Environmental Entomology 32(6):1377-1385. 
+Baker, A. C., W.
+Text Len: 1139
+--------------------------------------------------------------------------------
+
+flies of the genus Anastrepha (Diptera: Tephritidae) and associated native parasitoids 
+(Hymenoptera) in the Tropical Rainforest Biosphere Reserve of Montes Azules, Chiapas, 
+Mexico. Environmental Entomology 32(6):1377-1385. 
+Baker, A. C., W. E. Stone, C. C. Plummer, and M. McPhail. 1944. A review of studies on the 
+Mexican fruitfly and related Mexican species (USDA Miscellaneous Publication No. 531). 
+United States Department of Agriculture, Washington, DC. 173 pp. 
+Baker, P. S., and A. S. T. Chan. 1991. Quantification of tephritid fruit fly dispersal: Guidelines for a 
+sterile release programme. Journal of Applied Entomology 112(4):410-421. 
+Baker, P. S., A. S. T. Chan, and M. A. J. Zavala. 1986. Dispersal and orientation of sterile Ceratitis 
+capitata and Anastrepha ludens (Tephritidae) in Chiapas, Mexico. Journal of Applied 
+Ecology 23(1):27-38. 
+Barr, N., R. Ruiz-Arce, O. Obregón, R. Shatters, A. L. Norrbom, N. Nolazco, and D. Thomas. 2017. 
+Diagnostic characters within ITS2 DNA support molecular identification of Anastrepha 
+suspensa (Diptera: Tephritidae). Florida Entomologist 100(1):182-185. 
+Barr, N. B., R. Ruiz-Arce, R. E. Farris, J. G. Silva
+Text Len: 1171
+--------------------------------------------------------------------------------
+ D. Thomas. 2017. 
+Diagnostic characters within ITS2 DNA support molecular identification of Anastrepha 
+suspensa (Diptera: Tephritidae). Florida Entomologist 100(1):182-185. 
+Barr, N. B., R. Ruiz-Arce, R. E. Farris, J. G. Silva, K. M. Lima, V. S. Dutra, B. Ronchi-Teles, P. H. 
+Kerr, A. L. Norrbom, and N. Nolazco. 2018. Identifying Anastrepha (Diptera; Tephritidae) 
+species using DNA barcodes. Journal of Economic Entomology 111(1):405-421. 
+Last update 23MAY2023 Anastrepha spp. 27 
+Bisognin, M., D. E. Nava, G. I. Diez-Rodriguez, R. A. Valgas, M. S. Garcia, A. C. R. Krolow, and 
+L. E. C. Antunes. 2015. Development of Anastrepha fraterculus (Diptera: Tephritidae) 
+related to the phenology of blueberry, blackberry, strawberry guava, and Surinam cherry 
+fruits. Journal of Economic Entomology 108(1):192-200. 
+Bolzan, A., D. E. Nava, F. R. M. Garcia, R. A. Valgas, and G. Smaniotto. 2015. Biology of 
+Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic 
+Entomology 108(3):1034-1039. 
+Bolzan, A
+Text Len: 1033
+--------------------------------------------------------------------------------
+. Nava, F. R. M. Garcia, R. A. Valgas, and G. Smaniotto. 2015. Biology of 
+Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic 
+Entomology 108(3):1034-1039. 
+Bolzan, A., D. E. Nava, G. Smaniotto, R. A. Valgas, and F. R. M. Garcia. 2017. Development of 
+Anastrepha grandis (Diptera: Tephritidae) under constant temperatures and field validation 
+of a laboratory model for temperature requirements. Crop Protection 100:38-44. 
+Carey, J. R., P. Liedo, H.-G. Müller, J.-L. Wang, D. Senturk, and L. Harshman. 2005. 
+Biodemography of a long-lived tephritid: Reproduction and longevity in a large cohort of 
+female Mexican fruit flies, Anastrepha ludens. Experimental Gerontology 40(10):793-800. 
+CDMS. 2022. CDMS label database. Crop Data Management Systems (CDMS). Last accessed from 
+https://www.cdms.net/Label-Database/Advanced-Search. 
+Celedonio-Hurtado, H., M. Aluja, and P. Liedo. 1995. Adult population fluctuations of Anastrepha 
+species (Diptera: Tephritidae) in tropical orchard habitats of Chiapas, Mexico. Environmental 
+Entomology 24(4):861-869. 
+Celedonio-Hurtado, H., P. Liedo, M. Aluja, J.
+Text Len: 1133
+--------------------------------------------------------------------------------
+o. 1995. Adult population fluctuations of Anastrepha 
+species (Diptera: Tephritidae) in tropical orchard habitats of Chiapas, Mexico. Environmental 
+Entomology 24(4):861-869. 
+Celedonio-Hurtado, H., P. Liedo, M. Aluja, J. Guillen, D. Berrigan, and J. Carey. 1988. Demography 
+of Anastrepha ludens, A. obliqua and A. serpentina (Diptera: Tephritidae) in Mexico. Florida 
+Entomologist 71(2):111-120. 
+Christenson, L. D., and R. H. Foote. 1960. Biology of fruit flies. Annual Review of Entomology 
+5:171-192. 
+Dias, N. P., S. Ongaratto, M. S. Garcia, and D. E. Nava. 2017. Oviposition of Anastrepha fraterculus 
+and Ceratitis capitata (Diptera: Tephritidae) in citrus fruits, and development in relation to 
+maturity of orange fruits. Florida Entomologist 100(2):468-473. 
+Dias, V. S., and A. Lucky. 2017. South American fruit fly (suggested common name) Anastrepha 
+fraterculus (Wiedemann) (Insecta: Diptera: Tephritidae) (EENY-696). University of Florida, 
+Institute of Food and Agricultural Sciences Extension, Gainesville, FL. 6 pp. 
+Dickens, J. C., E. Solis, and W. G. Hart. 1982. Sexual development and mating behavior of the 
+Mexican fruit fly, Anastrepha l
+Text Len: 1161
+--------------------------------------------------------------------------------
+ Diptera: Tephritidae) (EENY-696). University of Florida, 
+Institute of Food and Agricultural Sciences Extension, Gainesville, FL. 6 pp. 
+Dickens, J. C., E. Solis, and W. G. Hart. 1982. Sexual development and mating behavior of the 
+Mexican fruit fly, Anastrepha ludens (Loew). Southwestern Entomology 7(1):9-15. 
+dos Santos, J. P., L. R. Redaelli, J. Sant'Ana, and E. R. Hickel. 2017. Population fluctuation and 
+estimate of generations number of Anastrepha fraterculus (Diptera: Tephritidae) in apple 
+orchard in Caçador, Santa Catarina, Brazil. Arquivos do Instituto Biológico 84, 
+doi:10.1590/1808-1657000482015. 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. L. Araujo, M. F. Souza-Filho, A. Raga, and J. G. Silva. 
+2018a. Description of larvae of three Anastrepha species in the fraterculus group (Diptera: 
+Tephritidae). Proceedings of the Entomological Society of Washington 120(4):708-724. 
+Last update 23MAY2023 Anastrepha spp. 28 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. J. Rodriguez, A. L. Norrbom, B. D. Sutton, and J. G. 
+Silva. 2018b. Description of the larvae of Anastrepha
+Text Len: 1097
+--------------------------------------------------------------------------------
+ update 23MAY2023 Anastrepha spp. 28 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. J. Rodriguez, A. L. Norrbom, B. D. Sutton, and J. G. 
+Silva. 2018b. Description of the larvae of Anastrepha curitis, Anastrepha pickeli and 
+Anastrepha pulchra (Diptera: Tephritidae). Proceedings of the Entomological Society of 
+Washington 120(1):9-24. 
+EFSA. 2021. Pest survey card on Anastrepha ludens. EFSA Supporting Publication 2021 (EN-1998). 
+European Food Safety Authority, DOI: 10.2903/sp.efsa.2021.EN-1998. 30 pp. 
+Emmart, E. W. 1933. The eggs of four species of fruit flies of the genus Anastrepha. Proceedings of 
+the Entomological Society of Washington 35(8):184-191. 
+Enkerlin, D., L. Garcia, and F. Lopez. 1989. Mexico, Central and South America. Pages 83-90 in A. 
+S. Robinson and G. Hooper, (eds.). Fruit flies: Their biology, natural enemies and control. 
+Elsevier, Amsterdam, the Netherlands. 
+EPA. 2023. Pesticide product and label system. Environmental Protection Agency. Last accessed 
+April 2023, from https://ordspub.epa.gov/ords/pesticides/f?p=113:1::::RP,17,1. 
+Garcia, F. R. M., J. V. Campos, and E. Corseuil. 2003. Population fluctuation of Anastrepha 
+Text Len: 1165
+--------------------------------------------------------------------------------
+ Agency. Last accessed 
+April 2023, from https://ordspub.epa.gov/ords/pesticides/f?p=113:1::::RP,17,1. 
+Garcia, F. R. M., J. V. Campos, and E. Corseuil. 2003. Population fluctuation of Anastrepha 
+fraterculus (Wiedemann, 1830) (Diptera, Tephritidae) in the western region of Santa 
+Catarina State, Brazil. Revista Brasileira de Entomologia 47(3):415-420. 
+Greany, P. D., and C. Riherd. 1993. Preface: Caribbean fruit fly status, economic importance, and 
+control (Diptera: Tephritidae). Florida Entomologist 76(2):209-211. 
+Greene, C. T. 1929. Characters of the larvae and pupae of certain fruit flies. Journal of Agricultural 
+Research 38(9):489-504. 
+Heath, R. R., S. G. Lavallee, E. Schnell, D. G. Midgarden, and N. D. Epsky. 2009. Laboratory and 
+field cage studies on female‐targeted attract‐and‐kill bait stations for Anastrepha suspensa 
+(Diptera: Tephritidae). Pest Management Science: formerly Pesticide Science 65(6):672-677. 
+Hedström, I. 1991. The guava fruit fly, Anastrepha striata Schiner (Tephritidae) in seasonal and 
+non-seasonal neotropical forest environments. Dissertation, Uppsala University, Uppsala, 
+Sweden. 
+Hernández, E., D.
+Text Len: 1151
+--------------------------------------------------------------------------------
+672-677. 
+Hedström, I. 1991. The guava fruit fly, Anastrepha striata Schiner (Tephritidae) in seasonal and 
+non-seasonal neotropical forest environments. Dissertation, Uppsala University, Uppsala, 
+Sweden. 
+Hernández, E., D. Orozco, S. F. Breceda, and J. Domínguez. 2007. Dispersal and longevity of wild 
+and mass-reared Anastrepha ludens and Anastrepha obliqua (Diptera: Tephritidae). Florida 
+Entomologist 90(1):123-135. 
+Hodgson, P. J., J. Sivinski, G. Quintero, and M. Aluja. 1998. Depth of pupation and survival of fruit 
+fly (Anastrepha spp.: Tephritidae) pupae in a range of agricultural habitats. Environmental 
+Entomology 27(6):1310-1314. 
+IPPC. 2019. Guidelines for the use of irradiation as a phytosanitary measure (ISPM 18). 
+International Plant Protection Convention, Rome, Italy. 20 pp. 
+Kendra, P. E., N. D. Epsky, and R. R. Heath. 2010. Effective sampling range of food-based 
+attractants for female Anastrepha suspensa (Diptera: Tephritidae). Journal of Economic 
+Entomology 103(2):533-540. 
+Kovaleski, A., R. L. Sugayama, and A. Malavasi. 1999. Movement of Anastrepha fraterculus from 
+Last update 23MAY2023 Anastrepha s
+Text Len: 1138
+--------------------------------------------------------------------------------
+pha suspensa (Diptera: Tephritidae). Journal of Economic 
+Entomology 103(2):533-540. 
+Kovaleski, A., R. L. Sugayama, and A. Malavasi. 1999. Movement of Anastrepha fraterculus from 
+Last update 23MAY2023 Anastrepha spp. 29 
+native breeding sites into apple orchards in Southern Brazil. Entomologia Experimentalis et 
+Applicata 91(3):459-465. 
+Lawrence, P. O. 1979. Immature stages of the Caribbean fruit fly, Anastrepha suspensa. Florida 
+Entomologist 62(3):214-219. 
+Leyva, J. L., H. W. Browning, and F. E. Gilstrap. 1991. Development of Anastrepha ludens 
+(Diptera: Tephritidae) in several host fruit. Environmental Entomology 20(4):1160-1165. 
+Malavasi, A., J. S. Morgante, and R. J. Prokopy. 1983. Distribution and activities of Anastrepha 
+fraterculus (Diptera: Tephritidae) flies on host and nonhost trees. Annals of the 
+Entomological Society of America 76(2):286-292. 
+Martínez, I., V. H. Ortiz, and R. Luna. 1995. Desarrollo y maduración sexual de Anastrepha 
+serpentina (Wiedemann)(Diptera: Tephritidae) [Development and sexual maturation of 
+Anastrepha serpentina (Wiedemann)(Diptera: Tephritidae)]. Acta Zoológica Mexicana 
+Text Len: 1134
+--------------------------------------------------------------------------------
+ Luna. 1995. Desarrollo y maduración sexual de Anastrepha 
+serpentina (Wiedemann)(Diptera: Tephritidae) [Development and sexual maturation of 
+Anastrepha serpentina (Wiedemann)(Diptera: Tephritidae)]. Acta Zoológica Mexicana 
+(65):75-88. 
+McGrath, Z., Q. Paynter, and R. Hill. 2021. The host range of the moth plant fruit fly, Anastrepha 
+australis, a biological control agent for moth plant, Araujia hortorum. Manaaki Whenua 
+Landcare Research, Auckland, New Zealand. 11 pp. 
+Morgante, J. S., D. Selivon, V. N. Solferini, and A. S. do Nascimento. 1996. Genetic and 
+morphological differentiation in the specialist species Anastrepha pickeli and A. montei. 
+Pages 259-276 in B. A. McPheron and G. J. Steck, (eds.). Fruit fly pests: A world assessment 
+of their biology and management. St. Lucie Press, Delray Beach, FL. 
+Morgante, J. S., D. Selivon, V. N. Solferini, and S. R. Matioli. 1993. Evolutionary patterns in 
+specialist and generalist species of Anastrepha. Pages 15-20 in M. Aluja and P. Liedo, (eds.). 
+Fruit flies: Biology and management. Springer, New York. 
+Norrbom, A. 2022. Rhagoletis cerasi- Permission to use image. Personal communication to I. 
+Pulakk
+Text Len: 1170
+--------------------------------------------------------------------------------
+ist and generalist species of Anastrepha. Pages 15-20 in M. Aluja and P. Liedo, (eds.). 
+Fruit flies: Biology and management. Springer, New York. 
+Norrbom, A. 2022. Rhagoletis cerasi- Permission to use image. Personal communication to I. 
+Pulakkatu-thodi on November 8, 2022, from A. Norrbom. 
+Norrbom, A. L., N. B. Barr, P. Kerr, X. Mengual, N. Nolazco, E. J. Rodriguez, G. J. Steck, B. D. 
+Sutton, K. Uramoto, and R. A. Zucchi. 2018. Synonymy of Toxotrypana Gerstaecker with 
+Anastrepha Schiner (Diptera: Tephritidae). Proceedings of the Entomological Society of 
+Washington 120(4):834-841. 
+Norrbom, A. L., and R. H. Foote. 1989. The taxonomy and zoogeography of the genus Anastrepha 
+(Diptera: Tephritidae). Pages 15-26 in A. S. Robinson and G. Hooper, (eds.). Fruit flies: 
+Their biology, natural enemies and control (World Crop Pests Vol. 3A). Elsevier, 
+Amsterdam. 
+Norrbom, A. L., C. A. Korytkowski, R. A. Zucchi, K. Uramoto, G. L. Venable, J. McCormick, and 
+M. J. Dallwitz. 2019. Anastrepha and Toxotrypana: Descriptions, illustrations, and 
+interactive keys.
+Text Len: 1069
+--------------------------------------------------------------------------------
+Norrbom, A. L., C. A. Korytkowski, R. A. Zucchi, K. Uramoto, G. L. Venable, J. McCormick, and 
+M. J. Dallwitz. 2019. Anastrepha and Toxotrypana: Descriptions, illustrations, and 
+interactive keys. United States Department of Agriculture, Agricultural Research Service, 
+Washington, DC. Last accessed 23 May 2023, from https://www.delta-
+intkey.com/anatox/indext.htm. 
+Nunes, M. Z., C. A. Baronio, I. X. Schutze, D. Bernardi, C. J. Arioli, R. M. Junior, and M. Botton. 
+Last update 23MAY2023 Anastrepha spp. 30 
+2020. Toxicity of baits and their effects on population suppression of Anastrepha fraterculus 
+(Diptera: Tephritidae): Implications for field management. Environmental Entomology 
+49(3):638-644. 
+Pérez Chávez, M. S., J. de J. Luna Ruiz, J. Sosa Ramírez, C. Perales Segovia, J. A. Martínez de 
+Anda, and A. de J. Meraz Jiménez. 2008. Digital database with trapping data for fruit fly 
+management in Calvillo, Aguascalientes, Mexico. Acta Horticulturae 849:301-308. 
+Plummer, C. C., M. McPhail, and J. W. Monk. 1941. The yellow chapote, a native host of the 
+Mexican fruitfly. USDA Technical Bulletin No. 775.
+Text Len: 1118
+--------------------------------------------------------------------------------
+ for fruit fly 
+management in Calvillo, Aguascalientes, Mexico. Acta Horticulturae 849:301-308. 
+Plummer, C. C., M. McPhail, and J. W. Monk. 1941. The yellow chapote, a native host of the 
+Mexican fruitfly. USDA Technical Bulletin No. 775. United States Department of 
+Agriculture, Washington, DC. 12 pp. 
+Raga, A., B. F. Baldo, S. S. Braga, S. K. L. Ferreira, T. L. Galdino, and E. M. Sato. 2019. Toxicity 
+of different dilutions of spinosad bait against two fruit-fly species (Diptera: Tephritidae). 
+Journal of Experimental Agriculture International 32(2):1-11. 
+Raga, A., S. Braga e Silva, L. R. F. Louzeiro, and E. M. de Sousa. 2020. Larvicidal and adulticidal 
+activities of neem oil against Anastrepha fraterculus (Wied.) (Tephritidae). European Journal 
+of Medicinal Plants 31(10):44-51. 
+Raga, A., L. T. Galdino, S. Braga e Silva, F. B. Baldo, and M. E. Sato. 2018. Comparison of 
+insecticide toxicity in adults of the fruit flies Anastrepha fraterculus (Wied.) and Anastrepha 
+grandis (Macquart) (Tephritidae). Journal of Experimental Agriculture International 25(2):1-
+8. 
+Raga, A., E. Marques de Sousa, and L. R. F. Louzeiro. 2021.
+Text Len: 1143
+--------------------------------------------------------------------------------
+ toxicity in adults of the fruit flies Anastrepha fraterculus (Wied.) and Anastrepha 
+grandis (Macquart) (Tephritidae). Journal of Experimental Agriculture International 25(2):1-
+8. 
+Raga, A., E. Marques de Sousa, and L. R. F. Louzeiro. 2021. Mortality of fruit flies (Diptera: 
+Tephritidae) exposed to spinetoram toxic bait in the laboratory. Journal of Advances in 
+Biology & Biotechnology 24(11):12-21. 
+Rodriguez, E. J., G. J. Steck, M. R. Moore, A. L. Norrbom, J. Diaz, L. A. Somma, R. Ruiz-Arce, B. 
+D. Sutton, N. Nolazco, and A. Muller. 2022. Exceptional larval morphology of nine species 
+of the Anastrepha mucronota species group (Diptera, Tephritidae). Zookeys (1127). 
+Rodriguez, E. J., G. J. Steck, M. R. Moore, A. L. Norrbom, B. D. Sutton, and M. A. Branham. 2021. 
+Description of larvae of Anastrepha amplidentata and Anastrepha durantae with review of 
+larval morphology of the fraterculus group (Diptera: Tephritidae). Proceedings of the 
+Entomological Society of Washington 123(1):169-189. 
+Ronchi-Teles, B., and N. M. Da Silva. 2005. Population fluctuation of Anastrepha Schiner (Diptera: 
+Tephritidae) species in Manaus Region, AM
+Text Len: 1149
+--------------------------------------------------------------------------------
+culus group (Diptera: Tephritidae). Proceedings of the 
+Entomological Society of Washington 123(1):169-189. 
+Ronchi-Teles, B., and N. M. Da Silva. 2005. Population fluctuation of Anastrepha Schiner (Diptera: 
+Tephritidae) species in Manaus Region, AM, Brazil. Neotropical Entomology 34(5):733-741. 
+Selivon, D., and A. L. P. Perondini. 1999. Description of Anastrepha sororcula and A. serpentina 
+(Diptera: Tephritidae) eggs. Florida Entomologist 82(2):347-353. 
+Shaw, J. G., M. Sanchez-Riviello, L. M. Spishakoff, P. Trujillo, and F. Loppez. 1967. Dispersal and 
+migration of tepa-sterilized Mexican fruit flies. Journal of Economic Entomology 60(4):992-
+994. 
+Silva, J. G., and A. Malavasi. 1993. The status of honeydew melon as a host of Anastrepha grandis 
+(Diptera: Tephritidae). Florida Entomologist 76(3):516-519. 
+Last update 23MAY2023 Anastrepha spp. 31 
+Sivinski, J. M., and G. Dodson. 1992. Sexual dimorphism in Anastrepha suspensa (Loew) and other 
+tephritid fruit flies (Diptera: Tephritidae): Possible roles of developmental rate, fecundity, 
+and dispersal. Journal of Insect Behavior 5(4):491-506. 
+Soto
+Text Len: 1118
+--------------------------------------------------------------------------------
+ J. M., and G. Dodson. 1992. Sexual dimorphism in Anastrepha suspensa (Loew) and other 
+tephritid fruit flies (Diptera: Tephritidae): Possible roles of developmental rate, fecundity, 
+and dispersal. Journal of Insect Behavior 5(4):491-506. 
+Soto-Manitiu, J., L. Jirón, and R. Hernandez. 1987. Chemical control and ecological observations of 
+fruit flies of the genus Anastrepha schiner (Diptera: Tephritidae) on mango. Turrialba 
+37(3):245-251. 
+Soto‐Manitiu, J., and L. F. Jirón. 1989. Studies on the population dynamics of the fruit flies, 
+Anastrepha (Diptera: Tephritidae) associated with mango (Mangifera indica L.) in Costa 
+Rica. International Journal of Pest Management 35(4):425-427. 
+Steck, G. J., L. E. Carroll, H. Celedonio-Hurtado, and J. Guillen-Aguilar. 1990. Methods for 
+identification of Anastrepha larvae (Diptera: Tephritidae), and key to 13 species. 
+Entomological Society of Washington. 333-346 pp. 
+Steck, G. J., E. J. Rodriguez, A. L. Norrbom, V. S. Dutra, B. Ronchi-Teles, and J. G. Silva. 2019. 
+Review of Anastrepha (Diptera: Tephritidae) immature stage taxonomy. Pages 57-88 in D. 
+Perez-Staples, F. Diaz-Fleischer,
+Text Len: 1143
+--------------------------------------------------------------------------------
+ Rodriguez, A. L. Norrbom, V. S. Dutra, B. Ronchi-Teles, and J. G. Silva. 2019. 
+Review of Anastrepha (Diptera: Tephritidae) immature stage taxonomy. Pages 57-88 in D. 
+Perez-Staples, F. Diaz-Fleischer, P. Montoya, and M. T. Vera, (eds.). Area-wide 
+management of fruit fly pests. CRC Press. 
+Telles-Romero, R., J. Toledo, E. Hernández, J. L. Qunitero-Fong, and L. Cruz-López. 2011. Effect 
+of temperature on pupa development and sexual maturity of laboratory Anastrepha obliqua 
+adults. Bulletin of Entomological Research 101(5):565-571. 
+Thomas, D. B. 2003. Reproductive phenology of the Mexican fruit fly, Anastrepha ludens (Loew) 
+(Diptera: Tephritidae) in the Sierra Madre Oriental, Northern Mexico. Neotropical 
+Entomology 32(3):385-397. 
+Thomas, D. B., and J. Loera-Gallardo. 1998. Dispersal and longevity of mass-released, sterilized 
+Mexican fruit flies (Diptera: Tephritidae). Environmental Entomology 27(4):1045-1052. 
+USDA-APHIS-PPQ. 2001. Identification of susceptible areas for the establishment of Anastrepha 
+spp. fruit flies in the United States and analysis of selected pathways. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and 
+Quarantine, Raleigh, NC. 47 pp. 
+US
+Text Len: 1241
+--------------------------------------------------------------------------------
+45-1052. 
+USDA-APHIS-PPQ. 2001. Identification of susceptible areas for the establishment of Anastrepha 
+spp. fruit flies in the United States and analysis of selected pathways. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and 
+Quarantine, Raleigh, NC. 47 pp. 
+USDA-APHIS-PPQ. 2021. Anastrepha spp. cooperative eradication program: Final programmatic 
+environmental assessment. United States Department of Agriculture, Animal and Plant 
+Health Inspection Service, Plant Protection and Quarantine, Riverdale, MD. 61 pp. 
+USDA-APHIS. 2001. Fruit fly cooperative control program: Final environmental impact statement. 
+United States Department of Agriculture, Animal and Plant Health Inspection Service, 
+Riverdale, MD. 256 pp. 
+USDA-APHIS. 2015a. National exotic fruit fly detection trapping guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 126 
+pp. 
+USDA-APHIS. 2015b. Systems approaches for managing the risk of citrus fruit in Texas during a 
+Mexican fruit fly outbreak. United States Department of Agriculture, Animal and Plant 
+Last update 23MAY2023 Anastrepha spp. 32 
+Health Inspection Service, Raleigh, NC. 61 pp. 
+USDA-APHIS. 2018. Fruit fly cooperative control program. Final programmatic environmental 
+impact statement. United States Department of Agriculture, Animal and Plant Health 
+Inspection Service, Riverdale, MD. 162 pp. 
+USDA-APHIS. 2020. Cooperative fruit fly emergency response triggers & guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 2 
+pp. 
+Weems, H
+Text Len: 1661
+--------------------------------------------------------------------------------
+ environmental 
+impact statement. United States Department of Agriculture, Animal and Plant Health 
+Inspection Service, Riverdale, MD. 162 pp. 
+USDA-APHIS. 2020. Cooperative fruit fly emergency response triggers & guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 2 
+pp. 
+Weems, H. V., Jr. 1963. Mexican fruit fly (Anastrepha ludens (Loew)) (Diptera: Tephritidae) 
+(Entomology Circular No. 16). Florida Department of Agriculture and Consumer Services, 
+Division of Plant Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 1965. Anastrepha suspensa (Loew) (Diptera: Tephritidae) (Entomology Circular 
+38). Florida Department of Agriculture, Division of Plant Industry, Gainesville, FL. 4 pp. 
+Weems, H. V., Jr. 1969. Anastrepha serpentina (Wiedemann) (Diptera: Tephritidae) (EENY-206). 
+Florida Department of Agriculture and Consumer Services, Division of Plant Industry, 
+Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 1982. Anastrepha striata Schiner (Diptera: Tephritidae) (Entomology Circular 
+No. 245). Florida Department of Agriculture and Consumer Services, Division of Plant 
+Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 2001. Sapote fruit fly, serpentine fruit fly, Anastrepha serpentina (Wiedemann) 
+(Insecta: Diptera: Tephritidae) (EENY-
+Text Len: 1313
+--------------------------------------------------------------------------------
+). Florida Department of Agriculture and Consumer Services, Division of Plant 
+Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 2001. Sapote fruit fly, serpentine fruit fly, Anastrepha serpentina (Wiedemann) 
+(Insecta: Diptera: Tephritidae) (EENY-206). University of Florida, Institute of Food and 
+Agricultural Sciences, Gainesville, FL. 3 pp. 
+Weems, H. V., Jr., and T. R. Fasulo. 2006. Guava fruit fly, Anastrepha striata Schiner (Insecta: 
+Diptera: Tephritidae) (EENY-265). University of Florida, Institute of Food and Agricultural 
+Sciences, Gainesville, FL. 4 pp. 
+Weems, H. V., Jr., J. B. Heppner, G. J. Steck, and T. R. Fasulo. 2012a. West Indian fruit fly, 
+Anastrepha obliqua (Macquart) (Insecta: Diptera: Tephritidae) (EENY198). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 5 pp. 
+Weems, H. V., Jr., J. B. Heppner, G. J. Steck, T. R. Fasulo, and J. L. Nation. 2012b. Mexican fruit 
+fly, Anastrepha ludens (Loew) (Insecta: Diptera: Tephritidae) (EENY-201). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 7 pp. 
+White, I. M., and M. M. Elson-Harris. 1992.
+Text Len: 1145
+--------------------------------------------------------------------------------
+ 2012b. Mexican fruit 
+fly, Anastrepha ludens (Loew) (Insecta: Diptera: Tephritidae) (EENY-201). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 7 pp. 
+White, I. M., and M. M. Elson-Harris. 1992. Fruit flies of economic significance: Their identification 
+and bionomics. CAB International, Wallingford, Uk. 601 pp. 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 33 
+Environmental Compliance  
+ 
+ 
+ 
+ 
+Introduction 
+Use Appendix A as a guide to environmental regulations pertinent to Anastrepha 
+spp. 
+Overview 
+Program managers of Federal emergency response or domestic pest control 
+programs must ensure that their programs comply with all Federal Acts and 
+Executive Orders pertaining to the environment, as applicable. Two primary 
+Federal Acts, the National Environmental Policy Act (NEPA) and the Endangered 
+Species Act (ESA), often require the development of significant documentation 
+before program actions may commence. APHIS, Policy and Program 
+Development, Environmental and Risk Analysis Services (ERAS) is available to 
+provide guidance to program managers and prepare drafts of applicable 
+environmental documentation. PPQ’s Compliance and Environmental 
+Coordination program assists ERAS in development of documents and 
+implements environmental monitoring. Program leadership is strongly advised to 
+consult with ERAS and/or the Compliance and Environmental Coordination 
+program early in the development of a program to conduct a preliminary review 
+of applicable environmental statutes and ensure timely compliance.  
+Environmental monitoring of APHIS pest control activities may be required as 
+part of compliance with environmental statutes, as requested
+Text Len: 1710
+--------------------------------------------------------------------------------
+plements environmental monitoring. Program leadership is strongly advised to 
+consult with ERAS and/or the Compliance and Environmental Coordination 
+program early in the development of a program to conduct a preliminary review 
+of applicable environmental statutes and ensure timely compliance.  
+Environmental monitoring of APHIS pest control activities may be required as 
+part of compliance with environmental statutes, as requested by program 
+managers, or as suggested to address concerns with controversial activities. 
+Monitoring may be conducted with regards to worker exposure, pesticide quality 
+assurance and control, off-site chemical deposition, or program efficacy. Different 
+tools and techniques are used depending on the monitoring goals and control 
+techniques used in the program. Staff from ECT will work with the program 
+manager to develop an environmental monitoring plan, conduct training to 
+implement the plan, provide day-to-day guidance on monitoring, and provide an 
+interpretive report of monitoring activities. 
+The following is a list of pertinent laws and Executive Orders: 
+Appendix 
+ 
+A 
+Last update 23MAY2023 Anastrepha spp. 34 
+National Environmental Policy Act (NEPA) – NEPA requires all Federal 
+agencies to examine whether their actions may significantly affect the quality of 
+the human environment. The purpose of NEPA is to inform the decision-maker 
+prior to taking action and to inform the public of the decision. Actions that are 
+excluded from this examination, actions that normally require an Environmental 
+Assessment, and actions that normally require Environmental Impact Statements 
+are codified in APHIS’ NEPA Implementing Procedures located in 7 CFR 372.5. 
+The three types of NEPA documentation are: 
+1. Categorical Exclusion 
+Categorical exclusions are classes of actions that do not have a significant
+Text Len: 1860
+--------------------------------------------------------------------------------
+ actions that normally require an Environmental 
+Assessment, and actions that normally require Environmental Impact Statements 
+are codified in APHIS’ NEPA Implementing Procedures located in 7 CFR 372.5. 
+The three types of NEPA documentation are: 
+1. Categorical Exclusion 
+Categorical exclusions are classes of actions that do not have a significant 
+effect on the quality of the human environment and for which neither an 
+environmental assessment (EA) nor an environmental impact statement 
+(EIS) is required. Generally, the means through which adverse 
+environmental impacts may be avoided or minimized have actually been 
+built into the actions themselves (see 7 CFR 372.5(c)). 
+2. Environmental Assessment (EA) 
+An EA is a public document that succinctly presents information and 
+analysis for the decision-maker of the proposed action. An EA can lead to 
+the preparation of an environmental impact statement (EIS), a finding of 
+no significant impact (FONSI), or the abandonment of a proposed action.  
+3. Environmental Impact Statement (EIS) 
+In the event that a major Federal action may significantly affect the quality 
+of the human environment (adverse or beneficial), or, the proposed action 
+may result in public controversy, an EIS is prepared.  
+Endangered Species Act (ESA) – This statute requires that programs consider 
+their potential effects on federally protected species. The ESA requires programs 
+to identify protected species and their habitat in or near program areas and 
+documentation of how adverse effects to these species will be avoided. The 
+documentation may require review and approval by the U.S. Fish and Wildlife 
+Service and the National Marine Fisheries Service before program activities can 
+begin. Knowingly violating this law can lead to criminal charges against 
+individual staff members
+Text Len: 1832
+--------------------------------------------------------------------------------
+to identify protected species and their habitat in or near program areas and 
+documentation of how adverse effects to these species will be avoided. The 
+documentation may require review and approval by the U.S. Fish and Wildlife 
+Service and the National Marine Fisheries Service before program activities can 
+begin. Knowingly violating this law can lead to criminal charges against 
+individual staff members and program managers. 
+Migratory Bird Treaty Act – This statute requires that programs avoid harm to 
+over 800 endemic bird species, eggs, and their nests. In some cases, permits may 
+be available to capture birds, which require coordination with the U.S. Fish and 
+Wildlife Service. 
+Last update 23MAY2023 Anastrepha spp. 35 
+Clean Water Act – This statute requires various permits for work in wetlands 
+and for potential discharges of program chemicals into water. This may require 
+coordination with the Environmental Protection Agency, individual states, and the 
+U.S. Army Corps of Engineers. Such permits would be required even if the 
+pesticide label allows for direct application to water. 
+Tribal Consultation – This Executive Order requires formal government to 
+government communication if a program might have substantial direct effects on 
+any federally-recognized Indian Nation. This process is often incorrectly included 
+as part of the NEPA process, but it must be completed prior to general public 
+involvement under NEPA. Staff should be cognizant of the conflict that could 
+arise when proposed federal actions intersect with tribal sovereignty. Tribal 
+consultation is designed to identify and avoid such potential conflict. 
+National Historic Preservation Act – This statute requires programs to consider 
+potential impacts on historic properties (such as buildings and archaeological 
+sites) and requires coordination with local State Historic Preservation Offices. 
+Documentation under
+Text Len: 1919
+--------------------------------------------------------------------------------
+ the conflict that could 
+arise when proposed federal actions intersect with tribal sovereignty. Tribal 
+consultation is designed to identify and avoid such potential conflict. 
+National Historic Preservation Act – This statute requires programs to consider 
+potential impacts on historic properties (such as buildings and archaeological 
+sites) and requires coordination with local State Historic Preservation Offices. 
+Documentation under this Act involves inventorying the project area for historic 
+properties and determining what effects, if any, the project may have on them. 
+This process may require public involvement and comment prior to the start of 
+program activities. 
+Coastal Zone Management Act – This statute requires coordination with states 
+where programs may impact Coastal Zone Management Plans. Federal activities 
+that may affect coastal resources are evaluated through a process called “federal 
+consistency”. This process allows the public, local governments, Tribes, and state 
+agencies an opportunity to review the federal action. The federal consistency 
+process is administered individually by states with Coastal Zone Management 
+Plans. 
+Environmental Justice – This Executive Order requires consideration of 
+program impacts on minority and economically disadvantaged populations. 
+Compliance is usually achieved within the NEPA documentation for a project. 
+Programs are required to consider if the actions might disproportionally impact 
+minority or economically disadvantaged populations, and if so, how such impact 
+will be avoided. 
+Protection of Children –This Executive Order requires federal agencies to 
+identify, assess, and address environmental health risks and safety risks that may 
+disproportionately affect children. If such a risk is identified, then measures must 
+be described and implemented to minimize such risks.  
+Last update 23MAY2023 Anastrepha spp. 36 
+ 
+Authors and Reviewers 
+ 
+Authors 
+Ish
+Text Len: 1951
+--------------------------------------------------------------------------------
+, assess, and address environmental health risks and safety risks that may 
+disproportionately affect children. If such a risk is identified, then measures must 
+be described and implemented to minimize such risks.  
+Last update 23MAY2023 Anastrepha spp. 36 
+ 
+Authors and Reviewers 
+ 
+Authors 
+Ishakh Pulakkatu-thodi, Ph.D., NCSU–CIPM 
+Lauren E. Quevillon, Ph.D., NCSU–CIPM 
+Jennifer C. Cook, Ph.D., NCSU–CIPM 
+ 
+Editor 
+Rosemary Hallberg, NCSU–CIPM 
+ 
+Reviewers 
+Maria Victoria Albarracin, Ph.D., USDA–APHIS–PPQ 
+Corinna Bazelet, Ph.D., USDA–APHIS–PPQ 
+Thomas Culliney, Ph.D., USDA–APHIS–PPQ 
+Guadalupe Gracia, USDA–APHIS–PPQ 
+Michelle L. Gray, USDA–APHIS–PPQ 
+Richard Johnson, Ph.D., USDA–APHIS–PPQ 
+Soo-Hoon S. Kim, Ph.D., USDA–APHIS–PPQ 
+Nicholas Manoukis, Ph.D., USDA–ARS–PWA 
+Douglas McPhie, Ph.D., USDA–APHIS–PPQ 
+Godshen Pallipparambil, Ph.D., NCSU–CIPM 
+Diana Pérez-Staples, Ph.D., Instituto de Biotecnología y Ecología Aplicada, 
+Universidad Veracruzana, Veracruz, Mexico 
+
+Text Len: 984
+--------------------------------------------------------------------------------
+–APHIS–PPQ 
+Godshen Pallipparambil, Ph.D., NCSU–CIPM 
+Diana Pérez-Staples, Ph.D., Instituto de Biotecnología y Ecología Aplicada, 
+Universidad Veracruzana, Veracruz, Mexico 
+Shaharra Usnick, Ph. D., USDA–APHIS–PPQ 
+ 
+Last update 23MAY2023 Anastrepha spp. 37 
+Contributors 
+Hui Fang, Ph.D., NCSU–CIPM 
+Global Pest and Disease Database Team 
+Text Len: 339
+--------------------------------------------------------------------------------
+ 
+ 
+New Pest Response Guidelines 
+Anastrepha spp. 
+ 
+ 
+Caribbean fruit fly, Anastrepha suspensa (Source: Florida Division of Plant Industry, FDACS, 
+Bugwood.org) 
+ 
+  
+
+Last update 23MAY2023 Anastrepha spp. 2 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the 
+basis of race, color, national origin, age, disability, and where applicable, sex, marital status, familial status, 
+parental status, religion, sexual orientation, genetic information, political beliefs, reprisal or because all or part of 
+an individual’s income is derived from any public assistance program. (Not all prohibited bases apply to all 
+programs.) Persons with disabilities who require alternative means for communication of program information 
+(Braille, large print, audiotape, etc.) should contact USDA’s TARGET center at (202) 720-2600 (voice and 
+TDD). To file a complaint of discrimination, write to USDA, Director, Office of Civil Rights, 1400 Independence 
+Avenue, SW, Washington, DC 20250-9410, or call (800) 795-3272 (voice) or (202) 720-6382 (TDD). USDA is 
+an equal opportunity provider and employer. 
+The opinions expressed by individuals in this report do not necessarily represent the policies of the U.S. 
+Department of Agriculture. 
+Mention of companies or commercial products does not imply recommendation or endorsement by the U.S. 
+Department of Agriculture over others not mentioned. USDA neither guarantees nor warrants the standard of 
+any
+Text Len: 1515
+--------------------------------------------------------------------------------
+ is 
+an equal opportunity provider and employer. 
+The opinions expressed by individuals in this report do not necessarily represent the policies of the U.S. 
+Department of Agriculture. 
+Mention of companies or commercial products does not imply recommendation or endorsement by the U.S. 
+Department of Agriculture over others not mentioned. USDA neither guarantees nor warrants the standard of 
+any product mentioned. Product names are mentioned solely to report factually on available data and to provide 
+specific information. 
+This publication reports research involving pesticides. All uses of pesticides must be registered by appropriate 
+state and/or federal agencies before they can be recommended. 
+CAUTION: Pesticides can be injurious to humans, domestic animals, desirable plants, and fish or other 
+wildlife—if they are not handled or applied properly. Use all pesticides selectively and carefully. Follow 
+recommended practices for the disposal of surplus pesticides and pesticide containers. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 3 
+Contents 
+ 
+Figures and Tables  ............................................................................................... 4 
+1. Introduction  ................................................................................................... 5 
+2. Pest Overview  ................................................................................................ 6 
+3. Pest Identification  ........................................................................................ 10 
+4. Delimitation Survey  ..................................................................................... 15 
+5. Eradication and Control Options  .............................................................. 22 
+Literature Cited  ................................................................................................. 26 
+Appendix A: Environmental Compliance   ...................................................... 33 
+Authors and Reviewers ...................................................................................... 36 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 4 
+Figures and Tables 
+ 
+Figures 
+Cover Caribbean fruit fly, Anastre
+Text Len: 2213
+--------------------------------------------------------------------------------
+ature Cited  ................................................................................................. 26 
+Appendix A: Environmental Compliance   ...................................................... 33 
+Authors and Reviewers ...................................................................................... 36 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 4 
+Figures and Tables 
+ 
+Figures 
+Cover Caribbean fruit fly, Anastrepha suspensa .......................................... 1 
+Figure 3-1 General appearance of four fruit fly genera; A. Anastrepha ludens; 
+B. Rhagoletis cerasi; C. Bactrocera dorsalis;  
+D. Ceratitis capitata ......................................................................... 11 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus and  
+A. striata ........................................................................................... 11 
+Figure 3-3 Adult female and wing venation of A. grandis, A. serpentina, A. 
+suspensa and A. obliqua ................................................................... 12 
+Figure 3-4 Eggs of Anastrepha spp, (top to bottom): A. ludens, A. serpentina 
+and A. obliqua .................................................................................. 12 
+Figure 3-5 A. Larva of Anastrepha sp.; B. Lateral view showing the mouth 
+hook.................................................................................................. 13 
+Figure 3-6 Anastrepha suspensa larvae on citrus fruit ...................................... 14 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. 
+with a designated core and four concentric buffer areas .................. 17 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to  
+delimit Anastrepha spp .................................................................... 18 
+Figure 4-
+Text Len: 1876
+--------------------------------------------------------------------------------
+...................................... 14 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. 
+with a designated core and four concentric buffer areas .................. 17 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to  
+delimit Anastrepha spp .................................................................... 18 
+Figure 4-3 Trapping in the core area requires 80 Multilure or McPhail traps ... 20  
+Figure 4-4 Expansion of the existing survey grid and trapping layout in the 
+event of additional detection in the buffer area ............................... 21 
+Tables 
+Table 4-1 Cooperative fruit fly emergency response triggers for  
+Anastrepha spp................................................................................. 16 
+Table 4-2 Details of area and total traps required to delimit Anastrepha spp.  
+in the core and designated buffer areas ............................................ 18 
+Table 5-1 Insecticides with efficacy for use against Anastrepha spp .............. 23 
+  
+Last update 23MAY2023 Anastrepha spp. 5 
+1. Introduction 
+ 
+ 
+ 
+ 
+ 
+Plant Protection and Quarantine (PPQ) develops New Pest Response Guidelines 
+(NPRGs) in preparation for potential pest introductions. This document is based 
+on the best information available at the time of development and may not reflect 
+the latest state of knowledge at the time the pest is detected. In addition, PPQ’s 
+response must be tailored to the specific circumstances of each pest introduction 
+event, which cannot be predicted. Therefore, this document provides only general 
+guidelines that can be used as a basis for developing a situation-specific response 
+plan at the time a new pest is detected. 
+Program managers of Federal emergency response or domestic
+Text Len: 1795
+--------------------------------------------------------------------------------
+ detected. In addition, PPQ’s 
+response must be tailored to the specific circumstances of each pest introduction 
+event, which cannot be predicted. Therefore, this document provides only general 
+guidelines that can be used as a basis for developing a situation-specific response 
+plan at the time a new pest is detected. 
+Program managers of Federal emergency response or domestic pest control 
+programs must ensure that their programs comply with all Federal Acts and 
+Executive Orders pertaining to the environment, as applicable. Refer to the 
+Environmental Compliance section in Appendix A for details. 
+ 
+ 
+Chapter 
+ 
+1 
+This document is intended to cover all Anastrepha spp. excluding A. ludens. 
+Anastrepha ludens is referenced in this document only for comparison 
+purposes. For additional information about A. ludens, refer to the Mexican 
+fruit fly program website. For more information about other fruit fly 
+programs, refer to the USDA fruit fly exclusion and detection program 
+website. 
+Last update 23MAY2023 Anastrepha spp. 6 
+2. Pest Overview 
+ 
+ 
+ 
+ 
+Key Information 
+♦ Fruit flies of the genus Anastrepha are among the most damaging endemic 
+fruit flies in the Americas. 
+♦ Anastrepha fraterculus, A. ludens, A. obliqua, A. serpentina, and A. striata 
+are widely distributed throughout Mexico and Central and South America. 
+Anastrepha grandis is native to South America, and A. suspensa is found 
+in the Caribbean and established in Florida. 
+♦ Anastrepha spp. are estimated to cause losses of 25-80% in various crops 
+in Central and South America.
+Text Len: 1568
+--------------------------------------------------------------------------------
+ A. striata 
+are widely distributed throughout Mexico and Central and South America. 
+Anastrepha grandis is native to South America, and A. suspensa is found 
+in the Caribbean and established in Florida. 
+♦ Anastrepha spp. are estimated to cause losses of 25-80% in various crops 
+in Central and South America. 
+♦ Anastrepha spp. can have one or more generations per year. Adult 
+populations peak when host fruiting peaks. 
+♦ Anastrepha spp. primarily spread as adults through flight or as larvae 
+through movement of infested fruit.  
+♦ For the majority of Anastrepha spp., identification is morphological and 
+based primarily on female ovipositor characteristics and wing patterns. 
+♦ Several insecticides offer close to 100% control; bait sprays containing 
+malathion or spinosad insecticides are recommended for eradication. 
+ 
+Taxonomy 
+The genus Anastrepha has more than 300 recognized species belonging to 27 
+species groups (Norrbom, 2022; Norrbom et al., 2018; Rodriguez et al., 2022; 
+Steck et al., 2019). 
+Taxonomic Position 
+♦ Arthropoda : Insecta : Diptera : Tephritidae 
+ 
+Chapter 
+ 
+2 
+Last update 23MAY2023 Anastrepha spp. 7 
+Distribution and Impact 
+Fruit flies of the genus Anastrepha are among the most damaging endemic fruit 
+flies in the Americas (Aluja, 1994; Norrbom and Foote, 1989). Anastrepha spp. 
+are major pests of commercially important fruit, such as mango, citrus, and guava 
+(Baker et al., 1944). The genus has
+Text Len: 1443
+--------------------------------------------------------------------------------
+ 
+Fruit flies of the genus Anastrepha are among the most damaging endemic fruit 
+flies in the Americas (Aluja, 1994; Norrbom and Foote, 1989). Anastrepha spp. 
+are major pests of commercially important fruit, such as mango, citrus, and guava 
+(Baker et al., 1944). The genus has about a dozen economically important species 
+(Aluja, 1994; Steck et al., 2019; White and Elson-Harris, 1992); these species 
+cause losses in Central and South America of 25 to 80% on average (Enkerlin et 
+al., 1989; Soto-Manitiu et al., 1987; Gonzalez et al, 2002, cited by Pérez Chávez 
+et al., 2008). 
+Among the economically important species, A. fraterculus, A. striata, A. 
+serpentina, A. obliqua and A. distincta are distributed throughout Mexico and 
+Central and South America (Norrbom and Foote, 1989; Steck et al., 1990). 
+Anastrepha ludens is distributed primarily in Mexico and areas of higher 
+elevations in Central America (Norrbom and Foote, 1989). Anastrepha grandis is 
+native to South America (Silva and Malavasi, 1993), and A. suspensa is native to 
+the Caribbean and established in Florida (Enkerlin et al., 1989; Greany and 
+Riherd, 1993). Anastrepha curvicauda is present in Mexico, the United States 
+(Florida and Texas), and Central and South America (Norrbom et al., 2018).  
+ 
+Biology and Ecology 
+Life Cycle 
+The general life cycle and basic biology of Anastrepha fruit
+Text Len: 1374
+--------------------------------------------------------------------------------
+., 1989; Greany and 
+Riherd, 1993). Anastrepha curvicauda is present in Mexico, the United States 
+(Florida and Texas), and Central and South America (Norrbom et al., 2018).  
+ 
+Biology and Ecology 
+Life Cycle 
+The general life cycle and basic biology of Anastrepha fruit flies are similar 
+among species (Aluja, 1994; Aluja et al., 2001; Christenson and Foote, 1960). 
+However, developmental times vary and depend on the fly species, host and 
+environmental conditions (Baker et al., 1944). Lower temperatures and less 
+favorable hosts prolong developmental time among several species (Aluja, 1994; 
+Leyva et al., 1991; Bolzan et al., 2017; Telles-Romero et al., 2011; Bolzan et al., 
+2015). Anastrepha spp. have one or more generations per year (Aluja, 1994; dos 
+Santos et al., 2017; Weems et al., 2012a; Garcia et al., 2003). Adult populations 
+peak when host fruiting peaks (Celedonio-Hurtado et al., 1995; Soto‐Manitiu and 
+Jirón, 1989; dos Santos et al., 2017; Ronchi-Teles and Da Silva, 2005; Hedström, 
+1991). Diapause has not been reported in any Anastrepha spp. (Aluja et al., 2001). 
+Eggs 
+Most Anastrepha spp. lay eggs in mature or ripe fruit (Aluja et al., 2003; Baker et 
+al., 1944; Malavasi et al., 1983; Weems, 1969). Eggs are typically inserted in fruit 
+Last update 23MAY20
+Text Len: 1292
+--------------------------------------------------------------------------------
+repha spp. (Aluja et al., 2001). 
+Eggs 
+Most Anastrepha spp. lay eggs in mature or ripe fruit (Aluja et al., 2003; Baker et 
+al., 1944; Malavasi et al., 1983; Weems, 1969). Eggs are typically inserted in fruit 
+Last update 23MAY2023 Anastrepha spp. 8 
+skin or pulp, but some species, such as A. hamata, deposit eggs inside developing 
+seeds (Aluja et al., 2001). Eggs can be laid singly (e.g., A. obliqua) or in clutches 
+of up to 110 eggs (e.g., A. grandis), with clutch size dependent on fly species and 
+fruit size/ripeness (Aluja et al., 2014; Aluja et al., 2001; Leyva et al., 1991). 
+Females may produce hundreds of eggs during their lifetime (Bisognin et al., 
+2015; Bolzan et al., 2015); for example, A. ludens has laid up to 1,400 eggs under 
+laboratory conditions (Carey et al., 2005). Under favorable temperatures (73oF– 
+82oF), Anastrepha eggs hatch in 2–9 days (Leyva et al., 1991; Bolzan et al., 2017; 
+Dias and Lucky, 2017; Celedonio-Hurtado et al., 1988). 
+Larvae 
+Larvae develop inside fruit, consuming pulp and/or seeds (Aluja et al., 2001; 
+Morgante et al., 1996; Plummer et al., 1941). They typically exit the fruit after it 
+has fallen to the ground to pupate in soil, but some larvae may exit while
+Text Len: 1220
+--------------------------------------------------------------------------------
+Hurtado et al., 1988). 
+Larvae 
+Larvae develop inside fruit, consuming pulp and/or seeds (Aluja et al., 2001; 
+Morgante et al., 1996; Plummer et al., 1941). They typically exit the fruit after it 
+has fallen to the ground to pupate in soil, but some larvae may exit while the fruit 
+is still on the tree (Aluja et al., 2001). The larval period generally lasts between 2–
+4 weeks (Leyva et al., 1991; Weems et al., 2012b; Celedonio-Hurtado et al., 1988; 
+Weems, 1965; Dias and Lucky, 2017; Lawrence, 1979; Bolzan et al., 2017). 
+Pupae 
+Pupation typically occurs in soil at a depth of 1–2 inches (Aluja et al., 2001; 
+Hodgson et al., 1998). Pupal development takes a variable amount of time 
+depending on the species and temperature (Aluja et al., 2014; Bolzan et al., 2017; 
+Telles-Romero et al., 2011). Some species may overwinter as pupae (McGrath et 
+al., 2021; Thomas, 2003). 
+Adults 
+Adult fruit flies typically emerge during morning hours (Aluja, 1994; Aluja et al., 
+1993). After emergence, adults rest and feed on carbohydrate and protein sources 
+(e.g., plant sap, rotting fruit, aphid honeydew) before becoming sexually mature 
+(Aluja, 1994; Christenson and Foote, 1960). Females can reach sexual maturity 
+within 7–20 days (Aluja et al., 2009; Dias et al., 2017; Dickens et al., 1982; 
+Martínez et
+Text Len: 1307
+--------------------------------------------------------------------------------
+
+(e.g., plant sap, rotting fruit, aphid honeydew) before becoming sexually mature 
+(Aluja, 1994; Christenson and Foote, 1960). Females can reach sexual maturity 
+within 7–20 days (Aluja et al., 2009; Dias et al., 2017; Dickens et al., 1982; 
+Martínez et al., 1995). Males of most Anastrepha spp. aggregate in non-host trees 
+to compete for females (lekking behavior) (Aluja, 1994; Aluja et al., 1993; Aluja 
+et al., 2001). However, in at least one monophagous species (A. bistrigata), males 
+patrol host fruit for mating opportunities (Morgante et al., 1993). Egg laying can 
+begin shortly after mating (Thomas, 2003). Daily activities (e.g., resting, feeding, 
+mating, and oviposition) occur in species-specific patterns, but the timing of these 
+behaviors also varies according to environmental conditions, with adults generally 
+resting among foliage during the hottest part of the day (Aluja, 1994; Aluja et al., 
+1993; Aluja et al., 2001; Malavasi et al., 1983). Longevity is highly variable 
+among species (Aluja et al., 2001), but A. ludens adults have been recorded living 
+Last update 23MAY2023 Anastrepha spp. 9 
+for as long as 12 months in the field (Shaw et al., 1967). 
+ 
+Hosts 
+The Global Pest and Disease Database (GPDD) provides host lists of various fruit 
+fly species. Host lists of the following Anastrepha spp. are available at the links 
+below.
+Text Len: 1365
+--------------------------------------------------------------------------------
+23 Anastrepha spp. 9 
+for as long as 12 months in the field (Shaw et al., 1967). 
+ 
+Hosts 
+The Global Pest and Disease Database (GPDD) provides host lists of various fruit 
+fly species. Host lists of the following Anastrepha spp. are available at the links 
+below.  
+♦ Anastrepha curvicauda 
+♦ Anastrepha distincta 
+♦ Anastrepha fraterculus 
+♦ Anastrepha grandis 
+♦ Anastrepha ludens 
+♦ Anastrepha obliqua 
+♦ Anastrepha serpentina 
+♦ Anastrepha striata 
+♦ Anastrepha suspensa 
+ 
+Dispersal 
+Human-Assisted Spread 
+Human-assisted spread of Anastrepha spp. primarily occurs by the transport of 
+infested fruit through trade or travel (Weems, 1965; EFSA, 2021; USDA-APHIS-
+PPQ, 2001). Pupae in soil or packaging of fruit-bearing trees can also transport 
+the pest to new areas (USDA-APHIS-PPQ, 2001).  
+Natural Dispersal 
+Members of the genus Anastrepha have varying dispersal capabilities. Prevailing 
+winds aid Anastrepha dispersal and orientation (Baker and Chan, 1991; Baker et 
+al., 1986). Anastrepha ludens can fly up to 23 miles within a year, but typically 
+flies between 3 and 5 miles (Shaw et al., 1967), with a short-range dispersal of 
+0.15 miles (Thomas and Loera-Gallardo, 1998). Similarly, A. obliqua, A. 
+fraterculus, and
+Text Len: 1233
+--------------------------------------------------------------------------------
+ 1986). Anastrepha ludens can fly up to 23 miles within a year, but typically 
+flies between 3 and 5 miles (Shaw et al., 1967), with a short-range dispersal of 
+0.15 miles (Thomas and Loera-Gallardo, 1998). Similarly, A. obliqua, A. 
+fraterculus, and A. suspensa have a general short-range dispersal of less than 0.2 
+miles (Hernández et al., 2007; Kendra et al., 2010; Kovaleski et al., 1999). The 
+maximum reported dispersal range for A. fraterculus and A. obliqua is 0.6 miles 
+within 3–5 weeks (Kovaleski et al., 1999; Soto‐Manitiu and Jirón, 1989).  
+  
+Last update 23MAY2023 Anastrepha spp. 10 
+3. Pest Identification  
+ 
+ 
+ 
+ 
+Species ID/Diagnostic 
+Morphological  
+Adults 
+Adult Anastrepha are predominantly yellowish-brown flies, slightly larger than a 
+house fly, with a wingspan of 0.24–0.35 inches depending on the species. The 
+genus Anastrepha differs from other fruit fly genera by wing venation characters, 
+yellow and brown banding on the wings and body, and the shape and length of the 
+ovipositor (Fig. 3-1) (Weems, 1965, 1969, 1982; Weems and Fasulo, 2006; 
+Weems, 2001). Typically, most species have an inverted 'V'-shaped marking on 
+the outer half of the wings (Figs. 3-2, 3-3) (Norrbom
+Text Len: 1209
+--------------------------------------------------------------------------------
+ shape and length of the 
+ovipositor (Fig. 3-1) (Weems, 1965, 1969, 1982; Weems and Fasulo, 2006; 
+Weems, 2001). Typically, most species have an inverted 'V'-shaped marking on 
+the outer half of the wings (Figs. 3-2, 3-3) (Norrbom and Foote, 1989; Weems et 
+al., 2012a; Weems et al., 2012b). Females are generally larger than males (Dias 
+and Lucky, 2017; Sivinski and Dodson, 1992). Identification to the species level 
+is based primarily on adult female ovipositor characteristics and wing venation 
+and banding (Dias and Lucky, 2017; Weems, 1963; Weems, 1965, 1982; Weems, 
+1969, 2001; Norrbom et al., 2019; White and Elson-Harris, 1992).  
+ 
+Chapter 
+ 
+3 
+Last update 23MAY2023 Anastrepha spp. 11 
+ 
+Figure 3-1 General appearance of four fruit fly genera; A. Anastrepha ludens; B. 
+Rhagoletis cerasi; C. Bactrocera dorsalis; D. Ceratitis capitata. Note the differences in the 
+wing banding among major genera (Source: Taina Litwak, USDA-ARS, Bugwood.org; 
+Arthur D. Cushman, USDA; IAEA imagebank; G. Georgen, IITA). 
+ 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus, and A. striata. 
+The inverted ‘V-shaped’ marking on the wing is indicated with an arrow (Source:
+Text Len: 1191
+--------------------------------------------------------------------------------
+Arthur D. Cushman, USDA; IAEA imagebank; G. Georgen, IITA). 
+ 
+Figure 3-2 Adult female and wing venation of A. ludens, A. fraterculus, and A. striata. 
+The inverted ‘V-shaped’ marking on the wing is indicated with an arrow (Source: Taina 
+Litwak, USDA-ARS; A. Norrbom et al., USDA-APHIS-PPQ, Bugwood.org). 
+
+Last update 23MAY2023 Anastrepha spp. 12 
+ 
+Figure 3-3 Adult female and wing venation of A. grandis, A. serpentina, A. suspensa, 
+and A. obliqua. The inverted ‘V-shaped’ marking on the wing, when visible, is indicated 
+with an arrow (Source: Taina Litwak, USDA–ARS, A. Norrbom et al., USDA–APHIS–
+PPQ, Bugwood.org). 
+Eggs 
+Eggs of Anastrepha spp. are very small, white and spindle-shaped, wider towards 
+the front and tapering towards the rear (Fig. 3-4) (Emmart, 1933; Lawrence, 1979; 
+Selivon and Perondini, 1999).  
+ 
+Figure 3-4 Eggs of Anastrepha spp., (top to bottom): A. ludens, A. serpentina, and A. 
+obliqua (Source: A. Norrbom et al., USDA–APHIS–PPQ, Bugwood.org) 
+Larvae 
+Larvae are typically cylindrical and pale yellow and have a pair of well-developed 
+mouth hooks (
+Text Len: 1087
+--------------------------------------------------------------------------------
+., (top to bottom): A. ludens, A. serpentina, and A. 
+obliqua (Source: A. Norrbom et al., USDA–APHIS–PPQ, Bugwood.org) 
+Larvae 
+Larvae are typically cylindrical and pale yellow and have a pair of well-developed 
+mouth hooks (Fig. 3-5). Third instar larvae are usually 0.35–0.47 inches in length. 
+Identification of several Anastrepha spp. by larval features is possible using 
+scanning electron microscopy (Weems, 2001; Steck et al., 1990; Dutra et al., 
+2018a; Dutra et al., 2018b; Rodriguez et al., 2022; Rodriguez et al., 2021). 
+
+Last update 23MAY2023 Anastrepha spp. 13 
+ 
+Figure 3-5 A. Larva of Anastrepha sp.; B. Lateral view showing the mouth hook 
+(Sources: Pedro Rendon, USDA–APHIS; Gary Steck, Florida Division of Plant Industry) 
+Pupae 
+Pupae are brown and cylindrical, measuring about 0.15–0.31 inches in length and 
+up to 0.11 inches in diameter depending upon the species (Greene, 1929). 
+Molecular 
+Molecular identification of some Anastrepha spp. can be done through DNA 
+sequencing of the COI gene (Barr et al., 2018) or a portion of the ITS2 gene (Barr 
+et al., 2017). 
+ 
+Signs and Symptoms 
+External signs of fruit fly infestation include oviposition punctures, but these may 
+
+Last update 23MAY2023 Anastrepha spp. 14 
+
+Text Len: 1240
+--------------------------------------------------------------------------------
+sequencing of the COI gene (Barr et al., 2018) or a portion of the ITS2 gene (Barr 
+et al., 2017). 
+ 
+Signs and Symptoms 
+External signs of fruit fly infestation include oviposition punctures, but these may 
+
+Last update 23MAY2023 Anastrepha spp. 14 
+be difficult to detect during early infestation (EFSA, 2021). The most obvious 
+sign of infestation is the presence of larvae inside the fruit and exit holes on the 
+fruit (Fig. 3-6). Anastrepha ludens infestation may change the color of grapefruit 
+(Baker et al., 1944). 
+ 
+Figure 3-6 Anastrepha suspensa larvae in citrus fruit (Source: Florida Division of Plant 
+Industry) 
+  
+
+Last update 23MAY2023 Anastrepha spp. 15 
+4. Delimitation Survey 
+ 
+ 
+ 
+ 
+Introduction 
+Delimitation surveys are used to determine the extent of the infested area after a 
+detection has been confirmed. The criteria for initiating a delimitation survey are 
+determined by the specific response triggers for Anastrepha spp. developed by 
+USDA-APHIS Fruit Fly Exclusion and Detection Program (see Emergency 
+Response Triggers). Refer to the USDA-APHIS Fruit Fly Exclusion and 
+Detection Program Website for updated information regarding quarantine 
+information, program updates and reviews, and additional resources. 
+ 
+Delimitation Area 
+The standard delimitation area for Anastrepha spp. is a 9 x 9-mile square grid (81 
+square miles) around the initial detection. The delimitation area will be expanded 
+if there are additional detections within the original
+Text Len: 1489
+--------------------------------------------------------------------------------
+ for updated information regarding quarantine 
+information, program updates and reviews, and additional resources. 
+ 
+Delimitation Area 
+The standard delimitation area for Anastrepha spp. is a 9 x 9-mile square grid (81 
+square miles) around the initial detection. The delimitation area will be expanded 
+if there are additional detections within the original 9 x 9-mile delimitation area 
+(USDA-APHIS, 2015b). 
+ 
+Survey Considerations 
+Surveyors will need to consider the potential challenges when adjusting this 
+survey to fit highly developed urban or residential landscapes with few suitable or 
+accessible trapping sites. Optimize the likelihood of capture by placing traps 
+within or around host plants or in green areas near high-risk introduction points. 
+High-risk areas will often include airports, warehouses, nurseries, or other sites 
+that are likely to move high volumes of fresh produce and other products that can 
+carry pests. Surveying around these high-risk areas will require on the ground 
+assessments for access and site suitability as well as permissions from property 
+owners to place and maintain traps.  
+ 
+Chapter 
+ 
+4 
+Last update 23MAY2023 Anastrepha spp. 16 
+Emergency Response Triggers 
+Anastrepha spp. are regulated pests, and their detection will trigger delimitation, 
+quarantine, and/or eradication responses. The triggers for emergency response 
+activities in the event of an Anastrepha spp. detection are given in Table 4-1.  
+Table 4-1 Cooperative fruit fly emergency response triggers for Anastrepha spp. 
+(USDA-APHIS, 2020) 
+Pest Species Trigger for 
+Delimitation 
+Duration of 
+
+Text Len: 1618
+--------------------------------------------------------------------------------
+ The triggers for emergency response 
+activities in the event of an Anastrepha spp. detection are given in Table 4-1.  
+Table 4-1 Cooperative fruit fly emergency response triggers for Anastrepha spp. 
+(USDA-APHIS, 2020) 
+Pest Species Trigger for 
+Delimitation 
+Duration of 
+Delimitation 
+Trigger for 
+Eradication 
+Trigger for 
+Quarantine 
+Anastrepha spp. 1 fly 3 generations 
+2 flies within a 
+3-mile radius 
+during 1 life 
+cycle 
+2–5 flies (based 
+on risk 
+assessment) 
+within a 3-mile 
+radius during 1 
+life cycle 
+Mated female of 
+any genus and 
+species of fruit fly 
+presumed or 
+known to be 
+mated to a wild 
+male; a larva or 
+pupa 
+1 mated female 
+or immature 
+stage 
+3 generations 
+1 mated female 
+or immature 
+stage 
+1 mated female 
+or immature 
+stage 
+ 
+Timing of Surveys 
+Start delimitation surveys immediately after detecting a single wild fly, mated 
+female, or immature stages of any Anastrepha spp. (see Emergency Response 
+Triggers). A buffer area around the site should be established within 72 hours 
+following confirmation of the initial detection. Delimitation surveys should 
+continue for at least three life cycles based on the degree day requirements of the 
+detected Anastrepha spp. (USDA-APHIS, 2020).  
+ 
+Survey Techniques for Delimitation 
+Trapping 
+Trapping using Multilure traps or McPhail
+Text Len: 1317
+--------------------------------------------------------------------------------
+
+following confirmation of the initial detection. Delimitation surveys should 
+continue for at least three life cycles based on the degree day requirements of the 
+detected Anastrepha spp. (USDA-APHIS, 2020).  
+ 
+Survey Techniques for Delimitation 
+Trapping 
+Trapping using Multilure traps or McPhail traps is the primary method for 
+detection and delimitation of adult Anastrepha spp. Multilure traps are baited with 
+the two-component (2C) lure of ammonium acetate and putrescine. When 
+McPhail traps are used, bait with torula yeast pellets or a liquid mixture of Nu-
+Lure, borax, and water (USDA-APHIS, 2015a, 2015b). Refer to the National 
+Exotic Fruit Fly Detection Trapping Guidelines for detailed instructions on the 
+preparation of attractant bait mixtures and trap setup. 
+Last update 23MAY2023 Anastrepha spp. 17 
+Trap Density 
+The recommended delimitation survey design for Anastrepha spp. consists of a 1 
+square mile core area around the initial detection, surrounded by four concentric 
+buffer areas comprising a total of 81 square miles (Fig. 4-1). Place traps in the 
+core and four buffer areas with an 80-40-20-10-5 array of traps per square mile 
+(Table 4-2) (USDA-APHIS, 2015b). 
+Trap Placement 
+Whenever possible, traps should be placed on host trees (see Hosts), in the upper 
+two-thirds of the canopy (Fig. 4-2a). Prioritize host trees with mature or ripe fruits 
+when placing traps. Hang traps near ripe or ripening
+Text Len: 1439
+--------------------------------------------------------------------------------
+Table 4-2) (USDA-APHIS, 2015b). 
+Trap Placement 
+Whenever possible, traps should be placed on host trees (see Hosts), in the upper 
+two-thirds of the canopy (Fig. 4-2a). Prioritize host trees with mature or ripe fruits 
+when placing traps. Hang traps near ripe or ripening fruits and foliage, but do not 
+place in dense foliage that may block the trap entrance (Fig 4-2b). Hang traps 
+high enough so that they are out of reach (Fig. 4-2c). Distribute traps evenly based 
+on the host tree distribution (USDA-APHIS, 2015a). 
+ 
+ 
+Figure 4-1 Standard 9 x 9 square mile delimitation area for Anastrepha spp. with a 
+designated core and four concentric buffer areas 
+ 
+  
+
+Last update 23MAY2023 Anastrepha spp. 18 
+Table 4-2 Details of area and total traps required to delimit Anastrepha spp. infestation 
+in the core and designated buffer areas 
+Delimitation Area Total Square Miles # Traps per Square 
+Mile 
+Total Traps 
+Core 1 80 80 
+1st buffer area 8 40 320 
+2nd buffer area 16 20 320 
+3rd buffer area 24 10 240 
+4th buffer area 32 5 160 
+Total 81 NA 1120 
+ 
+ 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to delimit 
+Anastrepha spp. infestation 
+
+Last update 23MAY2023 Anastrepha spp. 19 
+Fruit Sampling 
+Fruit sampling is required to determine if the detected species has started 
+reproducing in the area. Randomly
+Text Len: 1342
+--------------------------------------------------------------------------------
+ 
+Figure 4-2 Best practices for placing traps in the core and buffer areas to delimit 
+Anastrepha spp. infestation 
+
+Last update 23MAY2023 Anastrepha spp. 19 
+Fruit Sampling 
+Fruit sampling is required to determine if the detected species has started 
+reproducing in the area. Randomly collect 100 or more preferred host fruits (if 
+available, see Hosts) from the initial detection site and visually inspect for 
+possible signs of oviposition. If there are no visible signs, cut open the fruits and 
+inspect for larval presence. Take care not to miss any early larval instars that 
+might be feeding immediately under the skin of fruits. If two or more flies are 
+trapped in the vicinity, fruit inspection may be expanded to cover all preferred 
+host trees within a 656 ft (200 m) radius of detection. Fruit should not be moved 
+from the site of detection during inspection and sampled fruits must be destroyed 
+(see Fruit Removal) (USDA-APHIS, 2015b; USDA-APHIS-PPQ, 2021). 
+ 
+Delimitation Survey 
+To delimit Anastrepha spp. infestation using a core and buffer grid design: 
+1. Identify and survey the core area. 
+a. Using a map or mapping software, establish a one-square mile core 
+area around the initial detection site (Fig. 4-3). 
+b. Place 80 traps in the core area. Increase existing trap density to 80 
+traps/square mile, for example, if there are already five traps in the 
+area, add 75 more to achieve a total of 80 traps in the area. 
+Last update 23MAY2023 Anastrepha spp. 20 
+ 
+Figure
+Text Len: 1495
+--------------------------------------------------------------------------------
+-3). 
+b. Place 80 traps in the core area. Increase existing trap density to 80 
+traps/square mile, for example, if there are already five traps in the 
+area, add 75 more to achieve a total of 80 traps in the area. 
+Last update 23MAY2023 Anastrepha spp. 20 
+ 
+Figure 4-3 Trapping in the core area requires 80 traps.  
+ 
+c. Distribute the traps evenly throughout the core area based on the host 
+tree distribution patterns (see Trap Placement). 
+d. If multiple flies are detected within the existing core area, do not 
+expand the core area. 
+e. If an additional detection is made outside the initial core area, establish 
+a new core area around the detection with 80 traps per square mile. 
+f. Service traps daily for the first week following detection. If there are 
+no additional detections, service traps weekly and keep in place 
+according to the guidelines in Timing of Surveys. 
+2. Identify and survey the buffer area 
+a. Using a map or mapping software, establish four concentric buffer 
+areas moving outward from the core. 
+b. Place traps with a density of 40-20-10-5 traps per square mile in 
+successive buffer areas, moving outward from the core (Table 4-2). 
+c. Distribute the traps evenly throughout the buffer area based on the host 
+tree distribution patterns (see Trap Placement).  
+d. If no new detections are made in the core or buffer areas, continue 
+delimitation survey for three generations of the detected Anastrepha 
+spp.  
+ 
+
+Last update 23MAY2023 Anastrepha spp. 21 
+Survey Grid Modification
+Text Len: 1514
+--------------------------------------------------------------------------------
+ 
+tree distribution patterns (see Trap Placement).  
+d. If no new detections are made in the core or buffer areas, continue 
+delimitation survey for three generations of the detected Anastrepha 
+spp.  
+ 
+
+Last update 23MAY2023 Anastrepha spp. 21 
+Survey Grid Modification 
+If an additional adult fruit fly is detected during the trapping period in the buffer 
+area: 
+a. Increase the trap density to 80 traps per square mile around the new 
+detection site. 
+b. Expand and modify the existing trap array to align with the new core 
+(Fig. 4-4) and adjust trapping densities in the new buffer area.  
+c. Service the traps in the new core twice weekly and service traps in the 
+buffer areas weekly. Keep traps in place according to the guidelines in 
+Timing of Surveys. 
+ 
+Figure 4-4 Expansion of the existing survey grid and trapping layout if an additional 
+detection occurs in the buffer area 
+  
+
+Last update 23MAY2023 Anastrepha spp. 22 
+5. Eradication and Control 
+Options 
+ 
+ 
+ 
+Overview 
+This information can be used by PPQ decision-makers after an eradication or 
+quarantine-triggering detection to determine the best course of action to eradicate 
+the incursion of Anastrepha spp. most expeditiously. The efficacy and feasibility 
+of each control option will depend on the pest situation at the time of detection. 
+Factors, such as where the pest is detected (i.e., natural or urban environments, 
+agricultural crops, greenhouses), how widespread the pest is, the climatic region, 
+the time of year, the
+Text Len: 1508
+--------------------------------------------------------------------------------
+pp. most expeditiously. The efficacy and feasibility 
+of each control option will depend on the pest situation at the time of detection. 
+Factors, such as where the pest is detected (i.e., natural or urban environments, 
+agricultural crops, greenhouses), how widespread the pest is, the climatic region, 
+the time of year, the phenology of the hosts, and current practices already in 
+place, contribute to determining whether a particular control option is appropriate. 
+ 
+Eradication and Control Options 
+A combination of the following mitigation options can be used in a systems 
+approach to eradicate Anastrepha spp. These protocols are based on the USDA-
+APHIS preferred alternative for the eradication of these fruit flies (USDA-
+APHIS-PPQ, 2021). Mitigation options include: 
+♦ Host fruit removal to target immature stages. 
+♦ Chemical control using insecticide-based foliar bait spray treatments to 
+target adults and soil drenching with insecticide to prevent larvae or 
+pupae maturing to adults. 
+♦ Regulatory quarantine procedures to prevent the spread of Anastrepha 
+spp. 
+Public Notification 
+Before the eradication process begins, inform the public and potentially affected 
+industries about the eradication and quarantine process via press releases, 
+meetings, or any other appropriate forms of communication. Notify residents, 
+owners or operators of groves, vendors, nurseries, and other related industries 
+whose property will be impacted at least 48 hours in advance of treatment or fruit 
+removal (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Chapter 
+ 
+5 
+Last update 23MAY2023 Anastrepha spp. 23 
+Fruit Removal 
+Strip
+Text Len: 1636
+--------------------------------------------------------------------------------
+, and other related industries 
+whose property will be impacted at least 48 hours in advance of treatment or fruit 
+removal (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Chapter 
+ 
+5 
+Last update 23MAY2023 Anastrepha spp. 23 
+Fruit Removal 
+Strip all host fruits within a 656 ft (200 m) radius of the site where the 
+eradication-triggering detection(s) occurred. Destroy stripped host fruits either by 
+bagging in heavy-duty plastic bags, burying them at an approved landfill at least 
+one foot deep, or by incineration (USDA-APHIS, 2001, 2018).  
+Chemical Control Options 
+Insecticide classes listed in Table 5-1 are reported to be effective against various 
+Anastrepha spp. Insecticides in the table are registered in the United States, 
+although some are not registered for use against fruit flies.  
+ 
+Table 5-1 Insecticides with efficacy for use against Anastrepha spp.1 
+IRAC Insecticide 
+Class (Mode of 
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+Carbamates (1A) methomyl** A. suspensa applied as a 
+bait station 
+98% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+dimethoate* A. suspensa applied as a 
+bait station 
+99% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+malathion* A. fraterculus; 
+A. grand
+Text Len: 1259
+--------------------------------------------------------------------------------
+% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+dimethoate* A. suspensa applied as a 
+bait station 
+99% Heath et al., 
+2009 
+Organophosphates 
+(1B) 
+malathion* A. fraterculus; 
+A. grandis 
+applied as a 
+bait station; 
+foliar spray 
+>90% Nunes et 
+al., 2020; 
+Raga et al., 
+2018 
+Organophosphates 
+(1B) 
+phosmet* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Pyrethroids (3A) deltamethrin* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Pyrethroids (3A) alpha-
+cypermethrin** 
+A. fraterculus applied as a 
+bait station 
+>97% Nunes et 
+al., 2020 
+Pyrethroids (3A) zeta-
+cypermethrin* 
+A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+acetamiprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+imidacloprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotin
+Text Len: 905
+--------------------------------------------------------------------------------
+* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+imidacloprid* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Neonicotinoids 
+(4A) 
+thiamethoxam* A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Butenolides (4D) flupyradifurone
+** 
+A. fraterculus; 
+A. grandis 
+foliar spray 100% Raga et al., 
+2018 
+Spinosyns (5) spinetoram* A. obliqua applied as a 
+bait station 
+96% Raga et al., 
+2021 
+Spinosyns (5) spinosad* A. fraterculus; 
+A. grandis; A. 
+suspensa 
+applied as a 
+bait station 
+82-100% Heath et al., 
+2009; 
+Nunes et 
+al., 2020; 
+Raga et al., 
+2019 
+Last update 23MAY2023 Anastrepha spp. 24 
+IRAC Insecticide 
+Class (Mode of 
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+UNE neem oil* A. fraterculus applied to 
+infested 
+fruit 
+45-93% 
+depending 
+on life 
+stage 
+Raga et al., 
+Text Len: 914
+--------------------------------------------------------------------------------
+
+Action)2 
+Active 
+Ingredient 
+Fruit Fly 
+Species 
+Insecticide 
+Application 
+Efficacy References 
+UNE neem oil* A. fraterculus applied to 
+infested 
+fruit 
+45-93% 
+depending 
+on life 
+stage 
+Raga et al., 
+2020 
+1 Registration status and pest labeling confirmed by CDMS, 2022 and EPA, 2023. Note that U.S. states, tribes, and territories 
+can have additional registration requirements and may have restrictions on pesticides used or sold within their jurisdictions. 
+Registration and site restrictions should be confirmed prior to setting up any control programs. 
+2 MOA: Insecticide acts on nerve & muscle (1A, 1B, 3A, 4A, 4D, 5). For full definitions for each mode of action see https://irac-
+online.org/modes-of-action.  
+* Registered for use against fruit flies in the United States. 
+** Registered in the United States, but no commercial products available for fruit flies.  
+Foliar Bait Spray Treatments 
+Apply foliar bait spray insecticides either as a targeted ground treatment within a 
+0.3 mile radius of each detection site or as an aerial treatment to orchards growing 
+Anastrepha hosts (see Hosts, Chemical Control Options). Protein hydrolysate 
+(derived from plants or yeast) is generally recommended as the bait. (USDA-
+APHIS-PPQ, 2021).  
+Soil Drenching  
+Soil drenching kills developing pupae in the soil. Apply approved insecticides 
+(see Chemical Control Options) within existing driplines under host trees within a 
+1312 ft radius of the detection (USDA-APHIS
+Text Len: 1478
+--------------------------------------------------------------------------------
+ generally recommended as the bait. (USDA-
+APHIS-PPQ, 2021).  
+Soil Drenching  
+Soil drenching kills developing pupae in the soil. Apply approved insecticides 
+(see Chemical Control Options) within existing driplines under host trees within a 
+1312 ft radius of the detection (USDA-APHIS-PPQ, 2021). 
+Regulatory Quarantine Procedures 
+Regulatory quarantine procedures and controlling movement of host materials 
+from the quarantine areas will limit the spread of Anastrepha spp. from infested 
+areas. If an infestation is confirmed and Emergency Response Triggers for 
+quarantine are met, state program personnel will issue ‘hold orders’ on all infested 
+properties and an emergency quarantine will be established (USDA-APHIS, 
+2015b; USDA-APHIS-PPQ, 2021). 
+Any area that falls within a 4.5 mile radius of a confirmed infestation will be 
+treated as a quarantine area (USDA-APHIS, 2015b). Quarantines will remain in 
+effect for three Anastrepha life cycles from the date of the last detection, until 
+eradication is declared (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2015b). 
+Regulatory Phytosanitary Treatment 
+Post-harvest phytosanitary measures may be required to kill fruit flies from the 
+quarantine areas. These measures include cold and hot water treatments, 
+irradiation with gamma rays and fumigation with methyl bromide (IPPC, 2019).  
+Refer to the USDA APHIS Treatment Manual for detailed instructions for post-
+Last update 23MAY2023 Anastrepha spp. 25 
+harvest treatment of fruit flies (
+Text Len: 1493
+--------------------------------------------------------------------------------
+
+quarantine areas. These measures include cold and hot water treatments, 
+irradiation with gamma rays and fumigation with methyl bromide (IPPC, 2019).  
+Refer to the USDA APHIS Treatment Manual for detailed instructions for post-
+Last update 23MAY2023 Anastrepha spp. 25 
+harvest treatment of fruit flies (USDA-APHIS-PPQ, 2021; USDA-APHIS, 2018). 
+  
+Last update 23MAY2023 Anastrepha spp. 26 
+Literature Cited 
+ 
+Aluja, M. 1994. Bionomics and management of Anastrepha. Annual Review of Entomology 39:155-
+178. 
+Aluja, M., J. Arredondo, F. Díaz-Fleischer, A. Birke, J. Rull, J. Niogret, and N. D. Epsky. 2014. 
+Susceptibility of 15 mango (Sapindales: Anacardiaceae) cultivars to the attack by Anastrepha 
+ludens and Anastrepha obliqua (Diptera: Tephritidae) and the role of underdeveloped fruit as 
+pest reservoirs: Management implications. Journal of Economic Entomology 107(1):375-
+388. 
+Aluja, M., I. Jacome, A. Birke, N. Lozada, and G. Quintero. 1993. Basic patterns of behavior in wild 
+Anastrepha striata (Diptera: Tephritidae) flies under field-cage conditions. Annals of the 
+Entomological Society of America 86(6):776-793. 
+Aluja, M., M. Ordano, P. E. A. Teal
+Text Len: 1167
+--------------------------------------------------------------------------------
+. Quintero. 1993. Basic patterns of behavior in wild 
+Anastrepha striata (Diptera: Tephritidae) flies under field-cage conditions. Annals of the 
+Entomological Society of America 86(6):776-793. 
+Aluja, M., M. Ordano, P. E. A. Teal, J. Sivinski, D. Garcia-Medel, and A. Anzures-Dadda. 2009. 
+Larval feeding substrate and species significantly influence the effect of a juvenile hormone 
+analog on sexual development/performance in four tropical tephritid flies. Journal of Insect 
+Physiology 55(3):231-242. 
+Aluja, M., J. Piñero, I. Jácome, F. Díaz-Fleischer, and J. Sivinski. 2001. Behavior of flies in the 
+genus Anastrepha (Trypetinae: Toxotrypanini). Pages 375-406 in M. Aluja and A. Norrbom, 
+(eds.). Fruit flies (Tephritidae): Phylogeny and evolution of behavior. CRC Press, Boca 
+Raton, FL. 
+Aluja, M., J. Rull, J. Sivinski, A. L. Norrbom, R. A. Wharton, and R. Macias-Ordonez. 2003. Fruit 
+flies of the genus Anastrepha (Diptera: Tephritidae) and associated native parasitoids 
+(Hymenoptera) in the Tropical Rainforest Biosphere Reserve of Montes Azules, Chiapas, 
+Mexico. Environmental Entomology 32(6):1377-1385. 
+Baker, A. C., W.
+Text Len: 1139
+--------------------------------------------------------------------------------
+
+flies of the genus Anastrepha (Diptera: Tephritidae) and associated native parasitoids 
+(Hymenoptera) in the Tropical Rainforest Biosphere Reserve of Montes Azules, Chiapas, 
+Mexico. Environmental Entomology 32(6):1377-1385. 
+Baker, A. C., W. E. Stone, C. C. Plummer, and M. McPhail. 1944. A review of studies on the 
+Mexican fruitfly and related Mexican species (USDA Miscellaneous Publication No. 531). 
+United States Department of Agriculture, Washington, DC. 173 pp. 
+Baker, P. S., and A. S. T. Chan. 1991. Quantification of tephritid fruit fly dispersal: Guidelines for a 
+sterile release programme. Journal of Applied Entomology 112(4):410-421. 
+Baker, P. S., A. S. T. Chan, and M. A. J. Zavala. 1986. Dispersal and orientation of sterile Ceratitis 
+capitata and Anastrepha ludens (Tephritidae) in Chiapas, Mexico. Journal of Applied 
+Ecology 23(1):27-38. 
+Barr, N., R. Ruiz-Arce, O. Obregón, R. Shatters, A. L. Norrbom, N. Nolazco, and D. Thomas. 2017. 
+Diagnostic characters within ITS2 DNA support molecular identification of Anastrepha 
+suspensa (Diptera: Tephritidae). Florida Entomologist 100(1):182-185. 
+Barr, N. B., R. Ruiz-Arce, R. E. Farris, J. G. Silva
+Text Len: 1171
+--------------------------------------------------------------------------------
+ D. Thomas. 2017. 
+Diagnostic characters within ITS2 DNA support molecular identification of Anastrepha 
+suspensa (Diptera: Tephritidae). Florida Entomologist 100(1):182-185. 
+Barr, N. B., R. Ruiz-Arce, R. E. Farris, J. G. Silva, K. M. Lima, V. S. Dutra, B. Ronchi-Teles, P. H. 
+Kerr, A. L. Norrbom, and N. Nolazco. 2018. Identifying Anastrepha (Diptera; Tephritidae) 
+species using DNA barcodes. Journal of Economic Entomology 111(1):405-421. 
+Last update 23MAY2023 Anastrepha spp. 27 
+Bisognin, M., D. E. Nava, G. I. Diez-Rodriguez, R. A. Valgas, M. S. Garcia, A. C. R. Krolow, and 
+L. E. C. Antunes. 2015. Development of Anastrepha fraterculus (Diptera: Tephritidae) 
+related to the phenology of blueberry, blackberry, strawberry guava, and Surinam cherry 
+fruits. Journal of Economic Entomology 108(1):192-200. 
+Bolzan, A., D. E. Nava, F. R. M. Garcia, R. A. Valgas, and G. Smaniotto. 2015. Biology of 
+Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic 
+Entomology 108(3):1034-1039. 
+Bolzan, A
+Text Len: 1033
+--------------------------------------------------------------------------------
+. Nava, F. R. M. Garcia, R. A. Valgas, and G. Smaniotto. 2015. Biology of 
+Anastrepha grandis (Diptera: Tephritidae) in different cucurbits. Journal of Economic 
+Entomology 108(3):1034-1039. 
+Bolzan, A., D. E. Nava, G. Smaniotto, R. A. Valgas, and F. R. M. Garcia. 2017. Development of 
+Anastrepha grandis (Diptera: Tephritidae) under constant temperatures and field validation 
+of a laboratory model for temperature requirements. Crop Protection 100:38-44. 
+Carey, J. R., P. Liedo, H.-G. Müller, J.-L. Wang, D. Senturk, and L. Harshman. 2005. 
+Biodemography of a long-lived tephritid: Reproduction and longevity in a large cohort of 
+female Mexican fruit flies, Anastrepha ludens. Experimental Gerontology 40(10):793-800. 
+CDMS. 2022. CDMS label database. Crop Data Management Systems (CDMS). Last accessed from 
+https://www.cdms.net/Label-Database/Advanced-Search. 
+Celedonio-Hurtado, H., M. Aluja, and P. Liedo. 1995. Adult population fluctuations of Anastrepha 
+species (Diptera: Tephritidae) in tropical orchard habitats of Chiapas, Mexico. Environmental 
+Entomology 24(4):861-869. 
+Celedonio-Hurtado, H., P. Liedo, M. Aluja, J.
+Text Len: 1133
+--------------------------------------------------------------------------------
+o. 1995. Adult population fluctuations of Anastrepha 
+species (Diptera: Tephritidae) in tropical orchard habitats of Chiapas, Mexico. Environmental 
+Entomology 24(4):861-869. 
+Celedonio-Hurtado, H., P. Liedo, M. Aluja, J. Guillen, D. Berrigan, and J. Carey. 1988. Demography 
+of Anastrepha ludens, A. obliqua and A. serpentina (Diptera: Tephritidae) in Mexico. Florida 
+Entomologist 71(2):111-120. 
+Christenson, L. D., and R. H. Foote. 1960. Biology of fruit flies. Annual Review of Entomology 
+5:171-192. 
+Dias, N. P., S. Ongaratto, M. S. Garcia, and D. E. Nava. 2017. Oviposition of Anastrepha fraterculus 
+and Ceratitis capitata (Diptera: Tephritidae) in citrus fruits, and development in relation to 
+maturity of orange fruits. Florida Entomologist 100(2):468-473. 
+Dias, V. S., and A. Lucky. 2017. South American fruit fly (suggested common name) Anastrepha 
+fraterculus (Wiedemann) (Insecta: Diptera: Tephritidae) (EENY-696). University of Florida, 
+Institute of Food and Agricultural Sciences Extension, Gainesville, FL. 6 pp. 
+Dickens, J. C., E. Solis, and W. G. Hart. 1982. Sexual development and mating behavior of the 
+Mexican fruit fly, Anastrepha l
+Text Len: 1161
+--------------------------------------------------------------------------------
+ Diptera: Tephritidae) (EENY-696). University of Florida, 
+Institute of Food and Agricultural Sciences Extension, Gainesville, FL. 6 pp. 
+Dickens, J. C., E. Solis, and W. G. Hart. 1982. Sexual development and mating behavior of the 
+Mexican fruit fly, Anastrepha ludens (Loew). Southwestern Entomology 7(1):9-15. 
+dos Santos, J. P., L. R. Redaelli, J. Sant'Ana, and E. R. Hickel. 2017. Population fluctuation and 
+estimate of generations number of Anastrepha fraterculus (Diptera: Tephritidae) in apple 
+orchard in Caçador, Santa Catarina, Brazil. Arquivos do Instituto Biológico 84, 
+doi:10.1590/1808-1657000482015. 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. L. Araujo, M. F. Souza-Filho, A. Raga, and J. G. Silva. 
+2018a. Description of larvae of three Anastrepha species in the fraterculus group (Diptera: 
+Tephritidae). Proceedings of the Entomological Society of Washington 120(4):708-724. 
+Last update 23MAY2023 Anastrepha spp. 28 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. J. Rodriguez, A. L. Norrbom, B. D. Sutton, and J. G. 
+Silva. 2018b. Description of the larvae of Anastrepha
+Text Len: 1097
+--------------------------------------------------------------------------------
+ update 23MAY2023 Anastrepha spp. 28 
+Dutra, V. S., B. Ronchi-Teles, G. J. Steck, E. J. Rodriguez, A. L. Norrbom, B. D. Sutton, and J. G. 
+Silva. 2018b. Description of the larvae of Anastrepha curitis, Anastrepha pickeli and 
+Anastrepha pulchra (Diptera: Tephritidae). Proceedings of the Entomological Society of 
+Washington 120(1):9-24. 
+EFSA. 2021. Pest survey card on Anastrepha ludens. EFSA Supporting Publication 2021 (EN-1998). 
+European Food Safety Authority, DOI: 10.2903/sp.efsa.2021.EN-1998. 30 pp. 
+Emmart, E. W. 1933. The eggs of four species of fruit flies of the genus Anastrepha. Proceedings of 
+the Entomological Society of Washington 35(8):184-191. 
+Enkerlin, D., L. Garcia, and F. Lopez. 1989. Mexico, Central and South America. Pages 83-90 in A. 
+S. Robinson and G. Hooper, (eds.). Fruit flies: Their biology, natural enemies and control. 
+Elsevier, Amsterdam, the Netherlands. 
+EPA. 2023. Pesticide product and label system. Environmental Protection Agency. Last accessed 
+April 2023, from https://ordspub.epa.gov/ords/pesticides/f?p=113:1::::RP,17,1. 
+Garcia, F. R. M., J. V. Campos, and E. Corseuil. 2003. Population fluctuation of Anastrepha 
+Text Len: 1165
+--------------------------------------------------------------------------------
+ Agency. Last accessed 
+April 2023, from https://ordspub.epa.gov/ords/pesticides/f?p=113:1::::RP,17,1. 
+Garcia, F. R. M., J. V. Campos, and E. Corseuil. 2003. Population fluctuation of Anastrepha 
+fraterculus (Wiedemann, 1830) (Diptera, Tephritidae) in the western region of Santa 
+Catarina State, Brazil. Revista Brasileira de Entomologia 47(3):415-420. 
+Greany, P. D., and C. Riherd. 1993. Preface: Caribbean fruit fly status, economic importance, and 
+control (Diptera: Tephritidae). Florida Entomologist 76(2):209-211. 
+Greene, C. T. 1929. Characters of the larvae and pupae of certain fruit flies. Journal of Agricultural 
+Research 38(9):489-504. 
+Heath, R. R., S. G. Lavallee, E. Schnell, D. G. Midgarden, and N. D. Epsky. 2009. Laboratory and 
+field cage studies on female‐targeted attract‐and‐kill bait stations for Anastrepha suspensa 
+(Diptera: Tephritidae). Pest Management Science: formerly Pesticide Science 65(6):672-677. 
+Hedström, I. 1991. The guava fruit fly, Anastrepha striata Schiner (Tephritidae) in seasonal and 
+non-seasonal neotropical forest environments. Dissertation, Uppsala University, Uppsala, 
+Sweden. 
+Hernández, E., D.
+Text Len: 1151
+--------------------------------------------------------------------------------
+672-677. 
+Hedström, I. 1991. The guava fruit fly, Anastrepha striata Schiner (Tephritidae) in seasonal and 
+non-seasonal neotropical forest environments. Dissertation, Uppsala University, Uppsala, 
+Sweden. 
+Hernández, E., D. Orozco, S. F. Breceda, and J. Domínguez. 2007. Dispersal and longevity of wild 
+and mass-reared Anastrepha ludens and Anastrepha obliqua (Diptera: Tephritidae). Florida 
+Entomologist 90(1):123-135. 
+Hodgson, P. J., J. Sivinski, G. Quintero, and M. Aluja. 1998. Depth of pupation and survival of fruit 
+fly (Anastrepha spp.: Tephritidae) pupae in a range of agricultural habitats. Environmental 
+Entomology 27(6):1310-1314. 
+IPPC. 2019. Guidelines for the use of irradiation as a phytosanitary measure (ISPM 18). 
+International Plant Protection Convention, Rome, Italy. 20 pp. 
+Kendra, P. E., N. D. Epsky, and R. R. Heath. 2010. Effective sampling range of food-based 
+attractants for female Anastrepha suspensa (Diptera: Tephritidae). Journal of Economic 
+Entomology 103(2):533-540. 
+Kovaleski, A., R. L. Sugayama, and A. Malavasi. 1999. Movement of Anastrepha fraterculus from 
+Last update 23MAY2023 Anastrepha s
+Text Len: 1138
+--------------------------------------------------------------------------------
+pha suspensa (Diptera: Tephritidae). Journal of Economic 
+Entomology 103(2):533-540. 
+Kovaleski, A., R. L. Sugayama, and A. Malavasi. 1999. Movement of Anastrepha fraterculus from 
+Last update 23MAY2023 Anastrepha spp. 29 
+native breeding sites into apple orchards in Southern Brazil. Entomologia Experimentalis et 
+Applicata 91(3):459-465. 
+Lawrence, P. O. 1979. Immature stages of the Caribbean fruit fly, Anastrepha suspensa. Florida 
+Entomologist 62(3):214-219. 
+Leyva, J. L., H. W. Browning, and F. E. Gilstrap. 1991. Development of Anastrepha ludens 
+(Diptera: Tephritidae) in several host fruit. Environmental Entomology 20(4):1160-1165. 
+Malavasi, A., J. S. Morgante, and R. J. Prokopy. 1983. Distribution and activities of Anastrepha 
+fraterculus (Diptera: Tephritidae) flies on host and nonhost trees. Annals of the 
+Entomological Society of America 76(2):286-292. 
+Martínez, I., V. H. Ortiz, and R. Luna. 1995. Desarrollo y maduración sexual de Anastrepha 
+serpentina (Wiedemann)(Diptera: Tephritidae) [Development and sexual maturation of 
+Anastrepha serpentina (Wiedemann)(Diptera: Tephritidae)]. Acta Zoológica Mexicana 
+Text Len: 1134
+--------------------------------------------------------------------------------
+ Luna. 1995. Desarrollo y maduración sexual de Anastrepha 
+serpentina (Wiedemann)(Diptera: Tephritidae) [Development and sexual maturation of 
+Anastrepha serpentina (Wiedemann)(Diptera: Tephritidae)]. Acta Zoológica Mexicana 
+(65):75-88. 
+McGrath, Z., Q. Paynter, and R. Hill. 2021. The host range of the moth plant fruit fly, Anastrepha 
+australis, a biological control agent for moth plant, Araujia hortorum. Manaaki Whenua 
+Landcare Research, Auckland, New Zealand. 11 pp. 
+Morgante, J. S., D. Selivon, V. N. Solferini, and A. S. do Nascimento. 1996. Genetic and 
+morphological differentiation in the specialist species Anastrepha pickeli and A. montei. 
+Pages 259-276 in B. A. McPheron and G. J. Steck, (eds.). Fruit fly pests: A world assessment 
+of their biology and management. St. Lucie Press, Delray Beach, FL. 
+Morgante, J. S., D. Selivon, V. N. Solferini, and S. R. Matioli. 1993. Evolutionary patterns in 
+specialist and generalist species of Anastrepha. Pages 15-20 in M. Aluja and P. Liedo, (eds.). 
+Fruit flies: Biology and management. Springer, New York. 
+Norrbom, A. 2022. Rhagoletis cerasi- Permission to use image. Personal communication to I. 
+Pulakk
+Text Len: 1170
+--------------------------------------------------------------------------------
+ist and generalist species of Anastrepha. Pages 15-20 in M. Aluja and P. Liedo, (eds.). 
+Fruit flies: Biology and management. Springer, New York. 
+Norrbom, A. 2022. Rhagoletis cerasi- Permission to use image. Personal communication to I. 
+Pulakkatu-thodi on November 8, 2022, from A. Norrbom. 
+Norrbom, A. L., N. B. Barr, P. Kerr, X. Mengual, N. Nolazco, E. J. Rodriguez, G. J. Steck, B. D. 
+Sutton, K. Uramoto, and R. A. Zucchi. 2018. Synonymy of Toxotrypana Gerstaecker with 
+Anastrepha Schiner (Diptera: Tephritidae). Proceedings of the Entomological Society of 
+Washington 120(4):834-841. 
+Norrbom, A. L., and R. H. Foote. 1989. The taxonomy and zoogeography of the genus Anastrepha 
+(Diptera: Tephritidae). Pages 15-26 in A. S. Robinson and G. Hooper, (eds.). Fruit flies: 
+Their biology, natural enemies and control (World Crop Pests Vol. 3A). Elsevier, 
+Amsterdam. 
+Norrbom, A. L., C. A. Korytkowski, R. A. Zucchi, K. Uramoto, G. L. Venable, J. McCormick, and 
+M. J. Dallwitz. 2019. Anastrepha and Toxotrypana: Descriptions, illustrations, and 
+interactive keys.
+Text Len: 1069
+--------------------------------------------------------------------------------
+Norrbom, A. L., C. A. Korytkowski, R. A. Zucchi, K. Uramoto, G. L. Venable, J. McCormick, and 
+M. J. Dallwitz. 2019. Anastrepha and Toxotrypana: Descriptions, illustrations, and 
+interactive keys. United States Department of Agriculture, Agricultural Research Service, 
+Washington, DC. Last accessed 23 May 2023, from https://www.delta-
+intkey.com/anatox/indext.htm. 
+Nunes, M. Z., C. A. Baronio, I. X. Schutze, D. Bernardi, C. J. Arioli, R. M. Junior, and M. Botton. 
+Last update 23MAY2023 Anastrepha spp. 30 
+2020. Toxicity of baits and their effects on population suppression of Anastrepha fraterculus 
+(Diptera: Tephritidae): Implications for field management. Environmental Entomology 
+49(3):638-644. 
+Pérez Chávez, M. S., J. de J. Luna Ruiz, J. Sosa Ramírez, C. Perales Segovia, J. A. Martínez de 
+Anda, and A. de J. Meraz Jiménez. 2008. Digital database with trapping data for fruit fly 
+management in Calvillo, Aguascalientes, Mexico. Acta Horticulturae 849:301-308. 
+Plummer, C. C., M. McPhail, and J. W. Monk. 1941. The yellow chapote, a native host of the 
+Mexican fruitfly. USDA Technical Bulletin No. 775.
+Text Len: 1118
+--------------------------------------------------------------------------------
+ for fruit fly 
+management in Calvillo, Aguascalientes, Mexico. Acta Horticulturae 849:301-308. 
+Plummer, C. C., M. McPhail, and J. W. Monk. 1941. The yellow chapote, a native host of the 
+Mexican fruitfly. USDA Technical Bulletin No. 775. United States Department of 
+Agriculture, Washington, DC. 12 pp. 
+Raga, A., B. F. Baldo, S. S. Braga, S. K. L. Ferreira, T. L. Galdino, and E. M. Sato. 2019. Toxicity 
+of different dilutions of spinosad bait against two fruit-fly species (Diptera: Tephritidae). 
+Journal of Experimental Agriculture International 32(2):1-11. 
+Raga, A., S. Braga e Silva, L. R. F. Louzeiro, and E. M. de Sousa. 2020. Larvicidal and adulticidal 
+activities of neem oil against Anastrepha fraterculus (Wied.) (Tephritidae). European Journal 
+of Medicinal Plants 31(10):44-51. 
+Raga, A., L. T. Galdino, S. Braga e Silva, F. B. Baldo, and M. E. Sato. 2018. Comparison of 
+insecticide toxicity in adults of the fruit flies Anastrepha fraterculus (Wied.) and Anastrepha 
+grandis (Macquart) (Tephritidae). Journal of Experimental Agriculture International 25(2):1-
+8. 
+Raga, A., E. Marques de Sousa, and L. R. F. Louzeiro. 2021.
+Text Len: 1143
+--------------------------------------------------------------------------------
+ toxicity in adults of the fruit flies Anastrepha fraterculus (Wied.) and Anastrepha 
+grandis (Macquart) (Tephritidae). Journal of Experimental Agriculture International 25(2):1-
+8. 
+Raga, A., E. Marques de Sousa, and L. R. F. Louzeiro. 2021. Mortality of fruit flies (Diptera: 
+Tephritidae) exposed to spinetoram toxic bait in the laboratory. Journal of Advances in 
+Biology & Biotechnology 24(11):12-21. 
+Rodriguez, E. J., G. J. Steck, M. R. Moore, A. L. Norrbom, J. Diaz, L. A. Somma, R. Ruiz-Arce, B. 
+D. Sutton, N. Nolazco, and A. Muller. 2022. Exceptional larval morphology of nine species 
+of the Anastrepha mucronota species group (Diptera, Tephritidae). Zookeys (1127). 
+Rodriguez, E. J., G. J. Steck, M. R. Moore, A. L. Norrbom, B. D. Sutton, and M. A. Branham. 2021. 
+Description of larvae of Anastrepha amplidentata and Anastrepha durantae with review of 
+larval morphology of the fraterculus group (Diptera: Tephritidae). Proceedings of the 
+Entomological Society of Washington 123(1):169-189. 
+Ronchi-Teles, B., and N. M. Da Silva. 2005. Population fluctuation of Anastrepha Schiner (Diptera: 
+Tephritidae) species in Manaus Region, AM
+Text Len: 1149
+--------------------------------------------------------------------------------
+culus group (Diptera: Tephritidae). Proceedings of the 
+Entomological Society of Washington 123(1):169-189. 
+Ronchi-Teles, B., and N. M. Da Silva. 2005. Population fluctuation of Anastrepha Schiner (Diptera: 
+Tephritidae) species in Manaus Region, AM, Brazil. Neotropical Entomology 34(5):733-741. 
+Selivon, D., and A. L. P. Perondini. 1999. Description of Anastrepha sororcula and A. serpentina 
+(Diptera: Tephritidae) eggs. Florida Entomologist 82(2):347-353. 
+Shaw, J. G., M. Sanchez-Riviello, L. M. Spishakoff, P. Trujillo, and F. Loppez. 1967. Dispersal and 
+migration of tepa-sterilized Mexican fruit flies. Journal of Economic Entomology 60(4):992-
+994. 
+Silva, J. G., and A. Malavasi. 1993. The status of honeydew melon as a host of Anastrepha grandis 
+(Diptera: Tephritidae). Florida Entomologist 76(3):516-519. 
+Last update 23MAY2023 Anastrepha spp. 31 
+Sivinski, J. M., and G. Dodson. 1992. Sexual dimorphism in Anastrepha suspensa (Loew) and other 
+tephritid fruit flies (Diptera: Tephritidae): Possible roles of developmental rate, fecundity, 
+and dispersal. Journal of Insect Behavior 5(4):491-506. 
+Soto
+Text Len: 1118
+--------------------------------------------------------------------------------
+ J. M., and G. Dodson. 1992. Sexual dimorphism in Anastrepha suspensa (Loew) and other 
+tephritid fruit flies (Diptera: Tephritidae): Possible roles of developmental rate, fecundity, 
+and dispersal. Journal of Insect Behavior 5(4):491-506. 
+Soto-Manitiu, J., L. Jirón, and R. Hernandez. 1987. Chemical control and ecological observations of 
+fruit flies of the genus Anastrepha schiner (Diptera: Tephritidae) on mango. Turrialba 
+37(3):245-251. 
+Soto‐Manitiu, J., and L. F. Jirón. 1989. Studies on the population dynamics of the fruit flies, 
+Anastrepha (Diptera: Tephritidae) associated with mango (Mangifera indica L.) in Costa 
+Rica. International Journal of Pest Management 35(4):425-427. 
+Steck, G. J., L. E. Carroll, H. Celedonio-Hurtado, and J. Guillen-Aguilar. 1990. Methods for 
+identification of Anastrepha larvae (Diptera: Tephritidae), and key to 13 species. 
+Entomological Society of Washington. 333-346 pp. 
+Steck, G. J., E. J. Rodriguez, A. L. Norrbom, V. S. Dutra, B. Ronchi-Teles, and J. G. Silva. 2019. 
+Review of Anastrepha (Diptera: Tephritidae) immature stage taxonomy. Pages 57-88 in D. 
+Perez-Staples, F. Diaz-Fleischer,
+Text Len: 1143
+--------------------------------------------------------------------------------
+ Rodriguez, A. L. Norrbom, V. S. Dutra, B. Ronchi-Teles, and J. G. Silva. 2019. 
+Review of Anastrepha (Diptera: Tephritidae) immature stage taxonomy. Pages 57-88 in D. 
+Perez-Staples, F. Diaz-Fleischer, P. Montoya, and M. T. Vera, (eds.). Area-wide 
+management of fruit fly pests. CRC Press. 
+Telles-Romero, R., J. Toledo, E. Hernández, J. L. Qunitero-Fong, and L. Cruz-López. 2011. Effect 
+of temperature on pupa development and sexual maturity of laboratory Anastrepha obliqua 
+adults. Bulletin of Entomological Research 101(5):565-571. 
+Thomas, D. B. 2003. Reproductive phenology of the Mexican fruit fly, Anastrepha ludens (Loew) 
+(Diptera: Tephritidae) in the Sierra Madre Oriental, Northern Mexico. Neotropical 
+Entomology 32(3):385-397. 
+Thomas, D. B., and J. Loera-Gallardo. 1998. Dispersal and longevity of mass-released, sterilized 
+Mexican fruit flies (Diptera: Tephritidae). Environmental Entomology 27(4):1045-1052. 
+USDA-APHIS-PPQ. 2001. Identification of susceptible areas for the establishment of Anastrepha 
+spp. fruit flies in the United States and analysis of selected pathways. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and 
+Quarantine, Raleigh, NC. 47 pp. 
+US
+Text Len: 1241
+--------------------------------------------------------------------------------
+45-1052. 
+USDA-APHIS-PPQ. 2001. Identification of susceptible areas for the establishment of Anastrepha 
+spp. fruit flies in the United States and analysis of selected pathways. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Plant Protection and 
+Quarantine, Raleigh, NC. 47 pp. 
+USDA-APHIS-PPQ. 2021. Anastrepha spp. cooperative eradication program: Final programmatic 
+environmental assessment. United States Department of Agriculture, Animal and Plant 
+Health Inspection Service, Plant Protection and Quarantine, Riverdale, MD. 61 pp. 
+USDA-APHIS. 2001. Fruit fly cooperative control program: Final environmental impact statement. 
+United States Department of Agriculture, Animal and Plant Health Inspection Service, 
+Riverdale, MD. 256 pp. 
+USDA-APHIS. 2015a. National exotic fruit fly detection trapping guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 126 
+pp. 
+USDA-APHIS. 2015b. Systems approaches for managing the risk of citrus fruit in Texas during a 
+Mexican fruit fly outbreak. United States Department of Agriculture, Animal and Plant 
+Last update 23MAY2023 Anastrepha spp. 32 
+Health Inspection Service, Raleigh, NC. 61 pp. 
+USDA-APHIS. 2018. Fruit fly cooperative control program. Final programmatic environmental 
+impact statement. United States Department of Agriculture, Animal and Plant Health 
+Inspection Service, Riverdale, MD. 162 pp. 
+USDA-APHIS. 2020. Cooperative fruit fly emergency response triggers & guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 2 
+pp. 
+Weems, H
+Text Len: 1661
+--------------------------------------------------------------------------------
+ environmental 
+impact statement. United States Department of Agriculture, Animal and Plant Health 
+Inspection Service, Riverdale, MD. 162 pp. 
+USDA-APHIS. 2020. Cooperative fruit fly emergency response triggers & guidelines. United States 
+Department of Agriculture, Animal and Plant Health Inspection Service, Riverdale, MD. 2 
+pp. 
+Weems, H. V., Jr. 1963. Mexican fruit fly (Anastrepha ludens (Loew)) (Diptera: Tephritidae) 
+(Entomology Circular No. 16). Florida Department of Agriculture and Consumer Services, 
+Division of Plant Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 1965. Anastrepha suspensa (Loew) (Diptera: Tephritidae) (Entomology Circular 
+38). Florida Department of Agriculture, Division of Plant Industry, Gainesville, FL. 4 pp. 
+Weems, H. V., Jr. 1969. Anastrepha serpentina (Wiedemann) (Diptera: Tephritidae) (EENY-206). 
+Florida Department of Agriculture and Consumer Services, Division of Plant Industry, 
+Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 1982. Anastrepha striata Schiner (Diptera: Tephritidae) (Entomology Circular 
+No. 245). Florida Department of Agriculture and Consumer Services, Division of Plant 
+Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 2001. Sapote fruit fly, serpentine fruit fly, Anastrepha serpentina (Wiedemann) 
+(Insecta: Diptera: Tephritidae) (EENY-
+Text Len: 1313
+--------------------------------------------------------------------------------
+). Florida Department of Agriculture and Consumer Services, Division of Plant 
+Industry, Gainesville, FL. 2 pp. 
+Weems, H. V., Jr. 2001. Sapote fruit fly, serpentine fruit fly, Anastrepha serpentina (Wiedemann) 
+(Insecta: Diptera: Tephritidae) (EENY-206). University of Florida, Institute of Food and 
+Agricultural Sciences, Gainesville, FL. 3 pp. 
+Weems, H. V., Jr., and T. R. Fasulo. 2006. Guava fruit fly, Anastrepha striata Schiner (Insecta: 
+Diptera: Tephritidae) (EENY-265). University of Florida, Institute of Food and Agricultural 
+Sciences, Gainesville, FL. 4 pp. 
+Weems, H. V., Jr., J. B. Heppner, G. J. Steck, and T. R. Fasulo. 2012a. West Indian fruit fly, 
+Anastrepha obliqua (Macquart) (Insecta: Diptera: Tephritidae) (EENY198). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 5 pp. 
+Weems, H. V., Jr., J. B. Heppner, G. J. Steck, T. R. Fasulo, and J. L. Nation. 2012b. Mexican fruit 
+fly, Anastrepha ludens (Loew) (Insecta: Diptera: Tephritidae) (EENY-201). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 7 pp. 
+White, I. M., and M. M. Elson-Harris. 1992.
+Text Len: 1145
+--------------------------------------------------------------------------------
+ 2012b. Mexican fruit 
+fly, Anastrepha ludens (Loew) (Insecta: Diptera: Tephritidae) (EENY-201). University of 
+Florida Institute of Food and Agricultural Sciences, Gainesville, FL. 7 pp. 
+White, I. M., and M. M. Elson-Harris. 1992. Fruit flies of economic significance: Their identification 
+and bionomics. CAB International, Wallingford, Uk. 601 pp. 
+ 
+  
+Last update 23MAY2023 Anastrepha spp. 33 
+Environmental Compliance  
+ 
+ 
+ 
+ 
+Introduction 
+Use Appendix A as a guide to environmental regulations pertinent to Anastrepha 
+spp. 
+Overview 
+Program managers of Federal emergency response or domestic pest control 
+programs must ensure that their programs comply with all Federal Acts and 
+Executive Orders pertaining to the environment, as applicable. Two primary 
+Federal Acts, the National Environmental Policy Act (NEPA) and the Endangered 
+Species Act (ESA), often require the development of significant documentation 
+before program actions may commence. APHIS, Policy and Program 
+Development, Environmental and Risk Analysis Services (ERAS) is available to 
+provide guidance to program managers and prepare drafts of applicable 
+environmental documentation. PPQ’s Compliance and Environmental 
+Coordination program assists ERAS in development of documents and 
+implements environmental monitoring. Program leadership is strongly advised to 
+consult with ERAS and/or the Compliance and Environmental Coordination 
+program early in the development of a program to conduct a preliminary review 
+of applicable environmental statutes and ensure timely compliance.  
+Environmental monitoring of APHIS pest control activities may be required as 
+part of compliance with environmental statutes, as requested
+Text Len: 1710
+--------------------------------------------------------------------------------
+plements environmental monitoring. Program leadership is strongly advised to 
+consult with ERAS and/or the Compliance and Environmental Coordination 
+program early in the development of a program to conduct a preliminary review 
+of applicable environmental statutes and ensure timely compliance.  
+Environmental monitoring of APHIS pest control activities may be required as 
+part of compliance with environmental statutes, as requested by program 
+managers, or as suggested to address concerns with controversial activities. 
+Monitoring may be conducted with regards to worker exposure, pesticide quality 
+assurance and control, off-site chemical deposition, or program efficacy. Different 
+tools and techniques are used depending on the monitoring goals and control 
+techniques used in the program. Staff from ECT will work with the program 
+manager to develop an environmental monitoring plan, conduct training to 
+implement the plan, provide day-to-day guidance on monitoring, and provide an 
+interpretive report of monitoring activities. 
+The following is a list of pertinent laws and Executive Orders: 
+Appendix 
+ 
+A 
+Last update 23MAY2023 Anastrepha spp. 34 
+National Environmental Policy Act (NEPA) – NEPA requires all Federal 
+agencies to examine whether their actions may significantly affect the quality of 
+the human environment. The purpose of NEPA is to inform the decision-maker 
+prior to taking action and to inform the public of the decision. Actions that are 
+excluded from this examination, actions that normally require an Environmental 
+Assessment, and actions that normally require Environmental Impact Statements 
+are codified in APHIS’ NEPA Implementing Procedures located in 7 CFR 372.5. 
+The three types of NEPA documentation are: 
+1. Categorical Exclusion 
+Categorical exclusions are classes of actions that do not have a significant
+Text Len: 1860
+--------------------------------------------------------------------------------
+ actions that normally require an Environmental 
+Assessment, and actions that normally require Environmental Impact Statements 
+are codified in APHIS’ NEPA Implementing Procedures located in 7 CFR 372.5. 
+The three types of NEPA documentation are: 
+1. Categorical Exclusion 
+Categorical exclusions are classes of actions that do not have a significant 
+effect on the quality of the human environment and for which neither an 
+environmental assessment (EA) nor an environmental impact statement 
+(EIS) is required. Generally, the means through which adverse 
+environmental impacts may be avoided or minimized have actually been 
+built into the actions themselves (see 7 CFR 372.5(c)). 
+2. Environmental Assessment (EA) 
+An EA is a public document that succinctly presents information and 
+analysis for the decision-maker of the proposed action. An EA can lead to 
+the preparation of an environmental impact statement (EIS), a finding of 
+no significant impact (FONSI), or the abandonment of a proposed action.  
+3. Environmental Impact Statement (EIS) 
+In the event that a major Federal action may significantly affect the quality 
+of the human environment (adverse or beneficial), or, the proposed action 
+may result in public controversy, an EIS is prepared.  
+Endangered Species Act (ESA) – This statute requires that programs consider 
+their potential effects on federally protected species. The ESA requires programs 
+to identify protected species and their habitat in or near program areas and 
+documentation of how adverse effects to these species will be avoided. The 
+documentation may require review and approval by the U.S. Fish and Wildlife 
+Service and the National Marine Fisheries Service before program activities can 
+begin. Knowingly violating this law can lead to criminal charges against 
+individual staff members
+Text Len: 1832
+--------------------------------------------------------------------------------
+to identify protected species and their habitat in or near program areas and 
+documentation of how adverse effects to these species will be avoided. The 
+documentation may require review and approval by the U.S. Fish and Wildlife 
+Service and the National Marine Fisheries Service before program activities can 
+begin. Knowingly violating this law can lead to criminal charges against 
+individual staff members and program managers. 
+Migratory Bird Treaty Act – This statute requires that programs avoid harm to 
+over 800 endemic bird species, eggs, and their nests. In some cases, permits may 
+be available to capture birds, which require coordination with the U.S. Fish and 
+Wildlife Service. 
+Last update 23MAY2023 Anastrepha spp. 35 
+Clean Water Act – This statute requires various permits for work in wetlands 
+and for potential discharges of program chemicals into water. This may require 
+coordination with the Environmental Protection Agency, individual states, and the 
+U.S. Army Corps of Engineers. Such permits would be required even if the 
+pesticide label allows for direct application to water. 
+Tribal Consultation – This Executive Order requires formal government to 
+government communication if a program might have substantial direct effects on 
+any federally-recognized Indian Nation. This process is often incorrectly included 
+as part of the NEPA process, but it must be completed prior to general public 
+involvement under NEPA. Staff should be cognizant of the conflict that could 
+arise when proposed federal actions intersect with tribal sovereignty. Tribal 
+consultation is designed to identify and avoid such potential conflict. 
+National Historic Preservation Act – This statute requires programs to consider 
+potential impacts on historic properties (such as buildings and archaeological 
+sites) and requires coordination with local State Historic Preservation Offices. 
+Documentation under
+Text Len: 1919
+--------------------------------------------------------------------------------
+ the conflict that could 
+arise when proposed federal actions intersect with tribal sovereignty. Tribal 
+consultation is designed to identify and avoid such potential conflict. 
+National Historic Preservation Act – This statute requires programs to consider 
+potential impacts on historic properties (such as buildings and archaeological 
+sites) and requires coordination with local State Historic Preservation Offices. 
+Documentation under this Act involves inventorying the project area for historic 
+properties and determining what effects, if any, the project may have on them. 
+This process may require public involvement and comment prior to the start of 
+program activities. 
+Coastal Zone Management Act – This statute requires coordination with states 
+where programs may impact Coastal Zone Management Plans. Federal activities 
+that may affect coastal resources are evaluated through a process called “federal 
+consistency”. This process allows the public, local governments, Tribes, and state 
+agencies an opportunity to review the federal action. The federal consistency 
+process is administered individually by states with Coastal Zone Management 
+Plans. 
+Environmental Justice – This Executive Order requires consideration of 
+program impacts on minority and economically disadvantaged populations. 
+Compliance is usually achieved within the NEPA documentation for a project. 
+Programs are required to consider if the actions might disproportionally impact 
+minority or economically disadvantaged populations, and if so, how such impact 
+will be avoided. 
+Protection of Children –This Executive Order requires federal agencies to 
+identify, assess, and address environmental health risks and safety risks that may 
+disproportionately affect children. If such a risk is identified, then measures must 
+be described and implemented to minimize such risks.  
+Last update 23MAY2023 Anastrepha spp. 36 
+ 
+Authors and Reviewers 
+ 
+Authors 
+Ish
+Text Len: 1951
+--------------------------------------------------------------------------------
+, assess, and address environmental health risks and safety risks that may 
+disproportionately affect children. If such a risk is identified, then measures must 
+be described and implemented to minimize such risks.  
+Last update 23MAY2023 Anastrepha spp. 36 
+ 
+Authors and Reviewers 
+ 
+Authors 
+Ishakh Pulakkatu-thodi, Ph.D., NCSU–CIPM 
+Lauren E. Quevillon, Ph.D., NCSU–CIPM 
+Jennifer C. Cook, Ph.D., NCSU–CIPM 
+ 
+Editor 
+Rosemary Hallberg, NCSU–CIPM 
+ 
+Reviewers 
+Maria Victoria Albarracin, Ph.D., USDA–APHIS–PPQ 
+Corinna Bazelet, Ph.D., USDA–APHIS–PPQ 
+Thomas Culliney, Ph.D., USDA–APHIS–PPQ 
+Guadalupe Gracia, USDA–APHIS–PPQ 
+Michelle L. Gray, USDA–APHIS–PPQ 
+Richard Johnson, Ph.D., USDA–APHIS–PPQ 
+Soo-Hoon S. Kim, Ph.D., USDA–APHIS–PPQ 
+Nicholas Manoukis, Ph.D., USDA–ARS–PWA 
+Douglas McPhie, Ph.D., USDA–APHIS–PPQ 
+Godshen Pallipparambil, Ph.D., NCSU–CIPM 
+Diana Pérez-Staples, Ph.D., Instituto de Biotecnología y Ecología Aplicada, 
+Universidad Veracruzana, Veracruz, Mexico 
+
+Text Len: 984
+--------------------------------------------------------------------------------
+–APHIS–PPQ 
+Godshen Pallipparambil, Ph.D., NCSU–CIPM 
+Diana Pérez-Staples, Ph.D., Instituto de Biotecnología y Ecología Aplicada, 
+Universidad Veracruzana, Veracruz, Mexico 
+Shaharra Usnick, Ph. D., USDA–APHIS–PPQ 
+ 
+Last update 23MAY2023 Anastrepha spp. 37 
+Contributors 
+Hui Fang, Ph.D., NCSU–CIPM 
+Global Pest and Disease Database Team 
+Text Len: 339
+--------------------------------------------------------------------------------

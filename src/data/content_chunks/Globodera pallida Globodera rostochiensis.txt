@@ -1,0 +1,2388 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Canada and United States 
+ 
+ 
+Guidelines on  
+Surveillance and Phytosanitary Actions 
+for the Potato Cyst Nematodes 
+Globodera rostochiensis and Globodera pallida 
+ 
+ 
+7 May 2014 
+ 
+Page 2 of 19 
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+1. Introduction ...........................................................................................................................................................3 
+2. Rationale for phytosanitary actions ........................................................................................................................3 
+3. Soil sampling and laboratory analysis procedures .................................................................................................4 
+4. Phytosanitary measures ........................................................................................................................................4 
+5. Regulated articles .................................................................................................................................................5 
+6. National PCN detection survey..............................................................................................................................6 
+7. Pest-free places of production or pest-free production sites within regulated areas ...............................................6 
+8. Phytosanitary certification of seed potatoes ..........................................................................................................7 
+9. Releasing land from regulatory control ..................................................................................................................8 
+11. Duration of guidelines ......................................................................................................................................... 10 
+12. Reporting ............................................................................................................................................................ 10 
+13. Non-compliance and dispute resolution ............................................................................................................... 10 
+14. Acknowledgments & endorsement ..................................................................................................................... 11 
+ 
+Appendix 1 - Definitions .................................................................................................................................................. 12 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements ........................................................................... 13 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol .......................................................................................... 14 
+Appendix 4 - Potato Cyst Nematode Bioassay ................................................................................................................ 17 
+Appendix
+Text Len: 3002
+--------------------------------------------------------------------------------
+
+ 
+Appendix 1 - Definitions .................................................................................................................................................. 12 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements ........................................................................... 13 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol .......................................................................................... 14 
+Appendix 4 - Potato Cyst Nematode Bioassay ................................................................................................................ 17 
+Appendix 5 - Confirmatory Policy for Suspect Potato Cyst Nematode (PCN) Infestations ................................................... 19 
+ 
+ 
+Page 3 of 19 
+ 
+1. Introduction 
+ 
+The Canadian Food Inspection Agency (CFIA) and the United States Department of Agriculture Animal 
+and Plant Health Inspection Service (USDA-APHIS) are the National Plant Protection Organizations 
+(NPPO) of their respective countries. These guidelines (hereafter referred to as “the Guidelines”) on 
+Surveillance and Phytosanitary Actions for Globodera rostochiensis and Globodera pallida, also referred 
+to as Potato Cyst Nematodes (PCN), were developed by both organizations in consultation with 
+stakeholders from both countries to: 
+ 
+Outline the phytosanitary measures to be taken on the detection of PCN. 
+Provide guidance to the NPPOs on long term management and/or release of fields in regulated 
+areas. 
+   Establish the requirements for the movement of seed potatoes and other regulated articles 
+between the two countries. 
+ 
+The Guidelines are intended to ensure predictable and equivalent science-based phytosanitary 
+actions in both countries. The establishment of risk-based regulatory controls and processes for the 
+movement of regulated articles is intended to prevent the spread of PCN. 
+ 
+The Guidelines were developed in accordance with the principles
+Text Len: 1993
+--------------------------------------------------------------------------------
+ other regulated articles 
+between the two countries. 
+ 
+The Guidelines are intended to ensure predictable and equivalent science-based phytosanitary 
+actions in both countries. The establishment of risk-based regulatory controls and processes for the 
+movement of regulated articles is intended to prevent the spread of PCN. 
+ 
+The Guidelines were developed in accordance with the principles of the International Plant 
+Protection Convention (IPPC) and the World Trade Organization Agreement on the Application of 
+Sanitary and Phytosanitary Measures. The Guidelines also take into account recommendations of 
+an Independent International Science Panel consisting of scientists with direct knowledge and 
+experience with PCN and the recommendations of potato industry stakeholders including the 
+National Potato Council and the Canadian Horticultural Council – Canadian Potato Council, as well 
+as the views of the U.S. National Plant Board.  Relevant terms are defined by the IPPC unless 
+otherwise noted in Appendix 1. 
+ 
+2. Rationale for phytosanitary actions 
+ 
+Potato Cyst Nematodes are considered quarantine pests for Canada and the United States. Existing 
+evidence indicates that these pests are not widely distributed in Canada and the United States. 
+Where present in the United States and Canada they are of limited distribution and under official 
+control. 
+ 
+PCNs are long-lived soil-borne pests that are difficult to detect at very low populations with cysts 
+containing viable eggs known to survive decades in the soil. Once PCN is present, there is no quick, 
+economical and effective treatment.  Control of PCN is difficult and requires integrated approaches 
+that utilize phytosanitary measures including ongoing surveillance and testing, treatment 
+(nematicides), and the adoption of cultural practices (e.g. crop rotation, use of resistant varieties, trap 
+Text Len: 1877
+--------------------------------------------------------------------------------
+ in the soil. Once PCN is present, there is no quick, 
+economical and effective treatment.  Control of PCN is difficult and requires integrated approaches 
+that utilize phytosanitary measures including ongoing surveillance and testing, treatment 
+(nematicides), and the adoption of cultural practices (e.g. crop rotation, use of resistant varieties, trap 
+cropping, and host avoidance). 
+ 
+The movement of seed potatoes and other articles with soil presents the highest risk for the 
+movement of these pests.  Appropriate surveillance and regulatory controls are essential to 
+minimize the risk of PCN spread. 
+ 
+Page 4 of 19 
+ 
+3. Soil sampling and laboratory analysis procedures 
+ 
+CFIA and USDA-APHIS officials have agreed on harmonized soil sampling and laboratory 
+analysis procedures in keeping with internationally recognized standards. All soil samples are to 
+be officially collected and submitted to and processed by NPPO-recognized laboratories. 
+ 
+When applicable, the NPPO will provide the procedures used for PCN delimiting and detection 
+surveys to stakeholders and co- operators. 
+ 
+ 
+4. Phytosanitary measures 
+ 
+In response to a new PCN detection, the procedures in Appendix 5 must be used to confirm a PCN 
+infestation within a field where cysts were detected. The NPPO will also initiate immediate 
+phytosanitary measures to prevent potential PCN spread to non-infested areas. These actions will 
+include the steps below: 
+ 
+4.1 Fields where PCN infestation is confirmed 
+ 
+1. Restrict movement of regulated articles (Section 5) from the infested field .  
+2. NPPO and cooperators will investigate any historical movement of the regulated articles that 
+
+Text Len: 1674
+--------------------------------------------------------------------------------
+ potential PCN spread to non-infested areas. These actions will 
+include the steps below: 
+ 
+4.1 Fields where PCN infestation is confirmed 
+ 
+1. Restrict movement of regulated articles (Section 5) from the infested field .  
+2. NPPO and cooperators will investigate any historical movement of the regulated articles that 
+may have been associated with the infested field in order to identify potentially exposed 
+fields. 
+3. Restrict movement of regulated articles (Section 5) from all fields identified as adjacent or 
+exposed to the infested field. 
+4. The adjacent, exposed and infested fields will make up the initial regulated area and will be 
+subject to all sampling and regulatory controls outlined in Section 9. 
+5. If the PCN infested field was used for seed potato production, trace forward information must 
+be collected for the seed lots produced on the infested field.  The fields planted with seed 
+potatoes originating from the last potato crop grown on the infested field must be part of the 
+regulated area as exposed fields. 
+6. Fields used as seed sources for the infested field will be prioritized for surveys but are not 
+necessarily included as part of the regulated area. Seed potato movement from these fields is 
+restricted until the surveys of these individual fields have been completed.  
+7. Any deregulation of the initial regulated area should occur as outlined in Section 9.  
+ 
+4.2 Fields undergoing confirmation of PCN infestation 
+ 
+In some cases, fields where PCN may have been detected may not immediately be considered 
+as infested with PCN (Appendix 5).  Fields undergoing confirmation of PCN infestation are 
+considered suspect fields and should be treated as follows: 
+ 
+1. Restrict movement of regulated articles (Section 5
+Text Len: 1765
+--------------------------------------------------------------------------------
+2 Fields undergoing confirmation of PCN infestation 
+ 
+In some cases, fields where PCN may have been detected may not immediately be considered 
+as infested with PCN (Appendix 5).  Fields undergoing confirmation of PCN infestation are 
+considered suspect fields and should be treated as follows: 
+ 
+1. Restrict movement of regulated articles (Section 5) from the suspect field where the sample 
+was collected. 
+2. Initiate investigations of any historical movement of the regulated articles that may have 
+been associated with the suspect field in order to identify potentially exposed fields. 
+3. If a suspect field cannot be confirmed as infested with PCN after following all of the 
+procedures outlined in Appendix 5, all phytosanitary measures are removed.  
+4. If the suspect field is confirmed as PCN positive, that field as well as adjacent and exposed 
+fields will be regulated  and will be subject to all sampling and regulatory controls outlined in 
+Section 9.  
+ 
+While the investigation described above is being conducted, the PCN phytosanitary certification 
+requirements for seed potatoes traded between the two countries (Section 8) will provide the 
+ 
+Page 5 of 19 
+ 
+necessary safeguards to permit the undisrupted trade of seed potatoes from fields outside of 
+the regulated area. 
+ 
+5. Regulated articles 
+Regulated articles include, but are not limited to: 
+Cysts of Globodera rostochiensis and G. pallida; 
+Soil; 
+PCN host crops; and 
+Any other article that could result in the movement of soil or PCN. 
+ 
+Because the principal pathway  of moving PCN is soil associated with equipment, potato tubers, root 
+crops, nursery stock or other articles that move soil
+Text Len: 1680
+--------------------------------------------------------------------------------
+odera rostochiensis and G. pallida; 
+Soil; 
+PCN host crops; and 
+Any other article that could result in the movement of soil or PCN. 
+ 
+Because the principal pathway  of moving PCN is soil associated with equipment, potato tubers, root 
+crops, nursery stock or other articles that move soil, it is important to regulate these articles to 
+mitigate potential PCN spread. Equipment and regulated commodities can move from PCN-
+regulated areas only after they meet risk mitigation requirements outlined in Table 1, or under 
+compliance agreements, as authorized by the respective NPPO. The NPPO, in collaboration with its 
+respective partners, is responsible for implementing all necessary regulatory controls within a 
+regulated area, for monitoring the effectiveness of such controls, and for ensuring compliance to 
+minimize the possibility of spreading PCN. 
+ 
+To initiate regulatory controls and establish regulated areas, Canada will issue individual 
+notices of restrictions, ministerial orders and/or regulations. The United States will use a 
+combination of emergency action notification, state rules, and federal regulations to create 
+a regulated area(s). 
+ 
+ 
+ 
+Page 6 of 19 
+ 
+Table 1. Requirements for moving regulated articles from regulated areas, farm units or fields (including infested, 
+exposed, and adjacent fields) 
+Articles From a PCN-regulated area 
+Non-host nursery 
+stock, bulbs, corms, 
+rhizomes, tubers of 
+ornamental plants, 
+grass sod (field grown 
+in soil) 
+ The movement of soil and related matter is prohibited, except as described in section 7. 
+ Must be washed free of soil and originate from a field found free of PCN based on a
+Text Len: 1663
+--------------------------------------------------------------------------------
+, bulbs, corms, 
+rhizomes, tubers of 
+ornamental plants, 
+grass sod (field grown 
+in soil) 
+ The movement of soil and related matter is prohibited, except as described in section 7. 
+ Must be washed free of soil and originate from a field found free of PCN based on a survey 
+(Method A) conducted within the last 36 months, except as described in section 7. 
+ Plants for planting and propagation may be produced in soil-less growing media in an enclosed 
+facility, or in containers in a PCN pest-free place of production, as described in section 7. 
+ Field-grown plants for planting and propagation may be produced in a PCN pest-free place of 
+production, as described in section 7. 
+ Plants with soil must originate from outside the regulated areas and have been handled and grown 
+in a manner to prevent PCN infestation, as described in section 7. 
+ Other requirements may apply. 
+Potatoes – not for 
+planting (including 
+processing and table 
+stock) 
+ Potatoes should be grown under an ongoing NPPO-approved PCN management plan. 
+ Processing potatoes (e.g, chipping, dehydration, French fry) must be processed under regulatory 
+control (compliance agreements) at an NPPO-approved processing facility. 
+ Potatoes destined for fresh consumption (i.e., table stock) must be washed, sprout-inhibited and 
+commercially packed under regulatory control (compliance agreements) at an NPPO-approved 
+facility. 
+ Government-issued movement certificates or permits are required to move both table stock and 
+processing potatoes outside of the
+Text Len: 1544
+--------------------------------------------------------------------------------
+
+ Potatoes destined for fresh consumption (i.e., table stock) must be washed, sprout-inhibited and 
+commercially packed under regulatory control (compliance agreements) at an NPPO-approved 
+facility. 
+ Government-issued movement certificates or permits are required to move both table stock and 
+processing potatoes outside of the regulated area. 
+Potatoes – seed for 
+planting and 
+recertification 
+ Seed potatoes produced in the regulated area should be grown under an ongoing NPPO- 
+approved PCN management plan, and they must not be planted outside of that regulated area. 
+Soybeans, peas, 
+beans, hay, straw and 
+plant litter 
+ Regulated articles must not be contaminated with soil. 
+Root crops (other than 
+potatoes) 
+ Root crops should be grown only under an ongoing NPPO-approved PCN management plan. Root 
+crops that are to be used for processing must be processed under regulatory control (compliance 
+agreements) at an NPPO-approved processing facility. 
+ Root crops destined for fresh consumption must be washed and commercially packed under 
+regulatory control (compliance agreements) at an NPPO-approved facility. 
+ Government-issued movement certificates are required to move root crops outside of the regulated 
+area. 
+Farm equipment, farm 
+tools, used containers 
+and any other 
+equipment or 
+conveyances that may 
+carry soil. 
+ Must be cleaned free of soil or disinfested, as required by the NPPO, and accompanied by a 
+movement certificate prior to leaving the regulated area. 
+Note: There are no specific requirements for articles from outside of a PCN regulated
+Text Len: 1590
+--------------------------------------------------------------------------------
+ 
+and any other 
+equipment or 
+conveyances that may 
+carry soil. 
+ Must be cleaned free of soil or disinfested, as required by the NPPO, and accompanied by a 
+movement certificate prior to leaving the regulated area. 
+Note: There are no specific requirements for articles from outside of a PCN regulated area, 
+however, other requirements may apply. 
+ 
+ 
+6. National PCN detection survey 
+ 
+Canada and the United States will survey a portion of the annual seed potato acreage in each country. 
+Land used for seed potato production, including land owned by universities, government or other 
+research organizations, should be surveyed as a part of any survey efforts. The recommended 
+survey rate is Method B (Appendix 2). 
+ 
+ 
+7. Pest-free places of production or pest-free production sites within regulated areas 
+ 
+Pest-free places of production (PFPP) and pest-free production sites (PFPS), as described in ISPM 
+No. 10, are allowed within regulated areas, on a case by case basis, provided that they maintain a 
+compliance agreement with the applicable NPPO.
+ 
+Page 7 of 19 
+ 
+7.1. Plants for planting and propagation produced in an enclosed facility, or in 
+containers, including mini-tubers and potato plantlets 
+ 
+PFPS in enclosed facilities may be established in the regulated area provided that the criteria 
+below are met: 
+ 
+    PCN detection survey and testing has been conducted and found negative using 
+minimum of Method A (Appendix 2) if soil is present in the facility; 
+Production practices prevent entry of soil from the surrounding fields into the facility; 
+Soil-less growing media is
+Text Len: 1606
+--------------------------------------------------------------------------------
+ be established in the regulated area provided that the criteria 
+below are met: 
+ 
+    PCN detection survey and testing has been conducted and found negative using 
+minimum of Method A (Appendix 2) if soil is present in the facility; 
+Production practices prevent entry of soil from the surrounding fields into the facility; 
+Soil-less growing media is used; 
+Water used is filtered, treated or from a cased and capped well; 
+Shipping/receiving, parking and other areas are constructed and maintained in a manner 
+that prevents contact with soil; 
+A 4.6 m (5 yd.) perimeter around the site is maintained free of PCN hosts; 
+Facility floors are constructed to provide separation from the underlying soil; and 
+Equipment is rendered free of soil prior to entry into the facility and when moved outside of 
+the regulated area. 
+ 
+7.2. Field-grown plants for planting and propagation 
+ 
+PFPP producing field-grown plants may be established in the regulated area, except in infested 
+fields, provided the criteria below are met: 
+ 
+ There is no history of host crop production within the last 10 years; 
+ PCN detection survey & testing has been conducted and found negative (using Method A);    
+ Ongoing PCN detection survey may be conducted every 36 months (using Method B); and  
+ Minimum 4.6 m (5 yd.) buffer around the site is maintained free of PCN hosts. 
+ 
+8. Phytosanitary certification of seed potatoes 
+ 
+To be eligible for phytosanitary export certification, fields used to produce seed potatoes traded 
+between Canada and the United States must meet the following conditions:  
+ 
+
+Text Len: 1594
+--------------------------------------------------------------------------------
+.6 m (5 yd.) buffer around the site is maintained free of PCN hosts. 
+ 
+8. Phytosanitary certification of seed potatoes 
+ 
+To be eligible for phytosanitary export certification, fields used to produce seed potatoes traded 
+between Canada and the United States must meet the following conditions:  
+ 
+ The field from which the seed potato shipment originates must be sampled following the production 
+of a potato crop at a minimum rate of Method B and test negative; or 
+ 
+ A field that has been surveyed two times at a minimum rate of Method B and found negative for 
+PCN would be exempt from further PCN surveys for the following three potato crops.  Following the 
+exempt period, the field would be subject to an additional survey at a minimum rate of Method B, 
+and if found negative, that field would again be exempt for an additional three potato crops. (Note: 
+Surveys conducted at a minimum rate of Method B since 2009 count toward the two survey 
+requirement.)   
+ 
+These fields must have never had a PCN detection or be under the regulatory controls described in 
+Sections 4 and 9.  PCN survey and laboratory testing of the field(s) used to produce the seed potatoes 
+identified for export to the other country must be completed prior to the issuance of any phytosanitary 
+certificate for the seed potato shipments from that field(s).  
+ 
+Shipments of seed potato samples consisting of 500 tubers or less for trials or research purposes are 
+exempt from these requirements, provided the field has been previously surveyed and found negative 
+for PCN.   
+ 
+The following additional declaration will appear on phytosanitary certificates associated with 
+commercial shipments of seed potatoes traded between Canada
+Text Len: 1722
+--------------------------------------------------------------------------------
+s).  
+ 
+Shipments of seed potato samples consisting of 500 tubers or less for trials or research purposes are 
+exempt from these requirements, provided the field has been previously surveyed and found negative 
+for PCN.   
+ 
+The following additional declaration will appear on phytosanitary certificates associated with 
+commercial shipments of seed potatoes traded between Canada and the United States: 
+ 
+“Field(s) used to produce the seed potatoes in this shipment were surveyed and tested according to 
+ 
+Page 8 of 19 
+ 
+the current PCN guidelines, and potato cyst nematodes (Globodera rostochiensis or Globodera pallida) 
+were not detected.” 
+ 
+The following additional declaration will appear on phytosanitary certificates associated with shipments 
+of regulated articles produced in a PFPP or PFPS traded between Canada and the United States 
+(Section 7): 
+ 
+“The articles in this shipment were grown in a PCN-free place of production or pest-free production site 
+and in a manner to prevent infestation by potato cyst nematodes (Globodera rostochiensis and 
+Globodera pallida).” 
+ 
+9. Releasing land from regulatory control 
+ 
+This section describes a step-wise reduction of phytosanitary measures that can lead to the 
+deregulation of all regulated fields . Procedures for sampling and release of suspect fields are 
+described in Appendix 5.  Fields under regulatory control must be managed in compliance with the 
+applicable phytosanitary measures as described in these guidelines.   
+ 
+9.1 Regulated non-agricultural land  
+ 
+There are a number of regulated fields in both Canada and the
+Text Len: 1598
+--------------------------------------------------------------------------------
+ . Procedures for sampling and release of suspect fields are 
+described in Appendix 5.  Fields under regulatory control must be managed in compliance with the 
+applicable phytosanitary measures as described in these guidelines.   
+ 
+9.1 Regulated non-agricultural land  
+ 
+There are a number of regulated fields in both Canada and the United States that have been 
+converted to non-agricultural uses.  Non-agricultural land includes but is not limited to, 
+highways or other paved roads, paved parking lots, industrial parks, other commercial 
+developments (such as shopping malls, apartment housing, and office complexes), residential 
+developments, state or national parks, other recreational areas, racetracks, golf courses etc.  
+All regulated land in this category may be released under these criteria if it meets the following 
+criteria: 
+ 
+1. Records must be available to determine that the land has been out of agricultural 
+production for the last 20 years and will not return to agriculture; or,  
+2. Construction for non-agricultural purposes has rendered the land non-tillable and is not 
+likely to ever return to agricultural production. 
+ 
+9.2 Regulated agricultural land no longer in host crop production. 
+ 
+There are some fields in Canada and the United States that are regulated and where 
+agriculture does still occur but where all host crop production was prohibited or has ceased for 
+a minimum of 30 years.  This could include formerly infested, adjacent or exposed fields.  
+During this time, the fields may have been used for various purposes, including but not limited 
+to hobby farms, fallow fields, forage crops, grain fields, nurseries, pasture, riding academies, 
+sod farms etc.  All
+Text Len: 1712
+--------------------------------------------------------------------------------
+ has ceased for 
+a minimum of 30 years.  This could include formerly infested, adjacent or exposed fields.  
+During this time, the fields may have been used for various purposes, including but not limited 
+to hobby farms, fallow fields, forage crops, grain fields, nurseries, pasture, riding academies, 
+sod farms etc.  All regulated land in this category may be released if it meets all of the following 
+criteria (except formerly infested fields, which may never be used for seed potato production): 
+ 
+1. Records must be available to determine that land has been out of host crop production for 
+the last 30 years.  
+2. The field is surveyed at a minimum of Method A.   
+3. If  PCN cysts are found, a viability test must be performed on these cysts. 
+4. If no PCN cysts are found or no viable larvae or eggs are detected after viability assay, then 
+the field can be released from regulatory control.  
+5. If host crops are grown after regulatory changes are made, continued surveillance is 
+strongly suggested.  
+ 
+9.3  Adjacent and exposed fields used for host crop production 
+ 
+Adjacent and exposed fields are subject to regulatory measures due to their association with 
+infested fields and the consequent risk they pose for soil-borne spread of PCN. Host crops 
+may be grown in the field as per Section 5. Processing or fresh market potatoes may be grown 
+ 
+Page 9 of 19 
+ 
+on adjacent and exposed fields only for non-seed purposes under regulatory control (i.e., 
+compliance agreements or equivalent). Potatoes may be grown for seed purposes under 
+regulatory control (i.e., compliance agreements or equivalent); however, seed potatoes 
+
+Text Len: 1647
+--------------------------------------------------------------------------------
+ per Section 5. Processing or fresh market potatoes may be grown 
+ 
+Page 9 of 19 
+ 
+on adjacent and exposed fields only for non-seed purposes under regulatory control (i.e., 
+compliance agreements or equivalent). Potatoes may be grown for seed purposes under 
+regulatory control (i.e., compliance agreements or equivalent); however, seed potatoes 
+harvested from adjacent and exposed fields may be used only within that regulated area. 
+Exposed fields are eligible for the lifting of all regulatory controls when conditions 1 and 3, listed 
+below, are met. Adjacent fields, however, are eligible for lifting of all regulatory controls when 
+all of the following conditions are met: 
+ 
+1. Negative surveys. In order to proceed to steps 2 and 3, negative test results must be 
+obtained from one survey using Method A or two surveys using Method B following host 
+crop production. Historical survey data can be used if available and the survey method 
+used is at least comparable to 6000 cc (15 lb) per acre and if the surveys were 
+conducted after the original exposure event occurred. 
+2. Removal of equipment-cleaning requirement. Provided the above surveys are 
+negative, and on a case-by-case evaluation, equipment-cleaning requirements may be 
+removed. 
+3.   Additional surveillance. Following a susceptible host plant crop, conduct one additional 
+survey using Method A. If this survey is negative then all regulatory controls may be lifted 
+on an exposed field. 
+4.   Adjacent fields.  The lifting of all regulatory controls on adjacent fields may occur only 
+following negative bioassay results from the corresponding infested field. 
+ 
+9.4 Infested fields used for host crop production 
+ 
+Infested fields to be used for host plant production
+Text Len: 1748
+--------------------------------------------------------------------------------
+ controls may be lifted 
+on an exposed field. 
+4.   Adjacent fields.  The lifting of all regulatory controls on adjacent fields may occur only 
+following negative bioassay results from the corresponding infested field. 
+ 
+9.4 Infested fields used for host crop production 
+ 
+Infested fields to be used for host plant production are subject to the most stringent 
+phytosanitary measures due to the high risk of soil-borne PCN spread. Potatoes may only be 
+grown under an NPPO approved management plan, unless potatoes are being planted as 
+part of a bioassay.   
+ 
+1. Negative viability assay.  Fields must be surveyed using the Viability Assay Survey 
+(Appendix 2) and viable PCN must not be detected as per the PCN viability assay protocol 
+(Appendix 3). 
+2. Negative bioassay. After a negative viability assay is completed a bioassay must be 
+conducted based on a process identified in Appendix 4. 
+3. Release from equipment cleaning requirement. If the Bioassay is negative, and on a 
+case-by-case evaluation, equipment-cleaning requirements may be removed and host 
+crops may be grown in the field, as per Section 5. 
+4. Continued monitoring or in-field bioassay. Conduct three additional full field surveys 
+using viability assay method. Each survey must be conducted after the harvest of a 
+susceptible host crop.   
+5. Further release from regulatory control If no viable cysts are detected, the field can 
+be released from most regulatory controls except that the field remains restricted for 
+seed potato production. 
+ 
+ 
+ 
+ 
+Page 10 of 19 
+ 
+ 
+10. Review and amendment 
+
+Text Len: 1580
+--------------------------------------------------------------------------------
+ a 
+susceptible host crop.   
+5. Further release from regulatory control If no viable cysts are detected, the field can 
+be released from most regulatory controls except that the field remains restricted for 
+seed potato production. 
+ 
+ 
+ 
+ 
+Page 10 of 19 
+ 
+ 
+10. Review and amendment 
+ 
+A review of these guidelines should be undertaken at the request of either NPPO, or considered at 
+regular intervals of two years from the date of endorsement . Such requests for review will be handled 
+without undue delay. Relevant stakeholders, including the National Potato Coun cil and the Canadian 
+Horticultural Council – Canadian Potato Council, as well as the U.S. National Plant Board, will be 
+consulted in this review pro cess. 
+ 
+While the NPPOs may di scuss proposed amendments to the guideline s, any such amendments will not 
+be applicable until mutual con sent is obtained in writing and signed by autho rized representatives of both 
+NPPOs. 
+ 
+Reviews of the programs within Canada and the United States will be condu cted jointly between both 
+NPPOs on a rotating ba sis and a mutually agreed s chedule. The results of these reviews will be used to 
+improve these guidelines as needed.  
+ 
+11. Duration of guidelines 
+ 
+These guidelines will be implemented and applied immediately after the date of signature by authorized 
+representatives of both NPPOs and will remain in effect unless they are terminated under one of the 
+following conditions: 
+ 
+    An NPPO has the right to terminate these guidelines at its sole discretion at any time after giving 60 
+days written notice to the other NPPO. 
+    The guidelines may be terminated by mutual consent
+Text Len: 1659
+--------------------------------------------------------------------------------
+
+representatives of both NPPOs and will remain in effect unless they are terminated under one of the 
+following conditions: 
+ 
+    An NPPO has the right to terminate these guidelines at its sole discretion at any time after giving 60 
+days written notice to the other NPPO. 
+    The guidelines may be terminated by mutual consent as of a date approved in writing by both NPPOs 
+and as confirmed by the signatures of their authorized representatives. 
+ 
+12. Reporting 
+ 
+To facilitate implementation of these guidelines and ensure timely communication of activities being 
+undertaken, the NPPOs agree to provide reports, including national survey data, on at least an annual 
+basis to stakeholders of both countries. Each individual NPPO is at liberty to communicate with 
+stakeholders regarding issues pertaining to the guidelines within their country. 
+ 
+In addition to reporting on these regulatory guidelines, both CFIA and USDA-APHIS are committed to 
+keeping their respective stakeholders informed about science-based risk mitigation approaches to prevent 
+the spread of PCN. 
+ 
+13. Non-compliance and dispute resolution 
+ 
+In the event of non-compliance with a requirement specified in these guidelines, or regarding the 
+interpretation or implementation, the NPPOs agree to discuss the matter for mutual and prompt resolution. If 
+bilateral discussions between the NPPOs are not able to resolve the dispute the NPPOs will jointly select a 
+facilitator for continued discussions. If the dispute still cannot be resolved, either NPPO may, at its sole 
+discretion, terminate these guidelines immediately or as described above. 
+ 
+ 
+Page 11 of 19 
+ 
+ 
+14. Acknowledgments & endorsement 
+ 
+The CFIA and APHIS hereby acknowledge that the present version
+Text Len: 1754
+--------------------------------------------------------------------------------
+ 
+facilitator for continued discussions. If the dispute still cannot be resolved, either NPPO may, at its sole 
+discretion, terminate these guidelines immediately or as described above. 
+ 
+ 
+Page 11 of 19 
+ 
+ 
+14. Acknowledgments & endorsement 
+ 
+The CFIA and APHIS hereby acknowledge that the present version of the Guidelines represented herein by 
+this document is acceptable to their respective NPPOs.   
+ 
+The CFIA and APHIS also hereby acknowledge and accept that the present version of the Guidelines 
+revokes and replaces the previously signed version of the Guidelines, (June 2009).  In addition, the 
+respective NPPOs recognize as acceptable all the soil sampling, testing and regulatory activities taken 
+under previous versions of the Guidelines.   
+ 
+The CFIA and APHIS will share information regarding any new PCN detections in their respective countries  
+in a timely manner. 
+ 
+The Guidelines have been executed by the authorized representatives of the NPPOs in duplicate copies. 
+ 
+ 
+ 
+ 
+ 
+ 
+   / Original Signed Copy on File /                                            / Original Signed Copy on File /  
+   _________________________               ___________________________ 
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greg Wolff 
+Chief Plant Health
+Text Len: 1285
+--------------------------------------------------------------------------------
+        ___________________________ 
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greg Wolff 
+Chief Plant Health Officer 
+Director—Plant Biosecurity and Forestry Division 
+Canadian Food Inspection Agency 
+Osama El Lissy 
+Deputy Administrator 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service  
+Plant Protection and Quarantine 
+ 
+ 
+Page 12 of 19 
+Appendix 1 - Definitions 
+ 
+Some of the terms below are defined in the IPPC’s Glossary of Phytosanitary Terms (ISPM No. 5). 
+ 
+Adjacent field A field or tract of agricultural land within 13.7 m/15 yards of an infested field. 
+Certified seed potatoes Potato tubers officially accepted and classified as propagative material through a 
+seed potato certification program recognized by the Potato Association of 
+America. 
+Delimiting survey A survey conducted to establish the boundaries of an area considered to be 
+infested by or free from a pest (IPPC, 2007). 
+Detection survey A survey conducted in an area to determine if pests are present (IPPC, 2007) 
+Field A plot of land with defined boundaries within a place of production on which a 
+commodity is grown (IPPC, 2007). 
+Infested field A field in which Globodera rostochiensis or Globodera pallida has been confirmed. 
+Non-exposed field A field determined not to be associated with a PCN-infested field. 
+Exposed field A field where equipment moved
+Text Len: 1398
+--------------------------------------------------------------------------------
+ a place of production on which a 
+commodity is grown (IPPC, 2007). 
+Infested field A field in which Globodera rostochiensis or Globodera pallida has been confirmed. 
+Non-exposed field A field determined not to be associated with a PCN-infested field. 
+Exposed field A field where equipment moved after use in an infested field, or where soil from 
+an infested field was transported, or that received propagative host material 
+from an infested field. 
+Regulated area An area into which, within which and/or from which plants, plant products and 
+other regulated articles are subjected to phytosanitary regulations or procedures 
+to prevent the introduction and/or spread of quarantine pests or to limit the 
+economic impact of regulated non-quarantine pests (IPPC, 2007). 
+Suspect field A field in which one or more cysts consistent with PCN have been detected but 
+where definitive confirmation of a Globodera rostochiensis or Globodera pallida 
+infestation has not yet been made as per Appendix 5. 
+Trace back field A field that provided seed potatoes to an infested field. 
+Trace forward field A field that received seed from an infested field. 
+ 
+ 
+Page 13 of 19 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements 
+ 
+Standard Survey Requirements 
+ 
+Notes:  1. All soil samples must be tested in their entirety. 
+2. 2,000 cc of soil is considered to be one sample of approximately 5 lbs. 
+ 
+Method A: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 20,000 cc soil/ha (20 lb or 8,000 cc soil
+Text Len: 1532
+--------------------------------------------------------------------------------
+ 1. All soil samples must be tested in their entirety. 
+2. 2,000 cc of soil is considered to be one sample of approximately 5 lbs. 
+ 
+Method A: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 20,000 cc soil/ha (20 lb or 8,000 cc soil /acre). 
+ Minimum of 1,000 sampling points/ha (400 points/acre). 
+ Maximum grid cell size of approximately 18 m2 (21.5 yd2). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular-shaped grid cells, the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+Method B: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 5,000 cc soil/ha (5 lb or 2,000 cc soil /acre). 
+ Minimum of 400 sampling points/ha (160 points/acre). 
+ Maximum grid cell size of approximately 30 m2 (36 yd2). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular-shaped grid cells, the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+Viability Assay Survey: 
+ 
+ Sample the foci of the infested field using a fix grid pattern. If the foci have not been identified, 
+sample the entire field. 
+ Minimum of 45,000 cc soil/ha (45 lb or 18,000 cc soil/acre). 
+
+Text Len: 1269
+--------------------------------------------------------------------------------
+. 
+ 
+Viability Assay Survey: 
+ 
+ Sample the foci of the infested field using a fix grid pattern. If the foci have not been identified, 
+sample the entire field. 
+ Minimum of 45,000 cc soil/ha (45 lb or 18,000 cc soil/acre). 
+ Maximum grid cell size of approximately 5 m2 (6 yd2). 
+ Sampling should be accomplished with a soil probe to a minimum depth of 25 cm (10 in.). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular shaped grid cells the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+ 
+Page 14 of 19 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol 
+ 
+The following viability assay is provided here for guidance. Other viability protocols can also be used if 
+scientifically valid. 
+ 
+Meldola’s Blue Viability Assay Protocol 
+ 
+These procedures describe a protocol for evaluating the viability of eggs/juveniles in cysts of Globodera 
+pallida (also known as pale cyst nematode or PCN).  Cyst(s) are soake d in a stain that is absorbed by dead 
+eggs/juveniles and is not absorbed by viable eggs/juveniles. 
+ 
+I. Cyst Storage 
+Cysts recovered from field samples should be stored at room temperature in a secure location prior to 
+viability analysis. 
+ 
+II. Cyst hydration 
+A. Randomly extract 400 cysts from a field sample or  composited field sample.  Place cysts in 1” 
+square
+Text Len: 1388
+--------------------------------------------------------------------------------
+juveniles. 
+ 
+I. Cyst Storage 
+Cysts recovered from field samples should be stored at room temperature in a secure location prior to 
+viability analysis. 
+ 
+II. Cyst hydration 
+A. Randomly extract 400 cysts from a field sample or  composited field sample.  Place cysts in 1” 
+square (inside measurement) mesh bag (Figure 1) and seal bag with heat sealer.  Place mesh 
+bag containing cysts in a clean 20 ml screw-top vial.  If fewer than 400 cysts are available, use 
+as many cysts as possible from a sample or composited sample.  
+B. Hydrate the cysts by adding distilled water to the shoulder of the 20 ml vial (Figure 2).  Replace 
+lid and tighten. 
+C. Allow cysts to hydrate at room temperature for at least 24 hours, but for no longer than 72 
+hours. 
+ 
+III.  Cyst staining 
+A. Remove 10 ml of distilled water from the sample vial containing the hydrated cysts.   
+B. Add 10 ml 0.1% (w/v) Meldola’s blue stain solution to the vial containing the remaining 10 ml of 
+distilled water and hydrated cysts to bring the final concentration of Meldola’s Blue to 0.05%.  
+C. Replace vial lid and store at room temperature for at least 48 hours, but for no longer than 7 
+days.   
+ 
+IV. Reading procedure 
+A. Stack a 200 mesh sieve on top of a 500 mesh sieve and prime them by running tap water 
+through them. Place the stacked sieves onto a 400 ml tri-corner beaker.   
+B.
+Text Len: 1368
+--------------------------------------------------------------------------------
+ room temperature for at least 48 hours, but for no longer than 7 
+days.   
+ 
+IV. Reading procedure 
+A. Stack a 200 mesh sieve on top of a 500 mesh sieve and prime them by running tap water 
+through them. Place the stacked sieves onto a 400 ml tri-corner beaker.   
+B. Transfer the stained cyst packet onto the top of the 200 mesh sieve 
+C. Thoroughly rinse stain off of the packet and cysts using a wash bottle filled with distilled water. 
+D. Crush the cysts by gently pressing the tip of a rubber policeman or a pestle to the cyst packet 
+on the top sieve.  Take care to not over-crush the cysts, as this will break open the eggs and 
+pulverize the juveniles.   
+E. Rinse the cyst packet to ensure that all eggs and juveniles are rinsed through packet and the 
+top (200 mesh) sieve and into the bottom (500 mesh) sieve.  Take care to avoid overflowing the 
+tri-corner beaker with rinsate. 
+i. After the initial rinse, open the packet and prop a plastic slide cover inside the packet to 
+hold it open and rinse again to ensure all eggs and juveniles are removed from the packet.  
+ii. Once all eggs and juveniles are thoroughly rinsed through the top (200 mesh) sieve, 
+remove the top sieve and set aside.   
+iii. Debris from the top sieve should be autoclaved and discarded. 
+F. Rinse eggs/juveniles to the edge of the 500 mesh sieve, and then into a 30 ml graduated 
+conical cylinder.  Add distilled water to the conical until a final volume of 5 or 10 ml
+Text Len: 1459
+--------------------------------------------------------------------------------
+remove the top sieve and set aside.   
+iii. Debris from the top sieve should be autoclaved and discarded. 
+F. Rinse eggs/juveniles to the edge of the 500 mesh sieve, and then into a 30 ml graduated 
+conical cylinder.  Add distilled water to the conical until a final volume of 5 or 10 ml is reached. 
+G. Using the fish tank aerator or a volumetric pipette, bubble the sample for at least 30 seconds to 
+suspend eggs/juveniles in the sample.   
+ 
+ 
+Page 15 of 19 
+H. Transfer 1 ml of the suspension from the graduated conical to a 1 ml counting microscope slide.  
+Cover the slide with a cover slip. 
+I. Use Parafilm to cover the graduated cylinder containing the remaining egg/juvenile suspension.  
+Label the cylinder with the sample ID and date.  The remaining suspension may be stored in 
+the refrigerator for up to 7 days. 
+J. Use the 40x objective of a compound microscope to count the number of stained (purple) and 
+non-stained (pale amber) eggs/juveniles (Figure 3).  Use a dual hand counter to record counts 
+in this step.  
+i. Do not count empty eggs or juveniles that are less than ½ of a full-size juvenile. 
+ii. Count the stained and non-stained eggs/juveniles until a minimum count of 1,000 
+eggs/juveniles on a single slide is achieved.  
+iii. Readers should read a slide in the same direction and from the same starting point to 
+ensure that the same area of a slide is read by each reader. 
+K. If a count of 1,000 eggs/juveniles is not achieved using the first 1
+Text Len: 1479
+--------------------------------------------------------------------------------
+ minimum count of 1,000 
+eggs/juveniles on a single slide is achieved.  
+iii. Readers should read a slide in the same direction and from the same starting point to 
+ensure that the same area of a slide is read by each reader. 
+K. If a count of 1,000 eggs/juveniles is not achieved using the first 1 ml aliquot of egg/juvenile 
+suspension, prepare additional slides as needed from the remaining sample suspension by 
+repeating steps I through K. 
+ 
+V. Controls 
+A. Each day that field samples are analyzed for viability, both positive and negative control 
+samples should also be read.   
+i. Freshly reared Globodera pallida or G. tabacum cysts are suitable for use as controls. 
+ii. Positive and negative controls should be prepared and analyzed separately.  At least 100 
+eggs/juveniles should be counted from each slide preparation of positive and negative 
+controls.  To achieve these counts, at least 4 cysts should be used in each preparation of 
+positive and negative controls.  
+B. Preparation of positive (live) controls: 
+i. Positive controls are to be prepared in the same manner as field-collected viability samples.  
+C. Preparation of negative (killed) controls: 
+i. Negative control cysts are heat-killed by autoclaving for one hour at 121⁰C. 
+ 
+VI. References for Meldola’s Blue viability staining assay 
+Devine, K. J. and P. W. Jones. 2001. Effects of hatching factors on potato cyst nematode hatch 
+and in-egg mortality in soil and in vitro. Nematology 3:65-74. 
+Goffart, H
+Text Len: 1490
+--------------------------------------------------------------------------------
+. 
+ 
+VI. References for Meldola’s Blue viability staining assay 
+Devine, K. J. and P. W. Jones. 2001. Effects of hatching factors on potato cyst nematode hatch 
+and in-egg mortality in soil and in vitro. Nematology 3:65-74. 
+Goffart, H. 1965. Vergleichende Versuche ueber die Faerbung mit Meldola-Blau und Neublau-R als 
+Vitalitaetstest fuer pflanzenparasitaere Nematoden. Nematologica 11:155. 
+Grove, I. G. and P. P. J. Haydock. 2000. Toxicity of 1,3-dichloropropene to the potato cyst 
+nematodes Globodera rostochiensis and G. pallida.  Aspects of Applied Biology 59:103-108. 
+Magnusson, M. L. 1986. Development of Globodera rostochiensis under simulated Nordic 
+conditions. Nematologica 32:438-445. 
+Meyer, S. L. F., Sayre, R. M., and R. N. Huettl. 1988. Comparison of selected stains for 
+distinguishing between live and dead eggs of the plant-parasitic nematode Heterodera glycines.  
+Proceedings of the Helminthological Society of Washington. 55:132-139. 
+Moriarity, F. 1964.  The efficacy of chrysoidin, new blue R, and phloxine B for determining the 
+viability of beet eelworm, Heterodera schatii Schm. Nematologica 10
+Text Len: 1126
+--------------------------------------------------------------------------------
+  
+Proceedings of the Helminthological Society of Washington. 55:132-139. 
+Moriarity, F. 1964.  The efficacy of chrysoidin, new blue R, and phloxine B for determining the 
+viability of beet eelworm, Heterodera schatii Schm. Nematologica 10:644-646. 
+Ogiga, I. R. and R. H.  Estey. 1975.  The use of Meldola Blue and Nile Blue for distinguishing dead 
+from living nematodes. Nematologica 20:271-276. 
+Ryan, N. A., Deliopoulos, T., Jones, P., and P. P. J. Haydock. 2000.  Effects of mycorrhizal fungi 
+on the potato – potato cyst nematode interaction. Aspects of Applied Biology 59:131-140. 
+Twomey, U., Warrior, P., Kerry, B. R., and R. N. Perry. 2000. Effects of the biological nematicide 
+DiTerra®, on hatching of Globodera rostochiensis and G. pallida. Nematology 2(3):355-362. 
+ 
+ 
+Page 16 of 19 
+ 
+Figure 1. Cyst packet. 1” square (inside measurement) mesh bag made from nylon,     
+woven thermoplastic mesh, micron rating 430 um, rectangular size 0.169”; McMaster- 
+Carr #I 029 M SEFAR NITREX 06-250/3 4 
+ 
+ 
+Figure 2.  20 ml vial with water and cysts at sample hydration step 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Text Len: 1099
+--------------------------------------------------------------------------------
+ micron rating 430 um, rectangular size 0.169”; McMaster- 
+Carr #I 029 M SEFAR NITREX 06-250/3 4 
+ 
+ 
+Figure 2.  20 ml vial with water and cysts at sample hydration step 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.  Differential staining of viable and non-viable eggs/juveniles of Globodera pallida 
+ 
+100 µm 
+Viable (non-stained) egg with 
+juvenile nematode inside 
+Non-viable (stained) egg with 
+juvenile nematode inside 
+Fill vial to vial shoulder at the cyst 
+hydration step. 
+ 
+ 
+Page 17 of 19 
+ 
+Appendix 4 - Potato Cyst Nematode Bioassay 
+ 
+ 
+Purpose: 
+ 
+The soil bioassay will be conducted following a negative viability assay (Appendix 3). During the time it 
+takes to complete the bioassay procedure, the normal activities that occur in the regulated fields will 
+continue, including sanitation procedures. 
+ 
+Care must be taken during the bioassay procedure to ensure that the possibility of releasing live PCN 
+cysts or infective juveniles is minimized. Regulatory requirements must be strictly adhered to pertaining to 
+containment, permit and compliance agreement conditions. 
+ 
+Procedure: 
+ 
+Materials required: 
+ 80 mm by 80 mm nylon mesh muslin “tea” bags 
+ 1 gallon (min) pots 
+ 1:3 sterile soil: sterile sand mixture 
+ Growth facilities with required biocontainment and capable of maintaining the
+Text Len: 1305
+--------------------------------------------------------------------------------
+. 
+ 
+Procedure: 
+ 
+Materials required: 
+ 80 mm by 80 mm nylon mesh muslin “tea” bags 
+ 1 gallon (min) pots 
+ 1:3 sterile soil: sterile sand mixture 
+ Growth facilities with required biocontainment and capable of maintaining the required controlled 
+conditions for the bioassay. 
+ 
+Sample the mapped PCN foci in the field at the viability assay sampling rate (Appendix 2). Extract the 
+organic fraction of the soil using a Fenwick can, USDA cyst extractors or other appropriate device. The 
+appropriate organic fraction or flotsam, which contains the PCN cysts and other associated organic matter, 
+is collected in a 250 ml beaker lined with an 80 mm by 80 mm nylon muslin “tea” bag containing a minimum 
+of 20 cysts per pot, when available. Heat seal each ~20 ml of organic fraction in an individual nylon mesh 
+tea bag. 
+ 
+Place up to 4 muslin bags in an appropriate pot with a mixture of 1 part sterile loam soil and 3 parts sterile 
+sand. This volume should be suitable for growing a potato plant to maturity. Up to 4 bags should be placed 
+in each until all bags have been placed in a pot. A potato tuber should be placed in the center of the pot 
+near the bags. 
+ 
+Grow susceptible potato plant to at least 120 days from planting. Any weeds growing in the pots should be 
+promptly removed. Temperatures in the greenhouse or growth chambers during growth periods must not 
+exceed 24oC. Once the potato plant has grown to maturity, the plant must be carefully removed from the 
+soil sand mixture. Examine all visible roots for the presence of
+Text Len: 1549
+--------------------------------------------------------------------------------
+ susceptible potato plant to at least 120 days from planting. Any weeds growing in the pots should be 
+promptly removed. Temperatures in the greenhouse or growth chambers during growth periods must not 
+exceed 24oC. Once the potato plant has grown to maturity, the plant must be carefully removed from the 
+soil sand mixture. Examine all visible roots for the presence of cysts. If necessary, the roots should be 
+washed and the water should be drained into the original pot. If PCN cysts are detected on the roots, the 
+bioassay is considered positive and the fields from which the organic fraction in the muslin bag originated 
+will remain under regulation. If PCN cysts are not detected, the bioassay may immediately continue for up to 
+an additional 2 cycles (no diapause is needed if the fields undergoing bioassay have been out of host 
+production for a minimum of 5 years) . Examine the tea bags for deterioration after plant removal and 
+replace as appropriate. 
+ 
+Repeat the bioassay for two more cycles of growth as described above. Once the final potato plant has 
+grown to maturity, the plant must be carefully removed from the soil sand mixture and the roots and soil and 
+sand mixture examined for cysts. If necessary the roots should be washed. The cysts in the muslin bags 
+must also be examined for viability using the methods described in Appendix 3. Additionally, extract the soil 
+and examine the organic fraction for the presence of cysts. If PCN cysts are detected, the bioassay is 
+considered positive. 
+ 
+A bioassay may also be conducted in the infested fields.  The fields must have been surveyed at a 
+minimum of the viability assay survey and any and all cysts detected must be tested for viability using 
+either the staining method
+Text Len: 1759
+--------------------------------------------------------------------------------
+ the presence of cysts. If PCN cysts are detected, the bioassay is 
+considered positive. 
+ 
+A bioassay may also be conducted in the infested fields.  The fields must have been surveyed at a 
+minimum of the viability assay survey and any and all cysts detected must be tested for viability using 
+either the staining method described in Appendix 3 or viability must be determined by a trained 
+nematologist.  If all of the cysts detected are determined to be non-viable, then a susceptible host crop 
+may be planted on the field in each PCN infestation foci and a minimum of 15ft (4.6 m) buffer completely 
+around each focus within a field.  If the foci within the field are not known, the full field must be planted w ith 
+susceptible hosts.  After the susceptible host crop is grown to maturity, it may be harvested and moved 
+ 
+ 
+Page 18 of 19 
+under compliance agreement (or other appropriate regulatory tool).  After harvest is completed, the field 
+must be surveyed in the areas where the susceptible crops were planted at the viability assay survey rate 
+(45000cc per ha, 18,000cc per acre to a depth of 10 inches/25cm).  Any cysts found must be assayed 
+using an appropriate viability testing method. 
+ 
+The planting of a susceptible host must occur each of the next two growing seasons, followed by harvest 
+and viability assay surveys and viability testing each time to any detected cysts. If all viability results are 
+negative, then the bioassay is considered to be negative and the stepwise process out lined in Section 9 
+may continue. 
+ 
+ 
+ 
+Page 19 of 19 
+ 
+Appendix 5 - Confirmatory Policy for Suspect
+Text Len: 1617
+--------------------------------------------------------------------------------
+ by harvest 
+and viability assay surveys and viability testing each time to any detected cysts. If all viability results are 
+negative, then the bioassay is considered to be negative and the stepwise process out lined in Section 9 
+may continue. 
+ 
+ 
+ 
+Page 19 of 19 
+ 
+Appendix 5 - Confirmatory Policy for Suspect Potato Cyst Nematode (PCN) Infestations 
+Introduction: 
+This policy is specific to PCN and is based on knowledge about the biology and epidemiology of the 
+organism. 
+ 
+Specimens must be identified and confirmed by an NPPO or NPPO-approved laboratory using 
+definitive morphological/morphometric and molecular identification techniques, including those 
+specimens originating from a non-NPPO or non-NPPO-approved laboratory. If the pest is confirmed, 
+regulatory action may result. 
+ 
+Subsequent samples from a field with at least one confirmed positive sample do not require 
+confirmatory testing. If the suspect sample is not an official sample, the collection of an official 
+sample may be required. 
+ 
+ 
+ 
+Morphological and Molecular PCN Confirmation: 
+ 
+Complete, definitive identification of G. pallida or G. rostochiensis is a multi-step process, as follows: 
+ 
+1. Verify that the sample contains suspect Globodera spp. or other cyst nematode genera (such as 
+Cactodera). 
+2. Verify that the suspect cysts and/or any juvenile forms have key characters and are 
+morphometrically within the range of the PCN species. 
+3. Verify that the suspect nematode tissue yields DNA identifiable as a PCN species. (As per PPQ 
+
+Text Len: 1536
+--------------------------------------------------------------------------------
+st nematode genera (such as 
+Cactodera). 
+2. Verify that the suspect cysts and/or any juvenile forms have key characters and are 
+morphometrically within the range of the PCN species. 
+3. Verify that the suspect nematode tissue yields DNA identifiable as a PCN species. (As per PPQ 
+CPHST-Beltsville work instructions posted at www.nahln.org and Skantar et al, 2007 at 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586493/ .) 
+4. Verify that the morphological and molecular analyses concur. 
+ 
+PCN Infested Field Confirmation: 
+ 
+For a field to be considered infested with PCN, the following criteria should be met: 
+ 
+    at least two cysts from two different soil samples with one of those cysts containing viable PCN 
+eggs or juveniles. 
+ 
+If the above criteria are not met, a survey using Method A must be conducted as soon as 
+possible.  If no additional cysts are detected, a Viability Assay Survey must also be conducted 
+following the next susceptible host crop.  If no additional cysts are detected after these surveys 
+then the regulatory controls can be removed.   
+ 
+Fields that do not meet the terms of this policy will not be considered as infested, however, continued 
+monitoring of the fields would be prudent after any susceptible host crops. 
+Fill vial to 
+vial 
+shoulder at 
+the cyst 
+hydration 
+step. 
+Text Len: 1321
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Canada and United States 
+ 
+ 
+Guidelines on  
+Surveillance and Phytosanitary Actions 
+for the Potato Cyst Nematodes 
+Globodera rostochiensis and Globodera pallida 
+ 
+ 
+7 May 2014 
+ 
+Page 2 of 19 
+ 
+ 
+ 
+ 
+Table of Contents 
+ 
+ 
+1. Introduction ...........................................................................................................................................................3 
+2. Rationale for phytosanitary actions ........................................................................................................................3 
+3. Soil sampling and laboratory analysis procedures .................................................................................................4 
+4. Phytosanitary measures ........................................................................................................................................4 
+5. Regulated articles .................................................................................................................................................5 
+6. National PCN detection survey..............................................................................................................................6 
+7. Pest-free places of production or pest-free production sites within regulated areas ...............................................6 
+8. Phytosanitary certification of seed potatoes ..........................................................................................................7 
+9. Releasing land from regulatory control ..................................................................................................................8 
+11. Duration of guidelines ......................................................................................................................................... 10 
+12. Reporting ............................................................................................................................................................ 10 
+13. Non-compliance and dispute resolution ............................................................................................................... 10 
+14. Acknowledgments & endorsement ..................................................................................................................... 11 
+ 
+Appendix 1 - Definitions .................................................................................................................................................. 12 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements ........................................................................... 13 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol .......................................................................................... 14 
+Appendix 4 - Potato Cyst Nematode Bioassay ................................................................................................................ 17 
+Appendix
+Text Len: 3002
+--------------------------------------------------------------------------------
+
+ 
+Appendix 1 - Definitions .................................................................................................................................................. 12 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements ........................................................................... 13 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol .......................................................................................... 14 
+Appendix 4 - Potato Cyst Nematode Bioassay ................................................................................................................ 17 
+Appendix 5 - Confirmatory Policy for Suspect Potato Cyst Nematode (PCN) Infestations ................................................... 19 
+ 
+ 
+Page 3 of 19 
+ 
+1. Introduction 
+ 
+The Canadian Food Inspection Agency (CFIA) and the United States Department of Agriculture Animal 
+and Plant Health Inspection Service (USDA-APHIS) are the National Plant Protection Organizations 
+(NPPO) of their respective countries. These guidelines (hereafter referred to as “the Guidelines”) on 
+Surveillance and Phytosanitary Actions for Globodera rostochiensis and Globodera pallida, also referred 
+to as Potato Cyst Nematodes (PCN), were developed by both organizations in consultation with 
+stakeholders from both countries to: 
+ 
+Outline the phytosanitary measures to be taken on the detection of PCN. 
+Provide guidance to the NPPOs on long term management and/or release of fields in regulated 
+areas. 
+   Establish the requirements for the movement of seed potatoes and other regulated articles 
+between the two countries. 
+ 
+The Guidelines are intended to ensure predictable and equivalent science-based phytosanitary 
+actions in both countries. The establishment of risk-based regulatory controls and processes for the 
+movement of regulated articles is intended to prevent the spread of PCN. 
+ 
+The Guidelines were developed in accordance with the principles
+Text Len: 1993
+--------------------------------------------------------------------------------
+ other regulated articles 
+between the two countries. 
+ 
+The Guidelines are intended to ensure predictable and equivalent science-based phytosanitary 
+actions in both countries. The establishment of risk-based regulatory controls and processes for the 
+movement of regulated articles is intended to prevent the spread of PCN. 
+ 
+The Guidelines were developed in accordance with the principles of the International Plant 
+Protection Convention (IPPC) and the World Trade Organization Agreement on the Application of 
+Sanitary and Phytosanitary Measures. The Guidelines also take into account recommendations of 
+an Independent International Science Panel consisting of scientists with direct knowledge and 
+experience with PCN and the recommendations of potato industry stakeholders including the 
+National Potato Council and the Canadian Horticultural Council – Canadian Potato Council, as well 
+as the views of the U.S. National Plant Board.  Relevant terms are defined by the IPPC unless 
+otherwise noted in Appendix 1. 
+ 
+2. Rationale for phytosanitary actions 
+ 
+Potato Cyst Nematodes are considered quarantine pests for Canada and the United States. Existing 
+evidence indicates that these pests are not widely distributed in Canada and the United States. 
+Where present in the United States and Canada they are of limited distribution and under official 
+control. 
+ 
+PCNs are long-lived soil-borne pests that are difficult to detect at very low populations with cysts 
+containing viable eggs known to survive decades in the soil. Once PCN is present, there is no quick, 
+economical and effective treatment.  Control of PCN is difficult and requires integrated approaches 
+that utilize phytosanitary measures including ongoing surveillance and testing, treatment 
+(nematicides), and the adoption of cultural practices (e.g. crop rotation, use of resistant varieties, trap 
+Text Len: 1877
+--------------------------------------------------------------------------------
+ in the soil. Once PCN is present, there is no quick, 
+economical and effective treatment.  Control of PCN is difficult and requires integrated approaches 
+that utilize phytosanitary measures including ongoing surveillance and testing, treatment 
+(nematicides), and the adoption of cultural practices (e.g. crop rotation, use of resistant varieties, trap 
+cropping, and host avoidance). 
+ 
+The movement of seed potatoes and other articles with soil presents the highest risk for the 
+movement of these pests.  Appropriate surveillance and regulatory controls are essential to 
+minimize the risk of PCN spread. 
+ 
+Page 4 of 19 
+ 
+3. Soil sampling and laboratory analysis procedures 
+ 
+CFIA and USDA-APHIS officials have agreed on harmonized soil sampling and laboratory 
+analysis procedures in keeping with internationally recognized standards. All soil samples are to 
+be officially collected and submitted to and processed by NPPO-recognized laboratories. 
+ 
+When applicable, the NPPO will provide the procedures used for PCN delimiting and detection 
+surveys to stakeholders and co- operators. 
+ 
+ 
+4. Phytosanitary measures 
+ 
+In response to a new PCN detection, the procedures in Appendix 5 must be used to confirm a PCN 
+infestation within a field where cysts were detected. The NPPO will also initiate immediate 
+phytosanitary measures to prevent potential PCN spread to non-infested areas. These actions will 
+include the steps below: 
+ 
+4.1 Fields where PCN infestation is confirmed 
+ 
+1. Restrict movement of regulated articles (Section 5) from the infested field .  
+2. NPPO and cooperators will investigate any historical movement of the regulated articles that 
+
+Text Len: 1674
+--------------------------------------------------------------------------------
+ potential PCN spread to non-infested areas. These actions will 
+include the steps below: 
+ 
+4.1 Fields where PCN infestation is confirmed 
+ 
+1. Restrict movement of regulated articles (Section 5) from the infested field .  
+2. NPPO and cooperators will investigate any historical movement of the regulated articles that 
+may have been associated with the infested field in order to identify potentially exposed 
+fields. 
+3. Restrict movement of regulated articles (Section 5) from all fields identified as adjacent or 
+exposed to the infested field. 
+4. The adjacent, exposed and infested fields will make up the initial regulated area and will be 
+subject to all sampling and regulatory controls outlined in Section 9. 
+5. If the PCN infested field was used for seed potato production, trace forward information must 
+be collected for the seed lots produced on the infested field.  The fields planted with seed 
+potatoes originating from the last potato crop grown on the infested field must be part of the 
+regulated area as exposed fields. 
+6. Fields used as seed sources for the infested field will be prioritized for surveys but are not 
+necessarily included as part of the regulated area. Seed potato movement from these fields is 
+restricted until the surveys of these individual fields have been completed.  
+7. Any deregulation of the initial regulated area should occur as outlined in Section 9.  
+ 
+4.2 Fields undergoing confirmation of PCN infestation 
+ 
+In some cases, fields where PCN may have been detected may not immediately be considered 
+as infested with PCN (Appendix 5).  Fields undergoing confirmation of PCN infestation are 
+considered suspect fields and should be treated as follows: 
+ 
+1. Restrict movement of regulated articles (Section 5
+Text Len: 1765
+--------------------------------------------------------------------------------
+2 Fields undergoing confirmation of PCN infestation 
+ 
+In some cases, fields where PCN may have been detected may not immediately be considered 
+as infested with PCN (Appendix 5).  Fields undergoing confirmation of PCN infestation are 
+considered suspect fields and should be treated as follows: 
+ 
+1. Restrict movement of regulated articles (Section 5) from the suspect field where the sample 
+was collected. 
+2. Initiate investigations of any historical movement of the regulated articles that may have 
+been associated with the suspect field in order to identify potentially exposed fields. 
+3. If a suspect field cannot be confirmed as infested with PCN after following all of the 
+procedures outlined in Appendix 5, all phytosanitary measures are removed.  
+4. If the suspect field is confirmed as PCN positive, that field as well as adjacent and exposed 
+fields will be regulated  and will be subject to all sampling and regulatory controls outlined in 
+Section 9.  
+ 
+While the investigation described above is being conducted, the PCN phytosanitary certification 
+requirements for seed potatoes traded between the two countries (Section 8) will provide the 
+ 
+Page 5 of 19 
+ 
+necessary safeguards to permit the undisrupted trade of seed potatoes from fields outside of 
+the regulated area. 
+ 
+5. Regulated articles 
+Regulated articles include, but are not limited to: 
+Cysts of Globodera rostochiensis and G. pallida; 
+Soil; 
+PCN host crops; and 
+Any other article that could result in the movement of soil or PCN. 
+ 
+Because the principal pathway  of moving PCN is soil associated with equipment, potato tubers, root 
+crops, nursery stock or other articles that move soil
+Text Len: 1680
+--------------------------------------------------------------------------------
+odera rostochiensis and G. pallida; 
+Soil; 
+PCN host crops; and 
+Any other article that could result in the movement of soil or PCN. 
+ 
+Because the principal pathway  of moving PCN is soil associated with equipment, potato tubers, root 
+crops, nursery stock or other articles that move soil, it is important to regulate these articles to 
+mitigate potential PCN spread. Equipment and regulated commodities can move from PCN-
+regulated areas only after they meet risk mitigation requirements outlined in Table 1, or under 
+compliance agreements, as authorized by the respective NPPO. The NPPO, in collaboration with its 
+respective partners, is responsible for implementing all necessary regulatory controls within a 
+regulated area, for monitoring the effectiveness of such controls, and for ensuring compliance to 
+minimize the possibility of spreading PCN. 
+ 
+To initiate regulatory controls and establish regulated areas, Canada will issue individual 
+notices of restrictions, ministerial orders and/or regulations. The United States will use a 
+combination of emergency action notification, state rules, and federal regulations to create 
+a regulated area(s). 
+ 
+ 
+ 
+Page 6 of 19 
+ 
+Table 1. Requirements for moving regulated articles from regulated areas, farm units or fields (including infested, 
+exposed, and adjacent fields) 
+Articles From a PCN-regulated area 
+Non-host nursery 
+stock, bulbs, corms, 
+rhizomes, tubers of 
+ornamental plants, 
+grass sod (field grown 
+in soil) 
+ The movement of soil and related matter is prohibited, except as described in section 7. 
+ Must be washed free of soil and originate from a field found free of PCN based on a
+Text Len: 1663
+--------------------------------------------------------------------------------
+, bulbs, corms, 
+rhizomes, tubers of 
+ornamental plants, 
+grass sod (field grown 
+in soil) 
+ The movement of soil and related matter is prohibited, except as described in section 7. 
+ Must be washed free of soil and originate from a field found free of PCN based on a survey 
+(Method A) conducted within the last 36 months, except as described in section 7. 
+ Plants for planting and propagation may be produced in soil-less growing media in an enclosed 
+facility, or in containers in a PCN pest-free place of production, as described in section 7. 
+ Field-grown plants for planting and propagation may be produced in a PCN pest-free place of 
+production, as described in section 7. 
+ Plants with soil must originate from outside the regulated areas and have been handled and grown 
+in a manner to prevent PCN infestation, as described in section 7. 
+ Other requirements may apply. 
+Potatoes – not for 
+planting (including 
+processing and table 
+stock) 
+ Potatoes should be grown under an ongoing NPPO-approved PCN management plan. 
+ Processing potatoes (e.g, chipping, dehydration, French fry) must be processed under regulatory 
+control (compliance agreements) at an NPPO-approved processing facility. 
+ Potatoes destined for fresh consumption (i.e., table stock) must be washed, sprout-inhibited and 
+commercially packed under regulatory control (compliance agreements) at an NPPO-approved 
+facility. 
+ Government-issued movement certificates or permits are required to move both table stock and 
+processing potatoes outside of the
+Text Len: 1544
+--------------------------------------------------------------------------------
+
+ Potatoes destined for fresh consumption (i.e., table stock) must be washed, sprout-inhibited and 
+commercially packed under regulatory control (compliance agreements) at an NPPO-approved 
+facility. 
+ Government-issued movement certificates or permits are required to move both table stock and 
+processing potatoes outside of the regulated area. 
+Potatoes – seed for 
+planting and 
+recertification 
+ Seed potatoes produced in the regulated area should be grown under an ongoing NPPO- 
+approved PCN management plan, and they must not be planted outside of that regulated area. 
+Soybeans, peas, 
+beans, hay, straw and 
+plant litter 
+ Regulated articles must not be contaminated with soil. 
+Root crops (other than 
+potatoes) 
+ Root crops should be grown only under an ongoing NPPO-approved PCN management plan. Root 
+crops that are to be used for processing must be processed under regulatory control (compliance 
+agreements) at an NPPO-approved processing facility. 
+ Root crops destined for fresh consumption must be washed and commercially packed under 
+regulatory control (compliance agreements) at an NPPO-approved facility. 
+ Government-issued movement certificates are required to move root crops outside of the regulated 
+area. 
+Farm equipment, farm 
+tools, used containers 
+and any other 
+equipment or 
+conveyances that may 
+carry soil. 
+ Must be cleaned free of soil or disinfested, as required by the NPPO, and accompanied by a 
+movement certificate prior to leaving the regulated area. 
+Note: There are no specific requirements for articles from outside of a PCN regulated
+Text Len: 1590
+--------------------------------------------------------------------------------
+ 
+and any other 
+equipment or 
+conveyances that may 
+carry soil. 
+ Must be cleaned free of soil or disinfested, as required by the NPPO, and accompanied by a 
+movement certificate prior to leaving the regulated area. 
+Note: There are no specific requirements for articles from outside of a PCN regulated area, 
+however, other requirements may apply. 
+ 
+ 
+6. National PCN detection survey 
+ 
+Canada and the United States will survey a portion of the annual seed potato acreage in each country. 
+Land used for seed potato production, including land owned by universities, government or other 
+research organizations, should be surveyed as a part of any survey efforts. The recommended 
+survey rate is Method B (Appendix 2). 
+ 
+ 
+7. Pest-free places of production or pest-free production sites within regulated areas 
+ 
+Pest-free places of production (PFPP) and pest-free production sites (PFPS), as described in ISPM 
+No. 10, are allowed within regulated areas, on a case by case basis, provided that they maintain a 
+compliance agreement with the applicable NPPO.
+ 
+Page 7 of 19 
+ 
+7.1. Plants for planting and propagation produced in an enclosed facility, or in 
+containers, including mini-tubers and potato plantlets 
+ 
+PFPS in enclosed facilities may be established in the regulated area provided that the criteria 
+below are met: 
+ 
+    PCN detection survey and testing has been conducted and found negative using 
+minimum of Method A (Appendix 2) if soil is present in the facility; 
+Production practices prevent entry of soil from the surrounding fields into the facility; 
+Soil-less growing media is
+Text Len: 1606
+--------------------------------------------------------------------------------
+ be established in the regulated area provided that the criteria 
+below are met: 
+ 
+    PCN detection survey and testing has been conducted and found negative using 
+minimum of Method A (Appendix 2) if soil is present in the facility; 
+Production practices prevent entry of soil from the surrounding fields into the facility; 
+Soil-less growing media is used; 
+Water used is filtered, treated or from a cased and capped well; 
+Shipping/receiving, parking and other areas are constructed and maintained in a manner 
+that prevents contact with soil; 
+A 4.6 m (5 yd.) perimeter around the site is maintained free of PCN hosts; 
+Facility floors are constructed to provide separation from the underlying soil; and 
+Equipment is rendered free of soil prior to entry into the facility and when moved outside of 
+the regulated area. 
+ 
+7.2. Field-grown plants for planting and propagation 
+ 
+PFPP producing field-grown plants may be established in the regulated area, except in infested 
+fields, provided the criteria below are met: 
+ 
+ There is no history of host crop production within the last 10 years; 
+ PCN detection survey & testing has been conducted and found negative (using Method A);    
+ Ongoing PCN detection survey may be conducted every 36 months (using Method B); and  
+ Minimum 4.6 m (5 yd.) buffer around the site is maintained free of PCN hosts. 
+ 
+8. Phytosanitary certification of seed potatoes 
+ 
+To be eligible for phytosanitary export certification, fields used to produce seed potatoes traded 
+between Canada and the United States must meet the following conditions:  
+ 
+
+Text Len: 1594
+--------------------------------------------------------------------------------
+.6 m (5 yd.) buffer around the site is maintained free of PCN hosts. 
+ 
+8. Phytosanitary certification of seed potatoes 
+ 
+To be eligible for phytosanitary export certification, fields used to produce seed potatoes traded 
+between Canada and the United States must meet the following conditions:  
+ 
+ The field from which the seed potato shipment originates must be sampled following the production 
+of a potato crop at a minimum rate of Method B and test negative; or 
+ 
+ A field that has been surveyed two times at a minimum rate of Method B and found negative for 
+PCN would be exempt from further PCN surveys for the following three potato crops.  Following the 
+exempt period, the field would be subject to an additional survey at a minimum rate of Method B, 
+and if found negative, that field would again be exempt for an additional three potato crops. (Note: 
+Surveys conducted at a minimum rate of Method B since 2009 count toward the two survey 
+requirement.)   
+ 
+These fields must have never had a PCN detection or be under the regulatory controls described in 
+Sections 4 and 9.  PCN survey and laboratory testing of the field(s) used to produce the seed potatoes 
+identified for export to the other country must be completed prior to the issuance of any phytosanitary 
+certificate for the seed potato shipments from that field(s).  
+ 
+Shipments of seed potato samples consisting of 500 tubers or less for trials or research purposes are 
+exempt from these requirements, provided the field has been previously surveyed and found negative 
+for PCN.   
+ 
+The following additional declaration will appear on phytosanitary certificates associated with 
+commercial shipments of seed potatoes traded between Canada
+Text Len: 1722
+--------------------------------------------------------------------------------
+s).  
+ 
+Shipments of seed potato samples consisting of 500 tubers or less for trials or research purposes are 
+exempt from these requirements, provided the field has been previously surveyed and found negative 
+for PCN.   
+ 
+The following additional declaration will appear on phytosanitary certificates associated with 
+commercial shipments of seed potatoes traded between Canada and the United States: 
+ 
+“Field(s) used to produce the seed potatoes in this shipment were surveyed and tested according to 
+ 
+Page 8 of 19 
+ 
+the current PCN guidelines, and potato cyst nematodes (Globodera rostochiensis or Globodera pallida) 
+were not detected.” 
+ 
+The following additional declaration will appear on phytosanitary certificates associated with shipments 
+of regulated articles produced in a PFPP or PFPS traded between Canada and the United States 
+(Section 7): 
+ 
+“The articles in this shipment were grown in a PCN-free place of production or pest-free production site 
+and in a manner to prevent infestation by potato cyst nematodes (Globodera rostochiensis and 
+Globodera pallida).” 
+ 
+9. Releasing land from regulatory control 
+ 
+This section describes a step-wise reduction of phytosanitary measures that can lead to the 
+deregulation of all regulated fields . Procedures for sampling and release of suspect fields are 
+described in Appendix 5.  Fields under regulatory control must be managed in compliance with the 
+applicable phytosanitary measures as described in these guidelines.   
+ 
+9.1 Regulated non-agricultural land  
+ 
+There are a number of regulated fields in both Canada and the
+Text Len: 1598
+--------------------------------------------------------------------------------
+ . Procedures for sampling and release of suspect fields are 
+described in Appendix 5.  Fields under regulatory control must be managed in compliance with the 
+applicable phytosanitary measures as described in these guidelines.   
+ 
+9.1 Regulated non-agricultural land  
+ 
+There are a number of regulated fields in both Canada and the United States that have been 
+converted to non-agricultural uses.  Non-agricultural land includes but is not limited to, 
+highways or other paved roads, paved parking lots, industrial parks, other commercial 
+developments (such as shopping malls, apartment housing, and office complexes), residential 
+developments, state or national parks, other recreational areas, racetracks, golf courses etc.  
+All regulated land in this category may be released under these criteria if it meets the following 
+criteria: 
+ 
+1. Records must be available to determine that the land has been out of agricultural 
+production for the last 20 years and will not return to agriculture; or,  
+2. Construction for non-agricultural purposes has rendered the land non-tillable and is not 
+likely to ever return to agricultural production. 
+ 
+9.2 Regulated agricultural land no longer in host crop production. 
+ 
+There are some fields in Canada and the United States that are regulated and where 
+agriculture does still occur but where all host crop production was prohibited or has ceased for 
+a minimum of 30 years.  This could include formerly infested, adjacent or exposed fields.  
+During this time, the fields may have been used for various purposes, including but not limited 
+to hobby farms, fallow fields, forage crops, grain fields, nurseries, pasture, riding academies, 
+sod farms etc.  All
+Text Len: 1712
+--------------------------------------------------------------------------------
+ has ceased for 
+a minimum of 30 years.  This could include formerly infested, adjacent or exposed fields.  
+During this time, the fields may have been used for various purposes, including but not limited 
+to hobby farms, fallow fields, forage crops, grain fields, nurseries, pasture, riding academies, 
+sod farms etc.  All regulated land in this category may be released if it meets all of the following 
+criteria (except formerly infested fields, which may never be used for seed potato production): 
+ 
+1. Records must be available to determine that land has been out of host crop production for 
+the last 30 years.  
+2. The field is surveyed at a minimum of Method A.   
+3. If  PCN cysts are found, a viability test must be performed on these cysts. 
+4. If no PCN cysts are found or no viable larvae or eggs are detected after viability assay, then 
+the field can be released from regulatory control.  
+5. If host crops are grown after regulatory changes are made, continued surveillance is 
+strongly suggested.  
+ 
+9.3  Adjacent and exposed fields used for host crop production 
+ 
+Adjacent and exposed fields are subject to regulatory measures due to their association with 
+infested fields and the consequent risk they pose for soil-borne spread of PCN. Host crops 
+may be grown in the field as per Section 5. Processing or fresh market potatoes may be grown 
+ 
+Page 9 of 19 
+ 
+on adjacent and exposed fields only for non-seed purposes under regulatory control (i.e., 
+compliance agreements or equivalent). Potatoes may be grown for seed purposes under 
+regulatory control (i.e., compliance agreements or equivalent); however, seed potatoes 
+
+Text Len: 1647
+--------------------------------------------------------------------------------
+ per Section 5. Processing or fresh market potatoes may be grown 
+ 
+Page 9 of 19 
+ 
+on adjacent and exposed fields only for non-seed purposes under regulatory control (i.e., 
+compliance agreements or equivalent). Potatoes may be grown for seed purposes under 
+regulatory control (i.e., compliance agreements or equivalent); however, seed potatoes 
+harvested from adjacent and exposed fields may be used only within that regulated area. 
+Exposed fields are eligible for the lifting of all regulatory controls when conditions 1 and 3, listed 
+below, are met. Adjacent fields, however, are eligible for lifting of all regulatory controls when 
+all of the following conditions are met: 
+ 
+1. Negative surveys. In order to proceed to steps 2 and 3, negative test results must be 
+obtained from one survey using Method A or two surveys using Method B following host 
+crop production. Historical survey data can be used if available and the survey method 
+used is at least comparable to 6000 cc (15 lb) per acre and if the surveys were 
+conducted after the original exposure event occurred. 
+2. Removal of equipment-cleaning requirement. Provided the above surveys are 
+negative, and on a case-by-case evaluation, equipment-cleaning requirements may be 
+removed. 
+3.   Additional surveillance. Following a susceptible host plant crop, conduct one additional 
+survey using Method A. If this survey is negative then all regulatory controls may be lifted 
+on an exposed field. 
+4.   Adjacent fields.  The lifting of all regulatory controls on adjacent fields may occur only 
+following negative bioassay results from the corresponding infested field. 
+ 
+9.4 Infested fields used for host crop production 
+ 
+Infested fields to be used for host plant production
+Text Len: 1748
+--------------------------------------------------------------------------------
+ controls may be lifted 
+on an exposed field. 
+4.   Adjacent fields.  The lifting of all regulatory controls on adjacent fields may occur only 
+following negative bioassay results from the corresponding infested field. 
+ 
+9.4 Infested fields used for host crop production 
+ 
+Infested fields to be used for host plant production are subject to the most stringent 
+phytosanitary measures due to the high risk of soil-borne PCN spread. Potatoes may only be 
+grown under an NPPO approved management plan, unless potatoes are being planted as 
+part of a bioassay.   
+ 
+1. Negative viability assay.  Fields must be surveyed using the Viability Assay Survey 
+(Appendix 2) and viable PCN must not be detected as per the PCN viability assay protocol 
+(Appendix 3). 
+2. Negative bioassay. After a negative viability assay is completed a bioassay must be 
+conducted based on a process identified in Appendix 4. 
+3. Release from equipment cleaning requirement. If the Bioassay is negative, and on a 
+case-by-case evaluation, equipment-cleaning requirements may be removed and host 
+crops may be grown in the field, as per Section 5. 
+4. Continued monitoring or in-field bioassay. Conduct three additional full field surveys 
+using viability assay method. Each survey must be conducted after the harvest of a 
+susceptible host crop.   
+5. Further release from regulatory control If no viable cysts are detected, the field can 
+be released from most regulatory controls except that the field remains restricted for 
+seed potato production. 
+ 
+ 
+ 
+ 
+Page 10 of 19 
+ 
+ 
+10. Review and amendment 
+
+Text Len: 1580
+--------------------------------------------------------------------------------
+ a 
+susceptible host crop.   
+5. Further release from regulatory control If no viable cysts are detected, the field can 
+be released from most regulatory controls except that the field remains restricted for 
+seed potato production. 
+ 
+ 
+ 
+ 
+Page 10 of 19 
+ 
+ 
+10. Review and amendment 
+ 
+A review of these guidelines should be undertaken at the request of either NPPO, or considered at 
+regular intervals of two years from the date of endorsement . Such requests for review will be handled 
+without undue delay. Relevant stakeholders, including the National Potato Coun cil and the Canadian 
+Horticultural Council – Canadian Potato Council, as well as the U.S. National Plant Board, will be 
+consulted in this review pro cess. 
+ 
+While the NPPOs may di scuss proposed amendments to the guideline s, any such amendments will not 
+be applicable until mutual con sent is obtained in writing and signed by autho rized representatives of both 
+NPPOs. 
+ 
+Reviews of the programs within Canada and the United States will be condu cted jointly between both 
+NPPOs on a rotating ba sis and a mutually agreed s chedule. The results of these reviews will be used to 
+improve these guidelines as needed.  
+ 
+11. Duration of guidelines 
+ 
+These guidelines will be implemented and applied immediately after the date of signature by authorized 
+representatives of both NPPOs and will remain in effect unless they are terminated under one of the 
+following conditions: 
+ 
+    An NPPO has the right to terminate these guidelines at its sole discretion at any time after giving 60 
+days written notice to the other NPPO. 
+    The guidelines may be terminated by mutual consent
+Text Len: 1659
+--------------------------------------------------------------------------------
+
+representatives of both NPPOs and will remain in effect unless they are terminated under one of the 
+following conditions: 
+ 
+    An NPPO has the right to terminate these guidelines at its sole discretion at any time after giving 60 
+days written notice to the other NPPO. 
+    The guidelines may be terminated by mutual consent as of a date approved in writing by both NPPOs 
+and as confirmed by the signatures of their authorized representatives. 
+ 
+12. Reporting 
+ 
+To facilitate implementation of these guidelines and ensure timely communication of activities being 
+undertaken, the NPPOs agree to provide reports, including national survey data, on at least an annual 
+basis to stakeholders of both countries. Each individual NPPO is at liberty to communicate with 
+stakeholders regarding issues pertaining to the guidelines within their country. 
+ 
+In addition to reporting on these regulatory guidelines, both CFIA and USDA-APHIS are committed to 
+keeping their respective stakeholders informed about science-based risk mitigation approaches to prevent 
+the spread of PCN. 
+ 
+13. Non-compliance and dispute resolution 
+ 
+In the event of non-compliance with a requirement specified in these guidelines, or regarding the 
+interpretation or implementation, the NPPOs agree to discuss the matter for mutual and prompt resolution. If 
+bilateral discussions between the NPPOs are not able to resolve the dispute the NPPOs will jointly select a 
+facilitator for continued discussions. If the dispute still cannot be resolved, either NPPO may, at its sole 
+discretion, terminate these guidelines immediately or as described above. 
+ 
+ 
+Page 11 of 19 
+ 
+ 
+14. Acknowledgments & endorsement 
+ 
+The CFIA and APHIS hereby acknowledge that the present version
+Text Len: 1754
+--------------------------------------------------------------------------------
+ 
+facilitator for continued discussions. If the dispute still cannot be resolved, either NPPO may, at its sole 
+discretion, terminate these guidelines immediately or as described above. 
+ 
+ 
+Page 11 of 19 
+ 
+ 
+14. Acknowledgments & endorsement 
+ 
+The CFIA and APHIS hereby acknowledge that the present version of the Guidelines represented herein by 
+this document is acceptable to their respective NPPOs.   
+ 
+The CFIA and APHIS also hereby acknowledge and accept that the present version of the Guidelines 
+revokes and replaces the previously signed version of the Guidelines, (June 2009).  In addition, the 
+respective NPPOs recognize as acceptable all the soil sampling, testing and regulatory activities taken 
+under previous versions of the Guidelines.   
+ 
+The CFIA and APHIS will share information regarding any new PCN detections in their respective countries  
+in a timely manner. 
+ 
+The Guidelines have been executed by the authorized representatives of the NPPOs in duplicate copies. 
+ 
+ 
+ 
+ 
+ 
+ 
+   / Original Signed Copy on File /                                            / Original Signed Copy on File /  
+   _________________________               ___________________________ 
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greg Wolff 
+Chief Plant Health
+Text Len: 1285
+--------------------------------------------------------------------------------
+        ___________________________ 
+                                             
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Greg Wolff 
+Chief Plant Health Officer 
+Director—Plant Biosecurity and Forestry Division 
+Canadian Food Inspection Agency 
+Osama El Lissy 
+Deputy Administrator 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service  
+Plant Protection and Quarantine 
+ 
+ 
+Page 12 of 19 
+Appendix 1 - Definitions 
+ 
+Some of the terms below are defined in the IPPC’s Glossary of Phytosanitary Terms (ISPM No. 5). 
+ 
+Adjacent field A field or tract of agricultural land within 13.7 m/15 yards of an infested field. 
+Certified seed potatoes Potato tubers officially accepted and classified as propagative material through a 
+seed potato certification program recognized by the Potato Association of 
+America. 
+Delimiting survey A survey conducted to establish the boundaries of an area considered to be 
+infested by or free from a pest (IPPC, 2007). 
+Detection survey A survey conducted in an area to determine if pests are present (IPPC, 2007) 
+Field A plot of land with defined boundaries within a place of production on which a 
+commodity is grown (IPPC, 2007). 
+Infested field A field in which Globodera rostochiensis or Globodera pallida has been confirmed. 
+Non-exposed field A field determined not to be associated with a PCN-infested field. 
+Exposed field A field where equipment moved
+Text Len: 1398
+--------------------------------------------------------------------------------
+ a place of production on which a 
+commodity is grown (IPPC, 2007). 
+Infested field A field in which Globodera rostochiensis or Globodera pallida has been confirmed. 
+Non-exposed field A field determined not to be associated with a PCN-infested field. 
+Exposed field A field where equipment moved after use in an infested field, or where soil from 
+an infested field was transported, or that received propagative host material 
+from an infested field. 
+Regulated area An area into which, within which and/or from which plants, plant products and 
+other regulated articles are subjected to phytosanitary regulations or procedures 
+to prevent the introduction and/or spread of quarantine pests or to limit the 
+economic impact of regulated non-quarantine pests (IPPC, 2007). 
+Suspect field A field in which one or more cysts consistent with PCN have been detected but 
+where definitive confirmation of a Globodera rostochiensis or Globodera pallida 
+infestation has not yet been made as per Appendix 5. 
+Trace back field A field that provided seed potatoes to an infested field. 
+Trace forward field A field that received seed from an infested field. 
+ 
+ 
+Page 13 of 19 
+Appendix 2 - Potato Cyst Nematodes field soil sampling requirements 
+ 
+Standard Survey Requirements 
+ 
+Notes:  1. All soil samples must be tested in their entirety. 
+2. 2,000 cc of soil is considered to be one sample of approximately 5 lbs. 
+ 
+Method A: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 20,000 cc soil/ha (20 lb or 8,000 cc soil
+Text Len: 1532
+--------------------------------------------------------------------------------
+ 1. All soil samples must be tested in their entirety. 
+2. 2,000 cc of soil is considered to be one sample of approximately 5 lbs. 
+ 
+Method A: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 20,000 cc soil/ha (20 lb or 8,000 cc soil /acre). 
+ Minimum of 1,000 sampling points/ha (400 points/acre). 
+ Maximum grid cell size of approximately 18 m2 (21.5 yd2). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular-shaped grid cells, the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+Method B: 
+ 
+ Sample the entire field in a fixed grid pattern. 
+ Minimum of 5,000 cc soil/ha (5 lb or 2,000 cc soil /acre). 
+ Minimum of 400 sampling points/ha (160 points/acre). 
+ Maximum grid cell size of approximately 30 m2 (36 yd2). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular-shaped grid cells, the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+Viability Assay Survey: 
+ 
+ Sample the foci of the infested field using a fix grid pattern. If the foci have not been identified, 
+sample the entire field. 
+ Minimum of 45,000 cc soil/ha (45 lb or 18,000 cc soil/acre). 
+
+Text Len: 1269
+--------------------------------------------------------------------------------
+. 
+ 
+Viability Assay Survey: 
+ 
+ Sample the foci of the infested field using a fix grid pattern. If the foci have not been identified, 
+sample the entire field. 
+ Minimum of 45,000 cc soil/ha (45 lb or 18,000 cc soil/acre). 
+ Maximum grid cell size of approximately 5 m2 (6 yd2). 
+ Sampling should be accomplished with a soil probe to a minimum depth of 25 cm (10 in.). 
+ For hand sampling, the length of a grid cell should not be greater than 2.5 times the width. 
+ For rectangular shaped grid cells the longest dimension should be parallel to the direction of 
+cultivation. 
+ 
+ 
+Page 14 of 19 
+Appendix 3 - Potato Cyst Nematode Viability Assay Protocol 
+ 
+The following viability assay is provided here for guidance. Other viability protocols can also be used if 
+scientifically valid. 
+ 
+Meldola’s Blue Viability Assay Protocol 
+ 
+These procedures describe a protocol for evaluating the viability of eggs/juveniles in cysts of Globodera 
+pallida (also known as pale cyst nematode or PCN).  Cyst(s) are soake d in a stain that is absorbed by dead 
+eggs/juveniles and is not absorbed by viable eggs/juveniles. 
+ 
+I. Cyst Storage 
+Cysts recovered from field samples should be stored at room temperature in a secure location prior to 
+viability analysis. 
+ 
+II. Cyst hydration 
+A. Randomly extract 400 cysts from a field sample or  composited field sample.  Place cysts in 1” 
+square
+Text Len: 1388
+--------------------------------------------------------------------------------
+juveniles. 
+ 
+I. Cyst Storage 
+Cysts recovered from field samples should be stored at room temperature in a secure location prior to 
+viability analysis. 
+ 
+II. Cyst hydration 
+A. Randomly extract 400 cysts from a field sample or  composited field sample.  Place cysts in 1” 
+square (inside measurement) mesh bag (Figure 1) and seal bag with heat sealer.  Place mesh 
+bag containing cysts in a clean 20 ml screw-top vial.  If fewer than 400 cysts are available, use 
+as many cysts as possible from a sample or composited sample.  
+B. Hydrate the cysts by adding distilled water to the shoulder of the 20 ml vial (Figure 2).  Replace 
+lid and tighten. 
+C. Allow cysts to hydrate at room temperature for at least 24 hours, but for no longer than 72 
+hours. 
+ 
+III.  Cyst staining 
+A. Remove 10 ml of distilled water from the sample vial containing the hydrated cysts.   
+B. Add 10 ml 0.1% (w/v) Meldola’s blue stain solution to the vial containing the remaining 10 ml of 
+distilled water and hydrated cysts to bring the final concentration of Meldola’s Blue to 0.05%.  
+C. Replace vial lid and store at room temperature for at least 48 hours, but for no longer than 7 
+days.   
+ 
+IV. Reading procedure 
+A. Stack a 200 mesh sieve on top of a 500 mesh sieve and prime them by running tap water 
+through them. Place the stacked sieves onto a 400 ml tri-corner beaker.   
+B.
+Text Len: 1368
+--------------------------------------------------------------------------------
+ room temperature for at least 48 hours, but for no longer than 7 
+days.   
+ 
+IV. Reading procedure 
+A. Stack a 200 mesh sieve on top of a 500 mesh sieve and prime them by running tap water 
+through them. Place the stacked sieves onto a 400 ml tri-corner beaker.   
+B. Transfer the stained cyst packet onto the top of the 200 mesh sieve 
+C. Thoroughly rinse stain off of the packet and cysts using a wash bottle filled with distilled water. 
+D. Crush the cysts by gently pressing the tip of a rubber policeman or a pestle to the cyst packet 
+on the top sieve.  Take care to not over-crush the cysts, as this will break open the eggs and 
+pulverize the juveniles.   
+E. Rinse the cyst packet to ensure that all eggs and juveniles are rinsed through packet and the 
+top (200 mesh) sieve and into the bottom (500 mesh) sieve.  Take care to avoid overflowing the 
+tri-corner beaker with rinsate. 
+i. After the initial rinse, open the packet and prop a plastic slide cover inside the packet to 
+hold it open and rinse again to ensure all eggs and juveniles are removed from the packet.  
+ii. Once all eggs and juveniles are thoroughly rinsed through the top (200 mesh) sieve, 
+remove the top sieve and set aside.   
+iii. Debris from the top sieve should be autoclaved and discarded. 
+F. Rinse eggs/juveniles to the edge of the 500 mesh sieve, and then into a 30 ml graduated 
+conical cylinder.  Add distilled water to the conical until a final volume of 5 or 10 ml
+Text Len: 1459
+--------------------------------------------------------------------------------
+remove the top sieve and set aside.   
+iii. Debris from the top sieve should be autoclaved and discarded. 
+F. Rinse eggs/juveniles to the edge of the 500 mesh sieve, and then into a 30 ml graduated 
+conical cylinder.  Add distilled water to the conical until a final volume of 5 or 10 ml is reached. 
+G. Using the fish tank aerator or a volumetric pipette, bubble the sample for at least 30 seconds to 
+suspend eggs/juveniles in the sample.   
+ 
+ 
+Page 15 of 19 
+H. Transfer 1 ml of the suspension from the graduated conical to a 1 ml counting microscope slide.  
+Cover the slide with a cover slip. 
+I. Use Parafilm to cover the graduated cylinder containing the remaining egg/juvenile suspension.  
+Label the cylinder with the sample ID and date.  The remaining suspension may be stored in 
+the refrigerator for up to 7 days. 
+J. Use the 40x objective of a compound microscope to count the number of stained (purple) and 
+non-stained (pale amber) eggs/juveniles (Figure 3).  Use a dual hand counter to record counts 
+in this step.  
+i. Do not count empty eggs or juveniles that are less than ½ of a full-size juvenile. 
+ii. Count the stained and non-stained eggs/juveniles until a minimum count of 1,000 
+eggs/juveniles on a single slide is achieved.  
+iii. Readers should read a slide in the same direction and from the same starting point to 
+ensure that the same area of a slide is read by each reader. 
+K. If a count of 1,000 eggs/juveniles is not achieved using the first 1
+Text Len: 1479
+--------------------------------------------------------------------------------
+ minimum count of 1,000 
+eggs/juveniles on a single slide is achieved.  
+iii. Readers should read a slide in the same direction and from the same starting point to 
+ensure that the same area of a slide is read by each reader. 
+K. If a count of 1,000 eggs/juveniles is not achieved using the first 1 ml aliquot of egg/juvenile 
+suspension, prepare additional slides as needed from the remaining sample suspension by 
+repeating steps I through K. 
+ 
+V. Controls 
+A. Each day that field samples are analyzed for viability, both positive and negative control 
+samples should also be read.   
+i. Freshly reared Globodera pallida or G. tabacum cysts are suitable for use as controls. 
+ii. Positive and negative controls should be prepared and analyzed separately.  At least 100 
+eggs/juveniles should be counted from each slide preparation of positive and negative 
+controls.  To achieve these counts, at least 4 cysts should be used in each preparation of 
+positive and negative controls.  
+B. Preparation of positive (live) controls: 
+i. Positive controls are to be prepared in the same manner as field-collected viability samples.  
+C. Preparation of negative (killed) controls: 
+i. Negative control cysts are heat-killed by autoclaving for one hour at 121⁰C. 
+ 
+VI. References for Meldola’s Blue viability staining assay 
+Devine, K. J. and P. W. Jones. 2001. Effects of hatching factors on potato cyst nematode hatch 
+and in-egg mortality in soil and in vitro. Nematology 3:65-74. 
+Goffart, H
+Text Len: 1490
+--------------------------------------------------------------------------------
+. 
+ 
+VI. References for Meldola’s Blue viability staining assay 
+Devine, K. J. and P. W. Jones. 2001. Effects of hatching factors on potato cyst nematode hatch 
+and in-egg mortality in soil and in vitro. Nematology 3:65-74. 
+Goffart, H. 1965. Vergleichende Versuche ueber die Faerbung mit Meldola-Blau und Neublau-R als 
+Vitalitaetstest fuer pflanzenparasitaere Nematoden. Nematologica 11:155. 
+Grove, I. G. and P. P. J. Haydock. 2000. Toxicity of 1,3-dichloropropene to the potato cyst 
+nematodes Globodera rostochiensis and G. pallida.  Aspects of Applied Biology 59:103-108. 
+Magnusson, M. L. 1986. Development of Globodera rostochiensis under simulated Nordic 
+conditions. Nematologica 32:438-445. 
+Meyer, S. L. F., Sayre, R. M., and R. N. Huettl. 1988. Comparison of selected stains for 
+distinguishing between live and dead eggs of the plant-parasitic nematode Heterodera glycines.  
+Proceedings of the Helminthological Society of Washington. 55:132-139. 
+Moriarity, F. 1964.  The efficacy of chrysoidin, new blue R, and phloxine B for determining the 
+viability of beet eelworm, Heterodera schatii Schm. Nematologica 10
+Text Len: 1126
+--------------------------------------------------------------------------------
+  
+Proceedings of the Helminthological Society of Washington. 55:132-139. 
+Moriarity, F. 1964.  The efficacy of chrysoidin, new blue R, and phloxine B for determining the 
+viability of beet eelworm, Heterodera schatii Schm. Nematologica 10:644-646. 
+Ogiga, I. R. and R. H.  Estey. 1975.  The use of Meldola Blue and Nile Blue for distinguishing dead 
+from living nematodes. Nematologica 20:271-276. 
+Ryan, N. A., Deliopoulos, T., Jones, P., and P. P. J. Haydock. 2000.  Effects of mycorrhizal fungi 
+on the potato – potato cyst nematode interaction. Aspects of Applied Biology 59:131-140. 
+Twomey, U., Warrior, P., Kerry, B. R., and R. N. Perry. 2000. Effects of the biological nematicide 
+DiTerra®, on hatching of Globodera rostochiensis and G. pallida. Nematology 2(3):355-362. 
+ 
+ 
+Page 16 of 19 
+ 
+Figure 1. Cyst packet. 1” square (inside measurement) mesh bag made from nylon,     
+woven thermoplastic mesh, micron rating 430 um, rectangular size 0.169”; McMaster- 
+Carr #I 029 M SEFAR NITREX 06-250/3 4 
+ 
+ 
+Figure 2.  20 ml vial with water and cysts at sample hydration step 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Text Len: 1099
+--------------------------------------------------------------------------------
+ micron rating 430 um, rectangular size 0.169”; McMaster- 
+Carr #I 029 M SEFAR NITREX 06-250/3 4 
+ 
+ 
+Figure 2.  20 ml vial with water and cysts at sample hydration step 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3.  Differential staining of viable and non-viable eggs/juveniles of Globodera pallida 
+ 
+100 µm 
+Viable (non-stained) egg with 
+juvenile nematode inside 
+Non-viable (stained) egg with 
+juvenile nematode inside 
+Fill vial to vial shoulder at the cyst 
+hydration step. 
+ 
+ 
+Page 17 of 19 
+ 
+Appendix 4 - Potato Cyst Nematode Bioassay 
+ 
+ 
+Purpose: 
+ 
+The soil bioassay will be conducted following a negative viability assay (Appendix 3). During the time it 
+takes to complete the bioassay procedure, the normal activities that occur in the regulated fields will 
+continue, including sanitation procedures. 
+ 
+Care must be taken during the bioassay procedure to ensure that the possibility of releasing live PCN 
+cysts or infective juveniles is minimized. Regulatory requirements must be strictly adhered to pertaining to 
+containment, permit and compliance agreement conditions. 
+ 
+Procedure: 
+ 
+Materials required: 
+ 80 mm by 80 mm nylon mesh muslin “tea” bags 
+ 1 gallon (min) pots 
+ 1:3 sterile soil: sterile sand mixture 
+ Growth facilities with required biocontainment and capable of maintaining the
+Text Len: 1305
+--------------------------------------------------------------------------------
+. 
+ 
+Procedure: 
+ 
+Materials required: 
+ 80 mm by 80 mm nylon mesh muslin “tea” bags 
+ 1 gallon (min) pots 
+ 1:3 sterile soil: sterile sand mixture 
+ Growth facilities with required biocontainment and capable of maintaining the required controlled 
+conditions for the bioassay. 
+ 
+Sample the mapped PCN foci in the field at the viability assay sampling rate (Appendix 2). Extract the 
+organic fraction of the soil using a Fenwick can, USDA cyst extractors or other appropriate device. The 
+appropriate organic fraction or flotsam, which contains the PCN cysts and other associated organic matter, 
+is collected in a 250 ml beaker lined with an 80 mm by 80 mm nylon muslin “tea” bag containing a minimum 
+of 20 cysts per pot, when available. Heat seal each ~20 ml of organic fraction in an individual nylon mesh 
+tea bag. 
+ 
+Place up to 4 muslin bags in an appropriate pot with a mixture of 1 part sterile loam soil and 3 parts sterile 
+sand. This volume should be suitable for growing a potato plant to maturity. Up to 4 bags should be placed 
+in each until all bags have been placed in a pot. A potato tuber should be placed in the center of the pot 
+near the bags. 
+ 
+Grow susceptible potato plant to at least 120 days from planting. Any weeds growing in the pots should be 
+promptly removed. Temperatures in the greenhouse or growth chambers during growth periods must not 
+exceed 24oC. Once the potato plant has grown to maturity, the plant must be carefully removed from the 
+soil sand mixture. Examine all visible roots for the presence of
+Text Len: 1549
+--------------------------------------------------------------------------------
+ susceptible potato plant to at least 120 days from planting. Any weeds growing in the pots should be 
+promptly removed. Temperatures in the greenhouse or growth chambers during growth periods must not 
+exceed 24oC. Once the potato plant has grown to maturity, the plant must be carefully removed from the 
+soil sand mixture. Examine all visible roots for the presence of cysts. If necessary, the roots should be 
+washed and the water should be drained into the original pot. If PCN cysts are detected on the roots, the 
+bioassay is considered positive and the fields from which the organic fraction in the muslin bag originated 
+will remain under regulation. If PCN cysts are not detected, the bioassay may immediately continue for up to 
+an additional 2 cycles (no diapause is needed if the fields undergoing bioassay have been out of host 
+production for a minimum of 5 years) . Examine the tea bags for deterioration after plant removal and 
+replace as appropriate. 
+ 
+Repeat the bioassay for two more cycles of growth as described above. Once the final potato plant has 
+grown to maturity, the plant must be carefully removed from the soil sand mixture and the roots and soil and 
+sand mixture examined for cysts. If necessary the roots should be washed. The cysts in the muslin bags 
+must also be examined for viability using the methods described in Appendix 3. Additionally, extract the soil 
+and examine the organic fraction for the presence of cysts. If PCN cysts are detected, the bioassay is 
+considered positive. 
+ 
+A bioassay may also be conducted in the infested fields.  The fields must have been surveyed at a 
+minimum of the viability assay survey and any and all cysts detected must be tested for viability using 
+either the staining method
+Text Len: 1759
+--------------------------------------------------------------------------------
+ the presence of cysts. If PCN cysts are detected, the bioassay is 
+considered positive. 
+ 
+A bioassay may also be conducted in the infested fields.  The fields must have been surveyed at a 
+minimum of the viability assay survey and any and all cysts detected must be tested for viability using 
+either the staining method described in Appendix 3 or viability must be determined by a trained 
+nematologist.  If all of the cysts detected are determined to be non-viable, then a susceptible host crop 
+may be planted on the field in each PCN infestation foci and a minimum of 15ft (4.6 m) buffer completely 
+around each focus within a field.  If the foci within the field are not known, the full field must be planted w ith 
+susceptible hosts.  After the susceptible host crop is grown to maturity, it may be harvested and moved 
+ 
+ 
+Page 18 of 19 
+under compliance agreement (or other appropriate regulatory tool).  After harvest is completed, the field 
+must be surveyed in the areas where the susceptible crops were planted at the viability assay survey rate 
+(45000cc per ha, 18,000cc per acre to a depth of 10 inches/25cm).  Any cysts found must be assayed 
+using an appropriate viability testing method. 
+ 
+The planting of a susceptible host must occur each of the next two growing seasons, followed by harvest 
+and viability assay surveys and viability testing each time to any detected cysts. If all viability results are 
+negative, then the bioassay is considered to be negative and the stepwise process out lined in Section 9 
+may continue. 
+ 
+ 
+ 
+Page 19 of 19 
+ 
+Appendix 5 - Confirmatory Policy for Suspect
+Text Len: 1617
+--------------------------------------------------------------------------------
+ by harvest 
+and viability assay surveys and viability testing each time to any detected cysts. If all viability results are 
+negative, then the bioassay is considered to be negative and the stepwise process out lined in Section 9 
+may continue. 
+ 
+ 
+ 
+Page 19 of 19 
+ 
+Appendix 5 - Confirmatory Policy for Suspect Potato Cyst Nematode (PCN) Infestations 
+Introduction: 
+This policy is specific to PCN and is based on knowledge about the biology and epidemiology of the 
+organism. 
+ 
+Specimens must be identified and confirmed by an NPPO or NPPO-approved laboratory using 
+definitive morphological/morphometric and molecular identification techniques, including those 
+specimens originating from a non-NPPO or non-NPPO-approved laboratory. If the pest is confirmed, 
+regulatory action may result. 
+ 
+Subsequent samples from a field with at least one confirmed positive sample do not require 
+confirmatory testing. If the suspect sample is not an official sample, the collection of an official 
+sample may be required. 
+ 
+ 
+ 
+Morphological and Molecular PCN Confirmation: 
+ 
+Complete, definitive identification of G. pallida or G. rostochiensis is a multi-step process, as follows: 
+ 
+1. Verify that the sample contains suspect Globodera spp. or other cyst nematode genera (such as 
+Cactodera). 
+2. Verify that the suspect cysts and/or any juvenile forms have key characters and are 
+morphometrically within the range of the PCN species. 
+3. Verify that the suspect nematode tissue yields DNA identifiable as a PCN species. (As per PPQ 
+
+Text Len: 1536
+--------------------------------------------------------------------------------
+st nematode genera (such as 
+Cactodera). 
+2. Verify that the suspect cysts and/or any juvenile forms have key characters and are 
+morphometrically within the range of the PCN species. 
+3. Verify that the suspect nematode tissue yields DNA identifiable as a PCN species. (As per PPQ 
+CPHST-Beltsville work instructions posted at www.nahln.org and Skantar et al, 2007 at 
+http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2586493/ .) 
+4. Verify that the morphological and molecular analyses concur. 
+ 
+PCN Infested Field Confirmation: 
+ 
+For a field to be considered infested with PCN, the following criteria should be met: 
+ 
+    at least two cysts from two different soil samples with one of those cysts containing viable PCN 
+eggs or juveniles. 
+ 
+If the above criteria are not met, a survey using Method A must be conducted as soon as 
+possible.  If no additional cysts are detected, a Viability Assay Survey must also be conducted 
+following the next susceptible host crop.  If no additional cysts are detected after these surveys 
+then the regulatory controls can be removed.   
+ 
+Fields that do not meet the terms of this policy will not be considered as infested, however, continued 
+monitoring of the fields would be prudent after any susceptible host crops. 
+Fill vial to 
+vial 
+shoulder at 
+the cyst 
+hydration 
+step. 
+Text Len: 1321
+--------------------------------------------------------------------------------

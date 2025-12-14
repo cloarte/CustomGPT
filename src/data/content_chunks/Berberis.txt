@@ -1,0 +1,576 @@
+INSPECTION MANUAL
+Program History 
+U.S. farm lands produce more than 3 billion bushels of wheat, oats, barley, and rye from about 100
+million acres each year. These four small-grain crops are all potential hosts to the organism causing
+black stem rust (BSR). Under suitable conditions (e.g., susceptible host plant varieties, virulent races of
+the pathogen, suitable environmental conditions) BSR may be responsible for losses in the United
+States of as much as 37 million bushels of grain a year. Without resistant crop varieties and effective
+barberry control programs, losses could grow to 10–30 times present losses. Although chemical control
+of BSR through the application of fungicides is possible, treatment of a low-value crop such as wheat is
+rarely initiated due to the relatively high cost. 
+Breeding varieties of small grains for resistance to BSR began in the United States around 1900
+meeting with rapid success from crosses with wheat varieties from Russia and Turkey. By 1938,
+farmers were planting resistant wheat varieties in the areas of the United States where BSR had been
+most destructive and continued to develop new resistant crop varieties. The difficulty with this approach
+is that while an individual crop variety may be resistant to several races of BSR, there are more than
+200 existing races of BSR. The presence of BSR-susceptible barberry bushes providing the
+opportunity for new hybrid races of BSR to develop complicates the problem further. The use of
+resistant crops alone would never provide farmers with adequate protection from BSR. With the
+increasing demand for U.S. wheat, an alternative method of defense against a catastrophe the
+magnitude of the BSR epidemic of 1916 was needed. 
+The eradication in northern grain-growing regions of susceptible barberry bushes was this alternative
+method. Eradication would delay the onset of
+Text Len: 1871
+--------------------------------------------------------------------------------
+
+resistant crops alone would never provide farmers with adequate protection from BSR. With the
+increasing demand for U.S. wheat, an alternative method of defense against a catastrophe the
+magnitude of the BSR epidemic of 1916 was needed. 
+The eradication in northern grain-growing regions of susceptible barberry bushes was this alternative
+method. Eradication would delay the onset of the annual rust infestations and slow the development of
+new BSR races. Farmers could now safely use resistant varieties for longer periods. In addition,
+breeders would have additional time to develop new resistant varieties. 
+An early attempt at barberry eradication in New England in 1726 had failed because scientists of those
+times did not understand the exact nature of the relationship between barberry and BSR until 1865. In
+1918, the U.S. Department of Agriculture (USDA) initiated a barberry eradication program in
+cooperation with 13 north-central States (Colorado, Illinois, Indiana, Iowa, Michigan, Minnesota,
+Montana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, and Wyoming). In 1935, four
+additional states (Missouri, Pennsylvania, Virginia, and West Virginia) joined the program, followed by
+Washington State in 1944. This time, the program resulted in the destruction of several hundred million
+susceptible barberry and mahonia bushes in over 700,000 square miles. 
+Although barberry eradication is a cooperative project with State personnel, USDA has always played
+a leading role. USDA established Quarantine 38 (7 CFR Part 301.38), the black stem rust (BSR)
+quarantine with the following goals: To prevent the importation of susceptible Berberis and Mahonia
+varieties into the United States. 
+< To prevent the importation of susceptible Berberis and Mahonia varieties into the
+United States 
+< To regulate the interstate
+Text Len: 1835
+--------------------------------------------------------------------------------
+. USDA established Quarantine 38 (7 CFR Part 301.38), the black stem rust (BSR)
+quarantine with the following goals: To prevent the importation of susceptible Berberis and Mahonia
+varieties into the United States. 
+< To prevent the importation of susceptible Berberis and Mahonia varieties into the
+United States 
+< To regulate the interstate movement of susceptible Berberis and Mahonia varieties.
+< To prevent the reintroduction of susceptible Berberis and Mahonia into eradication
+areas. 
+< To eradicate susceptible Berberis and Mahonia varieties from the United States.
+USDA supported the eradication program by providing funding for it and performing the following
+crucial program activities— nursery inspections 
+< surveys 
+< destruction of susceptible plants 
+< certification of resistant plants 
+USDA’s funding for the barberry eradication program ended in 1980. Although several States
+continued some barberry eradication activities, the extensive eradication program also ended in 1980.
+When USDA’s Animal and Plant Health Inspection Service, Plant Protection and Quarantine
+(APHIS-PPQ) proposed ending the black stem rust quarantine in 1981, 17 States and the Crop
+Quality Council requested that PPQ retain the BSR quarantine. PPQ agreed in the absence of a more
+satisfactory solution. In 1985, PPQ and the regional plant boards reevaluated the needs of the BSR
+program, and PPQ decided to retain the quarantine with the following significant changes: Movement of
+rust susceptible nursery stock in the genera Berberis, Mahonia, and Mahoberberis into or through a
+protected area (i.e., former eradication areas that continued to conduct nursery inspections to maintain
+their “susceptible-free status”) would be prohibited. 
+< Movement of rust resistant nursery stock into or through protected
+Text Len: 1802
+--------------------------------------------------------------------------------
+ changes: Movement of
+rust susceptible nursery stock in the genera Berberis, Mahonia, and Mahoberberis into or through a
+protected area (i.e., former eradication areas that continued to conduct nursery inspections to maintain
+their “susceptible-free status”) would be prohibited. 
+< Movement of rust resistant nursery stock into or through protected areas would be
+regulated. 
+< Restrictions for growing or shipping susceptible or resistant varieties between
+unregulated states would be lifted. 
+States must also enforce restrictions on the intrastate movement of regulated articles equivalent to those
+in the BSR quarantine for interstate movement. Other State responsibilities are:
+<  Employing inspectors with the responsibility for issuing and canceling certificates and
+compliance agreements 
+< Training inspectors 
+< Maintaining and enforce an inspection program 
+• Inspect every plant nursery within the State at least once a year 
+• Ensures that the nurseries are free of plants susceptible to BSR 
+< Enforcing the quarantine 
+• Issuance of certificates and limited permits 
+• Conducting periodic surveys to maintain the protected area free of
+rust-susceptible barberry plants  
+Biology 
+The fungus Puccinia graminis causes the disease black stem rust. Although plant pathologists take pains
+to distinguish between the symptoms and the causative organism, in common use, BSR can refer to
+both. This pathogen has a wide host range among species in the grass family, including wheat, oats, rye,
+barley, and timothy, as well as several other wild and cultivated grasses. BSR fungus can attack any
+aboveground part of wheat or other grasses, resulting in smaller, fewer, and lower quality kernels from
+reductions in root and foliage development. Because BSR is a heteroecious (“two houses”) rust, it
+Text Len: 1803
+--------------------------------------------------------------------------------
+ oats, rye,
+barley, and timothy, as well as several other wild and cultivated grasses. BSR fungus can attack any
+aboveground part of wheat or other grasses, resulting in smaller, fewer, and lower quality kernels from
+reductions in root and foliage development. Because BSR is a heteroecious (“two houses”) rust, it also
+has alternate hosts in a different plant family. In this case, the alternate hosts are various species and
+hybrids of Berberis and Mahonia (of the barberry family). Although damage to the alternate hosts is
+minor and mostly cosmetic, the economic significance of the disease to the grain crop varieties it infects
+is extensive. 
+BSR can exist in all areas where host crops are grown, but the disease is usually most damaging in
+moderately moist and northern areas. In the United States, this corresponds to the spring wheat areas
+of the upper Mississippi Valley and the areas to the north. The amount of damage depends upon the
+age of the plant at the time infection. Since northern farmers plant their grain crops relatively late in the
+spring, infection in this area occurs when the plants are young and causes extensive damage. The
+symptoms on wheat appear as long, narrow blisters, parallel to the axis of leaves, stems, and sheaths.
+As the blisters mature, the covering ruptures, revealing powdery masses of brick-red spores (“red rust”
+urediospores). The urediospores can splash or blow to other susceptible wheat or other small grain
+plants where additional infections occur. Several generations of urediospores can be produced in a
+single growing season; it is these repeating infections that cause the most damage to crops. 
+Urediospores do not survive the winter in northern areas. Late in the season, the lesions that had earlier
+produced
+Text Len: 1769
+--------------------------------------------------------------------------------
+ores can splash or blow to other susceptible wheat or other small grain
+plants where additional infections occur. Several generations of urediospores can be produced in a
+single growing season; it is these repeating infections that cause the most damage to crops. 
+Urediospores do not survive the winter in northern areas. Late in the season, the lesions that had earlier
+produced urediospores become dark to black. The second spore type, the teliospores, form in the
+lesion and overwinter on stems and straw of wheat or other grass family hosts. The teliospores
+germinate in the spring producing basidiospores that can infect any susceptible barberry plants in the
+immediate vicinity. It is in the basidiospore stage in the life cycle of the rust that sexual recombination
+occurs, providing the opportunity for developing new races of BSR. Later in the spring, aeciospores
+form on the leaves of infected barberry plants. Aeciospores complete the life cycle of BSR by being
+blown by wind and to wheat or other susceptible grass family hosts and germinating. The life cycle then
+begins again. 
+In southern areas where the weather conditions are mild, BSR does not depend on having to complete
+its entire life cycle in a single growing season. In these areas the fungus can live from year to year by
+overwintering in the uredial stage on susceptible grains and grasses. It is possible for infestations to
+develop early in these areas. If these urediospores blow north in large numbers, epidemics of BSR may
+occur where susceptible grain hosts are present. In the south, the typical infestation involves the more
+gradual development of urediospores, while in the north, infection areas occurs later in the season.
+Eradication of susceptible barberry
+Text Len: 1746
+--------------------------------------------------------------------------------
+ to
+develop early in these areas. If these urediospores blow north in large numbers, epidemics of BSR may
+occur where susceptible grain hosts are present. In the south, the typical infestation involves the more
+gradual development of urediospores, while in the north, infection areas occurs later in the season.
+Eradication of susceptible barberry plants from northern grain-growing areas can reduce the negative
+impact by BSR for a number of reasons— Early season infections are rare; therefore, destructive
+epidemics are also extremely rare. 
+< The opportunity for the development of new BSR races in barberry is reduced
+significantly. 
+< BSR races and resistant varieties of grain maintain their stability for longer periods.
+< Breeders have more time to develop new varieties of resistant wheat and barberry. 
+< Farmers can enjoy the benefits of planting resistant varieties with high yield potentials
+for longer periods.  
+Compliance Agreements 
+Compliance agreements may be executed with nurseries and/or shippers to facilitate the movement of
+regulated articles into or through protected areas in accordance with the requirements stated in Section
+301.38–6 of the BSR regulations. Written compliance agreements may authorize the issuance of either
+limited permits (for the movement of regulated articles through protected areas) or certificates (for the
+movement of regulated articles into or through protected areas).
+Limited Permits 
+Limited permits may be issued, either individually or under compliance agreement, for regulated articles
+not eligible for certification when the applicant can meet the following conditions: The destination(s) to
+which the regulated articles are to be moved must be specified on the limited permit. 
+< The destination(s) to which the regulated articles are to be moved must be outside of a
+protected area. 
+< The regulated article(s) to be moved must be placed in a closed,
+Text Len: 1915
+--------------------------------------------------------------------------------
+ eligible for certification when the applicant can meet the following conditions: The destination(s) to
+which the regulated articles are to be moved must be specified on the limited permit. 
+< The destination(s) to which the regulated articles are to be moved must be outside of a
+protected area. 
+< The regulated article(s) to be moved must be placed in a closed, sealed container that
+prevents the unauthorized removal of the regulated article, and the container must
+remain sealed until the regulated article(s) reaches the final destination stated on the
+limited permit. 
+< At the final destination, the sealed container must be opened only in the presence of an
+inspector or with the authorization of an inspector obtained expressly for that shipment. 
+These conditions can be met in a variety of ways. It will be up to the inspector issuing the limited permit
+or drawing up the compliance agreement to insure that the agreements section of the compliance
+agreement contains language sufficient to insure that the four conditions stated above are met. 
+Certificates 
+Certificates may be issued, either individually or under compliance agreement, for regulated articles that
+are eligible for movement into or through protected areas, when the applicant can meet the following
+conditions: 
+< Plants of the genus Berberis must show at least 2 years’ growth, and must be identified
+as being rust resistant by belonging to a species and/or variety listed in Section
+301.38–2[b]. 
+< Plant parts capable of propagation (seeds, fruits, etc.) of the genus Berberis must be
+identified as being rust resistant by coming from plants belonging to species and/or
+varieties listed in Section 301.38–2[b]. 
+< Plants, seedlings, and plant parts capable of propagation (seeds, fruits, etc.) of the
+genera Mahoberberis and Mahonia must
+Text Len: 1821
+--------------------------------------------------------------------------------
+seeds, fruits, etc.) of the genus Berberis must be
+identified as being rust resistant by coming from plants belonging to species and/or
+varieties listed in Section 301.38–2[b]. 
+< Plants, seedlings, and plant parts capable of propagation (seeds, fruits, etc.) of the
+genera Mahoberberis and Mahonia must be identified as being rust resistant by
+belonging to a species and/or variety listed in Section 301.38–2[c]. 
+< Seed of any of the genera listed above can only be issued a certificate when it can be
+determined that the property at which the seed is produced contains only rust resistant
+species and/or varieties of these genera (Section 301.38–2[a] and [b]). In addition,
+visual inspections must have been conducted to confirm that all Berberis,
+Mahoberberis, and Mahonia plants within one-half mile of the property at which the
+seed is produced are rust resistant. 
+If the identity of plants can be determined by tags or labels attached to the individual plants or pots, the
+certificate may be a stamp affixed to an appropriate shipping document. If the individual plants are not
+labeled as to species and/or variety, each plant (or pot) must have affixed a sticky-back certificate or
+other evidence that the plant meets the APHIS requirements for certification as stated above. 
+General Aids to Identification 
+Inspectors must be able to distinguish between susceptible and resistant species of barberry. This is
+necessary to insure that plants are correctly labeled, that plants are true to type, and in order to identify
+unlabeled plants. In many cases, recognizing a few simple characteristics will enable the inspector to
+identify rust-susceptible barberry species. The rust-susceptible species most likely
+Text Len: 1717
+--------------------------------------------------------------------------------
+ be able to distinguish between susceptible and resistant species of barberry. This is
+necessary to insure that plants are correctly labeled, that plants are true to type, and in order to identify
+unlabeled plants. In many cases, recognizing a few simple characteristics will enable the inspector to
+identify rust-susceptible barberry species. The rust-susceptible species most likely to be encountered is
+the common European barberry, Berberis vulgaris. Other rust-susceptible species that may be
+encountered will frequently have characteristics similar to those that distinguish the common barberry.
+Five types of characteristics will be most helpful in distinguishing rust-susceptible from rust-resistant
+barberry varieties. A guide to how these characteristics may be used is shown in the table below: 
+RUST SUSCEPTIBLE RUST RESISTANT
+LEAVES saw tooth edge smooth edge
+BARK grey reddish brown
+BERRIES in bunches singly or in twos
+SPINES groups of three single
+STEMS straight angled at nodes
+When all of the characteristics commonly associated with a susceptible or resistant species occur
+together, a correct identification can be almost always made. Barberry plants found to have
+sawtooth-edged leaves, grey outer bark, berries occurring in bunches, spines in groups of three, and
+straight stems will usually belong to a rust-susceptible species. Barberry plants found to have
+smooth-edged leaves, brown to reddish-brown bark, berries single or in twos, single spines, and
+strongly angled stems will usually belong to rust-resistant species. 
+Unfortunately, many of the plants encountered in the field will not be as easily identified. In some cases
+the characteristics may be indistinct leaves may be “sort of rough” on the edge, or stems may change
+color, depending on age
+Text Len: 1779
+--------------------------------------------------------------------------------
+, berries single or in twos, single spines, and
+strongly angled stems will usually belong to rust-resistant species. 
+Unfortunately, many of the plants encountered in the field will not be as easily identified. In some cases
+the characteristics may be indistinct leaves may be “sort of rough” on the edge, or stems may change
+color, depending on age. In other cases, the plant may have some characteristics associated with
+rust-susceptible species and other characteristics associated with rust-resistant species. This may be
+due to the fact that the plant is not one of the “typical” species, or that the plant belongs to a hybrid
+variety resulting from a cross between susceptible and resistant species. 
+When plants having characteristics that are not as well defined as those listed above, and/or have a
+mixture of types of characteristics are encountered, further effort will be required to identify the
+particular species or variety to which the plant belongs. To aid in making this identification, two
+additional types of identification systems are provided. The first is taken from an earlier barberry survey
+manual and requires matching of characteristics of the unknown plant with those contained in a series of
+pictures with descriptions of a number of more common berberis and mahonia species. 
+The second identification system involves the use of a key developed by Agriculture Canada.
+Identification using this system involves following the key and making choices depending on the
+characteristics that are present in the unknown plant. This is a more conventional, and often more
+accurate, method but does require that the identifier understand a number of terms that are used by
+taxonomists to describe plant characteristics. 
+Some people will find that one or the other of these two identification systems will work best for them.
+Many people will find that being able to use both systems will be most effective. Regardless of which
+ident
+Text Len: 1954
+--------------------------------------------------------------------------------
+ a more conventional, and often more
+accurate, method but does require that the identifier understand a number of terms that are used by
+taxonomists to describe plant characteristics. 
+Some people will find that one or the other of these two identification systems will work best for them.
+Many people will find that being able to use both systems will be most effective. Regardless of which
+identification system is used, there will be occasions in which the unknown plant does not fit any of the
+descriptions that are provided. This may be due to a poor specimen, inexperience on the part of the
+identifier, or to the fact that the plant in question is not included in either of the keys. If this is the case,
+contact David Long
+ in St. Paul, MN to submit a specimen of the plant for testing of its resistance to
+black stem rust.
+Text Len: 831
+--------------------------------------------------------------------------------
+INSPECTION MANUAL
+Program History 
+U.S. farm lands produce more than 3 billion bushels of wheat, oats, barley, and rye from about 100
+million acres each year. These four small-grain crops are all potential hosts to the organism causing
+black stem rust (BSR). Under suitable conditions (e.g., susceptible host plant varieties, virulent races of
+the pathogen, suitable environmental conditions) BSR may be responsible for losses in the United
+States of as much as 37 million bushels of grain a year. Without resistant crop varieties and effective
+barberry control programs, losses could grow to 10–30 times present losses. Although chemical control
+of BSR through the application of fungicides is possible, treatment of a low-value crop such as wheat is
+rarely initiated due to the relatively high cost. 
+Breeding varieties of small grains for resistance to BSR began in the United States around 1900
+meeting with rapid success from crosses with wheat varieties from Russia and Turkey. By 1938,
+farmers were planting resistant wheat varieties in the areas of the United States where BSR had been
+most destructive and continued to develop new resistant crop varieties. The difficulty with this approach
+is that while an individual crop variety may be resistant to several races of BSR, there are more than
+200 existing races of BSR. The presence of BSR-susceptible barberry bushes providing the
+opportunity for new hybrid races of BSR to develop complicates the problem further. The use of
+resistant crops alone would never provide farmers with adequate protection from BSR. With the
+increasing demand for U.S. wheat, an alternative method of defense against a catastrophe the
+magnitude of the BSR epidemic of 1916 was needed. 
+The eradication in northern grain-growing regions of susceptible barberry bushes was this alternative
+method. Eradication would delay the onset of
+Text Len: 1871
+--------------------------------------------------------------------------------
+
+resistant crops alone would never provide farmers with adequate protection from BSR. With the
+increasing demand for U.S. wheat, an alternative method of defense against a catastrophe the
+magnitude of the BSR epidemic of 1916 was needed. 
+The eradication in northern grain-growing regions of susceptible barberry bushes was this alternative
+method. Eradication would delay the onset of the annual rust infestations and slow the development of
+new BSR races. Farmers could now safely use resistant varieties for longer periods. In addition,
+breeders would have additional time to develop new resistant varieties. 
+An early attempt at barberry eradication in New England in 1726 had failed because scientists of those
+times did not understand the exact nature of the relationship between barberry and BSR until 1865. In
+1918, the U.S. Department of Agriculture (USDA) initiated a barberry eradication program in
+cooperation with 13 north-central States (Colorado, Illinois, Indiana, Iowa, Michigan, Minnesota,
+Montana, Nebraska, North Dakota, Ohio, South Dakota, Wisconsin, and Wyoming). In 1935, four
+additional states (Missouri, Pennsylvania, Virginia, and West Virginia) joined the program, followed by
+Washington State in 1944. This time, the program resulted in the destruction of several hundred million
+susceptible barberry and mahonia bushes in over 700,000 square miles. 
+Although barberry eradication is a cooperative project with State personnel, USDA has always played
+a leading role. USDA established Quarantine 38 (7 CFR Part 301.38), the black stem rust (BSR)
+quarantine with the following goals: To prevent the importation of susceptible Berberis and Mahonia
+varieties into the United States. 
+< To prevent the importation of susceptible Berberis and Mahonia varieties into the
+United States 
+< To regulate the interstate
+Text Len: 1835
+--------------------------------------------------------------------------------
+. USDA established Quarantine 38 (7 CFR Part 301.38), the black stem rust (BSR)
+quarantine with the following goals: To prevent the importation of susceptible Berberis and Mahonia
+varieties into the United States. 
+< To prevent the importation of susceptible Berberis and Mahonia varieties into the
+United States 
+< To regulate the interstate movement of susceptible Berberis and Mahonia varieties.
+< To prevent the reintroduction of susceptible Berberis and Mahonia into eradication
+areas. 
+< To eradicate susceptible Berberis and Mahonia varieties from the United States.
+USDA supported the eradication program by providing funding for it and performing the following
+crucial program activities— nursery inspections 
+< surveys 
+< destruction of susceptible plants 
+< certification of resistant plants 
+USDA’s funding for the barberry eradication program ended in 1980. Although several States
+continued some barberry eradication activities, the extensive eradication program also ended in 1980.
+When USDA’s Animal and Plant Health Inspection Service, Plant Protection and Quarantine
+(APHIS-PPQ) proposed ending the black stem rust quarantine in 1981, 17 States and the Crop
+Quality Council requested that PPQ retain the BSR quarantine. PPQ agreed in the absence of a more
+satisfactory solution. In 1985, PPQ and the regional plant boards reevaluated the needs of the BSR
+program, and PPQ decided to retain the quarantine with the following significant changes: Movement of
+rust susceptible nursery stock in the genera Berberis, Mahonia, and Mahoberberis into or through a
+protected area (i.e., former eradication areas that continued to conduct nursery inspections to maintain
+their “susceptible-free status”) would be prohibited. 
+< Movement of rust resistant nursery stock into or through protected
+Text Len: 1802
+--------------------------------------------------------------------------------
+ changes: Movement of
+rust susceptible nursery stock in the genera Berberis, Mahonia, and Mahoberberis into or through a
+protected area (i.e., former eradication areas that continued to conduct nursery inspections to maintain
+their “susceptible-free status”) would be prohibited. 
+< Movement of rust resistant nursery stock into or through protected areas would be
+regulated. 
+< Restrictions for growing or shipping susceptible or resistant varieties between
+unregulated states would be lifted. 
+States must also enforce restrictions on the intrastate movement of regulated articles equivalent to those
+in the BSR quarantine for interstate movement. Other State responsibilities are:
+<  Employing inspectors with the responsibility for issuing and canceling certificates and
+compliance agreements 
+< Training inspectors 
+< Maintaining and enforce an inspection program 
+• Inspect every plant nursery within the State at least once a year 
+• Ensures that the nurseries are free of plants susceptible to BSR 
+< Enforcing the quarantine 
+• Issuance of certificates and limited permits 
+• Conducting periodic surveys to maintain the protected area free of
+rust-susceptible barberry plants  
+Biology 
+The fungus Puccinia graminis causes the disease black stem rust. Although plant pathologists take pains
+to distinguish between the symptoms and the causative organism, in common use, BSR can refer to
+both. This pathogen has a wide host range among species in the grass family, including wheat, oats, rye,
+barley, and timothy, as well as several other wild and cultivated grasses. BSR fungus can attack any
+aboveground part of wheat or other grasses, resulting in smaller, fewer, and lower quality kernels from
+reductions in root and foliage development. Because BSR is a heteroecious (“two houses”) rust, it
+Text Len: 1803
+--------------------------------------------------------------------------------
+ oats, rye,
+barley, and timothy, as well as several other wild and cultivated grasses. BSR fungus can attack any
+aboveground part of wheat or other grasses, resulting in smaller, fewer, and lower quality kernels from
+reductions in root and foliage development. Because BSR is a heteroecious (“two houses”) rust, it also
+has alternate hosts in a different plant family. In this case, the alternate hosts are various species and
+hybrids of Berberis and Mahonia (of the barberry family). Although damage to the alternate hosts is
+minor and mostly cosmetic, the economic significance of the disease to the grain crop varieties it infects
+is extensive. 
+BSR can exist in all areas where host crops are grown, but the disease is usually most damaging in
+moderately moist and northern areas. In the United States, this corresponds to the spring wheat areas
+of the upper Mississippi Valley and the areas to the north. The amount of damage depends upon the
+age of the plant at the time infection. Since northern farmers plant their grain crops relatively late in the
+spring, infection in this area occurs when the plants are young and causes extensive damage. The
+symptoms on wheat appear as long, narrow blisters, parallel to the axis of leaves, stems, and sheaths.
+As the blisters mature, the covering ruptures, revealing powdery masses of brick-red spores (“red rust”
+urediospores). The urediospores can splash or blow to other susceptible wheat or other small grain
+plants where additional infections occur. Several generations of urediospores can be produced in a
+single growing season; it is these repeating infections that cause the most damage to crops. 
+Urediospores do not survive the winter in northern areas. Late in the season, the lesions that had earlier
+produced
+Text Len: 1769
+--------------------------------------------------------------------------------
+ores can splash or blow to other susceptible wheat or other small grain
+plants where additional infections occur. Several generations of urediospores can be produced in a
+single growing season; it is these repeating infections that cause the most damage to crops. 
+Urediospores do not survive the winter in northern areas. Late in the season, the lesions that had earlier
+produced urediospores become dark to black. The second spore type, the teliospores, form in the
+lesion and overwinter on stems and straw of wheat or other grass family hosts. The teliospores
+germinate in the spring producing basidiospores that can infect any susceptible barberry plants in the
+immediate vicinity. It is in the basidiospore stage in the life cycle of the rust that sexual recombination
+occurs, providing the opportunity for developing new races of BSR. Later in the spring, aeciospores
+form on the leaves of infected barberry plants. Aeciospores complete the life cycle of BSR by being
+blown by wind and to wheat or other susceptible grass family hosts and germinating. The life cycle then
+begins again. 
+In southern areas where the weather conditions are mild, BSR does not depend on having to complete
+its entire life cycle in a single growing season. In these areas the fungus can live from year to year by
+overwintering in the uredial stage on susceptible grains and grasses. It is possible for infestations to
+develop early in these areas. If these urediospores blow north in large numbers, epidemics of BSR may
+occur where susceptible grain hosts are present. In the south, the typical infestation involves the more
+gradual development of urediospores, while in the north, infection areas occurs later in the season.
+Eradication of susceptible barberry
+Text Len: 1746
+--------------------------------------------------------------------------------
+ to
+develop early in these areas. If these urediospores blow north in large numbers, epidemics of BSR may
+occur where susceptible grain hosts are present. In the south, the typical infestation involves the more
+gradual development of urediospores, while in the north, infection areas occurs later in the season.
+Eradication of susceptible barberry plants from northern grain-growing areas can reduce the negative
+impact by BSR for a number of reasons— Early season infections are rare; therefore, destructive
+epidemics are also extremely rare. 
+< The opportunity for the development of new BSR races in barberry is reduced
+significantly. 
+< BSR races and resistant varieties of grain maintain their stability for longer periods.
+< Breeders have more time to develop new varieties of resistant wheat and barberry. 
+< Farmers can enjoy the benefits of planting resistant varieties with high yield potentials
+for longer periods.  
+Compliance Agreements 
+Compliance agreements may be executed with nurseries and/or shippers to facilitate the movement of
+regulated articles into or through protected areas in accordance with the requirements stated in Section
+301.38–6 of the BSR regulations. Written compliance agreements may authorize the issuance of either
+limited permits (for the movement of regulated articles through protected areas) or certificates (for the
+movement of regulated articles into or through protected areas).
+Limited Permits 
+Limited permits may be issued, either individually or under compliance agreement, for regulated articles
+not eligible for certification when the applicant can meet the following conditions: The destination(s) to
+which the regulated articles are to be moved must be specified on the limited permit. 
+< The destination(s) to which the regulated articles are to be moved must be outside of a
+protected area. 
+< The regulated article(s) to be moved must be placed in a closed,
+Text Len: 1915
+--------------------------------------------------------------------------------
+ eligible for certification when the applicant can meet the following conditions: The destination(s) to
+which the regulated articles are to be moved must be specified on the limited permit. 
+< The destination(s) to which the regulated articles are to be moved must be outside of a
+protected area. 
+< The regulated article(s) to be moved must be placed in a closed, sealed container that
+prevents the unauthorized removal of the regulated article, and the container must
+remain sealed until the regulated article(s) reaches the final destination stated on the
+limited permit. 
+< At the final destination, the sealed container must be opened only in the presence of an
+inspector or with the authorization of an inspector obtained expressly for that shipment. 
+These conditions can be met in a variety of ways. It will be up to the inspector issuing the limited permit
+or drawing up the compliance agreement to insure that the agreements section of the compliance
+agreement contains language sufficient to insure that the four conditions stated above are met. 
+Certificates 
+Certificates may be issued, either individually or under compliance agreement, for regulated articles that
+are eligible for movement into or through protected areas, when the applicant can meet the following
+conditions: 
+< Plants of the genus Berberis must show at least 2 years’ growth, and must be identified
+as being rust resistant by belonging to a species and/or variety listed in Section
+301.38–2[b]. 
+< Plant parts capable of propagation (seeds, fruits, etc.) of the genus Berberis must be
+identified as being rust resistant by coming from plants belonging to species and/or
+varieties listed in Section 301.38–2[b]. 
+< Plants, seedlings, and plant parts capable of propagation (seeds, fruits, etc.) of the
+genera Mahoberberis and Mahonia must
+Text Len: 1821
+--------------------------------------------------------------------------------
+seeds, fruits, etc.) of the genus Berberis must be
+identified as being rust resistant by coming from plants belonging to species and/or
+varieties listed in Section 301.38–2[b]. 
+< Plants, seedlings, and plant parts capable of propagation (seeds, fruits, etc.) of the
+genera Mahoberberis and Mahonia must be identified as being rust resistant by
+belonging to a species and/or variety listed in Section 301.38–2[c]. 
+< Seed of any of the genera listed above can only be issued a certificate when it can be
+determined that the property at which the seed is produced contains only rust resistant
+species and/or varieties of these genera (Section 301.38–2[a] and [b]). In addition,
+visual inspections must have been conducted to confirm that all Berberis,
+Mahoberberis, and Mahonia plants within one-half mile of the property at which the
+seed is produced are rust resistant. 
+If the identity of plants can be determined by tags or labels attached to the individual plants or pots, the
+certificate may be a stamp affixed to an appropriate shipping document. If the individual plants are not
+labeled as to species and/or variety, each plant (or pot) must have affixed a sticky-back certificate or
+other evidence that the plant meets the APHIS requirements for certification as stated above. 
+General Aids to Identification 
+Inspectors must be able to distinguish between susceptible and resistant species of barberry. This is
+necessary to insure that plants are correctly labeled, that plants are true to type, and in order to identify
+unlabeled plants. In many cases, recognizing a few simple characteristics will enable the inspector to
+identify rust-susceptible barberry species. The rust-susceptible species most likely
+Text Len: 1717
+--------------------------------------------------------------------------------
+ be able to distinguish between susceptible and resistant species of barberry. This is
+necessary to insure that plants are correctly labeled, that plants are true to type, and in order to identify
+unlabeled plants. In many cases, recognizing a few simple characteristics will enable the inspector to
+identify rust-susceptible barberry species. The rust-susceptible species most likely to be encountered is
+the common European barberry, Berberis vulgaris. Other rust-susceptible species that may be
+encountered will frequently have characteristics similar to those that distinguish the common barberry.
+Five types of characteristics will be most helpful in distinguishing rust-susceptible from rust-resistant
+barberry varieties. A guide to how these characteristics may be used is shown in the table below: 
+RUST SUSCEPTIBLE RUST RESISTANT
+LEAVES saw tooth edge smooth edge
+BARK grey reddish brown
+BERRIES in bunches singly or in twos
+SPINES groups of three single
+STEMS straight angled at nodes
+When all of the characteristics commonly associated with a susceptible or resistant species occur
+together, a correct identification can be almost always made. Barberry plants found to have
+sawtooth-edged leaves, grey outer bark, berries occurring in bunches, spines in groups of three, and
+straight stems will usually belong to a rust-susceptible species. Barberry plants found to have
+smooth-edged leaves, brown to reddish-brown bark, berries single or in twos, single spines, and
+strongly angled stems will usually belong to rust-resistant species. 
+Unfortunately, many of the plants encountered in the field will not be as easily identified. In some cases
+the characteristics may be indistinct leaves may be “sort of rough” on the edge, or stems may change
+color, depending on age
+Text Len: 1779
+--------------------------------------------------------------------------------
+, berries single or in twos, single spines, and
+strongly angled stems will usually belong to rust-resistant species. 
+Unfortunately, many of the plants encountered in the field will not be as easily identified. In some cases
+the characteristics may be indistinct leaves may be “sort of rough” on the edge, or stems may change
+color, depending on age. In other cases, the plant may have some characteristics associated with
+rust-susceptible species and other characteristics associated with rust-resistant species. This may be
+due to the fact that the plant is not one of the “typical” species, or that the plant belongs to a hybrid
+variety resulting from a cross between susceptible and resistant species. 
+When plants having characteristics that are not as well defined as those listed above, and/or have a
+mixture of types of characteristics are encountered, further effort will be required to identify the
+particular species or variety to which the plant belongs. To aid in making this identification, two
+additional types of identification systems are provided. The first is taken from an earlier barberry survey
+manual and requires matching of characteristics of the unknown plant with those contained in a series of
+pictures with descriptions of a number of more common berberis and mahonia species. 
+The second identification system involves the use of a key developed by Agriculture Canada.
+Identification using this system involves following the key and making choices depending on the
+characteristics that are present in the unknown plant. This is a more conventional, and often more
+accurate, method but does require that the identifier understand a number of terms that are used by
+taxonomists to describe plant characteristics. 
+Some people will find that one or the other of these two identification systems will work best for them.
+Many people will find that being able to use both systems will be most effective. Regardless of which
+ident
+Text Len: 1954
+--------------------------------------------------------------------------------
+ a more conventional, and often more
+accurate, method but does require that the identifier understand a number of terms that are used by
+taxonomists to describe plant characteristics. 
+Some people will find that one or the other of these two identification systems will work best for them.
+Many people will find that being able to use both systems will be most effective. Regardless of which
+identification system is used, there will be occasions in which the unknown plant does not fit any of the
+descriptions that are provided. This may be due to a poor specimen, inexperience on the part of the
+identifier, or to the fact that the plant in question is not included in either of the keys. If this is the case,
+contact David Long
+ in St. Paul, MN to submit a specimen of the plant for testing of its resistance to
+black stem rust.
+Text Len: 831
+--------------------------------------------------------------------------------

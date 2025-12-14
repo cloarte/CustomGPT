@@ -1,0 +1,1532 @@
+1 
+ 
+Pautas de 
+respuesta y 
+contención 
+Guía provisional para funcionarios  
+de sanidad animal y salud pública  
+que manejan visones y otros mustélidos 
+de criadero con SARS-CoV-2 
+ 
+9-11-2020 
+2 
+ 
+Manejo del SARS-CoV-2 en visones y mustélidos de criadero: 
+Orientación provisional para equipos de respuesta 
+2020 
+Antecedentes 
+Componentes de la estrategia para combatir el SARS-CoV-2 
+Este documento está dirigido a los funcionarios de sanidad animal y salud pública que responden a 
+los brotes de SARS-CoV-2 en visones y otros mustélidos de criadero. 
+Todavía estamos aprendiendo sobre el virus SARS-CoV-2, pero parecería que se puede transmitir de 
+personas a animales en algunas situaciones. No hay evidencia de que los animales jueguen un papel 
+significativo en la propagación del virus que causa la COVID-19 en las personas, y se considera que el 
+riesgo de que los animales transmitan la COVID-19 a las personas es bajo. Se necesitan más estudios 
+para comprender cómo diferentes animales podrían verse afectados por la COVID-19. En el tratamiento 
+del SARS
+Text Len: 1068
+--------------------------------------------------------------------------------
+ se considera que el 
+riesgo de que los animales transmitan la COVID-19 a las personas es bajo. Se necesitan más estudios 
+para comprender cómo diferentes animales podrían verse afectados por la COVID-19. En el tratamiento 
+del SARS-CoV-2 en animales en los Estados Unidos, se están desarrollando e implementando diferentes 
+estrategias para diferentes especies de animales. Se pueden diseñar estrategias para tratar el SARS-
+CoV-2 en visones y otros mustélidos de criadero con uno de estos tres resultados en mente: 1) prevenir 
+la introducción del SARS-CoV-2 en las instalaciones de agricultura animal; 2) controlar las pérdidas 
+minimizando el impacto económico y sanitario negativo del SARS-CoV-2 cuando esté presente; o 3) 
+eliminar totalmente el SARS-CoV-2 (erradicación). Debido a que el virus se replica de manera eficiente 
+en personas y en múltiples especies de animales, la eliminación total puede no ser un objetivo realista. 
+Esto incluye lo siguiente: 
+• Educación para los trabajadores del criadero para mantener a las personas y los animales 
+seguros y saludables. 
+• Procedimientos de manejo de biose
+Text Len: 1117
+--------------------------------------------------------------------------------
+ón total puede no ser un objetivo realista. 
+Esto incluye lo siguiente: 
+• Educación para los trabajadores del criadero para mantener a las personas y los animales 
+seguros y saludables. 
+• Procedimientos de manejo de bioseguridad para prevenir la introducción o mayor 
+propagación del virus SARS-CoV-2. 
+• Diagnóstico y vigilancia (detección de contagios de SARS-CoV-2) en animales. 
+• Eliminación de animales infectados con SARS-CoV-2. 
+El éxito de cualquier estrategia depende de la cooperación y colaboración entre la industria y el 
+gobierno. La naturaleza zoonótica del SARS-CoV-2 requiere la coordinación de One Health entre los 
+funcionarios de sanidad animal, las autoridades de salud pública, los profesionales médicos, la 
+industria y otros sujetos relevantes para proteger mejor la salud de las personas y los animales. Este 
+plan describe los procedimientos de prevención tanto en los trabajadores como en los visones, el 
+manejo de casos sospechosos y confirmados en animales, el monitoreo de las instalaciones infectadas, 
+la contención de virus y la recolección o el despellejado de animales de los criaderos que han sido
+Text Len: 1137
+--------------------------------------------------------------------------------
+adores como en los visones, el 
+manejo de casos sospechosos y confirmados en animales, el monitoreo de las instalaciones infectadas, 
+la contención de virus y la recolección o el despellejado de animales de los criaderos que han sido 
+infectados. Este plan también analiza la eliminación del virus en instalaciones infectadas. 
+3 
+ 
+1. Programas de educación y concienciación pública sobre el SARS-CoV-2 
+La educación es un componente esencial de cualquier estrategia de prevención, control o 
+erradicación del SARS-CoV-2. Esto implica proporcionar información actualizada a la industria sobre 
+lo que se sabe actualmente sobre el SARS-CoV-2 en animales y personas; cómo se puede introducir y 
+propagar el virus en los criaderos; la aplicación de métodos y prácticas de bioseguridad para 
+prevenir la introducción de SARS-COV-2 en criaderos; y prácticas de bioseguridad para evitar que el 
+virus SARS-COV-2 se transmita entre los animales y entre los animales y los trabajadores del 
+criadero. 
+Los Centros para el Control y la Prevención de Enfermedades (Centers for Disease Control 
+and Prevention, CDC) han desarroll
+Text Len: 1119
+--------------------------------------------------------------------------------
+ evitar que el 
+virus SARS-COV-2 se transmita entre los animales y entre los animales y los trabajadores del 
+criadero. 
+Los Centros para el Control y la Prevención de Enfermedades (Centers for Disease Control 
+and Prevention, CDC) han desarrollado una guía para los trabajadores y los empleadores 
+agrícolas.  
+La educación y la divulgación deben ser continuas y centrarse en las siguientes personas o grupos: 
+• Criadores de visones 
+• Empleados del criadero que trabajan con visones 
+• Veterinarios y personal veterinario que trabaja con criaderos de visones 
+• Socios de la industria peletera 
+• Público en general 
+2. Plan mínimo de bioseguridad 
+Antes de un brote, los funcionarios de sanidad animal y los funcionarios de salud pública deben 
+considerar ofrecer la siguiente orientación sobre prevención en las operaciones con visones y 
+mustélidos de criadero en sus jurisdicciones. Se recomienda encarecidamente a todos los criaderos 
+de visones y otras operaciones con mustélidos que desarrollen planes de bioseguridad específicos 
+del criadero que contengan elementos como los que se enumeran a continuación. 
+Los operadores del criadero deben examinarse a sí mismos
+Text Len: 1176
+--------------------------------------------------------------------------------
+os 
+de visones y otras operaciones con mustélidos que desarrollen planes de bioseguridad específicos 
+del criadero que contengan elementos como los que se enumeran a continuación. 
+Los operadores del criadero deben examinarse a sí mismos, a los trabajadores y a los visitantes 
+para detectar síntomas de COVID-19 
+Reconocer que la transmisión de persona a animal es la forma más probable de que el SARS-CoV-2 
+ingrese a un criadero de visones; todos, incluidos los propietarios, deben examinarse a sí mismos 
+para detectar signos de contagio antes de ingresar al criadero. Las personas que operan, trabajan o 
+visitan criaderos de visones y que tienen síntomas de SARS-CoV-2 al llegar al trabajo o se enferman 
+durante el día deben ser separadas inmediatamente de los demás trabajadores, animales y otras 
+personas, y enviadas a su hogar. Toda persona que desarrolle síntomas fuera del trabajo debe 
+evitar el contacto con animales y otro personal del criadero y quedarse en su hogar. 
+Ayudar a los trabajadores del criadero a seguir las prácticas de prevención de la COVID-19 
+Los criaderos deben consultar con su departamento de salud
+Text Len: 1136
+--------------------------------------------------------------------------------
+evitar el contacto con animales y otro personal del criadero y quedarse en su hogar. 
+Ayudar a los trabajadores del criadero a seguir las prácticas de prevención de la COVID-19 
+Los criaderos deben consultar con su departamento de salud estatal, tribal, local o territorial para 
+diseñar prácticas que minimicen el riesgo de transmisión del SARS-CoV-2 entre empleados, 
+visitantes, otras personas y animales. Por ejemplo, los criaderos deben implementar estrategias y 
+prácticas en las áreas de trabajo y áreas comunes para que las personas mantengan distancias físicas 
+de 6 pies de otras personas y animales, como mínimo, cuando sea posible. Se deben usar máscaras 
+de tela cuando no sea posible mantener una distancia física de 6 pies de los demás. 
+Enlace a prácticas diseñadas para proteger a los trabajadores de los CDC.  
+4 
+ 
+Los criaderos deben practicar una buena higiene y saneamiento 
+Se debe prestar mucha atención a las instalaciones para empleados, como baños, salas de descanso 
+y otras áreas comunes para garantizar que se implementen las prácticas adecuadas de higiene y 
+saneamiento. Implement
+Text Len: 1112
+--------------------------------------------------------------------------------
+ 
+Se debe prestar mucha atención a las instalaciones para empleados, como baños, salas de descanso 
+y otras áreas comunes para garantizar que se implementen las prácticas adecuadas de higiene y 
+saneamiento. Implementar procedimientos adecuados de lavado de manos y protocolos de higiene 
+para la limpieza y desinfección diarias de zonas de trabajo y áreas comunes. Configure las áreas 
+comunes para que los trabajadores, visitantes autorizados y otras personas estén separados por 
+6 pies, como mínimo, si es posible. Proporcione estaciones para lavarse las manos con jabón, agua 
+potable y toallas limpias de un solo uso. 
+Practique una higiene estricta en las áreas donde se preparan alimentos para animales y limpie y 
+desinfecte el equipo de alimentación diariamente con un  desinfectante aprobado por la Agencia de 
+Protección Ambiental ( Environmental Protection Agency , EPA) . Evite la acumulación excesiva de 
+desechos animales. 
+Trabajar con los operadores del criadero para prevenir la introducción del SARS -CoV-2 en sus 
+instalaciones para animales Siempre que sea posible, considere exigir a las personas que trabajan con 
+o cerca de visones de
+Text Len: 1159
+--------------------------------------------------------------------------------
+chos animales. 
+Trabajar con los operadores del criadero para prevenir la introducción del SARS -CoV-2 en sus 
+instalaciones para animales Siempre que sea posible, considere exigir a las personas que trabajan con 
+o cerca de visones de criadero que usen máscaras de tela y equipo de protección personal (EPP) como 
+calzado exclusivo que se puede limpiar y desinfectar, ropa agrícola especial como overoles, guantes y 
+protección para los ojos, como máscaras o gafas protectoras. La ropa de trabajo debe lavarse en el 
+lugar y no debe llevarse al hogar. Brinde capacitación sobre el cuidado y el uso adecuados del EPP. 
+La información sobre los requisitos de EPP para actividades de alt o riesgo se encuentra en la  
+Sección 10 de este documento, y se proporciona orientación adicional en el apéndice titulado 
+“Seguridad y supervisión de los trabajadores”. 
+Instar a los criadores a practicar la bioseguridad mejorada 
+El acceso a los criaderos debe limitarse al personal y a visitantes esenciales. Excluya a todos los 
+animales domésticos (perros, gatos, etc.), así como a roedores, pájaros y otros
+Text Len: 1099
+--------------------------------------------------------------------------------
+ practicar la bioseguridad mejorada 
+El acceso a los criaderos debe limitarse al personal y a visitantes esenciales. Excluya a todos los 
+animales domésticos (perros, gatos, etc.), así como a roedores, pájaros y otros animales salvajes 
+de las instalaciones del criadero. Los operadores del criadero deben restringir el acceso a su 
+propiedad y sus áreas de alojamiento de animales. Deben utilizar letreros para orientar a los 
+visitantes con respecto a los requisitos de bioseguridad de su criadero. 
+Requisitos mínimos:  
+• Use cercas, portones y otras barreras para controlar el acceso al alojamiento de los animales. 
+• Exija a los visitantes que estacionen sus vehículos en áreas designadas lejos del alojamiento de 
+los animales. 
+• Use letreros para aconsejar a los visitantes que permanezcan en sus vehículos hasta que 
+el personal del criadero los ayude, y proporcione un número de teléfono al que los 
+visitantes pueden llamar para recibir instrucciones para el ingreso. 
+• Mantenga un registro de todas las personas que ingresan a la propiedad (familiares, 
+trabajadores, visitantes, etc.), incluida la fecha, la informaci
+Text Len: 1133
+--------------------------------------------------------------------------------
+ que los 
+visitantes pueden llamar para recibir instrucciones para el ingreso. 
+• Mantenga un registro de todas las personas que ingresan a la propiedad (familiares, 
+trabajadores, visitantes, etc.), incluida la fecha, la información de contacto y la 
+naturaleza de su visita. 
+• Proporcione y use el equipo de protección personal adecuado según la actividad que realice. 
+Por ejemplo, más EPP para trabajar de cerca con los animales. 
+ 
+ 
+5 
+ 
+Enseñar a los criadores a no transportar la enfermedad al hogar 
+Los neumáticos de los automóviles y camiones, las jaulas de aves y los equipos pueden albergar 
+gérmenes. El perso nal del criadero que viaja a lugares donde hay otros animales debe limpiar y 
+desinfectar estos artículos antes de regresar a sus propios criaderos. Se debe desalentar el uso 
+compartido de equipos, herramientas o insumos con vecinos u otros criaderos. 
+Los criadores deben tener extrema precaución al introducir nuevos visones al rebaño 
+Los animales nuevos pueden introducir problemas de enfermedades en un criadero de visones, 
+incluido el SARS -CoV-2.
+Text Len: 1080
+--------------------------------------------------------------------------------
+aderos. 
+Los criadores deben tener extrema precaución al introducir nuevos visones al rebaño 
+Los animales nuevos pueden introducir problemas de enfermedades en un criadero de visones, 
+incluido el SARS -CoV-2. Los criadores deben consultar con su veterinario para diseñar un plan de 
+aislamiento adecuado para los recién llegados a fin de proteger al resto de su rebaño. Se recomiendan 
+las siguientes precauciones: 
+• Todos los visones que se introducirán en el rebaño deben provenir de criaderos 
+históricamente negativos para el SARS-CoV-2 y que no presenten signos de infección de  
+SARS-CoV-2 en personas o animales involucrados en ese criadero. 
+• Todos los visones para envío deben separarse del rebaño principal y manejarse por 
+separado, al menos, 21 días antes del envío y deben someterse a pruebas de detección 
+del SARS-CoV-2 al momento de la separación. 
+• Todas las muertes de visones que ocurran durante el aislamiento deben someterse a pruebas 
+de detección del SARS-CoV-2. 
+• Los visones separados para envío deben someterse a una segunda prueba para el SARS -
+
+Text Len: 1079
+--------------------------------------------------------------------------------
+• Todas las muertes de visones que ocurran durante el aislamiento deben someterse a pruebas 
+de detección del SARS-CoV-2. 
+• Los visones separados para envío deben someterse a una segunda prueba para el SARS -
+CoV-2, al menos, 21 días después de la primera prueba. 
+• Todos los visones de envío deben dar negativo en la prueba del SARS-CoV-2 para que el 
+envío se lleve a cabo. 
+• A su llegada, el criadero de destino debe aislar los visones enviados del rebaño principal 
+durante 21 días, como mínimo. 
+• Durante el período de aislamiento, se debe observar a los visones para detectar signos 
+clínicos de la enfermedad y, luego, volver a realizar la prueba del SARS-CoV-2, al menos, 
+21 días después de su llegada. 
+• Si todos los visones recibidos resultan negativos para el SARS-CoV-2, estos pueden 
+introducirse en el rebaño principal. 
+Educar a los operadores del criadero para que informen sobre visones enfermos 
+La detección temprana es importante para prevenir la propagación de la enfermedad. El 
+operador y los trabajadores del c
+Text Len: 1040
+--------------------------------------------------------------------------------
+en 
+introducirse en el rebaño principal. 
+Educar a los operadores del criadero para que informen sobre visones enfermos 
+La detección temprana es importante para prevenir la propagación de la enfermedad. El 
+operador y los trabajadores del criadero deben estar alertas a los signos de enfermedad, al 
+poder reconocer que dichos signos pueden ser cambios sutiles en la salud, el consumo de 
+alimento o el comportamiento del animal. 
+Los siguientes signos son comunes, pero no se observan sistemáticamente en todos los casos de 
+SARS-CoV-2 en visones. 
+• Aumento de muertes de visones 
+• Estornudos 
+• Tos 
+• Secreción nasal 
+• Secreción ocular 
+• Jadeo o dificultad para respirar 
+• Diarrea 
+• Falta de energía 
+• Poco apetito 
+6 
+ 
+Si existe la sospecha de SARS-CoV-2 en animales, los operadores deben llamar a su funcionario 
+estatal de sanidad animal (State Animal Health Official, SAHO)  o a la oficina de Servicios 
+Veterinarios (Veterinary Services, VS) del Servicio de Inspección de Animales y Plantas (Animal and 
+Plant Inspection Service, APHIS) del Departamento de Agricultura de los Estados Unidos (United 
+States Department of Agriculture, USDA).
+Text Len: 1157
+--------------------------------------------------------------------------------
+HO)  o a la oficina de Servicios 
+Veterinarios (Veterinary Services, VS) del Servicio de Inspección de Animales y Plantas (Animal and 
+Plant Inspection Service, APHIS) del Departamento de Agricultura de los Estados Unidos (United 
+States Department of Agriculture, USDA). Los operadores de criaderos y sus veterinarios deben 
+conservar las muertes sospechosas para la necropsia y las pruebas. Los recursos de capacitación 
+en bioseguridad deben estar disponibles para los operadores y los empleados del criadero en sus 
+idiomas preferidos. 
+Recursos para el diagnóstico 
+Los veterinarios, los funcionarios de sanidad animal y los operadores de criaderos pueden consultar 
+con el laboratorio  de diagnóstico veterinario de su estado o con uno de los varios laboratorios 
+privados que actualmente están proporcionando pruebas de serología y PCR del SARS-CoV-2. La 
+Universidad Estatal de Dakota del Norte, el Laboratorio de Diagnóstico Veterinario del estado de 
+Utah, el Laboratorio de Diagnóstico de Enfermedades Animales de Washington y el Laboratorio de 
+Diagnóstico Veterinario de Wisconsin son reconocidos por su experiencia en enfermedades de 
+visones. El VS del APHIS del USDA tiene preguntas frecuentes útiles sobre pruebas de coronavirus 
+en animales. 
+Text Len: 1260
+--------------------------------------------------------------------------------
+ales de Washington y el Laboratorio de 
+Diagnóstico Veterinario de Wisconsin son reconocidos por su experiencia en enfermedades de 
+visones. El VS del APHIS del USDA tiene preguntas frecuentes útiles sobre pruebas de coronavirus 
+en animales.  
+3. Procedimientos para el manejo inicial y la investigación de casos animales sospechosos de 
+SARS-COV-2 
+• Los funcionarios de sanidad animal deben poner en cuarentena los criaderos afectados, 
+para evitar así el movimiento de animales o productos animales dentro o fuera del criadero. 
+Según los consejos de su laboratorio de diagnóstico, recolecte muestras de animales 
+sospechosos. En la mayoría de los casos, las muestras preferidas incluirán hisopos oral-
+faríngeos o hisopos rectales. A menos que el laboratorio receptor indique lo contrario, los 
+hisopos deben tener punta de dacrón, no algodón, y deben transportarse al laboratorio en 
+tubos que contengan medios de transporte viral ( viral transport media, VTM), p.  ej., VTM 
+universal o caldo de infusión de cerebro -corazón (Brain-Heart Infusion, BHI). La industria 
+del visón está colaborando actualmente con laboratorios d e diagnóstico para desarrollar 
+serología ELISA
+Text Len: 1180
+--------------------------------------------------------------------------------
+ transport media, VTM), p.  ej., VTM 
+universal o caldo de infusión de cerebro -corazón (Brain-Heart Infusion, BHI). La industria 
+del visón está colaborando actualmente con laboratorios d e diagnóstico para desarrollar 
+serología ELISA eficaz, por lo que también se deberían considerar las muestras de suero. 
+Consulte con su laboratorio para obtener asesoramiento. 
+• Inicie una investigación epidemiológica preliminar. 
+• La cuarentena puede instituirse en sitios de rastreo hacia atrás o hacia adelante a discreción 
+del SAHO. 
+• Los operadores o administradores del criadero y los funcionarios de sanidad animal deben 
+colaborar para decidir cómo administrar los edificios que albergan a los visiones en el 
+criadero y si alguno debe manejarse como unidades separadas. 
+• Determine la estrategia de muestreo de vigilancia para el criadero afectado, los criaderos 
+cercanos y cualquier criadero que parezca estar conectado epidemiológicamente. 
+4. Procedimientos para informar los resultados de las pruebas con animales al APHIS del USDA 
+El SARS-CoV-2 es una enfermedad de notificación obligatoria cuando se encuentra en animales. Los 
+resultados
+Text Len: 1151
+--------------------------------------------------------------------------------
+ conectado epidemiológicamente. 
+4. Procedimientos para informar los resultados de las pruebas con animales al APHIS del USDA 
+El SARS-CoV-2 es una enfermedad de notificación obligatoria cuando se encuentra en animales. Los 
+resultados positivos de las pruebas deben notificarse inmediatamente al  SAHO o a VS del APHIS del 
+USDA. Todas las muestras que resulten presuntamente positivas en laboratorios estatales o privados 
+serán enviadas y confirmadas por los Laboratorios de Servicios Veterinarios Nacionales (National 
+Veterinary Services Laboratories, NVSL) del APHIS del USDA. 
+7 
+ 
+5. Medidas de cuarentena para criaderos presuntamente infectados y confirmados 
+Los animales se mantienen en un edificio para visones. Es una dirección física y se le asignará un número 
+de identificación de edificio si aún no lo tiene. 
+Los elementos clave para la cuarentena y el control de animales en criaderos infectados incluyen los 
+siguientes: 
+• Poner en cuarentena los edificios infectados (EI) para todos los visones y productos de 
+visones. Mantener la cuarentena hasta que el EI esté libre de virus. El criador del EI d ebe 
+notificar al SAHO si aumenta la morbilidad o la mortalidad. El EI
+Text Len: 1192
+--------------------------------------------------------------------------------
+ los edificios infectados (EI) para todos los visones y productos de 
+visones. Mantener la cuarentena hasta que el EI esté libre de virus. El criador del EI d ebe 
+notificar al SAHO si aumenta la morbilidad o la mortalidad. El EI es necesario para mantener 
+la máxima bioseguridad. 
+• Los funcionarios estatales de sanidad animal pueden optar por establecer una zona de 
+control alrededor de un EI, pero probablemente sea  más útil dirigir las actividades de 
+vigilancia a los criaderos que se encuentran epidemiológicamente vinculados a un criadero 
+infectado. 
+• Controlar los criaderos circundantes, los proveedores de servicios —como los procesadores o 
+proveedores de alimentos— y el movimiento de animales, equipos y materiales. 
+6. Disposiciones para desarrollar planes para criaderos con visones infectados y expuestos 
+Se deben tener en cuenta tres objetivos generales al manipular el SARS-CoV-2 en un criadero 
+infectado o expuesto: 
+i. Contener el virus en el criadero, evitando la propagación entre unidades de alojamiento de 
+animales y otros criaderos. Proteger a los trabajadores y visitantes de la exposición al virus. 
+ii. Des
+Text Len: 1143
+--------------------------------------------------------------------------------
+infectado o expuesto: 
+i. Contener el virus en el criadero, evitando la propagación entre unidades de alojamiento de 
+animales y otros criaderos. Proteger a los trabajadores y visitantes de la exposición al virus. 
+ii. Desarrollar un plan del criadero. 
+Un plan del criadero es un acuerdo de manejo escrito entre el operador de la finca afectada, los VS 
+del APHIS del USDA, el SAHO y las autoridades de salud pública. Un plan del criadero establece los 
+pasos que se deben seguir para proteger a los trabajadores del criadero y la salud pública, prevenir 
+la introducción del SARS-CoV-2 en otros criaderos y controlar el SARS-COV-2 en el criadero con 
+diagnóstico positivo. Un plan del criadero debe incluir, entre otros, controles sobre el 
+movimiento de visones y productos de visones, manejo seguro de medios de transporte, 
+contenedores y otros materiales asociados que podrían servir como fómites, planes detallados 
+para un mayor control, planes detallados para la eliminación de animales muertos, y planes 
+detallados de limpieza y desinfección. La protección de trabajadores es fundamental, y los 
+criaderos deben consultar con su depart
+Text Len: 1146
+--------------------------------------------------------------------------------
+ fómites, planes detallados 
+para un mayor control, planes detallados para la eliminación de animales muertos, y planes 
+detallados de limpieza y desinfección. La protección de trabajadores es fundamental, y los 
+criaderos deben consultar con su departamento de salud estatal, tribal, local o territorial para 
+implementar prácticas que minimicen el  riesgo de transmisión del SARS-CoV-2 entre 
+operadores, trabajadores, visitantes y otras personas del criadero.  
+7. Métodos de eliminación de animales muertos 
+Siempre consulte a las autoridades locales y estatales antes de llevar a cabo actividades de 
+eliminación para garantizar el cumplimiento. 
+Los posibles métodos incluyen los siguientes: 
+• Entierro 
+• Entierro en fosa común (donde el nivel freático es alto) 
+• Incineración 
+• Compostaje 
+• Relleno sanitario 
+• Despellejado 
+• Combinación de los métodos anteriores 
+8 
+ 
+Las opciones de eliminación se analizan y describen en profundidad por los VS del APHIS del USDA 
+en estos sitios: 
+• https://www.aphis.usda.gov/animal_health/emergency_management/downloads/na
+hem  s_gu
+Text Len: 1086
+--------------------------------------------------------------------------------
+ores 
+8 
+ 
+Las opciones de eliminación se analizan y describen en profundidad por los VS del APHIS del USDA 
+en estos sitios: 
+• https://www.aphis.usda.gov/animal_health/emergency_management/downloads/na
+hem  s_guidelines/disposal_nahems.pdf  
+• https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/emergen
+cy-management/carcass-management/carcass  
+8. Limpieza y desinfección 
+Todas las instalaciones, los medios de transporte y los materiales que entren en contacto con 
+visones infectados o expuestos al SARS-CoV-2 deben someterse a procedimientos de eliminación 
+del virus antes de repoblar con nuevos animales. La mayor parte de la eliminación de estiércol y 
+material de cama para ganado se puede realizar antes y durante el desuello. Si el clima lo permite, 
+se puede considerar la limpieza y desinfección en húmedo, pero deben sopesarse frente a la 
+posibilidad de que las condiciones climáticas puedan hacer que la limpieza en húmedo no sea 
+práctica, por ejemplo, en temperaturas bajo cero. Puede ser necesario considerar la limpieza en 
+seco combinada con un período de barbecho y el us
+Text Len: 1099
+--------------------------------------------------------------------------------
+ que las condiciones climáticas puedan hacer que la limpieza en húmedo no sea 
+práctica, por ejemplo, en temperaturas bajo cero. Puede ser necesario considerar la limpieza en 
+seco combinada con un período de barbecho y el uso de animales centinela antes de la repoblación 
+completa. Para lograr la limpieza y desinfección, complete los siguientes procedimientos: 
+• Eliminación de estiércol, suciedad y alimento. Elimine todo el estiércol, la suciedad y el 
+alimento. Haga abono formando hileras en el sitio, si es posible. Si esto no es posible, 
+establezca un sistema para transportar el material, en vehículos cubiertos, a un sitio 
+aprobado para entierro, apilamiento o compostaje. Limpie el sitio de alojamiento o mueva 
+o esparza la basura. Después de su uso, el equipo debe limpiarse, desinfectarse e 
+inspeccionarse en el lugar al que se transportó el estiércol y la basura. En el caso de 
+inclemencias del tiempo, el equipo se puede limpiar, desinfectar e inspeccionar en las 
+estaciones de lavado fuera del sitio a discreción del SAHO y del APHIS. 
+• Limpieza de instalaciones y materiales.  La
+Text Len: 1105
+--------------------------------------------------------------------------------
+ el caso de 
+inclemencias del tiempo, el equipo se puede limpiar, desinfectar e inspeccionar en las 
+estaciones de lavado fuera del sitio a discreción del SAHO y del APHIS. 
+• Limpieza de instalaciones y materiales.  La limpieza y desinfección deben ser minuciosas 
+para asegurar que todos los materiales o las sustancias contaminadas con el virus del SARS-
+CoV-2 —especialmente las heces, la sangre seca y otros materiales orgánicos— se eliminen 
+de todas las superficies. Enlace a la guía de los CDC sobre la desinfección de instalaciones.  
+9. Disposiciones para el control adecuado y las restricciones de movimiento 
+Se puede llevar a cabo una vigilancia adicional en los criaderos o las instalaciones que se encuentren 
+relacionadas epidemiológicamente con las instalaciones infectadas. El SAHO puede imponer 
+restricciones de cuarentena y movimiento para el traslado de animales vivos y muertos, así como de 
+equipos hacia y desde las instalaciones afectadas. Los propietarios de criaderos y los funcionarios de 
+sanidad animal deben trabajar con las autoridades de salud pública para brindar orientación sobre 
+salud y segur
+Text Len: 1131
+--------------------------------------------------------------------------------
+ así como de 
+equipos hacia y desde las instalaciones afectadas. Los propietarios de criaderos y los funcionarios de 
+sanidad animal deben trabajar con las autoridades de salud pública para brindar orientación sobre 
+salud y seguridad del SARS-CoV-2 a los criaderos y sus trabajadores. El SAHO debe informar a la 
+agencia de vida silvestre del estado sobre el criadero infectado, para que los funcionarios de vida 
+silvestre puedan estar alertas a la propagación de enfermedades hacia las poblaciones de animales 
+salvajes circundantes. Proporcione pautas de limpieza y desinfección para las personas y los equipos 
+que trabajan con visones en el área. 
+Minimice el riesgo de que el virus se propague a áreas no contaminadas. El SAHO puede modificar 
+el movimiento, la bioseguridad y la vigilancia en el área contaminada según sea necesario para 
+contener una amenaza de SARS-CoV-2. 
+9 
+ 
+10. Seguridad del trabajador durante actividades de alto riesgo en criaderos infectados o 
+bajo sospecha 
+Debido a que los procedimientos de procesamiento de visones tienen el potencial de transmitir el 
+SARS-CoV-2 y otras en
+Text Len: 1114
+--------------------------------------------------------------------------------
+ Seguridad del trabajador durante actividades de alto riesgo en criaderos infectados o 
+bajo sospecha 
+Debido a que los procedimientos de procesamiento de visones tienen el potencial de transmitir el 
+SARS-CoV-2 y otras enfermedades zoonóticas a los trabajadores, siempre se deben tomar las 
+siguientes precauciones con EPP al manipular cadáveres o durante el despellejado: 
+• Recursos de los CDC relativos al EPP.  
+• Debate exhaustivo sobre el uso del EPP en incidentes de enfermedades en animales.  
+• Use protección para los ojos (p. ej., gafas protectoras o un protector facial) y un 
+respirador N95 aprobado por el Instituto Nacional de Salud y Seguridad Ocupacional 
+(National Institute for Occupational Health and Safety, NIOSH), o un  respirador de nivel 
+más alto aprobado por el NIOSH, siempre que puedan producirse salpicaduras o 
+aspersión. 
+• Para todo el EPP, siga las instrucciones del fabricante sobre el uso, la limpieza, el 
+almacenamiento y la eliminación. 
+• Evite los procedimientos que impliquen pulverización cuando sea posible. Cuando no 
+haya otra alternativa que participar en procedimientos que impliquen pulveriz
+Text Len: 1141
+--------------------------------------------------------------------------------
+ante sobre el uso, la limpieza, el 
+almacenamiento y la eliminación. 
+• Evite los procedimientos que impliquen pulverización cuando sea posible. Cuando no 
+haya otra alternativa que participar en procedimientos que impliquen pulverización 
+(p. ej., parto, desuello, despellejado), use un protector facial o gafas, guantes, ropa 
+exterior protectora y protección respiratoria que sea al menos tan protectora como un 
+respirador N95 desechable certificado por NIOSH. 
+o Si no dispone de un respirador N95, utilice un nivel más alto de protección respiratoria o 
+una combinación de una máscara de tela o barbijo médico usado correctamente y un 
+protector facial que cubra todo el frente (que se extiende por debajo de la barbilla) y los 
+lados de la cara. 
+o El uso del respirador debe estar en el contexto de un programa completo de protección 
+respiratoria de acuerdo con la norma de Protección respiratoria de la Administración de 
+Seguridad y Salud Ocupacional (Occupational Safety and Health Administration, OSHA) 
+(Título 29 del Código de reglamentos federales, Sección 1910.134), que incluye 
+evaluaciones médicas, capacitación y pruebas de ajuste. 
+• Cuando est
+Text Len: 1166
+--------------------------------------------------------------------------------
+ y Salud Ocupacional (Occupational Safety and Health Administration, OSHA) 
+(Título 29 del Código de reglamentos federales, Sección 1910.134), que incluye 
+evaluaciones médicas, capacitación y pruebas de ajuste. 
+• Cuando esté dentro de un establecimiento, abra tantas puertas, ventanas y demás 
+aberturas como sea posible para maximizar la ventilación natural. Use guantes y otras 
+prendas de protección exteriores según sea necesario para evitar el contacto de la piel 
+expuesta con cadáveres, órganos, fluidos corporales y pieles de animales. 
+• Siempre lávese inmediatamente las manos con agua y jabón durante al menos 20 segundos 
+después de: 
+o Tener un contacto directo con cadáveres, órganos yo pieles de animales. 
+o Limpiar a los animales, incluidos los fluidos corporales o los desechos. 
+o Quitarse el EPP o la máscara de tela. 
+• El uso de EPP y cierta ropa a menudo puede aumentar su riesgo de enfermedades 
+relacionadas con el calor. Consulte la información de los CDC sobre la prevención del 
+estrés por calor para empleadores y empleados.  
+• Limpie las herramientas con un desinfect
+Text Len: 1100
+--------------------------------------------------------------------------------
+ ropa a menudo puede aumentar su riesgo de enfermedades 
+relacionadas con el calor. Consulte la información de los CDC sobre la prevención del 
+estrés por calor para empleadores y empleados.  
+• Limpie las herramientas con un desinfectante adecuado. Para desinfectar, use productos 
+que cumplan con los criterios de EPA para su uso contra el SARS-CoV-2, soluciones de 
+blanqueador doméstico diluidas preparadas de acuerdo con la etiqueta del fabricante para 
+10 
+ 
+desinfección o soluciones de alcohol con al menos 60 % de alcohol que sean aptas para la 
+superficie. Siga las instrucciones del fabricante para conocer el uso. 
+• Se puede requerir EPP, como guantes, protección facial y ocular y de otro tipo, para 
+limpiar y desinfectar herramientas, superficies y equipos. 
+• En los criaderos donde ha habido una posible exposición al SARS-CoV-2 o se ha 
+detectado el SARS-CoV-2, todos los animales deben ser observados de cerca para 
+detectar signos de la enfermedad, con el entendimiento de que los signos clínicos a 
+veces son sutiles. 
+• Si es posible, el desuello debe retrasarse al menos 14 días después de los �
+Text Len: 1119
+--------------------------------------------------------------------------------
+ales deben ser observados de cerca para 
+detectar signos de la enfermedad, con el entendimiento de que los signos clínicos a 
+veces son sutiles. 
+• Si es posible, el desuello debe retrasarse al menos 14 días después de los últimos signos 
+de enfermedad en la unidad de alojamiento afectada. Esto es particularmente importante 
+si es necesario transportar el visón fuera del lugar para desollarlo. 
+11. Supervisión y control 
+• Todos los criaderos, ya sea que el desuello se realice dentro o fuera del sitio, deben tener 
+muestras de mortalidad de visones y analizarlas, en un laboratorio aprobado, mediante la 
+reacción en cadena de la polimerasa con transcripción inversa (RT-PCR) para detectar el 
+SARS-CoV-2. Las pruebas de RT-PCR deben ser negativas por 14 días antes del inicio del 
+desuello o del traslado fuera del sitio. 
+• Se deben tomar muestras de la mortalidad de visones para su análisis con un mínimo de 
+5 visones muertos recolectados durante más de un día, si es necesario. 
+• Si hay más de 20 visones muertos, se pueden analizar en lotes de 20 para minimizar los 
+costos. Si se detecta SARS-
+Text Len: 1108
+--------------------------------------------------------------------------------
+álisis con un mínimo de 
+5 visones muertos recolectados durante más de un día, si es necesario. 
+• Si hay más de 20 visones muertos, se pueden analizar en lotes de 20 para minimizar los 
+costos. Si se detecta SARS-CoV-2 en un lote y se confirma, no es necesario analizar las 
+mortalidades restantes. 
+• Si se analiza la mortalidad mínima de 5 visones, este esquema de muestreo proporciona 
+un 95 % de confianza para detectar al menos 1 visón infectado cuando hay una 
+prevalencia de contagio del 50 % por SARS-CoV-2 entre los animales muertos. Las cifras y 
+las pruebas más altas de mortalidad de visones pueden detectar una menor prevalencia 
+de contagio entre los visones muertos (Cannon, 2001. Sense and Sensitivity). 
+• El tipo y la cantidad reales de muestras que se recolectarán deben determinarse en 
+colaboración con el laboratorio de pruebas y la autoridad estatal de sanidad animal. Se 
+puede considerar la combinación de muestras si el laboratorio y las autoridades de 
+sanidad animal coinciden en que es apropiado, con un mínimo de 2 muestras combinadas 
+para cumplir estadísticamente con un 95 % de confianza en las detecciones. Una 
+instalaci
+Text Len: 1156
+--------------------------------------------------------------------------------
+ de muestras si el laboratorio y las autoridades de 
+sanidad animal coinciden en que es apropiado, con un mínimo de 2 muestras combinadas 
+para cumplir estadísticamente con un 95 % de confianza en las detecciones. Una 
+instalación de desuello fuera del sitio solo debe aceptar animales de un criadero infectado 
+con el permiso de la autoridad estatal de sanidad animal. 
+• Las instalaciones de desuello fuera del sitio que planean aceptar animales de criaderos 
+positivos conocidos deben contar con los resguardos adecuados para proteger a sus 
+trabajadores y evitar la propagación del virus SARS-CoV-2 de animales asintomáticos a 
+criaderos aledaños y otros criaderos que contratan el servicio de la instalación de desuello. 
+ 
+11 
+ 
+Apéndice: Seguridad y control de trabajadores 
+Los CDC tienen una prueba de autodiagnóstico de coronavirus disponible en línea para ayudar a las 
+personas a tomar decisiones sobre cuándo someterse a pruebas y recibir atención médica adecuada. 
+Autodiagnóstico: Los criadores y los trabajadores del criadero, así como los miembros de la familia de las 
+personas que trabajan en los cri
+Text Len: 1119
+--------------------------------------------------------------------------------
+ cuándo someterse a pruebas y recibir atención médica adecuada. 
+Autodiagnóstico: Los criadores y los trabajadores del criadero, así como los miembros de la familia de las 
+personas que trabajan en los criaderos, deben autoevaluarse para detectar la presencia de COVID-19, una 
+forma relativamente simple y económica de proteger a las personas y los animales en el criadero. Las 
+personas que trabajan en el criadero deben hacer esto cada vez que ingresen a las instalaciones. 
+Las personas no deben intentar ingresar al criadero si, en su caso, se da alguna de las siguientes 
+condiciones: 
+• Síntomas de COVID-19. 
+• Temperatura igual o superior a los 38 °C (100.4 °F)*. 
+• Estar sometido a evaluación para COVID-19 (por ejemplo, en espera de los resultados de una 
+prueba de SARS-CoV-2). 
+• Haber sido diagnosticado con COVID-19 y todavía no tener el alta para  discontinuar el 
+aislamiento.  
+Los exámenes de detección y los controles de salud no reemplazan otras medidas de protección 
+como el distanciamiento social, la higiene de las manos y el uso de una mascarilla
+Text Len: 1073
+--------------------------------------------------------------------------------
+ alta para  discontinuar el 
+aislamiento.  
+Los exámenes de detección y los controles de salud no reemplazan otras medidas de protección 
+como el distanciamiento social, la higiene de las manos y el uso de una mascarilla. También se 
+deben seguir otras medidas de prevención para proteger a las personas de la COVID-19. 
+Control continuo: Si el empleado no tiene fiebre ni síntomas, debe autocontrolarse bajo la supervisión 
+del programa de salud ocupacional de su empleador. 
+Uso de mascarilla: El empleado debe usar una mascarilla en todo momento mientras esté en el lugar 
+de trabajo durante 14 días después de la última exposición. Los empleadores pueden entregar 
+mascarillas o aprobar las mascarillas de los empleados en caso de escasez. Asegúrese de que las 
+mascarillas siempre se usen correctamente según la información de este sitio: 
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html  
+Distanciamiento social: El empleado debe mantener los 6 pies de distancia y practicar el 
+distanciamiento social según lo permitan las tareas laborales
+Text Len: 1091
+--------------------------------------------------------------------------------
+avirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html  
+Distanciamiento social: El empleado debe mantener los 6 pies de distancia y practicar el 
+distanciamiento social según lo permitan las tareas laborales en el lugar de trabajo. 
+Higiene de las manos: Realice una higiene de manos frecuente con agua y jabón durante 20 segundos, 
+como mínimo. Además, para aumentar la frecuencia del lavado de manos, si las manos no están 
+visiblemente sucias o manchadas, los trabajadores pueden usar un desinfectante de manos que 
+contenga al menos un 60 % de alcohol, frotándose las manos hasta que estén secas. Asegúrese de que el 
+acceso al lavado o a la desinfección de manos esté disponible. 
+Desinfección y limpieza de espacios de trabajo: Limpie y desinfecte todas las áreas, como oficinas, 
+baños, áreas comunes, equipos electrónicos compartidos, al menos diariamente. Limpie y 
+desinfecte las herramientas, el equipo y los vehículos compartidos entre cada uso de los 
+empleados, si es posible. Lleve a cabo una limpieza y desinfección específicas y más
+Text Len: 1063
+--------------------------------------------------------------------------------
+, al menos diariamente. Limpie y 
+desinfecte las herramientas, el equipo y los vehículos compartidos entre cada uso de los 
+empleados, si es posible. Lleve a cabo una limpieza y desinfección específicas y más frecuentes de 
+las áreas de alto contacto de los espacios compartidos, como relojes de registro de horario, 
+accesorios de baño y manijas de puertas. 
+12 
+ 
+Regreso al trabajo: Si un criador o trabajador del criadero desarrolla fiebre o síntomas de COVID-19 o 
+se le diagnostica COVID-19, debe aislarse y regresar al trabajo o ingresar al criadero solo cuando sea 
+seguro hacerlo. Un criador o trabajador del criadero con síntomas de COVID-19 no debe regresar al 
+trabajo durante al menos 10 días desde que aparecieron los primeros síntomas, haber pasado al menos 
+24 horas sin fiebre y experimentar una mejora de los síntomas. En el caso de un criador o trabajador del 
+criadero que dio positivo en la prueba, pero no presentó síntomas, no debe regresar al trabajo durante 
+10 días desde la fecha de la prueba positiva. 
+ 
+13 
+
+Text Len: 1037
+--------------------------------------------------------------------------------
+. En el caso de un criador o trabajador del 
+criadero que dio positivo en la prueba, pero no presentó síntomas, no debe regresar al trabajo durante 
+10 días desde la fecha de la prueba positiva. 
+ 
+13 
+ 
+Siglas utilizadas en la orientación provisional y las páginas web vinculadas: 
+APHIS: Servicio de inspección sanitaria de animales y plantas 
+AVIC: Veterinario del área a cargo 
+BHI: Caldo de infusión de cerebro-corazón 
+CDC: Centros para el control y la prevención de enfermedades 
+FAQ: Preguntas frecuentes 
+EI: Edificios infectados 
+NAHLN: Red nacional de laboratorios de sanidad animal 
+NIOSH: Instituto nacional de salud y seguridad ocupacional 
+NVSL: Laboratorios de servicios veterinarios nacionales 
+OSHA: Administración de seguridad y salud ocupacional 
+EPP: Equipo de protección personal 
+RT-PCR: Reacción en cadena de la polimerasa con transcripción inversa 
+SAHO: Responsable estatal de la sanidad animal 
+SPHV: Veterinario de salud pública del Estado 
+VS: Servicios veterinarios 
+VTM: Medios de transporte viral 
+USDA: Departamento de agricultura de los Estados Unidos 
+Agradecimientos: 
+Text Len: 1104
+--------------------------------------------------------------------------------
+: Responsable estatal de la sanidad animal 
+SPHV: Veterinario de salud pública del Estado 
+VS: Servicios veterinarios 
+VTM: Medios de transporte viral 
+USDA: Departamento de agricultura de los Estados Unidos 
+Agradecimientos: 
+Presidente: Dr.  David Smith, director, División de Industria Animal, Departamento de Agricultura y 
+Mercados del estado de 
+Nueva York. 
+Miembros del Grupo de Coordinación Federal Interagencial de COVID -19 de One Health, subgrupo de 
+Ganadería. 
+VS del APHIS del USDA, CDC, Departamento de Agricultura, Comercio y Protección del Consumidor de 
+Wisconsin y 
+y expertos en la materia de la Comisión Peletera de EE. UU. 
+14 
+ 
+Materiales de referencia 
+Orientación y recomendaciones provisionales sobre el SARS-CoV-2 para visones y otros 
+mustélidos de criadero: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/sars-cov-2-guidance-for-
+farmed-mink.pdf  
+COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html  
+Preguntas frecuentes sobre COVID-19 y animales de los CDC:  
+https
+Text Len: 1070
+--------------------------------------------------------------------------------
+-mink.pdf  
+COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html  
+Preguntas frecuentes sobre COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals  
+Evaluación de los CDC para pruebas de SARS-CoV-2 en animales: 
+https://www.cdc.gov/coronavirus/2019-ncov/animals/animal-
+testing.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2
+F2019-ncov%2Fphp%2Fanimal-testing.html  
+Síntomas de COVID-19 de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html  
+Guía para preparar lugares de trabajo para la COVID-19: 
+https://www.osha.gov/Publications/OSHA3990.pdf  
+Guía provisional para los trabajadores y los empleadores agrícolas de los CDC/DOL  
+https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html 
+Preguntas frecuentes del USDA para funcionarios estatales de salud pública y animal
+Text Len: 954
+--------------------------------------------------------------------------------
+ los empleadores agrícolas de los CDC/DOL  
+https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html 
+Preguntas frecuentes del USDA para funcionarios estatales de salud pública y animal sobre las 
+pruebas del coronavirus en animales: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/faq-public-on-companion-
+animal-testing.pdf  
+Preguntas frecuentes del USDA sobre pruebas del coronavirus en animales: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/faq-public-on-companion-
+animal-testing.pdf  
+Recursos de la Administración de Medicamentos y Alimentos para la necropsia del SARS-CoV-2: 
+https://www.fda.gov/animal-veterinary/science-research/vet-lirn-sars-cov-2-supplemental-
+necropsy-sample-inventory-checklist  
+Cannon, R.M. (2001). Sense and Sensitivity - designing surveys based on an imperfect test. 
+Preventative Veterinary Medicine, 49, 141-163. 
+Molinari, R. J., Vreman, S., Hakze-van der Honing, R. W., Zwart, R., de Rond, J., Weesendorp, E., 
+... & van der Poel, W. H. (2020). Clinical and Pathological Findings in SARS
+Text Len: 1090
+--------------------------------------------------------------------------------
+ Veterinary Medicine, 49, 141-163. 
+Molinari, R. J., Vreman, S., Hakze-van der Honing, R. W., Zwart, R., de Rond, J., Weesendorp, E., 
+... & van der Poel, W. H. (2020). Clinical and Pathological Findings in SARS-CoV-2 Disease 
+15 
+ 
+Outbreaks in Farmed Mink (Neovison vison). Veterinary Pathology, 1 – 5. 
+https://journals.sagepub.com/doi/10.1177/0300985820943535  
+Oreshkova, N., Molenaar, R. J., Vreman, S., Harders, F., Munnink, B. B. O., Honing, R. W. H. V., ... 
+& Tacken, M. (2020). SARS-CoV2 infection in farmed mink, Netherlands, April 2020. bioRxiv: 
+https://www.biorxiv.org/content/10.1101/2020.05.18.101493v1.full.pdf  
+ 
+Text Len: 632
+--------------------------------------------------------------------------------
+1 
+ 
+Pautas de 
+respuesta y 
+contención 
+Guía provisional para funcionarios  
+de sanidad animal y salud pública  
+que manejan visones y otros mustélidos 
+de criadero con SARS-CoV-2 
+ 
+9-11-2020 
+2 
+ 
+Manejo del SARS-CoV-2 en visones y mustélidos de criadero: 
+Orientación provisional para equipos de respuesta 
+2020 
+Antecedentes 
+Componentes de la estrategia para combatir el SARS-CoV-2 
+Este documento está dirigido a los funcionarios de sanidad animal y salud pública que responden a 
+los brotes de SARS-CoV-2 en visones y otros mustélidos de criadero. 
+Todavía estamos aprendiendo sobre el virus SARS-CoV-2, pero parecería que se puede transmitir de 
+personas a animales en algunas situaciones. No hay evidencia de que los animales jueguen un papel 
+significativo en la propagación del virus que causa la COVID-19 en las personas, y se considera que el 
+riesgo de que los animales transmitan la COVID-19 a las personas es bajo. Se necesitan más estudios 
+para comprender cómo diferentes animales podrían verse afectados por la COVID-19. En el tratamiento 
+del SARS
+Text Len: 1068
+--------------------------------------------------------------------------------
+ se considera que el 
+riesgo de que los animales transmitan la COVID-19 a las personas es bajo. Se necesitan más estudios 
+para comprender cómo diferentes animales podrían verse afectados por la COVID-19. En el tratamiento 
+del SARS-CoV-2 en animales en los Estados Unidos, se están desarrollando e implementando diferentes 
+estrategias para diferentes especies de animales. Se pueden diseñar estrategias para tratar el SARS-
+CoV-2 en visones y otros mustélidos de criadero con uno de estos tres resultados en mente: 1) prevenir 
+la introducción del SARS-CoV-2 en las instalaciones de agricultura animal; 2) controlar las pérdidas 
+minimizando el impacto económico y sanitario negativo del SARS-CoV-2 cuando esté presente; o 3) 
+eliminar totalmente el SARS-CoV-2 (erradicación). Debido a que el virus se replica de manera eficiente 
+en personas y en múltiples especies de animales, la eliminación total puede no ser un objetivo realista. 
+Esto incluye lo siguiente: 
+• Educación para los trabajadores del criadero para mantener a las personas y los animales 
+seguros y saludables. 
+• Procedimientos de manejo de biose
+Text Len: 1117
+--------------------------------------------------------------------------------
+ón total puede no ser un objetivo realista. 
+Esto incluye lo siguiente: 
+• Educación para los trabajadores del criadero para mantener a las personas y los animales 
+seguros y saludables. 
+• Procedimientos de manejo de bioseguridad para prevenir la introducción o mayor 
+propagación del virus SARS-CoV-2. 
+• Diagnóstico y vigilancia (detección de contagios de SARS-CoV-2) en animales. 
+• Eliminación de animales infectados con SARS-CoV-2. 
+El éxito de cualquier estrategia depende de la cooperación y colaboración entre la industria y el 
+gobierno. La naturaleza zoonótica del SARS-CoV-2 requiere la coordinación de One Health entre los 
+funcionarios de sanidad animal, las autoridades de salud pública, los profesionales médicos, la 
+industria y otros sujetos relevantes para proteger mejor la salud de las personas y los animales. Este 
+plan describe los procedimientos de prevención tanto en los trabajadores como en los visones, el 
+manejo de casos sospechosos y confirmados en animales, el monitoreo de las instalaciones infectadas, 
+la contención de virus y la recolección o el despellejado de animales de los criaderos que han sido
+Text Len: 1137
+--------------------------------------------------------------------------------
+adores como en los visones, el 
+manejo de casos sospechosos y confirmados en animales, el monitoreo de las instalaciones infectadas, 
+la contención de virus y la recolección o el despellejado de animales de los criaderos que han sido 
+infectados. Este plan también analiza la eliminación del virus en instalaciones infectadas. 
+3 
+ 
+1. Programas de educación y concienciación pública sobre el SARS-CoV-2 
+La educación es un componente esencial de cualquier estrategia de prevención, control o 
+erradicación del SARS-CoV-2. Esto implica proporcionar información actualizada a la industria sobre 
+lo que se sabe actualmente sobre el SARS-CoV-2 en animales y personas; cómo se puede introducir y 
+propagar el virus en los criaderos; la aplicación de métodos y prácticas de bioseguridad para 
+prevenir la introducción de SARS-COV-2 en criaderos; y prácticas de bioseguridad para evitar que el 
+virus SARS-COV-2 se transmita entre los animales y entre los animales y los trabajadores del 
+criadero. 
+Los Centros para el Control y la Prevención de Enfermedades (Centers for Disease Control 
+and Prevention, CDC) han desarroll
+Text Len: 1119
+--------------------------------------------------------------------------------
+ evitar que el 
+virus SARS-COV-2 se transmita entre los animales y entre los animales y los trabajadores del 
+criadero. 
+Los Centros para el Control y la Prevención de Enfermedades (Centers for Disease Control 
+and Prevention, CDC) han desarrollado una guía para los trabajadores y los empleadores 
+agrícolas.  
+La educación y la divulgación deben ser continuas y centrarse en las siguientes personas o grupos: 
+• Criadores de visones 
+• Empleados del criadero que trabajan con visones 
+• Veterinarios y personal veterinario que trabaja con criaderos de visones 
+• Socios de la industria peletera 
+• Público en general 
+2. Plan mínimo de bioseguridad 
+Antes de un brote, los funcionarios de sanidad animal y los funcionarios de salud pública deben 
+considerar ofrecer la siguiente orientación sobre prevención en las operaciones con visones y 
+mustélidos de criadero en sus jurisdicciones. Se recomienda encarecidamente a todos los criaderos 
+de visones y otras operaciones con mustélidos que desarrollen planes de bioseguridad específicos 
+del criadero que contengan elementos como los que se enumeran a continuación. 
+Los operadores del criadero deben examinarse a sí mismos
+Text Len: 1176
+--------------------------------------------------------------------------------
+os 
+de visones y otras operaciones con mustélidos que desarrollen planes de bioseguridad específicos 
+del criadero que contengan elementos como los que se enumeran a continuación. 
+Los operadores del criadero deben examinarse a sí mismos, a los trabajadores y a los visitantes 
+para detectar síntomas de COVID-19 
+Reconocer que la transmisión de persona a animal es la forma más probable de que el SARS-CoV-2 
+ingrese a un criadero de visones; todos, incluidos los propietarios, deben examinarse a sí mismos 
+para detectar signos de contagio antes de ingresar al criadero. Las personas que operan, trabajan o 
+visitan criaderos de visones y que tienen síntomas de SARS-CoV-2 al llegar al trabajo o se enferman 
+durante el día deben ser separadas inmediatamente de los demás trabajadores, animales y otras 
+personas, y enviadas a su hogar. Toda persona que desarrolle síntomas fuera del trabajo debe 
+evitar el contacto con animales y otro personal del criadero y quedarse en su hogar. 
+Ayudar a los trabajadores del criadero a seguir las prácticas de prevención de la COVID-19 
+Los criaderos deben consultar con su departamento de salud
+Text Len: 1136
+--------------------------------------------------------------------------------
+evitar el contacto con animales y otro personal del criadero y quedarse en su hogar. 
+Ayudar a los trabajadores del criadero a seguir las prácticas de prevención de la COVID-19 
+Los criaderos deben consultar con su departamento de salud estatal, tribal, local o territorial para 
+diseñar prácticas que minimicen el riesgo de transmisión del SARS-CoV-2 entre empleados, 
+visitantes, otras personas y animales. Por ejemplo, los criaderos deben implementar estrategias y 
+prácticas en las áreas de trabajo y áreas comunes para que las personas mantengan distancias físicas 
+de 6 pies de otras personas y animales, como mínimo, cuando sea posible. Se deben usar máscaras 
+de tela cuando no sea posible mantener una distancia física de 6 pies de los demás. 
+Enlace a prácticas diseñadas para proteger a los trabajadores de los CDC.  
+4 
+ 
+Los criaderos deben practicar una buena higiene y saneamiento 
+Se debe prestar mucha atención a las instalaciones para empleados, como baños, salas de descanso 
+y otras áreas comunes para garantizar que se implementen las prácticas adecuadas de higiene y 
+saneamiento. Implement
+Text Len: 1112
+--------------------------------------------------------------------------------
+ 
+Se debe prestar mucha atención a las instalaciones para empleados, como baños, salas de descanso 
+y otras áreas comunes para garantizar que se implementen las prácticas adecuadas de higiene y 
+saneamiento. Implementar procedimientos adecuados de lavado de manos y protocolos de higiene 
+para la limpieza y desinfección diarias de zonas de trabajo y áreas comunes. Configure las áreas 
+comunes para que los trabajadores, visitantes autorizados y otras personas estén separados por 
+6 pies, como mínimo, si es posible. Proporcione estaciones para lavarse las manos con jabón, agua 
+potable y toallas limpias de un solo uso. 
+Practique una higiene estricta en las áreas donde se preparan alimentos para animales y limpie y 
+desinfecte el equipo de alimentación diariamente con un  desinfectante aprobado por la Agencia de 
+Protección Ambiental ( Environmental Protection Agency , EPA) . Evite la acumulación excesiva de 
+desechos animales. 
+Trabajar con los operadores del criadero para prevenir la introducción del SARS -CoV-2 en sus 
+instalaciones para animales Siempre que sea posible, considere exigir a las personas que trabajan con 
+o cerca de visones de
+Text Len: 1159
+--------------------------------------------------------------------------------
+chos animales. 
+Trabajar con los operadores del criadero para prevenir la introducción del SARS -CoV-2 en sus 
+instalaciones para animales Siempre que sea posible, considere exigir a las personas que trabajan con 
+o cerca de visones de criadero que usen máscaras de tela y equipo de protección personal (EPP) como 
+calzado exclusivo que se puede limpiar y desinfectar, ropa agrícola especial como overoles, guantes y 
+protección para los ojos, como máscaras o gafas protectoras. La ropa de trabajo debe lavarse en el 
+lugar y no debe llevarse al hogar. Brinde capacitación sobre el cuidado y el uso adecuados del EPP. 
+La información sobre los requisitos de EPP para actividades de alt o riesgo se encuentra en la  
+Sección 10 de este documento, y se proporciona orientación adicional en el apéndice titulado 
+“Seguridad y supervisión de los trabajadores”. 
+Instar a los criadores a practicar la bioseguridad mejorada 
+El acceso a los criaderos debe limitarse al personal y a visitantes esenciales. Excluya a todos los 
+animales domésticos (perros, gatos, etc.), así como a roedores, pájaros y otros
+Text Len: 1099
+--------------------------------------------------------------------------------
+ practicar la bioseguridad mejorada 
+El acceso a los criaderos debe limitarse al personal y a visitantes esenciales. Excluya a todos los 
+animales domésticos (perros, gatos, etc.), así como a roedores, pájaros y otros animales salvajes 
+de las instalaciones del criadero. Los operadores del criadero deben restringir el acceso a su 
+propiedad y sus áreas de alojamiento de animales. Deben utilizar letreros para orientar a los 
+visitantes con respecto a los requisitos de bioseguridad de su criadero. 
+Requisitos mínimos:  
+• Use cercas, portones y otras barreras para controlar el acceso al alojamiento de los animales. 
+• Exija a los visitantes que estacionen sus vehículos en áreas designadas lejos del alojamiento de 
+los animales. 
+• Use letreros para aconsejar a los visitantes que permanezcan en sus vehículos hasta que 
+el personal del criadero los ayude, y proporcione un número de teléfono al que los 
+visitantes pueden llamar para recibir instrucciones para el ingreso. 
+• Mantenga un registro de todas las personas que ingresan a la propiedad (familiares, 
+trabajadores, visitantes, etc.), incluida la fecha, la informaci
+Text Len: 1133
+--------------------------------------------------------------------------------
+ que los 
+visitantes pueden llamar para recibir instrucciones para el ingreso. 
+• Mantenga un registro de todas las personas que ingresan a la propiedad (familiares, 
+trabajadores, visitantes, etc.), incluida la fecha, la información de contacto y la 
+naturaleza de su visita. 
+• Proporcione y use el equipo de protección personal adecuado según la actividad que realice. 
+Por ejemplo, más EPP para trabajar de cerca con los animales. 
+ 
+ 
+5 
+ 
+Enseñar a los criadores a no transportar la enfermedad al hogar 
+Los neumáticos de los automóviles y camiones, las jaulas de aves y los equipos pueden albergar 
+gérmenes. El perso nal del criadero que viaja a lugares donde hay otros animales debe limpiar y 
+desinfectar estos artículos antes de regresar a sus propios criaderos. Se debe desalentar el uso 
+compartido de equipos, herramientas o insumos con vecinos u otros criaderos. 
+Los criadores deben tener extrema precaución al introducir nuevos visones al rebaño 
+Los animales nuevos pueden introducir problemas de enfermedades en un criadero de visones, 
+incluido el SARS -CoV-2.
+Text Len: 1080
+--------------------------------------------------------------------------------
+aderos. 
+Los criadores deben tener extrema precaución al introducir nuevos visones al rebaño 
+Los animales nuevos pueden introducir problemas de enfermedades en un criadero de visones, 
+incluido el SARS -CoV-2. Los criadores deben consultar con su veterinario para diseñar un plan de 
+aislamiento adecuado para los recién llegados a fin de proteger al resto de su rebaño. Se recomiendan 
+las siguientes precauciones: 
+• Todos los visones que se introducirán en el rebaño deben provenir de criaderos 
+históricamente negativos para el SARS-CoV-2 y que no presenten signos de infección de  
+SARS-CoV-2 en personas o animales involucrados en ese criadero. 
+• Todos los visones para envío deben separarse del rebaño principal y manejarse por 
+separado, al menos, 21 días antes del envío y deben someterse a pruebas de detección 
+del SARS-CoV-2 al momento de la separación. 
+• Todas las muertes de visones que ocurran durante el aislamiento deben someterse a pruebas 
+de detección del SARS-CoV-2. 
+• Los visones separados para envío deben someterse a una segunda prueba para el SARS -
+
+Text Len: 1079
+--------------------------------------------------------------------------------
+• Todas las muertes de visones que ocurran durante el aislamiento deben someterse a pruebas 
+de detección del SARS-CoV-2. 
+• Los visones separados para envío deben someterse a una segunda prueba para el SARS -
+CoV-2, al menos, 21 días después de la primera prueba. 
+• Todos los visones de envío deben dar negativo en la prueba del SARS-CoV-2 para que el 
+envío se lleve a cabo. 
+• A su llegada, el criadero de destino debe aislar los visones enviados del rebaño principal 
+durante 21 días, como mínimo. 
+• Durante el período de aislamiento, se debe observar a los visones para detectar signos 
+clínicos de la enfermedad y, luego, volver a realizar la prueba del SARS-CoV-2, al menos, 
+21 días después de su llegada. 
+• Si todos los visones recibidos resultan negativos para el SARS-CoV-2, estos pueden 
+introducirse en el rebaño principal. 
+Educar a los operadores del criadero para que informen sobre visones enfermos 
+La detección temprana es importante para prevenir la propagación de la enfermedad. El 
+operador y los trabajadores del c
+Text Len: 1040
+--------------------------------------------------------------------------------
+en 
+introducirse en el rebaño principal. 
+Educar a los operadores del criadero para que informen sobre visones enfermos 
+La detección temprana es importante para prevenir la propagación de la enfermedad. El 
+operador y los trabajadores del criadero deben estar alertas a los signos de enfermedad, al 
+poder reconocer que dichos signos pueden ser cambios sutiles en la salud, el consumo de 
+alimento o el comportamiento del animal. 
+Los siguientes signos son comunes, pero no se observan sistemáticamente en todos los casos de 
+SARS-CoV-2 en visones. 
+• Aumento de muertes de visones 
+• Estornudos 
+• Tos 
+• Secreción nasal 
+• Secreción ocular 
+• Jadeo o dificultad para respirar 
+• Diarrea 
+• Falta de energía 
+• Poco apetito 
+6 
+ 
+Si existe la sospecha de SARS-CoV-2 en animales, los operadores deben llamar a su funcionario 
+estatal de sanidad animal (State Animal Health Official, SAHO)  o a la oficina de Servicios 
+Veterinarios (Veterinary Services, VS) del Servicio de Inspección de Animales y Plantas (Animal and 
+Plant Inspection Service, APHIS) del Departamento de Agricultura de los Estados Unidos (United 
+States Department of Agriculture, USDA).
+Text Len: 1157
+--------------------------------------------------------------------------------
+HO)  o a la oficina de Servicios 
+Veterinarios (Veterinary Services, VS) del Servicio de Inspección de Animales y Plantas (Animal and 
+Plant Inspection Service, APHIS) del Departamento de Agricultura de los Estados Unidos (United 
+States Department of Agriculture, USDA). Los operadores de criaderos y sus veterinarios deben 
+conservar las muertes sospechosas para la necropsia y las pruebas. Los recursos de capacitación 
+en bioseguridad deben estar disponibles para los operadores y los empleados del criadero en sus 
+idiomas preferidos. 
+Recursos para el diagnóstico 
+Los veterinarios, los funcionarios de sanidad animal y los operadores de criaderos pueden consultar 
+con el laboratorio  de diagnóstico veterinario de su estado o con uno de los varios laboratorios 
+privados que actualmente están proporcionando pruebas de serología y PCR del SARS-CoV-2. La 
+Universidad Estatal de Dakota del Norte, el Laboratorio de Diagnóstico Veterinario del estado de 
+Utah, el Laboratorio de Diagnóstico de Enfermedades Animales de Washington y el Laboratorio de 
+Diagnóstico Veterinario de Wisconsin son reconocidos por su experiencia en enfermedades de 
+visones. El VS del APHIS del USDA tiene preguntas frecuentes útiles sobre pruebas de coronavirus 
+en animales. 
+Text Len: 1260
+--------------------------------------------------------------------------------
+ales de Washington y el Laboratorio de 
+Diagnóstico Veterinario de Wisconsin son reconocidos por su experiencia en enfermedades de 
+visones. El VS del APHIS del USDA tiene preguntas frecuentes útiles sobre pruebas de coronavirus 
+en animales.  
+3. Procedimientos para el manejo inicial y la investigación de casos animales sospechosos de 
+SARS-COV-2 
+• Los funcionarios de sanidad animal deben poner en cuarentena los criaderos afectados, 
+para evitar así el movimiento de animales o productos animales dentro o fuera del criadero. 
+Según los consejos de su laboratorio de diagnóstico, recolecte muestras de animales 
+sospechosos. En la mayoría de los casos, las muestras preferidas incluirán hisopos oral-
+faríngeos o hisopos rectales. A menos que el laboratorio receptor indique lo contrario, los 
+hisopos deben tener punta de dacrón, no algodón, y deben transportarse al laboratorio en 
+tubos que contengan medios de transporte viral ( viral transport media, VTM), p.  ej., VTM 
+universal o caldo de infusión de cerebro -corazón (Brain-Heart Infusion, BHI). La industria 
+del visón está colaborando actualmente con laboratorios d e diagnóstico para desarrollar 
+serología ELISA
+Text Len: 1180
+--------------------------------------------------------------------------------
+ transport media, VTM), p.  ej., VTM 
+universal o caldo de infusión de cerebro -corazón (Brain-Heart Infusion, BHI). La industria 
+del visón está colaborando actualmente con laboratorios d e diagnóstico para desarrollar 
+serología ELISA eficaz, por lo que también se deberían considerar las muestras de suero. 
+Consulte con su laboratorio para obtener asesoramiento. 
+• Inicie una investigación epidemiológica preliminar. 
+• La cuarentena puede instituirse en sitios de rastreo hacia atrás o hacia adelante a discreción 
+del SAHO. 
+• Los operadores o administradores del criadero y los funcionarios de sanidad animal deben 
+colaborar para decidir cómo administrar los edificios que albergan a los visiones en el 
+criadero y si alguno debe manejarse como unidades separadas. 
+• Determine la estrategia de muestreo de vigilancia para el criadero afectado, los criaderos 
+cercanos y cualquier criadero que parezca estar conectado epidemiológicamente. 
+4. Procedimientos para informar los resultados de las pruebas con animales al APHIS del USDA 
+El SARS-CoV-2 es una enfermedad de notificación obligatoria cuando se encuentra en animales. Los 
+resultados
+Text Len: 1151
+--------------------------------------------------------------------------------
+ conectado epidemiológicamente. 
+4. Procedimientos para informar los resultados de las pruebas con animales al APHIS del USDA 
+El SARS-CoV-2 es una enfermedad de notificación obligatoria cuando se encuentra en animales. Los 
+resultados positivos de las pruebas deben notificarse inmediatamente al  SAHO o a VS del APHIS del 
+USDA. Todas las muestras que resulten presuntamente positivas en laboratorios estatales o privados 
+serán enviadas y confirmadas por los Laboratorios de Servicios Veterinarios Nacionales (National 
+Veterinary Services Laboratories, NVSL) del APHIS del USDA. 
+7 
+ 
+5. Medidas de cuarentena para criaderos presuntamente infectados y confirmados 
+Los animales se mantienen en un edificio para visones. Es una dirección física y se le asignará un número 
+de identificación de edificio si aún no lo tiene. 
+Los elementos clave para la cuarentena y el control de animales en criaderos infectados incluyen los 
+siguientes: 
+• Poner en cuarentena los edificios infectados (EI) para todos los visones y productos de 
+visones. Mantener la cuarentena hasta que el EI esté libre de virus. El criador del EI d ebe 
+notificar al SAHO si aumenta la morbilidad o la mortalidad. El EI
+Text Len: 1192
+--------------------------------------------------------------------------------
+ los edificios infectados (EI) para todos los visones y productos de 
+visones. Mantener la cuarentena hasta que el EI esté libre de virus. El criador del EI d ebe 
+notificar al SAHO si aumenta la morbilidad o la mortalidad. El EI es necesario para mantener 
+la máxima bioseguridad. 
+• Los funcionarios estatales de sanidad animal pueden optar por establecer una zona de 
+control alrededor de un EI, pero probablemente sea  más útil dirigir las actividades de 
+vigilancia a los criaderos que se encuentran epidemiológicamente vinculados a un criadero 
+infectado. 
+• Controlar los criaderos circundantes, los proveedores de servicios —como los procesadores o 
+proveedores de alimentos— y el movimiento de animales, equipos y materiales. 
+6. Disposiciones para desarrollar planes para criaderos con visones infectados y expuestos 
+Se deben tener en cuenta tres objetivos generales al manipular el SARS-CoV-2 en un criadero 
+infectado o expuesto: 
+i. Contener el virus en el criadero, evitando la propagación entre unidades de alojamiento de 
+animales y otros criaderos. Proteger a los trabajadores y visitantes de la exposición al virus. 
+ii. Des
+Text Len: 1143
+--------------------------------------------------------------------------------
+infectado o expuesto: 
+i. Contener el virus en el criadero, evitando la propagación entre unidades de alojamiento de 
+animales y otros criaderos. Proteger a los trabajadores y visitantes de la exposición al virus. 
+ii. Desarrollar un plan del criadero. 
+Un plan del criadero es un acuerdo de manejo escrito entre el operador de la finca afectada, los VS 
+del APHIS del USDA, el SAHO y las autoridades de salud pública. Un plan del criadero establece los 
+pasos que se deben seguir para proteger a los trabajadores del criadero y la salud pública, prevenir 
+la introducción del SARS-CoV-2 en otros criaderos y controlar el SARS-COV-2 en el criadero con 
+diagnóstico positivo. Un plan del criadero debe incluir, entre otros, controles sobre el 
+movimiento de visones y productos de visones, manejo seguro de medios de transporte, 
+contenedores y otros materiales asociados que podrían servir como fómites, planes detallados 
+para un mayor control, planes detallados para la eliminación de animales muertos, y planes 
+detallados de limpieza y desinfección. La protección de trabajadores es fundamental, y los 
+criaderos deben consultar con su depart
+Text Len: 1146
+--------------------------------------------------------------------------------
+ fómites, planes detallados 
+para un mayor control, planes detallados para la eliminación de animales muertos, y planes 
+detallados de limpieza y desinfección. La protección de trabajadores es fundamental, y los 
+criaderos deben consultar con su departamento de salud estatal, tribal, local o territorial para 
+implementar prácticas que minimicen el  riesgo de transmisión del SARS-CoV-2 entre 
+operadores, trabajadores, visitantes y otras personas del criadero.  
+7. Métodos de eliminación de animales muertos 
+Siempre consulte a las autoridades locales y estatales antes de llevar a cabo actividades de 
+eliminación para garantizar el cumplimiento. 
+Los posibles métodos incluyen los siguientes: 
+• Entierro 
+• Entierro en fosa común (donde el nivel freático es alto) 
+• Incineración 
+• Compostaje 
+• Relleno sanitario 
+• Despellejado 
+• Combinación de los métodos anteriores 
+8 
+ 
+Las opciones de eliminación se analizan y describen en profundidad por los VS del APHIS del USDA 
+en estos sitios: 
+• https://www.aphis.usda.gov/animal_health/emergency_management/downloads/na
+hem  s_gu
+Text Len: 1086
+--------------------------------------------------------------------------------
+ores 
+8 
+ 
+Las opciones de eliminación se analizan y describen en profundidad por los VS del APHIS del USDA 
+en estos sitios: 
+• https://www.aphis.usda.gov/animal_health/emergency_management/downloads/na
+hem  s_guidelines/disposal_nahems.pdf  
+• https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/emergen
+cy-management/carcass-management/carcass  
+8. Limpieza y desinfección 
+Todas las instalaciones, los medios de transporte y los materiales que entren en contacto con 
+visones infectados o expuestos al SARS-CoV-2 deben someterse a procedimientos de eliminación 
+del virus antes de repoblar con nuevos animales. La mayor parte de la eliminación de estiércol y 
+material de cama para ganado se puede realizar antes y durante el desuello. Si el clima lo permite, 
+se puede considerar la limpieza y desinfección en húmedo, pero deben sopesarse frente a la 
+posibilidad de que las condiciones climáticas puedan hacer que la limpieza en húmedo no sea 
+práctica, por ejemplo, en temperaturas bajo cero. Puede ser necesario considerar la limpieza en 
+seco combinada con un período de barbecho y el us
+Text Len: 1099
+--------------------------------------------------------------------------------
+ que las condiciones climáticas puedan hacer que la limpieza en húmedo no sea 
+práctica, por ejemplo, en temperaturas bajo cero. Puede ser necesario considerar la limpieza en 
+seco combinada con un período de barbecho y el uso de animales centinela antes de la repoblación 
+completa. Para lograr la limpieza y desinfección, complete los siguientes procedimientos: 
+• Eliminación de estiércol, suciedad y alimento. Elimine todo el estiércol, la suciedad y el 
+alimento. Haga abono formando hileras en el sitio, si es posible. Si esto no es posible, 
+establezca un sistema para transportar el material, en vehículos cubiertos, a un sitio 
+aprobado para entierro, apilamiento o compostaje. Limpie el sitio de alojamiento o mueva 
+o esparza la basura. Después de su uso, el equipo debe limpiarse, desinfectarse e 
+inspeccionarse en el lugar al que se transportó el estiércol y la basura. En el caso de 
+inclemencias del tiempo, el equipo se puede limpiar, desinfectar e inspeccionar en las 
+estaciones de lavado fuera del sitio a discreción del SAHO y del APHIS. 
+• Limpieza de instalaciones y materiales.  La
+Text Len: 1105
+--------------------------------------------------------------------------------
+ el caso de 
+inclemencias del tiempo, el equipo se puede limpiar, desinfectar e inspeccionar en las 
+estaciones de lavado fuera del sitio a discreción del SAHO y del APHIS. 
+• Limpieza de instalaciones y materiales.  La limpieza y desinfección deben ser minuciosas 
+para asegurar que todos los materiales o las sustancias contaminadas con el virus del SARS-
+CoV-2 —especialmente las heces, la sangre seca y otros materiales orgánicos— se eliminen 
+de todas las superficies. Enlace a la guía de los CDC sobre la desinfección de instalaciones.  
+9. Disposiciones para el control adecuado y las restricciones de movimiento 
+Se puede llevar a cabo una vigilancia adicional en los criaderos o las instalaciones que se encuentren 
+relacionadas epidemiológicamente con las instalaciones infectadas. El SAHO puede imponer 
+restricciones de cuarentena y movimiento para el traslado de animales vivos y muertos, así como de 
+equipos hacia y desde las instalaciones afectadas. Los propietarios de criaderos y los funcionarios de 
+sanidad animal deben trabajar con las autoridades de salud pública para brindar orientación sobre 
+salud y segur
+Text Len: 1131
+--------------------------------------------------------------------------------
+ así como de 
+equipos hacia y desde las instalaciones afectadas. Los propietarios de criaderos y los funcionarios de 
+sanidad animal deben trabajar con las autoridades de salud pública para brindar orientación sobre 
+salud y seguridad del SARS-CoV-2 a los criaderos y sus trabajadores. El SAHO debe informar a la 
+agencia de vida silvestre del estado sobre el criadero infectado, para que los funcionarios de vida 
+silvestre puedan estar alertas a la propagación de enfermedades hacia las poblaciones de animales 
+salvajes circundantes. Proporcione pautas de limpieza y desinfección para las personas y los equipos 
+que trabajan con visones en el área. 
+Minimice el riesgo de que el virus se propague a áreas no contaminadas. El SAHO puede modificar 
+el movimiento, la bioseguridad y la vigilancia en el área contaminada según sea necesario para 
+contener una amenaza de SARS-CoV-2. 
+9 
+ 
+10. Seguridad del trabajador durante actividades de alto riesgo en criaderos infectados o 
+bajo sospecha 
+Debido a que los procedimientos de procesamiento de visones tienen el potencial de transmitir el 
+SARS-CoV-2 y otras en
+Text Len: 1114
+--------------------------------------------------------------------------------
+ Seguridad del trabajador durante actividades de alto riesgo en criaderos infectados o 
+bajo sospecha 
+Debido a que los procedimientos de procesamiento de visones tienen el potencial de transmitir el 
+SARS-CoV-2 y otras enfermedades zoonóticas a los trabajadores, siempre se deben tomar las 
+siguientes precauciones con EPP al manipular cadáveres o durante el despellejado: 
+• Recursos de los CDC relativos al EPP.  
+• Debate exhaustivo sobre el uso del EPP en incidentes de enfermedades en animales.  
+• Use protección para los ojos (p. ej., gafas protectoras o un protector facial) y un 
+respirador N95 aprobado por el Instituto Nacional de Salud y Seguridad Ocupacional 
+(National Institute for Occupational Health and Safety, NIOSH), o un  respirador de nivel 
+más alto aprobado por el NIOSH, siempre que puedan producirse salpicaduras o 
+aspersión. 
+• Para todo el EPP, siga las instrucciones del fabricante sobre el uso, la limpieza, el 
+almacenamiento y la eliminación. 
+• Evite los procedimientos que impliquen pulverización cuando sea posible. Cuando no 
+haya otra alternativa que participar en procedimientos que impliquen pulveriz
+Text Len: 1141
+--------------------------------------------------------------------------------
+ante sobre el uso, la limpieza, el 
+almacenamiento y la eliminación. 
+• Evite los procedimientos que impliquen pulverización cuando sea posible. Cuando no 
+haya otra alternativa que participar en procedimientos que impliquen pulverización 
+(p. ej., parto, desuello, despellejado), use un protector facial o gafas, guantes, ropa 
+exterior protectora y protección respiratoria que sea al menos tan protectora como un 
+respirador N95 desechable certificado por NIOSH. 
+o Si no dispone de un respirador N95, utilice un nivel más alto de protección respiratoria o 
+una combinación de una máscara de tela o barbijo médico usado correctamente y un 
+protector facial que cubra todo el frente (que se extiende por debajo de la barbilla) y los 
+lados de la cara. 
+o El uso del respirador debe estar en el contexto de un programa completo de protección 
+respiratoria de acuerdo con la norma de Protección respiratoria de la Administración de 
+Seguridad y Salud Ocupacional (Occupational Safety and Health Administration, OSHA) 
+(Título 29 del Código de reglamentos federales, Sección 1910.134), que incluye 
+evaluaciones médicas, capacitación y pruebas de ajuste. 
+• Cuando est
+Text Len: 1166
+--------------------------------------------------------------------------------
+ y Salud Ocupacional (Occupational Safety and Health Administration, OSHA) 
+(Título 29 del Código de reglamentos federales, Sección 1910.134), que incluye 
+evaluaciones médicas, capacitación y pruebas de ajuste. 
+• Cuando esté dentro de un establecimiento, abra tantas puertas, ventanas y demás 
+aberturas como sea posible para maximizar la ventilación natural. Use guantes y otras 
+prendas de protección exteriores según sea necesario para evitar el contacto de la piel 
+expuesta con cadáveres, órganos, fluidos corporales y pieles de animales. 
+• Siempre lávese inmediatamente las manos con agua y jabón durante al menos 20 segundos 
+después de: 
+o Tener un contacto directo con cadáveres, órganos yo pieles de animales. 
+o Limpiar a los animales, incluidos los fluidos corporales o los desechos. 
+o Quitarse el EPP o la máscara de tela. 
+• El uso de EPP y cierta ropa a menudo puede aumentar su riesgo de enfermedades 
+relacionadas con el calor. Consulte la información de los CDC sobre la prevención del 
+estrés por calor para empleadores y empleados.  
+• Limpie las herramientas con un desinfect
+Text Len: 1100
+--------------------------------------------------------------------------------
+ ropa a menudo puede aumentar su riesgo de enfermedades 
+relacionadas con el calor. Consulte la información de los CDC sobre la prevención del 
+estrés por calor para empleadores y empleados.  
+• Limpie las herramientas con un desinfectante adecuado. Para desinfectar, use productos 
+que cumplan con los criterios de EPA para su uso contra el SARS-CoV-2, soluciones de 
+blanqueador doméstico diluidas preparadas de acuerdo con la etiqueta del fabricante para 
+10 
+ 
+desinfección o soluciones de alcohol con al menos 60 % de alcohol que sean aptas para la 
+superficie. Siga las instrucciones del fabricante para conocer el uso. 
+• Se puede requerir EPP, como guantes, protección facial y ocular y de otro tipo, para 
+limpiar y desinfectar herramientas, superficies y equipos. 
+• En los criaderos donde ha habido una posible exposición al SARS-CoV-2 o se ha 
+detectado el SARS-CoV-2, todos los animales deben ser observados de cerca para 
+detectar signos de la enfermedad, con el entendimiento de que los signos clínicos a 
+veces son sutiles. 
+• Si es posible, el desuello debe retrasarse al menos 14 días después de los �
+Text Len: 1119
+--------------------------------------------------------------------------------
+ales deben ser observados de cerca para 
+detectar signos de la enfermedad, con el entendimiento de que los signos clínicos a 
+veces son sutiles. 
+• Si es posible, el desuello debe retrasarse al menos 14 días después de los últimos signos 
+de enfermedad en la unidad de alojamiento afectada. Esto es particularmente importante 
+si es necesario transportar el visón fuera del lugar para desollarlo. 
+11. Supervisión y control 
+• Todos los criaderos, ya sea que el desuello se realice dentro o fuera del sitio, deben tener 
+muestras de mortalidad de visones y analizarlas, en un laboratorio aprobado, mediante la 
+reacción en cadena de la polimerasa con transcripción inversa (RT-PCR) para detectar el 
+SARS-CoV-2. Las pruebas de RT-PCR deben ser negativas por 14 días antes del inicio del 
+desuello o del traslado fuera del sitio. 
+• Se deben tomar muestras de la mortalidad de visones para su análisis con un mínimo de 
+5 visones muertos recolectados durante más de un día, si es necesario. 
+• Si hay más de 20 visones muertos, se pueden analizar en lotes de 20 para minimizar los 
+costos. Si se detecta SARS-
+Text Len: 1108
+--------------------------------------------------------------------------------
+álisis con un mínimo de 
+5 visones muertos recolectados durante más de un día, si es necesario. 
+• Si hay más de 20 visones muertos, se pueden analizar en lotes de 20 para minimizar los 
+costos. Si se detecta SARS-CoV-2 en un lote y se confirma, no es necesario analizar las 
+mortalidades restantes. 
+• Si se analiza la mortalidad mínima de 5 visones, este esquema de muestreo proporciona 
+un 95 % de confianza para detectar al menos 1 visón infectado cuando hay una 
+prevalencia de contagio del 50 % por SARS-CoV-2 entre los animales muertos. Las cifras y 
+las pruebas más altas de mortalidad de visones pueden detectar una menor prevalencia 
+de contagio entre los visones muertos (Cannon, 2001. Sense and Sensitivity). 
+• El tipo y la cantidad reales de muestras que se recolectarán deben determinarse en 
+colaboración con el laboratorio de pruebas y la autoridad estatal de sanidad animal. Se 
+puede considerar la combinación de muestras si el laboratorio y las autoridades de 
+sanidad animal coinciden en que es apropiado, con un mínimo de 2 muestras combinadas 
+para cumplir estadísticamente con un 95 % de confianza en las detecciones. Una 
+instalaci
+Text Len: 1156
+--------------------------------------------------------------------------------
+ de muestras si el laboratorio y las autoridades de 
+sanidad animal coinciden en que es apropiado, con un mínimo de 2 muestras combinadas 
+para cumplir estadísticamente con un 95 % de confianza en las detecciones. Una 
+instalación de desuello fuera del sitio solo debe aceptar animales de un criadero infectado 
+con el permiso de la autoridad estatal de sanidad animal. 
+• Las instalaciones de desuello fuera del sitio que planean aceptar animales de criaderos 
+positivos conocidos deben contar con los resguardos adecuados para proteger a sus 
+trabajadores y evitar la propagación del virus SARS-CoV-2 de animales asintomáticos a 
+criaderos aledaños y otros criaderos que contratan el servicio de la instalación de desuello. 
+ 
+11 
+ 
+Apéndice: Seguridad y control de trabajadores 
+Los CDC tienen una prueba de autodiagnóstico de coronavirus disponible en línea para ayudar a las 
+personas a tomar decisiones sobre cuándo someterse a pruebas y recibir atención médica adecuada. 
+Autodiagnóstico: Los criadores y los trabajadores del criadero, así como los miembros de la familia de las 
+personas que trabajan en los cri
+Text Len: 1119
+--------------------------------------------------------------------------------
+ cuándo someterse a pruebas y recibir atención médica adecuada. 
+Autodiagnóstico: Los criadores y los trabajadores del criadero, así como los miembros de la familia de las 
+personas que trabajan en los criaderos, deben autoevaluarse para detectar la presencia de COVID-19, una 
+forma relativamente simple y económica de proteger a las personas y los animales en el criadero. Las 
+personas que trabajan en el criadero deben hacer esto cada vez que ingresen a las instalaciones. 
+Las personas no deben intentar ingresar al criadero si, en su caso, se da alguna de las siguientes 
+condiciones: 
+• Síntomas de COVID-19. 
+• Temperatura igual o superior a los 38 °C (100.4 °F)*. 
+• Estar sometido a evaluación para COVID-19 (por ejemplo, en espera de los resultados de una 
+prueba de SARS-CoV-2). 
+• Haber sido diagnosticado con COVID-19 y todavía no tener el alta para  discontinuar el 
+aislamiento.  
+Los exámenes de detección y los controles de salud no reemplazan otras medidas de protección 
+como el distanciamiento social, la higiene de las manos y el uso de una mascarilla
+Text Len: 1073
+--------------------------------------------------------------------------------
+ alta para  discontinuar el 
+aislamiento.  
+Los exámenes de detección y los controles de salud no reemplazan otras medidas de protección 
+como el distanciamiento social, la higiene de las manos y el uso de una mascarilla. También se 
+deben seguir otras medidas de prevención para proteger a las personas de la COVID-19. 
+Control continuo: Si el empleado no tiene fiebre ni síntomas, debe autocontrolarse bajo la supervisión 
+del programa de salud ocupacional de su empleador. 
+Uso de mascarilla: El empleado debe usar una mascarilla en todo momento mientras esté en el lugar 
+de trabajo durante 14 días después de la última exposición. Los empleadores pueden entregar 
+mascarillas o aprobar las mascarillas de los empleados en caso de escasez. Asegúrese de que las 
+mascarillas siempre se usen correctamente según la información de este sitio: 
+https://www.cdc.gov/coronavirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html  
+Distanciamiento social: El empleado debe mantener los 6 pies de distancia y practicar el 
+distanciamiento social según lo permitan las tareas laborales
+Text Len: 1091
+--------------------------------------------------------------------------------
+avirus/2019-ncov/prevent-getting-sick/diy-cloth-face-coverings.html  
+Distanciamiento social: El empleado debe mantener los 6 pies de distancia y practicar el 
+distanciamiento social según lo permitan las tareas laborales en el lugar de trabajo. 
+Higiene de las manos: Realice una higiene de manos frecuente con agua y jabón durante 20 segundos, 
+como mínimo. Además, para aumentar la frecuencia del lavado de manos, si las manos no están 
+visiblemente sucias o manchadas, los trabajadores pueden usar un desinfectante de manos que 
+contenga al menos un 60 % de alcohol, frotándose las manos hasta que estén secas. Asegúrese de que el 
+acceso al lavado o a la desinfección de manos esté disponible. 
+Desinfección y limpieza de espacios de trabajo: Limpie y desinfecte todas las áreas, como oficinas, 
+baños, áreas comunes, equipos electrónicos compartidos, al menos diariamente. Limpie y 
+desinfecte las herramientas, el equipo y los vehículos compartidos entre cada uso de los 
+empleados, si es posible. Lleve a cabo una limpieza y desinfección específicas y más
+Text Len: 1063
+--------------------------------------------------------------------------------
+, al menos diariamente. Limpie y 
+desinfecte las herramientas, el equipo y los vehículos compartidos entre cada uso de los 
+empleados, si es posible. Lleve a cabo una limpieza y desinfección específicas y más frecuentes de 
+las áreas de alto contacto de los espacios compartidos, como relojes de registro de horario, 
+accesorios de baño y manijas de puertas. 
+12 
+ 
+Regreso al trabajo: Si un criador o trabajador del criadero desarrolla fiebre o síntomas de COVID-19 o 
+se le diagnostica COVID-19, debe aislarse y regresar al trabajo o ingresar al criadero solo cuando sea 
+seguro hacerlo. Un criador o trabajador del criadero con síntomas de COVID-19 no debe regresar al 
+trabajo durante al menos 10 días desde que aparecieron los primeros síntomas, haber pasado al menos 
+24 horas sin fiebre y experimentar una mejora de los síntomas. En el caso de un criador o trabajador del 
+criadero que dio positivo en la prueba, pero no presentó síntomas, no debe regresar al trabajo durante 
+10 días desde la fecha de la prueba positiva. 
+ 
+13 
+
+Text Len: 1037
+--------------------------------------------------------------------------------
+. En el caso de un criador o trabajador del 
+criadero que dio positivo en la prueba, pero no presentó síntomas, no debe regresar al trabajo durante 
+10 días desde la fecha de la prueba positiva. 
+ 
+13 
+ 
+Siglas utilizadas en la orientación provisional y las páginas web vinculadas: 
+APHIS: Servicio de inspección sanitaria de animales y plantas 
+AVIC: Veterinario del área a cargo 
+BHI: Caldo de infusión de cerebro-corazón 
+CDC: Centros para el control y la prevención de enfermedades 
+FAQ: Preguntas frecuentes 
+EI: Edificios infectados 
+NAHLN: Red nacional de laboratorios de sanidad animal 
+NIOSH: Instituto nacional de salud y seguridad ocupacional 
+NVSL: Laboratorios de servicios veterinarios nacionales 
+OSHA: Administración de seguridad y salud ocupacional 
+EPP: Equipo de protección personal 
+RT-PCR: Reacción en cadena de la polimerasa con transcripción inversa 
+SAHO: Responsable estatal de la sanidad animal 
+SPHV: Veterinario de salud pública del Estado 
+VS: Servicios veterinarios 
+VTM: Medios de transporte viral 
+USDA: Departamento de agricultura de los Estados Unidos 
+Agradecimientos: 
+Text Len: 1104
+--------------------------------------------------------------------------------
+: Responsable estatal de la sanidad animal 
+SPHV: Veterinario de salud pública del Estado 
+VS: Servicios veterinarios 
+VTM: Medios de transporte viral 
+USDA: Departamento de agricultura de los Estados Unidos 
+Agradecimientos: 
+Presidente: Dr.  David Smith, director, División de Industria Animal, Departamento de Agricultura y 
+Mercados del estado de 
+Nueva York. 
+Miembros del Grupo de Coordinación Federal Interagencial de COVID -19 de One Health, subgrupo de 
+Ganadería. 
+VS del APHIS del USDA, CDC, Departamento de Agricultura, Comercio y Protección del Consumidor de 
+Wisconsin y 
+y expertos en la materia de la Comisión Peletera de EE. UU. 
+14 
+ 
+Materiales de referencia 
+Orientación y recomendaciones provisionales sobre el SARS-CoV-2 para visones y otros 
+mustélidos de criadero: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/sars-cov-2-guidance-for-
+farmed-mink.pdf  
+COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html  
+Preguntas frecuentes sobre COVID-19 y animales de los CDC:  
+https
+Text Len: 1070
+--------------------------------------------------------------------------------
+-mink.pdf  
+COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/daily-life-coping/animals.html  
+Preguntas frecuentes sobre COVID-19 y animales de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/faq.html#Pets-and-Animals  
+Evaluación de los CDC para pruebas de SARS-CoV-2 en animales: 
+https://www.cdc.gov/coronavirus/2019-ncov/animals/animal-
+testing.html?CDC_AA_refVal=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2
+F2019-ncov%2Fphp%2Fanimal-testing.html  
+Síntomas de COVID-19 de los CDC:  
+https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html  
+Guía para preparar lugares de trabajo para la COVID-19: 
+https://www.osha.gov/Publications/OSHA3990.pdf  
+Guía provisional para los trabajadores y los empleadores agrícolas de los CDC/DOL  
+https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html 
+Preguntas frecuentes del USDA para funcionarios estatales de salud pública y animal
+Text Len: 954
+--------------------------------------------------------------------------------
+ los empleadores agrícolas de los CDC/DOL  
+https://www.cdc.gov/coronavirus/2019-ncov/community/guidance-agricultural-workers.html 
+Preguntas frecuentes del USDA para funcionarios estatales de salud pública y animal sobre las 
+pruebas del coronavirus en animales: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/faq-public-on-companion-
+animal-testing.pdf  
+Preguntas frecuentes del USDA sobre pruebas del coronavirus en animales: 
+https://www.aphis.usda.gov/animal_health/one_health/downloads/faq-public-on-companion-
+animal-testing.pdf  
+Recursos de la Administración de Medicamentos y Alimentos para la necropsia del SARS-CoV-2: 
+https://www.fda.gov/animal-veterinary/science-research/vet-lirn-sars-cov-2-supplemental-
+necropsy-sample-inventory-checklist  
+Cannon, R.M. (2001). Sense and Sensitivity - designing surveys based on an imperfect test. 
+Preventative Veterinary Medicine, 49, 141-163. 
+Molinari, R. J., Vreman, S., Hakze-van der Honing, R. W., Zwart, R., de Rond, J., Weesendorp, E., 
+... & van der Poel, W. H. (2020). Clinical and Pathological Findings in SARS
+Text Len: 1090
+--------------------------------------------------------------------------------
+ Veterinary Medicine, 49, 141-163. 
+Molinari, R. J., Vreman, S., Hakze-van der Honing, R. W., Zwart, R., de Rond, J., Weesendorp, E., 
+... & van der Poel, W. H. (2020). Clinical and Pathological Findings in SARS-CoV-2 Disease 
+15 
+ 
+Outbreaks in Farmed Mink (Neovison vison). Veterinary Pathology, 1 – 5. 
+https://journals.sagepub.com/doi/10.1177/0300985820943535  
+Oreshkova, N., Molenaar, R. J., Vreman, S., Harders, F., Munnink, B. B. O., Honing, R. W. H. V., ... 
+& Tacken, M. (2020). SARS-CoV2 infection in farmed mink, Netherlands, April 2020. bioRxiv: 
+https://www.biorxiv.org/content/10.1101/2020.05.18.101493v1.full.pdf  
+ 
+Text Len: 632
+--------------------------------------------------------------------------------

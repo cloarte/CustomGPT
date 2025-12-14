@@ -1,0 +1,82 @@
+Abstract
+Monocillium gamsii sp. nov. (Ascomycota, Hypocreales, Niessliaceae) isolated from eggs of the cereal cyst nematode Heterodera filipjevi is described and illustrated based on morphological and molecular phylogenetic evidence. The new taxon discovered in wheat fields in Turkey destructively parasitises nematode eggs. The infected eggs were readily colonised by the fungus, which produced microsclerotia. The fungus could be grown on artificial media and the parasitism of M. gamsii towards H. filipjevi was reproducible in vitro. Hyphae penetrating the nematode eggs entirely colonised the embryo, developed into multicellular chlamydospore and dictyochlamydospore-like structures eventually forming microsclerotia. Molecular and morphological differences and similarities between M. gamsii and its phylogenetically related species are discussed. Monocillium bulbillosum was found to be closely related to the new species. The pathogenicity of M. bulbillosum against H. filipjevi was also assayed in vitro because of its sister group relationship to M. gamsii revealing that this species was also capable of colonising eggs of H. filipjevi.
+URI
+http://hdl.handle.net/10883/19164
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+MycoKeys
+Text Len: 1653
+--------------------------------------------------------------------------------
+ share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+MycoKeys
+Journal volume
+27
+Place of Publication
+Bulgaria
+Publisher
+Pensoft Editores
+DOI
+https://doi.org/10.3897/mycokeys.27.21254
+AGROVOC
+FUNGI; PARASITISM; NEMATODA; EGGS; PLANT NEMATODES; MOLECULAR BIOLOGY; PHYLOGENY
+Related Datasets
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Collections
+Wheat
+Full item page
+Text Len: 843
+--------------------------------------------------------------------------------
+Abstract
+Monocillium gamsii sp. nov. (Ascomycota, Hypocreales, Niessliaceae) isolated from eggs of the cereal cyst nematode Heterodera filipjevi is described and illustrated based on morphological and molecular phylogenetic evidence. The new taxon discovered in wheat fields in Turkey destructively parasitises nematode eggs. The infected eggs were readily colonised by the fungus, which produced microsclerotia. The fungus could be grown on artificial media and the parasitism of M. gamsii towards H. filipjevi was reproducible in vitro. Hyphae penetrating the nematode eggs entirely colonised the embryo, developed into multicellular chlamydospore and dictyochlamydospore-like structures eventually forming microsclerotia. Molecular and morphological differences and similarities between M. gamsii and its phylogenetically related species are discussed. Monocillium bulbillosum was found to be closely related to the new species. The pathogenicity of M. bulbillosum against H. filipjevi was also assayed in vitro because of its sister group relationship to M. gamsii revealing that this species was also capable of colonising eggs of H. filipjevi.
+URI
+http://hdl.handle.net/10883/19164
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+MycoKeys
+Text Len: 1653
+--------------------------------------------------------------------------------
+ share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+MycoKeys
+Journal volume
+27
+Place of Publication
+Bulgaria
+Publisher
+Pensoft Editores
+DOI
+https://doi.org/10.3897/mycokeys.27.21254
+AGROVOC
+FUNGI; PARASITISM; NEMATODA; EGGS; PLANT NEMATODES; MOLECULAR BIOLOGY; PHYLOGENY
+Related Datasets
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Link to the dataset
+Collections
+Wheat
+Full item page
+Text Len: 843
+--------------------------------------------------------------------------------

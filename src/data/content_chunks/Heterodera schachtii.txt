@@ -1,0 +1,148 @@
+Crop Knowledge Master
+Heterodera schachtii
+sugarbeet cyst nematode (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+Mainly attacks plants in the families Chenopodiaceae (sugar beets, garden beet, and spinach) and Cruciferae (broccoli, cauliflower, cabbage, Chinese cabbage, kale, kohlrabi, Brussels sprouts, horseradish, rutabaga, turnip, radish, mustard, and daikon). H. schachtii has also been reported on some varieties of tomato. This nematode also attacks many weed hosts in these families.
+In Hawaii, H. schachtii has been reported on cabbage only.
+DISTRIBUTION
+Distributed throughout Europe. Also recorded in Russia, Turkey, Israel, USA, Canada, Australia, and South Africa.
+SYMPTOMS
+H. schachtii can cause significant losses on cruciferous crops. Yield reduction can be as much as 50% when population densities are high.
+Aboveground symptoms (wilting, early death, reduced growth) of hosts can often be inconsistent and may vary with the age of plants, time of season, temperature, or organic content of the soil. Positive identification of the nematode is necessary for diagnosis.
+The most evident sign of infestation is the extrusion of the female nematode from the root surface. When a female has split the root cortex, she is attached to the root by her head and neck only. At this point, the female nematode is visible to the naked eye.
+BIOLOGY
+H. schachtii is sexually dim
+Text Len: 1602
+--------------------------------------------------------------------------------
+atode is necessary for diagnosis.
+The most evident sign of infestation is the extrusion of the female nematode from the root surface. When a female has split the root cortex, she is attached to the root by her head and neck only. At this point, the female nematode is visible to the naked eye.
+BIOLOGY
+H. schachtii is sexually dimorphic. Females, when visible on plant roots, are white, lemon-shaped and partially enclosed in root tissue. When a female dies, her body becomes a cyst and darkens to a brownish-black. Cysts detach from host roots easily and remain in the soil, containing as many as 600 eggs. Males and juveniles are vermiform and found in the soil. Males are often twisted through 90-180 degrees when heat relaxed.
+Embryos (in the eggs within a cyst) develop into first stage juveniles which moult to the second stage. At this point they remain dormant as long as they do not receive the appropriate stimulus to hatch, which can be as long as several years. Second stage juveniles hatch from the eggs in the mother cyst. All of the eggs do not hatch at once. The hatching may continue over a period of several years.
+At this time, both male and female larvae are similar in their threadlike shape. When suitable host roots are present, both male and female larvae force their way into the root very near the smallest tips. The juvenile penetrates a host root cell which then fuses with neighboring cells to provide the nematode with a food source (the transfer cell). The nematode develops through three moults to a vermiform male or a lemon-shaped female. The adult male emerges from the fourth stage cuticle about three weeks after penetration of the second stage juvenile into a root. The large size of the female causes the cortex of the root to split and she becomes externally visible. Once
+Text Len: 1812
+--------------------------------------------------------------------------------
+ nematode with a food source (the transfer cell). The nematode develops through three moults to a vermiform male or a lemon-shaped female. The adult male emerges from the fourth stage cuticle about three weeks after penetration of the second stage juvenile into a root. The large size of the female causes the cortex of the root to split and she becomes externally visible. Once exposed, females produce a substance that attracts males. A female will mate with one or more males and then produce eggs. A gelatinous material is usually present outside of but attached to the body into which a few of the eggs are laid.
+Development from penetration into a root to the mature cyst takes about one month at suitable temperatures. Usually there is only one generation in any given season. As many as three generations of H. schachtii in one season has been reported.
+The optimum temperature for second stage juveniles hatching from the cyst is 25 C and for subsequent movement in the soil 15 C. The optimum soil moisture is intermediate between saturated and dry. The optimum temperature for nematode growth in the host root tissue and subsequent reproduction is 21-27 C and development takes about 17 days.
+EPIDEMIOLOGY
+The nematodes are spread in contaminated soil, in invaded seedlings, and on sacks, crates, tools, and machinery. Mature cysts easily drop off into the soil when the roots are dug.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Crop rotation is the most effective and realistic control measure. A five to six year rotation is usually satisfactory. Rotation must be accompanied by complete eradication of all susceptible weeds or volunteer crop plants.
+Crop rotations should be initiated not only in known infested fields but also in fields with no detectable infestation. Crop rotation is more effective in preventing the buildup of H. schachtii to the damaging threshold density than in reducing excessively high populations to below the
+Text Len: 1938
+--------------------------------------------------------------------------------
+ six year rotation is usually satisfactory. Rotation must be accompanied by complete eradication of all susceptible weeds or volunteer crop plants.
+Crop rotations should be initiated not only in known infested fields but also in fields with no detectable infestation. Crop rotation is more effective in preventing the buildup of H. schachtii to the damaging threshold density than in reducing excessively high populations to below the damaging threshold density.
+CHEMICAL CONTROL
+Chemical control is difficult because the nematode larvae are well protected in the cysts, which are widely distributed in the soil. In addition, no nematicide can eradicate the nematodes in field soil, crop rotation must be practiced at the same time as chemical control measures.
+In Germany, Aldicarb at 50 kg/hectare reduced damage and in USA Temick was efficacious, but these chemicals are not effective on all soil types. D-D was satisfactory in Spain but in England, when injected at 20 gal/acre in the rows in December, in fen soil, it did not control the nematode, although yields of sugar the following year were increased. Telone at 33 1/2 gal/acre applied to the rows, immediately before drilling the seed, decreased the numbers of female nematodes on the roots of beet by 70% and Temik at 32 lb/acre in the rows resulted in 58% decrease in numbers. The usefulness of nematicides for control of the sugar beet nematode depends on the type of soil and on the value of the subsequent crop.
+Sacks, crates, tools, and machinery can be disinfested under cover by the application of a gas such as methyl bromide.
+When there is a possibility of contamination from outside sources, the machinery and containers should be disinfested. Methyl bromide can be used.
+Soil in the field can be disinfested by various nematicides. So far the most
+Text Len: 1821
+--------------------------------------------------------------------------------
+acks, crates, tools, and machinery can be disinfested under cover by the application of a gas such as methyl bromide.
+When there is a possibility of contamination from outside sources, the machinery and containers should be disinfested. Methyl bromide can be used.
+Soil in the field can be disinfested by various nematicides. So far the most satisfactory ones are D-D and DBCP. These are injected 6-8 inches deep in the soil. These machines must be calibrated carefully so that an exact dosage is applied uniformly. Dosage is usually double that used for other nematodes. Two applications made 3- to 4-weeks apart sometimes are recommended. No crops should be planted for at least 2 weeks after treatment. If possible, long rotations with immune crops should follow the treatment
+Metham-sodium, dazomet, or di-trapex also can be used. Sometimes a D-D application is made 8-inches deep into the soil, and then a shallow one is made with metham-sodium, which evaporates more slowly and helps to kill nematodes near the soil surface.
+REFERENCES
+Franklin, M.T. 1972. Heterodera schachtii. C.I.H. Descriptions of Plant-parasitic Nematodes. Set 1, No. 1. St. Albans, Eng. 4 pp.
+Mai, W.F. and G.S. Abawi. 1980. Influence of crop rotation on spread and density of Heterodera schachtii on a commercial vegetable farm in New York. Plant Disease 64:302-305.
+McCann, J. 1981. Threshold populations of Heterodera cruciferae and H. schachtii causing damage to cabbage seedlings. Plant Disease 65:264-266.
+Seinhorst, J.W. 1986
+Text Len: 1511
+--------------------------------------------------------------------------------
+ on spread and density of Heterodera schachtii on a commercial vegetable farm in New York. Plant Disease 64:302-305.
+McCann, J. 1981. Threshold populations of Heterodera cruciferae and H. schachtii causing damage to cabbage seedlings. Plant Disease 65:264-266.
+Seinhorst, J.W. 1986. The development of individuals and populations of cyst nematodes on plants. In: Cyst Nematodes. F. Lamberti and C.E. Taylor (Ed.)
+Sherf, A.F. and A.A. MacNab. 1986. Vegetable diseases and their control, second edition. Pp. 111-116. John Wiley & Sons, Inc. New York. 728 pp.
+    MARCH 1993
+  2A-HESCH
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 642
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Heterodera schachtii
+sugarbeet cyst nematode (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+Mainly attacks plants in the families Chenopodiaceae (sugar beets, garden beet, and spinach) and Cruciferae (broccoli, cauliflower, cabbage, Chinese cabbage, kale, kohlrabi, Brussels sprouts, horseradish, rutabaga, turnip, radish, mustard, and daikon). H. schachtii has also been reported on some varieties of tomato. This nematode also attacks many weed hosts in these families.
+In Hawaii, H. schachtii has been reported on cabbage only.
+DISTRIBUTION
+Distributed throughout Europe. Also recorded in Russia, Turkey, Israel, USA, Canada, Australia, and South Africa.
+SYMPTOMS
+H. schachtii can cause significant losses on cruciferous crops. Yield reduction can be as much as 50% when population densities are high.
+Aboveground symptoms (wilting, early death, reduced growth) of hosts can often be inconsistent and may vary with the age of plants, time of season, temperature, or organic content of the soil. Positive identification of the nematode is necessary for diagnosis.
+The most evident sign of infestation is the extrusion of the female nematode from the root surface. When a female has split the root cortex, she is attached to the root by her head and neck only. At this point, the female nematode is visible to the naked eye.
+BIOLOGY
+H. schachtii is sexually dim
+Text Len: 1602
+--------------------------------------------------------------------------------
+atode is necessary for diagnosis.
+The most evident sign of infestation is the extrusion of the female nematode from the root surface. When a female has split the root cortex, she is attached to the root by her head and neck only. At this point, the female nematode is visible to the naked eye.
+BIOLOGY
+H. schachtii is sexually dimorphic. Females, when visible on plant roots, are white, lemon-shaped and partially enclosed in root tissue. When a female dies, her body becomes a cyst and darkens to a brownish-black. Cysts detach from host roots easily and remain in the soil, containing as many as 600 eggs. Males and juveniles are vermiform and found in the soil. Males are often twisted through 90-180 degrees when heat relaxed.
+Embryos (in the eggs within a cyst) develop into first stage juveniles which moult to the second stage. At this point they remain dormant as long as they do not receive the appropriate stimulus to hatch, which can be as long as several years. Second stage juveniles hatch from the eggs in the mother cyst. All of the eggs do not hatch at once. The hatching may continue over a period of several years.
+At this time, both male and female larvae are similar in their threadlike shape. When suitable host roots are present, both male and female larvae force their way into the root very near the smallest tips. The juvenile penetrates a host root cell which then fuses with neighboring cells to provide the nematode with a food source (the transfer cell). The nematode develops through three moults to a vermiform male or a lemon-shaped female. The adult male emerges from the fourth stage cuticle about three weeks after penetration of the second stage juvenile into a root. The large size of the female causes the cortex of the root to split and she becomes externally visible. Once
+Text Len: 1812
+--------------------------------------------------------------------------------
+ nematode with a food source (the transfer cell). The nematode develops through three moults to a vermiform male or a lemon-shaped female. The adult male emerges from the fourth stage cuticle about three weeks after penetration of the second stage juvenile into a root. The large size of the female causes the cortex of the root to split and she becomes externally visible. Once exposed, females produce a substance that attracts males. A female will mate with one or more males and then produce eggs. A gelatinous material is usually present outside of but attached to the body into which a few of the eggs are laid.
+Development from penetration into a root to the mature cyst takes about one month at suitable temperatures. Usually there is only one generation in any given season. As many as three generations of H. schachtii in one season has been reported.
+The optimum temperature for second stage juveniles hatching from the cyst is 25 C and for subsequent movement in the soil 15 C. The optimum soil moisture is intermediate between saturated and dry. The optimum temperature for nematode growth in the host root tissue and subsequent reproduction is 21-27 C and development takes about 17 days.
+EPIDEMIOLOGY
+The nematodes are spread in contaminated soil, in invaded seedlings, and on sacks, crates, tools, and machinery. Mature cysts easily drop off into the soil when the roots are dug.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Crop rotation is the most effective and realistic control measure. A five to six year rotation is usually satisfactory. Rotation must be accompanied by complete eradication of all susceptible weeds or volunteer crop plants.
+Crop rotations should be initiated not only in known infested fields but also in fields with no detectable infestation. Crop rotation is more effective in preventing the buildup of H. schachtii to the damaging threshold density than in reducing excessively high populations to below the
+Text Len: 1938
+--------------------------------------------------------------------------------
+ six year rotation is usually satisfactory. Rotation must be accompanied by complete eradication of all susceptible weeds or volunteer crop plants.
+Crop rotations should be initiated not only in known infested fields but also in fields with no detectable infestation. Crop rotation is more effective in preventing the buildup of H. schachtii to the damaging threshold density than in reducing excessively high populations to below the damaging threshold density.
+CHEMICAL CONTROL
+Chemical control is difficult because the nematode larvae are well protected in the cysts, which are widely distributed in the soil. In addition, no nematicide can eradicate the nematodes in field soil, crop rotation must be practiced at the same time as chemical control measures.
+In Germany, Aldicarb at 50 kg/hectare reduced damage and in USA Temick was efficacious, but these chemicals are not effective on all soil types. D-D was satisfactory in Spain but in England, when injected at 20 gal/acre in the rows in December, in fen soil, it did not control the nematode, although yields of sugar the following year were increased. Telone at 33 1/2 gal/acre applied to the rows, immediately before drilling the seed, decreased the numbers of female nematodes on the roots of beet by 70% and Temik at 32 lb/acre in the rows resulted in 58% decrease in numbers. The usefulness of nematicides for control of the sugar beet nematode depends on the type of soil and on the value of the subsequent crop.
+Sacks, crates, tools, and machinery can be disinfested under cover by the application of a gas such as methyl bromide.
+When there is a possibility of contamination from outside sources, the machinery and containers should be disinfested. Methyl bromide can be used.
+Soil in the field can be disinfested by various nematicides. So far the most
+Text Len: 1821
+--------------------------------------------------------------------------------
+acks, crates, tools, and machinery can be disinfested under cover by the application of a gas such as methyl bromide.
+When there is a possibility of contamination from outside sources, the machinery and containers should be disinfested. Methyl bromide can be used.
+Soil in the field can be disinfested by various nematicides. So far the most satisfactory ones are D-D and DBCP. These are injected 6-8 inches deep in the soil. These machines must be calibrated carefully so that an exact dosage is applied uniformly. Dosage is usually double that used for other nematodes. Two applications made 3- to 4-weeks apart sometimes are recommended. No crops should be planted for at least 2 weeks after treatment. If possible, long rotations with immune crops should follow the treatment
+Metham-sodium, dazomet, or di-trapex also can be used. Sometimes a D-D application is made 8-inches deep into the soil, and then a shallow one is made with metham-sodium, which evaporates more slowly and helps to kill nematodes near the soil surface.
+REFERENCES
+Franklin, M.T. 1972. Heterodera schachtii. C.I.H. Descriptions of Plant-parasitic Nematodes. Set 1, No. 1. St. Albans, Eng. 4 pp.
+Mai, W.F. and G.S. Abawi. 1980. Influence of crop rotation on spread and density of Heterodera schachtii on a commercial vegetable farm in New York. Plant Disease 64:302-305.
+McCann, J. 1981. Threshold populations of Heterodera cruciferae and H. schachtii causing damage to cabbage seedlings. Plant Disease 65:264-266.
+Seinhorst, J.W. 1986
+Text Len: 1511
+--------------------------------------------------------------------------------
+ on spread and density of Heterodera schachtii on a commercial vegetable farm in New York. Plant Disease 64:302-305.
+McCann, J. 1981. Threshold populations of Heterodera cruciferae and H. schachtii causing damage to cabbage seedlings. Plant Disease 65:264-266.
+Seinhorst, J.W. 1986. The development of individuals and populations of cyst nematodes on plants. In: Cyst Nematodes. F. Lamberti and C.E. Taylor (Ed.)
+Sherf, A.F. and A.A. MacNab. 1986. Vegetable diseases and their control, second edition. Pp. 111-116. John Wiley & Sons, Inc. New York. 728 pp.
+    MARCH 1993
+  2A-HESCH
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 642
+--------------------------------------------------------------------------------

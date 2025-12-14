@@ -1,0 +1,34 @@
+Family:  FABACEAE  ;
+Species:  Gleditsia aquaticaMarshall  ;
+Common Name:  Water Locust  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Tree  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,OBL (NWI)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 421
+--------------------------------------------------------------------------------
+Family:  FABACEAE  ;
+Species:  Gleditsia aquaticaMarshall  ;
+Common Name:  Water Locust  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Tree  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,OBL (NWI)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 421
+--------------------------------------------------------------------------------

@@ -1,0 +1,706 @@
+Attachment C: Comment on Section 4 PRAs
+PEST: Spider mites, 3 Tetranychus species
+IRA concludes unrestricted risk is VERY LOW
+Probability of Entry
+Importation:
+Likelihood estimate should be HIGH not MODERATE given NZ experience of ‘numerous’ events (based on PDI (2003) records).
+PDI (2003) Pest and Disease Information Database - Pest Interception Records up to 31 December 2002. Australian Government Department of Agriculture Fisheries and Forestry, Canberra for records of T. turkestani on NZ stone fruit into Australia. It is the source of the ‘numerous’ interceptions of spider mites mentioned in the IRA.
+There is an opportunity for mitigation: The IRA says infestations were clumped in a Californian study, reflecting a few ‘problem’ orchards as main source of risk. This suggests that monitoring orchards near harvest and applying thresholds for preclearance could mitigate risk.
+Distribution:
+Likelihood estimates should be MODERATE not LOW because:
+The argument in the IRA that some tree hosts in Australia will be leafless at the time of importation is doubtful
+three species given the broad geographic range of destinations in Australia.
+The host range in the IRA is understated for two species. The North American reference book, The Handbook of Vegetable Pests by J.L. Carpinera (Academic Press, San Diego, 2001) says:
+T. turkestani and T. pacificus have vegetable hosts and occur on low growing plants.
+Over wintering may occur on forage legumes and greenhouses in coldwinter areas and on many plants in warm-winter areas. “Weeds and senescent crops can be important sources of mites.”
+Diapause of spider mites (of T. urticae, at least) may occur
+Text Len: 1662
+--------------------------------------------------------------------------------
+ pacificus have vegetable hosts and occur on low growing plants.
+Over wintering may occur on forage legumes and greenhouses in coldwinter areas and on many plants in warm-winter areas. “Weeds and senescent crops can be important sources of mites.”
+Diapause of spider mites (of T. urticae, at least) may occur in leaves and organic debris.
+The relevance of many host plants being deciduous is overstated in the IRA because, for two species (T. turkestani and T. pacificus), there are other common, nondeciduous hosts including common weeds (See lists at end of this report). The suitability of other hosts is underestimated for these two species by the statement ‘Some of these hosts can be found in home gardens’ but ‘many are deciduous’ and hence lack leaves at the time of import. It is not unusual for fruit to be adjacent to leafy vegetables and ornamental plants in vegetable shops. Mixtures of blemished fruit and leafy waste from wholesale and retail greengrocers often follows rapid, distribution paths into home gardens as food for chickens, rabbits and guinea pigs. The gardens usually contain clover and a range of weeds that are hosts. However, the supporting evidence in the IRA states that 2 weeks may elapse from ‘quarantine clearance at the border’ to proximity to suitable hosts.
+Probability of Establishment
+Accept HIGH likelihood.
+Probability of Spread
+Likelihood should be HIGH not MODERATE unless intrastate and interstate quarantine controls were imposed on a large range of plant products.
+The arguments in the IRA that ‘long distances between some of the main Australian commercial orchards and production areas’ and the ‘small size and limited capacity for independent dispersal’ may make it ‘difficult for these spider mites to disperse un
+Text Len: 1765
+--------------------------------------------------------------------------------
+ be HIGH not MODERATE unless intrastate and interstate quarantine controls were imposed on a large range of plant products.
+The arguments in the IRA that ‘long distances between some of the main Australian commercial orchards and production areas’ and the ‘small size and limited capacity for independent dispersal’ may make it ‘difficult for these spider mites to disperse unaided’ are true but irrelevant. Human assisted dispersal is highly likely unless quarantine barriers are imposed at potentially great disruption to the industry.
+Consequences
+Domestic trade restrictions would have more than significant local impact given that Australia’s urban fruit markets rely on a sequence of harvests from early harvests in the northern districts (Granite belt, QLD) to late harvests in the south (Tasmania) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant regional consequence.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are likely to suffer trade barriers or reassessments (perhaps blueberries, apples, strawberries and vegetables like onions and carrots). Suggest significant regional consequence.
+UNRESTRICTED RISK
+L(EES) (MODERATE) x Consequences (MODERATE) = MODERATE. Therefore risk mitigation required.
+Host list of 50 plants for Tetranychus pacificus from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Amaranthaceae: Amaranthus sp. [McGregor (1950)].
+Aristolochiaceae: Asarum sp. [Beer & Lang
+Text Len: 1778
+--------------------------------------------------------------------------------
+ of 50 plants for Tetranychus pacificus from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Amaranthaceae: Amaranthus sp. [McGregor (1950)].
+Aristolochiaceae: Asarum sp. [Beer & Lang (1958)].
+Asclepiadaceae: Asclepias sp. [McGregor (1950)].
+Asteraceae: Helianthus annuus.
+Brassicaceae (Cruciferae): Brassica sp. [McGregor (1950)].
+Convolvulaceae: Ipomoea sp. [McGregor (1950)].
+Cucurbitaceae: Cucurbita pepo [McGregor (1950)]; Cucurbita sp. [McGregor (1950)].
+Fabaceae: Medicago sativa; Phaseolus sp.; Robinia pseudoacacia; Thermopsis pinetorum; Trifolium sp.; Vicia sp. [McGregor (1919); McGregor (1950)].
+Juglandaceae: Juglans californica [McGregor (1950)]; Juglans regia [McGregor (1950)].
+Lamiaceae (Labiatae): Marrubium vulgare [McGregor (1950)]; Salvia sp.; Stachys sp. [McGregor (1950)].
+Magnoliaceae: Magnolia fraseri.
+Malvaceae: Gossypium sp. [McGregor (1950)]; Malva sp. [McGregor (1950)].
+Meliaceae: Melia azedarach [McGregor (1919); McGregor (1950)].
+Moraceae: Ficus carica [McGregor (1950)];
+Text Len: 1063
+--------------------------------------------------------------------------------
+
+Magnoliaceae: Magnolia fraseri.
+Malvaceae: Gossypium sp. [McGregor (1950)]; Malva sp. [McGregor (1950)].
+Meliaceae: Melia azedarach [McGregor (1919); McGregor (1950)].
+Moraceae: Ficus carica [McGregor (1950)]; Morus sp..
+Oleaceae: Syringa sp..
+Papaveraceae: Bocconia frutescens [Estebanes-Gonzalez & Baker (1968)]; Eschscholtzia californica.
+Poaceae: Zea mays.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)]; Rhamnus betulaefolia [Tuttle & Baker (1968)].
+Rosaceae: Cotoneaster sp.; Oemleria cerasiformis [McGregor (1950)]; Prunus armeniaca [McGregor (1950)]; Prunus avium [McGregor (1950)]; Prunus domestica [McGregor (1950)]; Prunus dulcis [McGregor (1950)]; Prunus persica [McGregor (1950)]; Prunus sp. [McGregor (1950)]; Prunus virginiana [McGregor (1950)]; Pyrus communis [McGregor (1950)]; Rubus sp. [McGregor (1950)].
+Rutaceae: Citrus limon [McGregor (1950)]; Citrus paradisi [McGregor (1950)].
+Saxifragaceae: Philadelphus gordonianus [McGregor (1919)]; Philadelphus sp. [McGregor (1950)]; Ribes sp. [McGregor (1919
+Text Len: 1030
+--------------------------------------------------------------------------------
+or (1950)].
+Rutaceae: Citrus limon [McGregor (1950)]; Citrus paradisi [McGregor (1950)].
+Saxifragaceae: Philadelphus gordonianus [McGregor (1919)]; Philadelphus sp. [McGregor (1950)]; Ribes sp. [McGregor (1919); McGregor (1950)].
+Solanaceae: Solanum melongena.
+Ulmaceae: Ulmus sp..
+Vitaceae: Vitis vinifera [McGregor (1950); Navajas, Gutierrez, Lagnel, et al. (1996)]
+Host list of 207 plants for Tetranychus turkestani from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Acanthaceae: Dicoria canescens [Tuttle & Baker (1964)].
+Aceraceae: Acer negundo.
+Amaranthaceae: Amaranthus albus; Amaranthus patulus [Carmona (1964)]; Amaranthus retroflexus.
+Apiaceae (Umbelliferae): Apium graveolens; Arracacia xanthorrhiza; Carum petroselinum [Carmona (1964)]; Chaerophyllum aromaticum; Daucus carota [Tuttle & Baker (1964)]; Pastinaca sativa; Pimpinella saxifraga; Tordylium maximum [Bailly, Migeon & Navajas (2004)].
+Apocynaceae: Apocynum cannabinum.
+Araliaceae: Aralia sp..
+Aristolochiaceae: Aristolochia clematitis [Bailly, Migeon & Navajas (2004)
+Text Len: 1099
+--------------------------------------------------------------------------------
+ Pimpinella saxifraga; Tordylium maximum [Bailly, Migeon & Navajas (2004)].
+Apocynaceae: Apocynum cannabinum.
+Araliaceae: Aralia sp..
+Aristolochiaceae: Aristolochia clematitis [Bailly, Migeon & Navajas (2004)]; Asarum canadense.
+Asclepiadaceae: Asclepias sp. [Thewke & Enns (1969)]; Asclepias subulata [Tuttle & Baker (1968)]; Asclepias syriaca.
+Asteraceae: Ambrosia artemisiifolia; Ambrosia confertiflora [Tuttle & Baker (1964)]; Ambrosia dumosa [Tuttle & Baker (1968)]; Ambrosia trifida; Arctium lappa [Ugarov & Nikolskii (1937)]; Calendula officinalis [Tuttle & Baker (1968)]; Carthamus tinctorius [Tuttle & Baker (1968)]; Chrysanthemum sp.; Cichorium intybus; Cirsium arvense; Erigeron annuus; Galinsoga ciliata; Helianthus annuus [McGregor (1950); Bailly, Migeon & Navajas (2004)]; Heterotheca subaxillaris [Tuttle & Baker (1964)]; Lactuca canadensis; Lactuca sativa [Tuttle & Baker (1968)]; Senecio vulgaris [Aucejo, Foo, Gimeno, et al. (2003)]; Sonchus arvensis; Tagetes erecta; Taraxacum officinale; Xanthium saccharatum [Tuttle,
+Text Len: 1037
+--------------------------------------------------------------------------------
+1964)]; Lactuca canadensis; Lactuca sativa [Tuttle & Baker (1968)]; Senecio vulgaris [Aucejo, Foo, Gimeno, et al. (2003)]; Sonchus arvensis; Tagetes erecta; Taraxacum officinale; Xanthium saccharatum [Tuttle, Baker & Abbatiello (1976)]; Zinnia elegans.
+Balsaminaceae: Impatiens noli-tangere.
+Berberidaceae: Berberis thunbergii [Uysal, Cobanoglu & Okten (2001)].
+Betulaceae: Corylus avellana.
+Bixaceae: Bixa orellana.
+Brassicaceae (Cruciferae): Brassica hirta; Brassica juncea; Cardaria draba [Bailly, Migeon & Navajas (2004)]; Raphanus raphanistrum; Raphanus sativus [Tuttle & Baker (1968)].
+Cannabaceae: Cannabis sp.; Humulus japonicus; Humulus lupulus [Ugarov & Nikolskii (1937)].
+Caprifoliaceae: Diervilla lonicera [Reeves (1963)]; Sambucus nigra [Uysal, Cobanoglu & Okten (2001)].
+Caryophyllaceae: Malachium aquaticum; Melandrium sp.; Stellaria nemorum.
+Celastraceae: Euonymus europaeus [Tuttle & Baker (1968)].
+Chenopodiaceae: Atriplex australasia; Atriplex sp. [Ugarov & Nikolskii (1937)]; Chenopodium album.
+Convolvulaceae: Convolvulus arvensis [
+Text Len: 1053
+--------------------------------------------------------------------------------
+aria nemorum.
+Celastraceae: Euonymus europaeus [Tuttle & Baker (1968)].
+Chenopodiaceae: Atriplex australasia; Atriplex sp. [Ugarov & Nikolskii (1937)]; Chenopodium album.
+Convolvulaceae: Convolvulus arvensis [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Bailly, Migeon & Navajas (2004)]; Convolvulus sp. [Aucejo, Foo, Gimeno, et al. (2003)]; Cressa cretica; Ipomoea hederacea; Ipomoea purpurea; Ipomoea sp. [Ugarov & Nikolskii (1937)].
+Cucurbitaceae: Citrullus lanatus [Tuttle, Baker & Abbatiello (1976); Ben-David, Melamed, Gerson, et al. (2007)]; Citrullus vulgaris [Ugarov & Nikolskii (1937)]; Cucumis melo [Ugarov & Nikolskii (1937); Tuttle & Baker (1968)]; Cucumis sativus [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Hatzinikolis (1968); Hatzinikolis (1969); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Cucurbita maxima; Cucurbita moschata; Cucurbita sp. [Ugarov & Nikolskii (1937); Carmona (1964); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Luffa aegypt
+Text Len: 990
+--------------------------------------------------------------------------------
+iotis, Ragusa Di Chiara & Tsolakis]; Cucurbita maxima; Cucurbita moschata; Cucurbita sp. [Ugarov & Nikolskii (1937); Carmona (1964); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Luffa aegyptiaca [Carmona (1964)].
+Cyperaceae: Scirpus sp. [Ugarov & Nikolskii (1937)].
+Ebenaceae: Diospyros kaki [Carmona & Dias (1980)].
+Euphorbiaceae: Euphorbia maculata; Manihot sp.; Ricinus communis [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Fabaceae: Acacia sp. [Ugarov & Nikolskii (1937)]; Arachis hypogaea; Cassia leiantha; Glycine max [McGregor (1950); Bibby & Tuttle (1959); Tuttle & Baker (1964)]; Glycine soja [Carmona & Dias (1980)]; Glycyrrhiza glabra; Lathyrus odoratus; Lespedeza intermedia; Lespedeza stipulacea; Lupinus sp.; Medicago sativa [Ugarov & Nikolskii (1937); McGregor (1950); Bibby & Tuttle (1959); Tuttle & Baker (1964); Bailly, Migeon & Navajas (2004)]; Melilotus sp. [Gerini (1971)]; Phaseolus lunatus [McGregor (1950)]; Phaseolus sp. [McGregor (1950)]; Phaseolus vulgaris [Ugarov & Nikolskii (1937); Papaioannou-Souliotis
+Text Len: 1044
+--------------------------------------------------------------------------------
+1964); Bailly, Migeon & Navajas (2004)]; Melilotus sp. [Gerini (1971)]; Phaseolus lunatus [McGregor (1950)]; Phaseolus sp. [McGregor (1950)]; Phaseolus vulgaris [Ugarov & Nikolskii (1937); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Sesbania aegyptiaca; Trifolium incarnatum [McGregor (1950)]; Trifolium pratense; Trifolium repens [McGregor (1950); Bailly, Migeon & Navajas (2004)]; Trifolium sp. [Ugarov & Nikolskii (1937)]; Vicia faba; Vigna mungo.
+Juglandaceae: Juglans regia [McGregor (1950)].
+Lamiaceae (Labiatae): Galeopsis speciosa; Galeopsis tetrahit; Glechoma hederacea; Lamium album; Lycopus uniflorus; Mentha sp. [Ugarov & Nikolskii (1937); Carmona (1964)]; Stachys palustris.
+Lauraceae: Sassafras albidum.
+Liliaceae: Smilacina racemosa.
+Lobeliaceae: Lobelia inflata.
+Magnoliaceae: Liriodendron tulipifera [Reeves (1963)]; Magnolia acuminata [Reeves (1963)]; Magnolia macrophylla [Reeves (1963)].
+Malvaceae: Abelmoschus esculentus; Abutilon theophrasti [Ugarov & Nikolskii (1937)]; Atriplex canescens; Gossyp
+Text Len: 1028
+--------------------------------------------------------------------------------
+ifera [Reeves (1963)]; Magnolia acuminata [Reeves (1963)]; Magnolia macrophylla [Reeves (1963)].
+Malvaceae: Abelmoschus esculentus; Abutilon theophrasti [Ugarov & Nikolskii (1937)]; Atriplex canescens; Gossypium hirsutum [Bibby & Tuttle (1959); Tuttle & Baker (1964)]; Gossypium sp. [Ugarov & Nikolskii (1937); McGregor (1950); Hatzinikolis (1968); Hatzinikolis (1969); Hatzinikolis (1986)]; Hibiscus cannabinus; Malva neglecta; Malva parviflora; Malva sp. [Ugarov & Nikolskii (1937)]; Malva sylvestris [Aucejo, Foo, Gimeno, et al. (2003); Bailly, Migeon & Navajas (2004)].
+Molluginaceae: Mollugo verticillata.
+Moraceae: Ficus carica [Carmona & Dias (1980)]; Morus alba [Tuttle & Baker (1968)]; Morus sp. [Ugarov & Nikolskii (1937); Carmona (1964)].
+Musaceae: Musa sp. [Breeuwer (1997)].
+Nyctaginaceae: Boerhavia sp. [Tuttle, Baker & Abbatiello (1976)].
+Oleaceae: Fraxinus americana [Reeves (1963)]; Jasminum sambac; Ligustrum sp. [McGregor (1950)].
+Onagraceae: Oenothera laciniata.
+Oxalidaceae: Oxalis europaea; Oxalis
+Text Len: 1019
+--------------------------------------------------------------------------------
+. [Tuttle, Baker & Abbatiello (1976)].
+Oleaceae: Fraxinus americana [Reeves (1963)]; Jasminum sambac; Ligustrum sp. [McGregor (1950)].
+Onagraceae: Oenothera laciniata.
+Oxalidaceae: Oxalis europaea; Oxalis sp. [Bolland (2001)].
+Papaveraceae: Papaver rhoeas [Aucejo, Foo, Gimeno, et al. (2003)]; Papaver sp.; Sanguinaria canadensis; Stylophorum diphyllum.
+Phytolacaceae: Phytolacca americana.
+Plantaginaceae: Plantago lanceolata; Plantago major.
+Poaceae: Bromus sp. [Aucejo, Foo, Gimeno, et al. (2003)]; Digitaria argilacea; Zea mays [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Hatzinikolis (1969); Hatzinikolis (1986); Bailly, Migeon & Navajas (2004)].
+Polygonaceae: Polygonum argyrocoleon [Tuttle & Baker (1964)]; Polygonum aviculare; Polygonum hydropiper; Polygonum nodosum; Polygonum orientale; Rumex crispus.
+Primulaceae: Lysimachia vulgaris; Primula officinalis.
+Ranunculaceae: Aquilegia sp.; Thalictrum fendleri [Tuttle & Baker (1968)]; Thalictrum polygamum.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)].
+Rosaceae: Alchemilla vulgaris [Ugar
+Text Len: 1062
+--------------------------------------------------------------------------------
+is; Primula officinalis.
+Ranunculaceae: Aquilegia sp.; Thalictrum fendleri [Tuttle & Baker (1968)]; Thalictrum polygamum.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)].
+Rosaceae: Alchemilla vulgaris [Ugarov & Nikolskii (1937)]; Cotoneaster bullatus [Uysal, Cobanoglu & Okten (2001)]; Cydonia oblonga [Ugarov & Nikolskii (1937)]; Fragaria chiloensis (=x ananassa) [Rambier (1958); Carmona (1964); Johanowicz & Hoy (1996); Escudero & Ferragut (2005)]; Fragaria sp. [McGregor (1941)]; Fragaria virginiana; Malus domestica [Pritchard & Baker (1955); Ben-David, Melamed, Gerson, et al. (2007)]; Potentilla canadiensis; Potentilla norvegica; Potentilla recta; Prunus avium [Ugarov & Nikolskii (1937); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Prunus domestica [Carmona (1964)]; Prunus pensylvanica [Reeves (1963)]; Prunus persica [Ugarov & Nikolskii (1937); Ben-David, Melamed, Gerson, et al. (2007)]; Pyrus communis [Carmona (1964)]; Rosa sp. [Reeves (1963)]; Rubus idaeus.
+Rutaceae: Citrus sinensis [Tuttle & Baker (1968)]; Citrus sp. [Mijusk
+Text Len: 1058
+--------------------------------------------------------------------------------
+ Nikolskii (1937); Ben-David, Melamed, Gerson, et al. (2007)]; Pyrus communis [Carmona (1964)]; Rosa sp. [Reeves (1963)]; Rubus idaeus.
+Rutaceae: Citrus sinensis [Tuttle & Baker (1968)]; Citrus sp. [Mijuskovic (1981); Kreiter, Auger, Lebdi Grissa, et al. (2002)].
+Salicaceae: Populus balsamifera [Bolland (1999)]; Populus tremula; Salix alba [Ugarov & Nikolskii (1937)].
+Saxifragaceae: Philadelphus coronarius; Ribes nigrum.
+Scrophulariaceae: Verbascum blattaria.
+Solanaceae: Datura stramonium [Ugarov & Nikolskii (1937)]; Lycopersicon esculentum [Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis; Kreiter, Auger, Lebdi Grissa, et al. (2002)]; Physalis viginiana; Solanum carolinense; Solanum elaeagnifolium [Tuttle & Baker (1964)]; Solanum melongena [Ugarov & Nikolskii (1937); McGregor (1950); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Solanum sp. [Ugarov & Nikolskii (1937)].
+Ulmaceae: Ulmus americana [Reeves (1963)]; Ulmus pumila; Ulmus sp. [Ugarov & Nikolskii (1937)].
+Urticaceae: Boehmeria cylindrica; Laportea aest
+Text Len: 1035
+--------------------------------------------------------------------------------
+ & Tsolakis]; Solanum sp. [Ugarov & Nikolskii (1937)].
+Ulmaceae: Ulmus americana [Reeves (1963)]; Ulmus pumila; Ulmus sp. [Ugarov & Nikolskii (1937)].
+Urticaceae: Boehmeria cylindrica; Laportea aestuans.
+Verbenaceae: Citharexylum fruticosum [Flechtmann, Kreiter, Etienne, et al. (1999)]; Verbena hastata.
+Violaceae: Viola canadensis; Viola conspersa [Tuttle & Baker (1968)]; Viola sp. [McGregor (1950)].
+Vitaceae: Vitis vinifera [Ugarov & Nikolskii (1937); Rambier (1979); Carmona & Dias (1980)].
+Zygophyllaceae: Tribulus alexandrinum [Tuttle & Baker (1968)]; Tribulus terrestris [Tuttle & Baker (1968)]
+Host list of 16 plants for Tetranychus mcdanieli from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Aceraceae: Acer saccharum.
+Caprifoliaceae: Lonicera japonica.
+Fabaceae: Thermopsis pinetorum [Tuttle & Baker (1968)].
+Moraceae: Morus sp. [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Poaceae: Phleum pratense [Baker & Tuttle (1972)].
+Ranunculaceae: Thalictrum fendleri.
+Rosaceae: Fragaria virginiana; Malus domestica [Pritchard
+Text Len: 1093
+--------------------------------------------------------------------------------
+ Baker (1968)].
+Moraceae: Morus sp. [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Poaceae: Phleum pratense [Baker & Tuttle (1972)].
+Ranunculaceae: Thalictrum fendleri.
+Rosaceae: Fragaria virginiana; Malus domestica [Pritchard & Baker (1952); Pritchard & Baker (1955)]; Prunus americana; Prunus avium; Prunus domestica [Pritchard & Baker (1952); Pritchard & Baker (1955)]; Prunus persica; Rubus idaeus [McGregor (1931); Pritchard & Baker (1955); Roy, Brodeur & Cloutier (1999)].
+Saxifragaceae: Ribes sp..
+Ulmaceae: Ulmus americana.
+Vitaceae: Vitis vinifera [Rambier (1982); Navajas, Gutierrez, Lagnel, et al. (1996)]
+PEST: Walnut husk fly
+IRA concludes unrestricted risk is NEGLIGIBLE
+Note this species is in the Industry Biosecurity Plan for Australian Nut Industry as an Emergency Plant Pest Priority and received different assessments, namely:
+Entry potential MEDIUM (versus IRA Extremely Low)
+Establishment potential LOW (versus IRA High)
+Spread potential MEDIUM (versus IRA Moderate)
+Economic impact HIGH (versus IRA Low)
+An overall risk was not given in the version available on the PHA website as of 13/6/08.
+Probability of Entry
+However, note that the Industry Biosecurity Plan for Australian Nut Industry assesses entry potential as MEDIUM.
+Probability of Establishment
+The Industry Biosecurity Plan for Australian Nut Industry assesses this likelihood as
+Text Len: 1365
+--------------------------------------------------------------------------------
+ IRA Low)
+An overall risk was not given in the version available on the PHA website as of 13/6/08.
+Probability of Entry
+However, note that the Industry Biosecurity Plan for Australian Nut Industry assesses entry potential as MEDIUM.
+Probability of Establishment
+The Industry Biosecurity Plan for Australian Nut Industry assesses this likelihood as LOW.
+Probability of Spread
+The Industry Biosecurity Plan for Australian Nut Industry also assesses this likelihood as MEDIUM.
+Consequences
+The IRA determines magnitude of consequences as LOW.
+The IRA’s assessment of direct impact on plant life or health is ‘D - significant at district level’. This includes the outdated statement that the walnut industry in Australia is a small but growing sector, producing around 300 tonnes of nuts in 2003. Leigh Titmus of Webster Field Fresh said (pers. comm.) Tasmania produced 500 tonnes and the mainland 200 tonnes in 2007. The Australian Nut Industry Council Industry Report for 2007 gives 600-800 tonnes (in shell) for 2007 production. This is still a minor crop but has twice the production given in the IRA and is likely to grow. It affects two states (Tasmania and Victoria) so that impacts will be ‘regional’ rather than ‘district’ making an E score more appropriate than a D score for impact.
+Domestic Trade: This receives a C score on page 46 of the IRA but Table 2.3 suggests D is the correct code for ‘significant at district level’. Is this an error?
+In 2005, Tasmania (Websters Field Fresh) exported walnuts to Vietnam for shelling and canning after which they return to Australia (in tins) and perhaps continues to do so. This is an interesting example of a crop grown and marketed domestically but processed offshore, making it susceptible to international quarantine barriers. It involves two states (T
+Text Len: 1807
+--------------------------------------------------------------------------------
+ at district level’. Is this an error?
+In 2005, Tasmania (Websters Field Fresh) exported walnuts to Vietnam for shelling and canning after which they return to Australia (in tins) and perhaps continues to do so. This is an interesting example of a crop grown and marketed domestically but processed offshore, making it susceptible to international quarantine barriers. It involves two states (Tasmania and Victoria) so that impacts will be ‘regional’ rather than ‘district’ making an E score more appropriate than a D score for impact.
+International Trade: This receives a C on page 46 of the IRA but Table 2.3 suggests D is the correct code for ‘significant at district level’. Is this an error?
+The establishment of any fruit fly in Tasmania is likely to impede exports of several fruits by damaging a the state’s fruit fly free image, and by requiring reviews of current export protocols, which are increasing based on complex integrated systems approaches targeting one pest rather than fumigations that mitigate several pests. This affects at least one state (Tasmania) and probably others so that impacts will be ‘regional’ rather than ‘district’ making an E more appropriate than a D impact.
+The presence of E impact scores would raise the consequence score to Moderate.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required.
+PEST: Apple maggot
+IRA concludes unrestricted risk is MODERATE
+Probability of Entry
+Importation: MODERATE accepted
+Distribution: MODERATE accepted
+Probability of Establishment
+HIGH accepted.
+Dimethoate is described as highly effective in the section, Cultural practices and control measures (p 51), but is likely to be deregistered and residues of it may or may
+Text Len: 1739
+--------------------------------------------------------------------------------
+
+IRA concludes unrestricted risk is MODERATE
+Probability of Entry
+Importation: MODERATE accepted
+Distribution: MODERATE accepted
+Probability of Establishment
+HIGH accepted.
+Dimethoate is described as highly effective in the section, Cultural practices and control measures (p 51), but is likely to be deregistered and residues of it may or may not be acceptable to trading partners. Ditto fenthion?
+Probability of Spread
+The IRA sets a MODERATE probability of spread but does not substantiate this. The only constraint is the limited capacity of the fly for natural spread but facilitated transport is much more relevant. Mitigation of facilitated transport within Australia by quarantine barriers would be very disruptive. The probability of facilitated transport under current conditions is HIGH.
+Consequences
+HIGH Consequence estimate not accepted.
+Should an incursion occur, eradication of this pest, as with most fruit flies, would be undertaken nationally and have significant national impact, F. The use of certain pesticides for control or disinfestation (dimethoate, fenthion) could prevent export or be limited by the Existing Pesticides Review by Australian Pesticides and Veterinary Medicines Agency and have significant national impact, F.
+Domestic trade restrictions would have more than significant local impact given that Australia’s urban fruit markets rely on a sequence of harvests from early harvests in the northern districts (Granite belt, QLD) to late harvests in the south (Tasmania) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant national consequence, F.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are
+Text Len: 1947
+--------------------------------------------------------------------------------
+) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant national consequence, F.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are likely to suffer trade barriers or reassessments (perhaps blueberries, apples, strawberries and vegetables like onions and carrots). Suggest a major regional consequence, F.
+These probabilities combine to give EXTREME consequence.
+UNRESTRICTED RISK
+L(EES) (MODERATE) x Consequences (EXTREME) = HIGH.
+Therefore risk mitigation required that is greater than that required to reduce moderate risk to ALOP.
+PEST: Plant bugs
+IRA concludes unrestricted risk is VERY LOW
+Three species of Lygus and the potato bug Closterotomus norvegicus. The latter is present in Tasmania but not recorded on the mainland.
+Probability of Entry
+Importation: Accept very low
+Distribution: Accept moderate.
+Probability of Establishment
+Accept moderate.
+Probability of Spread
+Accept moderate.
+Consequences
+Direct impact would be significant at a national level, F rather than merely regional level (E) given the range of major crops involved (e.g. cotton, lucerne and strawberries).
+The indirect impact should be significant at a regional or national level, E or F, rather than district level (D), given the range of crops combined with the considerable need for control measures.
+Domestic trade – Accept significant at local level, C, given the lack of interstate requirements between Tasmania and the mainland directed at potato bug.
+International Trade – minor significance at regional level (D) given the importance of exporting to Tasmanian horticulture and the association of
+Text Len: 1896
+--------------------------------------------------------------------------------
+ or F, rather than district level (D), given the range of crops combined with the considerable need for control measures.
+Domestic trade – Accept significant at local level, C, given the lack of interstate requirements between Tasmania and the mainland directed at potato bug.
+International Trade – minor significance at regional level (D) given the importance of exporting to Tasmanian horticulture and the association of some plant bugs with horticultural crops.
+Changing direct impact from E to F, alone, would raise consequence to HIGH, which will move the unrestricted risk from below to above ALOP.
+UNRESTRICTED RISK
+L(EES) (VERY LOW) x Consequences (HIGH) = LOW.
+Therefore risk mitigation required.
+PEST: Armoured scales, Forbes scale and Walnut scale
+IRA concludes unrestricted risk is NEGLIGIBLE
+Note that San Jose scale was excluded from further consideration in Appendix A of the IRA, presumably because of a single, old Tasmanian (Hobart) record in Australian Plant Pest Database based on a specimen in NSW DPI collection at Orange. Tasmania has Import Requirement 16 against this pest, which is in List A, and an active surveillance program to confirm its absence since the early 1960s in mainland Tasmania and early 1980s on King Island, which trades more with the mainland than Tasmania. This suggests the need for a reassessment to recognise IR16 and to qualify the sole, old APPD record.
+The following comments are independent of the San Jose scale issue.
+Probability of Entry
+Importation: LOW instead of VERY LOW.
+Walnut scale is twice as likely (0.03% incidence) to occur on nectarine fruit as is San Jose scale after packinghouse procedures (IRA p. 64). The scales are treated as a group so Forbes scale must be included in this assessment whether or not it occurs on fruit.
+Distribution:
+Text Len: 1808
+--------------------------------------------------------------------------------
+bability of Entry
+Importation: LOW instead of VERY LOW.
+Walnut scale is twice as likely (0.03% incidence) to occur on nectarine fruit as is San Jose scale after packinghouse procedures (IRA p. 64). The scales are treated as a group so Forbes scale must be included in this assessment whether or not it occurs on fruit.
+Distribution: Accept LOW.
+Probability of Establishment
+Accept HIGH.
+Probability of Spread
+Suggest HIGH instead of MODERATE because spread by human agency is inevitable unless disruptive quarantine barriers to the movements of plants (like IR16 for San Jose scale) are implemented across many states.
+Consequences
+Plant life or health: Significant at regional not district level, E not D. The scales infest many crops that are grown in many states.
+Eradication, control: Significant at regional not local level, E not C. The scales infest many crops that are grown in many states.
+Domestic trade: Significant at regional not local level, E not C. The IRA mentions trade restrictions on fruit but other plant parts would also have to be restricted to the cost of the nursery industry which is specialised and centralised for some commercial tree saplings.
+International trade: Significant at regional not local level, E not C, if a state reliant on export markets loses markets. Tasmania is increasingly reliant on export markets and will soon be the major producer among Australian states.
+Environment: Minor significance at regional not local level, D not B because amenity and ornamental trees in several states could be affected. The elm leaf beetle created a $0.3M control industry in one city, Melbourne and a local incursion on 200 trees in another city, Launceston has cost $20,000 p.a. for five years.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (
+Text Len: 1775
+--------------------------------------------------------------------------------
+amental trees in several states could be affected. The elm leaf beetle created a $0.3M control industry in one city, Melbourne and a local incursion on 200 trees in another city, Launceston has cost $20,000 p.a. for five years.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required.
+PEST: Cydia species, filbert worm
+IRA concludes unrestricted risk is NEGLIGIBLE
+Probability of Entry
+Importation: Draft IRA concludes ‘Very low’. Incidence was 0.002% (1.8 per 100,000) on nectarines after packing house procedures in California. Is this very low? When Tasmania conducted methyl bromide fumigation experiments to satisfy MAFF, Japan that Tasmanian cherries would be disinfested of the eggs of another Cydia species, C. pomonella, the codling moth, the requirement was for nil live eggs on several batches of fruit numbering several tens of thousands. Subsequently, in developing a systems approach to this issue Japan required Tasmania to demonstrate nil eggs or larvae on samples of thousands of fruit from orchards monitored for codling moth. The Tasmanian Government urges BA to consider these international precedents in determining probability.
+Distribution: Accept ‘Moderate’ probability.
+Probability of Establishment
+Accept high.
+Probability of Spread
+Accept high.
+Consequences
+Plant life or health: Given that codling moth is a major pest in Australian fruit production, that Tasmanian fruit production is heavily oriented to export, that pests sometimes modify their host range in new environments, that Tasmania has invested heavily in meeting export quarantine requirements for this pest including the refusal of Japan to accept cherry as a non oviposition host for codling moth, that
+Text Len: 1738
+--------------------------------------------------------------------------------
+Consequences
+Plant life or health: Given that codling moth is a major pest in Australian fruit production, that Tasmanian fruit production is heavily oriented to export, that pests sometimes modify their host range in new environments, that Tasmania has invested heavily in meeting export quarantine requirements for this pest including the refusal of Japan to accept cherry as a non oviposition host for codling moth, that filbertworm has an existing potential to infest stone fruit that may strengthen in a new environment, that existing chemical and biological controls for a Cydia species are tenuous and sometimes impeded by minimum residue requirements of trading partners, that a hazelnut industry is emerging in some states, particularly NSW, that a truffle industry dependent on oaks and hazelnut trees is emerging in Tasmania and that the truffle industry exports inoculated oak seeds into states with codling moth restrictions (WA), the Tasmanian Government urges BA to reconsider the ‘negligible’ unrestricted risk applied to a member of the pestiferous genus, Cydia.
+Please also note that quarantine restrictions would have more than significant district impact on domestic trade given that Australia’s urban fruit markets are integrated to rely on a sequence of harvests from early harvests in the northern districts to late harvests in the south each season for a continuity of supply. The Tasmanian Government suggests a significant regional consequence.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required
+General enquiries
+Call 1800 900 090
+Contact us online
+Report a biosecurity concern
+Text Len: 1652
+--------------------------------------------------------------------------------
+Attachment C: Comment on Section 4 PRAs
+PEST: Spider mites, 3 Tetranychus species
+IRA concludes unrestricted risk is VERY LOW
+Probability of Entry
+Importation:
+Likelihood estimate should be HIGH not MODERATE given NZ experience of ‘numerous’ events (based on PDI (2003) records).
+PDI (2003) Pest and Disease Information Database - Pest Interception Records up to 31 December 2002. Australian Government Department of Agriculture Fisheries and Forestry, Canberra for records of T. turkestani on NZ stone fruit into Australia. It is the source of the ‘numerous’ interceptions of spider mites mentioned in the IRA.
+There is an opportunity for mitigation: The IRA says infestations were clumped in a Californian study, reflecting a few ‘problem’ orchards as main source of risk. This suggests that monitoring orchards near harvest and applying thresholds for preclearance could mitigate risk.
+Distribution:
+Likelihood estimates should be MODERATE not LOW because:
+The argument in the IRA that some tree hosts in Australia will be leafless at the time of importation is doubtful
+three species given the broad geographic range of destinations in Australia.
+The host range in the IRA is understated for two species. The North American reference book, The Handbook of Vegetable Pests by J.L. Carpinera (Academic Press, San Diego, 2001) says:
+T. turkestani and T. pacificus have vegetable hosts and occur on low growing plants.
+Over wintering may occur on forage legumes and greenhouses in coldwinter areas and on many plants in warm-winter areas. “Weeds and senescent crops can be important sources of mites.”
+Diapause of spider mites (of T. urticae, at least) may occur
+Text Len: 1662
+--------------------------------------------------------------------------------
+ pacificus have vegetable hosts and occur on low growing plants.
+Over wintering may occur on forage legumes and greenhouses in coldwinter areas and on many plants in warm-winter areas. “Weeds and senescent crops can be important sources of mites.”
+Diapause of spider mites (of T. urticae, at least) may occur in leaves and organic debris.
+The relevance of many host plants being deciduous is overstated in the IRA because, for two species (T. turkestani and T. pacificus), there are other common, nondeciduous hosts including common weeds (See lists at end of this report). The suitability of other hosts is underestimated for these two species by the statement ‘Some of these hosts can be found in home gardens’ but ‘many are deciduous’ and hence lack leaves at the time of import. It is not unusual for fruit to be adjacent to leafy vegetables and ornamental plants in vegetable shops. Mixtures of blemished fruit and leafy waste from wholesale and retail greengrocers often follows rapid, distribution paths into home gardens as food for chickens, rabbits and guinea pigs. The gardens usually contain clover and a range of weeds that are hosts. However, the supporting evidence in the IRA states that 2 weeks may elapse from ‘quarantine clearance at the border’ to proximity to suitable hosts.
+Probability of Establishment
+Accept HIGH likelihood.
+Probability of Spread
+Likelihood should be HIGH not MODERATE unless intrastate and interstate quarantine controls were imposed on a large range of plant products.
+The arguments in the IRA that ‘long distances between some of the main Australian commercial orchards and production areas’ and the ‘small size and limited capacity for independent dispersal’ may make it ‘difficult for these spider mites to disperse un
+Text Len: 1765
+--------------------------------------------------------------------------------
+ be HIGH not MODERATE unless intrastate and interstate quarantine controls were imposed on a large range of plant products.
+The arguments in the IRA that ‘long distances between some of the main Australian commercial orchards and production areas’ and the ‘small size and limited capacity for independent dispersal’ may make it ‘difficult for these spider mites to disperse unaided’ are true but irrelevant. Human assisted dispersal is highly likely unless quarantine barriers are imposed at potentially great disruption to the industry.
+Consequences
+Domestic trade restrictions would have more than significant local impact given that Australia’s urban fruit markets rely on a sequence of harvests from early harvests in the northern districts (Granite belt, QLD) to late harvests in the south (Tasmania) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant regional consequence.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are likely to suffer trade barriers or reassessments (perhaps blueberries, apples, strawberries and vegetables like onions and carrots). Suggest significant regional consequence.
+UNRESTRICTED RISK
+L(EES) (MODERATE) x Consequences (MODERATE) = MODERATE. Therefore risk mitigation required.
+Host list of 50 plants for Tetranychus pacificus from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Amaranthaceae: Amaranthus sp. [McGregor (1950)].
+Aristolochiaceae: Asarum sp. [Beer & Lang
+Text Len: 1778
+--------------------------------------------------------------------------------
+ of 50 plants for Tetranychus pacificus from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Amaranthaceae: Amaranthus sp. [McGregor (1950)].
+Aristolochiaceae: Asarum sp. [Beer & Lang (1958)].
+Asclepiadaceae: Asclepias sp. [McGregor (1950)].
+Asteraceae: Helianthus annuus.
+Brassicaceae (Cruciferae): Brassica sp. [McGregor (1950)].
+Convolvulaceae: Ipomoea sp. [McGregor (1950)].
+Cucurbitaceae: Cucurbita pepo [McGregor (1950)]; Cucurbita sp. [McGregor (1950)].
+Fabaceae: Medicago sativa; Phaseolus sp.; Robinia pseudoacacia; Thermopsis pinetorum; Trifolium sp.; Vicia sp. [McGregor (1919); McGregor (1950)].
+Juglandaceae: Juglans californica [McGregor (1950)]; Juglans regia [McGregor (1950)].
+Lamiaceae (Labiatae): Marrubium vulgare [McGregor (1950)]; Salvia sp.; Stachys sp. [McGregor (1950)].
+Magnoliaceae: Magnolia fraseri.
+Malvaceae: Gossypium sp. [McGregor (1950)]; Malva sp. [McGregor (1950)].
+Meliaceae: Melia azedarach [McGregor (1919); McGregor (1950)].
+Moraceae: Ficus carica [McGregor (1950)];
+Text Len: 1063
+--------------------------------------------------------------------------------
+
+Magnoliaceae: Magnolia fraseri.
+Malvaceae: Gossypium sp. [McGregor (1950)]; Malva sp. [McGregor (1950)].
+Meliaceae: Melia azedarach [McGregor (1919); McGregor (1950)].
+Moraceae: Ficus carica [McGregor (1950)]; Morus sp..
+Oleaceae: Syringa sp..
+Papaveraceae: Bocconia frutescens [Estebanes-Gonzalez & Baker (1968)]; Eschscholtzia californica.
+Poaceae: Zea mays.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)]; Rhamnus betulaefolia [Tuttle & Baker (1968)].
+Rosaceae: Cotoneaster sp.; Oemleria cerasiformis [McGregor (1950)]; Prunus armeniaca [McGregor (1950)]; Prunus avium [McGregor (1950)]; Prunus domestica [McGregor (1950)]; Prunus dulcis [McGregor (1950)]; Prunus persica [McGregor (1950)]; Prunus sp. [McGregor (1950)]; Prunus virginiana [McGregor (1950)]; Pyrus communis [McGregor (1950)]; Rubus sp. [McGregor (1950)].
+Rutaceae: Citrus limon [McGregor (1950)]; Citrus paradisi [McGregor (1950)].
+Saxifragaceae: Philadelphus gordonianus [McGregor (1919)]; Philadelphus sp. [McGregor (1950)]; Ribes sp. [McGregor (1919
+Text Len: 1030
+--------------------------------------------------------------------------------
+or (1950)].
+Rutaceae: Citrus limon [McGregor (1950)]; Citrus paradisi [McGregor (1950)].
+Saxifragaceae: Philadelphus gordonianus [McGregor (1919)]; Philadelphus sp. [McGregor (1950)]; Ribes sp. [McGregor (1919); McGregor (1950)].
+Solanaceae: Solanum melongena.
+Ulmaceae: Ulmus sp..
+Vitaceae: Vitis vinifera [McGregor (1950); Navajas, Gutierrez, Lagnel, et al. (1996)]
+Host list of 207 plants for Tetranychus turkestani from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Acanthaceae: Dicoria canescens [Tuttle & Baker (1964)].
+Aceraceae: Acer negundo.
+Amaranthaceae: Amaranthus albus; Amaranthus patulus [Carmona (1964)]; Amaranthus retroflexus.
+Apiaceae (Umbelliferae): Apium graveolens; Arracacia xanthorrhiza; Carum petroselinum [Carmona (1964)]; Chaerophyllum aromaticum; Daucus carota [Tuttle & Baker (1964)]; Pastinaca sativa; Pimpinella saxifraga; Tordylium maximum [Bailly, Migeon & Navajas (2004)].
+Apocynaceae: Apocynum cannabinum.
+Araliaceae: Aralia sp..
+Aristolochiaceae: Aristolochia clematitis [Bailly, Migeon & Navajas (2004)
+Text Len: 1099
+--------------------------------------------------------------------------------
+ Pimpinella saxifraga; Tordylium maximum [Bailly, Migeon & Navajas (2004)].
+Apocynaceae: Apocynum cannabinum.
+Araliaceae: Aralia sp..
+Aristolochiaceae: Aristolochia clematitis [Bailly, Migeon & Navajas (2004)]; Asarum canadense.
+Asclepiadaceae: Asclepias sp. [Thewke & Enns (1969)]; Asclepias subulata [Tuttle & Baker (1968)]; Asclepias syriaca.
+Asteraceae: Ambrosia artemisiifolia; Ambrosia confertiflora [Tuttle & Baker (1964)]; Ambrosia dumosa [Tuttle & Baker (1968)]; Ambrosia trifida; Arctium lappa [Ugarov & Nikolskii (1937)]; Calendula officinalis [Tuttle & Baker (1968)]; Carthamus tinctorius [Tuttle & Baker (1968)]; Chrysanthemum sp.; Cichorium intybus; Cirsium arvense; Erigeron annuus; Galinsoga ciliata; Helianthus annuus [McGregor (1950); Bailly, Migeon & Navajas (2004)]; Heterotheca subaxillaris [Tuttle & Baker (1964)]; Lactuca canadensis; Lactuca sativa [Tuttle & Baker (1968)]; Senecio vulgaris [Aucejo, Foo, Gimeno, et al. (2003)]; Sonchus arvensis; Tagetes erecta; Taraxacum officinale; Xanthium saccharatum [Tuttle,
+Text Len: 1037
+--------------------------------------------------------------------------------
+1964)]; Lactuca canadensis; Lactuca sativa [Tuttle & Baker (1968)]; Senecio vulgaris [Aucejo, Foo, Gimeno, et al. (2003)]; Sonchus arvensis; Tagetes erecta; Taraxacum officinale; Xanthium saccharatum [Tuttle, Baker & Abbatiello (1976)]; Zinnia elegans.
+Balsaminaceae: Impatiens noli-tangere.
+Berberidaceae: Berberis thunbergii [Uysal, Cobanoglu & Okten (2001)].
+Betulaceae: Corylus avellana.
+Bixaceae: Bixa orellana.
+Brassicaceae (Cruciferae): Brassica hirta; Brassica juncea; Cardaria draba [Bailly, Migeon & Navajas (2004)]; Raphanus raphanistrum; Raphanus sativus [Tuttle & Baker (1968)].
+Cannabaceae: Cannabis sp.; Humulus japonicus; Humulus lupulus [Ugarov & Nikolskii (1937)].
+Caprifoliaceae: Diervilla lonicera [Reeves (1963)]; Sambucus nigra [Uysal, Cobanoglu & Okten (2001)].
+Caryophyllaceae: Malachium aquaticum; Melandrium sp.; Stellaria nemorum.
+Celastraceae: Euonymus europaeus [Tuttle & Baker (1968)].
+Chenopodiaceae: Atriplex australasia; Atriplex sp. [Ugarov & Nikolskii (1937)]; Chenopodium album.
+Convolvulaceae: Convolvulus arvensis [
+Text Len: 1053
+--------------------------------------------------------------------------------
+aria nemorum.
+Celastraceae: Euonymus europaeus [Tuttle & Baker (1968)].
+Chenopodiaceae: Atriplex australasia; Atriplex sp. [Ugarov & Nikolskii (1937)]; Chenopodium album.
+Convolvulaceae: Convolvulus arvensis [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Bailly, Migeon & Navajas (2004)]; Convolvulus sp. [Aucejo, Foo, Gimeno, et al. (2003)]; Cressa cretica; Ipomoea hederacea; Ipomoea purpurea; Ipomoea sp. [Ugarov & Nikolskii (1937)].
+Cucurbitaceae: Citrullus lanatus [Tuttle, Baker & Abbatiello (1976); Ben-David, Melamed, Gerson, et al. (2007)]; Citrullus vulgaris [Ugarov & Nikolskii (1937)]; Cucumis melo [Ugarov & Nikolskii (1937); Tuttle & Baker (1968)]; Cucumis sativus [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Hatzinikolis (1968); Hatzinikolis (1969); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Cucurbita maxima; Cucurbita moschata; Cucurbita sp. [Ugarov & Nikolskii (1937); Carmona (1964); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Luffa aegypt
+Text Len: 990
+--------------------------------------------------------------------------------
+iotis, Ragusa Di Chiara & Tsolakis]; Cucurbita maxima; Cucurbita moschata; Cucurbita sp. [Ugarov & Nikolskii (1937); Carmona (1964); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Luffa aegyptiaca [Carmona (1964)].
+Cyperaceae: Scirpus sp. [Ugarov & Nikolskii (1937)].
+Ebenaceae: Diospyros kaki [Carmona & Dias (1980)].
+Euphorbiaceae: Euphorbia maculata; Manihot sp.; Ricinus communis [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Fabaceae: Acacia sp. [Ugarov & Nikolskii (1937)]; Arachis hypogaea; Cassia leiantha; Glycine max [McGregor (1950); Bibby & Tuttle (1959); Tuttle & Baker (1964)]; Glycine soja [Carmona & Dias (1980)]; Glycyrrhiza glabra; Lathyrus odoratus; Lespedeza intermedia; Lespedeza stipulacea; Lupinus sp.; Medicago sativa [Ugarov & Nikolskii (1937); McGregor (1950); Bibby & Tuttle (1959); Tuttle & Baker (1964); Bailly, Migeon & Navajas (2004)]; Melilotus sp. [Gerini (1971)]; Phaseolus lunatus [McGregor (1950)]; Phaseolus sp. [McGregor (1950)]; Phaseolus vulgaris [Ugarov & Nikolskii (1937); Papaioannou-Souliotis
+Text Len: 1044
+--------------------------------------------------------------------------------
+1964); Bailly, Migeon & Navajas (2004)]; Melilotus sp. [Gerini (1971)]; Phaseolus lunatus [McGregor (1950)]; Phaseolus sp. [McGregor (1950)]; Phaseolus vulgaris [Ugarov & Nikolskii (1937); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Sesbania aegyptiaca; Trifolium incarnatum [McGregor (1950)]; Trifolium pratense; Trifolium repens [McGregor (1950); Bailly, Migeon & Navajas (2004)]; Trifolium sp. [Ugarov & Nikolskii (1937)]; Vicia faba; Vigna mungo.
+Juglandaceae: Juglans regia [McGregor (1950)].
+Lamiaceae (Labiatae): Galeopsis speciosa; Galeopsis tetrahit; Glechoma hederacea; Lamium album; Lycopus uniflorus; Mentha sp. [Ugarov & Nikolskii (1937); Carmona (1964)]; Stachys palustris.
+Lauraceae: Sassafras albidum.
+Liliaceae: Smilacina racemosa.
+Lobeliaceae: Lobelia inflata.
+Magnoliaceae: Liriodendron tulipifera [Reeves (1963)]; Magnolia acuminata [Reeves (1963)]; Magnolia macrophylla [Reeves (1963)].
+Malvaceae: Abelmoschus esculentus; Abutilon theophrasti [Ugarov & Nikolskii (1937)]; Atriplex canescens; Gossyp
+Text Len: 1028
+--------------------------------------------------------------------------------
+ifera [Reeves (1963)]; Magnolia acuminata [Reeves (1963)]; Magnolia macrophylla [Reeves (1963)].
+Malvaceae: Abelmoschus esculentus; Abutilon theophrasti [Ugarov & Nikolskii (1937)]; Atriplex canescens; Gossypium hirsutum [Bibby & Tuttle (1959); Tuttle & Baker (1964)]; Gossypium sp. [Ugarov & Nikolskii (1937); McGregor (1950); Hatzinikolis (1968); Hatzinikolis (1969); Hatzinikolis (1986)]; Hibiscus cannabinus; Malva neglecta; Malva parviflora; Malva sp. [Ugarov & Nikolskii (1937)]; Malva sylvestris [Aucejo, Foo, Gimeno, et al. (2003); Bailly, Migeon & Navajas (2004)].
+Molluginaceae: Mollugo verticillata.
+Moraceae: Ficus carica [Carmona & Dias (1980)]; Morus alba [Tuttle & Baker (1968)]; Morus sp. [Ugarov & Nikolskii (1937); Carmona (1964)].
+Musaceae: Musa sp. [Breeuwer (1997)].
+Nyctaginaceae: Boerhavia sp. [Tuttle, Baker & Abbatiello (1976)].
+Oleaceae: Fraxinus americana [Reeves (1963)]; Jasminum sambac; Ligustrum sp. [McGregor (1950)].
+Onagraceae: Oenothera laciniata.
+Oxalidaceae: Oxalis europaea; Oxalis
+Text Len: 1019
+--------------------------------------------------------------------------------
+. [Tuttle, Baker & Abbatiello (1976)].
+Oleaceae: Fraxinus americana [Reeves (1963)]; Jasminum sambac; Ligustrum sp. [McGregor (1950)].
+Onagraceae: Oenothera laciniata.
+Oxalidaceae: Oxalis europaea; Oxalis sp. [Bolland (2001)].
+Papaveraceae: Papaver rhoeas [Aucejo, Foo, Gimeno, et al. (2003)]; Papaver sp.; Sanguinaria canadensis; Stylophorum diphyllum.
+Phytolacaceae: Phytolacca americana.
+Plantaginaceae: Plantago lanceolata; Plantago major.
+Poaceae: Bromus sp. [Aucejo, Foo, Gimeno, et al. (2003)]; Digitaria argilacea; Zea mays [Ugarov & Nikolskii (1937); Tuttle & Baker (1964); Hatzinikolis (1969); Hatzinikolis (1986); Bailly, Migeon & Navajas (2004)].
+Polygonaceae: Polygonum argyrocoleon [Tuttle & Baker (1964)]; Polygonum aviculare; Polygonum hydropiper; Polygonum nodosum; Polygonum orientale; Rumex crispus.
+Primulaceae: Lysimachia vulgaris; Primula officinalis.
+Ranunculaceae: Aquilegia sp.; Thalictrum fendleri [Tuttle & Baker (1968)]; Thalictrum polygamum.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)].
+Rosaceae: Alchemilla vulgaris [Ugar
+Text Len: 1062
+--------------------------------------------------------------------------------
+is; Primula officinalis.
+Ranunculaceae: Aquilegia sp.; Thalictrum fendleri [Tuttle & Baker (1968)]; Thalictrum polygamum.
+Rhamnaceae: Ceanothus fendleri [Tuttle & Baker (1968)].
+Rosaceae: Alchemilla vulgaris [Ugarov & Nikolskii (1937)]; Cotoneaster bullatus [Uysal, Cobanoglu & Okten (2001)]; Cydonia oblonga [Ugarov & Nikolskii (1937)]; Fragaria chiloensis (=x ananassa) [Rambier (1958); Carmona (1964); Johanowicz & Hoy (1996); Escudero & Ferragut (2005)]; Fragaria sp. [McGregor (1941)]; Fragaria virginiana; Malus domestica [Pritchard & Baker (1955); Ben-David, Melamed, Gerson, et al. (2007)]; Potentilla canadiensis; Potentilla norvegica; Potentilla recta; Prunus avium [Ugarov & Nikolskii (1937); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Prunus domestica [Carmona (1964)]; Prunus pensylvanica [Reeves (1963)]; Prunus persica [Ugarov & Nikolskii (1937); Ben-David, Melamed, Gerson, et al. (2007)]; Pyrus communis [Carmona (1964)]; Rosa sp. [Reeves (1963)]; Rubus idaeus.
+Rutaceae: Citrus sinensis [Tuttle & Baker (1968)]; Citrus sp. [Mijusk
+Text Len: 1058
+--------------------------------------------------------------------------------
+ Nikolskii (1937); Ben-David, Melamed, Gerson, et al. (2007)]; Pyrus communis [Carmona (1964)]; Rosa sp. [Reeves (1963)]; Rubus idaeus.
+Rutaceae: Citrus sinensis [Tuttle & Baker (1968)]; Citrus sp. [Mijuskovic (1981); Kreiter, Auger, Lebdi Grissa, et al. (2002)].
+Salicaceae: Populus balsamifera [Bolland (1999)]; Populus tremula; Salix alba [Ugarov & Nikolskii (1937)].
+Saxifragaceae: Philadelphus coronarius; Ribes nigrum.
+Scrophulariaceae: Verbascum blattaria.
+Solanaceae: Datura stramonium [Ugarov & Nikolskii (1937)]; Lycopersicon esculentum [Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis; Kreiter, Auger, Lebdi Grissa, et al. (2002)]; Physalis viginiana; Solanum carolinense; Solanum elaeagnifolium [Tuttle & Baker (1964)]; Solanum melongena [Ugarov & Nikolskii (1937); McGregor (1950); Papaioannou-Souliotis, Ragusa Di Chiara & Tsolakis]; Solanum sp. [Ugarov & Nikolskii (1937)].
+Ulmaceae: Ulmus americana [Reeves (1963)]; Ulmus pumila; Ulmus sp. [Ugarov & Nikolskii (1937)].
+Urticaceae: Boehmeria cylindrica; Laportea aest
+Text Len: 1035
+--------------------------------------------------------------------------------
+ & Tsolakis]; Solanum sp. [Ugarov & Nikolskii (1937)].
+Ulmaceae: Ulmus americana [Reeves (1963)]; Ulmus pumila; Ulmus sp. [Ugarov & Nikolskii (1937)].
+Urticaceae: Boehmeria cylindrica; Laportea aestuans.
+Verbenaceae: Citharexylum fruticosum [Flechtmann, Kreiter, Etienne, et al. (1999)]; Verbena hastata.
+Violaceae: Viola canadensis; Viola conspersa [Tuttle & Baker (1968)]; Viola sp. [McGregor (1950)].
+Vitaceae: Vitis vinifera [Ugarov & Nikolskii (1937); Rambier (1979); Carmona & Dias (1980)].
+Zygophyllaceae: Tribulus alexandrinum [Tuttle & Baker (1968)]; Tribulus terrestris [Tuttle & Baker (1968)]
+Host list of 16 plants for Tetranychus mcdanieli from Alain MIGEON and Franck DORKELD (2006) Spider Mites Web: a comprehensive database for the Tetranychidae. 
+Aceraceae: Acer saccharum.
+Caprifoliaceae: Lonicera japonica.
+Fabaceae: Thermopsis pinetorum [Tuttle & Baker (1968)].
+Moraceae: Morus sp. [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Poaceae: Phleum pratense [Baker & Tuttle (1972)].
+Ranunculaceae: Thalictrum fendleri.
+Rosaceae: Fragaria virginiana; Malus domestica [Pritchard
+Text Len: 1093
+--------------------------------------------------------------------------------
+ Baker (1968)].
+Moraceae: Morus sp. [Bibby & Tuttle (1959); Tuttle & Baker (1964)].
+Poaceae: Phleum pratense [Baker & Tuttle (1972)].
+Ranunculaceae: Thalictrum fendleri.
+Rosaceae: Fragaria virginiana; Malus domestica [Pritchard & Baker (1952); Pritchard & Baker (1955)]; Prunus americana; Prunus avium; Prunus domestica [Pritchard & Baker (1952); Pritchard & Baker (1955)]; Prunus persica; Rubus idaeus [McGregor (1931); Pritchard & Baker (1955); Roy, Brodeur & Cloutier (1999)].
+Saxifragaceae: Ribes sp..
+Ulmaceae: Ulmus americana.
+Vitaceae: Vitis vinifera [Rambier (1982); Navajas, Gutierrez, Lagnel, et al. (1996)]
+PEST: Walnut husk fly
+IRA concludes unrestricted risk is NEGLIGIBLE
+Note this species is in the Industry Biosecurity Plan for Australian Nut Industry as an Emergency Plant Pest Priority and received different assessments, namely:
+Entry potential MEDIUM (versus IRA Extremely Low)
+Establishment potential LOW (versus IRA High)
+Spread potential MEDIUM (versus IRA Moderate)
+Economic impact HIGH (versus IRA Low)
+An overall risk was not given in the version available on the PHA website as of 13/6/08.
+Probability of Entry
+However, note that the Industry Biosecurity Plan for Australian Nut Industry assesses entry potential as MEDIUM.
+Probability of Establishment
+The Industry Biosecurity Plan for Australian Nut Industry assesses this likelihood as
+Text Len: 1365
+--------------------------------------------------------------------------------
+ IRA Low)
+An overall risk was not given in the version available on the PHA website as of 13/6/08.
+Probability of Entry
+However, note that the Industry Biosecurity Plan for Australian Nut Industry assesses entry potential as MEDIUM.
+Probability of Establishment
+The Industry Biosecurity Plan for Australian Nut Industry assesses this likelihood as LOW.
+Probability of Spread
+The Industry Biosecurity Plan for Australian Nut Industry also assesses this likelihood as MEDIUM.
+Consequences
+The IRA determines magnitude of consequences as LOW.
+The IRA’s assessment of direct impact on plant life or health is ‘D - significant at district level’. This includes the outdated statement that the walnut industry in Australia is a small but growing sector, producing around 300 tonnes of nuts in 2003. Leigh Titmus of Webster Field Fresh said (pers. comm.) Tasmania produced 500 tonnes and the mainland 200 tonnes in 2007. The Australian Nut Industry Council Industry Report for 2007 gives 600-800 tonnes (in shell) for 2007 production. This is still a minor crop but has twice the production given in the IRA and is likely to grow. It affects two states (Tasmania and Victoria) so that impacts will be ‘regional’ rather than ‘district’ making an E score more appropriate than a D score for impact.
+Domestic Trade: This receives a C score on page 46 of the IRA but Table 2.3 suggests D is the correct code for ‘significant at district level’. Is this an error?
+In 2005, Tasmania (Websters Field Fresh) exported walnuts to Vietnam for shelling and canning after which they return to Australia (in tins) and perhaps continues to do so. This is an interesting example of a crop grown and marketed domestically but processed offshore, making it susceptible to international quarantine barriers. It involves two states (T
+Text Len: 1807
+--------------------------------------------------------------------------------
+ at district level’. Is this an error?
+In 2005, Tasmania (Websters Field Fresh) exported walnuts to Vietnam for shelling and canning after which they return to Australia (in tins) and perhaps continues to do so. This is an interesting example of a crop grown and marketed domestically but processed offshore, making it susceptible to international quarantine barriers. It involves two states (Tasmania and Victoria) so that impacts will be ‘regional’ rather than ‘district’ making an E score more appropriate than a D score for impact.
+International Trade: This receives a C on page 46 of the IRA but Table 2.3 suggests D is the correct code for ‘significant at district level’. Is this an error?
+The establishment of any fruit fly in Tasmania is likely to impede exports of several fruits by damaging a the state’s fruit fly free image, and by requiring reviews of current export protocols, which are increasing based on complex integrated systems approaches targeting one pest rather than fumigations that mitigate several pests. This affects at least one state (Tasmania) and probably others so that impacts will be ‘regional’ rather than ‘district’ making an E more appropriate than a D impact.
+The presence of E impact scores would raise the consequence score to Moderate.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required.
+PEST: Apple maggot
+IRA concludes unrestricted risk is MODERATE
+Probability of Entry
+Importation: MODERATE accepted
+Distribution: MODERATE accepted
+Probability of Establishment
+HIGH accepted.
+Dimethoate is described as highly effective in the section, Cultural practices and control measures (p 51), but is likely to be deregistered and residues of it may or may
+Text Len: 1739
+--------------------------------------------------------------------------------
+
+IRA concludes unrestricted risk is MODERATE
+Probability of Entry
+Importation: MODERATE accepted
+Distribution: MODERATE accepted
+Probability of Establishment
+HIGH accepted.
+Dimethoate is described as highly effective in the section, Cultural practices and control measures (p 51), but is likely to be deregistered and residues of it may or may not be acceptable to trading partners. Ditto fenthion?
+Probability of Spread
+The IRA sets a MODERATE probability of spread but does not substantiate this. The only constraint is the limited capacity of the fly for natural spread but facilitated transport is much more relevant. Mitigation of facilitated transport within Australia by quarantine barriers would be very disruptive. The probability of facilitated transport under current conditions is HIGH.
+Consequences
+HIGH Consequence estimate not accepted.
+Should an incursion occur, eradication of this pest, as with most fruit flies, would be undertaken nationally and have significant national impact, F. The use of certain pesticides for control or disinfestation (dimethoate, fenthion) could prevent export or be limited by the Existing Pesticides Review by Australian Pesticides and Veterinary Medicines Agency and have significant national impact, F.
+Domestic trade restrictions would have more than significant local impact given that Australia’s urban fruit markets rely on a sequence of harvests from early harvests in the northern districts (Granite belt, QLD) to late harvests in the south (Tasmania) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant national consequence, F.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are
+Text Len: 1947
+--------------------------------------------------------------------------------
+) each year for a continuity of supply and that a wide variety of plant products would need to be regulated. Suggest significant national consequence, F.
+International trade would have a more than significant local impact. The state (region) of Tasmania relies heavily on export markets and this reliance is increasing. Tasmania’s share of national stone fruit production is increasing accordingly. Other export crops besides stone fruit are likely to suffer trade barriers or reassessments (perhaps blueberries, apples, strawberries and vegetables like onions and carrots). Suggest a major regional consequence, F.
+These probabilities combine to give EXTREME consequence.
+UNRESTRICTED RISK
+L(EES) (MODERATE) x Consequences (EXTREME) = HIGH.
+Therefore risk mitigation required that is greater than that required to reduce moderate risk to ALOP.
+PEST: Plant bugs
+IRA concludes unrestricted risk is VERY LOW
+Three species of Lygus and the potato bug Closterotomus norvegicus. The latter is present in Tasmania but not recorded on the mainland.
+Probability of Entry
+Importation: Accept very low
+Distribution: Accept moderate.
+Probability of Establishment
+Accept moderate.
+Probability of Spread
+Accept moderate.
+Consequences
+Direct impact would be significant at a national level, F rather than merely regional level (E) given the range of major crops involved (e.g. cotton, lucerne and strawberries).
+The indirect impact should be significant at a regional or national level, E or F, rather than district level (D), given the range of crops combined with the considerable need for control measures.
+Domestic trade – Accept significant at local level, C, given the lack of interstate requirements between Tasmania and the mainland directed at potato bug.
+International Trade – minor significance at regional level (D) given the importance of exporting to Tasmanian horticulture and the association of
+Text Len: 1896
+--------------------------------------------------------------------------------
+ or F, rather than district level (D), given the range of crops combined with the considerable need for control measures.
+Domestic trade – Accept significant at local level, C, given the lack of interstate requirements between Tasmania and the mainland directed at potato bug.
+International Trade – minor significance at regional level (D) given the importance of exporting to Tasmanian horticulture and the association of some plant bugs with horticultural crops.
+Changing direct impact from E to F, alone, would raise consequence to HIGH, which will move the unrestricted risk from below to above ALOP.
+UNRESTRICTED RISK
+L(EES) (VERY LOW) x Consequences (HIGH) = LOW.
+Therefore risk mitigation required.
+PEST: Armoured scales, Forbes scale and Walnut scale
+IRA concludes unrestricted risk is NEGLIGIBLE
+Note that San Jose scale was excluded from further consideration in Appendix A of the IRA, presumably because of a single, old Tasmanian (Hobart) record in Australian Plant Pest Database based on a specimen in NSW DPI collection at Orange. Tasmania has Import Requirement 16 against this pest, which is in List A, and an active surveillance program to confirm its absence since the early 1960s in mainland Tasmania and early 1980s on King Island, which trades more with the mainland than Tasmania. This suggests the need for a reassessment to recognise IR16 and to qualify the sole, old APPD record.
+The following comments are independent of the San Jose scale issue.
+Probability of Entry
+Importation: LOW instead of VERY LOW.
+Walnut scale is twice as likely (0.03% incidence) to occur on nectarine fruit as is San Jose scale after packinghouse procedures (IRA p. 64). The scales are treated as a group so Forbes scale must be included in this assessment whether or not it occurs on fruit.
+Distribution:
+Text Len: 1808
+--------------------------------------------------------------------------------
+bability of Entry
+Importation: LOW instead of VERY LOW.
+Walnut scale is twice as likely (0.03% incidence) to occur on nectarine fruit as is San Jose scale after packinghouse procedures (IRA p. 64). The scales are treated as a group so Forbes scale must be included in this assessment whether or not it occurs on fruit.
+Distribution: Accept LOW.
+Probability of Establishment
+Accept HIGH.
+Probability of Spread
+Suggest HIGH instead of MODERATE because spread by human agency is inevitable unless disruptive quarantine barriers to the movements of plants (like IR16 for San Jose scale) are implemented across many states.
+Consequences
+Plant life or health: Significant at regional not district level, E not D. The scales infest many crops that are grown in many states.
+Eradication, control: Significant at regional not local level, E not C. The scales infest many crops that are grown in many states.
+Domestic trade: Significant at regional not local level, E not C. The IRA mentions trade restrictions on fruit but other plant parts would also have to be restricted to the cost of the nursery industry which is specialised and centralised for some commercial tree saplings.
+International trade: Significant at regional not local level, E not C, if a state reliant on export markets loses markets. Tasmania is increasingly reliant on export markets and will soon be the major producer among Australian states.
+Environment: Minor significance at regional not local level, D not B because amenity and ornamental trees in several states could be affected. The elm leaf beetle created a $0.3M control industry in one city, Melbourne and a local incursion on 200 trees in another city, Launceston has cost $20,000 p.a. for five years.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (
+Text Len: 1775
+--------------------------------------------------------------------------------
+amental trees in several states could be affected. The elm leaf beetle created a $0.3M control industry in one city, Melbourne and a local incursion on 200 trees in another city, Launceston has cost $20,000 p.a. for five years.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required.
+PEST: Cydia species, filbert worm
+IRA concludes unrestricted risk is NEGLIGIBLE
+Probability of Entry
+Importation: Draft IRA concludes ‘Very low’. Incidence was 0.002% (1.8 per 100,000) on nectarines after packing house procedures in California. Is this very low? When Tasmania conducted methyl bromide fumigation experiments to satisfy MAFF, Japan that Tasmanian cherries would be disinfested of the eggs of another Cydia species, C. pomonella, the codling moth, the requirement was for nil live eggs on several batches of fruit numbering several tens of thousands. Subsequently, in developing a systems approach to this issue Japan required Tasmania to demonstrate nil eggs or larvae on samples of thousands of fruit from orchards monitored for codling moth. The Tasmanian Government urges BA to consider these international precedents in determining probability.
+Distribution: Accept ‘Moderate’ probability.
+Probability of Establishment
+Accept high.
+Probability of Spread
+Accept high.
+Consequences
+Plant life or health: Given that codling moth is a major pest in Australian fruit production, that Tasmanian fruit production is heavily oriented to export, that pests sometimes modify their host range in new environments, that Tasmania has invested heavily in meeting export quarantine requirements for this pest including the refusal of Japan to accept cherry as a non oviposition host for codling moth, that
+Text Len: 1738
+--------------------------------------------------------------------------------
+Consequences
+Plant life or health: Given that codling moth is a major pest in Australian fruit production, that Tasmanian fruit production is heavily oriented to export, that pests sometimes modify their host range in new environments, that Tasmania has invested heavily in meeting export quarantine requirements for this pest including the refusal of Japan to accept cherry as a non oviposition host for codling moth, that filbertworm has an existing potential to infest stone fruit that may strengthen in a new environment, that existing chemical and biological controls for a Cydia species are tenuous and sometimes impeded by minimum residue requirements of trading partners, that a hazelnut industry is emerging in some states, particularly NSW, that a truffle industry dependent on oaks and hazelnut trees is emerging in Tasmania and that the truffle industry exports inoculated oak seeds into states with codling moth restrictions (WA), the Tasmanian Government urges BA to reconsider the ‘negligible’ unrestricted risk applied to a member of the pestiferous genus, Cydia.
+Please also note that quarantine restrictions would have more than significant district impact on domestic trade given that Australia’s urban fruit markets are integrated to rely on a sequence of harvests from early harvests in the northern districts to late harvests in the south each season for a continuity of supply. The Tasmanian Government suggests a significant regional consequence.
+UNRESTRICTED RISK
+L(EES) (LOW) x Consequences (MODERATE) = LOW.
+Therefore risk mitigation required
+General enquiries
+Call 1800 900 090
+Contact us online
+Report a biosecurity concern
+Text Len: 1652
+--------------------------------------------------------------------------------

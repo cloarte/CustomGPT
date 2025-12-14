@@ -1,0 +1,148 @@
+Crop Knowledge Master
+Diaspis boisduvalii (Signoret)
+Boisduval Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+Orchids, including cattleya, dendrobium, epidendrum, oncidium and vanda, are the chief host of boisduval scale. Other hosts include anthurium, banana, bird of paradise, cactus, coconut palm and other palms, cycads, dracaena, and hala. (Zimmerman 1948, Dekle 1965).
+DISTRIBUTION
+Boisduval scale is thought to be an American species; it has been found on orchids in Luxembourg and is now widespread. An immigrant to the Hawaiian Islands, it was first recorded here in 1895 (Zimmerman 1948). It is present on Hawaii, Kauai, Maui, and Oahu (Hawaiian Terrestrial Arthropod Checklist 1992).
+DAMAGE
+The first sign of boisduval scale is the presence of armor on upper and lower leaf surfaces, fruits, and stems of plants. The female armor is round or oval, thin and semitransparent. The color is white or pale yellow and the size is 1.2 to 2.25 mm (less than 1/8 in) in diameter. The cast skins of the nymph form a light yellow spot near the center called the exuvium. The exuvium of a male is at one end of the armor. The armor of males is white, about 1 mm. (less than 1/16 in) long, narrow, with three ridges running lengthwise (Zimmerman 1948, Dekle 1965). Armored scales feed on plant juices and cause loss
+Text Len: 1458
+--------------------------------------------------------------------------------
+ nymph form a light yellow spot near the center called the exuvium. The exuvium of a male is at one end of the armor. The armor of males is white, about 1 mm. (less than 1/16 in) long, narrow, with three ridges running lengthwise (Zimmerman 1948, Dekle 1965). Armored scales feed on plant juices and cause loss of vigor, deformation of infested plant parts, yellowish spots on leaves, loss of leaves, and even death of the plant (Dekle 1965, Beardsley & Gonzalez 1975). Since scales are spread by introduction of infested material and are difficult to identify to species outside of the lab, they are a quarantine problem on exported potted plants, cut flowers, and cut foliage.
+BIOLOGY
+The number of days for each developmental stage and the number of generations per year depend on temperature, humidity, and rainfall (Beardsley & Gonzalez 1975). Based on a generalized life history of other tropical species, 30 days is the approximate time to complete the life cycle from egg to reproducing adult.
+EGSS
+Eggs are laid under the armor of the female where they develop and hatch.
+NYMPHS
+The first stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. The crawler stage is short, and crawlers do not feed. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover, they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor (Beardsley and Gonzalez 1975).
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Female nymphs shed their skin twice as they grow and
+Text Len: 1789
+--------------------------------------------------------------------------------
+ a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor (Beardsley and Gonzalez 1975).
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Female nymphs shed their skin twice as they grow and develop. Males have a 5 stage development and do not feed during the last two stages (Beardsley and Gonzalez 1975). The cast skins, called exuviae, are incorporated into the armor forming a dot near the center in females and at the narrow end in males. The armor is non-living and is made of cast skins, threads, and liquid, all produced by the insect (Beardsley and Gonzalez 1975).
+ADULTS
+Female boisduval scales appear larvae-like. They remain under armor in one place throughout their lives to feed and reproduce. Males are very different in appearance and behavior from females. They are tiny, winged creatures with eyes and legs. When mature they emerge from the armor in the late afternoon. They do not feed, living only a few hours to mate. Mate-finding is probably aided by pheromones secreted by females (Beardsley & Gonzalez 1975). Because of the late emergence and short life of males, it is unlikely to find them in the field.
+The armor must be pried off to reveal a female insect attached to the plant by thread-like mouthparts. The adult female insect lacks wings, legs, or eyes. Dead ones are dark brown and are dried rather than plump.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). It is
+Text Len: 1824
+--------------------------------------------------------------------------------
+ legs, or eyes. Dead ones are dark brown and are dried rather than plump.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). It is the crawler stage that can be carried directly from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may not land on suitable host plants. Adult males are capable of only weak flight or wind transport. Living only a few hours, they do not feed. The last two developmental stages of males also do not feed. Female adults and feeding nymphs insert mouthparts into plant tissue and suck plant juices.
+MANAGEMENT
+Cultural control
+Since armored scales are spread chiefly through movement of nursery stock, only propagative material that is free of scales should be planted. Adequate plant spacing is important because armored scales seldom spread from plant to plant unless the crowns of the plants are in contact (Beardsley & Gonzalez, 1975). As plants grow, pruning maintains spacing and allows maximum coverage when using insecticides.
+Biological control--Predators
+Ladybird beetles (ladybugs) have been introduced and become established in Hawaii to control armored scales. Some of these, such as Telsimia nitida (Chapin), (Coleoptera: Coccinellidae) have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control--Parasites
+Tiny
+Text Len: 1848
+--------------------------------------------------------------------------------
+ such as Telsimia nitida (Chapin), (Coleoptera: Coccinellidae) have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control--Parasites
+Tiny wasps lay eggs in developing scales. They are parasites that absorb food from the scale body. Instead of an adult scale under the cover, an adult wasp emerges. These can be very effective in controlling armored scales (Dekle, 1965). In Hawaii The wasp Coccidencyrtus ochraceipes Gahan (Hymenoptera: Encyrtidae) parasitizes boisduval scale (Zimmerman 1948).
+Mechanical Control
+Scraping and scrubbing to remove scales from plants are effective mechanical control tactics. Removing scales is especially important on exported plant materials, since intact armor is a sign of scale infestation.
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important because the armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler stage; systemics target adult females and nymphs, as well as male nymphs. Since scales have natural enemies, care must be taken to conserve these. Populations of other pests, such as white flies and other scales, may rise if their natural enemies are affected by chemical control. Spraying should be determined by presence of scales in the field rather than by the date of last treatment. Scales are best detected by regularly inspecting all areas of the fields for scales. When detected, directing spray at hotspots rather than uninfested areas helps conserve natural enemies and also delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the cleaning water to kill crawlers while scrubbing
+Text Len: 1848
+--------------------------------------------------------------------------------
+ by presence of scales in the field rather than by the date of last treatment. Scales are best detected by regularly inspecting all areas of the fields for scales. When detected, directing spray at hotspots rather than uninfested areas helps conserve natural enemies and also delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the cleaning water to kill crawlers while scrubbing off adults. Dipping without scrubbing in a soap-pyrethroid solution for five minutes is only 70% effective against adults and nymphs (Hansen et al. 1992). Even though scales are killed, it takes several days for the body to dry, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of Florida Vol. 3, Florida Armored Scale Insects. Division of Plant Industry, Florida Department of Agriculture, Gainesville. 265 pp.
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992. Insecticidal dips for disinfesting commercial tropical cut flowers and foliage. Tropical Pest Management 38: 245-249.
+Hawaiian Terrestrial Arthropod Checklist. 1992. Gordon M. Nishida, Ed. Bishop Museum, 1992; 262 pp.
+Zimmerman, E. C. 1948. Insects of Hawaii Vol. 5 Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pp.
+  MAR/1992.
+  D-BOISDU
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1515
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Diaspis boisduvalii (Signoret)
+Boisduval Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+Orchids, including cattleya, dendrobium, epidendrum, oncidium and vanda, are the chief host of boisduval scale. Other hosts include anthurium, banana, bird of paradise, cactus, coconut palm and other palms, cycads, dracaena, and hala. (Zimmerman 1948, Dekle 1965).
+DISTRIBUTION
+Boisduval scale is thought to be an American species; it has been found on orchids in Luxembourg and is now widespread. An immigrant to the Hawaiian Islands, it was first recorded here in 1895 (Zimmerman 1948). It is present on Hawaii, Kauai, Maui, and Oahu (Hawaiian Terrestrial Arthropod Checklist 1992).
+DAMAGE
+The first sign of boisduval scale is the presence of armor on upper and lower leaf surfaces, fruits, and stems of plants. The female armor is round or oval, thin and semitransparent. The color is white or pale yellow and the size is 1.2 to 2.25 mm (less than 1/8 in) in diameter. The cast skins of the nymph form a light yellow spot near the center called the exuvium. The exuvium of a male is at one end of the armor. The armor of males is white, about 1 mm. (less than 1/16 in) long, narrow, with three ridges running lengthwise (Zimmerman 1948, Dekle 1965). Armored scales feed on plant juices and cause loss
+Text Len: 1458
+--------------------------------------------------------------------------------
+ nymph form a light yellow spot near the center called the exuvium. The exuvium of a male is at one end of the armor. The armor of males is white, about 1 mm. (less than 1/16 in) long, narrow, with three ridges running lengthwise (Zimmerman 1948, Dekle 1965). Armored scales feed on plant juices and cause loss of vigor, deformation of infested plant parts, yellowish spots on leaves, loss of leaves, and even death of the plant (Dekle 1965, Beardsley & Gonzalez 1975). Since scales are spread by introduction of infested material and are difficult to identify to species outside of the lab, they are a quarantine problem on exported potted plants, cut flowers, and cut foliage.
+BIOLOGY
+The number of days for each developmental stage and the number of generations per year depend on temperature, humidity, and rainfall (Beardsley & Gonzalez 1975). Based on a generalized life history of other tropical species, 30 days is the approximate time to complete the life cycle from egg to reproducing adult.
+EGSS
+Eggs are laid under the armor of the female where they develop and hatch.
+NYMPHS
+The first stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. The crawler stage is short, and crawlers do not feed. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover, they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor (Beardsley and Gonzalez 1975).
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Female nymphs shed their skin twice as they grow and
+Text Len: 1789
+--------------------------------------------------------------------------------
+ a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor (Beardsley and Gonzalez 1975).
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Female nymphs shed their skin twice as they grow and develop. Males have a 5 stage development and do not feed during the last two stages (Beardsley and Gonzalez 1975). The cast skins, called exuviae, are incorporated into the armor forming a dot near the center in females and at the narrow end in males. The armor is non-living and is made of cast skins, threads, and liquid, all produced by the insect (Beardsley and Gonzalez 1975).
+ADULTS
+Female boisduval scales appear larvae-like. They remain under armor in one place throughout their lives to feed and reproduce. Males are very different in appearance and behavior from females. They are tiny, winged creatures with eyes and legs. When mature they emerge from the armor in the late afternoon. They do not feed, living only a few hours to mate. Mate-finding is probably aided by pheromones secreted by females (Beardsley & Gonzalez 1975). Because of the late emergence and short life of males, it is unlikely to find them in the field.
+The armor must be pried off to reveal a female insect attached to the plant by thread-like mouthparts. The adult female insect lacks wings, legs, or eyes. Dead ones are dark brown and are dried rather than plump.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). It is
+Text Len: 1824
+--------------------------------------------------------------------------------
+ legs, or eyes. Dead ones are dark brown and are dried rather than plump.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). It is the crawler stage that can be carried directly from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may not land on suitable host plants. Adult males are capable of only weak flight or wind transport. Living only a few hours, they do not feed. The last two developmental stages of males also do not feed. Female adults and feeding nymphs insert mouthparts into plant tissue and suck plant juices.
+MANAGEMENT
+Cultural control
+Since armored scales are spread chiefly through movement of nursery stock, only propagative material that is free of scales should be planted. Adequate plant spacing is important because armored scales seldom spread from plant to plant unless the crowns of the plants are in contact (Beardsley & Gonzalez, 1975). As plants grow, pruning maintains spacing and allows maximum coverage when using insecticides.
+Biological control--Predators
+Ladybird beetles (ladybugs) have been introduced and become established in Hawaii to control armored scales. Some of these, such as Telsimia nitida (Chapin), (Coleoptera: Coccinellidae) have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control--Parasites
+Tiny
+Text Len: 1848
+--------------------------------------------------------------------------------
+ such as Telsimia nitida (Chapin), (Coleoptera: Coccinellidae) have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control--Parasites
+Tiny wasps lay eggs in developing scales. They are parasites that absorb food from the scale body. Instead of an adult scale under the cover, an adult wasp emerges. These can be very effective in controlling armored scales (Dekle, 1965). In Hawaii The wasp Coccidencyrtus ochraceipes Gahan (Hymenoptera: Encyrtidae) parasitizes boisduval scale (Zimmerman 1948).
+Mechanical Control
+Scraping and scrubbing to remove scales from plants are effective mechanical control tactics. Removing scales is especially important on exported plant materials, since intact armor is a sign of scale infestation.
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important because the armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler stage; systemics target adult females and nymphs, as well as male nymphs. Since scales have natural enemies, care must be taken to conserve these. Populations of other pests, such as white flies and other scales, may rise if their natural enemies are affected by chemical control. Spraying should be determined by presence of scales in the field rather than by the date of last treatment. Scales are best detected by regularly inspecting all areas of the fields for scales. When detected, directing spray at hotspots rather than uninfested areas helps conserve natural enemies and also delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the cleaning water to kill crawlers while scrubbing
+Text Len: 1848
+--------------------------------------------------------------------------------
+ by presence of scales in the field rather than by the date of last treatment. Scales are best detected by regularly inspecting all areas of the fields for scales. When detected, directing spray at hotspots rather than uninfested areas helps conserve natural enemies and also delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the cleaning water to kill crawlers while scrubbing off adults. Dipping without scrubbing in a soap-pyrethroid solution for five minutes is only 70% effective against adults and nymphs (Hansen et al. 1992). Even though scales are killed, it takes several days for the body to dry, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of Florida Vol. 3, Florida Armored Scale Insects. Division of Plant Industry, Florida Department of Agriculture, Gainesville. 265 pp.
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992. Insecticidal dips for disinfesting commercial tropical cut flowers and foliage. Tropical Pest Management 38: 245-249.
+Hawaiian Terrestrial Arthropod Checklist. 1992. Gordon M. Nishida, Ed. Bishop Museum, 1992; 262 pp.
+Zimmerman, E. C. 1948. Insects of Hawaii Vol. 5 Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pp.
+  MAR/1992.
+  D-BOISDU
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1515
+--------------------------------------------------------------------------------

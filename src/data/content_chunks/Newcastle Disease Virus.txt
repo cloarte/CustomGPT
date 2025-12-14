@@ -1,0 +1,1204 @@
+ 
+ 
+Virulent Newcastle Disease Virus 
+(vNDV) 
+ 
+ 
+Case Definition 
+ 
+1.  General disease/pathogen information 
+Newcastle disease (ND) is a contagious and often fatal disease that affects over 250 bird species 
+that is caused by infection with virulent strains of Newcastle disease virus (vNDV). Clinical signs 
+vary and can include respiratory, neurological, reproductive, and intestinal signs. The severity of 
+disease produced varies with the host species and the strain of the virus, with chickens being 
+the most susceptible and waterfowl the least susceptible. In humans, the virus causes a 
+temporary mild conjunctivitis and influenza-like symptoms. The World Organization for Animal 
+Health (OIE) has defined ND (historically called Exotic Newcastle disease [END] in the United 
+States) as an OIE-notifiable disease, based on its potential for rapid spread, serious economic 
+consequences, and impact on the international trade of poultry and poultry products. 
+1.1.  Etiologic Agent: Newcastle disease virus is a negative-sense, single-stranded RNA virus 
+also known as avian paramyxovirus-1 (APMV-1). It is a member of the family 
+Paramyxoviridae, genus Avulavirus. There are many different serotypes of avian 
+paramyxovirus, with APMV-1 being the most important for poultry. APMV-1 viruses are 
+categorized into five pathotypes according to the OIE, which characterize virulence as 
+well as tropism:  asymptomatic (no apparent disease), lentogenic (low virulence 
+viruses), mesogenic (moderate virulence), and viscerotropic vs neurotropic velogenic 
+
+Text Len: 1560
+--------------------------------------------------------------------------------
+ the most important for poultry. APMV-1 viruses are 
+categorized into five pathotypes according to the OIE, which characterize virulence as 
+well as tropism:  asymptomatic (no apparent disease), lentogenic (low virulence 
+viruses), mesogenic (moderate virulence), and viscerotropic vs neurotropic velogenic 
+(virulent) based upon pathogenicity experiments performed in chickens.  While these 
+definitions remain important descriptors, APMV-1 viruses are currently reported in the 
+U.S. as either low virulent (e.g. lentogenic viruses) or virulent (comprising mesogenic 
+and velogenic viruses). The OIE defines Newcastle disease as an infection with a vNDV 
+characterized by either an intracerebral pathogenicity index (ICPI) of 0.7 or greater in 
+day-old chickens, or the presence of multiple basic amino acids at positions 113- 116 of 
+the C-terminus of the fusion (F2) protein (either arginine (R) or lysine (K)), plus 
+phenylalanine (F) at residue 117 of the F1 protein. 
+1.2.  Distribution:  ND is endemic in a number of countries in Asia, Africa, and the Americas. 
+Commercial poultry in the U.S. and Canada are free of vNDV. Outbreaks of vNDV 
+occurred in California, Nevada, and Arizona in 2002-2003 and in Texas in 2003. Virulent 
+NDV has not been detected in U.S. commercial poultry since 2003. 
+1.3.  Clinical signs: Clinical signs can vary significantly from high levels of morbidity and 
+mortality to sub-clinical infections depending on viral strain, host species, age of host, 
+
+Text Len: 1492
+--------------------------------------------------------------------------------
+, Nevada, and Arizona in 2002-2003 and in Texas in 2003. Virulent 
+NDV has not been detected in U.S. commercial poultry since 2003. 
+1.3.  Clinical signs: Clinical signs can vary significantly from high levels of morbidity and 
+mortality to sub-clinical infections depending on viral strain, host species, age of host, 
+co-infection with other organisms, physiologic and environmental stress, and immune 
+status. General clinical signs include respiratory distress, decreased egg production, 
+depression, neurological signs, and diarrhea. 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+May 24, 2018 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 2 
+ 
+1.3.1. Chickens: Chickens are one of the most susceptible species to disease caused by 
+vNDV infection. Poorly protected or unprotected flocks infected with vNDV 
+typically experience high death losses within 24-48 hours with no apparent 
+clinical signs. Birds that survive beyond 12-14 days may experience permanent 
+neurological signs and/or permanent reproductive impairment. Vaccinated birds 
+often experience marked drops in egg production with eggs that are misshapen, 
+abnormally pale, rough, or thin-shelled with watery albumin. Infections with low 
+virulent strains typically cause respiratory signs, decreased feed and water 
+consumption, and a small decline in egg production. 
+Virulent strains may be viscerotropic or neurotropic. Viscerotropic strains cause 
+hemorrhagic lesions in the intestinal tract, with conjunctival edema (at 2-3 days) 
+and depression, and may result in sudden death regardless of vaccination 
+
+Text Len: 1640
+--------------------------------------------------------------------------------
+, decreased feed and water 
+consumption, and a small decline in egg production. 
+Virulent strains may be viscerotropic or neurotropic. Viscerotropic strains cause 
+hemorrhagic lesions in the intestinal tract, with conjunctival edema (at 2-3 days) 
+and depression, and may result in sudden death regardless of vaccination 
+status. Infection with neurotropic strains causes neurologic signs such as 
+muscular tremors, leg and wing paralysis, torticollis, and opisthotonos, with 
+death after 5-7 days. It is important to note that viscerotropic strains may also 
+cause neurologic signs such as muscle tremors and torticollis; however, 
+neurotropic strains rarely cause gastrointestinal hemorrhagic lesions in absence 
+of other pathogens.  
+1.3.2. Turkeys: In general, turkeys tend to be less susceptible to APMV-1 infections. 
+When infected, they may experience high morbidity, but clinical disease is less 
+severe and mortality is lower. 
+1.3.3. Other birds: Upland game birds occasionally have severe clinical signs when 
+affected with vNDV.  Psittacine species exhibit variable susceptibility to vNDV 
+and have the potential to chronically shed virus.  
+1.3.4. Species-adapted strains: APMV-1 viruses from pigeons are variants referred to 
+as pigeon paramyxovirus-1 (PPMV-1). While these viruses typically have virulent 
+fusion cleavage sites, chickens infected with PPMV-1 demonstrate variable 
+clinical disease; however, if found in poultry, these viruses are reportable under 
+the current OIE definition. A species-adapted virus is also found in double 
+c
+Text Len: 1558
+--------------------------------------------------------------------------------
+as pigeon paramyxovirus-1 (PPMV-1). While these viruses typically have virulent 
+fusion cleavage sites, chickens infected with PPMV-1 demonstrate variable 
+clinical disease; however, if found in poultry, these viruses are reportable under 
+the current OIE definition. A species-adapted virus is also found in double 
+crested cormorants. These lineages are distinguishable by genomic sequence. 
+1.4. Incubation period: The incubation period in poultry ranges from 2-15 days with an 
+average of 2-6 days in chickens infected with virulent strains. Time until disease onset 
+depends upon host species, viral strain and dose, age and immune status of the host, 
+presence of other infections, and environmental conditions.  
+1.5.  Differential diagnosis: The differential diagnosis for Newcastle disease includes other 
+causes of septicemia, enteritis, respiratory disease, and/or neurological disease. 
+1.5.1. Viral diseases: highly pathogenic avian influenza, laryngotracheitis, fowl pox 
+(diphtheritic form), Pacheco’s disease, avian metapneumovirus, infectious 
+bronchitis.  
+1.5.2. Bacterial diseases: fowl cholera, psittacosis (chlamydiosis), mycoplasmosis, 
+salmonellosis (especially in pet birds), botulism (especially in cormorants)  
+1.5.3. Other: aspergillosis, management errors such as deprivation of water, feed, air 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 3 
+ 
+1.6.  Transmission
+Text Len: 1427
+--------------------------------------------------------------------------------
+osis (especially in pet birds), botulism (especially in cormorants)  
+1.5.3. Other: aspergillosis, management errors such as deprivation of water, feed, air 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 3 
+ 
+1.6.  Transmission and reservoir:  Transmission can occur directly and indirectly from 
+infected birds to susceptible birds. Infection can occur through direct contact with fecal 
+excretions and respiratory secretions of infected birds. Contaminated feed, water, 
+premises, and other fomites allow for indirect transmission. Vaccinated poultry may 
+serve as a source of transmission if acutely infected and introduced to a susceptible 
+flock. Virus can be shed throughout the incubation period and into convalescence. 
+Illegally imported psittacine species, some of which may not show clinical signs, have 
+served as sources of vNDV infection to domestic poultry.  Survival of NDV in the 
+environment is prolonged from days to months in the presence of organic matter, and 
+up to years in feather follicles or temperatures <0C. However, the virus is destroyed 
+rapidly by dehydration and by the ultraviolet rays in sunlight. 
+1.7.  Epidemiology: Morbidity of unvaccinated chickens infected with vNDV strains can 
+reach 100 percent, and mortality ranges from 70-100 percent. Many other avian 
+diseases present with clinical signs similar to vNDV; therefore, laboratory testing is 
+necessary to distinguish between diseases. The virulence of the affecting strain is also 
+important and OIE-designated assays should be performed to determine virulence of 
+vNDV; virulent strains can be maintained in pigeons
+Text Len: 1645
+--------------------------------------------------------------------------------
+ 70-100 percent. Many other avian 
+diseases present with clinical signs similar to vNDV; therefore, laboratory testing is 
+necessary to distinguish between diseases. The virulence of the affecting strain is also 
+important and OIE-designated assays should be performed to determine virulence of 
+vNDV; virulent strains can be maintained in pigeons and cormorants. Viruses of low 
+virulence may be detected as US poultry are typically vaccinated with live NDV vaccines 
+and other low virulence viruses may circulate in wild birds, especially wild waterfowl. 
+ 
+2. Laboratory criteria: OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals 
+2018, Chapter 2.3.14. Newcastle Disease.  
+2.1.  Agent isolation and identification: Samples of choice are tracheal, oropharyngeal, or 
+cloacal swabs (or feces) from live birds. From dead birds, tissues (lung, spleen, trachea, 
+intestine, and brain) as well as pools of organs and feces, are appropriate specimens. 
+Tests include the isolation or culture of the virus in embryonated chicken eggs 
+(appropriate cell culture may be used per the OIE Manual of Diagnostic Tests), and real-
+time reverse transcriptase polymerase chain reaction (rRT-PCR) for detection of the 
+virus or the viral genome. Viral isolates can be identified by the hemagglutination (HA), 
+hemagglutination inhibition (HI), and real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR) tests. APMV-1 viruses, especially those with moderate to high titers, 
+may cross-react in the HI tests with other APMV viruses,
+Text Len: 1549
+--------------------------------------------------------------------------------
+ can be identified by the hemagglutination (HA), 
+hemagglutination inhibition (HI), and real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR) tests. APMV-1 viruses, especially those with moderate to high titers, 
+may cross-react in the HI tests with other APMV viruses, most specifically APMV-2, -3, 
+and -7. 
+2.2.  Pathogenicity Assessment:  The intracerebral pathogenicity index (ICPI) in 24-40-hour-
+old chicks from specific pathogen free (SPF) eggs is the definitive assessment for 
+virulence per OIE.  The OIE allows for confirmation of virus virulence by amino acid 
+sequence analysis of the fusion protein cleavage site, but molecular methods are not 
+sufficient evidence for lack of virulence. 
+2.3.  Serological tests: Use clotted blood or serum for enzyme-linked immunosorbent assay     
+(ELISA) or HI. Antibodies are detectable 6 to 10 days after infection.   
+ 
+ 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 4 
+ 
+3. Case definition:  
+3.1.  Suspect case: Domesticated bird or flock having:  
+3.1.1. Clinical signs compatible with ND; OR 
+3.1.2. Detection of APMV-1 by rRT-PCR; OR  
+3.1.3. Epidemiological information indicating exposure to vNDV. 
+3.2.  Presumptive positive case: A suspect case (as in 3.1) with detection of vNDV by the 
+
+Text Len: 1300
+--------------------------------------------------------------------------------
+ compatible with ND; OR 
+3.1.2. Detection of APMV-1 by rRT-PCR; OR  
+3.1.3. Epidemiological information indicating exposure to vNDV. 
+3.2.  Presumptive positive case: A suspect case (as in 3.1) with detection of vNDV by the 
+fusion-target rRT-PCR test at a laboratory designated by the Secretary of Agriculture; 
+NOTE – a negative virulent test in the face of clinical signs requires further virus 
+characterization by sequence and/or in vivo testing.   
+3.3. Confirmed positive case: Domesticated bird or flock from which: 
+3.3.1. vNDV has been identified at the National Veterinary Services Laboratories 
+(NVSL) by:  
+3.3.1.1. Presumptive positive (as in 3.2) with confirmation of multiple basic amino 
+acids (either directly via protein or by deduction through sequencing) in 
+the fusion gene at the C-terminus of the F2 protein and phenylalanine at 
+residue 117, which is the N-terminus of the F-1 protein. The term ‘multiple 
+basic amino acids’ refers to at least three arginine or lysine residues 
+between residues 113 and 116; AND/OR 
+Failure to demonstrate the characteristic pattern of amino acid residues as 
+described above would require virus isolation and further characterization 
+by an in vivo test. 
+3.3.1.2. The vNDV has an ICPI in day-old chicks (Gallus gallus) of 0.7 or greater.  
+4. Reporting criteria: Virulent ND is a U.S. foreign animal disease (FAD) and OIE
+Text Len: 1382
+--------------------------------------------------------------------------------
+ above would require virus isolation and further characterization 
+by an in vivo test. 
+3.3.1.2. The vNDV has an ICPI in day-old chicks (Gallus gallus) of 0.7 or greater.  
+4. Reporting criteria: Virulent ND is a U.S. foreign animal disease (FAD) and OIE-notifiable 
+disease. OIE reporting is limited to infections in poultry as defined by the OIE.1 Follow 
+standard FAD procedures according to Veterinary Services Guidance Document 12001 
+(formerly VS Memorandum No. 580.4). Suspect cases reported to State Animal Health 
+Official or Assistant District Director (ADD). 
+ 
+ 
+ 
+ 
+ 
+                                                 
+1 OIE definition of poultry: all domesticated birds, including backyard poultry, used for the production of meat or eggs 
+for consumption, for the production of other commercial products, for restocking supplies of game, or for breeding 
+these categories of birds, as well as fighting cocks used for any purpose. 
+ 
+Birds that are kept in captivity for any reason other than those reasons referred to in the preceding paragraph, 
+including those that are kept for shows, races, exhibitions, competitions or for breeding or selling these categories of 
+birds as well as pet birds, are not considered to be poultry. 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 5 
+ 
+ 
+References: 
+1. Foreign Animal Diseases.  The United States Animal Health Association.  Seventh Edition. 
+
+Text Len: 1438
+--------------------------------------------------------------------------------
+ or for breeding or selling these categories of 
+birds as well as pet birds, are not considered to be poultry. 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 5 
+ 
+ 
+References: 
+1. Foreign Animal Diseases.  The United States Animal Health Association.  Seventh Edition. 
+2008. 
+2. Iowa State University: Center for Food Security and Public Health. Newcastle Disease.  
+Available online at www.cfsph.iastate.edu/Factsheets/pdfs/newcastle_disease.pdf 
+3. Merck Online Veterinary Manual. Newcastle Disease in Poultry.  Available online at 
+http://www.merckmanuals.com/vet/poultry/newcastle_disease_and_other_paramyxov
+irus_infections/newcastle_disease_in_poultry.html?qt=newcastle disease&alt=sh 
+4. OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals 2018. Chapter 
+2.3.14. Newcastle Disease. Available online at 
+http://www.oie.int/fileadmin/Home/eng/Health_standards/tahm/2.03.14_NEWCASTLE
+_DIS.pdf 
+5. OIE Terrestrial Animal Health Code 2018. Chapter 10.9.  Newcastle Disease.  Available 
+online at http://www.oie.int/index.php?id=169&L=0&htmfile=chapitre_nd.htm 
+Text Len: 1113
+--------------------------------------------------------------------------------
+Page 1 of 5  
+Virulent Newcastle 
+Disease Virus Response  
+Surveillance Sampling Backyard 
+Premises in Control Area 
+Please note: These procedures may be revised as the situation develops.       June 5, 2018 
+ 
+  DEFINITIONS 
+Infected Premises: Premises where a presumptive positive case or confirmed positive case exists 
+based on laboratory results, compatible clinical signs, virulent Newcastle disease (ND) case 
+definition, and international standards. 
+Contact Premises: Premises with susceptible poultry1 that may have been exposed to virulent 
+Newcastle disease virus (vNDV), either directly or indirectly, including but not limited to exposure 
+to animals, animal products, fomites, or people from Infected Premises. 
+Infected Zone: Zone that immediately surrounds an Infected Premises. 
+Buffer Zone: Zone that immediately surrounds an Infected Zone or Contact Premises. 
+Control Area: Consists of an Infected Zone and a Buffer Zone. 
+Foreign Animal Disease Investigation: An investigation conducted according to VS Guidance 
+Document 12001 (Ready Reference Guide for investigations is here) 
+ 
+INTRODUCTION 
+An Infected Zone and Buffer Zone (Control Area) will be created around an Infected Premises. This 
+document provides surveillance guidance for non-commercial backyard poultry1 premises within a 
+Control Area. Surveillance activities and associated testing should be based on recommendations 
+of the Unified (State-Federal) Incident Command; this guidance may require further modification 
+based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018.
+Text Len: 1761
+--------------------------------------------------------------------------------
+ on recommendations 
+of the Unified (State-Federal) Incident Command; this guidance may require further modification 
+based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous ND outbreaks in poultry the United States occurred in the States of California (2002–
+2003), Nevada (2003), Arizona (2003) and Texas (2003). Virulent NDV is endemic in wild 
+cormorants and non-virulent forms of ND are endemic in poultry.  There are non-virulent strains of 
+NDV endemic in poultry. This document reflects the epidemiological information known about the 
+behavior of vNDV from knowledge gained in the 2003–2004 U.S. outbreak.   
+ 
+                                                            
+1 For this document, ‘poultry’ is defined as any domesticated bird raised for food, eggs, or fiber and used in exhibitions or 
+shows. This includes chickens, turkeys, ducks, geese, swans, pheasants, partridges, grouse, quail, guinea fowl, pea fowl, 
+pigeons, doves, ostriches, emus, rheas, and cassowaries. 
+ 
+
+Page 2 of 5  
+PRIORITIES FOR SURVEILLANCE ACTIVITIES IN THE CONTROL AREA 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all
+Text Len: 1339
+--------------------------------------------------------------------------------
+, guinea fowl, pea fowl, 
+pigeons, doves, ostriches, emus, rheas, and cassowaries. 
+ 
+
+Page 2 of 5  
+PRIORITIES FOR SURVEILLANCE ACTIVITIES IN THE CONTROL AREA 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all times in the United States through foreign animal disease 
+investigations per VS Guidance Document 12001. In the event of a foreign animal disease 
+detection, passive surveillance should be intensified through rapid and clear communication to all 
+producers in the Control Area. 
+ 
+Reports of clinical signs or unusual mortality and morbidity from backyard producers (sick bird calls) 
+are investigated as rapidly as possible. However, sick bird calls may overwhelm available resources, 
+particularly when investigation and/or management of Infected and Contact Premises are not 
+complete. In this case, the IMT may recommend triaging disease investigations on backyard 
+premises using criteria such as morbidity and mortality, clinical signs for ND and risk factors for 
+exposure to vNDV. These parameters should be based on the best information available, and should 
+be developed in coordination with IMT, State/Tribal officials, and subject matter experts. Premises in 
+the Infected Zone should be prioritized over those in the Buffer Zone.  
+ 
+For sick bird calls on backyard premises, a Foreign Animal Disease Diagnostician (or individual 
+designated by the IMT) should: 
+1. Immediately investigate each sick bird call, if resources allow. 
+2. If necessary, prioritize the premises in the Infected Zone and prioritize the premises meeting 
+the criteria for further investigation.  
+3. Schedule an appointment to collect samples as quickly as possible. 
+4. Conduct diagnostic testing
+Text Len: 1714
+--------------------------------------------------------------------------------
+ (or individual 
+designated by the IMT) should: 
+1. Immediately investigate each sick bird call, if resources allow. 
+2. If necessary, prioritize the premises in the Infected Zone and prioritize the premises meeting 
+the criteria for further investigation.  
+3. Schedule an appointment to collect samples as quickly as possible. 
+4. Conduct diagnostic testing according to sampling recommendations, submit samples to 
+designated National Animal Health Laboratory Network (NAHLN) lab as indicated by the IMT 
+(provided in “Sampling Scheme for Poultry” below). 
+ 
+Active Surveillance 
+ 
+1. Create an inventory of the bird2 populations in the Control Area. 
+a. Identify all the premises with birds in the Control Area. This can be done by phone or 
+house visits.   
+b. Identify any auctions, markets, or exhibitions of birds in the Control Area and consider 
+sampling at these events following the sampling scheme below. 
+2. Interview the owner of the premises about any birds residing on the premises.  
+a. If birds are present, determine if the premises is high-risk for exposure to vNDV (see 
+Table 1).  
+b. Record contact with owner and risk-status of birds on the premises.  
+3. Conduct a surveillance visit to the high-risk premises identified in item 2 above.  
+a. Visually inspect the birds and sample following the “Recommended Bird Sampling 
+Scheme” below. 
+b. Prioritize visits to premises with sick or dead birds.  All premises with sick or dead 
+birds should be visited.   
+c. Aim to also visit all remaining high-risk premises.  However, if resources are limited, 
+           
+Text Len: 1587
+--------------------------------------------------------------------------------
+Recommended Bird Sampling 
+Scheme” below. 
+b. Prioritize visits to premises with sick or dead birds.  All premises with sick or dead 
+birds should be visited.   
+c. Aim to also visit all remaining high-risk premises.  However, if resources are limited, 
+                                                            
+2 ‘Birds’ includes ‘poultry’ as described above, as well as the birds in the Orders Psittaciformes (parrots, parakeets, macaws, conures, 
+cockatoos) and Columbiformes (pigeons, doves).   
+Page 3 of 5  
+select a minimum number of remaining premises to visit according to Table 2. 
+Sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of vNDV among additional 
+premises in the Control Area is 0.5 percent or greater.  
+ 
+ 
+a Follow sample size guidelines described in next section 
+ 
+Identify and contact all  
+premises with birds in the 
+Control Area in person or 
+by phone
+Interview owner to assess  
+premises risk status and 
+plan  surveillance 
+activities
+Birds with clinical signs
+High risk
+Visit premises and collect 
+samples in every case a
+No clinical signs, but risk 
+factors present as per 
+Table 1
+High risk
+Visit premises and collect 
+samples a
+If resources limited, use 
+representative
+Text Len: 1304
+--------------------------------------------------------------------------------
+  
+premises risk status and 
+plan  surveillance 
+activities
+Birds with clinical signs
+High risk
+Visit premises and collect 
+samples in every case a
+No clinical signs, but risk 
+factors present as per 
+Table 1
+High risk
+Visit premises and collect 
+samples a
+If resources limited, use 
+representative sample of 
+premises as per Table 2
+No clinical signs, no risk 
+factors as per Table 1 
+Lower risk
+Record findings, including 
+absence of clinical signs
+Guidance for risk based surveillance to detect infected 
+premises in the Control Area 
+Page 4 of 5  
+RECOMMENDED BIRD SAMPLING SIZE AND SCHEME 
+ 
+Select birds to sample and follow the Recommendations for Collecting Specimens from Poultry for 
+Viral Diagnostic Testing (WI-AV-0020 available here) for detection of vNDV. Oropharyngeal or 
+tracheal swabs are preferred for gallinaceous birds and cloacal swabs for non-gallinaceous birds3. 
+Do not combine swabs from different species or different sample types.   
+ 
+1. Select birds to sample. If there are multiple houses or flocks on the premises, sample each 
+separately according to the guidelines below. Prioritize sampling of sick and dead birds 
+regardless of vaccination status.  
+a. For unvaccinated populations, sample two 5- or 11- swab pools. Sampling two 5- 
+or 11- swab bird pools is sufficient to detect vNDV with 95 percent confidence if 
+prevalence across birds is 40 percent (using an estimated test sensitivity of 91 
+percent).  
+• If there are fewer than 5 birds, sample all the birds
+Text Len: 1501
+--------------------------------------------------------------------------------
+ unvaccinated populations, sample two 5- or 11- swab pools. Sampling two 5- 
+or 11- swab bird pools is sufficient to detect vNDV with 95 percent confidence if 
+prevalence across birds is 40 percent (using an estimated test sensitivity of 91 
+percent).  
+• If there are fewer than 5 birds, sample all the birds.   
+b. For vaccinated populations, sample 30 birds using 5- or 11- swab pools. A 30-bird 
+sample can detect vNDV with approximately 95 percent confidence if within-flock 
+prevalence among birds considered high-risk of exposure is 10 percent (using an 
+estimated test sensitivity 91 percent).  
+• If there are fewer than 30 birds, sample all the birds.  
+ 
+2. Prepare, package, and process swabs for laboratory submission according to the guidance 
+found in the FAD Investigation Manual. 
+3. Repeat visits and sampling on premises are not necessary, unless clinical signs continue or 
+escalate.   
+4. Encourage owner to call if clinical signs, morbidity, and/or mortality are observed.  
+  
+Table 1.  Risk factors leading to birds to be classified as high-risk, a higher probability exposure to 
+virulent Newcastle disease. 
+Sick and dead birds and/or history of sick and dead birds. 
+Close geographic proximity to other premises containing outdoor birds. 
+Other demographic characteristics in common with known virulent ND infected premises. 
+Newly arrived birds and young birds and/or a high likelihood/reported history of birds moving 
+onto or off of the premises. 
+Birds from multiple owners on a single premises. 
+Similar farm or bird level risk factors as other cases (identified by IMT). 
+Birds used for exhibition or comm
+Text Len: 1638
+--------------------------------------------------------------------------------
+ characteristics in common with known virulent ND infected premises. 
+Newly arrived birds and young birds and/or a high likelihood/reported history of birds moving 
+onto or off of the premises. 
+Birds from multiple owners on a single premises. 
+Similar farm or bird level risk factors as other cases (identified by IMT). 
+Birds used for exhibition or commingled for any purpose.  
+Any number of birds with access to the outdoors.   
+Premises with gamefowl 
+ 
+ 
+                                                            
+3 Gallinaceous birds are chickens, turkeys, pheasants, partridges, grouse, quail, guinea fowl, and pea fowl, as well as all other birds are non- 
+gallinaceous birds. 
+Page 5 of 5  
+ 
+Table 2. Number of premises to be sampled in the Control Area if the total number of premises in the 
+Control Area cannot be visited.* 
+No. of Premises  
+ 
+Minimum No. of Premises 
+to be Sampled for 0.5% prevalence 
+Minimum No. of Premises 
+to be Sampled for 1% prevalence 
+less than 100 Sample all Sample all 
+200 Sample all 163 
+400 327 221 
+600 398 247 
+1,000 474 271 
+1,500 519 285 
+2,000 544 292 
+3,000 570 299 
+5,000 593 305 
+10,000 611 309 
+infinite 629 314 
+1 Sample sizes
+Text Len: 1185
+--------------------------------------------------------------------------------
+ 100 Sample all Sample all 
+200 Sample all 163 
+400 327 221 
+600 398 247 
+1,000 474 271 
+1,500 519 285 
+2,000 544 292 
+3,000 570 299 
+5,000 593 305 
+10,000 611 309 
+infinite 629 314 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 0.5% or 1% in the 
+population of premises at the time of sample collection.  
+ 
+ 
+DOCUMENTATION 
+As with all surveillance activities, documentation is critically important. EMRS2 is the system of 
+record for all virulent ND outbreaks in the United States. Relevant data regarding backyard 
+surveillance activities must be entered into EMRS2 in as close to real time as possible. This data 
+may be reported internally and externally through situation or close-out reports or other means. 
+ 
+At a minimum, the following items are important to maintain and report. Refer to IMT guidance for 
+how to appropriately record these and other data: 
+ 
+ Number of backyard premises in Control Area. 
+ Number contacted, and means of contact, for passive surveillance. 
+ Number of visited and sampled premises for passive surveillance. 
+ Number of premises contacted by phone for active surveillance. 
+ Number of premises visited and sampled for active surveillance. 
+ Total birds sampled per premises. 
+ Laboratory results for all submissions. 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August
+Text Len: 1554
+--------------------------------------------------------------------------------
+ Number of visited and sampled premises for passive surveillance. 
+ Number of premises contacted by phone for active surveillance. 
+ Number of premises visited and sampled for active surveillance. 
+ Total birds sampled per premises. 
+ Laboratory results for all submissions. 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August 2014. Newcastle Disease Response Plan: The Red Book.  
+Recommendations for Collecting Specimens from Poultry for Viral Diagnostic Testing (NVSL WI-AV- 
+0020)  
+USDA APHIS VS. 2018.  FAD Prep Materials and References. www.aphis.usda.gov/fadprep. 
+Text Len: 577
+--------------------------------------------------------------------------------
+ 
+ 
+Virulent Newcastle Disease Virus 
+(vNDV) 
+ 
+ 
+Case Definition 
+ 
+1.  General disease/pathogen information 
+Newcastle disease (ND) is a contagious and often fatal disease that affects over 250 bird species 
+that is caused by infection with virulent strains of Newcastle disease virus (vNDV). Clinical signs 
+vary and can include respiratory, neurological, reproductive, and intestinal signs. The severity of 
+disease produced varies with the host species and the strain of the virus, with chickens being 
+the most susceptible and waterfowl the least susceptible. In humans, the virus causes a 
+temporary mild conjunctivitis and influenza-like symptoms. The World Organization for Animal 
+Health (OIE) has defined ND (historically called Exotic Newcastle disease [END] in the United 
+States) as an OIE-notifiable disease, based on its potential for rapid spread, serious economic 
+consequences, and impact on the international trade of poultry and poultry products. 
+1.1.  Etiologic Agent: Newcastle disease virus is a negative-sense, single-stranded RNA virus 
+also known as avian paramyxovirus-1 (APMV-1). It is a member of the family 
+Paramyxoviridae, genus Avulavirus. There are many different serotypes of avian 
+paramyxovirus, with APMV-1 being the most important for poultry. APMV-1 viruses are 
+categorized into five pathotypes according to the OIE, which characterize virulence as 
+well as tropism:  asymptomatic (no apparent disease), lentogenic (low virulence 
+viruses), mesogenic (moderate virulence), and viscerotropic vs neurotropic velogenic 
+
+Text Len: 1560
+--------------------------------------------------------------------------------
+ the most important for poultry. APMV-1 viruses are 
+categorized into five pathotypes according to the OIE, which characterize virulence as 
+well as tropism:  asymptomatic (no apparent disease), lentogenic (low virulence 
+viruses), mesogenic (moderate virulence), and viscerotropic vs neurotropic velogenic 
+(virulent) based upon pathogenicity experiments performed in chickens.  While these 
+definitions remain important descriptors, APMV-1 viruses are currently reported in the 
+U.S. as either low virulent (e.g. lentogenic viruses) or virulent (comprising mesogenic 
+and velogenic viruses). The OIE defines Newcastle disease as an infection with a vNDV 
+characterized by either an intracerebral pathogenicity index (ICPI) of 0.7 or greater in 
+day-old chickens, or the presence of multiple basic amino acids at positions 113- 116 of 
+the C-terminus of the fusion (F2) protein (either arginine (R) or lysine (K)), plus 
+phenylalanine (F) at residue 117 of the F1 protein. 
+1.2.  Distribution:  ND is endemic in a number of countries in Asia, Africa, and the Americas. 
+Commercial poultry in the U.S. and Canada are free of vNDV. Outbreaks of vNDV 
+occurred in California, Nevada, and Arizona in 2002-2003 and in Texas in 2003. Virulent 
+NDV has not been detected in U.S. commercial poultry since 2003. 
+1.3.  Clinical signs: Clinical signs can vary significantly from high levels of morbidity and 
+mortality to sub-clinical infections depending on viral strain, host species, age of host, 
+
+Text Len: 1492
+--------------------------------------------------------------------------------
+, Nevada, and Arizona in 2002-2003 and in Texas in 2003. Virulent 
+NDV has not been detected in U.S. commercial poultry since 2003. 
+1.3.  Clinical signs: Clinical signs can vary significantly from high levels of morbidity and 
+mortality to sub-clinical infections depending on viral strain, host species, age of host, 
+co-infection with other organisms, physiologic and environmental stress, and immune 
+status. General clinical signs include respiratory distress, decreased egg production, 
+depression, neurological signs, and diarrhea. 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+May 24, 2018 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 2 
+ 
+1.3.1. Chickens: Chickens are one of the most susceptible species to disease caused by 
+vNDV infection. Poorly protected or unprotected flocks infected with vNDV 
+typically experience high death losses within 24-48 hours with no apparent 
+clinical signs. Birds that survive beyond 12-14 days may experience permanent 
+neurological signs and/or permanent reproductive impairment. Vaccinated birds 
+often experience marked drops in egg production with eggs that are misshapen, 
+abnormally pale, rough, or thin-shelled with watery albumin. Infections with low 
+virulent strains typically cause respiratory signs, decreased feed and water 
+consumption, and a small decline in egg production. 
+Virulent strains may be viscerotropic or neurotropic. Viscerotropic strains cause 
+hemorrhagic lesions in the intestinal tract, with conjunctival edema (at 2-3 days) 
+and depression, and may result in sudden death regardless of vaccination 
+
+Text Len: 1640
+--------------------------------------------------------------------------------
+, decreased feed and water 
+consumption, and a small decline in egg production. 
+Virulent strains may be viscerotropic or neurotropic. Viscerotropic strains cause 
+hemorrhagic lesions in the intestinal tract, with conjunctival edema (at 2-3 days) 
+and depression, and may result in sudden death regardless of vaccination 
+status. Infection with neurotropic strains causes neurologic signs such as 
+muscular tremors, leg and wing paralysis, torticollis, and opisthotonos, with 
+death after 5-7 days. It is important to note that viscerotropic strains may also 
+cause neurologic signs such as muscle tremors and torticollis; however, 
+neurotropic strains rarely cause gastrointestinal hemorrhagic lesions in absence 
+of other pathogens.  
+1.3.2. Turkeys: In general, turkeys tend to be less susceptible to APMV-1 infections. 
+When infected, they may experience high morbidity, but clinical disease is less 
+severe and mortality is lower. 
+1.3.3. Other birds: Upland game birds occasionally have severe clinical signs when 
+affected with vNDV.  Psittacine species exhibit variable susceptibility to vNDV 
+and have the potential to chronically shed virus.  
+1.3.4. Species-adapted strains: APMV-1 viruses from pigeons are variants referred to 
+as pigeon paramyxovirus-1 (PPMV-1). While these viruses typically have virulent 
+fusion cleavage sites, chickens infected with PPMV-1 demonstrate variable 
+clinical disease; however, if found in poultry, these viruses are reportable under 
+the current OIE definition. A species-adapted virus is also found in double 
+c
+Text Len: 1558
+--------------------------------------------------------------------------------
+as pigeon paramyxovirus-1 (PPMV-1). While these viruses typically have virulent 
+fusion cleavage sites, chickens infected with PPMV-1 demonstrate variable 
+clinical disease; however, if found in poultry, these viruses are reportable under 
+the current OIE definition. A species-adapted virus is also found in double 
+crested cormorants. These lineages are distinguishable by genomic sequence. 
+1.4. Incubation period: The incubation period in poultry ranges from 2-15 days with an 
+average of 2-6 days in chickens infected with virulent strains. Time until disease onset 
+depends upon host species, viral strain and dose, age and immune status of the host, 
+presence of other infections, and environmental conditions.  
+1.5.  Differential diagnosis: The differential diagnosis for Newcastle disease includes other 
+causes of septicemia, enteritis, respiratory disease, and/or neurological disease. 
+1.5.1. Viral diseases: highly pathogenic avian influenza, laryngotracheitis, fowl pox 
+(diphtheritic form), Pacheco’s disease, avian metapneumovirus, infectious 
+bronchitis.  
+1.5.2. Bacterial diseases: fowl cholera, psittacosis (chlamydiosis), mycoplasmosis, 
+salmonellosis (especially in pet birds), botulism (especially in cormorants)  
+1.5.3. Other: aspergillosis, management errors such as deprivation of water, feed, air 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 3 
+ 
+1.6.  Transmission
+Text Len: 1427
+--------------------------------------------------------------------------------
+osis (especially in pet birds), botulism (especially in cormorants)  
+1.5.3. Other: aspergillosis, management errors such as deprivation of water, feed, air 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 3 
+ 
+1.6.  Transmission and reservoir:  Transmission can occur directly and indirectly from 
+infected birds to susceptible birds. Infection can occur through direct contact with fecal 
+excretions and respiratory secretions of infected birds. Contaminated feed, water, 
+premises, and other fomites allow for indirect transmission. Vaccinated poultry may 
+serve as a source of transmission if acutely infected and introduced to a susceptible 
+flock. Virus can be shed throughout the incubation period and into convalescence. 
+Illegally imported psittacine species, some of which may not show clinical signs, have 
+served as sources of vNDV infection to domestic poultry.  Survival of NDV in the 
+environment is prolonged from days to months in the presence of organic matter, and 
+up to years in feather follicles or temperatures <0C. However, the virus is destroyed 
+rapidly by dehydration and by the ultraviolet rays in sunlight. 
+1.7.  Epidemiology: Morbidity of unvaccinated chickens infected with vNDV strains can 
+reach 100 percent, and mortality ranges from 70-100 percent. Many other avian 
+diseases present with clinical signs similar to vNDV; therefore, laboratory testing is 
+necessary to distinguish between diseases. The virulence of the affecting strain is also 
+important and OIE-designated assays should be performed to determine virulence of 
+vNDV; virulent strains can be maintained in pigeons
+Text Len: 1645
+--------------------------------------------------------------------------------
+ 70-100 percent. Many other avian 
+diseases present with clinical signs similar to vNDV; therefore, laboratory testing is 
+necessary to distinguish between diseases. The virulence of the affecting strain is also 
+important and OIE-designated assays should be performed to determine virulence of 
+vNDV; virulent strains can be maintained in pigeons and cormorants. Viruses of low 
+virulence may be detected as US poultry are typically vaccinated with live NDV vaccines 
+and other low virulence viruses may circulate in wild birds, especially wild waterfowl. 
+ 
+2. Laboratory criteria: OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals 
+2018, Chapter 2.3.14. Newcastle Disease.  
+2.1.  Agent isolation and identification: Samples of choice are tracheal, oropharyngeal, or 
+cloacal swabs (or feces) from live birds. From dead birds, tissues (lung, spleen, trachea, 
+intestine, and brain) as well as pools of organs and feces, are appropriate specimens. 
+Tests include the isolation or culture of the virus in embryonated chicken eggs 
+(appropriate cell culture may be used per the OIE Manual of Diagnostic Tests), and real-
+time reverse transcriptase polymerase chain reaction (rRT-PCR) for detection of the 
+virus or the viral genome. Viral isolates can be identified by the hemagglutination (HA), 
+hemagglutination inhibition (HI), and real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR) tests. APMV-1 viruses, especially those with moderate to high titers, 
+may cross-react in the HI tests with other APMV viruses,
+Text Len: 1549
+--------------------------------------------------------------------------------
+ can be identified by the hemagglutination (HA), 
+hemagglutination inhibition (HI), and real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR) tests. APMV-1 viruses, especially those with moderate to high titers, 
+may cross-react in the HI tests with other APMV viruses, most specifically APMV-2, -3, 
+and -7. 
+2.2.  Pathogenicity Assessment:  The intracerebral pathogenicity index (ICPI) in 24-40-hour-
+old chicks from specific pathogen free (SPF) eggs is the definitive assessment for 
+virulence per OIE.  The OIE allows for confirmation of virus virulence by amino acid 
+sequence analysis of the fusion protein cleavage site, but molecular methods are not 
+sufficient evidence for lack of virulence. 
+2.3.  Serological tests: Use clotted blood or serum for enzyme-linked immunosorbent assay     
+(ELISA) or HI. Antibodies are detectable 6 to 10 days after infection.   
+ 
+ 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 4 
+ 
+3. Case definition:  
+3.1.  Suspect case: Domesticated bird or flock having:  
+3.1.1. Clinical signs compatible with ND; OR 
+3.1.2. Detection of APMV-1 by rRT-PCR; OR  
+3.1.3. Epidemiological information indicating exposure to vNDV. 
+3.2.  Presumptive positive case: A suspect case (as in 3.1) with detection of vNDV by the 
+
+Text Len: 1300
+--------------------------------------------------------------------------------
+ compatible with ND; OR 
+3.1.2. Detection of APMV-1 by rRT-PCR; OR  
+3.1.3. Epidemiological information indicating exposure to vNDV. 
+3.2.  Presumptive positive case: A suspect case (as in 3.1) with detection of vNDV by the 
+fusion-target rRT-PCR test at a laboratory designated by the Secretary of Agriculture; 
+NOTE – a negative virulent test in the face of clinical signs requires further virus 
+characterization by sequence and/or in vivo testing.   
+3.3. Confirmed positive case: Domesticated bird or flock from which: 
+3.3.1. vNDV has been identified at the National Veterinary Services Laboratories 
+(NVSL) by:  
+3.3.1.1. Presumptive positive (as in 3.2) with confirmation of multiple basic amino 
+acids (either directly via protein or by deduction through sequencing) in 
+the fusion gene at the C-terminus of the F2 protein and phenylalanine at 
+residue 117, which is the N-terminus of the F-1 protein. The term ‘multiple 
+basic amino acids’ refers to at least three arginine or lysine residues 
+between residues 113 and 116; AND/OR 
+Failure to demonstrate the characteristic pattern of amino acid residues as 
+described above would require virus isolation and further characterization 
+by an in vivo test. 
+3.3.1.2. The vNDV has an ICPI in day-old chicks (Gallus gallus) of 0.7 or greater.  
+4. Reporting criteria: Virulent ND is a U.S. foreign animal disease (FAD) and OIE
+Text Len: 1382
+--------------------------------------------------------------------------------
+ above would require virus isolation and further characterization 
+by an in vivo test. 
+3.3.1.2. The vNDV has an ICPI in day-old chicks (Gallus gallus) of 0.7 or greater.  
+4. Reporting criteria: Virulent ND is a U.S. foreign animal disease (FAD) and OIE-notifiable 
+disease. OIE reporting is limited to infections in poultry as defined by the OIE.1 Follow 
+standard FAD procedures according to Veterinary Services Guidance Document 12001 
+(formerly VS Memorandum No. 580.4). Suspect cases reported to State Animal Health 
+Official or Assistant District Director (ADD). 
+ 
+ 
+ 
+ 
+ 
+                                                 
+1 OIE definition of poultry: all domesticated birds, including backyard poultry, used for the production of meat or eggs 
+for consumption, for the production of other commercial products, for restocking supplies of game, or for breeding 
+these categories of birds, as well as fighting cocks used for any purpose. 
+ 
+Birds that are kept in captivity for any reason other than those reasons referred to in the preceding paragraph, 
+including those that are kept for shows, races, exhibitions, competitions or for breeding or selling these categories of 
+birds as well as pet birds, are not considered to be poultry. 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 5 
+ 
+ 
+References: 
+1. Foreign Animal Diseases.  The United States Animal Health Association.  Seventh Edition. 
+
+Text Len: 1438
+--------------------------------------------------------------------------------
+ or for breeding or selling these categories of 
+birds as well as pet birds, are not considered to be poultry. 
+ 
+  Case Definition for Virulent Newcastle Disease Virus 
+   
+ USDA APHIS VS - 5 
+ 
+ 
+References: 
+1. Foreign Animal Diseases.  The United States Animal Health Association.  Seventh Edition. 
+2008. 
+2. Iowa State University: Center for Food Security and Public Health. Newcastle Disease.  
+Available online at www.cfsph.iastate.edu/Factsheets/pdfs/newcastle_disease.pdf 
+3. Merck Online Veterinary Manual. Newcastle Disease in Poultry.  Available online at 
+http://www.merckmanuals.com/vet/poultry/newcastle_disease_and_other_paramyxov
+irus_infections/newcastle_disease_in_poultry.html?qt=newcastle disease&alt=sh 
+4. OIE Manual of Diagnostic Tests and Vaccines for Terrestrial Animals 2018. Chapter 
+2.3.14. Newcastle Disease. Available online at 
+http://www.oie.int/fileadmin/Home/eng/Health_standards/tahm/2.03.14_NEWCASTLE
+_DIS.pdf 
+5. OIE Terrestrial Animal Health Code 2018. Chapter 10.9.  Newcastle Disease.  Available 
+online at http://www.oie.int/index.php?id=169&L=0&htmfile=chapitre_nd.htm 
+Text Len: 1113
+--------------------------------------------------------------------------------
+Page 1 of 5  
+Virulent Newcastle 
+Disease Virus Response  
+Surveillance Sampling Backyard 
+Premises in Control Area 
+Please note: These procedures may be revised as the situation develops.       June 5, 2018 
+ 
+  DEFINITIONS 
+Infected Premises: Premises where a presumptive positive case or confirmed positive case exists 
+based on laboratory results, compatible clinical signs, virulent Newcastle disease (ND) case 
+definition, and international standards. 
+Contact Premises: Premises with susceptible poultry1 that may have been exposed to virulent 
+Newcastle disease virus (vNDV), either directly or indirectly, including but not limited to exposure 
+to animals, animal products, fomites, or people from Infected Premises. 
+Infected Zone: Zone that immediately surrounds an Infected Premises. 
+Buffer Zone: Zone that immediately surrounds an Infected Zone or Contact Premises. 
+Control Area: Consists of an Infected Zone and a Buffer Zone. 
+Foreign Animal Disease Investigation: An investigation conducted according to VS Guidance 
+Document 12001 (Ready Reference Guide for investigations is here) 
+ 
+INTRODUCTION 
+An Infected Zone and Buffer Zone (Control Area) will be created around an Infected Premises. This 
+document provides surveillance guidance for non-commercial backyard poultry1 premises within a 
+Control Area. Surveillance activities and associated testing should be based on recommendations 
+of the Unified (State-Federal) Incident Command; this guidance may require further modification 
+based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018.
+Text Len: 1761
+--------------------------------------------------------------------------------
+ on recommendations 
+of the Unified (State-Federal) Incident Command; this guidance may require further modification 
+based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous ND outbreaks in poultry the United States occurred in the States of California (2002–
+2003), Nevada (2003), Arizona (2003) and Texas (2003). Virulent NDV is endemic in wild 
+cormorants and non-virulent forms of ND are endemic in poultry.  There are non-virulent strains of 
+NDV endemic in poultry. This document reflects the epidemiological information known about the 
+behavior of vNDV from knowledge gained in the 2003–2004 U.S. outbreak.   
+ 
+                                                            
+1 For this document, ‘poultry’ is defined as any domesticated bird raised for food, eggs, or fiber and used in exhibitions or 
+shows. This includes chickens, turkeys, ducks, geese, swans, pheasants, partridges, grouse, quail, guinea fowl, pea fowl, 
+pigeons, doves, ostriches, emus, rheas, and cassowaries. 
+ 
+
+Page 2 of 5  
+PRIORITIES FOR SURVEILLANCE ACTIVITIES IN THE CONTROL AREA 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all
+Text Len: 1339
+--------------------------------------------------------------------------------
+, guinea fowl, pea fowl, 
+pigeons, doves, ostriches, emus, rheas, and cassowaries. 
+ 
+
+Page 2 of 5  
+PRIORITIES FOR SURVEILLANCE ACTIVITIES IN THE CONTROL AREA 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all times in the United States through foreign animal disease 
+investigations per VS Guidance Document 12001. In the event of a foreign animal disease 
+detection, passive surveillance should be intensified through rapid and clear communication to all 
+producers in the Control Area. 
+ 
+Reports of clinical signs or unusual mortality and morbidity from backyard producers (sick bird calls) 
+are investigated as rapidly as possible. However, sick bird calls may overwhelm available resources, 
+particularly when investigation and/or management of Infected and Contact Premises are not 
+complete. In this case, the IMT may recommend triaging disease investigations on backyard 
+premises using criteria such as morbidity and mortality, clinical signs for ND and risk factors for 
+exposure to vNDV. These parameters should be based on the best information available, and should 
+be developed in coordination with IMT, State/Tribal officials, and subject matter experts. Premises in 
+the Infected Zone should be prioritized over those in the Buffer Zone.  
+ 
+For sick bird calls on backyard premises, a Foreign Animal Disease Diagnostician (or individual 
+designated by the IMT) should: 
+1. Immediately investigate each sick bird call, if resources allow. 
+2. If necessary, prioritize the premises in the Infected Zone and prioritize the premises meeting 
+the criteria for further investigation.  
+3. Schedule an appointment to collect samples as quickly as possible. 
+4. Conduct diagnostic testing
+Text Len: 1714
+--------------------------------------------------------------------------------
+ (or individual 
+designated by the IMT) should: 
+1. Immediately investigate each sick bird call, if resources allow. 
+2. If necessary, prioritize the premises in the Infected Zone and prioritize the premises meeting 
+the criteria for further investigation.  
+3. Schedule an appointment to collect samples as quickly as possible. 
+4. Conduct diagnostic testing according to sampling recommendations, submit samples to 
+designated National Animal Health Laboratory Network (NAHLN) lab as indicated by the IMT 
+(provided in “Sampling Scheme for Poultry” below). 
+ 
+Active Surveillance 
+ 
+1. Create an inventory of the bird2 populations in the Control Area. 
+a. Identify all the premises with birds in the Control Area. This can be done by phone or 
+house visits.   
+b. Identify any auctions, markets, or exhibitions of birds in the Control Area and consider 
+sampling at these events following the sampling scheme below. 
+2. Interview the owner of the premises about any birds residing on the premises.  
+a. If birds are present, determine if the premises is high-risk for exposure to vNDV (see 
+Table 1).  
+b. Record contact with owner and risk-status of birds on the premises.  
+3. Conduct a surveillance visit to the high-risk premises identified in item 2 above.  
+a. Visually inspect the birds and sample following the “Recommended Bird Sampling 
+Scheme” below. 
+b. Prioritize visits to premises with sick or dead birds.  All premises with sick or dead 
+birds should be visited.   
+c. Aim to also visit all remaining high-risk premises.  However, if resources are limited, 
+           
+Text Len: 1587
+--------------------------------------------------------------------------------
+Recommended Bird Sampling 
+Scheme” below. 
+b. Prioritize visits to premises with sick or dead birds.  All premises with sick or dead 
+birds should be visited.   
+c. Aim to also visit all remaining high-risk premises.  However, if resources are limited, 
+                                                            
+2 ‘Birds’ includes ‘poultry’ as described above, as well as the birds in the Orders Psittaciformes (parrots, parakeets, macaws, conures, 
+cockatoos) and Columbiformes (pigeons, doves).   
+Page 3 of 5  
+select a minimum number of remaining premises to visit according to Table 2. 
+Sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of vNDV among additional 
+premises in the Control Area is 0.5 percent or greater.  
+ 
+ 
+a Follow sample size guidelines described in next section 
+ 
+Identify and contact all  
+premises with birds in the 
+Control Area in person or 
+by phone
+Interview owner to assess  
+premises risk status and 
+plan  surveillance 
+activities
+Birds with clinical signs
+High risk
+Visit premises and collect 
+samples in every case a
+No clinical signs, but risk 
+factors present as per 
+Table 1
+High risk
+Visit premises and collect 
+samples a
+If resources limited, use 
+representative
+Text Len: 1304
+--------------------------------------------------------------------------------
+  
+premises risk status and 
+plan  surveillance 
+activities
+Birds with clinical signs
+High risk
+Visit premises and collect 
+samples in every case a
+No clinical signs, but risk 
+factors present as per 
+Table 1
+High risk
+Visit premises and collect 
+samples a
+If resources limited, use 
+representative sample of 
+premises as per Table 2
+No clinical signs, no risk 
+factors as per Table 1 
+Lower risk
+Record findings, including 
+absence of clinical signs
+Guidance for risk based surveillance to detect infected 
+premises in the Control Area 
+Page 4 of 5  
+RECOMMENDED BIRD SAMPLING SIZE AND SCHEME 
+ 
+Select birds to sample and follow the Recommendations for Collecting Specimens from Poultry for 
+Viral Diagnostic Testing (WI-AV-0020 available here) for detection of vNDV. Oropharyngeal or 
+tracheal swabs are preferred for gallinaceous birds and cloacal swabs for non-gallinaceous birds3. 
+Do not combine swabs from different species or different sample types.   
+ 
+1. Select birds to sample. If there are multiple houses or flocks on the premises, sample each 
+separately according to the guidelines below. Prioritize sampling of sick and dead birds 
+regardless of vaccination status.  
+a. For unvaccinated populations, sample two 5- or 11- swab pools. Sampling two 5- 
+or 11- swab bird pools is sufficient to detect vNDV with 95 percent confidence if 
+prevalence across birds is 40 percent (using an estimated test sensitivity of 91 
+percent).  
+• If there are fewer than 5 birds, sample all the birds
+Text Len: 1501
+--------------------------------------------------------------------------------
+ unvaccinated populations, sample two 5- or 11- swab pools. Sampling two 5- 
+or 11- swab bird pools is sufficient to detect vNDV with 95 percent confidence if 
+prevalence across birds is 40 percent (using an estimated test sensitivity of 91 
+percent).  
+• If there are fewer than 5 birds, sample all the birds.   
+b. For vaccinated populations, sample 30 birds using 5- or 11- swab pools. A 30-bird 
+sample can detect vNDV with approximately 95 percent confidence if within-flock 
+prevalence among birds considered high-risk of exposure is 10 percent (using an 
+estimated test sensitivity 91 percent).  
+• If there are fewer than 30 birds, sample all the birds.  
+ 
+2. Prepare, package, and process swabs for laboratory submission according to the guidance 
+found in the FAD Investigation Manual. 
+3. Repeat visits and sampling on premises are not necessary, unless clinical signs continue or 
+escalate.   
+4. Encourage owner to call if clinical signs, morbidity, and/or mortality are observed.  
+  
+Table 1.  Risk factors leading to birds to be classified as high-risk, a higher probability exposure to 
+virulent Newcastle disease. 
+Sick and dead birds and/or history of sick and dead birds. 
+Close geographic proximity to other premises containing outdoor birds. 
+Other demographic characteristics in common with known virulent ND infected premises. 
+Newly arrived birds and young birds and/or a high likelihood/reported history of birds moving 
+onto or off of the premises. 
+Birds from multiple owners on a single premises. 
+Similar farm or bird level risk factors as other cases (identified by IMT). 
+Birds used for exhibition or comm
+Text Len: 1638
+--------------------------------------------------------------------------------
+ characteristics in common with known virulent ND infected premises. 
+Newly arrived birds and young birds and/or a high likelihood/reported history of birds moving 
+onto or off of the premises. 
+Birds from multiple owners on a single premises. 
+Similar farm or bird level risk factors as other cases (identified by IMT). 
+Birds used for exhibition or commingled for any purpose.  
+Any number of birds with access to the outdoors.   
+Premises with gamefowl 
+ 
+ 
+                                                            
+3 Gallinaceous birds are chickens, turkeys, pheasants, partridges, grouse, quail, guinea fowl, and pea fowl, as well as all other birds are non- 
+gallinaceous birds. 
+Page 5 of 5  
+ 
+Table 2. Number of premises to be sampled in the Control Area if the total number of premises in the 
+Control Area cannot be visited.* 
+No. of Premises  
+ 
+Minimum No. of Premises 
+to be Sampled for 0.5% prevalence 
+Minimum No. of Premises 
+to be Sampled for 1% prevalence 
+less than 100 Sample all Sample all 
+200 Sample all 163 
+400 327 221 
+600 398 247 
+1,000 474 271 
+1,500 519 285 
+2,000 544 292 
+3,000 570 299 
+5,000 593 305 
+10,000 611 309 
+infinite 629 314 
+1 Sample sizes
+Text Len: 1185
+--------------------------------------------------------------------------------
+ 100 Sample all Sample all 
+200 Sample all 163 
+400 327 221 
+600 398 247 
+1,000 474 271 
+1,500 519 285 
+2,000 544 292 
+3,000 570 299 
+5,000 593 305 
+10,000 611 309 
+infinite 629 314 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 0.5% or 1% in the 
+population of premises at the time of sample collection.  
+ 
+ 
+DOCUMENTATION 
+As with all surveillance activities, documentation is critically important. EMRS2 is the system of 
+record for all virulent ND outbreaks in the United States. Relevant data regarding backyard 
+surveillance activities must be entered into EMRS2 in as close to real time as possible. This data 
+may be reported internally and externally through situation or close-out reports or other means. 
+ 
+At a minimum, the following items are important to maintain and report. Refer to IMT guidance for 
+how to appropriately record these and other data: 
+ 
+ Number of backyard premises in Control Area. 
+ Number contacted, and means of contact, for passive surveillance. 
+ Number of visited and sampled premises for passive surveillance. 
+ Number of premises contacted by phone for active surveillance. 
+ Number of premises visited and sampled for active surveillance. 
+ Total birds sampled per premises. 
+ Laboratory results for all submissions. 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August
+Text Len: 1554
+--------------------------------------------------------------------------------
+ Number of visited and sampled premises for passive surveillance. 
+ Number of premises contacted by phone for active surveillance. 
+ Number of premises visited and sampled for active surveillance. 
+ Total birds sampled per premises. 
+ Laboratory results for all submissions. 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August 2014. Newcastle Disease Response Plan: The Red Book.  
+Recommendations for Collecting Specimens from Poultry for Viral Diagnostic Testing (NVSL WI-AV- 
+0020)  
+USDA APHIS VS. 2018.  FAD Prep Materials and References. www.aphis.usda.gov/fadprep. 
+Text Len: 577
+--------------------------------------------------------------------------------

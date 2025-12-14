@@ -1,0 +1,134 @@
+Multi-criteria analysis (MCAS-S)
+The Multi-Criteria Analysis Shell for Spatial Decision Support (MCAS-S) is a tool to view and combine mapped information. MCAS-S can inform spatial decision making and help with stakeholder engagement. MCAS-S is free, powerful, and easy to use. 
+MCAS-S projects are: 
+transparent - you can see all inputs used to meet an objective and how these are combined
+flexible - you can use MCAS-S to compare options and explore trade-offs. You can use your own data (or ours).
+fast - immediately see changes to your objective when any input or method changes
+Who can use MCAS-S?
+MCAS-S is designed for decision-makers. It shows transparently how mapped information can be combined to meet an objective. MCAS-S allows stakeholders to see the effects that their decisions may have. 
+MCAS-S makes it easier to analyse spatial information without Geographic Information Systems programming. 
+Get Started
+Download MCAS-S
+Learn the basics from the Quick Start Guide
+Start your analysis with MCAS-S ready Australian National Map Layers - map layers include climate, soil, vegetation, and economic information
+Contact ABARES for information on general or customised training sessions
+What has it been used for?
+MCAS-S is the latest of several MCA decision aids used in the Australian Government Department of Agriculture, Fisheries and Forestry policy environment since the early 1990s. MCAS-S has been used at the international, national, regional and catchment scale for:
+Climate and species distribution modeling (partnership with EcoCloud) 2018
+Estimating impact of incursion of plant pest Xylella fastidiosa 2017 
+National soil condition assessments 2017
+Climate change impacts for biodiversity (AdaptNRM) 2014-2017
+Natural resource management in Western Australia (
+Text Len: 1787
+--------------------------------------------------------------------------------
+-S has been used at the international, national, regional and catchment scale for:
+Climate and species distribution modeling (partnership with EcoCloud) 2018
+Estimating impact of incursion of plant pest Xylella fastidiosa 2017 
+National soil condition assessments 2017
+Climate change impacts for biodiversity (AdaptNRM) 2014-2017
+Natural resource management in Western Australia (NRM groups) 2014-2017
+Ecological futures in the Tasmanian Midlands (Landscapes and policy hub) 2011-2014
+Informing surveillance systems for animal disease in Australia 2013
+Mapping important agricultural lands in the Lower Hunter Region NSW 2013
+Soil health prioritisation for New South Wales 2013
+Spatialising growth suitability for soybean in northeast China 2011
+Setting priorities for New South Wales Catchment Management 2012
+Setting priorities for revegetation in south-west Western Australia 2012
+Coal seam gas rapid assessment (Department of Environment, Geoscience Australia) 2012
+Case studies of wild dog management 2012
+Targeting and evaluating investment - Great Barrier Reef water quality 2009 and 2012
+Land use options for indigenous forestry managers 2012
+Mapping European endangered areas in pest risk analysis 2012
+Assessment of Weeds of National Significance 2011
+Assessment of the likelihood of entry of rabies 2011
+Calculating erosion estimates post bushfire 2011
+Land quality evaluation in northeast China 2011
+Indicators of community vulnerability and adaptive capacity in the Murray Darling Basin 2010
+Assessment of land with high conservation value for Bush Heritage 2010
+Soil acidification risk assessment 2009
+Soil loss by wind erosion risk assessment 2009
+Soil carbon potential evaluation 2009
+Creating land use scenarios for city greenbelts in the USA and Canada 2009
+Determining where Asian honey bee could establish 2009
+Limiting the spread of equine influenza 2007
+Prioritising Revegetation Investment in West Hume NSW 2006
+ABARES would like to acknowledge the input of the MC
+Text Len: 1987
+--------------------------------------------------------------------------------
+
+Soil loss by wind erosion risk assessment 2009
+Soil carbon potential evaluation 2009
+Creating land use scenarios for city greenbelts in the USA and Canada 2009
+Determining where Asian honey bee could establish 2009
+Limiting the spread of equine influenza 2007
+Prioritising Revegetation Investment in West Hume NSW 2006
+ABARES would like to acknowledge the input of the MCAS-S development partnership members including Barry Consulting, New South Wales Department of Primary Industries, Planning and Environment, the National Environmental Research Plan Landscapes and Policy Hub, and the Australian Collaborative Land Use and Management Program. Funding for version 4 and version 3.2 was provided by New South Wales Government. Funding for version 3.1 was provided by the National Environmental Research Plan Landscapes and Policy Hub University of Tasmania.
+Text Len: 859
+--------------------------------------------------------------------------------
+Multi-criteria analysis (MCAS-S)
+The Multi-Criteria Analysis Shell for Spatial Decision Support (MCAS-S) is a tool to view and combine mapped information. MCAS-S can inform spatial decision making and help with stakeholder engagement. MCAS-S is free, powerful, and easy to use. 
+MCAS-S projects are: 
+transparent - you can see all inputs used to meet an objective and how these are combined
+flexible - you can use MCAS-S to compare options and explore trade-offs. You can use your own data (or ours).
+fast - immediately see changes to your objective when any input or method changes
+Who can use MCAS-S?
+MCAS-S is designed for decision-makers. It shows transparently how mapped information can be combined to meet an objective. MCAS-S allows stakeholders to see the effects that their decisions may have. 
+MCAS-S makes it easier to analyse spatial information without Geographic Information Systems programming. 
+Get Started
+Download MCAS-S
+Learn the basics from the Quick Start Guide
+Start your analysis with MCAS-S ready Australian National Map Layers - map layers include climate, soil, vegetation, and economic information
+Contact ABARES for information on general or customised training sessions
+What has it been used for?
+MCAS-S is the latest of several MCA decision aids used in the Australian Government Department of Agriculture, Fisheries and Forestry policy environment since the early 1990s. MCAS-S has been used at the international, national, regional and catchment scale for:
+Climate and species distribution modeling (partnership with EcoCloud) 2018
+Estimating impact of incursion of plant pest Xylella fastidiosa 2017 
+National soil condition assessments 2017
+Climate change impacts for biodiversity (AdaptNRM) 2014-2017
+Natural resource management in Western Australia (
+Text Len: 1787
+--------------------------------------------------------------------------------
+-S has been used at the international, national, regional and catchment scale for:
+Climate and species distribution modeling (partnership with EcoCloud) 2018
+Estimating impact of incursion of plant pest Xylella fastidiosa 2017 
+National soil condition assessments 2017
+Climate change impacts for biodiversity (AdaptNRM) 2014-2017
+Natural resource management in Western Australia (NRM groups) 2014-2017
+Ecological futures in the Tasmanian Midlands (Landscapes and policy hub) 2011-2014
+Informing surveillance systems for animal disease in Australia 2013
+Mapping important agricultural lands in the Lower Hunter Region NSW 2013
+Soil health prioritisation for New South Wales 2013
+Spatialising growth suitability for soybean in northeast China 2011
+Setting priorities for New South Wales Catchment Management 2012
+Setting priorities for revegetation in south-west Western Australia 2012
+Coal seam gas rapid assessment (Department of Environment, Geoscience Australia) 2012
+Case studies of wild dog management 2012
+Targeting and evaluating investment - Great Barrier Reef water quality 2009 and 2012
+Land use options for indigenous forestry managers 2012
+Mapping European endangered areas in pest risk analysis 2012
+Assessment of Weeds of National Significance 2011
+Assessment of the likelihood of entry of rabies 2011
+Calculating erosion estimates post bushfire 2011
+Land quality evaluation in northeast China 2011
+Indicators of community vulnerability and adaptive capacity in the Murray Darling Basin 2010
+Assessment of land with high conservation value for Bush Heritage 2010
+Soil acidification risk assessment 2009
+Soil loss by wind erosion risk assessment 2009
+Soil carbon potential evaluation 2009
+Creating land use scenarios for city greenbelts in the USA and Canada 2009
+Determining where Asian honey bee could establish 2009
+Limiting the spread of equine influenza 2007
+Prioritising Revegetation Investment in West Hume NSW 2006
+ABARES would like to acknowledge the input of the MC
+Text Len: 1987
+--------------------------------------------------------------------------------
+
+Soil loss by wind erosion risk assessment 2009
+Soil carbon potential evaluation 2009
+Creating land use scenarios for city greenbelts in the USA and Canada 2009
+Determining where Asian honey bee could establish 2009
+Limiting the spread of equine influenza 2007
+Prioritising Revegetation Investment in West Hume NSW 2006
+ABARES would like to acknowledge the input of the MCAS-S development partnership members including Barry Consulting, New South Wales Department of Primary Industries, Planning and Environment, the National Environmental Research Plan Landscapes and Policy Hub, and the Australian Collaborative Land Use and Management Program. Funding for version 4 and version 3.2 was provided by New South Wales Government. Funding for version 3.1 was provided by the National Environmental Research Plan Landscapes and Policy Hub University of Tasmania.
+Text Len: 859
+--------------------------------------------------------------------------------

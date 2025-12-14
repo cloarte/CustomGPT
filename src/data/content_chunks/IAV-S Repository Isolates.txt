@@ -1,0 +1,230 @@
+           
+                               
+                                   
+                             
+         
+ 
+                                      
+                
+                                
+                          
+  
+           
+                            
+          
+                     
+     
+                              
+             
+ 
+                     
+                     
+ 
+           
+  
+ 
+                             
+                   
+ 
+                                   
+          
+ 
+  
+         
+ 
+ 
+  
+                                
+                    
+How to request IAV‐S Repository Isolates 
+The repository contains over 5000 viruses and individual IAV‐S repository isolates are not listed in the 
+catalog. Customers will need to search for isolates of interest (see below) and provide a list to the 
+diagnostic virology lab before submitting a reagent request. Please note that there have been recent 
+changes to the USDA repository: 
+ Viruses with a collection date of July 2022 or later will need to be propagated. There will be a 
+2‐week delay in orders (barring any propagation issues). 
+ Due to virus isolates in the USDA IAV‐S Repository no longer being supported by the USDA 
+Surveillance program, the price per isolate will be $197, effective June 1, 2023. 
+Once you have selected your isolates: 
+1. To confirm isolate availability, email nvsl.dvl.comm@usda.gov the list of isolates (specify 1 or 2 
+vials) before submitting the request. 
+2. After the list is finalized, email nvsl_concerns@usda.gov and include your: 
+a. shipping permit 
+b. completed VS Form 4‐9 (the reagent code number for repository isolates is
+Text Len: 1682
+--------------------------------------------------------------------------------
+@usda.gov the list of isolates (specify 1 or 2 
+vials) before submitting the request. 
+2. After the list is finalized, email nvsl_concerns@usda.gov and include your: 
+a. shipping permit 
+b. completed VS Form 4‐9 (the reagent code number for repository isolates is SIV‐REP and 
+the reagent name is the barcode ID). 
+Below is the link to the request form and ordering instructions: 
+USDA APHIS | Reagents and Proficiency Testing Available from the NVSL 
+Options to search for repository isolates: 
+1. Octoflu 
+https://flu‐crew.org/octoflushow/ 
+Octoflu is a user‐friendly platform to search viruses in the repository/USDA surveillance program. It also 
+breaks down the lineage of the internal genes, if sequenced. 
+Click on the Data tab and filter for preferred characteristics. There is an option to select viruses that 
+have had WGS (select true). 
+Manuscript providing examples: https://pubmed.ncbi.nlm.nih.gov/34913720/ 
+2. GenBank 
+USDA Swine Surveillance Influenza A virus isolates can be identified in GenBank by their eight digit 
+barcode designations in the virus name, e.g. A/swine/North Carolina/A02431994/2019(H1N2). The 
+           
+                                
+                               
+          
+ 
+          
+                                 
+                             
+ 
+     
+ 
+How to request IAV‐S Repository Isolates 
+information in GenBank will usually list USDA Swine Surveillance, or similar, in the author, journal or 
+Consortium field.
+Text Len: 1471
+--------------------------------------------------------------------------------
+H1N2). The 
+           
+                                
+                               
+          
+ 
+          
+                                 
+                             
+ 
+     
+ 
+How to request IAV‐S Repository Isolates 
+information in GenBank will usually list USDA Swine Surveillance, or similar, in the author, journal or 
+Consortium field. Many of the available isolates will have H and N sequenced, but some will 
+have full genome sequencing completed. 
+3. USDA Surveillance Report “representative viruses” 
+There are also quarterly reports available to the public under the IAV‐S surveillance tab that provide a 
+list of the representative strains in the US (see table 4 in the quarterly report) 
+https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal‐disease‐information/swine‐disease‐
+information/influenza‐a‐virus 
+FY22 Q4 example: 
+
+Text Len: 857
+--------------------------------------------------------------------------------
+           
+                               
+                                   
+                             
+         
+ 
+                                      
+                
+                                
+                          
+  
+           
+                            
+          
+                     
+     
+                              
+             
+ 
+                     
+                     
+ 
+           
+  
+ 
+                             
+                   
+ 
+                                   
+          
+ 
+  
+         
+ 
+ 
+  
+                                
+                    
+How to request IAV‐S Repository Isolates 
+The repository contains over 5000 viruses and individual IAV‐S repository isolates are not listed in the 
+catalog. Customers will need to search for isolates of interest (see below) and provide a list to the 
+diagnostic virology lab before submitting a reagent request. Please note that there have been recent 
+changes to the USDA repository: 
+ Viruses with a collection date of July 2022 or later will need to be propagated. There will be a 
+2‐week delay in orders (barring any propagation issues). 
+ Due to virus isolates in the USDA IAV‐S Repository no longer being supported by the USDA 
+Surveillance program, the price per isolate will be $197, effective June 1, 2023. 
+Once you have selected your isolates: 
+1. To confirm isolate availability, email nvsl.dvl.comm@usda.gov the list of isolates (specify 1 or 2 
+vials) before submitting the request. 
+2. After the list is finalized, email nvsl_concerns@usda.gov and include your: 
+a. shipping permit 
+b. completed VS Form 4‐9 (the reagent code number for repository isolates is
+Text Len: 1682
+--------------------------------------------------------------------------------
+@usda.gov the list of isolates (specify 1 or 2 
+vials) before submitting the request. 
+2. After the list is finalized, email nvsl_concerns@usda.gov and include your: 
+a. shipping permit 
+b. completed VS Form 4‐9 (the reagent code number for repository isolates is SIV‐REP and 
+the reagent name is the barcode ID). 
+Below is the link to the request form and ordering instructions: 
+USDA APHIS | Reagents and Proficiency Testing Available from the NVSL 
+Options to search for repository isolates: 
+1. Octoflu 
+https://flu‐crew.org/octoflushow/ 
+Octoflu is a user‐friendly platform to search viruses in the repository/USDA surveillance program. It also 
+breaks down the lineage of the internal genes, if sequenced. 
+Click on the Data tab and filter for preferred characteristics. There is an option to select viruses that 
+have had WGS (select true). 
+Manuscript providing examples: https://pubmed.ncbi.nlm.nih.gov/34913720/ 
+2. GenBank 
+USDA Swine Surveillance Influenza A virus isolates can be identified in GenBank by their eight digit 
+barcode designations in the virus name, e.g. A/swine/North Carolina/A02431994/2019(H1N2). The 
+           
+                                
+                               
+          
+ 
+          
+                                 
+                             
+ 
+     
+ 
+How to request IAV‐S Repository Isolates 
+information in GenBank will usually list USDA Swine Surveillance, or similar, in the author, journal or 
+Consortium field.
+Text Len: 1471
+--------------------------------------------------------------------------------
+H1N2). The 
+           
+                                
+                               
+          
+ 
+          
+                                 
+                             
+ 
+     
+ 
+How to request IAV‐S Repository Isolates 
+information in GenBank will usually list USDA Swine Surveillance, or similar, in the author, journal or 
+Consortium field. Many of the available isolates will have H and N sequenced, but some will 
+have full genome sequencing completed. 
+3. USDA Surveillance Report “representative viruses” 
+There are also quarterly reports available to the public under the IAV‐S surveillance tab that provide a 
+list of the representative strains in the US (see table 4 in the quarterly report) 
+https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal‐disease‐information/swine‐disease‐
+information/influenza‐a‐virus 
+FY22 Q4 example: 
+
+Text Len: 857
+--------------------------------------------------------------------------------

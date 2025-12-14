@@ -1,0 +1,174 @@
+Crop Knowledge Master
+Pseudaulacaspis cockerelli (Cooley)
+Cockerell Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+Host plants include bird of paradise, oleander, azalea, plumeria, coconut palm, mango, koka, kukui, cycads and palms. Cockerell scale is known to infest over 100 plant species.
+DISTRIBUTION
+The Cockerell scale is probably from Asia. It was first described in 1897 from California quarantine specimens. Established infestations were later found in Florida and Georgia (Reinert 1974). In 1898 this scale was first reported in Hawaii, but it was mistakenly identified as Phenacaspis eugeniae (Zimmerman 1948). It is found on the major Islands.
+DAMAGE
+The first sign of Cockerell scales in the field is male and female armor on upper and lower leaf surfaces and green stems of plants. A yellow (chlorotic) patch visible on both sides of the leaf may form around the scale. The scales look like flecks of white paint on the foliage. On closer inspection, the adult female armor is pear-shaped, white, and about 2-3 mm long (less than 1/8 inch). At the narrow end is a yellow-brown spot. When the armor is pried off, the bright yellow female insect is underneath, attached to the plant by hair-like mouthparts. Live females don't look like ordinary adult insects because they lack wings, legs, and eyes. Dead females are dark yellow or brown and are dried rather than plump. The females are single or in groups of 2 to several, depending on the severity of the infestation. Male armor
+Text Len: 1638
+--------------------------------------------------------------------------------
+ pried off, the bright yellow female insect is underneath, attached to the plant by hair-like mouthparts. Live females don't look like ordinary adult insects because they lack wings, legs, and eyes. Dead females are dark yellow or brown and are dried rather than plump. The females are single or in groups of 2 to several, depending on the severity of the infestation. Male armor is about 1 mm long, much smaller than the female, has three ridges running lengthwise, and is narrow and straight-sided (not pear-shaped). The males are usually clustered in groups of many individuals.
+Armored scales feed on plant juices and cause loss of vigor, spots on the foliage due to toxins in the scale saliva, deformation of infested plant parts, loss of leaves, and even death of the plant (Dekle 1965, Reinert 1974, Beardsley & Gonzalez 1975). Since the scale is spread by introduction of infested material, Cockerell scale is a quarantine problem on exported potted plants, cut flowers, and cut foliage.
+BIOLOGY
+The number of days for each developmental stage and the number of generations per year depend on temperature, humidity, and rainfall (Beardsley & Gonzalez 1975). Based on a generalized life history of other tropical species, 30 days is the approximate time to complete the life cycle from egg to reproducing adult.
+EGGS
+Females lay tiny, yellow, oval eggs under the armor. Eggs can be in large groups (more than 20).
+CRAWLERS
+The first stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or
+Text Len: 1838
+--------------------------------------------------------------------------------
+ stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor.
+NYMPHS
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Nymphs shed their skin as they grow and develop (twice in females and 4 times in males). The cast skin, called exuvium, is incorporated into the armor at the narrow end forming a yellowish brown spot in the otherwise white armor. Males feed only during the first and second stages and do not enlarge their armor after that. The armor of males and females is non-living and is made of cast skins, threads, and liquid, all produced by the insect (Beardsley & Gonzalez 1975).
+ADULTS
+As the female matures she becomes an oval, bright yellow, feeding and eggl aying body hidden under a white, pear-shaped armor. Males are protected by armor until they develop into tiny, winged adults that are very different in appearance and behavior from females.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). The crawler stage can be carried from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may
+Text Len: 1841
+--------------------------------------------------------------------------------
+ dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). The crawler stage can be carried from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may not land on suitable host plants. Male crawlers tend to settle in clusters, although the cause of this is not known. In the last two armored stages and after emergence from the armor males do not feed. The adult males have wings but are capable only of weak flight or wind transport. Males live only a few hours, emerging in late afternoon to mate. Mate finding is probably due to attraction to pheremones secreted by females (Beardsley & Gonzalez 1975). Because of their tiny size, short life, and evening activity, it's not likely to find adult males in the field.
+MANAGEMENT
+Cultural control
+Since armored scales are spread chiefly through movement of nursery stock, only propagative material that is free of scales should be planted. Adequate plant spacing is important because armored scales seldom spread from plant to plant unless the crowns of the plants are in contact (Beardsley & Gonzalez 1975). As plants grow, pruning maintains spacing and allows maximum coverage when using insecticides.
+Biological control -- Predators
+Labybird beetles, or ladybugs, (Coleoptera: Coccinellidae) have been introduced and become established in Hawaii to control armored scales. Some of these, such as Lindorus lophanthae (Blaisdell) and Orcus chalybeus (Boisd.J), have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the
+Text Len: 1827
+--------------------------------------------------------------------------------
+ Hawaii to control armored scales. Some of these, such as Lindorus lophanthae (Blaisdell) and Orcus chalybeus (Boisd.J), have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control -- Parasites
+Tiny wasps lay eggs in developing scales. They are parasites that absorb food from the scale body. Instead of an adult scale under the cover, an adult wasp emerges. These can be very effective in controlling armored scales (Dekle 1965). In Hawaii at least two wasps, Arrhenophagus albipes (Hymenoptera: Encyrtidae) and Aspidiotiphagus citrinus Crawford (Hymenoptera: Aphelinidae) parasitize Cockerell scales.
+Mechanical control
+Scraping and scrubbing to remove scales from plants are effective mechanical control tactics. Removing scales is especially important on exported plant materials, since intact armor is a sign of scale infestation.
+Physical control
+Postharvest immersion of scale infested plant material in hot water will kill armored scale adults, nymphs, crawlers and eggs. Ten minutes at 49û C is sufficient to kill all life stages (Hata et al. 1993). Plant species vary in their sensitivity to heat, so damage to the plant depends on species and condition of plant material. Vapor heat for 60 min at 46.5û C and 90% relative humidity killed all nymphs and adults. Eggs were not tested (Hanset et al. 1992b).
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important in insecticidal control of scales because armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler
+Text Len: 1743
+--------------------------------------------------------------------------------
+ 60 min at 46.5û C and 90% relative humidity killed all nymphs and adults. Eggs were not tested (Hanset et al. 1992b).
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important in insecticidal control of scales because armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler stage; systemics target adult females and feeding nymphs. Hata and Hara (1992) demonstrated that contact organophosphates, carbamate and pyrethroid insecticides can reduce but not eradicate Cockerell scale. Since the scale has natural enemies, care must be taken to conserve these. Populations of other pests, such as spiraling white fly, coconut scale, and ti scale, may rise if their natural enemies are affected by chemical control of the Cockerell scale. Spraying should be determined by presence of scales in the fields rather than by the calendar. Scales are best detected by regularly inspecting all areas of the fields for white, pearshaped armor. When detected, directing spray at hotspots rather than uninfested areas is economical, conserves natural enemies, and delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the wash water to kill crawlers while scrubbing off adults. Dipping in a soap-pyrethroid solution for five minutes is only 70% effective against adults and nymphs (Hansen et al. 1992a). Even if scales are killed, it takes several days for the body to dry, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of
+Text Len: 1732
+--------------------------------------------------------------------------------
+, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of Florida Vol. 3, Florida Armored Scale Insects. Division of Plant Industry, Florida Department of Agriculture, Gainesville. 265 pp.
+Hamon, A. B. 1980. False Oleander Scale, Pseudaulacaspis cockerelli (Cooley) (Homoptera: Coccoidea: Diaspididae). Florida Department of Agriculture and Consumer Services, Division of Plant Industry, Gainesville. Entomology Circular No. 95, April 1979 (revised June 1980).
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992a. Insecticidal dips for disinfesting commercial tropical cut flowers and foliage. Tropical Pest Management 38: 245-249.
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992b. Vapor Heat: A potential treatment to disinfest tropical cut flowers and foliage. Hort Science 27(2): 139-143.
+Hata, T. Y., A. H. Hara, B. K. S. Hu and V. L. Tenbrink. 1993. Hot water immersion as a potential quarantine treatment against Pseudaulacaspis cockerelli (Homoptera: Diaspididae). J. Econ. Ent. in press.
+Hata T. Y. and A. H. Hara. 1992. Control of armored scales on bird of paradise, Hawaii, 1990. Insecticide and Acaricide Tests 17: 317.
+Text Len: 1348
+--------------------------------------------------------------------------------
+ Hot water immersion as a potential quarantine treatment against Pseudaulacaspis cockerelli (Homoptera: Diaspididae). J. Econ. Ent. in press.
+Hata T. Y. and A. H. Hara. 1992. Control of armored scales on bird of paradise, Hawaii, 1990. Insecticide and Acaricide Tests 17: 317.
+Reinert, J. A. 1974. Management of the False Oleander Scale, Pseudaulacaspis cockerelli (Cooley). Proc. Fla. State Hortic. Soc. 87: 518-520.
+Zimmerman, E. C. 1948. Insects of Hawaii Vol. S Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pp.
+      DEC/ 1992
+  P-COCKER
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 624
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Pseudaulacaspis cockerelli (Cooley)
+Cockerell Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+Host plants include bird of paradise, oleander, azalea, plumeria, coconut palm, mango, koka, kukui, cycads and palms. Cockerell scale is known to infest over 100 plant species.
+DISTRIBUTION
+The Cockerell scale is probably from Asia. It was first described in 1897 from California quarantine specimens. Established infestations were later found in Florida and Georgia (Reinert 1974). In 1898 this scale was first reported in Hawaii, but it was mistakenly identified as Phenacaspis eugeniae (Zimmerman 1948). It is found on the major Islands.
+DAMAGE
+The first sign of Cockerell scales in the field is male and female armor on upper and lower leaf surfaces and green stems of plants. A yellow (chlorotic) patch visible on both sides of the leaf may form around the scale. The scales look like flecks of white paint on the foliage. On closer inspection, the adult female armor is pear-shaped, white, and about 2-3 mm long (less than 1/8 inch). At the narrow end is a yellow-brown spot. When the armor is pried off, the bright yellow female insect is underneath, attached to the plant by hair-like mouthparts. Live females don't look like ordinary adult insects because they lack wings, legs, and eyes. Dead females are dark yellow or brown and are dried rather than plump. The females are single or in groups of 2 to several, depending on the severity of the infestation. Male armor
+Text Len: 1638
+--------------------------------------------------------------------------------
+ pried off, the bright yellow female insect is underneath, attached to the plant by hair-like mouthparts. Live females don't look like ordinary adult insects because they lack wings, legs, and eyes. Dead females are dark yellow or brown and are dried rather than plump. The females are single or in groups of 2 to several, depending on the severity of the infestation. Male armor is about 1 mm long, much smaller than the female, has three ridges running lengthwise, and is narrow and straight-sided (not pear-shaped). The males are usually clustered in groups of many individuals.
+Armored scales feed on plant juices and cause loss of vigor, spots on the foliage due to toxins in the scale saliva, deformation of infested plant parts, loss of leaves, and even death of the plant (Dekle 1965, Reinert 1974, Beardsley & Gonzalez 1975). Since the scale is spread by introduction of infested material, Cockerell scale is a quarantine problem on exported potted plants, cut flowers, and cut foliage.
+BIOLOGY
+The number of days for each developmental stage and the number of generations per year depend on temperature, humidity, and rainfall (Beardsley & Gonzalez 1975). Based on a generalized life history of other tropical species, 30 days is the approximate time to complete the life cycle from egg to reproducing adult.
+EGGS
+Females lay tiny, yellow, oval eggs under the armor. Eggs can be in large groups (more than 20).
+CRAWLERS
+The first stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or
+Text Len: 1838
+--------------------------------------------------------------------------------
+ stage after hatching is the only nymphal stage with legs, so the insects are called crawlers. Crawlers may stay under the maternal armor several hours until outside conditions, especially temperature and humidity, are good. After they leave the cover they wander for a period ranging from minutes to days, but usually a few hours. At the end of the wandering period they flatten against the leaf or stem and begin to secrete their armor.
+NYMPHS
+Newly settled nymphs insert their piercing, sucking mouthparts into plant tissue and start feeding on plant juices. Nymphs shed their skin as they grow and develop (twice in females and 4 times in males). The cast skin, called exuvium, is incorporated into the armor at the narrow end forming a yellowish brown spot in the otherwise white armor. Males feed only during the first and second stages and do not enlarge their armor after that. The armor of males and females is non-living and is made of cast skins, threads, and liquid, all produced by the insect (Beardsley & Gonzalez 1975).
+ADULTS
+As the female matures she becomes an oval, bright yellow, feeding and eggl aying body hidden under a white, pear-shaped armor. Males are protected by armor until they develop into tiny, winged adults that are very different in appearance and behavior from females.
+BEHAVIOR
+Since female armored scales are not capable of wandering once they have settled and started feeding, long range dispersal happens by passive transport of infested plant material. Short range dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). The crawler stage can be carried from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may
+Text Len: 1841
+--------------------------------------------------------------------------------
+ dispersal happens as crawlers search out places to settle and feed (Beardsley & Gonzalez 1975). The crawler stage can be carried from place to place by people, animals, birds, ants, and wind currents (Dekle 1965, Beardsley & Gonzales 1975). Wind is an agent of dispersal and also one of mortality, since crawlers dislodged by wind may not land on suitable host plants. Male crawlers tend to settle in clusters, although the cause of this is not known. In the last two armored stages and after emergence from the armor males do not feed. The adult males have wings but are capable only of weak flight or wind transport. Males live only a few hours, emerging in late afternoon to mate. Mate finding is probably due to attraction to pheremones secreted by females (Beardsley & Gonzalez 1975). Because of their tiny size, short life, and evening activity, it's not likely to find adult males in the field.
+MANAGEMENT
+Cultural control
+Since armored scales are spread chiefly through movement of nursery stock, only propagative material that is free of scales should be planted. Adequate plant spacing is important because armored scales seldom spread from plant to plant unless the crowns of the plants are in contact (Beardsley & Gonzalez 1975). As plants grow, pruning maintains spacing and allows maximum coverage when using insecticides.
+Biological control -- Predators
+Labybird beetles, or ladybugs, (Coleoptera: Coccinellidae) have been introduced and become established in Hawaii to control armored scales. Some of these, such as Lindorus lophanthae (Blaisdell) and Orcus chalybeus (Boisd.J), have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the
+Text Len: 1827
+--------------------------------------------------------------------------------
+ Hawaii to control armored scales. Some of these, such as Lindorus lophanthae (Blaisdell) and Orcus chalybeus (Boisd.J), have become established on the major Islands. These beetle adults and larvae are carnivorous, eating soft-bodied insects. Scale covers that look chewed and have no insect underneath are signs that predators have been feeding on the scales.
+Biological control -- Parasites
+Tiny wasps lay eggs in developing scales. They are parasites that absorb food from the scale body. Instead of an adult scale under the cover, an adult wasp emerges. These can be very effective in controlling armored scales (Dekle 1965). In Hawaii at least two wasps, Arrhenophagus albipes (Hymenoptera: Encyrtidae) and Aspidiotiphagus citrinus Crawford (Hymenoptera: Aphelinidae) parasitize Cockerell scales.
+Mechanical control
+Scraping and scrubbing to remove scales from plants are effective mechanical control tactics. Removing scales is especially important on exported plant materials, since intact armor is a sign of scale infestation.
+Physical control
+Postharvest immersion of scale infested plant material in hot water will kill armored scale adults, nymphs, crawlers and eggs. Ten minutes at 49û C is sufficient to kill all life stages (Hata et al. 1993). Plant species vary in their sensitivity to heat, so damage to the plant depends on species and condition of plant material. Vapor heat for 60 min at 46.5û C and 90% relative humidity killed all nymphs and adults. Eggs were not tested (Hanset et al. 1992b).
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important in insecticidal control of scales because armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler
+Text Len: 1743
+--------------------------------------------------------------------------------
+ 60 min at 46.5û C and 90% relative humidity killed all nymphs and adults. Eggs were not tested (Hanset et al. 1992b).
+CHEMICAL CONTROL
+Insecticide mode of action and formulation are important in insecticidal control of scales because armor covers and protects all stages but the crawler and the adult male. Contact insecticides target the crawler stage; systemics target adult females and feeding nymphs. Hata and Hara (1992) demonstrated that contact organophosphates, carbamate and pyrethroid insecticides can reduce but not eradicate Cockerell scale. Since the scale has natural enemies, care must be taken to conserve these. Populations of other pests, such as spiraling white fly, coconut scale, and ti scale, may rise if their natural enemies are affected by chemical control of the Cockerell scale. Spraying should be determined by presence of scales in the fields rather than by the calendar. Scales are best detected by regularly inspecting all areas of the fields for white, pearshaped armor. When detected, directing spray at hotspots rather than uninfested areas is economical, conserves natural enemies, and delay pesticide resistance.
+In the packing house, insecticidal soaps can be used in the wash water to kill crawlers while scrubbing off adults. Dipping in a soap-pyrethroid solution for five minutes is only 70% effective against adults and nymphs (Hansen et al. 1992a). Even if scales are killed, it takes several days for the body to dry, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of
+Text Len: 1732
+--------------------------------------------------------------------------------
+, so removal of the armor is required to assure inspectors that the plant material is insect free.
+REFERENCES
+Beardsley, J. W. Jr. and R. H. Gonzalez. 1975. The biology and ecology of armored scales. Annual Review of Entomology. 20: 47-73.
+Dekle, G. W. 1965. Arthropods of Florida Vol. 3, Florida Armored Scale Insects. Division of Plant Industry, Florida Department of Agriculture, Gainesville. 265 pp.
+Hamon, A. B. 1980. False Oleander Scale, Pseudaulacaspis cockerelli (Cooley) (Homoptera: Coccoidea: Diaspididae). Florida Department of Agriculture and Consumer Services, Division of Plant Industry, Gainesville. Entomology Circular No. 95, April 1979 (revised June 1980).
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992a. Insecticidal dips for disinfesting commercial tropical cut flowers and foliage. Tropical Pest Management 38: 245-249.
+Hansen, J. D., A. H. Hara and V. L. Tenbrink. 1992b. Vapor Heat: A potential treatment to disinfest tropical cut flowers and foliage. Hort Science 27(2): 139-143.
+Hata, T. Y., A. H. Hara, B. K. S. Hu and V. L. Tenbrink. 1993. Hot water immersion as a potential quarantine treatment against Pseudaulacaspis cockerelli (Homoptera: Diaspididae). J. Econ. Ent. in press.
+Hata T. Y. and A. H. Hara. 1992. Control of armored scales on bird of paradise, Hawaii, 1990. Insecticide and Acaricide Tests 17: 317.
+Text Len: 1348
+--------------------------------------------------------------------------------
+ Hot water immersion as a potential quarantine treatment against Pseudaulacaspis cockerelli (Homoptera: Diaspididae). J. Econ. Ent. in press.
+Hata T. Y. and A. H. Hara. 1992. Control of armored scales on bird of paradise, Hawaii, 1990. Insecticide and Acaricide Tests 17: 317.
+Reinert, J. A. 1974. Management of the False Oleander Scale, Pseudaulacaspis cockerelli (Cooley). Proc. Fla. State Hortic. Soc. 87: 518-520.
+Zimmerman, E. C. 1948. Insects of Hawaii Vol. S Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pp.
+      DEC/ 1992
+  P-COCKER
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 624
+--------------------------------------------------------------------------------

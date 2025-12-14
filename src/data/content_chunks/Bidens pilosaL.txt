@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Bidens pilosaL.  ;
+Common Name:  Spanish needles  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  Bidens pilosa is part of the "pilosa complex" which includes neotropical taxa some of which have expanded their range into the SE US.  True Bidens pilosa (in the strict sense) produces three awns on the cypselae and does not produce rays, or if so, they are 3 mm long or shorter.  The other species in our flora is Bidens alba, which typically has substantial white rays (1 cm or more long) and two awns on the cypselae.  Some specimens have been observed to have the rays and with third reduced awn on the fruit.  This may indicate some introgression among both of the non-native taxa.  Several specimens here and under B. alba need to be reevaluated and assigned to the correct taxon accordingly.--B. Keener  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1113
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Bidens pilosaL.  ;
+Common Name:  Spanish needles  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  Bidens pilosa is part of the "pilosa complex" which includes neotropical taxa some of which have expanded their range into the SE US.  True Bidens pilosa (in the strict sense) produces three awns on the cypselae and does not produce rays, or if so, they are 3 mm long or shorter.  The other species in our flora is Bidens alba, which typically has substantial white rays (1 cm or more long) and two awns on the cypselae.  Some specimens have been observed to have the rays and with third reduced awn on the fruit.  This may indicate some introgression among both of the non-native taxa.  Several specimens here and under B. alba need to be reevaluated and assigned to the correct taxon accordingly.--B. Keener  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1113
+--------------------------------------------------------------------------------

@@ -1,0 +1,222 @@
+Crop Knowledge Master
+Dysmicoccus brevipes (Cockerell)
+Pineapple Mealybug
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This mealybug is primarily a pest of pineapple and other bromeliads, however it will also infest Annona (cherimoya, atemoya, sugarapple), banana, celery, Citrus, coffee, cotton, Euphorbia, Gliricidia, Hibiscus, Hilo grass, mulberry, Natal soursop, nutgrass, orchid pineapple and Straussia.
+DISTRIBUTION
+This pest has a pantropical distribution, with a few records from subtropical localities. Essentially it is found wherever pineapple is grown such as Africa, Australia, Central and South America, India, and throughout the Pacific. It is present on all of the major Hawaiian Islands.
+DAMAGE
+This is one of the most economically important mealybug pests in Hawaii because of its involvement with diseases of pineapple. On pineapple, four types of damage are possible: 1) the transmission of pineapple wilt (also called mealybug wilt and edge-wilt); 2) the production of chlorotic areas where there has been prolonged feeding and the underlying tissues have been exhausted; 3) damage to the bottom of the pineapple by the feeding of large mealybug populations which makes the bottom slices unmarketable and may cause the rotting and leaking of the fruits; and 4) "mealybug stripe" which results from the feeding of a short section of each of 3 or 4 inner whorl leaves. It is characterized by streaks of pale green to yellow and by the
+Text Len: 1649
+--------------------------------------------------------------------------------
+ 3) damage to the bottom of the pineapple by the feeding of large mealybug populations which makes the bottom slices unmarketable and may cause the rotting and leaking of the fruits; and 4) "mealybug stripe" which results from the feeding of a short section of each of 3 or 4 inner whorl leaves. It is characterized by streaks of pale green to yellow and by the collapsing of the water storage tissues within these streaks.
+Pineapple wilt, or mealybug wilt, causes the most serious type of damage and is the principal cause of crop failure in Hawaii. There are two types of wilt, "quick wilt" and "slow wilt". Both types cause the collapse of roots by the invasion of saprophytic organisms or by drying up the root. "Quick wilt" is produced by a short period of feeding by a large colony of mealybugs and is characterized by discoloration of leaves to yellows or reds and the loss of rigidity in leaves. "Slow wilt" occurs after the development of a large colony of mealybugs and shows fewer color changes. Leaves will be covered with mealybug feeding sites, leaf tips are browned, outer leaves droop and the leaf will be flaccid to the touch. Pineapple wilt has also been called "edge wilt" because the margins of the field are affected first and the infection moves inward as the mealybug infestation disperses inwards. Fortunately, this disease has been controlled for the last 3 decades by routine ant control. However, it may once again become prevalent if mealybugs are not continually suppressed by limiting ant populations.
+On coffee, this mealybug infests the roots and may cause stunting and weakening of the plant. Plants rarely die from a mealybug infestation, and this pest is considered a minor pest of coffee.
+BIOLOGY
+In older literature this species was reported to have
+Text Len: 1786
+--------------------------------------------------------------------------------
+. However, it may once again become prevalent if mealybugs are not continually suppressed by limiting ant populations.
+On coffee, this mealybug infests the roots and may cause stunting and weakening of the plant. Plants rarely die from a mealybug infestation, and this pest is considered a minor pest of coffee.
+BIOLOGY
+In older literature this species was reported to have two races or "strains" in Hawaii. One that was bisexual and caused green spotting on pineapple and the other that reproduced nonsexually and did not produce green spot. Later studies (Beardsley, 1959) revealed that the two races were separate species Dysmicoccus brevipes (Cockerell) (the pineapple mealybug) which reproduced nonsexually and Dysmicoccus neobrevipes Beardsley (the gray pineapple mealybug) which was bisexual.
+In Hawaii, the pineapple mealybug reproduces nonsexually through a process called parthenogenesis in which females birth female larvae without fertilization by males. Thus only females of this species are present in Hawaii. In areas, such as Brazil, where males are present, both sexual and nonsexual reproduction occurs.
+The life cycle of D. brevipes was extensively studied by Ito (1938). The "pink form" mentioned in his paper is presently known as the pineapple mealybug. This insect goes through three larval stages before becoming an adult. The life span (first instar to death as an adult) varies from 78 to 111 days, averaging 95 days.
+Eggs
+This species does not lay eggs. Instead they are ovoviviparous, meaning the eggs hatch within the female and she births live young (larvae).
+Larvae
+Larvae, called "crawlers", are the primary dispersal stage in all mealybug species. They have flattened bodies with long hairs that aid in their dispers
+Text Len: 1749
+--------------------------------------------------------------------------------
+ days.
+Eggs
+This species does not lay eggs. Instead they are ovoviviparous, meaning the eggs hatch within the female and she births live young (larvae).
+Larvae
+Larvae, called "crawlers", are the primary dispersal stage in all mealybug species. They have flattened bodies with long hairs that aid in their dispersal by wind. They remain protected underneath the mother's body for a short time before developing a waxy covering.
+Larvae molt three times before reaching adult maturity. The first, second, and third instars or larval stages last for 10 to 26 days, 6 to 22 days and 7 to 24 days respectively. Thus, the total larval period varies from 26 to 55 days, averaging about 34 days. Larvae only feed as a first instar and in the early part of the second instar.
+Adults
+Adult females are plump and convex in body shape and pinkish in body color. Lateral wax filaments are usually less than one fourth as long as the breadth of the body, and those towards the back of the insect are one-half as long as the body. There are 17 pairs of these wax processes. Female pineapple mealybugs are similar in appearance to the gray pineapple mealybug females. Balachowsky, 1957 gives a detailed description of the female pineapple mealybug.
+The prelarviposition period for adult females lasts for around 27 days. The larviposition (giving birth to larvae) period lasts for an average of 25 days. They birth about 234 progeny but may produce up to 1000 crawlers. She may then live for another 5 days before dying. Duration of adult female life varies from 31-80 days, averaging about 56 days.
+Males do not exist in Hawaii. If a male mealybug is found on pineapple in Hawaii, it is most likely the gray pineapple me
+Text Len: 1704
+--------------------------------------------------------------------------------
+ for an average of 25 days. They birth about 234 progeny but may produce up to 1000 crawlers. She may then live for another 5 days before dying. Duration of adult female life varies from 31-80 days, averaging about 56 days.
+Males do not exist in Hawaii. If a male mealybug is found on pineapple in Hawaii, it is most likely the gray pineapple mealybug. Male pineapple mealybugs observed from Brazil are approximately 1/25 inch long. Pineapple mealybug males are distinguished from gray pineapple mealybug males by a difference in the number of antennal segments. The pineapple mealybug has 8 antennal segments and the gray pineappple mealybug has 10. Also, the pineapple mealybug has short clavate setae on its body and appendages in place of digitiform setae that is found on gray pineapple mealybugs. Beardsley (1965) gives a detailed description of the male pineapple mealybug.
+BEHAVIOR
+Pineapple mealybugs are secretive in habit and usually inhabit the base of their host plants such as the lower portions of stems and exposed roots of grasses and herbaceous plants, the butts of pineapple plants, and the lower stalks of sugar cane. These sites of attack differ from that of gray pineapple mealybugs which are normally found on the aerial parts of its hosts such as leaves, stems, aerial roots, and flower and fruit clusters.
+MANAGEMENT
+Mealybug control often focuses on the control of caretaking ants that are essential for the proper development of pineapple mealybugs. They provide the mealybugs shelter, protection from predators and parasites, and keep them clean from detritus that may accumulate in the secreted honeydew and be deleterious to the colony. Because of the essential role of the ants, management practices often include the control of tending ant species. Without the ants, me
+Text Len: 1801
+--------------------------------------------------------------------------------
+ ants that are essential for the proper development of pineapple mealybugs. They provide the mealybugs shelter, protection from predators and parasites, and keep them clean from detritus that may accumulate in the secreted honeydew and be deleterious to the colony. Because of the essential role of the ants, management practices often include the control of tending ant species. Without the ants, mealybug populations are small and slow to invade new areas and the field would be free of a serious mealybug infestation.
+Three ant species are responsible for maintaining mealybug populations on Hawaiian pineapple: 1) the big headed ant, Pheidole megacephala, the primary ant caretaker, which is found at elevations less than 2300 feet; 2) the Argentine ant, Iridomyrmex humilis (Mayr), at elevations above 1968 feet; and 3) the fire ant, Solenopsis geminata Fab. var. rufa, which is found under very dry conditions on the lowlands.
+Biological Control.
+There are many natural enemies for this mealybug in Hawaii. Parasites include Aenasius cariocus Compere, Aenasius colombiensis Compere, Anagyrus ananatis Gahan, Euryhopauus propinquus Kerrich, Hambletonia pseudococcina Compere and Ptomastidae abnormis (Girault). Predators include Cryptolaemus montrouzieri Mulsant, Lobodiplosis pseudococci Felt, Nephus bilucernarius Mulsant, Scymnus (Pullus) unicatus Sicard and Scymnus pictus Gorham. Although many natural enemies to the pineapple mealybug are present, they exhibit minimal control if protective ants are tending the mealybug colony.
+Cultural Control.
+When ants encounter a fence or wall they are likely
+Text Len: 1609
+--------------------------------------------------------------------------------
+ pseudococci Felt, Nephus bilucernarius Mulsant, Scymnus (Pullus) unicatus Sicard and Scymnus pictus Gorham. Although many natural enemies to the pineapple mealybug are present, they exhibit minimal control if protective ants are tending the mealybug colony.
+Cultural Control.
+When ants encounter a fence or wall they are likely to travel the course of the fence rather than up and over the fence to forage on the other side. Physical barriers such as ant fences running parallel to the field periphery are partially successful in keeping ants out of the field, and subsequently controlling mealybug populations.
+Previously infested fields should be turned over and all crop residue removed and burned. Crop residues and grass roots left in the field may harbor mealybug populations until the new crop has developed enough to support a mealybug population.
+Field borders should be kept clean of weeds and debris that may support mealybugs between plantings. Weeds also provide alternative food sources that maintain ant populations between periods where mealybug infestations are small.
+Chemical Control
+The chemical control of tending ant species has shown to be effective in the control of mealybug populations on pineapple. In the past chemicals such as heptachlor and mirex have been used to control ant populations and subsequently mealybug wilt in pineapple. Unfortunately, these chemicals have detrimental effects on the environment because of their slow degradation and have been banned for use by the Environmental Protection Agency.
+AMDRO is not labelled for the crop Anonna as of April 2007.
+Big-headed ant colonies are destroyed during land preparation and planting procedures because their nests are located near the soil surface. Re-invasion by colonies from adjacent infested fields, fallow or uncultivated areas is slow. Establishment of ant populations in new plantings may therefore be prevented by the use of suitable ant bait or broadcast spray applied to the margins
+Text Len: 1987
+--------------------------------------------------------------------------------
+ crop Anonna as of April 2007.
+Big-headed ant colonies are destroyed during land preparation and planting procedures because their nests are located near the soil surface. Re-invasion by colonies from adjacent infested fields, fallow or uncultivated areas is slow. Establishment of ant populations in new plantings may therefore be prevented by the use of suitable ant bait or broadcast spray applied to the margins of new plantings (100 feet from margin) and adjacent areas. Some colonies within the field may survive through land preparation but are unable to survive until suitable food may be found and usually die out. If necessary, they may be controlled by ant-baits and spraying throughout the entire planting.
+REFERENCES
+Beardsley, J.W. 1959. On the Taxonomy of Pineapple Mealybugs in Hawaii, with a Description of a Previously Unnamed Species (Homoptera: Pseudococcidae). Proc. Hawaiian Entomol. Soc. 17(1): 29-37.
+Beardsley, J.W. 1965. Notes on the Pineapple Mealybug Complex, With Descriptions of Two New Species (Homoptera: Pseudococcidae).
+Proc. Hawaiian Entomol. Soc. 19(1): 55-68.
+Beardsley, J.W., T.H. Su, F.L. McEwen, D. Gerling. 1982. Field Investigations on the Interrelationships of the Big-Headed Ant, the Gray Pineapple Mealybug, and the Pineapple Mealybug Wilt Disease in Hawaii. Proc. Hawaiian Entomol. Soc. 24(1): 51-68.
+Carter, W. 1932. Studies of Populations of Pseudococcus brevipes (Ckl.) Occurring on Pineapple Plants. Ecology. 13: 296-304.
+Carter, W. 1933. The Pineapple Mealy Bug, Pseud
+Text Len: 1519
+--------------------------------------------------------------------------------
+ Mealybug Wilt Disease in Hawaii. Proc. Hawaiian Entomol. Soc. 24(1): 51-68.
+Carter, W. 1932. Studies of Populations of Pseudococcus brevipes (Ckl.) Occurring on Pineapple Plants. Ecology. 13: 296-304.
+Carter, W. 1933. The Pineapple Mealy Bug, Pseudococcus brevipes, and Wilt of Pineapples. Phytopathology 23(3): 207-242.
+Fullaway, D.T. 1924. Pineapple Insects. Annual Short Course of Pineapple Production. 3: 57-66.
+Hill, D.S. 1983. Dysmicoccus brevipes (Ckll.) pp. 214. In Agricultural Insect Pests of the Tropics and Their Control, 2nd Edition. Cambridge University Press. 746 pages.
+Illingworth, J.F. 1926. Pineapple Insects and Some Related Pests. Assn. Hawaii Pineapple Canners Exp. Station Bull. 9. p. 19-21.
+Illingworth, J.F. 1931. Preliminary Report on Evidence that Mealy Bugs are an Important Factor in Pineapple Wilt. J. Econ. Entomol. 24(4): 877-889.
+Ito, K. 1938. Studies on the Life Histories of the Pineapple Mealybug, Pseudococcus brevipes (Ckll.). J. Econ. Ent. 31(2): 291-198.
+LePelley, R.H. 1968. Dysmicoccus brevipes. pp. 346. Pests of Coffee Longmans, Green and Co., Ltd. London. 590 pages.
+Rohrbach, K.G., J.W. Beardsley, T.L. German, N.J. Reimer and W
+Text Len: 1175
+--------------------------------------------------------------------------------
+): 291-198.
+LePelley, R.H. 1968. Dysmicoccus brevipes. pp. 346. Pests of Coffee Longmans, Green and Co., Ltd. London. 590 pages.
+Rohrbach, K.G., J.W. Beardsley, T.L. German, N.J. Reimer and W.G. Sanford. 1988. Mealybug Wilt, Mealybugs, and Ants on Pineapple. Plant Disease. 72(7): 558-565.
+Zimmerman, E.C. 1948. Pseudococcus brevipes (Cockerell). pp. 189-201. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  MAR/1992.
+  D-BREV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 659
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Dysmicoccus brevipes (Cockerell)
+Pineapple Mealybug
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This mealybug is primarily a pest of pineapple and other bromeliads, however it will also infest Annona (cherimoya, atemoya, sugarapple), banana, celery, Citrus, coffee, cotton, Euphorbia, Gliricidia, Hibiscus, Hilo grass, mulberry, Natal soursop, nutgrass, orchid pineapple and Straussia.
+DISTRIBUTION
+This pest has a pantropical distribution, with a few records from subtropical localities. Essentially it is found wherever pineapple is grown such as Africa, Australia, Central and South America, India, and throughout the Pacific. It is present on all of the major Hawaiian Islands.
+DAMAGE
+This is one of the most economically important mealybug pests in Hawaii because of its involvement with diseases of pineapple. On pineapple, four types of damage are possible: 1) the transmission of pineapple wilt (also called mealybug wilt and edge-wilt); 2) the production of chlorotic areas where there has been prolonged feeding and the underlying tissues have been exhausted; 3) damage to the bottom of the pineapple by the feeding of large mealybug populations which makes the bottom slices unmarketable and may cause the rotting and leaking of the fruits; and 4) "mealybug stripe" which results from the feeding of a short section of each of 3 or 4 inner whorl leaves. It is characterized by streaks of pale green to yellow and by the
+Text Len: 1649
+--------------------------------------------------------------------------------
+ 3) damage to the bottom of the pineapple by the feeding of large mealybug populations which makes the bottom slices unmarketable and may cause the rotting and leaking of the fruits; and 4) "mealybug stripe" which results from the feeding of a short section of each of 3 or 4 inner whorl leaves. It is characterized by streaks of pale green to yellow and by the collapsing of the water storage tissues within these streaks.
+Pineapple wilt, or mealybug wilt, causes the most serious type of damage and is the principal cause of crop failure in Hawaii. There are two types of wilt, "quick wilt" and "slow wilt". Both types cause the collapse of roots by the invasion of saprophytic organisms or by drying up the root. "Quick wilt" is produced by a short period of feeding by a large colony of mealybugs and is characterized by discoloration of leaves to yellows or reds and the loss of rigidity in leaves. "Slow wilt" occurs after the development of a large colony of mealybugs and shows fewer color changes. Leaves will be covered with mealybug feeding sites, leaf tips are browned, outer leaves droop and the leaf will be flaccid to the touch. Pineapple wilt has also been called "edge wilt" because the margins of the field are affected first and the infection moves inward as the mealybug infestation disperses inwards. Fortunately, this disease has been controlled for the last 3 decades by routine ant control. However, it may once again become prevalent if mealybugs are not continually suppressed by limiting ant populations.
+On coffee, this mealybug infests the roots and may cause stunting and weakening of the plant. Plants rarely die from a mealybug infestation, and this pest is considered a minor pest of coffee.
+BIOLOGY
+In older literature this species was reported to have
+Text Len: 1786
+--------------------------------------------------------------------------------
+. However, it may once again become prevalent if mealybugs are not continually suppressed by limiting ant populations.
+On coffee, this mealybug infests the roots and may cause stunting and weakening of the plant. Plants rarely die from a mealybug infestation, and this pest is considered a minor pest of coffee.
+BIOLOGY
+In older literature this species was reported to have two races or "strains" in Hawaii. One that was bisexual and caused green spotting on pineapple and the other that reproduced nonsexually and did not produce green spot. Later studies (Beardsley, 1959) revealed that the two races were separate species Dysmicoccus brevipes (Cockerell) (the pineapple mealybug) which reproduced nonsexually and Dysmicoccus neobrevipes Beardsley (the gray pineapple mealybug) which was bisexual.
+In Hawaii, the pineapple mealybug reproduces nonsexually through a process called parthenogenesis in which females birth female larvae without fertilization by males. Thus only females of this species are present in Hawaii. In areas, such as Brazil, where males are present, both sexual and nonsexual reproduction occurs.
+The life cycle of D. brevipes was extensively studied by Ito (1938). The "pink form" mentioned in his paper is presently known as the pineapple mealybug. This insect goes through three larval stages before becoming an adult. The life span (first instar to death as an adult) varies from 78 to 111 days, averaging 95 days.
+Eggs
+This species does not lay eggs. Instead they are ovoviviparous, meaning the eggs hatch within the female and she births live young (larvae).
+Larvae
+Larvae, called "crawlers", are the primary dispersal stage in all mealybug species. They have flattened bodies with long hairs that aid in their dispers
+Text Len: 1749
+--------------------------------------------------------------------------------
+ days.
+Eggs
+This species does not lay eggs. Instead they are ovoviviparous, meaning the eggs hatch within the female and she births live young (larvae).
+Larvae
+Larvae, called "crawlers", are the primary dispersal stage in all mealybug species. They have flattened bodies with long hairs that aid in their dispersal by wind. They remain protected underneath the mother's body for a short time before developing a waxy covering.
+Larvae molt three times before reaching adult maturity. The first, second, and third instars or larval stages last for 10 to 26 days, 6 to 22 days and 7 to 24 days respectively. Thus, the total larval period varies from 26 to 55 days, averaging about 34 days. Larvae only feed as a first instar and in the early part of the second instar.
+Adults
+Adult females are plump and convex in body shape and pinkish in body color. Lateral wax filaments are usually less than one fourth as long as the breadth of the body, and those towards the back of the insect are one-half as long as the body. There are 17 pairs of these wax processes. Female pineapple mealybugs are similar in appearance to the gray pineapple mealybug females. Balachowsky, 1957 gives a detailed description of the female pineapple mealybug.
+The prelarviposition period for adult females lasts for around 27 days. The larviposition (giving birth to larvae) period lasts for an average of 25 days. They birth about 234 progeny but may produce up to 1000 crawlers. She may then live for another 5 days before dying. Duration of adult female life varies from 31-80 days, averaging about 56 days.
+Males do not exist in Hawaii. If a male mealybug is found on pineapple in Hawaii, it is most likely the gray pineapple me
+Text Len: 1704
+--------------------------------------------------------------------------------
+ for an average of 25 days. They birth about 234 progeny but may produce up to 1000 crawlers. She may then live for another 5 days before dying. Duration of adult female life varies from 31-80 days, averaging about 56 days.
+Males do not exist in Hawaii. If a male mealybug is found on pineapple in Hawaii, it is most likely the gray pineapple mealybug. Male pineapple mealybugs observed from Brazil are approximately 1/25 inch long. Pineapple mealybug males are distinguished from gray pineapple mealybug males by a difference in the number of antennal segments. The pineapple mealybug has 8 antennal segments and the gray pineappple mealybug has 10. Also, the pineapple mealybug has short clavate setae on its body and appendages in place of digitiform setae that is found on gray pineapple mealybugs. Beardsley (1965) gives a detailed description of the male pineapple mealybug.
+BEHAVIOR
+Pineapple mealybugs are secretive in habit and usually inhabit the base of their host plants such as the lower portions of stems and exposed roots of grasses and herbaceous plants, the butts of pineapple plants, and the lower stalks of sugar cane. These sites of attack differ from that of gray pineapple mealybugs which are normally found on the aerial parts of its hosts such as leaves, stems, aerial roots, and flower and fruit clusters.
+MANAGEMENT
+Mealybug control often focuses on the control of caretaking ants that are essential for the proper development of pineapple mealybugs. They provide the mealybugs shelter, protection from predators and parasites, and keep them clean from detritus that may accumulate in the secreted honeydew and be deleterious to the colony. Because of the essential role of the ants, management practices often include the control of tending ant species. Without the ants, me
+Text Len: 1801
+--------------------------------------------------------------------------------
+ ants that are essential for the proper development of pineapple mealybugs. They provide the mealybugs shelter, protection from predators and parasites, and keep them clean from detritus that may accumulate in the secreted honeydew and be deleterious to the colony. Because of the essential role of the ants, management practices often include the control of tending ant species. Without the ants, mealybug populations are small and slow to invade new areas and the field would be free of a serious mealybug infestation.
+Three ant species are responsible for maintaining mealybug populations on Hawaiian pineapple: 1) the big headed ant, Pheidole megacephala, the primary ant caretaker, which is found at elevations less than 2300 feet; 2) the Argentine ant, Iridomyrmex humilis (Mayr), at elevations above 1968 feet; and 3) the fire ant, Solenopsis geminata Fab. var. rufa, which is found under very dry conditions on the lowlands.
+Biological Control.
+There are many natural enemies for this mealybug in Hawaii. Parasites include Aenasius cariocus Compere, Aenasius colombiensis Compere, Anagyrus ananatis Gahan, Euryhopauus propinquus Kerrich, Hambletonia pseudococcina Compere and Ptomastidae abnormis (Girault). Predators include Cryptolaemus montrouzieri Mulsant, Lobodiplosis pseudococci Felt, Nephus bilucernarius Mulsant, Scymnus (Pullus) unicatus Sicard and Scymnus pictus Gorham. Although many natural enemies to the pineapple mealybug are present, they exhibit minimal control if protective ants are tending the mealybug colony.
+Cultural Control.
+When ants encounter a fence or wall they are likely
+Text Len: 1609
+--------------------------------------------------------------------------------
+ pseudococci Felt, Nephus bilucernarius Mulsant, Scymnus (Pullus) unicatus Sicard and Scymnus pictus Gorham. Although many natural enemies to the pineapple mealybug are present, they exhibit minimal control if protective ants are tending the mealybug colony.
+Cultural Control.
+When ants encounter a fence or wall they are likely to travel the course of the fence rather than up and over the fence to forage on the other side. Physical barriers such as ant fences running parallel to the field periphery are partially successful in keeping ants out of the field, and subsequently controlling mealybug populations.
+Previously infested fields should be turned over and all crop residue removed and burned. Crop residues and grass roots left in the field may harbor mealybug populations until the new crop has developed enough to support a mealybug population.
+Field borders should be kept clean of weeds and debris that may support mealybugs between plantings. Weeds also provide alternative food sources that maintain ant populations between periods where mealybug infestations are small.
+Chemical Control
+The chemical control of tending ant species has shown to be effective in the control of mealybug populations on pineapple. In the past chemicals such as heptachlor and mirex have been used to control ant populations and subsequently mealybug wilt in pineapple. Unfortunately, these chemicals have detrimental effects on the environment because of their slow degradation and have been banned for use by the Environmental Protection Agency.
+AMDRO is not labelled for the crop Anonna as of April 2007.
+Big-headed ant colonies are destroyed during land preparation and planting procedures because their nests are located near the soil surface. Re-invasion by colonies from adjacent infested fields, fallow or uncultivated areas is slow. Establishment of ant populations in new plantings may therefore be prevented by the use of suitable ant bait or broadcast spray applied to the margins
+Text Len: 1987
+--------------------------------------------------------------------------------
+ crop Anonna as of April 2007.
+Big-headed ant colonies are destroyed during land preparation and planting procedures because their nests are located near the soil surface. Re-invasion by colonies from adjacent infested fields, fallow or uncultivated areas is slow. Establishment of ant populations in new plantings may therefore be prevented by the use of suitable ant bait or broadcast spray applied to the margins of new plantings (100 feet from margin) and adjacent areas. Some colonies within the field may survive through land preparation but are unable to survive until suitable food may be found and usually die out. If necessary, they may be controlled by ant-baits and spraying throughout the entire planting.
+REFERENCES
+Beardsley, J.W. 1959. On the Taxonomy of Pineapple Mealybugs in Hawaii, with a Description of a Previously Unnamed Species (Homoptera: Pseudococcidae). Proc. Hawaiian Entomol. Soc. 17(1): 29-37.
+Beardsley, J.W. 1965. Notes on the Pineapple Mealybug Complex, With Descriptions of Two New Species (Homoptera: Pseudococcidae).
+Proc. Hawaiian Entomol. Soc. 19(1): 55-68.
+Beardsley, J.W., T.H. Su, F.L. McEwen, D. Gerling. 1982. Field Investigations on the Interrelationships of the Big-Headed Ant, the Gray Pineapple Mealybug, and the Pineapple Mealybug Wilt Disease in Hawaii. Proc. Hawaiian Entomol. Soc. 24(1): 51-68.
+Carter, W. 1932. Studies of Populations of Pseudococcus brevipes (Ckl.) Occurring on Pineapple Plants. Ecology. 13: 296-304.
+Carter, W. 1933. The Pineapple Mealy Bug, Pseud
+Text Len: 1519
+--------------------------------------------------------------------------------
+ Mealybug Wilt Disease in Hawaii. Proc. Hawaiian Entomol. Soc. 24(1): 51-68.
+Carter, W. 1932. Studies of Populations of Pseudococcus brevipes (Ckl.) Occurring on Pineapple Plants. Ecology. 13: 296-304.
+Carter, W. 1933. The Pineapple Mealy Bug, Pseudococcus brevipes, and Wilt of Pineapples. Phytopathology 23(3): 207-242.
+Fullaway, D.T. 1924. Pineapple Insects. Annual Short Course of Pineapple Production. 3: 57-66.
+Hill, D.S. 1983. Dysmicoccus brevipes (Ckll.) pp. 214. In Agricultural Insect Pests of the Tropics and Their Control, 2nd Edition. Cambridge University Press. 746 pages.
+Illingworth, J.F. 1926. Pineapple Insects and Some Related Pests. Assn. Hawaii Pineapple Canners Exp. Station Bull. 9. p. 19-21.
+Illingworth, J.F. 1931. Preliminary Report on Evidence that Mealy Bugs are an Important Factor in Pineapple Wilt. J. Econ. Entomol. 24(4): 877-889.
+Ito, K. 1938. Studies on the Life Histories of the Pineapple Mealybug, Pseudococcus brevipes (Ckll.). J. Econ. Ent. 31(2): 291-198.
+LePelley, R.H. 1968. Dysmicoccus brevipes. pp. 346. Pests of Coffee Longmans, Green and Co., Ltd. London. 590 pages.
+Rohrbach, K.G., J.W. Beardsley, T.L. German, N.J. Reimer and W
+Text Len: 1175
+--------------------------------------------------------------------------------
+): 291-198.
+LePelley, R.H. 1968. Dysmicoccus brevipes. pp. 346. Pests of Coffee Longmans, Green and Co., Ltd. London. 590 pages.
+Rohrbach, K.G., J.W. Beardsley, T.L. German, N.J. Reimer and W.G. Sanford. 1988. Mealybug Wilt, Mealybugs, and Ants on Pineapple. Plant Disease. 72(7): 558-565.
+Zimmerman, E.C. 1948. Pseudococcus brevipes (Cockerell). pp. 189-201. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  MAR/1992.
+  D-BREV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 659
+--------------------------------------------------------------------------------

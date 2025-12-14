@@ -1,0 +1,134 @@
+Crop Knowledge Master
+Puluinaria mammeae (Maskell)
+Large Cottony Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This scale attacks a wide variety of hosts including avocado, coffee, ferns, Ficus palawanensis, Ficus variegata, fig, litchi, Hibiscus, Mammea americana, mango, orange, plum, and pomegranate.
+DISTRIBUTION
+The large cottony scale is found in Australia and North America. It has been in Hawaii on the island of Oahu since 1894 and has not been reported on any other islands since then.
+DAMAGE
+Like other soft bodied insects such as aphids, leafhoppers, and mealybugs, scales produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects which in turn may tend and offer protection to scale insects. The honeydew serves as the medium on which a sooty fungus grows, called sooty mold. Sooty mold blackens the leaf, decreases photosynthesis activity, decreases vigor, and often causes disfigurement of the host. When the sooty mold occurs on fruit, it often becomes unmarketable or of a lower grade because the fungus is difficult to wash off (Elmer and Brawner, 1975).
+The large cottony scale feeds from the phloem of the host plant. Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set, and a loss in plant vigor may occur.
+BI
+Text Len: 1562
+--------------------------------------------------------------------------------
+ lower grade because the fungus is difficult to wash off (Elmer and Brawner, 1975).
+The large cottony scale feeds from the phloem of the host plant. Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set, and a loss in plant vigor may occur.
+BIOLOGY
+There are two types of scales: the armored scales and the soft scales. The large cottony scale is classified as an armored scale. These scales are protected by a distinct, hard, separable shell or scale over their delicate bodies (Metcalf, 1962). The shell is made of entangled threads of wax exuded from the body wall of the scale and discarded cast skins (the old skin shed during molts). Armored scales lose their legs and antennae after the first molt. Females are always wingless and remain under their scale their entire life. Males have one pair of membranous wings, move about actively in search of females, and do not feed during the adult stage. Reproduction is by eggs in most cases, but a few species birth live young. Eggs are protected underneath the scale or shell of the mother insect until they hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+EGGS
+Eggs are laid within long, white, silk-like filaments with elastic character called the ovisac. In this species, the ovisac forms a pad or cushion behind and beneath the parent insect. When enough eggs have accumulated, the adult will be pushed off its nest. This cushiony ovisac is characteristic of this genus of scales.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size
+Text Len: 1818
+--------------------------------------------------------------------------------
+ eggs have accumulated, the adult will be pushed off its nest. This cushiony ovisac is characteristic of this genus of scales.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size.
+ADULTS
+This species is one of Hawaii's largest scales at full maturity. Slide mounted specimens are broadly ovoid measuring 1/3-5/12 inch in length with a mass of a fluffy "cotton" eggsac reaching as much as 1 inch beyond the rear of the insect. On host plants they appear as scattered tufts of cotton rather than insects. Refer to Zimmerman (1948) for a detailed description.
+MANAGEMENT
+Non-Chemical Control
+Several natural enemies of this pest are effective in controlling this pest. They include the parasites Microterys kotinskyi (Fullaway) and Microterys flavus (Howard) and the predacious lady bird beetles Cryptolaemus montrouzieri and Rodolia cardinalis (Mulsant).
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+Chemical Control
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate, malathion, and nicotine (Copland and Ibrahim, 1985). When using any chemical, always consult the label and determine the appropriate chemical to use on a specific crop.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached, even after their death. This may give a false
+Text Len: 1824
+--------------------------------------------------------------------------------
+ malathion, and nicotine (Copland and Ibrahim, 1985). When using any chemical, always consult the label and determine the appropriate chemical to use on a specific crop.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached, even after their death. This may give a false impression of the pest infestation status (Copland and Ibrahim, 1985). Eggs are protected by the waxy covering of the mother and are shielded from chemical sprays. Plant sensitivity to chemical sprays must also be considered, since scales are often pests of sensitive ornamental plants (Copland and Ibrahim, 1985).
+Diazinon, dimethoate, and malathion are not labelled as of April 2007.
+REFERENCES
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N.W. and N. Scopes. Cornell University Press; Ithaca, New York.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Zimmerman, E.C. 1948. Pulvinaria mammeae Mas
+Text Len: 1494
+--------------------------------------------------------------------------------
+ Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Zimmerman, E.C. 1948. Pulvinaria mammeae Maskell. pp. 333-336. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  .
+  JUL/1992
+  P-MAMMAE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 577
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Puluinaria mammeae (Maskell)
+Large Cottony Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This scale attacks a wide variety of hosts including avocado, coffee, ferns, Ficus palawanensis, Ficus variegata, fig, litchi, Hibiscus, Mammea americana, mango, orange, plum, and pomegranate.
+DISTRIBUTION
+The large cottony scale is found in Australia and North America. It has been in Hawaii on the island of Oahu since 1894 and has not been reported on any other islands since then.
+DAMAGE
+Like other soft bodied insects such as aphids, leafhoppers, and mealybugs, scales produce honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects which in turn may tend and offer protection to scale insects. The honeydew serves as the medium on which a sooty fungus grows, called sooty mold. Sooty mold blackens the leaf, decreases photosynthesis activity, decreases vigor, and often causes disfigurement of the host. When the sooty mold occurs on fruit, it often becomes unmarketable or of a lower grade because the fungus is difficult to wash off (Elmer and Brawner, 1975).
+The large cottony scale feeds from the phloem of the host plant. Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set, and a loss in plant vigor may occur.
+BI
+Text Len: 1562
+--------------------------------------------------------------------------------
+ lower grade because the fungus is difficult to wash off (Elmer and Brawner, 1975).
+The large cottony scale feeds from the phloem of the host plant. Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set, and a loss in plant vigor may occur.
+BIOLOGY
+There are two types of scales: the armored scales and the soft scales. The large cottony scale is classified as an armored scale. These scales are protected by a distinct, hard, separable shell or scale over their delicate bodies (Metcalf, 1962). The shell is made of entangled threads of wax exuded from the body wall of the scale and discarded cast skins (the old skin shed during molts). Armored scales lose their legs and antennae after the first molt. Females are always wingless and remain under their scale their entire life. Males have one pair of membranous wings, move about actively in search of females, and do not feed during the adult stage. Reproduction is by eggs in most cases, but a few species birth live young. Eggs are protected underneath the scale or shell of the mother insect until they hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+EGGS
+Eggs are laid within long, white, silk-like filaments with elastic character called the ovisac. In this species, the ovisac forms a pad or cushion behind and beneath the parent insect. When enough eggs have accumulated, the adult will be pushed off its nest. This cushiony ovisac is characteristic of this genus of scales.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size
+Text Len: 1818
+--------------------------------------------------------------------------------
+ eggs have accumulated, the adult will be pushed off its nest. This cushiony ovisac is characteristic of this genus of scales.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size.
+ADULTS
+This species is one of Hawaii's largest scales at full maturity. Slide mounted specimens are broadly ovoid measuring 1/3-5/12 inch in length with a mass of a fluffy "cotton" eggsac reaching as much as 1 inch beyond the rear of the insect. On host plants they appear as scattered tufts of cotton rather than insects. Refer to Zimmerman (1948) for a detailed description.
+MANAGEMENT
+Non-Chemical Control
+Several natural enemies of this pest are effective in controlling this pest. They include the parasites Microterys kotinskyi (Fullaway) and Microterys flavus (Howard) and the predacious lady bird beetles Cryptolaemus montrouzieri and Rodolia cardinalis (Mulsant).
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+Chemical Control
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate, malathion, and nicotine (Copland and Ibrahim, 1985). When using any chemical, always consult the label and determine the appropriate chemical to use on a specific crop.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached, even after their death. This may give a false
+Text Len: 1824
+--------------------------------------------------------------------------------
+ malathion, and nicotine (Copland and Ibrahim, 1985). When using any chemical, always consult the label and determine the appropriate chemical to use on a specific crop.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached, even after their death. This may give a false impression of the pest infestation status (Copland and Ibrahim, 1985). Eggs are protected by the waxy covering of the mother and are shielded from chemical sprays. Plant sensitivity to chemical sprays must also be considered, since scales are often pests of sensitive ornamental plants (Copland and Ibrahim, 1985).
+Diazinon, dimethoate, and malathion are not labelled as of April 2007.
+REFERENCES
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N.W. and N. Scopes. Cornell University Press; Ithaca, New York.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Zimmerman, E.C. 1948. Pulvinaria mammeae Mas
+Text Len: 1494
+--------------------------------------------------------------------------------
+ Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Zimmerman, E.C. 1948. Pulvinaria mammeae Maskell. pp. 333-336. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  .
+  JUL/1992
+  P-MAMMAE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 577
+--------------------------------------------------------------------------------

@@ -1,0 +1,296 @@
+ 
+ 
+      
+ 
+        
+    
+     
+   
+   
+   
+        
+          
+ 
+       
+ 
+        
+ 
+       
+                 
+            
+              
+       
+ 
+                   
+             
+               
+               
+             
+               
+                
+  
+ 
+              
+ 
+               
+      
+ 
+  
+  
+  
+  
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira canicola Master Reference Bacterin 
+2
+Text Len: 565
+--------------------------------------------------------------------------------
+
+  
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira canicola Master Reference Bacterin 
+2. Strain or Source: Lot 0367A00701 (Hond Utrecht Strain) 
+3. Lot Number: IRP 699 
+4. Fill Date: March 5, 2024 
+5. Expiration Date: April 30,2029 
+Precautions: Caution – contains Thimerosal at 0.00042% 
+6. Intended Use: To be used as a reference bacterin in accordance with SAM 625 
+(Supplemental Assay Method for in vitro Potency Testing of Leptospira interrogans Serogroup 
+canicola Bacterins). CAUTION: This reference is to be used for canine, swine, and bovine 
+vaccines as approved in Outlines of Production. 
+7. Instructions for Use: Make an initial dilution of 1:10 (1.0 mL bacterin + 9.0 mL 0.85% 
+NaCl solution of 0.01M phosphate buffered saline). Adjust final dilution (using 0.85% NaCl 
+solution or phosphate buffered saline) based on host animal dosage per the following table. This 
+dilution is used as the Working Reference bacterin for ELISA testing. The final dilution is 
+considered as UNDILUTED when entering data into the software to estimate relative potency. 
+Initial 
+dilution 
+Host 
+dose 
+Additional 
+Dilution 
+Final 
+dilution 
+1:10
+Text Len: 1299
+--------------------------------------------------------------------------------
+ This 
+dilution is used as the Working Reference bacterin for ELISA testing. The final dilution is 
+considered as UNDILUTED when entering data into the software to estimate relative potency. 
+Initial 
+dilution 
+Host 
+dose 
+Additional 
+Dilution 
+Final 
+dilution 
+1:10 1 mL None 1:10 
+1:10 2 mL 1:2 1:20 
+1:10 4 mL 1:4 1:40 
+1:10 5 mL 1:5 1:50 
+8. Test of Reagent: Tested satisfactory for sterility according to title 9, Code of Federal 
+Regulations (9 CFR), part 113.26. Tested in comparison to old reference IRP 555 for validity and 
+use dilution. 
+9. Container Size, Type, Weight, or Volume: 2ml cryovials with ~1ml liquid reference. 
+10. Storage Conditions: 2° – 7°C for long-term storage. Avoid freeze thawing this product. 
+CVB-DAT-5188.02 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+      
+ 
+        
+          
+ 
+        
+            
+              
+   
+              
+  
+              
+ 
+CONTROLLED//PROPIN//BASIC 
+
+Text Len: 963
+--------------------------------------------------------------------------------
+          
+              
+   
+              
+  
+              
+ 
+CONTROLLED//PROPIN//BASIC 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, 
+(515) 337-6100. 
+12. Origin and Passage History: Passage history not available. 
+13. Method of Preparation: This bulk reagent was provided by a licensed establishment. 
+Bacterin was diluted prior to bottling using 0.01M phosphate buffered saline solution as diluent. 
+14. Other: None 
+Restrictions: (optional) 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-5188.02 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 791
+--------------------------------------------------------------------------------
+ 
+ 
+      
+ 
+        
+    
+     
+   
+   
+   
+        
+          
+ 
+       
+ 
+        
+ 
+       
+                 
+            
+              
+       
+ 
+                   
+             
+               
+               
+             
+               
+                
+  
+ 
+              
+ 
+               
+      
+ 
+  
+  
+  
+  
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira canicola Master Reference Bacterin 
+2
+Text Len: 565
+--------------------------------------------------------------------------------
+
+  
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira canicola Master Reference Bacterin 
+2. Strain or Source: Lot 0367A00701 (Hond Utrecht Strain) 
+3. Lot Number: IRP 699 
+4. Fill Date: March 5, 2024 
+5. Expiration Date: April 30,2029 
+Precautions: Caution – contains Thimerosal at 0.00042% 
+6. Intended Use: To be used as a reference bacterin in accordance with SAM 625 
+(Supplemental Assay Method for in vitro Potency Testing of Leptospira interrogans Serogroup 
+canicola Bacterins). CAUTION: This reference is to be used for canine, swine, and bovine 
+vaccines as approved in Outlines of Production. 
+7. Instructions for Use: Make an initial dilution of 1:10 (1.0 mL bacterin + 9.0 mL 0.85% 
+NaCl solution of 0.01M phosphate buffered saline). Adjust final dilution (using 0.85% NaCl 
+solution or phosphate buffered saline) based on host animal dosage per the following table. This 
+dilution is used as the Working Reference bacterin for ELISA testing. The final dilution is 
+considered as UNDILUTED when entering data into the software to estimate relative potency. 
+Initial 
+dilution 
+Host 
+dose 
+Additional 
+Dilution 
+Final 
+dilution 
+1:10
+Text Len: 1299
+--------------------------------------------------------------------------------
+ This 
+dilution is used as the Working Reference bacterin for ELISA testing. The final dilution is 
+considered as UNDILUTED when entering data into the software to estimate relative potency. 
+Initial 
+dilution 
+Host 
+dose 
+Additional 
+Dilution 
+Final 
+dilution 
+1:10 1 mL None 1:10 
+1:10 2 mL 1:2 1:20 
+1:10 4 mL 1:4 1:40 
+1:10 5 mL 1:5 1:50 
+8. Test of Reagent: Tested satisfactory for sterility according to title 9, Code of Federal 
+Regulations (9 CFR), part 113.26. Tested in comparison to old reference IRP 555 for validity and 
+use dilution. 
+9. Container Size, Type, Weight, or Volume: 2ml cryovials with ~1ml liquid reference. 
+10. Storage Conditions: 2° – 7°C for long-term storage. Avoid freeze thawing this product. 
+CVB-DAT-5188.02 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+      
+ 
+        
+          
+ 
+        
+            
+              
+   
+              
+  
+              
+ 
+CONTROLLED//PROPIN//BASIC 
+
+Text Len: 963
+--------------------------------------------------------------------------------
+          
+              
+   
+              
+  
+              
+ 
+CONTROLLED//PROPIN//BASIC 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, 
+(515) 337-6100. 
+12. Origin and Passage History: Passage history not available. 
+13. Method of Preparation: This bulk reagent was provided by a licensed establishment. 
+Bacterin was diluted prior to bottling using 0.01M phosphate buffered saline solution as diluent. 
+14. Other: None 
+Restrictions: (optional) 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-5188.02 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 791
+--------------------------------------------------------------------------------

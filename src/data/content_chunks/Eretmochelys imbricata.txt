@@ -1,0 +1,294 @@
+ANIMALIA CHORDATA VERTEBRATA GNATHOSTOMATA REPTILIA TESTUDINES CHELONIIDAE Eretmochelys Eretmochelys imbricata
+  API
+Eretmochelys imbricata (Linnaeus, 1766)
+species Accepted Name authority: AFD
+Hawksbill Turtle
+Overview
+Gallery
+Names
+Classification
+Charts
+Literature
+Data Partners
+Photographer: Marine Explorer (Dr John Turnbull)
++
+Conservation Status
+AUSVulnerable
+BonnListed
+NTVulnerable
+QLDEndangered
+TASVulnerable
+WAVulnerable
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Compiled distribution maps (2)
+>
+1: Expert distribution (likely) Eretmochelys imbricata provided by Australia - Species of National Environmental Significance Database (Public Grids)
+Occurrence records map (8,910 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+View and download occurrence records
+Record a sighting
+Receive alerts when new records are added
+Datasets
+34 datasets have provided data to the Atlas of Living Australia for this species.
+Browse the list of datasets and find organisations you can join if you are interested in participating in a survey for species like Eretmochelys imbricata (Linnaeus, 1766)
+Museums Field Guide apps species profiles – vertebrates
+Brief description A large green sea turtle with a prominent beak.
+Description A large-sized green sea turtle. Overall body colour is green above with brown, red, or black variegations on the shell. Head is very distinct, with a large
+Text Len: 1526
+--------------------------------------------------------------------------------
+retmochelys imbricata (Linnaeus, 1766)
+Museums Field Guide apps species profiles – vertebrates
+Brief description A large green sea turtle with a prominent beak.
+Description A large-sized green sea turtle. Overall body colour is green above with brown, red, or black variegations on the shell. Head is very distinct, with a large beak. Forearms are modified into large flippers. Maximum length 100 cm.
+Biology This species can be quite common along coasts. Adults are commonly found foraging on sponges in coral reefs. They rarely nest in Australian waters, but have been known to occasionally nest in the Gulf of Carpentaria and Torres Strait regions. Up to 50 eggs are laid in a season. This species is listed as Vulnerable under the Territory Parks and Wildlife Act.
+Habitat Coastal Marine.
+Native status Native to Australia
+Maximum size (cm) 100
+Diet Omnivore
+Dangerous Usually harmless, but can bite.
+Colours Green, brown
+Distribution Around Australia.
+Habitat types Marine
+Depth Shore (0-1m),Shallow (1-30m),Deep (>30m)
+Water column Surface,Midwater,On or near seafloor
+Commercial species False
+Where seen Totally aquatic.
+When seen Active by day.
+Author credit Dane Trembath / Museum & Art Gallery of the Northern Territory
+Provided by: Museums Field Guide apps species profiles – vertebrates
+Western Australia : Conservation status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+status Vulnerable
+sourceStatus Threatened species - Vulnerable under the Biodiversity Conservation Act 2016.
+IUCN_equivalent_status Vulnerable
+Provided by: Western Australia : Conservation status
+EPBC Act Threatened Species
+raw_scientificName Eretmochelys
+Text Len: 1668
+--------------------------------------------------------------------------------
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+status Vulnerable
+sourceStatus Threatened species - Vulnerable under the Biodiversity Conservation Act 2016.
+IUCN_equivalent_status Vulnerable
+Provided by: Western Australia : Conservation status
+EPBC Act Threatened Species
+raw_scientificName Eretmochelys imbricata
+vernacularName Hawksbill Turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus Vulnerable
+genus Eretmochelys
+IUCN_equivalent_status Vulnerable
+Provided by: EPBC Act Threatened Species
+Northern Territory : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName Hawksbill turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus Vulnerable
+IUCN_equivalent_status Vulnerable
+Provided by: Northern Territory : Conservation Status
+Bonn Convention Migratory Taxa
+family Cheloniidae
+kingdom Animalia
+taxonomic Status accepted
+raw Rank species
+raw Family Cheloniidae
+raw Kingdom Animalia
+status Listed
+Provided by: Bonn Convention Migratory Taxa
+Queensland : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+family Cheloniidae
+status Endangered
+sourceStatus Endangered
+WildNetTaxonID 39
+taxonID https://apps.des.qld.gov.au/species-search/details/?id=39
+IUCN_equivalent_status Endangered
+Provided by: Queensland : Conservation Status
+Western Australia : Sensitive Species List
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+generalisation 10km
+category VU
+Provided by: Western Australia : Sensitive Species List
+Tasmania
+Text Len: 1548
+--------------------------------------------------------------------------------
+/details/?id=39
+IUCN_equivalent_status Endangered
+Provided by: Queensland : Conservation Status
+Western Australia : Sensitive Species List
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+generalisation 10km
+category VU
+Provided by: Western Australia : Sensitive Species List
+Tasmania : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus vulnerable
+IUCN_equivalent_status Vulnerable
+Provided by: Tasmania : Conservation Status
+Text Len: 544
+--------------------------------------------------------------------------------
+ANIMALIA CHORDATA VERTEBRATA GNATHOSTOMATA REPTILIA TESTUDINES CHELONIIDAE Eretmochelys Eretmochelys imbricata
+  API
+Eretmochelys imbricata (Linnaeus, 1766)
+species Accepted Name authority: AFD
+Hawksbill Turtle
+Overview
+Gallery
+Names
+Classification
+Charts
+Literature
+Data Partners
+Photographer: Marine Explorer (Dr John Turnbull)
++
+Conservation Status
+AUSVulnerable
+BonnListed
+NTVulnerable
+QLDEndangered
+TASVulnerable
+WAVulnerable
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Compiled distribution maps (2)
+>
+1: Expert distribution (likely) Eretmochelys imbricata provided by Australia - Species of National Environmental Significance Database (Public Grids)
+Occurrence records map (8,910 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+View and download occurrence records
+Record a sighting
+Receive alerts when new records are added
+Datasets
+34 datasets have provided data to the Atlas of Living Australia for this species.
+Browse the list of datasets and find organisations you can join if you are interested in participating in a survey for species like Eretmochelys imbricata (Linnaeus, 1766)
+Museums Field Guide apps species profiles – vertebrates
+Brief description A large green sea turtle with a prominent beak.
+Description A large-sized green sea turtle. Overall body colour is green above with brown, red, or black variegations on the shell. Head is very distinct, with a large
+Text Len: 1526
+--------------------------------------------------------------------------------
+retmochelys imbricata (Linnaeus, 1766)
+Museums Field Guide apps species profiles – vertebrates
+Brief description A large green sea turtle with a prominent beak.
+Description A large-sized green sea turtle. Overall body colour is green above with brown, red, or black variegations on the shell. Head is very distinct, with a large beak. Forearms are modified into large flippers. Maximum length 100 cm.
+Biology This species can be quite common along coasts. Adults are commonly found foraging on sponges in coral reefs. They rarely nest in Australian waters, but have been known to occasionally nest in the Gulf of Carpentaria and Torres Strait regions. Up to 50 eggs are laid in a season. This species is listed as Vulnerable under the Territory Parks and Wildlife Act.
+Habitat Coastal Marine.
+Native status Native to Australia
+Maximum size (cm) 100
+Diet Omnivore
+Dangerous Usually harmless, but can bite.
+Colours Green, brown
+Distribution Around Australia.
+Habitat types Marine
+Depth Shore (0-1m),Shallow (1-30m),Deep (>30m)
+Water column Surface,Midwater,On or near seafloor
+Commercial species False
+Where seen Totally aquatic.
+When seen Active by day.
+Author credit Dane Trembath / Museum & Art Gallery of the Northern Territory
+Provided by: Museums Field Guide apps species profiles – vertebrates
+Western Australia : Conservation status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+status Vulnerable
+sourceStatus Threatened species - Vulnerable under the Biodiversity Conservation Act 2016.
+IUCN_equivalent_status Vulnerable
+Provided by: Western Australia : Conservation status
+EPBC Act Threatened Species
+raw_scientificName Eretmochelys
+Text Len: 1668
+--------------------------------------------------------------------------------
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+status Vulnerable
+sourceStatus Threatened species - Vulnerable under the Biodiversity Conservation Act 2016.
+IUCN_equivalent_status Vulnerable
+Provided by: Western Australia : Conservation status
+EPBC Act Threatened Species
+raw_scientificName Eretmochelys imbricata
+vernacularName Hawksbill Turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus Vulnerable
+genus Eretmochelys
+IUCN_equivalent_status Vulnerable
+Provided by: EPBC Act Threatened Species
+Northern Territory : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName Hawksbill turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus Vulnerable
+IUCN_equivalent_status Vulnerable
+Provided by: Northern Territory : Conservation Status
+Bonn Convention Migratory Taxa
+family Cheloniidae
+kingdom Animalia
+taxonomic Status accepted
+raw Rank species
+raw Family Cheloniidae
+raw Kingdom Animalia
+status Listed
+Provided by: Bonn Convention Migratory Taxa
+Queensland : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+family Cheloniidae
+status Endangered
+sourceStatus Endangered
+WildNetTaxonID 39
+taxonID https://apps.des.qld.gov.au/species-search/details/?id=39
+IUCN_equivalent_status Endangered
+Provided by: Queensland : Conservation Status
+Western Australia : Sensitive Species List
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+generalisation 10km
+category VU
+Provided by: Western Australia : Sensitive Species List
+Tasmania
+Text Len: 1548
+--------------------------------------------------------------------------------
+/details/?id=39
+IUCN_equivalent_status Endangered
+Provided by: Queensland : Conservation Status
+Western Australia : Sensitive Species List
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+generalisation 10km
+category VU
+Provided by: Western Australia : Sensitive Species List
+Tasmania : Conservation Status
+raw_scientificName Eretmochelys imbricata
+vernacularName hawksbill turtle
+family Cheloniidae
+status Vulnerable
+sourceStatus vulnerable
+IUCN_equivalent_status Vulnerable
+Provided by: Tasmania : Conservation Status
+Text Len: 544
+--------------------------------------------------------------------------------

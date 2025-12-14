@@ -1,0 +1,138 @@
+Crop Knowledge Master
+Hedylepta blackburni (Butler)
+Coconut Leafroller
+Hosts Distribution Damage Biology Behavior Management Reference
+Author
+Jayma L. Martin Kessing, Educational Specialist
+Ronald F.L. Mau, Extension Entomologist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+This caterpillar is believed to have originated on either native bananas or endemic palms belonging to the Pritchardia genus (Swezey, 1952, 1954), and later went to coconut as an alternate host after its introduction. Today this pest attacks coconut, Pritchardia, introduced palms and all varieties of banana .
+DISTRIBUTION
+This moth was first reported by Dr. Wm. Hillebrand at Lahaina, Maui in the 1860s (Swezey, 1952) and later described by Butler in 1877. There is extensive literature on pests of coconut throughout the Pacific basin, but the coconut leafroller is only found in Hawaii and for this reason is thought to be endemic to Hawaii (Swezey, 1954). It is present on all major Hawaiian islands.
+DAMAGE
+Young larvae feed on the underside of the leaves beneath a protective thin web of silk, and leave the opposite epidermis of the leaf in tact (Zimmerman, 1958). The larvae scatter on the leaf and form a protective environment by fastening the lower edges of the leaves together with ropes of white silk. As the larvae get older they feed on the epidermis of both leaf surfaces (Zimmerman, 1958). By the time they are ready to pupate the leaves are reduced to threads (Swezey, 1954).
+This pest is more prevalent in windswept areas (Bess, 1974). We suspect that this is due to wind interference in the activity of parasitoids.
+BIOLOGY
+The descriptions of the eggs, larvae and pupae are taken from an account by
+Text Len: 1698
+--------------------------------------------------------------------------------
+man, 1958). By the time they are ready to pupate the leaves are reduced to threads (Swezey, 1954).
+This pest is more prevalent in windswept areas (Bess, 1974). We suspect that this is due to wind interference in the activity of parasitoids.
+BIOLOGY
+The descriptions of the eggs, larvae and pupae are taken from an account by Swezey (1907) that appears in Zimmerman (1958).
+EGGS
+Eggs are flattened and rounded. They are laid in regular rows, with each egg slightly overlapping the egg next to it, in a narrow mass along the leaf rib. Egg masses usually contain 30 to 50 eggs Zimmerman (1958).
+LARVAE
+The coconut leafroller molts five times before becoming a pupa. Each molt is separated by an interval of 4 to 5 days with a slightly longer interval occurring during the fifth larval stage (instar) that occurs before pupation. The larval stage is completed in about 4 weeks Zimmerman (1958).
+Newly hatched larvae are whitish with several black dots clustered at the head and along its body. They measure about 1/12 inch (2 mm) in length. The markings become more prominent on the second, third and fourth larval instars. The full grown caterpillar is dull green with two white stripes running the length of the body and measures 1-7/25 (32 mm) to 1-2/5 (35 mm) inches in length. The face of the caterpillar has several black spots that form a horizontal row of four spots on each side of the face. The caterpillars turn yellowish just before pupating (Zimmerman, 1958).
+PUPAE
+The pupae are light to dark brown depending on the age, have several rows of delicate hairs running down its body, and measure 3/5 (15 mm) to 4/5 (19 mm
+Text Len: 1627
+--------------------------------------------------------------------------------
+ black spots that form a horizontal row of four spots on each side of the face. The caterpillars turn yellowish just before pupating (Zimmerman, 1958).
+PUPAE
+The pupae are light to dark brown depending on the age, have several rows of delicate hairs running down its body, and measure 3/5 (15 mm) to 4/5 (19 mm) inch in length. They are contained within a slight cocoon in which the pupae are visible through. Adult moths emerge in 11 to 13 days (Zimmerman, 1958).
+ADULTS
+Adult moths have a wing expanse of about 1 inch (2.54 cm). The forewings are brownish-yellow with a grayish-brown stripe along the median vein that is margined by a sandy-whitish diffused line on either side and the outer margins of the wings are dotted with black spots. The hindwings are pale grayish-brown with white discs, a slight reddish tint externally and also have a series of black spots on the outer margins. The body is whitish to creamy-whitish (Butler, 1877).
+BEHAVIOR
+Older caterpillars attach the edges of the coconut leaves together with silken threads to form a protective chamber (Zimmerman, 1958).
+MANAGEMENT
+Biological Control -- Parasites
+Parasites present in Hawaii are the egg parasite, Trichogramma minutum Riley; the larval parasites: Achaetoneura archippivora (Williston), Bracon omiodivorum (Terry), Casinaria infesta (Cresson), Chaetogaedia monticola (Bigot), Horogenes blackburni (Cameron), and the pupal parasites: Brachymeria obscurata (Smith), Coccygomimus punicipes (Cresson) and Echthromorph fusc
+Text Len: 1503
+--------------------------------------------------------------------------------
+ (Williston), Bracon omiodivorum (Terry), Casinaria infesta (Cresson), Chaetogaedia monticola (Bigot), Horogenes blackburni (Cameron), and the pupal parasites: Brachymeria obscurata (Smith), Coccygomimus punicipes (Cresson) and Echthromorph fuscator (Fabricius) (Swezey, 1954; Bess, 1974)). These parasites are very effective and are credited with the low incidence of coconut leafroller injury. T. flavoorbitalis is probably the most effective parasite (Bess, 1974). Parasites are hampered by strong winds. Therefore, their control is less effective in windswept areas and best in protected areas (Bess, 1974).
+Biological Control -- Predators
+This pest is also attacked by predators. Pheidole megacephala (Fabricius), the big headed ant, eats the eggs and preys upon the larvae. Coconut leafroller caterpillars are also eaten by Odynerus nigripennis (Holmgren) and Polistes species (Zimmerman, 1958)
+CHEMICAL CONTROL
+Chemical control of this pest is usually not needed because of the effectiveness of the parasites.
+REFERENCES
+Bess, H. A. 1974. Hedylepta blackburni (Butler), A Perennial Pest of Coconut on Wind-swept Sites in Hawaii. Proc. Hawaiian Entomol. Soc. 21(3): 343-353.
+Butler, A. G. 1877. List of Heterocerous Lepidoptera Recently Collected by the Rev. T. Blackburni in the Hawaiian Islands. Ent. Mon. Mag. 14: 47-50.
+Swezey, O. H. 1952. Insect Fauna of a Coconut Tree. Proc. Hawaiian Entomol.
+Text Len: 1405
+--------------------------------------------------------------------------------
+): 343-353.
+Butler, A. G. 1877. List of Heterocerous Lepidoptera Recently Collected by the Rev. T. Blackburni in the Hawaiian Islands. Ent. Mon. Mag. 14: 47-50.
+Swezey, O. H. 1952. Insect Fauna of a Coconut Tree. Proc. Hawaiian Entomol. Soc. 14(3): 377-378.
+Swezey, O. H. 1954. Forest Entomology in Hawaii. Special Publication 44. Bernice P. Bishop Museum. 266 pages.
+Zimmerman, E. C. 1958. Insects of Hawaii Volume 8 Lepidoptera: Pyraloidea. University of Hawaii Press, Honolulu. 456 pages.
+  FEB/1993.
+  H-BLACKB
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 574
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Hedylepta blackburni (Butler)
+Coconut Leafroller
+Hosts Distribution Damage Biology Behavior Management Reference
+Author
+Jayma L. Martin Kessing, Educational Specialist
+Ronald F.L. Mau, Extension Entomologist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+This caterpillar is believed to have originated on either native bananas or endemic palms belonging to the Pritchardia genus (Swezey, 1952, 1954), and later went to coconut as an alternate host after its introduction. Today this pest attacks coconut, Pritchardia, introduced palms and all varieties of banana .
+DISTRIBUTION
+This moth was first reported by Dr. Wm. Hillebrand at Lahaina, Maui in the 1860s (Swezey, 1952) and later described by Butler in 1877. There is extensive literature on pests of coconut throughout the Pacific basin, but the coconut leafroller is only found in Hawaii and for this reason is thought to be endemic to Hawaii (Swezey, 1954). It is present on all major Hawaiian islands.
+DAMAGE
+Young larvae feed on the underside of the leaves beneath a protective thin web of silk, and leave the opposite epidermis of the leaf in tact (Zimmerman, 1958). The larvae scatter on the leaf and form a protective environment by fastening the lower edges of the leaves together with ropes of white silk. As the larvae get older they feed on the epidermis of both leaf surfaces (Zimmerman, 1958). By the time they are ready to pupate the leaves are reduced to threads (Swezey, 1954).
+This pest is more prevalent in windswept areas (Bess, 1974). We suspect that this is due to wind interference in the activity of parasitoids.
+BIOLOGY
+The descriptions of the eggs, larvae and pupae are taken from an account by
+Text Len: 1698
+--------------------------------------------------------------------------------
+man, 1958). By the time they are ready to pupate the leaves are reduced to threads (Swezey, 1954).
+This pest is more prevalent in windswept areas (Bess, 1974). We suspect that this is due to wind interference in the activity of parasitoids.
+BIOLOGY
+The descriptions of the eggs, larvae and pupae are taken from an account by Swezey (1907) that appears in Zimmerman (1958).
+EGGS
+Eggs are flattened and rounded. They are laid in regular rows, with each egg slightly overlapping the egg next to it, in a narrow mass along the leaf rib. Egg masses usually contain 30 to 50 eggs Zimmerman (1958).
+LARVAE
+The coconut leafroller molts five times before becoming a pupa. Each molt is separated by an interval of 4 to 5 days with a slightly longer interval occurring during the fifth larval stage (instar) that occurs before pupation. The larval stage is completed in about 4 weeks Zimmerman (1958).
+Newly hatched larvae are whitish with several black dots clustered at the head and along its body. They measure about 1/12 inch (2 mm) in length. The markings become more prominent on the second, third and fourth larval instars. The full grown caterpillar is dull green with two white stripes running the length of the body and measures 1-7/25 (32 mm) to 1-2/5 (35 mm) inches in length. The face of the caterpillar has several black spots that form a horizontal row of four spots on each side of the face. The caterpillars turn yellowish just before pupating (Zimmerman, 1958).
+PUPAE
+The pupae are light to dark brown depending on the age, have several rows of delicate hairs running down its body, and measure 3/5 (15 mm) to 4/5 (19 mm
+Text Len: 1627
+--------------------------------------------------------------------------------
+ black spots that form a horizontal row of four spots on each side of the face. The caterpillars turn yellowish just before pupating (Zimmerman, 1958).
+PUPAE
+The pupae are light to dark brown depending on the age, have several rows of delicate hairs running down its body, and measure 3/5 (15 mm) to 4/5 (19 mm) inch in length. They are contained within a slight cocoon in which the pupae are visible through. Adult moths emerge in 11 to 13 days (Zimmerman, 1958).
+ADULTS
+Adult moths have a wing expanse of about 1 inch (2.54 cm). The forewings are brownish-yellow with a grayish-brown stripe along the median vein that is margined by a sandy-whitish diffused line on either side and the outer margins of the wings are dotted with black spots. The hindwings are pale grayish-brown with white discs, a slight reddish tint externally and also have a series of black spots on the outer margins. The body is whitish to creamy-whitish (Butler, 1877).
+BEHAVIOR
+Older caterpillars attach the edges of the coconut leaves together with silken threads to form a protective chamber (Zimmerman, 1958).
+MANAGEMENT
+Biological Control -- Parasites
+Parasites present in Hawaii are the egg parasite, Trichogramma minutum Riley; the larval parasites: Achaetoneura archippivora (Williston), Bracon omiodivorum (Terry), Casinaria infesta (Cresson), Chaetogaedia monticola (Bigot), Horogenes blackburni (Cameron), and the pupal parasites: Brachymeria obscurata (Smith), Coccygomimus punicipes (Cresson) and Echthromorph fusc
+Text Len: 1503
+--------------------------------------------------------------------------------
+ (Williston), Bracon omiodivorum (Terry), Casinaria infesta (Cresson), Chaetogaedia monticola (Bigot), Horogenes blackburni (Cameron), and the pupal parasites: Brachymeria obscurata (Smith), Coccygomimus punicipes (Cresson) and Echthromorph fuscator (Fabricius) (Swezey, 1954; Bess, 1974)). These parasites are very effective and are credited with the low incidence of coconut leafroller injury. T. flavoorbitalis is probably the most effective parasite (Bess, 1974). Parasites are hampered by strong winds. Therefore, their control is less effective in windswept areas and best in protected areas (Bess, 1974).
+Biological Control -- Predators
+This pest is also attacked by predators. Pheidole megacephala (Fabricius), the big headed ant, eats the eggs and preys upon the larvae. Coconut leafroller caterpillars are also eaten by Odynerus nigripennis (Holmgren) and Polistes species (Zimmerman, 1958)
+CHEMICAL CONTROL
+Chemical control of this pest is usually not needed because of the effectiveness of the parasites.
+REFERENCES
+Bess, H. A. 1974. Hedylepta blackburni (Butler), A Perennial Pest of Coconut on Wind-swept Sites in Hawaii. Proc. Hawaiian Entomol. Soc. 21(3): 343-353.
+Butler, A. G. 1877. List of Heterocerous Lepidoptera Recently Collected by the Rev. T. Blackburni in the Hawaiian Islands. Ent. Mon. Mag. 14: 47-50.
+Swezey, O. H. 1952. Insect Fauna of a Coconut Tree. Proc. Hawaiian Entomol.
+Text Len: 1405
+--------------------------------------------------------------------------------
+): 343-353.
+Butler, A. G. 1877. List of Heterocerous Lepidoptera Recently Collected by the Rev. T. Blackburni in the Hawaiian Islands. Ent. Mon. Mag. 14: 47-50.
+Swezey, O. H. 1952. Insect Fauna of a Coconut Tree. Proc. Hawaiian Entomol. Soc. 14(3): 377-378.
+Swezey, O. H. 1954. Forest Entomology in Hawaii. Special Publication 44. Bernice P. Bishop Museum. 266 pages.
+Zimmerman, E. C. 1958. Insects of Hawaii Volume 8 Lepidoptera: Pyraloidea. University of Hawaii Press, Honolulu. 456 pages.
+  FEB/1993.
+  H-BLACKB
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 574
+--------------------------------------------------------------------------------

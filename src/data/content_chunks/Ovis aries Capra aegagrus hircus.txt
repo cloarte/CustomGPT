@@ -1,0 +1,186 @@
+MODELO: DECLARAÇÃO DE REBANHOS OVINOS E CAPRINOS  
+DO PROPRIETÁRIO/ TRANSPORTADOR    
+Example: Owner/Hauler Statement for Sheep and Goats    
+NOME E ENDEREÇO DO PROPRIETÁRIO 
+Owner Name and Address 
+NOME E ENDEREÇO DE DESTINO 
+Destination Name and Address 
+Nome: 
+Name 
+Nome: 
+Name 
+Endereço: 
+Address 
+Endereço: 
+Address 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+Telefone: 
+ Phone 
+NOME E ENDEREÇO DO TRANSPORTADOR 
+Hauler Name and Address 
+Data de deslocação dos animais: 
+Date Animals Moved 
+Nome: 
+Name 
+Endereço: 
+Address 
+Identificação ou  código PIN do rebanho com 
+paraplexia enzoótica ou scrapie*: 
+*Número de identificação do local 
+*Perseel-ID-nommer 
+Scrapie Flock ID or PIN 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+INFORMAÇÕES SOBRE OS ANIMAIS 
+Número de 
+Animais 
+Number of 
+
+Text Len: 854
+--------------------------------------------------------------------------------
+el-ID-nommer 
+Scrapie Flock ID or PIN 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+INFORMAÇÕES SOBRE OS ANIMAIS 
+Número de 
+Animais 
+Number of 
+animals 
+Ovina ou 
+caprina 
+Sheep or Goats 
+Raça (Breed) 
+(Se for rebanho de raça desconhecida, por 
+favor, indique a cor da face dos ovinos e 
+especifique o tipo das caprinos: leite, 
+carne, fibra). 
+Classificação (Class) 
+(Selecione e separe fêmeas ovinos/caprinos, machos 
+ovinos/caprinos, ovinos/caprinos jovens para engorda, 
+ovinos/caprinos jovens para abate, etc.) 
+Número de identificação  
+do lote de grupo 
+(Group Lot ID Number) 
+(Identificação do rebanho—
+DDMMAA—número de sequência) 
+     
+     
+     
+     
+                                                       Estes animais estão em canais de abate. (These animals are in slaughter channels
+Text Len: 810
+--------------------------------------------------------------------------------
+     
+                                                       Estes animais estão em canais de abate. (These animals are in slaughter channels) 
+Assinatura do proprietário/transportador (Owner/Hauler Signature) 
+ 
+ 
+ 
+Declaro que as informações acima mencionadas estão corretas e que os animais que constam na lista foram 
+devidamente classificados 
+ 
+Text Len: 350
+--------------------------------------------------------------------------------
+MODELO: DECLARAÇÃO DE REBANHOS OVINOS E CAPRINOS  
+DO PROPRIETÁRIO/ TRANSPORTADOR    
+Example: Owner/Hauler Statement for Sheep and Goats    
+NOME E ENDEREÇO DO PROPRIETÁRIO 
+Owner Name and Address 
+NOME E ENDEREÇO DE DESTINO 
+Destination Name and Address 
+Nome: 
+Name 
+Nome: 
+Name 
+Endereço: 
+Address 
+Endereço: 
+Address 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+Telefone: 
+ Phone 
+NOME E ENDEREÇO DO TRANSPORTADOR 
+Hauler Name and Address 
+Data de deslocação dos animais: 
+Date Animals Moved 
+Nome: 
+Name 
+Endereço: 
+Address 
+Identificação ou  código PIN do rebanho com 
+paraplexia enzoótica ou scrapie*: 
+*Número de identificação do local 
+*Perseel-ID-nommer 
+Scrapie Flock ID or PIN 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+INFORMAÇÕES SOBRE OS ANIMAIS 
+Número de 
+Animais 
+Number of 
+
+Text Len: 854
+--------------------------------------------------------------------------------
+el-ID-nommer 
+Scrapie Flock ID or PIN 
+Cidade/Estado/CEP: 
+City/State/Zip 
+Telefone: 
+ Phone 
+INFORMAÇÕES SOBRE OS ANIMAIS 
+Número de 
+Animais 
+Number of 
+animals 
+Ovina ou 
+caprina 
+Sheep or Goats 
+Raça (Breed) 
+(Se for rebanho de raça desconhecida, por 
+favor, indique a cor da face dos ovinos e 
+especifique o tipo das caprinos: leite, 
+carne, fibra). 
+Classificação (Class) 
+(Selecione e separe fêmeas ovinos/caprinos, machos 
+ovinos/caprinos, ovinos/caprinos jovens para engorda, 
+ovinos/caprinos jovens para abate, etc.) 
+Número de identificação  
+do lote de grupo 
+(Group Lot ID Number) 
+(Identificação do rebanho—
+DDMMAA—número de sequência) 
+     
+     
+     
+     
+                                                       Estes animais estão em canais de abate. (These animals are in slaughter channels
+Text Len: 810
+--------------------------------------------------------------------------------
+     
+                                                       Estes animais estão em canais de abate. (These animals are in slaughter channels) 
+Assinatura do proprietário/transportador (Owner/Hauler Signature) 
+ 
+ 
+ 
+Declaro que as informações acima mencionadas estão corretas e que os animais que constam na lista foram 
+devidamente classificados 
+ 
+Text Len: 350
+--------------------------------------------------------------------------------

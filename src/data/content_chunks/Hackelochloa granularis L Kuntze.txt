@@ -1,0 +1,34 @@
+Family:  POACEAE  ;
+Species:  Hackelochloa granularis(L.) Kuntze  ;
+Common Name:  Pit Scale Grass  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Persisting, Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 438
+--------------------------------------------------------------------------------
+Family:  POACEAE  ;
+Species:  Hackelochloa granularis(L.) Kuntze  ;
+Common Name:  Pit Scale Grass  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Persisting, Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 438
+--------------------------------------------------------------------------------

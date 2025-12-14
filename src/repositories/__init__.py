@@ -1,0 +1,3 @@
+from .species_repository import SpeciesRepository
+from .cabi_species_repository import CabiSpeciesRepository
+from .species_news_repository import SpeciesNewsRepository

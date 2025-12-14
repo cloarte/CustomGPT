@@ -1,0 +1,386 @@
+ 
+ 
+      
+        
+ 
+    
+     
+   
+   
+   
+        
+     
+   
+      
+               
+      
+                 
+            
+       
+               
+              
+               
+               
+           
+ 
+               
+                  
+             
+              
+           
+            
+                  
+ 
+              
+             
+               
+                
+ 
+              
+ 
+Text Len: 400
+--------------------------------------------------------------------------------
+              
+             
+               
+                
+ 
+              
+        
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Escherichia coli harboring the pMyco plasmid (E. coli/pMyco) 
+2. Strain or Source: N/A 
+3. Lot Number: 091510B 
+4. Fill Date: September 17, 2010 
+5. Expiration Date: Not applicable, the stability of this reagent will be monitored by the 
+Bacteriology Laboratory, Center for Veterinary Biologics. 
+Precautions: This reagent does not present a hazard to laboratory personnel if handled in 
+a manner consistent with Biosafety Level-1 (BSL-1) recommendations. 
+6. Intended Use: This E. coli culture harbors a plasmid that serves as a positive control in 
+the Polymerase Chain Reaction (PCR) detection method for testing biological agents and 
+products for Mycoplasma contamination as described in CVB-PRO-0006. 
+7. Instructions for Use: To expand as stock culture, thaw one vial of E. coli/pMyco culture 
+on ice. Inoculate 50 mL of pre-warmed Luria Bertani broth (supplemented with
+Text Len: 1158
+--------------------------------------------------------------------------------
+ detection method for testing biological agents and 
+products for Mycoplasma contamination as described in CVB-PRO-0006. 
+7. Instructions for Use: To expand as stock culture, thaw one vial of E. coli/pMyco culture 
+on ice. Inoculate 50 mL of pre-warmed Luria Bertani broth (supplemented with 50 µg/mL 
+kanamycin) with 1 mL thawed E. coli/pMyco culture. Incubate with shaking for 18-24 hours at 
+35°- 37°C. Add 5.0 mL sterile glycerol to the culture, mix thoroughly, and dispense aliquots into 
+sterile cyrovials. Store the dispensed stock culture at -70°C or colder. 
+To use the E. coli/pMyco reagent as described in CVB-PRO-0006, the pMyco plasmid must be 
+purified from the E. coli host. Thaw one vial of stock E. coli/pMyco culture on ice. Isolate the 
+pMyco plasmid DNA using a standard plasmid purification protocol or a commercial plasmid 
+purification kit. Elute the plasmid DNA with sterile Tris-EDTA (TE) buffer (pH 8.0). Measure 
+the DNA concentration of the pMyco plasmid preparation using a micro-spectrophotometer. 
+Record the DNA concentration in ng/µL. Concentrated pMyco plasmid preparations may be 
+stored at 3°- 7°C for up to 1 year or at -70°C or colder for longer storage. 
+The recommended use concentration of purified pMyco DNA is 0.5 ng/µL, however, the optimal 
+concentration may be
+Text Len: 1306
+--------------------------------------------------------------------------------
+ concentration in ng/µL. Concentrated pMyco plasmid preparations may be 
+stored at 3°- 7°C for up to 1 year or at -70°C or colder for longer storage. 
+The recommended use concentration of purified pMyco DNA is 0.5 ng/µL, however, the optimal 
+concentration may be determined by titration using the PCR assay described in CVB-PRO-0006. 
+Make a working dilution of the pMyco plasmid preparation in sterile TE buffer. The working 
+dilution of pMyco plasmid preparation may be stored at 3°- 7°C for up to 6 months. 
+CVB-DAT-0113.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+      
+        
+ 
+               
+              
+            
+          
+ 
+            
+     
+ 
+         
+ 
+            
+ 
+ 
+               
+    
+ 
+                
+               
+              
+         
+Text Len: 818
+--------------------------------------------------------------------------------
+               
+    
+ 
+                
+               
+              
+               
+                 
+             
+               
+ 
+ 
+               
+          
+              
+                
+               
+   
+ 
+              
+  
+              
+CONTROLLED//PROPIN//BASIC 
+8. Test of Reagent: Purity testing of the E. coli/pMyco culture was conducted by the 
+method described in 9 CFR 113.27(d). Sequence confirmation of the plasmid was conducted by 
+nucleic acid sequencing. The recommended use concentration of purified pMyco DNA was 
+determined empirically using the PCR assay described in CVB-PRO-0006. 
+9. Container Size, Type, Weight, or Volume: 1.5-mL screw-capped cryovial containing 
+1.0 mL E. coli/pMyco culture 
+10. Storage
+Text Len: 741
+--------------------------------------------------------------------------------
+ acid sequencing. The recommended use concentration of purified pMyco DNA was 
+determined empirically using the PCR assay described in CVB-PRO-0006. 
+9. Container Size, Type, Weight, or Volume: 1.5-mL screw-capped cryovial containing 
+1.0 mL E. coli/pMyco culture 
+10. Storage Conditions: Store at -70°C or colder. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100. 
+12. Origin and Passage History: The E. coli host strain TOP10 and plasmid vector pCR®4-
+TOPO® were obtained from Invitrogen™. 
+13. Method of Preparation: E. coli/pMyco lot 091510B is a recombinant E. coli host strain 
+harboring the plasmid pMyco. The pMyco plasmid was constructed by inserting a 464 base pair 
+PCR amplicon generated from the 16S rDNA gene of Mycoplasma hyorhinis strain ATCC 17981 
+into the cloning vector pCR®4-TOPO®. An internal 86 bp segment was deleted from the PCR 
+insert; the linear DNA was then circularized with T4 ligase and transformed into the E. coli host 
+strain TOP10. The recombinant E. coli was expanded overnight in LB broth supplemented with 
+kanamycin. Glycerol was added to the culture as a cryoprotectant prior to being aliquoted and 
+frozen. 
+14. Other: The quality of a pMyco plasmid preparation can quickly deteriorate and is 
+generally associated with unfavorable storage conditions, introduction of endonucleases from 
+frequent handling, and
+Text Len: 1402
+--------------------------------------------------------------------------------
+ 
+kanamycin. Glycerol was added to the culture as a cryoprotectant prior to being aliquoted and 
+frozen. 
+14. Other: The quality of a pMyco plasmid preparation can quickly deteriorate and is 
+generally associated with unfavorable storage conditions, introduction of endonucleases from 
+frequent handling, and/or low DNA concentration. If no amplicon is generated from the pMyco 
+positive control, the following steps may be taken, 1) make a new pMyco plasmid prep; 2) 
+perform a titration to determine the optimal DNA concentration of the pMyco positive control in 
+the PCR reaction. 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-0113.03 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 890
+--------------------------------------------------------------------------------
+ 
+ 
+      
+        
+ 
+    
+     
+   
+   
+   
+        
+     
+   
+      
+               
+      
+                 
+            
+       
+               
+              
+               
+               
+           
+ 
+               
+                  
+             
+              
+           
+            
+                  
+ 
+              
+             
+               
+                
+ 
+              
+ 
+Text Len: 400
+--------------------------------------------------------------------------------
+              
+             
+               
+                
+ 
+              
+        
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Escherichia coli harboring the pMyco plasmid (E. coli/pMyco) 
+2. Strain or Source: N/A 
+3. Lot Number: 091510B 
+4. Fill Date: September 17, 2010 
+5. Expiration Date: Not applicable, the stability of this reagent will be monitored by the 
+Bacteriology Laboratory, Center for Veterinary Biologics. 
+Precautions: This reagent does not present a hazard to laboratory personnel if handled in 
+a manner consistent with Biosafety Level-1 (BSL-1) recommendations. 
+6. Intended Use: This E. coli culture harbors a plasmid that serves as a positive control in 
+the Polymerase Chain Reaction (PCR) detection method for testing biological agents and 
+products for Mycoplasma contamination as described in CVB-PRO-0006. 
+7. Instructions for Use: To expand as stock culture, thaw one vial of E. coli/pMyco culture 
+on ice. Inoculate 50 mL of pre-warmed Luria Bertani broth (supplemented with
+Text Len: 1158
+--------------------------------------------------------------------------------
+ detection method for testing biological agents and 
+products for Mycoplasma contamination as described in CVB-PRO-0006. 
+7. Instructions for Use: To expand as stock culture, thaw one vial of E. coli/pMyco culture 
+on ice. Inoculate 50 mL of pre-warmed Luria Bertani broth (supplemented with 50 µg/mL 
+kanamycin) with 1 mL thawed E. coli/pMyco culture. Incubate with shaking for 18-24 hours at 
+35°- 37°C. Add 5.0 mL sterile glycerol to the culture, mix thoroughly, and dispense aliquots into 
+sterile cyrovials. Store the dispensed stock culture at -70°C or colder. 
+To use the E. coli/pMyco reagent as described in CVB-PRO-0006, the pMyco plasmid must be 
+purified from the E. coli host. Thaw one vial of stock E. coli/pMyco culture on ice. Isolate the 
+pMyco plasmid DNA using a standard plasmid purification protocol or a commercial plasmid 
+purification kit. Elute the plasmid DNA with sterile Tris-EDTA (TE) buffer (pH 8.0). Measure 
+the DNA concentration of the pMyco plasmid preparation using a micro-spectrophotometer. 
+Record the DNA concentration in ng/µL. Concentrated pMyco plasmid preparations may be 
+stored at 3°- 7°C for up to 1 year or at -70°C or colder for longer storage. 
+The recommended use concentration of purified pMyco DNA is 0.5 ng/µL, however, the optimal 
+concentration may be
+Text Len: 1306
+--------------------------------------------------------------------------------
+ concentration in ng/µL. Concentrated pMyco plasmid preparations may be 
+stored at 3°- 7°C for up to 1 year or at -70°C or colder for longer storage. 
+The recommended use concentration of purified pMyco DNA is 0.5 ng/µL, however, the optimal 
+concentration may be determined by titration using the PCR assay described in CVB-PRO-0006. 
+Make a working dilution of the pMyco plasmid preparation in sterile TE buffer. The working 
+dilution of pMyco plasmid preparation may be stored at 3°- 7°C for up to 6 months. 
+CVB-DAT-0113.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+      
+        
+ 
+               
+              
+            
+          
+ 
+            
+     
+ 
+         
+ 
+            
+ 
+ 
+               
+    
+ 
+                
+               
+              
+         
+Text Len: 818
+--------------------------------------------------------------------------------
+               
+    
+ 
+                
+               
+              
+               
+                 
+             
+               
+ 
+ 
+               
+          
+              
+                
+               
+   
+ 
+              
+  
+              
+CONTROLLED//PROPIN//BASIC 
+8. Test of Reagent: Purity testing of the E. coli/pMyco culture was conducted by the 
+method described in 9 CFR 113.27(d). Sequence confirmation of the plasmid was conducted by 
+nucleic acid sequencing. The recommended use concentration of purified pMyco DNA was 
+determined empirically using the PCR assay described in CVB-PRO-0006. 
+9. Container Size, Type, Weight, or Volume: 1.5-mL screw-capped cryovial containing 
+1.0 mL E. coli/pMyco culture 
+10. Storage
+Text Len: 741
+--------------------------------------------------------------------------------
+ acid sequencing. The recommended use concentration of purified pMyco DNA was 
+determined empirically using the PCR assay described in CVB-PRO-0006. 
+9. Container Size, Type, Weight, or Volume: 1.5-mL screw-capped cryovial containing 
+1.0 mL E. coli/pMyco culture 
+10. Storage Conditions: Store at -70°C or colder. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100. 
+12. Origin and Passage History: The E. coli host strain TOP10 and plasmid vector pCR®4-
+TOPO® were obtained from Invitrogen™. 
+13. Method of Preparation: E. coli/pMyco lot 091510B is a recombinant E. coli host strain 
+harboring the plasmid pMyco. The pMyco plasmid was constructed by inserting a 464 base pair 
+PCR amplicon generated from the 16S rDNA gene of Mycoplasma hyorhinis strain ATCC 17981 
+into the cloning vector pCR®4-TOPO®. An internal 86 bp segment was deleted from the PCR 
+insert; the linear DNA was then circularized with T4 ligase and transformed into the E. coli host 
+strain TOP10. The recombinant E. coli was expanded overnight in LB broth supplemented with 
+kanamycin. Glycerol was added to the culture as a cryoprotectant prior to being aliquoted and 
+frozen. 
+14. Other: The quality of a pMyco plasmid preparation can quickly deteriorate and is 
+generally associated with unfavorable storage conditions, introduction of endonucleases from 
+frequent handling, and
+Text Len: 1402
+--------------------------------------------------------------------------------
+ 
+kanamycin. Glycerol was added to the culture as a cryoprotectant prior to being aliquoted and 
+frozen. 
+14. Other: The quality of a pMyco plasmid preparation can quickly deteriorate and is 
+generally associated with unfavorable storage conditions, introduction of endonucleases from 
+frequent handling, and/or low DNA concentration. If no amplicon is generated from the pMyco 
+positive control, the following steps may be taken, 1) make a new pMyco plasmid prep; 2) 
+perform a titration to determine the optimal DNA concentration of the pMyco positive control in 
+the PCR reaction. 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-0113.03 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 890
+--------------------------------------------------------------------------------

@@ -1,0 +1,3074 @@
+ADVANCING ANIMAL DISEASE TRACEABILITY 
+ROAD MAP FOR 
+TEXAS 
+ 
+ 
+A Three-Year Plan 
+ 
+Submitted by: 
+ 
+DR. LEWIS R. “BUD” DINGES, DVM 
+ 
+ 
+EXECUTIVE DIRECTOR, STATE VETERINARIAN 
+TEXAS ANIMAL HEALTH COMMISSION 
+2105 KRAMER LANE,AUSTIN, TX 78758 
+512-719-0704 
+ 
+Submitted to: 
+DR. PATRICIA “LUISA”  COLLINS, D.V.M. 
+ASSISTANT DISTRICT DIRECTOR FOR  
+TEXAS VETERINARY SERVICES 
+ANIMAL AND PLANT HEALTH INSPECTION SERVICE 
+UNITED STATES DEPARTMENT OF AGRICULTURE 
+ 
+ 
+903 SAN JACINTO BLVD., SUITE 220 
+AUSTIN, TX 78701 
+512-383-2400 
+ 
+Road Map 5 – January 5, 2024 
+ 
+ 
+ 
+
+Table of Contents 
+I. EXECUTIVE SUMMARY ................................................................................................... 3 
+II. CURRENT TRACEABILITY SITUATION ......................................................................... 4 
+2.1 Who are we? .................................................................................................................. 4 
+2.2 Where are we now? ........................................................................................................ 5 
+2.3 Strengths and Weaknesses ............................................................................................ 13 
+2.4 Opportunities and Threats ............................................................................................. 14 
+2.5 Inventory of existing infrastructure and suitability assessment ...................................... 14 
+III. AGENCY VISION AND MISSION ................................................................................... 16 
+3.1 Vision
+Text Len: 1583
+--------------------------------------------------------------------------------
+ Where are we now? ........................................................................................................ 5 
+2.3 Strengths and Weaknesses ............................................................................................ 13 
+2.4 Opportunities and Threats ............................................................................................. 14 
+2.5 Inventory of existing infrastructure and suitability assessment ...................................... 14 
+III. AGENCY VISION AND MISSION ................................................................................... 16 
+3.1 Vision statement ........................................................................................................... 16 
+3.2 Mission statement ......................................................................................................... 16 
+IV. TRACEABILITY REQUIREMENTS................................................................................. 16 
+4.1 Strategic goal(s) ........................................................................................................... 16 
+4.2 Programmatic goal(s) (Objectives)................................................................................ 17 
+4.3 Animal disease traceability performance measures........................................................ 17 
+4.4 Data requirements ........................................................................................................ 19 
+4.5 Information technology plan ......................................................................................... 19 
+4.6 Resource requirements .................................................................................................  20 
+4.7 Organizational needs .................................................................................................... 20 
+4.7.1 Executive support ...................................................................................... 20 
+4.7.2 Coordination and oversight procedures ...................................................... 20 
+4.7.3 Policy ........................................................................................................ 21 
+4.7.4 Staffing ..................................................................................................... 21 
+4.7.5 Budget requirements .................................................................................. 22 
+4.7.6 Outreach .................................................................................................... 22 
+4.7.6.1 Accredited veterinarians ................................................................ 23 
+4.7.6.2 Livestock marketing facilities ........................................................ 23 
+4.7.6.3 Industry as a whole ....................................................................... 23 
+4.8 Monitoring and reporting interstate movement activity ................................................. 24 
+4.9 Compliance and enforcement of traceability regulations ............................................... 24 
+V. TRACEABILITY IMPLEMENTATION ............................................................................ 25 
+Text Len: 3210
+--------------------------------------------------------------------------------
+6.2 Livestock marketing facilities ........................................................ 23 
+4.7.6.3 Industry as a whole ....................................................................... 23 
+4.8 Monitoring and reporting interstate movement activity ................................................. 24 
+4.9 Compliance and enforcement of traceability regulations ............................................... 24 
+V. TRACEABILITY IMPLEMENTATION ............................................................................ 25 
+5.1 Ranking of priorities for advancement .......................................................................... 25 
+5.2 Implementation of objectives ........................................................................................ 25 
+3  
+I. EXECUTIVE SUMMARY 
+ 
+This three-year plan outlines how Texas Animal Health Commission (TAHC) proposes 
+to continue to develop and advance animal disease traceability under the federal ADT 
+program.  
+ 
+The continued collaboration and cooperative relationship between TAHC and 
+USDA/APHIS/VS are vital to the success of this program . To help support the health 
+and sustainability of the extensive  animal agriculture industry in Texas, continued 
+funding and support from USDA is needed to maintain  successful management of the 
+animal disease traceability program in Texas. 
+ 
+TAHC’s projected approach and anticipated timeline include the following elements: 
+• April 2024 
+- FY2024 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+- Outreach and marketing efforts 
+- Continue development of a system for electronic capture of CVI data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $1,975,000 
+ 
+• April 2025 
+- FY2025 cooperative agreement 
+
+Text Len: 2025
+--------------------------------------------------------------------------------
+ system for electronic capture of CVI data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $1,975,000 
+ 
+• April 2025 
+- FY2025 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+- Outreach and marketing efforts 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of transition to electronic identification 
+- Compliance and enforcement actions 
+- Projected Cost: $2,050,000 
+ 
+• April 2026 
+- FY2026 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+4  
+- Outreach and marketing efforts 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of advancement activities to support a standardized 
+electronic system for traceability data and uniform official ID 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $2,125,000 
+ 
+II. CURRENT TRACEABILITY SITUATION 
+ 
+2.1 Who are we? 
+ 
+TAHC was founded by the Texas Legislature in 1893 and is charged with 
+protecting Texas’ livestock and poultry  “from all contagious or infectious 
+diseases of a malignant character.” Today, TA
+Text Len: 1618
+--------------------------------------------------------------------------------
+000 
+ 
+II. CURRENT TRACEABILITY SITUATION 
+ 
+2.1 Who are we? 
+ 
+TAHC was founded by the Texas Legislature in 1893 and is charged with 
+protecting Texas’ livestock and poultry  “from all contagious or infectious 
+diseases of a malignant character.” Today, TAHC remains true to this charge 
+while evolving with the times to protect the health and marketability of all 
+Texas livestock and poultry.  
+ 
+TAHC has legislative authority to make and enforce regulations to prevent, 
+control, and eradicate specific infectious animal diseases which endanger 
+livestock and poultry. TAHC regulations are made and adopted by 13 
+governor-appointed commissioners who represent the general public, various 
+livestock industries, and professions. The commissioners serve staggered 
+six-year terms and meet as needed to study the regulatory need s of the 
+agency, review public comments on proposed regulation changes, and adopt 
+new rules when necessary. 
+ 
+TAHC’s headquarters are in Austin with six region offices strategically 
+located across the state so the staff can work more effectively with ranchers, 
+livestock markets and slaughter plant personnel, and other livestock industry 
+representatives across Texas’ 254 counties. 
+ 
+Texas has unique risks associated with its size and extensive borders. In 
+addition to the four US states that boarder Texas, the Texas -Mexico border 
+spans approximately 1,248 miles.  Texas also has multiple land ports, 
+seaports, and international airports.  
+ 
+In addition to TAHC’s animal health specialists, who have expertise in the 
+Texas animal agriculture industry, to help develop the most efficient animal 
+disease traceability program, TAHC uses various animal disease
+Text Len: 1705
+--------------------------------------------------------------------------------
+ border 
+spans approximately 1,248 miles.  Texas also has multiple land ports, 
+seaports, and international airports.  
+ 
+In addition to TAHC’s animal health specialists, who have expertise in the 
+Texas animal agriculture industry, to help develop the most efficient animal 
+disease traceability program, TAHC uses various animal disease traceability 
+working groups , which meet on an as -needed basis . These groups bring 
+together representatives and experts from various industries to provide  
+species specific valuable guidance and on the  continued development and 
+implementation of traceability efforts in Texas.  
+ 
+ 
+5  
+2.2 Where are we now? 
+ 
+Texas has successfully completed four previous ADT Road Maps. The first 
+Texas ADT Road Map plans established the initial development and  
+implementation of a basic traceability system and rules during FY2012, 
+FY2013, and FY2014. Building on the previous successes the Texas ADT 
+Road Map 2 for FY2015, FY2016, and FY2017, continued implementation 
+of traceability activities and began development of a system for electronic 
+capture of ICVI data. For FY2018, FY2019, and FY2020, the  Texas ADT 
+Road Map 3 focused on improving the availability and retrieval of 
+traceability information, as well as the evaluation of visual versus electronic 
+traceability devices and documents.  With the success of the previous four 
+ADT Road maps FY2021,  FY2022, and FY2023 concentrated on the 
+continued transition to electronic traceability devices and encourage 
+paperless reporting. 
+ 
+TAHC continues to work with the animal disease traceability cattle working 
+group and other industries to find workable solutions and to help develop  
+short and long-term
+Text Len: 1709
+--------------------------------------------------------------------------------
+ 
+ADT Road maps FY2021,  FY2022, and FY2023 concentrated on the 
+continued transition to electronic traceability devices and encourage 
+paperless reporting. 
+ 
+TAHC continues to work with the animal disease traceability cattle working 
+group and other industries to find workable solutions and to help develop  
+short and long-term plans for the future of animal identification and disease 
+traceability in Texas. 
+ 
+Premises Registration Systems 
+ 
+TAHC has continued voluntary premises registration to support the 
+administration of location identifiers that adhere to the federal standards. 
+ADT staff manages the various premises registration systems, including 
+issuing premises identification numbers (P IN)s, location identification 
+numbers (LID)s, and scrapie flock identification numbers. Each number is 
+nationally unique and recognized. 
+ 
+A national premises identification number (PIN) is a unique number, 
+permanently assigned to a physical address where agricultural animals are 
+located. Texas utilizes the USDA-APHIS provided Premise Management 
+System (PM) to obtain a PIN from the federal allocator.  A PIN consists of 
+seven alphanumeric characters, beginning with two leading zeros. To obtain 
+a PIN, producers may contact TAHC’s ADT department. The owner’s 
+contact and premises information is entered, maintained, and stored 
+electronically in PM and hard copy files on-site. 
+ 
+Texas has a state system and process for issuing a location identification 
+number (LID).  A LID is assigned to an owner’s contact and operation 
+information, which are stored in a state administered CoreOne database  
+(TexCore). Only the LID number itself is reported to the federal repository 
+system as a valid
+Text Len: 1716
+--------------------------------------------------------------------------------
+-site. 
+ 
+Texas has a state system and process for issuing a location identification 
+number (LID).  A LID is assigned to an owner’s contact and operation 
+information, which are stored in a state administered CoreOne database  
+(TexCore). Only the LID number itself is reported to the federal repository 
+system as a valid number. All LIDs start with the state postal abbreviation 
+(TX) followed by six random alphanumeric characters, which makes the 
+LIDs nationally unique. In most cases, a LID may be used in lieu of a PIN. 
+To obtain a LID, producers may contact their local TAHC region office or 
+6  
+ADT department. 
+ 
+Additionally, ADT staff administers the Scrapie program for sheep and  
+goats. They collect producer and flock information over the telephone, assign 
+a Scrapie flock identification number, enter the information into SCS-SCR, 
+and maintain a scanned file copy of the registration/order form. 
+ 
+Administration of Official Identification Devices 
+ 
+The proper administration of official identification devices and reporting is 
+key for capturing accurate information needed to achieve successful animal 
+disease traceability. The most commonly used forms of official ID are USDA 
+approved Animal Identification Number (AIN) “840” series Radio 
+Frequency Identification tags (RFID) and National Uniform Eartagging 
+System (NUES) identification metal eartags.  Brucellosis calfhood 
+vaccination tags, Swine PIN tags, Scrapie tags, and breed registration 
+tattoos/brands (uniquely identifying the animal and accompanied by the 
+breed registration paperwork) are also acceptable as official ID. A complete 
+list of acceptable official identification devices/methods
+Text Len: 1686
+--------------------------------------------------------------------------------
+ (NUES) identification metal eartags.  Brucellosis calfhood 
+vaccination tags, Swine PIN tags, Scrapie tags, and breed registration 
+tattoos/brands (uniquely identifying the animal and accompanied by the 
+breed registration paperwork) are also acceptable as official ID. A complete 
+list of acceptable official identification devices/methods is posted on 
+TAHC’s website and updated regularly. Producers are encouraged to contact 
+their veterinarian or TAHC to determine which method of tagging will be 
+best for their operation. 
+ 
+AIN - RFID tags 
+AIN device manufacturers and managers may  distribute approved AIN 
+devices to producers and are responsible for entering tag distribution 
+records into the Animal Identification Management System (AIMS). All 
+recipients of AIN devices must first have a LID or PIN and provide that 
+number to the distributor for proper reporting. ADT staff are available to 
+register premises, process address exceptions, and issue the allocated 
+PINs and/or LIDs. Additionally, TAHC r egion office staff can  register 
+premises and issue LIDs. Producers with a valid PIN or LID are 
+encouraged to purchase official identification from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the complete list of approved AIN devices and tag manufacturers’ 
+information maintained on the USDA traceability website. 
+ 
+TAHC will continue to promote and support the use of electronic 
+identification. By the end of FY2019, TAHC successfully transitioned to 
+only using electronic identification for regulatory and disease program 
+work by all TAHC field personnel.  TAHC may use ADT cooperative  
+agreement funds to purchase additional AIN RFID tags and RFID device 
+
+Text Len: 1737
+--------------------------------------------------------------------------------
+ 
+TAHC will continue to promote and support the use of electronic 
+identification. By the end of FY2019, TAHC successfully transitioned to 
+only using electronic identification for regulatory and disease program 
+work by all TAHC field personnel.  TAHC may use ADT cooperative  
+agreement funds to purchase additional AIN RFID tags and RFID device 
+applicators. In addition, TAHC may supply AIN RFID tags to producers 
+with a valid PIN or LID, if supplies are available and only on a case-by-
+case basis. TAHC’s ADT department is responsible for overseeing the 
+management of all official ID devices distributed and/or applied by the 
+agency. TAHC region office staff will collect all official ID allocation 
+7  
+records from field staff, enter the data into TexCore, and report official 
+ID distributions to TAHC ’s ADT department. Tag distribution records 
+for official AIN devices are entered and maintained in AIMS by ADT 
+staff. 
+ 
+After RFID tags are applied to the animals, the RFID devices can  be 
+scanned and read by standard ISO compliant readers. Electronic readers 
+are available for purchase by animal health agencies, markets, operations, 
+and producers from the manufacturers. TAHC field personnel  regularly 
+use handheld readers, wands, and stationary readers paired with handheld 
+PDAs and laptops to electronically capture the animal identification 
+numbers and upload the data into the appropriate systems  using MIMS; 
+while conducting testing, disease response, trace work, and assisting with 
+livestock identification. Funds will be used to purchase electronic readers 
+with accessories for TAHC field personnel and accredited vets, as part of 
+our technology equipment refresh and to increase infrastructure. 
+ 
+Accredited
+Text Len: 1747
+--------------------------------------------------------------------------------
+
+numbers and upload the data into the appropriate systems  using MIMS; 
+while conducting testing, disease response, trace work, and assisting with 
+livestock identification. Funds will be used to purchase electronic readers 
+with accessories for TAHC field personnel and accredited vets, as part of 
+our technology equipment refresh and to increase infrastructure. 
+ 
+Accredited Veterinarians and Cattle Producers 
+In order to expand the use of RFID devices, USDA will offer free AIN-
+840 low frequency RFID white and orange OCV  tags to states for 
+accredited veterinarians and cattle producers for use  on replacement 
+breeding cattle. The complimentary RFID tags are used as an alternative 
+to silver metal “ Brite” tags and orange metal Official Calfhood 
+Vaccination (OCV) tags. Though the metal clip tags have served a 
+valuable purpose in disease control and eradication programs, RFID 
+devices provide state animal health officials and the cattle industries 
+increased ability to accurately and quickly trace animals exposed to or 
+infected with potentially devastating diseases before they can  do 
+substantial damage to the U.S. livestock and consumer markets. 
+ 
+Texas accredited veterinarians and cattle producers that are interested in 
+receiving official RFID tags at no-cost may submit their  requests to 
+TAHC’s ADT department. TAHC will fill the requests for these devices 
+from the supply given by USDA. The tags will  be distributed to field 
+offices, accredited vets, producers,  or operations that are eligible to 
+receive these official id devices at no -cost. These no- cost official id 
+devices will be shipped directly from TAHC supply. The shipping costs 
+for devices redistributed from TAHC will be paid for with cooperative 
+fund
+Text Len: 1757
+--------------------------------------------------------------------------------
+ given by USDA. The tags will  be distributed to field 
+offices, accredited vets, producers,  or operations that are eligible to 
+receive these official id devices at no -cost. These no- cost official id 
+devices will be shipped directly from TAHC supply. The shipping costs 
+for devices redistributed from TAHC will be paid for with cooperative 
+funds, any overages will be covered by state funding. 
+ 
+Accredited Veterinarians are required to maintain records and report all 
+official ID devices distributed and/or applied, using one of the following 
+methods: record and submit identification data on an official animal 
+health record (test record, vaccination chart, or ICVI) for data entry into 
+8  
+TexCore; vets who are AIN Device Managers may enter AIN distribution 
+records directly into AIMs; or report official ID distribution records to 
+TAHC’s ADT department for data entry into AIMS. 
+ 
+Livestock Marketing Facilities 
+TAHC recommends that producers/buyers contact their local livestock 
+market/auction barn to determine current requirements and available 
+options for livestock identification. Some animals may be required to be 
+officially identified prior to or after purchase to comply with the ADT, 
+disease program, or regulatory requirements. 
+ 
+Livestock marketing facilities are not required to report tag distribution  
+records for livestock tagged at the market . As part of a separate TAHC 
+rule, livestock marketing facilities are required to keep certain dealer 
+records for a minimum of five years and to make the records available 
+for inspection by TAHC representatives. TAHC Market Inspectors report 
+all tag sequence allocations to region offices, which are then entered into 
+TexCore. Dealer records are to include records
+Text Len: 1756
+--------------------------------------------------------------------------------
+ the market . As part of a separate TAHC 
+rule, livestock marketing facilities are required to keep certain dealer 
+records for a minimum of five years and to make the records available 
+for inspection by TAHC representatives. TAHC Market Inspectors report 
+all tag sequence allocations to region offices, which are then entered into 
+TexCore. Dealer records are to include records of individual animal 
+identification numbers, plus consignor and consignee contact 
+information for animals sold. 
+ 
+Approved Tagging Sites 
+All facilities such as livestock markets receiving certain classes of 
+livestock without official identification must be designated as an 
+approved tagging site by agreement. The purpose of this agreement is to 
+maintain integrity and control of application of official eartags at  an 
+approved tagging site, where livestock may be officially identified on 
+behalf of the owner or person in possession, care or control of the animals 
+when they are brought to the facility. Animals requiring official 
+identification may  be moved to these sites without prior official 
+identification, provided the site can maintain the individual identity of 
+animals until they are officially identified. 
+ 
+Approved Tagging Sites can order RFID  tags in increments of 1 00 by 
+contacting TAHC ’s ADT department.  RFID tags will be used to 
+officially identify all animals in accordance with 9 CFR 86 and 4 TAC 
+§50.2, including: 
+• Officially identify animals required to be identified before 
+commingling with animals from different premises or use a backtag 
+or other method to accurately maintain the animal's identity until the 
+official ear tag is applied. The official identification can then be 
+correlated to the person responsible for shipping the animal. 
+• Only apply official eartags
+Text Len: 1805
+--------------------------------------------------------------------------------
+, including: 
+• Officially identify animals required to be identified before 
+commingling with animals from different premises or use a backtag 
+or other method to accurately maintain the animal's identity until the 
+official ear tag is applied. The official identification can then be 
+correlated to the person responsible for shipping the animal. 
+• Only apply official eartags to animals not already officially 
+identified, (except as provided in 9 CFR 86.4(c)); and 
+• Do not remove official identification devices unless authorized by an 
+animal health official. 
+ 
+Approved Tagging Sites must submit records of tag application within 
+9  
+30 days if requested by TAHC personnel. The report must include, at a 
+minimum: The name, physical address, city, state and zip code of the 
+owner or person responsible for animals tagged; the official identification 
+numbers of the  tags applied associated with the  owner or person 
+responsible for the animals; and the date the official identification eartags 
+were applied. 
+ 
+Approved Tagging Sites must maintain records of official identification 
+eartags received and applied for a minimum of five years. Also, maintain 
+an accurate inventory of official eartags and application records in a 
+secure place accessible only to tag applicator personnel. Any lost or 
+stolen tags must be immediately reported to Texas animal health officials. 
+ 
+Swine PIN tags 
+Producers requesting Swine PIN tags must first have a premises ID 
+number (PIN), as the PIN is imprinted on the tags. ADT staff will register 
+the premises over the phone and provide the allocated PIN number. The 
+Swine PIN tags are available for purchase from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the
+Text Len: 1768
+--------------------------------------------------------------------------------
+ requesting Swine PIN tags must first have a premises ID 
+number (PIN), as the PIN is imprinted on the tags. ADT staff will register 
+the premises over the phone and provide the allocated PIN number. The 
+Swine PIN tags are available for purchase from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the list of official PIN tags for slaughter swine and their  approved tag 
+manufacturers’ information maintained on the USDA traceability 
+website. 
+ 
+TAHC will use ADT cooperative agreement funds to purchase Swine 
+PIN tags and applicators for animal disease regulatory work. These tags 
+will be registered to and imprinted with the PIN for TAHC ’s central 
+office. These tags are only distributed to TAHC region offices to be used 
+by TAHC field staff when conducting swine testing.  The initial tag  
+distributions from the central office to the region offices are entered and 
+maintained in TexCore. When applied to the animal, the tag allocations 
+are reported on the swine test charts and submitted to TAHC  region 
+offices for data entry. 
+ 
+Scrapie tags 
+USDA-APHIS announced nationwide identification and recordkeeping 
+requirements for sheep and goats on March 25, 2019 as part of the 
+National Scrapie Eradication Program. USDA-APHIS believes the final 
+rule will result in a more effective disease eradication program. The rule 
+provides a more flexible approach to disease investigations and affected 
+flock management, and more consistent animal identification and 
+recordkeeping requirements between sheep and goats. Under this rule, all 
+sheep and goats must have official identification (I.D.) when moving off 
+their premises of origin, unless specifically exempt. 
+
+Text Len: 1729
+--------------------------------------------------------------------------------
+ more effective disease eradication program. The rule 
+provides a more flexible approach to disease investigations and affected 
+flock management, and more consistent animal identification and 
+recordkeeping requirements between sheep and goats. Under this rule, all 
+sheep and goats must have official identification (I.D.) when moving off 
+their premises of origin, unless specifically exempt. 
+ 
+Acceptable forms of official identification include plastic or metal 
+Scrapie flock ID tags, Scrapie 840 RFID ear tags, and plastic or metal 
+serial tags. Registered tattoos and 840 electronic implants are accepted 
+10  
+as official ID with the exception of sheep and goats that are in slaughter 
+channels or moving through a livestock market or buying station. 
+ 
+The national Scrapie Program hotline forwards the phone calls of Texas 
+breeders, dealers, and livestock markets to TAHC’s ADT department. 
+ADT staff will register the flocks/operations for a Scrapie flock 
+identification number or verify their existing Scrapie flock ID number. 
+TAHC will provide the caller with the information on how to purchase 
+the official ID devices. For producers, dealers, and markets eligible to 
+receive free tags, TAHC will place the order into AIMS. Scrapie flock 
+and serial tags ordered through AIMS will be shipped directly to the 
+recipient and the tag allocation entered into AIMS by the tagging 
+manufacturers. 
+ 
+TAHC will order Scrapie serial tags and applicators for the ADT 
+department and region offices. TAHC may supply a very limited amount 
+of these Scrapie serial tags to producers with a valid Scrapie flock ID 
+number, if supplies are available and, on a case-by-case basis. The most
+Text Len: 1694
+--------------------------------------------------------------------------------
+
+manufacturers. 
+ 
+TAHC will order Scrapie serial tags and applicators for the ADT 
+department and region offices. TAHC may supply a very limited amount 
+of these Scrapie serial tags to producers with a valid Scrapie flock ID 
+number, if supplies are available and, on a case-by-case basis. The most 
+common reason for TAHC to issue Scrapie serial tags is for sheep or 
+goats going to a show or out of state within the two weeks, in other words, 
+needed sooner than the time it takes for flock ID tags to be ordered, 
+produced, and shipped. ADT staff will enter these tag allocations into 
+AIMS. 
+ 
+Animal Health and Movement Records 
+ 
+TAHC maintains various other traceability data sources by continuing to 
+collect and store identification data required for testing, movement, change 
+of ownership, and other applicable animal health disease programs.  These 
+include but are not limited to data collected and/or stored from interstate and 
+intrastate certificates of veterinary inspection (ICVIs), bovine brucellosis and 
+tuberculosis test charts, brucellosis vaccination records, scrapie tag 
+distribution, and interstate permits. 
+ 
+As outlined in the previous Road Maps, TAHC has continued to focus on the 
+electronic data capture, the promotion and transition from paper to electronic 
+documentation. During FY2014, TAHC IT Development Team completed 
+the development of a TAHC eCVI and put a link to a new application on 
+TAHC’s website. The application enables Texas veterinarians  to purchase 
+eCVIs online. The Health Certificate webpage on the agency’s website, 
+displays all the ICVI purchasing options (electronic and paper). 
+Text Len: 1641
+--------------------------------------------------------------------------------
+ TAHC IT Development Team completed 
+the development of a TAHC eCVI and put a link to a new application on 
+TAHC’s website. The application enables Texas veterinarians  to purchase 
+eCVIs online. The Health Certificate webpage on the agency’s website, 
+displays all the ICVI purchasing options (electronic and paper).  TAHC’s 
+eCVI online application continues to work as expected and veterinarians are 
+successfully utilizing the tool. TAHC staff is continuing to monitor all CVIs 
+and eCVIs for data quality and compliance. Starting in FY2016, TAHC 
+contracted with Trace First to utilize StateVet.com for the data entry and 
+upload of ICVI data into SCS, for cattle with official identificatio n moving 
+interstate. Additionally, at the end of the FY2016 cooperative year, TAHC 
+Program Records and ADT staff started using document management 
+11  
+software, Square 9, to begin scanning all paper and electronic interstate CVIs, 
+for all species with or without official identification, into an electronically 
+searchable system. The emphasis placed on transitioning from a primarily 
+paper-based system to electronic capture of CVI data has resulted in 
+significant improvements in traceability and completion of trace 
+performance exercises. 
+ 
+During FY2019 and FY2020, TAHC worked with VS and Palantir staff to 
+implement use of DIS-AHER, including establishing access, user training for 
+staff, identification of data sources, verifying compatibility, initiating 
+electronic information sharing of summary data, and pilot testing DIS for 
+FY2020 ADT Cooperative Agreement work plans and quarterly reporting. 
+ 
+ADT data collected in Texas is entered and stored in a mixture of state and 
+USDA maintained standardized animal health systems
+Text Len: 1746
+--------------------------------------------------------------------------------
+HER, including establishing access, user training for 
+staff, identification of data sources, verifying compatibility, initiating 
+electronic information sharing of summary data, and pilot testing DIS for 
+FY2020 ADT Cooperative Agreement work plans and quarterly reporting. 
+ 
+ADT data collected in Texas is entered and stored in a mixture of state and 
+USDA maintained standardized animal health systems. Federal systems 
+utilized: AHER for data searches, SCR for Scrapie Flock IDs, EMRS2 for 
+NPTs and Response records . MIMS for electronic data captured in field, 
+Premise Management for Premises IDs, AIMS for AIN and Scrapie official 
+ID distributions. Texcore for issuing LIDs, including StateVet for official ID 
+distribution, regulatory program and movement records. These systems are 
+already connected to AHER and electronically accessible to TAHC and 
+USDA animal health officials. State systems utilized: TAHC Tag 
+Application for NUES tag field distribut ions and Square9 for electronic 
+document storage. 
+ 
+During FY2021, TAHC  implemented our state procured private CoreOne 
+system for Texas, TexCore. TAHC  transition from CoreOne -SCS to 
+CoreOne-TexCore as our primary system, including StateVet, for all LIDs, 
+official ID distributions, animal disease programs and movement records.  
+TexCore is aligned with established data and communication interfaces to 
+ensure continued compatibility. TAHC will continue to share the summary 
+data to AHER through the standard connection between the AHER system 
+and TexCore. Additionally, TAHC is available during normal business hours 
+for sharing of data (not included in AHER) with other state & federal Animal 
+Health Officials, law enforcement, and open records requests. 
+
+Text Len: 1740
+--------------------------------------------------------------------------------
+ 
+ensure continued compatibility. TAHC will continue to share the summary 
+data to AHER through the standard connection between the AHER system 
+and TexCore. Additionally, TAHC is available during normal business hours 
+for sharing of data (not included in AHER) with other state & federal Animal 
+Health Officials, law enforcement, and open records requests. 
+ 
+During FY2022, TAHC continued the transition into TexCore. Modifications 
+and updates were done to increase the usability of this system.  USDA 
+supplied tags were distributed to producers and accredited veterinarians for 
+use in replacement cattle. 
+ 
+During FY2023, CVI Central was added. CVI Central provides a single web-
+based portal for managing CVI workflows . It is used for both paper and 
+electronic certificates. TexCore continued to be updated and USDA supplied 
+tag distribution continued. 
+ 
+TAHC is dedicated to data security  and the protection of Texas producers’ 
+personal information.  Therefore, TAHC staff are required to complete 
+12  
+information systems and data security training annually. 
+ 
+TAHC will continue to monitor and report on the administration of official 
+identification devices, animal health and movement records in our ADT 
+cooperative agreements, quarterly and final accomplishment reports. 
+ 
+The process must be supported and funded by USDA to ensure successful 
+compliance by the regulated industries in an equitable and cost -effective 
+fashion, and to ensure the successful management and enforcement of the 
+same traceability process by the responsible state animal health agencies. 
+ 
+2.3 Strengths and Weaknesses 
+ 
+The Texas Animal Health Commission has a long history of working 
+productively with the animal agriculture industries in Texas, and in finding 
+practical solutions and applying pragmatic regulations.
+Text Len: 1828
+--------------------------------------------------------------------------------
+
+fashion, and to ensure the successful management and enforcement of the 
+same traceability process by the responsible state animal health agencies. 
+ 
+2.3 Strengths and Weaknesses 
+ 
+The Texas Animal Health Commission has a long history of working 
+productively with the animal agriculture industries in Texas, and in finding 
+practical solutions and applying pragmatic regulations. As such, the major 
+strength of TAHC is its existing working relationship with those industries 
+and people who will be affected by traceability regulations. Secondly, TAHC 
+has a well -trained work force with capable field inspectors, a committed 
+ADT team, and in -house database development IT management personnel. 
+TAHC staff are actively working through the best  traceability solution for 
+Texas and are equipped to come up with a workable solution in partnership 
+with animal agriculture and other interested partners.  
+                                      
+Regarding challenges, TAHC faces a continuing challenge to develop 
+efficient systems to electronically capture and upload searchable traceability 
+data. This includes all records of interstate movement, test charts, as well as 
+data migration from existing federal ID databases and integration of 
+extensive state-level data. Another challenge exists in the need to educate the 
+producers and industries of Texas  regarding the new disease traceability 
+approach and ID requirements. Due to Texas’ large variety of livestock 
+producers and management practices, a major obstacle is to get everyone on 
+the same page and agree to one s ystem. Lastly, TAHC is experiencing a 
+number of varied animal health issues  which has redirected resources and 
+caused personnel to delay or halt regular job duties (including
+Text Len: 1765
+--------------------------------------------------------------------------------
+
+approach and ID requirements. Due to Texas’ large variety of livestock 
+producers and management practices, a major obstacle is to get everyone on 
+the same page and agree to one s ystem. Lastly, TAHC is experiencing a 
+number of varied animal health issues  which has redirected resources and 
+caused personnel to delay or halt regular job duties (including ADT work) to 
+assist with the responses. 
+ 
+2.4 Opportunities and Threats 
+ 
+Texas has a history of significant animal health issues, whether disease or 
+natural disaster related. Until August 2011, TAHC maintained extensive first 
+point testing ear tag records and drew on these records routinely for disease 
+tracing purposes, and for linkage of cattle to owners in natural disasters or 
+for law enforcement purposes. There is no doubt that Texas and its partners 
+in animal agriculture commerce need an efficient and reliable animal 
+traceability system. Without a traceability system, disease tracing and natural 
+disaster recovery would become much more difficult and, in many cases,  
+unreliable or impossible. Assurance of and linkage of animal ID to cases 
+13  
+involving animal ownership change and movement are made possible by 
+standardized identification and recordation methods.         
+                                                                                                                  
+Text Len: 1375
+--------------------------------------------------------------------------------
+                                                                                 
+There are many opportunities to improve and advance our traceability 
+systems in Texas. Emerging new technologies which allow for a variety of 
+easier, faster, and more effective ways to manage electronically identified 
+animals and animal health records throughout all sectors of the livestock 
+industry. Additionally, we have opportunities to increase the acceptance and 
+use of electronic identification devices, whether it is the availability of no-
+cost low frequency tags to vets, the use of ultra -high frequency devices at 
+markets, or simply beginning to use electronic official ID tags at all the  
+Cattle Fever Tick dipping vats. TAHC is encouraged to hear that some of the 
+most reluctant members of the industry are showing increased interest in the 
+benefits of traceability. 
+ 
+TAHC is the state-level organization for foreign animal disease response,  a 
+responsibility that is not directly shared with any other agency or 
+organization. The Governor added TAHC to the State Emergency 
+Management Council in 2001, to the Homeland Security Council in 2005, 
+and the Critical Infrastructure/Key Resources (CI/KR) Committee in 2006. 
+Because of the agency’s expertise in animal health, the chief of the Texas 
+Division of Emergency Management designated TAHC as the state’s lead 
+agency for all animal issues in emergencies.  With the largest animal 
+agriculture industries in the nation, Texas needs disease traceability to avoid 
+potentially catastrophic animal
+Text Len: 1558
+--------------------------------------------------------------------------------
+KR) Committee in 2006. 
+Because of the agency’s expertise in animal health, the chief of the Texas 
+Division of Emergency Management designated TAHC as the state’s lead 
+agency for all animal issues in emergencies.  With the largest animal 
+agriculture industries in the nation, Texas needs disease traceability to avoid 
+potentially catastrophic animal and economic loss. 
+ 
+2.5 Inventory of existing infrastructure and suitability assessment 
+ 
+• Human Resources 
+In fiscal year 2023, TAHC employed five (5) full-time employees in the 
+ADT department: (1) ADT Coordinator, (1) ADT Technical Inspector, 
+and (3) Customer Service Representatives. Cooperative funding help 
+support these positions.  The ADT coordinator is responsible for 
+overseeing and coordinating all ADT program activities and projects, in 
+the office and in the field, and serves as a signatory official for the ADT 
+cooperative agreement and quarterly reports. The coordinator also 
+promotes traceability programs across the state at meetings and 
+conferences. The ADT  Technical Insp ector works with field staff and 
+accredited veterinarians to preform  herd testing, research and pilot 
+project management, disease outbreak and trace work, and training on 
+the use of ADT equipment such as wands, PDAs, RFID tags, etc. The 
+customer service representatives  register premises, answer incoming 
+phone calls, answer questions about the ADT program, manage tag 
+allocations, perform official ID traces, conduct the daily business within 
+the office, assist in trainings, equipment demonstrations, and support in 
+the field. 
+ 
+14  
+• Technology and Equipment 
+TAHC’s Information Technology Services department manages TAHC’s 
+
+Text Len: 1699
+--------------------------------------------------------------------------------
+phone calls, answer questions about the ADT program, manage tag 
+allocations, perform official ID traces, conduct the daily business within 
+the office, assist in trainings, equipment demonstrations, and support in 
+the field. 
+ 
+14  
+• Technology and Equipment 
+TAHC’s Information Technology Services department manages TAHC’s 
+resources for connectivity between the offices and the field  and ensures 
+agency access to USDA animal disease traceability and animal health 
+information databases.  TAHC maintains all previously purchased 
+hardware, including computers (desktops, laptops, & handhelds), 
+printers, scanners, RFID wand readers, cell phones, and wireless internet 
+access, and software, including, p remises location mapping software, 
+such as ArcGIS and Google Earth software. ITS also employees a robust 
+database development team and is provides advice on best practices 
+regarding data management. 
+ 
+• Animal Health Information Resources 
+TAHC Program Records department processes all certificates of 
+veterinary inspection and issues and monitors Texas entry permit 
+programs for domestic and exotic animals and fowl entering Texas from 
+other states. Program Records also ensures all traceability  data such as 
+animal identifications, owner information,  health certificates, 
+vaccination records and test charts are entered into TexCore.  In 2023, 
+TAHC began using the application C VI Central, which helps manage 
+CVI workflow and streamlines the transmission of animal health data 
+electronically to improve the processing time for both electronic and 
+paper CVIs.  Program Records is also responsible for maintaining records 
+for TAHC’s disease management and eradication activities including, the 
+Cattle Fever Tick Eradicatio n Program , the Waste Food Feeder 
+Registration, and Feral
+Text Len: 1812
+--------------------------------------------------------------------------------
+ workflow and streamlines the transmission of animal health data 
+electronically to improve the processing time for both electronic and 
+paper CVIs.  Program Records is also responsible for maintaining records 
+for TAHC’s disease management and eradication activities including, the 
+Cattle Fever Tick Eradicatio n Program , the Waste Food Feeder 
+Registration, and Feral Swine Holding program . And Program Records 
+supports records management for herd status programs including, the  
+Accredited Bovine Tuberculosis Free Herd, the Bovine Brucellosis 
+Certified Free Herd, the Validated Swine Brucellosis Free Herd, the 
+Qualified Pseudorabies Negative Swine Herd programs, the CWD Herd 
+Status Plans for  Cervidae, and the Trichomoniasis Free Herd status for 
+cattle. 
+ 
+TAHC Program Records staff calculate the monthly  number of animals 
+and ICVIs for interstate movement, and the number of paper vs electronic 
+ICVIs for ADT quarterly reporting.  They also send electronic and/or 
+paper copies of ICVIs to the other receiving states within 7 days, as per 
+ADT requirements. 
+ 
+III. AGENCY VISION AND MISSION 
+ 
+3.1 Vision Statement 
+ 
+Through the cooperative efforts of the Texas Animal Health Commission, 
+animal producers, and allied industry groups, the animal population of Texas 
+is healthy and secure. 
+ 
+15  
+3.2 Mission Statement 
+ 
+The mission of the Texas Animal Health Commission is: 
+• to protect the animal industry from, and/or mitigate the effects of 
+domestic, foreign and emerging diseases; 
+• to increase the marketability of Texas livestock commodities at the 
+state, national,
+Text Len: 1601
+--------------------------------------------------------------------------------
+
+is healthy and secure. 
+ 
+15  
+3.2 Mission Statement 
+ 
+The mission of the Texas Animal Health Commission is: 
+• to protect the animal industry from, and/or mitigate the effects of 
+domestic, foreign and emerging diseases; 
+• to increase the marketability of Texas livestock commodities at the 
+state, national, and international level; 
+• to promote and ensure animal health and productivity; 
+• to protect human health from animal diseases and conditions that are 
+transmissible to people; and 
+• to prepare for and respond to emergency situations involving        
+animals by conducting agency business in a responsive,        
+cooperative, and transparent manner. 
+ 
+ 
+IV. TRACEABILITY REQUIREMENTS 
+ 
+4.1 Strategic goals 
+ 
+USDA’s Overarching Goals established in 2018: 
+1. Enhance electronic sharing of data among federal and state animal health 
+officials, veterinarians and industry; including sharing basic ADT data 
+with the federal animal health events repository (AHER); 
+2. Increase the use electronic ID tags for animals requiring individual 
+identification in order to make the transmission of data more efficient; 
+3. Enhance the ability to track animals from birth to slaughter through a 
+system that allows tracking data points to be connected; and 
+4. Elevate the discussion with States and industry to work toward a system 
+where animal health certificates are electronically transmitted from 
+private veterinarians to state animal health officials. 
+ 
+TAHC’s ADT Strategic Goals: 
+To develop and implement a  statewide infrastructure for advancing animal 
+disease traceability in Texas that complies with the federal minimum 
+standards established by United States Department of Agriculture.
+Text Len: 1713
+--------------------------------------------------------------------------------
+ work toward a system 
+where animal health certificates are electronically transmitted from 
+private veterinarians to state animal health officials. 
+ 
+TAHC’s ADT Strategic Goals: 
+To develop and implement a  statewide infrastructure for advancing animal 
+disease traceability in Texas that complies with the federal minimum 
+standards established by United States Department of Agriculture. 
+ 
+To establish traceability systems for species and industries that do not or no 
+longer have compliant systems in place, for example beef cattle and cervidae. 
+ 
+4.2  Programmatic goals (Objectives) 
+ 
+TAHC will work cooperatively with USDA APHIS, to the degree possible, 
+on activities that will support compliance with the aligned federal regulations 
+defined in 9 CFR Part 86 and state regulations 4 Texas Administrative Code 
+Chapter 50. Cooperation and high compliance with traceability regulations 
+are critical to achieve optimum tracing capabilities. 
+ 
+16  
+TAHC will follow protocols and achieve assigned quotas, in accordance with 
+USDA provided Guidelines for Administering Traceability Performance  
+Measures document, for the administration and completion of National 
+Priority Traces (NPTs) to maintain eligibility for reimbursements of 
+expenditures. Moreover, TAHC’s goal is to consistently meet or exceed the 
+average time it takes to complete the NPTs with no performance concerns 
+on our performance report. 
+ 
+The proper administration of official identification devices and documents 
+used to help determine interstate movements, in particular Interstate 
+Certificates of Veterinary Inspection (ICVIs), is key for capturing accurate 
+information needed to achieve successful animal disease traceability. 
+TAHC’s goal is to continue to place a priority on activities that will make 
+electronic information more readily available, including activities to
+Text Len: 1868
+--------------------------------------------------------------------------------
+ of official identification devices and documents 
+used to help determine interstate movements, in particular Interstate 
+Certificates of Veterinary Inspection (ICVIs), is key for capturing accurate 
+information needed to achieve successful animal disease traceability. 
+TAHC’s goal is to continue to place a priority on activities that will make 
+electronic information more readily available, including activities to 
+support official identification, recordkeeping pertaining to the distribution of 
+official ear tags, promotion of radio frequency identification and electronic 
+interstate movement documentation. 
+ 
+Objectives, to include, but not limited to: 
+• Increase number of registered premises 
+• Increase number of animals with official ID 
+• Increase use of electronic IDs 
+• Increase use of electronic CVIs 
+ 
+Sharing information quickly and effectively will help USDA APHIS and 
+state animal health agencies respond to animal disease events and make ADT 
+successful. Information systems must be compatible. Therefore, TAHC will 
+continue to administer the required data elements in accordance with data 
+standards defined in the ADT Technical Specification  document. While  
+USDA will not fund information system development, data resulting from 
+funded tracing activities will be compatible so it can be shared with other 
+animal health officials. 
+ 
+4.3          Animal Disease Traceability Performance Measures 
+ 
+TAHC, in cooperation with the USDA VS staff, will annually administer 
+National Priority Traces (NPTs) that reflect tracing capabilities based on the 
+defined tracing activities. Compilation of the results across all recipients will 
+enable APHIS to determine current traceability values for the TPMs to 
+document progress made from the national baseline values and subsequent 
+“comparison years” that were established in prior cooperative agreement 
+periods.
+Text Len: 1892
+--------------------------------------------------------------------------------
+aces (NPTs) that reflect tracing capabilities based on the 
+defined tracing activities. Compilation of the results across all recipients will 
+enable APHIS to determine current traceability values for the TPMs to 
+document progress made from the national baseline values and subsequent 
+“comparison years” that were established in prior cooperative agreement 
+periods. The trace activity response times will be reported based o n the 
+following four preliminary performance standard measures: 
+ 
+1) Time to report to the State/Tribe of official tagging/identifying of an 
+animal in question that has moved interstate. 
+2) Time for the State/Tribe of first officially tagging/identifying an 
+17  
+animal in question that has moved interstate to provide a record of 
+the official tag distribution. 
+3) Time to report to the State/Tribe from which an animal in question has 
+moved interstate. 
+4) Time for the State/Tribe from which an animal in question has moved 
+interstate to provide the location and contact information from which 
+the animal was moved interstate. 
+ 
+ADT personnel are continuing to work closely with USDA VS staff to 
+successfully administer traces for the National Priority Traces (NPTs) and 
+use Emergency Management Response System-2 (EMRS2) for tracking and 
+reporting trace activities. 
+ 
+These performance trace activities measure the time it takes to answer four  
+specific questions regarding the allocation of official identification and/or  
+interstate movement. The start time is when the State is notified of the  
+official identification number, and the end time is when the State finds the  
+information to answer the question posed by the activity. Activities 2, 3, &4 
+are the most important to complete. Traces for Activity
+Text Len: 1760
+--------------------------------------------------------------------------------
+
+specific questions regarding the allocation of official identification and/or  
+interstate movement. The start time is when the State is notified of the  
+official identification number, and the end time is when the State finds the  
+information to answer the question posed by the activity. Activities 2, 3, &4 
+are the most important to complete. Traces for Activity 1 will be limited to 
+Animal Identification Number (AIN) tags as the official animal number. 
+Completing trace exercises for cattle is the priority. Trace activities for other 
+species may be reported, but they do not count toward the quota for NPTs. 
+ 
+USDA VS personnel will select the appropriate official identification 
+number(s) to trace and initiate the NPT in EMRS2. The system will 
+automatically send an email notice of NPT creation to an ADT group email 
+address. TAHC currently has two ADT staff members with eAuthentication 
+Level 2 access assigned to complete the NPTs in the EMRS2 utility. ADT 
+personnel work together to coordinate the assignment and completion of the 
+NPT activity. ADT staff will conduct extensive searches in traceability 
+electronic databases; such as AHER, TexCore, AIMS, etc. If no clear results 
+are found, they will conduct searches of paper systems and make phone calls 
+to parties involved, if necessary. When the trace is complete, the ADT staff 
+will access EMRS2 to document all steps taken in the Key Actions, enter the 
+trace information found, upload a copy of the record(s), and close out the 
+NPT. 
+ 
+TAHC’s goal is to consistently meet or exceed the average time it takes to 
+complete the NPTs with no performance concerns on our performance 
+report.
+Text Len: 1672
+--------------------------------------------------------------------------------
+ access EMRS2 to document all steps taken in the Key Actions, enter the 
+trace information found, upload a copy of the record(s), and close out the 
+NPT. 
+ 
+TAHC’s goal is to consistently meet or exceed the average time it takes to 
+complete the NPTs with no performance concerns on our performance 
+report. TAHC progress towards achieving our assigned NPT quota, 
+monitoring elapsed time, and percentage of completi on status will be 
+included in the quarterly ADT accomplishment reports. 
+ 
+ 
+4.4 Data requirements 
+ 
+• A PIN or LID will be assigned to all Texas producers when they provide 
+18  
+TAHC staff with current and accurate herd owner contact information, 
+including but not limited to: owner’s name, mailing address, and phone 
+number. 
+• Texas will accept all forms of official ID as outlined by USDA standards. 
+Texas will not accept brands or tattoos as official ID, unless the animal is 
+accompanied with official breed registration documentation. 
+• TAHC supports the use of official ID tags to identify all adult cattle prior 
+to interstate movement to comply with the federal rule or to be tagged 
+within 7 days for intrastate movement. 
+• Tags and applicators may be distributed by approved device manufacturers, 
+accredited veterinarians, TAHC personnel, or shipped directly to the 
+producers, depending on available funds. 
+•  TAHC has fully  transitioned from using our own online tag allocation 
+reporting application to utilizing Trace First’s TexCore system as our 
+primary tag distribution record keeping system for NUES tags. 
+• TAHC will continue to use USDA’s AIMS system for AIN distribution 
+record keeping. 
+• Data will be shared with A
+Text Len: 1670
+--------------------------------------------------------------------------------
+
+•  TAHC has fully  transitioned from using our own online tag allocation 
+reporting application to utilizing Trace First’s TexCore system as our 
+primary tag distribution record keeping system for NUES tags. 
+• TAHC will continue to use USDA’s AIMS system for AIN distribution 
+record keeping. 
+• Data will be shared with AHER, as well as other states and tribes on an as-
+needed basis for animal disease response and control. This would be a 
+continuation of TAHC practice of epidemiologic management of disease 
+trace-ins and trace-outs. 
+ 
+4.5 Information technology plan 
+ 
+• Maintain and continue integration of legacy data into a TexCore database. 
+• Enhancement/Improvements of Texas’ electronic certificates of veterinary 
+inspection to allow for reporting and tracing of ADT data. 
+• Funding to host an additional database instance in a well -supported data 
+center that offers server failover capability and routine backups. 
+• Maintenance funding for datacenter hosting, software licensing, and 
+salaries for up to two dedicated IT specialists. 
+• Maintenance, upgrade, and replacement of automated data capture 
+equipment, such as computers and handheld devices. 
+• Continue to pursue improvements of scanning technology to make paper 
+CVIs searchable for tracing. 
+ 
+ 
+4.6 Resource requirements 
+ 
+Additional resources needed may include the following: 
+• Official identification devices 
+• Tagging pliers 
+• Electronic device readers 
+• Additional personnel 
+• Funding for shipping tags to producers and accredited vets 
+• IT operations costs 
+• IT hardware 
+19  
+• Additional space for tag and file storage 
+ 
+4.7         Organizational needs 
+ 
+
+Text Len: 1662
+--------------------------------------------------------------------------------
+ Official identification devices 
+• Tagging pliers 
+• Electronic device readers 
+• Additional personnel 
+• Funding for shipping tags to producers and accredited vets 
+• IT operations costs 
+• IT hardware 
+19  
+• Additional space for tag and file storage 
+ 
+4.7         Organizational needs 
+ 
+TAHC has an organizational structure in place that will support animal 
+disease traceability and all aspects of implementation. 
+ 
+4.7.1 Executive support 
+ 
+TAHC is an animal health agency administered by licensed 
+veterinarians. As animal health professionals who handle the realities 
+of animal disease on a daily basis, TAHC’s management advocates 
+implementation of a practicable animal disease traceability program. 
+ 
+4.7.2 Coordination and oversight procedures 
+ 
+The Texas animal disease traceability working groups are species 
+specific and provide valuable guidance and oversight in the continued 
+development and implementation of traceability efforts in Texas.  
+Originally, the working group was comprised of representatives from 
+all various livestock industries and producers. The species -specific 
+working groups were implemented to provide more effective and 
+focused advancement within their industries.  The working groups 
+meet on an as-needed basis. 
+ 
+The compatibility with other states, tribes, territories, and USDA is 
+monitored using policy standards, federal minimum standards,  
+common data collection practices, standardized reporting and 
+program evaluation based off performance measures. 
+ 
+The ADT  department is responsible for coordination and 
+implementation of the animal disease traceability  plan, including 
+coordination of other agency office and field staff.  Additional 
+responsibilities and job duties may be assigned by TAHC’s executive 
+director. 
+
+Text Len: 1790
+--------------------------------------------------------------------------------
+ collection practices, standardized reporting and 
+program evaluation based off performance measures. 
+ 
+The ADT  department is responsible for coordination and 
+implementation of the animal disease traceability  plan, including 
+coordination of other agency office and field staff.  Additional 
+responsibilities and job duties may be assigned by TAHC’s executive 
+director. 
+ 
+ 
+ 
+4.7.3 Policy 
+ 
+The animal disease traceability program in Texas is governed by the 
+existing mandate in the Texas Agriculture Code, Section 161.056. 
+This policy authorizes TAHC to establish and enforce, by 
+Commission rule, an animal identification program consistent with 
+the Federal program.  The rules proposed and adopted by the 
+Commission are legal requirements promulgated by the Commission 
+to carry out their mission to protect animal health in Texas. The rules 
+of the Commission are found in Title 4, Texas Administrative Code, 
+20  
+Chapters 31 through 60. 
+ 
+During fiscal year  2013, TAHC adopted new animal disease 
+traceability rules, published as a separate chapter to enhance program 
+transparency and to incorporate elements in the adopted federal ADT 
+rule. Chapter 50: Animal Disease Traceability went into effect on 
+Monday, October 7, 2013.  The rule specifically establishes the 
+requirements for approved tagging sites. All facilities such as 
+livestock markets receiving certain classes of livestock without 
+official identification must be designated as an approved tagging site 
+or be affiliated with one. 
+ 
+The Commission adopted a new section in Chapter 50: Animal 
+Disease Traceability, Cattle Identification and became effective on 
+Tuesday, February 4, 2014. This amendment establishes 
+identification requirements for adult cattle being sold within the state 
+of Texas. The rule states that
+Text Len: 1810
+--------------------------------------------------------------------------------
+ must be designated as an approved tagging site 
+or be affiliated with one. 
+ 
+The Commission adopted a new section in Chapter 50: Animal 
+Disease Traceability, Cattle Identification and became effective on 
+Tuesday, February 4, 2014. This amendment establishes 
+identification requirements for adult cattle being sold within the state 
+of Texas. The rule states that all adult breeding cattle, except cattle 
+going directly to slaughter, shall be permanently identified within 
+seven days of change of ownership. Untagged adult cattle have seven 
+days after purchase to be delivered to a slaughter facility, resold 
+through a livestock market, or have acceptable permanent official 
+identification applied. Slaughter type cattle that will be put on  feed 
+prior to slaughter shall also be permanently identified within seven 
+days of purchase. 
+ 
+Additionally, if any changes are made to the state animal disease 
+traceability rules, they will be structured for seamless compliance 
+with the federal ADT rule. 
+ 
+4.7.4 Staffing 
+ 
+TAHC personnel are needed to perform essential job duties required 
+to carry out program objectives.  The animal disease traceability 
+department is responsible for administering/overseeing the program. 
+Staff throughout the agency provide support for the program.  
+ 
+Personnel needed to implement program are (at minimum): 
+• Program Coordinator 
+• Program field support specialist – 1 
+• Office administrative support staff – 9 
+• Part-time support from staff veterinarians, field inspectors, 
+region admins, and IT support specialists 
+ 
+4.7.5 Projected Budget requirements The projected total program costs: 
+ 
+ 
+ FY2024 FY2025 FY2026 
+21  
+Personnel 1,184,300 1,238,000 1,280,300
+Text Len: 1717
+--------------------------------------------------------------------------------
+
+• Part-time support from staff veterinarians, field inspectors, 
+region admins, and IT support specialists 
+ 
+4.7.5 Projected Budget requirements The projected total program costs: 
+ 
+ 
+ FY2024 FY2025 FY2026 
+21  
+Personnel 1,184,300 1,238,000 1,280,300 
+Benefits 375,200 376,000 378,200 
+Travel 110,000 117,000 120,000 
+Equipment - - - 
+Supplies 280,000 292,000 317,500 
+Contractual 7,500 8,000 9,000 
+Postage/Freight 18,000 19,000 20,000 
+Indirect Costs - - - 
+Total $ 1,975,000 $ 2,050,000 $ 2,125,000 
+ 
+TAHC’s state budget cannot solely financially support the ADT 
+program and relies on funding through f ederal cooperative  
+agreements. Any reduction in cooperative agreement awarded 
+funding will hinder the potential advancement of animal disease 
+traceability. 
+ 
+4.7.6 Outreach 
+ 
+TAHC will continue to promote and educate Texas livestock industry 
+and stakeholders about advancing animal disease traceability.  
+Outreach efforts are made on a daily basis by our field, office, and 
+communications staff. ADT staff is available by phone, email, and in 
+person to answer questions. TAHC maintains a detailed  ADT 
+webpage that is reviewed and updated quarterly, with vital updates 
+made as needed. TAHC’s Public Information Office publishes ADT 
+focused news releases, electronic newsletters, handouts, fact sheets, 
+brochures, and regularly  posts to social media. TAHC field staff 
+regularly provide in-
+Text Len: 1416
+--------------------------------------------------------------------------------
+. TAHC maintains a detailed  ADT 
+webpage that is reviewed and updated quarterly, with vital updates 
+made as needed. TAHC’s Public Information Office publishes ADT 
+focused news releases, electronic newsletters, handouts, fact sheets, 
+brochures, and regularly  posts to social media. TAHC field staff 
+regularly provide in- person contact at livestock markets, special 
+sales, rodeos, exhibitions, special events, make ADT presentations 
+and work information booths at industry meetings and conferences.  
+ 
+Successful implementation of any plan to advance animal disease 
+traceability cannot be achieved without outreach to constituents 
+primarily affected by the plan. 
+ 
+ 
+4.7.6.1     Accredited veterinarians 
+Accredited veterinarians are instrumental to the 
+traceability framework focusing on the identification 
+and interstate movement of livestock, as well as 
+transitioning to electronic data capture and submission 
+of electronic animal health records. 
+• The plan to inform accredited veterinarians of the              
+ADT program, requirements, plans for 
+implementation and advancement will utilize various 
+forms of media, such as: press releases, electronic 
+22  
+newsletters, handouts, fact sheets, brochures,  social 
+media, agency website, agency email, mass mail 
+outs, and attend regional conventions and meetings. 
+• Since fiscal year 2019, TAHC has conducted 
+extensive outreach and education efforts to 
+accredited veterinarians to provide information on 
+how to transition to electronic official identification, 
+electronic data capture equipment,  and reporting 
+requirements including how to become an AIN 
+device manager. 
+• TAHC plans to enhance and promote the
+Text Len: 1692
+--------------------------------------------------------------------------------
+. 
+• Since fiscal year 2019, TAHC has conducted 
+extensive outreach and education efforts to 
+accredited veterinarians to provide information on 
+how to transition to electronic official identification, 
+electronic data capture equipment,  and reporting 
+requirements including how to become an AIN 
+device manager. 
+• TAHC plans to enhance and promote the use of 
+electronic ICVIs, vaccination and test records by 
+educating veterinarians on the ease of use and 
+benefits. 
+• A continuing education effort will be put in place to 
+ensure all parties responsible for collecting and 
+entering data are sufficiently trained and supported.  
+TAHC’s data accuracy monitoring program will 
+continue to provide accountability and data quality 
+assurance. 
+• The accredited veterinarian will continue to provide 
+and have official identification devices available for 
+producers. 
+ 
+4.7.6.2 Livestock marketing facilities/ Slaughter Plants 
+Livestock marketing facilities continue to be a vital 
+collection point for traceability information. 
+• In addition to regular in-person contact and 
+communication provided by agency field staff, TAHC 
+uses various forms of media, such as ,  press releases, 
+electronic newsletters, handouts, fact sheets, 
+brochures, social media, agency website, agency 
+email, mass mail outs, and atten dance at regional 
+conventions and meetings , help address outstanding 
+concerns from livestock markets. 
+ 
+4.7.6.3 Industry as a whole 
+Implementation of any plan to advance animal disease 
+traceability impacts a variety of constituents, likely 
+none more so than industry itself. 
+• The industry will be informed of the ADT 
+program and advancement plan by utilizing 
+Text Len: 1693
+--------------------------------------------------------------------------------
+ , help address outstanding 
+concerns from livestock markets. 
+ 
+4.7.6.3 Industry as a whole 
+Implementation of any plan to advance animal disease 
+traceability impacts a variety of constituents, likely 
+none more so than industry itself. 
+• The industry will be informed of the ADT 
+program and advancement plan by utilizing 
+various forms of media, such as , press releases, 
+electronic newsletter s, handouts, fact sheets, 
+brochures, social media, agency website, agency 
+email, mass mail out , and material presented at 
+conventions and meetings. 
+•  TAHC plans to promote the ease of use, benefits, 
+23  
+and increase acceptance of electronic official 
+identification devices and electronic ICVIs. 
+• Industry representatives serving on the advisory 
+committee will continue to educate and share plan 
+implementation to their constituents. 
+ 
+4.8  Monitoring and reporting interstate movement activity 
+ 
+The traceability framework is focused on interstate movement and the 
+accompanying ICVI or similar documentation for that movement. 
+• ICVIs will be monitored for data quality and compliance. 
+• The number of animals and the number of shipments that move 
+interstate will be monitored and verified by a monthly inspection of all 
+paper and electronic ICVIs. The number of documents and animals are 
+calculated at the end of each month by program records and information 
+technology staff. 
+• The number of paper ICVIs, electronic ICVIs, and category II accredited 
+veterinarians using electronic ICVIs are calculated at the end of each 
+month by TAHC staff. 
+• The volume of official identification devices issued by TAHC  is 
+compiled by ADT staff and is reported in
+Text Len: 1678
+--------------------------------------------------------------------------------
+ and information 
+technology staff. 
+• The number of paper ICVIs, electronic ICVIs, and category II accredited 
+veterinarians using electronic ICVIs are calculated at the end of each 
+month by TAHC staff. 
+• The volume of official identification devices issued by TAHC  is 
+compiled by ADT staff and is reported in cooperative quarterly reports. 
+ 
+4.9 Compliance and enforcement of traceability regulations 
+ 
+TAHC office staff monitors premises registrations, tag distributions, tag 
+allocation records, disease program documents, movement records, and 
+submitted complaints for potential compliance issues. TAHC field staff 
+monitors operations, animals, animal movements, documents, and 
+submitted complaints for potential compliance issues. All compliance issues 
+are reported to TAHC ’s Legal Dep artment to investigate any alleged 
+violations and follow up enforcement actions. Possible enforcement actions 
+include warning letters, administrative penalties, and criminal actions filed 
+with local prosecuting authorities. TAHC records and report the number of 
+investigations and enforcement actions  to our AVIC and in the quarterly 
+ADT Enforcement Action reports.  
+ 
+Additionally, when TAHC receives returned NUES tags from a distribution 
+partner, we will conduct a comparison of all tags issued, reported, and 
+returned to ensure accountability for all tags. Also, when an accredited vet 
+places multiple orders for RFID tags, TAHC will verify that the tag 
+allocation records for previous orders are being reported properly, prior to 
+placing additional orders. 
+ 
+V. TRACEABILITY IMPLEMENTATION 
+ 
+5.1 Ranking of priorities for advancement 
+1) Improvement and increase of electronic data capture and retrieval of 
+24  
+traceability information 
+2) Outreach
+Text Len: 1772
+--------------------------------------------------------------------------------
+ that the tag 
+allocation records for previous orders are being reported properly, prior to 
+placing additional orders. 
+ 
+V. TRACEABILITY IMPLEMENTATION 
+ 
+5.1 Ranking of priorities for advancement 
+1) Improvement and increase of electronic data capture and retrieval of 
+24  
+traceability information 
+2) Outreach and marketing efforts 
+3) LID and PIN Assignments 
+4) Tag Distributions 
+5) Data collection and reporting data into appropriate systems 
+6) Data entry of backlogged vaccination and testing records 
+7) Monitor ICVI data quality and compliance 
+8) Pilot projects with industry for testing new technology 
+ 
+5.2 Implementation of objectives and planned activities 
+• Year 1 
+- Continue LID, PIN, and Flock ID assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Data entry of backlogged vaccination and testing records 
+- Enhance IT infrastructure 
+- Conduct National Priority Trace activities 
+- Monitor ICVI data quality and compliance 
+- Continue outreach and marketing efforts 
+- Continue improvements of a system for electronic capture ADT data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+ 
+• Year 2 
+- Continue LID, PIN, and Flock ID assignments 
+- Continue tag distribution process 
+- Provide approved manufacturers’ information for purchasing of 
+official identifications devices to producers and industry 
+- Implementation of transition to electronic id 
+- Continue outreach and education efforts 
+- Promote the use of electronic data capture and electronic records 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability
+Text Len: 1810
+--------------------------------------------------------------------------------
+ distribution process 
+- Provide approved manufacturers’ information for purchasing of 
+official identifications devices to producers and industry 
+- Implementation of transition to electronic id 
+- Continue outreach and education efforts 
+- Promote the use of electronic data capture and electronic records 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Data entry of backlogged vaccination and testing records 
+- Enhance IT infrastructure. 
+- Improve retrieval of available traceability information 
+- Conduct National Priority Trace activities 
+- Monitor ICVIs for data quality and compliance 
+- Enhancement of an electronic data capture system of CVI data 
+- Compliance and enforcement actions 
+ 
+• Year 3 
+- Continue Flock ID, LID and PIN assignments 
+- Continue tag distribution process 
+25  
+- Continue to provide approved manufacturers’ information for 
+purchasing of official identifications devices to producers and 
+industry 
+- Continue implementing the transition to electronic id 
+- Continue outreach and education efforts 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Enhance IT infrastructure 
+- Improve retrieval of available traceability information 
+- Conduct National Priority Trace activities 
+- Monitor ICVI data quality and compliance 
+- Compliance and enforcement actions 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of advancement activities to support a standardized 
+electronic system for traceability data and uniform official ID 
+Text Len: 1679
+--------------------------------------------------------------------------------
+ADVANCING ANIMAL DISEASE TRACEABILITY 
+ROAD MAP FOR 
+TEXAS 
+ 
+ 
+A Three-Year Plan 
+ 
+Submitted by: 
+ 
+DR. LEWIS R. “BUD” DINGES, DVM 
+ 
+ 
+EXECUTIVE DIRECTOR, STATE VETERINARIAN 
+TEXAS ANIMAL HEALTH COMMISSION 
+2105 KRAMER LANE,AUSTIN, TX 78758 
+512-719-0704 
+ 
+Submitted to: 
+DR. PATRICIA “LUISA”  COLLINS, D.V.M. 
+ASSISTANT DISTRICT DIRECTOR FOR  
+TEXAS VETERINARY SERVICES 
+ANIMAL AND PLANT HEALTH INSPECTION SERVICE 
+UNITED STATES DEPARTMENT OF AGRICULTURE 
+ 
+ 
+903 SAN JACINTO BLVD., SUITE 220 
+AUSTIN, TX 78701 
+512-383-2400 
+ 
+Road Map 5 – January 5, 2024 
+ 
+ 
+ 
+
+Table of Contents 
+I. EXECUTIVE SUMMARY ................................................................................................... 3 
+II. CURRENT TRACEABILITY SITUATION ......................................................................... 4 
+2.1 Who are we? .................................................................................................................. 4 
+2.2 Where are we now? ........................................................................................................ 5 
+2.3 Strengths and Weaknesses ............................................................................................ 13 
+2.4 Opportunities and Threats ............................................................................................. 14 
+2.5 Inventory of existing infrastructure and suitability assessment ...................................... 14 
+III. AGENCY VISION AND MISSION ................................................................................... 16 
+3.1 Vision
+Text Len: 1583
+--------------------------------------------------------------------------------
+ Where are we now? ........................................................................................................ 5 
+2.3 Strengths and Weaknesses ............................................................................................ 13 
+2.4 Opportunities and Threats ............................................................................................. 14 
+2.5 Inventory of existing infrastructure and suitability assessment ...................................... 14 
+III. AGENCY VISION AND MISSION ................................................................................... 16 
+3.1 Vision statement ........................................................................................................... 16 
+3.2 Mission statement ......................................................................................................... 16 
+IV. TRACEABILITY REQUIREMENTS................................................................................. 16 
+4.1 Strategic goal(s) ........................................................................................................... 16 
+4.2 Programmatic goal(s) (Objectives)................................................................................ 17 
+4.3 Animal disease traceability performance measures........................................................ 17 
+4.4 Data requirements ........................................................................................................ 19 
+4.5 Information technology plan ......................................................................................... 19 
+4.6 Resource requirements .................................................................................................  20 
+4.7 Organizational needs .................................................................................................... 20 
+4.7.1 Executive support ...................................................................................... 20 
+4.7.2 Coordination and oversight procedures ...................................................... 20 
+4.7.3 Policy ........................................................................................................ 21 
+4.7.4 Staffing ..................................................................................................... 21 
+4.7.5 Budget requirements .................................................................................. 22 
+4.7.6 Outreach .................................................................................................... 22 
+4.7.6.1 Accredited veterinarians ................................................................ 23 
+4.7.6.2 Livestock marketing facilities ........................................................ 23 
+4.7.6.3 Industry as a whole ....................................................................... 23 
+4.8 Monitoring and reporting interstate movement activity ................................................. 24 
+4.9 Compliance and enforcement of traceability regulations ............................................... 24 
+V. TRACEABILITY IMPLEMENTATION ............................................................................ 25 
+Text Len: 3210
+--------------------------------------------------------------------------------
+6.2 Livestock marketing facilities ........................................................ 23 
+4.7.6.3 Industry as a whole ....................................................................... 23 
+4.8 Monitoring and reporting interstate movement activity ................................................. 24 
+4.9 Compliance and enforcement of traceability regulations ............................................... 24 
+V. TRACEABILITY IMPLEMENTATION ............................................................................ 25 
+5.1 Ranking of priorities for advancement .......................................................................... 25 
+5.2 Implementation of objectives ........................................................................................ 25 
+3  
+I. EXECUTIVE SUMMARY 
+ 
+This three-year plan outlines how Texas Animal Health Commission (TAHC) proposes 
+to continue to develop and advance animal disease traceability under the federal ADT 
+program.  
+ 
+The continued collaboration and cooperative relationship between TAHC and 
+USDA/APHIS/VS are vital to the success of this program . To help support the health 
+and sustainability of the extensive  animal agriculture industry in Texas, continued 
+funding and support from USDA is needed to maintain  successful management of the 
+animal disease traceability program in Texas. 
+ 
+TAHC’s projected approach and anticipated timeline include the following elements: 
+• April 2024 
+- FY2024 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+- Outreach and marketing efforts 
+- Continue development of a system for electronic capture of CVI data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $1,975,000 
+ 
+• April 2025 
+- FY2025 cooperative agreement 
+
+Text Len: 2025
+--------------------------------------------------------------------------------
+ system for electronic capture of CVI data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $1,975,000 
+ 
+• April 2025 
+- FY2025 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+- Outreach and marketing efforts 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of transition to electronic identification 
+- Compliance and enforcement actions 
+- Projected Cost: $2,050,000 
+ 
+• April 2026 
+- FY2026 cooperative agreement 
+- Continue LID/PIN assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Continued integration of legacy data 
+4  
+- Outreach and marketing efforts 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of advancement activities to support a standardized 
+electronic system for traceability data and uniform official ID 
+- Compliance and enforcement actions 
+- Continue to provide a limited supply of RFID readers to accredited 
+veterinarians 
+- Projected Cost: $2,125,000 
+ 
+II. CURRENT TRACEABILITY SITUATION 
+ 
+2.1 Who are we? 
+ 
+TAHC was founded by the Texas Legislature in 1893 and is charged with 
+protecting Texas’ livestock and poultry  “from all contagious or infectious 
+diseases of a malignant character.” Today, TA
+Text Len: 1618
+--------------------------------------------------------------------------------
+000 
+ 
+II. CURRENT TRACEABILITY SITUATION 
+ 
+2.1 Who are we? 
+ 
+TAHC was founded by the Texas Legislature in 1893 and is charged with 
+protecting Texas’ livestock and poultry  “from all contagious or infectious 
+diseases of a malignant character.” Today, TAHC remains true to this charge 
+while evolving with the times to protect the health and marketability of all 
+Texas livestock and poultry.  
+ 
+TAHC has legislative authority to make and enforce regulations to prevent, 
+control, and eradicate specific infectious animal diseases which endanger 
+livestock and poultry. TAHC regulations are made and adopted by 13 
+governor-appointed commissioners who represent the general public, various 
+livestock industries, and professions. The commissioners serve staggered 
+six-year terms and meet as needed to study the regulatory need s of the 
+agency, review public comments on proposed regulation changes, and adopt 
+new rules when necessary. 
+ 
+TAHC’s headquarters are in Austin with six region offices strategically 
+located across the state so the staff can work more effectively with ranchers, 
+livestock markets and slaughter plant personnel, and other livestock industry 
+representatives across Texas’ 254 counties. 
+ 
+Texas has unique risks associated with its size and extensive borders. In 
+addition to the four US states that boarder Texas, the Texas -Mexico border 
+spans approximately 1,248 miles.  Texas also has multiple land ports, 
+seaports, and international airports.  
+ 
+In addition to TAHC’s animal health specialists, who have expertise in the 
+Texas animal agriculture industry, to help develop the most efficient animal 
+disease traceability program, TAHC uses various animal disease
+Text Len: 1705
+--------------------------------------------------------------------------------
+ border 
+spans approximately 1,248 miles.  Texas also has multiple land ports, 
+seaports, and international airports.  
+ 
+In addition to TAHC’s animal health specialists, who have expertise in the 
+Texas animal agriculture industry, to help develop the most efficient animal 
+disease traceability program, TAHC uses various animal disease traceability 
+working groups , which meet on an as -needed basis . These groups bring 
+together representatives and experts from various industries to provide  
+species specific valuable guidance and on the  continued development and 
+implementation of traceability efforts in Texas.  
+ 
+ 
+5  
+2.2 Where are we now? 
+ 
+Texas has successfully completed four previous ADT Road Maps. The first 
+Texas ADT Road Map plans established the initial development and  
+implementation of a basic traceability system and rules during FY2012, 
+FY2013, and FY2014. Building on the previous successes the Texas ADT 
+Road Map 2 for FY2015, FY2016, and FY2017, continued implementation 
+of traceability activities and began development of a system for electronic 
+capture of ICVI data. For FY2018, FY2019, and FY2020, the  Texas ADT 
+Road Map 3 focused on improving the availability and retrieval of 
+traceability information, as well as the evaluation of visual versus electronic 
+traceability devices and documents.  With the success of the previous four 
+ADT Road maps FY2021,  FY2022, and FY2023 concentrated on the 
+continued transition to electronic traceability devices and encourage 
+paperless reporting. 
+ 
+TAHC continues to work with the animal disease traceability cattle working 
+group and other industries to find workable solutions and to help develop  
+short and long-term
+Text Len: 1709
+--------------------------------------------------------------------------------
+ 
+ADT Road maps FY2021,  FY2022, and FY2023 concentrated on the 
+continued transition to electronic traceability devices and encourage 
+paperless reporting. 
+ 
+TAHC continues to work with the animal disease traceability cattle working 
+group and other industries to find workable solutions and to help develop  
+short and long-term plans for the future of animal identification and disease 
+traceability in Texas. 
+ 
+Premises Registration Systems 
+ 
+TAHC has continued voluntary premises registration to support the 
+administration of location identifiers that adhere to the federal standards. 
+ADT staff manages the various premises registration systems, including 
+issuing premises identification numbers (P IN)s, location identification 
+numbers (LID)s, and scrapie flock identification numbers. Each number is 
+nationally unique and recognized. 
+ 
+A national premises identification number (PIN) is a unique number, 
+permanently assigned to a physical address where agricultural animals are 
+located. Texas utilizes the USDA-APHIS provided Premise Management 
+System (PM) to obtain a PIN from the federal allocator.  A PIN consists of 
+seven alphanumeric characters, beginning with two leading zeros. To obtain 
+a PIN, producers may contact TAHC’s ADT department. The owner’s 
+contact and premises information is entered, maintained, and stored 
+electronically in PM and hard copy files on-site. 
+ 
+Texas has a state system and process for issuing a location identification 
+number (LID).  A LID is assigned to an owner’s contact and operation 
+information, which are stored in a state administered CoreOne database  
+(TexCore). Only the LID number itself is reported to the federal repository 
+system as a valid
+Text Len: 1716
+--------------------------------------------------------------------------------
+-site. 
+ 
+Texas has a state system and process for issuing a location identification 
+number (LID).  A LID is assigned to an owner’s contact and operation 
+information, which are stored in a state administered CoreOne database  
+(TexCore). Only the LID number itself is reported to the federal repository 
+system as a valid number. All LIDs start with the state postal abbreviation 
+(TX) followed by six random alphanumeric characters, which makes the 
+LIDs nationally unique. In most cases, a LID may be used in lieu of a PIN. 
+To obtain a LID, producers may contact their local TAHC region office or 
+6  
+ADT department. 
+ 
+Additionally, ADT staff administers the Scrapie program for sheep and  
+goats. They collect producer and flock information over the telephone, assign 
+a Scrapie flock identification number, enter the information into SCS-SCR, 
+and maintain a scanned file copy of the registration/order form. 
+ 
+Administration of Official Identification Devices 
+ 
+The proper administration of official identification devices and reporting is 
+key for capturing accurate information needed to achieve successful animal 
+disease traceability. The most commonly used forms of official ID are USDA 
+approved Animal Identification Number (AIN) “840” series Radio 
+Frequency Identification tags (RFID) and National Uniform Eartagging 
+System (NUES) identification metal eartags.  Brucellosis calfhood 
+vaccination tags, Swine PIN tags, Scrapie tags, and breed registration 
+tattoos/brands (uniquely identifying the animal and accompanied by the 
+breed registration paperwork) are also acceptable as official ID. A complete 
+list of acceptable official identification devices/methods
+Text Len: 1686
+--------------------------------------------------------------------------------
+ (NUES) identification metal eartags.  Brucellosis calfhood 
+vaccination tags, Swine PIN tags, Scrapie tags, and breed registration 
+tattoos/brands (uniquely identifying the animal and accompanied by the 
+breed registration paperwork) are also acceptable as official ID. A complete 
+list of acceptable official identification devices/methods is posted on 
+TAHC’s website and updated regularly. Producers are encouraged to contact 
+their veterinarian or TAHC to determine which method of tagging will be 
+best for their operation. 
+ 
+AIN - RFID tags 
+AIN device manufacturers and managers may  distribute approved AIN 
+devices to producers and are responsible for entering tag distribution 
+records into the Animal Identification Management System (AIMS). All 
+recipients of AIN devices must first have a LID or PIN and provide that 
+number to the distributor for proper reporting. ADT staff are available to 
+register premises, process address exceptions, and issue the allocated 
+PINs and/or LIDs. Additionally, TAHC r egion office staff can  register 
+premises and issue LIDs. Producers with a valid PIN or LID are 
+encouraged to purchase official identification from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the complete list of approved AIN devices and tag manufacturers’ 
+information maintained on the USDA traceability website. 
+ 
+TAHC will continue to promote and support the use of electronic 
+identification. By the end of FY2019, TAHC successfully transitioned to 
+only using electronic identification for regulatory and disease program 
+work by all TAHC field personnel.  TAHC may use ADT cooperative  
+agreement funds to purchase additional AIN RFID tags and RFID device 
+
+Text Len: 1737
+--------------------------------------------------------------------------------
+ 
+TAHC will continue to promote and support the use of electronic 
+identification. By the end of FY2019, TAHC successfully transitioned to 
+only using electronic identification for regulatory and disease program 
+work by all TAHC field personnel.  TAHC may use ADT cooperative  
+agreement funds to purchase additional AIN RFID tags and RFID device 
+applicators. In addition, TAHC may supply AIN RFID tags to producers 
+with a valid PIN or LID, if supplies are available and only on a case-by-
+case basis. TAHC’s ADT department is responsible for overseeing the 
+management of all official ID devices distributed and/or applied by the 
+agency. TAHC region office staff will collect all official ID allocation 
+7  
+records from field staff, enter the data into TexCore, and report official 
+ID distributions to TAHC ’s ADT department. Tag distribution records 
+for official AIN devices are entered and maintained in AIMS by ADT 
+staff. 
+ 
+After RFID tags are applied to the animals, the RFID devices can  be 
+scanned and read by standard ISO compliant readers. Electronic readers 
+are available for purchase by animal health agencies, markets, operations, 
+and producers from the manufacturers. TAHC field personnel  regularly 
+use handheld readers, wands, and stationary readers paired with handheld 
+PDAs and laptops to electronically capture the animal identification 
+numbers and upload the data into the appropriate systems  using MIMS; 
+while conducting testing, disease response, trace work, and assisting with 
+livestock identification. Funds will be used to purchase electronic readers 
+with accessories for TAHC field personnel and accredited vets, as part of 
+our technology equipment refresh and to increase infrastructure. 
+ 
+Accredited
+Text Len: 1747
+--------------------------------------------------------------------------------
+
+numbers and upload the data into the appropriate systems  using MIMS; 
+while conducting testing, disease response, trace work, and assisting with 
+livestock identification. Funds will be used to purchase electronic readers 
+with accessories for TAHC field personnel and accredited vets, as part of 
+our technology equipment refresh and to increase infrastructure. 
+ 
+Accredited Veterinarians and Cattle Producers 
+In order to expand the use of RFID devices, USDA will offer free AIN-
+840 low frequency RFID white and orange OCV  tags to states for 
+accredited veterinarians and cattle producers for use  on replacement 
+breeding cattle. The complimentary RFID tags are used as an alternative 
+to silver metal “ Brite” tags and orange metal Official Calfhood 
+Vaccination (OCV) tags. Though the metal clip tags have served a 
+valuable purpose in disease control and eradication programs, RFID 
+devices provide state animal health officials and the cattle industries 
+increased ability to accurately and quickly trace animals exposed to or 
+infected with potentially devastating diseases before they can  do 
+substantial damage to the U.S. livestock and consumer markets. 
+ 
+Texas accredited veterinarians and cattle producers that are interested in 
+receiving official RFID tags at no-cost may submit their  requests to 
+TAHC’s ADT department. TAHC will fill the requests for these devices 
+from the supply given by USDA. The tags will  be distributed to field 
+offices, accredited vets, producers,  or operations that are eligible to 
+receive these official id devices at no -cost. These no- cost official id 
+devices will be shipped directly from TAHC supply. The shipping costs 
+for devices redistributed from TAHC will be paid for with cooperative 
+fund
+Text Len: 1757
+--------------------------------------------------------------------------------
+ given by USDA. The tags will  be distributed to field 
+offices, accredited vets, producers,  or operations that are eligible to 
+receive these official id devices at no -cost. These no- cost official id 
+devices will be shipped directly from TAHC supply. The shipping costs 
+for devices redistributed from TAHC will be paid for with cooperative 
+funds, any overages will be covered by state funding. 
+ 
+Accredited Veterinarians are required to maintain records and report all 
+official ID devices distributed and/or applied, using one of the following 
+methods: record and submit identification data on an official animal 
+health record (test record, vaccination chart, or ICVI) for data entry into 
+8  
+TexCore; vets who are AIN Device Managers may enter AIN distribution 
+records directly into AIMs; or report official ID distribution records to 
+TAHC’s ADT department for data entry into AIMS. 
+ 
+Livestock Marketing Facilities 
+TAHC recommends that producers/buyers contact their local livestock 
+market/auction barn to determine current requirements and available 
+options for livestock identification. Some animals may be required to be 
+officially identified prior to or after purchase to comply with the ADT, 
+disease program, or regulatory requirements. 
+ 
+Livestock marketing facilities are not required to report tag distribution  
+records for livestock tagged at the market . As part of a separate TAHC 
+rule, livestock marketing facilities are required to keep certain dealer 
+records for a minimum of five years and to make the records available 
+for inspection by TAHC representatives. TAHC Market Inspectors report 
+all tag sequence allocations to region offices, which are then entered into 
+TexCore. Dealer records are to include records
+Text Len: 1756
+--------------------------------------------------------------------------------
+ the market . As part of a separate TAHC 
+rule, livestock marketing facilities are required to keep certain dealer 
+records for a minimum of five years and to make the records available 
+for inspection by TAHC representatives. TAHC Market Inspectors report 
+all tag sequence allocations to region offices, which are then entered into 
+TexCore. Dealer records are to include records of individual animal 
+identification numbers, plus consignor and consignee contact 
+information for animals sold. 
+ 
+Approved Tagging Sites 
+All facilities such as livestock markets receiving certain classes of 
+livestock without official identification must be designated as an 
+approved tagging site by agreement. The purpose of this agreement is to 
+maintain integrity and control of application of official eartags at  an 
+approved tagging site, where livestock may be officially identified on 
+behalf of the owner or person in possession, care or control of the animals 
+when they are brought to the facility. Animals requiring official 
+identification may  be moved to these sites without prior official 
+identification, provided the site can maintain the individual identity of 
+animals until they are officially identified. 
+ 
+Approved Tagging Sites can order RFID  tags in increments of 1 00 by 
+contacting TAHC ’s ADT department.  RFID tags will be used to 
+officially identify all animals in accordance with 9 CFR 86 and 4 TAC 
+§50.2, including: 
+• Officially identify animals required to be identified before 
+commingling with animals from different premises or use a backtag 
+or other method to accurately maintain the animal's identity until the 
+official ear tag is applied. The official identification can then be 
+correlated to the person responsible for shipping the animal. 
+• Only apply official eartags
+Text Len: 1805
+--------------------------------------------------------------------------------
+, including: 
+• Officially identify animals required to be identified before 
+commingling with animals from different premises or use a backtag 
+or other method to accurately maintain the animal's identity until the 
+official ear tag is applied. The official identification can then be 
+correlated to the person responsible for shipping the animal. 
+• Only apply official eartags to animals not already officially 
+identified, (except as provided in 9 CFR 86.4(c)); and 
+• Do not remove official identification devices unless authorized by an 
+animal health official. 
+ 
+Approved Tagging Sites must submit records of tag application within 
+9  
+30 days if requested by TAHC personnel. The report must include, at a 
+minimum: The name, physical address, city, state and zip code of the 
+owner or person responsible for animals tagged; the official identification 
+numbers of the  tags applied associated with the  owner or person 
+responsible for the animals; and the date the official identification eartags 
+were applied. 
+ 
+Approved Tagging Sites must maintain records of official identification 
+eartags received and applied for a minimum of five years. Also, maintain 
+an accurate inventory of official eartags and application records in a 
+secure place accessible only to tag applicator personnel. Any lost or 
+stolen tags must be immediately reported to Texas animal health officials. 
+ 
+Swine PIN tags 
+Producers requesting Swine PIN tags must first have a premises ID 
+number (PIN), as the PIN is imprinted on the tags. ADT staff will register 
+the premises over the phone and provide the allocated PIN number. The 
+Swine PIN tags are available for purchase from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the
+Text Len: 1768
+--------------------------------------------------------------------------------
+ requesting Swine PIN tags must first have a premises ID 
+number (PIN), as the PIN is imprinted on the tags. ADT staff will register 
+the premises over the phone and provide the allocated PIN number. The 
+Swine PIN tags are available for purchase from an USDA approved 
+tagging manufacturer or supplier. TAHC will provide or direct producers 
+to the list of official PIN tags for slaughter swine and their  approved tag 
+manufacturers’ information maintained on the USDA traceability 
+website. 
+ 
+TAHC will use ADT cooperative agreement funds to purchase Swine 
+PIN tags and applicators for animal disease regulatory work. These tags 
+will be registered to and imprinted with the PIN for TAHC ’s central 
+office. These tags are only distributed to TAHC region offices to be used 
+by TAHC field staff when conducting swine testing.  The initial tag  
+distributions from the central office to the region offices are entered and 
+maintained in TexCore. When applied to the animal, the tag allocations 
+are reported on the swine test charts and submitted to TAHC  region 
+offices for data entry. 
+ 
+Scrapie tags 
+USDA-APHIS announced nationwide identification and recordkeeping 
+requirements for sheep and goats on March 25, 2019 as part of the 
+National Scrapie Eradication Program. USDA-APHIS believes the final 
+rule will result in a more effective disease eradication program. The rule 
+provides a more flexible approach to disease investigations and affected 
+flock management, and more consistent animal identification and 
+recordkeeping requirements between sheep and goats. Under this rule, all 
+sheep and goats must have official identification (I.D.) when moving off 
+their premises of origin, unless specifically exempt. 
+
+Text Len: 1729
+--------------------------------------------------------------------------------
+ more effective disease eradication program. The rule 
+provides a more flexible approach to disease investigations and affected 
+flock management, and more consistent animal identification and 
+recordkeeping requirements between sheep and goats. Under this rule, all 
+sheep and goats must have official identification (I.D.) when moving off 
+their premises of origin, unless specifically exempt. 
+ 
+Acceptable forms of official identification include plastic or metal 
+Scrapie flock ID tags, Scrapie 840 RFID ear tags, and plastic or metal 
+serial tags. Registered tattoos and 840 electronic implants are accepted 
+10  
+as official ID with the exception of sheep and goats that are in slaughter 
+channels or moving through a livestock market or buying station. 
+ 
+The national Scrapie Program hotline forwards the phone calls of Texas 
+breeders, dealers, and livestock markets to TAHC’s ADT department. 
+ADT staff will register the flocks/operations for a Scrapie flock 
+identification number or verify their existing Scrapie flock ID number. 
+TAHC will provide the caller with the information on how to purchase 
+the official ID devices. For producers, dealers, and markets eligible to 
+receive free tags, TAHC will place the order into AIMS. Scrapie flock 
+and serial tags ordered through AIMS will be shipped directly to the 
+recipient and the tag allocation entered into AIMS by the tagging 
+manufacturers. 
+ 
+TAHC will order Scrapie serial tags and applicators for the ADT 
+department and region offices. TAHC may supply a very limited amount 
+of these Scrapie serial tags to producers with a valid Scrapie flock ID 
+number, if supplies are available and, on a case-by-case basis. The most
+Text Len: 1694
+--------------------------------------------------------------------------------
+
+manufacturers. 
+ 
+TAHC will order Scrapie serial tags and applicators for the ADT 
+department and region offices. TAHC may supply a very limited amount 
+of these Scrapie serial tags to producers with a valid Scrapie flock ID 
+number, if supplies are available and, on a case-by-case basis. The most 
+common reason for TAHC to issue Scrapie serial tags is for sheep or 
+goats going to a show or out of state within the two weeks, in other words, 
+needed sooner than the time it takes for flock ID tags to be ordered, 
+produced, and shipped. ADT staff will enter these tag allocations into 
+AIMS. 
+ 
+Animal Health and Movement Records 
+ 
+TAHC maintains various other traceability data sources by continuing to 
+collect and store identification data required for testing, movement, change 
+of ownership, and other applicable animal health disease programs.  These 
+include but are not limited to data collected and/or stored from interstate and 
+intrastate certificates of veterinary inspection (ICVIs), bovine brucellosis and 
+tuberculosis test charts, brucellosis vaccination records, scrapie tag 
+distribution, and interstate permits. 
+ 
+As outlined in the previous Road Maps, TAHC has continued to focus on the 
+electronic data capture, the promotion and transition from paper to electronic 
+documentation. During FY2014, TAHC IT Development Team completed 
+the development of a TAHC eCVI and put a link to a new application on 
+TAHC’s website. The application enables Texas veterinarians  to purchase 
+eCVIs online. The Health Certificate webpage on the agency’s website, 
+displays all the ICVI purchasing options (electronic and paper). 
+Text Len: 1641
+--------------------------------------------------------------------------------
+ TAHC IT Development Team completed 
+the development of a TAHC eCVI and put a link to a new application on 
+TAHC’s website. The application enables Texas veterinarians  to purchase 
+eCVIs online. The Health Certificate webpage on the agency’s website, 
+displays all the ICVI purchasing options (electronic and paper).  TAHC’s 
+eCVI online application continues to work as expected and veterinarians are 
+successfully utilizing the tool. TAHC staff is continuing to monitor all CVIs 
+and eCVIs for data quality and compliance. Starting in FY2016, TAHC 
+contracted with Trace First to utilize StateVet.com for the data entry and 
+upload of ICVI data into SCS, for cattle with official identificatio n moving 
+interstate. Additionally, at the end of the FY2016 cooperative year, TAHC 
+Program Records and ADT staff started using document management 
+11  
+software, Square 9, to begin scanning all paper and electronic interstate CVIs, 
+for all species with or without official identification, into an electronically 
+searchable system. The emphasis placed on transitioning from a primarily 
+paper-based system to electronic capture of CVI data has resulted in 
+significant improvements in traceability and completion of trace 
+performance exercises. 
+ 
+During FY2019 and FY2020, TAHC worked with VS and Palantir staff to 
+implement use of DIS-AHER, including establishing access, user training for 
+staff, identification of data sources, verifying compatibility, initiating 
+electronic information sharing of summary data, and pilot testing DIS for 
+FY2020 ADT Cooperative Agreement work plans and quarterly reporting. 
+ 
+ADT data collected in Texas is entered and stored in a mixture of state and 
+USDA maintained standardized animal health systems
+Text Len: 1746
+--------------------------------------------------------------------------------
+HER, including establishing access, user training for 
+staff, identification of data sources, verifying compatibility, initiating 
+electronic information sharing of summary data, and pilot testing DIS for 
+FY2020 ADT Cooperative Agreement work plans and quarterly reporting. 
+ 
+ADT data collected in Texas is entered and stored in a mixture of state and 
+USDA maintained standardized animal health systems. Federal systems 
+utilized: AHER for data searches, SCR for Scrapie Flock IDs, EMRS2 for 
+NPTs and Response records . MIMS for electronic data captured in field, 
+Premise Management for Premises IDs, AIMS for AIN and Scrapie official 
+ID distributions. Texcore for issuing LIDs, including StateVet for official ID 
+distribution, regulatory program and movement records. These systems are 
+already connected to AHER and electronically accessible to TAHC and 
+USDA animal health officials. State systems utilized: TAHC Tag 
+Application for NUES tag field distribut ions and Square9 for electronic 
+document storage. 
+ 
+During FY2021, TAHC  implemented our state procured private CoreOne 
+system for Texas, TexCore. TAHC  transition from CoreOne -SCS to 
+CoreOne-TexCore as our primary system, including StateVet, for all LIDs, 
+official ID distributions, animal disease programs and movement records.  
+TexCore is aligned with established data and communication interfaces to 
+ensure continued compatibility. TAHC will continue to share the summary 
+data to AHER through the standard connection between the AHER system 
+and TexCore. Additionally, TAHC is available during normal business hours 
+for sharing of data (not included in AHER) with other state & federal Animal 
+Health Officials, law enforcement, and open records requests. 
+
+Text Len: 1740
+--------------------------------------------------------------------------------
+ 
+ensure continued compatibility. TAHC will continue to share the summary 
+data to AHER through the standard connection between the AHER system 
+and TexCore. Additionally, TAHC is available during normal business hours 
+for sharing of data (not included in AHER) with other state & federal Animal 
+Health Officials, law enforcement, and open records requests. 
+ 
+During FY2022, TAHC continued the transition into TexCore. Modifications 
+and updates were done to increase the usability of this system.  USDA 
+supplied tags were distributed to producers and accredited veterinarians for 
+use in replacement cattle. 
+ 
+During FY2023, CVI Central was added. CVI Central provides a single web-
+based portal for managing CVI workflows . It is used for both paper and 
+electronic certificates. TexCore continued to be updated and USDA supplied 
+tag distribution continued. 
+ 
+TAHC is dedicated to data security  and the protection of Texas producers’ 
+personal information.  Therefore, TAHC staff are required to complete 
+12  
+information systems and data security training annually. 
+ 
+TAHC will continue to monitor and report on the administration of official 
+identification devices, animal health and movement records in our ADT 
+cooperative agreements, quarterly and final accomplishment reports. 
+ 
+The process must be supported and funded by USDA to ensure successful 
+compliance by the regulated industries in an equitable and cost -effective 
+fashion, and to ensure the successful management and enforcement of the 
+same traceability process by the responsible state animal health agencies. 
+ 
+2.3 Strengths and Weaknesses 
+ 
+The Texas Animal Health Commission has a long history of working 
+productively with the animal agriculture industries in Texas, and in finding 
+practical solutions and applying pragmatic regulations.
+Text Len: 1828
+--------------------------------------------------------------------------------
+
+fashion, and to ensure the successful management and enforcement of the 
+same traceability process by the responsible state animal health agencies. 
+ 
+2.3 Strengths and Weaknesses 
+ 
+The Texas Animal Health Commission has a long history of working 
+productively with the animal agriculture industries in Texas, and in finding 
+practical solutions and applying pragmatic regulations. As such, the major 
+strength of TAHC is its existing working relationship with those industries 
+and people who will be affected by traceability regulations. Secondly, TAHC 
+has a well -trained work force with capable field inspectors, a committed 
+ADT team, and in -house database development IT management personnel. 
+TAHC staff are actively working through the best  traceability solution for 
+Texas and are equipped to come up with a workable solution in partnership 
+with animal agriculture and other interested partners.  
+                                      
+Regarding challenges, TAHC faces a continuing challenge to develop 
+efficient systems to electronically capture and upload searchable traceability 
+data. This includes all records of interstate movement, test charts, as well as 
+data migration from existing federal ID databases and integration of 
+extensive state-level data. Another challenge exists in the need to educate the 
+producers and industries of Texas  regarding the new disease traceability 
+approach and ID requirements. Due to Texas’ large variety of livestock 
+producers and management practices, a major obstacle is to get everyone on 
+the same page and agree to one s ystem. Lastly, TAHC is experiencing a 
+number of varied animal health issues  which has redirected resources and 
+caused personnel to delay or halt regular job duties (including
+Text Len: 1765
+--------------------------------------------------------------------------------
+
+approach and ID requirements. Due to Texas’ large variety of livestock 
+producers and management practices, a major obstacle is to get everyone on 
+the same page and agree to one s ystem. Lastly, TAHC is experiencing a 
+number of varied animal health issues  which has redirected resources and 
+caused personnel to delay or halt regular job duties (including ADT work) to 
+assist with the responses. 
+ 
+2.4 Opportunities and Threats 
+ 
+Texas has a history of significant animal health issues, whether disease or 
+natural disaster related. Until August 2011, TAHC maintained extensive first 
+point testing ear tag records and drew on these records routinely for disease 
+tracing purposes, and for linkage of cattle to owners in natural disasters or 
+for law enforcement purposes. There is no doubt that Texas and its partners 
+in animal agriculture commerce need an efficient and reliable animal 
+traceability system. Without a traceability system, disease tracing and natural 
+disaster recovery would become much more difficult and, in many cases,  
+unreliable or impossible. Assurance of and linkage of animal ID to cases 
+13  
+involving animal ownership change and movement are made possible by 
+standardized identification and recordation methods.         
+                                                                                                                  
+Text Len: 1375
+--------------------------------------------------------------------------------
+                                                                                 
+There are many opportunities to improve and advance our traceability 
+systems in Texas. Emerging new technologies which allow for a variety of 
+easier, faster, and more effective ways to manage electronically identified 
+animals and animal health records throughout all sectors of the livestock 
+industry. Additionally, we have opportunities to increase the acceptance and 
+use of electronic identification devices, whether it is the availability of no-
+cost low frequency tags to vets, the use of ultra -high frequency devices at 
+markets, or simply beginning to use electronic official ID tags at all the  
+Cattle Fever Tick dipping vats. TAHC is encouraged to hear that some of the 
+most reluctant members of the industry are showing increased interest in the 
+benefits of traceability. 
+ 
+TAHC is the state-level organization for foreign animal disease response,  a 
+responsibility that is not directly shared with any other agency or 
+organization. The Governor added TAHC to the State Emergency 
+Management Council in 2001, to the Homeland Security Council in 2005, 
+and the Critical Infrastructure/Key Resources (CI/KR) Committee in 2006. 
+Because of the agency’s expertise in animal health, the chief of the Texas 
+Division of Emergency Management designated TAHC as the state’s lead 
+agency for all animal issues in emergencies.  With the largest animal 
+agriculture industries in the nation, Texas needs disease traceability to avoid 
+potentially catastrophic animal
+Text Len: 1558
+--------------------------------------------------------------------------------
+KR) Committee in 2006. 
+Because of the agency’s expertise in animal health, the chief of the Texas 
+Division of Emergency Management designated TAHC as the state’s lead 
+agency for all animal issues in emergencies.  With the largest animal 
+agriculture industries in the nation, Texas needs disease traceability to avoid 
+potentially catastrophic animal and economic loss. 
+ 
+2.5 Inventory of existing infrastructure and suitability assessment 
+ 
+• Human Resources 
+In fiscal year 2023, TAHC employed five (5) full-time employees in the 
+ADT department: (1) ADT Coordinator, (1) ADT Technical Inspector, 
+and (3) Customer Service Representatives. Cooperative funding help 
+support these positions.  The ADT coordinator is responsible for 
+overseeing and coordinating all ADT program activities and projects, in 
+the office and in the field, and serves as a signatory official for the ADT 
+cooperative agreement and quarterly reports. The coordinator also 
+promotes traceability programs across the state at meetings and 
+conferences. The ADT  Technical Insp ector works with field staff and 
+accredited veterinarians to preform  herd testing, research and pilot 
+project management, disease outbreak and trace work, and training on 
+the use of ADT equipment such as wands, PDAs, RFID tags, etc. The 
+customer service representatives  register premises, answer incoming 
+phone calls, answer questions about the ADT program, manage tag 
+allocations, perform official ID traces, conduct the daily business within 
+the office, assist in trainings, equipment demonstrations, and support in 
+the field. 
+ 
+14  
+• Technology and Equipment 
+TAHC’s Information Technology Services department manages TAHC’s 
+
+Text Len: 1699
+--------------------------------------------------------------------------------
+phone calls, answer questions about the ADT program, manage tag 
+allocations, perform official ID traces, conduct the daily business within 
+the office, assist in trainings, equipment demonstrations, and support in 
+the field. 
+ 
+14  
+• Technology and Equipment 
+TAHC’s Information Technology Services department manages TAHC’s 
+resources for connectivity between the offices and the field  and ensures 
+agency access to USDA animal disease traceability and animal health 
+information databases.  TAHC maintains all previously purchased 
+hardware, including computers (desktops, laptops, & handhelds), 
+printers, scanners, RFID wand readers, cell phones, and wireless internet 
+access, and software, including, p remises location mapping software, 
+such as ArcGIS and Google Earth software. ITS also employees a robust 
+database development team and is provides advice on best practices 
+regarding data management. 
+ 
+• Animal Health Information Resources 
+TAHC Program Records department processes all certificates of 
+veterinary inspection and issues and monitors Texas entry permit 
+programs for domestic and exotic animals and fowl entering Texas from 
+other states. Program Records also ensures all traceability  data such as 
+animal identifications, owner information,  health certificates, 
+vaccination records and test charts are entered into TexCore.  In 2023, 
+TAHC began using the application C VI Central, which helps manage 
+CVI workflow and streamlines the transmission of animal health data 
+electronically to improve the processing time for both electronic and 
+paper CVIs.  Program Records is also responsible for maintaining records 
+for TAHC’s disease management and eradication activities including, the 
+Cattle Fever Tick Eradicatio n Program , the Waste Food Feeder 
+Registration, and Feral
+Text Len: 1812
+--------------------------------------------------------------------------------
+ workflow and streamlines the transmission of animal health data 
+electronically to improve the processing time for both electronic and 
+paper CVIs.  Program Records is also responsible for maintaining records 
+for TAHC’s disease management and eradication activities including, the 
+Cattle Fever Tick Eradicatio n Program , the Waste Food Feeder 
+Registration, and Feral Swine Holding program . And Program Records 
+supports records management for herd status programs including, the  
+Accredited Bovine Tuberculosis Free Herd, the Bovine Brucellosis 
+Certified Free Herd, the Validated Swine Brucellosis Free Herd, the 
+Qualified Pseudorabies Negative Swine Herd programs, the CWD Herd 
+Status Plans for  Cervidae, and the Trichomoniasis Free Herd status for 
+cattle. 
+ 
+TAHC Program Records staff calculate the monthly  number of animals 
+and ICVIs for interstate movement, and the number of paper vs electronic 
+ICVIs for ADT quarterly reporting.  They also send electronic and/or 
+paper copies of ICVIs to the other receiving states within 7 days, as per 
+ADT requirements. 
+ 
+III. AGENCY VISION AND MISSION 
+ 
+3.1 Vision Statement 
+ 
+Through the cooperative efforts of the Texas Animal Health Commission, 
+animal producers, and allied industry groups, the animal population of Texas 
+is healthy and secure. 
+ 
+15  
+3.2 Mission Statement 
+ 
+The mission of the Texas Animal Health Commission is: 
+• to protect the animal industry from, and/or mitigate the effects of 
+domestic, foreign and emerging diseases; 
+• to increase the marketability of Texas livestock commodities at the 
+state, national,
+Text Len: 1601
+--------------------------------------------------------------------------------
+
+is healthy and secure. 
+ 
+15  
+3.2 Mission Statement 
+ 
+The mission of the Texas Animal Health Commission is: 
+• to protect the animal industry from, and/or mitigate the effects of 
+domestic, foreign and emerging diseases; 
+• to increase the marketability of Texas livestock commodities at the 
+state, national, and international level; 
+• to promote and ensure animal health and productivity; 
+• to protect human health from animal diseases and conditions that are 
+transmissible to people; and 
+• to prepare for and respond to emergency situations involving        
+animals by conducting agency business in a responsive,        
+cooperative, and transparent manner. 
+ 
+ 
+IV. TRACEABILITY REQUIREMENTS 
+ 
+4.1 Strategic goals 
+ 
+USDA’s Overarching Goals established in 2018: 
+1. Enhance electronic sharing of data among federal and state animal health 
+officials, veterinarians and industry; including sharing basic ADT data 
+with the federal animal health events repository (AHER); 
+2. Increase the use electronic ID tags for animals requiring individual 
+identification in order to make the transmission of data more efficient; 
+3. Enhance the ability to track animals from birth to slaughter through a 
+system that allows tracking data points to be connected; and 
+4. Elevate the discussion with States and industry to work toward a system 
+where animal health certificates are electronically transmitted from 
+private veterinarians to state animal health officials. 
+ 
+TAHC’s ADT Strategic Goals: 
+To develop and implement a  statewide infrastructure for advancing animal 
+disease traceability in Texas that complies with the federal minimum 
+standards established by United States Department of Agriculture.
+Text Len: 1713
+--------------------------------------------------------------------------------
+ work toward a system 
+where animal health certificates are electronically transmitted from 
+private veterinarians to state animal health officials. 
+ 
+TAHC’s ADT Strategic Goals: 
+To develop and implement a  statewide infrastructure for advancing animal 
+disease traceability in Texas that complies with the federal minimum 
+standards established by United States Department of Agriculture. 
+ 
+To establish traceability systems for species and industries that do not or no 
+longer have compliant systems in place, for example beef cattle and cervidae. 
+ 
+4.2  Programmatic goals (Objectives) 
+ 
+TAHC will work cooperatively with USDA APHIS, to the degree possible, 
+on activities that will support compliance with the aligned federal regulations 
+defined in 9 CFR Part 86 and state regulations 4 Texas Administrative Code 
+Chapter 50. Cooperation and high compliance with traceability regulations 
+are critical to achieve optimum tracing capabilities. 
+ 
+16  
+TAHC will follow protocols and achieve assigned quotas, in accordance with 
+USDA provided Guidelines for Administering Traceability Performance  
+Measures document, for the administration and completion of National 
+Priority Traces (NPTs) to maintain eligibility for reimbursements of 
+expenditures. Moreover, TAHC’s goal is to consistently meet or exceed the 
+average time it takes to complete the NPTs with no performance concerns 
+on our performance report. 
+ 
+The proper administration of official identification devices and documents 
+used to help determine interstate movements, in particular Interstate 
+Certificates of Veterinary Inspection (ICVIs), is key for capturing accurate 
+information needed to achieve successful animal disease traceability. 
+TAHC’s goal is to continue to place a priority on activities that will make 
+electronic information more readily available, including activities to
+Text Len: 1868
+--------------------------------------------------------------------------------
+ of official identification devices and documents 
+used to help determine interstate movements, in particular Interstate 
+Certificates of Veterinary Inspection (ICVIs), is key for capturing accurate 
+information needed to achieve successful animal disease traceability. 
+TAHC’s goal is to continue to place a priority on activities that will make 
+electronic information more readily available, including activities to 
+support official identification, recordkeeping pertaining to the distribution of 
+official ear tags, promotion of radio frequency identification and electronic 
+interstate movement documentation. 
+ 
+Objectives, to include, but not limited to: 
+• Increase number of registered premises 
+• Increase number of animals with official ID 
+• Increase use of electronic IDs 
+• Increase use of electronic CVIs 
+ 
+Sharing information quickly and effectively will help USDA APHIS and 
+state animal health agencies respond to animal disease events and make ADT 
+successful. Information systems must be compatible. Therefore, TAHC will 
+continue to administer the required data elements in accordance with data 
+standards defined in the ADT Technical Specification  document. While  
+USDA will not fund information system development, data resulting from 
+funded tracing activities will be compatible so it can be shared with other 
+animal health officials. 
+ 
+4.3          Animal Disease Traceability Performance Measures 
+ 
+TAHC, in cooperation with the USDA VS staff, will annually administer 
+National Priority Traces (NPTs) that reflect tracing capabilities based on the 
+defined tracing activities. Compilation of the results across all recipients will 
+enable APHIS to determine current traceability values for the TPMs to 
+document progress made from the national baseline values and subsequent 
+“comparison years” that were established in prior cooperative agreement 
+periods.
+Text Len: 1892
+--------------------------------------------------------------------------------
+aces (NPTs) that reflect tracing capabilities based on the 
+defined tracing activities. Compilation of the results across all recipients will 
+enable APHIS to determine current traceability values for the TPMs to 
+document progress made from the national baseline values and subsequent 
+“comparison years” that were established in prior cooperative agreement 
+periods. The trace activity response times will be reported based o n the 
+following four preliminary performance standard measures: 
+ 
+1) Time to report to the State/Tribe of official tagging/identifying of an 
+animal in question that has moved interstate. 
+2) Time for the State/Tribe of first officially tagging/identifying an 
+17  
+animal in question that has moved interstate to provide a record of 
+the official tag distribution. 
+3) Time to report to the State/Tribe from which an animal in question has 
+moved interstate. 
+4) Time for the State/Tribe from which an animal in question has moved 
+interstate to provide the location and contact information from which 
+the animal was moved interstate. 
+ 
+ADT personnel are continuing to work closely with USDA VS staff to 
+successfully administer traces for the National Priority Traces (NPTs) and 
+use Emergency Management Response System-2 (EMRS2) for tracking and 
+reporting trace activities. 
+ 
+These performance trace activities measure the time it takes to answer four  
+specific questions regarding the allocation of official identification and/or  
+interstate movement. The start time is when the State is notified of the  
+official identification number, and the end time is when the State finds the  
+information to answer the question posed by the activity. Activities 2, 3, &4 
+are the most important to complete. Traces for Activity
+Text Len: 1760
+--------------------------------------------------------------------------------
+
+specific questions regarding the allocation of official identification and/or  
+interstate movement. The start time is when the State is notified of the  
+official identification number, and the end time is when the State finds the  
+information to answer the question posed by the activity. Activities 2, 3, &4 
+are the most important to complete. Traces for Activity 1 will be limited to 
+Animal Identification Number (AIN) tags as the official animal number. 
+Completing trace exercises for cattle is the priority. Trace activities for other 
+species may be reported, but they do not count toward the quota for NPTs. 
+ 
+USDA VS personnel will select the appropriate official identification 
+number(s) to trace and initiate the NPT in EMRS2. The system will 
+automatically send an email notice of NPT creation to an ADT group email 
+address. TAHC currently has two ADT staff members with eAuthentication 
+Level 2 access assigned to complete the NPTs in the EMRS2 utility. ADT 
+personnel work together to coordinate the assignment and completion of the 
+NPT activity. ADT staff will conduct extensive searches in traceability 
+electronic databases; such as AHER, TexCore, AIMS, etc. If no clear results 
+are found, they will conduct searches of paper systems and make phone calls 
+to parties involved, if necessary. When the trace is complete, the ADT staff 
+will access EMRS2 to document all steps taken in the Key Actions, enter the 
+trace information found, upload a copy of the record(s), and close out the 
+NPT. 
+ 
+TAHC’s goal is to consistently meet or exceed the average time it takes to 
+complete the NPTs with no performance concerns on our performance 
+report.
+Text Len: 1672
+--------------------------------------------------------------------------------
+ access EMRS2 to document all steps taken in the Key Actions, enter the 
+trace information found, upload a copy of the record(s), and close out the 
+NPT. 
+ 
+TAHC’s goal is to consistently meet or exceed the average time it takes to 
+complete the NPTs with no performance concerns on our performance 
+report. TAHC progress towards achieving our assigned NPT quota, 
+monitoring elapsed time, and percentage of completi on status will be 
+included in the quarterly ADT accomplishment reports. 
+ 
+ 
+4.4 Data requirements 
+ 
+• A PIN or LID will be assigned to all Texas producers when they provide 
+18  
+TAHC staff with current and accurate herd owner contact information, 
+including but not limited to: owner’s name, mailing address, and phone 
+number. 
+• Texas will accept all forms of official ID as outlined by USDA standards. 
+Texas will not accept brands or tattoos as official ID, unless the animal is 
+accompanied with official breed registration documentation. 
+• TAHC supports the use of official ID tags to identify all adult cattle prior 
+to interstate movement to comply with the federal rule or to be tagged 
+within 7 days for intrastate movement. 
+• Tags and applicators may be distributed by approved device manufacturers, 
+accredited veterinarians, TAHC personnel, or shipped directly to the 
+producers, depending on available funds. 
+•  TAHC has fully  transitioned from using our own online tag allocation 
+reporting application to utilizing Trace First’s TexCore system as our 
+primary tag distribution record keeping system for NUES tags. 
+• TAHC will continue to use USDA’s AIMS system for AIN distribution 
+record keeping. 
+• Data will be shared with A
+Text Len: 1670
+--------------------------------------------------------------------------------
+
+•  TAHC has fully  transitioned from using our own online tag allocation 
+reporting application to utilizing Trace First’s TexCore system as our 
+primary tag distribution record keeping system for NUES tags. 
+• TAHC will continue to use USDA’s AIMS system for AIN distribution 
+record keeping. 
+• Data will be shared with AHER, as well as other states and tribes on an as-
+needed basis for animal disease response and control. This would be a 
+continuation of TAHC practice of epidemiologic management of disease 
+trace-ins and trace-outs. 
+ 
+4.5 Information technology plan 
+ 
+• Maintain and continue integration of legacy data into a TexCore database. 
+• Enhancement/Improvements of Texas’ electronic certificates of veterinary 
+inspection to allow for reporting and tracing of ADT data. 
+• Funding to host an additional database instance in a well -supported data 
+center that offers server failover capability and routine backups. 
+• Maintenance funding for datacenter hosting, software licensing, and 
+salaries for up to two dedicated IT specialists. 
+• Maintenance, upgrade, and replacement of automated data capture 
+equipment, such as computers and handheld devices. 
+• Continue to pursue improvements of scanning technology to make paper 
+CVIs searchable for tracing. 
+ 
+ 
+4.6 Resource requirements 
+ 
+Additional resources needed may include the following: 
+• Official identification devices 
+• Tagging pliers 
+• Electronic device readers 
+• Additional personnel 
+• Funding for shipping tags to producers and accredited vets 
+• IT operations costs 
+• IT hardware 
+19  
+• Additional space for tag and file storage 
+ 
+4.7         Organizational needs 
+ 
+
+Text Len: 1662
+--------------------------------------------------------------------------------
+ Official identification devices 
+• Tagging pliers 
+• Electronic device readers 
+• Additional personnel 
+• Funding for shipping tags to producers and accredited vets 
+• IT operations costs 
+• IT hardware 
+19  
+• Additional space for tag and file storage 
+ 
+4.7         Organizational needs 
+ 
+TAHC has an organizational structure in place that will support animal 
+disease traceability and all aspects of implementation. 
+ 
+4.7.1 Executive support 
+ 
+TAHC is an animal health agency administered by licensed 
+veterinarians. As animal health professionals who handle the realities 
+of animal disease on a daily basis, TAHC’s management advocates 
+implementation of a practicable animal disease traceability program. 
+ 
+4.7.2 Coordination and oversight procedures 
+ 
+The Texas animal disease traceability working groups are species 
+specific and provide valuable guidance and oversight in the continued 
+development and implementation of traceability efforts in Texas.  
+Originally, the working group was comprised of representatives from 
+all various livestock industries and producers. The species -specific 
+working groups were implemented to provide more effective and 
+focused advancement within their industries.  The working groups 
+meet on an as-needed basis. 
+ 
+The compatibility with other states, tribes, territories, and USDA is 
+monitored using policy standards, federal minimum standards,  
+common data collection practices, standardized reporting and 
+program evaluation based off performance measures. 
+ 
+The ADT  department is responsible for coordination and 
+implementation of the animal disease traceability  plan, including 
+coordination of other agency office and field staff.  Additional 
+responsibilities and job duties may be assigned by TAHC’s executive 
+director. 
+
+Text Len: 1790
+--------------------------------------------------------------------------------
+ collection practices, standardized reporting and 
+program evaluation based off performance measures. 
+ 
+The ADT  department is responsible for coordination and 
+implementation of the animal disease traceability  plan, including 
+coordination of other agency office and field staff.  Additional 
+responsibilities and job duties may be assigned by TAHC’s executive 
+director. 
+ 
+ 
+ 
+4.7.3 Policy 
+ 
+The animal disease traceability program in Texas is governed by the 
+existing mandate in the Texas Agriculture Code, Section 161.056. 
+This policy authorizes TAHC to establish and enforce, by 
+Commission rule, an animal identification program consistent with 
+the Federal program.  The rules proposed and adopted by the 
+Commission are legal requirements promulgated by the Commission 
+to carry out their mission to protect animal health in Texas. The rules 
+of the Commission are found in Title 4, Texas Administrative Code, 
+20  
+Chapters 31 through 60. 
+ 
+During fiscal year  2013, TAHC adopted new animal disease 
+traceability rules, published as a separate chapter to enhance program 
+transparency and to incorporate elements in the adopted federal ADT 
+rule. Chapter 50: Animal Disease Traceability went into effect on 
+Monday, October 7, 2013.  The rule specifically establishes the 
+requirements for approved tagging sites. All facilities such as 
+livestock markets receiving certain classes of livestock without 
+official identification must be designated as an approved tagging site 
+or be affiliated with one. 
+ 
+The Commission adopted a new section in Chapter 50: Animal 
+Disease Traceability, Cattle Identification and became effective on 
+Tuesday, February 4, 2014. This amendment establishes 
+identification requirements for adult cattle being sold within the state 
+of Texas. The rule states that
+Text Len: 1810
+--------------------------------------------------------------------------------
+ must be designated as an approved tagging site 
+or be affiliated with one. 
+ 
+The Commission adopted a new section in Chapter 50: Animal 
+Disease Traceability, Cattle Identification and became effective on 
+Tuesday, February 4, 2014. This amendment establishes 
+identification requirements for adult cattle being sold within the state 
+of Texas. The rule states that all adult breeding cattle, except cattle 
+going directly to slaughter, shall be permanently identified within 
+seven days of change of ownership. Untagged adult cattle have seven 
+days after purchase to be delivered to a slaughter facility, resold 
+through a livestock market, or have acceptable permanent official 
+identification applied. Slaughter type cattle that will be put on  feed 
+prior to slaughter shall also be permanently identified within seven 
+days of purchase. 
+ 
+Additionally, if any changes are made to the state animal disease 
+traceability rules, they will be structured for seamless compliance 
+with the federal ADT rule. 
+ 
+4.7.4 Staffing 
+ 
+TAHC personnel are needed to perform essential job duties required 
+to carry out program objectives.  The animal disease traceability 
+department is responsible for administering/overseeing the program. 
+Staff throughout the agency provide support for the program.  
+ 
+Personnel needed to implement program are (at minimum): 
+• Program Coordinator 
+• Program field support specialist – 1 
+• Office administrative support staff – 9 
+• Part-time support from staff veterinarians, field inspectors, 
+region admins, and IT support specialists 
+ 
+4.7.5 Projected Budget requirements The projected total program costs: 
+ 
+ 
+ FY2024 FY2025 FY2026 
+21  
+Personnel 1,184,300 1,238,000 1,280,300
+Text Len: 1717
+--------------------------------------------------------------------------------
+
+• Part-time support from staff veterinarians, field inspectors, 
+region admins, and IT support specialists 
+ 
+4.7.5 Projected Budget requirements The projected total program costs: 
+ 
+ 
+ FY2024 FY2025 FY2026 
+21  
+Personnel 1,184,300 1,238,000 1,280,300 
+Benefits 375,200 376,000 378,200 
+Travel 110,000 117,000 120,000 
+Equipment - - - 
+Supplies 280,000 292,000 317,500 
+Contractual 7,500 8,000 9,000 
+Postage/Freight 18,000 19,000 20,000 
+Indirect Costs - - - 
+Total $ 1,975,000 $ 2,050,000 $ 2,125,000 
+ 
+TAHC’s state budget cannot solely financially support the ADT 
+program and relies on funding through f ederal cooperative  
+agreements. Any reduction in cooperative agreement awarded 
+funding will hinder the potential advancement of animal disease 
+traceability. 
+ 
+4.7.6 Outreach 
+ 
+TAHC will continue to promote and educate Texas livestock industry 
+and stakeholders about advancing animal disease traceability.  
+Outreach efforts are made on a daily basis by our field, office, and 
+communications staff. ADT staff is available by phone, email, and in 
+person to answer questions. TAHC maintains a detailed  ADT 
+webpage that is reviewed and updated quarterly, with vital updates 
+made as needed. TAHC’s Public Information Office publishes ADT 
+focused news releases, electronic newsletters, handouts, fact sheets, 
+brochures, and regularly  posts to social media. TAHC field staff 
+regularly provide in-
+Text Len: 1416
+--------------------------------------------------------------------------------
+. TAHC maintains a detailed  ADT 
+webpage that is reviewed and updated quarterly, with vital updates 
+made as needed. TAHC’s Public Information Office publishes ADT 
+focused news releases, electronic newsletters, handouts, fact sheets, 
+brochures, and regularly  posts to social media. TAHC field staff 
+regularly provide in- person contact at livestock markets, special 
+sales, rodeos, exhibitions, special events, make ADT presentations 
+and work information booths at industry meetings and conferences.  
+ 
+Successful implementation of any plan to advance animal disease 
+traceability cannot be achieved without outreach to constituents 
+primarily affected by the plan. 
+ 
+ 
+4.7.6.1     Accredited veterinarians 
+Accredited veterinarians are instrumental to the 
+traceability framework focusing on the identification 
+and interstate movement of livestock, as well as 
+transitioning to electronic data capture and submission 
+of electronic animal health records. 
+• The plan to inform accredited veterinarians of the              
+ADT program, requirements, plans for 
+implementation and advancement will utilize various 
+forms of media, such as: press releases, electronic 
+22  
+newsletters, handouts, fact sheets, brochures,  social 
+media, agency website, agency email, mass mail 
+outs, and attend regional conventions and meetings. 
+• Since fiscal year 2019, TAHC has conducted 
+extensive outreach and education efforts to 
+accredited veterinarians to provide information on 
+how to transition to electronic official identification, 
+electronic data capture equipment,  and reporting 
+requirements including how to become an AIN 
+device manager. 
+• TAHC plans to enhance and promote the
+Text Len: 1692
+--------------------------------------------------------------------------------
+. 
+• Since fiscal year 2019, TAHC has conducted 
+extensive outreach and education efforts to 
+accredited veterinarians to provide information on 
+how to transition to electronic official identification, 
+electronic data capture equipment,  and reporting 
+requirements including how to become an AIN 
+device manager. 
+• TAHC plans to enhance and promote the use of 
+electronic ICVIs, vaccination and test records by 
+educating veterinarians on the ease of use and 
+benefits. 
+• A continuing education effort will be put in place to 
+ensure all parties responsible for collecting and 
+entering data are sufficiently trained and supported.  
+TAHC’s data accuracy monitoring program will 
+continue to provide accountability and data quality 
+assurance. 
+• The accredited veterinarian will continue to provide 
+and have official identification devices available for 
+producers. 
+ 
+4.7.6.2 Livestock marketing facilities/ Slaughter Plants 
+Livestock marketing facilities continue to be a vital 
+collection point for traceability information. 
+• In addition to regular in-person contact and 
+communication provided by agency field staff, TAHC 
+uses various forms of media, such as ,  press releases, 
+electronic newsletters, handouts, fact sheets, 
+brochures, social media, agency website, agency 
+email, mass mail outs, and atten dance at regional 
+conventions and meetings , help address outstanding 
+concerns from livestock markets. 
+ 
+4.7.6.3 Industry as a whole 
+Implementation of any plan to advance animal disease 
+traceability impacts a variety of constituents, likely 
+none more so than industry itself. 
+• The industry will be informed of the ADT 
+program and advancement plan by utilizing 
+Text Len: 1693
+--------------------------------------------------------------------------------
+ , help address outstanding 
+concerns from livestock markets. 
+ 
+4.7.6.3 Industry as a whole 
+Implementation of any plan to advance animal disease 
+traceability impacts a variety of constituents, likely 
+none more so than industry itself. 
+• The industry will be informed of the ADT 
+program and advancement plan by utilizing 
+various forms of media, such as , press releases, 
+electronic newsletter s, handouts, fact sheets, 
+brochures, social media, agency website, agency 
+email, mass mail out , and material presented at 
+conventions and meetings. 
+•  TAHC plans to promote the ease of use, benefits, 
+23  
+and increase acceptance of electronic official 
+identification devices and electronic ICVIs. 
+• Industry representatives serving on the advisory 
+committee will continue to educate and share plan 
+implementation to their constituents. 
+ 
+4.8  Monitoring and reporting interstate movement activity 
+ 
+The traceability framework is focused on interstate movement and the 
+accompanying ICVI or similar documentation for that movement. 
+• ICVIs will be monitored for data quality and compliance. 
+• The number of animals and the number of shipments that move 
+interstate will be monitored and verified by a monthly inspection of all 
+paper and electronic ICVIs. The number of documents and animals are 
+calculated at the end of each month by program records and information 
+technology staff. 
+• The number of paper ICVIs, electronic ICVIs, and category II accredited 
+veterinarians using electronic ICVIs are calculated at the end of each 
+month by TAHC staff. 
+• The volume of official identification devices issued by TAHC  is 
+compiled by ADT staff and is reported in
+Text Len: 1678
+--------------------------------------------------------------------------------
+ and information 
+technology staff. 
+• The number of paper ICVIs, electronic ICVIs, and category II accredited 
+veterinarians using electronic ICVIs are calculated at the end of each 
+month by TAHC staff. 
+• The volume of official identification devices issued by TAHC  is 
+compiled by ADT staff and is reported in cooperative quarterly reports. 
+ 
+4.9 Compliance and enforcement of traceability regulations 
+ 
+TAHC office staff monitors premises registrations, tag distributions, tag 
+allocation records, disease program documents, movement records, and 
+submitted complaints for potential compliance issues. TAHC field staff 
+monitors operations, animals, animal movements, documents, and 
+submitted complaints for potential compliance issues. All compliance issues 
+are reported to TAHC ’s Legal Dep artment to investigate any alleged 
+violations and follow up enforcement actions. Possible enforcement actions 
+include warning letters, administrative penalties, and criminal actions filed 
+with local prosecuting authorities. TAHC records and report the number of 
+investigations and enforcement actions  to our AVIC and in the quarterly 
+ADT Enforcement Action reports.  
+ 
+Additionally, when TAHC receives returned NUES tags from a distribution 
+partner, we will conduct a comparison of all tags issued, reported, and 
+returned to ensure accountability for all tags. Also, when an accredited vet 
+places multiple orders for RFID tags, TAHC will verify that the tag 
+allocation records for previous orders are being reported properly, prior to 
+placing additional orders. 
+ 
+V. TRACEABILITY IMPLEMENTATION 
+ 
+5.1 Ranking of priorities for advancement 
+1) Improvement and increase of electronic data capture and retrieval of 
+24  
+traceability information 
+2) Outreach
+Text Len: 1772
+--------------------------------------------------------------------------------
+ that the tag 
+allocation records for previous orders are being reported properly, prior to 
+placing additional orders. 
+ 
+V. TRACEABILITY IMPLEMENTATION 
+ 
+5.1 Ranking of priorities for advancement 
+1) Improvement and increase of electronic data capture and retrieval of 
+24  
+traceability information 
+2) Outreach and marketing efforts 
+3) LID and PIN Assignments 
+4) Tag Distributions 
+5) Data collection and reporting data into appropriate systems 
+6) Data entry of backlogged vaccination and testing records 
+7) Monitor ICVI data quality and compliance 
+8) Pilot projects with industry for testing new technology 
+ 
+5.2 Implementation of objectives and planned activities 
+• Year 1 
+- Continue LID, PIN, and Flock ID assignments 
+- Continue tag distribution process 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Data entry of backlogged vaccination and testing records 
+- Enhance IT infrastructure 
+- Conduct National Priority Trace activities 
+- Monitor ICVI data quality and compliance 
+- Continue outreach and marketing efforts 
+- Continue improvements of a system for electronic capture ADT data 
+- Promote the use of electronic data capture and electronic records 
+- Compliance and enforcement actions 
+ 
+• Year 2 
+- Continue LID, PIN, and Flock ID assignments 
+- Continue tag distribution process 
+- Provide approved manufacturers’ information for purchasing of 
+official identifications devices to producers and industry 
+- Implementation of transition to electronic id 
+- Continue outreach and education efforts 
+- Promote the use of electronic data capture and electronic records 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability
+Text Len: 1810
+--------------------------------------------------------------------------------
+ distribution process 
+- Provide approved manufacturers’ information for purchasing of 
+official identifications devices to producers and industry 
+- Implementation of transition to electronic id 
+- Continue outreach and education efforts 
+- Promote the use of electronic data capture and electronic records 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Data entry of backlogged vaccination and testing records 
+- Enhance IT infrastructure. 
+- Improve retrieval of available traceability information 
+- Conduct National Priority Trace activities 
+- Monitor ICVIs for data quality and compliance 
+- Enhancement of an electronic data capture system of CVI data 
+- Compliance and enforcement actions 
+ 
+• Year 3 
+- Continue Flock ID, LID and PIN assignments 
+- Continue tag distribution process 
+25  
+- Continue to provide approved manufacturers’ information for 
+purchasing of official identifications devices to producers and 
+industry 
+- Continue implementing the transition to electronic id 
+- Continue outreach and education efforts 
+- Continue data collection and reporting 
+- Input data into appropriate systems 
+- Integrate surveillance and traceability legacy data 
+- Enhance IT infrastructure 
+- Improve retrieval of available traceability information 
+- Conduct National Priority Trace activities 
+- Monitor ICVI data quality and compliance 
+- Compliance and enforcement actions 
+- Enhancement of an electronic data capture system of CVI data 
+- Implementation of advancement activities to support a standardized 
+electronic system for traceability data and uniform official ID 
+Text Len: 1679
+--------------------------------------------------------------------------------

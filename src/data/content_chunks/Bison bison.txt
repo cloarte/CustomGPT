@@ -1,0 +1,2368 @@
+ 
+Study of Shedding and 
+Venereal Transmission of 
+Brucella abortus by Bison 
+Bulls in the Greater 
+Yellowstone Area 
+ 
+ 
+Environmental Assessment 
+February 2010 
+ 
+ 
+ 
+Study of Shedding and 
+Venereal Transmission of 
+Brucella abortus by Bison 
+Bulls in the Greater 
+Yellowstone Area 
+ 
+ 
+ 
+Environmental Assessment 
+February 2010 
+ 
+ 
+ 
+ 
+Agency Contact: 
+Dr. Brian McCluskey 
+Director – Western Region 
+Veterinary Services 
+Animal and Plant Health Inspection Service 
+U.S. Department of Agriculture 
+2150 Centre Avenue, Bldg B, Mailstop 3E13 
+Fort Collins, CO  80526-8117 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________________________________________  
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, sex, 
+religion, age, disability, political beliefs, sexual orientation, or marital or family 
+status.  (Not all prohibited bases apply to all programs.)  Persons with 
+disabilities who require alternative means for communication of program 
+information (Braille, large print, audiotape, etc.) should contact USDA’S 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an
+Text Len: 1390
+--------------------------------------------------------------------------------
+202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal 
+opportunity provider and employer. 
+ 
+Table of Contents 
+ 
+  I.  Introduction ............................................................................... 1 
+  A.  Ba ckground ......................................................................... 1 
+  B.  Purpose of and N eed for the Proposed Action .................... 3 
+ 
+ II.  Proposed Action and Alternatives ............................................. 4 
+A.  No Action (the Current Situation) ........................................ 4 
+B.  Proposed Action................................................................... 5 
+C.  Other Possible Alternatives to Proposed Action .................. 7 
+D. Other Alternatives Considered but Dismissed from  
+ Further Consideration .......................................................... 7 
+ 
+III.  Potential Environmental Impacts............................................... 7 
+ A.  No Action ............................................................................. 8 
+ B.  Propos ed Action .................................................................. 8 
+1.  Animal Impacts................................................................ 8 
+2.  Human Health and Safety ............................................. 10 
+3.  Vegetation and Physical Environment........................... 11 
+ 
+IV.  Other Environmental Review Requirements........................... 13 
+A.  Endangered or Threatened Species .................................. 13 
+B.  Bald Eagle and Golden Eagle Protection Act..................... 14 
+C.  Historic and Cultural Resources......................................... 14 
+ 
+V.  Cumulative Impacts ................................................................. 15 
+ 
+ VI. Agencies or Persons Contacted ............................................. 16 
+ 
+VII. 
+Text Len: 2081
+--------------------------------------------------------------------------------
+
+A.  Endangered or Threatened Species .................................. 13 
+B.  Bald Eagle and Golden Eagle Protection Act..................... 14 
+C.  Historic and Cultural Resources......................................... 14 
+ 
+V.  Cumulative Impacts ................................................................. 15 
+ 
+ VI. Agencies or Persons Contacted ............................................. 16 
+ 
+VII.  References ............................................................................ 16 
+ 
+I. Introduction 
+ 
+A. Background 
+ 
+The wild, free-ranging bison in Yellowstone National Park (YNP) are an 
+essential part of the biological, ecological, cultural, and aesthetic aspects 
+of the Park.  Yellowstone bison are chronically infected with Brucella 
+abortus, the causative agent of bovine brucellosis.  Studies estimate that 
+between 40% to 60% of the YNP bison have serological evidence of 
+brucellosis, indicating exposure to the disease (Meyer and Meagher, 1995; 
+Cheville et al., 1998).  Greater than 40% of the serological positive bison 
+are culture-positive for B. abortus, indicating infection with the disease.  
+Bison roam free in the YNP and often migrate outside the Park onto 
+National Forest public lands and private lands in Montana during the 
+winter months.  There is concern that brucellosis-infected bison from the 
+YNP may be a potential source for the spread of this disease to cattle 
+maintained on these lands outside of the Park.   
+ 
+The Interagency Bison Management Plan (IBMP), signed in 2000, is 
+designed to coordinate bison management activities among five State and 
+Federal partners1.  Under the IBMP, these five Federal and State agencies 
+work cooperatively within an adaptive management framework
+Text Len: 1754
+--------------------------------------------------------------------------------
+ this disease to cattle 
+maintained on these lands outside of the Park.   
+ 
+The Interagency Bison Management Plan (IBMP), signed in 2000, is 
+designed to coordinate bison management activities among five State and 
+Federal partners1.  Under the IBMP, these five Federal and State agencies 
+work cooperatively within an adaptive management framework to 
+conserve the YNP wild, free-ranging bison population, while concurrently 
+reducing the potential risk of transmission of brucellosis between wildlife 
+and cattle populations.  Investigating and mitigating potential modes of 
+disease transmission by brucellosis-infected YNP bison that migrate 
+outside the Park is an important component of IBMP activities.  
+Developing and incorporating effective short- and long-term adaptive 
+management strategies are essential to the success of the IBMP’s goals of 
+bison management and reduction of the risk of brucellosis transmission.   
+ 
+The United States Department of Agriculture’s (USDA) Animal and Plant 
+Health Inspection Service (APHIS) established a national brucellosis 
+program to safeguard the health of domestic livestock, maintain the 
+economic viability of the U.S. cattle industry in national and international 
+trade, protect public health, and ensure food safety.  The goal of the 
+program is to eradicate brucellosis from the United States.  Through 
+cooperative Federal-State-industry efforts, the United States has made 
+significant progress since the program’s inception in 1934.  As of July 
+2009, all 50 States achieved Class-Free State status (e.g., disease-free 
+status) in cattle.  However, unique challenges impede final eradication.  
+APHIS Veterinary Services (VS) recently developed a concept paper  
+Text Len: 1726
+--------------------------------------------------------------------------------
+ efforts, the United States has made 
+significant progress since the program’s inception in 1934.  As of July 
+2009, all 50 States achieved Class-Free State status (e.g., disease-free 
+status) in cattle.  However, unique challenges impede final eradication.  
+APHIS Veterinary Services (VS) recently developed a concept paper  
+                                                 
+1
+ USDOI National Park Service; USDA Animal and Plant Health Inspection Service; USDA Forest 
+Service [USFS]; Montana Department of Livestock; and Montana Fish, Wildlife and Parks.  
+ 1  
+(74 Federal Register 51115-51116, October 5, 2009), describing a plan for 
+the program that focuses on using a more adaptable science-based 
+approach that is both effective and timely and that addresses the unique 
+challenges.  One component of the plan that addresses the unique 
+challenge posed by the presence of brucellosis in wildlife is to enhance 
+efforts to mitigate disease transmission between wildlife and livestock.   
+ 
+APHIS VS has partnered with wildlife agencies and other entities to 
+develop risk mitigation strategies to prevent the further spread of 
+brucellosis and to enhance efforts to eliminate B. abortus in the United 
+States.  The IBMP partners work together, as outlined in the IBMP 
+memorandum of understanding, to mitigate the risk of disease 
+transmission by brucellosis-infected bison in the Greater Yellowstone 
+Area (GYA).  Continued collaborations are needed to develop effective 
+strategies to determine the location and range of bru
+Text Len: 1535
+--------------------------------------------------------------------------------
+ in the United 
+States.  The IBMP partners work together, as outlined in the IBMP 
+memorandum of understanding, to mitigate the risk of disease 
+transmission by brucellosis-infected bison in the Greater Yellowstone 
+Area (GYA).  Continued collaborations are needed to develop effective 
+strategies to determine the location and range of brucellosis-affected 
+wildlife, reduce the prevalence of disease in wildlife, and mitigate the 
+potential risks of disease transmission between wildlife and cattle.  
+Potential strategies include partnering with State and Federal wildlife 
+agencies to conduct wildlife surveillance in areas with brucellosis-affected 
+livestock, supporting research to find tools (e.g., vaccination and 
+contraceptives) and strategies (e.g., adaptive management) to reduce the 
+prevalence of brucellosis in wildlife, and instituting those strategies as 
+appropriate. 
+ 
+USDA’s APHIS VS is interested in investigating the potential of venereal 
+exposure as a mode of transmission of brucellosis by YNP bison bulls.  It 
+is known that bison bulls shed Brucella in their semen (Robison et al., 
+1998; Olsen et al., 1999).  However, the potential for transmission of 
+brucellosis via the venereal route is not known.  We do know that 
+brucellosis can be transmitted by direct contact with infected animals or 
+within an environment that has been contaminated with discharges from 
+infected animals.  In infected animals, seminal fluids, aborted fetuses, 
+placental membranes or fluids and other vaginal discharges from post-
+calving or abortion events may be contaminated with infectious Brucella 
+organisms. 
+ 
+Determining the potential for venereal
+Text Len: 1666
+--------------------------------------------------------------------------------
+ animals or 
+within an environment that has been contaminated with discharges from 
+infected animals.  In infected animals, seminal fluids, aborted fetuses, 
+placental membranes or fluids and other vaginal discharges from post-
+calving or abortion events may be contaminated with infectious Brucella 
+organisms. 
+ 
+Determining the potential for venereal transmission of brucellosis by YNP 
+bison bulls would assist in developing effective adaptive management 
+strategies that could be included in IBMP operating procedures.  Under the 
+current IBMP adaptive management strategy, allowing bison bulls access 
+to public lands in Montana year-round is desired and will be evaluated as 
+part of the expansion of bison habitat.  This expansion of habitat would 
+put bison bulls in closer proximity and potentially increase the opportunity 
+for commingling with cattle grazing in the area.  Understanding the 
+potential for shedding of B. abortus in the semen of bison bulls is vital to 
+assessing the appropriateness of this adaptive management strategy.  The 
+ 2  
+proposed action, a proposed two-phase study described in more detail in 
+the Proposed Action section (II.B.), would consist of temporarily 
+immobilizing mature bison bulls in limited areas outside of the YNP and 
+collecting their semen and blood samples for testing.  People other than 
+those involved in this proposed study would not likely be present, and 
+environmental impacts would be avoided or minimized. 
+ 
+According to the APHIS’ National Environmental Policy Act (NEPA) 
+implementing procedures (7 CFR part 372), this proposed action is 
+classified as one for which an environmental assessment (EA) is 
+appropriate because it is part of the “Development of program plans that 
+seek to
+Text Len: 1755
+--------------------------------------------------------------------------------
+
+environmental impacts would be avoided or minimized. 
+ 
+According to the APHIS’ National Environmental Policy Act (NEPA) 
+implementing procedures (7 CFR part 372), this proposed action is 
+classified as one for which an environmental assessment (EA) is 
+appropriate because it is part of the “Development of program plans that 
+seek to adopt strategies, methods, and techniques as the means of dealing 
+with particular animal and plant health risks that may arise in the future,” 
+is part of the “Implementation of program plans at the site-specific, action 
+level,” and is “Research or testing that will be conducted outside of a 
+laboratory or other containment area.” [7 CFR § 372.5(b)(1)(i), (ii) and 
+(5)(i)].  Recognizing the substantial interest regarding brucellosis in bison 
+in the YNP and bison management activities in the GYA, APHIS has 
+prepared this EA.   
+ 
+B. Purpose of and Need for the Proposed Action 
+ 
+The purpose of the proposed action is to conduct a two-phase study to 
+evaluate the potential shedding of Brucella abortus in the semen of bison 
+bulls from the YNP and to assess the potential for venereal transmission of 
+brucellosis by infected bison bulls.  The overall goal of the proposed two-
+phase study is twofold:  1) to ascertain data and information essential to 
+scientific and epidemiologically sound decision-making regarding bison 
+management activities and adaptive management strategies such as habitat 
+access, and 2) to facilitate the understanding of the potential role of 
+brucellosis-infected bison bulls in venereal transmission of brucellosis
+Text Len: 1591
+--------------------------------------------------------------------------------
+-
+phase study is twofold:  1) to ascertain data and information essential to 
+scientific and epidemiologically sound decision-making regarding bison 
+management activities and adaptive management strategies such as habitat 
+access, and 2) to facilitate the understanding of the potential role of 
+brucellosis-infected bison bulls in venereal transmission of brucellosis.  
+Evaluation of these issues would further efforts to improve the health of 
+the wild, free-ranging bison population in the GYA and enhance the 
+quality of the environment in the GYA.  Data and information garnered 
+from this proposed study would be useful for efforts to reduce the 
+potential risk of brucellosis transmission between bison and cattle while 
+conserving the free-ranging nature of the YNP bison population. 
+ 
+The need for Phase 1 of the proposed study is to collect samples to 
+evaluate the semen from mature Yellowstone bison bulls for shedding of 
+B. abortus, in order to determine if infective doses of B. abortus are shed 
+in the semen, and to determine if semen quality is affected by B. abortus 
+infection.  This information is needed to determine and implement 
+appropriate strategies and adaptive management practices such as habitat 
+expansion while assuring mitigation of the risk of disease transmission to 
+cattle grazing in the area.  In addition, activities conducted in Phase 1 of 
+ 3  
+the proposed study would provide for validation of the sample collection 
+and evaluation procedures as the same collection and evaluation 
+procedures would be used in Phase 2 of the proposed study. 
+ 
+The need for Phase 2 of the proposed study is to assess the role of bison 
+bulls in venereal transmission of brucellosis.  This assessment is needed to 
+provide
+Text Len: 1751
+--------------------------------------------------------------------------------
+ would provide for validation of the sample collection 
+and evaluation procedures as the same collection and evaluation 
+procedures would be used in Phase 2 of the proposed study. 
+ 
+The need for Phase 2 of the proposed study is to assess the role of bison 
+bulls in venereal transmission of brucellosis.  This assessment is needed to 
+provide information essential to developing appropriate and effective 
+disease management and elimination strategies.  Proposals to eliminate 
+brucellosis from Yellowstone bison using nonlethal strategies currently 
+focus on ways of eliminating the shedding of the disease organism by 
+bison cows at calving (Miller, et al., 2004).  If venereal transmission by 
+bison bulls contributes to the spread of brucellosis within the YNP bison 
+population and possibly to cattle outside the YNP, further development 
+and implementation of mitigation strategies that include bison bulls may 
+be warranted.  Information garnered from this proposed study would be 
+valuable to YNP’s bison vaccination strategy.  Conversely, if venereal 
+transmission by bison bulls does not contribute to the spread of 
+brucellosis, then resources and activities focused on limiting bison bull 
+activities might not be warranted or could be modified to maximize risk 
+mitigation activities. 
+ 
+Overall, this proposed study would provide information regarding the 
+shedding of Brucella by mature bison bulls and allow for the assessment 
+of the potential risk of disease transmission between bison bulls and cattle 
+in the same proximity.  The proposed study would help determine the 
+level of shedding of Brucella during the non-rut season (Phase 1 of the 
+proposed study) as compared to the rut season (Phase 2 of the proposed 
+study).  Data would be
+Text Len: 1759
+--------------------------------------------------------------------------------
+ the assessment 
+of the potential risk of disease transmission between bison bulls and cattle 
+in the same proximity.  The proposed study would help determine the 
+level of shedding of Brucella during the non-rut season (Phase 1 of the 
+proposed study) as compared to the rut season (Phase 2 of the proposed 
+study).  Data would be garnered on the prevalence of shedding of Brucella 
+by mature bison bulls from the YNP.  In addition, the proposed study 
+would more specifically evaluate levels of shedding of Brucella and the 
+subsequent impact on semen quality, viability, and infectivity.  This 
+information would be useful for assessing the brucellosis status of the 
+YNP bison breeding population.  Mitigating transmission of brucellosis 
+within the YNP bison population would further the long-term goal of 
+conserving a wild, disease-free, bison population which in turn would 
+restore and enhance the quality of the environment. 
+ II. Proposed Action and Alternatives 
+ 
+A. No Action (the Current Situation)  
+ 
+The No Action alternative would result in no proposed study.  The 
+purpose of the proposed study is to better understand the potential risk for 
+disease transmission by brucellosis-infected bison bulls from the YNP and 
+assess the potential impact of this risk on adaptive management strategies.  
+ 4  
+Without this proposed study, managers would continue to follow the 
+current “no tolerance” strategy of bison bulls outside the Park during 
+designated times of the year.  The “no tolerance” strategy is predicated on 
+the assumption that brucellosis-infected bison bulls pose a risk of disease 
+transmission.  Without this proposed study,
+Text Len: 1658
+--------------------------------------------------------------------------------
+ this proposed study, managers would continue to follow the 
+current “no tolerance” strategy of bison bulls outside the Park during 
+designated times of the year.  The “no tolerance” strategy is predicated on 
+the assumption that brucellosis-infected bison bulls pose a risk of disease 
+transmission.  Without this proposed study, information to quantify and 
+assess this potential risk of disease transmission would not be collected.  
+Data and information to assess the potential for venereal transmission of 
+disease by brucellosis-infected bison bulls would not be ascertained as 
+well. 
+ 
+B. Proposed Action 
+ 
+The proposed action is a two-phase study designed to address shedding of 
+B. abortus in the semen of bison bulls that have migrated out of the YNP 
+in the winter and spring and to investigate the potential for venereal 
+transmission of disease by brucellosis-infected bison bulls in the GYA.  
+Each phase of the proposed study would be conducted under the 
+appropriate permits for the study locations. 
+ 
+Phase 1 of the proposed study would be conducted under a Montana Fish, 
+Wildlife and Parks (MFWP) Research and Technical Services Animal 
+Care and Use Committee permit with MFWP assistance.  MFWP has the 
+jurisdiction to capture wildlife on the Forest Service (USFS) lands in 
+Montana where Phase 1 of the proposed study would be conducted.  Phase 
+1 would be conducted on USFS public lands in the IBMP Zone 2 area on 
+the west side of the YNP, where IBMP bison management activities 
+routinely occur each spring, and in the Eagle Creek/Bear Creek Special 
+Management Area on the north side of
+Text Len: 1614
+--------------------------------------------------------------------------------
+ 
+Montana where Phase 1 of the proposed study would be conducted.  Phase 
+1 would be conducted on USFS public lands in the IBMP Zone 2 area on 
+the west side of the YNP, where IBMP bison management activities 
+routinely occur each spring, and in the Eagle Creek/Bear Creek Special 
+Management Area on the north side of the YNP, where bison are allowed 
+year-round2.  Phase 1 would occur in April/May 2010 when bison bulls 
+are normally present in the IBMP Zone 2 areas.  Field activities to 
+accomplish Phase 1 of the proposed study would be conducted daily as 
+bison bulls become available in the proposed study areas during the 
+months of April and May until hazing of bison begins on or about May 15, 
+2010.  The IBMP Zone 2 field locations used in Phase 1 of the proposed 
+study would be accessed in accordance with Gallatin National Forest 
+Service travel plans.  If migration of bison bulls out of the YNP in 
+April/May 2010 to either location is limited in number, it may be 
+necessary to conduct the proposed Phase 1 study activities again in 2011, 
+perhaps as early as February 15, in order to collect the statistically 
+determined number of samples needed.   
+ 
+The location for Phase 2 of the proposed study has yet to be determined.  
+Details of Phase 2 of the proposed study would be finalized based on the 
+successful completion of Phase 1 of the proposed study.  Given that the 
+                                                 
+2
+ For maps of these areas, see http
+Text Len: 1480
+--------------------------------------------------------------------------------
+ on the 
+successful completion of Phase 1 of the proposed study.  Given that the 
+                                                 
+2
+ For maps of these areas, see http://ibmp.info/Library/2%20-%20State%20ROD3%20-%20Maps.pdf 
+.  
+ 5  
+goal of Phase 2 of the proposed study is to assess the potential for venereal 
+transmission of disease by brucellosis-infected bison bulls, Phase 2 of the 
+proposed study would be conducted during or as close as possible to the 
+rut season in September/October 2012.  Once a location is determined for 
+Phase 2 of the proposed study, this EA would be supplemented to reflect a 
+NEPA review of applicable issues. 
+ 
+A statistical analysis determined that samples from 50 individual bison 
+bulls would be needed for each Phase of the proposed study.  This analysis 
+is based on the assumption that the population of bison bulls in the YNP is 
+approximately 1,500 and that 20% of the seropositive bison bulls in the 
+YNP would be shedding B. abortus in their semen.  This sample size 
+assures a 99% confidence of finding at least one bull shedding B. abortus 
+and provides for adequate evaluation of semen quality. 
+ 
+The proposed study would include the following activities: 
+ Temporarily immobilizing the bison bulls, 
+ Collecting blood and semen samples from them, and 
+ Testing and evaluating those blood and semen samples. 
+ 
+Capture
+Text Len: 1374
+--------------------------------------------------------------------------------
+ one bull shedding B. abortus 
+and provides for adequate evaluation of semen quality. 
+ 
+The proposed study would include the following activities: 
+ Temporarily immobilizing the bison bulls, 
+ Collecting blood and semen samples from them, and 
+ Testing and evaluating those blood and semen samples. 
+ 
+Capture and temporary immobilization of the bison bulls would be 
+accomplished using established safe chemical immobilization and 
+recovery techniques for bison to ensure the health and safety of the bison 
+and study personnel.  Veterinary oversight for animal care and handling, 
+immobilization, and sample collection would be provided during the 
+proposed study activities.  Wildlife biologists trained and experienced in 
+the capture and handling of bison would also be participating in the 
+proposed study activities.  Chemical immobilization would be 
+administered via darting from the ground by qualified individuals.  It is 
+expected that the bison would be chemically immobilized and restrained 
+for no more than 20 minutes and would be appropriately monitored 
+throughout this time.  After the study samples are collected and the 
+identification tags applied, the chemical immobilization would be reversed 
+and the bison would be observed to assure a full recovery.   
+ 
+Collection of blood and semen samples and application of identification 
+tags would be performed by the veterinarians and wildlife biologists.  
+Blood samples would be collected using safe venipuncture techniques, and 
+semen samples would be obtained using established standard bull semen 
+collection techniques.  Each bison bull would be fitted with an eartag and 
+marked with a non-permanent visual marker.  The eartag would identify 
+the animal as having received a controlled substance and would provide a 
+phone number to call should
+Text Len: 1824
+--------------------------------------------------------------------------------
+ using safe venipuncture techniques, and 
+semen samples would be obtained using established standard bull semen 
+collection techniques.  Each bison bull would be fitted with an eartag and 
+marked with a non-permanent visual marker.  The eartag would identify 
+the animal as having received a controlled substance and would provide a 
+phone number to call should the animal be harvested during a native hunt 
+or the Montana bison hunting season.  The same techniques for sample 
+collection would be used in both Phases of the proposed study. 
+ 
+ 6  
+Testing and evaluation of the blood samples collected from the bison bulls 
+in this proposed study would be performed in the laboratory.  The semen 
+samples collected from the bison bulls in this proposed study would be 
+evaluated in the field for semen quality and sent to the laboratory for 
+additional testing. 
+ 
+C. Other Possible Alternatives to Proposed Action 
+ 
+APHIS is exploring and considering potential feasible locations for Phase 
+2 of the proposed study.  APHIS is open to partnering with appropriate 
+land and wildlife management agencies to conduct Phase 2 of the 
+proposed study; however, no agreements are in place at this time. 
+ 
+D. Other Alternatives Considered but Dismissed 
+ from Further Consideration 
+ 
+APHIS VS considered the alternative of conducting Phase 1 of the 
+proposed study in conjunction with other bison management activities.  
+One such activity might be if and when bison bulls are captured during 
+IBMP activities related to testing and shipping to slaughter.  However, 
+capturing, testing, and shipping bison to slaughter varies from year to year.  
+The numbers of bison bulls available during the aforementioned bison 
+management activities could be limited and might not provide
+Text Len: 1772
+--------------------------------------------------------------------------------
+ activities.  
+One such activity might be if and when bison bulls are captured during 
+IBMP activities related to testing and shipping to slaughter.  However, 
+capturing, testing, and shipping bison to slaughter varies from year to year.  
+The numbers of bison bulls available during the aforementioned bison 
+management activities could be limited and might not provide for the 
+statistically determined number of samples needed for the proposed study.  
+In addition, bison bulls of the age group needed for this proposed study are 
+not easily handled in the trapping facilities and pose a greater safety risk 
+both to proposed study personnel and to the bison bulls themselves.  
+Capture activities occur at a time of year when the bison bulls are further 
+from their rut, thus precluding their use in Phase 2 of the proposed study.  
+Therefore, this alternative has been dismissed from further consideration. 
+ 
+APHIS VS also considered the alternative to conduct Phase 1 of the 
+proposed study during other times of the year.  This alternative was 
+dismissed from further consideration because bison bulls are not tolerated 
+outside the YNP during other times of the year.  
+ 
+ 
+III. Potential Environmental Impacts 
+ 
+The NEPA implementing regulations provide criteria that Federal agencies 
+should evaluate, if applicable, in environmental documents for proposed 
+actions.  This section of the EA addresses the applicable criteria related to 
+potential impacts from the No Action alternative and from the proposed 
+action.  NEPA criteria that are applicable for consideration in this section 
+ 7  
+of the document include animal impacts, human health and safety, and the 
+physical environment.  
+ 
+A. No Action 
+ 
+Without the proposed action, efforts to gather scientific information to 
+better understand the potential
+Text Len: 1825
+--------------------------------------------------------------------------------
+ from the No Action alternative and from the proposed 
+action.  NEPA criteria that are applicable for consideration in this section 
+ 7  
+of the document include animal impacts, human health and safety, and the 
+physical environment.  
+ 
+A. No Action 
+ 
+Without the proposed action, efforts to gather scientific information to 
+better understand the potential risk for disease transmission by brucellosis-
+infected bison bulls in the GYA would be hindered.  The opportunity to 
+further evaluate the merits of adaptive management strategies which 
+currently limit bison habitat in order to mitigate the risk of disease 
+transmission to cattle would be lost, as would be the consideration of 
+expanding bison habitat.  Without the proposed action to assist in 
+developing strategies to effectively control and eliminate brucellosis, the 
+disease may continue to spread within the wild, free-ranging bison 
+population in the GYA.   
+ 
+B. Proposed Action 
+ 
+Brucellosis is a serious disease of livestock and wildlife that has 
+significant animal health, public health, and international trade 
+consequences.  Brucellosis is a contagious disease, caused by bacteria of 
+the genus Brucella, which affects both animals and humans.  Brucella 
+abortus mainly affects cattle, bison, and swine; however, other species of 
+animals and humans are susceptible as well.  In cattle and bison, the 
+disease localizes in the lymph nodes and in the reproductive organs and/or 
+the udder, causing spontaneous abortions in dams or birth of weak 
+offspring, as well as systemic effects in both males and females.  
+Infertility, decreased milk production, weight loss, and lameness may also 
+be associated with
+Text Len: 1687
+--------------------------------------------------------------------------------
+ cattle and bison, the 
+disease localizes in the lymph nodes and in the reproductive organs and/or 
+the udder, causing spontaneous abortions in dams or birth of weak 
+offspring, as well as systemic effects in both males and females.  
+Infertility, decreased milk production, weight loss, and lameness may also 
+be associated with brucellosis infection.  There is no effective means of 
+treating brucellosis in livestock and wildlife.  In humans, brucellosis, often 
+called undulant fever, causes generalized musculoskeletal malaise, flu-like 
+symptoms, and pain and fatigue.  The symptoms can last for years and 
+may develop into a variety of chronic conditions.  Humans can be treated 
+for brucellosis with a rigorous course of antibiotic therapy. 
+ 
+1. Animal Impacts   
+ 
+a. Bison Bulls 
+ 
+The proposed study involves temporarily immobilizing and restraining 
+bison bulls.  The objective for the immobilization and handling of the 
+individual bison is to collect semen and blood samples to determine the 
+brucellosis status of the animal and to evaluate the possible shedding of   
+B. abortus in the semen of infected bulls.  This information will be used to 
+consider expansion of bison habitat outside the YNP and to assess the 
+potential for venereal transmission of brucellosis by bison bulls.   
+ 8  
+Ensuring humane handling and treatment of the bison bulls during the 
+proposed study activities is a priority.  The activities would be conducted 
+as quickly and efficiently as possible and in a manner that would prevent 
+undue stress, trauma, injury, or any unnecessary discomfort to the animal.   
+Bison bulls would
+Text Len: 1626
+--------------------------------------------------------------------------------
+.   
+ 8  
+Ensuring humane handling and treatment of the bison bulls during the 
+proposed study activities is a priority.  The activities would be conducted 
+as quickly and efficiently as possible and in a manner that would prevent 
+undue stress, trauma, injury, or any unnecessary discomfort to the animal.   
+Bison bulls would be immobilized only at locations that are safe for the 
+bison and the proposed study personnel.  Veterinary oversight for animal 
+care and handling, immobilization, and sample collection would be 
+provided during the proposed study activities.  Wildlife biologists trained 
+and experienced in the capture and handling of bison would also be 
+participating in the proposed study activities.  
+ 
+The bison bulls would be temporarily immobilized via darting from the 
+ground, using the standard administration protocol of FDA-approved 
+anesthetic and analgesic drugs conventionally used in wildlife 
+management activities.  Blood samples would be collected via 
+venipuncture technique, and semen samples would be obtained using 
+established standard bull semen collection techniques.  Once the proposed 
+study samples were collected, the chemical immobilization drug would be 
+reversed, allowing each animal to recover within minutes of 
+administration.   
+ 
+Given the analgesic nature of the chemical immobilization compounds, it 
+is anticipated that the bison bulls would not experience negative impacts 
+during the collection of study samples.  It is expected that they would be 
+immobilized and restrained for no more than 20 minutes.  Their vital signs 
+would be monitored throughout the sampling procedures and initial 
+recovery phase.  Every precaution would be taken to prevent 
+immobilization and handling-related trauma, injuries, or death to the 
+bison.  The standard chemical immobilization protocol that would
+Text Len: 1847
+--------------------------------------------------------------------------------
+ expected that they would be 
+immobilized and restrained for no more than 20 minutes.  Their vital signs 
+would be monitored throughout the sampling procedures and initial 
+recovery phase.  Every precaution would be taken to prevent 
+immobilization and handling-related trauma, injuries, or death to the 
+bison.  The standard chemical immobilization protocol that would be used 
+in this proposed study does not have long-term physical or physiological 
+effects.  The bison bulls would be observed for as long as they are visible 
+after recovery.  No harmful or negative impacts to the bison bulls are 
+expected due to the proposed action.  
+ 
+b. Non-Target Species 
+ 
+Some non-target species may be temporarily impacted while activities 
+associated with this proposed study are occurring.  However, the proposed 
+study activities would occur for brief periods of time only on days when 
+bison bulls are present in the proposed study area.  The temporary impacts 
+that might occur to non-target species during the proposed study activities 
+are the same in nature as temporary impacts associated with IBMP 
+activities and were analyzed in the “Bison Management Plan 
+Environmental Imapct Statement” (BMP EIS) (USDOI and USDA, 2000).  
+These types of activities were determined to be not likely to adversely 
+affect non-target species.   
+ 9  
+ 
+Immobilized bison bulls would be monitored as they return to their 
+environment.  If circumstances should indicate the need to euthanize a 
+bison bull that has been chemically immobilized as part of the proposed 
+study activities, the carcass would be removed and incinerated or buried in 
+a secure landfill.  Therefore, chemical immobilization of bison bulls is not 
+
+Text Len: 1712
+--------------------------------------------------------------------------------
+ bison bulls would be monitored as they return to their 
+environment.  If circumstances should indicate the need to euthanize a 
+bison bull that has been chemically immobilized as part of the proposed 
+study activities, the carcass would be removed and incinerated or buried in 
+a secure landfill.  Therefore, chemical immobilization of bison bulls is not 
+likely to adversely affect non-target species, including predators and 
+scavengers.   
+ 
+2. Human Health and Safety  
+ 
+a. The General Public 
+ 
+Brucellosis is a zoonotic disease that can infect people, causing undulant 
+fever.  Symptoms include intermittent fever, chills, night sweats, body and 
+joint pain, poor appetite, and weakness.  The general public would be at no 
+risk of contracting the disease from bison as a result of the study activities.  
+ 
+b. Hunters  
+ 
+Generally, hunting does not occur during the time of year that Phase 1 of 
+the study is planned.  However, U.S. treaties with some Native American 
+groups allow hunting without restrictions for time of year and number of 
+bison taken.  Phase 1 study activities would be carried out in areas where 
+Native American groups could hunt according to treaties.  If hunting 
+activities by these groups are still occurring during the study timeframe, 
+APHIS would ensure communications with Native American group 
+officials about the study activities on mature bison bulls.  In addition, 
+APHIS would fit the study bulls with eartags, identifying them as having 
+been administered controlled substances.  A 45-day withdrawal period is 
+required after use of the drugs before the bison meat could be consumed.  
+Should one of the study bison be harvested,
+Text Len: 1677
+--------------------------------------------------------------------------------
+
+officials about the study activities on mature bison bulls.  In addition, 
+APHIS would fit the study bulls with eartags, identifying them as having 
+been administered controlled substances.  A 45-day withdrawal period is 
+required after use of the drugs before the bison meat could be consumed.  
+Should one of the study bison be harvested, the eartag would provide a 
+telephone number for the hunter to call for information to determine when 
+the animal was administered the drugs. 
+ 
+c. Other Potential Land Users   
+ 
+During the time and in the Zone 2 locations proposed for the study, USFS 
+does not allow recreational activities on USFS land because of IBMP 
+operational activities.  Therefore, no change in impacts would occur to 
+land use by recreationists during this time of year as a result of the study 
+activities.  
+ 
+ 
+ 
+ 
+ 
+ 10  
+d. Worker Safety/Occupational Safety 
+ 
+The study team would follow a protocol that includes operational safety 
+considerations for ensuring the health and safety of the team members.  At 
+least one cell phone would be available for all communications outside of 
+the team.  Study personnel would notify USFS authorities in advance of 
+any planned bison capture and immobilization activities.  
+ 
+Bison would be captured in locations that are safe for both bison and the 
+study team members.  One person on the team would be responsible for 
+monitoring other nearby bison to alert the team of any dangerous behavior.  
+As grizzly bears are known to frequent the proposed study areas and could  
+be active during Phase 1 of the study, the study team would be alert for 
+bears in the area and would carry bear spray at
+Text Len: 1662
+--------------------------------------------------------------------------------
+study team members.  One person on the team would be responsible for 
+monitoring other nearby bison to alert the team of any dangerous behavior.  
+As grizzly bears are known to frequent the proposed study areas and could  
+be active during Phase 1 of the study, the study team would be alert for 
+bears in the area and would carry bear spray at all times.   
+ 
+As it is unknown as to whether the bison bulls may be infected with 
+brucellosis, all personnel handling bison would wear protective gloves and 
+take precautions to prevent direct contact with fluid samples drawn.  The 
+study team would also carry disinfectant to thoroughly clean/wash if 
+needed. 
+ 
+Personnel who would be involved in the study activities have a variety of 
+expertise and experience needed to carry out the study activities, including 
+wildlife chemical immobilization using darting technique, proficiency in 
+darting, veterinary care, animal restraint, tagging and marking animals, 
+sample collection, and bison bull reproductive evaluation.   
+ 
+In the event of human exposure to the immobilization drugs, syringes with 
+appropriate levels of a reversal drug would be drawn up and available.  
+Drugs used for the study would be stored in a safe or lockable device in 
+transit and reversal drugs would be available during the study activities in 
+the field.  First aid kits would be available at all times.   
+ 
+3. Vegetation and Physical Environment  
+ 
+This section of the EA considers the potential impacts on components of 
+the physical environment, specifically vegetation, soil, and water.  
+ 
+a. Vegetation and Soil 
+ 
+The time of year the study activities would occur is the early to mid-spring 
+season when
+Text Len: 1695
+--------------------------------------------------------------------------------
+   
+ 
+3. Vegetation and Physical Environment  
+ 
+This section of the EA considers the potential impacts on components of 
+the physical environment, specifically vegetation, soil, and water.  
+ 
+a. Vegetation and Soil 
+ 
+The time of year the study activities would occur is the early to mid-spring 
+season when snow cover is possible.  Activities under the proposed study 
+that could impact vegetation and soil include physical access to USFS 
+land.  Other study activities, such as darting and drawing fluid samples, 
+are not likely to impact the physical environment.   
+ 
+ 11  
+APHIS, VS would be accessing USFS land in compliance with Gallatin 
+National Forest Travel Plans for access.  A combination of snow 
+machines, horses, vehicles and travel by foot would be used to access 
+Zone 2, as allowed according to the Travel Plans. In following the Travel 
+Plans, minimal disturbance to vegetation and soil on the ground surface 
+would occur from land access.  
+ 
+The use of darts to temporarily immobilize the bison bulls is not likely to 
+result in impacts to ground cover, vegetation, or soil.  Although it is 
+possible that a dart might not complete intramuscular penetration of the 
+bull or could miss the intended target, the study personnel doing the 
+darting would be sufficiently knowledgeable to handle the situation.  If a 
+dart were to miss the intended target, study team members would make 
+every effort to recover the dart.  Darts would be made to be easily 
+identifiable.  In the event a lost dart is not recovered, the study team would 
+document this occurrence and notify USFS with information relative to the 
+occurrence.   
+ 
+One scenario
+Text Len: 1660
+--------------------------------------------------------------------------------
+
+dart were to miss the intended target, study team members would make 
+every effort to recover the dart.  Darts would be made to be easily 
+identifiable.  In the event a lost dart is not recovered, the study team would 
+document this occurrence and notify USFS with information relative to the 
+occurrence.   
+ 
+One scenario considered is the dart imploding upon impact on the bison 
+bull and, for some reason, not successfully penetrating the animal and then 
+falling onto the ground.  Under this scenario, the anesthesia mixture (10 
+milligrams) would adsorb quickly into the snow (and then be diluted) or 
+into the soil (and then be adsorbed).  Since the amount of the drug would 
+be minute and would not be available for ingestion by wildlife (because of 
+being diluted into the snow and/or adsorbing into the soil), there would be 
+negligible impact on the environment.  
+ 
+b. Water 
+ 
+Bison would be captured in locations that are safe for both bison and staff.  
+Unsafe locations may include waterways, roads or other obstacles that 
+interfere with the immobilization of bison.  The study activities would not 
+directly impact water because they would be carried out on ground surface 
+away from water resources.  The types of activities involved would have 
+minimal, if any, impact to nearby water resources.   
+ 
+c. Recreational and Cultural Land Uses 
+ 
+(1) Recreational Land Use  
+ 
+During the timeframe and location for the proposed study activities, 
+recreational activities are restricted because of IBMP operational activities 
+that occur in Zone 2 at that time of year.  Therefore, no change would 
+occur to land
+Text Len: 1628
+--------------------------------------------------------------------------------
+   
+ 
+c. Recreational and Cultural Land Uses 
+ 
+(1) Recreational Land Use  
+ 
+During the timeframe and location for the proposed study activities, 
+recreational activities are restricted because of IBMP operational activities 
+that occur in Zone 2 at that time of year.  Therefore, no change would 
+occur to land use by recreationists during this time of year as a result of 
+the study activities.  Prior to carrying out the study activities, APHIS, VS 
+would communicate its intentions with USFS and public agencies that 
+ 12  
+carry out IBMP operational activities.  APHIS would continue to 
+communicate with these public agencies during the study timeframe in 
+order to ensure that the study activities do not conflict with or impede 
+IBMP activities.  
+ 
+(2) Native American Hunting Rights 
+  
+Three Native American groups (the Nez Perce Tribe, the Confederated 
+Salish and Kootenai Tribes, and the Shoshone-Bannock Tribes) have 
+reserved hunting rights in the public lands designated as Zone 2 in the 
+IBMP.  These USFS lands are termed “unoccupied lands of the United 
+States” in the treaties with these Native American groups.  The timing and 
+study area of Phase 1 activities may coincide with the hunting activities of 
+at least one of these tribes.  If Native American hunters are still hunting in 
+the study area at the time for Phase 1 study activities to begin, APHIS 
+would brief the tribal hunting authorities about the APHIS study activities 
+prior to starting them.  The briefing would include information about the 
+study protocol, the drugs that would be used for temporary 
+immobilization, drug withdrawal times, and the marking
+Text Len: 1648
+--------------------------------------------------------------------------------
+ are still hunting in 
+the study area at the time for Phase 1 study activities to begin, APHIS 
+would brief the tribal hunting authorities about the APHIS study activities 
+prior to starting them.  The briefing would include information about the 
+study protocol, the drugs that would be used for temporary 
+immobilization, drug withdrawal times, and the marking of immobilized 
+bison bulls. 
+ 
+IV. Other Environmental Review  Requirements  
+A. Endangered or Threatened Species 
+ 
+Section 7 of the Endangered Species Act (ESA) and ESA’s implementing 
+regulations require Federal agencies to ensure that their actions are not 
+likely to jeopardize the continued existence of endangered or threatened 
+species or result in the destruction or adverse modification of critical 
+habitat.  Therefore, the following section discusses the effect of the 
+proposed action and No Action alternatives on federally listed threatened 
+and endangered species in Gallatin and Park Counties in Montana. 
+Three federally listed threatened species occur in Gallatin County:  Ute 
+ladies’ tresses (Spiranthes diluvialis), grizzly bear (Ursus arctos 
+horribilis), and Canada lynx (Lynx canadensis) and its designated critical 
+habitat.  Only the grizzly bear and the Canada lynx and its critical habitat 
+occur in Park County.  APHIS has determined that the proposed bison bull 
+semen study would have no effect on these species or designated critical 
+habitat for the following reasons: 
+In Montana, Ute ladies’-tresses are found in the Middle Rockies-Blue 
+Mountains ecoregion (Fertig et al., 2005).  The proposed study area does 
+not occur in this e
+Text Len: 1631
+--------------------------------------------------------------------------------
+ proposed bison bull 
+semen study would have no effect on these species or designated critical 
+habitat for the following reasons: 
+In Montana, Ute ladies’-tresses are found in the Middle Rockies-Blue 
+Mountains ecoregion (Fertig et al., 2005).  The proposed study area does 
+not occur in this ecoregion.   
+ 13  
+Grizzly bears and Canada lynx may occur in the study area, but are 
+unlikely to be found in the open rangeland area where capture and 
+temporary immobilization of bison bulls would occur.   
+ 
+Primary constituent elements of Canada lynx critical habitat include boreal 
+forest landscapes supporting a mosaic of differing successional forest 
+stages and containing snowshoe hares, sites for denning, and other habitat 
+that lynx may travel through to access boreal forest (USDOI, 2009).  The 
+temporary activities of capture and immobilization would have no effect 
+on this habitat and would only occur in open rangeland that would be used 
+to access preferred sites.   
+ 
+B.  Bald Eagle and Gold en Eagle Protection Act  
+ 
+Although no longer a federally listed endangered or threatened species in 
+most areas of the United States, including Montana, the bald eagle is 
+protected by the Bald and Golden Eagle Protection Act and the Migratory 
+Bird Treaty Act.  Bald eagles are sensitive to human activities, such as 
+recreational activities and resource and urban development.  Although 
+bald eagles are sensitive to human activities, they do appear to acclimate 
+to some activities occurring at predictable frequencies, intensities, and 
+time limits.  In Montana and Wyoming, nest building starts in January and 
+
+Text Len: 1628
+--------------------------------------------------------------------------------
+ Act.  Bald eagles are sensitive to human activities, such as 
+recreational activities and resource and urban development.  Although 
+bald eagles are sensitive to human activities, they do appear to acclimate 
+to some activities occurring at predictable frequencies, intensities, and 
+time limits.  In Montana and Wyoming, nest building starts in January and 
+fledging of young ends in July.  Early in the season with nest building and 
+egg laying, they are most sensitive to human activity.  Depending on the 
+type of activity, U.S. Fish and Wildlife Service (FWS) guidelines 
+recommend buffers for different activities.  The buffers generally 
+suggested for eagles include a 330-foot buffer from nests during the 
+breeding season from any activities.  There have historically been bald 
+eagle nests in Zone 2 areas.  Prior to initiating sample collections APHIS 
+would confer with USFS to ensure that study activities do not interfere 
+with bald eagles in proposed study areas. 
+ 
+C. Historic and Cultural Resources 
+ 
+The activities described as the proposed action in this EA are within the 
+range of activities that were considered in the BMP, the IBMP supporting 
+analysis.  The proposed action is a research study that is associated with 
+adaptive management actions under the IBMP.  The types of activities 
+associated with the study would not affect historic sites.  Because the 
+proposed action would occur on USFS lands, APHIS confirmed with 
+USFS that the proposed action presents no concerns and no effects to 
+historic and cultural resources.   
+ 
+The BMP EIS addresses the importance of bison, including their 
+importance to the cultural landscapes and visual resources of the GYA.  
+ 14  
+Bison are a
+Text Len: 1716
+--------------------------------------------------------------------------------
+ occur on USFS lands, APHIS confirmed with 
+USFS that the proposed action presents no concerns and no effects to 
+historic and cultural resources.   
+ 
+The BMP EIS addresses the importance of bison, including their 
+importance to the cultural landscapes and visual resources of the GYA.  
+ 14  
+Bison are a cultural resource to many, including Native American tribes, 
+GYA residents, the American viewing public, and public agencies.   
+ 
+During bison management activities carried out by public agencies in 
+accordance with the BMP EIS, bison may be marked using a variety of 
+techniques, including ear tags, paper backtags, paint, peroxide, hair dye 
+stripes, and clipped hair.  Marking techniques vary by public agency, the 
+purpose, and location.  Markings during bison management activities 
+serve a purpose, e.g., to prevent testing a bison multiple times or to 
+indicate that a bison has tested negative for the Brucella organism.  Some 
+marking techniques are visible from 100 yards or farther.  Some markings 
+are temporary, such as those made with paint, and their duration can 
+depend on the weather conditions.  Temporary markings are often visible 
+until the bison shed their winter fur in the spring.  Although tags used to 
+identify bison during management activities are visually intrusive, they are 
+necessary to minimize the need to capture and handle the bison more than 
+once to determine its brucellosis status.  The BMP EIS addresses marking 
+and other bison identification techniques as actions that alter the historic 
+image of the bison and that would have a temporary, moderate impact on 
+the historic landscapes of the GYA.  The use of a non
+Text Len: 1668
+--------------------------------------------------------------------------------
+necessary to minimize the need to capture and handle the bison more than 
+once to determine its brucellosis status.  The BMP EIS addresses marking 
+and other bison identification techniques as actions that alter the historic 
+image of the bison and that would have a temporary, moderate impact on 
+the historic landscapes of the GYA.  The use of a non-permanent visual 
+marker and an ear tag during the proposed study activities would impact 
+bison in the same way. 
+ 
+Some activities associated with the proposed study, such as identifying a 
+bison with an ear tag and a non-permanent visual marker, are important 
+for the study but would impact the bison in an aesthetic manner.  Using 
+markers on bison bulls from the proposed study also serves the purpose of 
+identifying the bison for potential hunters, such as Native Americans who 
+have treaty rights to hunt during the study time period, who might 
+otherwise harvest and consume meat from a darted bison.  Although these 
+actions are not physically harmful to the bison, they may be temporarily 
+visually unappealing to the public.   
+ 
+ 
+V. Cumulative Impacts 
+ 
+This EA examines the activities associated with a proposed study to assess 
+the shedding and potential for venereal transmission of B. abortus by 
+bison bulls in the GYA.  Activities associated with the proposed study are 
+not expected to result in adverse cumulative effects. 
+ 
+Since Phase 1 of the proposed study would occur during the same time of 
+year as other IBMP activities, there could be a temporary secondary 
+impact to these activities.  However, the study group and IBMP partners 
+would be communicating with one another throughout this time regarding 
+on-going activities. 
+Text Len: 1710
+--------------------------------------------------------------------------------
+
+not expected to result in adverse cumulative effects. 
+ 
+Since Phase 1 of the proposed study would occur during the same time of 
+year as other IBMP activities, there could be a temporary secondary 
+impact to these activities.  However, the study group and IBMP partners 
+would be communicating with one another throughout this time regarding 
+on-going activities.  Spatial separation would be maintained should any 
+ 15  
+proposed study and IBMP activities occur simultaneously.  In addition, 
+based on previous field studies of bison involving immobilization, it is 
+anticipated that bison bulls may become sensitive to capture disturbance 
+and wary of the proposed study activities, thus avoiding these areas.  
+However, the study is of short duration; therefore, if this impact occurs, it 
+should also be short-lived.    
+ 
+One of the goals of the IBMP is to manage temporal and spatial separation 
+of bison and cattle to mitigate potential transmission of brucellosis.  
+Currently, this is accomplished through hazing, capture, test and slaughter 
+of sero-positive animals and vaccination of sero-negative animals, and a 
+limited hunt in Montana.  The proposed study may provide important 
+information that would allow for re-evaluation and re-consideration of 
+some of the current IBMP activities.  This may result in impacts to future 
+decision-making regarding protocols for bison habitat management, bison 
+vaccination strategies, and the bison hunt activities.  IBMP activities that 
+could be impacted include strategies to maintain appropriate bison 
+population and distribution should bison habitat be expanded. 
+ 
+ 
+VI. Agencies or Persons Contacted 
+ 
+U.S. Forest Service, Gallatin National Forest 
+ 
+Montana Fish, Wildlife
+Text Len: 1738
+--------------------------------------------------------------------------------
+ 
+vaccination strategies, and the bison hunt activities.  IBMP activities that 
+could be impacted include strategies to maintain appropriate bison 
+population and distribution should bison habitat be expanded. 
+ 
+ 
+VI. Agencies or Persons Contacted 
+ 
+U.S. Forest Service, Gallatin National Forest 
+ 
+Montana Fish, Wildlife and Parks 
+ 
+USDA, Animal and Plant Health Inspection Service, Veterinary Services 
+ 
+USDA, Animal and Plant Health Inspection Service, Policy and Program 
+Development, Environmental and Risk Analysis Services 
+ 
+ 
+VII. References 
+ 
+Cheville, N.F., McCullough, D.R., and Paulson, L.R., 1998.  Brucellosis 
+in the Greater Yellowstone Area.  National Research Council.  National 
+Academy Press.  Washington, D.C.  186pp. 
+ 
+Fertig, W., Black, R., and Wolken, P., 2005.  Range wide status review of 
+Ute ladies’-tresses (Spiranthes diluvialis).  Prepared for the U.S. Fish and 
+Wildlife Service and Central Utah Water Conservancy District.  
+30 September 2005.  101 pp. 
+ 
+Meyer, M.E., and Meagher, M., 1995.  Brucellosis in free-ranging bison 
+(Bison bison) in Yellowstone, Grand Teton, and Wood Buffalo National 
+ 16  
+ 17  
+Parks: A review.  (letter to the editor)  Journal of Wildlife Diseases.  
+31:579-598. 
+ 
+Miller, L.A., Rhyan, J., and Drew, M., 2004.  Contraception of bison by 
+
+Text Len: 1311
+--------------------------------------------------------------------------------
+ Yellowstone, Grand Teton, and Wood Buffalo National 
+ 16  
+ 17  
+Parks: A review.  (letter to the editor)  Journal of Wildlife Diseases.  
+31:579-598. 
+ 
+Miller, L.A., Rhyan, J., and Drew, M., 2004.  Contraception of bison by 
+GnRH Vaccine:  A possible means of decreasing transmission of 
+brucellosis in bison.  Journal of Wildlife Diseases. 40:725-30. 
+ 
+Olsen, S.C., Rhyan, J., Gidlewski, T., and Palmer, M.V., 1999. Biosafety 
+and antibody responses following vaccination of adult bison bulls with 
+Brucella abortus strain RB51. American Journal of Veterinary Research. 
+60: 905-908. 
+ 
+Robison, C.D., Davis, D.S., Templeton, J.W., Westhusin, M., Foxworth, 
+W.B., Gilsdorf, M.J., and Adams, L.G., 1998. Conservation of germ plasm 
+from bison infected with Brucella abortus. Journal of Wildlife Diseases 
+34: 582-589. 
+ 
+U.S. Department of Agriculture, Animal and Plant Health Inspection 
+Service, 2009.  Notice of availability of a bovine brucellosis program 
+concept paper [Docket No. APHIS-2009-0006]. 74 FR 191:51115-51116, 
+October 5.  
+ 
+United States Department of the Interior. 2009.  Endangered and 
+Threatened Wildlife and Plants:  Revised Designation of  
+Critical Habitat for the Contiguous United States Distinct Population  
+
+Text Len: 1243
+--------------------------------------------------------------------------------
+ paper [Docket No. APHIS-2009-0006]. 74 FR 191:51115-51116, 
+October 5.  
+ 
+United States Department of the Interior. 2009.  Endangered and 
+Threatened Wildlife and Plants:  Revised Designation of  
+Critical Habitat for the Contiguous United States Distinct Population  
+Segment of the Canada Lynx. Federal Register, Vol. 74, p. 8615-8702, 
+February 25, 2009. 
+ 
+U.S. Department of the Interior and U.S. Department of Agriculture, 2000.  
+Final Environmental Impact Statement for the Interagency Bison 
+Management Plan for the State of Montana and Yellowstone National 
+Park.  August 2000.   
+ 
+USDOI and USDA 2000—See U.S. Department of the Interior and U.S. 
+Department of Agriculture. 
+ 
+Text Len: 690
+--------------------------------------------------------------------------------
+ 
+Study of Shedding and 
+Venereal Transmission of 
+Brucella abortus by Bison 
+Bulls in the Greater 
+Yellowstone Area 
+ 
+ 
+Environmental Assessment 
+February 2010 
+ 
+ 
+ 
+Study of Shedding and 
+Venereal Transmission of 
+Brucella abortus by Bison 
+Bulls in the Greater 
+Yellowstone Area 
+ 
+ 
+ 
+Environmental Assessment 
+February 2010 
+ 
+ 
+ 
+ 
+Agency Contact: 
+Dr. Brian McCluskey 
+Director – Western Region 
+Veterinary Services 
+Animal and Plant Health Inspection Service 
+U.S. Department of Agriculture 
+2150 Centre Avenue, Bldg B, Mailstop 3E13 
+Fort Collins, CO  80526-8117 
+ 
+ 
+ 
+ 
+ 
+ 
+__________________________________________________________  
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, sex, 
+religion, age, disability, political beliefs, sexual orientation, or marital or family 
+status.  (Not all prohibited bases apply to all programs.)  Persons with 
+disabilities who require alternative means for communication of program 
+information (Braille, large print, audiotape, etc.) should contact USDA’S 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an
+Text Len: 1390
+--------------------------------------------------------------------------------
+202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal 
+opportunity provider and employer. 
+ 
+Table of Contents 
+ 
+  I.  Introduction ............................................................................... 1 
+  A.  Ba ckground ......................................................................... 1 
+  B.  Purpose of and N eed for the Proposed Action .................... 3 
+ 
+ II.  Proposed Action and Alternatives ............................................. 4 
+A.  No Action (the Current Situation) ........................................ 4 
+B.  Proposed Action................................................................... 5 
+C.  Other Possible Alternatives to Proposed Action .................. 7 
+D. Other Alternatives Considered but Dismissed from  
+ Further Consideration .......................................................... 7 
+ 
+III.  Potential Environmental Impacts............................................... 7 
+ A.  No Action ............................................................................. 8 
+ B.  Propos ed Action .................................................................. 8 
+1.  Animal Impacts................................................................ 8 
+2.  Human Health and Safety ............................................. 10 
+3.  Vegetation and Physical Environment........................... 11 
+ 
+IV.  Other Environmental Review Requirements........................... 13 
+A.  Endangered or Threatened Species .................................. 13 
+B.  Bald Eagle and Golden Eagle Protection Act..................... 14 
+C.  Historic and Cultural Resources......................................... 14 
+ 
+V.  Cumulative Impacts ................................................................. 15 
+ 
+ VI. Agencies or Persons Contacted ............................................. 16 
+ 
+VII. 
+Text Len: 2081
+--------------------------------------------------------------------------------
+
+A.  Endangered or Threatened Species .................................. 13 
+B.  Bald Eagle and Golden Eagle Protection Act..................... 14 
+C.  Historic and Cultural Resources......................................... 14 
+ 
+V.  Cumulative Impacts ................................................................. 15 
+ 
+ VI. Agencies or Persons Contacted ............................................. 16 
+ 
+VII.  References ............................................................................ 16 
+ 
+I. Introduction 
+ 
+A. Background 
+ 
+The wild, free-ranging bison in Yellowstone National Park (YNP) are an 
+essential part of the biological, ecological, cultural, and aesthetic aspects 
+of the Park.  Yellowstone bison are chronically infected with Brucella 
+abortus, the causative agent of bovine brucellosis.  Studies estimate that 
+between 40% to 60% of the YNP bison have serological evidence of 
+brucellosis, indicating exposure to the disease (Meyer and Meagher, 1995; 
+Cheville et al., 1998).  Greater than 40% of the serological positive bison 
+are culture-positive for B. abortus, indicating infection with the disease.  
+Bison roam free in the YNP and often migrate outside the Park onto 
+National Forest public lands and private lands in Montana during the 
+winter months.  There is concern that brucellosis-infected bison from the 
+YNP may be a potential source for the spread of this disease to cattle 
+maintained on these lands outside of the Park.   
+ 
+The Interagency Bison Management Plan (IBMP), signed in 2000, is 
+designed to coordinate bison management activities among five State and 
+Federal partners1.  Under the IBMP, these five Federal and State agencies 
+work cooperatively within an adaptive management framework
+Text Len: 1754
+--------------------------------------------------------------------------------
+ this disease to cattle 
+maintained on these lands outside of the Park.   
+ 
+The Interagency Bison Management Plan (IBMP), signed in 2000, is 
+designed to coordinate bison management activities among five State and 
+Federal partners1.  Under the IBMP, these five Federal and State agencies 
+work cooperatively within an adaptive management framework to 
+conserve the YNP wild, free-ranging bison population, while concurrently 
+reducing the potential risk of transmission of brucellosis between wildlife 
+and cattle populations.  Investigating and mitigating potential modes of 
+disease transmission by brucellosis-infected YNP bison that migrate 
+outside the Park is an important component of IBMP activities.  
+Developing and incorporating effective short- and long-term adaptive 
+management strategies are essential to the success of the IBMP’s goals of 
+bison management and reduction of the risk of brucellosis transmission.   
+ 
+The United States Department of Agriculture’s (USDA) Animal and Plant 
+Health Inspection Service (APHIS) established a national brucellosis 
+program to safeguard the health of domestic livestock, maintain the 
+economic viability of the U.S. cattle industry in national and international 
+trade, protect public health, and ensure food safety.  The goal of the 
+program is to eradicate brucellosis from the United States.  Through 
+cooperative Federal-State-industry efforts, the United States has made 
+significant progress since the program’s inception in 1934.  As of July 
+2009, all 50 States achieved Class-Free State status (e.g., disease-free 
+status) in cattle.  However, unique challenges impede final eradication.  
+APHIS Veterinary Services (VS) recently developed a concept paper  
+Text Len: 1726
+--------------------------------------------------------------------------------
+ efforts, the United States has made 
+significant progress since the program’s inception in 1934.  As of July 
+2009, all 50 States achieved Class-Free State status (e.g., disease-free 
+status) in cattle.  However, unique challenges impede final eradication.  
+APHIS Veterinary Services (VS) recently developed a concept paper  
+                                                 
+1
+ USDOI National Park Service; USDA Animal and Plant Health Inspection Service; USDA Forest 
+Service [USFS]; Montana Department of Livestock; and Montana Fish, Wildlife and Parks.  
+ 1  
+(74 Federal Register 51115-51116, October 5, 2009), describing a plan for 
+the program that focuses on using a more adaptable science-based 
+approach that is both effective and timely and that addresses the unique 
+challenges.  One component of the plan that addresses the unique 
+challenge posed by the presence of brucellosis in wildlife is to enhance 
+efforts to mitigate disease transmission between wildlife and livestock.   
+ 
+APHIS VS has partnered with wildlife agencies and other entities to 
+develop risk mitigation strategies to prevent the further spread of 
+brucellosis and to enhance efforts to eliminate B. abortus in the United 
+States.  The IBMP partners work together, as outlined in the IBMP 
+memorandum of understanding, to mitigate the risk of disease 
+transmission by brucellosis-infected bison in the Greater Yellowstone 
+Area (GYA).  Continued collaborations are needed to develop effective 
+strategies to determine the location and range of bru
+Text Len: 1535
+--------------------------------------------------------------------------------
+ in the United 
+States.  The IBMP partners work together, as outlined in the IBMP 
+memorandum of understanding, to mitigate the risk of disease 
+transmission by brucellosis-infected bison in the Greater Yellowstone 
+Area (GYA).  Continued collaborations are needed to develop effective 
+strategies to determine the location and range of brucellosis-affected 
+wildlife, reduce the prevalence of disease in wildlife, and mitigate the 
+potential risks of disease transmission between wildlife and cattle.  
+Potential strategies include partnering with State and Federal wildlife 
+agencies to conduct wildlife surveillance in areas with brucellosis-affected 
+livestock, supporting research to find tools (e.g., vaccination and 
+contraceptives) and strategies (e.g., adaptive management) to reduce the 
+prevalence of brucellosis in wildlife, and instituting those strategies as 
+appropriate. 
+ 
+USDA’s APHIS VS is interested in investigating the potential of venereal 
+exposure as a mode of transmission of brucellosis by YNP bison bulls.  It 
+is known that bison bulls shed Brucella in their semen (Robison et al., 
+1998; Olsen et al., 1999).  However, the potential for transmission of 
+brucellosis via the venereal route is not known.  We do know that 
+brucellosis can be transmitted by direct contact with infected animals or 
+within an environment that has been contaminated with discharges from 
+infected animals.  In infected animals, seminal fluids, aborted fetuses, 
+placental membranes or fluids and other vaginal discharges from post-
+calving or abortion events may be contaminated with infectious Brucella 
+organisms. 
+ 
+Determining the potential for venereal
+Text Len: 1666
+--------------------------------------------------------------------------------
+ animals or 
+within an environment that has been contaminated with discharges from 
+infected animals.  In infected animals, seminal fluids, aborted fetuses, 
+placental membranes or fluids and other vaginal discharges from post-
+calving or abortion events may be contaminated with infectious Brucella 
+organisms. 
+ 
+Determining the potential for venereal transmission of brucellosis by YNP 
+bison bulls would assist in developing effective adaptive management 
+strategies that could be included in IBMP operating procedures.  Under the 
+current IBMP adaptive management strategy, allowing bison bulls access 
+to public lands in Montana year-round is desired and will be evaluated as 
+part of the expansion of bison habitat.  This expansion of habitat would 
+put bison bulls in closer proximity and potentially increase the opportunity 
+for commingling with cattle grazing in the area.  Understanding the 
+potential for shedding of B. abortus in the semen of bison bulls is vital to 
+assessing the appropriateness of this adaptive management strategy.  The 
+ 2  
+proposed action, a proposed two-phase study described in more detail in 
+the Proposed Action section (II.B.), would consist of temporarily 
+immobilizing mature bison bulls in limited areas outside of the YNP and 
+collecting their semen and blood samples for testing.  People other than 
+those involved in this proposed study would not likely be present, and 
+environmental impacts would be avoided or minimized. 
+ 
+According to the APHIS’ National Environmental Policy Act (NEPA) 
+implementing procedures (7 CFR part 372), this proposed action is 
+classified as one for which an environmental assessment (EA) is 
+appropriate because it is part of the “Development of program plans that 
+seek to
+Text Len: 1755
+--------------------------------------------------------------------------------
+
+environmental impacts would be avoided or minimized. 
+ 
+According to the APHIS’ National Environmental Policy Act (NEPA) 
+implementing procedures (7 CFR part 372), this proposed action is 
+classified as one for which an environmental assessment (EA) is 
+appropriate because it is part of the “Development of program plans that 
+seek to adopt strategies, methods, and techniques as the means of dealing 
+with particular animal and plant health risks that may arise in the future,” 
+is part of the “Implementation of program plans at the site-specific, action 
+level,” and is “Research or testing that will be conducted outside of a 
+laboratory or other containment area.” [7 CFR § 372.5(b)(1)(i), (ii) and 
+(5)(i)].  Recognizing the substantial interest regarding brucellosis in bison 
+in the YNP and bison management activities in the GYA, APHIS has 
+prepared this EA.   
+ 
+B. Purpose of and Need for the Proposed Action 
+ 
+The purpose of the proposed action is to conduct a two-phase study to 
+evaluate the potential shedding of Brucella abortus in the semen of bison 
+bulls from the YNP and to assess the potential for venereal transmission of 
+brucellosis by infected bison bulls.  The overall goal of the proposed two-
+phase study is twofold:  1) to ascertain data and information essential to 
+scientific and epidemiologically sound decision-making regarding bison 
+management activities and adaptive management strategies such as habitat 
+access, and 2) to facilitate the understanding of the potential role of 
+brucellosis-infected bison bulls in venereal transmission of brucellosis
+Text Len: 1591
+--------------------------------------------------------------------------------
+-
+phase study is twofold:  1) to ascertain data and information essential to 
+scientific and epidemiologically sound decision-making regarding bison 
+management activities and adaptive management strategies such as habitat 
+access, and 2) to facilitate the understanding of the potential role of 
+brucellosis-infected bison bulls in venereal transmission of brucellosis.  
+Evaluation of these issues would further efforts to improve the health of 
+the wild, free-ranging bison population in the GYA and enhance the 
+quality of the environment in the GYA.  Data and information garnered 
+from this proposed study would be useful for efforts to reduce the 
+potential risk of brucellosis transmission between bison and cattle while 
+conserving the free-ranging nature of the YNP bison population. 
+ 
+The need for Phase 1 of the proposed study is to collect samples to 
+evaluate the semen from mature Yellowstone bison bulls for shedding of 
+B. abortus, in order to determine if infective doses of B. abortus are shed 
+in the semen, and to determine if semen quality is affected by B. abortus 
+infection.  This information is needed to determine and implement 
+appropriate strategies and adaptive management practices such as habitat 
+expansion while assuring mitigation of the risk of disease transmission to 
+cattle grazing in the area.  In addition, activities conducted in Phase 1 of 
+ 3  
+the proposed study would provide for validation of the sample collection 
+and evaluation procedures as the same collection and evaluation 
+procedures would be used in Phase 2 of the proposed study. 
+ 
+The need for Phase 2 of the proposed study is to assess the role of bison 
+bulls in venereal transmission of brucellosis.  This assessment is needed to 
+provide
+Text Len: 1751
+--------------------------------------------------------------------------------
+ would provide for validation of the sample collection 
+and evaluation procedures as the same collection and evaluation 
+procedures would be used in Phase 2 of the proposed study. 
+ 
+The need for Phase 2 of the proposed study is to assess the role of bison 
+bulls in venereal transmission of brucellosis.  This assessment is needed to 
+provide information essential to developing appropriate and effective 
+disease management and elimination strategies.  Proposals to eliminate 
+brucellosis from Yellowstone bison using nonlethal strategies currently 
+focus on ways of eliminating the shedding of the disease organism by 
+bison cows at calving (Miller, et al., 2004).  If venereal transmission by 
+bison bulls contributes to the spread of brucellosis within the YNP bison 
+population and possibly to cattle outside the YNP, further development 
+and implementation of mitigation strategies that include bison bulls may 
+be warranted.  Information garnered from this proposed study would be 
+valuable to YNP’s bison vaccination strategy.  Conversely, if venereal 
+transmission by bison bulls does not contribute to the spread of 
+brucellosis, then resources and activities focused on limiting bison bull 
+activities might not be warranted or could be modified to maximize risk 
+mitigation activities. 
+ 
+Overall, this proposed study would provide information regarding the 
+shedding of Brucella by mature bison bulls and allow for the assessment 
+of the potential risk of disease transmission between bison bulls and cattle 
+in the same proximity.  The proposed study would help determine the 
+level of shedding of Brucella during the non-rut season (Phase 1 of the 
+proposed study) as compared to the rut season (Phase 2 of the proposed 
+study).  Data would be
+Text Len: 1759
+--------------------------------------------------------------------------------
+ the assessment 
+of the potential risk of disease transmission between bison bulls and cattle 
+in the same proximity.  The proposed study would help determine the 
+level of shedding of Brucella during the non-rut season (Phase 1 of the 
+proposed study) as compared to the rut season (Phase 2 of the proposed 
+study).  Data would be garnered on the prevalence of shedding of Brucella 
+by mature bison bulls from the YNP.  In addition, the proposed study 
+would more specifically evaluate levels of shedding of Brucella and the 
+subsequent impact on semen quality, viability, and infectivity.  This 
+information would be useful for assessing the brucellosis status of the 
+YNP bison breeding population.  Mitigating transmission of brucellosis 
+within the YNP bison population would further the long-term goal of 
+conserving a wild, disease-free, bison population which in turn would 
+restore and enhance the quality of the environment. 
+ II. Proposed Action and Alternatives 
+ 
+A. No Action (the Current Situation)  
+ 
+The No Action alternative would result in no proposed study.  The 
+purpose of the proposed study is to better understand the potential risk for 
+disease transmission by brucellosis-infected bison bulls from the YNP and 
+assess the potential impact of this risk on adaptive management strategies.  
+ 4  
+Without this proposed study, managers would continue to follow the 
+current “no tolerance” strategy of bison bulls outside the Park during 
+designated times of the year.  The “no tolerance” strategy is predicated on 
+the assumption that brucellosis-infected bison bulls pose a risk of disease 
+transmission.  Without this proposed study,
+Text Len: 1658
+--------------------------------------------------------------------------------
+ this proposed study, managers would continue to follow the 
+current “no tolerance” strategy of bison bulls outside the Park during 
+designated times of the year.  The “no tolerance” strategy is predicated on 
+the assumption that brucellosis-infected bison bulls pose a risk of disease 
+transmission.  Without this proposed study, information to quantify and 
+assess this potential risk of disease transmission would not be collected.  
+Data and information to assess the potential for venereal transmission of 
+disease by brucellosis-infected bison bulls would not be ascertained as 
+well. 
+ 
+B. Proposed Action 
+ 
+The proposed action is a two-phase study designed to address shedding of 
+B. abortus in the semen of bison bulls that have migrated out of the YNP 
+in the winter and spring and to investigate the potential for venereal 
+transmission of disease by brucellosis-infected bison bulls in the GYA.  
+Each phase of the proposed study would be conducted under the 
+appropriate permits for the study locations. 
+ 
+Phase 1 of the proposed study would be conducted under a Montana Fish, 
+Wildlife and Parks (MFWP) Research and Technical Services Animal 
+Care and Use Committee permit with MFWP assistance.  MFWP has the 
+jurisdiction to capture wildlife on the Forest Service (USFS) lands in 
+Montana where Phase 1 of the proposed study would be conducted.  Phase 
+1 would be conducted on USFS public lands in the IBMP Zone 2 area on 
+the west side of the YNP, where IBMP bison management activities 
+routinely occur each spring, and in the Eagle Creek/Bear Creek Special 
+Management Area on the north side of
+Text Len: 1614
+--------------------------------------------------------------------------------
+ 
+Montana where Phase 1 of the proposed study would be conducted.  Phase 
+1 would be conducted on USFS public lands in the IBMP Zone 2 area on 
+the west side of the YNP, where IBMP bison management activities 
+routinely occur each spring, and in the Eagle Creek/Bear Creek Special 
+Management Area on the north side of the YNP, where bison are allowed 
+year-round2.  Phase 1 would occur in April/May 2010 when bison bulls 
+are normally present in the IBMP Zone 2 areas.  Field activities to 
+accomplish Phase 1 of the proposed study would be conducted daily as 
+bison bulls become available in the proposed study areas during the 
+months of April and May until hazing of bison begins on or about May 15, 
+2010.  The IBMP Zone 2 field locations used in Phase 1 of the proposed 
+study would be accessed in accordance with Gallatin National Forest 
+Service travel plans.  If migration of bison bulls out of the YNP in 
+April/May 2010 to either location is limited in number, it may be 
+necessary to conduct the proposed Phase 1 study activities again in 2011, 
+perhaps as early as February 15, in order to collect the statistically 
+determined number of samples needed.   
+ 
+The location for Phase 2 of the proposed study has yet to be determined.  
+Details of Phase 2 of the proposed study would be finalized based on the 
+successful completion of Phase 1 of the proposed study.  Given that the 
+                                                 
+2
+ For maps of these areas, see http
+Text Len: 1480
+--------------------------------------------------------------------------------
+ on the 
+successful completion of Phase 1 of the proposed study.  Given that the 
+                                                 
+2
+ For maps of these areas, see http://ibmp.info/Library/2%20-%20State%20ROD3%20-%20Maps.pdf 
+.  
+ 5  
+goal of Phase 2 of the proposed study is to assess the potential for venereal 
+transmission of disease by brucellosis-infected bison bulls, Phase 2 of the 
+proposed study would be conducted during or as close as possible to the 
+rut season in September/October 2012.  Once a location is determined for 
+Phase 2 of the proposed study, this EA would be supplemented to reflect a 
+NEPA review of applicable issues. 
+ 
+A statistical analysis determined that samples from 50 individual bison 
+bulls would be needed for each Phase of the proposed study.  This analysis 
+is based on the assumption that the population of bison bulls in the YNP is 
+approximately 1,500 and that 20% of the seropositive bison bulls in the 
+YNP would be shedding B. abortus in their semen.  This sample size 
+assures a 99% confidence of finding at least one bull shedding B. abortus 
+and provides for adequate evaluation of semen quality. 
+ 
+The proposed study would include the following activities: 
+ Temporarily immobilizing the bison bulls, 
+ Collecting blood and semen samples from them, and 
+ Testing and evaluating those blood and semen samples. 
+ 
+Capture
+Text Len: 1374
+--------------------------------------------------------------------------------
+ one bull shedding B. abortus 
+and provides for adequate evaluation of semen quality. 
+ 
+The proposed study would include the following activities: 
+ Temporarily immobilizing the bison bulls, 
+ Collecting blood and semen samples from them, and 
+ Testing and evaluating those blood and semen samples. 
+ 
+Capture and temporary immobilization of the bison bulls would be 
+accomplished using established safe chemical immobilization and 
+recovery techniques for bison to ensure the health and safety of the bison 
+and study personnel.  Veterinary oversight for animal care and handling, 
+immobilization, and sample collection would be provided during the 
+proposed study activities.  Wildlife biologists trained and experienced in 
+the capture and handling of bison would also be participating in the 
+proposed study activities.  Chemical immobilization would be 
+administered via darting from the ground by qualified individuals.  It is 
+expected that the bison would be chemically immobilized and restrained 
+for no more than 20 minutes and would be appropriately monitored 
+throughout this time.  After the study samples are collected and the 
+identification tags applied, the chemical immobilization would be reversed 
+and the bison would be observed to assure a full recovery.   
+ 
+Collection of blood and semen samples and application of identification 
+tags would be performed by the veterinarians and wildlife biologists.  
+Blood samples would be collected using safe venipuncture techniques, and 
+semen samples would be obtained using established standard bull semen 
+collection techniques.  Each bison bull would be fitted with an eartag and 
+marked with a non-permanent visual marker.  The eartag would identify 
+the animal as having received a controlled substance and would provide a 
+phone number to call should
+Text Len: 1824
+--------------------------------------------------------------------------------
+ using safe venipuncture techniques, and 
+semen samples would be obtained using established standard bull semen 
+collection techniques.  Each bison bull would be fitted with an eartag and 
+marked with a non-permanent visual marker.  The eartag would identify 
+the animal as having received a controlled substance and would provide a 
+phone number to call should the animal be harvested during a native hunt 
+or the Montana bison hunting season.  The same techniques for sample 
+collection would be used in both Phases of the proposed study. 
+ 
+ 6  
+Testing and evaluation of the blood samples collected from the bison bulls 
+in this proposed study would be performed in the laboratory.  The semen 
+samples collected from the bison bulls in this proposed study would be 
+evaluated in the field for semen quality and sent to the laboratory for 
+additional testing. 
+ 
+C. Other Possible Alternatives to Proposed Action 
+ 
+APHIS is exploring and considering potential feasible locations for Phase 
+2 of the proposed study.  APHIS is open to partnering with appropriate 
+land and wildlife management agencies to conduct Phase 2 of the 
+proposed study; however, no agreements are in place at this time. 
+ 
+D. Other Alternatives Considered but Dismissed 
+ from Further Consideration 
+ 
+APHIS VS considered the alternative of conducting Phase 1 of the 
+proposed study in conjunction with other bison management activities.  
+One such activity might be if and when bison bulls are captured during 
+IBMP activities related to testing and shipping to slaughter.  However, 
+capturing, testing, and shipping bison to slaughter varies from year to year.  
+The numbers of bison bulls available during the aforementioned bison 
+management activities could be limited and might not provide
+Text Len: 1772
+--------------------------------------------------------------------------------
+ activities.  
+One such activity might be if and when bison bulls are captured during 
+IBMP activities related to testing and shipping to slaughter.  However, 
+capturing, testing, and shipping bison to slaughter varies from year to year.  
+The numbers of bison bulls available during the aforementioned bison 
+management activities could be limited and might not provide for the 
+statistically determined number of samples needed for the proposed study.  
+In addition, bison bulls of the age group needed for this proposed study are 
+not easily handled in the trapping facilities and pose a greater safety risk 
+both to proposed study personnel and to the bison bulls themselves.  
+Capture activities occur at a time of year when the bison bulls are further 
+from their rut, thus precluding their use in Phase 2 of the proposed study.  
+Therefore, this alternative has been dismissed from further consideration. 
+ 
+APHIS VS also considered the alternative to conduct Phase 1 of the 
+proposed study during other times of the year.  This alternative was 
+dismissed from further consideration because bison bulls are not tolerated 
+outside the YNP during other times of the year.  
+ 
+ 
+III. Potential Environmental Impacts 
+ 
+The NEPA implementing regulations provide criteria that Federal agencies 
+should evaluate, if applicable, in environmental documents for proposed 
+actions.  This section of the EA addresses the applicable criteria related to 
+potential impacts from the No Action alternative and from the proposed 
+action.  NEPA criteria that are applicable for consideration in this section 
+ 7  
+of the document include animal impacts, human health and safety, and the 
+physical environment.  
+ 
+A. No Action 
+ 
+Without the proposed action, efforts to gather scientific information to 
+better understand the potential
+Text Len: 1825
+--------------------------------------------------------------------------------
+ from the No Action alternative and from the proposed 
+action.  NEPA criteria that are applicable for consideration in this section 
+ 7  
+of the document include animal impacts, human health and safety, and the 
+physical environment.  
+ 
+A. No Action 
+ 
+Without the proposed action, efforts to gather scientific information to 
+better understand the potential risk for disease transmission by brucellosis-
+infected bison bulls in the GYA would be hindered.  The opportunity to 
+further evaluate the merits of adaptive management strategies which 
+currently limit bison habitat in order to mitigate the risk of disease 
+transmission to cattle would be lost, as would be the consideration of 
+expanding bison habitat.  Without the proposed action to assist in 
+developing strategies to effectively control and eliminate brucellosis, the 
+disease may continue to spread within the wild, free-ranging bison 
+population in the GYA.   
+ 
+B. Proposed Action 
+ 
+Brucellosis is a serious disease of livestock and wildlife that has 
+significant animal health, public health, and international trade 
+consequences.  Brucellosis is a contagious disease, caused by bacteria of 
+the genus Brucella, which affects both animals and humans.  Brucella 
+abortus mainly affects cattle, bison, and swine; however, other species of 
+animals and humans are susceptible as well.  In cattle and bison, the 
+disease localizes in the lymph nodes and in the reproductive organs and/or 
+the udder, causing spontaneous abortions in dams or birth of weak 
+offspring, as well as systemic effects in both males and females.  
+Infertility, decreased milk production, weight loss, and lameness may also 
+be associated with
+Text Len: 1687
+--------------------------------------------------------------------------------
+ cattle and bison, the 
+disease localizes in the lymph nodes and in the reproductive organs and/or 
+the udder, causing spontaneous abortions in dams or birth of weak 
+offspring, as well as systemic effects in both males and females.  
+Infertility, decreased milk production, weight loss, and lameness may also 
+be associated with brucellosis infection.  There is no effective means of 
+treating brucellosis in livestock and wildlife.  In humans, brucellosis, often 
+called undulant fever, causes generalized musculoskeletal malaise, flu-like 
+symptoms, and pain and fatigue.  The symptoms can last for years and 
+may develop into a variety of chronic conditions.  Humans can be treated 
+for brucellosis with a rigorous course of antibiotic therapy. 
+ 
+1. Animal Impacts   
+ 
+a. Bison Bulls 
+ 
+The proposed study involves temporarily immobilizing and restraining 
+bison bulls.  The objective for the immobilization and handling of the 
+individual bison is to collect semen and blood samples to determine the 
+brucellosis status of the animal and to evaluate the possible shedding of   
+B. abortus in the semen of infected bulls.  This information will be used to 
+consider expansion of bison habitat outside the YNP and to assess the 
+potential for venereal transmission of brucellosis by bison bulls.   
+ 8  
+Ensuring humane handling and treatment of the bison bulls during the 
+proposed study activities is a priority.  The activities would be conducted 
+as quickly and efficiently as possible and in a manner that would prevent 
+undue stress, trauma, injury, or any unnecessary discomfort to the animal.   
+Bison bulls would
+Text Len: 1626
+--------------------------------------------------------------------------------
+.   
+ 8  
+Ensuring humane handling and treatment of the bison bulls during the 
+proposed study activities is a priority.  The activities would be conducted 
+as quickly and efficiently as possible and in a manner that would prevent 
+undue stress, trauma, injury, or any unnecessary discomfort to the animal.   
+Bison bulls would be immobilized only at locations that are safe for the 
+bison and the proposed study personnel.  Veterinary oversight for animal 
+care and handling, immobilization, and sample collection would be 
+provided during the proposed study activities.  Wildlife biologists trained 
+and experienced in the capture and handling of bison would also be 
+participating in the proposed study activities.  
+ 
+The bison bulls would be temporarily immobilized via darting from the 
+ground, using the standard administration protocol of FDA-approved 
+anesthetic and analgesic drugs conventionally used in wildlife 
+management activities.  Blood samples would be collected via 
+venipuncture technique, and semen samples would be obtained using 
+established standard bull semen collection techniques.  Once the proposed 
+study samples were collected, the chemical immobilization drug would be 
+reversed, allowing each animal to recover within minutes of 
+administration.   
+ 
+Given the analgesic nature of the chemical immobilization compounds, it 
+is anticipated that the bison bulls would not experience negative impacts 
+during the collection of study samples.  It is expected that they would be 
+immobilized and restrained for no more than 20 minutes.  Their vital signs 
+would be monitored throughout the sampling procedures and initial 
+recovery phase.  Every precaution would be taken to prevent 
+immobilization and handling-related trauma, injuries, or death to the 
+bison.  The standard chemical immobilization protocol that would
+Text Len: 1847
+--------------------------------------------------------------------------------
+ expected that they would be 
+immobilized and restrained for no more than 20 minutes.  Their vital signs 
+would be monitored throughout the sampling procedures and initial 
+recovery phase.  Every precaution would be taken to prevent 
+immobilization and handling-related trauma, injuries, or death to the 
+bison.  The standard chemical immobilization protocol that would be used 
+in this proposed study does not have long-term physical or physiological 
+effects.  The bison bulls would be observed for as long as they are visible 
+after recovery.  No harmful or negative impacts to the bison bulls are 
+expected due to the proposed action.  
+ 
+b. Non-Target Species 
+ 
+Some non-target species may be temporarily impacted while activities 
+associated with this proposed study are occurring.  However, the proposed 
+study activities would occur for brief periods of time only on days when 
+bison bulls are present in the proposed study area.  The temporary impacts 
+that might occur to non-target species during the proposed study activities 
+are the same in nature as temporary impacts associated with IBMP 
+activities and were analyzed in the “Bison Management Plan 
+Environmental Imapct Statement” (BMP EIS) (USDOI and USDA, 2000).  
+These types of activities were determined to be not likely to adversely 
+affect non-target species.   
+ 9  
+ 
+Immobilized bison bulls would be monitored as they return to their 
+environment.  If circumstances should indicate the need to euthanize a 
+bison bull that has been chemically immobilized as part of the proposed 
+study activities, the carcass would be removed and incinerated or buried in 
+a secure landfill.  Therefore, chemical immobilization of bison bulls is not 
+
+Text Len: 1712
+--------------------------------------------------------------------------------
+ bison bulls would be monitored as they return to their 
+environment.  If circumstances should indicate the need to euthanize a 
+bison bull that has been chemically immobilized as part of the proposed 
+study activities, the carcass would be removed and incinerated or buried in 
+a secure landfill.  Therefore, chemical immobilization of bison bulls is not 
+likely to adversely affect non-target species, including predators and 
+scavengers.   
+ 
+2. Human Health and Safety  
+ 
+a. The General Public 
+ 
+Brucellosis is a zoonotic disease that can infect people, causing undulant 
+fever.  Symptoms include intermittent fever, chills, night sweats, body and 
+joint pain, poor appetite, and weakness.  The general public would be at no 
+risk of contracting the disease from bison as a result of the study activities.  
+ 
+b. Hunters  
+ 
+Generally, hunting does not occur during the time of year that Phase 1 of 
+the study is planned.  However, U.S. treaties with some Native American 
+groups allow hunting without restrictions for time of year and number of 
+bison taken.  Phase 1 study activities would be carried out in areas where 
+Native American groups could hunt according to treaties.  If hunting 
+activities by these groups are still occurring during the study timeframe, 
+APHIS would ensure communications with Native American group 
+officials about the study activities on mature bison bulls.  In addition, 
+APHIS would fit the study bulls with eartags, identifying them as having 
+been administered controlled substances.  A 45-day withdrawal period is 
+required after use of the drugs before the bison meat could be consumed.  
+Should one of the study bison be harvested,
+Text Len: 1677
+--------------------------------------------------------------------------------
+
+officials about the study activities on mature bison bulls.  In addition, 
+APHIS would fit the study bulls with eartags, identifying them as having 
+been administered controlled substances.  A 45-day withdrawal period is 
+required after use of the drugs before the bison meat could be consumed.  
+Should one of the study bison be harvested, the eartag would provide a 
+telephone number for the hunter to call for information to determine when 
+the animal was administered the drugs. 
+ 
+c. Other Potential Land Users   
+ 
+During the time and in the Zone 2 locations proposed for the study, USFS 
+does not allow recreational activities on USFS land because of IBMP 
+operational activities.  Therefore, no change in impacts would occur to 
+land use by recreationists during this time of year as a result of the study 
+activities.  
+ 
+ 
+ 
+ 
+ 
+ 10  
+d. Worker Safety/Occupational Safety 
+ 
+The study team would follow a protocol that includes operational safety 
+considerations for ensuring the health and safety of the team members.  At 
+least one cell phone would be available for all communications outside of 
+the team.  Study personnel would notify USFS authorities in advance of 
+any planned bison capture and immobilization activities.  
+ 
+Bison would be captured in locations that are safe for both bison and the 
+study team members.  One person on the team would be responsible for 
+monitoring other nearby bison to alert the team of any dangerous behavior.  
+As grizzly bears are known to frequent the proposed study areas and could  
+be active during Phase 1 of the study, the study team would be alert for 
+bears in the area and would carry bear spray at
+Text Len: 1662
+--------------------------------------------------------------------------------
+study team members.  One person on the team would be responsible for 
+monitoring other nearby bison to alert the team of any dangerous behavior.  
+As grizzly bears are known to frequent the proposed study areas and could  
+be active during Phase 1 of the study, the study team would be alert for 
+bears in the area and would carry bear spray at all times.   
+ 
+As it is unknown as to whether the bison bulls may be infected with 
+brucellosis, all personnel handling bison would wear protective gloves and 
+take precautions to prevent direct contact with fluid samples drawn.  The 
+study team would also carry disinfectant to thoroughly clean/wash if 
+needed. 
+ 
+Personnel who would be involved in the study activities have a variety of 
+expertise and experience needed to carry out the study activities, including 
+wildlife chemical immobilization using darting technique, proficiency in 
+darting, veterinary care, animal restraint, tagging and marking animals, 
+sample collection, and bison bull reproductive evaluation.   
+ 
+In the event of human exposure to the immobilization drugs, syringes with 
+appropriate levels of a reversal drug would be drawn up and available.  
+Drugs used for the study would be stored in a safe or lockable device in 
+transit and reversal drugs would be available during the study activities in 
+the field.  First aid kits would be available at all times.   
+ 
+3. Vegetation and Physical Environment  
+ 
+This section of the EA considers the potential impacts on components of 
+the physical environment, specifically vegetation, soil, and water.  
+ 
+a. Vegetation and Soil 
+ 
+The time of year the study activities would occur is the early to mid-spring 
+season when
+Text Len: 1695
+--------------------------------------------------------------------------------
+   
+ 
+3. Vegetation and Physical Environment  
+ 
+This section of the EA considers the potential impacts on components of 
+the physical environment, specifically vegetation, soil, and water.  
+ 
+a. Vegetation and Soil 
+ 
+The time of year the study activities would occur is the early to mid-spring 
+season when snow cover is possible.  Activities under the proposed study 
+that could impact vegetation and soil include physical access to USFS 
+land.  Other study activities, such as darting and drawing fluid samples, 
+are not likely to impact the physical environment.   
+ 
+ 11  
+APHIS, VS would be accessing USFS land in compliance with Gallatin 
+National Forest Travel Plans for access.  A combination of snow 
+machines, horses, vehicles and travel by foot would be used to access 
+Zone 2, as allowed according to the Travel Plans. In following the Travel 
+Plans, minimal disturbance to vegetation and soil on the ground surface 
+would occur from land access.  
+ 
+The use of darts to temporarily immobilize the bison bulls is not likely to 
+result in impacts to ground cover, vegetation, or soil.  Although it is 
+possible that a dart might not complete intramuscular penetration of the 
+bull or could miss the intended target, the study personnel doing the 
+darting would be sufficiently knowledgeable to handle the situation.  If a 
+dart were to miss the intended target, study team members would make 
+every effort to recover the dart.  Darts would be made to be easily 
+identifiable.  In the event a lost dart is not recovered, the study team would 
+document this occurrence and notify USFS with information relative to the 
+occurrence.   
+ 
+One scenario
+Text Len: 1660
+--------------------------------------------------------------------------------
+
+dart were to miss the intended target, study team members would make 
+every effort to recover the dart.  Darts would be made to be easily 
+identifiable.  In the event a lost dart is not recovered, the study team would 
+document this occurrence and notify USFS with information relative to the 
+occurrence.   
+ 
+One scenario considered is the dart imploding upon impact on the bison 
+bull and, for some reason, not successfully penetrating the animal and then 
+falling onto the ground.  Under this scenario, the anesthesia mixture (10 
+milligrams) would adsorb quickly into the snow (and then be diluted) or 
+into the soil (and then be adsorbed).  Since the amount of the drug would 
+be minute and would not be available for ingestion by wildlife (because of 
+being diluted into the snow and/or adsorbing into the soil), there would be 
+negligible impact on the environment.  
+ 
+b. Water 
+ 
+Bison would be captured in locations that are safe for both bison and staff.  
+Unsafe locations may include waterways, roads or other obstacles that 
+interfere with the immobilization of bison.  The study activities would not 
+directly impact water because they would be carried out on ground surface 
+away from water resources.  The types of activities involved would have 
+minimal, if any, impact to nearby water resources.   
+ 
+c. Recreational and Cultural Land Uses 
+ 
+(1) Recreational Land Use  
+ 
+During the timeframe and location for the proposed study activities, 
+recreational activities are restricted because of IBMP operational activities 
+that occur in Zone 2 at that time of year.  Therefore, no change would 
+occur to land
+Text Len: 1628
+--------------------------------------------------------------------------------
+   
+ 
+c. Recreational and Cultural Land Uses 
+ 
+(1) Recreational Land Use  
+ 
+During the timeframe and location for the proposed study activities, 
+recreational activities are restricted because of IBMP operational activities 
+that occur in Zone 2 at that time of year.  Therefore, no change would 
+occur to land use by recreationists during this time of year as a result of 
+the study activities.  Prior to carrying out the study activities, APHIS, VS 
+would communicate its intentions with USFS and public agencies that 
+ 12  
+carry out IBMP operational activities.  APHIS would continue to 
+communicate with these public agencies during the study timeframe in 
+order to ensure that the study activities do not conflict with or impede 
+IBMP activities.  
+ 
+(2) Native American Hunting Rights 
+  
+Three Native American groups (the Nez Perce Tribe, the Confederated 
+Salish and Kootenai Tribes, and the Shoshone-Bannock Tribes) have 
+reserved hunting rights in the public lands designated as Zone 2 in the 
+IBMP.  These USFS lands are termed “unoccupied lands of the United 
+States” in the treaties with these Native American groups.  The timing and 
+study area of Phase 1 activities may coincide with the hunting activities of 
+at least one of these tribes.  If Native American hunters are still hunting in 
+the study area at the time for Phase 1 study activities to begin, APHIS 
+would brief the tribal hunting authorities about the APHIS study activities 
+prior to starting them.  The briefing would include information about the 
+study protocol, the drugs that would be used for temporary 
+immobilization, drug withdrawal times, and the marking
+Text Len: 1648
+--------------------------------------------------------------------------------
+ are still hunting in 
+the study area at the time for Phase 1 study activities to begin, APHIS 
+would brief the tribal hunting authorities about the APHIS study activities 
+prior to starting them.  The briefing would include information about the 
+study protocol, the drugs that would be used for temporary 
+immobilization, drug withdrawal times, and the marking of immobilized 
+bison bulls. 
+ 
+IV. Other Environmental Review  Requirements  
+A. Endangered or Threatened Species 
+ 
+Section 7 of the Endangered Species Act (ESA) and ESA’s implementing 
+regulations require Federal agencies to ensure that their actions are not 
+likely to jeopardize the continued existence of endangered or threatened 
+species or result in the destruction or adverse modification of critical 
+habitat.  Therefore, the following section discusses the effect of the 
+proposed action and No Action alternatives on federally listed threatened 
+and endangered species in Gallatin and Park Counties in Montana. 
+Three federally listed threatened species occur in Gallatin County:  Ute 
+ladies’ tresses (Spiranthes diluvialis), grizzly bear (Ursus arctos 
+horribilis), and Canada lynx (Lynx canadensis) and its designated critical 
+habitat.  Only the grizzly bear and the Canada lynx and its critical habitat 
+occur in Park County.  APHIS has determined that the proposed bison bull 
+semen study would have no effect on these species or designated critical 
+habitat for the following reasons: 
+In Montana, Ute ladies’-tresses are found in the Middle Rockies-Blue 
+Mountains ecoregion (Fertig et al., 2005).  The proposed study area does 
+not occur in this e
+Text Len: 1631
+--------------------------------------------------------------------------------
+ proposed bison bull 
+semen study would have no effect on these species or designated critical 
+habitat for the following reasons: 
+In Montana, Ute ladies’-tresses are found in the Middle Rockies-Blue 
+Mountains ecoregion (Fertig et al., 2005).  The proposed study area does 
+not occur in this ecoregion.   
+ 13  
+Grizzly bears and Canada lynx may occur in the study area, but are 
+unlikely to be found in the open rangeland area where capture and 
+temporary immobilization of bison bulls would occur.   
+ 
+Primary constituent elements of Canada lynx critical habitat include boreal 
+forest landscapes supporting a mosaic of differing successional forest 
+stages and containing snowshoe hares, sites for denning, and other habitat 
+that lynx may travel through to access boreal forest (USDOI, 2009).  The 
+temporary activities of capture and immobilization would have no effect 
+on this habitat and would only occur in open rangeland that would be used 
+to access preferred sites.   
+ 
+B.  Bald Eagle and Gold en Eagle Protection Act  
+ 
+Although no longer a federally listed endangered or threatened species in 
+most areas of the United States, including Montana, the bald eagle is 
+protected by the Bald and Golden Eagle Protection Act and the Migratory 
+Bird Treaty Act.  Bald eagles are sensitive to human activities, such as 
+recreational activities and resource and urban development.  Although 
+bald eagles are sensitive to human activities, they do appear to acclimate 
+to some activities occurring at predictable frequencies, intensities, and 
+time limits.  In Montana and Wyoming, nest building starts in January and 
+
+Text Len: 1628
+--------------------------------------------------------------------------------
+ Act.  Bald eagles are sensitive to human activities, such as 
+recreational activities and resource and urban development.  Although 
+bald eagles are sensitive to human activities, they do appear to acclimate 
+to some activities occurring at predictable frequencies, intensities, and 
+time limits.  In Montana and Wyoming, nest building starts in January and 
+fledging of young ends in July.  Early in the season with nest building and 
+egg laying, they are most sensitive to human activity.  Depending on the 
+type of activity, U.S. Fish and Wildlife Service (FWS) guidelines 
+recommend buffers for different activities.  The buffers generally 
+suggested for eagles include a 330-foot buffer from nests during the 
+breeding season from any activities.  There have historically been bald 
+eagle nests in Zone 2 areas.  Prior to initiating sample collections APHIS 
+would confer with USFS to ensure that study activities do not interfere 
+with bald eagles in proposed study areas. 
+ 
+C. Historic and Cultural Resources 
+ 
+The activities described as the proposed action in this EA are within the 
+range of activities that were considered in the BMP, the IBMP supporting 
+analysis.  The proposed action is a research study that is associated with 
+adaptive management actions under the IBMP.  The types of activities 
+associated with the study would not affect historic sites.  Because the 
+proposed action would occur on USFS lands, APHIS confirmed with 
+USFS that the proposed action presents no concerns and no effects to 
+historic and cultural resources.   
+ 
+The BMP EIS addresses the importance of bison, including their 
+importance to the cultural landscapes and visual resources of the GYA.  
+ 14  
+Bison are a
+Text Len: 1716
+--------------------------------------------------------------------------------
+ occur on USFS lands, APHIS confirmed with 
+USFS that the proposed action presents no concerns and no effects to 
+historic and cultural resources.   
+ 
+The BMP EIS addresses the importance of bison, including their 
+importance to the cultural landscapes and visual resources of the GYA.  
+ 14  
+Bison are a cultural resource to many, including Native American tribes, 
+GYA residents, the American viewing public, and public agencies.   
+ 
+During bison management activities carried out by public agencies in 
+accordance with the BMP EIS, bison may be marked using a variety of 
+techniques, including ear tags, paper backtags, paint, peroxide, hair dye 
+stripes, and clipped hair.  Marking techniques vary by public agency, the 
+purpose, and location.  Markings during bison management activities 
+serve a purpose, e.g., to prevent testing a bison multiple times or to 
+indicate that a bison has tested negative for the Brucella organism.  Some 
+marking techniques are visible from 100 yards or farther.  Some markings 
+are temporary, such as those made with paint, and their duration can 
+depend on the weather conditions.  Temporary markings are often visible 
+until the bison shed their winter fur in the spring.  Although tags used to 
+identify bison during management activities are visually intrusive, they are 
+necessary to minimize the need to capture and handle the bison more than 
+once to determine its brucellosis status.  The BMP EIS addresses marking 
+and other bison identification techniques as actions that alter the historic 
+image of the bison and that would have a temporary, moderate impact on 
+the historic landscapes of the GYA.  The use of a non
+Text Len: 1668
+--------------------------------------------------------------------------------
+necessary to minimize the need to capture and handle the bison more than 
+once to determine its brucellosis status.  The BMP EIS addresses marking 
+and other bison identification techniques as actions that alter the historic 
+image of the bison and that would have a temporary, moderate impact on 
+the historic landscapes of the GYA.  The use of a non-permanent visual 
+marker and an ear tag during the proposed study activities would impact 
+bison in the same way. 
+ 
+Some activities associated with the proposed study, such as identifying a 
+bison with an ear tag and a non-permanent visual marker, are important 
+for the study but would impact the bison in an aesthetic manner.  Using 
+markers on bison bulls from the proposed study also serves the purpose of 
+identifying the bison for potential hunters, such as Native Americans who 
+have treaty rights to hunt during the study time period, who might 
+otherwise harvest and consume meat from a darted bison.  Although these 
+actions are not physically harmful to the bison, they may be temporarily 
+visually unappealing to the public.   
+ 
+ 
+V. Cumulative Impacts 
+ 
+This EA examines the activities associated with a proposed study to assess 
+the shedding and potential for venereal transmission of B. abortus by 
+bison bulls in the GYA.  Activities associated with the proposed study are 
+not expected to result in adverse cumulative effects. 
+ 
+Since Phase 1 of the proposed study would occur during the same time of 
+year as other IBMP activities, there could be a temporary secondary 
+impact to these activities.  However, the study group and IBMP partners 
+would be communicating with one another throughout this time regarding 
+on-going activities. 
+Text Len: 1710
+--------------------------------------------------------------------------------
+
+not expected to result in adverse cumulative effects. 
+ 
+Since Phase 1 of the proposed study would occur during the same time of 
+year as other IBMP activities, there could be a temporary secondary 
+impact to these activities.  However, the study group and IBMP partners 
+would be communicating with one another throughout this time regarding 
+on-going activities.  Spatial separation would be maintained should any 
+ 15  
+proposed study and IBMP activities occur simultaneously.  In addition, 
+based on previous field studies of bison involving immobilization, it is 
+anticipated that bison bulls may become sensitive to capture disturbance 
+and wary of the proposed study activities, thus avoiding these areas.  
+However, the study is of short duration; therefore, if this impact occurs, it 
+should also be short-lived.    
+ 
+One of the goals of the IBMP is to manage temporal and spatial separation 
+of bison and cattle to mitigate potential transmission of brucellosis.  
+Currently, this is accomplished through hazing, capture, test and slaughter 
+of sero-positive animals and vaccination of sero-negative animals, and a 
+limited hunt in Montana.  The proposed study may provide important 
+information that would allow for re-evaluation and re-consideration of 
+some of the current IBMP activities.  This may result in impacts to future 
+decision-making regarding protocols for bison habitat management, bison 
+vaccination strategies, and the bison hunt activities.  IBMP activities that 
+could be impacted include strategies to maintain appropriate bison 
+population and distribution should bison habitat be expanded. 
+ 
+ 
+VI. Agencies or Persons Contacted 
+ 
+U.S. Forest Service, Gallatin National Forest 
+ 
+Montana Fish, Wildlife
+Text Len: 1738
+--------------------------------------------------------------------------------
+ 
+vaccination strategies, and the bison hunt activities.  IBMP activities that 
+could be impacted include strategies to maintain appropriate bison 
+population and distribution should bison habitat be expanded. 
+ 
+ 
+VI. Agencies or Persons Contacted 
+ 
+U.S. Forest Service, Gallatin National Forest 
+ 
+Montana Fish, Wildlife and Parks 
+ 
+USDA, Animal and Plant Health Inspection Service, Veterinary Services 
+ 
+USDA, Animal and Plant Health Inspection Service, Policy and Program 
+Development, Environmental and Risk Analysis Services 
+ 
+ 
+VII. References 
+ 
+Cheville, N.F., McCullough, D.R., and Paulson, L.R., 1998.  Brucellosis 
+in the Greater Yellowstone Area.  National Research Council.  National 
+Academy Press.  Washington, D.C.  186pp. 
+ 
+Fertig, W., Black, R., and Wolken, P., 2005.  Range wide status review of 
+Ute ladies’-tresses (Spiranthes diluvialis).  Prepared for the U.S. Fish and 
+Wildlife Service and Central Utah Water Conservancy District.  
+30 September 2005.  101 pp. 
+ 
+Meyer, M.E., and Meagher, M., 1995.  Brucellosis in free-ranging bison 
+(Bison bison) in Yellowstone, Grand Teton, and Wood Buffalo National 
+ 16  
+ 17  
+Parks: A review.  (letter to the editor)  Journal of Wildlife Diseases.  
+31:579-598. 
+ 
+Miller, L.A., Rhyan, J., and Drew, M., 2004.  Contraception of bison by 
+
+Text Len: 1311
+--------------------------------------------------------------------------------
+ Yellowstone, Grand Teton, and Wood Buffalo National 
+ 16  
+ 17  
+Parks: A review.  (letter to the editor)  Journal of Wildlife Diseases.  
+31:579-598. 
+ 
+Miller, L.A., Rhyan, J., and Drew, M., 2004.  Contraception of bison by 
+GnRH Vaccine:  A possible means of decreasing transmission of 
+brucellosis in bison.  Journal of Wildlife Diseases. 40:725-30. 
+ 
+Olsen, S.C., Rhyan, J., Gidlewski, T., and Palmer, M.V., 1999. Biosafety 
+and antibody responses following vaccination of adult bison bulls with 
+Brucella abortus strain RB51. American Journal of Veterinary Research. 
+60: 905-908. 
+ 
+Robison, C.D., Davis, D.S., Templeton, J.W., Westhusin, M., Foxworth, 
+W.B., Gilsdorf, M.J., and Adams, L.G., 1998. Conservation of germ plasm 
+from bison infected with Brucella abortus. Journal of Wildlife Diseases 
+34: 582-589. 
+ 
+U.S. Department of Agriculture, Animal and Plant Health Inspection 
+Service, 2009.  Notice of availability of a bovine brucellosis program 
+concept paper [Docket No. APHIS-2009-0006]. 74 FR 191:51115-51116, 
+October 5.  
+ 
+United States Department of the Interior. 2009.  Endangered and 
+Threatened Wildlife and Plants:  Revised Designation of  
+Critical Habitat for the Contiguous United States Distinct Population  
+
+Text Len: 1243
+--------------------------------------------------------------------------------
+ paper [Docket No. APHIS-2009-0006]. 74 FR 191:51115-51116, 
+October 5.  
+ 
+United States Department of the Interior. 2009.  Endangered and 
+Threatened Wildlife and Plants:  Revised Designation of  
+Critical Habitat for the Contiguous United States Distinct Population  
+Segment of the Canada Lynx. Federal Register, Vol. 74, p. 8615-8702, 
+February 25, 2009. 
+ 
+U.S. Department of the Interior and U.S. Department of Agriculture, 2000.  
+Final Environmental Impact Statement for the Interagency Bison 
+Management Plan for the State of Montana and Yellowstone National 
+Park.  August 2000.   
+ 
+USDOI and USDA 2000—See U.S. Department of the Interior and U.S. 
+Department of Agriculture. 
+ 
+Text Len: 690
+--------------------------------------------------------------------------------

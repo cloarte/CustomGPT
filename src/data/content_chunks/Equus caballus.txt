@@ -1,0 +1,140 @@
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service  
+Veterinary Services  
+  
+USDA Import Testing of Horses 
+When horses are presented for import into the United States, they undergo testing for the following foreign animal diseases (FADs):  
+dourine, equine infectious anemia (EIA), equine piroplasmosis (EP), and glanders. The official tests for imported horses  are outlined 
+below and described in more detail in VS Guidance 13407. The USDA National Veterinary Services Laboratories  (NVSL) conducts and 
+analyzes all tests . Test results will classify a horse as negative, suspect, or positive for each disease . A horse must be classified as 
+negative for these FADs before they enter  the United States. The importer of record has the discretion to withdraw importation 
+resulting in refusal at any time during the testing process.  
+ Dourine: Complement Fixation Test (CFT) 
+Dourine is a venereal disease of horses caused by Trypanosoma equiperdum. CFT results can be positive, suspect, or negative. 
+If initial results are positive or suspect, USDA will immediately collect another sample for retesting. If the test results are again 
+positive or suspect, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day intervals. 
+Horses with n egative CFT results at any stage are classified as negative for import purposes . If results remain positive or 
+suspect, the horse will be refused entry with no option for retest.     
+ EIA: Agar Gel Immunodiffusion (AGID) 
+EIA is an acute or chronic viral disease of horses. AGID results are positive or negative;
+Text Len: 1636
+--------------------------------------------------------------------------------
+ at any stage are classified as negative for import purposes . If results remain positive or 
+suspect, the horse will be refused entry with no option for retest.     
+ EIA: Agar Gel Immunodiffusion (AGID) 
+EIA is an acute or chronic viral disease of horses. AGID results are positive or negative; there is no suspect result. If initial results 
+are positive, NVSL tests the same sample again to confirm the results as well as another sample collected immediately. If the 
+results are again positive , the horse will be refused entry. VS will only release horses with  negative results on two sequential 
+subsequent tests after an initial positive test. 
+ EP: CFT and Competitive Enzyme-linked Immunosorbent Assay (cELISA) 
+EP is a tick-borne disease caused by Babesia caballi or Theileria (Babesia) equi. USDA uses two tests for EP testing because the 
+cELISA targets chronic cases of EP  and CFT targets earlier infections. Tests results are positive or negative; there is no suspect 
+result. Both CFT and cELISA results must be negative to classify a horse  as negative for import purposes . Horses which test  
+positive for B. caballi on cELISA but are found negative using the Western blot confirmatory test are classified as negative for 
+B. caballi. If initial test results are non-negative, USDA will immediately collect another sample for retesting. If the test results 
+are again non -negative, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day 
+intervals. Horses with n egative results at any stage are classified as negative for import purposes . If results remain non -
+negative, the horse will be refused entry
+Text Len: 1670
+--------------------------------------------------------------------------------
+ will immediately collect another sample for retesting. If the test results 
+are again non -negative, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day 
+intervals. Horses with n egative results at any stage are classified as negative for import purposes . If results remain non -
+negative, the horse will be refused entry with no option for retest. 
+ Glanders: Double Antigen ELISA (daELISA) 
+Glanders is a highly contagious bacterial disease caused by Burkholderia mallei. Test results are positive or negative; there is 
+no suspect result. If  initial daELISA results are positive, NVSL will conduct the Western blot confirmatory test . Horses with 
+negative Western blot results are classified as negative for import purposes. Otherwise, USDA will immediately collect another 
+sample for retesting. If the test results are again non -negative, the horse may be held in quarantine for up to 28 days and 
+retested up to twice more at 14 -day intervals. Horses with n egative results at any stage are classified as negative for import 
+purposes. If results remain positive, the horse will be refused entry with no option for retest.     
+Anticomplementary results: Anticomplementary samples produce no valid, readable result on CFT. When CFT results for dourine 
+and EP are anticomplementary, NVSL performs supplemental testing using  immunofluorescence assays. 
+Cohort animals: Animals in the same shipment as a horse classified as positive or suspect on import testing may be  considered 
+cohorts, depending upon t he FAD of concern . Cohorts of a horse classified as positive for EIA will be refused entry. Cohorts for 
+dourine, EP, or g landers will
+Text Len: 1699
+--------------------------------------------------------------------------------
+ofluorescence assays. 
+Cohort animals: Animals in the same shipment as a horse classified as positive or suspect on import testing may be  considered 
+cohorts, depending upon t he FAD of concern . Cohorts of a horse classified as positive for EIA will be refused entry. Cohorts for 
+dourine, EP, or g landers will be held in quarantine for 14 days from initial blood collection and then retested. Cohorts may  be 
+released if all retest results are negative. If a cohort horse tests positive for glanders, the entire shipment will be refused.  
+The USDA equine import testing protocol is designed as a screening system to protect the health of the U.S. equine population, not to 
+establish clinical diagnostic conclusions on individual animals.  However, every non-negative test is treated as an accurate result (i.e., 
+a true non-negative).  A non-negative test may result in an extended quarantine period and / or refused entry into the United States . 
+Questions? 
+USDA APHIS VS Strategy & Policy, Live Animal Imports 
+Phone: (301) 851-3300, option 2; Email: LAIE@usda.gov 
+Text Len: 1076
+--------------------------------------------------------------------------------
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service  
+Veterinary Services  
+  
+USDA Import Testing of Horses 
+When horses are presented for import into the United States, they undergo testing for the following foreign animal diseases (FADs):  
+dourine, equine infectious anemia (EIA), equine piroplasmosis (EP), and glanders. The official tests for imported horses  are outlined 
+below and described in more detail in VS Guidance 13407. The USDA National Veterinary Services Laboratories  (NVSL) conducts and 
+analyzes all tests . Test results will classify a horse as negative, suspect, or positive for each disease . A horse must be classified as 
+negative for these FADs before they enter  the United States. The importer of record has the discretion to withdraw importation 
+resulting in refusal at any time during the testing process.  
+ Dourine: Complement Fixation Test (CFT) 
+Dourine is a venereal disease of horses caused by Trypanosoma equiperdum. CFT results can be positive, suspect, or negative. 
+If initial results are positive or suspect, USDA will immediately collect another sample for retesting. If the test results are again 
+positive or suspect, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day intervals. 
+Horses with n egative CFT results at any stage are classified as negative for import purposes . If results remain positive or 
+suspect, the horse will be refused entry with no option for retest.     
+ EIA: Agar Gel Immunodiffusion (AGID) 
+EIA is an acute or chronic viral disease of horses. AGID results are positive or negative;
+Text Len: 1636
+--------------------------------------------------------------------------------
+ at any stage are classified as negative for import purposes . If results remain positive or 
+suspect, the horse will be refused entry with no option for retest.     
+ EIA: Agar Gel Immunodiffusion (AGID) 
+EIA is an acute or chronic viral disease of horses. AGID results are positive or negative; there is no suspect result. If initial results 
+are positive, NVSL tests the same sample again to confirm the results as well as another sample collected immediately. If the 
+results are again positive , the horse will be refused entry. VS will only release horses with  negative results on two sequential 
+subsequent tests after an initial positive test. 
+ EP: CFT and Competitive Enzyme-linked Immunosorbent Assay (cELISA) 
+EP is a tick-borne disease caused by Babesia caballi or Theileria (Babesia) equi. USDA uses two tests for EP testing because the 
+cELISA targets chronic cases of EP  and CFT targets earlier infections. Tests results are positive or negative; there is no suspect 
+result. Both CFT and cELISA results must be negative to classify a horse  as negative for import purposes . Horses which test  
+positive for B. caballi on cELISA but are found negative using the Western blot confirmatory test are classified as negative for 
+B. caballi. If initial test results are non-negative, USDA will immediately collect another sample for retesting. If the test results 
+are again non -negative, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day 
+intervals. Horses with n egative results at any stage are classified as negative for import purposes . If results remain non -
+negative, the horse will be refused entry
+Text Len: 1670
+--------------------------------------------------------------------------------
+ will immediately collect another sample for retesting. If the test results 
+are again non -negative, the horse may be held in quarantine for up to 28 days and retested up to twice more at 14 -day 
+intervals. Horses with n egative results at any stage are classified as negative for import purposes . If results remain non -
+negative, the horse will be refused entry with no option for retest. 
+ Glanders: Double Antigen ELISA (daELISA) 
+Glanders is a highly contagious bacterial disease caused by Burkholderia mallei. Test results are positive or negative; there is 
+no suspect result. If  initial daELISA results are positive, NVSL will conduct the Western blot confirmatory test . Horses with 
+negative Western blot results are classified as negative for import purposes. Otherwise, USDA will immediately collect another 
+sample for retesting. If the test results are again non -negative, the horse may be held in quarantine for up to 28 days and 
+retested up to twice more at 14 -day intervals. Horses with n egative results at any stage are classified as negative for import 
+purposes. If results remain positive, the horse will be refused entry with no option for retest.     
+Anticomplementary results: Anticomplementary samples produce no valid, readable result on CFT. When CFT results for dourine 
+and EP are anticomplementary, NVSL performs supplemental testing using  immunofluorescence assays. 
+Cohort animals: Animals in the same shipment as a horse classified as positive or suspect on import testing may be  considered 
+cohorts, depending upon t he FAD of concern . Cohorts of a horse classified as positive for EIA will be refused entry. Cohorts for 
+dourine, EP, or g landers will
+Text Len: 1699
+--------------------------------------------------------------------------------
+ofluorescence assays. 
+Cohort animals: Animals in the same shipment as a horse classified as positive or suspect on import testing may be  considered 
+cohorts, depending upon t he FAD of concern . Cohorts of a horse classified as positive for EIA will be refused entry. Cohorts for 
+dourine, EP, or g landers will be held in quarantine for 14 days from initial blood collection and then retested. Cohorts may  be 
+released if all retest results are negative. If a cohort horse tests positive for glanders, the entire shipment will be refused.  
+The USDA equine import testing protocol is designed as a screening system to protect the health of the U.S. equine population, not to 
+establish clinical diagnostic conclusions on individual animals.  However, every non-negative test is treated as an accurate result (i.e., 
+a true non-negative).  A non-negative test may result in an extended quarantine period and / or refused entry into the United States . 
+Questions? 
+USDA APHIS VS Strategy & Policy, Live Animal Imports 
+Phone: (301) 851-3300, option 2; Email: LAIE@usda.gov 
+Text Len: 1076
+--------------------------------------------------------------------------------

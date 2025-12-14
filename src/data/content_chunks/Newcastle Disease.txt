@@ -1,0 +1,498 @@
+Page 1 of 4  
+Virulent Newcastle 
+Disease Virus Response  
+Surveillance Sampling Commercial 
+Premises in Surveillance Zone and 
+Free Area 
+ 
+Please note: These procedures may be revised as the situation develops.       June 5, 2018 
+   
+ DEFINITIONS 
+ 
+Infected Zone: Zone that immediately surrounds an Infected Premises.  
+ 
+Buffer Zone: Zone that immediately surrounds an Infected Zone or a Contact Premises.  
+Control Area: Consists of an Infected Zone and a Buffer Zone.  
+Surveillance Zone: Zone outside and along the border of a Control Area. The Surveillance Zone is 
+part of the Free Area.  
+Foreign Animal Disease Investigation: An investigation conducted according to VS Guidance 
+Document 12001 (Ready Reference Guide for investigations is here). 
+ 
+ 
+INTRODUCTION 
+ 
+An Infected Zone and Buffer Zone (Control Area) will be created around an Infected Premises. This 
+document provides surveillance guidance for commercial poultry
+1 premises outside a Control Area 
+in the Surveillance Zone. Surveillance activities and associated testing should be based on 
+recommendations of the Unified (State-Federal) Incident Command; this guidance may require 
+further modification based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous Newcastle disease outbreaks in poultry in the United States occurred in the States of 
+California (2002–2003), Nevada (2003), Arizona (2003), and Texas (2003). Virulent NDV is 
+endemic in wild cormorants and
+Text Len: 1654
+--------------------------------------------------------------------------------
+, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous Newcastle disease outbreaks in poultry in the United States occurred in the States of 
+California (2002–2003), Nevada (2003), Arizona (2003), and Texas (2003). Virulent NDV is 
+endemic in wild cormorants and non-virulent forms of ND are endemic in poultry. There are non-
+virulent strains of NDV endemic in poultry. This document reflects the epidemiological information 
+known about the behavior of vNDV from knowledge gained in the 2003–2004 U.S. outbreak.   
+ 
+COMMUNICATION 
+It is critical to ensure that disease information, as well as recommended biosecurity measures, is 
+clearly communicated to all commercial premises in a Surveillance Zone. APHIS and State/Tribal 
+                                                 
+1 For this document, poultry is defined as any domesticated bird raised for food or fiber; this excludes the poultry displayed in 
+a licensed exhibition or zoo.  
+
+Page 2 of 4  
+officials must ensure that instructions are provided to owners/producers to report clinical signs and 
+abnormal mortality. Transparent procedures should be used to manage reports of clinical signs or 
+unusual mortality from commercial producers (also known as sick bird calls). 
+ 
+VISITING PREMISES 
+While it is important to locate commercial poultry premises within a Surveillance Zone, responders 
+should not enter premises unless instructed to do so by the Incident Management Team (IMT). It is 
+critical to remember that any
+Text Len: 1561
+--------------------------------------------------------------------------------
+ to manage reports of clinical signs or 
+unusual mortality from commercial producers (also known as sick bird calls). 
+ 
+VISITING PREMISES 
+While it is important to locate commercial poultry premises within a Surveillance Zone, responders 
+should not enter premises unless instructed to do so by the Incident Management Team (IMT). It is 
+critical to remember that any real or perceived belief that responders are spreading disease is 
+incredibly detrimental to the response effort. As with any premises, if a visit is necessary, 
+responders should observe appropriate biosecurity and cleaning and disinfection measures and 
+follow all guidance provided by Incident Command.  
+ 
+SURVEILLANCE PLAN 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all times in the United States through foreign animal disease 
+investigations (per VS Guidance Document 12001). In the event of a foreign animal disease 
+detection, passive surveillance should be intensified through rapid and clear communication to all 
+producers in the Surveillance Zone, following IMT procedures. 
+ 
+Mortality threshold levels that signal the need for investigation have been established for the different 
+commercial poultry sectors. Commercial flocks that exceed the mortality thresholds listed below are 
+investigated and sampled as rapidly as possible for virulent ND. 
+ Commercial broilers: mortality exceeding 3.5 birds/1,000 per day. 
+ Commercial layers: mortality exceeding 3 times the normal daily mortality (normal: 
+0.13 birds/1,000 per day for layers from 2 to 50 weeks, and 0.43 birds/1,000 per day for 
+layers over 50 weeks); OR 5 percent drop in egg production for 3 consecutive days. 
+ Commercial turkeys: mortality exceeding 2 birds/1,000 per day. 
+ Broiler
+Text Len: 1756
+--------------------------------------------------------------------------------
+: 
+0.13 birds/1,000 per day for layers from 2 to 50 weeks, and 0.43 birds/1,000 per day for 
+layers over 50 weeks); OR 5 percent drop in egg production for 3 consecutive days. 
+ Commercial turkeys: mortality exceeding 2 birds/1,000 per day. 
+ Broiler breeders: mortality exceeding 2 birds/1,000 per day. 
+ Layer breeders: mortality exceeding 3 times the normal daily mortality (normal: 0.2 
+birds/1,000 per day up to 50 weeks, and 0.37 birds/1,000 per day after 50 weeks). 
+ Turkey breeders: mortality exceeding 2 birds/1,000 per day; OR a decrease in egg 
+production of 15 percent occurring over a 2-day period. 
+ Small-volume high-value commercial poultry flocks and other commercial flocks not listed 
+here: any sudden and significant mortality event or sudden drop in egg production should be 
+investigated. 
+ 
+At the State’s discretion, investigation and sampling of flocks that exceed the mortality thresholds can 
+be performed by a company veterinarian, a Foreign Animal Disease Diagnostician, or other IMT- 
+designated response personnel.  Schedule an appointment to collect samples as quickly as possible 
+and conduct sampling according to the recommended sampling scheme below. Submit samples to the 
+designated National Animal Health Laboratory Network (NAHLN) lab as indicated by the IMT. 
+ 
+Active Surveillance 
+ 
+In addition to passive surveillance, active surveillance is conducted to find cases and provide evidence 
+that the pathogen is not present. Active surveillance in commercial premises during an outbreak is 
+Page 3 of 4  
+composed of two components: response surveillance and surveillance for permitted movements
+Text Len: 1642
+--------------------------------------------------------------------------------
+ (NAHLN) lab as indicated by the IMT. 
+ 
+Active Surveillance 
+ 
+In addition to passive surveillance, active surveillance is conducted to find cases and provide evidence 
+that the pathogen is not present. Active surveillance in commercial premises during an outbreak is 
+Page 3 of 4  
+composed of two components: response surveillance and surveillance for permitted movements of 
+poultry and poultry products, referred to as pre-movement surveillance. This document describes 
+response surveillance activities only.   
+ 
+These strategies regarding sampling sizes and sampling frequencies pertain to commercial premises 
+located in the Surveillance Zone.  
+ 
+RECOMMENDED SAMPLING SCHEME 
+ 
+Premises Level 
+1. Select the appropriate number of premises to sample following guidance in Table 1 below.  
+Prioritize commercial premises that are closest to the presumptive or confirmed vND 
+premises. Sampling the indicated number of premises w ill result in 0.95 probability that at 
+least one positive premises will be detected if the prevalence of vNDV among additional 
+premises in the Surveillance Zone is 1 percent or greater.  
+2. Collect samples from each barn every 5-7 days for 28 days, or use similar sampling frequency 
+depending on the resources available and guidance provided by the IMT. 
+3. Continue sampling commercial premises every 28 days for 3 months after the last detected 
+vND premises2. 
+ 
+Bird Level 
+Select birds to sample as follows for detection of vNDV at a 10 percent prevalence with 0.95 
+probability of detection, and collect samples in line with the current version of Recommendations for 
+Collecting Specimens from Poultry for Viral Diagnostic Testing (WI-AV-0020 available here). 
+Prioritize sampling of sick and dead birds
+Text Len: 1751
+--------------------------------------------------------------------------------
+ 
+Select birds to sample as follows for detection of vNDV at a 10 percent prevalence with 0.95 
+probability of detection, and collect samples in line with the current version of Recommendations for 
+Collecting Specimens from Poultry for Viral Diagnostic Testing (WI-AV-0020 available here). 
+Prioritize sampling of sick and dead birds; conduct pooling per WI-AV-0020. Random sampling of 
+apparently healthy birds provides minimal detection benefit unless you are targeting poultry with a 
+high risk of exposure to vNDV. Oropharyngeal or tracheal swabs are preferred for gallinaceous 
+birds3 and cloacal swabs for domestic waterfowl. Do not combine swabs from different species or 
+different sampling routes. 
+ 
+1. Sample at least 30 sick and dead birds per barn using 5- or 11-swab pools. 
+a. If there are more than 30 sick and dead birds, sample an additional 5- or 11- swab 
+pool for each 50 sick and dead birds observed.    
+b. If there are less than 30 sick and dead birds, sample the apparently healthy birds 
+near doorways, vents, and any area with a high potential for exposure to vNDV to 
+obtain a total sample size of 30 birds. 
+2. Prepare, package, and process swabs for laboratory submission according to the guidance 
+found in the Veterinary Services Guidance Document 12001, which provides guidance for 
+the investigation of potential foreign animal disease/emerging disease incidents. VS 
+Guidance Document 12001 is available here.  
+ 
+ 
+ 
+ 
+ 
+                                
+Text Len: 1490
+--------------------------------------------------------------------------------
+ 12001, which provides guidance for 
+the investigation of potential foreign animal disease/emerging disease incidents. VS 
+Guidance Document 12001 is available here.  
+ 
+ 
+ 
+ 
+ 
+                                                 
+2 OIE 2017 Terrestrial Animal Health Code Chapter 10.9 Infection with Newcastle disease virus. 
+3 Gallinaceous birds include chickens, turkeys, pheasants, partridges, grouse, quail, guinea fowl, and peafowl.  
+ 
+Page 4 of 4  
+Table 1. Number of premises to be sampled in the Surveillance Zone if the total number of premises in 
+the Surveillance Zone cannot be visited.* 
+No. of Premises  
+ 
+Minimum No. of Premises 
+to be Sampled for 1% prevalence 
+Minimum No. of Premises 
+to be Sampled for 3% prevalence 
+less than 40 Sample all 39 
+80 Sample all 60 
+100 Sample all 66 
+150 136 76 
+200 163 82 
+400 221 92 
+600 247 96 
+1,000 271 99 
+1,500 285 100 
+2,000 292 101 
+3,000 299 102 
+5,000 305 103 
+10,000 309 103 
+infinite 314 104 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 1% or 3% in the 
+population of
+Text Len: 1267
+--------------------------------------------------------------------------------
+,000 309 103 
+infinite 314 104 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 1% or 3% in the 
+population of premises at the time of sample collection.  
+ 
+DOCUMENTATION 
+As with all surveillance activities, documentation is critically important. EMRS2 is the system of 
+record for all virulent ND outbreaks in the United States. Relevant data regarding surveillance 
+activities must be entered into EMRS2 in as close to real time as possible. This data may be 
+reported internally and externally through situation or close-out reports or other means. 
+At a minimum, the following items are important to maintain and report: 
+ Number of commercial premises in Surveillance Zone 
+ Number premises visited and sampled (including dates) for active surveillance 
+ Total birds sampled at each premises and visit 
+ Laboratory results for all submissions 
+ 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August 2014. Newcastle Disease Response Plan: The Red Book.  
+Recommendations for Collecting Specimens from Poultry for Viral Diagnostic Testing (NVSL WI-AV- 
+0020)  
+USDA APHIS VS. 2018.  FAD Prep Materials and References. www.aphis.usda.gov/fadprep. 
+Text Len: 1386
+--------------------------------------------------------------------------------
+Page 1 of 4  
+Virulent Newcastle 
+Disease Virus Response  
+Surveillance Sampling Commercial 
+Premises in Surveillance Zone and 
+Free Area 
+ 
+Please note: These procedures may be revised as the situation develops.       June 5, 2018 
+   
+ DEFINITIONS 
+ 
+Infected Zone: Zone that immediately surrounds an Infected Premises.  
+ 
+Buffer Zone: Zone that immediately surrounds an Infected Zone or a Contact Premises.  
+Control Area: Consists of an Infected Zone and a Buffer Zone.  
+Surveillance Zone: Zone outside and along the border of a Control Area. The Surveillance Zone is 
+part of the Free Area.  
+Foreign Animal Disease Investigation: An investigation conducted according to VS Guidance 
+Document 12001 (Ready Reference Guide for investigations is here). 
+ 
+ 
+INTRODUCTION 
+ 
+An Infected Zone and Buffer Zone (Control Area) will be created around an Infected Premises. This 
+document provides surveillance guidance for commercial poultry
+1 premises outside a Control Area 
+in the Surveillance Zone. Surveillance activities and associated testing should be based on 
+recommendations of the Unified (State-Federal) Incident Command; this guidance may require 
+further modification based on epidemiological and situational information. 
+ 
+Newcastle disease, caused by vNDV, is endemic in a number of countries in Asia, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous Newcastle disease outbreaks in poultry in the United States occurred in the States of 
+California (2002–2003), Nevada (2003), Arizona (2003), and Texas (2003). Virulent NDV is 
+endemic in wild cormorants and
+Text Len: 1654
+--------------------------------------------------------------------------------
+, the Middle East, 
+Africa, and the Americas. Newcastle disease was detected in backyard poultry in California in 2018. 
+Previous Newcastle disease outbreaks in poultry in the United States occurred in the States of 
+California (2002–2003), Nevada (2003), Arizona (2003), and Texas (2003). Virulent NDV is 
+endemic in wild cormorants and non-virulent forms of ND are endemic in poultry. There are non-
+virulent strains of NDV endemic in poultry. This document reflects the epidemiological information 
+known about the behavior of vNDV from knowledge gained in the 2003–2004 U.S. outbreak.   
+ 
+COMMUNICATION 
+It is critical to ensure that disease information, as well as recommended biosecurity measures, is 
+clearly communicated to all commercial premises in a Surveillance Zone. APHIS and State/Tribal 
+                                                 
+1 For this document, poultry is defined as any domesticated bird raised for food or fiber; this excludes the poultry displayed in 
+a licensed exhibition or zoo.  
+
+Page 2 of 4  
+officials must ensure that instructions are provided to owners/producers to report clinical signs and 
+abnormal mortality. Transparent procedures should be used to manage reports of clinical signs or 
+unusual mortality from commercial producers (also known as sick bird calls). 
+ 
+VISITING PREMISES 
+While it is important to locate commercial poultry premises within a Surveillance Zone, responders 
+should not enter premises unless instructed to do so by the Incident Management Team (IMT). It is 
+critical to remember that any
+Text Len: 1561
+--------------------------------------------------------------------------------
+ to manage reports of clinical signs or 
+unusual mortality from commercial producers (also known as sick bird calls). 
+ 
+VISITING PREMISES 
+While it is important to locate commercial poultry premises within a Surveillance Zone, responders 
+should not enter premises unless instructed to do so by the Incident Management Team (IMT). It is 
+critical to remember that any real or perceived belief that responders are spreading disease is 
+incredibly detrimental to the response effort. As with any premises, if a visit is necessary, 
+responders should observe appropriate biosecurity and cleaning and disinfection measures and 
+follow all guidance provided by Incident Command.  
+ 
+SURVEILLANCE PLAN 
+ 
+Passive Surveillance 
+Passive surveillance is conducted at all times in the United States through foreign animal disease 
+investigations (per VS Guidance Document 12001). In the event of a foreign animal disease 
+detection, passive surveillance should be intensified through rapid and clear communication to all 
+producers in the Surveillance Zone, following IMT procedures. 
+ 
+Mortality threshold levels that signal the need for investigation have been established for the different 
+commercial poultry sectors. Commercial flocks that exceed the mortality thresholds listed below are 
+investigated and sampled as rapidly as possible for virulent ND. 
+ Commercial broilers: mortality exceeding 3.5 birds/1,000 per day. 
+ Commercial layers: mortality exceeding 3 times the normal daily mortality (normal: 
+0.13 birds/1,000 per day for layers from 2 to 50 weeks, and 0.43 birds/1,000 per day for 
+layers over 50 weeks); OR 5 percent drop in egg production for 3 consecutive days. 
+ Commercial turkeys: mortality exceeding 2 birds/1,000 per day. 
+ Broiler
+Text Len: 1756
+--------------------------------------------------------------------------------
+: 
+0.13 birds/1,000 per day for layers from 2 to 50 weeks, and 0.43 birds/1,000 per day for 
+layers over 50 weeks); OR 5 percent drop in egg production for 3 consecutive days. 
+ Commercial turkeys: mortality exceeding 2 birds/1,000 per day. 
+ Broiler breeders: mortality exceeding 2 birds/1,000 per day. 
+ Layer breeders: mortality exceeding 3 times the normal daily mortality (normal: 0.2 
+birds/1,000 per day up to 50 weeks, and 0.37 birds/1,000 per day after 50 weeks). 
+ Turkey breeders: mortality exceeding 2 birds/1,000 per day; OR a decrease in egg 
+production of 15 percent occurring over a 2-day period. 
+ Small-volume high-value commercial poultry flocks and other commercial flocks not listed 
+here: any sudden and significant mortality event or sudden drop in egg production should be 
+investigated. 
+ 
+At the State’s discretion, investigation and sampling of flocks that exceed the mortality thresholds can 
+be performed by a company veterinarian, a Foreign Animal Disease Diagnostician, or other IMT- 
+designated response personnel.  Schedule an appointment to collect samples as quickly as possible 
+and conduct sampling according to the recommended sampling scheme below. Submit samples to the 
+designated National Animal Health Laboratory Network (NAHLN) lab as indicated by the IMT. 
+ 
+Active Surveillance 
+ 
+In addition to passive surveillance, active surveillance is conducted to find cases and provide evidence 
+that the pathogen is not present. Active surveillance in commercial premises during an outbreak is 
+Page 3 of 4  
+composed of two components: response surveillance and surveillance for permitted movements
+Text Len: 1642
+--------------------------------------------------------------------------------
+ (NAHLN) lab as indicated by the IMT. 
+ 
+Active Surveillance 
+ 
+In addition to passive surveillance, active surveillance is conducted to find cases and provide evidence 
+that the pathogen is not present. Active surveillance in commercial premises during an outbreak is 
+Page 3 of 4  
+composed of two components: response surveillance and surveillance for permitted movements of 
+poultry and poultry products, referred to as pre-movement surveillance. This document describes 
+response surveillance activities only.   
+ 
+These strategies regarding sampling sizes and sampling frequencies pertain to commercial premises 
+located in the Surveillance Zone.  
+ 
+RECOMMENDED SAMPLING SCHEME 
+ 
+Premises Level 
+1. Select the appropriate number of premises to sample following guidance in Table 1 below.  
+Prioritize commercial premises that are closest to the presumptive or confirmed vND 
+premises. Sampling the indicated number of premises w ill result in 0.95 probability that at 
+least one positive premises will be detected if the prevalence of vNDV among additional 
+premises in the Surveillance Zone is 1 percent or greater.  
+2. Collect samples from each barn every 5-7 days for 28 days, or use similar sampling frequency 
+depending on the resources available and guidance provided by the IMT. 
+3. Continue sampling commercial premises every 28 days for 3 months after the last detected 
+vND premises2. 
+ 
+Bird Level 
+Select birds to sample as follows for detection of vNDV at a 10 percent prevalence with 0.95 
+probability of detection, and collect samples in line with the current version of Recommendations for 
+Collecting Specimens from Poultry for Viral Diagnostic Testing (WI-AV-0020 available here). 
+Prioritize sampling of sick and dead birds
+Text Len: 1751
+--------------------------------------------------------------------------------
+ 
+Select birds to sample as follows for detection of vNDV at a 10 percent prevalence with 0.95 
+probability of detection, and collect samples in line with the current version of Recommendations for 
+Collecting Specimens from Poultry for Viral Diagnostic Testing (WI-AV-0020 available here). 
+Prioritize sampling of sick and dead birds; conduct pooling per WI-AV-0020. Random sampling of 
+apparently healthy birds provides minimal detection benefit unless you are targeting poultry with a 
+high risk of exposure to vNDV. Oropharyngeal or tracheal swabs are preferred for gallinaceous 
+birds3 and cloacal swabs for domestic waterfowl. Do not combine swabs from different species or 
+different sampling routes. 
+ 
+1. Sample at least 30 sick and dead birds per barn using 5- or 11-swab pools. 
+a. If there are more than 30 sick and dead birds, sample an additional 5- or 11- swab 
+pool for each 50 sick and dead birds observed.    
+b. If there are less than 30 sick and dead birds, sample the apparently healthy birds 
+near doorways, vents, and any area with a high potential for exposure to vNDV to 
+obtain a total sample size of 30 birds. 
+2. Prepare, package, and process swabs for laboratory submission according to the guidance 
+found in the Veterinary Services Guidance Document 12001, which provides guidance for 
+the investigation of potential foreign animal disease/emerging disease incidents. VS 
+Guidance Document 12001 is available here.  
+ 
+ 
+ 
+ 
+ 
+                                
+Text Len: 1490
+--------------------------------------------------------------------------------
+ 12001, which provides guidance for 
+the investigation of potential foreign animal disease/emerging disease incidents. VS 
+Guidance Document 12001 is available here.  
+ 
+ 
+ 
+ 
+ 
+                                                 
+2 OIE 2017 Terrestrial Animal Health Code Chapter 10.9 Infection with Newcastle disease virus. 
+3 Gallinaceous birds include chickens, turkeys, pheasants, partridges, grouse, quail, guinea fowl, and peafowl.  
+ 
+Page 4 of 4  
+Table 1. Number of premises to be sampled in the Surveillance Zone if the total number of premises in 
+the Surveillance Zone cannot be visited.* 
+No. of Premises  
+ 
+Minimum No. of Premises 
+to be Sampled for 1% prevalence 
+Minimum No. of Premises 
+to be Sampled for 3% prevalence 
+less than 40 Sample all 39 
+80 Sample all 60 
+100 Sample all 66 
+150 136 76 
+200 163 82 
+400 221 92 
+600 247 96 
+1,000 271 99 
+1,500 285 100 
+2,000 292 101 
+3,000 299 102 
+5,000 305 103 
+10,000 309 103 
+infinite 314 104 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 1% or 3% in the 
+population of
+Text Len: 1267
+--------------------------------------------------------------------------------
+,000 309 103 
+infinite 314 104 
+1 Sample sizes computed using Cannon, 2001. 
+* Assuming a 95% herd-level sensitivity, sampling the indicated number of premises will result in 0.95 probability that at least 
+one positive premises will be detected if the prevalence of virulent Newcastle disease virus is at least 1% or 3% in the 
+population of premises at the time of sample collection.  
+ 
+DOCUMENTATION 
+As with all surveillance activities, documentation is critically important. EMRS2 is the system of 
+record for all virulent ND outbreaks in the United States. Relevant data regarding surveillance 
+activities must be entered into EMRS2 in as close to real time as possible. This data may be 
+reported internally and externally through situation or close-out reports or other means. 
+At a minimum, the following items are important to maintain and report: 
+ Number of commercial premises in Surveillance Zone 
+ Number premises visited and sampled (including dates) for active surveillance 
+ Total birds sampled at each premises and visit 
+ Laboratory results for all submissions 
+ 
+ 
+FOR MORE INFORMATION 
+USDA APHIS VS. Draft August 2014. Newcastle Disease Response Plan: The Red Book.  
+Recommendations for Collecting Specimens from Poultry for Viral Diagnostic Testing (NVSL WI-AV- 
+0020)  
+USDA APHIS VS. 2018.  FAD Prep Materials and References. www.aphis.usda.gov/fadprep. 
+Text Len: 1386
+--------------------------------------------------------------------------------

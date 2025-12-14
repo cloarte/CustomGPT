@@ -1,0 +1,260 @@
+Crop Knowledge Master
+Chaetanaphothrips orchidii
+Anthurium Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Arnold H. Hara, Extension Entomologist
+Christopher M. Jacobsen, Research Associate
+Ruth Y. Niino-DuPonte, Research Associate
+Department of Plant and Environmental Protection Sciences
+Honolulu, Hawaii
+INTRODUCTION
+Anthurium thrips, Chaetanaphothrips orchidii (Moulton), (Thysanoptera: Thripidae), formerly known as orchid thrips, was first collected in Hawaii in 1926 and has since become a common pest of ornamentals.    The anthurium thrips is similar in appearance to two other introduced Chaetanaphothrips species, the banana rust thrips C. signipennis (Bagnall) and C. leeuweni, (Karny) that share similar hosts including banana, ti, and anthurium.
+HOSTS
+While the anthurium thrips shows a preference for Anthurium spp., it is a polyphagous feeder that attacks other flowers, ornamentals, herbs, fruits, vegetables, grasses, and weeds.  Its host plants include dendrobium orchid, begonia, bird-of-paradise, bougainvillea, chrysanthemum, night blooming cereus Peniocereus greggi, wandering jew Tradescantia fluminensis, parsley, citrus, sweet potato, lychee, banana, and corn.
+DISTRIBUTION
+Anthurium thrips is a widely distributed species infesting greenhouses and outdoor landscapes in the Dominican Republic, South America, Australia, Japan, Puerto Rico, India, and many countries in Europe.  Within the United States, it has been reported
+Text Len: 1482
+--------------------------------------------------------------------------------
+cantia fluminensis, parsley, citrus, sweet potato, lychee, banana, and corn.
+DISTRIBUTION
+Anthurium thrips is a widely distributed species infesting greenhouses and outdoor landscapes in the Dominican Republic, South America, Australia, Japan, Puerto Rico, India, and many countries in Europe.  Within the United States, it has been reported in Florida, Kentucky, Washington DC, New York, Louisiana, Illinois, and California as well as Hawaii.
+DAMAGE
+The appearance of feeding damage caused by anthurium thrips varies with host plant species.   In most cases, thrips prefer to feed on very young, succulent, immature fruits, flowers, and foliage.
+Adult and immature thrips begin feeding within the unopened anthurium spathe soon after the bud emerges from the leaf axil.  Damage to anthurium appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and with age, bronzing of injured tissue.  Generally, white streaks and scarring on spathes caused by anthurium thrips are wider than those caused by banana rust thrips.  In severe cases, anthurium spathes fail to open, foliage may be deformed with bronzing and streaking, and reduced plant growth may occur (Fig. 1a, b, c, d).
+Figure 1. Damage to anthurium by anthurium thrips: a) leaves, b) furled spathe, c) front of spathe 'Marian Seefurth' cultivar, d) back of spathe.[Photos: A.H. Hara]
+a)    
+ b)
+c)    
+ d)
+BIOLOGY
+No male anthurium thrips has been observed; reproduction occurs without mating and is continuous throughout the year.  The entire life
+Text Len: 1541
+--------------------------------------------------------------------------------
+ of spathe 'Marian Seefurth' cultivar, d) back of spathe.[Photos: A.H. Hara]
+a)    
+ b)
+c)    
+ d)
+BIOLOGY
+No male anthurium thrips has been observed; reproduction occurs without mating and is continuous throughout the year.  The entire life cycle (egg to adult, Figure 2) is completed in approximately 28 to 32 days but may extend to 3 months, depending on the temperature.  Warmer temperatures, higher humidity, and new growth of host plants appear to be favorable to thrips’ feeding and breeding, leading to heavier infestations and damage during the summer months (Figure 3).
+Figure 2.  Life cycle of the anthurium thrips [Insect drawings from D. Schultz, 1950; plant photo from Higaki et al., 1994]
+Figure 3. Seasonal fluctuation of total thrips injury to anthurium flowers at Mountain View, Hawaii (Hara et al., 1987)
+  EGGS
+The adult uses a sharp ovipositor to deposit up to 80 to 100 eggs into a bud or sheath. After 6 to 9 days, eggs hatch into nymphs that are whitish and look like adult thrips but are smaller and lack wings.
+NYMPHS
+The nymphs crawl and feed on the plant tissue for about a week, causing damage with their sucking-rasping mouthparts.  Late stage nymphs are yellow to orange and migrate off the host plant to molt into the prepupal stage.
+PREPUPAE
+Prepupae look similar to nymphs but have wing pads; pupae have longer wing pads. In severe infestations, prepupae can occur in silken cocoons on the plant.
+PUPAE
+Pupation occurs in the soil or growth medium beneath the
+Text Len: 1493
+--------------------------------------------------------------------------------
+ and migrate off the host plant to molt into the prepupal stage.
+PREPUPAE
+Prepupae look similar to nymphs but have wing pads; pupae have longer wing pads. In severe infestations, prepupae can occur in silken cocoons on the plant.
+PUPAE
+Pupation occurs in the soil or growth medium beneath the host plant, and neither the prepupal or pupal stage feeds.
+ADULTS
+The adult (Figure 4) emerges from the pupal cells after approximately 20 days and reinfests the host plants.  It is yellow with banded wings and about the size of the period at the end of this sentence (1/25 inch).
+Figure 4.  Adult anthurium thrips [Photo: C.A. O'Donnell, UC Davis]
+BEHAVIOR
+Anthurium thrips are a serious pest to the anthurium industry. Damage occurs 6 to 8 weeks prior to flower harvest.  Feeding by only a few thrips can cause white streaks on spathes.   Since thrips prefer feeding in unopened buds and unfurled leaves and pupate in the medium or soil beneath the host plant, they are concealed throughout most of their life cycle and may be difficult to detect.  It is important to properly identify the thrips species in infestations to avoid ineffective control measures.  Using a hand lens, check in rolled leaves and unfurled buds, or collect samples to submit for professional diagnosis and species identification (Agricultural Diagnostic Service Center, University of Hawai`i, CTAHR via any extension office, or Hawaii Department of Agriculture).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs, Orius tristicolor, O. persequens and O. insidiosus, are general thrips predators, although
+Text Len: 1596
+--------------------------------------------------------------------------------
+ricultural Diagnostic Service Center, University of Hawai`i, CTAHR via any extension office, or Hawaii Department of Agriculture).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs, Orius tristicolor, O. persequens and O. insidiosus, are general thrips predators, although the extent of their effectiveness against anthurium thrips is not documented.  Certain lacewings, ladybird beetles, and predatory mites may also exert some control on nymphs and adult thrips, while ants may prey on pupae in the soil.  Several fungi, including Paecilomyces spp. and Verticillium lecanii have been isolated from other thrips species and may infect anthurium thrips as well.
+Cultural
+Remove infested flowers and foliage from the field or shadehouse to eliminate existing sources of thrips.  Control weeds, grass and old stock plants that may serve as hosts to anthurium thrips.  Obtain thrips-free propagative material when restocking.There are no reports of anthurium cultivars that are resistant or susceptible to anthurium thrips; however, injury is more noticeable on pastel shaded cultivars such as ‘Marian Seefurth’.
+Biorational
+A hot water dip before planting at 120o F (49o C) for 10 minutes can disinfest anthurium propagative material of thrips.   Anthurium cultivars that will tolerate hot water treatment as rooted plants with leaves include: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara’, while ‘Ozaki’ cannot tolerate hot-water dipping except as whole stem pieces (gobo).
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult
+Text Len: 1563
+--------------------------------------------------------------------------------
+  Anthurium cultivars that will tolerate hot water treatment as rooted plants with leaves include: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara’, while ‘Ozaki’ cannot tolerate hot-water dipping except as whole stem pieces (gobo).
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult a chemical sales representative, the Hawaii Department of Agriculture, or the CTAHR Cooperative Extension Service for information on insecticides currently approved for use against thrips in anthurium.  Remove infested flowers and foliage from the field or shadehouse to allow increased insecticide penetration and coverage.  Because thrips prefer young, growing plant tissue, good spray coverage at the base of plants where spathe development occurs is essential to contact any exposed thrips.  Caution should be used if applying insecticides on anthurium, because phytotoxicity may occur under hot, dry conditions.  Contact granular insecticides are effective against the prepupal and pupal stages of anthurium thrips that occur in the soil, media, and plant debris near the base of the host plant; but no granular insecticide is currently registered for use in anthurium.
+   Generally, anthurium thrips populations increase during the summer and decrease during the winter due to fluctuations in temperature and rainfall.  Consequently, repeated spray applications may be needed only from May through August.  Depending on the insecticide used, three to four applications at 2-week intervals may be necessary to protect newly developed anthurium flower from moderate to severe infestations.
+    Keep in mind that thrips injury sustained during the bud stage will result in injured flowers being harvested for at least one month following application of an effective insecticide.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECA
+Text Len: 1846
+--------------------------------------------------------------------------------
+ to protect newly developed anthurium flower from moderate to severe infestations.
+    Keep in mind that thrips injury sustained during the bud stage will result in injured flowers being harvested for at least one month following application of an effective insecticide.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECAUTIONARY STATEMENT
+Consult a chemical sales representative, the Hawaii Department of Agriculture, or the University of Hawaii Cooperative Extension Service for correct formulation of insecticides, more information, or updated recommendations. The user is responsible for the proper use, application, storage, and disposal of pesticides.
+DISCLAIMER
+Reference to a product does not imply approval or recommendation by the College of Tropical Agriculture and Human Resources, Cooperative Extension Service, University of Hawaii, or the United States Department of Agriculture and does not imply its approval to the exclusion of other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI 96720, Ph: (808) 974-4105 Fax: (808) 974-4110 E-mail: arnold@hawaii.edu
+REFERENCES
+Anathakrishnan, T.N.  1984.   Bioecology of Thrips.  Indira Publishing House, MI. pp. 77-78.
+Hara, A.H., R.F.L. Mau, D.M. Sato, and B.C. Bushe. 1987. Effect of seasons and insecticides on orchid thrips injury of anthuriums in Hawaii
+Text Len: 1654
+--------------------------------------------------------------------------------
+.  1984.   Bioecology of Thrips.  Indira Publishing House, MI. pp. 77-78.
+Hara, A.H., R.F.L. Mau, D.M. Sato, and B.C. Bushe. 1987. Effect of seasons and insecticides on orchid thrips injury of anthuriums in Hawaii. HortScience 22(1):77-79.
+Hara, A.H., K.T. Sewake, and T.Y. Hata. 1990. Anthurium thrips. HITAHR Brief No. 086. University of Hawaiia at Manoa, Hawaii Institute of Tropical Agriculture and Human Resources, CTAHR. 1 p.
+Hata, T.Y. and A.H. Hara. 1992. Anthurium thrips, Chaetanaphothrips orchidii (Moulton): biology and insecticidal control on Hawaiian anthuriums. Tropical Pest Management 38(3):230-233.
+Higaki, T., J.S. Lichty, and D. Moniz (Eds.). 1994.  Anthurium Culture in Hawai`i.  Research Extension Series 152. HITAHR, CTAHR, University of Hawai`i.
+Jacot-Guillarmod, C.F. 1974. Catalogue of the Thysanoptera of the world.   Annals of the Cape Provincial Museums (Natural History) 7 (Part 3):634.
+ Pelikan, J. 1954. Remarks on the orchid thrips Chaetanaphothrips orchidii (M.) Fulia Zoologica et Entomologica 3:3-12.
+ Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+ Sak
+Text Len: 1160
+--------------------------------------------------------------------------------
+34.
+ Pelikan, J. 1954. Remarks on the orchid thrips Chaetanaphothrips orchidii (M.) Fulia Zoologica et Entomologica 3:3-12.
+ Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+ Sakimura, K.  1975.   Danothrips trifasciatus, new species, and collection notes on the Hawaiian species Danothrips (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22:125-132.
+ Schulz, D. ca. 1950. University of Illinois at Urbana-Champaign, Department of Entomology. <http://www.life.uiui.edu/Entomology/insectgifs/thysanoptera_grey.gif>
+DEC/2002
+Adapted from the authors' CTAHR PIO publication, "Anthurium Thrips Damage to Ornamentals in Hawaii".  Insect Pests IP-9, June 2002.
+A-THRIPS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 800
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Chaetanaphothrips orchidii
+Anthurium Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Arnold H. Hara, Extension Entomologist
+Christopher M. Jacobsen, Research Associate
+Ruth Y. Niino-DuPonte, Research Associate
+Department of Plant and Environmental Protection Sciences
+Honolulu, Hawaii
+INTRODUCTION
+Anthurium thrips, Chaetanaphothrips orchidii (Moulton), (Thysanoptera: Thripidae), formerly known as orchid thrips, was first collected in Hawaii in 1926 and has since become a common pest of ornamentals.    The anthurium thrips is similar in appearance to two other introduced Chaetanaphothrips species, the banana rust thrips C. signipennis (Bagnall) and C. leeuweni, (Karny) that share similar hosts including banana, ti, and anthurium.
+HOSTS
+While the anthurium thrips shows a preference for Anthurium spp., it is a polyphagous feeder that attacks other flowers, ornamentals, herbs, fruits, vegetables, grasses, and weeds.  Its host plants include dendrobium orchid, begonia, bird-of-paradise, bougainvillea, chrysanthemum, night blooming cereus Peniocereus greggi, wandering jew Tradescantia fluminensis, parsley, citrus, sweet potato, lychee, banana, and corn.
+DISTRIBUTION
+Anthurium thrips is a widely distributed species infesting greenhouses and outdoor landscapes in the Dominican Republic, South America, Australia, Japan, Puerto Rico, India, and many countries in Europe.  Within the United States, it has been reported
+Text Len: 1482
+--------------------------------------------------------------------------------
+cantia fluminensis, parsley, citrus, sweet potato, lychee, banana, and corn.
+DISTRIBUTION
+Anthurium thrips is a widely distributed species infesting greenhouses and outdoor landscapes in the Dominican Republic, South America, Australia, Japan, Puerto Rico, India, and many countries in Europe.  Within the United States, it has been reported in Florida, Kentucky, Washington DC, New York, Louisiana, Illinois, and California as well as Hawaii.
+DAMAGE
+The appearance of feeding damage caused by anthurium thrips varies with host plant species.   In most cases, thrips prefer to feed on very young, succulent, immature fruits, flowers, and foliage.
+Adult and immature thrips begin feeding within the unopened anthurium spathe soon after the bud emerges from the leaf axil.  Damage to anthurium appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and with age, bronzing of injured tissue.  Generally, white streaks and scarring on spathes caused by anthurium thrips are wider than those caused by banana rust thrips.  In severe cases, anthurium spathes fail to open, foliage may be deformed with bronzing and streaking, and reduced plant growth may occur (Fig. 1a, b, c, d).
+Figure 1. Damage to anthurium by anthurium thrips: a) leaves, b) furled spathe, c) front of spathe 'Marian Seefurth' cultivar, d) back of spathe.[Photos: A.H. Hara]
+a)    
+ b)
+c)    
+ d)
+BIOLOGY
+No male anthurium thrips has been observed; reproduction occurs without mating and is continuous throughout the year.  The entire life
+Text Len: 1541
+--------------------------------------------------------------------------------
+ of spathe 'Marian Seefurth' cultivar, d) back of spathe.[Photos: A.H. Hara]
+a)    
+ b)
+c)    
+ d)
+BIOLOGY
+No male anthurium thrips has been observed; reproduction occurs without mating and is continuous throughout the year.  The entire life cycle (egg to adult, Figure 2) is completed in approximately 28 to 32 days but may extend to 3 months, depending on the temperature.  Warmer temperatures, higher humidity, and new growth of host plants appear to be favorable to thrips’ feeding and breeding, leading to heavier infestations and damage during the summer months (Figure 3).
+Figure 2.  Life cycle of the anthurium thrips [Insect drawings from D. Schultz, 1950; plant photo from Higaki et al., 1994]
+Figure 3. Seasonal fluctuation of total thrips injury to anthurium flowers at Mountain View, Hawaii (Hara et al., 1987)
+  EGGS
+The adult uses a sharp ovipositor to deposit up to 80 to 100 eggs into a bud or sheath. After 6 to 9 days, eggs hatch into nymphs that are whitish and look like adult thrips but are smaller and lack wings.
+NYMPHS
+The nymphs crawl and feed on the plant tissue for about a week, causing damage with their sucking-rasping mouthparts.  Late stage nymphs are yellow to orange and migrate off the host plant to molt into the prepupal stage.
+PREPUPAE
+Prepupae look similar to nymphs but have wing pads; pupae have longer wing pads. In severe infestations, prepupae can occur in silken cocoons on the plant.
+PUPAE
+Pupation occurs in the soil or growth medium beneath the
+Text Len: 1493
+--------------------------------------------------------------------------------
+ and migrate off the host plant to molt into the prepupal stage.
+PREPUPAE
+Prepupae look similar to nymphs but have wing pads; pupae have longer wing pads. In severe infestations, prepupae can occur in silken cocoons on the plant.
+PUPAE
+Pupation occurs in the soil or growth medium beneath the host plant, and neither the prepupal or pupal stage feeds.
+ADULTS
+The adult (Figure 4) emerges from the pupal cells after approximately 20 days and reinfests the host plants.  It is yellow with banded wings and about the size of the period at the end of this sentence (1/25 inch).
+Figure 4.  Adult anthurium thrips [Photo: C.A. O'Donnell, UC Davis]
+BEHAVIOR
+Anthurium thrips are a serious pest to the anthurium industry. Damage occurs 6 to 8 weeks prior to flower harvest.  Feeding by only a few thrips can cause white streaks on spathes.   Since thrips prefer feeding in unopened buds and unfurled leaves and pupate in the medium or soil beneath the host plant, they are concealed throughout most of their life cycle and may be difficult to detect.  It is important to properly identify the thrips species in infestations to avoid ineffective control measures.  Using a hand lens, check in rolled leaves and unfurled buds, or collect samples to submit for professional diagnosis and species identification (Agricultural Diagnostic Service Center, University of Hawai`i, CTAHR via any extension office, or Hawaii Department of Agriculture).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs, Orius tristicolor, O. persequens and O. insidiosus, are general thrips predators, although
+Text Len: 1596
+--------------------------------------------------------------------------------
+ricultural Diagnostic Service Center, University of Hawai`i, CTAHR via any extension office, or Hawaii Department of Agriculture).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs, Orius tristicolor, O. persequens and O. insidiosus, are general thrips predators, although the extent of their effectiveness against anthurium thrips is not documented.  Certain lacewings, ladybird beetles, and predatory mites may also exert some control on nymphs and adult thrips, while ants may prey on pupae in the soil.  Several fungi, including Paecilomyces spp. and Verticillium lecanii have been isolated from other thrips species and may infect anthurium thrips as well.
+Cultural
+Remove infested flowers and foliage from the field or shadehouse to eliminate existing sources of thrips.  Control weeds, grass and old stock plants that may serve as hosts to anthurium thrips.  Obtain thrips-free propagative material when restocking.There are no reports of anthurium cultivars that are resistant or susceptible to anthurium thrips; however, injury is more noticeable on pastel shaded cultivars such as ‘Marian Seefurth’.
+Biorational
+A hot water dip before planting at 120o F (49o C) for 10 minutes can disinfest anthurium propagative material of thrips.   Anthurium cultivars that will tolerate hot water treatment as rooted plants with leaves include: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara’, while ‘Ozaki’ cannot tolerate hot-water dipping except as whole stem pieces (gobo).
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult
+Text Len: 1563
+--------------------------------------------------------------------------------
+  Anthurium cultivars that will tolerate hot water treatment as rooted plants with leaves include: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara’, while ‘Ozaki’ cannot tolerate hot-water dipping except as whole stem pieces (gobo).
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult a chemical sales representative, the Hawaii Department of Agriculture, or the CTAHR Cooperative Extension Service for information on insecticides currently approved for use against thrips in anthurium.  Remove infested flowers and foliage from the field or shadehouse to allow increased insecticide penetration and coverage.  Because thrips prefer young, growing plant tissue, good spray coverage at the base of plants where spathe development occurs is essential to contact any exposed thrips.  Caution should be used if applying insecticides on anthurium, because phytotoxicity may occur under hot, dry conditions.  Contact granular insecticides are effective against the prepupal and pupal stages of anthurium thrips that occur in the soil, media, and plant debris near the base of the host plant; but no granular insecticide is currently registered for use in anthurium.
+   Generally, anthurium thrips populations increase during the summer and decrease during the winter due to fluctuations in temperature and rainfall.  Consequently, repeated spray applications may be needed only from May through August.  Depending on the insecticide used, three to four applications at 2-week intervals may be necessary to protect newly developed anthurium flower from moderate to severe infestations.
+    Keep in mind that thrips injury sustained during the bud stage will result in injured flowers being harvested for at least one month following application of an effective insecticide.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECA
+Text Len: 1846
+--------------------------------------------------------------------------------
+ to protect newly developed anthurium flower from moderate to severe infestations.
+    Keep in mind that thrips injury sustained during the bud stage will result in injured flowers being harvested for at least one month following application of an effective insecticide.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECAUTIONARY STATEMENT
+Consult a chemical sales representative, the Hawaii Department of Agriculture, or the University of Hawaii Cooperative Extension Service for correct formulation of insecticides, more information, or updated recommendations. The user is responsible for the proper use, application, storage, and disposal of pesticides.
+DISCLAIMER
+Reference to a product does not imply approval or recommendation by the College of Tropical Agriculture and Human Resources, Cooperative Extension Service, University of Hawaii, or the United States Department of Agriculture and does not imply its approval to the exclusion of other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI 96720, Ph: (808) 974-4105 Fax: (808) 974-4110 E-mail: arnold@hawaii.edu
+REFERENCES
+Anathakrishnan, T.N.  1984.   Bioecology of Thrips.  Indira Publishing House, MI. pp. 77-78.
+Hara, A.H., R.F.L. Mau, D.M. Sato, and B.C. Bushe. 1987. Effect of seasons and insecticides on orchid thrips injury of anthuriums in Hawaii
+Text Len: 1654
+--------------------------------------------------------------------------------
+.  1984.   Bioecology of Thrips.  Indira Publishing House, MI. pp. 77-78.
+Hara, A.H., R.F.L. Mau, D.M. Sato, and B.C. Bushe. 1987. Effect of seasons and insecticides on orchid thrips injury of anthuriums in Hawaii. HortScience 22(1):77-79.
+Hara, A.H., K.T. Sewake, and T.Y. Hata. 1990. Anthurium thrips. HITAHR Brief No. 086. University of Hawaiia at Manoa, Hawaii Institute of Tropical Agriculture and Human Resources, CTAHR. 1 p.
+Hata, T.Y. and A.H. Hara. 1992. Anthurium thrips, Chaetanaphothrips orchidii (Moulton): biology and insecticidal control on Hawaiian anthuriums. Tropical Pest Management 38(3):230-233.
+Higaki, T., J.S. Lichty, and D. Moniz (Eds.). 1994.  Anthurium Culture in Hawai`i.  Research Extension Series 152. HITAHR, CTAHR, University of Hawai`i.
+Jacot-Guillarmod, C.F. 1974. Catalogue of the Thysanoptera of the world.   Annals of the Cape Provincial Museums (Natural History) 7 (Part 3):634.
+ Pelikan, J. 1954. Remarks on the orchid thrips Chaetanaphothrips orchidii (M.) Fulia Zoologica et Entomologica 3:3-12.
+ Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+ Sak
+Text Len: 1160
+--------------------------------------------------------------------------------
+34.
+ Pelikan, J. 1954. Remarks on the orchid thrips Chaetanaphothrips orchidii (M.) Fulia Zoologica et Entomologica 3:3-12.
+ Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+ Sakimura, K.  1975.   Danothrips trifasciatus, new species, and collection notes on the Hawaiian species Danothrips (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22:125-132.
+ Schulz, D. ca. 1950. University of Illinois at Urbana-Champaign, Department of Entomology. <http://www.life.uiui.edu/Entomology/insectgifs/thysanoptera_grey.gif>
+DEC/2002
+Adapted from the authors' CTAHR PIO publication, "Anthurium Thrips Damage to Ornamentals in Hawaii".  Insect Pests IP-9, June 2002.
+A-THRIPS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 800
+--------------------------------------------------------------------------------

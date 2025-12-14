@@ -1,0 +1,798 @@
+Implementation Plan to Increase 
+Access to USDA-funded Research 
+Results
+Q & A Session
+2/20/2024
+Today’s Agenda
+• Introductions
+• History of Public Access Policy
+@ USDA
+• Implementat
+ion Plan Details
+• Question and Answer Period
+Public access makes scientific 
+information freely available to all. 
+Benefits of public access include:
+Equal  access to 
+research 
+products
+Discovery and 
+innovation in 
+agricultural 
+research
+Enablement of 
+data-driven 
+decision-making
+Scientific 
+accountability, 
+transparency, 
+and integrity
+Federal Drivers of Public Access
+• Federal requirements laid out in two White House Office of
+Sci
+ence and Technology Policy (OSTP) memorandums:
+• Increasing Access to the Results of Federally Funded
+S
+cientific Research (2013)
+• Ensuring Free, Immediate, and Equitable Access to
+F
+ederally Funded Research (2022)
+• Implementation is ongoing across federal science
+agencies
+; coordination through NSTC Subcommittee on
+O
+pen Science
+• Alignment with implementation of other external drivers
+(e.g.
+, OPEN Government Data Act of 2018)
+Public Access Milestones at USDA
+Policy
+Implementation
+2013
+OSTP 
+Memorandum:
+Increasing Access to 
+the Results of 
+Federally Funded 
+Scientific Research
+2014
+Implementation Plan 
+to Increase Public 
+Access to Results of 
+USDA-funded 
+Scientific Research
+2015
+PubAg and Ag 
+Data Commons 
+launched
+2016
+USDA Public 
+Access Policy for 
+Scholarly 
+Publications
+2019
+USDA Public 
+Access Policy for 
+Digital Scientific 
+Text Len: 1472
+--------------------------------------------------------------------------------
+ Research
+2014
+Implementation Plan 
+to Increase Public 
+Access to Results of 
+USDA-funded 
+Scientific Research
+2015
+PubAg and Ag 
+Data Commons 
+launched
+2016
+USDA Public 
+Access Policy for 
+Scholarly 
+Publications
+2019
+USDA Public 
+Access Policy for 
+Digital Scientific 
+Research Data
+2022
+USDA DR 1020-006: 
+Public Access to Scholarly 
+Publications and Digital 
+Scientific Research Data
+OSTP Memo: Ensuring 
+Free, Immediate, and 
+Equitable Access to 
+Federally Funded 
+Research
+Departmentwide 
+implementation 
+of DR 1020-006 
+begins
+2023
+Implementation Plan 
+to Increase Public 
+Access to USDA-
+funded Research 
+Results
+
+2022 OSTP Memorandum: Ensuring Free, Immediate,
+and Equitable Access to Federally Funded Research
+1. Update their public access policies as soon as possible,
+and no lat
+er than December 31st, 2025, to make
+publ
+ications and their supporting data resulting from
+federally funded research publicly accessible without an
+em
+bargo on their free and public release
+2. Establish transparent procedures that ensure scientific and
+r
+esearc
+h integrity is maintained in public access policies
+3. Coordinate with OSTP to ensure equitable delivery of
+federally funded research results and data
+• Published June 2023
+• Updated
+impl
+ementation plan to
+c
+arry out White House
+OSTP memorandum:
+Ensuring Free,
+Immediate, and
+Equitable Access to
+Federally Funded
+Research (Aug 2022)
+• Includes a three-year
+r
+oadmap for
+i
+mplementation
+Text Len: 1440
+--------------------------------------------------------------------------------
+ally funded research results and data
+• Published June 2023
+• Updated
+impl
+ementation plan to
+c
+arry out White House
+OSTP memorandum:
+Ensuring Free,
+Immediate, and
+Equitable Access to
+Federally Funded
+Research (Aug 2022)
+• Includes a three-year
+r
+oadmap for
+i
+mplementation
+a
+ctivities and milestones
+Implementation Plan Roadmap: FY 2024
+• Continue customer and stakeholder engagement to validate information
+and
+ requirements for making USDA-funded research freely, immediately,
+and equitably accessible by December 31, 2025.
+• Make changes to existing USDA public access policy, following statutory
+and
+ regulatory requirements and processes, so that USDA can implement
+new policies by December 31, 2025.
+• Ensure ongoing operations and maintenance, and enhancements to
+Pub
+Ag, Ag Data Commons, and research management systems to ensure
+public access to USDA-funded research outputs, with an emphasis on
+d
+igital persistent identifier issues to integrate research outputs consistently
+and at scale.
+• Prototype automated reporting frameworks and processes needed to
+anal
+yze policy effectiveness.
+• Develop plans to carry out likely development needs as well as needs
+re
+vealed during the policy development and implementation process.
+• Develop new outreach and training materials and validate them with
+cu
+stomers and community stakeholders.
+Scope of DR 1020-006
+People • All USDA mission areas, agencies, and staff offices
+• All USDA employees who engage in scientific research during
+of
+ficial duties
+• Awardees and contractors from non-US DA organizations who
+ar
+e engaged in USDA-supported scientific research
+Research
+All unclassified scientific research (intramural and extramural) 
+supported wholly or in part by the USDA, regardless of the USDA 
+funding level or funding mechanism. This includes scientific 
+research
+Text Len: 1828
+--------------------------------------------------------------------------------
+ in scientific research during
+of
+ficial duties
+• Awardees and contractors from non-US DA organizations who
+ar
+e engaged in USDA-supported scientific research
+Research
+All unclassified scientific research (intramural and extramural) 
+supported wholly or in part by the USDA, regardless of the USDA 
+funding level or funding mechanism. This includes scientific 
+research supported by: 
+• Any direct funding from a USDA grant or cooperative
+agr
+eement active in Fiscal Year 2023 or beyond
+• Any direct funding from a USDA contract signed on or after
+O
+ctober 1, 2022
+• Any direct funding or arrangement, including in-k ind support,
+fr
+om any USDA Intramural Research
+Outline of Policy Requirements
+1. Scholarly Publications
+2. Digital Scientific Research Data
+a. Public Access
+b. Data Management Plans
+3. Persistent Identifiers
+1. Requirements for Scholarly Publications
+Scope: 
+Peer-reviewed journal articles published by nongovernmental organizations
+Accepted manuscripts must be made freely available to the public 
+through PubAg within 12 months of upon publication.
+In most cases these should be submitted to submit.nal.usda.gov.
+Final published articles may be submitted to PubAg to satisfy this 
+requirement, if the author has the right to share the published version (i.e., 
+open access articles)
+2. R equirements for Digital Scientifi c
+R
+esearch Data
+Scope: 
+Digital scientific research data that are appropriate for public access
+Published in a machine-readable format in recognized repository that 
+provides public access, persistent identifier, and preservation
+Public access within 12 months of on publishing date of associated 
+scholarly publication, or end of performance period, 
+whichever comes first
+Standardized metadata catalog entry in the Ag Data Commons
+
+Text Len: 1776
+--------------------------------------------------------------------------------
+: 
+Digital scientific research data that are appropriate for public access
+Published in a machine-readable format in recognized repository that 
+provides public access, persistent identifier, and preservation
+Public access within 12 months of on publishing date of associated 
+scholarly publication, or end of performance period, 
+whichever comes first
+Standardized metadata catalog entry in the Ag Data Commons
+2. a. Requirements for Digital Scientific
+R
+esearch Data
+Digital scientific research data assets should be made publicly accessible to 
+fullest extent practicable.
+However, nine categories of digital scientific research data assets should not 
+be mad
+e publicly accessible, including:
+• Data that would not be necessary for validation of scientific research findings (i.e., trivial data)
+• Data assets that include personally identifiable information (PII) or other information that could
+enable re-identification of individuals or businesses
+• Proprietary data assets
+• Data assets related to protecting critical infrastructure
+• Data assets related to the physical location of threatened or endangered species or sensitive
+archaeological sites
+• Data assets for which release would be inconsistent with U.S. national, homeland, or economic
+security or would have significant negative impact on intellectual property rights, innovation,
+and U.S. competitiveness
+• Data assets for which public access is inconsistent with agency mission (e.g., documents
+designated CUI)
+• Other data assets whose release is limited by law, regulation, contract, agreement, national
+security requirements, or policy (e.g., classified data or dual-use research data)
+• Data covered by a FOIA exemption
+NAL Resources for Data Sharing and Cataloging
+https://www.nal.usda.gov/d
+ata/find-data-repository
+https://agdatacommons.nal.
+usda.gov/
+2. b . Requirements for Digital Scient
+Text Len: 1868
+--------------------------------------------------------------------------------
+g., classified data or dual-use research data)
+• Data covered by a FOIA exemption
+NAL Resources for Data Sharing and Cataloging
+https://www.nal.usda.gov/d
+ata/find-data-repository
+https://agdatacommons.nal.
+usda.gov/
+2. b . Requirements for Digital Scientifi c
+R
+esearch Data
+Scope: 
+All scientific research covered by this DR
+All scientific research must be accompanied by a reviewed and agency- or 
+office-approved data management plan (DMP)
+DMP must describe how digital scientific research data assets will be made 
+publicly accessible and indicate any categories of digital scientific research data 
+assets that are exempt from public access requirements
+NAL Resources for Data Management Planning
+Suggested DMP 
+Components
+1. Expected data
+ty
+pes
+2. Data formats and
+s
+tandards
+3. Data storage and
+pr
+eservation of
+a
+ccess
+4. Data sharing and
+public access
+5. Roles and
+r
+esponsibilities
+6. Monitori ng and
+r
+eporting
+https://www.nal.usda.gov/data/data-management-planning
+3. R equirements for Digital Persisten t
+Id
+entifiers
+Scope: 
+All authors of research products covered by the DR, research products
+Authors of scholarly publications and digital scientific research data assets should 
+use individual persistent identifiers 
+(e.g., ORCID iD)
+USDA-funded authors who are not USDA staff can go to http://orcid.org or use their 
+institution’s links.
+Research products should receive persistent identifiers
+USDA Public Access Landing Page 
+https://www.nal.usda.gov/services
+Text Len: 1480
+--------------------------------------------------------------------------------
+ 
+use individual persistent identifiers 
+(e.g., ORCID iD)
+USDA-funded authors who are not USDA staff can go to http://orcid.org or use their 
+institution’s links.
+Research products should receive persistent identifiers
+USDA Public Access Landing Page 
+https://www.nal.usda.gov/services/public-access
+• Implementation Support
+• DR 1020-006
+• Implementation Guide
+• FAQs
+• Resources & Services
+• PubAg
+• Ag Data Commons
+• Trainings, templates,
+compliance checklists, etc.
+• Agency & Office Public
+Access Points of
+Contact(TBA)
+• Federal register notices and
+public comment links
+
+We invite you to provide written comments 
+through February 28, 2024
+Federal Register notice posted 1/29/2024 
+Go to Regulations.gov, search for “2024-01673”
+or go directly to: 
+https://www.regulations.gov/document/NAL-2024-0001-0001
+D
+ownload the document (same as the FR notice) 
+and use comment button to leave your comment.
+Thank You!
+• Office of the Chief Scientist is policy owner
+• Rich Derksen, Rich.Derksen@usda.gov
+• The National Agricultural Library provides
+imp
+lementation support
+• Cynthia Sims Parr, Cynthia.Parr@usda.gov
+Text Len: 1114
+--------------------------------------------------------------------------------
+Implementation Plan to Increase 
+Access to USDA-funded Research 
+Results
+Q & A Session
+2/20/2024
+Today’s Agenda
+• Introductions
+• History of Public Access Policy
+@ USDA
+• Implementat
+ion Plan Details
+• Question and Answer Period
+Public access makes scientific 
+information freely available to all. 
+Benefits of public access include:
+Equal  access to 
+research 
+products
+Discovery and 
+innovation in 
+agricultural 
+research
+Enablement of 
+data-driven 
+decision-making
+Scientific 
+accountability, 
+transparency, 
+and integrity
+Federal Drivers of Public Access
+• Federal requirements laid out in two White House Office of
+Sci
+ence and Technology Policy (OSTP) memorandums:
+• Increasing Access to the Results of Federally Funded
+S
+cientific Research (2013)
+• Ensuring Free, Immediate, and Equitable Access to
+F
+ederally Funded Research (2022)
+• Implementation is ongoing across federal science
+agencies
+; coordination through NSTC Subcommittee on
+O
+pen Science
+• Alignment with implementation of other external drivers
+(e.g.
+, OPEN Government Data Act of 2018)
+Public Access Milestones at USDA
+Policy
+Implementation
+2013
+OSTP 
+Memorandum:
+Increasing Access to 
+the Results of 
+Federally Funded 
+Scientific Research
+2014
+Implementation Plan 
+to Increase Public 
+Access to Results of 
+USDA-funded 
+Scientific Research
+2015
+PubAg and Ag 
+Data Commons 
+launched
+2016
+USDA Public 
+Access Policy for 
+Scholarly 
+Publications
+2019
+USDA Public 
+Access Policy for 
+Digital Scientific 
+Text Len: 1472
+--------------------------------------------------------------------------------
+ Research
+2014
+Implementation Plan 
+to Increase Public 
+Access to Results of 
+USDA-funded 
+Scientific Research
+2015
+PubAg and Ag 
+Data Commons 
+launched
+2016
+USDA Public 
+Access Policy for 
+Scholarly 
+Publications
+2019
+USDA Public 
+Access Policy for 
+Digital Scientific 
+Research Data
+2022
+USDA DR 1020-006: 
+Public Access to Scholarly 
+Publications and Digital 
+Scientific Research Data
+OSTP Memo: Ensuring 
+Free, Immediate, and 
+Equitable Access to 
+Federally Funded 
+Research
+Departmentwide 
+implementation 
+of DR 1020-006 
+begins
+2023
+Implementation Plan 
+to Increase Public 
+Access to USDA-
+funded Research 
+Results
+
+2022 OSTP Memorandum: Ensuring Free, Immediate,
+and Equitable Access to Federally Funded Research
+1. Update their public access policies as soon as possible,
+and no lat
+er than December 31st, 2025, to make
+publ
+ications and their supporting data resulting from
+federally funded research publicly accessible without an
+em
+bargo on their free and public release
+2. Establish transparent procedures that ensure scientific and
+r
+esearc
+h integrity is maintained in public access policies
+3. Coordinate with OSTP to ensure equitable delivery of
+federally funded research results and data
+• Published June 2023
+• Updated
+impl
+ementation plan to
+c
+arry out White House
+OSTP memorandum:
+Ensuring Free,
+Immediate, and
+Equitable Access to
+Federally Funded
+Research (Aug 2022)
+• Includes a three-year
+r
+oadmap for
+i
+mplementation
+Text Len: 1440
+--------------------------------------------------------------------------------
+ally funded research results and data
+• Published June 2023
+• Updated
+impl
+ementation plan to
+c
+arry out White House
+OSTP memorandum:
+Ensuring Free,
+Immediate, and
+Equitable Access to
+Federally Funded
+Research (Aug 2022)
+• Includes a three-year
+r
+oadmap for
+i
+mplementation
+a
+ctivities and milestones
+Implementation Plan Roadmap: FY 2024
+• Continue customer and stakeholder engagement to validate information
+and
+ requirements for making USDA-funded research freely, immediately,
+and equitably accessible by December 31, 2025.
+• Make changes to existing USDA public access policy, following statutory
+and
+ regulatory requirements and processes, so that USDA can implement
+new policies by December 31, 2025.
+• Ensure ongoing operations and maintenance, and enhancements to
+Pub
+Ag, Ag Data Commons, and research management systems to ensure
+public access to USDA-funded research outputs, with an emphasis on
+d
+igital persistent identifier issues to integrate research outputs consistently
+and at scale.
+• Prototype automated reporting frameworks and processes needed to
+anal
+yze policy effectiveness.
+• Develop plans to carry out likely development needs as well as needs
+re
+vealed during the policy development and implementation process.
+• Develop new outreach and training materials and validate them with
+cu
+stomers and community stakeholders.
+Scope of DR 1020-006
+People • All USDA mission areas, agencies, and staff offices
+• All USDA employees who engage in scientific research during
+of
+ficial duties
+• Awardees and contractors from non-US DA organizations who
+ar
+e engaged in USDA-supported scientific research
+Research
+All unclassified scientific research (intramural and extramural) 
+supported wholly or in part by the USDA, regardless of the USDA 
+funding level or funding mechanism. This includes scientific 
+research
+Text Len: 1828
+--------------------------------------------------------------------------------
+ in scientific research during
+of
+ficial duties
+• Awardees and contractors from non-US DA organizations who
+ar
+e engaged in USDA-supported scientific research
+Research
+All unclassified scientific research (intramural and extramural) 
+supported wholly or in part by the USDA, regardless of the USDA 
+funding level or funding mechanism. This includes scientific 
+research supported by: 
+• Any direct funding from a USDA grant or cooperative
+agr
+eement active in Fiscal Year 2023 or beyond
+• Any direct funding from a USDA contract signed on or after
+O
+ctober 1, 2022
+• Any direct funding or arrangement, including in-k ind support,
+fr
+om any USDA Intramural Research
+Outline of Policy Requirements
+1. Scholarly Publications
+2. Digital Scientific Research Data
+a. Public Access
+b. Data Management Plans
+3. Persistent Identifiers
+1. Requirements for Scholarly Publications
+Scope: 
+Peer-reviewed journal articles published by nongovernmental organizations
+Accepted manuscripts must be made freely available to the public 
+through PubAg within 12 months of upon publication.
+In most cases these should be submitted to submit.nal.usda.gov.
+Final published articles may be submitted to PubAg to satisfy this 
+requirement, if the author has the right to share the published version (i.e., 
+open access articles)
+2. R equirements for Digital Scientifi c
+R
+esearch Data
+Scope: 
+Digital scientific research data that are appropriate for public access
+Published in a machine-readable format in recognized repository that 
+provides public access, persistent identifier, and preservation
+Public access within 12 months of on publishing date of associated 
+scholarly publication, or end of performance period, 
+whichever comes first
+Standardized metadata catalog entry in the Ag Data Commons
+
+Text Len: 1776
+--------------------------------------------------------------------------------
+: 
+Digital scientific research data that are appropriate for public access
+Published in a machine-readable format in recognized repository that 
+provides public access, persistent identifier, and preservation
+Public access within 12 months of on publishing date of associated 
+scholarly publication, or end of performance period, 
+whichever comes first
+Standardized metadata catalog entry in the Ag Data Commons
+2. a. Requirements for Digital Scientific
+R
+esearch Data
+Digital scientific research data assets should be made publicly accessible to 
+fullest extent practicable.
+However, nine categories of digital scientific research data assets should not 
+be mad
+e publicly accessible, including:
+• Data that would not be necessary for validation of scientific research findings (i.e., trivial data)
+• Data assets that include personally identifiable information (PII) or other information that could
+enable re-identification of individuals or businesses
+• Proprietary data assets
+• Data assets related to protecting critical infrastructure
+• Data assets related to the physical location of threatened or endangered species or sensitive
+archaeological sites
+• Data assets for which release would be inconsistent with U.S. national, homeland, or economic
+security or would have significant negative impact on intellectual property rights, innovation,
+and U.S. competitiveness
+• Data assets for which public access is inconsistent with agency mission (e.g., documents
+designated CUI)
+• Other data assets whose release is limited by law, regulation, contract, agreement, national
+security requirements, or policy (e.g., classified data or dual-use research data)
+• Data covered by a FOIA exemption
+NAL Resources for Data Sharing and Cataloging
+https://www.nal.usda.gov/d
+ata/find-data-repository
+https://agdatacommons.nal.
+usda.gov/
+2. b . Requirements for Digital Scient
+Text Len: 1868
+--------------------------------------------------------------------------------
+g., classified data or dual-use research data)
+• Data covered by a FOIA exemption
+NAL Resources for Data Sharing and Cataloging
+https://www.nal.usda.gov/d
+ata/find-data-repository
+https://agdatacommons.nal.
+usda.gov/
+2. b . Requirements for Digital Scientifi c
+R
+esearch Data
+Scope: 
+All scientific research covered by this DR
+All scientific research must be accompanied by a reviewed and agency- or 
+office-approved data management plan (DMP)
+DMP must describe how digital scientific research data assets will be made 
+publicly accessible and indicate any categories of digital scientific research data 
+assets that are exempt from public access requirements
+NAL Resources for Data Management Planning
+Suggested DMP 
+Components
+1. Expected data
+ty
+pes
+2. Data formats and
+s
+tandards
+3. Data storage and
+pr
+eservation of
+a
+ccess
+4. Data sharing and
+public access
+5. Roles and
+r
+esponsibilities
+6. Monitori ng and
+r
+eporting
+https://www.nal.usda.gov/data/data-management-planning
+3. R equirements for Digital Persisten t
+Id
+entifiers
+Scope: 
+All authors of research products covered by the DR, research products
+Authors of scholarly publications and digital scientific research data assets should 
+use individual persistent identifiers 
+(e.g., ORCID iD)
+USDA-funded authors who are not USDA staff can go to http://orcid.org or use their 
+institution’s links.
+Research products should receive persistent identifiers
+USDA Public Access Landing Page 
+https://www.nal.usda.gov/services
+Text Len: 1480
+--------------------------------------------------------------------------------
+ 
+use individual persistent identifiers 
+(e.g., ORCID iD)
+USDA-funded authors who are not USDA staff can go to http://orcid.org or use their 
+institution’s links.
+Research products should receive persistent identifiers
+USDA Public Access Landing Page 
+https://www.nal.usda.gov/services/public-access
+• Implementation Support
+• DR 1020-006
+• Implementation Guide
+• FAQs
+• Resources & Services
+• PubAg
+• Ag Data Commons
+• Trainings, templates,
+compliance checklists, etc.
+• Agency & Office Public
+Access Points of
+Contact(TBA)
+• Federal register notices and
+public comment links
+
+We invite you to provide written comments 
+through February 28, 2024
+Federal Register notice posted 1/29/2024 
+Go to Regulations.gov, search for “2024-01673”
+or go directly to: 
+https://www.regulations.gov/document/NAL-2024-0001-0001
+D
+ownload the document (same as the FR notice) 
+and use comment button to leave your comment.
+Thank You!
+• Office of the Chief Scientist is policy owner
+• Rich Derksen, Rich.Derksen@usda.gov
+• The National Agricultural Library provides
+imp
+lementation support
+• Cynthia Sims Parr, Cynthia.Parr@usda.gov
+Text Len: 1114
+--------------------------------------------------------------------------------

@@ -1,0 +1,146 @@
+Crop Knowledge Master
+Turnip Mosaic Virus
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+All Brassica species are susceptible to turnip mosaic virus including broccoli and cauliflower (B. oleracea L. var. botrytis L.), rape (B. campestris), white cabbage (B. oleracea var. capitata L. alba DC.), leaf or Chinese mustard (B. juncea Zerj & Coss.), and Chinese or celery cabbage (B. pekinensis (Lour.) Rupr.). The virus also infects head lettuce (Latuca sativa L. var. capitata L.), watercress (Nasturtium officinale R. Br.), radish (Raphanus sativus L.), and tobacco (Nicotiana tabacum L.).
+DISTRIBUTION
+Cosmopolitan. It is known to occur throughout the United States, Europe, South Africa, Asia, Japan, Australia and Taiwan.
+SYMPTOMS
+PLANTS
+Young leaves acquire chlorotic ringspots. As the leaf ages, the ringspots are followed by yellow or brownish spots surrounded by circular or irregular necrotic rings (lesions). Generally, these occur in the vicinity of the leaf veins. Leaf blight occurs in infected sections when many lesions coalesce (Conroy, 1959; Pink and Walkey, 1988). Heat resistant cultivars usually are highly susceptible to turnip mosaic virus (Lim et al., 1978).
+When cabbage becomes infected, the outer leaves are more uniformly necrotic but show some ringspot pattern (Conroy, 1959). As the leaves age, a distinctly chlorotic color nearly replaces
+Text Len: 1584
+--------------------------------------------------------------------------------
+ in infected sections when many lesions coalesce (Conroy, 1959; Pink and Walkey, 1988). Heat resistant cultivars usually are highly susceptible to turnip mosaic virus (Lim et al., 1978).
+When cabbage becomes infected, the outer leaves are more uniformly necrotic but show some ringspot pattern (Conroy, 1959). As the leaves age, a distinctly chlorotic color nearly replaces the normal dark-green tissue. "Infection is often accompanied by curvature of the midrib and asymmetrical distortion of the leaf blade" (Duffus and Zink, 1969).
+STORED CROPS
+The occurence of internal necrosis of post harvest white cabbage (Brassica oleracea var. capitata L. alba DC.) has been correlated with the presence and severity of field symptoms of turnip mosaic virus. Internal necrosis is characterized by larger necrotic lesions (LNL) than other types of necrosis. This post harvest disorder usually results in the loss of large quantities of stored cabbage. Symptoms of LNL are lesions that are often 5 to 10 mm in diameter which frequently coalesce. The lesions are sunken and necrotic in the center (Walkey and Webb, 1978).
+BIOLOGY
+The virus produces the most pronounced symptoms in the temperature range of 22 to 30 C, almost none at 21 C, and is masked completely at 16 C or lower (Pound and Walker, 1945). "Cold, wet weather not only reduces the severity of the disease but hinders transmission by aphids that migrate mostly during warm sunny days" (Chupp and Sherf, 1960).
+"The time between inoculation and visible symptoms varies from 9 to 35 days, depending mostly upon air temperature during the interval" (Chupp and Sherf, 1960).
+Synonyms include: Brassica viruses 2 and 4, rhubarb virus 2, turnip virus 1, Marmor brassicae. Strains or suspected
+Text Len: 1741
+--------------------------------------------------------------------------------
+ sunny days" (Chupp and Sherf, 1960).
+"The time between inoculation and visible symptoms varies from 9 to 35 days, depending mostly upon air temperature during the interval" (Chupp and Sherf, 1960).
+Synonyms include: Brassica viruses 2 and 4, rhubarb virus 2, turnip virus 1, Marmor brassicae. Strains or suspected strains of turnip mosaic virus include: Anemone mosaic virus (syn: Anemone latent virus); Brassica nigra mosaic virus; cabbage black ringspot virus (syn: cabbage black spot, Brassica virus 1); cabbage black ring virus; cabbage ring necrosis virus (syn: brassicavirus annulolaedens); cabbage virus A.; Chinese cabbage mosaic virus; crucifer mosaic virus; Daikon mosaic virus; groundnut mosaic virus; horseradish mosaic virus; Kwuting strain (chinese cabbage); Matthiola mutant strain; mustard (Indian) mosaic virus; mustard mosaic virus; radish P and R viruses; rhubarb virus 1; stock mosaic virus, mild and severe strains (syn: stock breaking virus, Matthiloa virus, Marmor matthiolae, Matthiolavirus maculans);, turnip mosaic virus, rhubarb strain; turnip mosaic viruses T-1, 6, 8, 9; TrMV, cabbage strains (Commonwealth Mycological Inst., 1968, 1971).
+EPIDEMIOLOGY
+"The virus lives between seasons or over winter in perennial weeds or such crops as horse-radish. It is carried by 40 to 50 species of aphids but especially by the cabbage aphid and green peach aphid (Myzus persicae (Sulzer)). It also can be transmitted by diseased leaves being rubbed against healthy ones" (Chupp and Sherf, 1960).
+The virus is "transmitted in a nonpersistent manner" (Pink and Wal
+Text Len: 1581
+--------------------------------------------------------------------------------
+radish. It is carried by 40 to 50 species of aphids but especially by the cabbage aphid and green peach aphid (Myzus persicae (Sulzer)). It also can be transmitted by diseased leaves being rubbed against healthy ones" (Chupp and Sherf, 1960).
+The virus is "transmitted in a nonpersistent manner" (Pink and Walkey, 1988), which means that the virus reproduces in the plant and that aphids simply aid in transporting the virus.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Because turnip mosaic virus is nonpersistant, controlling for aphids is futile.
+"All weeds should be destroyed along fence rows, roadways, ditch banks, or fallow ground next to the field" (Chupp and Sherf, 1960).
+To control internal necrosis, only cabbage heads that are symptomless in the field should be stored for any length of time (Walkey and Webb, 1978).
+Resistant cultivars: Pink and Walkey (1988) examined the resistance of sixteen cauliflower cultivars to turnip mosaic virus. There was no correlation between symptoms of glasshouse-grown plants and field-grown plants. Thus, resistant cultivar studies should be conducted on field-grown plants. Overall none of the cultivars was very resistant to the virus.
+Lim et al. (1978) tested twenty cultivars of Brassica pekinensis for resistance to turnip mosaic virus in the fall (field and greenhouse plantings) and in the spring (field plantings only). Two Korean cultivars were resistant in all three plantings: Nabyeng 60 days and Kongng #3, with an average infection of 1.5%. Neither cultivar is heat tolerant. Two other cultivars, Tip Top (Japan) and Ta Feng (Taiwan) were found to be resistant in fall field plantings and moderately resistant in spring plantings (13.3%
+Text Len: 1687
+--------------------------------------------------------------------------------
+ only). Two Korean cultivars were resistant in all three plantings: Nabyeng 60 days and Kongng #3, with an average infection of 1.5%. Neither cultivar is heat tolerant. Two other cultivars, Tip Top (Japan) and Ta Feng (Taiwan) were found to be resistant in fall field plantings and moderately resistant in spring plantings (13.3% and 18.2% infection, respectively). These two cultivars are also heat intolerant.
+CHEMICAL CONTROL
+"Spraying for aphids gives only slight control of the virus because some feeding always takes place before the virus carrier dies" (Chupp and Sherf, 1960).
+REFERENCES
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 282-284. The Ronald Press Company. New York. 693 pp.
+Commonwealth Mycological Institute. 1968. Plant virus names. Kew, Surrey, England. 204 pp.
+Commonwealth Mycological Institute. 1971. Plant virus names supplement no. 1. Kew, Surrey, England. 36 pp.
+Conroy, R.Y. 1959. Black ringspot disease of crucifers. J. Aust. Inst. Agr. Sci. 25:64-67.
+Duffus, J.E., and F.W. Zink. 1969. A diagnostic host reaction for the identification of turnip mosaic virus. Plant Dis. Reptr. 53:916-917.
+Lim, W.L., S.H. Wang, and O.C. Ng. 1978. Resistance in chinese cabbage to turnip mosaic virus. Plant Dis. Reptr. 62:660-662.
+Pink, D.A.C., and D.G.A. Walkey. 1988. The reaction of summer- and autumn-maturing cauliflowers to
+Text Len: 1375
+--------------------------------------------------------------------------------
+Lim, W.L., S.H. Wang, and O.C. Ng. 1978. Resistance in chinese cabbage to turnip mosaic virus. Plant Dis. Reptr. 62:660-662.
+Pink, D.A.C., and D.G.A. Walkey. 1988. The reaction of summer- and autumn-maturing cauliflowers to infection by cauliflower mosaic and turnip mosaic virus. J. Hort. Sci. 63:95-102.
+Pound, G.S., and J.C. Walker. 1945. Effect of air temperature on the contenctation of certain viruses in cabbage. J. Agric. Res. 71:471-485.
+Walkey, D.G.A., and M.J.W. Webb. 1978. Internal necrosis in stored white cabbage caused by turnip mosaic virus. Ann. appl. Biol. 89:435-441.
+    DECEMBER 1991
+  2A-TUMOV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 676
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Turnip Mosaic Virus
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+All Brassica species are susceptible to turnip mosaic virus including broccoli and cauliflower (B. oleracea L. var. botrytis L.), rape (B. campestris), white cabbage (B. oleracea var. capitata L. alba DC.), leaf or Chinese mustard (B. juncea Zerj & Coss.), and Chinese or celery cabbage (B. pekinensis (Lour.) Rupr.). The virus also infects head lettuce (Latuca sativa L. var. capitata L.), watercress (Nasturtium officinale R. Br.), radish (Raphanus sativus L.), and tobacco (Nicotiana tabacum L.).
+DISTRIBUTION
+Cosmopolitan. It is known to occur throughout the United States, Europe, South Africa, Asia, Japan, Australia and Taiwan.
+SYMPTOMS
+PLANTS
+Young leaves acquire chlorotic ringspots. As the leaf ages, the ringspots are followed by yellow or brownish spots surrounded by circular or irregular necrotic rings (lesions). Generally, these occur in the vicinity of the leaf veins. Leaf blight occurs in infected sections when many lesions coalesce (Conroy, 1959; Pink and Walkey, 1988). Heat resistant cultivars usually are highly susceptible to turnip mosaic virus (Lim et al., 1978).
+When cabbage becomes infected, the outer leaves are more uniformly necrotic but show some ringspot pattern (Conroy, 1959). As the leaves age, a distinctly chlorotic color nearly replaces
+Text Len: 1584
+--------------------------------------------------------------------------------
+ in infected sections when many lesions coalesce (Conroy, 1959; Pink and Walkey, 1988). Heat resistant cultivars usually are highly susceptible to turnip mosaic virus (Lim et al., 1978).
+When cabbage becomes infected, the outer leaves are more uniformly necrotic but show some ringspot pattern (Conroy, 1959). As the leaves age, a distinctly chlorotic color nearly replaces the normal dark-green tissue. "Infection is often accompanied by curvature of the midrib and asymmetrical distortion of the leaf blade" (Duffus and Zink, 1969).
+STORED CROPS
+The occurence of internal necrosis of post harvest white cabbage (Brassica oleracea var. capitata L. alba DC.) has been correlated with the presence and severity of field symptoms of turnip mosaic virus. Internal necrosis is characterized by larger necrotic lesions (LNL) than other types of necrosis. This post harvest disorder usually results in the loss of large quantities of stored cabbage. Symptoms of LNL are lesions that are often 5 to 10 mm in diameter which frequently coalesce. The lesions are sunken and necrotic in the center (Walkey and Webb, 1978).
+BIOLOGY
+The virus produces the most pronounced symptoms in the temperature range of 22 to 30 C, almost none at 21 C, and is masked completely at 16 C or lower (Pound and Walker, 1945). "Cold, wet weather not only reduces the severity of the disease but hinders transmission by aphids that migrate mostly during warm sunny days" (Chupp and Sherf, 1960).
+"The time between inoculation and visible symptoms varies from 9 to 35 days, depending mostly upon air temperature during the interval" (Chupp and Sherf, 1960).
+Synonyms include: Brassica viruses 2 and 4, rhubarb virus 2, turnip virus 1, Marmor brassicae. Strains or suspected
+Text Len: 1741
+--------------------------------------------------------------------------------
+ sunny days" (Chupp and Sherf, 1960).
+"The time between inoculation and visible symptoms varies from 9 to 35 days, depending mostly upon air temperature during the interval" (Chupp and Sherf, 1960).
+Synonyms include: Brassica viruses 2 and 4, rhubarb virus 2, turnip virus 1, Marmor brassicae. Strains or suspected strains of turnip mosaic virus include: Anemone mosaic virus (syn: Anemone latent virus); Brassica nigra mosaic virus; cabbage black ringspot virus (syn: cabbage black spot, Brassica virus 1); cabbage black ring virus; cabbage ring necrosis virus (syn: brassicavirus annulolaedens); cabbage virus A.; Chinese cabbage mosaic virus; crucifer mosaic virus; Daikon mosaic virus; groundnut mosaic virus; horseradish mosaic virus; Kwuting strain (chinese cabbage); Matthiola mutant strain; mustard (Indian) mosaic virus; mustard mosaic virus; radish P and R viruses; rhubarb virus 1; stock mosaic virus, mild and severe strains (syn: stock breaking virus, Matthiloa virus, Marmor matthiolae, Matthiolavirus maculans);, turnip mosaic virus, rhubarb strain; turnip mosaic viruses T-1, 6, 8, 9; TrMV, cabbage strains (Commonwealth Mycological Inst., 1968, 1971).
+EPIDEMIOLOGY
+"The virus lives between seasons or over winter in perennial weeds or such crops as horse-radish. It is carried by 40 to 50 species of aphids but especially by the cabbage aphid and green peach aphid (Myzus persicae (Sulzer)). It also can be transmitted by diseased leaves being rubbed against healthy ones" (Chupp and Sherf, 1960).
+The virus is "transmitted in a nonpersistent manner" (Pink and Wal
+Text Len: 1581
+--------------------------------------------------------------------------------
+radish. It is carried by 40 to 50 species of aphids but especially by the cabbage aphid and green peach aphid (Myzus persicae (Sulzer)). It also can be transmitted by diseased leaves being rubbed against healthy ones" (Chupp and Sherf, 1960).
+The virus is "transmitted in a nonpersistent manner" (Pink and Walkey, 1988), which means that the virus reproduces in the plant and that aphids simply aid in transporting the virus.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Because turnip mosaic virus is nonpersistant, controlling for aphids is futile.
+"All weeds should be destroyed along fence rows, roadways, ditch banks, or fallow ground next to the field" (Chupp and Sherf, 1960).
+To control internal necrosis, only cabbage heads that are symptomless in the field should be stored for any length of time (Walkey and Webb, 1978).
+Resistant cultivars: Pink and Walkey (1988) examined the resistance of sixteen cauliflower cultivars to turnip mosaic virus. There was no correlation between symptoms of glasshouse-grown plants and field-grown plants. Thus, resistant cultivar studies should be conducted on field-grown plants. Overall none of the cultivars was very resistant to the virus.
+Lim et al. (1978) tested twenty cultivars of Brassica pekinensis for resistance to turnip mosaic virus in the fall (field and greenhouse plantings) and in the spring (field plantings only). Two Korean cultivars were resistant in all three plantings: Nabyeng 60 days and Kongng #3, with an average infection of 1.5%. Neither cultivar is heat tolerant. Two other cultivars, Tip Top (Japan) and Ta Feng (Taiwan) were found to be resistant in fall field plantings and moderately resistant in spring plantings (13.3%
+Text Len: 1687
+--------------------------------------------------------------------------------
+ only). Two Korean cultivars were resistant in all three plantings: Nabyeng 60 days and Kongng #3, with an average infection of 1.5%. Neither cultivar is heat tolerant. Two other cultivars, Tip Top (Japan) and Ta Feng (Taiwan) were found to be resistant in fall field plantings and moderately resistant in spring plantings (13.3% and 18.2% infection, respectively). These two cultivars are also heat intolerant.
+CHEMICAL CONTROL
+"Spraying for aphids gives only slight control of the virus because some feeding always takes place before the virus carrier dies" (Chupp and Sherf, 1960).
+REFERENCES
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 282-284. The Ronald Press Company. New York. 693 pp.
+Commonwealth Mycological Institute. 1968. Plant virus names. Kew, Surrey, England. 204 pp.
+Commonwealth Mycological Institute. 1971. Plant virus names supplement no. 1. Kew, Surrey, England. 36 pp.
+Conroy, R.Y. 1959. Black ringspot disease of crucifers. J. Aust. Inst. Agr. Sci. 25:64-67.
+Duffus, J.E., and F.W. Zink. 1969. A diagnostic host reaction for the identification of turnip mosaic virus. Plant Dis. Reptr. 53:916-917.
+Lim, W.L., S.H. Wang, and O.C. Ng. 1978. Resistance in chinese cabbage to turnip mosaic virus. Plant Dis. Reptr. 62:660-662.
+Pink, D.A.C., and D.G.A. Walkey. 1988. The reaction of summer- and autumn-maturing cauliflowers to
+Text Len: 1375
+--------------------------------------------------------------------------------
+Lim, W.L., S.H. Wang, and O.C. Ng. 1978. Resistance in chinese cabbage to turnip mosaic virus. Plant Dis. Reptr. 62:660-662.
+Pink, D.A.C., and D.G.A. Walkey. 1988. The reaction of summer- and autumn-maturing cauliflowers to infection by cauliflower mosaic and turnip mosaic virus. J. Hort. Sci. 63:95-102.
+Pound, G.S., and J.C. Walker. 1945. Effect of air temperature on the contenctation of certain viruses in cabbage. J. Agric. Res. 71:471-485.
+Walkey, D.G.A., and M.J.W. Webb. 1978. Internal necrosis in stored white cabbage caused by turnip mosaic virus. Ann. appl. Biol. 89:435-441.
+    DECEMBER 1991
+  2A-TUMOV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 676
+--------------------------------------------------------------------------------

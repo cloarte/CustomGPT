@@ -1,0 +1,982 @@
+UNCONTROLLED COPY 
+SAM 209.07 
+Page 1 of 8  
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 209 
+ 
+Supplemental Assay Method for Potency Testing Products Containing 
+Clostridium haemolyticum Antigen 
+ 
+ 
+Date: March 23, 2024 
+ 
+Number: SAM 209.07 
+ 
+Supersedes: SAM 209.06, December 13, 2017 
+ 
+Standard Requirement:   9 CFR, Part 113.107 
+ 
+Contact: Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.  
+ 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 2 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies
+Text Len: 1184
+--------------------------------------------------------------------------------
+ Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+2.3   Test animals 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Selection and handling of test animals 
+3.3 Preparation of supplies 
+3.4 Preparation of reagents 
+ 
+4.  Performance of the Test 
+ 
+4.1 Vaccination of test animals 
+4.2 Timing of challenge 
+4.3 Preparation of challenge 
+4.4 Observation of guinea pigs following challenge 
+ 
+5.  Interpretation of Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References  
+ 
+8.  Summary of Revisions 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 3 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes procedures for potency testing biological 
+products containing Clostridium haemolyticum antigen as prescribed in title 9, Code of Federal 
+Regulations (9 CFR), section 113.107. For products that require 2 vaccinations, guinea pigs are 
+vaccinated twice, 21 to 23 days apart, and challenged with
+Text Len: 1282
+--------------------------------------------------------------------------------
+ 
+ 
+This Supplemental Assay Method (SAM) describes procedures for potency testing biological 
+products containing Clostridium haemolyticum antigen as prescribed in title 9, Code of Federal 
+Regulations (9 CFR), section 113.107. For products that require 2 vaccinations, guinea pigs are 
+vaccinated twice, 21 to 23 days apart, and challenged with a standard dose of virulent  
+C. haemolyticum spores 14 to 15 days following the second vaccination. For products that 
+require a single dose, guinea pigs are vaccinated and challenged with a standard dose of virulent 
+C. haemolyticum spores 35 to 38 days following vaccination. This is a 2-stage test in which the 
+second stage is applied only when exactly 2 vaccinated guinea pigs die in the first stage. 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+• Mixer, vortex-type 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below 
+unless specified as required for the test. 
+ 
+2.2.1 C. haemolyticum challenge culture, IRP 647, provided by the Center for 
+Veterinary Biologics (CVB). 
+ 
+2.2.2 Sodium chloride, reagent grade 
+ 
+2.2.3 Calcium chloride dihydrate, reagent grade 
+ 
+2.2.4 Syringes, needle-locking, 3-mL, 5-mL, and 10-mL 
+ 
+2.2.5 Needles, 23-gauge x 1-inch 
+Text Len: 1375
+--------------------------------------------------------------------------------
+.2.2 Sodium chloride, reagent grade 
+ 
+2.2.3 Calcium chloride dihydrate, reagent grade 
+ 
+2.2.4 Syringes, needle-locking, 3-mL, 5-mL, and 10-mL 
+ 
+2.2.5 Needles, 23-gauge x 1-inch  
+ 
+2.2.6 Pipettes, 2-mL, and 5-mL 
+ 
+2.2.7 Glass screw-cap tube, 16 x 125-mm 
+ 
+  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 4 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.8 Glass serum bottle, 50-mL 
+ 
+2.2.9 Rubber stoppers, 13 x 20-mm, and aluminum caps for serum bottles 
+ 
+2.2.10 Water, deionized or distilled, or water of equivalent purity 
+ 
+2.3   Test animals 
+ 
+Guinea pigs, 300-500 g. (Eight guinea pigs are required for each serial to be tested. Five 
+additional guinea pigs are required as controls for each 1-4 serials tested. All guinea pigs 
+used for a test series must be from the same source and housed and fed in the same 
+manner.) 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glass
+Text Len: 1147
+--------------------------------------------------------------------------------
+ All guinea pigs 
+used for a test series must be from the same source and housed and fed in the same 
+manner.) 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware. In addition, personnel need specific training and 
+experience in the handling of live bacterial cultures and the handling of guinea pigs. 
+ 
+3.2   Selection and handling of test animals 
+ 
+3.2.1 Select guinea pigs that are healthy and free of external parasites and have 
+an unblemished hair coat. 
+ 
+3.2.2 Guinea pigs of either sex or any color may be used. 
+ 
+3.2.3 Examine guinea pigs the day they are received. House appropriately 
+allowing adequate space. (Do not mix sexes in any 1 cage.) 
+ 
+3.2.4 Instruct the animal caretakers not to clean the cages following challenge. 
+ 
+3.2.5 When the test is concluded, instruct the animal caretakers to euthanize and 
+incinerate the guinea pigs and contaminated bedding and to sanitize the 
+contaminated cages. 
+ 
+3.3   Preparation of supplies 
+ 
+3.3.1 Sterilize all glassware before use. 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 5 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+3.3
+Text Len: 1357
+--------------------------------------------------------------------------------
+ use. 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 5 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+3.3.2 Make sure all disposable supplies (pipettes, syringes, needles, rubber 
+stoppers, etc.) are sterile. 
+ 
+3.4   Preparation of reagents 
+ 
+3.4.1 C. haemolyticum challenge culture 
+ 
+The C. haemolyticum challenge culture, IRP 647, is suspended in 50% glycerol. 
+Each vial contains approximately 0.8 mL. Store vials of spore suspension at -50° 
+to -90°C. 
+ 
+3.4.2 Calcium chloride solution, 7.5% 
+ 
+Dissolve 13.5 g of calcium chloride dihydrate (CaCl2·2H2O) in 180 mL of 
+distilled water. Autoclave at ≥121°C for 25-30 minutes following manufacturer’s 
+recommendations. Cool the solution on ice and aseptically dispense 26 mL into a 
+50-mL serum bottle.  
+ 
+Note:  Prepare the calcium chloride solution on the day of the challenge. 
+Keep the solution on ice until used. 
+ 
+3.4.3 Sodium chloride solution, 0.85% 
+ 
+Dissolve 1.7 g of Sodium chloride (NaCl) in 200 mL of distilled water. Autoclave 
+at ≥121°C for 25-30 minutes following manufacturer’s recommendations. Cool 
+Text Len: 1191
+--------------------------------------------------------------------------------
+ of the challenge. 
+Keep the solution on ice until used. 
+ 
+3.4.3 Sodium chloride solution, 0.85% 
+ 
+Dissolve 1.7 g of Sodium chloride (NaCl) in 200 mL of distilled water. Autoclave 
+at ≥121°C for 25-30 minutes following manufacturer’s recommendations. Cool 
+the solution on ice and dispense aseptically 4.5-mL into a 16 x 125-mm tube.  
+ 
+Note:  Prepare the sodium chloride solution on the day of the challenge. Keep 
+the solution on ice while making dilutions. 
+ 
+4.  Performance of the Test 
+ 
+4.1   Vaccination of test animals 
+ 
+4.1.1 Check the label on each container of product to be tested for identity and 
+recommended field dose. The guinea pig dose is 1/5 of the recommended calf 
+dose. 
+ 
+4.1.2 Thoroughly mix the product by striking the container against the palm of 
+the hand at least 25 times before the syringes are filled. Use 5-mL or 10-mL 
+syringes, fitted with 23-gauge x 1-inch needles. 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 6 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+4.1.3 Vaccinate 8 guinea pigs with each serial of product. Administer the 
+vaccine subcutaneously in the ventral thoracic area. Administer the first 
+vaccination on the RIGHT
+Text Len: 1296
+--------------------------------------------------------------------------------
+ Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+4.1.3 Vaccinate 8 guinea pigs with each serial of product. Administer the 
+vaccine subcutaneously in the ventral thoracic area. Administer the first 
+vaccination on the RIGHT side of the guinea pig. 
+ 
+4.1.4 For 2-dose products, administer the second vaccination 21 to 23 days after 
+the first. Administer the second vaccination subcutaneously in the ventral thoracic 
+area on the LEFT side of the guinea pig. 
+ 
+4.2   Timing of challenge 
+ 
+4.2.1 Challenge 8 guinea pigs per serial of product 14 to 15 days after the 
+second vaccination for 2-dose products or 35 to 38 days after vaccination for 
+single-dose products. 
+ 
+4.2.2 Challenge the nonvaccinated control guinea pigs at the same time. The 5 
+nonvaccinated guinea pigs may serve as controls for up to 4 serials of product.  
+ 
+4.3   Preparation of challenge 
+ 
+4.3.1 Thaw a vial of challenge culture, IRP 647, at room temperature and use 
+immediately. 
+ 
+4.3.2 Mix the contents thoroughly by shaking the vial vigorously. 
+ 
+4.3.3 Use a 2-mL pipette to remove 0.7 mL of spore suspension from the vial. 
+Pipette 0.5 mL of spore suspension into a glass tube containing 4.5 mL of cold, 
+sterile 0.85% NaCl solution (1:10 dilution). 
+ 
+Note: 
+Text Len: 1299
+--------------------------------------------------------------------------------
+
+ 
+4.3.3 Use a 2-mL pipette to remove 0.7 mL of spore suspension from the vial. 
+Pipette 0.5 mL of spore suspension into a glass tube containing 4.5 mL of cold, 
+sterile 0.85% NaCl solution (1:10 dilution). 
+ 
+Note:  The C. haemolyticum spore suspension is viscid and must be pipetted 
+with care to ensure delivery of the complete volume. 
+ 
+4.3.4 Use a 5-mL pipette to remove 3 mL of well-mixed spore suspension 
+diluted 1:10. Transfer 2 mL into a 50-mL serum vial containing 26 mL of cold, 
+sterile calcium chloride solution. Cap and seal the bottle. Mix this 1:140 challenge 
+suspension thoroughly and place on ice. Allow the challenge suspension to remain 
+on ice approximately 10 minutes before inoculating the first guinea pig. 
+ 
+4.3.5 Mix the challenge thoroughly before each syringe is filled. Use 3-mL 
+syringes fitted with 23-gauge x 1-inch needles to inoculate the guinea pigs. 
+Inoculate each guinea pig intramuscularly in the thigh of the right or left hind leg 
+with 0.5 mL of challenge material. The challenge dilution contains approximately 
+100 guinea pig lethal dose 50 (LD50) per 0.5 mL. 
+ 
+Note: Each 28-mL volume of the 1:140 challenge dilution may be used to 
+challenge up to 40 vaccinates and 5 nonvaccinated controls. This constitutes  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page
+Text Len: 1341
+--------------------------------------------------------------------------------
+) per 0.5 mL. 
+ 
+Note: Each 28-mL volume of the 1:140 challenge dilution may be used to 
+challenge up to 40 vaccinates and 5 nonvaccinated controls. This constitutes  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 7 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+a challenge unit. Additional 28-mL volumes of challenge must be prepared if 
+additional challenge units are required. 
+ 
+4.3.6 Complete the inoculation of the guinea pigs in each challenge unit within 
+approximately 30 minutes from the time the challenge dilution is prepared. 
+ 
+4.4   Observation of guinea pigs following challenge 
+ 
+Observe the guinea pigs for 72 hours following challenge and record deaths. Also 
+examine the test animals for sores, edema, and general physical condition. Record 
+these observations on the daily record. The test is concluded at the end of the 
+72 hours. 
+ 
+Note:  Moribund animals exhibiting clinical signs consistent with the 
+expected disease pathogenesis that are unable to rise or move under their 
+own power may be humanely euthanized and considered as deaths as 
+outlined in 9 CFR 117.4. 
+ 
+5.  Interpretation of Test Results 
+ 
+The test is interpreted as prescribed in 9 CFR 113.107. For a valid test, at least 80% of the 
+controls shall die within the 3-day post-challenge observation period.  
+ 
+If this requirement is met, the results of the potency test
+Text Len: 1481
+--------------------------------------------------------------------------------
+ CFR 117.4. 
+ 
+5.  Interpretation of Test Results 
+ 
+The test is interpreted as prescribed in 9 CFR 113.107. For a valid test, at least 80% of the 
+controls shall die within the 3-day post-challenge observation period.  
+ 
+If this requirement is met, the results of the potency test shall be evaluated according to the 
+following table: 
+ 
+Stage Number of 
+vaccinates 
+Cumulative 
+number of 
+vaccinates 
+Cumulative total number 
+of deaths for a satisfactory 
+test 
+Cumulative total 
+number of deaths for 
+an unsatisfactory test 
+1 8 8 1 or less 3 or more 
+2 8 16 4 or less 5 or more 
+ 
+The second stage is required only when exactly 2 animals die in the first stage. The second stage 
+test is performed in a manner identical to the first stage test. 
+ 
+6.  Report of Test Results 
+ 
+Report results of the test(s) as described by standard operating procedures. 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, section 113.107, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 8 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+7.2   History of reagents: C. haemolyticum, IRP 89 (strain 7170), used to prepare IRP 
+647, was obtained
+Text Len: 1310
+--------------------------------------------------------------------------------
+ 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+7.2   History of reagents: C. haemolyticum, IRP 89 (strain 7170), used to prepare IRP 
+647, was obtained from Montana State University, Bozeman, Montana, in 1962. The 
+number of passages is unknown. 
+ 
+8.  Summary of Revisions 
+ 
+Version .07 
+• The coversheet, including contact information, has been updated. 
+• IRP 647 replaces IRP 526 (06) throughout the document. 
+• Minor formatting changes. 
+Version .06 
+• Updated 3.4.3 to reflect correct sodium chloride dispense volumes. 
+• Updated 7.2 to correct lot number. 
+• The Director was updated on the cover page. 
+ 
+Version .05 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .04 
+• The Contact information has been updated.  
+• The IRP number has been updated throughout the document from 477 to 526 (06). 
+ 
+Version .03 
+• The document number has been changed from BBSAM0209 to SAM 209. 
+ 
+Version .02 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 315 has been changed to IRP 477 throughout the document. 
+• The acceptable guinea pig weight has been changed to match the regulation
+Text Len: 1458
+--------------------------------------------------------------------------------
+ the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 315 has been changed to IRP 477 throughout the document. 
+• The acceptable guinea pig weight has been changed to match the regulation (9 CFR 
+113.107). 
+• The humane endpoint wording has been slightly revised for consistency. 
+• The contact person has been changed to Janet M. Wilson. 
+Text Len: 524
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 209.07 
+Page 1 of 8  
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 209 
+ 
+Supplemental Assay Method for Potency Testing Products Containing 
+Clostridium haemolyticum Antigen 
+ 
+ 
+Date: March 23, 2024 
+ 
+Number: SAM 209.07 
+ 
+Supersedes: SAM 209.06, December 13, 2017 
+ 
+Standard Requirement:   9 CFR, Part 113.107 
+ 
+Contact: Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.  
+ 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 2 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies
+Text Len: 1184
+--------------------------------------------------------------------------------
+ Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+2.3   Test animals 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Selection and handling of test animals 
+3.3 Preparation of supplies 
+3.4 Preparation of reagents 
+ 
+4.  Performance of the Test 
+ 
+4.1 Vaccination of test animals 
+4.2 Timing of challenge 
+4.3 Preparation of challenge 
+4.4 Observation of guinea pigs following challenge 
+ 
+5.  Interpretation of Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References  
+ 
+8.  Summary of Revisions 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 3 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes procedures for potency testing biological 
+products containing Clostridium haemolyticum antigen as prescribed in title 9, Code of Federal 
+Regulations (9 CFR), section 113.107. For products that require 2 vaccinations, guinea pigs are 
+vaccinated twice, 21 to 23 days apart, and challenged with
+Text Len: 1282
+--------------------------------------------------------------------------------
+ 
+ 
+This Supplemental Assay Method (SAM) describes procedures for potency testing biological 
+products containing Clostridium haemolyticum antigen as prescribed in title 9, Code of Federal 
+Regulations (9 CFR), section 113.107. For products that require 2 vaccinations, guinea pigs are 
+vaccinated twice, 21 to 23 days apart, and challenged with a standard dose of virulent  
+C. haemolyticum spores 14 to 15 days following the second vaccination. For products that 
+require a single dose, guinea pigs are vaccinated and challenged with a standard dose of virulent 
+C. haemolyticum spores 35 to 38 days following vaccination. This is a 2-stage test in which the 
+second stage is applied only when exactly 2 vaccinated guinea pigs die in the first stage. 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+• Mixer, vortex-type 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below 
+unless specified as required for the test. 
+ 
+2.2.1 C. haemolyticum challenge culture, IRP 647, provided by the Center for 
+Veterinary Biologics (CVB). 
+ 
+2.2.2 Sodium chloride, reagent grade 
+ 
+2.2.3 Calcium chloride dihydrate, reagent grade 
+ 
+2.2.4 Syringes, needle-locking, 3-mL, 5-mL, and 10-mL 
+ 
+2.2.5 Needles, 23-gauge x 1-inch 
+Text Len: 1375
+--------------------------------------------------------------------------------
+.2.2 Sodium chloride, reagent grade 
+ 
+2.2.3 Calcium chloride dihydrate, reagent grade 
+ 
+2.2.4 Syringes, needle-locking, 3-mL, 5-mL, and 10-mL 
+ 
+2.2.5 Needles, 23-gauge x 1-inch  
+ 
+2.2.6 Pipettes, 2-mL, and 5-mL 
+ 
+2.2.7 Glass screw-cap tube, 16 x 125-mm 
+ 
+  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 4 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.8 Glass serum bottle, 50-mL 
+ 
+2.2.9 Rubber stoppers, 13 x 20-mm, and aluminum caps for serum bottles 
+ 
+2.2.10 Water, deionized or distilled, or water of equivalent purity 
+ 
+2.3   Test animals 
+ 
+Guinea pigs, 300-500 g. (Eight guinea pigs are required for each serial to be tested. Five 
+additional guinea pigs are required as controls for each 1-4 serials tested. All guinea pigs 
+used for a test series must be from the same source and housed and fed in the same 
+manner.) 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glass
+Text Len: 1147
+--------------------------------------------------------------------------------
+ All guinea pigs 
+used for a test series must be from the same source and housed and fed in the same 
+manner.) 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware. In addition, personnel need specific training and 
+experience in the handling of live bacterial cultures and the handling of guinea pigs. 
+ 
+3.2   Selection and handling of test animals 
+ 
+3.2.1 Select guinea pigs that are healthy and free of external parasites and have 
+an unblemished hair coat. 
+ 
+3.2.2 Guinea pigs of either sex or any color may be used. 
+ 
+3.2.3 Examine guinea pigs the day they are received. House appropriately 
+allowing adequate space. (Do not mix sexes in any 1 cage.) 
+ 
+3.2.4 Instruct the animal caretakers not to clean the cages following challenge. 
+ 
+3.2.5 When the test is concluded, instruct the animal caretakers to euthanize and 
+incinerate the guinea pigs and contaminated bedding and to sanitize the 
+contaminated cages. 
+ 
+3.3   Preparation of supplies 
+ 
+3.3.1 Sterilize all glassware before use. 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 5 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+3.3
+Text Len: 1357
+--------------------------------------------------------------------------------
+ use. 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 5 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+3.3.2 Make sure all disposable supplies (pipettes, syringes, needles, rubber 
+stoppers, etc.) are sterile. 
+ 
+3.4   Preparation of reagents 
+ 
+3.4.1 C. haemolyticum challenge culture 
+ 
+The C. haemolyticum challenge culture, IRP 647, is suspended in 50% glycerol. 
+Each vial contains approximately 0.8 mL. Store vials of spore suspension at -50° 
+to -90°C. 
+ 
+3.4.2 Calcium chloride solution, 7.5% 
+ 
+Dissolve 13.5 g of calcium chloride dihydrate (CaCl2·2H2O) in 180 mL of 
+distilled water. Autoclave at ≥121°C for 25-30 minutes following manufacturer’s 
+recommendations. Cool the solution on ice and aseptically dispense 26 mL into a 
+50-mL serum bottle.  
+ 
+Note:  Prepare the calcium chloride solution on the day of the challenge. 
+Keep the solution on ice until used. 
+ 
+3.4.3 Sodium chloride solution, 0.85% 
+ 
+Dissolve 1.7 g of Sodium chloride (NaCl) in 200 mL of distilled water. Autoclave 
+at ≥121°C for 25-30 minutes following manufacturer’s recommendations. Cool 
+Text Len: 1191
+--------------------------------------------------------------------------------
+ of the challenge. 
+Keep the solution on ice until used. 
+ 
+3.4.3 Sodium chloride solution, 0.85% 
+ 
+Dissolve 1.7 g of Sodium chloride (NaCl) in 200 mL of distilled water. Autoclave 
+at ≥121°C for 25-30 minutes following manufacturer’s recommendations. Cool 
+the solution on ice and dispense aseptically 4.5-mL into a 16 x 125-mm tube.  
+ 
+Note:  Prepare the sodium chloride solution on the day of the challenge. Keep 
+the solution on ice while making dilutions. 
+ 
+4.  Performance of the Test 
+ 
+4.1   Vaccination of test animals 
+ 
+4.1.1 Check the label on each container of product to be tested for identity and 
+recommended field dose. The guinea pig dose is 1/5 of the recommended calf 
+dose. 
+ 
+4.1.2 Thoroughly mix the product by striking the container against the palm of 
+the hand at least 25 times before the syringes are filled. Use 5-mL or 10-mL 
+syringes, fitted with 23-gauge x 1-inch needles. 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 6 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+4.1.3 Vaccinate 8 guinea pigs with each serial of product. Administer the 
+vaccine subcutaneously in the ventral thoracic area. Administer the first 
+vaccination on the RIGHT
+Text Len: 1296
+--------------------------------------------------------------------------------
+ Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+4.1.3 Vaccinate 8 guinea pigs with each serial of product. Administer the 
+vaccine subcutaneously in the ventral thoracic area. Administer the first 
+vaccination on the RIGHT side of the guinea pig. 
+ 
+4.1.4 For 2-dose products, administer the second vaccination 21 to 23 days after 
+the first. Administer the second vaccination subcutaneously in the ventral thoracic 
+area on the LEFT side of the guinea pig. 
+ 
+4.2   Timing of challenge 
+ 
+4.2.1 Challenge 8 guinea pigs per serial of product 14 to 15 days after the 
+second vaccination for 2-dose products or 35 to 38 days after vaccination for 
+single-dose products. 
+ 
+4.2.2 Challenge the nonvaccinated control guinea pigs at the same time. The 5 
+nonvaccinated guinea pigs may serve as controls for up to 4 serials of product.  
+ 
+4.3   Preparation of challenge 
+ 
+4.3.1 Thaw a vial of challenge culture, IRP 647, at room temperature and use 
+immediately. 
+ 
+4.3.2 Mix the contents thoroughly by shaking the vial vigorously. 
+ 
+4.3.3 Use a 2-mL pipette to remove 0.7 mL of spore suspension from the vial. 
+Pipette 0.5 mL of spore suspension into a glass tube containing 4.5 mL of cold, 
+sterile 0.85% NaCl solution (1:10 dilution). 
+ 
+Note: 
+Text Len: 1299
+--------------------------------------------------------------------------------
+
+ 
+4.3.3 Use a 2-mL pipette to remove 0.7 mL of spore suspension from the vial. 
+Pipette 0.5 mL of spore suspension into a glass tube containing 4.5 mL of cold, 
+sterile 0.85% NaCl solution (1:10 dilution). 
+ 
+Note:  The C. haemolyticum spore suspension is viscid and must be pipetted 
+with care to ensure delivery of the complete volume. 
+ 
+4.3.4 Use a 5-mL pipette to remove 3 mL of well-mixed spore suspension 
+diluted 1:10. Transfer 2 mL into a 50-mL serum vial containing 26 mL of cold, 
+sterile calcium chloride solution. Cap and seal the bottle. Mix this 1:140 challenge 
+suspension thoroughly and place on ice. Allow the challenge suspension to remain 
+on ice approximately 10 minutes before inoculating the first guinea pig. 
+ 
+4.3.5 Mix the challenge thoroughly before each syringe is filled. Use 3-mL 
+syringes fitted with 23-gauge x 1-inch needles to inoculate the guinea pigs. 
+Inoculate each guinea pig intramuscularly in the thigh of the right or left hind leg 
+with 0.5 mL of challenge material. The challenge dilution contains approximately 
+100 guinea pig lethal dose 50 (LD50) per 0.5 mL. 
+ 
+Note: Each 28-mL volume of the 1:140 challenge dilution may be used to 
+challenge up to 40 vaccinates and 5 nonvaccinated controls. This constitutes  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page
+Text Len: 1341
+--------------------------------------------------------------------------------
+) per 0.5 mL. 
+ 
+Note: Each 28-mL volume of the 1:140 challenge dilution may be used to 
+challenge up to 40 vaccinates and 5 nonvaccinated controls. This constitutes  
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 7 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+a challenge unit. Additional 28-mL volumes of challenge must be prepared if 
+additional challenge units are required. 
+ 
+4.3.6 Complete the inoculation of the guinea pigs in each challenge unit within 
+approximately 30 minutes from the time the challenge dilution is prepared. 
+ 
+4.4   Observation of guinea pigs following challenge 
+ 
+Observe the guinea pigs for 72 hours following challenge and record deaths. Also 
+examine the test animals for sores, edema, and general physical condition. Record 
+these observations on the daily record. The test is concluded at the end of the 
+72 hours. 
+ 
+Note:  Moribund animals exhibiting clinical signs consistent with the 
+expected disease pathogenesis that are unable to rise or move under their 
+own power may be humanely euthanized and considered as deaths as 
+outlined in 9 CFR 117.4. 
+ 
+5.  Interpretation of Test Results 
+ 
+The test is interpreted as prescribed in 9 CFR 113.107. For a valid test, at least 80% of the 
+controls shall die within the 3-day post-challenge observation period.  
+ 
+If this requirement is met, the results of the potency test
+Text Len: 1481
+--------------------------------------------------------------------------------
+ CFR 117.4. 
+ 
+5.  Interpretation of Test Results 
+ 
+The test is interpreted as prescribed in 9 CFR 113.107. For a valid test, at least 80% of the 
+controls shall die within the 3-day post-challenge observation period.  
+ 
+If this requirement is met, the results of the potency test shall be evaluated according to the 
+following table: 
+ 
+Stage Number of 
+vaccinates 
+Cumulative 
+number of 
+vaccinates 
+Cumulative total number 
+of deaths for a satisfactory 
+test 
+Cumulative total 
+number of deaths for 
+an unsatisfactory test 
+1 8 8 1 or less 3 or more 
+2 8 16 4 or less 5 or more 
+ 
+The second stage is required only when exactly 2 animals die in the first stage. The second stage 
+test is performed in a manner identical to the first stage test. 
+ 
+6.  Report of Test Results 
+ 
+Report results of the test(s) as described by standard operating procedures. 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, section 113.107, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+Center for Veterinary Biologics       SAM 209.07 
+Testing Protocol         Page 8 of 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+7.2   History of reagents: C. haemolyticum, IRP 89 (strain 7170), used to prepare IRP 
+647, was obtained
+Text Len: 1310
+--------------------------------------------------------------------------------
+ 8 
+ 
+Supplemental Assay Method for Potency Testing Products Containing Clostridium haemolyticum Antigen 
+ 
+UNCONTROLLED COPY 
+7.2   History of reagents: C. haemolyticum, IRP 89 (strain 7170), used to prepare IRP 
+647, was obtained from Montana State University, Bozeman, Montana, in 1962. The 
+number of passages is unknown. 
+ 
+8.  Summary of Revisions 
+ 
+Version .07 
+• The coversheet, including contact information, has been updated. 
+• IRP 647 replaces IRP 526 (06) throughout the document. 
+• Minor formatting changes. 
+Version .06 
+• Updated 3.4.3 to reflect correct sodium chloride dispense volumes. 
+• Updated 7.2 to correct lot number. 
+• The Director was updated on the cover page. 
+ 
+Version .05 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .04 
+• The Contact information has been updated.  
+• The IRP number has been updated throughout the document from 477 to 526 (06). 
+ 
+Version .03 
+• The document number has been changed from BBSAM0209 to SAM 209. 
+ 
+Version .02 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 315 has been changed to IRP 477 throughout the document. 
+• The acceptable guinea pig weight has been changed to match the regulation
+Text Len: 1458
+--------------------------------------------------------------------------------
+ the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 315 has been changed to IRP 477 throughout the document. 
+• The acceptable guinea pig weight has been changed to match the regulation (9 CFR 
+113.107). 
+• The humane endpoint wording has been slightly revised for consistency. 
+• The contact person has been changed to Janet M. Wilson. 
+Text Len: 524
+--------------------------------------------------------------------------------

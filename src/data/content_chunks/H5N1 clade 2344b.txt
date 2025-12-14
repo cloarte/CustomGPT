@@ -1,0 +1,260 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Addendum I: HPAI H5N1 clade 2.3.4.4b in Non-avian species 
+ 
+1. Disease Information General Disease and Pathogen Information: As of late March 
+2024, H5N1 clade 2.3.4.4b, genotype B3.13 per GenoFlu, was detected in milk and 
+other bovine-origin samples associated with mild illness in dairy cattle. The virus has 
+been characterized as highly pathogenic per cleavage site analysis and bioassay testing 
+(IVPI per WOAH), and currently the B3.13 genotype is not significantly different from 
+other genotypes affecting wild birds and poultry. Pathways of disease transmission are 
+still being investigated and lateral transmission has been documented. The estimated 
+herd level incubation period in dairy cattle appears variable, from approximately 12 to 21 
+days. The incubation period for cattle is likely multifactorial and should consider route of 
+exposure, viral dose, production phase of the animal, and likely other factors that are still 
+unknown at this time. The virus is found in high concentrations in milk secretions of 
+lactating cattle  
+  
+1.1 Clinical Signs: Infections of cattle may be asymptomatic (subclinical) or symptomatic 
+(clinical) and virus is predominantly found in milk and mammary tissue regardless of 
+symptoms. Clinical signs may include a decrease in feed consumption with a 
+simultaneous decrease in rumination and rumen motility; respiratory signs including 
+clear nasal discharge; and subsequent acute drop in milk production. Additional clinical 
+signs may include abnormal tacky or loose feces, lethargy, dehydration, and fever. 
+
+Text Len: 1584
+--------------------------------------------------------------------------------
+ and mammary tissue regardless of 
+symptoms. Clinical signs may include a decrease in feed consumption with a 
+simultaneous decrease in rumination and rumen motility; respiratory signs including 
+clear nasal discharge; and subsequent acute drop in milk production. Additional clinical 
+signs may include abnormal tacky or loose feces, lethargy, dehydration, and fever. 
+Severely affected cattle may have thicker, concentrated, colostrum-like milk or produce 
+no milk at all. Other non-avian species may present as primary respiratory cases or 
+with neurologic symptoms. 
+ 
+2. Laboratory Criteria  
+For Bovidae species, milk and mammary tissue are the preferred samples from lactating 
+animals and deep nasal swabs for non-lactating Bovidae. Respiratory swabs/tissues are 
+typical for many mammalian species; brain is recommended for neurologic cases. Other 
+sample types include those listed in APHIS surveillance plan guidance. Serology for 
+serum and milk may be utilized for some species.  
+ 
+2.1 Agent Isolation and Identification: Detect presence of influenza A virus by: 
+ 
+2.1.1 Preferred samples from live or dead animals are tested by polymerase chain 
+reaction (PCR) assays for influenza A and those targeting H5 2.3.4.4b (subtype 
+assays should only be used in conjunction with influenza A detection assays). 
+Virus isolation may also be performed. 
+  
+Case Definition  
+Avian Influenza (AI) (Notifiable) 
+August 2024 
+ 
+ 
+ 
+2.2 Agent Characterization: Genome sequencing methods are used to determine the 
+amino acid sequence at the hemagglutinin cleavage site to
+Text Len: 1574
+--------------------------------------------------------------------------------
+ assays). 
+Virus isolation may also be performed. 
+  
+Case Definition  
+Avian Influenza (AI) (Notifiable) 
+August 2024 
+ 
+ 
+ 
+2.2 Agent Characterization: Genome sequencing methods are used to determine the 
+amino acid sequence at the hemagglutinin cleavage site to pathotype viruses per the 
+WOAH Terrestrial Manual. Subtyping tools and lineage-specific tools such as 
+pathotyping assays are available at NVSL.  
+ 
+3. Case Definition and Reporting Criteria for individual animal and single premises 
+herds  
+ 
+3.1 Suspect Case:  
+ 
+3.1.1 Illness compatible with H5 clade 2.3.4.4b infection; OR  
+ 
+3.1.2 Detection of influenza A antigen in milk using a commercially available 
+influenza A antigen test kit (ACIA, approved by USDA); OR 
+3.1.3 Detection of influenza A by PCR at a private laboratory where the host species 
+virus lineage has been ruled out (e.g. swine lineage H1/H3, equine/canine H3).  
+ 
+3.2 Presumptive Positive Case:  
+ 
+3.2.1 Detection of influenza A by PCR at a NAHLN (National Animal Health 
+Laboratory Network) Laboratory where the host species virus lineage has been 
+ruled out (e.g. swine lineage H1/H3, equine/canine H3) with or without the 
+presence of compatible illness. 
+ 
+3.3 Confirmed Positive Case:  
+3.3.1 Identification of HPAI H5 clade 2.3.4
+Text Len: 1277
+--------------------------------------------------------------------------------
+ the host species virus lineage has been 
+ruled out (e.g. swine lineage H1/H3, equine/canine H3) with or without the 
+presence of compatible illness. 
+ 
+3.3 Confirmed Positive Case:  
+3.3.1 Identification of HPAI H5 clade 2.3.4.4b at NVSL by molecular assay OR 
+genome sequencing.1 
+3.3.1.1 An animal may be excluded as a confirmed case after review of all 
+available case information due to:  
+•  An alternative diagnosis can explain the illness or detection fully. 2  
+• Test result(s) are poorly or not repeatable and resampling is either not 
+possible or testing from resampling is negative. 
+ 
+ 
+ 
+For guidance on movement regulations please refer to APHIS Requirements and 
+Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock  and 
+Herd Status program standards. 
+ 
+1 Confirmation of a dairy herd in a new state by NVSL requires identification of HPAI H5 clade 2.3.4.4b by PCR for 
+at least two different gene targets with determination of genotype. 
+2 Factors that may be considered when assigning alternate diagnoses include the strength of the epidemiologic 
+evidence for HPAI H5 exposure, absence of clinical signs where the potential for environmental contamination 
+cannot be ruled out, and the compatibility of the clinical presentation and course of illness for the alternative 
+diagnosis. 
+Text Len: 1337
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Addendum I: HPAI H5N1 clade 2.3.4.4b in Non-avian species 
+ 
+1. Disease Information General Disease and Pathogen Information: As of late March 
+2024, H5N1 clade 2.3.4.4b, genotype B3.13 per GenoFlu, was detected in milk and 
+other bovine-origin samples associated with mild illness in dairy cattle. The virus has 
+been characterized as highly pathogenic per cleavage site analysis and bioassay testing 
+(IVPI per WOAH), and currently the B3.13 genotype is not significantly different from 
+other genotypes affecting wild birds and poultry. Pathways of disease transmission are 
+still being investigated and lateral transmission has been documented. The estimated 
+herd level incubation period in dairy cattle appears variable, from approximately 12 to 21 
+days. The incubation period for cattle is likely multifactorial and should consider route of 
+exposure, viral dose, production phase of the animal, and likely other factors that are still 
+unknown at this time. The virus is found in high concentrations in milk secretions of 
+lactating cattle  
+  
+1.1 Clinical Signs: Infections of cattle may be asymptomatic (subclinical) or symptomatic 
+(clinical) and virus is predominantly found in milk and mammary tissue regardless of 
+symptoms. Clinical signs may include a decrease in feed consumption with a 
+simultaneous decrease in rumination and rumen motility; respiratory signs including 
+clear nasal discharge; and subsequent acute drop in milk production. Additional clinical 
+signs may include abnormal tacky or loose feces, lethargy, dehydration, and fever. 
+
+Text Len: 1584
+--------------------------------------------------------------------------------
+ and mammary tissue regardless of 
+symptoms. Clinical signs may include a decrease in feed consumption with a 
+simultaneous decrease in rumination and rumen motility; respiratory signs including 
+clear nasal discharge; and subsequent acute drop in milk production. Additional clinical 
+signs may include abnormal tacky or loose feces, lethargy, dehydration, and fever. 
+Severely affected cattle may have thicker, concentrated, colostrum-like milk or produce 
+no milk at all. Other non-avian species may present as primary respiratory cases or 
+with neurologic symptoms. 
+ 
+2. Laboratory Criteria  
+For Bovidae species, milk and mammary tissue are the preferred samples from lactating 
+animals and deep nasal swabs for non-lactating Bovidae. Respiratory swabs/tissues are 
+typical for many mammalian species; brain is recommended for neurologic cases. Other 
+sample types include those listed in APHIS surveillance plan guidance. Serology for 
+serum and milk may be utilized for some species.  
+ 
+2.1 Agent Isolation and Identification: Detect presence of influenza A virus by: 
+ 
+2.1.1 Preferred samples from live or dead animals are tested by polymerase chain 
+reaction (PCR) assays for influenza A and those targeting H5 2.3.4.4b (subtype 
+assays should only be used in conjunction with influenza A detection assays). 
+Virus isolation may also be performed. 
+  
+Case Definition  
+Avian Influenza (AI) (Notifiable) 
+August 2024 
+ 
+ 
+ 
+2.2 Agent Characterization: Genome sequencing methods are used to determine the 
+amino acid sequence at the hemagglutinin cleavage site to
+Text Len: 1574
+--------------------------------------------------------------------------------
+ assays). 
+Virus isolation may also be performed. 
+  
+Case Definition  
+Avian Influenza (AI) (Notifiable) 
+August 2024 
+ 
+ 
+ 
+2.2 Agent Characterization: Genome sequencing methods are used to determine the 
+amino acid sequence at the hemagglutinin cleavage site to pathotype viruses per the 
+WOAH Terrestrial Manual. Subtyping tools and lineage-specific tools such as 
+pathotyping assays are available at NVSL.  
+ 
+3. Case Definition and Reporting Criteria for individual animal and single premises 
+herds  
+ 
+3.1 Suspect Case:  
+ 
+3.1.1 Illness compatible with H5 clade 2.3.4.4b infection; OR  
+ 
+3.1.2 Detection of influenza A antigen in milk using a commercially available 
+influenza A antigen test kit (ACIA, approved by USDA); OR 
+3.1.3 Detection of influenza A by PCR at a private laboratory where the host species 
+virus lineage has been ruled out (e.g. swine lineage H1/H3, equine/canine H3).  
+ 
+3.2 Presumptive Positive Case:  
+ 
+3.2.1 Detection of influenza A by PCR at a NAHLN (National Animal Health 
+Laboratory Network) Laboratory where the host species virus lineage has been 
+ruled out (e.g. swine lineage H1/H3, equine/canine H3) with or without the 
+presence of compatible illness. 
+ 
+3.3 Confirmed Positive Case:  
+3.3.1 Identification of HPAI H5 clade 2.3.4
+Text Len: 1277
+--------------------------------------------------------------------------------
+ the host species virus lineage has been 
+ruled out (e.g. swine lineage H1/H3, equine/canine H3) with or without the 
+presence of compatible illness. 
+ 
+3.3 Confirmed Positive Case:  
+3.3.1 Identification of HPAI H5 clade 2.3.4.4b at NVSL by molecular assay OR 
+genome sequencing.1 
+3.3.1.1 An animal may be excluded as a confirmed case after review of all 
+available case information due to:  
+•  An alternative diagnosis can explain the illness or detection fully. 2  
+• Test result(s) are poorly or not repeatable and resampling is either not 
+possible or testing from resampling is negative. 
+ 
+ 
+ 
+For guidance on movement regulations please refer to APHIS Requirements and 
+Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock  and 
+Herd Status program standards. 
+ 
+1 Confirmation of a dairy herd in a new state by NVSL requires identification of HPAI H5 clade 2.3.4.4b by PCR for 
+at least two different gene targets with determination of genotype. 
+2 Factors that may be considered when assigning alternate diagnoses include the strength of the epidemiologic 
+evidence for HPAI H5 exposure, absence of clinical signs where the potential for environmental contamination 
+cannot be ruled out, and the compatibility of the clinical presentation and course of illness for the alternative 
+diagnosis. 
+Text Len: 1337
+--------------------------------------------------------------------------------

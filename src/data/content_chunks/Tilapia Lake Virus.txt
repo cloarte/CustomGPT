@@ -1,0 +1,646 @@
+  
+1 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Results: The estimated risks of TiLV introduction to United States (U.S.) tilapia populations via 
+import of live tilapia and tilapia products are: 
+• Negligible for frozen tilapia fillets. This estimate is due to the lack of a biologically plausible 
+pathway that would lead to exposure and the inability of the virus to survive in fillets. 
+• High for imported tilapia fingerlings (young fish), germplasm (e.g., eggs and milt), or the 
+shipping water carrying them. This is due to: 
+o The high degree of mortality when infection is present; 
+o The lack of knowledge about how TiLV is spread; 
+o The lack of regulations associated with the importation of tilapia fingerlings; 
+o The lack of a surveillance program in the U.S.; and 
+o The lack of a response plan in the U.S. should an outbreak occur  
+ 
+This risk assessment is preliminary and is subject to various limitations, such as: 
+• The lack of scientific knowledge available regarding TiLV characteristics and spread patterns; 
+• The likely lack of surveillance and reporting of TiLV in many countries; 
+• The lack of knowledge about international and domestic tilapia trade movements; 
+• The scarcity of quantitative data for the topics listed above; and 
+• The lack of disease consequence models for aquaculture in general. 
+ 
+These limitations result in a moderate degree
+Text Len: 1460
+--------------------------------------------------------------------------------
+ and spread patterns; 
+• The likely lack of surveillance and reporting of TiLV in many countries; 
+• The lack of knowledge about international and domestic tilapia trade movements; 
+• The scarcity of quantitative data for the topics listed above; and 
+• The lack of disease consequence models for aquaculture in general. 
+ 
+These limitations result in a moderate degree of uncertainty in how well these estimates reflect the true 
+risks; as additional information becomes available, these estimates may be modified.  
+Brief Summary 
+Preliminary Risk Assessment for Tilapia Lake Virus (TiLV) 
+June 2019 
+ 
+Background 
+Tilapia are produced in various countries throughout the world. Based on a 2018 report of the Food 
+and Agriculture Organization (FAO) of the United Nations, the top 12 tilapia producing countries 
+include: China, Indonesia, Egypt, Bangladesh, Philippines, Brazil, Thailand, Vietnam, Uganda, 
+Taiwan, Colombia, and Mexico. TiLV was identified and described in 2014; however, it has been 
+linked to mortality outbreaks that occurred in Israel and Ecuador in 2009 (Jansen, Dong et al. 2018; 
+Bacharach, Mishra et al. 2016) and Thailand since 2012 (Dong, Ataguba et al. 2017). Currently, TiLV 
+has been found in Africa, Asia, and the Americas.  
+ 
+Tilapia Lake Virus can cause high mortality in susceptible fish; reported mortality rates have ranged 
+from 10 to 90 percent, with mortality peaking within a few weeks of the start of the outbreak. The 
+mechanism of spread between locations is unknown, but TiLV has been detected in fertilized eggs 
+and yolk sac larvae, as well as in fries and fingerlings (Jansen, Dong et al. 2018).  
+Text Len: 1648
+--------------------------------------------------------------------------------
+; reported mortality rates have ranged 
+from 10 to 90 percent, with mortality peaking within a few weeks of the start of the outbreak. The 
+mechanism of spread between locations is unknown, but TiLV has been detected in fertilized eggs 
+and yolk sac larvae, as well as in fries and fingerlings (Jansen, Dong et al. 2018).   
+ 
+2 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Results  
+Entry Assessment 
+Frozen Tilapia Fillets: 
+The likelihood that frozen tilapia fillets imported into the United States (U.S.) will contain TiLV is 
+negligible, with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• Imported fillets are subject the same regulatory requirements as those for domestically 
+produced fillets. Processors must have a Hazard Analysis and Critical Control Point 
+(HACCP) plan in place, maintain a sanitary environment, and only healthy fish are to be 
+processed (Food and Drug Administration 2017); and  
+• Fillets from tilapia that are sub-clinically infected with TiLV do not appear to carry the 
+virus after being frozen at -20°C for 14 days (Thammatorn, Rawiwan et al. 2019). 
+ 
+The degree of uncertainty is moderate because: 
+• There is no definitive evidence the TiLV is present in muscle tissue; 
+• The extent that importers are complying with Food and Drug Administration (FDA) 
+requirements is unknown; and 
+• The surveillance systems in frozen tilapia fillet exporting countries was not evaluated in 
+this assessment. 
+ 
+Tilapia Finger
+Text Len: 1516
+--------------------------------------------------------------------------------
+ moderate because: 
+• There is no definitive evidence the TiLV is present in muscle tissue; 
+• The extent that importers are complying with Food and Drug Administration (FDA) 
+requirements is unknown; and 
+• The surveillance systems in frozen tilapia fillet exporting countries was not evaluated in 
+this assessment. 
+ 
+Tilapia Fingerlings, Germplasm, and Shipping Water: 
+APHIS currently does not have any regulations associated with the importation of tilapia 
+fingerlings, germplasm, or the water in which they are shipped. The likelihood that tilapia 
+fingerlings, germplasm, or shipping water carrying TiLV may enter the U.S. via import is high, 
+with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• The use of air freight to import fingerlings or germplasm results in a high likelihood that 
+disease is not detected prior to import should a recently infected country export during 
+the incubation period – increases the likelihood; 
+• The possibility that fingerlings or germplasm may be in an infected, but undetected state 
+– increases the likelihood, although the reported high mortality rates for fingerlings may 
+reduce this possibility;  
+• The apparent lack of a requirement to certify that the fingerlings are healthy and disease 
+free – increases the likelihood (U.S. Department of Agriculture 2018); 
+• The inability to quarantine fingerlings or germplasm at U.S. ports of entry – increases the 
+likelihood;  
+• The disease is not listed as notifiable disease to the World Organisation for Animal 
+Health (OIE), so there is likely little or no surveillance and reporting of TiLV in many 
+countries; and 
+• The U.S. was among 40 countries determined to
+Text Len: 1695
+--------------------------------------------------------------------------------
+ germplasm at U.S. ports of entry – increases the 
+likelihood;  
+• The disease is not listed as notifiable disease to the World Organisation for Animal 
+Health (OIE), so there is likely little or no surveillance and reporting of TiLV in many 
+countries; and 
+• The U.S. was among 40 countries determined to be at “high risk” of TiLV spread as 
+result of importing tilapia fingerlings from Thailand between 2012 and 2017 (Dong, 
+Ataguba et al. 2017). 
+ 
+The degree of uncertainty is moderate because: 
+• There is limited information on the survivability of TiLV in water. 
+• Transboundary pathways of introduction from affected countries are not characterized.    
+3 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Exposure Assessment 
+Frozen Tilapia Fillets: 
+The likelihood that frozen tilapia fillets carrying TiLV will cause infection in farm-raised tilapia is 
+negligible, with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• The lack of a biologically plausible pathway that infected fillets could come into contact 
+with farm-raised tilapia, based on how food waste is processed in the U.S. About 40 
+percent of fish and seafood harvested becomes waste at the retail and commercial 
+level. Most of this waste is sent to landfills. Landfills are required to undertake various 
+measures to prevent groundwater contamination, such as membranes to protect 
+groundwater and monitoring to ensure that groundwater is not contaminated with landfill 
+liquids (U.S. Environmental Protection Agency 2018). The likelihood that waste tilap
+Text Len: 1593
+--------------------------------------------------------------------------------
+ harvested becomes waste at the retail and commercial 
+level. Most of this waste is sent to landfills. Landfills are required to undertake various 
+measures to prevent groundwater contamination, such as membranes to protect 
+groundwater and monitoring to ensure that groundwater is not contaminated with landfill 
+liquids (U.S. Environmental Protection Agency 2018). The likelihood that waste tilapia 
+fillets will release TiLV into the environment is negligible due to these procedures. 
+ 
+The degree of uncertainty is moderate because: 
+• Lack of knowledge about TiLV’s transmission and survival in environmental matrices; 
+• Lack of information on potential disposal of tilapia filets waste that could reach U.S. 
+waterways; and 
+• Lack of information on the feeding of waste to fish in the U.S. aquaculture industry. 
+ 
+In addition, there may some reduction of infectivity during processing and cooking. However, as 
+there is no good information on the degree of infectivity reduction, this aspect is not considered 
+in this assessment. 
+Tilapia Fingerlings, Germplasm, and Contaminated Shipping Water: 
+The likelihood that infected tilapia fingerlings, germplasm, or the water they are shipped in, will 
+cause infection in farm-raised tilapia is high with a high degree of uncertainty. The likelihood 
+assessment is based on: 
+• Shipments of tilapia between locations has been associated with the spread of TiLV; and 
+• The high likelihood that TiLV could be present in shipping water, and experimental 
+studies suggesting spread of the disease can occur as a result of contaminated water. 
+ 
+The degree of uncertainty is high because: 
+• Lack of information about how tilapia fingerlings and germplasm move within the U.S
+Text Len: 1727
+--------------------------------------------------------------------------------
+ associated with the spread of TiLV; and 
+• The high likelihood that TiLV could be present in shipping water, and experimental 
+studies suggesting spread of the disease can occur as a result of contaminated water. 
+ 
+The degree of uncertainty is high because: 
+• Lack of information about how tilapia fingerlings and germplasm move within the U.S.;  
+• Requirements for Certificates of Veterinary Inspection do not appear to apply to 
+movements of tilapia, nor are there other good sources about these movement patterns; 
+• As noted in the Hazard Identification section above, spread pathways for TiLV and how it 
+becomes established are still not known; and 
+• There is currently no surveillance program for TiLV in the U.S. 
+ 
+  
+4 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Consequences 
+The consequences of a TiLV outbreak in the U.S. could be costly for the tilapia industry, 
+depending on how long it would take to detect and respond to the outbreak. In 2013, the total 
+value of tilapia produced in the U.S. was about $42,527,000, or about six percent of all 
+aquaculture production, with production produced on 181 farms (U.S. Department of Agriculture, 
+2013). Given the popularity of tilapia with consumers; the dollar amounts, relative proportions, 
+and the number of producers has probably increased over time. Little is known about the 
+movement and potential spread of the virus in the U.S., but industry growth increases the 
+potential magnitude of the consequences of an outbreak, should one occur. This assessment 
+did not address specific
+Text Len: 1594
+--------------------------------------------------------------------------------
+ Given the popularity of tilapia with consumers; the dollar amounts, relative proportions, 
+and the number of producers has probably increased over time. Little is known about the 
+movement and potential spread of the virus in the U.S., but industry growth increases the 
+potential magnitude of the consequences of an outbreak, should one occur. This assessment 
+did not address specific trade impacts. 
+Definitions of Categories 
+For the purposes of this risk assessment, we have assigned qualitative likelihoods for 
+expressing how likely something would occur. We also use qualitative terms for discussing the 
+uncertainty and information quality associated with these likelihoods. Table 1 defines the 
+terminology that will apply for expressing likelihoods and table 2 defines levels of uncertainty. 
+ 
+ 
+Table 1. Definition of likelihood categories for risk assessment 
+Term Definition 
+Negligible This event would almost certainly never occur 
+Low This event would be unlikely to occur 
+Moderate This event would be nearly as likely to occur as to not occur 
+High This event would be likely to occur 
+Very High This event is almost certain to occur 
+ 
+Table 2. Definition of levels of uncertainty (Based on Mastrandrea, et al., 2010)  
+Term Definition 
+Low Available data is well supported, reliable, complete, and accessible from 
+multiple sources or published references, and are in general agreement. 
+Moderate Data is available, but has high interpretability issues, potential biases, 
+reliability issues, and/or underreporting. 
+High Some data is available but may be incomplete, unreliable, from a small 
+number of published sources, and/or demonstrates conflicting evidence. 
+Includes the combination of anecdotal evidence, personal 
+communications, and expert opinion with available published data, if all 
+sources are in general agreement. 
+ 
+ 
+
+Text Len: 1860
+--------------------------------------------------------------------------------
+reliability issues, and/or underreporting. 
+High Some data is available but may be incomplete, unreliable, from a small 
+number of published sources, and/or demonstrates conflicting evidence. 
+Includes the combination of anecdotal evidence, personal 
+communications, and expert opinion with available published data, if all 
+sources are in general agreement. 
+ 
+ 
+Questions or comments on data analysis, contact: CEAH at 970-494-7000 
+vs.ceah@usda.gov 
+5 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+References 
+Bacharach, E., Mishra, N., Briase, T., Zody, M.C., et.al., 2016. “Characterization of a novel 
+orthomyxo-like virus causing mass die-offs of tilapia.” mBio 7(2):e00431-16. 
+doi:10.1128/mBio.00431-16 
+ 
+Dong, H., G. Ataguba, P. Khunrae, T. Rattanarojpong and S. Senapin (2017). "Evidence of TiLV 
+infection in tilapia hatcheries from 2012 to 2017 reveals probable global spread of the disease." 
+Aquaculture 479: 579-583. 
+ 
+Food and Drug Adminstration (2017). Guidance for Industry: Seafood HACCP and the FDA 
+Food Safety Modernization Act. United States Department of Health and Human Services. 
+ 
+Jansen, M. D., H. T. Dong and C. V. Mohan (2018). "Tilapia lake virus: a threat to the
+Text Len: 1233
+--------------------------------------------------------------------------------
+ 
+ 
+Food and Drug Adminstration (2017). Guidance for Industry: Seafood HACCP and the FDA 
+Food Safety Modernization Act. United States Department of Health and Human Services. 
+ 
+Jansen, M. D., H. T. Dong and C. V. Mohan (2018). "Tilapia lake virus: a threat to the global 
+tilapia industry?" Reviews in Aquaculture. 
+ 
+Kibenge, F. S. and M. Kibenge (2016). Orthomyoxoviruses of Fish. Aquaculture virology. F. S. 
+Kibenge and M. Godoy, Academic Press. 
+ 
+Tattiyapong, P., W. Dachavichitlead and W. Surachetpong (2017). "Experimental infection of 
+Tilapia Lake Virus (TiLV) in Nile tilapia (Oreochromis niloticus) and red tilapia (Oreochromis 
+spp.)." Veterinary Microbiology 207: 170-177. 
+ 
+Thammatorn, W., P. Rawiwan and W. Surachetpong (2019). "Minimal Risk of Tilapia Lake Virus 
+Transmission Via Frozen Tilapia Fillets." Journal of Fish Diseases 42(1): 3-9. 
+ 
+U.S. Department of Agriculture (2013). "2012 Census of Agriculture: Census of Aquaculture 
+(2013)." Volume 3. Special Studies. Part 2. Available at 
+https://www.nass.usda.gov/Publications/AgCensus/2012/Online_Resources/Aquaculture/aqua_
+1_002_002.pdf. 
+ 
+United States Department of Agriculture (2018). Subpart I—Aquatic
+Text Len: 1186
+--------------------------------------------------------------------------------
+ulture 
+(2013)." Volume 3. Special Studies. Part 2. Available at 
+https://www.nass.usda.gov/Publications/AgCensus/2012/Online_Resources/Aquaculture/aqua_
+1_002_002.pdf. 
+ 
+United States Department of Agriculture (2018). Subpart I—Aquatic Animal Species. 9. 93.901. 
+ 
+United States Environmental Protection Agency. (2018, 13 April 2018). "Municipal Solid Waste 
+Landfills."   Retrieved 1 Aug 2018, 2018, from https://www.epa.gov/landfills/municipal-solid-
+waste-landfills. 
+World Organisation for Animal Health (2018). "Tilapia Lake Virus--Mexico Immediate 
+Notification."   Retrieved 11 March 2019, from 
+https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventR
+eport&reportid=27650. 
+ 
+World Organisation for Animal Health (2018). Tilapia Lake Virus (TiLV ) — A novel orthomyxo - 
+Like Virus. World Organisation for Animal Health. Available at 
+https://www.oie.int/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/Aquatic_Commi
+ssion/A_TiLV_disease_card.pdf. 
+ 
+World Organisation for Animal Health (OIE) (2016). Import Risk Analysis for Aquatic Animal 
+Products, (OIE). 
+ 
+Text Len: 1117
+--------------------------------------------------------------------------------
+  
+1 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Key Results: The estimated risks of TiLV introduction to United States (U.S.) tilapia populations via 
+import of live tilapia and tilapia products are: 
+• Negligible for frozen tilapia fillets. This estimate is due to the lack of a biologically plausible 
+pathway that would lead to exposure and the inability of the virus to survive in fillets. 
+• High for imported tilapia fingerlings (young fish), germplasm (e.g., eggs and milt), or the 
+shipping water carrying them. This is due to: 
+o The high degree of mortality when infection is present; 
+o The lack of knowledge about how TiLV is spread; 
+o The lack of regulations associated with the importation of tilapia fingerlings; 
+o The lack of a surveillance program in the U.S.; and 
+o The lack of a response plan in the U.S. should an outbreak occur  
+ 
+This risk assessment is preliminary and is subject to various limitations, such as: 
+• The lack of scientific knowledge available regarding TiLV characteristics and spread patterns; 
+• The likely lack of surveillance and reporting of TiLV in many countries; 
+• The lack of knowledge about international and domestic tilapia trade movements; 
+• The scarcity of quantitative data for the topics listed above; and 
+• The lack of disease consequence models for aquaculture in general. 
+ 
+These limitations result in a moderate degree
+Text Len: 1460
+--------------------------------------------------------------------------------
+ and spread patterns; 
+• The likely lack of surveillance and reporting of TiLV in many countries; 
+• The lack of knowledge about international and domestic tilapia trade movements; 
+• The scarcity of quantitative data for the topics listed above; and 
+• The lack of disease consequence models for aquaculture in general. 
+ 
+These limitations result in a moderate degree of uncertainty in how well these estimates reflect the true 
+risks; as additional information becomes available, these estimates may be modified.  
+Brief Summary 
+Preliminary Risk Assessment for Tilapia Lake Virus (TiLV) 
+June 2019 
+ 
+Background 
+Tilapia are produced in various countries throughout the world. Based on a 2018 report of the Food 
+and Agriculture Organization (FAO) of the United Nations, the top 12 tilapia producing countries 
+include: China, Indonesia, Egypt, Bangladesh, Philippines, Brazil, Thailand, Vietnam, Uganda, 
+Taiwan, Colombia, and Mexico. TiLV was identified and described in 2014; however, it has been 
+linked to mortality outbreaks that occurred in Israel and Ecuador in 2009 (Jansen, Dong et al. 2018; 
+Bacharach, Mishra et al. 2016) and Thailand since 2012 (Dong, Ataguba et al. 2017). Currently, TiLV 
+has been found in Africa, Asia, and the Americas.  
+ 
+Tilapia Lake Virus can cause high mortality in susceptible fish; reported mortality rates have ranged 
+from 10 to 90 percent, with mortality peaking within a few weeks of the start of the outbreak. The 
+mechanism of spread between locations is unknown, but TiLV has been detected in fertilized eggs 
+and yolk sac larvae, as well as in fries and fingerlings (Jansen, Dong et al. 2018).  
+Text Len: 1648
+--------------------------------------------------------------------------------
+; reported mortality rates have ranged 
+from 10 to 90 percent, with mortality peaking within a few weeks of the start of the outbreak. The 
+mechanism of spread between locations is unknown, but TiLV has been detected in fertilized eggs 
+and yolk sac larvae, as well as in fries and fingerlings (Jansen, Dong et al. 2018).   
+ 
+2 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Results  
+Entry Assessment 
+Frozen Tilapia Fillets: 
+The likelihood that frozen tilapia fillets imported into the United States (U.S.) will contain TiLV is 
+negligible, with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• Imported fillets are subject the same regulatory requirements as those for domestically 
+produced fillets. Processors must have a Hazard Analysis and Critical Control Point 
+(HACCP) plan in place, maintain a sanitary environment, and only healthy fish are to be 
+processed (Food and Drug Administration 2017); and  
+• Fillets from tilapia that are sub-clinically infected with TiLV do not appear to carry the 
+virus after being frozen at -20°C for 14 days (Thammatorn, Rawiwan et al. 2019). 
+ 
+The degree of uncertainty is moderate because: 
+• There is no definitive evidence the TiLV is present in muscle tissue; 
+• The extent that importers are complying with Food and Drug Administration (FDA) 
+requirements is unknown; and 
+• The surveillance systems in frozen tilapia fillet exporting countries was not evaluated in 
+this assessment. 
+ 
+Tilapia Finger
+Text Len: 1516
+--------------------------------------------------------------------------------
+ moderate because: 
+• There is no definitive evidence the TiLV is present in muscle tissue; 
+• The extent that importers are complying with Food and Drug Administration (FDA) 
+requirements is unknown; and 
+• The surveillance systems in frozen tilapia fillet exporting countries was not evaluated in 
+this assessment. 
+ 
+Tilapia Fingerlings, Germplasm, and Shipping Water: 
+APHIS currently does not have any regulations associated with the importation of tilapia 
+fingerlings, germplasm, or the water in which they are shipped. The likelihood that tilapia 
+fingerlings, germplasm, or shipping water carrying TiLV may enter the U.S. via import is high, 
+with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• The use of air freight to import fingerlings or germplasm results in a high likelihood that 
+disease is not detected prior to import should a recently infected country export during 
+the incubation period – increases the likelihood; 
+• The possibility that fingerlings or germplasm may be in an infected, but undetected state 
+– increases the likelihood, although the reported high mortality rates for fingerlings may 
+reduce this possibility;  
+• The apparent lack of a requirement to certify that the fingerlings are healthy and disease 
+free – increases the likelihood (U.S. Department of Agriculture 2018); 
+• The inability to quarantine fingerlings or germplasm at U.S. ports of entry – increases the 
+likelihood;  
+• The disease is not listed as notifiable disease to the World Organisation for Animal 
+Health (OIE), so there is likely little or no surveillance and reporting of TiLV in many 
+countries; and 
+• The U.S. was among 40 countries determined to
+Text Len: 1695
+--------------------------------------------------------------------------------
+ germplasm at U.S. ports of entry – increases the 
+likelihood;  
+• The disease is not listed as notifiable disease to the World Organisation for Animal 
+Health (OIE), so there is likely little or no surveillance and reporting of TiLV in many 
+countries; and 
+• The U.S. was among 40 countries determined to be at “high risk” of TiLV spread as 
+result of importing tilapia fingerlings from Thailand between 2012 and 2017 (Dong, 
+Ataguba et al. 2017). 
+ 
+The degree of uncertainty is moderate because: 
+• There is limited information on the survivability of TiLV in water. 
+• Transboundary pathways of introduction from affected countries are not characterized.    
+3 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Exposure Assessment 
+Frozen Tilapia Fillets: 
+The likelihood that frozen tilapia fillets carrying TiLV will cause infection in farm-raised tilapia is 
+negligible, with a moderate degree of uncertainty. The likelihood assessment is based on: 
+• The lack of a biologically plausible pathway that infected fillets could come into contact 
+with farm-raised tilapia, based on how food waste is processed in the U.S. About 40 
+percent of fish and seafood harvested becomes waste at the retail and commercial 
+level. Most of this waste is sent to landfills. Landfills are required to undertake various 
+measures to prevent groundwater contamination, such as membranes to protect 
+groundwater and monitoring to ensure that groundwater is not contaminated with landfill 
+liquids (U.S. Environmental Protection Agency 2018). The likelihood that waste tilap
+Text Len: 1593
+--------------------------------------------------------------------------------
+ harvested becomes waste at the retail and commercial 
+level. Most of this waste is sent to landfills. Landfills are required to undertake various 
+measures to prevent groundwater contamination, such as membranes to protect 
+groundwater and monitoring to ensure that groundwater is not contaminated with landfill 
+liquids (U.S. Environmental Protection Agency 2018). The likelihood that waste tilapia 
+fillets will release TiLV into the environment is negligible due to these procedures. 
+ 
+The degree of uncertainty is moderate because: 
+• Lack of knowledge about TiLV’s transmission and survival in environmental matrices; 
+• Lack of information on potential disposal of tilapia filets waste that could reach U.S. 
+waterways; and 
+• Lack of information on the feeding of waste to fish in the U.S. aquaculture industry. 
+ 
+In addition, there may some reduction of infectivity during processing and cooking. However, as 
+there is no good information on the degree of infectivity reduction, this aspect is not considered 
+in this assessment. 
+Tilapia Fingerlings, Germplasm, and Contaminated Shipping Water: 
+The likelihood that infected tilapia fingerlings, germplasm, or the water they are shipped in, will 
+cause infection in farm-raised tilapia is high with a high degree of uncertainty. The likelihood 
+assessment is based on: 
+• Shipments of tilapia between locations has been associated with the spread of TiLV; and 
+• The high likelihood that TiLV could be present in shipping water, and experimental 
+studies suggesting spread of the disease can occur as a result of contaminated water. 
+ 
+The degree of uncertainty is high because: 
+• Lack of information about how tilapia fingerlings and germplasm move within the U.S
+Text Len: 1727
+--------------------------------------------------------------------------------
+ associated with the spread of TiLV; and 
+• The high likelihood that TiLV could be present in shipping water, and experimental 
+studies suggesting spread of the disease can occur as a result of contaminated water. 
+ 
+The degree of uncertainty is high because: 
+• Lack of information about how tilapia fingerlings and germplasm move within the U.S.;  
+• Requirements for Certificates of Veterinary Inspection do not appear to apply to 
+movements of tilapia, nor are there other good sources about these movement patterns; 
+• As noted in the Hazard Identification section above, spread pathways for TiLV and how it 
+becomes established are still not known; and 
+• There is currently no surveillance program for TiLV in the U.S. 
+ 
+  
+4 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+Consequences 
+The consequences of a TiLV outbreak in the U.S. could be costly for the tilapia industry, 
+depending on how long it would take to detect and respond to the outbreak. In 2013, the total 
+value of tilapia produced in the U.S. was about $42,527,000, or about six percent of all 
+aquaculture production, with production produced on 181 farms (U.S. Department of Agriculture, 
+2013). Given the popularity of tilapia with consumers; the dollar amounts, relative proportions, 
+and the number of producers has probably increased over time. Little is known about the 
+movement and potential spread of the virus in the U.S., but industry growth increases the 
+potential magnitude of the consequences of an outbreak, should one occur. This assessment 
+did not address specific
+Text Len: 1594
+--------------------------------------------------------------------------------
+ Given the popularity of tilapia with consumers; the dollar amounts, relative proportions, 
+and the number of producers has probably increased over time. Little is known about the 
+movement and potential spread of the virus in the U.S., but industry growth increases the 
+potential magnitude of the consequences of an outbreak, should one occur. This assessment 
+did not address specific trade impacts. 
+Definitions of Categories 
+For the purposes of this risk assessment, we have assigned qualitative likelihoods for 
+expressing how likely something would occur. We also use qualitative terms for discussing the 
+uncertainty and information quality associated with these likelihoods. Table 1 defines the 
+terminology that will apply for expressing likelihoods and table 2 defines levels of uncertainty. 
+ 
+ 
+Table 1. Definition of likelihood categories for risk assessment 
+Term Definition 
+Negligible This event would almost certainly never occur 
+Low This event would be unlikely to occur 
+Moderate This event would be nearly as likely to occur as to not occur 
+High This event would be likely to occur 
+Very High This event is almost certain to occur 
+ 
+Table 2. Definition of levels of uncertainty (Based on Mastrandrea, et al., 2010)  
+Term Definition 
+Low Available data is well supported, reliable, complete, and accessible from 
+multiple sources or published references, and are in general agreement. 
+Moderate Data is available, but has high interpretability issues, potential biases, 
+reliability issues, and/or underreporting. 
+High Some data is available but may be incomplete, unreliable, from a small 
+number of published sources, and/or demonstrates conflicting evidence. 
+Includes the combination of anecdotal evidence, personal 
+communications, and expert opinion with available published data, if all 
+sources are in general agreement. 
+ 
+ 
+
+Text Len: 1860
+--------------------------------------------------------------------------------
+reliability issues, and/or underreporting. 
+High Some data is available but may be incomplete, unreliable, from a small 
+number of published sources, and/or demonstrates conflicting evidence. 
+Includes the combination of anecdotal evidence, personal 
+communications, and expert opinion with available published data, if all 
+sources are in general agreement. 
+ 
+ 
+Questions or comments on data analysis, contact: CEAH at 970-494-7000 
+vs.ceah@usda.gov 
+5 | PRELIMINARY RISK ASSESSMENT FOR TILAPIA LAKE VIRUS  USDA|APHIS|VS|CEAH|RIRA 
+ 
+References 
+Bacharach, E., Mishra, N., Briase, T., Zody, M.C., et.al., 2016. “Characterization of a novel 
+orthomyxo-like virus causing mass die-offs of tilapia.” mBio 7(2):e00431-16. 
+doi:10.1128/mBio.00431-16 
+ 
+Dong, H., G. Ataguba, P. Khunrae, T. Rattanarojpong and S. Senapin (2017). "Evidence of TiLV 
+infection in tilapia hatcheries from 2012 to 2017 reveals probable global spread of the disease." 
+Aquaculture 479: 579-583. 
+ 
+Food and Drug Adminstration (2017). Guidance for Industry: Seafood HACCP and the FDA 
+Food Safety Modernization Act. United States Department of Health and Human Services. 
+ 
+Jansen, M. D., H. T. Dong and C. V. Mohan (2018). "Tilapia lake virus: a threat to the
+Text Len: 1233
+--------------------------------------------------------------------------------
+ 
+ 
+Food and Drug Adminstration (2017). Guidance for Industry: Seafood HACCP and the FDA 
+Food Safety Modernization Act. United States Department of Health and Human Services. 
+ 
+Jansen, M. D., H. T. Dong and C. V. Mohan (2018). "Tilapia lake virus: a threat to the global 
+tilapia industry?" Reviews in Aquaculture. 
+ 
+Kibenge, F. S. and M. Kibenge (2016). Orthomyoxoviruses of Fish. Aquaculture virology. F. S. 
+Kibenge and M. Godoy, Academic Press. 
+ 
+Tattiyapong, P., W. Dachavichitlead and W. Surachetpong (2017). "Experimental infection of 
+Tilapia Lake Virus (TiLV) in Nile tilapia (Oreochromis niloticus) and red tilapia (Oreochromis 
+spp.)." Veterinary Microbiology 207: 170-177. 
+ 
+Thammatorn, W., P. Rawiwan and W. Surachetpong (2019). "Minimal Risk of Tilapia Lake Virus 
+Transmission Via Frozen Tilapia Fillets." Journal of Fish Diseases 42(1): 3-9. 
+ 
+U.S. Department of Agriculture (2013). "2012 Census of Agriculture: Census of Aquaculture 
+(2013)." Volume 3. Special Studies. Part 2. Available at 
+https://www.nass.usda.gov/Publications/AgCensus/2012/Online_Resources/Aquaculture/aqua_
+1_002_002.pdf. 
+ 
+United States Department of Agriculture (2018). Subpart I—Aquatic
+Text Len: 1186
+--------------------------------------------------------------------------------
+ulture 
+(2013)." Volume 3. Special Studies. Part 2. Available at 
+https://www.nass.usda.gov/Publications/AgCensus/2012/Online_Resources/Aquaculture/aqua_
+1_002_002.pdf. 
+ 
+United States Department of Agriculture (2018). Subpart I—Aquatic Animal Species. 9. 93.901. 
+ 
+United States Environmental Protection Agency. (2018, 13 April 2018). "Municipal Solid Waste 
+Landfills."   Retrieved 1 Aug 2018, 2018, from https://www.epa.gov/landfills/municipal-solid-
+waste-landfills. 
+World Organisation for Animal Health (2018). "Tilapia Lake Virus--Mexico Immediate 
+Notification."   Retrieved 11 March 2019, from 
+https://www.oie.int/wahis_2/public/wahid.php/Reviewreport/Review?page_refer=MapFullEventR
+eport&reportid=27650. 
+ 
+World Organisation for Animal Health (2018). Tilapia Lake Virus (TiLV ) — A novel orthomyxo - 
+Like Virus. World Organisation for Animal Health. Available at 
+https://www.oie.int/fileadmin/Home/eng/Internationa_Standard_Setting/docs/pdf/Aquatic_Commi
+ssion/A_TiLV_disease_card.pdf. 
+ 
+World Organisation for Animal Health (OIE) (2016). Import Risk Analysis for Aquatic Animal 
+Products, (OIE). 
+ 
+Text Len: 1117
+--------------------------------------------------------------------------------

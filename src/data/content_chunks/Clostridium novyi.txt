@@ -1,0 +1,1276 @@
+UNCONTROLLED COPY 
+SAM 207.10 
+Page 1 of 10 
+ 
+United States Department of Agriculture  
+Center for Veterinary Biologics  
+Testing Protocol  
+ 
+SAM 207 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B 
+Alpha Antigen  
+ 
+ 
+Date:         October 4, 2024 
+ 
+Number:       SAM 207.10 
+ 
+Supersedes:      SAM 207.09, August 10, 2023 
+ 
+Standard Requirement:  9 CFR 113.108  
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture  
+Animal and Plant Health Inspection Service  
+P. O. Box 844  
+Ames, IA  50010  
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA and 
+does not imply its approval to the exclusion of other products that may be suitable. 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 2 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents  
+ 
+1.   Introduction  
+ 
+2.   Materials  
+ 
+2.1   Equipment/
+Text Len: 1132
+--------------------------------------------------------------------------------
+ Page 2 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents  
+ 
+1.   Introduction  
+ 
+2.   Materials  
+ 
+2.1   Equipment/instrumentation  
+2.2   Reagents/supplies  
+2.3   Test animals  
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+3.2  Preparation of equipment and supplies  
+3.3  Preparation of reagents  
+ 
+4.   Performance of the Test  
+ 
+4.1   Vaccination of rabbits  
+4.2   Collection and preparation of rabbit serum  
+4.3   Preparation of serum pools  
+4.4   Toxin neutralization  
+4.5   Inoculation of mice  
+ 
+5.   Interpretation of Test Results  
+ 
+5.1   Criteria for a valid test  
+5.2   Interpretation of test results  
+ 
+6.   Report of Test Results  
+ 
+7.   References  
+ 
+8.   Summary of Revisions  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 3 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+1.   Introduction  
+ 
+This Supplemental Assay Method (SAM) describes the
+Text Len: 1089
+--------------------------------------------------------------------------------
+ for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 3 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+1.   Introduction  
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine whether 
+biological products containing Clostridium novyi type B alpha antigen can stimulate the 
+production of satisfactory immunity as prescribed by the title 9, Code of Federal Regulations    
+(9 CFR), section 113.108. For products that require 2 vaccinations, rabbits are vaccinated twice 
+20 to 23 days apart and bled 14 to 17 days following the second vaccination. For products that 
+require a single vaccination, rabbits are vaccinated and bled 34 to 40 days later. The serum is 
+titrated by a toxin-antitoxin neutralization test, using mice as an indicator.  
+ 
+ 
+2.   Materials  
+ 
+2.1  Equipment/instrumentation  
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1  Mixer, vortex-type  
+ 
+2.1.2  Centrifuge  
+ 
+2.1.3  Autoclave  
+ 
+2.1.4  Freezers, -20°C and -70°C  
+  
+2.1.5  Refrigerator, 2°- 7°C  
+ 
+ 2.1.6  Micropipettes, 100-µL and 1000-µL   
+ 
+2.2  Reagents/supplies  
+ 
+Equ
+Text Len: 1223
+--------------------------------------------------------------------------------
+, -20°C and -70°C  
+  
+2.1.5  Refrigerator, 2°- 7°C  
+ 
+ 2.1.6  Micropipettes, 100-µL and 1000-µL   
+ 
+2.2  Reagents/supplies  
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. 
+ 
+2.2.1  C. novyi type B alpha antitoxin, IRP 507 (04) (available from the Center 
+for Veterinary Biologics (CVB))  
+ 
+2.2.2  C. novyi type B alpha toxin IRP 698 (available from the CVB) 
+ 
+2.2.3  Peptone diluent  
+ 
+2.2.4  Screw-top Erlenmeyer flask, 500-mL, with cap  
+ 
+2.2.5  Syringes, needle-locking, 1-cc, 10-cc, 20-cc, or 30-cc   
+  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 4 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.6  Needles, 25- to 27-gauge x 7/8- to 1 1/4-inch, 20-gauge x 1-inch  
+ 
+2.2.7  Vacutainer® needles, 20-gauge x 1 1/2-inch and needle holder  
+ 
+2.2.8  Serum separation tubes,
+Text Len: 922
+--------------------------------------------------------------------------------
+les, 25- to 27-gauge x 7/8- to 1 1/4-inch, 20-gauge x 1-inch  
+ 
+2.2.7  Vacutainer® needles, 20-gauge x 1 1/2-inch and needle holder  
+ 
+2.2.8  Serum separation tubes, 8.5 - 12.5-mL  
+ 
+2.2.9  Pipettes, 2-mL, 5-mL, 10-mL, 25-mL  
+ 
+2.2.10  Tips for micropipettes  
+ 
+2.2.11  Ketamine hydrochloride, 100 mg/mL solution  
+ 
+2.2.12  Xylazine, 20 mg/mL solution  
+ 
+2.2.13  Water, distilled or deionized, or water of equivalent purity  
+ 
+2.2.14  Polystyrene snap-top tubes, 17 x 100-mm  
+ 
+2.2.15  Polystyrene screw-cap conical tubes, 17 x 120-mm  
+ 
+2.2.16  Glass screw-cap tubes, 13 x 100-mm  
+ 
+2.3  Test animals  
+ 
+2.3.1  New Zealand White rabbits, nonpregnant females, 4-8 lb (Eight rabbits are 
+required per serial to be tested.)  
+ 
+2.3.2  White Swiss nonpregnant female mice, 16-20 g (Five mice are required 
+for each toxin-antitoxin mixture.)  
+ 
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+ 
+Technical personnel need
+Text Len: 957
+--------------------------------------------------------------------------------
+ be tested.)  
+ 
+2.3.2  White Swiss nonpregnant female mice, 16-20 g (Five mice are required 
+for each toxin-antitoxin mixture.)  
+ 
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware; and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel must have specific training in the care 
+and handling of laboratory rabbits and mice.  
+ 
+3.2  Preparation of equipment and supplies  
+ 
+3.2.1  Sterilize all glassware before use.  
+ 
+3.2.2  Use only sterile supplies (pipettes, syringes, needles, etc.).   
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 5 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+3.2.3  Operate all equipment according to the manufacturers’ instructions.  
+ 
+3.3  Preparation of reagents  
+ 
+3.3.1  Peptone diluent  
+ 
+Peptone (Difco) 8 g 
+NaCl, reagent grade 2 g 
+Water, q.s. to  800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide. Fill a 500-mL Erlenmeyer flask no more than 3/4 full with
+Text Len: 1234
+--------------------------------------------------------------------------------
+Peptone (Difco) 8 g 
+NaCl, reagent grade 2 g 
+Water, q.s. to  800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide. Fill a 500-mL Erlenmeyer flask no more than 3/4 full with diluent. 
+Autoclave with caps loosened at ≥ 121°C for 25 to 30 minutes following 
+manufacturer’s recommendations. Cool flasks and tighten caps. Store at 2°- 7°C 
+for up to 3 months.  
+ 
+3.3.2  Preparation of C. novyi type B alpha antitoxin  
+ 
+1. C. novyi type B alpha antitoxin, IRP 507 (04), contains 140 antitoxin 
+units per mL (AU/mL) and has been standardized against the World 
+Health Organization gas gangrene (C. novyi) International Antitoxin, 
+equine origin. Each vial contains 4.5 mL of antitoxin.  
+ 
+2. Prepare a solution of C. novyi type B alpha antitoxin that contains  
+10 AU/mL by adding 1.0 mL of IRP 507 (04) to 13 mL of peptone diluent 
+in a 17 x 100-mm snap-top tube. Dispense in 2.25 mL amounts in glass 13 
+x 100-mm screw-cap tubes and store at -70°± 10°C until used.       
+ 
+3.3.3  Preparation of C. novyi type B alpha toxin  
+ 
+Each vial of C. novyi type B standard toxin IRP 698 contains 0.7 mL of toxin
+Text Len: 1151
+--------------------------------------------------------------------------------
+ 13 
+x 100-mm screw-cap tubes and store at -70°± 10°C until used.       
+ 
+3.3.3  Preparation of C. novyi type B alpha toxin  
+ 
+Each vial of C. novyi type B standard toxin IRP 698 contains 0.7 mL of toxin. 
+Store the toxin at -50°to -80°C until used.  
+ 
+ 
+4.   Performance of the Test  
+ 
+4.1  Vaccination of rabbits  
+ 
+4.1.1  Thoroughly shake each bottle of product and wipe the top with alcohol 
+before filling the syringe.  
+ 
+4.1.2  Vaccinate each rabbit subcutaneously in the shoulder region with not more 
+than half of the largest recommended dose for any species indicated on the 
+product label. Use 10-, 20- or 30-cc syringes fitted with 20-gauge x 1-inch 
+needles to vaccinate the rabbits.  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 6 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+4.1.3  For products that require 2 vaccinations, give the second vaccination 20 to 
+23 days after the first.  
+ 
+4.2  Collection and preparation of rabbit serum  
+ 
+4.2.1  Collect blood from the test rabbits 34 to 40 days after vaccination (or 14 to 
+17 days after the second vaccination for products that require 2 vaccinations).  
+ 
+4.2.2  Anesthetize
+Text Len: 1245
+--------------------------------------------------------------------------------
+ 
+23 days after the first.  
+ 
+4.2  Collection and preparation of rabbit serum  
+ 
+4.2.1  Collect blood from the test rabbits 34 to 40 days after vaccination (or 14 to 
+17 days after the second vaccination for products that require 2 vaccinations).  
+ 
+4.2.2  Anesthetize rabbits for bleeding with a mixture of 1.32 mg/kg of xylazine 
+and 8.8 mg/kg of ketamine hydrochloride. Give the anesthetic mixture by 
+intramuscular injection.  
+ 
+4.2.3  Use 8.5 - 12.5-mL serum separation tube(s) fitted with a 20-gauge x 1 1/2-
+inch Vacutainer® needle to collect blood from the heart. Collect approximately  
+12.5 mL of blood from each rabbit. Gently invert tubes 5 times. Let the tubes of 
+blood sit at 22°- 26°C (room temperature) for 30 to 60 minutes.  
+ 
+4.2.4  Centrifuge blood at approximately 1000 x g for 10 to 20 minutes at room 
+temperature.  
+ 
+4.3  Preparation of serum pools  
+ 
+4.3.1  Prepare a pooled sample using an equal volume of serum from at least 7 
+rabbits per vaccinated group (provided that, if more than 7 rabbits are bled per 
+vaccinated group, then equal volumes from each rabbit are used for the serum 
+pool). If less than 7 rabbits are bled, the test is invalid and must be repeated.  
+ 
+4.3.2  The pooled sample may be held at 2°- 7°C for up to 7 days if the test will 
+be conducted within
+Text Len: 1310
+--------------------------------------------------------------------------------
+ bled per 
+vaccinated group, then equal volumes from each rabbit are used for the serum 
+pool). If less than 7 rabbits are bled, the test is invalid and must be repeated.  
+ 
+4.3.2  The pooled sample may be held at 2°- 7°C for up to 7 days if the test will 
+be conducted within that time. If testing will not be completed within 7 days, store 
+the pooled sample at -20°C or lower.    
+ 
+4.3.3  Use 0.2 mL pooled serum diluted with 0.8 mL peptone diluent to test for 
+0.5 AU/mL of antitoxin.  
+ 
+4.3.4  Use 0.1 mL pooled serum diluted with 0.9 mL peptone diluent to test for 
+1.0 AU/ml of antitoxin.  
+ 
+4.4  Toxin neutralization  
+ 
+4.4.1  Preparation of standard alpha toxin   
+ 
+1.  Dilute the C. novyi type B alpha toxin to 1:19 by adding 0.5 mL of IRP 
+698 toxin to 9.0 mL of peptone diluent in a conical screw-top tube. For the 
+purpose of this test, the 1:19 dilution of IRP 698 is referred to as the 
+standard alpha toxin.  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 7 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.  A volume of 0.5 mL of standard alpha toxin and 0.5 mL of pept
+Text Len: 1185
+--------------------------------------------------------------------------------
+ Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 7 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.  A volume of 0.5 mL of standard alpha toxin and 0.5 mL of peptone 
+diluent represents 0.1 Lo dose. A volume of 0.8 mL of standard alpha toxin 
+plus 0.2 mL of peptone diluent represents 0.1 L+ dose.  
+ 
+3.  For the purposes of this SAM, 0.1 Lo dose is defined as the greatest 
+amount of toxin that, when mixed with 0.1 AU, results in 100% survival 
+of all mice inoculated intravenously (IV) with 0.2 mL of this mixture. The 
+0.1 L+ dose is defined as the least amount of toxin that, when mixed with 
+0.1 AU, results in the death of 80%-100% of all mice inoculated IV with 
+0.2 mL of this mixture.  
+ 
+4.4.2  Preparation of standard alpha antitoxin  
+ 
+Thaw the 10 AU/mL C. novyi type B alpha antitoxin previously described (see 
+Section 3.3.2). Further dilute the antitoxin to 1 AU/mL by adding 1 mL of the 
+well mixed 10 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top 
+tube. Finally dilute the antitoxin to 0.1 AU/mL by adding 1 mL of the well mixed 
+1 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top tube. For the 
+
+Text Len: 1224
+--------------------------------------------------------------------------------
+ mixed 10 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top 
+tube. Finally dilute the antitoxin to 0.1 AU/mL by adding 1 mL of the well mixed 
+1 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top tube. For the 
+purpose of this test, this 0.1 AU/mL dilution of antitoxin is referred to as the 
+standard alpha antitoxin.  
+ 
+4.4.3  Product and standard alpha toxin  
+ 
+1.  Mix a sufficient volume of standard alpha toxin and peptone diluent 
+(0.5 mL of standard alpha toxin and 0.5 mL peptone diluent [0.1 Lo dose]) 
+for each serum pool and the Lo control in a 17 x 120-mm screw-cap tube. 
+Add 1 mL of each of the serum dilutions to 1 mL of this alpha toxin-
+peptone diluent Lo mixture in 17 x 100-mm snap-top tubes. Mix each tube 
+with a vortex-type mixer.  
+ 
+2.  Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour.  
+ 
+3.  Place tubes in ice.  
+ 
+4.4.4  Standard alpha toxin and antitoxin controls  
+ 
+1.  Add 1.0 mL of standard alpha antitoxin (0.1 AU/mL) to 1 mL of the 
+alpha toxin-peptone diluent (0.1 Lo dose) mixture (see Section 4.4.3) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer.  
+ 
+2.  Add 1
+Text Len: 1159
+--------------------------------------------------------------------------------
+ mL of standard alpha antitoxin (0.1 AU/mL) to 1 mL of the 
+alpha toxin-peptone diluent (0.1 Lo dose) mixture (see Section 4.4.3) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer.  
+ 
+2.  Add 1.0 mL of standard alpha antitoxin (0.1 AU/mL) to a 17 x 100-
+mm snap-top tube containing 0.2 mL peptone diluent and 0.8 mL of 
+standard alpha toxin (0.1 L+ dose). Mix well with a vortex-type mixer.  
+ 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 8 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+3.  Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour.  
+ 
+4.  Place tubes in ice.  
+ 
+4.5  Inoculation of mice  
+ 
+4.5.1  Inject 0.2 mL of each standard test toxin-product antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.2  Inject 0.2 mL of each standard test toxin-standard antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.3  Inoculate all mice intravenously into 1 of the lateral tail veins. Use 1-cc 
+syringes fitted with 25- or 27-gauge x 7/8- to 1 1/4-inch needles.   
+ 
+4
+Text Len: 1093
+--------------------------------------------------------------------------------
+ toxin-standard antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.3  Inoculate all mice intravenously into 1 of the lateral tail veins. Use 1-cc 
+syringes fitted with 25- or 27-gauge x 7/8- to 1 1/4-inch needles.   
+ 
+4.5.4  Always inoculate the mice receiving the standard test toxin-standard 
+antitoxin mixtures (controls) last.  
+ 
+4.5.5  Mouse inoculations need to be completed within 1 hour of placing the 
+toxin-antitoxin mixtures in ice.  
+ 
+4.5.6  The test is concluded 72 hours after the mice are inoculated.  
+ 
+ 
+5.   Interpretation of Test Results  
+ 
+5.1  Criteria for a valid test  
+ 
+5.1.1  All 5 mice inoculated with the standard 0.1 Lo/0.1 AU control mixture 
+must survive.  
+ 
+5.1.2  At least 4 of the 5 mice inoculated with the standard 0.1 L+/0.1 AU control 
+mixture must die.  
+ 
+Note: Moribund animals exhibiting clinical signs consistent with the expected 
+disease pathogenesis that are unable to rise or move under their own power may be 
+humanely euthanized and considered as deaths as outlined in 9 CFR 117.4.  
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 9 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+
+Text Len: 1224
+--------------------------------------------------------------------------------
+ euthanized and considered as deaths as outlined in 9 CFR 117.4.  
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 9 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+5.2  Interpretation of test results  
+ 
+5.2.1  If 5 of the 5 mice inoculated with the 1:5 diluted serum-toxin mixture (see 
+Section 4.3.3) survive, the serum contains at least 0.5 AU/mL of C. novyi type B 
+alpha antitoxin and the product is satisfactory.  
+ 
+5.2.2  If 5 of the 5 mice inoculated with the 1:10 diluted serum-toxin mixture 
+(see Section 4.3.4) survive, the serum contains at least 1.0 AU/mL of C. novyi 
+type B alpha antitoxin.  
+ 
+5.2.3  The product is considered unsatisfactory if the serum pool from at least 7 
+rabbits contains less than 0.5 AU/mL of C. novyi type B alpha antitoxin.  
+ 
+ 
+6.  Report of Test Results  
+ 
+Report results of the test(s) as described by standard operating procedures.  
+ 
+ 
+7.   References  
+ 
+7.1  Title 9, Code of Federal Regulations,  part 113.108, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2  History of reagents. C. novyi type B alpha antitoxin IRP 507 (04) was produced in
+Text Len: 1198
+--------------------------------------------------------------------------------
+ 
+ 
+7.   References  
+ 
+7.1  Title 9, Code of Federal Regulations,  part 113.108, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2  History of reagents. C. novyi type B alpha antitoxin IRP 507 (04) was produced in 
+goats at the National Veterinary Services Laboratories/Center for Veterinary Biologics in 
+Ames, Iowa.  
+ 
+7.3  C. novyi type B alpha toxin (IRP 698) was produced at the Center for Veterinary 
+Biologics, Ames, Iowa, in February-March 2024. The toxin was made from C. novyi type 
+B alpha strain CN234.3. The culture was obtained from Wellcome Research 
+Laboratories, Beckenham, England, on July 16, 1965. The number of passages is 
+unknown.  
+ 
+ 
+8.   Summary of Revisions  
+ 
+Version .10 
+• Toxin lot IRP 698 replaces IRP 636 throughout the document. 
+ 
+Version .09 
+• Cover sheet updated. 
+• Correct 0.1 Lo dose volume and 0.1 L+ dose volume per reagent data sheet 
+information. 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 10 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Version .08 
+• Toxin lot IRP 636 replaces IRP 581 throughout the document. 
+• The Director was updated on the cover page. 
+Version .07 
+• The Bacteriology Section
+Text Len: 1258
+--------------------------------------------------------------------------------
+ Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Version .08 
+• Toxin lot IRP 636 replaces IRP 581 throughout the document. 
+• The Director was updated on the cover page. 
+Version .07 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .06 
+• C. novyi type B alpha toxin IRP 581 has replaced IRP 425 throughout the document. 
+ 
+Version .05 
+• The Contact information has been updated. 
+ 
+Version .04 
+• The standard antitoxin IRP 298 has been changed to IRP 507(4) throughout the 
+document.  
+• The 0.1 Lo and 0.1 L+ doses have been updated throughout the document.  
+ 
+Version .03 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+• 4.4.3 The wording was changed to add clarity.  
+• 4.4.4 The wording was changed to add clarity.  
+• Humane endpoint language was added.  
+• Dilution/holding vessel sizes were added for clarification.  
+• The contact person was changed to Janet M. Wilson.  
+Text Len: 1215
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 207.10 
+Page 1 of 10 
+ 
+United States Department of Agriculture  
+Center for Veterinary Biologics  
+Testing Protocol  
+ 
+SAM 207 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B 
+Alpha Antigen  
+ 
+ 
+Date:         October 4, 2024 
+ 
+Number:       SAM 207.10 
+ 
+Supersedes:      SAM 207.09, August 10, 2023 
+ 
+Standard Requirement:  9 CFR 113.108  
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture  
+Animal and Plant Health Inspection Service  
+P. O. Box 844  
+Ames, IA  50010  
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA and 
+does not imply its approval to the exclusion of other products that may be suitable. 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 2 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents  
+ 
+1.   Introduction  
+ 
+2.   Materials  
+ 
+2.1   Equipment/
+Text Len: 1132
+--------------------------------------------------------------------------------
+ Page 2 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents  
+ 
+1.   Introduction  
+ 
+2.   Materials  
+ 
+2.1   Equipment/instrumentation  
+2.2   Reagents/supplies  
+2.3   Test animals  
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+3.2  Preparation of equipment and supplies  
+3.3  Preparation of reagents  
+ 
+4.   Performance of the Test  
+ 
+4.1   Vaccination of rabbits  
+4.2   Collection and preparation of rabbit serum  
+4.3   Preparation of serum pools  
+4.4   Toxin neutralization  
+4.5   Inoculation of mice  
+ 
+5.   Interpretation of Test Results  
+ 
+5.1   Criteria for a valid test  
+5.2   Interpretation of test results  
+ 
+6.   Report of Test Results  
+ 
+7.   References  
+ 
+8.   Summary of Revisions  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 3 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+1.   Introduction  
+ 
+This Supplemental Assay Method (SAM) describes the
+Text Len: 1089
+--------------------------------------------------------------------------------
+ for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 3 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+1.   Introduction  
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine whether 
+biological products containing Clostridium novyi type B alpha antigen can stimulate the 
+production of satisfactory immunity as prescribed by the title 9, Code of Federal Regulations    
+(9 CFR), section 113.108. For products that require 2 vaccinations, rabbits are vaccinated twice 
+20 to 23 days apart and bled 14 to 17 days following the second vaccination. For products that 
+require a single vaccination, rabbits are vaccinated and bled 34 to 40 days later. The serum is 
+titrated by a toxin-antitoxin neutralization test, using mice as an indicator.  
+ 
+ 
+2.   Materials  
+ 
+2.1  Equipment/instrumentation  
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1  Mixer, vortex-type  
+ 
+2.1.2  Centrifuge  
+ 
+2.1.3  Autoclave  
+ 
+2.1.4  Freezers, -20°C and -70°C  
+  
+2.1.5  Refrigerator, 2°- 7°C  
+ 
+ 2.1.6  Micropipettes, 100-µL and 1000-µL   
+ 
+2.2  Reagents/supplies  
+ 
+Equ
+Text Len: 1223
+--------------------------------------------------------------------------------
+, -20°C and -70°C  
+  
+2.1.5  Refrigerator, 2°- 7°C  
+ 
+ 2.1.6  Micropipettes, 100-µL and 1000-µL   
+ 
+2.2  Reagents/supplies  
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. 
+ 
+2.2.1  C. novyi type B alpha antitoxin, IRP 507 (04) (available from the Center 
+for Veterinary Biologics (CVB))  
+ 
+2.2.2  C. novyi type B alpha toxin IRP 698 (available from the CVB) 
+ 
+2.2.3  Peptone diluent  
+ 
+2.2.4  Screw-top Erlenmeyer flask, 500-mL, with cap  
+ 
+2.2.5  Syringes, needle-locking, 1-cc, 10-cc, 20-cc, or 30-cc   
+  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 4 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.6  Needles, 25- to 27-gauge x 7/8- to 1 1/4-inch, 20-gauge x 1-inch  
+ 
+2.2.7  Vacutainer® needles, 20-gauge x 1 1/2-inch and needle holder  
+ 
+2.2.8  Serum separation tubes,
+Text Len: 922
+--------------------------------------------------------------------------------
+les, 25- to 27-gauge x 7/8- to 1 1/4-inch, 20-gauge x 1-inch  
+ 
+2.2.7  Vacutainer® needles, 20-gauge x 1 1/2-inch and needle holder  
+ 
+2.2.8  Serum separation tubes, 8.5 - 12.5-mL  
+ 
+2.2.9  Pipettes, 2-mL, 5-mL, 10-mL, 25-mL  
+ 
+2.2.10  Tips for micropipettes  
+ 
+2.2.11  Ketamine hydrochloride, 100 mg/mL solution  
+ 
+2.2.12  Xylazine, 20 mg/mL solution  
+ 
+2.2.13  Water, distilled or deionized, or water of equivalent purity  
+ 
+2.2.14  Polystyrene snap-top tubes, 17 x 100-mm  
+ 
+2.2.15  Polystyrene screw-cap conical tubes, 17 x 120-mm  
+ 
+2.2.16  Glass screw-cap tubes, 13 x 100-mm  
+ 
+2.3  Test animals  
+ 
+2.3.1  New Zealand White rabbits, nonpregnant females, 4-8 lb (Eight rabbits are 
+required per serial to be tested.)  
+ 
+2.3.2  White Swiss nonpregnant female mice, 16-20 g (Five mice are required 
+for each toxin-antitoxin mixture.)  
+ 
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+ 
+Technical personnel need
+Text Len: 957
+--------------------------------------------------------------------------------
+ be tested.)  
+ 
+2.3.2  White Swiss nonpregnant female mice, 16-20 g (Five mice are required 
+for each toxin-antitoxin mixture.)  
+ 
+ 
+3.   Preparation for the Test  
+ 
+3.1  Personnel qualifications/training  
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware; and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel must have specific training in the care 
+and handling of laboratory rabbits and mice.  
+ 
+3.2  Preparation of equipment and supplies  
+ 
+3.2.1  Sterilize all glassware before use.  
+ 
+3.2.2  Use only sterile supplies (pipettes, syringes, needles, etc.).   
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 5 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+3.2.3  Operate all equipment according to the manufacturers’ instructions.  
+ 
+3.3  Preparation of reagents  
+ 
+3.3.1  Peptone diluent  
+ 
+Peptone (Difco) 8 g 
+NaCl, reagent grade 2 g 
+Water, q.s. to  800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide. Fill a 500-mL Erlenmeyer flask no more than 3/4 full with
+Text Len: 1234
+--------------------------------------------------------------------------------
+Peptone (Difco) 8 g 
+NaCl, reagent grade 2 g 
+Water, q.s. to  800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide. Fill a 500-mL Erlenmeyer flask no more than 3/4 full with diluent. 
+Autoclave with caps loosened at ≥ 121°C for 25 to 30 minutes following 
+manufacturer’s recommendations. Cool flasks and tighten caps. Store at 2°- 7°C 
+for up to 3 months.  
+ 
+3.3.2  Preparation of C. novyi type B alpha antitoxin  
+ 
+1. C. novyi type B alpha antitoxin, IRP 507 (04), contains 140 antitoxin 
+units per mL (AU/mL) and has been standardized against the World 
+Health Organization gas gangrene (C. novyi) International Antitoxin, 
+equine origin. Each vial contains 4.5 mL of antitoxin.  
+ 
+2. Prepare a solution of C. novyi type B alpha antitoxin that contains  
+10 AU/mL by adding 1.0 mL of IRP 507 (04) to 13 mL of peptone diluent 
+in a 17 x 100-mm snap-top tube. Dispense in 2.25 mL amounts in glass 13 
+x 100-mm screw-cap tubes and store at -70°± 10°C until used.       
+ 
+3.3.3  Preparation of C. novyi type B alpha toxin  
+ 
+Each vial of C. novyi type B standard toxin IRP 698 contains 0.7 mL of toxin
+Text Len: 1151
+--------------------------------------------------------------------------------
+ 13 
+x 100-mm screw-cap tubes and store at -70°± 10°C until used.       
+ 
+3.3.3  Preparation of C. novyi type B alpha toxin  
+ 
+Each vial of C. novyi type B standard toxin IRP 698 contains 0.7 mL of toxin. 
+Store the toxin at -50°to -80°C until used.  
+ 
+ 
+4.   Performance of the Test  
+ 
+4.1  Vaccination of rabbits  
+ 
+4.1.1  Thoroughly shake each bottle of product and wipe the top with alcohol 
+before filling the syringe.  
+ 
+4.1.2  Vaccinate each rabbit subcutaneously in the shoulder region with not more 
+than half of the largest recommended dose for any species indicated on the 
+product label. Use 10-, 20- or 30-cc syringes fitted with 20-gauge x 1-inch 
+needles to vaccinate the rabbits.  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 6 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+4.1.3  For products that require 2 vaccinations, give the second vaccination 20 to 
+23 days after the first.  
+ 
+4.2  Collection and preparation of rabbit serum  
+ 
+4.2.1  Collect blood from the test rabbits 34 to 40 days after vaccination (or 14 to 
+17 days after the second vaccination for products that require 2 vaccinations).  
+ 
+4.2.2  Anesthetize
+Text Len: 1245
+--------------------------------------------------------------------------------
+ 
+23 days after the first.  
+ 
+4.2  Collection and preparation of rabbit serum  
+ 
+4.2.1  Collect blood from the test rabbits 34 to 40 days after vaccination (or 14 to 
+17 days after the second vaccination for products that require 2 vaccinations).  
+ 
+4.2.2  Anesthetize rabbits for bleeding with a mixture of 1.32 mg/kg of xylazine 
+and 8.8 mg/kg of ketamine hydrochloride. Give the anesthetic mixture by 
+intramuscular injection.  
+ 
+4.2.3  Use 8.5 - 12.5-mL serum separation tube(s) fitted with a 20-gauge x 1 1/2-
+inch Vacutainer® needle to collect blood from the heart. Collect approximately  
+12.5 mL of blood from each rabbit. Gently invert tubes 5 times. Let the tubes of 
+blood sit at 22°- 26°C (room temperature) for 30 to 60 minutes.  
+ 
+4.2.4  Centrifuge blood at approximately 1000 x g for 10 to 20 minutes at room 
+temperature.  
+ 
+4.3  Preparation of serum pools  
+ 
+4.3.1  Prepare a pooled sample using an equal volume of serum from at least 7 
+rabbits per vaccinated group (provided that, if more than 7 rabbits are bled per 
+vaccinated group, then equal volumes from each rabbit are used for the serum 
+pool). If less than 7 rabbits are bled, the test is invalid and must be repeated.  
+ 
+4.3.2  The pooled sample may be held at 2°- 7°C for up to 7 days if the test will 
+be conducted within
+Text Len: 1310
+--------------------------------------------------------------------------------
+ bled per 
+vaccinated group, then equal volumes from each rabbit are used for the serum 
+pool). If less than 7 rabbits are bled, the test is invalid and must be repeated.  
+ 
+4.3.2  The pooled sample may be held at 2°- 7°C for up to 7 days if the test will 
+be conducted within that time. If testing will not be completed within 7 days, store 
+the pooled sample at -20°C or lower.    
+ 
+4.3.3  Use 0.2 mL pooled serum diluted with 0.8 mL peptone diluent to test for 
+0.5 AU/mL of antitoxin.  
+ 
+4.3.4  Use 0.1 mL pooled serum diluted with 0.9 mL peptone diluent to test for 
+1.0 AU/ml of antitoxin.  
+ 
+4.4  Toxin neutralization  
+ 
+4.4.1  Preparation of standard alpha toxin   
+ 
+1.  Dilute the C. novyi type B alpha toxin to 1:19 by adding 0.5 mL of IRP 
+698 toxin to 9.0 mL of peptone diluent in a conical screw-top tube. For the 
+purpose of this test, the 1:19 dilution of IRP 698 is referred to as the 
+standard alpha toxin.  
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 7 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.  A volume of 0.5 mL of standard alpha toxin and 0.5 mL of pept
+Text Len: 1185
+--------------------------------------------------------------------------------
+ Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 7 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+2.  A volume of 0.5 mL of standard alpha toxin and 0.5 mL of peptone 
+diluent represents 0.1 Lo dose. A volume of 0.8 mL of standard alpha toxin 
+plus 0.2 mL of peptone diluent represents 0.1 L+ dose.  
+ 
+3.  For the purposes of this SAM, 0.1 Lo dose is defined as the greatest 
+amount of toxin that, when mixed with 0.1 AU, results in 100% survival 
+of all mice inoculated intravenously (IV) with 0.2 mL of this mixture. The 
+0.1 L+ dose is defined as the least amount of toxin that, when mixed with 
+0.1 AU, results in the death of 80%-100% of all mice inoculated IV with 
+0.2 mL of this mixture.  
+ 
+4.4.2  Preparation of standard alpha antitoxin  
+ 
+Thaw the 10 AU/mL C. novyi type B alpha antitoxin previously described (see 
+Section 3.3.2). Further dilute the antitoxin to 1 AU/mL by adding 1 mL of the 
+well mixed 10 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top 
+tube. Finally dilute the antitoxin to 0.1 AU/mL by adding 1 mL of the well mixed 
+1 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top tube. For the 
+
+Text Len: 1224
+--------------------------------------------------------------------------------
+ mixed 10 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top 
+tube. Finally dilute the antitoxin to 0.1 AU/mL by adding 1 mL of the well mixed 
+1 AU/mL antitoxin to 9 mL of diluent in a 17 x 100-mm snap-top tube. For the 
+purpose of this test, this 0.1 AU/mL dilution of antitoxin is referred to as the 
+standard alpha antitoxin.  
+ 
+4.4.3  Product and standard alpha toxin  
+ 
+1.  Mix a sufficient volume of standard alpha toxin and peptone diluent 
+(0.5 mL of standard alpha toxin and 0.5 mL peptone diluent [0.1 Lo dose]) 
+for each serum pool and the Lo control in a 17 x 120-mm screw-cap tube. 
+Add 1 mL of each of the serum dilutions to 1 mL of this alpha toxin-
+peptone diluent Lo mixture in 17 x 100-mm snap-top tubes. Mix each tube 
+with a vortex-type mixer.  
+ 
+2.  Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour.  
+ 
+3.  Place tubes in ice.  
+ 
+4.4.4  Standard alpha toxin and antitoxin controls  
+ 
+1.  Add 1.0 mL of standard alpha antitoxin (0.1 AU/mL) to 1 mL of the 
+alpha toxin-peptone diluent (0.1 Lo dose) mixture (see Section 4.4.3) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer.  
+ 
+2.  Add 1
+Text Len: 1159
+--------------------------------------------------------------------------------
+ mL of standard alpha antitoxin (0.1 AU/mL) to 1 mL of the 
+alpha toxin-peptone diluent (0.1 Lo dose) mixture (see Section 4.4.3) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer.  
+ 
+2.  Add 1.0 mL of standard alpha antitoxin (0.1 AU/mL) to a 17 x 100-
+mm snap-top tube containing 0.2 mL peptone diluent and 0.8 mL of 
+standard alpha toxin (0.1 L+ dose). Mix well with a vortex-type mixer.  
+ 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 8 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+3.  Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour.  
+ 
+4.  Place tubes in ice.  
+ 
+4.5  Inoculation of mice  
+ 
+4.5.1  Inject 0.2 mL of each standard test toxin-product antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.2  Inject 0.2 mL of each standard test toxin-standard antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.3  Inoculate all mice intravenously into 1 of the lateral tail veins. Use 1-cc 
+syringes fitted with 25- or 27-gauge x 7/8- to 1 1/4-inch needles.   
+ 
+4
+Text Len: 1093
+--------------------------------------------------------------------------------
+ toxin-standard antitoxin mixture into 
+each of 5 mice.  
+ 
+4.5.3  Inoculate all mice intravenously into 1 of the lateral tail veins. Use 1-cc 
+syringes fitted with 25- or 27-gauge x 7/8- to 1 1/4-inch needles.   
+ 
+4.5.4  Always inoculate the mice receiving the standard test toxin-standard 
+antitoxin mixtures (controls) last.  
+ 
+4.5.5  Mouse inoculations need to be completed within 1 hour of placing the 
+toxin-antitoxin mixtures in ice.  
+ 
+4.5.6  The test is concluded 72 hours after the mice are inoculated.  
+ 
+ 
+5.   Interpretation of Test Results  
+ 
+5.1  Criteria for a valid test  
+ 
+5.1.1  All 5 mice inoculated with the standard 0.1 Lo/0.1 AU control mixture 
+must survive.  
+ 
+5.1.2  At least 4 of the 5 mice inoculated with the standard 0.1 L+/0.1 AU control 
+mixture must die.  
+ 
+Note: Moribund animals exhibiting clinical signs consistent with the expected 
+disease pathogenesis that are unable to rise or move under their own power may be 
+humanely euthanized and considered as deaths as outlined in 9 CFR 117.4.  
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 9 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+
+Text Len: 1224
+--------------------------------------------------------------------------------
+ euthanized and considered as deaths as outlined in 9 CFR 117.4.  
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 9 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+5.2  Interpretation of test results  
+ 
+5.2.1  If 5 of the 5 mice inoculated with the 1:5 diluted serum-toxin mixture (see 
+Section 4.3.3) survive, the serum contains at least 0.5 AU/mL of C. novyi type B 
+alpha antitoxin and the product is satisfactory.  
+ 
+5.2.2  If 5 of the 5 mice inoculated with the 1:10 diluted serum-toxin mixture 
+(see Section 4.3.4) survive, the serum contains at least 1.0 AU/mL of C. novyi 
+type B alpha antitoxin.  
+ 
+5.2.3  The product is considered unsatisfactory if the serum pool from at least 7 
+rabbits contains less than 0.5 AU/mL of C. novyi type B alpha antitoxin.  
+ 
+ 
+6.  Report of Test Results  
+ 
+Report results of the test(s) as described by standard operating procedures.  
+ 
+ 
+7.   References  
+ 
+7.1  Title 9, Code of Federal Regulations,  part 113.108, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2  History of reagents. C. novyi type B alpha antitoxin IRP 507 (04) was produced in
+Text Len: 1198
+--------------------------------------------------------------------------------
+ 
+ 
+7.   References  
+ 
+7.1  Title 9, Code of Federal Regulations,  part 113.108, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2  History of reagents. C. novyi type B alpha antitoxin IRP 507 (04) was produced in 
+goats at the National Veterinary Services Laboratories/Center for Veterinary Biologics in 
+Ames, Iowa.  
+ 
+7.3  C. novyi type B alpha toxin (IRP 698) was produced at the Center for Veterinary 
+Biologics, Ames, Iowa, in February-March 2024. The toxin was made from C. novyi type 
+B alpha strain CN234.3. The culture was obtained from Wellcome Research 
+Laboratories, Beckenham, England, on July 16, 1965. The number of passages is 
+unknown.  
+ 
+ 
+8.   Summary of Revisions  
+ 
+Version .10 
+• Toxin lot IRP 698 replaces IRP 636 throughout the document. 
+ 
+Version .09 
+• Cover sheet updated. 
+• Correct 0.1 Lo dose volume and 0.1 L+ dose volume per reagent data sheet 
+information. 
+ 
+Center for Veterinary Biologics  SAM 207.10 
+Testing Protocol  Page 10 of 10 
+ 
+Supplemental Assay Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Version .08 
+• Toxin lot IRP 636 replaces IRP 581 throughout the document. 
+• The Director was updated on the cover page. 
+Version .07 
+• The Bacteriology Section
+Text Len: 1258
+--------------------------------------------------------------------------------
+ Method for Potency Testing Clostridium novyi Type B Alpha Antigen 
+ 
+UNCONTROLLED COPY 
+ 
+Version .08 
+• Toxin lot IRP 636 replaces IRP 581 throughout the document. 
+• The Director was updated on the cover page. 
+Version .07 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .06 
+• C. novyi type B alpha toxin IRP 581 has replaced IRP 425 throughout the document. 
+ 
+Version .05 
+• The Contact information has been updated. 
+ 
+Version .04 
+• The standard antitoxin IRP 298 has been changed to IRP 507(4) throughout the 
+document.  
+• The 0.1 Lo and 0.1 L+ doses have been updated throughout the document.  
+ 
+Version .03 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+• 4.4.3 The wording was changed to add clarity.  
+• 4.4.4 The wording was changed to add clarity.  
+• Humane endpoint language was added.  
+• Dilution/holding vessel sizes were added for clarification.  
+• The contact person was changed to Janet M. Wilson.  
+Text Len: 1215
+--------------------------------------------------------------------------------

@@ -1,0 +1,2558 @@
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bovine Spongiform Encephalopathy (BSE) 
+Ongoing Surveillance Plan 
+ 
+July 20, 2006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+Bovine Spongiform Encephalopathy Ongoing Surveillance Plan  
+ 
+INTRODUCTION 
+ 
+The U.S. Department of Agriculture (USDA) has taken aggressive measures to prevent 
+the introduction and potential spread of bovine spongiform encephalopathy (BSE), and 
+has conducted surveillance since 1990 to monitor whether the disease was present.  
+Surveillance was expanded in scope and intensity following the confirmation of BSE in 
+an imported cow in December 2003.  This expanded surveillance effort was designed to 
+estimate the level of disease present in the United States and provide input for designing 
+a long-term surveillance plan.  
+ 
+The present plan is intended to inform and educate USDA’s partners and stakeholders on 
+approaches to be employed in ongoing BSE surveillance.  The plan retains the USDA’s 
+ability to detect BSE at 1 infected animal per 1,000,000 adult cattle in the population with 
+a high degree of confidence, maintains surveillance at levels that exceed international 
+standards, emphasizes sample collection from cattle subpopulations where BSE is most 
+likely to be detected, and retains sample collections from all important surveillance 
+sources. 
+ 
+The plan follows surveillance system design standards and guidelines established by the 
+USDA’s Animal and Plant Health Inspection Service (APHIS), Veterinary Services (VS), 
+National Surveillance Unit (NSU).  These guidelines are intended
+Text Len: 1551
+--------------------------------------------------------------------------------
+ subpopulations where BSE is most 
+likely to be detected, and retains sample collections from all important surveillance 
+sources. 
+ 
+The plan follows surveillance system design standards and guidelines established by the 
+USDA’s Animal and Plant Health Inspection Service (APHIS), Veterinary Services (VS), 
+National Surveillance Unit (NSU).  These guidelines are intended to assist planners and 
+managers in considering specific objectives, design strategies, reporting systems, 
+implementation methods, and long-term system maintenance.  The guidelines ensure that 
+the objectives of the surveillance system are predefined, and that the collection, 
+organization, and analysis of appropriate data are considered before implementation.  
+Further, the guidelines provide a mechanism for review and evaluation to assure that the 
+surveillance is providing the appropriate type and quality of information. 
+ 
+Disease description 
+Bovine spongiform encephalopathy, commonly known as “Mad Cow Disease”, is a 
+transmissible neurodegenerative disease of adult cattle that emerged in Great Britain in 
+1985,38 and has subsequently been identified in cattle of most European countries, 
+Canada, the United States, and Japan.  BSE belongs to the group of transmissible 
+spongiform encephalopathies (TSEs), together with scrapie of sheep, chronic wasting 
+disease of free-ranging and captive deer and elk, and Creutzfeldt-Jakob disease (CJD) of 
+humans.  TSEs have long latency periods, are untreatable, and currently cannot be 
+prevented by vaccination since there is absence of a host immune response to infection.   
+ 
+Most scientific evidence suggests that prions are the causative agent of TSEs;32  however, 
+the nature of the prion
+Text Len: 1728
+--------------------------------------------------------------------------------
+CJD) of 
+humans.  TSEs have long latency periods, are untreatable, and currently cannot be 
+prevented by vaccination since there is absence of a host immune response to infection.   
+ 
+Most scientific evidence suggests that prions are the causative agent of TSEs;32  however, 
+the nature of the prion remains undetermined.  A unique characteristic of the prion is its 
+resistance to inactivation by most conventional physical or chemical decontamination 
+methods.37  The prion consists mostly of protein, largely comprised by a proteinase-
+resistant, disease-associated isoform (PrPres) of host-encoded prion protein (PrPC).29,32  
+The pathogenesis of the TSEs requires the formation of PrPres from PrPC.16  Interaction 
+ 
+ 3
+with PrPres leads to post-translational conformational modification of PrPC,24,26,33 resulting 
+in its conversion to PrPres.14,19  The subsequent pathological accumulation of PrPres in 
+certain tissues defines the TSEs.13,34 The pathogenesis of BSE appears to involve a much 
+more restricted tissue distribution of PrPres accumulation than other animal TSEs, having 
+reduced involvement of the lymphoreticular system.   
+ 
+The origin of the BSE agent is unresolved. Theories have considered derivation from a 
+TSE agent of another mammalian species, such as scrapie,40 or spontaneous genetic 
+mutation of the bovid prion protein gene.31  The emergence of BSE coincided with 
+reduced use of hydrocarbon solvents in the production of meat-and-bone meal (MBM) 
+through carcass rendering.40 
+ 
+Transmission of BSE is thought to primarily
+Text Len: 1559
+--------------------------------------------------------------------------------
+ species, such as scrapie,40 or spontaneous genetic 
+mutation of the bovid prion protein gene.31  The emergence of BSE coincided with 
+reduced use of hydrocarbon solvents in the production of meat-and-bone meal (MBM) 
+through carcass rendering.40 
+ 
+Transmission of BSE is thought to primarily occur through ingestion of feedstuff, 
+especially ruminant-derived MBM, contaminated with the BSE agent.41,43  Calves born to 
+infected cows have increased risk to develop BSE,44 especially if born around the time of 
+disease onset in the dam.22  However, the risk is probably influenced by conserved 
+management practices where both the dam and calf have been fed concentrated feedstuff 
+containing MBM early in life.12  Horizontal transmission of BSE between cattle is not 
+believed to occur.  Most cattle become infected within the first 6 months of life.12  The 
+mean incubation period for BSE is around 60 months, with clinical onset of disease 
+occurring on average at 4-5 years of age.11  The age range of affected animals is very 
+wide, although BSE is rarely confirmed in animals less than 30 months of age.4,48   
+ 
+BSE is invariably fatal.  Clinical signs have an insidious onset and are largely 
+nonspecific.  Signs that may be associated with BSE include apprehension, ataxia, 
+emaciation, hypersensitivity to touch or sound, head shyness, panic-stricken response, 
+kicking in the milking parlor, reluctance to enter the milking parlor, abnormal ear 
+movement or carriage, increased alertness behavior, reduced milk yield, bruxism, and 
+change in temperament.35,
+Text Len: 1569
+--------------------------------------------------------------------------------
+ apprehension, ataxia, 
+emaciation, hypersensitivity to touch or sound, head shyness, panic-stricken response, 
+kicking in the milking parlor, reluctance to enter the milking parlor, abnormal ear 
+movement or carriage, increased alertness behavior, reduced milk yield, bruxism, and 
+change in temperament.35,43  The duration of clinical signs averages 1 to 2 months prior to 
+death or slaughter, but may range from weeks to a year.43 
+ 
+Although live animal tests are under development, at present, none are available to 
+reliably detect BSE.  Diagnosis is achieved postmortem through examination of central 
+nervous system (CNS) tissue, and is contingent on identification of characteristic 
+histopathologic lesions, detection of PrPres, or electron microscopic visualization of 
+scrapie-associated fibrils.6  Because PrPres is the only currently known disease-specific 
+macromolecule, all commercially available diagnostic assays rely on its immunological 
+detection.10  These assays have limited diagnostic sensitivity in that PrPres accumulation 
+may not be detectable until late during the incubation period, within months prior to onset 
+of clinical disease.27  Infected animals that are early in the incubation period can only be 
+identified through demonstration of tissue infectivity using bioassay.  The only lesions 
+associated with BSE are found microscopically within CNS tissue.38,39  Lesions develop 
+late in the disease process, roughly coinciding with the onset of clinical signs.  These 
+consist of non-inflammatory vacuolar degeneration, or spongiform change, of grey matter 
+and neuronal cell bodies.  Astrocytosis and cerebral amyloidosis, features of other TSEs, 
+are unusual with
+Text Len: 1702
+--------------------------------------------------------------------------------
+,39  Lesions develop 
+late in the disease process, roughly coinciding with the onset of clinical signs.  These 
+consist of non-inflammatory vacuolar degeneration, or spongiform change, of grey matter 
+and neuronal cell bodies.  Astrocytosis and cerebral amyloidosis, features of other TSEs, 
+are unusual with BSE. 
+ 
+ 4
+ 
+Breed-dependent differential susceptibility or incubation period has not been observed 
+with BSE,42 and there is little variability in the bovine PrP gene.23  The consistent 
+neuroanatomical lesion profile in the brains of cattle affected with BSE,36,39 and uniform 
+glycoform ratios of PrPres as determined by immunoblotting,21,28 suggest the existence of 
+a single strain of the BSE agent.  However, a recently described atypical form of BSE, 
+termed bovine amyloidotic spongiform encephalopathy (BASE), has modified glycoform 
+patterns similar to sporadic CJD in humans, and may represent an alternative strain of 
+BSE agent.18 
+  
+Although TSEs are usually confined to an individual species, concern has arisen for the 
+potential of inter-species transmission of BSE.  The BSE agent is widely recognized as 
+the cause of variant CJD in humans, based on epidemiological and mouse inoculation 
+studies,15,46 and biochemical PrPres characteristics.21   In addition, natural exposure to 
+BSE agent has led to similar encephalopathic disease in captive wild ungulates and cats,25 
+and in domestic cats.47 
+ 
+Measures established by the United States to prevent new cases of BSE have included 
+restrictions on the
+Text Len: 1533
+--------------------------------------------------------------------------------
+
+studies,15,46 and biochemical PrPres characteristics.21   In addition, natural exposure to 
+BSE agent has led to similar encephalopathic disease in captive wild ungulates and cats,25 
+and in domestic cats.47 
+ 
+Measures established by the United States to prevent new cases of BSE have included 
+restrictions on the importation of ruminants and ruminant-derived products from 
+countries affected with BSE or that present undue risk of BSE (9CFR Parts 93, 94, 95, 
+96, and 98) and prohibition of feeding mammalian-derived proteins, with exceptions, to 
+ruminants (21CFR589.2000).  Mitigating measures have been considered to effectively 
+reduce the likelihood of BSE introduction and amplification in U.S. cattle.20  Food-safety 
+precautions implemented by the United States to protect the consumer have included the 
+exclusion of non-ambulatory cattle from slaughter for human consumption, prohibitions 
+on the use of specified risk material as human food, and prohibitions on the use of 
+mechanically separated beef in human food (69 FR 1826, January 12, 2004;  69 FR 
+42255, July 14, 2004); prohibition of the use of air-injection stunning devices to 
+immobilize cattle during slaughter (69 FR 1885-1891); and prohibitions on the use of 
+certain tissues in advanced meat recovery systems and additional process controls on 
+these systems (69 FR 1874-1885).  
+ 
+Purpose, rationale, and objectives of surveillance 
+ 
+Animal and public health concerns have led to the establishment of active surveillance 
+programs among other regulatory measures to monitor and prevent disease.  Active 
+surveillance for BSE was initiated in the United States in 1990.
+Text Len: 1652
+--------------------------------------------------------------------------------
+ process controls on 
+these systems (69 FR 1874-1885).  
+ 
+Purpose, rationale, and objectives of surveillance 
+ 
+Animal and public health concerns have led to the establishment of active surveillance 
+programs among other regulatory measures to monitor and prevent disease.  Active 
+surveillance for BSE was initiated in the United States in 1990.  In response to 
+identification of a BSE-affected imported dairy cow in December 2003, the U.S. 
+Enhanced BSE Surveillance Program was implemented in June 2004.  Through these 
+efforts, 2 cases of BSE were identified through March 2006.  Both cases were in beef 
+cattle over ten years old (born before the feed ban of 1997), one located in Texas and one 
+in Alabama. 
+ 
+Based on data collected in the United States over the last seven years, including over a 
+half million samples from the Enhanced Surveillance program, the USDA has developed 
+an estimate of prevalence of BSE among U.S. cattle that was extremely low, projected at 
+ 
+ 5
+less than 1 case per million animals in the standing adult cattle population at the 95% 
+confidence level.1  In addition, the USDA demonstrated that surveillance efforts to date 
+far exceed the World Organization for Animal Health (Office Internationales des 
+Epizooties [OIE]) “type A” surveillance requirements.  Prevalence is expected to decline 
+as long as mitigation efforts that maintain low risk for introduction and spread of the BSE 
+agent among U.S. cattle are equivalent to or better than those evaluated by the Harvard 
+Risk Assessment.20  The present plan details the objectives and methods considered 
+pertinent and necessary for Ongoing BSE Surveillance. 
+ 
+The principal purposes of Ongoing BSE Surveillance are: 
+1
+Text Len: 1718
+--------------------------------------------------------------------------------
+ that maintain low risk for introduction and spread of the BSE 
+agent among U.S. cattle are equivalent to or better than those evaluated by the Harvard 
+Risk Assessment.20  The present plan details the objectives and methods considered 
+pertinent and necessary for Ongoing BSE Surveillance. 
+ 
+The principal purposes of Ongoing BSE Surveillance are: 
+1. To continue to assess and monitor change in the BSE status of U.S. cattle.   
+2. To provide mechanisms for detection of BSE prevalence if it were to increase 
+above 1 infected animal per million adults. 
+ 
+Expected outcomes 
+ 
+The results of Ongoing BSE Surveillance will be used for decision-making and policy 
+development regarding design and implementation of future BSE surveillance programs 
+and control efforts.  Results will also be used to facilitate contingency plans for national 
+BSE control and response programs and to evaluate the effectiveness of mitigations and 
+control measures that have been implemented to reduce the risk of introduction and 
+spread of BSE among U.S. cattle.  The planned response to confirmed cases of BSE are 
+described elsewhere.3,7  
+ 
+Additionally, the implementation of a strong BSE surveillance strategy will help provide 
+reassurance to consumers and international trading partners regarding our ability to detect 
+a problem if one should arise.  The results of the surveillance program will be an 
+important component of documenting the BSE status of U.S. cattle.  The USDA has 
+designed this surveillance program to meet or exceed the internationally accepted 
+surveillance practices recommended by the OIE. Compliance with OIE guidelines is an 
+important component of assuring trading partners of the quality of our surveillance 
+efforts.2 USDA expects that this robust surveillance program will continue to provide the 
+foundation for market confidence
+Text Len: 1855
+--------------------------------------------------------------------------------
+.S. cattle.  The USDA has 
+designed this surveillance program to meet or exceed the internationally accepted 
+surveillance practices recommended by the OIE. Compliance with OIE guidelines is an 
+important component of assuring trading partners of the quality of our surveillance 
+efforts.2 USDA expects that this robust surveillance program will continue to provide the 
+foundation for market confidence in the safety of U.S. cattle.   
+ 
+Stakeholders and responsible parties 
+ 
+Users of surveillance system information include policy makers within USDA, the U.S. 
+livestock industry, consumer groups, trading partners, State Animal Health Offices, and 
+data providers (sample collectors and veterinary diagnostic laboratories).  In addition to 
+information users, beneficiaries of the surveillance information include the public, the 
+U.S. cattle industry, consumer groups, and industries engaged in export markets for 
+cattle-derived products.   
+ 
+Data collection will be performed by a variety of parties.  Sample data will be collected 
+by accredited veterinarians, Food Safety Inspection Service (FSIS) veterinarians and 
+inspectors, veterinary diagnostic laboratory or public health laboratory personnel, and 
+ 
+ 6
+qualified VS personnel (including animal health technicians and those involved with data 
+entry).  VS Area Offices will direct efforts for resolution of problematic data.  
+ 
+Samples will be tested for BSE through cooperation of NVSL and contracted veterinary 
+diagnostic laboratories. Positive samples will be confirmed by NVSL. American 
+Association of Veterinary Laboratory Diagnosticians (AAVLD) accredited laboratories 
+participating in the National Animal Health Laboratory Network (NAHLN) may be 
+contracted by NVSL to perform BSE screening tests, provided quality assurance 
+standards are met (as described by the most current version of NVSL
+Text Len: 1872
+--------------------------------------------------------------------------------
+. Positive samples will be confirmed by NVSL. American 
+Association of Veterinary Laboratory Diagnosticians (AAVLD) accredited laboratories 
+participating in the National Animal Health Laboratory Network (NAHLN) may be 
+contracted by NVSL to perform BSE screening tests, provided quality assurance 
+standards are met (as described by the most current version of NVSL protocols 
+GPPISOP3501 and 3303).   
+ 
+Training of sample collectors will be completed by Area Veterinarian in Charge (AVIC) 
+office personnel with oversight by VS regional offices.  Data entry training will be 
+completed by these parties as well as the BSE Help Desk.a 
+ 
+Assessment of data quality, data analysis, and interpretation will be completed by the 
+NSU, VS TSE program manager, and VS TSE epidemiologists.  Reporting and 
+dissemination of surveillance results will be primarily the responsibility of the NSU. In 
+addition to standard Agricultural Marketing Service audit procedures, the NSU will 
+conduct a review of the surveillance system’s effectiveness.  NVSL will be responsible 
+for quality assurance of laboratory results. 
+ 
+POPULATION DESCRIPTION AND SAMPLING METHODS 
+ 
+Current OIE guidelines emphasize the development of ongoing surveillance programs 
+that focus on obtaining quality samples from high risk subpopulations rather than on a 
+target number of animals.2  As a result, if surveillance can be efficiently targeted to the 
+highest risk subpopulations, meaningful surveillance can occur with a fairly low number 
+of animals (for an example of how the OIE numbers are calculated, see the Summary of 
+BSE Enhanced Surveillance in the United States).9  For this reason, an important focus of 
+the Ongoing Surveillance will be obtaining samples from cattle that
+Text Len: 1756
+--------------------------------------------------------------------------------
+ if surveillance can be efficiently targeted to the 
+highest risk subpopulations, meaningful surveillance can occur with a fairly low number 
+of animals (for an example of how the OIE numbers are calculated, see the Summary of 
+BSE Enhanced Surveillance in the United States).9  For this reason, an important focus of 
+the Ongoing Surveillance will be obtaining samples from cattle that are “clinical 
+suspects.”  This subpopulation of cattle, particularly cattle over 30 months of age, has 
+been found to exhibit the highest prevalence of BSE. Inferences derived from 
+surveillance findings will be generalized to the adult U.S. cattle population (i.e. target or 
+inference population), which consists of approximately 42 million adult cattle.5 
+ 
+Study (Targeted) Population 
+ 
+Ongoing Surveillance will target subpopulations from the Enhanced Surveillance 
+population with the highest probability of BSE detection.  Because BSE is exceedingly 
+uncommon among U.S. cattle, the chosen targeted population will create intentional bias 
+in the sample frame which favors detection of disease.  Cattle that are dead with unknown 
+clinical history will be limited in the surveillance sampling strategy because they provide 
+substantially less information than animals accompanied by clinical history.  As used in 
+this Ongoing Surveillance plan, “dead with unknown clinical history” refers to cattle that 
+                                                 
+a Veterinary Services BSE Help Desk:  (866) 370-6611, bse.help@aphis.usda.gov 
+ 
+ 7
+are already dead  prior to being presented for
+Text Len: 1582
+--------------------------------------------------------------------------------
+                                   
+a Veterinary Services BSE Help Desk:  (866) 370-6611, bse.help@aphis.usda.gov 
+ 
+ 7
+are already dead  prior to being presented for BSE sample collection and that have no 
+known clinical history other than “dead of unknown cause.”  Efforts for collecting 
+clinical history data will be augmented for Ongoing Surveillance.  At least one clinical 
+sign must be identified for each sampled animal.  Apparently healthy animals will not be 
+targeted for surveillance. For those cattle without obvious CNS signs, sample collection 
+on-farm will be preferred over other collection sites because the subtle and nonspecific 
+nature of behavioral changes associated with BSE are best identified by those who handle 
+cattle on a daily basis,2 and personnel on-farm are most suitable for providing this 
+information.  
+ 
+The targeted population for Ongoing Surveillance consists of cattle of any breed that fit 
+one of the following clinical presentation criteria: 
+ 
+1. Cattle of any age with CNS signs 
+ 
+This category includes cattle exhibiting signs consistent with a central nervous 
+system disorder (including rabies-negative cases from public health laboratories, 
+and FSIS condemns for “CNS signs” or “rabies”). 
+ 
+Additionally, this category includes cattle highly suspicious for BSE as indicated 
+by VS Memo 580.16, which includes:  1) cattle affected by illnesses that are 
+refractory to treatment (including anorexia, loss of condition in spite of good 
+appetite, pneumonia, decreased milk yield) and are displaying progressive 
+behavioral changes
+Text Len: 1582
+--------------------------------------------------------------------------------
+ 
+ 
+Additionally, this category includes cattle highly suspicious for BSE as indicated 
+by VS Memo 580.16, which includes:  1) cattle affected by illnesses that are 
+refractory to treatment (including anorexia, loss of condition in spite of good 
+appetite, pneumonia, decreased milk yield) and are displaying progressive 
+behavioral changes that are not of an acute nature (including apprehension, 
+nervousness, excitability, aggression, head shyness, hypermetria, kicking when 
+milked, difficulty in rising, excessive nose scratching, or hesitation at 
+gates/barriers); 2) cattle displaying progressive neurological signs that cannot be 
+attributed to infectious illness and are not responsive to treatment. 
+ 
+2. Cattle ≥ 30 months of ageb that are condemned during antemortem inspection 
+or are excluded from slaughter due to poor health status (nonambulatory, 
+unhealthy, or dead) 
+ 
+This category includes: 
+ 
+a) Cattle that are condemned by FSIS at antemortem inspection for any 
+reason (other than “CNS signs” or “rabies,” which are covered above 
+under “Cattle of any age with CNS signs”). 
+ 
+b) Cattle without a history of CNS signs for which sample collection occurs 
+on-farm, at veterinary clinics, or at livestock sale or auction barns and that 
+are dead, nonambulatory, or have clinical signs that may be associated 
+with BSE.  For those cattle that are dead prior to arrival of sampling 
+                                              
+Text Len: 1448
+--------------------------------------------------------------------------------
+ dead, nonambulatory, or have clinical signs that may be associated 
+with BSE.  For those cattle that are dead prior to arrival of sampling 
+                                                 
+b Age of 30 months or older is evidenced by the eruption of at least one of the second set of permanent 
+incisors.  
+ 
+ 
+ 8
+personnel on-farm, additional clinical history must be available other than 
+“dead of unknown cause.” 
+ 
+c) Cattle presented to veterinary diagnostic laboratories for necropsy or for 
+ancillary diagnostics without a history of CNS signs but which had clinical 
+signs that may be associated with BSE. 
+ 
+d) Cattle from renderers or 3D/4D facilities (up to a maximum of 5,000) that 
+are dead, nonambulatory, or sick.  Collection of clinical history is 
+preferable for these samples but is not required. 
+ 
+The Enhanced Surveillance data provide information on the number of clinical suspects 
+and the number of nonambulatory, unhealthy, or dead animals over 30 months classified 
+by collection site.9 We expect that collection sites yielding the highest proportion of 
+clinical suspects relative to the number of animals sampled will continue to do so.  
+Accordingly, because renderers and 3D/4D facilities produced the most samples but 
+proportionately the fewest clinical suspects in the Enhanced Surveillance program, we 
+will limit samples from these facilities to 5,000 animals. 
+ 
+Sample Points and Numbers to Meet OIE Surveillance Standards 
+ 
+APHIS is committed to maintaining BSE
+Text Len: 1501
+--------------------------------------------------------------------------------
+ so.  
+Accordingly, because renderers and 3D/4D facilities produced the most samples but 
+proportionately the fewest clinical suspects in the Enhanced Surveillance program, we 
+will limit samples from these facilities to 5,000 animals. 
+ 
+Sample Points and Numbers to Meet OIE Surveillance Standards 
+ 
+APHIS is committed to maintaining BSE surveillance that at least meets OIE guidelines.  
+The OIE BSE surveillance guidelines recommend a target number of surveillance points 
+for Type A surveillance based on the size of a country’s cattle population.  These points 
+are accrued over 7 consecutive years, and are weighted according to the surveillance 
+stream and age of the animal sampled.  For a large cattle population, using the design 
+prevalence of 1 case per 100,000 adult cattle and 95% confidence, 300,000 total points 
+over 7 years, or 42,857 points per year are required for Type A surveillance.2 
+ 
+The four surveillance streams identified in the OIE Code are clinical suspects; casualty 
+slaughter; fallen stock; and healthy slaughter.  OIE guidelines recommend sampling from 
+at least three of the four surveillance streams.  BSE surveillance efforts in the US have 
+always focused on the three surveillance streams where BSE is more likely to be found – 
+clinical suspects, casualty slaughter, and fallen stock.  During the 7 consecutive years 
+prior to March 17, 2006, the United States collected 735,213 BSE samples from these 
+surveillance streams and accumulated 2,973,804 OIE points.9   
+ 
+If the Ongoing Surveillance plan maintains similar sample numbers from these 
+surveillance streams, approximately 10,500 cattle per year would be sufficient to meet the 
+OIE minimum number of sample points for Type A surveillance. 
+Text Len: 1743
+--------------------------------------------------------------------------------
+35,213 BSE samples from these 
+surveillance streams and accumulated 2,973,804 OIE points.9   
+ 
+If the Ongoing Surveillance plan maintains similar sample numbers from these 
+surveillance streams, approximately 10,500 cattle per year would be sufficient to meet the 
+OIE minimum number of sample points for Type A surveillance.  
+ 
+2,973,804 points ÷ 735,213 samples = 4.1 points per sample  
+and 
+42,857 points required per year ÷ 4.1 points per sample = 10,453 samples per year 
+ 
+ 
+ 9
+The Ongoing Surveillance plan targets relatively few of the lowest value samples (i.e., 
+only 5,000 renderer and 3D-4D origin samples as compared to over ½ million during 
+Enhanced Surveillance). Thus, the point value per sample will be higher than 4.1, and 
+10,453 samples from Ongoing Surveillance will easily exceed the OIE requirements. 
+ 
+Sample Points and Sample Size for BSE Prevalence Estimates 
+ 
+The OIE minimum number of samples as outlined would be sufficient for a design 
+prevalence of 1 case per 100,000 adult cattle.  In the interest of maintaining confidence in 
+previous BSE prevalence estimates, a more sensitive design prevalence of 1 case per 
+1,000,000 adult cattle will be adopted for Ongoing Surveillance. 
+ 
+The point tables described by OIE surveillance guidelines were designed using the 
+BSurvE model to represent the most conservative scenario of the characteristics of the 
+cattle populations of all its member States.  These conservative demographic 
+characteristics describe a population that culls cattle very rapidly (mean age of 
+approximately 4 years) and results in point values that are that are much lower than
+Text Len: 1636
+--------------------------------------------------------------------------------
+ point tables described by OIE surveillance guidelines were designed using the 
+BSurvE model to represent the most conservative scenario of the characteristics of the 
+cattle populations of all its member States.  These conservative demographic 
+characteristics describe a population that culls cattle very rapidly (mean age of 
+approximately 4 years) and results in point values that are that are much lower than the 
+BSurvE model would calculate for cattle in most countries.   The United States has 
+relevant demographic data pertaining to the adult cattle population that indicate 25% of 
+the adult cattle population of approximately 42 million are dairy production type and 
+75% are beef cattle.30  While the U.S. dairy population undergoes rapid culling similar to 
+the conservative characteristics used to develop the OIE table, beef cattle generally 
+remain in the herd to a much older age until they no longer produce calves.   
+ 
+The BSurvE model can be used to determine sample point values based on a particular 
+population’s demographics. Because actual U.S. data are available regarding population 
+characteristics, and because this population differs significantly from that used for the 
+conservative OIE estimates, it is appropriate to base the sample size estimates on the 
+points calculated through BSurvE given U.S. demographics (these points are hereafter 
+referred to as “analytical points”). The higher average age at which beef cattle are culled 
+influences the BSurvE output and results in substantially higher point values.  Hence, 
+sample values calculated with BSurvE from actual U.S. data result in higher point values 
+than the conservative OIE estimates .  Each analytical point calculated by BSurvE 
+corresponds to a single non-targeted sample.45   
+ 
+According to OIE, B
+Text Len: 1803
+--------------------------------------------------------------------------------
+SurvE output and results in substantially higher point values.  Hence, 
+sample values calculated with BSurvE from actual U.S. data result in higher point values 
+than the conservative OIE estimates .  Each analytical point calculated by BSurvE 
+corresponds to a single non-targeted sample.45   
+ 
+According to OIE, BSurvE and Cannon and Roe17calculations, the required number of 
+non-targeted samples needed to detect a prevalence of 1 case per million adult cattle with 
+95% confidence (given a population size of 42 million adult cattle) is 3,000,000, 
+2,995,730, and 2,891,389, respectively.  Conservatively using the value of 3 million, we 
+calculate that we will need to accumulate 428,571 analytical points (with negative 
+results) per year across a period of 7 years to meet this objective.   
+ 
+3,000,000 analytical points ÷ 7 years = 428,571 analytical points per year 
+ 
+ 
+ 10
+The prevalence analysis conducted on U.S. surveillance data collected from March, 1999 
+through March 2006 reports 6,745,010 points resulting from 735,213 samples.  The 
+average sample was worth 9.5 analytical points.1 
+ 
+6,745,010 analytic points ÷ 735,213 samples = 9.5 analytic points per sample 
+ 
+If USDA maintained an equivalent mix of surveillance streams during Ongoing 
+Surveillance, then approximately 45,113 samples per year would be required to meet this 
+objective. 
+ 
+428,571 analytical points per year ÷ 9.5 analytical points per sample = 45,113 
+samples per year 
+ 
+However, greater than one half million of the samples from Enhanced
+Text Len: 1536
+--------------------------------------------------------------------------------
+ an equivalent mix of surveillance streams during Ongoing 
+Surveillance, then approximately 45,113 samples per year would be required to meet this 
+objective. 
+ 
+428,571 analytical points per year ÷ 9.5 analytical points per sample = 45,113 
+samples per year 
+ 
+However, greater than one half million of the samples from Enhanced Surveillance were 
+collected from fallen stock – the surveillance stream that produced the lowest point 
+values.  Sampling efforts can be focused on higher value surveillance streams – clinical 
+suspects and casualty slaughter – with a limited number of samples obtained from the 
+fallen stock surveillance stream.  This will increase the average point value per sample.    
+Therefore, we estimate that 40,000 samples collected from these 3 surveillance streams – 
+with a focus on clinical suspects and casualty slaughter - will exceed the number of 
+points necessary to maintain confidence that prevalence is less than 1 infected animal per 
+million adult cattle.  Further, since the data are analyzed over 7 consecutive years, the 
+estimate of sample size may be adjusted each year as appropriate to assure a robust 
+prevalence estimate. 
+ 
+Study Area Under Surveillance 
+ 
+The collection sites for this sampling plan have been selected to include animals from all 
+sections of the United States and comprise nationally representative avenues through 
+which cattle exit production. In combination, these data sources provide the opportunity 
+for cattle residing in any part of the country or segment of industry to be sampled: 
+• Slaughter facilities are located throughout the United States and service every 
+constituent of the production industry.  Additionally, western States that 
+practice open range grazing and do not have access to renderers, or may not 
+observe animal deaths, will still ship cull cattle to FSIS-inspected facilities in 
+other States
+Text Len: 1892
+--------------------------------------------------------------------------------
+ segment of industry to be sampled: 
+• Slaughter facilities are located throughout the United States and service every 
+constituent of the production industry.  Additionally, western States that 
+practice open range grazing and do not have access to renderers, or may not 
+observe animal deaths, will still ship cull cattle to FSIS-inspected facilities in 
+other States. 
+• Rendering facilities or 3D/4D facilities are located throughout the United 
+States.  Some of these facilities draw from the same populations as the 
+slaughter facilities, as they are the disposal facility for offal and condemned 
+animals from the slaughter facilities.  Focusing on these facilities, and on 
+rendering facilities in geographic locations with only limited disposal 
+alternatives will help ensure a broad geographical representation.  The 
+inclusion of these facilities ensures access to the fallen stock surveillance 
+stream. 
+• On-farm sample collection allows that samples will be collected wherever 
+cattle reside. Efforts will be made across the nation to encourage the 
+ 
+ 11
+participation of veterinary professionals and paraprofessionals in on-farm 
+sample collection. 
+• There are no areas in the nation that cannot submit fresh whole cattle brain to 
+a public health or veterinary diagnostic laboratory. 
+ 
+A qualitative, not quantitative, analysis of sample origin and collection site will be 
+employed for Ongoing Surveillance sampling.c With increased emphasis on the 
+importance of obtaining samples from high risk subpopulations, establishing and meeting 
+a specific numeric target for the total number of cattle sampled becomes relatively less 
+important.  The results of Enhanced Surveillance allowed us to identify the collection 
+sites that are more likely to yield clinical suspects. Nevertheless, it is important to obtain 
+coverage of all potential streams at all collection sites in order to maximize the likelihood
+Text Len: 1926
+--------------------------------------------------------------------------------
+ samples from high risk subpopulations, establishing and meeting 
+a specific numeric target for the total number of cattle sampled becomes relatively less 
+important.  The results of Enhanced Surveillance allowed us to identify the collection 
+sites that are more likely to yield clinical suspects. Nevertheless, it is important to obtain 
+coverage of all potential streams at all collection sites in order to maximize the likelihood 
+that we will obtain samples from clinical suspects. 
+ 
+OIE Guidelines and Surveillance Streams 
+ 
+Samples will be assigned to the surveillance streams described in Article 3.8.4.2 of the 
+OIE Terrestrial Animal Health code.  The stream to which a sample is assigned will be 
+based on clinical signs that are provided, sample source, and condemnation code data.  
+Note that samples within the “Routine Slaughter” stream (from Article 3.8.4.2) will not 
+be collected during Ongoing Surveillance.  The OIE surveillance streams and the criteria 
+by which samples will be assigned to them are listed below.  
+ 
+1. Clinical suspect – cattle displaying behavioral or clinical signs consistent 
+with BSE. 
+ 
+Article 3.8.4.2 of the OIE Terrestrial Animal Health code describes this group as 
+follows:  “Cattle affected by illnesses that are refractory to treatment, and 
+displaying progressive behavioral changes such as excitability, persistent kicking 
+when milked, changes in herd hierarchical status, hesitation at doors, gates and 
+barriers, as well as those displaying progressive neurological signs without signs 
+of infectious illness are candidates for examination.  These behavioral changes, 
+being very subtle, are best identified by those who handle animals on a daily 
+basis.” 
+ 
+Samples will be assigned to this surveillance stream if they are from
+Text Len: 1788
+--------------------------------------------------------------------------------
+ hierarchical status, hesitation at doors, gates and 
+barriers, as well as those displaying progressive neurological signs without signs 
+of infectious illness are candidates for examination.  These behavioral changes, 
+being very subtle, are best identified by those who handle animals on a daily 
+basis.” 
+ 
+Samples will be assigned to this surveillance stream if they are from cattle defined 
+as highly suspicious as outlined in VS Memorandum 580.16, were tested negative 
+for rabies at a public health or veterinary diagnostic laboratory, had CNS signs or 
+were condemned by FSIS for CNS signs or rabies, or if the likelihood ratio for 
+clinical signs associated with BSE is above an appropriate cutoff value (methods 
+for these determinations are described elsewhere).9  Most of these samples are 
+                                                 
+c A quantitative analysis of geographical representation is difficult to interpret since cattle movement in the 
+United States is poorly defined, and a sample’s site of collection site may not correspond to where the 
+animal was born or resided most of its life (i.e., the area where BSE transmission would have occurred).  
+Statistical comparison of geographic regions in the Enhanced Surveillance analysis and the paucity of 
+positive cases provide no evidence that BSE prevalence varies by region within the United States. 
+ 
+ 12
+anticipated to be derived from samples collected on-farm.  A substantial number 
+will also be contributed by FSIS, veterinary diagnostic laboratories, and public 
+health laboratories. 
+ 
+2. Casualty slaughter –cattle over 30 months of age that are non-ambulatory, 
+recumbent
+Text Len: 1660
+--------------------------------------------------------------------------------
+ prevalence varies by region within the United States. 
+ 
+ 12
+anticipated to be derived from samples collected on-farm.  A substantial number 
+will also be contributed by FSIS, veterinary diagnostic laboratories, and public 
+health laboratories. 
+ 
+2. Casualty slaughter –cattle over 30 months of age that are non-ambulatory, 
+recumbent, unable to rise or to walk without assistance, sent for emergency 
+slaughter, or condemned at antemortem inspection. 
+ 
+Samples will be assigned to this surveillance stream if the likelihood ratio for 
+clinical signs being associated with BSE is below an appropriate cutoff value, and 
+if the sample meets the OIE criteria for this stream.  Most of these samples are 
+anticipated to be derived from FSIS-inspected slaughter plants.  However, a 
+considerable number will be contributed by other data sources such as on-farm 
+and veterinary diagnostic laboratories. 
+ 
+3. Fallen stock – cattle over 30 months of age that are found dead on farm, or 
+during transport to or at an abattoir. 
+ 
+Samples will be assigned to this surveillance stream if the likelihood ratio for clinical 
+signs being associated with BSE is below an appropriate cutoff value, and if the sample 
+meets the OIE criteria for this stream.  These samples are anticipated to contribute a 
+negligible portion of total points.  
+ 
+Table 2.  OIE point values for each surveillance stream by cattle age 
+ Clinical 
+suspect 
+Casualty 
+slaughter 
+Fallen 
+stock 
+Routine 
+slaughter 
+(Apparently Healthy) 
+Age ≥ 1 year and < 2 years N/A 0.4 0.2 0.01 
+Age ≥ 2 years and < 4 years 260 0
+Text Len: 1581
+--------------------------------------------------------------------------------
+ values for each surveillance stream by cattle age 
+ Clinical 
+suspect 
+Casualty 
+slaughter 
+Fallen 
+stock 
+Routine 
+slaughter 
+(Apparently Healthy) 
+Age ≥ 1 year and < 2 years N/A 0.4 0.2 0.01 
+Age ≥ 2 years and < 4 years 260 0.4 0.2 0.1 
+Age ≥ 4 years and < 7 years 750 1.6 0.9 0.2 
+Age ≥ 7 years and < 9 years 220 0.7 0.4 0.1 
+Age ≥ 9 years 45 0.2 0.1 0.0 
+ 
+Sample collection sites 
+ 
+The following sites have been selected based on observations from Enhanced 
+Surveillance including relative quality of data collected, average point value per sample, 
+and total sample numbers.  Additionally, these collection sites comprise nationally 
+representative avenues through which cattle may exit the adult cattle population and be 
+available for sampling.  Cattle meeting the targeted criteria will be sampled from the 
+following sites: 
+ 
+1. On-Farm 
+These samples may be collected by accredited veterinarians, Federal or State 
+employees (including animal health technicians), or VS-approved dead stock 
+haulers.  Under VS Area Office oversight, sample collectors with other 
+ 
+ 13
+qualifications may be enlisted when resources preclude the participation of 
+aforementioned sample collectors in a given area.  Although these samples may 
+have a higher cost relative to other data sources, they are anticipated to have 
+higher value to surveillance since the accuracy, quantity, and perceived validity of 
+clinical history is superior relative to other data sources. 
+  
+2. Veterinary Diagnostic Laboratories 
+Cattle submitted for necropsy, or fresh whole brainstem
+Text Len: 1565
+--------------------------------------------------------------------------------
+ a given area.  Although these samples may 
+have a higher cost relative to other data sources, they are anticipated to have 
+higher value to surveillance since the accuracy, quantity, and perceived validity of 
+clinical history is superior relative to other data sources. 
+  
+2. Veterinary Diagnostic Laboratories 
+Cattle submitted for necropsy, or fresh whole brainstem submitted for ancillary 
+diagnostics to veterinary diagnostic laboratories, including those not involved in 
+BSE testing, will be sampled by laboratory personnel.  Such samples are usually 
+accompanied by significant clinical history and thus are of high value to 
+surveillance. 
+ 
+3. Public Health Laboratories 
+Samples from cattle that are rabies suspects and test negative for rabies will be 
+submitted for BSE testing by laboratory personnel.  All samples derived from this 
+data source can be characterized as clinically suspicious for BSE, and thus are of 
+high value to surveillance. 
+ 
+4. Slaughter (FSIS) 
+Cattle 30 months or older condemned at antemortem inspection, and cattle of any 
+age condemned for “CNS signs” or “rabies,” will be sampled by FSIS employees 
+or designated off-site sample collection facilities. 
+ 
+5. Facilities contracted to collect samples from cattle condemned by FSIS at 
+antemortem inspection 
+Samples derived from animals condemned by FSIS personnel at antemortem 
+inspection may be collected by personnel of a contracted rendering or 3D/4D 
+facility, or other APHIS approved facility.  Under these circumstances, 
+communication of condemnation codes, clinical signs, and condemnation tag 
+numbers (Z-tags) to the contracted facility is imperative. 
+ 
+6. Rendering or 3D/4D facilities  
+
+Text Len: 1696
+--------------------------------------------------------------------------------
+ may be collected by personnel of a contracted rendering or 3D/4D 
+facility, or other APHIS approved facility.  Under these circumstances, 
+communication of condemnation codes, clinical signs, and condemnation tag 
+numbers (Z-tags) to the contracted facility is imperative. 
+ 
+6. Rendering or 3D/4D facilities  
+In order to represent the “fallen stock” surveillance stream and a wide variety of 
+data sources, 5,000 samples will be collected over a 12-month period from 
+targeted cattle presented to rendering or 3D/4D facilities.  A quota is selectively 
+applied to this collection site type since these samples tend to lack adequate 
+clinical history, making them a less reliable source for clinical suspect animals.  
+ 
+Sampling progress will be monitored on a monthly basis.  If the results differ 
+considerably from expectations, the sampling strategy may be adjusted.  For example, 
+should we find that our expectations of sites most likely to yield clinical suspects are not 
+met, we may refocus sampling efforts to other collection sites.  Similarly should we find 
+there are substantially large numbers of non-clinical-suspect cattle being sampled, we 
+may reduce the intensity of our sampling in these categories.  Such restrictions may 
+involve reducing or stopping the collection of samples on-farm, at veterinary clinics, or 
+ 
+ 14
+auction barns or reducing or stopping the collection of cattle condemned by FSIS. 
+However, samples will be collected without restriction throughout the sampling period 
+from cattle with CNS signs, rabies suspects, those considered highly suspicious for BSE, 
+or cattle condemned by FSIS for CNS disorders or rabies regardless of the avenue 
+through which they present to surveillance, and regardless of the degree with which 
+sampling
+Text Len: 1780
+--------------------------------------------------------------------------------
+ collection of cattle condemned by FSIS. 
+However, samples will be collected without restriction throughout the sampling period 
+from cattle with CNS signs, rabies suspects, those considered highly suspicious for BSE, 
+or cattle condemned by FSIS for CNS disorders or rabies regardless of the avenue 
+through which they present to surveillance, and regardless of the degree with which 
+sampling goals have been met. 
+ 
+Sample points derived from Enhanced Surveillance have provided a substantial cushion 
+for potential deficiency during Ongoing Surveillance.  Since international standards allow 
+points to be included in surveillance analysis over a 7-year time period, there is 
+considerable time to adjust Ongoing Surveillance to meet surveillance needs with the 
+most cost-efficient methods of sampling. 
+ 
+ 
+COLLECTION METHODS  
+ 
+Data Collection Methods  
+ 
+Data collection methods will utilize the structures and processes established in the 
+Enhanced Surveillance program. Sample data should be collected using the forms 
+employed by Enhanced Surveillance:  USDA BSE Surveillance Submission Form and 
+USDA BSE Surveillance Data Collection Form.  Forms are completed by the sample 
+collector either by hand (paper forms) or electronically, through the NAHLN Web site 
+(nahln.aphis.usda.gov/nahln/jsp/login.jsp). If the collection site cannot complete data 
+entry electronically, paper copies must be forwarded to a designated USDA:VS office or 
+the BSE Helpdesk for data entry.  Training of data entry is overseen by VS area and 
+regional offices, and the BSE Help Desk. 
+ 
+A hard copy of the BSE Surveillance Submission Form must be submitted to the 
+diagnostic laboratory. If samples are not accompanied by the appropriate submission 
+forms with all necessary information, it is the responsibility of
+Text Len: 1809
+--------------------------------------------------------------------------------
+ BSE Helpdesk for data entry.  Training of data entry is overseen by VS area and 
+regional offices, and the BSE Help Desk. 
+ 
+A hard copy of the BSE Surveillance Submission Form must be submitted to the 
+diagnostic laboratory. If samples are not accompanied by the appropriate submission 
+forms with all necessary information, it is the responsibility of the diagnostic laboratories 
+to contact the sample collection site. Diagnostic laboratories may report collection sites 
+that are repeatedly problematic to the appropriate AVIC for correctional efforts. 
+ 
+The USDA BSE Surveillance Submission Form must be completed for each set of 
+samples from a particular collection site and date.  The USDA BSE Surveillance Data 
+Collection Form must be completed for each animal sampled.  All types of ID present on 
+the animal must be provided, including silver tag number, owner ear tag number, 
+vaccination tag number, condemnation tag number, back tag number, bangle tag number, 
+ear tattoo, brands, or microchip.  In the case of samples from cattle condemned at 
+antemortem inspection, the “Z” tag (FSIS condemnation tag number) must be recorded.  
+A “Primary Reason for Submission,” is used to assure the sample collector that the 
+animal being sampled is appropriate for surveillance (i.e. is a member of the targeted 
+population).  It is imperative that the clinical signs section be completed as thoroughly 
+and accurately as possible because data from this section of the form are used for 
+allocation of samples into appropriate surveillance streams during data analysis. 
+ 
+ 15
+ 
+Data relevant to the results of laboratory testing are entered through the NALHN 
+interface by diagnostic laboratory personnel.  Results can include any of the following: 
+• Not Detected – negative by ELISA or IHC 
+
+Text Len: 1801
+--------------------------------------------------------------------------------
+ data from this section of the form are used for 
+allocation of samples into appropriate surveillance streams during data analysis. 
+ 
+ 15
+ 
+Data relevant to the results of laboratory testing are entered through the NALHN 
+interface by diagnostic laboratory personnel.  Results can include any of the following: 
+• Not Detected – negative by ELISA or IHC 
+• Not detected, not obex* – negative by ELISA; although the sample appeared 
+to be brainstem, the laboratory technician could not identify the sample as 
+obex tissue  
+• Not tested* – sample not tested because sample could not be recognized as 
+brainstem by the laboratory technician 
+• Initial reactor – positive on first screening (ELISA) test 
+• Inconclusive – following a positive on the first screening test, at least one 
+additional test is positive when the screening test is repeated in duplicate  
+• IHC Inconclusive – sample with equivocal immunohistochemistry results 
+• Positive – samples positive either by IHC or immunoblotting 
+ 
+*For these selections, the reason for the result must be further specified as one of the 
+following: 
+• Advanced tissue decomposition  
+• Wrong anatomic location  
+• Tissue disrupted preventing anatomic orientation 
+ 
+Sample Collection Methods  
+ 
+Samples may be collected by authorized Federal or State personnel, accredited 
+veterinarians, APHIS-contracted employees, or diagnostic laboratory personnel. 
+ 
+Animal identification items (drawings or digital pictures of brands, removed tattooed 
+hide, ear tags, etc.) should be collected from each animal sampled, bagged, labeled with 
+the sample number, attached to a copy of the USDA BSE Surveillance Submission Form, 
+and saved by the sample collector until negative results are
+Text Len: 1732
+--------------------------------------------------------------------------------
+racted employees, or diagnostic laboratory personnel. 
+ 
+Animal identification items (drawings or digital pictures of brands, removed tattooed 
+hide, ear tags, etc.) should be collected from each animal sampled, bagged, labeled with 
+the sample number, attached to a copy of the USDA BSE Surveillance Submission Form, 
+and saved by the sample collector until negative results are received.  
+ 
+Brainstem samples may be collected through the foramen magnum, using a brain spoon 
+or other extraction techniques (such as water extraction or compressed air), after 
+disarticulation of the atlanto-occipital joint.  Alternatively, a brainstem sample may be 
+collected by dismantling the calvarium (e.g. when retrieving the whole brain for rabies 
+diagnosis).  An appropriate brainstem sample includes obex with little contamination or 
+postmortem decomposition.  Samples with post-mortem or post-collection decomposition 
+such that they cannot be recognized as brainstem will not be tested by the diagnostic 
+laboratory.  Sample collectors should submit samples that have questionable testability 
+and allow laboratory technicians to decide if tissue integrity precludes testing.  
+Diagnostic laboratories will be compensated for efforts related to determining sample 
+testability.   
+ 
+Samples may be held prior to submission to the diagnostic laboratory, provided they are 
+refrigerated (e.g., for sending multiple samples in one shipment). These should be 
+ 
+ 16
+submitted as soon as possible, but may be held for no longer than 7 days.  Samples 
+should not be frozen. 
+ 
+Fresh brainstem samples are individually packaged in plastic tubes labeled with a unique 
+BSE sample identification bar code supplied by the USDA.  Samples are enclosed with 
+cold packs in insulated packages and
+Text Len: 1781
+--------------------------------------------------------------------------------
+ be 
+ 
+ 16
+submitted as soon as possible, but may be held for no longer than 7 days.  Samples 
+should not be frozen. 
+ 
+Fresh brainstem samples are individually packaged in plastic tubes labeled with a unique 
+BSE sample identification bar code supplied by the USDA.  Samples are enclosed with 
+cold packs in insulated packages and are shipped by overnight contract delivery service 
+(e.g. Federal Express), same-day courier service, or by hand delivery to a NALHN 
+laboratory that offers BSE test service the following business day. Once shipped, delivery 
+of samples to diagnostic laboratories should be completed within 24 hours so as to 
+preserve sample integrity.  If samples are received by a diagnostic laboratory on a non-
+operating weekday, samples will be held under refrigeration by the diagnostic laboratory 
+and subsequently tested on the next operating weekday.  If test results are urgently 
+needed, the AVIC office may dictate that samples be redirected to an operating diagnostic 
+laboratory. For samples with “inconclusive” test results, all remaining tissue must be 
+immediately forwarded to NVSL (per the most current version of NVSL protocol 
+GPPISOP0029). The timeline of procedures and reporting that occur in response to a 
+positive case are described elsewhere.3,7 
+ 
+The diagnostic laboratory is responsible for entering test results into the NAHLN 
+database and for notifying the sample submitter of test results electronically, by phone, or 
+in writing.  This should be completed within 24-48 hours of test completion.  Additional 
+parties, including the AVIC and State veterinary office, may also be notified of results 
+given that an arrangement has been agreed upon between the diagnostic laboratory and 
+additional party.  APHIS Animal Identification
+Text Len: 1782
+--------------------------------------------------------------------------------
+ sample submitter of test results electronically, by phone, or 
+in writing.  This should be completed within 24-48 hours of test completion.  Additional 
+parties, including the AVIC and State veterinary office, may also be notified of results 
+given that an arrangement has been agreed upon between the diagnostic laboratory and 
+additional party.  APHIS Animal Identification Coordinators (AIC) may assist with 
+sample delivery verification and troubleshooting.  Training of sample collectors is 
+completed by AVIC offices and VS regional offices, and, at their discretion, state 
+veterinary offices. It is the responsibility of the AVIC offices to monitor sample 
+collectors in the relevant area for habitual poor sample collection technique. 
+ 
+Animal Disposal 
+ 
+Carcasses from negative animals are disposed of in compliance with Federal, State, and 
+local laws.  Carcasses and offal from “inconclusive” or positive animals may be disposed 
+of by one of the following: rendering for non-animal feed use by dedicated facilities, 
+burial in a landfill, burial on-farm, alkaline digestion, or incineration.  Rendering 
+facilities may refrigerate or freeze carcasses, or may proceed with rendering and hold 
+batches of final products, pending test results.  Should a positive animal occur with the 
+latter method, an indemnity would be supplied for the disposed batches of products.  
+ 
+Clinical Case Definition 
+ 
+Clinical case definitions are not applicable to the present surveillance methods.  Because 
+clinical signs have such poor specificity and sensitivity for BSE diagnosis, and because 
+the diagnostic assays used for BSE diagnosis are considered to have near perfect analytic 
+sensitivity and specificity (i.e. cattle with detectable disease are reliably differentiated 
+from cattle without
+Text Len: 1801
+--------------------------------------------------------------------------------
+inical Case Definition 
+ 
+Clinical case definitions are not applicable to the present surveillance methods.  Because 
+clinical signs have such poor specificity and sensitivity for BSE diagnosis, and because 
+the diagnostic assays used for BSE diagnosis are considered to have near perfect analytic 
+sensitivity and specificity (i.e. cattle with detectable disease are reliably differentiated 
+from cattle without detectable disease), BSE diagnosis is solely based on laboratory 
+ 
+ 17
+criteria.  The case definition used for surveillance is the laboratory case definition for 
+BSE as defined by the most current version of NVSL document GPISOP0034. 
+ 
+Laboratory Criteria for Diagnosis 
+ 
+The diagnostic strategy implemented for BSE surveillance is described elsewhere (most 
+current versions of NVSL protocols GPPISOP0027 and GPPISOP0034). 
+ 
+ANALYSIS, REPORTING, AND PRESENTATION  
+ 
+The NSU is the party primarily responsible for data analysis and reporting. Reports 
+produced by the NSU for the Deputy Administrator of VS and his designates will include 
+monthly reports used for program monitoring and oversight, and an annual summary 
+report analogous to that produced at the conclusion of the Enhanced Surveillance 
+program.  The annual summary report is intended to tally surveillance points derived 
+from BSE surveillance efforts over the last 7 years using the OIE Code.  Additionally, 
+this report will provide an estimate of BSE prevalence, and/or demonstrate freedom from 
+disease in U.S. cattle. The information provided by the annual report may be further 
+tabulated for public consumption at the request of the Deputy Administrator; however 
+monthly reports are anticipated to remain for internal USDA use only.  Measures that will 
+be portrayed by the monthly reports, in tabular and graphical format, include monthly
+Text Len: 1834
+--------------------------------------------------------------------------------
+/or demonstrate freedom from 
+disease in U.S. cattle. The information provided by the annual report may be further 
+tabulated for public consumption at the request of the Deputy Administrator; however 
+monthly reports are anticipated to remain for internal USDA use only.  Measures that will 
+be portrayed by the monthly reports, in tabular and graphical format, include monthly and 
+cumulative numbers of targeted samples, non-targeted samples, “not detected, not obex” 
+samples, and total samples stratified by collection site type, submission reason, and 
+geographical area.  Monthly reports will be used to assess progress toward national 
+sampling goals with respect to point totals.  
+ 
+Data analysis will be performed throughout the Ongoing Surveillance to assess sampling 
+progress. Data quality will be monitored periodically using an error-checking routine to 
+identify information that is outside expected values or for key data that are missing. 
+Samples that do not meet the targeted sampling criteria will be identified, and feedback 
+will be provided through appropriate channels to sample collectors that submit non-
+targeted samples. Many mechanisms are already in place in the existing BSE database 
+that prevent common data entry errors and that require recording of important sample 
+data.  
+ 
+ 
+ 18
+REFERENCES 
+ 
+1  An Estimate of the prevalence of BSE in the United States. USDA/APHIS, Centers for Epidemiology 
+and Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/BSEprevalence-
+estimate4-26-06.pdf 
+2  Appendix 3.8.4: Surveillance for bovine
+Text Len: 1679
+--------------------------------------------------------------------------------
+ Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/BSEprevalence-
+estimate4-26-06.pdf 
+2  Appendix 3.8.4: Surveillance for bovine spongiform encephalopathy. In: Terrestrial animal health code, 
+14th ed. Office International des Epizooties, Paris, 2005 
+3  Bovine spongiform encephalopathy (BSE) response plan summary. USDA Animal and Plant Health 
+Inspection Service and Food Safety and Inspection Service. Accessed May 5, 2006 online at: 
+http://www.aphis.usda.gov/lpa/issues/bse/bsesum.pdf. 
+4  BSE: Statistics - Youngest and oldest cases by year of onset - Great Britain (passive surveillance only). 
+Department for Environment, Food, and Rural Affairs, 2005. Accessed May 5, 2006 online at: 
+http://www.defra.gov.uk/animalh/bse/statistics/bse/yng-old.html. 
+5  Cattle Final Estimates 1999-2003. USDA National Agricultural Statistics Service, 2004. Accessed May 
+5, 2006 online at: http://usda.mannlib.cornell.edu/usda/reports/general/sb/sb989.pdf. 
+6  Chapter 2.3.13: Bovine Spongiform Encephalopathy. In: Terrestrial animal health code, 14th ed. Office 
+International des Epizooties, Paris, 2005 
+7  FDA bovine spongiform encephalopathy emergency response plan summary. U.S. Food and Drug 
+Administ
+Text Len: 1316
+--------------------------------------------------------------------------------
+989.pdf. 
+6  Chapter 2.3.13: Bovine Spongiform Encephalopathy. In: Terrestrial animal health code, 14th ed. Office 
+International des Epizooties, Paris, 2005 
+7  FDA bovine spongiform encephalopathy emergency response plan summary. U.S. Food and Drug 
+Administration, 2004. Accessed May 5, 2006 online at: 
+http://www.fda.gov/oc/opacom/hottopics/bseplan/bseplan.html. 
+8  Scientific report of the European Food Safety Authority on the BSE surveillance model (BSurvE) 
+estabilished by the Community Reference Laboratory for TSE. European Food Safety Authority, 2004. 
+Available online at: 
+http://www.efsa.eu.int/science/tse_assessments/bse_tse/661/sr17_bsetse_bsurve_en1.pdf. 
+9  Summary of BSE Enhanced Surveillance in the United States. USDA/APHIS, Center for Epidemiology 
+and Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/SummaryEnhancedBSE
+-Surv4-26-06.pdf 
+10  Aguzzi A, Heikenwalder M, Miele G: Progress and problems in the biology, diagnostics, and 
+therapeutics of prion diseases. J Clin Invest 114: 153-160, 2004 
+11  Anderson RM, Donnelly CA, Ferguson NM, Woolhouse MEJ, Watt CJ, Udy HJ, MaWhinney S, 
+Dunstan SP,
+Text Len: 1241
+--------------------------------------------------------------------------------
+ikenwalder M, Miele G: Progress and problems in the biology, diagnostics, and 
+therapeutics of prion diseases. J Clin Invest 114: 153-160, 2004 
+11  Anderson RM, Donnelly CA, Ferguson NM, Woolhouse MEJ, Watt CJ, Udy HJ, MaWhinney S, 
+Dunstan SP, Southwood TRE, Wilesmith JW, Ryans JBM, Hionville LJ, Hillerton JE, Austin AR, 
+Wells GAH: Transmission dynamics and epidemiology of BSE in British cattle. Nature 382: 779-788, 
+1996 
+12  Arnold ME, Wilesmith JW: Estimation of the age-dependent risk of infection to BSE of dairy cattle in 
+Great Britain. Prev Vet Med 66: 35-47, 2004 
+ 
+ 19
+13  Bolton DC, McKinley MP, Prusiner SB: Identification of a protein that purifies with the scrapie prion. 
+Science 218: 1309-1311, 1982 
+14  Borchelt DR, Scott M, Taraboulos A, Stahl N, Prusiner SB: Scrapie and cellular prion proteins differ in 
+their kinetics of synthesis and topology in cultured cells. J Cell Biol 110: 743-752, 1990 
+15  Bruce ME, Will RG, Ironside JW, McConnell I, Drummond D, Suttie A, McCardle L, Chree A, Hope J, 
+Birkett C, Cousens SN, Fraser H, Bostock CJ: Transmissions to mice indicate that 'new variant' CJD is 
+caused by the BSE agent. Nature 389: 498-501, 1997 
+16  Bueler H, Aguzzi A, Sailer
+Text Len: 1212
+--------------------------------------------------------------------------------
+, McCardle L, Chree A, Hope J, 
+Birkett C, Cousens SN, Fraser H, Bostock CJ: Transmissions to mice indicate that 'new variant' CJD is 
+caused by the BSE agent. Nature 389: 498-501, 1997 
+16  Bueler H, Aguzzi A, Sailer A, Greiner RA, Auternried P, Aguet M, Weissmann C: Mice devoid of PrP 
+are resistant to Scrapie. Cell 73: 1339-1347, 1993 
+17  Cannon RM, Roe RT: Livestock Disease Surveys: A Field Manual for Veterinarians Australian Bureau 
+of Animal Health, Canberra, 1982 
+18  Casalone C, Zanusso G, Acutis P, Ferrari S, Capucci L, Tagliavini F, Monaco S, Caramelli M: 
+Identification of a second bovine amyloidotic spongiform encephalopathy: Molecular similarities with 
+sporadic Creutzfeldt-Jakob disease. Proc Natl Acad Sci U S A 101: 3065-3070, 2004 
+19  Caughey B, Raymond GJ: The scrapie-associated form of PrP is made from a cell surface precursor that 
+is both protease- and phospholipase-sensitive. J Biol Chem 266: 18217-18223, 1991 
+20  Cohen JT, Duggar K, Gray GM, Kreindel S, Abdelrahman H, Habtemariam T, Oryang D, Tameru B: 
+Evaluation of the potential for bovine spongiform encephalopathy in the United States. Harvard Center 
+for Risk Analysis, harvard School of Public Health; and Center for Computational Epidemiology, 
+
+Text Len: 1243
+--------------------------------------------------------------------------------
+gar K, Gray GM, Kreindel S, Abdelrahman H, Habtemariam T, Oryang D, Tameru B: 
+Evaluation of the potential for bovine spongiform encephalopathy in the United States. Harvard Center 
+for Risk Analysis, harvard School of Public Health; and Center for Computational Epidemiology, 
+College of Veterinary Medicine, Tuskegee University, 2001. Accessed May 5, 2006 online at: 
+http://www.aphis.usda.gov/lpa/issues/bse/risk_assessment/mainreporttext.pdf. 
+21  Collinge J, Sidle KCL, Meads J, Ironside JW, Hill AF: Molecular analysis of prion strain variation and 
+the aetiology of 'new variant' CJD. Nature 383: 685-690, 1996 
+22  Donnelly CA, Ghani AC: Analysis of the bovine spongiform encephalopathy maternal cohort study: 
+evidence for direct maternal transmission. Appl Statist 46: 321-344, 1997 
+23  Goldmann W, Hunter N, Martin T, Dawson M, Hope J: Different forms of bovine PrP gene have five or 
+six copies of a short G-C rich element within the protein coding exon. J Gen Virol 72: 201-204, 1991 
+24  Kaneko K, Peretz D, Pan K-M, Blochberger TC, Wille H, Gabizon R, Griffith OH, Cohen FE, Baldwin 
+MA, Prusiner SB: Prion protein (PrP) synthetic peptides induce cellular PrP to acquire properties of the 
+scrapie isoform. Proc Natl Acad Sci U S A 92: 11160-11164, 1995 
+25  Kirkwood JK, Cunningham AA
+Text Len: 1301
+--------------------------------------------------------------------------------
+, Wille H, Gabizon R, Griffith OH, Cohen FE, Baldwin 
+MA, Prusiner SB: Prion protein (PrP) synthetic peptides induce cellular PrP to acquire properties of the 
+scrapie isoform. Proc Natl Acad Sci U S A 92: 11160-11164, 1995 
+25  Kirkwood JK, Cunningham AA: Epidemiological observations on spongiform encephalopathies in 
+captive wild animals in the British Isles. Vet Rec 135: 296-303, 1994 
+26  Kocisko DA, Come JH, Priola S, A., Chesebro B, Raymond GJ, Lansbury PT, Caughey B: Cell-free 
+formation of protease-resistant prion protein. Nature 370: 471-474, 1994 
+ 
+ 20
+27  Kubler E, Oesch B, Raeber A: Diagnosis of prion diseases. Br Med Bull 66: 267-279, 2003 
+28  Kuczius T, Haist I, Groschup MH: Molecular analysis of bovine spongiform encephalopathy and 
+scrapie strain variation. J Infect Dis 178: 693-699, 1998 
+29  McKinley MP, Bolton DC, Prusiner SB: A protease-resistant protein is a structural component of the 
+scrapie prion. Cell 35: 57-62, 1983 
+30  NASS (2005) Cattle, National Agricultural Statistics Service, USDA.  Washington, D.C.  Released 
+January 28, 2005, by the National Agricultural Statistics.  Service (NASS), Agricultural Statistics 
+Board, U.S. Department of  Agriculture. Available 12/15/05 at: 
+http://usda.mannlib.cornell.edu/reports/nassr/
+Text Len: 1272
+--------------------------------------------------------------------------------
+, National Agricultural Statistics Service, USDA.  Washington, D.C.  Released 
+January 28, 2005, by the National Agricultural Statistics.  Service (NASS), Agricultural Statistics 
+Board, U.S. Department of  Agriculture. Available 12/15/05 at: 
+http://usda.mannlib.cornell.edu/reports/nassr/livestock/pct-bb/catl0101.txt 
+31  Phillips N, Bridgeman J, Ferguson-Smith M: The BSE Inquiry: the report. Her majesty's Stationery 
+Office (HMSO) Publications Centre, 2000. Accessed May 5, 2006 online at: 
+http://www.bseinquiry.gov.uk/report/volume2/toc.htm. 
+32  Prusiner SB: Novel proteinaceous infectious particles cause scrapie. Science 216: 136-144, 1982 
+33  Prusiner SB, Scott M, Foster D, Pan KM, Groth D, Mirenda C, Torchia M, Yang SL, Serban D, Carlson 
+GA, Hoppe PC, Westaway D, DeArmond SJ: Transgenetic studies implicate interactions between 
+homologous PrP isoforms in scrapie prion replication. Cell 63: 673-686, 1990 
+34  Race RE, Jenny A, Sutton D: Scrapie infectivity and proteinase K-resistant prion protein in sheep 
+placenta, brain, and lymph node: Implications for transmission and antemortem diagnosis. J Infect Dis 
+178: 949-953, 1998 
+35  Saegerman C, Speybroeck N, Roels S, Vanopdenbosch E, Thiry E, Berkvens D: Decision support tools 
+for clinical diagnosis of disease in cows with suspected
+Text Len: 1309
+--------------------------------------------------------------------------------
+ brain, and lymph node: Implications for transmission and antemortem diagnosis. J Infect Dis 
+178: 949-953, 1998 
+35  Saegerman C, Speybroeck N, Roels S, Vanopdenbosch E, Thiry E, Berkvens D: Decision support tools 
+for clinical diagnosis of disease in cows with suspected bovine spongiform encephalopathy. J Clin 
+Microbiol 42: 172-178, 2004 
+36  Simmons MM, Harris P, Jeffrey M, Meek SC, Blamire IWH, Wells GAH: BSE in Great Britain: 
+consistency of the neurohistopathological findings in two random annual samples of clinically suspect 
+cases. Vet Rec 138: 175-177, 1996 
+37  Taylor DM: Inactivation of transmissible degenerative encephalopathy agents: A review. Vet J 159: 10-
+17, 2000 
+38  Wells GAH, Scott AC, Johnson CT, Gunning RF, Hancock RD, Jeffrey M, Dawson M, Bradley R: A 
+novel progressive spongiform encephalopathy in cattle. Vet Rec 121: 419-420, 1987 
+39  Wells GAH, Wilesmith JW: The neuropathology and epidemiology of bovine spongiform 
+encephalopathy. Brain Pathol 5: 91-103, 1995 
+40  Wilesmith JW, Ryan JBM, Atkinson MJ: Bovine spongiform encephalopathy: epidemiological studies 
+of the origin. Vet Rec 128: 199-203, 1991 
+ 
+ 21
+41  Wilesmith JW, Ryan JBM, Hueston WD: Bovine spongiform encephalopathy: case-control studies of 
+calf feeding practices and meat and bone meal inclusion in proprietary concentrates. Res
+Text Len: 1339
+--------------------------------------------------------------------------------
+ spongiform encephalopathy: epidemiological studies 
+of the origin. Vet Rec 128: 199-203, 1991 
+ 
+ 21
+41  Wilesmith JW, Ryan JBM, Hueston WD: Bovine spongiform encephalopathy: case-control studies of 
+calf feeding practices and meat and bone meal inclusion in proprietary concentrates. Res Vet Sci 52: 
+325, 1992 
+42  Wilesmith JW, Ryan JBM, Hueston WD, Hoinville LJ: Bovine spongiform encephalopathy: 
+epidemiological features 1985 to 1990. Vet Rec 130: 90-94, 1992 
+43  Wilesmith JW, Wells GAH, Cranwell MP, Ryan JBM: Bovine spongiform encephalopathy: 
+Epidemiological studies. Vet Rec 123: 638-644, 1988 
+44  Wilesmith JW, Wells GAH, Ryan JB, Gavier-Widen D, Simmons MM: A cohort study to examine 
+maternally-associated risk factors for bovine spongiform encephalopathy. Vet Rec 141: 239-243, 1997 
+45  Wilesmith J, Morris R, Stevenson M, Cannon R, Prattley D, and Benard H (2004) Development of a 
+Method for the Evaluation of National Surveillance Data and Optimization of National Surveillance 
+Strategies for Bovine Spongiform Encephalopathy. Weybridge, England, European Union TSE 
+Community Reference Laboratory, Veterinary Laboratories Agency.   
+46  Will RG, Ironside JW, Zeidler M, Cousens SN, Estiberio K, Alperovitch A, Poser S, Pocchiari M, 
+Hofman A, Smith PG: A new variant of Creutzfeldt
+Text Len: 1305
+--------------------------------------------------------------------------------
+bridge, England, European Union TSE 
+Community Reference Laboratory, Veterinary Laboratories Agency.   
+46  Will RG, Ironside JW, Zeidler M, Cousens SN, Estiberio K, Alperovitch A, Poser S, Pocchiari M, 
+Hofman A, Smith PG: A new variant of Creutzfeldt-Jakob disease in the UK. Lancet 347: 921-925, 
+1996 
+47  Wyatt JM, Pearson GR, Smerdon TN, Gruffydd-Jones TJ, Wells GAH, Wilesmith JW: Naturally 
+occurring scrapie-like spongiform encephalopathy in five domestic cats. Vet Rec 129: 233-236, 1991 
+48  Yamakawa Y, Hagiwara K, Nohtomi K, Nakamura Y, Nishijima M, higuchi Y, Sato Y, Sata T: 
+Atypical proteinase K-resistant prion protein (PrPres) observed in an apparently healthy 23-month-old 
+Holstein steer. Jpn J Infect Dis 56: 221-222, 2003 
+ 
+ 
+Text Len: 749
+--------------------------------------------------------------------------------
+ 
+ 1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bovine Spongiform Encephalopathy (BSE) 
+Ongoing Surveillance Plan 
+ 
+July 20, 2006 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2
+Bovine Spongiform Encephalopathy Ongoing Surveillance Plan  
+ 
+INTRODUCTION 
+ 
+The U.S. Department of Agriculture (USDA) has taken aggressive measures to prevent 
+the introduction and potential spread of bovine spongiform encephalopathy (BSE), and 
+has conducted surveillance since 1990 to monitor whether the disease was present.  
+Surveillance was expanded in scope and intensity following the confirmation of BSE in 
+an imported cow in December 2003.  This expanded surveillance effort was designed to 
+estimate the level of disease present in the United States and provide input for designing 
+a long-term surveillance plan.  
+ 
+The present plan is intended to inform and educate USDA’s partners and stakeholders on 
+approaches to be employed in ongoing BSE surveillance.  The plan retains the USDA’s 
+ability to detect BSE at 1 infected animal per 1,000,000 adult cattle in the population with 
+a high degree of confidence, maintains surveillance at levels that exceed international 
+standards, emphasizes sample collection from cattle subpopulations where BSE is most 
+likely to be detected, and retains sample collections from all important surveillance 
+sources. 
+ 
+The plan follows surveillance system design standards and guidelines established by the 
+USDA’s Animal and Plant Health Inspection Service (APHIS), Veterinary Services (VS), 
+National Surveillance Unit (NSU).  These guidelines are intended
+Text Len: 1551
+--------------------------------------------------------------------------------
+ subpopulations where BSE is most 
+likely to be detected, and retains sample collections from all important surveillance 
+sources. 
+ 
+The plan follows surveillance system design standards and guidelines established by the 
+USDA’s Animal and Plant Health Inspection Service (APHIS), Veterinary Services (VS), 
+National Surveillance Unit (NSU).  These guidelines are intended to assist planners and 
+managers in considering specific objectives, design strategies, reporting systems, 
+implementation methods, and long-term system maintenance.  The guidelines ensure that 
+the objectives of the surveillance system are predefined, and that the collection, 
+organization, and analysis of appropriate data are considered before implementation.  
+Further, the guidelines provide a mechanism for review and evaluation to assure that the 
+surveillance is providing the appropriate type and quality of information. 
+ 
+Disease description 
+Bovine spongiform encephalopathy, commonly known as “Mad Cow Disease”, is a 
+transmissible neurodegenerative disease of adult cattle that emerged in Great Britain in 
+1985,38 and has subsequently been identified in cattle of most European countries, 
+Canada, the United States, and Japan.  BSE belongs to the group of transmissible 
+spongiform encephalopathies (TSEs), together with scrapie of sheep, chronic wasting 
+disease of free-ranging and captive deer and elk, and Creutzfeldt-Jakob disease (CJD) of 
+humans.  TSEs have long latency periods, are untreatable, and currently cannot be 
+prevented by vaccination since there is absence of a host immune response to infection.   
+ 
+Most scientific evidence suggests that prions are the causative agent of TSEs;32  however, 
+the nature of the prion
+Text Len: 1728
+--------------------------------------------------------------------------------
+CJD) of 
+humans.  TSEs have long latency periods, are untreatable, and currently cannot be 
+prevented by vaccination since there is absence of a host immune response to infection.   
+ 
+Most scientific evidence suggests that prions are the causative agent of TSEs;32  however, 
+the nature of the prion remains undetermined.  A unique characteristic of the prion is its 
+resistance to inactivation by most conventional physical or chemical decontamination 
+methods.37  The prion consists mostly of protein, largely comprised by a proteinase-
+resistant, disease-associated isoform (PrPres) of host-encoded prion protein (PrPC).29,32  
+The pathogenesis of the TSEs requires the formation of PrPres from PrPC.16  Interaction 
+ 
+ 3
+with PrPres leads to post-translational conformational modification of PrPC,24,26,33 resulting 
+in its conversion to PrPres.14,19  The subsequent pathological accumulation of PrPres in 
+certain tissues defines the TSEs.13,34 The pathogenesis of BSE appears to involve a much 
+more restricted tissue distribution of PrPres accumulation than other animal TSEs, having 
+reduced involvement of the lymphoreticular system.   
+ 
+The origin of the BSE agent is unresolved. Theories have considered derivation from a 
+TSE agent of another mammalian species, such as scrapie,40 or spontaneous genetic 
+mutation of the bovid prion protein gene.31  The emergence of BSE coincided with 
+reduced use of hydrocarbon solvents in the production of meat-and-bone meal (MBM) 
+through carcass rendering.40 
+ 
+Transmission of BSE is thought to primarily
+Text Len: 1559
+--------------------------------------------------------------------------------
+ species, such as scrapie,40 or spontaneous genetic 
+mutation of the bovid prion protein gene.31  The emergence of BSE coincided with 
+reduced use of hydrocarbon solvents in the production of meat-and-bone meal (MBM) 
+through carcass rendering.40 
+ 
+Transmission of BSE is thought to primarily occur through ingestion of feedstuff, 
+especially ruminant-derived MBM, contaminated with the BSE agent.41,43  Calves born to 
+infected cows have increased risk to develop BSE,44 especially if born around the time of 
+disease onset in the dam.22  However, the risk is probably influenced by conserved 
+management practices where both the dam and calf have been fed concentrated feedstuff 
+containing MBM early in life.12  Horizontal transmission of BSE between cattle is not 
+believed to occur.  Most cattle become infected within the first 6 months of life.12  The 
+mean incubation period for BSE is around 60 months, with clinical onset of disease 
+occurring on average at 4-5 years of age.11  The age range of affected animals is very 
+wide, although BSE is rarely confirmed in animals less than 30 months of age.4,48   
+ 
+BSE is invariably fatal.  Clinical signs have an insidious onset and are largely 
+nonspecific.  Signs that may be associated with BSE include apprehension, ataxia, 
+emaciation, hypersensitivity to touch or sound, head shyness, panic-stricken response, 
+kicking in the milking parlor, reluctance to enter the milking parlor, abnormal ear 
+movement or carriage, increased alertness behavior, reduced milk yield, bruxism, and 
+change in temperament.35,
+Text Len: 1569
+--------------------------------------------------------------------------------
+ apprehension, ataxia, 
+emaciation, hypersensitivity to touch or sound, head shyness, panic-stricken response, 
+kicking in the milking parlor, reluctance to enter the milking parlor, abnormal ear 
+movement or carriage, increased alertness behavior, reduced milk yield, bruxism, and 
+change in temperament.35,43  The duration of clinical signs averages 1 to 2 months prior to 
+death or slaughter, but may range from weeks to a year.43 
+ 
+Although live animal tests are under development, at present, none are available to 
+reliably detect BSE.  Diagnosis is achieved postmortem through examination of central 
+nervous system (CNS) tissue, and is contingent on identification of characteristic 
+histopathologic lesions, detection of PrPres, or electron microscopic visualization of 
+scrapie-associated fibrils.6  Because PrPres is the only currently known disease-specific 
+macromolecule, all commercially available diagnostic assays rely on its immunological 
+detection.10  These assays have limited diagnostic sensitivity in that PrPres accumulation 
+may not be detectable until late during the incubation period, within months prior to onset 
+of clinical disease.27  Infected animals that are early in the incubation period can only be 
+identified through demonstration of tissue infectivity using bioassay.  The only lesions 
+associated with BSE are found microscopically within CNS tissue.38,39  Lesions develop 
+late in the disease process, roughly coinciding with the onset of clinical signs.  These 
+consist of non-inflammatory vacuolar degeneration, or spongiform change, of grey matter 
+and neuronal cell bodies.  Astrocytosis and cerebral amyloidosis, features of other TSEs, 
+are unusual with
+Text Len: 1702
+--------------------------------------------------------------------------------
+,39  Lesions develop 
+late in the disease process, roughly coinciding with the onset of clinical signs.  These 
+consist of non-inflammatory vacuolar degeneration, or spongiform change, of grey matter 
+and neuronal cell bodies.  Astrocytosis and cerebral amyloidosis, features of other TSEs, 
+are unusual with BSE. 
+ 
+ 4
+ 
+Breed-dependent differential susceptibility or incubation period has not been observed 
+with BSE,42 and there is little variability in the bovine PrP gene.23  The consistent 
+neuroanatomical lesion profile in the brains of cattle affected with BSE,36,39 and uniform 
+glycoform ratios of PrPres as determined by immunoblotting,21,28 suggest the existence of 
+a single strain of the BSE agent.  However, a recently described atypical form of BSE, 
+termed bovine amyloidotic spongiform encephalopathy (BASE), has modified glycoform 
+patterns similar to sporadic CJD in humans, and may represent an alternative strain of 
+BSE agent.18 
+  
+Although TSEs are usually confined to an individual species, concern has arisen for the 
+potential of inter-species transmission of BSE.  The BSE agent is widely recognized as 
+the cause of variant CJD in humans, based on epidemiological and mouse inoculation 
+studies,15,46 and biochemical PrPres characteristics.21   In addition, natural exposure to 
+BSE agent has led to similar encephalopathic disease in captive wild ungulates and cats,25 
+and in domestic cats.47 
+ 
+Measures established by the United States to prevent new cases of BSE have included 
+restrictions on the
+Text Len: 1533
+--------------------------------------------------------------------------------
+
+studies,15,46 and biochemical PrPres characteristics.21   In addition, natural exposure to 
+BSE agent has led to similar encephalopathic disease in captive wild ungulates and cats,25 
+and in domestic cats.47 
+ 
+Measures established by the United States to prevent new cases of BSE have included 
+restrictions on the importation of ruminants and ruminant-derived products from 
+countries affected with BSE or that present undue risk of BSE (9CFR Parts 93, 94, 95, 
+96, and 98) and prohibition of feeding mammalian-derived proteins, with exceptions, to 
+ruminants (21CFR589.2000).  Mitigating measures have been considered to effectively 
+reduce the likelihood of BSE introduction and amplification in U.S. cattle.20  Food-safety 
+precautions implemented by the United States to protect the consumer have included the 
+exclusion of non-ambulatory cattle from slaughter for human consumption, prohibitions 
+on the use of specified risk material as human food, and prohibitions on the use of 
+mechanically separated beef in human food (69 FR 1826, January 12, 2004;  69 FR 
+42255, July 14, 2004); prohibition of the use of air-injection stunning devices to 
+immobilize cattle during slaughter (69 FR 1885-1891); and prohibitions on the use of 
+certain tissues in advanced meat recovery systems and additional process controls on 
+these systems (69 FR 1874-1885).  
+ 
+Purpose, rationale, and objectives of surveillance 
+ 
+Animal and public health concerns have led to the establishment of active surveillance 
+programs among other regulatory measures to monitor and prevent disease.  Active 
+surveillance for BSE was initiated in the United States in 1990.
+Text Len: 1652
+--------------------------------------------------------------------------------
+ process controls on 
+these systems (69 FR 1874-1885).  
+ 
+Purpose, rationale, and objectives of surveillance 
+ 
+Animal and public health concerns have led to the establishment of active surveillance 
+programs among other regulatory measures to monitor and prevent disease.  Active 
+surveillance for BSE was initiated in the United States in 1990.  In response to 
+identification of a BSE-affected imported dairy cow in December 2003, the U.S. 
+Enhanced BSE Surveillance Program was implemented in June 2004.  Through these 
+efforts, 2 cases of BSE were identified through March 2006.  Both cases were in beef 
+cattle over ten years old (born before the feed ban of 1997), one located in Texas and one 
+in Alabama. 
+ 
+Based on data collected in the United States over the last seven years, including over a 
+half million samples from the Enhanced Surveillance program, the USDA has developed 
+an estimate of prevalence of BSE among U.S. cattle that was extremely low, projected at 
+ 
+ 5
+less than 1 case per million animals in the standing adult cattle population at the 95% 
+confidence level.1  In addition, the USDA demonstrated that surveillance efforts to date 
+far exceed the World Organization for Animal Health (Office Internationales des 
+Epizooties [OIE]) “type A” surveillance requirements.  Prevalence is expected to decline 
+as long as mitigation efforts that maintain low risk for introduction and spread of the BSE 
+agent among U.S. cattle are equivalent to or better than those evaluated by the Harvard 
+Risk Assessment.20  The present plan details the objectives and methods considered 
+pertinent and necessary for Ongoing BSE Surveillance. 
+ 
+The principal purposes of Ongoing BSE Surveillance are: 
+1
+Text Len: 1718
+--------------------------------------------------------------------------------
+ that maintain low risk for introduction and spread of the BSE 
+agent among U.S. cattle are equivalent to or better than those evaluated by the Harvard 
+Risk Assessment.20  The present plan details the objectives and methods considered 
+pertinent and necessary for Ongoing BSE Surveillance. 
+ 
+The principal purposes of Ongoing BSE Surveillance are: 
+1. To continue to assess and monitor change in the BSE status of U.S. cattle.   
+2. To provide mechanisms for detection of BSE prevalence if it were to increase 
+above 1 infected animal per million adults. 
+ 
+Expected outcomes 
+ 
+The results of Ongoing BSE Surveillance will be used for decision-making and policy 
+development regarding design and implementation of future BSE surveillance programs 
+and control efforts.  Results will also be used to facilitate contingency plans for national 
+BSE control and response programs and to evaluate the effectiveness of mitigations and 
+control measures that have been implemented to reduce the risk of introduction and 
+spread of BSE among U.S. cattle.  The planned response to confirmed cases of BSE are 
+described elsewhere.3,7  
+ 
+Additionally, the implementation of a strong BSE surveillance strategy will help provide 
+reassurance to consumers and international trading partners regarding our ability to detect 
+a problem if one should arise.  The results of the surveillance program will be an 
+important component of documenting the BSE status of U.S. cattle.  The USDA has 
+designed this surveillance program to meet or exceed the internationally accepted 
+surveillance practices recommended by the OIE. Compliance with OIE guidelines is an 
+important component of assuring trading partners of the quality of our surveillance 
+efforts.2 USDA expects that this robust surveillance program will continue to provide the 
+foundation for market confidence
+Text Len: 1855
+--------------------------------------------------------------------------------
+.S. cattle.  The USDA has 
+designed this surveillance program to meet or exceed the internationally accepted 
+surveillance practices recommended by the OIE. Compliance with OIE guidelines is an 
+important component of assuring trading partners of the quality of our surveillance 
+efforts.2 USDA expects that this robust surveillance program will continue to provide the 
+foundation for market confidence in the safety of U.S. cattle.   
+ 
+Stakeholders and responsible parties 
+ 
+Users of surveillance system information include policy makers within USDA, the U.S. 
+livestock industry, consumer groups, trading partners, State Animal Health Offices, and 
+data providers (sample collectors and veterinary diagnostic laboratories).  In addition to 
+information users, beneficiaries of the surveillance information include the public, the 
+U.S. cattle industry, consumer groups, and industries engaged in export markets for 
+cattle-derived products.   
+ 
+Data collection will be performed by a variety of parties.  Sample data will be collected 
+by accredited veterinarians, Food Safety Inspection Service (FSIS) veterinarians and 
+inspectors, veterinary diagnostic laboratory or public health laboratory personnel, and 
+ 
+ 6
+qualified VS personnel (including animal health technicians and those involved with data 
+entry).  VS Area Offices will direct efforts for resolution of problematic data.  
+ 
+Samples will be tested for BSE through cooperation of NVSL and contracted veterinary 
+diagnostic laboratories. Positive samples will be confirmed by NVSL. American 
+Association of Veterinary Laboratory Diagnosticians (AAVLD) accredited laboratories 
+participating in the National Animal Health Laboratory Network (NAHLN) may be 
+contracted by NVSL to perform BSE screening tests, provided quality assurance 
+standards are met (as described by the most current version of NVSL
+Text Len: 1872
+--------------------------------------------------------------------------------
+. Positive samples will be confirmed by NVSL. American 
+Association of Veterinary Laboratory Diagnosticians (AAVLD) accredited laboratories 
+participating in the National Animal Health Laboratory Network (NAHLN) may be 
+contracted by NVSL to perform BSE screening tests, provided quality assurance 
+standards are met (as described by the most current version of NVSL protocols 
+GPPISOP3501 and 3303).   
+ 
+Training of sample collectors will be completed by Area Veterinarian in Charge (AVIC) 
+office personnel with oversight by VS regional offices.  Data entry training will be 
+completed by these parties as well as the BSE Help Desk.a 
+ 
+Assessment of data quality, data analysis, and interpretation will be completed by the 
+NSU, VS TSE program manager, and VS TSE epidemiologists.  Reporting and 
+dissemination of surveillance results will be primarily the responsibility of the NSU. In 
+addition to standard Agricultural Marketing Service audit procedures, the NSU will 
+conduct a review of the surveillance system’s effectiveness.  NVSL will be responsible 
+for quality assurance of laboratory results. 
+ 
+POPULATION DESCRIPTION AND SAMPLING METHODS 
+ 
+Current OIE guidelines emphasize the development of ongoing surveillance programs 
+that focus on obtaining quality samples from high risk subpopulations rather than on a 
+target number of animals.2  As a result, if surveillance can be efficiently targeted to the 
+highest risk subpopulations, meaningful surveillance can occur with a fairly low number 
+of animals (for an example of how the OIE numbers are calculated, see the Summary of 
+BSE Enhanced Surveillance in the United States).9  For this reason, an important focus of 
+the Ongoing Surveillance will be obtaining samples from cattle that
+Text Len: 1756
+--------------------------------------------------------------------------------
+ if surveillance can be efficiently targeted to the 
+highest risk subpopulations, meaningful surveillance can occur with a fairly low number 
+of animals (for an example of how the OIE numbers are calculated, see the Summary of 
+BSE Enhanced Surveillance in the United States).9  For this reason, an important focus of 
+the Ongoing Surveillance will be obtaining samples from cattle that are “clinical 
+suspects.”  This subpopulation of cattle, particularly cattle over 30 months of age, has 
+been found to exhibit the highest prevalence of BSE. Inferences derived from 
+surveillance findings will be generalized to the adult U.S. cattle population (i.e. target or 
+inference population), which consists of approximately 42 million adult cattle.5 
+ 
+Study (Targeted) Population 
+ 
+Ongoing Surveillance will target subpopulations from the Enhanced Surveillance 
+population with the highest probability of BSE detection.  Because BSE is exceedingly 
+uncommon among U.S. cattle, the chosen targeted population will create intentional bias 
+in the sample frame which favors detection of disease.  Cattle that are dead with unknown 
+clinical history will be limited in the surveillance sampling strategy because they provide 
+substantially less information than animals accompanied by clinical history.  As used in 
+this Ongoing Surveillance plan, “dead with unknown clinical history” refers to cattle that 
+                                                 
+a Veterinary Services BSE Help Desk:  (866) 370-6611, bse.help@aphis.usda.gov 
+ 
+ 7
+are already dead  prior to being presented for
+Text Len: 1582
+--------------------------------------------------------------------------------
+                                   
+a Veterinary Services BSE Help Desk:  (866) 370-6611, bse.help@aphis.usda.gov 
+ 
+ 7
+are already dead  prior to being presented for BSE sample collection and that have no 
+known clinical history other than “dead of unknown cause.”  Efforts for collecting 
+clinical history data will be augmented for Ongoing Surveillance.  At least one clinical 
+sign must be identified for each sampled animal.  Apparently healthy animals will not be 
+targeted for surveillance. For those cattle without obvious CNS signs, sample collection 
+on-farm will be preferred over other collection sites because the subtle and nonspecific 
+nature of behavioral changes associated with BSE are best identified by those who handle 
+cattle on a daily basis,2 and personnel on-farm are most suitable for providing this 
+information.  
+ 
+The targeted population for Ongoing Surveillance consists of cattle of any breed that fit 
+one of the following clinical presentation criteria: 
+ 
+1. Cattle of any age with CNS signs 
+ 
+This category includes cattle exhibiting signs consistent with a central nervous 
+system disorder (including rabies-negative cases from public health laboratories, 
+and FSIS condemns for “CNS signs” or “rabies”). 
+ 
+Additionally, this category includes cattle highly suspicious for BSE as indicated 
+by VS Memo 580.16, which includes:  1) cattle affected by illnesses that are 
+refractory to treatment (including anorexia, loss of condition in spite of good 
+appetite, pneumonia, decreased milk yield) and are displaying progressive 
+behavioral changes
+Text Len: 1582
+--------------------------------------------------------------------------------
+ 
+ 
+Additionally, this category includes cattle highly suspicious for BSE as indicated 
+by VS Memo 580.16, which includes:  1) cattle affected by illnesses that are 
+refractory to treatment (including anorexia, loss of condition in spite of good 
+appetite, pneumonia, decreased milk yield) and are displaying progressive 
+behavioral changes that are not of an acute nature (including apprehension, 
+nervousness, excitability, aggression, head shyness, hypermetria, kicking when 
+milked, difficulty in rising, excessive nose scratching, or hesitation at 
+gates/barriers); 2) cattle displaying progressive neurological signs that cannot be 
+attributed to infectious illness and are not responsive to treatment. 
+ 
+2. Cattle ≥ 30 months of ageb that are condemned during antemortem inspection 
+or are excluded from slaughter due to poor health status (nonambulatory, 
+unhealthy, or dead) 
+ 
+This category includes: 
+ 
+a) Cattle that are condemned by FSIS at antemortem inspection for any 
+reason (other than “CNS signs” or “rabies,” which are covered above 
+under “Cattle of any age with CNS signs”). 
+ 
+b) Cattle without a history of CNS signs for which sample collection occurs 
+on-farm, at veterinary clinics, or at livestock sale or auction barns and that 
+are dead, nonambulatory, or have clinical signs that may be associated 
+with BSE.  For those cattle that are dead prior to arrival of sampling 
+                                              
+Text Len: 1448
+--------------------------------------------------------------------------------
+ dead, nonambulatory, or have clinical signs that may be associated 
+with BSE.  For those cattle that are dead prior to arrival of sampling 
+                                                 
+b Age of 30 months or older is evidenced by the eruption of at least one of the second set of permanent 
+incisors.  
+ 
+ 
+ 8
+personnel on-farm, additional clinical history must be available other than 
+“dead of unknown cause.” 
+ 
+c) Cattle presented to veterinary diagnostic laboratories for necropsy or for 
+ancillary diagnostics without a history of CNS signs but which had clinical 
+signs that may be associated with BSE. 
+ 
+d) Cattle from renderers or 3D/4D facilities (up to a maximum of 5,000) that 
+are dead, nonambulatory, or sick.  Collection of clinical history is 
+preferable for these samples but is not required. 
+ 
+The Enhanced Surveillance data provide information on the number of clinical suspects 
+and the number of nonambulatory, unhealthy, or dead animals over 30 months classified 
+by collection site.9 We expect that collection sites yielding the highest proportion of 
+clinical suspects relative to the number of animals sampled will continue to do so.  
+Accordingly, because renderers and 3D/4D facilities produced the most samples but 
+proportionately the fewest clinical suspects in the Enhanced Surveillance program, we 
+will limit samples from these facilities to 5,000 animals. 
+ 
+Sample Points and Numbers to Meet OIE Surveillance Standards 
+ 
+APHIS is committed to maintaining BSE
+Text Len: 1501
+--------------------------------------------------------------------------------
+ so.  
+Accordingly, because renderers and 3D/4D facilities produced the most samples but 
+proportionately the fewest clinical suspects in the Enhanced Surveillance program, we 
+will limit samples from these facilities to 5,000 animals. 
+ 
+Sample Points and Numbers to Meet OIE Surveillance Standards 
+ 
+APHIS is committed to maintaining BSE surveillance that at least meets OIE guidelines.  
+The OIE BSE surveillance guidelines recommend a target number of surveillance points 
+for Type A surveillance based on the size of a country’s cattle population.  These points 
+are accrued over 7 consecutive years, and are weighted according to the surveillance 
+stream and age of the animal sampled.  For a large cattle population, using the design 
+prevalence of 1 case per 100,000 adult cattle and 95% confidence, 300,000 total points 
+over 7 years, or 42,857 points per year are required for Type A surveillance.2 
+ 
+The four surveillance streams identified in the OIE Code are clinical suspects; casualty 
+slaughter; fallen stock; and healthy slaughter.  OIE guidelines recommend sampling from 
+at least three of the four surveillance streams.  BSE surveillance efforts in the US have 
+always focused on the three surveillance streams where BSE is more likely to be found – 
+clinical suspects, casualty slaughter, and fallen stock.  During the 7 consecutive years 
+prior to March 17, 2006, the United States collected 735,213 BSE samples from these 
+surveillance streams and accumulated 2,973,804 OIE points.9   
+ 
+If the Ongoing Surveillance plan maintains similar sample numbers from these 
+surveillance streams, approximately 10,500 cattle per year would be sufficient to meet the 
+OIE minimum number of sample points for Type A surveillance. 
+Text Len: 1743
+--------------------------------------------------------------------------------
+35,213 BSE samples from these 
+surveillance streams and accumulated 2,973,804 OIE points.9   
+ 
+If the Ongoing Surveillance plan maintains similar sample numbers from these 
+surveillance streams, approximately 10,500 cattle per year would be sufficient to meet the 
+OIE minimum number of sample points for Type A surveillance.  
+ 
+2,973,804 points ÷ 735,213 samples = 4.1 points per sample  
+and 
+42,857 points required per year ÷ 4.1 points per sample = 10,453 samples per year 
+ 
+ 
+ 9
+The Ongoing Surveillance plan targets relatively few of the lowest value samples (i.e., 
+only 5,000 renderer and 3D-4D origin samples as compared to over ½ million during 
+Enhanced Surveillance). Thus, the point value per sample will be higher than 4.1, and 
+10,453 samples from Ongoing Surveillance will easily exceed the OIE requirements. 
+ 
+Sample Points and Sample Size for BSE Prevalence Estimates 
+ 
+The OIE minimum number of samples as outlined would be sufficient for a design 
+prevalence of 1 case per 100,000 adult cattle.  In the interest of maintaining confidence in 
+previous BSE prevalence estimates, a more sensitive design prevalence of 1 case per 
+1,000,000 adult cattle will be adopted for Ongoing Surveillance. 
+ 
+The point tables described by OIE surveillance guidelines were designed using the 
+BSurvE model to represent the most conservative scenario of the characteristics of the 
+cattle populations of all its member States.  These conservative demographic 
+characteristics describe a population that culls cattle very rapidly (mean age of 
+approximately 4 years) and results in point values that are that are much lower than
+Text Len: 1636
+--------------------------------------------------------------------------------
+ point tables described by OIE surveillance guidelines were designed using the 
+BSurvE model to represent the most conservative scenario of the characteristics of the 
+cattle populations of all its member States.  These conservative demographic 
+characteristics describe a population that culls cattle very rapidly (mean age of 
+approximately 4 years) and results in point values that are that are much lower than the 
+BSurvE model would calculate for cattle in most countries.   The United States has 
+relevant demographic data pertaining to the adult cattle population that indicate 25% of 
+the adult cattle population of approximately 42 million are dairy production type and 
+75% are beef cattle.30  While the U.S. dairy population undergoes rapid culling similar to 
+the conservative characteristics used to develop the OIE table, beef cattle generally 
+remain in the herd to a much older age until they no longer produce calves.   
+ 
+The BSurvE model can be used to determine sample point values based on a particular 
+population’s demographics. Because actual U.S. data are available regarding population 
+characteristics, and because this population differs significantly from that used for the 
+conservative OIE estimates, it is appropriate to base the sample size estimates on the 
+points calculated through BSurvE given U.S. demographics (these points are hereafter 
+referred to as “analytical points”). The higher average age at which beef cattle are culled 
+influences the BSurvE output and results in substantially higher point values.  Hence, 
+sample values calculated with BSurvE from actual U.S. data result in higher point values 
+than the conservative OIE estimates .  Each analytical point calculated by BSurvE 
+corresponds to a single non-targeted sample.45   
+ 
+According to OIE, B
+Text Len: 1803
+--------------------------------------------------------------------------------
+SurvE output and results in substantially higher point values.  Hence, 
+sample values calculated with BSurvE from actual U.S. data result in higher point values 
+than the conservative OIE estimates .  Each analytical point calculated by BSurvE 
+corresponds to a single non-targeted sample.45   
+ 
+According to OIE, BSurvE and Cannon and Roe17calculations, the required number of 
+non-targeted samples needed to detect a prevalence of 1 case per million adult cattle with 
+95% confidence (given a population size of 42 million adult cattle) is 3,000,000, 
+2,995,730, and 2,891,389, respectively.  Conservatively using the value of 3 million, we 
+calculate that we will need to accumulate 428,571 analytical points (with negative 
+results) per year across a period of 7 years to meet this objective.   
+ 
+3,000,000 analytical points ÷ 7 years = 428,571 analytical points per year 
+ 
+ 
+ 10
+The prevalence analysis conducted on U.S. surveillance data collected from March, 1999 
+through March 2006 reports 6,745,010 points resulting from 735,213 samples.  The 
+average sample was worth 9.5 analytical points.1 
+ 
+6,745,010 analytic points ÷ 735,213 samples = 9.5 analytic points per sample 
+ 
+If USDA maintained an equivalent mix of surveillance streams during Ongoing 
+Surveillance, then approximately 45,113 samples per year would be required to meet this 
+objective. 
+ 
+428,571 analytical points per year ÷ 9.5 analytical points per sample = 45,113 
+samples per year 
+ 
+However, greater than one half million of the samples from Enhanced
+Text Len: 1536
+--------------------------------------------------------------------------------
+ an equivalent mix of surveillance streams during Ongoing 
+Surveillance, then approximately 45,113 samples per year would be required to meet this 
+objective. 
+ 
+428,571 analytical points per year ÷ 9.5 analytical points per sample = 45,113 
+samples per year 
+ 
+However, greater than one half million of the samples from Enhanced Surveillance were 
+collected from fallen stock – the surveillance stream that produced the lowest point 
+values.  Sampling efforts can be focused on higher value surveillance streams – clinical 
+suspects and casualty slaughter – with a limited number of samples obtained from the 
+fallen stock surveillance stream.  This will increase the average point value per sample.    
+Therefore, we estimate that 40,000 samples collected from these 3 surveillance streams – 
+with a focus on clinical suspects and casualty slaughter - will exceed the number of 
+points necessary to maintain confidence that prevalence is less than 1 infected animal per 
+million adult cattle.  Further, since the data are analyzed over 7 consecutive years, the 
+estimate of sample size may be adjusted each year as appropriate to assure a robust 
+prevalence estimate. 
+ 
+Study Area Under Surveillance 
+ 
+The collection sites for this sampling plan have been selected to include animals from all 
+sections of the United States and comprise nationally representative avenues through 
+which cattle exit production. In combination, these data sources provide the opportunity 
+for cattle residing in any part of the country or segment of industry to be sampled: 
+• Slaughter facilities are located throughout the United States and service every 
+constituent of the production industry.  Additionally, western States that 
+practice open range grazing and do not have access to renderers, or may not 
+observe animal deaths, will still ship cull cattle to FSIS-inspected facilities in 
+other States
+Text Len: 1892
+--------------------------------------------------------------------------------
+ segment of industry to be sampled: 
+• Slaughter facilities are located throughout the United States and service every 
+constituent of the production industry.  Additionally, western States that 
+practice open range grazing and do not have access to renderers, or may not 
+observe animal deaths, will still ship cull cattle to FSIS-inspected facilities in 
+other States. 
+• Rendering facilities or 3D/4D facilities are located throughout the United 
+States.  Some of these facilities draw from the same populations as the 
+slaughter facilities, as they are the disposal facility for offal and condemned 
+animals from the slaughter facilities.  Focusing on these facilities, and on 
+rendering facilities in geographic locations with only limited disposal 
+alternatives will help ensure a broad geographical representation.  The 
+inclusion of these facilities ensures access to the fallen stock surveillance 
+stream. 
+• On-farm sample collection allows that samples will be collected wherever 
+cattle reside. Efforts will be made across the nation to encourage the 
+ 
+ 11
+participation of veterinary professionals and paraprofessionals in on-farm 
+sample collection. 
+• There are no areas in the nation that cannot submit fresh whole cattle brain to 
+a public health or veterinary diagnostic laboratory. 
+ 
+A qualitative, not quantitative, analysis of sample origin and collection site will be 
+employed for Ongoing Surveillance sampling.c With increased emphasis on the 
+importance of obtaining samples from high risk subpopulations, establishing and meeting 
+a specific numeric target for the total number of cattle sampled becomes relatively less 
+important.  The results of Enhanced Surveillance allowed us to identify the collection 
+sites that are more likely to yield clinical suspects. Nevertheless, it is important to obtain 
+coverage of all potential streams at all collection sites in order to maximize the likelihood
+Text Len: 1926
+--------------------------------------------------------------------------------
+ samples from high risk subpopulations, establishing and meeting 
+a specific numeric target for the total number of cattle sampled becomes relatively less 
+important.  The results of Enhanced Surveillance allowed us to identify the collection 
+sites that are more likely to yield clinical suspects. Nevertheless, it is important to obtain 
+coverage of all potential streams at all collection sites in order to maximize the likelihood 
+that we will obtain samples from clinical suspects. 
+ 
+OIE Guidelines and Surveillance Streams 
+ 
+Samples will be assigned to the surveillance streams described in Article 3.8.4.2 of the 
+OIE Terrestrial Animal Health code.  The stream to which a sample is assigned will be 
+based on clinical signs that are provided, sample source, and condemnation code data.  
+Note that samples within the “Routine Slaughter” stream (from Article 3.8.4.2) will not 
+be collected during Ongoing Surveillance.  The OIE surveillance streams and the criteria 
+by which samples will be assigned to them are listed below.  
+ 
+1. Clinical suspect – cattle displaying behavioral or clinical signs consistent 
+with BSE. 
+ 
+Article 3.8.4.2 of the OIE Terrestrial Animal Health code describes this group as 
+follows:  “Cattle affected by illnesses that are refractory to treatment, and 
+displaying progressive behavioral changes such as excitability, persistent kicking 
+when milked, changes in herd hierarchical status, hesitation at doors, gates and 
+barriers, as well as those displaying progressive neurological signs without signs 
+of infectious illness are candidates for examination.  These behavioral changes, 
+being very subtle, are best identified by those who handle animals on a daily 
+basis.” 
+ 
+Samples will be assigned to this surveillance stream if they are from
+Text Len: 1788
+--------------------------------------------------------------------------------
+ hierarchical status, hesitation at doors, gates and 
+barriers, as well as those displaying progressive neurological signs without signs 
+of infectious illness are candidates for examination.  These behavioral changes, 
+being very subtle, are best identified by those who handle animals on a daily 
+basis.” 
+ 
+Samples will be assigned to this surveillance stream if they are from cattle defined 
+as highly suspicious as outlined in VS Memorandum 580.16, were tested negative 
+for rabies at a public health or veterinary diagnostic laboratory, had CNS signs or 
+were condemned by FSIS for CNS signs or rabies, or if the likelihood ratio for 
+clinical signs associated with BSE is above an appropriate cutoff value (methods 
+for these determinations are described elsewhere).9  Most of these samples are 
+                                                 
+c A quantitative analysis of geographical representation is difficult to interpret since cattle movement in the 
+United States is poorly defined, and a sample’s site of collection site may not correspond to where the 
+animal was born or resided most of its life (i.e., the area where BSE transmission would have occurred).  
+Statistical comparison of geographic regions in the Enhanced Surveillance analysis and the paucity of 
+positive cases provide no evidence that BSE prevalence varies by region within the United States. 
+ 
+ 12
+anticipated to be derived from samples collected on-farm.  A substantial number 
+will also be contributed by FSIS, veterinary diagnostic laboratories, and public 
+health laboratories. 
+ 
+2. Casualty slaughter –cattle over 30 months of age that are non-ambulatory, 
+recumbent
+Text Len: 1660
+--------------------------------------------------------------------------------
+ prevalence varies by region within the United States. 
+ 
+ 12
+anticipated to be derived from samples collected on-farm.  A substantial number 
+will also be contributed by FSIS, veterinary diagnostic laboratories, and public 
+health laboratories. 
+ 
+2. Casualty slaughter –cattle over 30 months of age that are non-ambulatory, 
+recumbent, unable to rise or to walk without assistance, sent for emergency 
+slaughter, or condemned at antemortem inspection. 
+ 
+Samples will be assigned to this surveillance stream if the likelihood ratio for 
+clinical signs being associated with BSE is below an appropriate cutoff value, and 
+if the sample meets the OIE criteria for this stream.  Most of these samples are 
+anticipated to be derived from FSIS-inspected slaughter plants.  However, a 
+considerable number will be contributed by other data sources such as on-farm 
+and veterinary diagnostic laboratories. 
+ 
+3. Fallen stock – cattle over 30 months of age that are found dead on farm, or 
+during transport to or at an abattoir. 
+ 
+Samples will be assigned to this surveillance stream if the likelihood ratio for clinical 
+signs being associated with BSE is below an appropriate cutoff value, and if the sample 
+meets the OIE criteria for this stream.  These samples are anticipated to contribute a 
+negligible portion of total points.  
+ 
+Table 2.  OIE point values for each surveillance stream by cattle age 
+ Clinical 
+suspect 
+Casualty 
+slaughter 
+Fallen 
+stock 
+Routine 
+slaughter 
+(Apparently Healthy) 
+Age ≥ 1 year and < 2 years N/A 0.4 0.2 0.01 
+Age ≥ 2 years and < 4 years 260 0
+Text Len: 1581
+--------------------------------------------------------------------------------
+ values for each surveillance stream by cattle age 
+ Clinical 
+suspect 
+Casualty 
+slaughter 
+Fallen 
+stock 
+Routine 
+slaughter 
+(Apparently Healthy) 
+Age ≥ 1 year and < 2 years N/A 0.4 0.2 0.01 
+Age ≥ 2 years and < 4 years 260 0.4 0.2 0.1 
+Age ≥ 4 years and < 7 years 750 1.6 0.9 0.2 
+Age ≥ 7 years and < 9 years 220 0.7 0.4 0.1 
+Age ≥ 9 years 45 0.2 0.1 0.0 
+ 
+Sample collection sites 
+ 
+The following sites have been selected based on observations from Enhanced 
+Surveillance including relative quality of data collected, average point value per sample, 
+and total sample numbers.  Additionally, these collection sites comprise nationally 
+representative avenues through which cattle may exit the adult cattle population and be 
+available for sampling.  Cattle meeting the targeted criteria will be sampled from the 
+following sites: 
+ 
+1. On-Farm 
+These samples may be collected by accredited veterinarians, Federal or State 
+employees (including animal health technicians), or VS-approved dead stock 
+haulers.  Under VS Area Office oversight, sample collectors with other 
+ 
+ 13
+qualifications may be enlisted when resources preclude the participation of 
+aforementioned sample collectors in a given area.  Although these samples may 
+have a higher cost relative to other data sources, they are anticipated to have 
+higher value to surveillance since the accuracy, quantity, and perceived validity of 
+clinical history is superior relative to other data sources. 
+  
+2. Veterinary Diagnostic Laboratories 
+Cattle submitted for necropsy, or fresh whole brainstem
+Text Len: 1565
+--------------------------------------------------------------------------------
+ a given area.  Although these samples may 
+have a higher cost relative to other data sources, they are anticipated to have 
+higher value to surveillance since the accuracy, quantity, and perceived validity of 
+clinical history is superior relative to other data sources. 
+  
+2. Veterinary Diagnostic Laboratories 
+Cattle submitted for necropsy, or fresh whole brainstem submitted for ancillary 
+diagnostics to veterinary diagnostic laboratories, including those not involved in 
+BSE testing, will be sampled by laboratory personnel.  Such samples are usually 
+accompanied by significant clinical history and thus are of high value to 
+surveillance. 
+ 
+3. Public Health Laboratories 
+Samples from cattle that are rabies suspects and test negative for rabies will be 
+submitted for BSE testing by laboratory personnel.  All samples derived from this 
+data source can be characterized as clinically suspicious for BSE, and thus are of 
+high value to surveillance. 
+ 
+4. Slaughter (FSIS) 
+Cattle 30 months or older condemned at antemortem inspection, and cattle of any 
+age condemned for “CNS signs” or “rabies,” will be sampled by FSIS employees 
+or designated off-site sample collection facilities. 
+ 
+5. Facilities contracted to collect samples from cattle condemned by FSIS at 
+antemortem inspection 
+Samples derived from animals condemned by FSIS personnel at antemortem 
+inspection may be collected by personnel of a contracted rendering or 3D/4D 
+facility, or other APHIS approved facility.  Under these circumstances, 
+communication of condemnation codes, clinical signs, and condemnation tag 
+numbers (Z-tags) to the contracted facility is imperative. 
+ 
+6. Rendering or 3D/4D facilities  
+
+Text Len: 1696
+--------------------------------------------------------------------------------
+ may be collected by personnel of a contracted rendering or 3D/4D 
+facility, or other APHIS approved facility.  Under these circumstances, 
+communication of condemnation codes, clinical signs, and condemnation tag 
+numbers (Z-tags) to the contracted facility is imperative. 
+ 
+6. Rendering or 3D/4D facilities  
+In order to represent the “fallen stock” surveillance stream and a wide variety of 
+data sources, 5,000 samples will be collected over a 12-month period from 
+targeted cattle presented to rendering or 3D/4D facilities.  A quota is selectively 
+applied to this collection site type since these samples tend to lack adequate 
+clinical history, making them a less reliable source for clinical suspect animals.  
+ 
+Sampling progress will be monitored on a monthly basis.  If the results differ 
+considerably from expectations, the sampling strategy may be adjusted.  For example, 
+should we find that our expectations of sites most likely to yield clinical suspects are not 
+met, we may refocus sampling efforts to other collection sites.  Similarly should we find 
+there are substantially large numbers of non-clinical-suspect cattle being sampled, we 
+may reduce the intensity of our sampling in these categories.  Such restrictions may 
+involve reducing or stopping the collection of samples on-farm, at veterinary clinics, or 
+ 
+ 14
+auction barns or reducing or stopping the collection of cattle condemned by FSIS. 
+However, samples will be collected without restriction throughout the sampling period 
+from cattle with CNS signs, rabies suspects, those considered highly suspicious for BSE, 
+or cattle condemned by FSIS for CNS disorders or rabies regardless of the avenue 
+through which they present to surveillance, and regardless of the degree with which 
+sampling
+Text Len: 1780
+--------------------------------------------------------------------------------
+ collection of cattle condemned by FSIS. 
+However, samples will be collected without restriction throughout the sampling period 
+from cattle with CNS signs, rabies suspects, those considered highly suspicious for BSE, 
+or cattle condemned by FSIS for CNS disorders or rabies regardless of the avenue 
+through which they present to surveillance, and regardless of the degree with which 
+sampling goals have been met. 
+ 
+Sample points derived from Enhanced Surveillance have provided a substantial cushion 
+for potential deficiency during Ongoing Surveillance.  Since international standards allow 
+points to be included in surveillance analysis over a 7-year time period, there is 
+considerable time to adjust Ongoing Surveillance to meet surveillance needs with the 
+most cost-efficient methods of sampling. 
+ 
+ 
+COLLECTION METHODS  
+ 
+Data Collection Methods  
+ 
+Data collection methods will utilize the structures and processes established in the 
+Enhanced Surveillance program. Sample data should be collected using the forms 
+employed by Enhanced Surveillance:  USDA BSE Surveillance Submission Form and 
+USDA BSE Surveillance Data Collection Form.  Forms are completed by the sample 
+collector either by hand (paper forms) or electronically, through the NAHLN Web site 
+(nahln.aphis.usda.gov/nahln/jsp/login.jsp). If the collection site cannot complete data 
+entry electronically, paper copies must be forwarded to a designated USDA:VS office or 
+the BSE Helpdesk for data entry.  Training of data entry is overseen by VS area and 
+regional offices, and the BSE Help Desk. 
+ 
+A hard copy of the BSE Surveillance Submission Form must be submitted to the 
+diagnostic laboratory. If samples are not accompanied by the appropriate submission 
+forms with all necessary information, it is the responsibility of
+Text Len: 1809
+--------------------------------------------------------------------------------
+ BSE Helpdesk for data entry.  Training of data entry is overseen by VS area and 
+regional offices, and the BSE Help Desk. 
+ 
+A hard copy of the BSE Surveillance Submission Form must be submitted to the 
+diagnostic laboratory. If samples are not accompanied by the appropriate submission 
+forms with all necessary information, it is the responsibility of the diagnostic laboratories 
+to contact the sample collection site. Diagnostic laboratories may report collection sites 
+that are repeatedly problematic to the appropriate AVIC for correctional efforts. 
+ 
+The USDA BSE Surveillance Submission Form must be completed for each set of 
+samples from a particular collection site and date.  The USDA BSE Surveillance Data 
+Collection Form must be completed for each animal sampled.  All types of ID present on 
+the animal must be provided, including silver tag number, owner ear tag number, 
+vaccination tag number, condemnation tag number, back tag number, bangle tag number, 
+ear tattoo, brands, or microchip.  In the case of samples from cattle condemned at 
+antemortem inspection, the “Z” tag (FSIS condemnation tag number) must be recorded.  
+A “Primary Reason for Submission,” is used to assure the sample collector that the 
+animal being sampled is appropriate for surveillance (i.e. is a member of the targeted 
+population).  It is imperative that the clinical signs section be completed as thoroughly 
+and accurately as possible because data from this section of the form are used for 
+allocation of samples into appropriate surveillance streams during data analysis. 
+ 
+ 15
+ 
+Data relevant to the results of laboratory testing are entered through the NALHN 
+interface by diagnostic laboratory personnel.  Results can include any of the following: 
+• Not Detected – negative by ELISA or IHC 
+
+Text Len: 1801
+--------------------------------------------------------------------------------
+ data from this section of the form are used for 
+allocation of samples into appropriate surveillance streams during data analysis. 
+ 
+ 15
+ 
+Data relevant to the results of laboratory testing are entered through the NALHN 
+interface by diagnostic laboratory personnel.  Results can include any of the following: 
+• Not Detected – negative by ELISA or IHC 
+• Not detected, not obex* – negative by ELISA; although the sample appeared 
+to be brainstem, the laboratory technician could not identify the sample as 
+obex tissue  
+• Not tested* – sample not tested because sample could not be recognized as 
+brainstem by the laboratory technician 
+• Initial reactor – positive on first screening (ELISA) test 
+• Inconclusive – following a positive on the first screening test, at least one 
+additional test is positive when the screening test is repeated in duplicate  
+• IHC Inconclusive – sample with equivocal immunohistochemistry results 
+• Positive – samples positive either by IHC or immunoblotting 
+ 
+*For these selections, the reason for the result must be further specified as one of the 
+following: 
+• Advanced tissue decomposition  
+• Wrong anatomic location  
+• Tissue disrupted preventing anatomic orientation 
+ 
+Sample Collection Methods  
+ 
+Samples may be collected by authorized Federal or State personnel, accredited 
+veterinarians, APHIS-contracted employees, or diagnostic laboratory personnel. 
+ 
+Animal identification items (drawings or digital pictures of brands, removed tattooed 
+hide, ear tags, etc.) should be collected from each animal sampled, bagged, labeled with 
+the sample number, attached to a copy of the USDA BSE Surveillance Submission Form, 
+and saved by the sample collector until negative results are
+Text Len: 1732
+--------------------------------------------------------------------------------
+racted employees, or diagnostic laboratory personnel. 
+ 
+Animal identification items (drawings or digital pictures of brands, removed tattooed 
+hide, ear tags, etc.) should be collected from each animal sampled, bagged, labeled with 
+the sample number, attached to a copy of the USDA BSE Surveillance Submission Form, 
+and saved by the sample collector until negative results are received.  
+ 
+Brainstem samples may be collected through the foramen magnum, using a brain spoon 
+or other extraction techniques (such as water extraction or compressed air), after 
+disarticulation of the atlanto-occipital joint.  Alternatively, a brainstem sample may be 
+collected by dismantling the calvarium (e.g. when retrieving the whole brain for rabies 
+diagnosis).  An appropriate brainstem sample includes obex with little contamination or 
+postmortem decomposition.  Samples with post-mortem or post-collection decomposition 
+such that they cannot be recognized as brainstem will not be tested by the diagnostic 
+laboratory.  Sample collectors should submit samples that have questionable testability 
+and allow laboratory technicians to decide if tissue integrity precludes testing.  
+Diagnostic laboratories will be compensated for efforts related to determining sample 
+testability.   
+ 
+Samples may be held prior to submission to the diagnostic laboratory, provided they are 
+refrigerated (e.g., for sending multiple samples in one shipment). These should be 
+ 
+ 16
+submitted as soon as possible, but may be held for no longer than 7 days.  Samples 
+should not be frozen. 
+ 
+Fresh brainstem samples are individually packaged in plastic tubes labeled with a unique 
+BSE sample identification bar code supplied by the USDA.  Samples are enclosed with 
+cold packs in insulated packages and
+Text Len: 1781
+--------------------------------------------------------------------------------
+ be 
+ 
+ 16
+submitted as soon as possible, but may be held for no longer than 7 days.  Samples 
+should not be frozen. 
+ 
+Fresh brainstem samples are individually packaged in plastic tubes labeled with a unique 
+BSE sample identification bar code supplied by the USDA.  Samples are enclosed with 
+cold packs in insulated packages and are shipped by overnight contract delivery service 
+(e.g. Federal Express), same-day courier service, or by hand delivery to a NALHN 
+laboratory that offers BSE test service the following business day. Once shipped, delivery 
+of samples to diagnostic laboratories should be completed within 24 hours so as to 
+preserve sample integrity.  If samples are received by a diagnostic laboratory on a non-
+operating weekday, samples will be held under refrigeration by the diagnostic laboratory 
+and subsequently tested on the next operating weekday.  If test results are urgently 
+needed, the AVIC office may dictate that samples be redirected to an operating diagnostic 
+laboratory. For samples with “inconclusive” test results, all remaining tissue must be 
+immediately forwarded to NVSL (per the most current version of NVSL protocol 
+GPPISOP0029). The timeline of procedures and reporting that occur in response to a 
+positive case are described elsewhere.3,7 
+ 
+The diagnostic laboratory is responsible for entering test results into the NAHLN 
+database and for notifying the sample submitter of test results electronically, by phone, or 
+in writing.  This should be completed within 24-48 hours of test completion.  Additional 
+parties, including the AVIC and State veterinary office, may also be notified of results 
+given that an arrangement has been agreed upon between the diagnostic laboratory and 
+additional party.  APHIS Animal Identification
+Text Len: 1782
+--------------------------------------------------------------------------------
+ sample submitter of test results electronically, by phone, or 
+in writing.  This should be completed within 24-48 hours of test completion.  Additional 
+parties, including the AVIC and State veterinary office, may also be notified of results 
+given that an arrangement has been agreed upon between the diagnostic laboratory and 
+additional party.  APHIS Animal Identification Coordinators (AIC) may assist with 
+sample delivery verification and troubleshooting.  Training of sample collectors is 
+completed by AVIC offices and VS regional offices, and, at their discretion, state 
+veterinary offices. It is the responsibility of the AVIC offices to monitor sample 
+collectors in the relevant area for habitual poor sample collection technique. 
+ 
+Animal Disposal 
+ 
+Carcasses from negative animals are disposed of in compliance with Federal, State, and 
+local laws.  Carcasses and offal from “inconclusive” or positive animals may be disposed 
+of by one of the following: rendering for non-animal feed use by dedicated facilities, 
+burial in a landfill, burial on-farm, alkaline digestion, or incineration.  Rendering 
+facilities may refrigerate or freeze carcasses, or may proceed with rendering and hold 
+batches of final products, pending test results.  Should a positive animal occur with the 
+latter method, an indemnity would be supplied for the disposed batches of products.  
+ 
+Clinical Case Definition 
+ 
+Clinical case definitions are not applicable to the present surveillance methods.  Because 
+clinical signs have such poor specificity and sensitivity for BSE diagnosis, and because 
+the diagnostic assays used for BSE diagnosis are considered to have near perfect analytic 
+sensitivity and specificity (i.e. cattle with detectable disease are reliably differentiated 
+from cattle without
+Text Len: 1801
+--------------------------------------------------------------------------------
+inical Case Definition 
+ 
+Clinical case definitions are not applicable to the present surveillance methods.  Because 
+clinical signs have such poor specificity and sensitivity for BSE diagnosis, and because 
+the diagnostic assays used for BSE diagnosis are considered to have near perfect analytic 
+sensitivity and specificity (i.e. cattle with detectable disease are reliably differentiated 
+from cattle without detectable disease), BSE diagnosis is solely based on laboratory 
+ 
+ 17
+criteria.  The case definition used for surveillance is the laboratory case definition for 
+BSE as defined by the most current version of NVSL document GPISOP0034. 
+ 
+Laboratory Criteria for Diagnosis 
+ 
+The diagnostic strategy implemented for BSE surveillance is described elsewhere (most 
+current versions of NVSL protocols GPPISOP0027 and GPPISOP0034). 
+ 
+ANALYSIS, REPORTING, AND PRESENTATION  
+ 
+The NSU is the party primarily responsible for data analysis and reporting. Reports 
+produced by the NSU for the Deputy Administrator of VS and his designates will include 
+monthly reports used for program monitoring and oversight, and an annual summary 
+report analogous to that produced at the conclusion of the Enhanced Surveillance 
+program.  The annual summary report is intended to tally surveillance points derived 
+from BSE surveillance efforts over the last 7 years using the OIE Code.  Additionally, 
+this report will provide an estimate of BSE prevalence, and/or demonstrate freedom from 
+disease in U.S. cattle. The information provided by the annual report may be further 
+tabulated for public consumption at the request of the Deputy Administrator; however 
+monthly reports are anticipated to remain for internal USDA use only.  Measures that will 
+be portrayed by the monthly reports, in tabular and graphical format, include monthly
+Text Len: 1834
+--------------------------------------------------------------------------------
+/or demonstrate freedom from 
+disease in U.S. cattle. The information provided by the annual report may be further 
+tabulated for public consumption at the request of the Deputy Administrator; however 
+monthly reports are anticipated to remain for internal USDA use only.  Measures that will 
+be portrayed by the monthly reports, in tabular and graphical format, include monthly and 
+cumulative numbers of targeted samples, non-targeted samples, “not detected, not obex” 
+samples, and total samples stratified by collection site type, submission reason, and 
+geographical area.  Monthly reports will be used to assess progress toward national 
+sampling goals with respect to point totals.  
+ 
+Data analysis will be performed throughout the Ongoing Surveillance to assess sampling 
+progress. Data quality will be monitored periodically using an error-checking routine to 
+identify information that is outside expected values or for key data that are missing. 
+Samples that do not meet the targeted sampling criteria will be identified, and feedback 
+will be provided through appropriate channels to sample collectors that submit non-
+targeted samples. Many mechanisms are already in place in the existing BSE database 
+that prevent common data entry errors and that require recording of important sample 
+data.  
+ 
+ 
+ 18
+REFERENCES 
+ 
+1  An Estimate of the prevalence of BSE in the United States. USDA/APHIS, Centers for Epidemiology 
+and Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/BSEprevalence-
+estimate4-26-06.pdf 
+2  Appendix 3.8.4: Surveillance for bovine
+Text Len: 1679
+--------------------------------------------------------------------------------
+ Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/BSEprevalence-
+estimate4-26-06.pdf 
+2  Appendix 3.8.4: Surveillance for bovine spongiform encephalopathy. In: Terrestrial animal health code, 
+14th ed. Office International des Epizooties, Paris, 2005 
+3  Bovine spongiform encephalopathy (BSE) response plan summary. USDA Animal and Plant Health 
+Inspection Service and Food Safety and Inspection Service. Accessed May 5, 2006 online at: 
+http://www.aphis.usda.gov/lpa/issues/bse/bsesum.pdf. 
+4  BSE: Statistics - Youngest and oldest cases by year of onset - Great Britain (passive surveillance only). 
+Department for Environment, Food, and Rural Affairs, 2005. Accessed May 5, 2006 online at: 
+http://www.defra.gov.uk/animalh/bse/statistics/bse/yng-old.html. 
+5  Cattle Final Estimates 1999-2003. USDA National Agricultural Statistics Service, 2004. Accessed May 
+5, 2006 online at: http://usda.mannlib.cornell.edu/usda/reports/general/sb/sb989.pdf. 
+6  Chapter 2.3.13: Bovine Spongiform Encephalopathy. In: Terrestrial animal health code, 14th ed. Office 
+International des Epizooties, Paris, 2005 
+7  FDA bovine spongiform encephalopathy emergency response plan summary. U.S. Food and Drug 
+Administ
+Text Len: 1316
+--------------------------------------------------------------------------------
+989.pdf. 
+6  Chapter 2.3.13: Bovine Spongiform Encephalopathy. In: Terrestrial animal health code, 14th ed. Office 
+International des Epizooties, Paris, 2005 
+7  FDA bovine spongiform encephalopathy emergency response plan summary. U.S. Food and Drug 
+Administration, 2004. Accessed May 5, 2006 online at: 
+http://www.fda.gov/oc/opacom/hottopics/bseplan/bseplan.html. 
+8  Scientific report of the European Food Safety Authority on the BSE surveillance model (BSurvE) 
+estabilished by the Community Reference Laboratory for TSE. European Food Safety Authority, 2004. 
+Available online at: 
+http://www.efsa.eu.int/science/tse_assessments/bse_tse/661/sr17_bsetse_bsurve_en1.pdf. 
+9  Summary of BSE Enhanced Surveillance in the United States. USDA/APHIS, Center for Epidemiology 
+and Animal Health, National Surveillance Unit, April 2006. Accessed May 5, 2006 online at 
+http://www.aphis.usda.gov/newsroom/hot_issues/bse/content/printable_version/SummaryEnhancedBSE
+-Surv4-26-06.pdf 
+10  Aguzzi A, Heikenwalder M, Miele G: Progress and problems in the biology, diagnostics, and 
+therapeutics of prion diseases. J Clin Invest 114: 153-160, 2004 
+11  Anderson RM, Donnelly CA, Ferguson NM, Woolhouse MEJ, Watt CJ, Udy HJ, MaWhinney S, 
+Dunstan SP,
+Text Len: 1241
+--------------------------------------------------------------------------------
+ikenwalder M, Miele G: Progress and problems in the biology, diagnostics, and 
+therapeutics of prion diseases. J Clin Invest 114: 153-160, 2004 
+11  Anderson RM, Donnelly CA, Ferguson NM, Woolhouse MEJ, Watt CJ, Udy HJ, MaWhinney S, 
+Dunstan SP, Southwood TRE, Wilesmith JW, Ryans JBM, Hionville LJ, Hillerton JE, Austin AR, 
+Wells GAH: Transmission dynamics and epidemiology of BSE in British cattle. Nature 382: 779-788, 
+1996 
+12  Arnold ME, Wilesmith JW: Estimation of the age-dependent risk of infection to BSE of dairy cattle in 
+Great Britain. Prev Vet Med 66: 35-47, 2004 
+ 
+ 19
+13  Bolton DC, McKinley MP, Prusiner SB: Identification of a protein that purifies with the scrapie prion. 
+Science 218: 1309-1311, 1982 
+14  Borchelt DR, Scott M, Taraboulos A, Stahl N, Prusiner SB: Scrapie and cellular prion proteins differ in 
+their kinetics of synthesis and topology in cultured cells. J Cell Biol 110: 743-752, 1990 
+15  Bruce ME, Will RG, Ironside JW, McConnell I, Drummond D, Suttie A, McCardle L, Chree A, Hope J, 
+Birkett C, Cousens SN, Fraser H, Bostock CJ: Transmissions to mice indicate that 'new variant' CJD is 
+caused by the BSE agent. Nature 389: 498-501, 1997 
+16  Bueler H, Aguzzi A, Sailer
+Text Len: 1212
+--------------------------------------------------------------------------------
+, McCardle L, Chree A, Hope J, 
+Birkett C, Cousens SN, Fraser H, Bostock CJ: Transmissions to mice indicate that 'new variant' CJD is 
+caused by the BSE agent. Nature 389: 498-501, 1997 
+16  Bueler H, Aguzzi A, Sailer A, Greiner RA, Auternried P, Aguet M, Weissmann C: Mice devoid of PrP 
+are resistant to Scrapie. Cell 73: 1339-1347, 1993 
+17  Cannon RM, Roe RT: Livestock Disease Surveys: A Field Manual for Veterinarians Australian Bureau 
+of Animal Health, Canberra, 1982 
+18  Casalone C, Zanusso G, Acutis P, Ferrari S, Capucci L, Tagliavini F, Monaco S, Caramelli M: 
+Identification of a second bovine amyloidotic spongiform encephalopathy: Molecular similarities with 
+sporadic Creutzfeldt-Jakob disease. Proc Natl Acad Sci U S A 101: 3065-3070, 2004 
+19  Caughey B, Raymond GJ: The scrapie-associated form of PrP is made from a cell surface precursor that 
+is both protease- and phospholipase-sensitive. J Biol Chem 266: 18217-18223, 1991 
+20  Cohen JT, Duggar K, Gray GM, Kreindel S, Abdelrahman H, Habtemariam T, Oryang D, Tameru B: 
+Evaluation of the potential for bovine spongiform encephalopathy in the United States. Harvard Center 
+for Risk Analysis, harvard School of Public Health; and Center for Computational Epidemiology, 
+
+Text Len: 1243
+--------------------------------------------------------------------------------
+gar K, Gray GM, Kreindel S, Abdelrahman H, Habtemariam T, Oryang D, Tameru B: 
+Evaluation of the potential for bovine spongiform encephalopathy in the United States. Harvard Center 
+for Risk Analysis, harvard School of Public Health; and Center for Computational Epidemiology, 
+College of Veterinary Medicine, Tuskegee University, 2001. Accessed May 5, 2006 online at: 
+http://www.aphis.usda.gov/lpa/issues/bse/risk_assessment/mainreporttext.pdf. 
+21  Collinge J, Sidle KCL, Meads J, Ironside JW, Hill AF: Molecular analysis of prion strain variation and 
+the aetiology of 'new variant' CJD. Nature 383: 685-690, 1996 
+22  Donnelly CA, Ghani AC: Analysis of the bovine spongiform encephalopathy maternal cohort study: 
+evidence for direct maternal transmission. Appl Statist 46: 321-344, 1997 
+23  Goldmann W, Hunter N, Martin T, Dawson M, Hope J: Different forms of bovine PrP gene have five or 
+six copies of a short G-C rich element within the protein coding exon. J Gen Virol 72: 201-204, 1991 
+24  Kaneko K, Peretz D, Pan K-M, Blochberger TC, Wille H, Gabizon R, Griffith OH, Cohen FE, Baldwin 
+MA, Prusiner SB: Prion protein (PrP) synthetic peptides induce cellular PrP to acquire properties of the 
+scrapie isoform. Proc Natl Acad Sci U S A 92: 11160-11164, 1995 
+25  Kirkwood JK, Cunningham AA
+Text Len: 1301
+--------------------------------------------------------------------------------
+, Wille H, Gabizon R, Griffith OH, Cohen FE, Baldwin 
+MA, Prusiner SB: Prion protein (PrP) synthetic peptides induce cellular PrP to acquire properties of the 
+scrapie isoform. Proc Natl Acad Sci U S A 92: 11160-11164, 1995 
+25  Kirkwood JK, Cunningham AA: Epidemiological observations on spongiform encephalopathies in 
+captive wild animals in the British Isles. Vet Rec 135: 296-303, 1994 
+26  Kocisko DA, Come JH, Priola S, A., Chesebro B, Raymond GJ, Lansbury PT, Caughey B: Cell-free 
+formation of protease-resistant prion protein. Nature 370: 471-474, 1994 
+ 
+ 20
+27  Kubler E, Oesch B, Raeber A: Diagnosis of prion diseases. Br Med Bull 66: 267-279, 2003 
+28  Kuczius T, Haist I, Groschup MH: Molecular analysis of bovine spongiform encephalopathy and 
+scrapie strain variation. J Infect Dis 178: 693-699, 1998 
+29  McKinley MP, Bolton DC, Prusiner SB: A protease-resistant protein is a structural component of the 
+scrapie prion. Cell 35: 57-62, 1983 
+30  NASS (2005) Cattle, National Agricultural Statistics Service, USDA.  Washington, D.C.  Released 
+January 28, 2005, by the National Agricultural Statistics.  Service (NASS), Agricultural Statistics 
+Board, U.S. Department of  Agriculture. Available 12/15/05 at: 
+http://usda.mannlib.cornell.edu/reports/nassr/
+Text Len: 1272
+--------------------------------------------------------------------------------
+, National Agricultural Statistics Service, USDA.  Washington, D.C.  Released 
+January 28, 2005, by the National Agricultural Statistics.  Service (NASS), Agricultural Statistics 
+Board, U.S. Department of  Agriculture. Available 12/15/05 at: 
+http://usda.mannlib.cornell.edu/reports/nassr/livestock/pct-bb/catl0101.txt 
+31  Phillips N, Bridgeman J, Ferguson-Smith M: The BSE Inquiry: the report. Her majesty's Stationery 
+Office (HMSO) Publications Centre, 2000. Accessed May 5, 2006 online at: 
+http://www.bseinquiry.gov.uk/report/volume2/toc.htm. 
+32  Prusiner SB: Novel proteinaceous infectious particles cause scrapie. Science 216: 136-144, 1982 
+33  Prusiner SB, Scott M, Foster D, Pan KM, Groth D, Mirenda C, Torchia M, Yang SL, Serban D, Carlson 
+GA, Hoppe PC, Westaway D, DeArmond SJ: Transgenetic studies implicate interactions between 
+homologous PrP isoforms in scrapie prion replication. Cell 63: 673-686, 1990 
+34  Race RE, Jenny A, Sutton D: Scrapie infectivity and proteinase K-resistant prion protein in sheep 
+placenta, brain, and lymph node: Implications for transmission and antemortem diagnosis. J Infect Dis 
+178: 949-953, 1998 
+35  Saegerman C, Speybroeck N, Roels S, Vanopdenbosch E, Thiry E, Berkvens D: Decision support tools 
+for clinical diagnosis of disease in cows with suspected
+Text Len: 1309
+--------------------------------------------------------------------------------
+ brain, and lymph node: Implications for transmission and antemortem diagnosis. J Infect Dis 
+178: 949-953, 1998 
+35  Saegerman C, Speybroeck N, Roels S, Vanopdenbosch E, Thiry E, Berkvens D: Decision support tools 
+for clinical diagnosis of disease in cows with suspected bovine spongiform encephalopathy. J Clin 
+Microbiol 42: 172-178, 2004 
+36  Simmons MM, Harris P, Jeffrey M, Meek SC, Blamire IWH, Wells GAH: BSE in Great Britain: 
+consistency of the neurohistopathological findings in two random annual samples of clinically suspect 
+cases. Vet Rec 138: 175-177, 1996 
+37  Taylor DM: Inactivation of transmissible degenerative encephalopathy agents: A review. Vet J 159: 10-
+17, 2000 
+38  Wells GAH, Scott AC, Johnson CT, Gunning RF, Hancock RD, Jeffrey M, Dawson M, Bradley R: A 
+novel progressive spongiform encephalopathy in cattle. Vet Rec 121: 419-420, 1987 
+39  Wells GAH, Wilesmith JW: The neuropathology and epidemiology of bovine spongiform 
+encephalopathy. Brain Pathol 5: 91-103, 1995 
+40  Wilesmith JW, Ryan JBM, Atkinson MJ: Bovine spongiform encephalopathy: epidemiological studies 
+of the origin. Vet Rec 128: 199-203, 1991 
+ 
+ 21
+41  Wilesmith JW, Ryan JBM, Hueston WD: Bovine spongiform encephalopathy: case-control studies of 
+calf feeding practices and meat and bone meal inclusion in proprietary concentrates. Res
+Text Len: 1339
+--------------------------------------------------------------------------------
+ spongiform encephalopathy: epidemiological studies 
+of the origin. Vet Rec 128: 199-203, 1991 
+ 
+ 21
+41  Wilesmith JW, Ryan JBM, Hueston WD: Bovine spongiform encephalopathy: case-control studies of 
+calf feeding practices and meat and bone meal inclusion in proprietary concentrates. Res Vet Sci 52: 
+325, 1992 
+42  Wilesmith JW, Ryan JBM, Hueston WD, Hoinville LJ: Bovine spongiform encephalopathy: 
+epidemiological features 1985 to 1990. Vet Rec 130: 90-94, 1992 
+43  Wilesmith JW, Wells GAH, Cranwell MP, Ryan JBM: Bovine spongiform encephalopathy: 
+Epidemiological studies. Vet Rec 123: 638-644, 1988 
+44  Wilesmith JW, Wells GAH, Ryan JB, Gavier-Widen D, Simmons MM: A cohort study to examine 
+maternally-associated risk factors for bovine spongiform encephalopathy. Vet Rec 141: 239-243, 1997 
+45  Wilesmith J, Morris R, Stevenson M, Cannon R, Prattley D, and Benard H (2004) Development of a 
+Method for the Evaluation of National Surveillance Data and Optimization of National Surveillance 
+Strategies for Bovine Spongiform Encephalopathy. Weybridge, England, European Union TSE 
+Community Reference Laboratory, Veterinary Laboratories Agency.   
+46  Will RG, Ironside JW, Zeidler M, Cousens SN, Estiberio K, Alperovitch A, Poser S, Pocchiari M, 
+Hofman A, Smith PG: A new variant of Creutzfeldt
+Text Len: 1305
+--------------------------------------------------------------------------------
+bridge, England, European Union TSE 
+Community Reference Laboratory, Veterinary Laboratories Agency.   
+46  Will RG, Ironside JW, Zeidler M, Cousens SN, Estiberio K, Alperovitch A, Poser S, Pocchiari M, 
+Hofman A, Smith PG: A new variant of Creutzfeldt-Jakob disease in the UK. Lancet 347: 921-925, 
+1996 
+47  Wyatt JM, Pearson GR, Smerdon TN, Gruffydd-Jones TJ, Wells GAH, Wilesmith JW: Naturally 
+occurring scrapie-like spongiform encephalopathy in five domestic cats. Vet Rec 129: 233-236, 1991 
+48  Yamakawa Y, Hagiwara K, Nohtomi K, Nakamura Y, Nishijima M, higuchi Y, Sato Y, Sata T: 
+Atypical proteinase K-resistant prion protein (PrPres) observed in an apparently healthy 23-month-old 
+Holstein steer. Jpn J Infect Dis 56: 221-222, 2003 
+ 
+ 
+Text Len: 749
+--------------------------------------------------------------------------------

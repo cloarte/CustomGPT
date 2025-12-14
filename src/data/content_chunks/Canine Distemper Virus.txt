@@ -1,0 +1,1332 @@
+UNCONTROLLED COPY 
+SAM 323.06 
+Page 1 of 11 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+S
+AM 323 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero 
+Cell Culture 
+D
+ate: August, 25, 2023 
+N
+umber: SAM 323.06 
+S
+upersedes:  SAM 323.05, November 20, 2014 
+S
+tandard Requirement: 9 CFR, part 113.306 
+C
+ontact: 
+Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or  warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/in
+Text Len: 1229
+--------------------------------------------------------------------------------
+ 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the sample 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+ 
+ 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 3 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying the viral 
+content of modified-live canine distemper virus (CDV) vaccines. This test is applicable to CDV 
+vaccines when the master seed virus (MSV) has been adapted to African green monkey kidney 
+(Vero) cells and the MSV produces cytopathic effect (CPE). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   36°
+Text Len: 1191
+--------------------------------------------------------------------------------
+ 
+(Vero) cells and the MSV produces cytopathic effect (CPE). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   36°± 2°C, high humidity, 5% ± 1% CO2 incubator (Model 3336, Forma 
+Scientific Co.)  
+ 
+2.1.2   36°± 2°C water bath   
+ 
+2.1.3   Inverted light microscope (Model CK, Olympus America Inc.) 
+ 
+2.1.4   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.5 Self-refilling repetitive syringe, 2-mL 
+ 
+2.1.6   Pipettor with tips and/or motorized microliter pipette and tips 
+ 
+2.1.7 Micropipettor, 300-µL x 12-channel 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CDV Positive Control, Onderstepoort strain  
+ 
+2.2.2   Monospecific antisera, free of CDV antibody, that neutralize the non-CDV 
+fractions present in multifraction vaccines, e.g., canine parainfluenza virus (CPI) 
+and canine ad
+Text Len: 1078
+--------------------------------------------------------------------------------
+.2.1   CDV Positive Control, Onderstepoort strain  
+ 
+2.2.2   Monospecific antisera, free of CDV antibody, that neutralize the non-CDV 
+fractions present in multifraction vaccines, e.g., canine parainfluenza virus (CPI) 
+and canine adenovirus (CAV) 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 4 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+2.2.3   Vero cells free of extraneous agents as tested by Title 9, Code of Federal 
+Regulations (9 CFR) 
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamic
+Text Len: 1059
+--------------------------------------------------------------------------------
+ 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5   Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.   50 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.   10 mL L-glutamine (200 mL) 
+ 
+3.   Store at 2°- 7°C. 
+ 
+2.2.6   Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.   8.0 g sodium chloride (NaCl) 
+ 
+2.   0.2 g potassium chloride (KCl)  
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve re
+Text Len: 866
+--------------------------------------------------------------------------------
+ Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve reagents with 900 mL DI. 
+ 
+6.   Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to  
+10 mL DI, heat to 60°± 2°C until dissolved, then add to Step 5 with 
+constant mixing. 
+ 
+7.   Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI 
+and add slowly to Step 6 to avoid precipitation. 
+ 
+8.   Q.S. to 1000 mL with DI, adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C.  
+ 
+2.2.7 Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.8 Pipettes, 10-mL 
+ 
+2.2.9 Reagent reservoir 
+ 
+2.2.10 Syringe (tuberculin slip tip), 1-mL 
+ 
+2.2.11 Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.12 Cell culture plates, 96-well 
+ 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Text Len: 939
+--------------------------------------------------------------------------------
+uberculin slip tip), 1-mL 
+ 
+2.2.11 Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.12 Cell culture plates, 96-well 
+ 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Personnel must have experience in the preparation and maintenance of cell culture as 
+well as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by CPE. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of inoculation, set a water bath at 36°± 2°C. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 6 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Vero Plates) 
+ 
+1.  Cells are prepared from healthy, confluent Vero cell cultures. On the 
+day of test initiation, using a 12-channel micropipettor and reagent 
+reservoir, seed 100 µL/well in all wells of the 96-well cell culture plates 
+with Vero cells suspended in Growth Medium at a density of 
+approximately 104.7  to 105.0 cells/mL. Prepare 1 Vero Plate for the controls 
+and 3 Test Vaccine. Each additional Vero Plate allows testing of 4 
+additional Test
+Text Len: 1262
+--------------------------------------------------------------------------------
+reservoir, seed 100 µL/well in all wells of the 96-well cell culture plates 
+with Vero cells suspended in Growth Medium at a density of 
+approximately 104.7  to 105.0 cells/mL. Prepare 1 Vero Plate for the controls 
+and 3 Test Vaccine. Each additional Vero Plate allows testing of 4 
+additional Test Vaccines. 
+ 
+2.  Use the Vero Plates within 4 hours. 
+ 
+3.3.2   Preparation of CDV Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of CDV Positive 
+Control in a 36°± 2°C water bath.  
+ 
+2.  Dispense 1.8 mL of MEM into sufficient 12 x 75-mm polystyrene 
+tubes to bracket the expected endpoint according to the CVB Reagent 
+Data Sheet; appropriately label (e.g., 5 tubes, labeled 10-1 through 10-5, 
+respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the CDV Positive Control 
+to the first tube, labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1 labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube, until the tenfold 
+dilution series is completed.  
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will
+Text Len: 1255
+--------------------------------------------------------------------------------
+.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube, until the tenfold 
+dilution series is completed.  
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will be with a single vial (a single sample 
+from 1 vial). On the day of test initiation, using a sterile 1.0-mL syringe and an  
+18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine by transferring 
+1.0 mL for a 1-mL-dose Test Vaccine; 0.5 mL for a 1/2-mL-dose Test Vaccine; 
+etc., of the provided diluent into the vial containing the lyophilized Test Vaccine. 
+Mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 7 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+3.4.2   For multifraction CDV Test Vaccines, neutralize the non-CDV fractions 
+with antiserum specific to each virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in Vero cells.  
+ 
+1.  Prepare 1:2 dilutions of each neutralizing non-CDV antiserum by 
+mixing equal volumes of
+Text Len: 1244
+--------------------------------------------------------------------------------
+CDV fractions 
+with antiserum specific to each virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in Vero cells.  
+ 
+1.  Prepare 1:2 dilutions of each neutralizing non-CDV antiserum by 
+mixing equal volumes of antiserum and DPBS. 
+ 
+2.  Dispense 200 µL of each of the required  neutralizing antisera into a 
+12 x 75-mm polystyrene tube labeled 10-1 and q.s. with MEM to 1.8 mL. 
+For example, to neutralize the CPI and CAV components in a 4-fraction 
+CDV/CPV/CPI/CAV vaccine, dispense 200 µL of each of the diluted CPI 
+and CAV antisera into the tube labeled 10-1; add 1.4 mL of MEM to obtain 
+a final volume of 1.8 mL. 
+ 
+3.  Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing. 
+ 
+4.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For Test Vaccines not containing CPI or CAV, the 10-1 dilution is 
+prepared by adding 200 µL of the Test Vaccine to 1.8 mL of MEM in a 12 x  
+75-mm polystyrene tube, labeled 10-1; mix by vortexing. 
+ 
+3.4.4   Serial tenfold dilutions  
+ 
+1.  Dispense 1.8 mL of MEM into each of 4, 12 x 75-mm
+Text Len: 1161
+--------------------------------------------------------------------------------
+L of the Test Vaccine to 1.8 mL of MEM in a 12 x  
+75-mm polystyrene tube, labeled 10-1; mix by vortexing. 
+ 
+3.4.4   Serial tenfold dilutions  
+ 
+1.  Dispense 1.8 mL of MEM into each of 4, 12 x 75-mm polystyrene 
+tubes, labeled 10-2 through 10-5. 
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the 10-2 tube; mix by vortexing. 
+ 
+3.  Repeat Step 2 by transferring 200 µL from the previous dilution to the 
+next dilution tube, until the tenfold dilution series is completed.  
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   Label the Vero Plates and inoculate each of 5 wells/dilution with 100 µL of 
+dilutions 10-5 through 10-2 of the Test Vaccine. In a similar manner, inoculate 5 
+wells/dilution of the CDV Positive Control (with dilutions 10-5 through 10-2 from Section 
+3.3.2). Change tips between each unique sample (i.e., each Test Vaccine and the  
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+CDV Positive Control), but tip changes are not necessary between each dilution in a 
+series if pipetting from the most dil
+Text Len: 1207
+--------------------------------------------------------------------------------
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+CDV Positive Control), but tip changes are not necessary between each dilution in a 
+series if pipetting from the most dilute to the most concentrated within that series (e.g.,  
+10-5 through 10-2). 
+ 
+4.2   Five uninoculated wells serve as negative cell controls. 
+ 
+4.3   Incubate Vero Plates in a 36°± 2°C CO2 incubator for 7 days ± 1 day. 
+ 
+4.4   After incubation, read the Vero Plate at 100X magnification on an inverted light 
+microscope and examine cells for CDV CPE. 
+ 
+4.4.1   Wells displaying 1 or more CPE foci, characterized by cell fusion and 
+lysis, are considered to be positive for CDV.  
+ 
+4.4.2   Results are recorded as the number of CPE positive wells versus total 
+number of wells examined for each dilution of the Test Vaccine and the CDV 
+Positive Control. 
+ 
+4.5   Calculate the 50% tissue culture infective dose (TCID50) of the Test Vaccine and 
+the CDV Working Positive Control using the method of Spearman-Kärber as modified by 
+Finney. 
+ 
+Example: 
+  
+10-3 dilution of Test Vaccine = 5/5 wells CPE positive 
+10-4 dilution of Test Vaccine = 4/5 wells CPE positive 
+10-5  dilution
+Text Len: 1258
+--------------------------------------------------------------------------------
+the CDV Working Positive Control using the method of Spearman-Kärber as modified by 
+Finney. 
+ 
+Example: 
+  
+10-3 dilution of Test Vaccine = 5/5 wells CPE positive 
+10-4 dilution of Test Vaccine = 4/5 wells CPE positive 
+10-5  dilution of Test Vaccine = 2/5 wells CPE positive 
+10-6 dilution of Test Vaccine = 0/5 wells CPE positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine Titer = (X – d/2 + [d ● S]) where: 
+ 
+X = log10 of highest dilution with all wells CPE positive (3) 
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells CPE positive for all dilutions tested: 
+ 
+5     4     2     0    11 
+5  +  5  +  5  +  5 =   5 = 2.2 
+ 
+Test Vaccine titer = (3 – 1/2) + (1 ● 2.2) = 4.7 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 9 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer
+Text Len: 1070
+--------------------------------------------------------------------------------
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this test 
+CDV vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this CDV test vaccine, the inoculation dose is 0.1 mL) 
+ 
+1 mL dose = 10 
+                0.1 mL 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 10 = 1.0 
+ 
+Test Vaccine titer = 4.7 + 1.0 = 5.7 
+ 
+Therefore the titer of the CDV Test Vaccine is 105.7 TCID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+Valid Assay 
+ 
+5.1    The calculated titer of the CDV Positive Control must fall within plus or minus 2 
+standard deviations (± 2 SD) of its mean titer, as established from a minimum of 10 
+previously determined titers. 
+ 
+5.2   The lowest inoculated dilution of the CDV Positive  Control must induce CPE in 
+100% of the wells (5/5). If an endpoint is not reached (1 or more wells are CPE positive 
+at the
+Text Len: 1228
+--------------------------------------------------------------------------------
+) of its mean titer, as established from a minimum of 10 
+previously determined titers. 
+ 
+5.2   The lowest inoculated dilution of the CDV Positive  Control must induce CPE in 
+100% of the wells (5/5). If an endpoint is not reached (1 or more wells are CPE positive 
+at the highest dilution), the titer is expressed as “greater than or equal to” the calculated 
+titer. If an endpoint is critical to testing, the highest (most dilute) must exhibit no CPE 
+(0/5). 
+ 
+5.3    The uninoculated cell controls must not exhibit any CPE or cloudy media that 
+would indicate contamination. 
+ 
+5.4    If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 10 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+5.5    If the validity requirements are met and the titer of the Test Vaccine is greater 
+than or equal to the titer contained in the Animal and Plant Health Inspection Service 
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.6    If the validity requirements are met but the titer of the Test Vaccine is lower than 
+the required minimum titer contained in the APHIS filed Outline of Production for the 
+Text Len: 1387
+--------------------------------------------------------------------------------
+
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.6    If the validity requirements are met but the titer of the Test Vaccine is lower than 
+the required minimum titer contained in the APHIS filed Outline of Production for the 
+product under test, the Test Vaccine is retested according to 9 CFR 113.8. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Results are reported as TCID50 per dose of Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.306, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral GE, (Ed.)  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ  Statistical methods in biological assay. Griffin, London. 3rd edition, 
+1978, pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06   
+ 
+• The coversheet and contact information has been updated.  
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+• 3.3.2: The temperature of the water bath has been added. 
+ 
+ 
+Center for Veterinary Biologics     
+Text Len: 1293
+--------------------------------------------------------------------------------
+ however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+• 3.3.2: The temperature of the water bath has been added. 
+ 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 “Key Words” has been deleted. 
+ 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°-
+Text Len: 1277
+--------------------------------------------------------------------------------
+ deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system.  
+  
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+ 
+Text Len: 650
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 323.06 
+Page 1 of 11 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+S
+AM 323 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero 
+Cell Culture 
+D
+ate: August, 25, 2023 
+N
+umber: SAM 323.06 
+S
+upersedes:  SAM 323.05, November 20, 2014 
+S
+tandard Requirement: 9 CFR, part 113.306 
+C
+ontact: 
+Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or  warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/in
+Text Len: 1229
+--------------------------------------------------------------------------------
+ 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the sample 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+ 
+ 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 3 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying the viral 
+content of modified-live canine distemper virus (CDV) vaccines. This test is applicable to CDV 
+vaccines when the master seed virus (MSV) has been adapted to African green monkey kidney 
+(Vero) cells and the MSV produces cytopathic effect (CPE). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   36°
+Text Len: 1191
+--------------------------------------------------------------------------------
+ 
+(Vero) cells and the MSV produces cytopathic effect (CPE). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   36°± 2°C, high humidity, 5% ± 1% CO2 incubator (Model 3336, Forma 
+Scientific Co.)  
+ 
+2.1.2   36°± 2°C water bath   
+ 
+2.1.3   Inverted light microscope (Model CK, Olympus America Inc.) 
+ 
+2.1.4   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.5 Self-refilling repetitive syringe, 2-mL 
+ 
+2.1.6   Pipettor with tips and/or motorized microliter pipette and tips 
+ 
+2.1.7 Micropipettor, 300-µL x 12-channel 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CDV Positive Control, Onderstepoort strain  
+ 
+2.2.2   Monospecific antisera, free of CDV antibody, that neutralize the non-CDV 
+fractions present in multifraction vaccines, e.g., canine parainfluenza virus (CPI) 
+and canine ad
+Text Len: 1078
+--------------------------------------------------------------------------------
+.2.1   CDV Positive Control, Onderstepoort strain  
+ 
+2.2.2   Monospecific antisera, free of CDV antibody, that neutralize the non-CDV 
+fractions present in multifraction vaccines, e.g., canine parainfluenza virus (CPI) 
+and canine adenovirus (CAV) 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 4 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+2.2.3   Vero cells free of extraneous agents as tested by Title 9, Code of Federal 
+Regulations (9 CFR) 
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamic
+Text Len: 1059
+--------------------------------------------------------------------------------
+ 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5   Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.   50 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.   10 mL L-glutamine (200 mL) 
+ 
+3.   Store at 2°- 7°C. 
+ 
+2.2.6   Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.   8.0 g sodium chloride (NaCl) 
+ 
+2.   0.2 g potassium chloride (KCl)  
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve re
+Text Len: 866
+--------------------------------------------------------------------------------
+ Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve reagents with 900 mL DI. 
+ 
+6.   Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to  
+10 mL DI, heat to 60°± 2°C until dissolved, then add to Step 5 with 
+constant mixing. 
+ 
+7.   Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI 
+and add slowly to Step 6 to avoid precipitation. 
+ 
+8.   Q.S. to 1000 mL with DI, adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C.  
+ 
+2.2.7 Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.8 Pipettes, 10-mL 
+ 
+2.2.9 Reagent reservoir 
+ 
+2.2.10 Syringe (tuberculin slip tip), 1-mL 
+ 
+2.2.11 Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.12 Cell culture plates, 96-well 
+ 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Text Len: 939
+--------------------------------------------------------------------------------
+uberculin slip tip), 1-mL 
+ 
+2.2.11 Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.12 Cell culture plates, 96-well 
+ 
+ 
+3.  Preparation for the Test  
+ 
+3.1   Personnel qualifications/training 
+ 
+Personnel must have experience in the preparation and maintenance of cell culture as 
+well as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by CPE. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of inoculation, set a water bath at 36°± 2°C. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 6 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Vero Plates) 
+ 
+1.  Cells are prepared from healthy, confluent Vero cell cultures. On the 
+day of test initiation, using a 12-channel micropipettor and reagent 
+reservoir, seed 100 µL/well in all wells of the 96-well cell culture plates 
+with Vero cells suspended in Growth Medium at a density of 
+approximately 104.7  to 105.0 cells/mL. Prepare 1 Vero Plate for the controls 
+and 3 Test Vaccine. Each additional Vero Plate allows testing of 4 
+additional Test
+Text Len: 1262
+--------------------------------------------------------------------------------
+reservoir, seed 100 µL/well in all wells of the 96-well cell culture plates 
+with Vero cells suspended in Growth Medium at a density of 
+approximately 104.7  to 105.0 cells/mL. Prepare 1 Vero Plate for the controls 
+and 3 Test Vaccine. Each additional Vero Plate allows testing of 4 
+additional Test Vaccines. 
+ 
+2.  Use the Vero Plates within 4 hours. 
+ 
+3.3.2   Preparation of CDV Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of CDV Positive 
+Control in a 36°± 2°C water bath.  
+ 
+2.  Dispense 1.8 mL of MEM into sufficient 12 x 75-mm polystyrene 
+tubes to bracket the expected endpoint according to the CVB Reagent 
+Data Sheet; appropriately label (e.g., 5 tubes, labeled 10-1 through 10-5, 
+respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the CDV Positive Control 
+to the first tube, labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1 labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube, until the tenfold 
+dilution series is completed.  
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will
+Text Len: 1255
+--------------------------------------------------------------------------------
+.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube, until the tenfold 
+dilution series is completed.  
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will be with a single vial (a single sample 
+from 1 vial). On the day of test initiation, using a sterile 1.0-mL syringe and an  
+18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine by transferring 
+1.0 mL for a 1-mL-dose Test Vaccine; 0.5 mL for a 1/2-mL-dose Test Vaccine; 
+etc., of the provided diluent into the vial containing the lyophilized Test Vaccine. 
+Mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 7 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+3.4.2   For multifraction CDV Test Vaccines, neutralize the non-CDV fractions 
+with antiserum specific to each virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in Vero cells.  
+ 
+1.  Prepare 1:2 dilutions of each neutralizing non-CDV antiserum by 
+mixing equal volumes of
+Text Len: 1244
+--------------------------------------------------------------------------------
+CDV fractions 
+with antiserum specific to each virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in Vero cells.  
+ 
+1.  Prepare 1:2 dilutions of each neutralizing non-CDV antiserum by 
+mixing equal volumes of antiserum and DPBS. 
+ 
+2.  Dispense 200 µL of each of the required  neutralizing antisera into a 
+12 x 75-mm polystyrene tube labeled 10-1 and q.s. with MEM to 1.8 mL. 
+For example, to neutralize the CPI and CAV components in a 4-fraction 
+CDV/CPV/CPI/CAV vaccine, dispense 200 µL of each of the diluted CPI 
+and CAV antisera into the tube labeled 10-1; add 1.4 mL of MEM to obtain 
+a final volume of 1.8 mL. 
+ 
+3.  Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing. 
+ 
+4.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For Test Vaccines not containing CPI or CAV, the 10-1 dilution is 
+prepared by adding 200 µL of the Test Vaccine to 1.8 mL of MEM in a 12 x  
+75-mm polystyrene tube, labeled 10-1; mix by vortexing. 
+ 
+3.4.4   Serial tenfold dilutions  
+ 
+1.  Dispense 1.8 mL of MEM into each of 4, 12 x 75-mm
+Text Len: 1161
+--------------------------------------------------------------------------------
+L of the Test Vaccine to 1.8 mL of MEM in a 12 x  
+75-mm polystyrene tube, labeled 10-1; mix by vortexing. 
+ 
+3.4.4   Serial tenfold dilutions  
+ 
+1.  Dispense 1.8 mL of MEM into each of 4, 12 x 75-mm polystyrene 
+tubes, labeled 10-2 through 10-5. 
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the 10-2 tube; mix by vortexing. 
+ 
+3.  Repeat Step 2 by transferring 200 µL from the previous dilution to the 
+next dilution tube, until the tenfold dilution series is completed.  
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   Label the Vero Plates and inoculate each of 5 wells/dilution with 100 µL of 
+dilutions 10-5 through 10-2 of the Test Vaccine. In a similar manner, inoculate 5 
+wells/dilution of the CDV Positive Control (with dilutions 10-5 through 10-2 from Section 
+3.3.2). Change tips between each unique sample (i.e., each Test Vaccine and the  
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+CDV Positive Control), but tip changes are not necessary between each dilution in a 
+series if pipetting from the most dil
+Text Len: 1207
+--------------------------------------------------------------------------------
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+CDV Positive Control), but tip changes are not necessary between each dilution in a 
+series if pipetting from the most dilute to the most concentrated within that series (e.g.,  
+10-5 through 10-2). 
+ 
+4.2   Five uninoculated wells serve as negative cell controls. 
+ 
+4.3   Incubate Vero Plates in a 36°± 2°C CO2 incubator for 7 days ± 1 day. 
+ 
+4.4   After incubation, read the Vero Plate at 100X magnification on an inverted light 
+microscope and examine cells for CDV CPE. 
+ 
+4.4.1   Wells displaying 1 or more CPE foci, characterized by cell fusion and 
+lysis, are considered to be positive for CDV.  
+ 
+4.4.2   Results are recorded as the number of CPE positive wells versus total 
+number of wells examined for each dilution of the Test Vaccine and the CDV 
+Positive Control. 
+ 
+4.5   Calculate the 50% tissue culture infective dose (TCID50) of the Test Vaccine and 
+the CDV Working Positive Control using the method of Spearman-Kärber as modified by 
+Finney. 
+ 
+Example: 
+  
+10-3 dilution of Test Vaccine = 5/5 wells CPE positive 
+10-4 dilution of Test Vaccine = 4/5 wells CPE positive 
+10-5  dilution
+Text Len: 1258
+--------------------------------------------------------------------------------
+the CDV Working Positive Control using the method of Spearman-Kärber as modified by 
+Finney. 
+ 
+Example: 
+  
+10-3 dilution of Test Vaccine = 5/5 wells CPE positive 
+10-4 dilution of Test Vaccine = 4/5 wells CPE positive 
+10-5  dilution of Test Vaccine = 2/5 wells CPE positive 
+10-6 dilution of Test Vaccine = 0/5 wells CPE positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine Titer = (X – d/2 + [d ● S]) where: 
+ 
+X = log10 of highest dilution with all wells CPE positive (3) 
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells CPE positive for all dilutions tested: 
+ 
+5     4     2     0    11 
+5  +  5  +  5  +  5 =   5 = 2.2 
+ 
+Test Vaccine titer = (3 – 1/2) + (1 ● 2.2) = 4.7 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 9 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer
+Text Len: 1070
+--------------------------------------------------------------------------------
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this test 
+CDV vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this CDV test vaccine, the inoculation dose is 0.1 mL) 
+ 
+1 mL dose = 10 
+                0.1 mL 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 10 = 1.0 
+ 
+Test Vaccine titer = 4.7 + 1.0 = 5.7 
+ 
+Therefore the titer of the CDV Test Vaccine is 105.7 TCID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+Valid Assay 
+ 
+5.1    The calculated titer of the CDV Positive Control must fall within plus or minus 2 
+standard deviations (± 2 SD) of its mean titer, as established from a minimum of 10 
+previously determined titers. 
+ 
+5.2   The lowest inoculated dilution of the CDV Positive  Control must induce CPE in 
+100% of the wells (5/5). If an endpoint is not reached (1 or more wells are CPE positive 
+at the
+Text Len: 1228
+--------------------------------------------------------------------------------
+) of its mean titer, as established from a minimum of 10 
+previously determined titers. 
+ 
+5.2   The lowest inoculated dilution of the CDV Positive  Control must induce CPE in 
+100% of the wells (5/5). If an endpoint is not reached (1 or more wells are CPE positive 
+at the highest dilution), the titer is expressed as “greater than or equal to” the calculated 
+titer. If an endpoint is critical to testing, the highest (most dilute) must exhibit no CPE 
+(0/5). 
+ 
+5.3    The uninoculated cell controls must not exhibit any CPE or cloudy media that 
+would indicate contamination. 
+ 
+5.4    If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 10 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+5.5    If the validity requirements are met and the titer of the Test Vaccine is greater 
+than or equal to the titer contained in the Animal and Plant Health Inspection Service 
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.6    If the validity requirements are met but the titer of the Test Vaccine is lower than 
+the required minimum titer contained in the APHIS filed Outline of Production for the 
+Text Len: 1387
+--------------------------------------------------------------------------------
+
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.6    If the validity requirements are met but the titer of the Test Vaccine is lower than 
+the required minimum titer contained in the APHIS filed Outline of Production for the 
+product under test, the Test Vaccine is retested according to 9 CFR 113.8. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Results are reported as TCID50 per dose of Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.306, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral GE, (Ed.)  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ  Statistical methods in biological assay. Griffin, London. 3rd edition, 
+1978, pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06   
+ 
+• The coversheet and contact information has been updated.  
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+• 3.3.2: The temperature of the water bath has been added. 
+ 
+ 
+Center for Veterinary Biologics     
+Text Len: 1293
+--------------------------------------------------------------------------------
+ however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+• 3.3.2: The temperature of the water bath has been added. 
+ 
+ 
+Center for Veterinary Biologics        SAM 323.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Canine Distemper Virus in Vero Cell Culture  
+ 
+UNCONTROLLED COPY 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 “Key Words” has been deleted. 
+ 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°-
+Text Len: 1277
+--------------------------------------------------------------------------------
+ deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system.  
+  
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+ 
+Text Len: 650
+--------------------------------------------------------------------------------

@@ -1,0 +1,140 @@
+Contenido: 
+Entrez
+PubMed
+Nucleotide
+Protein
+Genome
+Structure
+PMC
+Taxonomy
+BioCollections
+Search for
+as
+complete name
+wild card
+token set
+phonetic name
+taxonomy id
+lock
+levels
+using filter:
+none
+has genome sequences
+Arabis mosaic virus strain NW
+Taxonomy ID: 282063
+(for references in articles please use NCBI:txid282063)
+current name
+Arabis mosaic virus strain NW
+NCBI BLAST name:
+viruses
+Rank:
+no rank
+Genetic code:
+Translation table 1 (Standard)
+Host: land plants
+Lineage
+( full )
+Viruses
+;
+Riboviria
+;
+Orthornavirae
+;
+Pisuviricota
+;
+Pisoniviricetes
+;
+Picornavirales
+;
+Secoviridae
+;
+Comovirinae
+;
+Nepovirus
+;
+Nepovirus arabis
+;
+Arabis mosaic virus
+Entrez records
+Database name
+Direct links
+Protein
+2
+Identical Protein Groups
+2
+Taxonomy
+1
+
+
+Text Len: 742
+--------------------------------------------------------------------------------
+Contenido: 
+Entrez
+PubMed
+Nucleotide
+Protein
+Genome
+Structure
+PMC
+Taxonomy
+BioCollections
+Search for
+as
+complete name
+wild card
+token set
+phonetic name
+taxonomy id
+lock
+levels
+using filter:
+none
+has genome sequences
+Arabis mosaic virus strain NW
+Taxonomy ID: 282063
+(for references in articles please use NCBI:txid282063)
+current name
+Arabis mosaic virus strain NW
+NCBI BLAST name:
+viruses
+Rank:
+no rank
+Genetic code:
+Translation table 1 (Standard)
+Host: land plants
+Lineage
+( full )
+Viruses
+;
+Riboviria
+;
+Orthornavirae
+;
+Pisuviricota
+;
+Pisoniviricetes
+;
+Picornavirales
+;
+Secoviridae
+;
+Comovirinae
+;
+Nepovirus
+;
+Nepovirus arabis
+;
+Arabis mosaic virus
+Entrez records
+Database name
+Direct links
+Protein
+2
+Identical Protein Groups
+2
+Taxonomy
+1
+
+
+Text Len: 742
+--------------------------------------------------------------------------------

@@ -1,0 +1,1220 @@
+BONT TICK & TROPICAL BONT TICK
+STANDARD OPERATING PROCEDURES:
+1. OVERVIEW OF ETIOLOGY AND ECOLOGY
+DRAFT APRIL 2014
+File name: FADPReP_Bont Tick_EandE SOP number: SOP001 
+Lead section: Preparedness and Incident Coordination Version number: 1.0 
+Effective date: April 2014 Review date: April 2017   
+ 
+The Foreign Animal Disease Preparedness and Response Plan (FAD PReP) Standard Operating 
+Procedures (SOPs) provide operational guidance for responding to an animal health emergency 
+in the United States.  
+These draft SOPs are under ongoing review. This document was last updated in April 2014.  
+Please send questions or comments to:  
+National Preparedness and Incident Coordination 
+Veterinary Services 
+Animal and Plant Health Inspection Service 
+U.S. Department of Agriculture 
+4700 River Road, Unit 41 
+Riverdale, Maryland 20737 
+Telephone: (301) 851-3595 Fax: (301) 734-7817 
+E-mail: FAD.PReP.Comments@aphis.usda.gov  
+While best efforts have been used in developing and preparing the FAD PReP SOPs, the U.S. 
+Government, U.S. Department of Agriculture (USDA), and the Animal and Plant Health 
+Inspection Service and other parties, such as employees and contractors contributing to this 
+document, neither warrant nor assume any legal liability or responsibility for the accuracy, 
+completeness, or usefulness of any information or procedure disclosed. The primary purpose of 
+these FAD PReP SOPs is to provide operational guidance to those government officials 
+responding
+Text Len: 1480
+--------------------------------------------------------------------------------
+ and Plant Health 
+Inspection Service and other parties, such as employees and contractors contributing to this 
+document, neither warrant nor assume any legal liability or responsibility for the accuracy, 
+completeness, or usefulness of any information or procedure disclosed. The primary purpose of 
+these FAD PReP SOPs is to provide operational guidance to those government officials 
+responding to a foreign animal disease outbreak. It is only posted for public access as a reference.  
+The FAD PReP SOPs may refer to links to various other Federal and State agencies and private 
+organizations. These links are maintained solely for the user's information and convenience. If 
+you link to such site, please be aware that you are then subject to the policies of that site. In 
+addition, please note that USDA does not control and cannot guarantee the relevance, timeliness, 
+or accuracy of these outside materials. Further, the inclusion of links or pointers to particular 
+items in hypertext is not intended to reflect their importance, nor is it intended to constitute 
+approval or endorsement of any views expressed, or products or services offered, on these 
+outside websites, or the organizations sponsoring the websites.  
+Trade names are used solely for the purpose of providing specific information. Mention of a 
+trade name does not constitute a guarantee or warranty of the product by USDA or an 
+endorsement over other products not mentioned. 
+USDA prohibits discrimination in all its programs and activities on the basis of race, color, 
+national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or 
+family status. (Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s T
+Text Len: 1884
+--------------------------------------------------------------------------------
+ the basis of race, color, 
+national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or 
+family status. (Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s TARGET Center at (202) 720-2600 (voice and 
+telecommunications device for the deaf [TDD]). 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room 
+326-W, Whitten Building, 1400 Independence Avenue SW, Washington, DC 20250-9410 or call 
+(202) 720-5964 (voice and TDD). USDA is an equal opportunity provider and employer. 
+SOP Manual ii Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+ 
+Contents 
+1.1 Introduction ................................................................................................................. 1-2 
+1.1.1 Goals…….   ......................................................................................................... 1-2 
+1.1.2 Further Information ............................................................................................. 1-2 
+1.2 Purpose........................................................................................................................ 1-2 
+1.3 Etiology ....................................................................................................................... 1-3 
+1.3.1 Name…….   ......................................................................................................... 1-3 
+1.3.2 Species Characteristics ........................................................................................ 1-3 
+1.3.3 Identification and Morphology ............................................................................ 1-3 
+1.4 Ecology ....................................................................................................................... 1-4 
+1.4.1 General Overview ............................................................................................... 1-4 
+1.4.2 Susceptible Species ............................................................................................. 1-4 
+1.4.3 Introduction and Transmission of Bont Ticks and Tropical Bont Ticks ...............
+Text Len: 2296
+--------------------------------------------------------------------------------
+ Morphology ............................................................................ 1-3 
+1.4 Ecology ....................................................................................................................... 1-4 
+1.4.1 General Overview ............................................................................................... 1-4 
+1.4.2 Susceptible Species ............................................................................................. 1-4 
+1.4.3 Introduction and Transmission of Bont Ticks and Tropical Bont Ticks ............... 1-4 
+1.4.3.1 Wildlife ................................................................................................... 1-5 
+1.4.4 Clinical Signs ...................................................................................................... 1-5 
+1.4.5 Morbidity and Mortality ...................................................................................... 1-6 
+1.5 Environmental Persistence of Bont and Tropical Bont Ticks ........................................ 1-6 
+1.6 Bont and Tropical Bont Ticks in the United States ....................................................... 1-6 
+Attachment 1.A References and Selected Resources ................................................................ 1-8 
+Attachment 1.B Abbreviations .............................................................................................. 1-10 
+ 
+ 
+SOP Manual iii Bont/Tropical Bont Tick Etiology and Ecology 
+
+ 
+ 
+ 
+ 
+ 
+Bont Tick and Tropical Bont Tick
+ 
+Etiology and Ecology Quick Summary 
+ 
+Organisms 
+The bont tick and tropical bont tick are hard ticks of the genus Amblyomma.  
+ 
+Susceptible Species 
+Adult ticks will feed on cattle, sheep, goats, horses, camels, dogs, and some species of 
+large wildlife. They may also bite humans. Immature ticks may feed on the same hosts 
+as adults but tend to be found on smaller mammals, reptiles, and wild birds.  
+ 
+Zoonotic Disease Potential 
+Tropical bont ticks are able to transmit certain diseases, such as African tick bite
+Text Len: 2050
+--------------------------------------------------------------------------------
+ horses, camels, dogs, and some species of 
+large wildlife. They may also bite humans. Immature ticks may feed on the same hosts 
+as adults but tend to be found on smaller mammals, reptiles, and wild birds.  
+ 
+Zoonotic Disease Potential 
+Tropical bont ticks are able to transmit certain diseases, such as African tick bite fever 
+(Rickettsia africae), to humans. 
+ 
+Transmission 
+Pathogens use the tropical bont tick as a host, and disease is spread to an animal's blood 
+through the tick's bite while feeding; among other diseases, the bont tick can spread the 
+OIE-reportable diesease heartwater (Ehrlichia ruminatium). The bite itself causes a 
+large wound, which may become infected or attract other parasites to the site, such as 
+screwworms.  
+ 
+Persistence in the Environment 
+Tropical bont ticks have three life stages where they change hosts and can live up to a 
+few years. Immature individuals are vulnerable to drying out, and all ages can be killed 
+with acaricides. 
+ 
+ 
+SOP Manual 1-1 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+1.1 Introduction  
+The bont tick and tropical bont tick are two species of hard ticks in the genus Amblyomma that 
+both feed on many domesticated animals, wildlife, and, sometimes, humans. Ticks are obligate 
+parasites and thus cannot persist without feeding on blood from a host. These particular ticks 
+leave large wounds where they bite, which can become infected or attract other parasites, and 
+they also are vectors for microbial pathogens.1,2 The most common diseases associated with both 
+
+Text Len: 1546
+--------------------------------------------------------------------------------
+ on many domesticated animals, wildlife, and, sometimes, humans. Ticks are obligate 
+parasites and thus cannot persist without feeding on blood from a host. These particular ticks 
+leave large wounds where they bite, which can become infected or attract other parasites, and 
+they also are vectors for microbial pathogens.1,2 The most common diseases associated with both 
+ticks are African tick-bite fever and heartwater. African tick-bite fever is a zoonotic, febrile 
+illness that can pose a danger to people traveling into an endemic area.3 For more information on 
+heartwater, please see the FAD PReP SOP Overview of Etiology and Ecology: Heartwater.  
+These ticks are common pests in many tropical and sub-tropical regions of the world. Both are 
+found in parts of Africa, and the tropical bont tick is established on certain islands in the Indian 
+Ocean, Atlantic Ocean, and Caribbean Sea. Bont ticks and tropical bont ticks feed on three hosts 
+over their life cycles; each host is usually a different animal, and each may be a different species. 
+Immature ticks tend to feed on small animals, including birds, while adults feed on large 
+mammals, frequently including livestock.4,5 
+1.1.1  Goals  
+As a preparedness goal, the Animal and Plant Health Inspection Service (APHIS) will provide 
+etiology and ecology summaries on the bont tick and tropical bont tick and update these 
+summaries at regular intervals. 
+As a response goal, the Unified Command and stakeholders will have a common set of etiology 
+and ecology definitions and descriptions, to ensure proper understanding of the bont tick and 
+tropical bont tick when establishing or revising goals, objectives, strategies, and procedures. 
+
+Text Len: 1707
+--------------------------------------------------------------------------------
+ont tick and tropical bont tick and update these 
+summaries at regular intervals. 
+As a response goal, the Unified Command and stakeholders will have a common set of etiology 
+and ecology definitions and descriptions, to ensure proper understanding of the bont tick and 
+tropical bont tick when establishing or revising goals, objectives, strategies, and procedures. 
+1.1.2  Further Information 
+This document is intended to be an overview, focusing on the bont tick and tropical bont tick. 
+Additional resources on these organisms and the diseases they carry are listed in Attachment 1.A.  
+These documents are available on the APHIS FAD PReP website 
+(http://www.aphis.usda.gov/fadprep) or on the APHIS Intranet 
+(http://inside.aphis.usda.gov/vs/em/fadprep.shtml, for APHIS employees).   
+1.2 Purpose  
+This document provides responders and stakeholders with a common understanding of the 
+disease agent.  
+1 Center for Food Security and Public Health, Iowa State University (CFSPH). 2006. Amblyomma hebraeum 
+Technical Factsheet. http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_hebraeum.pdf. 
+2 CFSPH (2). 2006. Amblyomma variegatum Technical Factsheet. 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+3 Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet Infect Dis. 3
+Text Len: 1347
+--------------------------------------------------------------------------------
+lyomma variegatum Technical Factsheet. 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+3 Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet Infect Dis. 3(9): 
+557-64.  
+4 CFSPH, 2006. 
+5 CFSPH (2), 2006. 
+SOP Manual 1-2 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+1.3 Etiology  
+1.3.1  Name 
+The bont tick is also called the English bont tick and the Southern Africa bont tick; the tropical 
+bont tick may also be known as the tropical African bont tick, Senegalese tick, or Antigua gold 
+tick.6,7,8,9   
+1.3.2  Species Characteristics 
+These ticks have the following taxonomy:10   
+• Family: Ixodidae 
+• Subfamily: Amblyomminae 
+• Genus: Amblyomma 
+• Species: Amblyomma hebraeum (bont tick) and Amblyomma variegatum (tropical bont 
+tick) 
+1.3.3  Identification and Morphology 
+Both the bont tick and tropical bont tick are oval with a dorsal shield and long mouthparts. They 
+are relatively large ticks, typically around 5 mm
+Text Len: 1048
+--------------------------------------------------------------------------------
+• Species: Amblyomma hebraeum (bont tick) and Amblyomma variegatum (tropical bont 
+tick) 
+1.3.3  Identification and Morphology 
+Both the bont tick and tropical bont tick are oval with a dorsal shield and long mouthparts. They 
+are relatively large ticks, typically around 5 mm long but growing up to 20 mm when engorged. 
+These along with many other ticks of the Amblyomma genus have striped legs and ornate scuta 
+(dorsal shields). Females have a much smaller scutum than the male so that much of her dorsal 
+surface is uncovered, appearing dark brown or black. 
+The scutum of an A. hebraeum male has pale, yellowish markings on a dark brown or black 
+background (see Figure 1-1), while the A. variegatum males have more brightly colored orange 
+or golden ornamentation. Distinguishing between species is best left to an expert when possible, 
+as there are over 130 species of ticks in the genus Amblyomma.  
+The bont tick and tropical bont tick are both three-host ticks, meaning that they take a separate 
+meal at each stage of their development: larva, nymph, and adult. Larvae of both species are 
+much smaller and have only six legs. Nymphal ticks have eight legs and are more flattened and 
+elongated.11  
+6 CFSPH, 2006 
+7 CFSPH (2), 2006. 
+8 Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some ecologic factors affecting 
+its success. Annals of the NY Academy of Science. 1026: 302-311. 
+9 Caribbean Animal Health Network
+Text Len: 1458
+--------------------------------------------------------------------------------
+ 
+6 CFSPH, 2006 
+7 CFSPH (2), 2006. 
+8 Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some ecologic factors affecting 
+its success. Annals of the NY Academy of Science. 1026: 302-311. 
+9 Caribbean Animal Health Network. 2011. “Monograph: Heartwater.” Available at 
+http://www.caribvet.net/en/diseases/heartwater/monograph.  
+10 Guglielmone A, Robbins R, Apanaskevich D, Petney T, Estrada-Pena A, Horak I. 2014. The Hard Ticks of the 
+World. Springer: New York. 
+11 Lounsbury CP. 1899. The bont tick: Its life history and habits. Agricultural Journal of Cape of Good Hope. 15: 
+728-743.  
+SOP Manual 1-3 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+Figure 1-1. Adult male bont tick, Amblyomma hebraeum 
+  
+Source= Mat Pound/ USDA Agricultural Research Service   
+1.4 Ecology 
+1.4.1  General Overview 
+Bont ticks can be found throughout sub-Saharan Africa and the tropical bont tick is on several 
+tropical and sub-tropical islands; these include, but are certainly not limited to, Madagascar, 
+Reunion, Mauritius, Zanzibar, the Comoros Islands,
+Text Len: 1124
+--------------------------------------------------------------------------------
+  
+1.4 Ecology 
+1.4.1  General Overview 
+Bont ticks can be found throughout sub-Saharan Africa and the tropical bont tick is on several 
+tropical and sub-tropical islands; these include, but are certainly not limited to, Madagascar, 
+Reunion, Mauritius, Zanzibar, the Comoros Islands, São Tomé, Guadeloupe, Marie Galante, and 
+Antigua.  The bont tick prefers warm, humid savanna habitats of Africa.12 Tropical bont ticks are 
+also found in savanna regions, but their distribution extends to the southern edges of the Middle 
+East and islands of the Caribbean Sea, Atlantic Ocean, and Indian Ocean.13 
+1.4.2  Susceptible Species 
+Small mammals, birds, and reptiles are hosts of larval and nymphal bont ticks, while adults tend 
+to prefer cattle and wildlife, in particular antelopes or similar species. All stages of tropical bont 
+ticks share hosts with bont ticks at corresponding stages, but they will additionally attach to 
+larger livestock hosts while in their immature stages and to sheep, goats, horses, camels, and 
+dogs.  
+While preferring wildlife and domestic ruminants, both tick species have also been known to bite 
+humans.14, 15  People are at particular risk in areas of dense vegetation where ticks are endemic.16 
+1.4.3  Introduction and Transmission of Bont Ticks and Tropical Bont Ticks 
+Ticks of both species spend the majority of their lives on the ground. At all life stages, ticks find 
+hosts by waiting in grass or on ground-cover plants, and clinging to the host animal as it passes 
+12 CFSPH, 2006. 
+13 CFSPH (2),
+Text Len: 1540
+--------------------------------------------------------------------------------
+ Introduction and Transmission of Bont Ticks and Tropical Bont Ticks 
+Ticks of both species spend the majority of their lives on the ground. At all life stages, ticks find 
+hosts by waiting in grass or on ground-cover plants, and clinging to the host animal as it passes 
+12 CFSPH, 2006. 
+13 CFSPH (2), 2006. 
+14 CFSPH, 2006. 
+15 CFSPH (2), 2006. 
+16 Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+SOP Manual 1-4 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+by. Ticks spend 5-20 days feeding on the host during which they are disseminated to new areas 
+by the movement of their hosts, dropping onto the ground when engorged. For example, the 
+movement of livestock from island to island led to the wide distribution of the tropical bont tick 
+throughout the Caribbean after its introduction to Guadeloupe from Senegal in about 1828.17 
+1.4.3.1  Wildlife 
+Migratory birds, particularly the cattle egret (Bubulcus ibis), have been identified as an important 
+agent of dispersal of the tropical bont tick among islands in the Caribbean18; birds can carry 
+immature ticks long distances and have presented a challenge to tick eradication programs in that 
+region.19
+Text Len: 1313
+--------------------------------------------------------------------------------
+.4.3.1  Wildlife 
+Migratory birds, particularly the cattle egret (Bubulcus ibis), have been identified as an important 
+agent of dispersal of the tropical bont tick among islands in the Caribbean18; birds can carry 
+immature ticks long distances and have presented a challenge to tick eradication programs in that 
+region.19,20  
+1.4.4  Clinical Signs  
+These ticks cause illness by inflicting bite wounds that are vulnerable to infection and by 
+transmitting pathogens to their hosts; signs exhibited by a host depend on a number of factors, 
+including host species and age, extent of tick infestation, previous exposure, and environmental 
+factors.  
+• Bite wound: The large mouthparts of both tick species result in large, painful wounds. 
+The bite sites can become infected or, in some regions, infested with screwworms or 
+other fly larvae. As adults, ticks often latch onto hairless areas; inflammation caused by 
+bites on the teats of dairy animals may impede milk production.21 
+• Heartwater: There are several clinical forms of heartwater, a bacterial disease caused by 
+Ehrlichia ruminantium. Most cases of heartwater are characterized by fever, respiratory 
+distress, diarrhea, and, sometimes, neurologic signs. For more information on heartwater, 
+please see the FAD PReP Heartwater Etiology and Ecology SOP.22  
+• Nairobi sheep disease: The tropical bont tick may serve as a vector for Nairobi sheep 
+disease (NSD), a virus (family Bunyaviridae) which primarily affects sheep and goats in 
+East and Southern Africa. This often fatal disease is characterized by fever, rapid 
+breathing, anorexia,
+Text Len: 1608
+--------------------------------------------------------------------------------
+.22  
+• Nairobi sheep disease: The tropical bont tick may serve as a vector for Nairobi sheep 
+disease (NSD), a virus (family Bunyaviridae) which primarily affects sheep and goats in 
+East and Southern Africa. This often fatal disease is characterized by fever, rapid 
+breathing, anorexia, depression, and diarrhea. People may contract NSD, but it causes 
+only a mild, influenza-like illness.23 
+• Dermatophilosis: A skin disease caused by the bacterium Dermatophilus congolensis, 
+dermatophilosis can be spread by fomites and direct contact as well as by ticks and other 
+17 Pegram RG, Rota A, Onkelinx R, Wilson DD, Bartlette P, BS Nisbett, Swanston G, Vanterpool P, de Castro JJ. 
+1996. Eradicating the tropical bont tick from the Caribbean. FAO Corporate Document Repository. Available at 
+http://www.fao.org/docrep/W2650T/w2650t06.htm. 
+18 Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum from the Caribbean. 
+Experimental and Applied Acarology. 28: 273-281. 
+19 Deem SL. 1998. A review of heartwater and the threat of introduction of Cowdra ruminatium and Amblyomma 
+spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 29: 109-133. 
+20 Pegram and Eddy, 2002. 
+21 CFSPH (2), 2006. 
+22 USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. Available at 
+http
+Text Len: 1349
+--------------------------------------------------------------------------------
+atium and Amblyomma 
+spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 29: 109-133. 
+20 Pegram and Eddy, 2002. 
+21 CFSPH (2), 2006. 
+22 USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_heartwater_e-e.pdf.  
+23 USDA APHIS. 2013. Nairobi Sheep Disease, Standard Operating Procedures Etiology and Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_nsd_e-e.pdf.  
+SOP Manual 1-5 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+vectors. Signs include matted hair, scabbing, itching, and abscessed sores.24  
+• African tick-bite fever: Humans bitten by either tick can become infected with Rickettsia 
+africae, the bacterial agent of African tick-bite fever. This disease causes flu-like illness, 
+with signs including fever, fatigue, nausea, muscle ache, rash, and headache.25,26 
+ 
+1.4.5  Morbidity and Mortality 
+The harm to a host of bont or tropical bont ticks will depend on the extent of infestation; species, 
+age, and
+Text Len: 1171
+--------------------------------------------------------------------------------
+ fever. This disease causes flu-like illness, 
+with signs including fever, fatigue, nausea, muscle ache, rash, and headache.25,26 
+ 
+1.4.5  Morbidity and Mortality 
+The harm to a host of bont or tropical bont ticks will depend on the extent of infestation; species, 
+age, and condition of the host animal; and the specific effects of any transmitted infection caused 
+by the tick’s bite. Mortality rates from heartwater infections vary from 60–90 percent.27 
+Screwworm infestations and dematophilosis often do not result in death, but both can weaken 
+animals and lead to death if left untreated.28 Dermatophilosis is the leading contributor to 
+financial losses of producers and owners whose livestock are infested with tropical bont ticks in 
+the Caribbean.29 
+In addition to spreading disease and creating wounds on the skin or surface of a host, bont and 
+tropical bont ticks can cause stress and detrimental blood loss to hosts. Hosts can typically 
+endure being bitten by a few ticks, but more intense infestations, of dozens to hundreds of ticks 
+per animal, are common in rural areas where heavy tick concentrations are maintained in wildlife 
+species.30  
+1.5 Environmental Persistence of Bont and Tropical Bont Ticks  
+Bont ticks and tropical bont ticks must feed on blood to survive, but they may take 2–4 years to 
+complete their three life stages, during which they can spend well over 90 percent of the time in 
+the environment.31,32 However, ticks often depend on certain microhabitats and vegetation types 
+within wide-ranging ecosystems.33 Acaricides are effective against both species, but susceptible 
+host species must be treated often
+Text Len: 1655
+--------------------------------------------------------------------------------
+ but they may take 2–4 years to 
+complete their three life stages, during which they can spend well over 90 percent of the time in 
+the environment.31,32 However, ticks often depend on certain microhabitats and vegetation types 
+within wide-ranging ecosystems.33 Acaricides are effective against both species, but susceptible 
+host species must be treated often.34    
+1.6 Bont and Tropical Bont Ticks in the United States 
+There is a risk that either species of tick could enter the United States on a wildlife host, an 
+imported host animal, or travelers and/or their pets. Bont ticks have been documented on U.S. 
+24 Center for Food Security and Public Health (3). 2006. Fast Facts Dermatophilosis. Available at 
+http://www.cfsph.iastate.edu/FastFacts/pdfs/dermatophilosis_F.pdf.    
+25 Edinburgh Infectious Diseases, The University of Edinburgh. 2013. “New study shows bacteria that cause African 
+tick bite fever now infect ticks in Uganda.” http://www.eid.ed.ac.uk.  
+26 CDC. 2013. “African Tick-Bite Fever.” http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever.  
+27 USDA APHIS, 2013.  
+28 CFSPH (3). 2006.  
+29 Pegram et al., 1996.  
+30 Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and control.” Parasites of 
+Livestock, Dogs, and Cats. Available at 
+http://parasit
+Text Len: 1322
+--------------------------------------------------------------------------------
+
+28 CFSPH (3). 2006.  
+29 Pegram et al., 1996.  
+30 Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and control.” Parasites of 
+Livestock, Dogs, and Cats. Available at 
+http://parasitipedia.net/index.php?option=com_content&view=article&id=2544&Itemid=2820.  
+31 CFSPH, 2006. 
+32 CFSPH (2), 2006. 
+33 Levin ML. 2011. “Tick Control.” Merck Veterinary Manual.Available at 
+http://www.merckmanuals.com/vet/integumentary_system/ticks/tick_control.html.  
+34 CFSPH, 2006. 
+SOP Manual 1-6 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+travelers returning from Africa and on imported rhinoceroses.35,36 Introduction of bont or tropical 
+bont ticks is of concern not only due to the direct damage they can do to their hosts (bite wounds, 
+stress, blood loss), but also because there are many competent arthropod vectors, and domestic 
+animal and wildlife hosts in the United States for the pathogens they may carry, particularly 
+heartwater.37  
+T
+he tropical bont tick has spread throughout the Caribbean, once as far north as Puerto Rico. 
+This, in combination with the presence of the cattle egret in the Florida
+Text Len: 1193
+--------------------------------------------------------------------------------
+), but also because there are many competent arthropod vectors, and domestic 
+animal and wildlife hosts in the United States for the pathogens they may carry, particularly 
+heartwater.37  
+T
+he tropical bont tick has spread throughout the Caribbean, once as far north as Puerto Rico. 
+This, in combination with the presence of the cattle egret in the Florida Keys, led to the United 
+States entering a coalition of international government agencies and non-profits to establish the 
+Caribbean Ambylomma Program (CAP) to eradicate the tropical bont tick from certain islands 
+(other members include Belgium, Germany, Italy, the United Kingdom, the Food and 
+Agriculture Organization of the United Nations, the Inter-American Institute for Cooperation on 
+Agriculture, and the Caribbean Community). The CAP program had varied success before 
+ending in 2008, with six islands declared “provisionally free”, but re-infestations sometimes 
+occurred, such as in St. Kitts in 2004.38,39  
+35 Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of the exotic tick 
+Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 88(4): 800–801. 
+36 Wilson DD, Richard RD. 1984. Interception of a vector of heartwater, Amblyomma hebraeum Koch (Acari: 
+Ixodidae) or black rhinocerouses imported into the United States. Proceedings, Eighty-eighth Annual Meeting of the 
+United States Animal Health Association. 301–311. 
+37 Pegram et al., 1996. 
+38 Pegram et al., 1996. 
+39 Ahoussou S, Lance
+Text Len: 1524
+--------------------------------------------------------------------------------
+eum Koch (Acari: 
+Ixodidae) or black rhinocerouses imported into the United States. Proceedings, Eighty-eighth Annual Meeting of the 
+United States Animal Health Association. 301–311. 
+37 Pegram et al., 1996. 
+38 Pegram et al., 1996. 
+39 Ahoussou S, Lancelot R, Sanford B, Porphyre T, Bartlette-Powell P, Compton E, Henry L, Maitland R, Lloyd R, 
+Mattioli R, Chavernac D, Stachurski F, Martinez D, Meyer DF, Vachiery N, Pegram R, Lefrançois T. 2010. 
+Analysis of Amblyomma surveillance data in the Caribbean: Lessons for future control programmes. Veterinary 
+Parasitology.167: 327–335. 
+SOP Manual 1 -7 Bont/Tropical Bont Tick Etiology and Ecology
+ 
+Attachment 1.A References and Selected 
+Resources 
+Ahoussou S, Lancelot R, Sanford B, Porphyre T, Bartlette-Powell P, Compton E, Henry L, 
+Maitland R, Lloyd R, Mattioli R, Chavernac D, Stachurski F, Martinez D, Meyer DF, Vachiery 
+N, Pegram R, Lefrançois T. 2010. Analysis of Amblyomma surveillance data in the Caribbean: 
+Lessons for future control programmes. Veterinary Parasitology.167: 327–335. 
+Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of 
+the exotic tick Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 
+88
+Text Len: 1235
+--------------------------------------------------------------------------------
+ 
+Lessons for future control programmes. Veterinary Parasitology.167: 327–335. 
+Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of 
+the exotic tick Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 
+88(4): 800–801. 
+Caribbean Animal Health Network. 2011. “Monograph: Heartwater.” Available at 
+http://www.caribvet.net/en/diseases/heartwater/monograph. 
+Center for Food Security and Public Health, Iowa State University (CFSPH). 2006. 
+“Amblyomma hebraeum Technical Factsheet.” 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_hebraeum.pdf. 
+CFSPH (2). 2006. “Amblyomma variegatum Technical Factsheet.” 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+CFSPH (3). 2006. “Fast Facts Dermatophilosis.” Available at 
+http://www.cfsph.iastate.edu/FastFacts/pdfs/dermatophilosis_F.pdf.    
+Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+Corn JL, Berger P, Mertins JW. 2009. Surveys for ect
+Text Len: 1076
+--------------------------------------------------------------------------------
+pdf.    
+Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+Corn JL, Berger P, Mertins JW. 2009. Surveys for ectoparasites on wildlife associated with 
+Amblyomma variegatum (Acari: Ixodidae)-infested livestock in St. Croix, U.S. Virgin Islands. 
+Journal of Medical Entomology. 46(6): 1483-1489. 
+Deem SL. 1998. A review of heartwater and the threat of introduction of Cowdra ruminatium 
+and Amblyomma spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 
+29: 109-133. 
+Edinburgh Infectious Diseases, The University of Edinburgh. 2013. “New study shows bacteria 
+that cause African tick bite fever now infect ticks in Uganda.” Available at 
+http://www.eid.ed.ac.uk.  
+Guglielmone A, Robbins R, Apanaskevich D, Petney T, Estrada-Pena A, Horak I. 2014. The 
+Hard Ticks of the World. Springer: New York. 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+SOP Manual 1-8 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003
+Text Len: 1173
+--------------------------------------------------------------------------------
+vang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+SOP Manual 1-8 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and 
+control.” Parasites of Livestock, Dogs, and Cats. Available at 
+http://parasitipedia.net/index.php?option=com_content&view=article&id=2544&Itemid=2820.  
+Levin ML. 2011. “Tick Control- Merck Veterinary Manual.” Available at 
+http://www.merckmanuals.com/vet/integumentary_system/ticks/tick_control.html. 
+Lounsbury CP. 1899. The bont tick: Its life history and habits. Agricultural Journal of Cape of 
+Good Hope. 15: 728-743. 
+Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some 
+ecologic factors affecting its success. Annals of the NY Academy of Science. 1026: 302-311. 
+Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum 
+from the Caribbean. Experimental and Applied Acarology. 28: 273-281. 
+Pegram RG, Rota A, Onkelinx R, Wilson DD
+Text Len: 1175
+--------------------------------------------------------------------------------
+ Annals of the NY Academy of Science. 1026: 302-311. 
+Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum 
+from the Caribbean. Experimental and Applied Acarology. 28: 273-281. 
+Pegram RG, Rota A, Onkelinx R, Wilson DD, Bartlette P, BS Nisbett, Swanston G, Vanterpool 
+P, de Castro JJ. 1996. Eradicating the tropical bont tick from the Caribbean. FAO Corporate 
+Document Repository. Available at http://www.fao.org/docrep/W2650T/w2650t06.htm.  
+USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. 
+Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_heartwat
+er_e-e.pdf.  
+ 
+USDA APHIS. 2013. Nairobi Sheep Disease, Standard Operating Procedures Etiology and 
+Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_nsd_e-
+e.pdf. 
+ 
+Wilson DD, Richard RD. 1984. Interception of a vector of heartwater, Amblyomma hebraeum 
+Koch (Acari: Ixodidae) or black rhinocerouses imported into the United States. Proceedings, 
+Eighty-eighth Annual Meeting of the United States Animal Health Association. 301–311. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP Manual 1-9 Bont/T
+Text Len: 1184
+--------------------------------------------------------------------------------
+lyomma hebraeum 
+Koch (Acari: Ixodidae) or black rhinocerouses imported into the United States. Proceedings, 
+Eighty-eighth Annual Meeting of the United States Animal Health Association. 301–311. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP Manual 1-9 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Attachment 1.B Abbreviations 
+APHIS Animal and Plant Health Inspection Service 
+CAP Caribbean Amblyomma Program 
+CDC Centers for Disease Control and Prevention 
+CFSPH Center for Food Safety and Public Health 
+FAD PReP Foreign Animal Disease Preparedness and Response Plan 
+OIE World Organization for Animal Health 
+NAHEMS National Animal Health Emergency Management System 
+NSD Nairobi sheep disease 
+SOP standard operating procedure  
+TDD telecommunications device for the deaf 
+USDA United States Department of Agriculture 
+ 
+ 
+  
+SOP Manual 1-10 Bont/Tropical Bont Tick Etiology and Ecology 
+Text Len: 866
+--------------------------------------------------------------------------------
+BONT TICK & TROPICAL BONT TICK
+STANDARD OPERATING PROCEDURES:
+1. OVERVIEW OF ETIOLOGY AND ECOLOGY
+DRAFT APRIL 2014
+File name: FADPReP_Bont Tick_EandE SOP number: SOP001 
+Lead section: Preparedness and Incident Coordination Version number: 1.0 
+Effective date: April 2014 Review date: April 2017   
+ 
+The Foreign Animal Disease Preparedness and Response Plan (FAD PReP) Standard Operating 
+Procedures (SOPs) provide operational guidance for responding to an animal health emergency 
+in the United States.  
+These draft SOPs are under ongoing review. This document was last updated in April 2014.  
+Please send questions or comments to:  
+National Preparedness and Incident Coordination 
+Veterinary Services 
+Animal and Plant Health Inspection Service 
+U.S. Department of Agriculture 
+4700 River Road, Unit 41 
+Riverdale, Maryland 20737 
+Telephone: (301) 851-3595 Fax: (301) 734-7817 
+E-mail: FAD.PReP.Comments@aphis.usda.gov  
+While best efforts have been used in developing and preparing the FAD PReP SOPs, the U.S. 
+Government, U.S. Department of Agriculture (USDA), and the Animal and Plant Health 
+Inspection Service and other parties, such as employees and contractors contributing to this 
+document, neither warrant nor assume any legal liability or responsibility for the accuracy, 
+completeness, or usefulness of any information or procedure disclosed. The primary purpose of 
+these FAD PReP SOPs is to provide operational guidance to those government officials 
+responding
+Text Len: 1480
+--------------------------------------------------------------------------------
+ and Plant Health 
+Inspection Service and other parties, such as employees and contractors contributing to this 
+document, neither warrant nor assume any legal liability or responsibility for the accuracy, 
+completeness, or usefulness of any information or procedure disclosed. The primary purpose of 
+these FAD PReP SOPs is to provide operational guidance to those government officials 
+responding to a foreign animal disease outbreak. It is only posted for public access as a reference.  
+The FAD PReP SOPs may refer to links to various other Federal and State agencies and private 
+organizations. These links are maintained solely for the user's information and convenience. If 
+you link to such site, please be aware that you are then subject to the policies of that site. In 
+addition, please note that USDA does not control and cannot guarantee the relevance, timeliness, 
+or accuracy of these outside materials. Further, the inclusion of links or pointers to particular 
+items in hypertext is not intended to reflect their importance, nor is it intended to constitute 
+approval or endorsement of any views expressed, or products or services offered, on these 
+outside websites, or the organizations sponsoring the websites.  
+Trade names are used solely for the purpose of providing specific information. Mention of a 
+trade name does not constitute a guarantee or warranty of the product by USDA or an 
+endorsement over other products not mentioned. 
+USDA prohibits discrimination in all its programs and activities on the basis of race, color, 
+national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or 
+family status. (Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s T
+Text Len: 1884
+--------------------------------------------------------------------------------
+ the basis of race, color, 
+national origin, sex, religion, age, disability, political beliefs, sexual orientation, or marital or 
+family status. (Not all prohibited bases apply to all programs.) Persons with disabilities who 
+require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s TARGET Center at (202) 720-2600 (voice and 
+telecommunications device for the deaf [TDD]). 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room 
+326-W, Whitten Building, 1400 Independence Avenue SW, Washington, DC 20250-9410 or call 
+(202) 720-5964 (voice and TDD). USDA is an equal opportunity provider and employer. 
+SOP Manual ii Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+ 
+Contents 
+1.1 Introduction ................................................................................................................. 1-2 
+1.1.1 Goals…….   ......................................................................................................... 1-2 
+1.1.2 Further Information ............................................................................................. 1-2 
+1.2 Purpose........................................................................................................................ 1-2 
+1.3 Etiology ....................................................................................................................... 1-3 
+1.3.1 Name…….   ......................................................................................................... 1-3 
+1.3.2 Species Characteristics ........................................................................................ 1-3 
+1.3.3 Identification and Morphology ............................................................................ 1-3 
+1.4 Ecology ....................................................................................................................... 1-4 
+1.4.1 General Overview ............................................................................................... 1-4 
+1.4.2 Susceptible Species ............................................................................................. 1-4 
+1.4.3 Introduction and Transmission of Bont Ticks and Tropical Bont Ticks ...............
+Text Len: 2296
+--------------------------------------------------------------------------------
+ Morphology ............................................................................ 1-3 
+1.4 Ecology ....................................................................................................................... 1-4 
+1.4.1 General Overview ............................................................................................... 1-4 
+1.4.2 Susceptible Species ............................................................................................. 1-4 
+1.4.3 Introduction and Transmission of Bont Ticks and Tropical Bont Ticks ............... 1-4 
+1.4.3.1 Wildlife ................................................................................................... 1-5 
+1.4.4 Clinical Signs ...................................................................................................... 1-5 
+1.4.5 Morbidity and Mortality ...................................................................................... 1-6 
+1.5 Environmental Persistence of Bont and Tropical Bont Ticks ........................................ 1-6 
+1.6 Bont and Tropical Bont Ticks in the United States ....................................................... 1-6 
+Attachment 1.A References and Selected Resources ................................................................ 1-8 
+Attachment 1.B Abbreviations .............................................................................................. 1-10 
+ 
+ 
+SOP Manual iii Bont/Tropical Bont Tick Etiology and Ecology 
+
+ 
+ 
+ 
+ 
+ 
+Bont Tick and Tropical Bont Tick
+ 
+Etiology and Ecology Quick Summary 
+ 
+Organisms 
+The bont tick and tropical bont tick are hard ticks of the genus Amblyomma.  
+ 
+Susceptible Species 
+Adult ticks will feed on cattle, sheep, goats, horses, camels, dogs, and some species of 
+large wildlife. They may also bite humans. Immature ticks may feed on the same hosts 
+as adults but tend to be found on smaller mammals, reptiles, and wild birds.  
+ 
+Zoonotic Disease Potential 
+Tropical bont ticks are able to transmit certain diseases, such as African tick bite
+Text Len: 2050
+--------------------------------------------------------------------------------
+ horses, camels, dogs, and some species of 
+large wildlife. They may also bite humans. Immature ticks may feed on the same hosts 
+as adults but tend to be found on smaller mammals, reptiles, and wild birds.  
+ 
+Zoonotic Disease Potential 
+Tropical bont ticks are able to transmit certain diseases, such as African tick bite fever 
+(Rickettsia africae), to humans. 
+ 
+Transmission 
+Pathogens use the tropical bont tick as a host, and disease is spread to an animal's blood 
+through the tick's bite while feeding; among other diseases, the bont tick can spread the 
+OIE-reportable diesease heartwater (Ehrlichia ruminatium). The bite itself causes a 
+large wound, which may become infected or attract other parasites to the site, such as 
+screwworms.  
+ 
+Persistence in the Environment 
+Tropical bont ticks have three life stages where they change hosts and can live up to a 
+few years. Immature individuals are vulnerable to drying out, and all ages can be killed 
+with acaricides. 
+ 
+ 
+SOP Manual 1-1 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+1.1 Introduction  
+The bont tick and tropical bont tick are two species of hard ticks in the genus Amblyomma that 
+both feed on many domesticated animals, wildlife, and, sometimes, humans. Ticks are obligate 
+parasites and thus cannot persist without feeding on blood from a host. These particular ticks 
+leave large wounds where they bite, which can become infected or attract other parasites, and 
+they also are vectors for microbial pathogens.1,2 The most common diseases associated with both 
+
+Text Len: 1546
+--------------------------------------------------------------------------------
+ on many domesticated animals, wildlife, and, sometimes, humans. Ticks are obligate 
+parasites and thus cannot persist without feeding on blood from a host. These particular ticks 
+leave large wounds where they bite, which can become infected or attract other parasites, and 
+they also are vectors for microbial pathogens.1,2 The most common diseases associated with both 
+ticks are African tick-bite fever and heartwater. African tick-bite fever is a zoonotic, febrile 
+illness that can pose a danger to people traveling into an endemic area.3 For more information on 
+heartwater, please see the FAD PReP SOP Overview of Etiology and Ecology: Heartwater.  
+These ticks are common pests in many tropical and sub-tropical regions of the world. Both are 
+found in parts of Africa, and the tropical bont tick is established on certain islands in the Indian 
+Ocean, Atlantic Ocean, and Caribbean Sea. Bont ticks and tropical bont ticks feed on three hosts 
+over their life cycles; each host is usually a different animal, and each may be a different species. 
+Immature ticks tend to feed on small animals, including birds, while adults feed on large 
+mammals, frequently including livestock.4,5 
+1.1.1  Goals  
+As a preparedness goal, the Animal and Plant Health Inspection Service (APHIS) will provide 
+etiology and ecology summaries on the bont tick and tropical bont tick and update these 
+summaries at regular intervals. 
+As a response goal, the Unified Command and stakeholders will have a common set of etiology 
+and ecology definitions and descriptions, to ensure proper understanding of the bont tick and 
+tropical bont tick when establishing or revising goals, objectives, strategies, and procedures. 
+
+Text Len: 1707
+--------------------------------------------------------------------------------
+ont tick and tropical bont tick and update these 
+summaries at regular intervals. 
+As a response goal, the Unified Command and stakeholders will have a common set of etiology 
+and ecology definitions and descriptions, to ensure proper understanding of the bont tick and 
+tropical bont tick when establishing or revising goals, objectives, strategies, and procedures. 
+1.1.2  Further Information 
+This document is intended to be an overview, focusing on the bont tick and tropical bont tick. 
+Additional resources on these organisms and the diseases they carry are listed in Attachment 1.A.  
+These documents are available on the APHIS FAD PReP website 
+(http://www.aphis.usda.gov/fadprep) or on the APHIS Intranet 
+(http://inside.aphis.usda.gov/vs/em/fadprep.shtml, for APHIS employees).   
+1.2 Purpose  
+This document provides responders and stakeholders with a common understanding of the 
+disease agent.  
+1 Center for Food Security and Public Health, Iowa State University (CFSPH). 2006. Amblyomma hebraeum 
+Technical Factsheet. http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_hebraeum.pdf. 
+2 CFSPH (2). 2006. Amblyomma variegatum Technical Factsheet. 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+3 Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet Infect Dis. 3
+Text Len: 1347
+--------------------------------------------------------------------------------
+lyomma variegatum Technical Factsheet. 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+3 Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet Infect Dis. 3(9): 
+557-64.  
+4 CFSPH, 2006. 
+5 CFSPH (2), 2006. 
+SOP Manual 1-2 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+1.3 Etiology  
+1.3.1  Name 
+The bont tick is also called the English bont tick and the Southern Africa bont tick; the tropical 
+bont tick may also be known as the tropical African bont tick, Senegalese tick, or Antigua gold 
+tick.6,7,8,9   
+1.3.2  Species Characteristics 
+These ticks have the following taxonomy:10   
+• Family: Ixodidae 
+• Subfamily: Amblyomminae 
+• Genus: Amblyomma 
+• Species: Amblyomma hebraeum (bont tick) and Amblyomma variegatum (tropical bont 
+tick) 
+1.3.3  Identification and Morphology 
+Both the bont tick and tropical bont tick are oval with a dorsal shield and long mouthparts. They 
+are relatively large ticks, typically around 5 mm
+Text Len: 1048
+--------------------------------------------------------------------------------
+• Species: Amblyomma hebraeum (bont tick) and Amblyomma variegatum (tropical bont 
+tick) 
+1.3.3  Identification and Morphology 
+Both the bont tick and tropical bont tick are oval with a dorsal shield and long mouthparts. They 
+are relatively large ticks, typically around 5 mm long but growing up to 20 mm when engorged. 
+These along with many other ticks of the Amblyomma genus have striped legs and ornate scuta 
+(dorsal shields). Females have a much smaller scutum than the male so that much of her dorsal 
+surface is uncovered, appearing dark brown or black. 
+The scutum of an A. hebraeum male has pale, yellowish markings on a dark brown or black 
+background (see Figure 1-1), while the A. variegatum males have more brightly colored orange 
+or golden ornamentation. Distinguishing between species is best left to an expert when possible, 
+as there are over 130 species of ticks in the genus Amblyomma.  
+The bont tick and tropical bont tick are both three-host ticks, meaning that they take a separate 
+meal at each stage of their development: larva, nymph, and adult. Larvae of both species are 
+much smaller and have only six legs. Nymphal ticks have eight legs and are more flattened and 
+elongated.11  
+6 CFSPH, 2006 
+7 CFSPH (2), 2006. 
+8 Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some ecologic factors affecting 
+its success. Annals of the NY Academy of Science. 1026: 302-311. 
+9 Caribbean Animal Health Network
+Text Len: 1458
+--------------------------------------------------------------------------------
+ 
+6 CFSPH, 2006 
+7 CFSPH (2), 2006. 
+8 Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some ecologic factors affecting 
+its success. Annals of the NY Academy of Science. 1026: 302-311. 
+9 Caribbean Animal Health Network. 2011. “Monograph: Heartwater.” Available at 
+http://www.caribvet.net/en/diseases/heartwater/monograph.  
+10 Guglielmone A, Robbins R, Apanaskevich D, Petney T, Estrada-Pena A, Horak I. 2014. The Hard Ticks of the 
+World. Springer: New York. 
+11 Lounsbury CP. 1899. The bont tick: Its life history and habits. Agricultural Journal of Cape of Good Hope. 15: 
+728-743.  
+SOP Manual 1-3 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+Figure 1-1. Adult male bont tick, Amblyomma hebraeum 
+  
+Source= Mat Pound/ USDA Agricultural Research Service   
+1.4 Ecology 
+1.4.1  General Overview 
+Bont ticks can be found throughout sub-Saharan Africa and the tropical bont tick is on several 
+tropical and sub-tropical islands; these include, but are certainly not limited to, Madagascar, 
+Reunion, Mauritius, Zanzibar, the Comoros Islands,
+Text Len: 1124
+--------------------------------------------------------------------------------
+  
+1.4 Ecology 
+1.4.1  General Overview 
+Bont ticks can be found throughout sub-Saharan Africa and the tropical bont tick is on several 
+tropical and sub-tropical islands; these include, but are certainly not limited to, Madagascar, 
+Reunion, Mauritius, Zanzibar, the Comoros Islands, São Tomé, Guadeloupe, Marie Galante, and 
+Antigua.  The bont tick prefers warm, humid savanna habitats of Africa.12 Tropical bont ticks are 
+also found in savanna regions, but their distribution extends to the southern edges of the Middle 
+East and islands of the Caribbean Sea, Atlantic Ocean, and Indian Ocean.13 
+1.4.2  Susceptible Species 
+Small mammals, birds, and reptiles are hosts of larval and nymphal bont ticks, while adults tend 
+to prefer cattle and wildlife, in particular antelopes or similar species. All stages of tropical bont 
+ticks share hosts with bont ticks at corresponding stages, but they will additionally attach to 
+larger livestock hosts while in their immature stages and to sheep, goats, horses, camels, and 
+dogs.  
+While preferring wildlife and domestic ruminants, both tick species have also been known to bite 
+humans.14, 15  People are at particular risk in areas of dense vegetation where ticks are endemic.16 
+1.4.3  Introduction and Transmission of Bont Ticks and Tropical Bont Ticks 
+Ticks of both species spend the majority of their lives on the ground. At all life stages, ticks find 
+hosts by waiting in grass or on ground-cover plants, and clinging to the host animal as it passes 
+12 CFSPH, 2006. 
+13 CFSPH (2),
+Text Len: 1540
+--------------------------------------------------------------------------------
+ Introduction and Transmission of Bont Ticks and Tropical Bont Ticks 
+Ticks of both species spend the majority of their lives on the ground. At all life stages, ticks find 
+hosts by waiting in grass or on ground-cover plants, and clinging to the host animal as it passes 
+12 CFSPH, 2006. 
+13 CFSPH (2), 2006. 
+14 CFSPH, 2006. 
+15 CFSPH (2), 2006. 
+16 Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+SOP Manual 1-4 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+by. Ticks spend 5-20 days feeding on the host during which they are disseminated to new areas 
+by the movement of their hosts, dropping onto the ground when engorged. For example, the 
+movement of livestock from island to island led to the wide distribution of the tropical bont tick 
+throughout the Caribbean after its introduction to Guadeloupe from Senegal in about 1828.17 
+1.4.3.1  Wildlife 
+Migratory birds, particularly the cattle egret (Bubulcus ibis), have been identified as an important 
+agent of dispersal of the tropical bont tick among islands in the Caribbean18; birds can carry 
+immature ticks long distances and have presented a challenge to tick eradication programs in that 
+region.19
+Text Len: 1313
+--------------------------------------------------------------------------------
+.4.3.1  Wildlife 
+Migratory birds, particularly the cattle egret (Bubulcus ibis), have been identified as an important 
+agent of dispersal of the tropical bont tick among islands in the Caribbean18; birds can carry 
+immature ticks long distances and have presented a challenge to tick eradication programs in that 
+region.19,20  
+1.4.4  Clinical Signs  
+These ticks cause illness by inflicting bite wounds that are vulnerable to infection and by 
+transmitting pathogens to their hosts; signs exhibited by a host depend on a number of factors, 
+including host species and age, extent of tick infestation, previous exposure, and environmental 
+factors.  
+• Bite wound: The large mouthparts of both tick species result in large, painful wounds. 
+The bite sites can become infected or, in some regions, infested with screwworms or 
+other fly larvae. As adults, ticks often latch onto hairless areas; inflammation caused by 
+bites on the teats of dairy animals may impede milk production.21 
+• Heartwater: There are several clinical forms of heartwater, a bacterial disease caused by 
+Ehrlichia ruminantium. Most cases of heartwater are characterized by fever, respiratory 
+distress, diarrhea, and, sometimes, neurologic signs. For more information on heartwater, 
+please see the FAD PReP Heartwater Etiology and Ecology SOP.22  
+• Nairobi sheep disease: The tropical bont tick may serve as a vector for Nairobi sheep 
+disease (NSD), a virus (family Bunyaviridae) which primarily affects sheep and goats in 
+East and Southern Africa. This often fatal disease is characterized by fever, rapid 
+breathing, anorexia,
+Text Len: 1608
+--------------------------------------------------------------------------------
+.22  
+• Nairobi sheep disease: The tropical bont tick may serve as a vector for Nairobi sheep 
+disease (NSD), a virus (family Bunyaviridae) which primarily affects sheep and goats in 
+East and Southern Africa. This often fatal disease is characterized by fever, rapid 
+breathing, anorexia, depression, and diarrhea. People may contract NSD, but it causes 
+only a mild, influenza-like illness.23 
+• Dermatophilosis: A skin disease caused by the bacterium Dermatophilus congolensis, 
+dermatophilosis can be spread by fomites and direct contact as well as by ticks and other 
+17 Pegram RG, Rota A, Onkelinx R, Wilson DD, Bartlette P, BS Nisbett, Swanston G, Vanterpool P, de Castro JJ. 
+1996. Eradicating the tropical bont tick from the Caribbean. FAO Corporate Document Repository. Available at 
+http://www.fao.org/docrep/W2650T/w2650t06.htm. 
+18 Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum from the Caribbean. 
+Experimental and Applied Acarology. 28: 273-281. 
+19 Deem SL. 1998. A review of heartwater and the threat of introduction of Cowdra ruminatium and Amblyomma 
+spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 29: 109-133. 
+20 Pegram and Eddy, 2002. 
+21 CFSPH (2), 2006. 
+22 USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. Available at 
+http
+Text Len: 1349
+--------------------------------------------------------------------------------
+atium and Amblyomma 
+spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 29: 109-133. 
+20 Pegram and Eddy, 2002. 
+21 CFSPH (2), 2006. 
+22 USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_heartwater_e-e.pdf.  
+23 USDA APHIS. 2013. Nairobi Sheep Disease, Standard Operating Procedures Etiology and Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_nsd_e-e.pdf.  
+SOP Manual 1-5 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+ 
+vectors. Signs include matted hair, scabbing, itching, and abscessed sores.24  
+• African tick-bite fever: Humans bitten by either tick can become infected with Rickettsia 
+africae, the bacterial agent of African tick-bite fever. This disease causes flu-like illness, 
+with signs including fever, fatigue, nausea, muscle ache, rash, and headache.25,26 
+ 
+1.4.5  Morbidity and Mortality 
+The harm to a host of bont or tropical bont ticks will depend on the extent of infestation; species, 
+age, and
+Text Len: 1171
+--------------------------------------------------------------------------------
+ fever. This disease causes flu-like illness, 
+with signs including fever, fatigue, nausea, muscle ache, rash, and headache.25,26 
+ 
+1.4.5  Morbidity and Mortality 
+The harm to a host of bont or tropical bont ticks will depend on the extent of infestation; species, 
+age, and condition of the host animal; and the specific effects of any transmitted infection caused 
+by the tick’s bite. Mortality rates from heartwater infections vary from 60–90 percent.27 
+Screwworm infestations and dematophilosis often do not result in death, but both can weaken 
+animals and lead to death if left untreated.28 Dermatophilosis is the leading contributor to 
+financial losses of producers and owners whose livestock are infested with tropical bont ticks in 
+the Caribbean.29 
+In addition to spreading disease and creating wounds on the skin or surface of a host, bont and 
+tropical bont ticks can cause stress and detrimental blood loss to hosts. Hosts can typically 
+endure being bitten by a few ticks, but more intense infestations, of dozens to hundreds of ticks 
+per animal, are common in rural areas where heavy tick concentrations are maintained in wildlife 
+species.30  
+1.5 Environmental Persistence of Bont and Tropical Bont Ticks  
+Bont ticks and tropical bont ticks must feed on blood to survive, but they may take 2–4 years to 
+complete their three life stages, during which they can spend well over 90 percent of the time in 
+the environment.31,32 However, ticks often depend on certain microhabitats and vegetation types 
+within wide-ranging ecosystems.33 Acaricides are effective against both species, but susceptible 
+host species must be treated often
+Text Len: 1655
+--------------------------------------------------------------------------------
+ but they may take 2–4 years to 
+complete their three life stages, during which they can spend well over 90 percent of the time in 
+the environment.31,32 However, ticks often depend on certain microhabitats and vegetation types 
+within wide-ranging ecosystems.33 Acaricides are effective against both species, but susceptible 
+host species must be treated often.34    
+1.6 Bont and Tropical Bont Ticks in the United States 
+There is a risk that either species of tick could enter the United States on a wildlife host, an 
+imported host animal, or travelers and/or their pets. Bont ticks have been documented on U.S. 
+24 Center for Food Security and Public Health (3). 2006. Fast Facts Dermatophilosis. Available at 
+http://www.cfsph.iastate.edu/FastFacts/pdfs/dermatophilosis_F.pdf.    
+25 Edinburgh Infectious Diseases, The University of Edinburgh. 2013. “New study shows bacteria that cause African 
+tick bite fever now infect ticks in Uganda.” http://www.eid.ed.ac.uk.  
+26 CDC. 2013. “African Tick-Bite Fever.” http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever.  
+27 USDA APHIS, 2013.  
+28 CFSPH (3). 2006.  
+29 Pegram et al., 1996.  
+30 Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and control.” Parasites of 
+Livestock, Dogs, and Cats. Available at 
+http://parasit
+Text Len: 1322
+--------------------------------------------------------------------------------
+
+28 CFSPH (3). 2006.  
+29 Pegram et al., 1996.  
+30 Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and control.” Parasites of 
+Livestock, Dogs, and Cats. Available at 
+http://parasitipedia.net/index.php?option=com_content&view=article&id=2544&Itemid=2820.  
+31 CFSPH, 2006. 
+32 CFSPH (2), 2006. 
+33 Levin ML. 2011. “Tick Control.” Merck Veterinary Manual.Available at 
+http://www.merckmanuals.com/vet/integumentary_system/ticks/tick_control.html.  
+34 CFSPH, 2006. 
+SOP Manual 1-6 Bont/Tropical Bont Tick Etiology and Ecology 
+                                                
+travelers returning from Africa and on imported rhinoceroses.35,36 Introduction of bont or tropical 
+bont ticks is of concern not only due to the direct damage they can do to their hosts (bite wounds, 
+stress, blood loss), but also because there are many competent arthropod vectors, and domestic 
+animal and wildlife hosts in the United States for the pathogens they may carry, particularly 
+heartwater.37  
+T
+he tropical bont tick has spread throughout the Caribbean, once as far north as Puerto Rico. 
+This, in combination with the presence of the cattle egret in the Florida
+Text Len: 1193
+--------------------------------------------------------------------------------
+), but also because there are many competent arthropod vectors, and domestic 
+animal and wildlife hosts in the United States for the pathogens they may carry, particularly 
+heartwater.37  
+T
+he tropical bont tick has spread throughout the Caribbean, once as far north as Puerto Rico. 
+This, in combination with the presence of the cattle egret in the Florida Keys, led to the United 
+States entering a coalition of international government agencies and non-profits to establish the 
+Caribbean Ambylomma Program (CAP) to eradicate the tropical bont tick from certain islands 
+(other members include Belgium, Germany, Italy, the United Kingdom, the Food and 
+Agriculture Organization of the United Nations, the Inter-American Institute for Cooperation on 
+Agriculture, and the Caribbean Community). The CAP program had varied success before 
+ending in 2008, with six islands declared “provisionally free”, but re-infestations sometimes 
+occurred, such as in St. Kitts in 2004.38,39  
+35 Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of the exotic tick 
+Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 88(4): 800–801. 
+36 Wilson DD, Richard RD. 1984. Interception of a vector of heartwater, Amblyomma hebraeum Koch (Acari: 
+Ixodidae) or black rhinocerouses imported into the United States. Proceedings, Eighty-eighth Annual Meeting of the 
+United States Animal Health Association. 301–311. 
+37 Pegram et al., 1996. 
+38 Pegram et al., 1996. 
+39 Ahoussou S, Lance
+Text Len: 1524
+--------------------------------------------------------------------------------
+eum Koch (Acari: 
+Ixodidae) or black rhinocerouses imported into the United States. Proceedings, Eighty-eighth Annual Meeting of the 
+United States Animal Health Association. 301–311. 
+37 Pegram et al., 1996. 
+38 Pegram et al., 1996. 
+39 Ahoussou S, Lancelot R, Sanford B, Porphyre T, Bartlette-Powell P, Compton E, Henry L, Maitland R, Lloyd R, 
+Mattioli R, Chavernac D, Stachurski F, Martinez D, Meyer DF, Vachiery N, Pegram R, Lefrançois T. 2010. 
+Analysis of Amblyomma surveillance data in the Caribbean: Lessons for future control programmes. Veterinary 
+Parasitology.167: 327–335. 
+SOP Manual 1 -7 Bont/Tropical Bont Tick Etiology and Ecology
+ 
+Attachment 1.A References and Selected 
+Resources 
+Ahoussou S, Lancelot R, Sanford B, Porphyre T, Bartlette-Powell P, Compton E, Henry L, 
+Maitland R, Lloyd R, Mattioli R, Chavernac D, Stachurski F, Martinez D, Meyer DF, Vachiery 
+N, Pegram R, Lefrançois T. 2010. Analysis of Amblyomma surveillance data in the Caribbean: 
+Lessons for future control programmes. Veterinary Parasitology.167: 327–335. 
+Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of 
+the exotic tick Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 
+88
+Text Len: 1235
+--------------------------------------------------------------------------------
+ 
+Lessons for future control programmes. Veterinary Parasitology.167: 327–335. 
+Burridge MJ, Simmons LA, Simbi BH, Mahan SM, Fournier PE, Raoult D. 2002. Introduction of 
+the exotic tick Ambyomma hebraeum into Florida on a human host. Journal of Parasitology. 
+88(4): 800–801. 
+Caribbean Animal Health Network. 2011. “Monograph: Heartwater.” Available at 
+http://www.caribvet.net/en/diseases/heartwater/monograph. 
+Center for Food Security and Public Health, Iowa State University (CFSPH). 2006. 
+“Amblyomma hebraeum Technical Factsheet.” 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_hebraeum.pdf. 
+CFSPH (2). 2006. “Amblyomma variegatum Technical Factsheet.” 
+http://www.cfsph.iastate.edu/Factsheets/pdfs/amblyomma_variegatum.pdf.  
+CFSPH (3). 2006. “Fast Facts Dermatophilosis.” Available at 
+http://www.cfsph.iastate.edu/FastFacts/pdfs/dermatophilosis_F.pdf.    
+Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+Corn JL, Berger P, Mertins JW. 2009. Surveys for ect
+Text Len: 1076
+--------------------------------------------------------------------------------
+pdf.    
+Centers for Disease Control and Prevention (CDC). 2013. “African Tick-Bite Fever.” 
+http://wwwnc.cdc.gov/travel/diseases/african-tick-bite-fever. 
+Corn JL, Berger P, Mertins JW. 2009. Surveys for ectoparasites on wildlife associated with 
+Amblyomma variegatum (Acari: Ixodidae)-infested livestock in St. Croix, U.S. Virgin Islands. 
+Journal of Medical Entomology. 46(6): 1483-1489. 
+Deem SL. 1998. A review of heartwater and the threat of introduction of Cowdra ruminatium 
+and Amblyomma spp. Ticks to the American mainland. Journal of Zoo and Wildlife Medicine. 
+29: 109-133. 
+Edinburgh Infectious Diseases, The University of Edinburgh. 2013. “New study shows bacteria 
+that cause African tick bite fever now infect ticks in Uganda.” Available at 
+http://www.eid.ed.ac.uk.  
+Guglielmone A, Robbins R, Apanaskevich D, Petney T, Estrada-Pena A, Horak I. 2014. The 
+Hard Ticks of the World. Springer: New York. 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+SOP Manual 1-8 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003
+Text Len: 1173
+--------------------------------------------------------------------------------
+vang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+SOP Manual 1-8 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Jensenius M, Fournier PE, Kelly P, Myrvang B, Raoult D. 2003. African tick bite fever. Lancet 
+Infectious Diseases. 3(9): 557-64. 
+Junquera P. 2013. “Amblyomma ticks on livestock, dogs, and cats. Biology, prevention, and 
+control.” Parasites of Livestock, Dogs, and Cats. Available at 
+http://parasitipedia.net/index.php?option=com_content&view=article&id=2544&Itemid=2820.  
+Levin ML. 2011. “Tick Control- Merck Veterinary Manual.” Available at 
+http://www.merckmanuals.com/vet/integumentary_system/ticks/tick_control.html. 
+Lounsbury CP. 1899. The bont tick: Its life history and habits. Agricultural Journal of Cape of 
+Good Hope. 15: 728-743. 
+Pegram R, Indar L, Eddy C, George J. 2004. The Caribbean Amblyomma program: some 
+ecologic factors affecting its success. Annals of the NY Academy of Science. 1026: 302-311. 
+Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum 
+from the Caribbean. Experimental and Applied Acarology. 28: 273-281. 
+Pegram RG, Rota A, Onkelinx R, Wilson DD
+Text Len: 1175
+--------------------------------------------------------------------------------
+ Annals of the NY Academy of Science. 1026: 302-311. 
+Pegram RG and Eddy C. 2002. Progress towards the eradication of Amblyomma variegatum 
+from the Caribbean. Experimental and Applied Acarology. 28: 273-281. 
+Pegram RG, Rota A, Onkelinx R, Wilson DD, Bartlette P, BS Nisbett, Swanston G, Vanterpool 
+P, de Castro JJ. 1996. Eradicating the tropical bont tick from the Caribbean. FAO Corporate 
+Document Repository. Available at http://www.fao.org/docrep/W2650T/w2650t06.htm.  
+USDA APHIS. 2013. Heartwater, Standard Operating Procedures Etiology and Ecology. 
+Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_heartwat
+er_e-e.pdf.  
+ 
+USDA APHIS. 2013. Nairobi Sheep Disease, Standard Operating Procedures Etiology and 
+Ecology. Available at 
+http://www.aphis.usda.gov/animal_health/emergency_management/downloads/sop/sop_nsd_e-
+e.pdf. 
+ 
+Wilson DD, Richard RD. 1984. Interception of a vector of heartwater, Amblyomma hebraeum 
+Koch (Acari: Ixodidae) or black rhinocerouses imported into the United States. Proceedings, 
+Eighty-eighth Annual Meeting of the United States Animal Health Association. 301–311. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP Manual 1-9 Bont/T
+Text Len: 1184
+--------------------------------------------------------------------------------
+lyomma hebraeum 
+Koch (Acari: Ixodidae) or black rhinocerouses imported into the United States. Proceedings, 
+Eighty-eighth Annual Meeting of the United States Animal Health Association. 301–311. 
+ 
+ 
+ 
+ 
+ 
+ 
+SOP Manual 1-9 Bont/Tropical Bont Tick Etiology and Ecology 
+ 
+Attachment 1.B Abbreviations 
+APHIS Animal and Plant Health Inspection Service 
+CAP Caribbean Amblyomma Program 
+CDC Centers for Disease Control and Prevention 
+CFSPH Center for Food Safety and Public Health 
+FAD PReP Foreign Animal Disease Preparedness and Response Plan 
+OIE World Organization for Animal Health 
+NAHEMS National Animal Health Emergency Management System 
+NSD Nairobi sheep disease 
+SOP standard operating procedure  
+TDD telecommunications device for the deaf 
+USDA United States Department of Agriculture 
+ 
+ 
+  
+SOP Manual 1-10 Bont/Tropical Bont Tick Etiology and Ecology 
+Text Len: 866
+--------------------------------------------------------------------------------

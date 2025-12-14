@@ -1,0 +1,332 @@
+1 
+ 
+Testing for Senecavirus A in Biological Products 
+ 
+Background 
+Senecavirus A (SVA), also known as Seneca valley virus, is a positive single stranded RNA 
+virus belonging to Picornaviridae family. The virus causes disease in young pigs. The 
+pathological lesions in infected animals are similar to reportable diseases such as foot and mouth 
+disease, vesicular stomatitis, swine vesicular disease, and vesicular exanthema. Disease 
+outbreaks have been reported in Australia, Brazil, New Zealand, China, and Canada. Outbreaks 
+have increased in the United States rapidly over the last few years.  
+At the 2017 annual meeting of the American Association of Swine Veterinarians (AASV), a 
+biologics company reported SVA contamination in two lots of porcine-derived trypsin. The 
+identification was made by whole genome sequencing and virus isolation. The finding raised 
+concerns with pork industry representatives regarding the possibility of SVA contamination in 
+veterinary biological products, including those already licensed and in commerce. In response, 
+the Center for Veterinary Biologics (CVB) immediately initiated testing vaccine samples 
+available in the CVB repository that were known to be manufactured using porcine-derived 
+ingredients. The repository contains samples of all vaccines on the market that have current 
+expiration dates.  
+Selection of Biological Product Samples  
+CVB prioritized the highest risk biologics for testing. Those included biologics used in swine 
+and manufactured using swine serum and swine-derived trypsin. For their initial testing, CVB 
+selected forty-two (42) samples of high risk biologic serials from the repository.   
+Text Len: 1674
+--------------------------------------------------------------------------------
+Selection of Biological Product Samples  
+CVB prioritized the highest risk biologics for testing. Those included biologics used in swine 
+and manufactured using swine serum and swine-derived trypsin. For their initial testing, CVB 
+selected forty-two (42) samples of high risk biologic serials from the repository.   
+Testing Procedure  
+CVB included trypsin lots routinely used, including the two trypsin lots identified as 
+contaminated during the AASV meeting. For positive controls, CVB used trypsin and vaccine 
+samples spiked with control plasmids or with SVA. For subsequent testing, CVB incorporated 
+thirty-five (35) CVB repository available serials of inactivated autogenous and mycoplasma 
+bacterins.  
+CVB screened multiple cell lines. For the biologics sample testing, they chose the fast growing 
+and easily available chicken embryo fibroblast (CEF) cell culture substrate for SVA isolation. 
+They adopted the sensitive Fowler real-time rt-qPCR testing method for amplification and 
+screening of viral RNA. RNA was extracted directly from the biologics samples, serum and 
+trypsin samples, and the infected CEF cell cultures. Independent confirmatory testing was 
+completed at Iowa State University (ISU) laboratory in Ames, Iowa and VS’ Foreign Animal 
+Disease Diagnostic Laboratory (FADDL) in Plum Island, New York.   
+Results and Discussion 
+The testing results are summarized in the Tables below. CVB testing found all biologics samples 
+screened negative except for two vaccine serials manufactured by one firm that was positive for 
+2 
+ 
+SVA nucleic acid. Both of the vaccine serials tested positive
+Text Len: 1619
+--------------------------------------------------------------------------------
+ (FADDL) in Plum Island, New York.   
+Results and Discussion 
+The testing results are summarized in the Tables below. CVB testing found all biologics samples 
+screened negative except for two vaccine serials manufactured by one firm that was positive for 
+2 
+ 
+SVA nucleic acid. Both of the vaccine serials tested positive in confirmatory testing at the ISU 
+laboratory as well as at FADDL. Of the several trypsin and swine serum samples screened, CVB 
+only found one serum lot positive by rt-qPCR. ISU and FADDL confirmed this result. This 
+serum lot was used during the manufacturing of the two serials that were identified as SVA 
+contaminated in the initial CVB screening. All control samples performed as expected. To date, 
+CVB has not found vaccine serials, serum, or trypsin samples positive for SVA contamination 
+during screening. 
+CVB further characterized the SVA present in two PCR positive vaccine serials and one PCR 
+positive serum sample found during their initial screening. The quality of both the cDNA 
+necessary for nucleic acid library preparation, and the viral RNA for direct sequencing was 
+compromised because the contaminated serum used in the preparation of the two serials was 
+inactivated by gamma irradiation at 47kGy. Thus, the whole genome sequencing (WGS) method 
+failed to detect SVA in any of these three positive samples. However, PCR amplification and 
+Sanger Sequencing attempts were useful in successfully generating an SVA-specific 1.8kb 
+nucleic acid fragment. This SVA nucleic acid fragment was similar to the SVA-OH2 strain 
+isolated in 2015 and available at GenBank with identification #KU058183.1
+Text Len: 1642
+--------------------------------------------------------------------------------
+ in any of these three positive samples. However, PCR amplification and 
+Sanger Sequencing attempts were useful in successfully generating an SVA-specific 1.8kb 
+nucleic acid fragment. This SVA nucleic acid fragment was similar to the SVA-OH2 strain 
+isolated in 2015 and available at GenBank with identification #KU058183.1. Despite the 
+identification of SVA nucleic acid in these samples, CVB did not detect viable virus in any 
+of the samples tested. 
+Table 1.  Susceptibility of Various Cell Lines for SVA Infection 
+Cell Line Type SVA Titer in 
+Logs TCID50 
+Virus Amplification Identification by 
+CPE* IFA* 
+B-ST cells  8.2 + + 
+CEF 8.1 + + 
+CrFk 7 + + 
+DF-1 5.8 + + 
+GPC 9.5 + + 
+H1299 8.8 + + 
+MA-104 6.9 + + 
+MDBK-A 7.6 + + 
+MDCK 6.6 - + 
+McCoy 6.2 - + 
+PK-15N 7.5 + + 
+PK-13B 6 + + 
+VERO 7.3 + + 
+*CPE=Cytopathogenic effect; IFA=Immunofluorescent Antibody test 
+  
+3 
+ 
+Table 2. Biologics & Animal Origin Ingredients Test Results for SVA Contamination 
+Sample Type Serials/Lots/Sample
+s 
+(Total #) 
+Serials/Lots/Samples Identified Positive by 
+Cell Culture Test 
+(Total #) 
+PCR Method 
+(Total #) 
+Modified Live
+Text Len: 1120
+--------------------------------------------------------------------------------
+
+3 
+ 
+Table 2. Biologics & Animal Origin Ingredients Test Results for SVA Contamination 
+Sample Type Serials/Lots/Sample
+s 
+(Total #) 
+Serials/Lots/Samples Identified Positive by 
+Cell Culture Test 
+(Total #) 
+PCR Method 
+(Total #) 
+Modified Live Virus 
+Vaccines 
+42 0 2 
+Autogenous Vaccines 7 0 0 
+Mycoplasma Bacterins 28 0 0 
+Serum lots 4 0 1 
+Trypsin lots 6 0 0 
+Spiked CEF samples 2 2 NA 
+Spiked PCR Samples 7 NA 7 
+ 
+Conclusions 
+CVB could not reproduce the results presented at AASV meeting.  CVB tested 77 biologics 
+samples with the highest risk of contamination with SVA. CVB found two vaccine serials, which 
+were manufactured by a single firm using the same lot of swine serum, positive for SVA nucleic 
+acid. CVB testing did not detect viable virus in any of the samples, and testing supports that 
+the serum had been adequately irradiated to inactivate the virus. CVB found none of the 
+screened porcine-derived trypsin samples positive for SVA. Based on CVB’s testing, it is 
+reasonable to conclude that there is no evidence to suggest viable SVA is present as an 
+extraneous agent in any of the vaccines that were evaluated. Further, it is very unlikely that 
+SVA was spread by contaminated vaccines. 
+The CVB has implemented SVA contamination screening for all incoming Master Seeds, 
+incoming Master Cells, and materials with animal origin ingredients. The CVB published a draft 
+notice recommending biologics manufacturers implement SVA contamination screening of all
+Text Len: 1485
+--------------------------------------------------------------------------------
+aneous agent in any of the vaccines that were evaluated. Further, it is very unlikely that 
+SVA was spread by contaminated vaccines. 
+The CVB has implemented SVA contamination screening for all incoming Master Seeds, 
+incoming Master Cells, and materials with animal origin ingredients. The CVB published a draft 
+notice recommending biologics manufacturers implement SVA contamination screening of all 
+seed materials and animal origin ingredients.  
+Also, the CEF cell culture system is non-permissive to FMD virus amplification. Plans are 
+underway at the CVB to use lamb kidney and BHK21 cells for standardizing a test for viable 
+SVA contamination detection, which will also detect FMD in animal origin ingredients. CVB is 
+working with industry to review all testing of animal origin ingredients regulations and will 
+propose updated guidance in the near future.   
+ 
+Text Len: 873
+--------------------------------------------------------------------------------
+1 
+ 
+Testing for Senecavirus A in Biological Products 
+ 
+Background 
+Senecavirus A (SVA), also known as Seneca valley virus, is a positive single stranded RNA 
+virus belonging to Picornaviridae family. The virus causes disease in young pigs. The 
+pathological lesions in infected animals are similar to reportable diseases such as foot and mouth 
+disease, vesicular stomatitis, swine vesicular disease, and vesicular exanthema. Disease 
+outbreaks have been reported in Australia, Brazil, New Zealand, China, and Canada. Outbreaks 
+have increased in the United States rapidly over the last few years.  
+At the 2017 annual meeting of the American Association of Swine Veterinarians (AASV), a 
+biologics company reported SVA contamination in two lots of porcine-derived trypsin. The 
+identification was made by whole genome sequencing and virus isolation. The finding raised 
+concerns with pork industry representatives regarding the possibility of SVA contamination in 
+veterinary biological products, including those already licensed and in commerce. In response, 
+the Center for Veterinary Biologics (CVB) immediately initiated testing vaccine samples 
+available in the CVB repository that were known to be manufactured using porcine-derived 
+ingredients. The repository contains samples of all vaccines on the market that have current 
+expiration dates.  
+Selection of Biological Product Samples  
+CVB prioritized the highest risk biologics for testing. Those included biologics used in swine 
+and manufactured using swine serum and swine-derived trypsin. For their initial testing, CVB 
+selected forty-two (42) samples of high risk biologic serials from the repository.   
+Text Len: 1674
+--------------------------------------------------------------------------------
+Selection of Biological Product Samples  
+CVB prioritized the highest risk biologics for testing. Those included biologics used in swine 
+and manufactured using swine serum and swine-derived trypsin. For their initial testing, CVB 
+selected forty-two (42) samples of high risk biologic serials from the repository.   
+Testing Procedure  
+CVB included trypsin lots routinely used, including the two trypsin lots identified as 
+contaminated during the AASV meeting. For positive controls, CVB used trypsin and vaccine 
+samples spiked with control plasmids or with SVA. For subsequent testing, CVB incorporated 
+thirty-five (35) CVB repository available serials of inactivated autogenous and mycoplasma 
+bacterins.  
+CVB screened multiple cell lines. For the biologics sample testing, they chose the fast growing 
+and easily available chicken embryo fibroblast (CEF) cell culture substrate for SVA isolation. 
+They adopted the sensitive Fowler real-time rt-qPCR testing method for amplification and 
+screening of viral RNA. RNA was extracted directly from the biologics samples, serum and 
+trypsin samples, and the infected CEF cell cultures. Independent confirmatory testing was 
+completed at Iowa State University (ISU) laboratory in Ames, Iowa and VS’ Foreign Animal 
+Disease Diagnostic Laboratory (FADDL) in Plum Island, New York.   
+Results and Discussion 
+The testing results are summarized in the Tables below. CVB testing found all biologics samples 
+screened negative except for two vaccine serials manufactured by one firm that was positive for 
+2 
+ 
+SVA nucleic acid. Both of the vaccine serials tested positive
+Text Len: 1619
+--------------------------------------------------------------------------------
+ (FADDL) in Plum Island, New York.   
+Results and Discussion 
+The testing results are summarized in the Tables below. CVB testing found all biologics samples 
+screened negative except for two vaccine serials manufactured by one firm that was positive for 
+2 
+ 
+SVA nucleic acid. Both of the vaccine serials tested positive in confirmatory testing at the ISU 
+laboratory as well as at FADDL. Of the several trypsin and swine serum samples screened, CVB 
+only found one serum lot positive by rt-qPCR. ISU and FADDL confirmed this result. This 
+serum lot was used during the manufacturing of the two serials that were identified as SVA 
+contaminated in the initial CVB screening. All control samples performed as expected. To date, 
+CVB has not found vaccine serials, serum, or trypsin samples positive for SVA contamination 
+during screening. 
+CVB further characterized the SVA present in two PCR positive vaccine serials and one PCR 
+positive serum sample found during their initial screening. The quality of both the cDNA 
+necessary for nucleic acid library preparation, and the viral RNA for direct sequencing was 
+compromised because the contaminated serum used in the preparation of the two serials was 
+inactivated by gamma irradiation at 47kGy. Thus, the whole genome sequencing (WGS) method 
+failed to detect SVA in any of these three positive samples. However, PCR amplification and 
+Sanger Sequencing attempts were useful in successfully generating an SVA-specific 1.8kb 
+nucleic acid fragment. This SVA nucleic acid fragment was similar to the SVA-OH2 strain 
+isolated in 2015 and available at GenBank with identification #KU058183.1
+Text Len: 1642
+--------------------------------------------------------------------------------
+ in any of these three positive samples. However, PCR amplification and 
+Sanger Sequencing attempts were useful in successfully generating an SVA-specific 1.8kb 
+nucleic acid fragment. This SVA nucleic acid fragment was similar to the SVA-OH2 strain 
+isolated in 2015 and available at GenBank with identification #KU058183.1. Despite the 
+identification of SVA nucleic acid in these samples, CVB did not detect viable virus in any 
+of the samples tested. 
+Table 1.  Susceptibility of Various Cell Lines for SVA Infection 
+Cell Line Type SVA Titer in 
+Logs TCID50 
+Virus Amplification Identification by 
+CPE* IFA* 
+B-ST cells  8.2 + + 
+CEF 8.1 + + 
+CrFk 7 + + 
+DF-1 5.8 + + 
+GPC 9.5 + + 
+H1299 8.8 + + 
+MA-104 6.9 + + 
+MDBK-A 7.6 + + 
+MDCK 6.6 - + 
+McCoy 6.2 - + 
+PK-15N 7.5 + + 
+PK-13B 6 + + 
+VERO 7.3 + + 
+*CPE=Cytopathogenic effect; IFA=Immunofluorescent Antibody test 
+  
+3 
+ 
+Table 2. Biologics & Animal Origin Ingredients Test Results for SVA Contamination 
+Sample Type Serials/Lots/Sample
+s 
+(Total #) 
+Serials/Lots/Samples Identified Positive by 
+Cell Culture Test 
+(Total #) 
+PCR Method 
+(Total #) 
+Modified Live
+Text Len: 1120
+--------------------------------------------------------------------------------
+
+3 
+ 
+Table 2. Biologics & Animal Origin Ingredients Test Results for SVA Contamination 
+Sample Type Serials/Lots/Sample
+s 
+(Total #) 
+Serials/Lots/Samples Identified Positive by 
+Cell Culture Test 
+(Total #) 
+PCR Method 
+(Total #) 
+Modified Live Virus 
+Vaccines 
+42 0 2 
+Autogenous Vaccines 7 0 0 
+Mycoplasma Bacterins 28 0 0 
+Serum lots 4 0 1 
+Trypsin lots 6 0 0 
+Spiked CEF samples 2 2 NA 
+Spiked PCR Samples 7 NA 7 
+ 
+Conclusions 
+CVB could not reproduce the results presented at AASV meeting.  CVB tested 77 biologics 
+samples with the highest risk of contamination with SVA. CVB found two vaccine serials, which 
+were manufactured by a single firm using the same lot of swine serum, positive for SVA nucleic 
+acid. CVB testing did not detect viable virus in any of the samples, and testing supports that 
+the serum had been adequately irradiated to inactivate the virus. CVB found none of the 
+screened porcine-derived trypsin samples positive for SVA. Based on CVB’s testing, it is 
+reasonable to conclude that there is no evidence to suggest viable SVA is present as an 
+extraneous agent in any of the vaccines that were evaluated. Further, it is very unlikely that 
+SVA was spread by contaminated vaccines. 
+The CVB has implemented SVA contamination screening for all incoming Master Seeds, 
+incoming Master Cells, and materials with animal origin ingredients. The CVB published a draft 
+notice recommending biologics manufacturers implement SVA contamination screening of all
+Text Len: 1485
+--------------------------------------------------------------------------------
+aneous agent in any of the vaccines that were evaluated. Further, it is very unlikely that 
+SVA was spread by contaminated vaccines. 
+The CVB has implemented SVA contamination screening for all incoming Master Seeds, 
+incoming Master Cells, and materials with animal origin ingredients. The CVB published a draft 
+notice recommending biologics manufacturers implement SVA contamination screening of all 
+seed materials and animal origin ingredients.  
+Also, the CEF cell culture system is non-permissive to FMD virus amplification. Plans are 
+underway at the CVB to use lamb kidney and BHK21 cells for standardizing a test for viable 
+SVA contamination detection, which will also detect FMD in animal origin ingredients. CVB is 
+working with industry to review all testing of animal origin ingredients regulations and will 
+propose updated guidance in the near future.   
+ 
+Text Len: 873
+--------------------------------------------------------------------------------

@@ -1,0 +1,158 @@
+Crop Knowledge Master
+Erwinia tracheiphila
+bacterial wilt of cucurbits (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Spread Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+The preferred hosts of E. tracheiphila are in the cucurbit family (wild and cultivated species), of which cucumbers are "the most susceptible host, followed by muskmelon, squash, and pumpkin" (Agrios, 1978). Watermelon, however, is extremely resistant to bacterial wilt. Watterson et al. (1971) tested 14 watermelon cultivars and found that each was susceptible to the pathogen when the plants were at the 1-leaf stage, but plants inoculated at the 10-leaf stage exhibited no bacterial wilt symptoms, although isolations of these plants indicated that the bacteria were still present.
+E. tracheiphila is reported to attack non-cucurbit hosts, i.e., corn (Bach, 1980), but apparently with no significant losses. Golden rod (Solidago nemoralis Ait. and A. altissima L.) and johnson grass (Sorghum halepense L.) are believed to host E. tracheiphila over winter, though these hosts do not show symptoms of bacterial wilt (Bassi, 1982; Staub and Peterson, 1986).
+DISTRIBUTION
+E. tracheiphila is found throughout the United States, although it is most severe in the East. It also occurs in central and northern Europe, South Africa, and Japan.
+SYMPTOMS
+Bacterial wilt first appears as a drooping or wilting of one or a few leaves on a vine, followed by the wil
+Text Len: 1584
+--------------------------------------------------------------------------------
+, 1986).
+DISTRIBUTION
+E. tracheiphila is found throughout the United States, although it is most severe in the East. It also occurs in central and northern Europe, South Africa, and Japan.
+SYMPTOMS
+Bacterial wilt first appears as a drooping or wilting of one or a few leaves on a vine, followed by the wilting of the entire vine, then the remainder of the plant wilts, dies, and dries up. Symptoms develop more slowly in less susceptible plants or under unfavorable conditions. Instead of rapid wilting, these plants may exhibit reduced growth and/or excessive blossoming and branching (Agrios, 1978).
+A good diagnostic test for bacterial wilt, especially for cucumber and some squash, but less reliable for muskmelon (MacNab et al., 1983), is to examine suspect infected stems. Cut the stem and press it between the fingers until droplets of white ooze appear on the cut surface. Touch a finger or knife tip to the ooze and gently pull away. The plant is positive for bacterial wilt if delicate threads are extended for several centimeters (Agrios, 1978; MacNab et. al., 1983).
+E. tracheiphila is known to invade squash and cause internal spoilage (a slime) during storage. The fruit rots internally with little or no outside appearance. After several months in storage the exterior surface may show dark spots or blotches which coalesce and enlarge. In addition, infected squash become prime targets for invasion by soft-rot microorganisms (Agrios, 1978).
+BIOLOGY
+In early spring, cucumber beetles feed on plants that store E. tracheiphila over winter, acquire the pathogen, and then are able to contaminate cucurbit plants. The cucumber beetles feed on cucurbit leaves, injuring them in the process, and deposit contaminated feces on the
+Text Len: 1740
+--------------------------------------------------------------------------------
+ for invasion by soft-rot microorganisms (Agrios, 1978).
+BIOLOGY
+In early spring, cucumber beetles feed on plants that store E. tracheiphila over winter, acquire the pathogen, and then are able to contaminate cucurbit plants. The cucumber beetles feed on cucurbit leaves, injuring them in the process, and deposit contaminated feces on the wounds left behind. The bacteria enter the plant's xylem vessels by swimming through the sap at the wounds, multiply, and spread to all parts of the plant. As the bacteria multiply in the xylem, the efficiency of the water conducting system of the plant is reduced. Infected stems provide less than one-fifth the normal water flow, indicating that extensive plugging of the vessels may be the primary cause of wilting (Agrios, 1978).
+Infections take place only when a film of water is present which provides the pathogen the means to reach a wound and move into the xylem vessels. Wilt symptoms appear 6 to 7 days after infection and the plant is usually completely wilted by the fifteenth day. The bacteria in infected plants die within one or two months after the plant dries up (Agrios, 1978).
+Some cucurbit and non-cucurbit plants may be infected by E. tracheiphila but do not become diseased. Watterson et al. (1971) inoculated watermelon plants with E. tracheiphila when they were at the 10-leaf stage. Inoculated leaves wilted then dried up, as did the petioles, but no other symptoms were seen. "One to two weeks later, a vascular browning and longitudinal stem cracks appeared in the first or second internodes above the inoculated leaf. Cankers oozing slime occurred at the internode below the inoculated leaf. Isolations made from this region indicated that there were approximately 106 bacteria
+Text Len: 1746
+--------------------------------------------------------------------------------
+ wilted then dried up, as did the petioles, but no other symptoms were seen. "One to two weeks later, a vascular browning and longitudinal stem cracks appeared in the first or second internodes above the inoculated leaf. Cankers oozing slime occurred at the internode below the inoculated leaf. Isolations made from this region indicated that there were approximately 106 bacteria/cm stem sections. Normally, these infected plants produced numerous symptomless runners below the point of inoculation, thus allowing the plant to outgrow the disease. A few plants which failed to produce vigorous runners below the cankers died." E. tracheiphila has not been reported to infect watermelon naturally (Rand and Enlows, 1920; Watterson et. al., 1971).
+SPREAD
+Bacterial wilt is spread by striped cucumber beetles (Acalymma vittata) and spotted cucumber beetles (Diabrotica undecimpunctata). The bacteria survives in their intestines. The beetles are responsible for the dissemination and inoculation of the pathogen. Each contaminated beetle can infect at least three or four healthy plants after one feeding on a wilted plant, although some beetles are capable of spreading infection for more than three weeks after one wilt feeding (Agrios, 1978). Bacterial wilt has long been thought to overwinter in adult beetles, though it is now believed to overwinter in symptomless plants of golden rod (Solidago nemoralis Ait. and S. altissima L.) and Johnson grass (Sorghum halepense L.). It is possible that other perennials are sources of primary inoculum also. (Bassi, 1982; Staub and Peterson, 1986).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cucumber and muskmelon are two cucurbit species that often fall to bacterial wilt. While there are some "less susceptible" varieties available
+Text Len: 1767
+--------------------------------------------------------------------------------
+ghum halepense L.). It is possible that other perennials are sources of primary inoculum also. (Bassi, 1982; Staub and Peterson, 1986).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cucumber and muskmelon are two cucurbit species that often fall to bacterial wilt. While there are some "less susceptible" varieties available, efforts to develop resistant varieties that provide adequate fruit are continuous.
+Watterson et al. (1971) tested 59 cucurbit species/cultivars and 10 exhibited slight but recoverable symptoms (in the genuses Bryonopsis, Cucumis, Cucurbita, Cyclanthera, Echinocystis, Lagenaria, Luffa, Momordica, Sicana, Sicyos, and Trichosanthes). The recoverable symptoms usually appeared as a slight yellowing reaction distal to the point of inoculation. Two species exhibited symptoms on inoculated leaves, then lost those leaves and exhibited no symptoms thereafter. The cultivars with minimal symptoms were: Cucumis sativus L. line WR 18, Cucurbita andreana Naud., C. ficifolia Bouche, C. lundelliana L. H. Bailey, C. maxima Duch. cv. Buttercup, C. pepo L. cv. Black Beauty Zucchini, C. pepo L. cv. Connecticut Yellow Field, C. pepo L. Jack-O-Lantern, Cyclanthera pedata Schrad., and Lagenaria sp. The two cultivars that "recovered" were Cucurbita moschata Duch. and C. sororia L.H. Bailey.
+Reed and Stevenson (1985) tested many (over 100) muskmelon cultivars for resistance to E
+Text Len: 1381
+--------------------------------------------------------------------------------
+. Jack-O-Lantern, Cyclanthera pedata Schrad., and Lagenaria sp. The two cultivars that "recovered" were Cucurbita moschata Duch. and C. sororia L.H. Bailey.
+Reed and Stevenson (1985) tested many (over 100) muskmelon cultivars for resistance to E. tracheiphila. Fifty four cultivars exhibited some resistance, but no cultivar was adequately resistant for commercial use without the need for insecticides. "The three cultivars with highest percent survival and six of the 10 with highest percent survival ... were obsolete cultivars", indicating the need for preserving these lines.
+Squash rot can be avoided only in fruit from healthy plants by storing it in a clean, fumigated warehouse (Agrios, 1978).
+CHEMICAL CONTROL
+Bacterial wilt of cucurbits is controlled mostly by controlling the cucumber beetles with insecticides. However, recommended insecticides are often toxic to pollinators and should not be applied during pollination. In addition, beetles should be controlled early in order to limit multiplication and spread of the pathogen (Agrios, 1978; Staub and Peterson, 1986). Agrios (1978) lists carbaryl (Sevin), methoxychlor, and rotenone as likely insecticides.
+REFERENCES
+Agrios, G.N. 1978. Plant Pathology, 2nd ed. pp.466-470.
+Bach, C.E. 1980. Effects of plant diversity and time of colonization on an herbivore-plant interaction. Oecologia 44:319-326.
+Bassi, A. 1982. The overwintering nature of Erwinia tracheiphila (Smith) and resistance to bacterial wilt in cucumber. PhD Diss. Univ. of Arkansas, Fayetteville.
+MacNab, A.
+Text Len: 1539
+--------------------------------------------------------------------------------
+ Effects of plant diversity and time of colonization on an herbivore-plant interaction. Oecologia 44:319-326.
+Bassi, A. 1982. The overwintering nature of Erwinia tracheiphila (Smith) and resistance to bacterial wilt in cucumber. PhD Diss. Univ. of Arkansas, Fayetteville.
+MacNab, A.A., A.F. Sherf, and J.K. Springer. 1983. Identifying Diseases of Vegetables. The Pennsylvania State University.
+Rand, F.V., and E.M.A. Enlows. 1920. Bacterial wilt of cucurbits. U.S. Dept. of Agr. Bull. 828. 43 pp.
+Reed, G.L., and W.R. Stevenson. 1985. Bacterial wilt resistance in commercial muskmelon cultivars. Indiana Academy of Science 94:131-140.
+Staub, J.E., and C.E. Peterson. 1986. Comparisons between bacterial wilt resistant and susceptible gynoecious cucumber lines and F1 progeny. HortScience 21:1428-1430.
+Watterson, J.C., P.H. Williams, and R.D. Durbin. 1971. Response of cucurbits to Erwinia tracheiphila. Plant Disease Reporter 55:816-819.
+    OCTOBER 1992
+  2A-ERTRA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1026
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Erwinia tracheiphila
+bacterial wilt of cucurbits (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Spread Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+The preferred hosts of E. tracheiphila are in the cucurbit family (wild and cultivated species), of which cucumbers are "the most susceptible host, followed by muskmelon, squash, and pumpkin" (Agrios, 1978). Watermelon, however, is extremely resistant to bacterial wilt. Watterson et al. (1971) tested 14 watermelon cultivars and found that each was susceptible to the pathogen when the plants were at the 1-leaf stage, but plants inoculated at the 10-leaf stage exhibited no bacterial wilt symptoms, although isolations of these plants indicated that the bacteria were still present.
+E. tracheiphila is reported to attack non-cucurbit hosts, i.e., corn (Bach, 1980), but apparently with no significant losses. Golden rod (Solidago nemoralis Ait. and A. altissima L.) and johnson grass (Sorghum halepense L.) are believed to host E. tracheiphila over winter, though these hosts do not show symptoms of bacterial wilt (Bassi, 1982; Staub and Peterson, 1986).
+DISTRIBUTION
+E. tracheiphila is found throughout the United States, although it is most severe in the East. It also occurs in central and northern Europe, South Africa, and Japan.
+SYMPTOMS
+Bacterial wilt first appears as a drooping or wilting of one or a few leaves on a vine, followed by the wil
+Text Len: 1584
+--------------------------------------------------------------------------------
+, 1986).
+DISTRIBUTION
+E. tracheiphila is found throughout the United States, although it is most severe in the East. It also occurs in central and northern Europe, South Africa, and Japan.
+SYMPTOMS
+Bacterial wilt first appears as a drooping or wilting of one or a few leaves on a vine, followed by the wilting of the entire vine, then the remainder of the plant wilts, dies, and dries up. Symptoms develop more slowly in less susceptible plants or under unfavorable conditions. Instead of rapid wilting, these plants may exhibit reduced growth and/or excessive blossoming and branching (Agrios, 1978).
+A good diagnostic test for bacterial wilt, especially for cucumber and some squash, but less reliable for muskmelon (MacNab et al., 1983), is to examine suspect infected stems. Cut the stem and press it between the fingers until droplets of white ooze appear on the cut surface. Touch a finger or knife tip to the ooze and gently pull away. The plant is positive for bacterial wilt if delicate threads are extended for several centimeters (Agrios, 1978; MacNab et. al., 1983).
+E. tracheiphila is known to invade squash and cause internal spoilage (a slime) during storage. The fruit rots internally with little or no outside appearance. After several months in storage the exterior surface may show dark spots or blotches which coalesce and enlarge. In addition, infected squash become prime targets for invasion by soft-rot microorganisms (Agrios, 1978).
+BIOLOGY
+In early spring, cucumber beetles feed on plants that store E. tracheiphila over winter, acquire the pathogen, and then are able to contaminate cucurbit plants. The cucumber beetles feed on cucurbit leaves, injuring them in the process, and deposit contaminated feces on the
+Text Len: 1740
+--------------------------------------------------------------------------------
+ for invasion by soft-rot microorganisms (Agrios, 1978).
+BIOLOGY
+In early spring, cucumber beetles feed on plants that store E. tracheiphila over winter, acquire the pathogen, and then are able to contaminate cucurbit plants. The cucumber beetles feed on cucurbit leaves, injuring them in the process, and deposit contaminated feces on the wounds left behind. The bacteria enter the plant's xylem vessels by swimming through the sap at the wounds, multiply, and spread to all parts of the plant. As the bacteria multiply in the xylem, the efficiency of the water conducting system of the plant is reduced. Infected stems provide less than one-fifth the normal water flow, indicating that extensive plugging of the vessels may be the primary cause of wilting (Agrios, 1978).
+Infections take place only when a film of water is present which provides the pathogen the means to reach a wound and move into the xylem vessels. Wilt symptoms appear 6 to 7 days after infection and the plant is usually completely wilted by the fifteenth day. The bacteria in infected plants die within one or two months after the plant dries up (Agrios, 1978).
+Some cucurbit and non-cucurbit plants may be infected by E. tracheiphila but do not become diseased. Watterson et al. (1971) inoculated watermelon plants with E. tracheiphila when they were at the 10-leaf stage. Inoculated leaves wilted then dried up, as did the petioles, but no other symptoms were seen. "One to two weeks later, a vascular browning and longitudinal stem cracks appeared in the first or second internodes above the inoculated leaf. Cankers oozing slime occurred at the internode below the inoculated leaf. Isolations made from this region indicated that there were approximately 106 bacteria
+Text Len: 1746
+--------------------------------------------------------------------------------
+ wilted then dried up, as did the petioles, but no other symptoms were seen. "One to two weeks later, a vascular browning and longitudinal stem cracks appeared in the first or second internodes above the inoculated leaf. Cankers oozing slime occurred at the internode below the inoculated leaf. Isolations made from this region indicated that there were approximately 106 bacteria/cm stem sections. Normally, these infected plants produced numerous symptomless runners below the point of inoculation, thus allowing the plant to outgrow the disease. A few plants which failed to produce vigorous runners below the cankers died." E. tracheiphila has not been reported to infect watermelon naturally (Rand and Enlows, 1920; Watterson et. al., 1971).
+SPREAD
+Bacterial wilt is spread by striped cucumber beetles (Acalymma vittata) and spotted cucumber beetles (Diabrotica undecimpunctata). The bacteria survives in their intestines. The beetles are responsible for the dissemination and inoculation of the pathogen. Each contaminated beetle can infect at least three or four healthy plants after one feeding on a wilted plant, although some beetles are capable of spreading infection for more than three weeks after one wilt feeding (Agrios, 1978). Bacterial wilt has long been thought to overwinter in adult beetles, though it is now believed to overwinter in symptomless plants of golden rod (Solidago nemoralis Ait. and S. altissima L.) and Johnson grass (Sorghum halepense L.). It is possible that other perennials are sources of primary inoculum also. (Bassi, 1982; Staub and Peterson, 1986).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cucumber and muskmelon are two cucurbit species that often fall to bacterial wilt. While there are some "less susceptible" varieties available
+Text Len: 1767
+--------------------------------------------------------------------------------
+ghum halepense L.). It is possible that other perennials are sources of primary inoculum also. (Bassi, 1982; Staub and Peterson, 1986).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cucumber and muskmelon are two cucurbit species that often fall to bacterial wilt. While there are some "less susceptible" varieties available, efforts to develop resistant varieties that provide adequate fruit are continuous.
+Watterson et al. (1971) tested 59 cucurbit species/cultivars and 10 exhibited slight but recoverable symptoms (in the genuses Bryonopsis, Cucumis, Cucurbita, Cyclanthera, Echinocystis, Lagenaria, Luffa, Momordica, Sicana, Sicyos, and Trichosanthes). The recoverable symptoms usually appeared as a slight yellowing reaction distal to the point of inoculation. Two species exhibited symptoms on inoculated leaves, then lost those leaves and exhibited no symptoms thereafter. The cultivars with minimal symptoms were: Cucumis sativus L. line WR 18, Cucurbita andreana Naud., C. ficifolia Bouche, C. lundelliana L. H. Bailey, C. maxima Duch. cv. Buttercup, C. pepo L. cv. Black Beauty Zucchini, C. pepo L. cv. Connecticut Yellow Field, C. pepo L. Jack-O-Lantern, Cyclanthera pedata Schrad., and Lagenaria sp. The two cultivars that "recovered" were Cucurbita moschata Duch. and C. sororia L.H. Bailey.
+Reed and Stevenson (1985) tested many (over 100) muskmelon cultivars for resistance to E
+Text Len: 1381
+--------------------------------------------------------------------------------
+. Jack-O-Lantern, Cyclanthera pedata Schrad., and Lagenaria sp. The two cultivars that "recovered" were Cucurbita moschata Duch. and C. sororia L.H. Bailey.
+Reed and Stevenson (1985) tested many (over 100) muskmelon cultivars for resistance to E. tracheiphila. Fifty four cultivars exhibited some resistance, but no cultivar was adequately resistant for commercial use without the need for insecticides. "The three cultivars with highest percent survival and six of the 10 with highest percent survival ... were obsolete cultivars", indicating the need for preserving these lines.
+Squash rot can be avoided only in fruit from healthy plants by storing it in a clean, fumigated warehouse (Agrios, 1978).
+CHEMICAL CONTROL
+Bacterial wilt of cucurbits is controlled mostly by controlling the cucumber beetles with insecticides. However, recommended insecticides are often toxic to pollinators and should not be applied during pollination. In addition, beetles should be controlled early in order to limit multiplication and spread of the pathogen (Agrios, 1978; Staub and Peterson, 1986). Agrios (1978) lists carbaryl (Sevin), methoxychlor, and rotenone as likely insecticides.
+REFERENCES
+Agrios, G.N. 1978. Plant Pathology, 2nd ed. pp.466-470.
+Bach, C.E. 1980. Effects of plant diversity and time of colonization on an herbivore-plant interaction. Oecologia 44:319-326.
+Bassi, A. 1982. The overwintering nature of Erwinia tracheiphila (Smith) and resistance to bacterial wilt in cucumber. PhD Diss. Univ. of Arkansas, Fayetteville.
+MacNab, A.
+Text Len: 1539
+--------------------------------------------------------------------------------
+ Effects of plant diversity and time of colonization on an herbivore-plant interaction. Oecologia 44:319-326.
+Bassi, A. 1982. The overwintering nature of Erwinia tracheiphila (Smith) and resistance to bacterial wilt in cucumber. PhD Diss. Univ. of Arkansas, Fayetteville.
+MacNab, A.A., A.F. Sherf, and J.K. Springer. 1983. Identifying Diseases of Vegetables. The Pennsylvania State University.
+Rand, F.V., and E.M.A. Enlows. 1920. Bacterial wilt of cucurbits. U.S. Dept. of Agr. Bull. 828. 43 pp.
+Reed, G.L., and W.R. Stevenson. 1985. Bacterial wilt resistance in commercial muskmelon cultivars. Indiana Academy of Science 94:131-140.
+Staub, J.E., and C.E. Peterson. 1986. Comparisons between bacterial wilt resistant and susceptible gynoecious cucumber lines and F1 progeny. HortScience 21:1428-1430.
+Watterson, J.C., P.H. Williams, and R.D. Durbin. 1971. Response of cucurbits to Erwinia tracheiphila. Plant Disease Reporter 55:816-819.
+    OCTOBER 1992
+  2A-ERTRA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1026
+--------------------------------------------------------------------------------

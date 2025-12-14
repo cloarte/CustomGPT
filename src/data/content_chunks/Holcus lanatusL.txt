@@ -1,0 +1,34 @@
+Family:  POACEAE  ;
+Species:  Holcus lanatusL.  ;
+Common Name:  Velvet Grass; Salem Grass; Yorkshire Fog  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 432
+--------------------------------------------------------------------------------
+Family:  POACEAE  ;
+Species:  Holcus lanatusL.  ;
+Common Name:  Velvet Grass; Salem Grass; Yorkshire Fog  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 432
+--------------------------------------------------------------------------------

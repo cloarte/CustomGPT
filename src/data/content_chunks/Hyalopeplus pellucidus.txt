@@ -1,0 +1,136 @@
+Crop Knowledge Master
+Hyalopeplus pellucidus (Stal)
+Transparentwinged Plant Bug
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This insect has been collected from many hosts including several crops and ornamental plants such as Acacia koa, avocado, coffee, Coprosoma, Dodonaea, guava, Hibiscus, rose flowered jatropha, Metrosideros, Pipturus, Psidium cattleianum, Sida, Straussia, and Trema orientalis. The transparentwinged plant bug exhibits anthophagous (flower-eating) behavior and is usually observed on plants that have miniature flower buds. It was found to be a serious pest of guava.
+DISTRIBUTION
+First reported in Hawaii in 1902, the transparentwinged plant bug occurs on all major islands from sea level to the mountains.
+DAMAGE
+On guava, this bug prefers to feed on the corolla region of the flower bud. This region consists of the area above the ovary to the tip of the bud and contains the anthers of the flower (see figure). Feeding damage is indicated by necrotic blackening of the developing anthers within the bud. Continued feeding usually results in abscission (abortion) of the bud. The necrosis is probably caused by the digestion of the auxin producing tissue within the corolla by a salivary enzyme secreted during feeding. The damage of the auxin producing tissue, in turn, triggers abscission (Strong, 1970).
+Experiments have shown that the second, third, and fourth nymphal stages (instars) are capable of
+Text Len: 1618
+--------------------------------------------------------------------------------
+) of the bud. The necrosis is probably caused by the digestion of the auxin producing tissue within the corolla by a salivary enzyme secreted during feeding. The damage of the auxin producing tissue, in turn, triggers abscission (Strong, 1970).
+Experiments have shown that the second, third, and fourth nymphal stages (instars) are capable of inducing flower bud abscission (Mau and Nishijima, 1989). Abscission is usually induced after 4-nymph-days of feeding. Oviposition into the ovary area of the flower bud does not induce abscission.
+BIOLOGY
+Eggs
+The banana shaped eggs measure approximately 1/12 inch in length and 1/50 inch in width. They hatch in 6 to 8 days at 26.7ûC. There is a white waxy tip that hides the hatch-like structure (operculum) through which the insect hatches. Eggs are most often deposited in succulent stems. Other egglaying sites are flower buds and the midribs of succulent leaves. Eggs are wholly inserted into the plant tissue and are easily identified by the white waxy plug that occurs at or near the tissue surface.
+On guava, the preferred egg laying sites are between the ovary and penducle of the guava flower, and includes the abscission zone. Upon hatching the nymphs are near to the corolla of the flower for feeding. Egg laying is usually synchronized with the appearance of flower buds. However, eggs are occasionally laid into the stem and leaf midribs of the plant. (see figure)
+Nymphs
+After hatching, development progresses through 5 nymphal stages each lasting between 2 to 4 days. On average, the first nymphal stage lasts 2.7 days, the second 1.9 days, the third 2.3 days, the fourth 3.3 days and
+Text Len: 1644
+--------------------------------------------------------------------------------
+ are occasionally laid into the stem and leaf midribs of the plant. (see figure)
+Nymphs
+After hatching, development progresses through 5 nymphal stages each lasting between 2 to 4 days. On average, the first nymphal stage lasts 2.7 days, the second 1.9 days, the third 2.3 days, the fourth 3.3 days and the fifth 3.6 days (Mau and Nishijima, 1989). The duration of the entire nymphal period is about 14 days. Despite some references to the predaceous nature of the insect, Mau and Nishijima (1989) found tht the immature stages of this insect are obligate feeders on flower buds are required for nymphal development.
+Nymphs are pale, translucent green in color with purplish-red (or pinkish or blood-red) speckles on the abdomen. Their heads are shaped similar to that of the adults: one-half wider than long and the vertex being wider than the eyes together. Black bristly hairs over an undercoat of golden yellow hairs cover the head and antennae. The second antennal segment is three times the length of the first and twice as long as the third.
+Adults
+The transparentwinged plant bug is one of the largest mirid bug species in Hawaii with the adult measuring 1/3 to 2/5 inch. Adults resemble the nymphal stages except for the presence of smoky colored wings folded over their back and being larger in size.
+BEHAVIOR
+Nymphs and adults are shy insects. They can be difficult to approach.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+The wasp, Polynema scrutator, has been found parasitizing transparentwinged plant bug eggs on the island of Hawaii. In a statewide survey for transparentwinged plant bugs in guava orchards, Mau reported that the
+Text Len: 1633
+--------------------------------------------------------------------------------
+OR
+Nymphs and adults are shy insects. They can be difficult to approach.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+The wasp, Polynema scrutator, has been found parasitizing transparentwinged plant bug eggs on the island of Hawaii. In a statewide survey for transparentwinged plant bugs in guava orchards, Mau reported that the natural occurance of egg parasitism on sampled buds averaged 15% with a range of 8% to 22% parasitism. On fruiting twigs, egg parasitism averaged 22% ranging from 20% to 54% parasitism. These parasitism rates are not high enough to prevent major damage from occurring.
+CHEMICAL CONTROL
+Transparentwinged plant bug damage can be easily controlled by monitoring flower buds in cycled guava orchards. The focus should be on eggs, nymphs, and bud damage. Until treatment thresholds are developed, the crop may be treated with 1-2 sprays of malathion applied when the buds are in the 3rd developmental stage (see figure).
+There is no listing for malathion as of April 2007.
+REFERENCES
+Kirkaldy, G.W. 1907. Biological Notes on the Hemiptera of the Hawaiian Isles. Proc. Hawaiian Entomol. Soc. 1: 135-161.
+Mau, R.F.L. and K. Nishijima. 1989. Development of The Transparentwinged Plant Bug, Hyalopeplus pellucidus (Stal), A Pest of Cultivated Guava in Hawaii. Proc. Hawaiian Entomol. Soc. 29: 139-147.
+Strong, F.E. 1970. Physiology of Injury Caused by Lygus hesperus. J. Econ. Entomol. 63: 808-814.
+Zimmermann, E.C. 1948. Hy
+Text Len: 1433
+--------------------------------------------------------------------------------
+Stal), A Pest of Cultivated Guava in Hawaii. Proc. Hawaiian Entomol. Soc. 29: 139-147.
+Strong, F.E. 1970. Physiology of Injury Caused by Lygus hesperus. J. Econ. Entomol. 63: 808-814.
+Zimmermann, E.C. 1948. Hyalopeplus pellucidus (Stal). pp. 218-219. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 3. Heteroptera. 255 pages.
+  FEB/92.
+  H-PELLUC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 537
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Hyalopeplus pellucidus (Stal)
+Transparentwinged Plant Bug
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+This insect has been collected from many hosts including several crops and ornamental plants such as Acacia koa, avocado, coffee, Coprosoma, Dodonaea, guava, Hibiscus, rose flowered jatropha, Metrosideros, Pipturus, Psidium cattleianum, Sida, Straussia, and Trema orientalis. The transparentwinged plant bug exhibits anthophagous (flower-eating) behavior and is usually observed on plants that have miniature flower buds. It was found to be a serious pest of guava.
+DISTRIBUTION
+First reported in Hawaii in 1902, the transparentwinged plant bug occurs on all major islands from sea level to the mountains.
+DAMAGE
+On guava, this bug prefers to feed on the corolla region of the flower bud. This region consists of the area above the ovary to the tip of the bud and contains the anthers of the flower (see figure). Feeding damage is indicated by necrotic blackening of the developing anthers within the bud. Continued feeding usually results in abscission (abortion) of the bud. The necrosis is probably caused by the digestion of the auxin producing tissue within the corolla by a salivary enzyme secreted during feeding. The damage of the auxin producing tissue, in turn, triggers abscission (Strong, 1970).
+Experiments have shown that the second, third, and fourth nymphal stages (instars) are capable of
+Text Len: 1618
+--------------------------------------------------------------------------------
+) of the bud. The necrosis is probably caused by the digestion of the auxin producing tissue within the corolla by a salivary enzyme secreted during feeding. The damage of the auxin producing tissue, in turn, triggers abscission (Strong, 1970).
+Experiments have shown that the second, third, and fourth nymphal stages (instars) are capable of inducing flower bud abscission (Mau and Nishijima, 1989). Abscission is usually induced after 4-nymph-days of feeding. Oviposition into the ovary area of the flower bud does not induce abscission.
+BIOLOGY
+Eggs
+The banana shaped eggs measure approximately 1/12 inch in length and 1/50 inch in width. They hatch in 6 to 8 days at 26.7ûC. There is a white waxy tip that hides the hatch-like structure (operculum) through which the insect hatches. Eggs are most often deposited in succulent stems. Other egglaying sites are flower buds and the midribs of succulent leaves. Eggs are wholly inserted into the plant tissue and are easily identified by the white waxy plug that occurs at or near the tissue surface.
+On guava, the preferred egg laying sites are between the ovary and penducle of the guava flower, and includes the abscission zone. Upon hatching the nymphs are near to the corolla of the flower for feeding. Egg laying is usually synchronized with the appearance of flower buds. However, eggs are occasionally laid into the stem and leaf midribs of the plant. (see figure)
+Nymphs
+After hatching, development progresses through 5 nymphal stages each lasting between 2 to 4 days. On average, the first nymphal stage lasts 2.7 days, the second 1.9 days, the third 2.3 days, the fourth 3.3 days and
+Text Len: 1644
+--------------------------------------------------------------------------------
+ are occasionally laid into the stem and leaf midribs of the plant. (see figure)
+Nymphs
+After hatching, development progresses through 5 nymphal stages each lasting between 2 to 4 days. On average, the first nymphal stage lasts 2.7 days, the second 1.9 days, the third 2.3 days, the fourth 3.3 days and the fifth 3.6 days (Mau and Nishijima, 1989). The duration of the entire nymphal period is about 14 days. Despite some references to the predaceous nature of the insect, Mau and Nishijima (1989) found tht the immature stages of this insect are obligate feeders on flower buds are required for nymphal development.
+Nymphs are pale, translucent green in color with purplish-red (or pinkish or blood-red) speckles on the abdomen. Their heads are shaped similar to that of the adults: one-half wider than long and the vertex being wider than the eyes together. Black bristly hairs over an undercoat of golden yellow hairs cover the head and antennae. The second antennal segment is three times the length of the first and twice as long as the third.
+Adults
+The transparentwinged plant bug is one of the largest mirid bug species in Hawaii with the adult measuring 1/3 to 2/5 inch. Adults resemble the nymphal stages except for the presence of smoky colored wings folded over their back and being larger in size.
+BEHAVIOR
+Nymphs and adults are shy insects. They can be difficult to approach.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+The wasp, Polynema scrutator, has been found parasitizing transparentwinged plant bug eggs on the island of Hawaii. In a statewide survey for transparentwinged plant bugs in guava orchards, Mau reported that the
+Text Len: 1633
+--------------------------------------------------------------------------------
+OR
+Nymphs and adults are shy insects. They can be difficult to approach.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+The wasp, Polynema scrutator, has been found parasitizing transparentwinged plant bug eggs on the island of Hawaii. In a statewide survey for transparentwinged plant bugs in guava orchards, Mau reported that the natural occurance of egg parasitism on sampled buds averaged 15% with a range of 8% to 22% parasitism. On fruiting twigs, egg parasitism averaged 22% ranging from 20% to 54% parasitism. These parasitism rates are not high enough to prevent major damage from occurring.
+CHEMICAL CONTROL
+Transparentwinged plant bug damage can be easily controlled by monitoring flower buds in cycled guava orchards. The focus should be on eggs, nymphs, and bud damage. Until treatment thresholds are developed, the crop may be treated with 1-2 sprays of malathion applied when the buds are in the 3rd developmental stage (see figure).
+There is no listing for malathion as of April 2007.
+REFERENCES
+Kirkaldy, G.W. 1907. Biological Notes on the Hemiptera of the Hawaiian Isles. Proc. Hawaiian Entomol. Soc. 1: 135-161.
+Mau, R.F.L. and K. Nishijima. 1989. Development of The Transparentwinged Plant Bug, Hyalopeplus pellucidus (Stal), A Pest of Cultivated Guava in Hawaii. Proc. Hawaiian Entomol. Soc. 29: 139-147.
+Strong, F.E. 1970. Physiology of Injury Caused by Lygus hesperus. J. Econ. Entomol. 63: 808-814.
+Zimmermann, E.C. 1948. Hy
+Text Len: 1433
+--------------------------------------------------------------------------------
+Stal), A Pest of Cultivated Guava in Hawaii. Proc. Hawaiian Entomol. Soc. 29: 139-147.
+Strong, F.E. 1970. Physiology of Injury Caused by Lygus hesperus. J. Econ. Entomol. 63: 808-814.
+Zimmermann, E.C. 1948. Hyalopeplus pellucidus (Stal). pp. 218-219. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 3. Heteroptera. 255 pages.
+  FEB/92.
+  H-PELLUC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 537
+--------------------------------------------------------------------------------

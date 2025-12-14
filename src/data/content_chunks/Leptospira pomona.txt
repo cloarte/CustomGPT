@@ -1,0 +1,440 @@
+ 
+      
+ 
+        
+    
+     
+   
+   
+   
+       
+        
+     
+      
+     
+         
+              
+               
+             
+                  
+              
+              
+           
+                  
+             
+                 
+             
+               
+   
+ 
+               
+               
+              
+              
+             
+              
+                   
+       
+Text Len: 400
+--------------------------------------------------------------------------------
+        
+              
+             
+              
+                   
+            
+            
+ 
+     
+      
+    
+    
+   
+       
+        
+     
+      
+      
+            
+            
+         
+              
+               
+              
+                  
+              
+              
+             
+                  
+             
+                 
+             
+               
+   
+     
+Text Len: 400
+--------------------------------------------------------------------------------
+        
+             
+                 
+             
+               
+   
+              
+               
+              
+              
+             
+              
+               
+     
+        
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira pomona Challenge Culture 
+2. Strain or Source: MLS, NVSL No. 11000 
+3. Lot Number: IRP 654 
+4. Fill Date: February 23, 2017 
+5. Expiration Date: February 28, 2026 
+Precautions: Leptospira spp. are classified as biosafety level 2 pathogens. Handle under 
+biological safety hood while wearing gloves. Use face shield when inoculating animals. 
+6. Intended Use: Challenge material for L. pomona testing. 
+7. Instructions for Use: Remove vials from cold storage and thaw at room temperature (18
+Text Len: 890
+--------------------------------------------------------------------------------
+Precautions: Leptospira spp. are classified as biosafety level 2 pathogens. Handle under 
+biological safety hood while wearing gloves. Use face shield when inoculating animals. 
+6. Intended Use: Challenge material for L. pomona testing. 
+7. Instructions for Use: Remove vials from cold storage and thaw at room temperature (18°-
+27°C) for approximately one hour. A water bath or other warming device is not recommended. 
+Do not vortex during thawing. An 18 gauge needle is recommended to remove cryopreserved 
+challenge from the vial. You may draw the contents of more than one vial into a single syringe 
+for convenience. However, to limit spirochete stress and minimize the human safety risk when 
+working with a zoonotic agent, do not actively mix the contents of separate vials. 
+Inoculate 50-90 g hamsters, preferably four hamsters total, with cryopreserved challenge using a 
+23 gauge or smaller bore needle. Each hamster should receive at least 0.25 mL IP. At least 50% 
+of the inoculated hamsters should exhibit clinical signs within 10 days post-inoculation, and 
+clinical signs within 4-5 days is expected. Hamster death prior to 3 days should not be attributed 
+to leptospirosis. The Leptospira must be serially transferred through hamsters a minimum of 
+three times before used as challenge material in a potency test according to Supplemental Assay 
+Method (SAM) 608. 
+8. Test of Reagent: Identity was confirmed by ELISA, MAT, PFGE, REA and MLST 
+analysis. IRP 654 was verified as a virulent challenge when used in potency tests conducted 
+according to SAM 608. The culture was negative for extr
+Text Len: 1608
+--------------------------------------------------------------------------------
+ as challenge material in a potency test according to Supplemental Assay 
+Method (SAM) 608. 
+8. Test of Reagent: Identity was confirmed by ELISA, MAT, PFGE, REA and MLST 
+analysis. IRP 654 was verified as a virulent challenge when used in potency tests conducted 
+according to SAM 608. The culture was negative for extraneous bacteria when incubated on 
+blood agar plates at 37ºC after three passages in hamsters. No hemadsorbing or cytopathogenic 
+viruses were present based on bovine and hamster cells testing. Fluorescent antibody staining 
+verified the absence of the following: REO 1, Rabies, BVDV1, BVDV2, BPV, BTV, BAV1, 
+BAV5 and BRSV. PCR also verified the absence of BVDV1, BVDV2, PCV1, PCV2, and PRRS. 
+CVB-DAT-0012.05 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+      
+ 
+        
+           
+      
+            
+             
+ 
+            
+ 
+ 
+            
+       
+ 
+               
+           
+              
+Text Len: 961
+--------------------------------------------------------------------------------
+          
+ 
+ 
+            
+       
+ 
+               
+           
+              
+ 
+    
+ 
+              
+  
+              
+ 
+             
+       
+            
+             
+           
+ 
+           
+       
+              
+           
+              
+   
+              
+  
+             
+     
+        
+CONTROLLED//PROPIN//BASIC 
+9. Container Size, Type, Weight, or Volume: 2.0 mL cryovial containing 1.25 mL 
+hamster liver homogenate with viable L. pomona. 
+10. Storage Conditions: For long-term storage, challenge should be maintained in liquid 
+nitrogen. Challenge may be stored at -80°C for storage less than one week. 
+11.
+Text Len: 625
+--------------------------------------------------------------------------------
+, Type, Weight, or Volume: 2.0 mL cryovial containing 1.25 mL 
+hamster liver homogenate with viable L. pomona. 
+10. Storage Conditions: For long-term storage, challenge should be maintained in liquid 
+nitrogen. Challenge may be stored at -80°C for storage less than one week. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100. 
+12. Origin and Passage History: Origin: Cornell University through a commercial 
+laboratory (1969). This strain is hamster virulent. 
+13. Method of Preparation: Liver tissue from a L. pomona infected hamster is homogenized 
+in liquid P80-BA medium with trimethoprin, sulfamethoxazole, and 5-fluorouracil and then 
+frozen overnight at -80°C. Challenge is stored in liquid nitrogen until use or shipment. 
+14. Other: None. 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-0012.05 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 1104
+--------------------------------------------------------------------------------
+ 
+      
+ 
+        
+    
+     
+   
+   
+   
+       
+        
+     
+      
+     
+         
+              
+               
+             
+                  
+              
+              
+           
+                  
+             
+                 
+             
+               
+   
+ 
+               
+               
+              
+              
+             
+              
+                   
+       
+Text Len: 400
+--------------------------------------------------------------------------------
+        
+              
+             
+              
+                   
+            
+            
+ 
+     
+      
+    
+    
+   
+       
+        
+     
+      
+      
+            
+            
+         
+              
+               
+              
+                  
+              
+              
+             
+                  
+             
+                 
+             
+               
+   
+     
+Text Len: 400
+--------------------------------------------------------------------------------
+        
+             
+                 
+             
+               
+   
+              
+               
+              
+              
+             
+              
+               
+     
+        
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Leptospira pomona Challenge Culture 
+2. Strain or Source: MLS, NVSL No. 11000 
+3. Lot Number: IRP 654 
+4. Fill Date: February 23, 2017 
+5. Expiration Date: February 28, 2026 
+Precautions: Leptospira spp. are classified as biosafety level 2 pathogens. Handle under 
+biological safety hood while wearing gloves. Use face shield when inoculating animals. 
+6. Intended Use: Challenge material for L. pomona testing. 
+7. Instructions for Use: Remove vials from cold storage and thaw at room temperature (18
+Text Len: 890
+--------------------------------------------------------------------------------
+Precautions: Leptospira spp. are classified as biosafety level 2 pathogens. Handle under 
+biological safety hood while wearing gloves. Use face shield when inoculating animals. 
+6. Intended Use: Challenge material for L. pomona testing. 
+7. Instructions for Use: Remove vials from cold storage and thaw at room temperature (18°-
+27°C) for approximately one hour. A water bath or other warming device is not recommended. 
+Do not vortex during thawing. An 18 gauge needle is recommended to remove cryopreserved 
+challenge from the vial. You may draw the contents of more than one vial into a single syringe 
+for convenience. However, to limit spirochete stress and minimize the human safety risk when 
+working with a zoonotic agent, do not actively mix the contents of separate vials. 
+Inoculate 50-90 g hamsters, preferably four hamsters total, with cryopreserved challenge using a 
+23 gauge or smaller bore needle. Each hamster should receive at least 0.25 mL IP. At least 50% 
+of the inoculated hamsters should exhibit clinical signs within 10 days post-inoculation, and 
+clinical signs within 4-5 days is expected. Hamster death prior to 3 days should not be attributed 
+to leptospirosis. The Leptospira must be serially transferred through hamsters a minimum of 
+three times before used as challenge material in a potency test according to Supplemental Assay 
+Method (SAM) 608. 
+8. Test of Reagent: Identity was confirmed by ELISA, MAT, PFGE, REA and MLST 
+analysis. IRP 654 was verified as a virulent challenge when used in potency tests conducted 
+according to SAM 608. The culture was negative for extr
+Text Len: 1608
+--------------------------------------------------------------------------------
+ as challenge material in a potency test according to Supplemental Assay 
+Method (SAM) 608. 
+8. Test of Reagent: Identity was confirmed by ELISA, MAT, PFGE, REA and MLST 
+analysis. IRP 654 was verified as a virulent challenge when used in potency tests conducted 
+according to SAM 608. The culture was negative for extraneous bacteria when incubated on 
+blood agar plates at 37ºC after three passages in hamsters. No hemadsorbing or cytopathogenic 
+viruses were present based on bovine and hamster cells testing. Fluorescent antibody staining 
+verified the absence of the following: REO 1, Rabies, BVDV1, BVDV2, BPV, BTV, BAV1, 
+BAV5 and BRSV. PCR also verified the absence of BVDV1, BVDV2, PCV1, PCV2, and PRRS. 
+CVB-DAT-0012.05 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+      
+ 
+        
+           
+      
+            
+             
+ 
+            
+ 
+ 
+            
+       
+ 
+               
+           
+              
+Text Len: 961
+--------------------------------------------------------------------------------
+          
+ 
+ 
+            
+       
+ 
+               
+           
+              
+ 
+    
+ 
+              
+  
+              
+ 
+             
+       
+            
+             
+           
+ 
+           
+       
+              
+           
+              
+   
+              
+  
+             
+     
+        
+CONTROLLED//PROPIN//BASIC 
+9. Container Size, Type, Weight, or Volume: 2.0 mL cryovial containing 1.25 mL 
+hamster liver homogenate with viable L. pomona. 
+10. Storage Conditions: For long-term storage, challenge should be maintained in liquid 
+nitrogen. Challenge may be stored at -80°C for storage less than one week. 
+11.
+Text Len: 625
+--------------------------------------------------------------------------------
+, Type, Weight, or Volume: 2.0 mL cryovial containing 1.25 mL 
+hamster liver homogenate with viable L. pomona. 
+10. Storage Conditions: For long-term storage, challenge should be maintained in liquid 
+nitrogen. Challenge may be stored at -80°C for storage less than one week. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100. 
+12. Origin and Passage History: Origin: Cornell University through a commercial 
+laboratory (1969). This strain is hamster virulent. 
+13. Method of Preparation: Liver tissue from a L. pomona infected hamster is homogenized 
+in liquid P80-BA medium with trimethoprin, sulfamethoxazole, and 5-fluorouracil and then 
+frozen overnight at -80°C. Challenge is stored in liquid nitrogen until use or shipment. 
+14. Other: None. 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-0012.05 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 1104
+--------------------------------------------------------------------------------

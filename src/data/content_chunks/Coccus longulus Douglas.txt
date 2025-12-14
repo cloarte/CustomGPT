@@ -1,0 +1,130 @@
+Crop Knowledge Master
+Coccus longulus (Douglas)
+Long Brown Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The long brown scale attacks a wide variety of agricultural and ornamental plants including Acacia, Annona (Cherimoya), Atemoya (sugarapple), Bambusa, Citrus, coconut, Cosmos, guava, lima bean, Moraea bicolor, Moraea iridioides, orange, orchids, papaya, Plumeria, rubber, Snatalum haleakalae and velvet bean.
+DISTRIBUTION
+The long brown scale is a widespread species found in Europe, North America and tropical and sub-tropical countries. It was first reported in Hawaii in 1895 (Zimmerman, 1948) and is now present on all major islands.
+DAMAGE
+Like other soft bodied insects such as aphids, leafhoppers and mealybugs, scales excrete honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew is also the medium on which a sooty fungus grows on called sooty mold. Sooty mold blackens the leaf and decreases photosynthesis.
+The long brown scale, like other soft scales, feeds from the phloem of the host plant and may be found on stems, leaves and green twigs where they are associated with veins (Copland and Ibrahim, 1985). Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set and loss in plant vigor are caused
+Text Len: 1561
+--------------------------------------------------------------------------------
+, like other soft scales, feeds from the phloem of the host plant and may be found on stems, leaves and green twigs where they are associated with veins (Copland and Ibrahim, 1985). Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set and loss in plant vigor are caused.
+BIOLOGY
+Scale insects belong to one of two types, the armored scales or the soft scales. The long brown scale is classified as a soft scale. These scales are protected by the chitinous body wall of the insect. Compared to the armored sales, they secrete very little wax. The body is usually smooth in outline, dome shaped, and brown, black or mottled in color. Soft scales retain their legs and antennae throughout adult life. Young females are primarily sedentary, but may move about for a brief time after feeding begins. Females are always wingless and males either have one pair of membranous wings or are wingless also. Reproduction is by eggs or the birthing of live young.
+EGGS
+Males have not been reported for this pest. Reproduction occurs through parthenogenesis (without fertilization) and adult females give birth to live young.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size.
+ADULTS
+This scale is gray and dome like with flat margins. Dried specimens are dark brown. It is shaped as an elongate oval and measures about 1/6 to 1/4 inch long. Young females are slightly convex with a pattern of minute black spots. Reproducing females are more convex and evenly brown in color (Ben-Dov, 1977). Refer to Zimmerman (19
+Text Len: 1800
+--------------------------------------------------------------------------------
+ULTS
+This scale is gray and dome like with flat margins. Dried specimens are dark brown. It is shaped as an elongate oval and measures about 1/6 to 1/4 inch long. Young females are slightly convex with a pattern of minute black spots. Reproducing females are more convex and evenly brown in color (Ben-Dov, 1977). Refer to Zimmerman (1948) and Ben-Dov (1977) for a detailed microscopic description. This scale is similar in appearance to the brown soft scale except that it is more elongated and has an eight segmented antenna instead of seven (Sanders, 1909).
+BEHAVIOR
+Crawlers move sluggishly and usually settle near the mother.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Several natural enemies are present in Hawaii that offer good natural control of the long brown scale. The wasps, Microterys kotinskyi (Fullaway), Aphycus alberti (Howard), Aneristus ceroplastae (Howard), parasitize the nymphal stages of this scale. An insect attacking fungus, possibly Entomophthora pseudococci, has been reported to heavily attack this scale (Zimmerman, 1948).
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Soft scales are usually easy to control with pesticides. Depending on the host, products containing malathion, diazinon, or carbaryl are usually effective. If applied correctly, oil insecticides are also effective. As in the use of all chemicals, consult the label or a database for crop registrations.
+There is no listing for malathion, carbaryl and diazinon are not labelled as of April 2007.
+Chemical applications should be
+Text Len: 1748
+--------------------------------------------------------------------------------
+ host, products containing malathion, diazinon, or carbaryl are usually effective. If applied correctly, oil insecticides are also effective. As in the use of all chemicals, consult the label or a database for crop registrations.
+There is no listing for malathion, carbaryl and diazinon are not labelled as of April 2007.
+Chemical applications should be used only when parasites are not economically effective. The application of pesticides often kills natural enemies and the decision to use chemical pesticides should be reviewed for long term consequences.
+REFERENCES
+Ben-Dov, Y. 1977. Taxonomy of the Long Brown Scale Coccus longulus (Douglas) (Homoptera: Coccidae). Bull. Entomol. Res. 61(1): 89-95.
+Copland, M. J. W. and A. G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N. W. and N. Scopes. Cornell University Press; Ithaca new York.
+Metcalf, C. L. 1962. Scale Insects. pp. 866-869. In: Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Sanders, J. G. 1909. The Identity and Synonymy of Some of Our Soft Scale-Insects. J. Econ. Ent. 2: 428-448.
+Zimmerman, E. C. 1948. Coccus elongatus (Signoret). pp. 300-303. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including an Enumeration of the Species and Notes on their Origin
+Text Len: 1463
+--------------------------------------------------------------------------------
+ of Some of Our Soft Scale-Insects. J. Econ. Ent. 2: 428-448.
+Zimmerman, E. C. 1948. Coccus elongatus (Signoret). pp. 300-303. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including an Enumeration of the Species and Notes on their Origin, Distribution, Hosts, Parasites, etc. Volume 5 Homoptera: Coccidae. University of Hawaii Press; Honolulu. 464 pages.
+  OCT/1992.
+  C-LONGUL
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 464
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Coccus longulus (Douglas)
+Long Brown Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The long brown scale attacks a wide variety of agricultural and ornamental plants including Acacia, Annona (Cherimoya), Atemoya (sugarapple), Bambusa, Citrus, coconut, Cosmos, guava, lima bean, Moraea bicolor, Moraea iridioides, orange, orchids, papaya, Plumeria, rubber, Snatalum haleakalae and velvet bean.
+DISTRIBUTION
+The long brown scale is a widespread species found in Europe, North America and tropical and sub-tropical countries. It was first reported in Hawaii in 1895 (Zimmerman, 1948) and is now present on all major islands.
+DAMAGE
+Like other soft bodied insects such as aphids, leafhoppers and mealybugs, scales excrete honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects. The honeydew is also the medium on which a sooty fungus grows on called sooty mold. Sooty mold blackens the leaf and decreases photosynthesis.
+The long brown scale, like other soft scales, feeds from the phloem of the host plant and may be found on stems, leaves and green twigs where they are associated with veins (Copland and Ibrahim, 1985). Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set and loss in plant vigor are caused
+Text Len: 1561
+--------------------------------------------------------------------------------
+, like other soft scales, feeds from the phloem of the host plant and may be found on stems, leaves and green twigs where they are associated with veins (Copland and Ibrahim, 1985). Damage due to the feeding of an individual scale is small. However, when large populations are present yellowing, defoliation, reduction in fruit set and loss in plant vigor are caused.
+BIOLOGY
+Scale insects belong to one of two types, the armored scales or the soft scales. The long brown scale is classified as a soft scale. These scales are protected by the chitinous body wall of the insect. Compared to the armored sales, they secrete very little wax. The body is usually smooth in outline, dome shaped, and brown, black or mottled in color. Soft scales retain their legs and antennae throughout adult life. Young females are primarily sedentary, but may move about for a brief time after feeding begins. Females are always wingless and males either have one pair of membranous wings or are wingless also. Reproduction is by eggs or the birthing of live young.
+EGGS
+Males have not been reported for this pest. Reproduction occurs through parthenogenesis (without fertilization) and adult females give birth to live young.
+NYMPHS
+The first stage nymphs are dispersive crawlers. The crawlers search until they find a suitable spot to feed from and then settle. The remaining immature stages do not move unless disturbed. They resemble the adults except for their smaller size.
+ADULTS
+This scale is gray and dome like with flat margins. Dried specimens are dark brown. It is shaped as an elongate oval and measures about 1/6 to 1/4 inch long. Young females are slightly convex with a pattern of minute black spots. Reproducing females are more convex and evenly brown in color (Ben-Dov, 1977). Refer to Zimmerman (19
+Text Len: 1800
+--------------------------------------------------------------------------------
+ULTS
+This scale is gray and dome like with flat margins. Dried specimens are dark brown. It is shaped as an elongate oval and measures about 1/6 to 1/4 inch long. Young females are slightly convex with a pattern of minute black spots. Reproducing females are more convex and evenly brown in color (Ben-Dov, 1977). Refer to Zimmerman (1948) and Ben-Dov (1977) for a detailed microscopic description. This scale is similar in appearance to the brown soft scale except that it is more elongated and has an eight segmented antenna instead of seven (Sanders, 1909).
+BEHAVIOR
+Crawlers move sluggishly and usually settle near the mother.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Several natural enemies are present in Hawaii that offer good natural control of the long brown scale. The wasps, Microterys kotinskyi (Fullaway), Aphycus alberti (Howard), Aneristus ceroplastae (Howard), parasitize the nymphal stages of this scale. An insect attacking fungus, possibly Entomophthora pseudococci, has been reported to heavily attack this scale (Zimmerman, 1948).
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Soft scales are usually easy to control with pesticides. Depending on the host, products containing malathion, diazinon, or carbaryl are usually effective. If applied correctly, oil insecticides are also effective. As in the use of all chemicals, consult the label or a database for crop registrations.
+There is no listing for malathion, carbaryl and diazinon are not labelled as of April 2007.
+Chemical applications should be
+Text Len: 1748
+--------------------------------------------------------------------------------
+ host, products containing malathion, diazinon, or carbaryl are usually effective. If applied correctly, oil insecticides are also effective. As in the use of all chemicals, consult the label or a database for crop registrations.
+There is no listing for malathion, carbaryl and diazinon are not labelled as of April 2007.
+Chemical applications should be used only when parasites are not economically effective. The application of pesticides often kills natural enemies and the decision to use chemical pesticides should be reviewed for long term consequences.
+REFERENCES
+Ben-Dov, Y. 1977. Taxonomy of the Long Brown Scale Coccus longulus (Douglas) (Homoptera: Coccidae). Bull. Entomol. Res. 61(1): 89-95.
+Copland, M. J. W. and A. G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N. W. and N. Scopes. Cornell University Press; Ithaca new York.
+Metcalf, C. L. 1962. Scale Insects. pp. 866-869. In: Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Sanders, J. G. 1909. The Identity and Synonymy of Some of Our Soft Scale-Insects. J. Econ. Ent. 2: 428-448.
+Zimmerman, E. C. 1948. Coccus elongatus (Signoret). pp. 300-303. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including an Enumeration of the Species and Notes on their Origin
+Text Len: 1463
+--------------------------------------------------------------------------------
+ of Some of Our Soft Scale-Insects. J. Econ. Ent. 2: 428-448.
+Zimmerman, E. C. 1948. Coccus elongatus (Signoret). pp. 300-303. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including an Enumeration of the Species and Notes on their Origin, Distribution, Hosts, Parasites, etc. Volume 5 Homoptera: Coccidae. University of Hawaii Press; Honolulu. 464 pages.
+  OCT/1992.
+  C-LONGUL
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 464
+--------------------------------------------------------------------------------

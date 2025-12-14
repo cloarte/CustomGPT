@@ -1,0 +1,316 @@
+Queensland Department of Primary Industries and Fisheries' response to the Draft import risk analysis report for fresh unshu mandarin fruit from Japan
+Office of the Director-General
+Reference:08/18815
+Cover Letter
+Ms Louise van Meurs
+General Manager
+Plant Biosecurity
+Biosecurity Australia
+GPO Box 858
+Canberra ACT 2601
+Dear Ms van Meurs
+Biosecurity Australia Advice 2008/23 - Draft import risk analysis report for fresh unshu mandarin fruit from Japan
+I refer to the Draft import risk analysis report for fresh unshu mandarin fruit from Japan (the draft IRA report) and your request for comments by 26 September 2008.
+The draft IRA report proposes that the importation of fresh unshu mandarin fruit from Japan be permitted, subject to a range of risk management conditions.
+The Department of Primary Industries and Fisheries (DPI&F) notes that Biosecurity Australia (BA) has identified 14 quarantine pests that require quarantine measures to manage risks to a very low level in order to achieve Australia's Appropriate Level, of Protection (ALOP).
+The draft IRA report proposes that importation be permitted subject to pest specific . measures including monitoring, orchard control and freedom from symptoms, inspection and, if necessary, remedial action. For citrus canker, measures include registered disease free orchards, surveillance, mandatory calendar copper sprays, restrictions on movement of host material, and post-harvest chemical treatment.
+DPI&F has reviewed the draft IRA report and has made a number of comments and recommendations as detailed In the attached document.
+Thank you for the opportunity to comment on the draft IRA report. DPI&F will appreciate receiving a response on how the issues raised are to be addressed in any further review leading to the finalisation of this IRA.
+If you require any further information regarding this matter, please do not hesitate to contact
+Text Len: 1899
+--------------------------------------------------------------------------------
+ IRA report and has made a number of comments and recommendations as detailed In the attached document.
+Thank you for the opportunity to comment on the draft IRA report. DPI&F will appreciate receiving a response on how the issues raised are to be addressed in any further review leading to the finalisation of this IRA.
+If you require any further information regarding this matter, please do not hesitate to contact Dr Fiona Giblin on telephone 07 3239 3472 or email flona.giblin@dpi.q1d.gov.au.
+Yours sincerely
+[Signed]
+Robert Setter
+Director-General (Acting)
+Att
+Biosecurity Australia Advice 2008/23
+September 2008
+3.4.1 Cultivars p.29
+Trees in the production area are grafted onto Poncirus trifoliata rootstock which is susceptible to citrus canker (Peltier G.L. and Frederich W.J. 1920. Relative susceptibility to citrus-canker of different species and hybrids of the genus citrus, including the wild relatives. Journal of Agricultural Research 14: 339-362). Rootstock shoots from below the graft union can occur in citrus production and potentially provide a Xanthomonas citri subsp. citri (XCC) inoculum source. In the case of the Emerald (Queensland, Australia) citrus canker outbreak, infection was observed on overgrowth of the canker-susceptible rootstock (NCCEP report SS-R-003). The possibility exists that the infected rootstock played a role in the establishment and spread of canker in the affected orchard. The draft import risk analysis (IRA) should make provision for inspection for and management of, rootstock shoots arising from , below the graft union that potentially provide an inoculum source for citrus canker within the production areas.
+3.4.3 Cultivation practices (Table 3
+Text Len: 1702
+--------------------------------------------------------------------------------
+ exists that the infected rootstock played a role in the establishment and spread of canker in the affected orchard. The draft import risk analysis (IRA) should make provision for inspection for and management of, rootstock shoots arising from , below the graft union that potentially provide an inoculum source for citrus canker within the production areas.
+3.4.3 Cultivation practices (Table 3.5) p.30
+In Table 3.5, it is not clear if listed products are sprayed separately or as a mixture.
+The standard spray schedule indicates the need for two applications. of copper sulphate and copper carbonate: targeting citrus canker. However, no efficacy data for this spray schedule is provided or cited in the IRA even though it is listed as a component of the systems approach proposed in the IRA. Similarly, efficacy data for the standard spray schedule for citrus scab is not provided or cited In the IRA.
+According to the Australian Pesticides and Veterinary Medicines Authority (APVMA), "Currently there are no products containing benomyl registered for use in. Australia. It became illegal to supply or use products containing benomyl after 6 December 2006." Is the use pattern for benomyl in the IRA acceptable in Australia? Furthermore, resistance to benomyl of citrus postharvest mould pathogens (e.g. Peniciilium spp.) has been reported from various countries. Is data available to demonstrate the efficacy of benomyl in Japan? Reports of resistance of E. fawcettii to benomyl in Japan may also be of relevance.
+Scirtothrips dorsaiis is not considered in the IRA as it is present in Australia; however, it is relevant to note that the crop is sprayed five times per season with a range of pesticides. This is a heavy spray schedule for this pest, especially as spraying continues beyond the usual flushing period and there is potential for multi-pesticide
+Text Len: 1861
+--------------------------------------------------------------------------------
+ may also be of relevance.
+Scirtothrips dorsaiis is not considered in the IRA as it is present in Australia; however, it is relevant to note that the crop is sprayed five times per season with a range of pesticides. This is a heavy spray schedule for this pest, especially as spraying continues beyond the usual flushing period and there is potential for multi-pesticide resistant individuals being introduced into Australia. Therefore, management of this thrips species and others is cause for concern.
+3.4.4 Post-harvest p.31
+It is not clearly stated if the JA Oigawa packing house handles fruit from outside the proposed four designated export areas and, if so, what the disease and pest status is of such fruit. It is not clearly stated if the segregation of fruit in the packing house is temporal or spatial (the flow diagram suggests temporal), or what sanitary precautions are taken to uphold the segregation.
+Has the efficacy of chlorine dips been tested to market access standards (efficacy of fruit disinfestation treatments is commonly tested on several thousands of fruit)?
+4.10 Citrus scab p.58
+Regarding the incidence of scab, the Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF) advises that it is `low' without providing a definition or supporting data.
+4.11 Citrus canker pp.58 - 67
+Australia currently accepts fruit only from citrus canker free areas. In the case of the Emerald citrus canker outbreak, the movement of fruit from the quarantine area was not permitted to any Australian domestic market. This IRA proposes to lower Australia's minimum standards for imported fruit, conflicting with the World Trade Organization (WTO)/Sanitary and Phytosanitary (SPS) agreement which clearly states that measures applied to both domestic and international trade should be consistent.
+Importation of Unshiu fruit from the Jeju region of Korea was prohibited by the United States Department of
+Text Len: 1921
+--------------------------------------------------------------------------------
+ any Australian domestic market. This IRA proposes to lower Australia's minimum standards for imported fruit, conflicting with the World Trade Organization (WTO)/Sanitary and Phytosanitary (SPS) agreement which clearly states that measures applied to both domestic and international trade should be consistent.
+Importation of Unshiu fruit from the Jeju region of Korea was prohibited by the United States Department of Agriculture's (USDA) Animal and Plant Health Inspection Service (APHIS) due to the discovery of citrus canker in 2002 (Global Agriculture Information Network report no. KS6048).
+Many papers are cited that do not support statements in the IRA. Many of the papers do not contain the original data or do not contain data directly relevant to unshu mandarins. Other sources containing relevant data are not cited. Many citations are from conference proceedings and are thus not peer reviewed. Numerous cited articles are written in Japanese, with only an English abstract which limits review by stakeholders.
+For example:
+Goto 1992: frequently cited, but is not the original source of most of the data, or no data is provided or cited.
+Leite 2000, Leite 2005: conference proceedings abstract, no peer review, no data.
+Koizumi 1972: article written in Japanese, with only an English abstract (CABI Cab Direct database).
+It is stated repeatedly that MAFF informed and advised Biosecurity Australia. Important conclusions are drawn from this advice but the advice cannot be substantiated. Also, information from the "Shizuoka Prefectural Plant Protection Office 2007" is not readily available; therefore, the information cannot be independently reviewed.
+The taxonomy of unshu mandarins grown in the production zone and their origin is not clear. The range of names used in citations in the IRA include "Satsuma", "Satsuma (Citrus reticulata Blanco)", "Satsuma (C. unshiu
+Text Len: 1883
+--------------------------------------------------------------------------------
+ 2007" is not readily available; therefore, the information cannot be independently reviewed.
+The taxonomy of unshu mandarins grown in the production zone and their origin is not clear. The range of names used in citations in the IRA include "Satsuma", "Satsuma (Citrus reticulata Blanco)", "Satsuma (C. unshiu Marc.)", "Unshu", "Unshiu", "C. unshu","C. unshiu", "Miyakawa Wase unshiu", "Sugiyama unshiu", and others. It is often unclear what germplasm is used in the cited experiments. Many papers contain research on 'satsumas' so it is paramount that these terms are defined. For example:
+Goto 1962: not clear what variety of satsuma mandarin was studied.
+Canteros 1992: not clear what variety of unshu mandarin was used in the experiments. Is data available to demonstrate that the variety of unshu does not affect the susceptibility period?
+In addition, the taxonomy of Xanthomonas axonopodis pv. citri (Hasse 1915) (Vauterin et al. 1995) should be brought in line with the new nomenclature of Schaad et al. 2006 (Systematic and Applied Microbiology, Volume 29, Issue 8): Xanthomonas citri subsp. citri (Xcc).
+The susceptibility of unshu mandarin to citrus canker is not clear. Much of the research is on satsumas and the IRA at times draws different conclusions than the authors. In addition, the terminology of resistance and susceptibility is used incorrectly and is often interchanged. The impression is that unshu mandarins are resistant to citrus canker. A review of the cited literature does not support this and shows data and
+Text Len: 1539
+--------------------------------------------------------------------------------
+arin to citrus canker is not clear. Much of the research is on satsumas and the IRA at times draws different conclusions than the authors. In addition, the terminology of resistance and susceptibility is used incorrectly and is often interchanged. The impression is that unshu mandarins are resistant to citrus canker. A review of the cited literature does not support this and shows data and pictures of canker lesions on unshu mandarins. It appears that unshu mandarins are relatively less susceptible to citrus canker than other citrus species but they do not appear to be resistant. In the absence of data on the citrus canker status in the production area, the possibility of pathogen inoculum sources located within suggested spread distances (Gottwald et al. 1997) cannot be discounted. Assessments of risk should therefore assume citrus canker is present on host plants within the production area, until absence of disease can be independently confirmed.
+The IRA states that bacterial concentrations less than 2 x 103 cfu/ml were unable to cause stomatal infection according to a paper by Gottwald and Graham (1992). However, a further review of this paper reveals measurements were taken under artificial conditions and no field experiments were undertaken to confirm this. The paper also states that as few as 2 cfu/ml could cause a single lesion and disease. Hence, 2 x 103 cfu/ml is an underestimation of the "probability of distribution" of Xcc.
+The IRA mentions bacteriophages for detection of Xcc, but provides no details of the assay used by MAFF, such as sensitivity of the assay or justification of this assay over other methods of detection (e.g. PCR). Furthermore, no details of a diagnostic assay for citrus scab are provided.
+Leaf and fruit damage of unshu mandarins due to wind/weather is 'not known to occur in the designated export areas', however,
+Text Len: 1873
+--------------------------------------------------------------------------------
+ no details of the assay used by MAFF, such as sensitivity of the assay or justification of this assay over other methods of detection (e.g. PCR). Furthermore, no details of a diagnostic assay for citrus scab are provided.
+Leaf and fruit damage of unshu mandarins due to wind/weather is 'not known to occur in the designated export areas', however, Table 3.5 (section 3.4.3) shows numerous spray applications. Some spray application methods use high velocity air (up to 200km/h) or high pressure (>300psi) liquid to deliver chemical to the target. This could lead to leaf and fruit damage (unpublished work in Australia has shown this) and possibly facilitate spread of Xcc and water congestion of tissues.
+Appendix A: several pathogens are listed as "present in Australia" but do not appear to have been reported on hosts of the Citrus genus, or of the Rutaceae family in Australia. The IRA does not make provision for strains or pathotypes of these pathogens which could present a threat to citrus production in Australia, such as for Colletotrichum acutatum, which is present in Australia but does not cause post bloom fruit drop of citrus.
+Examples of the pathogens "present in Australia", but not known to cause diseases of citrus in Australia include Rhizobium radiobacter, Ascochyta pisi, Botryosphaeria dothidea, Botryosphaeria ribis, Capnodium fuliginodes, Diaporthe medusaea, Gibberella fujikuroi, Mycosphaerella pinodes, Phoma pinodella, Rosellinia necatrix, Schizothyrium pomi, and Phytophthora caclorum. Other pathogens that could be considered for addition to Appendix A are Colletotrichum gloeosporioides causing "young fruit apex rot", Cochli
+Text Len: 1658
+--------------------------------------------------------------------------------
+usaea, Gibberella fujikuroi, Mycosphaerella pinodes, Phoma pinodella, Rosellinia necatrix, Schizothyrium pomi, and Phytophthora caclorum. Other pathogens that could be considered for addition to Appendix A are Colletotrichum gloeosporioides causing "young fruit apex rot", Cochliobolus tuberculatus, and Leptoxyphium axillatum, pending relevant literature searches.
+Specific citrus canker cornmenis/discrepancies
+Susceptibility of unshu mandarin to citrus canker 4.11.2 p.59
+Kuhara 1978: no data and/or not original source, review article.
+Koizumi 1981: no data and/or not original source, review article.
+Koizumi and Kuhara 1982: varieties labelled 'resistant' did still produce symptoms of citrus canker, and support bacterial multiplication.
+Leite 2000, Leite 2005: conference proceedings abstract, no peer review, no data.
+Canteros 1992: no supporting evidence for the statement "Fruit of unshu mandarin rarely show signs of infection". Paper reports only on artificial inoculation experiments, the results of which indicate the fruit consistently produced fruit symptoms (up to 6.1 lesions per cm2 in Table 5). Which variety of satsuma was used in these trials?
+Canteros 2004: appears to be from conference proceedings with no peer review. The variety used in this study appears to be 'Okitsu'; according to the IRA the varieties for export from Japan are 'Aoshima' and 'Miyagawa Wase'. No data provided as to the effect of unshu variety on susceptibility to canker. Sufficient weather data (particularly temperature and monthly rainfall in all years) for the Okitsu' unshu mandarin trial sites in Argentina are not provided to compare disease
+Text Len: 1648
+--------------------------------------------------------------------------------
+Okitsu'; according to the IRA the varieties for export from Japan are 'Aoshima' and 'Miyagawa Wase'. No data provided as to the effect of unshu variety on susceptibility to canker. Sufficient weather data (particularly temperature and monthly rainfall in all years) for the Okitsu' unshu mandarin trial sites in Argentina are not provided to compare disease susceptibility with 'Aoshima' and 'Miyagawa Wase' unshu mandarins grown in Japan. This reference would support the comment 'Fruit of Okitsu satsuma tangerine (C. unshiu Marc.) were found to have a disease intensity rating of 0 in trials carried out in Argentina (Canteros 2004)", but does not provide sufficient data to support the statement that "Fruit of unshu mandarin rarefy show signs of infection" (this reference is also used further down page 59 to support the blanket susceptibility of "unshu mandarin" based on the assessment of only one variety of unshu mandarin and only under Argentinean conditions).
+Goto 2005: shows a photograph of a "Citrus unshiu" fruit with typical canker symptoms which would indicate a certain level of susceptibility. Details such as country of origin, variety, means of infection (i.e. natural or inoculated) seem to be unavailable. This information would be useful for assessing the relevance of the image. Is more robust evidence available in the literature?
+Canteros 2004 (2nd last dot point p.59): states that unshu mandarin ["Okitsu satsuma tangerine (C. unshiu Marc.)") was the least susceptible of all cultivars tested. This statement is statistically supported in 2 of 12 assessments in Table 5. In the majority of the assessments in Tables 4 & 5 (respectively: 9 of 14, and 4 of 6 assessments, where cultivar had
+Text Len: 1718
+--------------------------------------------------------------------------------
+59): states that unshu mandarin ["Okitsu satsuma tangerine (C. unshiu Marc.)") was the least susceptible of all cultivars tested. This statement is statistically supported in 2 of 12 assessments in Table 5. In the majority of the assessments in Tables 4 & 5 (respectively: 9 of 14, and 4 of 6 assessments, where cultivar had a significant effect within the statistical parameters) the "Satsuma tangerine" had significantly lower disease intensity than grapefruit, but was not significantly different from the other varieties.
+NOTE: Gota 1992 lists Citrus unshu fruit to be "susceptible" and foliage to be "resistant", however, the definition of "resistant" is "no infection of twigs, but scattered small lesions on leaves; epidermis of leaf spots remains intact and does not rupture to form canker", i.e. infection does occur. The original work cited in this review should be investigated further.
+Timing for infection 4.11.2 p.60
+Koizumi 1981: no data and/or not original source, review article — cites Ohta (1967) but this could not easily be sourced for comment.
+Gottwald and Graham 1992: data for Duncan grapefruit. Additional literature should be sought for unshu mandarins.
+Schubert et al. 2001: Exact quote from reference: "Appearance of fruit and twig lesions also assumes that in most cases a certain prior inoculum level must have been reached on leaves to further advance the disease." The statement in the IRA is based on an assumption by the paper's author, but has this hypothesis ever been tested?
+Canteros 1992: not original source for infection timing - should be Stall et al. 1981.
+Canteros 2004: no data and/or not original source, review article. This reference refers to "selective localized pruning" as
+Text Len: 1724
+--------------------------------------------------------------------------------
+ further advance the disease." The statement in the IRA is based on an assumption by the paper's author, but has this hypothesis ever been tested?
+Canteros 1992: not original source for infection timing - should be Stall et al. 1981.
+Canteros 2004: no data and/or not original source, review article. This reference refers to "selective localized pruning" as "a method used for years in Japan" but there is no supporting data that this reduces disease.
+Canteros 1992: Not clear which variety of unshu mandarin was used in experiments. Table 5 shows that fruit could be infected from Nov 17 to Mar 7 (~4 months) with declining susceptibility as fruit expand. The reported time interval for fruit infection should be stated more quantitatively, as supported by the experimental evidence.
+Graham et al. 1992b: provides supporting data for the statement, but is not specific to unshu/satsuma and also cites several other sources that should be considered in the IRA.
+Gottwald and Graham 1992: only results of 'experiment 2' reported in IRA and it would be recommended that further details of this paper are described.
+Conditions promoting infection 4.11.2 p.60
+There is mention of leaf and fruit infection but no mention of shoots.
+Serizawa et al. 1969: full article written in Japanese (CABI Cab Direct database)
+Koizumi 1981: no data and/or not original source, review article - original paper cited by Koizumi (1981) cites Ohta (1967) and should be appraised/cited.
+In the production area surrounding the designated export areas, what is the frequency of "severe bacterial infection of the tree canopy" that is stated as leading to unshu fruit infection?
+Probability of distribution 4.11.2 p.61
+2. Sufficient Inoculum would need to be present to cause infection
+Text Len: 1760
+--------------------------------------------------------------------------------
+ta (1967) and should be appraised/cited.
+In the production area surrounding the designated export areas, what is the frequency of "severe bacterial infection of the tree canopy" that is stated as leading to unshu fruit infection?
+Probability of distribution 4.11.2 p.61
+2. Sufficient Inoculum would need to be present to cause infection
+Graham et a1. 2000: abstract in conference proceedings - does not provide sufficient information/data for full appraisal.
+Gottwald et al. 1992: describes experiments with X. campestris pv. citrumelo (X. alfalfae subsp. citrumelonis), the cause of citrus bacterial spot, and not with X. axonopodis pv. cltri (Xanthomonas citri subsp. citri) causing true citrus canker. Futhermore, the effect of direct sunlight on bacterial desiccation does not appear to be assessed in the experiments.
+Goto 1992: provides no data to support the statement "Epiphytic bacterial proliferation is epidemiologically insignificant" and cites only unpublished work. Furthermore, the author states "the epiphytic form of survival should have only minor importance from the epidemiological viewpoint of citrus canker". Quantitative assessment of the importance of the epiphytic form is required.
+Brunings and Gabriel 2003: provides/cites no data to support the statement "Epiphytic bacterial proliferation is epidemiologically insignficant". The authors state "there is no evident epiphytic growth stage". The paper does not experimentally evaluate the importance of epiphytic growth to the epidemiology of citrus canker. Quantitative assessment of the importance of the epiphytic form is required.
+Graham et al. 1989: does not provide evidence to support the statement "In contrast, populations of X. axonopodis
+Text Len: 1724
+--------------------------------------------------------------------------------
+ "there is no evident epiphytic growth stage". The paper does not experimentally evaluate the importance of epiphytic growth to the epidemiology of citrus canker. Quantitative assessment of the importance of the epiphytic form is required.
+Graham et al. 1989: does not provide evidence to support the statement "In contrast, populations of X. axonopodis pv. citri declined rapidly in lesions in picked leaves or fruit..." Effect of time after "picking" on bacterial populations does not appear to have been investigated. No experiments were conducted on fruit.
+Gottwald et al. 1992: study of X. campestris pv. citrumelo (X. alfalfae subsp. citrumelonis), and does not provide data on the inoculum loads of X. axonopodis pv. citri (Xanthomonas citri subsp. citri) in symptomatic or symptomiess infection sites or contaminated peel ("Inoculum loads are higher in symptomatic lesions..."). Some cited references in Gottwald et al. (1992) may provide this information, and could be cited if so.
+Canteros 2004: reference states "Numbers detected ranged from undetected level on lesionless leaves and fruits of orange and lemon from sprayed low disease plots and 0 to 106 cells of Xac per leaf or fruit (mean: <10) from highly infected unsprayed plots of grapefruit, lemon and orange (Rybak and Canteros 2001)." The original work is presented in Rybak and Canteros (2001) and should be cited in the IRA. Furthermore, Canteros (2004) does not provide sufficient evidence for the comparison of inoculum loads on host tissues. Other literature relevant to this issue should be found and cited.
+Timmer et al. 1991: comparison of bacterial exudation was made between "yong" and "old" "les
+Text Len: 1677
+--------------------------------------------------------------------------------
+ in Rybak and Canteros (2001) and should be cited in the IRA. Furthermore, Canteros (2004) does not provide sufficient evidence for the comparison of inoculum loads on host tissues. Other literature relevant to this issue should be found and cited.
+Timmer et al. 1991: comparison of bacterial exudation was made between "yong" and "old" "lesions" ("The rate and number of bacterial cells exuding..."). The use of the word "infections" could be mistaken for symptomatic or symptonless "infections". The term "lesions" would be recommended.
+3. Free water is necessary to enable the release of viable bacteria from infected tissue p.62
+Findings of Timmer et al. (1991) that, immediately after welling of young leaf lesions, 104-105 bacteria/mL were exuded, could be cited here.
+Kolzumi 1976: "Bacterial proliferation depends on..." English translation is required for full appraisal. The English summary states "The maximum and minimum temperatures for disease development after inoculation were 36-38 deg and 13 deg C, respectively", however, bacterial proliferation is not explicitly referred to.
+Graham et al. 1992b: "There is no evidence that fruit without visible symptoms at harvest..." Experiments described in this reference do not investigate the likelihood of fruit without visible symptoms at harvest developing lesions after harvest This reference should not be cited.
+General enquiries
+Call 1800 900 090
+Contact us online
+Report a biosecurity concern
+Text Len: 1460
+--------------------------------------------------------------------------------
+Queensland Department of Primary Industries and Fisheries' response to the Draft import risk analysis report for fresh unshu mandarin fruit from Japan
+Office of the Director-General
+Reference:08/18815
+Cover Letter
+Ms Louise van Meurs
+General Manager
+Plant Biosecurity
+Biosecurity Australia
+GPO Box 858
+Canberra ACT 2601
+Dear Ms van Meurs
+Biosecurity Australia Advice 2008/23 - Draft import risk analysis report for fresh unshu mandarin fruit from Japan
+I refer to the Draft import risk analysis report for fresh unshu mandarin fruit from Japan (the draft IRA report) and your request for comments by 26 September 2008.
+The draft IRA report proposes that the importation of fresh unshu mandarin fruit from Japan be permitted, subject to a range of risk management conditions.
+The Department of Primary Industries and Fisheries (DPI&F) notes that Biosecurity Australia (BA) has identified 14 quarantine pests that require quarantine measures to manage risks to a very low level in order to achieve Australia's Appropriate Level, of Protection (ALOP).
+The draft IRA report proposes that importation be permitted subject to pest specific . measures including monitoring, orchard control and freedom from symptoms, inspection and, if necessary, remedial action. For citrus canker, measures include registered disease free orchards, surveillance, mandatory calendar copper sprays, restrictions on movement of host material, and post-harvest chemical treatment.
+DPI&F has reviewed the draft IRA report and has made a number of comments and recommendations as detailed In the attached document.
+Thank you for the opportunity to comment on the draft IRA report. DPI&F will appreciate receiving a response on how the issues raised are to be addressed in any further review leading to the finalisation of this IRA.
+If you require any further information regarding this matter, please do not hesitate to contact
+Text Len: 1899
+--------------------------------------------------------------------------------
+ IRA report and has made a number of comments and recommendations as detailed In the attached document.
+Thank you for the opportunity to comment on the draft IRA report. DPI&F will appreciate receiving a response on how the issues raised are to be addressed in any further review leading to the finalisation of this IRA.
+If you require any further information regarding this matter, please do not hesitate to contact Dr Fiona Giblin on telephone 07 3239 3472 or email flona.giblin@dpi.q1d.gov.au.
+Yours sincerely
+[Signed]
+Robert Setter
+Director-General (Acting)
+Att
+Biosecurity Australia Advice 2008/23
+September 2008
+3.4.1 Cultivars p.29
+Trees in the production area are grafted onto Poncirus trifoliata rootstock which is susceptible to citrus canker (Peltier G.L. and Frederich W.J. 1920. Relative susceptibility to citrus-canker of different species and hybrids of the genus citrus, including the wild relatives. Journal of Agricultural Research 14: 339-362). Rootstock shoots from below the graft union can occur in citrus production and potentially provide a Xanthomonas citri subsp. citri (XCC) inoculum source. In the case of the Emerald (Queensland, Australia) citrus canker outbreak, infection was observed on overgrowth of the canker-susceptible rootstock (NCCEP report SS-R-003). The possibility exists that the infected rootstock played a role in the establishment and spread of canker in the affected orchard. The draft import risk analysis (IRA) should make provision for inspection for and management of, rootstock shoots arising from , below the graft union that potentially provide an inoculum source for citrus canker within the production areas.
+3.4.3 Cultivation practices (Table 3
+Text Len: 1702
+--------------------------------------------------------------------------------
+ exists that the infected rootstock played a role in the establishment and spread of canker in the affected orchard. The draft import risk analysis (IRA) should make provision for inspection for and management of, rootstock shoots arising from , below the graft union that potentially provide an inoculum source for citrus canker within the production areas.
+3.4.3 Cultivation practices (Table 3.5) p.30
+In Table 3.5, it is not clear if listed products are sprayed separately or as a mixture.
+The standard spray schedule indicates the need for two applications. of copper sulphate and copper carbonate: targeting citrus canker. However, no efficacy data for this spray schedule is provided or cited in the IRA even though it is listed as a component of the systems approach proposed in the IRA. Similarly, efficacy data for the standard spray schedule for citrus scab is not provided or cited In the IRA.
+According to the Australian Pesticides and Veterinary Medicines Authority (APVMA), "Currently there are no products containing benomyl registered for use in. Australia. It became illegal to supply or use products containing benomyl after 6 December 2006." Is the use pattern for benomyl in the IRA acceptable in Australia? Furthermore, resistance to benomyl of citrus postharvest mould pathogens (e.g. Peniciilium spp.) has been reported from various countries. Is data available to demonstrate the efficacy of benomyl in Japan? Reports of resistance of E. fawcettii to benomyl in Japan may also be of relevance.
+Scirtothrips dorsaiis is not considered in the IRA as it is present in Australia; however, it is relevant to note that the crop is sprayed five times per season with a range of pesticides. This is a heavy spray schedule for this pest, especially as spraying continues beyond the usual flushing period and there is potential for multi-pesticide
+Text Len: 1861
+--------------------------------------------------------------------------------
+ may also be of relevance.
+Scirtothrips dorsaiis is not considered in the IRA as it is present in Australia; however, it is relevant to note that the crop is sprayed five times per season with a range of pesticides. This is a heavy spray schedule for this pest, especially as spraying continues beyond the usual flushing period and there is potential for multi-pesticide resistant individuals being introduced into Australia. Therefore, management of this thrips species and others is cause for concern.
+3.4.4 Post-harvest p.31
+It is not clearly stated if the JA Oigawa packing house handles fruit from outside the proposed four designated export areas and, if so, what the disease and pest status is of such fruit. It is not clearly stated if the segregation of fruit in the packing house is temporal or spatial (the flow diagram suggests temporal), or what sanitary precautions are taken to uphold the segregation.
+Has the efficacy of chlorine dips been tested to market access standards (efficacy of fruit disinfestation treatments is commonly tested on several thousands of fruit)?
+4.10 Citrus scab p.58
+Regarding the incidence of scab, the Ministry of Agriculture, Forestry and Fisheries of Japan (MAFF) advises that it is `low' without providing a definition or supporting data.
+4.11 Citrus canker pp.58 - 67
+Australia currently accepts fruit only from citrus canker free areas. In the case of the Emerald citrus canker outbreak, the movement of fruit from the quarantine area was not permitted to any Australian domestic market. This IRA proposes to lower Australia's minimum standards for imported fruit, conflicting with the World Trade Organization (WTO)/Sanitary and Phytosanitary (SPS) agreement which clearly states that measures applied to both domestic and international trade should be consistent.
+Importation of Unshiu fruit from the Jeju region of Korea was prohibited by the United States Department of
+Text Len: 1921
+--------------------------------------------------------------------------------
+ any Australian domestic market. This IRA proposes to lower Australia's minimum standards for imported fruit, conflicting with the World Trade Organization (WTO)/Sanitary and Phytosanitary (SPS) agreement which clearly states that measures applied to both domestic and international trade should be consistent.
+Importation of Unshiu fruit from the Jeju region of Korea was prohibited by the United States Department of Agriculture's (USDA) Animal and Plant Health Inspection Service (APHIS) due to the discovery of citrus canker in 2002 (Global Agriculture Information Network report no. KS6048).
+Many papers are cited that do not support statements in the IRA. Many of the papers do not contain the original data or do not contain data directly relevant to unshu mandarins. Other sources containing relevant data are not cited. Many citations are from conference proceedings and are thus not peer reviewed. Numerous cited articles are written in Japanese, with only an English abstract which limits review by stakeholders.
+For example:
+Goto 1992: frequently cited, but is not the original source of most of the data, or no data is provided or cited.
+Leite 2000, Leite 2005: conference proceedings abstract, no peer review, no data.
+Koizumi 1972: article written in Japanese, with only an English abstract (CABI Cab Direct database).
+It is stated repeatedly that MAFF informed and advised Biosecurity Australia. Important conclusions are drawn from this advice but the advice cannot be substantiated. Also, information from the "Shizuoka Prefectural Plant Protection Office 2007" is not readily available; therefore, the information cannot be independently reviewed.
+The taxonomy of unshu mandarins grown in the production zone and their origin is not clear. The range of names used in citations in the IRA include "Satsuma", "Satsuma (Citrus reticulata Blanco)", "Satsuma (C. unshiu
+Text Len: 1883
+--------------------------------------------------------------------------------
+ 2007" is not readily available; therefore, the information cannot be independently reviewed.
+The taxonomy of unshu mandarins grown in the production zone and their origin is not clear. The range of names used in citations in the IRA include "Satsuma", "Satsuma (Citrus reticulata Blanco)", "Satsuma (C. unshiu Marc.)", "Unshu", "Unshiu", "C. unshu","C. unshiu", "Miyakawa Wase unshiu", "Sugiyama unshiu", and others. It is often unclear what germplasm is used in the cited experiments. Many papers contain research on 'satsumas' so it is paramount that these terms are defined. For example:
+Goto 1962: not clear what variety of satsuma mandarin was studied.
+Canteros 1992: not clear what variety of unshu mandarin was used in the experiments. Is data available to demonstrate that the variety of unshu does not affect the susceptibility period?
+In addition, the taxonomy of Xanthomonas axonopodis pv. citri (Hasse 1915) (Vauterin et al. 1995) should be brought in line with the new nomenclature of Schaad et al. 2006 (Systematic and Applied Microbiology, Volume 29, Issue 8): Xanthomonas citri subsp. citri (Xcc).
+The susceptibility of unshu mandarin to citrus canker is not clear. Much of the research is on satsumas and the IRA at times draws different conclusions than the authors. In addition, the terminology of resistance and susceptibility is used incorrectly and is often interchanged. The impression is that unshu mandarins are resistant to citrus canker. A review of the cited literature does not support this and shows data and
+Text Len: 1539
+--------------------------------------------------------------------------------
+arin to citrus canker is not clear. Much of the research is on satsumas and the IRA at times draws different conclusions than the authors. In addition, the terminology of resistance and susceptibility is used incorrectly and is often interchanged. The impression is that unshu mandarins are resistant to citrus canker. A review of the cited literature does not support this and shows data and pictures of canker lesions on unshu mandarins. It appears that unshu mandarins are relatively less susceptible to citrus canker than other citrus species but they do not appear to be resistant. In the absence of data on the citrus canker status in the production area, the possibility of pathogen inoculum sources located within suggested spread distances (Gottwald et al. 1997) cannot be discounted. Assessments of risk should therefore assume citrus canker is present on host plants within the production area, until absence of disease can be independently confirmed.
+The IRA states that bacterial concentrations less than 2 x 103 cfu/ml were unable to cause stomatal infection according to a paper by Gottwald and Graham (1992). However, a further review of this paper reveals measurements were taken under artificial conditions and no field experiments were undertaken to confirm this. The paper also states that as few as 2 cfu/ml could cause a single lesion and disease. Hence, 2 x 103 cfu/ml is an underestimation of the "probability of distribution" of Xcc.
+The IRA mentions bacteriophages for detection of Xcc, but provides no details of the assay used by MAFF, such as sensitivity of the assay or justification of this assay over other methods of detection (e.g. PCR). Furthermore, no details of a diagnostic assay for citrus scab are provided.
+Leaf and fruit damage of unshu mandarins due to wind/weather is 'not known to occur in the designated export areas', however,
+Text Len: 1873
+--------------------------------------------------------------------------------
+ no details of the assay used by MAFF, such as sensitivity of the assay or justification of this assay over other methods of detection (e.g. PCR). Furthermore, no details of a diagnostic assay for citrus scab are provided.
+Leaf and fruit damage of unshu mandarins due to wind/weather is 'not known to occur in the designated export areas', however, Table 3.5 (section 3.4.3) shows numerous spray applications. Some spray application methods use high velocity air (up to 200km/h) or high pressure (>300psi) liquid to deliver chemical to the target. This could lead to leaf and fruit damage (unpublished work in Australia has shown this) and possibly facilitate spread of Xcc and water congestion of tissues.
+Appendix A: several pathogens are listed as "present in Australia" but do not appear to have been reported on hosts of the Citrus genus, or of the Rutaceae family in Australia. The IRA does not make provision for strains or pathotypes of these pathogens which could present a threat to citrus production in Australia, such as for Colletotrichum acutatum, which is present in Australia but does not cause post bloom fruit drop of citrus.
+Examples of the pathogens "present in Australia", but not known to cause diseases of citrus in Australia include Rhizobium radiobacter, Ascochyta pisi, Botryosphaeria dothidea, Botryosphaeria ribis, Capnodium fuliginodes, Diaporthe medusaea, Gibberella fujikuroi, Mycosphaerella pinodes, Phoma pinodella, Rosellinia necatrix, Schizothyrium pomi, and Phytophthora caclorum. Other pathogens that could be considered for addition to Appendix A are Colletotrichum gloeosporioides causing "young fruit apex rot", Cochli
+Text Len: 1658
+--------------------------------------------------------------------------------
+usaea, Gibberella fujikuroi, Mycosphaerella pinodes, Phoma pinodella, Rosellinia necatrix, Schizothyrium pomi, and Phytophthora caclorum. Other pathogens that could be considered for addition to Appendix A are Colletotrichum gloeosporioides causing "young fruit apex rot", Cochliobolus tuberculatus, and Leptoxyphium axillatum, pending relevant literature searches.
+Specific citrus canker cornmenis/discrepancies
+Susceptibility of unshu mandarin to citrus canker 4.11.2 p.59
+Kuhara 1978: no data and/or not original source, review article.
+Koizumi 1981: no data and/or not original source, review article.
+Koizumi and Kuhara 1982: varieties labelled 'resistant' did still produce symptoms of citrus canker, and support bacterial multiplication.
+Leite 2000, Leite 2005: conference proceedings abstract, no peer review, no data.
+Canteros 1992: no supporting evidence for the statement "Fruit of unshu mandarin rarely show signs of infection". Paper reports only on artificial inoculation experiments, the results of which indicate the fruit consistently produced fruit symptoms (up to 6.1 lesions per cm2 in Table 5). Which variety of satsuma was used in these trials?
+Canteros 2004: appears to be from conference proceedings with no peer review. The variety used in this study appears to be 'Okitsu'; according to the IRA the varieties for export from Japan are 'Aoshima' and 'Miyagawa Wase'. No data provided as to the effect of unshu variety on susceptibility to canker. Sufficient weather data (particularly temperature and monthly rainfall in all years) for the Okitsu' unshu mandarin trial sites in Argentina are not provided to compare disease
+Text Len: 1648
+--------------------------------------------------------------------------------
+Okitsu'; according to the IRA the varieties for export from Japan are 'Aoshima' and 'Miyagawa Wase'. No data provided as to the effect of unshu variety on susceptibility to canker. Sufficient weather data (particularly temperature and monthly rainfall in all years) for the Okitsu' unshu mandarin trial sites in Argentina are not provided to compare disease susceptibility with 'Aoshima' and 'Miyagawa Wase' unshu mandarins grown in Japan. This reference would support the comment 'Fruit of Okitsu satsuma tangerine (C. unshiu Marc.) were found to have a disease intensity rating of 0 in trials carried out in Argentina (Canteros 2004)", but does not provide sufficient data to support the statement that "Fruit of unshu mandarin rarefy show signs of infection" (this reference is also used further down page 59 to support the blanket susceptibility of "unshu mandarin" based on the assessment of only one variety of unshu mandarin and only under Argentinean conditions).
+Goto 2005: shows a photograph of a "Citrus unshiu" fruit with typical canker symptoms which would indicate a certain level of susceptibility. Details such as country of origin, variety, means of infection (i.e. natural or inoculated) seem to be unavailable. This information would be useful for assessing the relevance of the image. Is more robust evidence available in the literature?
+Canteros 2004 (2nd last dot point p.59): states that unshu mandarin ["Okitsu satsuma tangerine (C. unshiu Marc.)") was the least susceptible of all cultivars tested. This statement is statistically supported in 2 of 12 assessments in Table 5. In the majority of the assessments in Tables 4 & 5 (respectively: 9 of 14, and 4 of 6 assessments, where cultivar had
+Text Len: 1718
+--------------------------------------------------------------------------------
+59): states that unshu mandarin ["Okitsu satsuma tangerine (C. unshiu Marc.)") was the least susceptible of all cultivars tested. This statement is statistically supported in 2 of 12 assessments in Table 5. In the majority of the assessments in Tables 4 & 5 (respectively: 9 of 14, and 4 of 6 assessments, where cultivar had a significant effect within the statistical parameters) the "Satsuma tangerine" had significantly lower disease intensity than grapefruit, but was not significantly different from the other varieties.
+NOTE: Gota 1992 lists Citrus unshu fruit to be "susceptible" and foliage to be "resistant", however, the definition of "resistant" is "no infection of twigs, but scattered small lesions on leaves; epidermis of leaf spots remains intact and does not rupture to form canker", i.e. infection does occur. The original work cited in this review should be investigated further.
+Timing for infection 4.11.2 p.60
+Koizumi 1981: no data and/or not original source, review article — cites Ohta (1967) but this could not easily be sourced for comment.
+Gottwald and Graham 1992: data for Duncan grapefruit. Additional literature should be sought for unshu mandarins.
+Schubert et al. 2001: Exact quote from reference: "Appearance of fruit and twig lesions also assumes that in most cases a certain prior inoculum level must have been reached on leaves to further advance the disease." The statement in the IRA is based on an assumption by the paper's author, but has this hypothesis ever been tested?
+Canteros 1992: not original source for infection timing - should be Stall et al. 1981.
+Canteros 2004: no data and/or not original source, review article. This reference refers to "selective localized pruning" as
+Text Len: 1724
+--------------------------------------------------------------------------------
+ further advance the disease." The statement in the IRA is based on an assumption by the paper's author, but has this hypothesis ever been tested?
+Canteros 1992: not original source for infection timing - should be Stall et al. 1981.
+Canteros 2004: no data and/or not original source, review article. This reference refers to "selective localized pruning" as "a method used for years in Japan" but there is no supporting data that this reduces disease.
+Canteros 1992: Not clear which variety of unshu mandarin was used in experiments. Table 5 shows that fruit could be infected from Nov 17 to Mar 7 (~4 months) with declining susceptibility as fruit expand. The reported time interval for fruit infection should be stated more quantitatively, as supported by the experimental evidence.
+Graham et al. 1992b: provides supporting data for the statement, but is not specific to unshu/satsuma and also cites several other sources that should be considered in the IRA.
+Gottwald and Graham 1992: only results of 'experiment 2' reported in IRA and it would be recommended that further details of this paper are described.
+Conditions promoting infection 4.11.2 p.60
+There is mention of leaf and fruit infection but no mention of shoots.
+Serizawa et al. 1969: full article written in Japanese (CABI Cab Direct database)
+Koizumi 1981: no data and/or not original source, review article - original paper cited by Koizumi (1981) cites Ohta (1967) and should be appraised/cited.
+In the production area surrounding the designated export areas, what is the frequency of "severe bacterial infection of the tree canopy" that is stated as leading to unshu fruit infection?
+Probability of distribution 4.11.2 p.61
+2. Sufficient Inoculum would need to be present to cause infection
+Text Len: 1760
+--------------------------------------------------------------------------------
+ta (1967) and should be appraised/cited.
+In the production area surrounding the designated export areas, what is the frequency of "severe bacterial infection of the tree canopy" that is stated as leading to unshu fruit infection?
+Probability of distribution 4.11.2 p.61
+2. Sufficient Inoculum would need to be present to cause infection
+Graham et a1. 2000: abstract in conference proceedings - does not provide sufficient information/data for full appraisal.
+Gottwald et al. 1992: describes experiments with X. campestris pv. citrumelo (X. alfalfae subsp. citrumelonis), the cause of citrus bacterial spot, and not with X. axonopodis pv. cltri (Xanthomonas citri subsp. citri) causing true citrus canker. Futhermore, the effect of direct sunlight on bacterial desiccation does not appear to be assessed in the experiments.
+Goto 1992: provides no data to support the statement "Epiphytic bacterial proliferation is epidemiologically insignificant" and cites only unpublished work. Furthermore, the author states "the epiphytic form of survival should have only minor importance from the epidemiological viewpoint of citrus canker". Quantitative assessment of the importance of the epiphytic form is required.
+Brunings and Gabriel 2003: provides/cites no data to support the statement "Epiphytic bacterial proliferation is epidemiologically insignficant". The authors state "there is no evident epiphytic growth stage". The paper does not experimentally evaluate the importance of epiphytic growth to the epidemiology of citrus canker. Quantitative assessment of the importance of the epiphytic form is required.
+Graham et al. 1989: does not provide evidence to support the statement "In contrast, populations of X. axonopodis
+Text Len: 1724
+--------------------------------------------------------------------------------
+ "there is no evident epiphytic growth stage". The paper does not experimentally evaluate the importance of epiphytic growth to the epidemiology of citrus canker. Quantitative assessment of the importance of the epiphytic form is required.
+Graham et al. 1989: does not provide evidence to support the statement "In contrast, populations of X. axonopodis pv. citri declined rapidly in lesions in picked leaves or fruit..." Effect of time after "picking" on bacterial populations does not appear to have been investigated. No experiments were conducted on fruit.
+Gottwald et al. 1992: study of X. campestris pv. citrumelo (X. alfalfae subsp. citrumelonis), and does not provide data on the inoculum loads of X. axonopodis pv. citri (Xanthomonas citri subsp. citri) in symptomatic or symptomiess infection sites or contaminated peel ("Inoculum loads are higher in symptomatic lesions..."). Some cited references in Gottwald et al. (1992) may provide this information, and could be cited if so.
+Canteros 2004: reference states "Numbers detected ranged from undetected level on lesionless leaves and fruits of orange and lemon from sprayed low disease plots and 0 to 106 cells of Xac per leaf or fruit (mean: <10) from highly infected unsprayed plots of grapefruit, lemon and orange (Rybak and Canteros 2001)." The original work is presented in Rybak and Canteros (2001) and should be cited in the IRA. Furthermore, Canteros (2004) does not provide sufficient evidence for the comparison of inoculum loads on host tissues. Other literature relevant to this issue should be found and cited.
+Timmer et al. 1991: comparison of bacterial exudation was made between "yong" and "old" "les
+Text Len: 1677
+--------------------------------------------------------------------------------
+ in Rybak and Canteros (2001) and should be cited in the IRA. Furthermore, Canteros (2004) does not provide sufficient evidence for the comparison of inoculum loads on host tissues. Other literature relevant to this issue should be found and cited.
+Timmer et al. 1991: comparison of bacterial exudation was made between "yong" and "old" "lesions" ("The rate and number of bacterial cells exuding..."). The use of the word "infections" could be mistaken for symptomatic or symptonless "infections". The term "lesions" would be recommended.
+3. Free water is necessary to enable the release of viable bacteria from infected tissue p.62
+Findings of Timmer et al. (1991) that, immediately after welling of young leaf lesions, 104-105 bacteria/mL were exuded, could be cited here.
+Kolzumi 1976: "Bacterial proliferation depends on..." English translation is required for full appraisal. The English summary states "The maximum and minimum temperatures for disease development after inoculation were 36-38 deg and 13 deg C, respectively", however, bacterial proliferation is not explicitly referred to.
+Graham et al. 1992b: "There is no evidence that fruit without visible symptoms at harvest..." Experiments described in this reference do not investigate the likelihood of fruit without visible symptoms at harvest developing lesions after harvest This reference should not be cited.
+General enquiries
+Call 1800 900 090
+Contact us online
+Report a biosecurity concern
+Text Len: 1460
+--------------------------------------------------------------------------------

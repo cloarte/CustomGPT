@@ -1,0 +1,1346 @@
+Acanthaceae;Aphelandra;R. Br.;;135992;;J. Taylor  18048;1975-01-04;Costa Rica, Guanacaste;;
+Acanthaceae;Aphelandra;R. Br.;;137675;;R. Vasquez  13217;1992-04-12;Peru, Loreto, Maynas;-3.5;-73.0833333333333
+Acanthaceae;Aphelandra aurantiaca;Lindl;;121408;;J. J. Pipoly  25062;2003-09-20;Honduras, Atlantida;15.6208333333333;-87.5763888888889
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;139339;;M. A. Vincent  13277;2006-11-02;Bahamas;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;82051;label;K. A. Bradley  1610;1998-04-01;United States of America, Florida, Monroe;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;82431;label;K. A. Bradley  1367;1998-03-01;United States of America, Florida, Monroe;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95780;label;H. W. Barrick  5;1967-10-20;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95779;label;W. M. Buswell;1935-11-03;United States of
+Text Len: 943
+--------------------------------------------------------------------------------
+ T. Anders.;;95780;label;H. W. Barrick  5;1967-10-20;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95779;label;W. M. Buswell;1935-11-03;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95778;label;W. M. Buswell;1942-10-26;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;30888;label;A. Denivelle;1977-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;13945;label;J. Popenoe  s.n.;1967-10-25;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;137345;;T. Braddy;1998-04-10;United States of America, Florida, Palm Beach;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;35975;label;P. R. Fantz  3552;1978-11-10;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60526;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae
+Text Len: 1011
+--------------------------------------------------------------------------------
+z  3552;1978-11-10;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60526;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60295;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;126278;;M. Araquistain  489;1980-01-15;Nicaragua, Granada;11.9;-86.05
+Acanthaceae;Barleria cristata;L.;;80740;label;K. A. Bradley  969;1997-10-12;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80739;label;K. A. Bradley  969;1997-10-12;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;83695;label;S. W. Woodmansee  1;1997-11-22;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;102950;label;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;119139;;S. W. Woodmansee  326
+Text Len: 986
+--------------------------------------------------------------------------------
+, Dade;;
+Acanthaceae;Barleria cristata;L.;;102950;label;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;119139;;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Barleria cristata;L.;;19147;label;D. S. Correll  40158;1973-09-29;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;21186;label;D. S. Correll  42230;1974-04-27;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;35978;label;P. R. Fantz  1377;1978-12-07;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;67141;label;A. K. Herndon  269;1978-10-15;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80608;label;K. A. Bradley  998;1997-10-13;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80574;label;K. A. Bradley  808;1997-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Barleria lupulina;Lindl.;;55859;label
+Text Len: 1014
+--------------------------------------------------------------------------------
+-13;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80574;label;K. A. Bradley  808;1997-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Barleria lupulina;Lindl.;;55859;label;W. C. Brombach  9762;1981-12-11;United States of America, Florida, Monroe;;
+Acanthaceae;Barleriola inermis;Urb. & Ekman;;136805;;R. Garcia  4257;1992-11-25;Dominican Republic, Salcedo;19.516666666666698;-70.35
+Acanthaceae;Beloperone guttata;Brandegee;;120438;;Y. Hernandez  1994-11;1994-11-07;United States of America, Florida, Broward;;
+Acanthaceae;Blechum brownei;Juss.;;139352;;M. A. Vincent  13322;2006-11-03;Bahamas;;
+Acanthaceae;Blechum brownei;Juss.;;84949;label;C. Van Hoek  220;1990-12-21;United States of America, Florida, Palm Beach;;
+Acanthaceae;Blechum brownei;Juss.;;95879;label;E. Skinner;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;25560;label;S. R. Hill  2668;1975-03-27;United States of America, Florida;;
+Acanthaceae;Blechum brownei;Juss.;;3724;label;W. T. Gillis
+Text Len: 1042
+--------------------------------------------------------------------------------
+;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;25560;label;S. R. Hill  2668;1975-03-27;United States of America, Florida;;
+Acanthaceae;Blechum brownei;Juss.;;3724;label;W. T. Gillis  7279;1968-12-12;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;13318;label;F. C. Craighead;1965-04-25;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;29149;label;A. Brackmann  152;1976-01-08;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;57663;label;J. Popenoe  2338;1983-07-12;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;63058;label;G. F. Guala  733;1987-07-28;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95876;label;W. M. Buswell;1930-04-03;United States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95882;label;P. A. Schmahl;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95881;label;C
+Text Len: 1054
+--------------------------------------------------------------------------------
+ States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95882;label;P. A. Schmahl;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95881;label;C. Weymouth  7;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95880;label;W. C. Brombach  7461;1971-03-18;United States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95878;label;R. O. Woodbury;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95877;label;W. M. Buswell;1940-11-11;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95874;label;L. M. Garbarini;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95875;label;I. A. Badia  8;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum serrulatum;Rich.;;20253;;D. S. Correll  41493;1974-02-01;Bahamas;;
+Acanthaceae;Blechum serrulatum;Rich.;;132806
+Text Len: 1060
+--------------------------------------------------------------------------------
+ A. Badia  8;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum serrulatum;Rich.;;20253;;D. S. Correll  41493;1974-02-01;Bahamas;;
+Acanthaceae;Blechum serrulatum;Rich.;;132806;;J. Browder  150;1970-03-31;Guyana, Essequibo Islands;;
+Acanthaceae;Blechum serrulatum;Rich.;;132807;;J. Browder  125;1970-03-30;Guyana, Essequibo Islands;;
+Acanthaceae;Bravaisia integerrima;( Spreng. ) Standl.;;137896;;M. McLaughlin  35;2001-06-25;Costa Rica, Heredia, Le Selva;10.4419444444444;-84.0094444444444
+Acanthaceae;Bravaisia integerrima;( Spreng. ) Standl.;;126279;;M. Araquistain  1924;1980-03-14;Nicaragua, Jinotega;;
+Acanthaceae;Dicliptera;Juss.;;137887;;M. McLaughlin  27;2001-06-25;Costa Rica, Heredia, Le Selva;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95884;label;W. C. Brombach  7480;1971-04-04;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95886;label;W. M. Buswell;1927-03-15;United
+Text Len: 948
+--------------------------------------------------------------------------------
+(L.) Juss.;;95884;label;W. C. Brombach  7480;1971-04-04;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95886;label;W. M. Buswell;1927-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95889;label;N. Woessner  53;1964-03-15;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95890;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95887;label;W. M. Buswell;1934-03-11;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95888;label;Dickson;1952-03-06;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95883;label;W. C. Brombach  7139;1970-04-22;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95885;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera
+Text Len: 1005
+--------------------------------------------------------------------------------
+  7139;1970-04-22;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95885;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;82434;label;K. A. Bradley  1375;1998-03-01;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;12483;label;W. T. Gillis  7174;1968-11-13;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;20323;label;D. S. Correll  41567;1974-02-16;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;14680;label;W. T. Gillis  10522;1971-04-05;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;39145;label;D. W. Black  171;1978-05-09;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;31115;label;J. Popenoe  821;1977-04-02;United States of America, Florida, Martin;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;51897;
+Text Len: 1022
+--------------------------------------------------------------------------------
+ America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;31115;label;J. Popenoe  821;1977-04-02;United States of America, Florida, Martin;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;51897;label;J. Popenoe  2283;1983-04-20;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;62096;label;A. K. Herndon  1139;1985-03-30;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;75992;label;G. D. Gann  420;1996-04-02;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera brachiata;(Pursh) Spreng.;;48924;label;D. S. Correll  52131;1981-06-27;United States of America, Florida, Gadsden;;
+Acanthaceae;Dicliptera brachiata;(Pursh) Spreng.;;62088;label;R. K. Godfrey  82599;1987-10-20;United States of America, Florida, Gadsden;;
+Acanthaceae;Dicliptera halei;Riddell;;94589;label;M. F. Baker;1938-09-27;United States of America, Florida, Franklin;;
+Acanthaceae;Dicliptera sericea;Nees;C;16264;;M. B. Meagher  KF143;
+Text Len: 1007
+--------------------------------------------------------------------------------
+;;
+Acanthaceae;Dicliptera halei;Riddell;;94589;label;M. F. Baker;1938-09-27;United States of America, Florida, Franklin;;
+Acanthaceae;Dicliptera sericea;Nees;C;16264;;M. B. Meagher  KF143;1972-10-04;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;73111;label;S. L. Orzell  15958;1991-02-08;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;82977;label;S. W. Woodmansee  54a;1998-03-25;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;124842;;H. Liu  283;2000-06-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;8986;label;G. N. Avery  630;1968-12-31;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;13537;label;F. C. Craighead;1960-04-22;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;87484;label;S. L. Or
+Text Len: 998
+--------------------------------------------------------------------------------
+aceae;Dyschoriste angusta;(A. Gray) Small;;13537;label;F. C. Craighead;1960-04-22;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;87484;label;S. L. Orzell  13506;1990-05-11;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;91914;label;A. K. Herndon  1969;1988-05-31;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;8949;label;F. C. Craighead;1963-07-01;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;138647;;S. W. Woodmansee  1713;2005-04-06;United States of America, Florida, Lee;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;58092;label;D. S. Correll  53364;1982-03-27;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72610;label;P. M. Sheridan  815;1991-09-13;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72609;label;
+Text Len: 1026
+--------------------------------------------------------------------------------
+thaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72610;label;P. M. Sheridan  815;1991-09-13;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72609;label;P. M. Sheridan  811;1991-09-16;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80713;label;V. Ducey;1964-04-22;United States of America, Florida, Pinellas;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;81584;label;K. A. Bradley  490;1997-08-15;United States of America, Florida, Lee;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;125892;;G. W. Atwater  636;1962-03-03;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;11388;label;W. T. Gillis  7939;1969-04-19;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;18805;label;D. S. Correll  40051;1973-09-15;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;12902;
+Text Len: 1030
+--------------------------------------------------------------------------------
+canthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;18805;label;D. S. Correll  40051;1973-09-15;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;12902;label;P. Genelle  688;1971-04-25;United States of America, Florida, Pinellas;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;24268;label;D. S. Correll  44259;1975-02-01;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;28956;label;D. S. Correll  47092;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;38448;label;P. R. Fantz  2005;1974-08-24;United States of America, Florida, Polk;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50079;label;R. P. Sauleda  4800;1981-04-18;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50583;label;J. B. Watson  718;1981-06-03;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) K
+Text Len: 1029
+--------------------------------------------------------------------------------
+ Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50583;label;J. B. Watson  718;1981-06-03;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;33623;label;D. S. Correll  49833;1978-05-27;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;65185;label;W. M. Houghton  1129;1989-07-12;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;65401;label;R. K. Godfrey  83814;1990-04-26;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47892;label;D. S. Correll  51586;1981-04-23;United States of America, Florida, Levy;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47815;label;D. S. Correll  51639;1981-04-25;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;48160;label;D. S. Correll  51702;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Dys
+Text Len: 1019
+--------------------------------------------------------------------------------
+39;1981-04-25;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;48160;label;D. S. Correll  51702;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47775;label;D. S. Correll  51668;1981-04-25;United States of America, Florida, Gilchrist;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;58073;label;D. S. Correll  53348;1982-03-27;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;69108;label;S. L. Orzell  14527;1990-08-14;United States of America, Florida, Jefferson;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;73406;label;S. L. Orzell  15325;1991-04-13;United States of America, Florida, Gadsden;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;73557;label;S. L. Orzell  16516;1991-05-07;United States of America, Florida, Sarasota;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80058;label;G. D. Gann  679;1996-05-09;United States of
+Text Len: 1023
+--------------------------------------------------------------------------------
+3557;label;S. L. Orzell  16516;1991-05-07;United States of America, Florida, Sarasota;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80058;label;G. D. Gann  679;1996-05-09;United States of America, Florida, Charlotte;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;132694;;T. Bayer;1944-05-08;United States of America, Georgia, Richmond;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;73112;label;S. L. Orzell  15956;1991-02-08;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;83351;label;K. A. Bradley  1552;1998-03-22;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;81495;label;K. A. Bradley  366;1995-10-13;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;83945;label;J. R. Abbott  9168;1996-07-09;United States of America, Florida, Levy;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94593;label;R. O. Woodbury;1937-09-
+Text Len: 1015
+--------------------------------------------------------------------------------
+. Gmel.) Pers.;;83945;label;J. R. Abbott  9168;1996-07-09;United States of America, Florida, Levy;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94593;label;R. O. Woodbury;1937-09-01;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94592;label;W. Phillips;1938-06-13;United States of America, Florida, Alachua;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94591;label;M. F. Baker;1932-07-18;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94590;label;C. R. Jackson;1951-05-26;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94614;label;C. H. Dodson;1968-05-18;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;118969;;C. Slaughter  13,296;2002-08-15;United States of America, Florida, Flagler;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;11704;label;G. N. Avery  965;
+Text Len: 1010
+--------------------------------------------------------------------------------
+ensis;(J.F. Gmel.) Pers.;;118969;;C. Slaughter  13,296;2002-08-15;United States of America, Florida, Flagler;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;11704;label;G. N. Avery  965;1971-06-02;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;124843;;H. Liu  415;2000-08-15;United States of America, Florida, Monroe;24.420491;-81.2321
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;27694;label;S. R. Hill  3219;1975-06-21;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;28915;label;D. S. Correll  47194;1976-05-14;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;36248;label;L. A. Biernacki;1977-08-14;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;38883;label;D. Black  212;1978-05-24;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;14
+Text Len: 1015
+--------------------------------------------------------------------------------
+ Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;38883;label;D. Black  212;1978-05-24;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;140723;;S. W. Woodmansee  1884;2006-08-01;United States of America, Florida, Lee;26.70414;-81.92195
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;50247;label;D. S. Correll  52497;1991-09-18;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;49563;label;R. K. Godfrey  79881;1982-06-21;United States of America, Florida, Calhoun;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;47988;label;R. K. Godfrey  79003;1981-07-11;United States of America, Florida, Jackson;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;77142;label;S. L. Orzell  19030;1991-11-09;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;66431;label;A. Herndon  3084;1991-08-14;United States of America, Florida, Wakulla
+Text Len: 1018
+--------------------------------------------------------------------------------
+. L. Orzell  19030;1991-11-09;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;66431;label;A. Herndon  3084;1991-08-14;United States of America, Florida, Wakulla;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;69131;label;S. L. Orzell  14557;1990-08-03;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;69130;label;S. L. Orzell  13512;1990-05-11;United States of America, Florida, Hillsborough;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;80166;label;K. A. Bradley  198;1995-09-11;United States of America, Florida, Dade;;
+Acanthaceae;Eranthemum nervosum;;C;120459;;E. Litwin  48-93;1993-11-29;United States of America, Florida, Broward;;
+Acanthaceae;Eranthemum pulchellum;L.;C;3022;label;W. T. Gillis  7547;1969-07-01;United States of America;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127886;;R. O. Woodbury;1942-04-10;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L
+Text Len: 1028
+--------------------------------------------------------------------------------
+. Gillis  7547;1969-07-01;United States of America;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127886;;R. O. Woodbury;1942-04-10;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127885;;L. M. Garbarini;1968-05-02;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L.;;62970;label;R. P. Wunderlin  10353;1987-03-03;United States of America, Florida, Pinellas;;
+Acanthaceae;Hemigraphis alternata;(Burm f.) T. Anderson;;57496;label;B. F. Hansen  10727;1985-10-21;United States of America, Florida, Dade;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;31016;label;J. Popenoe  868;1977-05-12;United States of America, Florida, Dade;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;C;137437;;M. Whitten  s.n.;1998-12-24;United States of America, Florida, Alachua;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;64546;label;L. E. Brown  14517;1990-05-21;United States of America, Florida, Dade;;
+Acanthaceae
+Text Len: 1033
+--------------------------------------------------------------------------------
+12-24;United States of America, Florida, Alachua;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;64546;label;L. E. Brown  14517;1990-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Hygrophila brasiliensis;(Spreng.) Lindau;;94616;label;M. F. Baker;1934-12-09;United States of America, Florida, Polk;;
+Acanthaceae;Hygrophila brasiliensis;(Spreng.) Lindau;;94615;label;M. F. Baker;1939-11-13;United States of America, Florida, Polk;;
+Acanthaceae;Hygrophila costata;Nees.;;126298;;W. D. Stevens  14416;1979-10-01;Nicaragua, Esteli;13.016666666666701;-86.3333333333333
+Acanthaceae;Hygrophila guianensis;Nees ex Benth.;;128461;;J. F. Morton  1611;1976-01-11;Panama;;
+Acanthaceae;Hygrophila lacustris;(Schlecht. & Cham.) Nees;;51509;label;R. K. Godfrey  80202;1982-11-06;United States of America, Florida, Walton;;
+Acanthaceae;Jacobinia;;;128588;;J. F. Morton  1612;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Jacobinia;;;128589;;J. F. Morton  #1613;1976-01-16;Costa Rica, San Jose
+Text Len: 1011
+--------------------------------------------------------------------------------
+ States of America, Florida, Walton;;
+Acanthaceae;Jacobinia;;;128588;;J. F. Morton  1612;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Jacobinia;;;128589;;J. F. Morton  #1613;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Justica martinsoniana;R.A. Howard;;138437;;J. Barcelona  1105;1997-01-08;Puerto Rico, Cayey;;
+Acanthaceae;Justica ovata var.;;;121928;;G. C. Molnar;1974-03-30;United States of America, Florida, Dade;;
+Acanthaceae;Justica spicigera;Schltdl.;;128491;;J. F. Morton  1736;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justica spicigera;Schltdl.;;128490;;J. F. Morton  1737;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justica spicigera;Schltdl.;;128489;;J. F. Morton  1738;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;74152;label;S. L. Orzell  16802;1991-05-19;United States of America, Florida, Brevard;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94623;label;M. F. Baker;1932-09-03;United States of America, Florida, Okeechobee;;
+Acanthaceae;
+Text Len: 998
+--------------------------------------------------------------------------------
+ Orzell  16802;1991-05-19;United States of America, Florida, Brevard;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94623;label;M. F. Baker;1932-09-03;United States of America, Florida, Okeechobee;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94624;label;;1949-12-15;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94622;label;M. B. Meagher  1075;1973-10-20;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94625;label;W. M. Buswell;1930-05-15;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;117354;;J. Possley  37;2002-07-11;United States of America, Florida, Polk;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;21367;label;D. S. Correll  42251;1974-04-28;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;25523;label;S. R. Hill  2868;1975-04-26;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;8723;label;G. N. Avery  527;1968-11-06;United States of America,
+Text Len: 1064
+--------------------------------------------------------------------------------
+(Chapm.) Small;;25523;label;S. R. Hill  2868;1975-04-26;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;8723;label;G. N. Avery  527;1968-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;25455;label;S. R. Hill  2603;1975-03-12;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;28571;label;D. S. Correll  47083;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;38950;label;B. F. Hansen  6693;1979-12-10;United States of America, Florida, Flagler;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;32611;label;J. Popenoe  1008;1977-10-16;United States of America, Florida, Glades;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;34112;label;D. S. Correll  49913;1978-06-17;United States of America, Florida, Martin;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;47208;label;V. Dunevitz  170;1980-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;635
+Text Len: 1056
+--------------------------------------------------------------------------------
+17;United States of America, Florida, Martin;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;47208;label;V. Dunevitz  170;1980-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;63580;label;A. K. Herndon  1999;1988-06-12;United States of America, Florida, Highlands;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;64750;label;D. Tobb;1978-08-21;United States of America, Florida, Broward;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;60602;label;R. Seavey  1419;1985-05-02;United States of America, Florida, Glades;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;63675;label;S. Brammeier;1982-08-11;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;73547;label;S. L. Orzell  16424;1991-04-20;United States of America, Florida, Sumter;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94621;label;A. Beseau  49;1965-05-09;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94620;label;A. Grant  101;1964-05-26;United States of America, Florida, Dade;;
+
+Text Len: 1077
+--------------------------------------------------------------------------------
+;;94621;label;A. Beseau  49;1965-05-09;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94620;label;A. Grant  101;1964-05-26;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94619;label;W. M. Buswell;1938-02-14;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;38927;label;R. P. Wunderlin  6325;1979-10-29;United States of America, Florida, Charlotte;;
+Acanthaceae;Justicia carthaginensis;Jacq.;C;127881;;M. B. Meagher  1112;1974-01-10;United States of America, Florida, Dade;;
+Acanthaceae;Justicia carthaginensis;Jacq.;;126190;;P. P. Moreno  3863;1980-10-21;Nicaragua, Managua;12.5;-86.2833333333333
+Acanthaceae;Justicia carthaginensis;Jacq.;;126191;;P. P. Moreno  3761;1980-10-21;Nicaragua, Managua;12.383333333333299;-86.15
+Acanthaceae;Justicia comata;(L.) Lam.;;126192;;P. P. Moreno  5379;1980-12-18;Nicaragua, Granada;11.8333333333333;-86.01666666666671
+Acanthaceae;Just
+Text Len: 1012
+--------------------------------------------------------------------------------
+, Managua;12.383333333333299;-86.15
+Acanthaceae;Justicia comata;(L.) Lam.;;126192;;P. P. Moreno  5379;1980-12-18;Nicaragua, Granada;11.8333333333333;-86.01666666666671
+Acanthaceae;Justicia cooleyi;Monachino & Leonard;;69132;;;;;;
+Acanthaceae;Justicia crassifolia;Chapm.;;94626;;;;;;
+Acanthaceae;Justicia fulvicoma;;;130104;;A. L. Frances  373;2002-11-05;Costa Rica, Puntarenas, San Gerardo de Limon;8.860833333;-83.08527778
+Acanthaceae;Justicia ghiesbrechtiana;;C;127882;;W. M. Buswell;1937-03-19;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia ghiesbrechtiana;;C;127883;;W. M. Buswell;1942-03-15;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia ghiesbrechtiana;;C;127884;;W. M. Buswell;1939-03-08;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia martinsoniana;R.A.Howard;;127499;;R. J. Wagner  879;1965-08-14;Puerto Rico;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94618;label;C. R. Jackson;1951-05-05;United States of America, Florida,
+Text Len: 999
+--------------------------------------------------------------------------------
+Justicia martinsoniana;R.A.Howard;;127499;;R. J. Wagner  879;1965-08-14;Puerto Rico;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94618;label;C. R. Jackson;1951-05-05;United States of America, Florida, Gadsden;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94617;label;W. M. Buswell;1936-04-10;United States of America, Florida, Orange;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;36329;label;L. A. Biernacki;1977-08-14;United States of America, Florida, Dade;;
+Acanthaceae;Justicia pectoralis;Jacq;;128462;;J. F. Morton  1614;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;128463;;J. F. Morton  1615;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;128464;;J. F. Morton  1616;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;127500;;R. J. Wagner  963;1966-02-25;Puerto Rico;;
+Acanthaceae;Justicia tinctoria;;;130105;;A. L. Frances  210;2002-10-07;Costa Rica, Puntarenas, Las Vegas de Limonci;8.855555556;-83.15833333
+Acanthaceae;Megas
+Text Len: 961
+--------------------------------------------------------------------------------
+;1966-02-25;Puerto Rico;;
+Acanthaceae;Justicia tinctoria;;;130105;;A. L. Frances  210;2002-10-07;Costa Rica, Puntarenas, Las Vegas de Limonci;8.855555556;-83.15833333
+Acanthaceae;Megaskepasma erythrochlamys;Lindau.;;130106;;A. L. Frances  226;2002-10-08;Costa Rica, Puntarenas, Las Vegas de Limonci;8.851388889;-83.10527778
+Acanthaceae;Nelsonia brunelloides;(Lam.) Kuntze;;127515;;R. A. Howard  17002;1968-01-17;Puerto Rico;;
+Acanthaceae;Nelsonia brunelloides;(Lam.) Kuntze;;127514;;R. J. Wagner  831;1965-04-30;Puerto Rico, Dorado;;
+Acanthaceae;Odontonema;Nees.;;128515;;J. B. Reark  638;1962-03-18;Honduras;;
+Acanthaceae;Odontonema nitidum;(Jacq.) Kuntze;;119372;;S. Zona  952;2002-08-16;Dominica, Saint Peter;15.5333333333333;-61.466666666666704
+Acanthaceae;Odontonema stricta;Kuntze;;93372;label;K. Bedat;1971-03-18;United States of America, Florida, Dade;;
+Acanthaceae;Odontonema stricta;Kuntze;;946
+Text Len: 904
+--------------------------------------------------------------------------------
+;15.5333333333333;-61.466666666666704
+Acanthaceae;Odontonema stricta;Kuntze;;93372;label;K. Bedat;1971-03-18;United States of America, Florida, Dade;;
+Acanthaceae;Odontonema stricta;Kuntze;;94627;label;W. M. Buswell;1942-10-06;United States of America, Florida, Dade;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;139238;;E. Freid  06-370;2006-05-29;Bahamas, Exuma, Litle Cistern Cay;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;140006;;E. Freid  06-391;2006-05-31;Bahamas, Exuma;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;138335;;T. K. Wilson  80-020;1980-05-17;Bahamas, Fresh Creek;;
+Acanthaceae;Orthosiphon grandiflorus;Bold. ex Heyne;C;132034;;W. M. Buswell  14758;1949-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Pachystachys lutea;Nees.;C;18030;label;M. B. Meagher  1049;1973-06-15;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;C;12410;label;W. T. Gillis  11056;1971-07-24;United States of America;;
+Acanthaceae;P
+Text Len: 948
+--------------------------------------------------------------------------------
+C;18030;label;M. B. Meagher  1049;1973-06-15;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;C;12410;label;W. T. Gillis  11056;1971-07-24;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;;120273;;E. Litwin  8-93;1993-11-08;United States of America, Florida, Broward;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;52194;label;J. B. Watson  1383;1983-04-07;United States of America;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;33280;label;J. E. Eckenwalder  1338;1977-05-20;United States of America;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;37853;label;J. Popenoe  1690;1979-05-06;United States of America, Florida, Monroe;;
+Acanthaceae;Razisea;;;121410;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Razisea;;;121409;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.
+Text Len: 952
+--------------------------------------------------------------------------------
+686111111111
+Acanthaceae;Razisea;;;121409;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;94534;label;W. M. Buswell;1933-08-27;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;102974;label;S. W. Woodmansee  325;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;36245;label;L. A. Biernacki;1977-07-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;49691;label;D. S. Correll  53943;1982-05-19;United States of America, Florida, Hendry;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;67219;label;A. Herndon  318;1981-06-21;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;61187;label;A. Herndon  900;1983-08-18;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;72606;label;P. M. Sheridan 
+Text Len: 1013
+--------------------------------------------------------------------------------
+Ruellia brittoniana;Leonard ex Fern.;;61187;label;A. Herndon  900;1983-08-18;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;72606;label;P. M. Sheridan  519;1991-09-18;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83367;label;K. A. Bradley  1549;1998-03-22;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;95327;label;C. Slaughter  10638;1998-11-06;United States of America, Florida, Alachua;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;81188;label;A. K. Herndon  2789;1990-05-17;United States of America, Florida, Okaloosa;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83802;label;S. W. Woodmansee  40;1998-03-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94507;label;W. M. Buswell;1942-05-03;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. G
+Text Len: 1017
+--------------------------------------------------------------------------------
+, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94507;label;W. M. Buswell;1942-05-03;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94506;label;M. F. Baker;1939-09-29;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94505;label;C. R. Jackson;1950-05-20;United States of America, Florida, Leon;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94504;label;R. W. Long  1198;1963-04-10;United States of America, Florida, Hillsborough;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94509;label;W. M. Buswell;1937-03-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94510;label;Dickson;1951-11-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94513;label;W. M. Buswell;1944-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J
+Text Len: 1005
+--------------------------------------------------------------------------------
+ States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94513;label;W. M. Buswell;1944-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94512;label;W. M. Buswell;1932-06-28;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94511;label;W. M. Buswell;1933-08-27;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94523;label;W. M. Buswell;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94515;label;I. A. Badia  48;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94516;label;R. W. Long  1200;1963-04-16;United States of America, Florida, Citrus;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94529;label;B. J. Lester  29;1966-03-16;United States of America, Florida, Dade;;
+A
+Text Len: 987
+--------------------------------------------------------------------------------
+ W. Long  1200;1963-04-16;United States of America, Florida, Citrus;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94529;label;B. J. Lester  29;1966-03-16;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94521;label;W. M. Buswell;1944-08-22;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94532;label;L. M. Garbarini;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94514;label;C. Weymouth;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94530;label;J. C. Gaitan  26;1966-06-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94528;label;J. K. Small;1904-05-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94527;label;J. K. Small;1915-06-24;
+Text Len: 972
+--------------------------------------------------------------------------------
+mel.) Steud.;;94528;label;J. K. Small;1904-05-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94527;label;J. K. Small;1915-06-24;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94526;label;W. M. Buswell;1945-05-01;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94525;label;R. O. Woodbury;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94524;label;W. M. Buswell;1944-08-04;United States of America, Florida, Duval;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94508;label;J. K. Small;1903-11-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94522;label;W. M. Buswell;1944-06-30;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94520;label;W
+Text Len: 961
+--------------------------------------------------------------------------------
+ia caroliniensis;(J.F. Gmel.) Steud.;;94522;label;W. M. Buswell;1944-06-30;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94520;label;W. M. Buswell;1932-04-08;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94519;label;W. M. Buswell;1927-05-15;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94518;label;R. W. Long  1215;1963-05-23;United States of America, Florida, Pinellas;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94517;label;R. W. Long  1149;1962-06-14;United States of America, Florida, Columbia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94531;label;J. C. Gaitan  26;;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94533;label;A. F. Bellenger  50;1965-02-27;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F.
+Text Len: 971
+--------------------------------------------------------------------------------
+, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94533;label;A. F. Bellenger  50;1965-02-27;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;99944;label;W. B. Zomlefer  698;1998-08-09;United States of America, Florida, Levy;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;103302;label;S. W. Woodmansee  595;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;118089;;C. Slaughter  13,086;2002-06-07;United States of America, Florida;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;93690;label;D. S. Correll  53141;1981-11-03;United States of America, Florida, Columbia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94700;label;D. S. Correll  51701;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;120429;;D. Hildreth  2-94;1994-11-04;United States of America, Florida, Palm Beach;;
+
+Text Len: 991
+--------------------------------------------------------------------------------
+. Correll  51701;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;120429;;D. Hildreth  2-94;1994-11-04;United States of America, Florida, Palm Beach;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;107086;;C. Slaughter  12293;2000-09-12;United States of America, Florida, Putnam;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;124844;;H. Liu  121;1999-03-15;United States of America, Florida, Monroe;24.423176;-81.225143
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;27242;label;S. R. Hill  3068;1975-05-31;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134056;;S. Koptur  852;1999-09-27;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134055;;S. Koptur  851;1998-10-28;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Ste
+Text Len: 986
+--------------------------------------------------------------------------------
+uellia caroliniensis;(J.F. Gmel.) Steud.;;134055;;S. Koptur  851;1998-10-28;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134057;;S. Koptur  853;1999-05-10;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134054;;S. Koptur  850;1999-11-10;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;30279;label;D. S. Correll  47612;1976-11-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;21251;label;D. S. Correll  44228;1975-02-01;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;30224;label;D. S. Correll  48076;1977-02-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;13585;label;G. N. Avery  1043;1971-10-14
+Text Len: 957
+--------------------------------------------------------------------------------
+.) Steud.;;30224;label;D. S. Correll  48076;1977-02-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;13585;label;G. N. Avery  1043;1971-10-14;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;14661;label;W. T. Gillis  9447;1970-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;28749;label;D. S. Correll  47146;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;28528;label;D. S. Correll  47018;1976-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;39556;label;D. W. Crewz  1556;1979-04-09;United States of America, Florida, Pasco;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;36328;label;L. A. Biernacki;1978-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud
+Text Len: 991
+--------------------------------------------------------------------------------
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;36328;label;L. A. Biernacki;1978-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;33402;label;J. Popenoe  1278;1978-04-23;United States of America, Florida, Martin;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;49238;label;D. S. Correll  51871;1981-05-25;United States of America, Florida, Volusia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;47269;label;J. Popenoe  1874;1980-04-19;United States of America, Florida, Orange;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;63523;label;A. K. Herndon  2067;1988-08-27;United States of America, Florida, Okaloosa;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;65712;label;R. K. Godfrey  84123;1991-04-19;United States of America, Florida, Wakulla;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;73546;label;S. L. Orzell  18488;1991-05-03;United States of America, Florida, Madison;;
+
+Text Len: 989
+--------------------------------------------------------------------------------
+frey  84123;1991-04-19;United States of America, Florida, Wakulla;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;73546;label;S. L. Orzell  18488;1991-05-03;United States of America, Florida, Madison;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83907;label;H. Loconte  1132;1994-06-17;United States of America, Georgia, Walker;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;128691;;W. M. Buswell;1948-06-20;United States of America, North Carolina, Union;;
+Acanthaceae;Ruellia coccinea;(L.) Vahl.;;127531;;R. B. Ledin  503;;Puerto Rico;;
+Acanthaceae;Ruellia coccinea;(L.) Vahl.;;127532;;R. J. Wagner  961;1966-02-25;Puerto Rico, Luquillo;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;94503;label;W. M. Buswell;1928-05-15;United States of America, Florida, Hernando;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;128974;;K. Seago  12;;United States of America, Illinois, Champaign;;
+Acanthaceae;Ruellia hybrida;Pursh.;;12750;label;T. D. Strickland
+Text Len: 978
+--------------------------------------------------------------------------------
+, Florida, Hernando;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;128974;;K. Seago  12;;United States of America, Illinois, Champaign;;
+Acanthaceae;Ruellia hybrida;Pursh.;;12750;label;T. D. Strickland  55;1971-05-03;United States of America, Florida, Lake;;
+Acanthaceae;Ruellia inundata;H. B. K.;;126280;;M. Araquistain  516;1980-01-15;Nicaragua, Granada;11.9;-86.05
+Acanthaceae;Ruellia lorentziana;Griseb.;;26053;label;G. N. Avery  1509;1974-09-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;26057;label;G. N. Avery  1509;1974-09-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;32156;label;J. Popenoe  972;1977-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;34864;label;D. S. Correll  50104;1978-09-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51648;label;G. N. Avery  2356;1981-04-25;United States of America, Florida,
+Text Len: 981
+--------------------------------------------------------------------------------
+.;;34864;label;D. S. Correll  50104;1978-09-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51648;label;G. N. Avery  2356;1981-04-25;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51644;label;G. N. Avery  2355;1982-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51588;label;G. N. Avery  2354;1982-03-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;80834;label;K. A. Bradley  920;1997-10-11;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia malacosperma;Greenm.;;94502;label;R. W. Long  1470;1965-10-21;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia noctiflora;(Nees) A. Gray;;94501;;;;;;
+Acanthaceae;Ruellia noctiflora;(Nees) A. Gray;;75361;;;;;;
+Acanthaceae;Ruellia nudiflora;Urb.;;137919;;R. D. Thomas  54951 & 1652;1977-09-01;United States of America, Louisiana, Morehouse;;
+Acanthaceae;Ruellia
+Text Len: 980
+--------------------------------------------------------------------------------
+ noctiflora;(Nees) A. Gray;;75361;;;;;;
+Acanthaceae;Ruellia nudiflora;Urb.;;137919;;R. D. Thomas  54951 & 1652;1977-09-01;United States of America, Louisiana, Morehouse;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129231;;B. C. Tharp  46014;1945-09-19;United States of America, Texas, Travis;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129232;;B. C. Tharp  47446;1946-09-14;United States of America, Texas, Travis;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129233;;C. M. Rogers  6825;1949-05-31;United States of America, Texas, McMullen;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129234;;B. C. Tharp  47453;1947-08-20;United States of America, Texas, Kinney;;
+Acanthaceae;Ruellia paniculata;L.;;126193;;P. P. Moreno  5478;1980-12-22;Nicaragua, Leon;12.4166666666667;-86.5833333333333
+Acanthaceae;Ruellia pedunculata;Torr. ex A. Gray;;95328;label;C. Slaugther  10978;1999-04-28;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia succulenta;Small;;124846;;H. Liu  120;1999-08-15
+Text Len: 966
+--------------------------------------------------------------------------------
+thaceae;Ruellia pedunculata;Torr. ex A. Gray;;95328;label;C. Slaugther  10978;1999-04-28;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia succulenta;Small;;124846;;H. Liu  120;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Ruellia succulenta;Small;;124845;;H. Liu  354;1999-06-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia succulenta;Small;;124847;;H. Liu  295;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Ruellia succulenta;Small;;124848;;H. Liu  76;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.231223
+Acanthaceae;Ruellia tuberosa;L.;C;1258;label;R. W. Read  231;;United States of America;;
+Acanthaceae;Ruellia tuberosa;L.;;127691;;J. F. Morton  699;1965-12-07;Netherlands Antilles, Curacao, Santa Barbara;;
+Acanthaceae;Ruellia tuberosa;L.;;128406;;J. F. Morton  1235;1972-09-05;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;128407;;J. F. Morton  1259;1972
+Text Len: 1008
+--------------------------------------------------------------------------------
+, Curacao, Santa Barbara;;
+Acanthaceae;Ruellia tuberosa;L.;;128406;;J. F. Morton  1235;1972-09-05;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;128407;;J. F. Morton  1259;1972-09-08;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;139399;;M. S. Vincent  13390;2006-11-04;Bahamas, Harbour Island;25.3490166666667;-76.46101666666671
+Acanthaceae;Ruellia tuberosa;L.;;139123;;E. Freid  06-199;2006-01-10;Bahamas, Mayaguana;;
+Acanthaceae;Ruellia tuberosa;L.;;139073;;E. Freid  06-171;2006-01-09;Bahamas, Mayaguana, Betsey Bay;;
+Acanthaceae;Ruellia tweediana;Griseb.;;127533;;R. J. Wagner  1193;1967-08-01;Puerto Rico;;
+Acanthaceae;Ruellia tweediana;Griseb.;;94536;label;M. H. Weinfeld  98;1964-05-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;;2294;label;W. T. Gillis  6813;1968-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;C
+Text Len: 921
+--------------------------------------------------------------------------------
+;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;;2294;label;W. T. Gillis  6813;1968-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;C;140258;;K. A. Bradley  2349;2002-05-18;United States of America, Florida, Miami-Dade;25.55616;-80.43706
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;1274;label;R. W. Read  1415;1963-06-15;United States of America;;
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;127880;;R. Millican  104;1972-11-05;United States of America, Florida, Dade;;
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;127534;;L. A. Spetzman  LS 298;;Puerto Rico, Luquillo;;
+Acanthaceae;Sanchezia speciosa;E.L. Leonard;C;18156;label;M. B. Meagher  MM663;1972-12-11;United States of America;;
+Acanthaceae;Sanchezia speciosa;E.L. Leonard;;130107;;A. L. Frances  288;2002-10-15;Costa Rica, Puntarenas, Las Vegas de Limonci;8.846666667000001;-83.10166667
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;29701;label;W. T
+Text Len: 962
+--------------------------------------------------------------------------------
+. Leonard;;130107;;A. L. Frances  288;2002-10-15;Costa Rica, Puntarenas, Las Vegas de Limonci;8.846666667000001;-83.10166667
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;29701;label;W. T. Gillis  10779;1971-05-11;United States of America;;
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;36708;label;P. R. Fantz  3713;1978-12-29;United States of America;;
+Acanthaceae;Stenandrium carolinea;Leonard & Proctor;;122504;;J. Sadle  269;2002-09-11;Turks and Caicos Islands;;
+Acanthaceae;Stenandrium carolinea;Leonard & Proctor;;116697;;B. Manco;2002-01-30;Turks and Caicos Islands, Middle Caicos;;
+Acanthaceae;Stenandrium droseriodes;Nees.;;127582;;R. B. Ledin;1948-09-15;Cuba;;
+Acanthaceae;Stenandrium droseriodes;Nees.;;127779;;R. B. Ledin  320;1948-08-18;Bahamas, New Providence;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;103308;label;S. W. Woodmansee  594;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94830
+Text Len: 946
+--------------------------------------------------------------------------------
+ New Providence;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;103308;label;S. W. Woodmansee  594;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94830;label;W. M. Buswell;1941-04-19;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94828;label;O. Lakela;1967-08-06;United States of America, Florida, Collier;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94831;label;R. O. Woodbury;1948-04-16;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94829;label;W. M. Buswell;1942-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;11703;label;G. N. Avery  964;1971-06-02;United States of America, Florida, Collier;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;40073;label;J. Popenoe  1896;1980-04-26;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;54663;label;R. Campbell  2261;1982-12-15;United States of
+Text Len: 990
+--------------------------------------------------------------------------------
+ce;(Cav.) Nees;;40073;label;J. Popenoe  1896;1980-04-26;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;54663;label;R. Campbell  2261;1982-12-15;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;73519;label;F. Bennett;1995-07-03;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia;Retz.;;130109;;A. L. Frances  406;2002-11-04;Costa Rica, Puntarenas, San Gerardo de Limon;8.868611111;-83.07361111
+Acanthaceae;Thunbergia affinis;S. Moore;C;127887;;B. Tuovila  56;1971-05-03;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;C;28992;label;J. C. French;1976-04-28;United States of America;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;127548;;L. A. Spetzman  LS 192;1967-01-24;Puerto Rico, Aguadilla;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;82215;label;G. D. Gann  1088;1997-12-11;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;B
+Text Len: 982
+--------------------------------------------------------------------------------
+;1967-01-24;Puerto Rico, Aguadilla;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;82215;label;G. D. Gann  1088;1997-12-11;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;96498;label;K. A. Bradley  2009;1999-04-09;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;94834;label;W. M. Buswell;1936-02-07;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;94833;label;W. M. Buswell;1944-08-23;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;C;127893;;G. Pedersen  44;1971-04-19;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;1275;label;V. I. Sullivan  1102;1967-11-02;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138771;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138770;;S. W. Woodmansee  1874;2006-05-31;
+Text Len: 1013
+--------------------------------------------------------------------------------
+bergia alata;Bojer ex Sims;;138771;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138770;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;67229;label;A. Herndon  427;1980-11-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;66424;label;A. K. Herndon  460;1980-12-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;;128514;;;1962-02-08;Honduras;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127888;;F. Welch;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127889;;F. Welch;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127894;;A. F. Bellenger  122;1965-03-30;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127895;;W. M. Buswell;1937-01-27;United States of
+Text Len: 1031
+--------------------------------------------------------------------------------
+ erecta;T. Anders.;C;127894;;A. F. Bellenger  122;1965-03-30;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127895;;W. M. Buswell;1937-01-27;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127896;;D. A. Gilson  47;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;69576;label;H. T. Beck  1120;1990-05-28;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;;130108;;A. L. Frances  106;2002-09-12;Costa Rica, Puntarenas, Reserva Coto Brus;8.838611111;-83.085
+Acanthaceae;Thunbergia fragrans;Roxb.;;94835;label;H. W. Barrick  51;1967-12-01;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;94832;label;W. M. Buswell;1931-07-01;United States of America, Florida, Lee;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127962;;J. C. Gaitan  23;1966-06-15;United States of America, Florida, Dade;;
+Acanth
+Text Len: 990
+--------------------------------------------------------------------------------
+32;label;W. M. Buswell;1931-07-01;United States of America, Florida, Lee;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127962;;J. C. Gaitan  23;1966-06-15;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127890;;J. C. Gaitan  23;1966-01-15;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;38655;label;P. R. Fantz  3634;1978-12-14;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;36446;label;P. R. Fanta  3782;1979-01-16;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;137401;;L. Baltzell  9589;1977-05-07;United States of America, Florida, DeSoto;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;140072;;K. A. Bradley  2190;2002-02-23;United States of America, Florida, Miami-Dade;25.5191333333333;-80.4442166666666
+Acanthaceae;Thunbergia fragrans;Roxb.;;33825;label;D. S. Correll  49782;1978-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;R
+Text Len: 998
+--------------------------------------------------------------------------------
+ade;25.5191333333333;-80.4442166666666
+Acanthaceae;Thunbergia fragrans;Roxb.;;33825;label;D. S. Correll  49782;1978-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;35983;label;P. R. Fantz  3613;1978-12-07;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;61893;label;J. Popenoe  2433;1987-10-14;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;26760;label;J. C. French;1975-12-10;United States of America;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;29748;label;J. J. Wassmer  11;1976-11-24;United States of America;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127547;;R. J. Wagner  1268;1967-10-07;Puerto Rico, Barranquitas;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127891;;R. Millican  115;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia grandif
+Text Len: 964
+--------------------------------------------------------------------------------
+uerto Rico, Barranquitas;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127891;;R. Millican  115;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;120288;;Y. Hernandez  1994-41;1994-11-22;United States of America, Florida, Palm Beach;;
+Acanthaceae;Thunbergia mysorensis;Anders. Ex Bedd.;C;2551;label;W. T. Gillis  7912;1969-04-14;United States of America;;
+Acanthaceae;Thunbergia mysorensis;Anders. Ex Bedd.;C;127892;;R. Millican  114;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Trichanthera gigantea;Humb. & Bonpl. ex Steud.;;128408;;J. F. Morton  1230;1972-09-04;Venezuela, Falcon, Coro;;
+Text Len: 703
+--------------------------------------------------------------------------------
+Acanthaceae;Aphelandra;R. Br.;;135992;;J. Taylor  18048;1975-01-04;Costa Rica, Guanacaste;;
+Acanthaceae;Aphelandra;R. Br.;;137675;;R. Vasquez  13217;1992-04-12;Peru, Loreto, Maynas;-3.5;-73.0833333333333
+Acanthaceae;Aphelandra aurantiaca;Lindl;;121408;;J. J. Pipoly  25062;2003-09-20;Honduras, Atlantida;15.6208333333333;-87.5763888888889
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;139339;;M. A. Vincent  13277;2006-11-02;Bahamas;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;82051;label;K. A. Bradley  1610;1998-04-01;United States of America, Florida, Monroe;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;82431;label;K. A. Bradley  1367;1998-03-01;United States of America, Florida, Monroe;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95780;label;H. W. Barrick  5;1967-10-20;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95779;label;W. M. Buswell;1935-11-03;United States of
+Text Len: 943
+--------------------------------------------------------------------------------
+ T. Anders.;;95780;label;H. W. Barrick  5;1967-10-20;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95779;label;W. M. Buswell;1935-11-03;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;95778;label;W. M. Buswell;1942-10-26;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;30888;label;A. Denivelle;1977-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;13945;label;J. Popenoe  s.n.;1967-10-25;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;137345;;T. Braddy;1998-04-10;United States of America, Florida, Palm Beach;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;35975;label;P. R. Fantz  3552;1978-11-10;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60526;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae
+Text Len: 1011
+--------------------------------------------------------------------------------
+z  3552;1978-11-10;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60526;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;60295;label;A. K. Herndon  671;1982-12-04;United States of America, Florida, Dade;;
+Acanthaceae;Asystasia gangetica;(L.) T. Anders.;;126278;;M. Araquistain  489;1980-01-15;Nicaragua, Granada;11.9;-86.05
+Acanthaceae;Barleria cristata;L.;;80740;label;K. A. Bradley  969;1997-10-12;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80739;label;K. A. Bradley  969;1997-10-12;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;83695;label;S. W. Woodmansee  1;1997-11-22;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;102950;label;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;119139;;S. W. Woodmansee  326
+Text Len: 986
+--------------------------------------------------------------------------------
+, Dade;;
+Acanthaceae;Barleria cristata;L.;;102950;label;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;119139;;S. W. Woodmansee  326;1999-05-06;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Barleria cristata;L.;;19147;label;D. S. Correll  40158;1973-09-29;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;21186;label;D. S. Correll  42230;1974-04-27;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;35978;label;P. R. Fantz  1377;1978-12-07;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;67141;label;A. K. Herndon  269;1978-10-15;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80608;label;K. A. Bradley  998;1997-10-13;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80574;label;K. A. Bradley  808;1997-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Barleria lupulina;Lindl.;;55859;label
+Text Len: 1014
+--------------------------------------------------------------------------------
+-13;United States of America, Florida, Dade;;
+Acanthaceae;Barleria cristata;L.;;80574;label;K. A. Bradley  808;1997-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Barleria lupulina;Lindl.;;55859;label;W. C. Brombach  9762;1981-12-11;United States of America, Florida, Monroe;;
+Acanthaceae;Barleriola inermis;Urb. & Ekman;;136805;;R. Garcia  4257;1992-11-25;Dominican Republic, Salcedo;19.516666666666698;-70.35
+Acanthaceae;Beloperone guttata;Brandegee;;120438;;Y. Hernandez  1994-11;1994-11-07;United States of America, Florida, Broward;;
+Acanthaceae;Blechum brownei;Juss.;;139352;;M. A. Vincent  13322;2006-11-03;Bahamas;;
+Acanthaceae;Blechum brownei;Juss.;;84949;label;C. Van Hoek  220;1990-12-21;United States of America, Florida, Palm Beach;;
+Acanthaceae;Blechum brownei;Juss.;;95879;label;E. Skinner;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;25560;label;S. R. Hill  2668;1975-03-27;United States of America, Florida;;
+Acanthaceae;Blechum brownei;Juss.;;3724;label;W. T. Gillis
+Text Len: 1042
+--------------------------------------------------------------------------------
+;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;25560;label;S. R. Hill  2668;1975-03-27;United States of America, Florida;;
+Acanthaceae;Blechum brownei;Juss.;;3724;label;W. T. Gillis  7279;1968-12-12;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;13318;label;F. C. Craighead;1965-04-25;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum brownei;Juss.;;29149;label;A. Brackmann  152;1976-01-08;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;57663;label;J. Popenoe  2338;1983-07-12;United States of America, Florida, Dade;;
+Acanthaceae;Blechum brownei;Juss.;;63058;label;G. F. Guala  733;1987-07-28;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95876;label;W. M. Buswell;1930-04-03;United States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95882;label;P. A. Schmahl;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95881;label;C
+Text Len: 1054
+--------------------------------------------------------------------------------
+ States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95882;label;P. A. Schmahl;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95881;label;C. Weymouth  7;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95880;label;W. C. Brombach  7461;1971-03-18;United States of America, Florida, Lee;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95878;label;R. O. Woodbury;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95877;label;W. M. Buswell;1940-11-11;United States of America, Florida, Dade;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95874;label;L. M. Garbarini;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum pyramidatum;(Lam.) Urban;;95875;label;I. A. Badia  8;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum serrulatum;Rich.;;20253;;D. S. Correll  41493;1974-02-01;Bahamas;;
+Acanthaceae;Blechum serrulatum;Rich.;;132806
+Text Len: 1060
+--------------------------------------------------------------------------------
+ A. Badia  8;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Blechum serrulatum;Rich.;;20253;;D. S. Correll  41493;1974-02-01;Bahamas;;
+Acanthaceae;Blechum serrulatum;Rich.;;132806;;J. Browder  150;1970-03-31;Guyana, Essequibo Islands;;
+Acanthaceae;Blechum serrulatum;Rich.;;132807;;J. Browder  125;1970-03-30;Guyana, Essequibo Islands;;
+Acanthaceae;Bravaisia integerrima;( Spreng. ) Standl.;;137896;;M. McLaughlin  35;2001-06-25;Costa Rica, Heredia, Le Selva;10.4419444444444;-84.0094444444444
+Acanthaceae;Bravaisia integerrima;( Spreng. ) Standl.;;126279;;M. Araquistain  1924;1980-03-14;Nicaragua, Jinotega;;
+Acanthaceae;Dicliptera;Juss.;;137887;;M. McLaughlin  27;2001-06-25;Costa Rica, Heredia, Le Selva;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95884;label;W. C. Brombach  7480;1971-04-04;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95886;label;W. M. Buswell;1927-03-15;United
+Text Len: 948
+--------------------------------------------------------------------------------
+(L.) Juss.;;95884;label;W. C. Brombach  7480;1971-04-04;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95886;label;W. M. Buswell;1927-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95889;label;N. Woessner  53;1964-03-15;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95890;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95887;label;W. M. Buswell;1934-03-11;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95888;label;Dickson;1952-03-06;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95883;label;W. C. Brombach  7139;1970-04-22;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95885;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera
+Text Len: 1005
+--------------------------------------------------------------------------------
+  7139;1970-04-22;United States of America, Florida, Lee;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;95885;label;O. Lakela  29484;1966-03-15;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;82434;label;K. A. Bradley  1375;1998-03-01;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;12483;label;W. T. Gillis  7174;1968-11-13;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;20323;label;D. S. Correll  41567;1974-02-16;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;14680;label;W. T. Gillis  10522;1971-04-05;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;39145;label;D. W. Black  171;1978-05-09;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;31115;label;J. Popenoe  821;1977-04-02;United States of America, Florida, Martin;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;51897;
+Text Len: 1022
+--------------------------------------------------------------------------------
+ America, Florida, Monroe;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;31115;label;J. Popenoe  821;1977-04-02;United States of America, Florida, Martin;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;51897;label;J. Popenoe  2283;1983-04-20;United States of America, Florida, Dade;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;62096;label;A. K. Herndon  1139;1985-03-30;United States of America, Florida, Collier;;
+Acanthaceae;Dicliptera assurgens;(L.) Juss.;;75992;label;G. D. Gann  420;1996-04-02;United States of America, Florida, Monroe;;
+Acanthaceae;Dicliptera brachiata;(Pursh) Spreng.;;48924;label;D. S. Correll  52131;1981-06-27;United States of America, Florida, Gadsden;;
+Acanthaceae;Dicliptera brachiata;(Pursh) Spreng.;;62088;label;R. K. Godfrey  82599;1987-10-20;United States of America, Florida, Gadsden;;
+Acanthaceae;Dicliptera halei;Riddell;;94589;label;M. F. Baker;1938-09-27;United States of America, Florida, Franklin;;
+Acanthaceae;Dicliptera sericea;Nees;C;16264;;M. B. Meagher  KF143;
+Text Len: 1007
+--------------------------------------------------------------------------------
+;;
+Acanthaceae;Dicliptera halei;Riddell;;94589;label;M. F. Baker;1938-09-27;United States of America, Florida, Franklin;;
+Acanthaceae;Dicliptera sericea;Nees;C;16264;;M. B. Meagher  KF143;1972-10-04;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;73111;label;S. L. Orzell  15958;1991-02-08;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;82977;label;S. W. Woodmansee  54a;1998-03-25;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;124842;;H. Liu  283;2000-06-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;8986;label;G. N. Avery  630;1968-12-31;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste angusta;(A. Gray) Small;;13537;label;F. C. Craighead;1960-04-22;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;87484;label;S. L. Or
+Text Len: 998
+--------------------------------------------------------------------------------
+aceae;Dyschoriste angusta;(A. Gray) Small;;13537;label;F. C. Craighead;1960-04-22;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;87484;label;S. L. Orzell  13506;1990-05-11;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;91914;label;A. K. Herndon  1969;1988-05-31;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;8949;label;F. C. Craighead;1963-07-01;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;138647;;S. W. Woodmansee  1713;2005-04-06;United States of America, Florida, Lee;;
+Acanthaceae;Dyschoriste humistrata;(Michx.) Kuntze;;58092;label;D. S. Correll  53364;1982-03-27;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72610;label;P. M. Sheridan  815;1991-09-13;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72609;label;
+Text Len: 1026
+--------------------------------------------------------------------------------
+thaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72610;label;P. M. Sheridan  815;1991-09-13;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;72609;label;P. M. Sheridan  811;1991-09-16;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80713;label;V. Ducey;1964-04-22;United States of America, Florida, Pinellas;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;81584;label;K. A. Bradley  490;1997-08-15;United States of America, Florida, Lee;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;125892;;G. W. Atwater  636;1962-03-03;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;11388;label;W. T. Gillis  7939;1969-04-19;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;18805;label;D. S. Correll  40051;1973-09-15;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;12902;
+Text Len: 1030
+--------------------------------------------------------------------------------
+canthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;18805;label;D. S. Correll  40051;1973-09-15;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;12902;label;P. Genelle  688;1971-04-25;United States of America, Florida, Pinellas;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;24268;label;D. S. Correll  44259;1975-02-01;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;28956;label;D. S. Correll  47092;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;38448;label;P. R. Fantz  2005;1974-08-24;United States of America, Florida, Polk;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50079;label;R. P. Sauleda  4800;1981-04-18;United States of America, Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50583;label;J. B. Watson  718;1981-06-03;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) K
+Text Len: 1029
+--------------------------------------------------------------------------------
+ Florida, Hillsborough;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;50583;label;J. B. Watson  718;1981-06-03;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;33623;label;D. S. Correll  49833;1978-05-27;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;65185;label;W. M. Houghton  1129;1989-07-12;United States of America, Florida, Dade;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;65401;label;R. K. Godfrey  83814;1990-04-26;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47892;label;D. S. Correll  51586;1981-04-23;United States of America, Florida, Levy;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47815;label;D. S. Correll  51639;1981-04-25;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;48160;label;D. S. Correll  51702;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Dys
+Text Len: 1019
+--------------------------------------------------------------------------------
+39;1981-04-25;United States of America, Florida, Leon;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;48160;label;D. S. Correll  51702;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;47775;label;D. S. Correll  51668;1981-04-25;United States of America, Florida, Gilchrist;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;58073;label;D. S. Correll  53348;1982-03-27;United States of America, Florida, Marion;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;69108;label;S. L. Orzell  14527;1990-08-14;United States of America, Florida, Jefferson;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;73406;label;S. L. Orzell  15325;1991-04-13;United States of America, Florida, Gadsden;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;73557;label;S. L. Orzell  16516;1991-05-07;United States of America, Florida, Sarasota;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80058;label;G. D. Gann  679;1996-05-09;United States of
+Text Len: 1023
+--------------------------------------------------------------------------------
+3557;label;S. L. Orzell  16516;1991-05-07;United States of America, Florida, Sarasota;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;80058;label;G. D. Gann  679;1996-05-09;United States of America, Florida, Charlotte;;
+Acanthaceae;Dyschoriste oblongifolia;(Michx.) Kuntze;;132694;;T. Bayer;1944-05-08;United States of America, Georgia, Richmond;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;73112;label;S. L. Orzell  15956;1991-02-08;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;83351;label;K. A. Bradley  1552;1998-03-22;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;81495;label;K. A. Bradley  366;1995-10-13;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;83945;label;J. R. Abbott  9168;1996-07-09;United States of America, Florida, Levy;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94593;label;R. O. Woodbury;1937-09-
+Text Len: 1015
+--------------------------------------------------------------------------------
+. Gmel.) Pers.;;83945;label;J. R. Abbott  9168;1996-07-09;United States of America, Florida, Levy;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94593;label;R. O. Woodbury;1937-09-01;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94592;label;W. Phillips;1938-06-13;United States of America, Florida, Alachua;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94591;label;M. F. Baker;1932-07-18;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94590;label;C. R. Jackson;1951-05-26;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;94614;label;C. H. Dodson;1968-05-18;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;118969;;C. Slaughter  13,296;2002-08-15;United States of America, Florida, Flagler;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;11704;label;G. N. Avery  965;
+Text Len: 1010
+--------------------------------------------------------------------------------
+ensis;(J.F. Gmel.) Pers.;;118969;;C. Slaughter  13,296;2002-08-15;United States of America, Florida, Flagler;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;11704;label;G. N. Avery  965;1971-06-02;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;124843;;H. Liu  415;2000-08-15;United States of America, Florida, Monroe;24.420491;-81.2321
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;27694;label;S. R. Hill  3219;1975-06-21;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;28915;label;D. S. Correll  47194;1976-05-14;United States of America, Florida, Collier;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;36248;label;L. A. Biernacki;1977-08-14;United States of America, Florida, Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;38883;label;D. Black  212;1978-05-24;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;14
+Text Len: 1015
+--------------------------------------------------------------------------------
+ Dade;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;38883;label;D. Black  212;1978-05-24;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;140723;;S. W. Woodmansee  1884;2006-08-01;United States of America, Florida, Lee;26.70414;-81.92195
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;50247;label;D. S. Correll  52497;1991-09-18;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;49563;label;R. K. Godfrey  79881;1982-06-21;United States of America, Florida, Calhoun;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;47988;label;R. K. Godfrey  79003;1981-07-11;United States of America, Florida, Jackson;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;77142;label;S. L. Orzell  19030;1991-11-09;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;66431;label;A. Herndon  3084;1991-08-14;United States of America, Florida, Wakulla
+Text Len: 1018
+--------------------------------------------------------------------------------
+. L. Orzell  19030;1991-11-09;United States of America, Florida, Monroe;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;66431;label;A. Herndon  3084;1991-08-14;United States of America, Florida, Wakulla;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;69131;label;S. L. Orzell  14557;1990-08-03;United States of America, Florida, Hernando;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;69130;label;S. L. Orzell  13512;1990-05-11;United States of America, Florida, Hillsborough;;
+Acanthaceae;Elytraria caroliniensis;(J.F. Gmel.) Pers.;;80166;label;K. A. Bradley  198;1995-09-11;United States of America, Florida, Dade;;
+Acanthaceae;Eranthemum nervosum;;C;120459;;E. Litwin  48-93;1993-11-29;United States of America, Florida, Broward;;
+Acanthaceae;Eranthemum pulchellum;L.;C;3022;label;W. T. Gillis  7547;1969-07-01;United States of America;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127886;;R. O. Woodbury;1942-04-10;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L
+Text Len: 1028
+--------------------------------------------------------------------------------
+. Gillis  7547;1969-07-01;United States of America;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127886;;R. O. Woodbury;1942-04-10;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L.;C;127885;;L. M. Garbarini;1968-05-02;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Eranthemum pulchellum;L.;;62970;label;R. P. Wunderlin  10353;1987-03-03;United States of America, Florida, Pinellas;;
+Acanthaceae;Hemigraphis alternata;(Burm f.) T. Anderson;;57496;label;B. F. Hansen  10727;1985-10-21;United States of America, Florida, Dade;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;31016;label;J. Popenoe  868;1977-05-12;United States of America, Florida, Dade;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;C;137437;;M. Whitten  s.n.;1998-12-24;United States of America, Florida, Alachua;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;64546;label;L. E. Brown  14517;1990-05-21;United States of America, Florida, Dade;;
+Acanthaceae
+Text Len: 1033
+--------------------------------------------------------------------------------
+12-24;United States of America, Florida, Alachua;;
+Acanthaceae;Hemigraphis reptans;(J.R. Forst.) T. Anderson ex Hemsl.;;64546;label;L. E. Brown  14517;1990-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Hygrophila brasiliensis;(Spreng.) Lindau;;94616;label;M. F. Baker;1934-12-09;United States of America, Florida, Polk;;
+Acanthaceae;Hygrophila brasiliensis;(Spreng.) Lindau;;94615;label;M. F. Baker;1939-11-13;United States of America, Florida, Polk;;
+Acanthaceae;Hygrophila costata;Nees.;;126298;;W. D. Stevens  14416;1979-10-01;Nicaragua, Esteli;13.016666666666701;-86.3333333333333
+Acanthaceae;Hygrophila guianensis;Nees ex Benth.;;128461;;J. F. Morton  1611;1976-01-11;Panama;;
+Acanthaceae;Hygrophila lacustris;(Schlecht. & Cham.) Nees;;51509;label;R. K. Godfrey  80202;1982-11-06;United States of America, Florida, Walton;;
+Acanthaceae;Jacobinia;;;128588;;J. F. Morton  1612;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Jacobinia;;;128589;;J. F. Morton  #1613;1976-01-16;Costa Rica, San Jose
+Text Len: 1011
+--------------------------------------------------------------------------------
+ States of America, Florida, Walton;;
+Acanthaceae;Jacobinia;;;128588;;J. F. Morton  1612;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Jacobinia;;;128589;;J. F. Morton  #1613;1976-01-16;Costa Rica, San Jose;;
+Acanthaceae;Justica martinsoniana;R.A. Howard;;138437;;J. Barcelona  1105;1997-01-08;Puerto Rico, Cayey;;
+Acanthaceae;Justica ovata var.;;;121928;;G. C. Molnar;1974-03-30;United States of America, Florida, Dade;;
+Acanthaceae;Justica spicigera;Schltdl.;;128491;;J. F. Morton  1736;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justica spicigera;Schltdl.;;128490;;J. F. Morton  1737;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justica spicigera;Schltdl.;;128489;;J. F. Morton  1738;1977-02-01;Guatemala, Guatemala;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;74152;label;S. L. Orzell  16802;1991-05-19;United States of America, Florida, Brevard;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94623;label;M. F. Baker;1932-09-03;United States of America, Florida, Okeechobee;;
+Acanthaceae;
+Text Len: 998
+--------------------------------------------------------------------------------
+ Orzell  16802;1991-05-19;United States of America, Florida, Brevard;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94623;label;M. F. Baker;1932-09-03;United States of America, Florida, Okeechobee;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94624;label;;1949-12-15;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94622;label;M. B. Meagher  1075;1973-10-20;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;94625;label;W. M. Buswell;1930-05-15;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;117354;;J. Possley  37;2002-07-11;United States of America, Florida, Polk;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;21367;label;D. S. Correll  42251;1974-04-28;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;25523;label;S. R. Hill  2868;1975-04-26;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;8723;label;G. N. Avery  527;1968-11-06;United States of America,
+Text Len: 1064
+--------------------------------------------------------------------------------
+(Chapm.) Small;;25523;label;S. R. Hill  2868;1975-04-26;United States of America, Florida, Monroe;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;8723;label;G. N. Avery  527;1968-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;25455;label;S. R. Hill  2603;1975-03-12;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;28571;label;D. S. Correll  47083;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;38950;label;B. F. Hansen  6693;1979-12-10;United States of America, Florida, Flagler;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;32611;label;J. Popenoe  1008;1977-10-16;United States of America, Florida, Glades;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;34112;label;D. S. Correll  49913;1978-06-17;United States of America, Florida, Martin;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;47208;label;V. Dunevitz  170;1980-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;635
+Text Len: 1056
+--------------------------------------------------------------------------------
+17;United States of America, Florida, Martin;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;47208;label;V. Dunevitz  170;1980-11-06;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;63580;label;A. K. Herndon  1999;1988-06-12;United States of America, Florida, Highlands;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;64750;label;D. Tobb;1978-08-21;United States of America, Florida, Broward;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;60602;label;R. Seavey  1419;1985-05-02;United States of America, Florida, Glades;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;63675;label;S. Brammeier;1982-08-11;United States of America, Florida, Dade;;
+Acanthaceae;Justicia angusta;(Chapm.) Small;;73547;label;S. L. Orzell  16424;1991-04-20;United States of America, Florida, Sumter;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94621;label;A. Beseau  49;1965-05-09;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94620;label;A. Grant  101;1964-05-26;United States of America, Florida, Dade;;
+
+Text Len: 1077
+--------------------------------------------------------------------------------
+;;94621;label;A. Beseau  49;1965-05-09;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94620;label;A. Grant  101;1964-05-26;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;94619;label;W. M. Buswell;1938-02-14;United States of America, Florida, Dade;;
+Acanthaceae;Justicia brandegeana;Wasshausen & Smith;;38927;label;R. P. Wunderlin  6325;1979-10-29;United States of America, Florida, Charlotte;;
+Acanthaceae;Justicia carthaginensis;Jacq.;C;127881;;M. B. Meagher  1112;1974-01-10;United States of America, Florida, Dade;;
+Acanthaceae;Justicia carthaginensis;Jacq.;;126190;;P. P. Moreno  3863;1980-10-21;Nicaragua, Managua;12.5;-86.2833333333333
+Acanthaceae;Justicia carthaginensis;Jacq.;;126191;;P. P. Moreno  3761;1980-10-21;Nicaragua, Managua;12.383333333333299;-86.15
+Acanthaceae;Justicia comata;(L.) Lam.;;126192;;P. P. Moreno  5379;1980-12-18;Nicaragua, Granada;11.8333333333333;-86.01666666666671
+Acanthaceae;Just
+Text Len: 1012
+--------------------------------------------------------------------------------
+, Managua;12.383333333333299;-86.15
+Acanthaceae;Justicia comata;(L.) Lam.;;126192;;P. P. Moreno  5379;1980-12-18;Nicaragua, Granada;11.8333333333333;-86.01666666666671
+Acanthaceae;Justicia cooleyi;Monachino & Leonard;;69132;;;;;;
+Acanthaceae;Justicia crassifolia;Chapm.;;94626;;;;;;
+Acanthaceae;Justicia fulvicoma;;;130104;;A. L. Frances  373;2002-11-05;Costa Rica, Puntarenas, San Gerardo de Limon;8.860833333;-83.08527778
+Acanthaceae;Justicia ghiesbrechtiana;;C;127882;;W. M. Buswell;1937-03-19;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia ghiesbrechtiana;;C;127883;;W. M. Buswell;1942-03-15;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia ghiesbrechtiana;;C;127884;;W. M. Buswell;1939-03-08;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Justicia martinsoniana;R.A.Howard;;127499;;R. J. Wagner  879;1965-08-14;Puerto Rico;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94618;label;C. R. Jackson;1951-05-05;United States of America, Florida,
+Text Len: 999
+--------------------------------------------------------------------------------
+Justicia martinsoniana;R.A.Howard;;127499;;R. J. Wagner  879;1965-08-14;Puerto Rico;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94618;label;C. R. Jackson;1951-05-05;United States of America, Florida, Gadsden;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;94617;label;W. M. Buswell;1936-04-10;United States of America, Florida, Orange;;
+Acanthaceae;Justicia ovata;(Walt.) Lindau;;36329;label;L. A. Biernacki;1977-08-14;United States of America, Florida, Dade;;
+Acanthaceae;Justicia pectoralis;Jacq;;128462;;J. F. Morton  1614;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;128463;;J. F. Morton  1615;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;128464;;J. F. Morton  1616;1976-01-10;Panama;;
+Acanthaceae;Justicia pectoralis;Jacq;;127500;;R. J. Wagner  963;1966-02-25;Puerto Rico;;
+Acanthaceae;Justicia tinctoria;;;130105;;A. L. Frances  210;2002-10-07;Costa Rica, Puntarenas, Las Vegas de Limonci;8.855555556;-83.15833333
+Acanthaceae;Megas
+Text Len: 961
+--------------------------------------------------------------------------------
+;1966-02-25;Puerto Rico;;
+Acanthaceae;Justicia tinctoria;;;130105;;A. L. Frances  210;2002-10-07;Costa Rica, Puntarenas, Las Vegas de Limonci;8.855555556;-83.15833333
+Acanthaceae;Megaskepasma erythrochlamys;Lindau.;;130106;;A. L. Frances  226;2002-10-08;Costa Rica, Puntarenas, Las Vegas de Limonci;8.851388889;-83.10527778
+Acanthaceae;Nelsonia brunelloides;(Lam.) Kuntze;;127515;;R. A. Howard  17002;1968-01-17;Puerto Rico;;
+Acanthaceae;Nelsonia brunelloides;(Lam.) Kuntze;;127514;;R. J. Wagner  831;1965-04-30;Puerto Rico, Dorado;;
+Acanthaceae;Odontonema;Nees.;;128515;;J. B. Reark  638;1962-03-18;Honduras;;
+Acanthaceae;Odontonema nitidum;(Jacq.) Kuntze;;119372;;S. Zona  952;2002-08-16;Dominica, Saint Peter;15.5333333333333;-61.466666666666704
+Acanthaceae;Odontonema stricta;Kuntze;;93372;label;K. Bedat;1971-03-18;United States of America, Florida, Dade;;
+Acanthaceae;Odontonema stricta;Kuntze;;946
+Text Len: 904
+--------------------------------------------------------------------------------
+;15.5333333333333;-61.466666666666704
+Acanthaceae;Odontonema stricta;Kuntze;;93372;label;K. Bedat;1971-03-18;United States of America, Florida, Dade;;
+Acanthaceae;Odontonema stricta;Kuntze;;94627;label;W. M. Buswell;1942-10-06;United States of America, Florida, Dade;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;139238;;E. Freid  06-370;2006-05-29;Bahamas, Exuma, Litle Cistern Cay;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;140006;;E. Freid  06-391;2006-05-31;Bahamas, Exuma;;
+Acanthaceae;Oplonia spinosa;(Jacq.) Raf.;;138335;;T. K. Wilson  80-020;1980-05-17;Bahamas, Fresh Creek;;
+Acanthaceae;Orthosiphon grandiflorus;Bold. ex Heyne;C;132034;;W. M. Buswell  14758;1949-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Pachystachys lutea;Nees.;C;18030;label;M. B. Meagher  1049;1973-06-15;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;C;12410;label;W. T. Gillis  11056;1971-07-24;United States of America;;
+Acanthaceae;P
+Text Len: 948
+--------------------------------------------------------------------------------
+C;18030;label;M. B. Meagher  1049;1973-06-15;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;C;12410;label;W. T. Gillis  11056;1971-07-24;United States of America;;
+Acanthaceae;Pseuderanthemum;Radlk.;;120273;;E. Litwin  8-93;1993-11-08;United States of America, Florida, Broward;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;52194;label;J. B. Watson  1383;1983-04-07;United States of America;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;33280;label;J. E. Eckenwalder  1338;1977-05-20;United States of America;;
+Acanthaceae;Pseuderanthemum atropurpureum;Park.;C;37853;label;J. Popenoe  1690;1979-05-06;United States of America, Florida, Monroe;;
+Acanthaceae;Razisea;;;121410;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Razisea;;;121409;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.
+Text Len: 952
+--------------------------------------------------------------------------------
+686111111111
+Acanthaceae;Razisea;;;121409;;J. J. Pipoly  25012;2003-09-19;Honduras, Atlantida;15.6205555555556;-87.5686111111111
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;94534;label;W. M. Buswell;1933-08-27;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;102974;label;S. W. Woodmansee  325;1999-05-06;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;36245;label;L. A. Biernacki;1977-07-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;49691;label;D. S. Correll  53943;1982-05-19;United States of America, Florida, Hendry;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;67219;label;A. Herndon  318;1981-06-21;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia brittoniana;Leonard ex Fern.;;61187;label;A. Herndon  900;1983-08-18;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;72606;label;P. M. Sheridan 
+Text Len: 1013
+--------------------------------------------------------------------------------
+Ruellia brittoniana;Leonard ex Fern.;;61187;label;A. Herndon  900;1983-08-18;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;72606;label;P. M. Sheridan  519;1991-09-18;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83367;label;K. A. Bradley  1549;1998-03-22;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;95327;label;C. Slaughter  10638;1998-11-06;United States of America, Florida, Alachua;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;81188;label;A. K. Herndon  2789;1990-05-17;United States of America, Florida, Okaloosa;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83802;label;S. W. Woodmansee  40;1998-03-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94507;label;W. M. Buswell;1942-05-03;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. G
+Text Len: 1017
+--------------------------------------------------------------------------------
+, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94507;label;W. M. Buswell;1942-05-03;United States of America, Florida, Highlands;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94506;label;M. F. Baker;1939-09-29;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94505;label;C. R. Jackson;1950-05-20;United States of America, Florida, Leon;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94504;label;R. W. Long  1198;1963-04-10;United States of America, Florida, Hillsborough;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94509;label;W. M. Buswell;1937-03-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94510;label;Dickson;1951-11-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94513;label;W. M. Buswell;1944-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J
+Text Len: 1005
+--------------------------------------------------------------------------------
+ States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94513;label;W. M. Buswell;1944-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94512;label;W. M. Buswell;1932-06-28;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94511;label;W. M. Buswell;1933-08-27;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94523;label;W. M. Buswell;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94515;label;I. A. Badia  48;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94516;label;R. W. Long  1200;1963-04-16;United States of America, Florida, Citrus;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94529;label;B. J. Lester  29;1966-03-16;United States of America, Florida, Dade;;
+A
+Text Len: 987
+--------------------------------------------------------------------------------
+ W. Long  1200;1963-04-16;United States of America, Florida, Citrus;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94529;label;B. J. Lester  29;1966-03-16;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94521;label;W. M. Buswell;1944-08-22;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94532;label;L. M. Garbarini;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94514;label;C. Weymouth;1967-11-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94530;label;J. C. Gaitan  26;1966-06-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94528;label;J. K. Small;1904-05-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94527;label;J. K. Small;1915-06-24;
+Text Len: 972
+--------------------------------------------------------------------------------
+mel.) Steud.;;94528;label;J. K. Small;1904-05-13;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94527;label;J. K. Small;1915-06-24;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94526;label;W. M. Buswell;1945-05-01;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94525;label;R. O. Woodbury;1942-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94524;label;W. M. Buswell;1944-08-04;United States of America, Florida, Duval;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94508;label;J. K. Small;1903-11-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94522;label;W. M. Buswell;1944-06-30;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94520;label;W
+Text Len: 961
+--------------------------------------------------------------------------------
+ia caroliniensis;(J.F. Gmel.) Steud.;;94522;label;W. M. Buswell;1944-06-30;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94520;label;W. M. Buswell;1932-04-08;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94519;label;W. M. Buswell;1927-05-15;United States of America, Florida, Lee;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94518;label;R. W. Long  1215;1963-05-23;United States of America, Florida, Pinellas;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94517;label;R. W. Long  1149;1962-06-14;United States of America, Florida, Columbia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94531;label;J. C. Gaitan  26;;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94533;label;A. F. Bellenger  50;1965-02-27;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F.
+Text Len: 971
+--------------------------------------------------------------------------------
+, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94533;label;A. F. Bellenger  50;1965-02-27;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;99944;label;W. B. Zomlefer  698;1998-08-09;United States of America, Florida, Levy;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;103302;label;S. W. Woodmansee  595;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;118089;;C. Slaughter  13,086;2002-06-07;United States of America, Florida;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;93690;label;D. S. Correll  53141;1981-11-03;United States of America, Florida, Columbia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;94700;label;D. S. Correll  51701;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;120429;;D. Hildreth  2-94;1994-11-04;United States of America, Florida, Palm Beach;;
+
+Text Len: 991
+--------------------------------------------------------------------------------
+. Correll  51701;1981-04-26;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;120429;;D. Hildreth  2-94;1994-11-04;United States of America, Florida, Palm Beach;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;107086;;C. Slaughter  12293;2000-09-12;United States of America, Florida, Putnam;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;124844;;H. Liu  121;1999-03-15;United States of America, Florida, Monroe;24.423176;-81.225143
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;27242;label;S. R. Hill  3068;1975-05-31;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134056;;S. Koptur  852;1999-09-27;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134055;;S. Koptur  851;1998-10-28;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Ste
+Text Len: 986
+--------------------------------------------------------------------------------
+uellia caroliniensis;(J.F. Gmel.) Steud.;;134055;;S. Koptur  851;1998-10-28;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134057;;S. Koptur  853;1999-05-10;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;134054;;S. Koptur  850;1999-11-10;United States of America, Florida, Monroe;24.66944;-81.35417
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;30279;label;D. S. Correll  47612;1976-11-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;21251;label;D. S. Correll  44228;1975-02-01;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;30224;label;D. S. Correll  48076;1977-02-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;13585;label;G. N. Avery  1043;1971-10-14
+Text Len: 957
+--------------------------------------------------------------------------------
+.) Steud.;;30224;label;D. S. Correll  48076;1977-02-08;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;13585;label;G. N. Avery  1043;1971-10-14;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;14661;label;W. T. Gillis  9447;1970-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;28749;label;D. S. Correll  47146;1976-04-28;United States of America, Florida, Collier;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;28528;label;D. S. Correll  47018;1976-04-10;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;39556;label;D. W. Crewz  1556;1979-04-09;United States of America, Florida, Pasco;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;36328;label;L. A. Biernacki;1978-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud
+Text Len: 991
+--------------------------------------------------------------------------------
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;36328;label;L. A. Biernacki;1978-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;33402;label;J. Popenoe  1278;1978-04-23;United States of America, Florida, Martin;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;49238;label;D. S. Correll  51871;1981-05-25;United States of America, Florida, Volusia;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;47269;label;J. Popenoe  1874;1980-04-19;United States of America, Florida, Orange;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;63523;label;A. K. Herndon  2067;1988-08-27;United States of America, Florida, Okaloosa;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;65712;label;R. K. Godfrey  84123;1991-04-19;United States of America, Florida, Wakulla;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;73546;label;S. L. Orzell  18488;1991-05-03;United States of America, Florida, Madison;;
+
+Text Len: 989
+--------------------------------------------------------------------------------
+frey  84123;1991-04-19;United States of America, Florida, Wakulla;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;73546;label;S. L. Orzell  18488;1991-05-03;United States of America, Florida, Madison;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;83907;label;H. Loconte  1132;1994-06-17;United States of America, Georgia, Walker;;
+Acanthaceae;Ruellia caroliniensis;(J.F. Gmel.) Steud.;;128691;;W. M. Buswell;1948-06-20;United States of America, North Carolina, Union;;
+Acanthaceae;Ruellia coccinea;(L.) Vahl.;;127531;;R. B. Ledin  503;;Puerto Rico;;
+Acanthaceae;Ruellia coccinea;(L.) Vahl.;;127532;;R. J. Wagner  961;1966-02-25;Puerto Rico, Luquillo;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;94503;label;W. M. Buswell;1928-05-15;United States of America, Florida, Hernando;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;128974;;K. Seago  12;;United States of America, Illinois, Champaign;;
+Acanthaceae;Ruellia hybrida;Pursh.;;12750;label;T. D. Strickland
+Text Len: 978
+--------------------------------------------------------------------------------
+, Florida, Hernando;;
+Acanthaceae;Ruellia humilis;(Nees.) Lindau.;;128974;;K. Seago  12;;United States of America, Illinois, Champaign;;
+Acanthaceae;Ruellia hybrida;Pursh.;;12750;label;T. D. Strickland  55;1971-05-03;United States of America, Florida, Lake;;
+Acanthaceae;Ruellia inundata;H. B. K.;;126280;;M. Araquistain  516;1980-01-15;Nicaragua, Granada;11.9;-86.05
+Acanthaceae;Ruellia lorentziana;Griseb.;;26053;label;G. N. Avery  1509;1974-09-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;26057;label;G. N. Avery  1509;1974-09-05;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;32156;label;J. Popenoe  972;1977-10-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;34864;label;D. S. Correll  50104;1978-09-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51648;label;G. N. Avery  2356;1981-04-25;United States of America, Florida,
+Text Len: 981
+--------------------------------------------------------------------------------
+.;;34864;label;D. S. Correll  50104;1978-09-02;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51648;label;G. N. Avery  2356;1981-04-25;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51644;label;G. N. Avery  2355;1982-05-07;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;51588;label;G. N. Avery  2354;1982-03-15;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia lorentziana;Griseb.;;80834;label;K. A. Bradley  920;1997-10-11;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia malacosperma;Greenm.;;94502;label;R. W. Long  1470;1965-10-21;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia noctiflora;(Nees) A. Gray;;94501;;;;;;
+Acanthaceae;Ruellia noctiflora;(Nees) A. Gray;;75361;;;;;;
+Acanthaceae;Ruellia nudiflora;Urb.;;137919;;R. D. Thomas  54951 & 1652;1977-09-01;United States of America, Louisiana, Morehouse;;
+Acanthaceae;Ruellia
+Text Len: 980
+--------------------------------------------------------------------------------
+ noctiflora;(Nees) A. Gray;;75361;;;;;;
+Acanthaceae;Ruellia nudiflora;Urb.;;137919;;R. D. Thomas  54951 & 1652;1977-09-01;United States of America, Louisiana, Morehouse;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129231;;B. C. Tharp  46014;1945-09-19;United States of America, Texas, Travis;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129232;;B. C. Tharp  47446;1946-09-14;United States of America, Texas, Travis;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129233;;C. M. Rogers  6825;1949-05-31;United States of America, Texas, McMullen;;
+Acanthaceae;Ruellia nudiflora;Urb.;;129234;;B. C. Tharp  47453;1947-08-20;United States of America, Texas, Kinney;;
+Acanthaceae;Ruellia paniculata;L.;;126193;;P. P. Moreno  5478;1980-12-22;Nicaragua, Leon;12.4166666666667;-86.5833333333333
+Acanthaceae;Ruellia pedunculata;Torr. ex A. Gray;;95328;label;C. Slaugther  10978;1999-04-28;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia succulenta;Small;;124846;;H. Liu  120;1999-08-15
+Text Len: 966
+--------------------------------------------------------------------------------
+thaceae;Ruellia pedunculata;Torr. ex A. Gray;;95328;label;C. Slaugther  10978;1999-04-28;United States of America, Florida, Marion;;
+Acanthaceae;Ruellia succulenta;Small;;124846;;H. Liu  120;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Ruellia succulenta;Small;;124845;;H. Liu  354;1999-06-15;United States of America, Florida, Monroe;;
+Acanthaceae;Ruellia succulenta;Small;;124847;;H. Liu  295;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.233438
+Acanthaceae;Ruellia succulenta;Small;;124848;;H. Liu  76;1999-08-15;United States of America, Florida, Monroe;24.424458;-81.231223
+Acanthaceae;Ruellia tuberosa;L.;C;1258;label;R. W. Read  231;;United States of America;;
+Acanthaceae;Ruellia tuberosa;L.;;127691;;J. F. Morton  699;1965-12-07;Netherlands Antilles, Curacao, Santa Barbara;;
+Acanthaceae;Ruellia tuberosa;L.;;128406;;J. F. Morton  1235;1972-09-05;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;128407;;J. F. Morton  1259;1972
+Text Len: 1008
+--------------------------------------------------------------------------------
+, Curacao, Santa Barbara;;
+Acanthaceae;Ruellia tuberosa;L.;;128406;;J. F. Morton  1235;1972-09-05;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;128407;;J. F. Morton  1259;1972-09-08;Venezuela, Falcon, Coro;;
+Acanthaceae;Ruellia tuberosa;L.;;139399;;M. S. Vincent  13390;2006-11-04;Bahamas, Harbour Island;25.3490166666667;-76.46101666666671
+Acanthaceae;Ruellia tuberosa;L.;;139123;;E. Freid  06-199;2006-01-10;Bahamas, Mayaguana;;
+Acanthaceae;Ruellia tuberosa;L.;;139073;;E. Freid  06-171;2006-01-09;Bahamas, Mayaguana, Betsey Bay;;
+Acanthaceae;Ruellia tweediana;Griseb.;;127533;;R. J. Wagner  1193;1967-08-01;Puerto Rico;;
+Acanthaceae;Ruellia tweediana;Griseb.;;94536;label;M. H. Weinfeld  98;1964-05-03;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;;2294;label;W. T. Gillis  6813;1968-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;C
+Text Len: 921
+--------------------------------------------------------------------------------
+;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;;2294;label;W. T. Gillis  6813;1968-06-20;United States of America, Florida, Dade;;
+Acanthaceae;Ruellia tweediana;Griseb.;C;140258;;K. A. Bradley  2349;2002-05-18;United States of America, Florida, Miami-Dade;25.55616;-80.43706
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;1274;label;R. W. Read  1415;1963-06-15;United States of America;;
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;127880;;R. Millican  104;1972-11-05;United States of America, Florida, Dade;;
+Acanthaceae;Sanchezia nobilis;Hook.f.;C;127534;;L. A. Spetzman  LS 298;;Puerto Rico, Luquillo;;
+Acanthaceae;Sanchezia speciosa;E.L. Leonard;C;18156;label;M. B. Meagher  MM663;1972-12-11;United States of America;;
+Acanthaceae;Sanchezia speciosa;E.L. Leonard;;130107;;A. L. Frances  288;2002-10-15;Costa Rica, Puntarenas, Las Vegas de Limonci;8.846666667000001;-83.10166667
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;29701;label;W. T
+Text Len: 962
+--------------------------------------------------------------------------------
+. Leonard;;130107;;A. L. Frances  288;2002-10-15;Costa Rica, Puntarenas, Las Vegas de Limonci;8.846666667000001;-83.10166667
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;29701;label;W. T. Gillis  10779;1971-05-11;United States of America;;
+Acanthaceae;Sciaphyllum amoenum;Bremek;C;36708;label;P. R. Fantz  3713;1978-12-29;United States of America;;
+Acanthaceae;Stenandrium carolinea;Leonard & Proctor;;122504;;J. Sadle  269;2002-09-11;Turks and Caicos Islands;;
+Acanthaceae;Stenandrium carolinea;Leonard & Proctor;;116697;;B. Manco;2002-01-30;Turks and Caicos Islands, Middle Caicos;;
+Acanthaceae;Stenandrium droseriodes;Nees.;;127582;;R. B. Ledin;1948-09-15;Cuba;;
+Acanthaceae;Stenandrium droseriodes;Nees.;;127779;;R. B. Ledin  320;1948-08-18;Bahamas, New Providence;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;103308;label;S. W. Woodmansee  594;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94830
+Text Len: 946
+--------------------------------------------------------------------------------
+ New Providence;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;103308;label;S. W. Woodmansee  594;2001-04-11;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94830;label;W. M. Buswell;1941-04-19;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94828;label;O. Lakela;1967-08-06;United States of America, Florida, Collier;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94831;label;R. O. Woodbury;1948-04-16;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;94829;label;W. M. Buswell;1942-04-15;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;11703;label;G. N. Avery  964;1971-06-02;United States of America, Florida, Collier;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;40073;label;J. Popenoe  1896;1980-04-26;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;54663;label;R. Campbell  2261;1982-12-15;United States of
+Text Len: 990
+--------------------------------------------------------------------------------
+ce;(Cav.) Nees;;40073;label;J. Popenoe  1896;1980-04-26;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;54663;label;R. Campbell  2261;1982-12-15;United States of America, Florida, Dade;;
+Acanthaceae;Stenandrium dulce;(Cav.) Nees;;73519;label;F. Bennett;1995-07-03;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia;Retz.;;130109;;A. L. Frances  406;2002-11-04;Costa Rica, Puntarenas, San Gerardo de Limon;8.868611111;-83.07361111
+Acanthaceae;Thunbergia affinis;S. Moore;C;127887;;B. Tuovila  56;1971-05-03;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;C;28992;label;J. C. French;1976-04-28;United States of America;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;127548;;L. A. Spetzman  LS 192;1967-01-24;Puerto Rico, Aguadilla;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;82215;label;G. D. Gann  1088;1997-12-11;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;B
+Text Len: 982
+--------------------------------------------------------------------------------
+;1967-01-24;Puerto Rico, Aguadilla;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;82215;label;G. D. Gann  1088;1997-12-11;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;96498;label;K. A. Bradley  2009;1999-04-09;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;94834;label;W. M. Buswell;1936-02-07;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;94833;label;W. M. Buswell;1944-08-23;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;C;127893;;G. Pedersen  44;1971-04-19;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;1275;label;V. I. Sullivan  1102;1967-11-02;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138771;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138770;;S. W. Woodmansee  1874;2006-05-31;
+Text Len: 1013
+--------------------------------------------------------------------------------
+bergia alata;Bojer ex Sims;;138771;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;138770;;S. W. Woodmansee  1874;2006-05-31;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;67229;label;A. Herndon  427;1980-11-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia alata;Bojer ex Sims;;66424;label;A. K. Herndon  460;1980-12-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;;128514;;;1962-02-08;Honduras;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127888;;F. Welch;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127889;;F. Welch;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127894;;A. F. Bellenger  122;1965-03-30;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127895;;W. M. Buswell;1937-01-27;United States of
+Text Len: 1031
+--------------------------------------------------------------------------------
+ erecta;T. Anders.;C;127894;;A. F. Bellenger  122;1965-03-30;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127895;;W. M. Buswell;1937-01-27;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;127896;;D. A. Gilson  47;1965-04-22;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;C;69576;label;H. T. Beck  1120;1990-05-28;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia erecta;T. Anders.;;130108;;A. L. Frances  106;2002-09-12;Costa Rica, Puntarenas, Reserva Coto Brus;8.838611111;-83.085
+Acanthaceae;Thunbergia fragrans;Roxb.;;94835;label;H. W. Barrick  51;1967-12-01;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;94832;label;W. M. Buswell;1931-07-01;United States of America, Florida, Lee;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127962;;J. C. Gaitan  23;1966-06-15;United States of America, Florida, Dade;;
+Acanth
+Text Len: 990
+--------------------------------------------------------------------------------
+32;label;W. M. Buswell;1931-07-01;United States of America, Florida, Lee;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127962;;J. C. Gaitan  23;1966-06-15;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;C;127890;;J. C. Gaitan  23;1966-01-15;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;38655;label;P. R. Fantz  3634;1978-12-14;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;36446;label;P. R. Fanta  3782;1979-01-16;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;137401;;L. Baltzell  9589;1977-05-07;United States of America, Florida, DeSoto;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;140072;;K. A. Bradley  2190;2002-02-23;United States of America, Florida, Miami-Dade;25.5191333333333;-80.4442166666666
+Acanthaceae;Thunbergia fragrans;Roxb.;;33825;label;D. S. Correll  49782;1978-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;R
+Text Len: 998
+--------------------------------------------------------------------------------
+ade;25.5191333333333;-80.4442166666666
+Acanthaceae;Thunbergia fragrans;Roxb.;;33825;label;D. S. Correll  49782;1978-05-21;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;35983;label;P. R. Fantz  3613;1978-12-07;United States of America, Florida, Dade;;
+Acanthaceae;Thunbergia fragrans;Roxb.;;61893;label;J. Popenoe  2433;1987-10-14;United States of America, Florida, Martin;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;26760;label;J. C. French;1975-12-10;United States of America;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;29748;label;J. J. Wassmer  11;1976-11-24;United States of America;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127547;;R. J. Wagner  1268;1967-10-07;Puerto Rico, Barranquitas;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127891;;R. Millican  115;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia grandif
+Text Len: 964
+--------------------------------------------------------------------------------
+uerto Rico, Barranquitas;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;127891;;R. Millican  115;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Thunbergia grandiflora;(Roxb. ex Rottl.) Roxb.;C;120288;;Y. Hernandez  1994-41;1994-11-22;United States of America, Florida, Palm Beach;;
+Acanthaceae;Thunbergia mysorensis;Anders. Ex Bedd.;C;2551;label;W. T. Gillis  7912;1969-04-14;United States of America;;
+Acanthaceae;Thunbergia mysorensis;Anders. Ex Bedd.;C;127892;;R. Millican  114;1972-05-11;United States of America, Florida, Miami-Dade;;
+Acanthaceae;Trichanthera gigantea;Humb. & Bonpl. ex Steud.;;128408;;J. F. Morton  1230;1972-09-04;Venezuela, Falcon, Coro;;
+Text Len: 703
+--------------------------------------------------------------------------------

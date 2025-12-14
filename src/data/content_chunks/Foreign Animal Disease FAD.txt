@@ -1,0 +1,564 @@
+ 1 of 3 
+ 
+December 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC)                                         
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+Foreign Animal Disease (FAD) Response  
+Ready Reference Guide – Overview of Zones 
+In the Infected Zone (which is 
+part of the Control Area), there 
+are movement controls and sur-
+veillance activities. Infected Prem-
+ises are quarantined.  
+In the Buffer Zone (which is part 
+of the Control Area), there are 
+movement controls and surveil-
+lance activities. 
+In the Surveillance Zone (which 
+is part of the Free Area), target-
+ed poultry surveillance may be 
+conducted (i.e. commercial prem-
+ises). 
+In the Free Area (which includes 
+the Surveillance Zone), routine 
+or program surveillance may occur 
+(i.e. NPIP and wild birds).  
+Zone/Area Definition 
+Infected Zone (IZ) Zone that immediately surrounds an Infected Premises. 
+Buffer Zone (BZ) Zone that immediately surrounds an Infected Zone or a Contact Premises. 
+Control Area (CA) Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone (SZ) Zone outside and along the border of a Control Area. The Surveillance Zone is part of 
+the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the Surveillance Zone. 
+Infected Zone Buffer Zone Surveillance Zone 
+Control Area +
+Text Len: 1375
+--------------------------------------------------------------------------------
+ Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone (SZ) Zone outside and along the border of a Control Area. The Surveillance Zone is part of 
+the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the Surveillance Zone. 
+Infected Zone Buffer Zone Surveillance Zone 
+Control Area + = + = Free Area 
+1 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Preparedne ss and Incide nt Coordination (NPIC)                                                                             
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+December 2021 
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+In an FAD outbreak, the Incident Commander will work with the Operations  
+Section and Planning Section to  determine the appropriate designa tions.  
+Infected, Contact, and Suspect Premises are subject to individual premises quarantine. 
+At-Risk and Monitored Premises are subject to movement control restrictions. 
+Summary of Premises Designations Summary of Zone and Area Designa tions 
+Example Zones, Areas, and Premises 
+Premise s Zone s and A reas 
+Note: Figure s are not to scale. 
+Premises Definition Zone 
+Infected  
+Premises (IP) 
+Premises where a presumptive positive case or 
+
+Text Len: 1267
+--------------------------------------------------------------------------------
+
+Summary of Premises Designations Summary of Zone and Area Designa tions 
+Example Zones, Areas, and Premises 
+Premise s Zone s and A reas 
+Note: Figure s are not to scale. 
+Premises Definition Zone 
+Infected  
+Premises (IP) 
+Premises where a presumptive positive case or 
+confirmed positive case exists based on laboratory 
+results, compatible clinical signs, case definition, 
+and inter national standards. 
+Infected Zone 
+Contact  
+Premises (CP) 
+Premises with susceptible animals that may have 
+been exposed to the FAD, either dir ectly or indi-
+rectly, including but not limited to exposure to ani-
+mals, animal products, fomites, or people from 
+Infected Premises. 
+Infected Zone,  
+Buffer Zone 
+Suspect  
+Premises (SP) 
+Premises under investigation due to the presence 
+of susceptible animals reported to have clinical 
+signs compatible with the FAD. This is intended to 
+be a short-term premises designation. 
+Infected Zone,  
+Buffer Zone,  
+Surveillance Zone, 
+Vaccination Zone 
+At-Risk  
+Premises (ARP) 
+Premises that have susceptible animals, but none 
+of those susceptible animals have clinical signs 
+compatible with the FAD. Pr emises objectively 
+demonstrates that it is not an Infected Premises, 
+Contact Premises, or Suspect Premises. At-Risk 
+Premises may seek to move susceptible animals 
+or products within the Control Ar ea by permit. Only 
+At-Risk Premises are eligible to become Monitored 
+Premises. 
+Text Len: 1422
+--------------------------------------------------------------------------------
+. Pr emises objectively 
+demonstrates that it is not an Infected Premises, 
+Contact Premises, or Suspect Premises. At-Risk 
+Premises may seek to move susceptible animals 
+or products within the Control Ar ea by permit. Only 
+At-Risk Premises are eligible to become Monitored 
+Premises. 
+Infected Zone,  
+Buffer Zone 
+Monitored 
+Premises (MP) 
+Premises objectively demonstrates that it is not an 
+Infected Premises, Contact Pr emises, or Suspect 
+Premises. Only At-Risk Premises are eligible to 
+become Monitored Premises. Monitored Premises 
+meet a set of defined criteria in seeking to move 
+su sceptible animals or products out of the Control 
+Area by permit. 
+Infected Zone,  
+Buffer Zone 
+Free Premises 
+(FP) 
+Premises outside of a Control Area and not a Con-
+tact or Suspect Premises. 
+Surveillance Zone, 
+Free Area 
+Zone/Area Definition 
+Infected Zone (IZ) Zone that immediately surrounds an Infected Premises. 
+Buffer Zone (BZ) Zone that immediately surrounds an Infected Zone or a  
+Contact Premises. 
+Control Area (CA) Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone 
+(SZ) 
+Zone outside and along the border of a Control Area. The 
+Surveillance Zone is part of the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the  
+Surveillance Zone. 
+2 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Prep
+Text Len: 1353
+--------------------------------------------------------------------------------
+(SZ) 
+Zone outside and along the border of a Control Area. The 
+Surveillance Zone is part of the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the  
+Surveillance Zone. 
+2 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Preparedne ss and Incide nt Coordination (NPIC)                                                                             
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+December 2021  
+Factors Used to Determine Control Area Size 
+Factors Additional Details  
+Jurisdictional areas • Effectiveness and efficiency of administration  
+• Multi-jur isdictional considerations: local, State, Tr ibal, and multistate   
+Physical boundaries • Areas defined by geography  
+• Areas defined by distance between premises   
+FAD epidemiology • Reproductive rate  • Modes of transmission (such as, fecal-oral, 
+• Incubation period  droplet, aerosol, vectors)  
+• Ease of transmission • Survivability in the environment  
+• Infectious dose  • Ease of diagnosis (for example, no  
+• Species susceptibility  pathognomonic signs; requires diagnostic  
+laboratory testing)  
+• Age of lesions  
+Infected Premises 
+characteristics 
+• Number of contacts 
+Text Len: 1204
+--------------------------------------------------------------------------------
+ 
+• Ease of transmission • Survivability in the environment  
+• Infectious dose  • Ease of diagnosis (for example, no  
+• Species susceptibility  pathognomonic signs; requires diagnostic  
+laboratory testing)  
+• Age of lesions  
+Infected Premises 
+characteristics 
+• Number of contacts   
+• Transmission pathways and  
+transmission r isk   Age of animals  
+ Extent of  animal move-  Movement of traffic and personnel to and from 
+ment  premises (fomite spread)  
+   Number of animals  Biosecurity measures in place at time of out-
+   Species of animals  break  
+Contact Premises 
+characteristics 
+• Number and types of premises  • Movement of traffic (fomites) and personnel to 
+• Susceptible animal populations and from premises (fomite spread)   
+and population density  • Biosecur ity measure in place prior to outbreak  
+• Animal movements  
+Environment • Types of premises in area or • Susceptible wildlife and population density  
+region  • Wildlife as biological or mechanical vectors  
+• Land use in area or region  
+Climate (for aer osol 
+spread diseases) 
+• Prevailing winds  
+• Humidity  
+ 
+General area, re-
+gion, or agricultural 
+sector biosecurity 
+• Biosecur ity pr actices in place pr ior to outbreak  
+• Biosecur ity pr actices implemented once outbreak detected   
+Number of back-
+yard or transitional       
+premises 
+• Types of premises
+Text Len: 1363
+--------------------------------------------------------------------------------
+General area, re-
+gion, or agricultural 
+sector biosecurity 
+• Biosecur ity pr actices in place pr ior to outbreak  
+• Biosecur ity pr actices implemented once outbreak detected   
+Number of back-
+yard or transitional       
+premises 
+• Types of premises, animal movements, and network of animal and fomite movements   
+Continuity of busi-
+ness 
+• Continuity of business plans and pr ocesse s in place or activated at beginning of out-
+break (such as surveillance, negative diagnostic tests, premises biosecurity, and risk-
+assessments)  
+• Per mit pr ocesse s, memorandums of understanding, and information management 
+systems in place or activated at beginning of outbreak   
+Minimum Sizes of Zones and Areas 
+Note: See African Swine Feve r (ASF) Zone s and Are as in Fe ral and 
+Dome stic Swine for changes in the minimum size s for zones and 
+prem ise s.  
+For more information, ple ase go to: 
+http://www.aphis.usda.gov/fadprep 
+ 
+For more details on zone s and premise s de signations, ple ase see 
+the APHIS FAD Framework: Re sponse Strategie s (Manual 2-0). 
+ 
+For the Secure Poultry Supply Plan, click here  
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+Zone or Area Minimum Size and Details 
+Infected Zone (IZ) Perimeter should be at least 3 km (~1.86 miles) 
+beyond per imeters of presumptive or confir
+Text Len: 1348
+--------------------------------------------------------------------------------
+0). 
+ 
+For the Secure Poultry Supply Plan, click here  
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+Zone or Area Minimum Size and Details 
+Infected Zone (IZ) Perimeter should be at least 3 km (~1.86 miles) 
+beyond per imeters of presumptive or confir med 
+Infected Premises. Will depend on disease 
+agent and epidemiological circumstances. This 
+zone may be redefined as the outbreak contin-
+ues. 
+Buffer Zone (BZ) Perimeter should be at least 7 km (~4.35 miles) 
+beyond the perimeter of the Infected Zone. 
+Width is gener ally not less than the minimum 
+radius of the associated Infected Zone, but 
+may be much lar ger. This zone may be rede-
+fined as the outbreak continues. 
+Control Area (CA) Perimeter should be at least 10 km (~6.21 
+miles) beyond the per imeter of the closest 
+Infected Premises. Please see the table to the 
+left for factors that influence the size of the 
+Control Area. This area may be redefined as 
+the outbreak continues. 
+Surveillance Zone 
+(SZ) 
+Width should be at least 10 km (~6.21 miles), 
+but may be much larger. 
+Text Len: 1083
+--------------------------------------------------------------------------------
+ 1 of 3 
+ 
+December 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC)                                         
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+Foreign Animal Disease (FAD) Response  
+Ready Reference Guide – Overview of Zones 
+In the Infected Zone (which is 
+part of the Control Area), there 
+are movement controls and sur-
+veillance activities. Infected Prem-
+ises are quarantined.  
+In the Buffer Zone (which is part 
+of the Control Area), there are 
+movement controls and surveil-
+lance activities. 
+In the Surveillance Zone (which 
+is part of the Free Area), target-
+ed poultry surveillance may be 
+conducted (i.e. commercial prem-
+ises). 
+In the Free Area (which includes 
+the Surveillance Zone), routine 
+or program surveillance may occur 
+(i.e. NPIP and wild birds).  
+Zone/Area Definition 
+Infected Zone (IZ) Zone that immediately surrounds an Infected Premises. 
+Buffer Zone (BZ) Zone that immediately surrounds an Infected Zone or a Contact Premises. 
+Control Area (CA) Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone (SZ) Zone outside and along the border of a Control Area. The Surveillance Zone is part of 
+the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the Surveillance Zone. 
+Infected Zone Buffer Zone Surveillance Zone 
+Control Area +
+Text Len: 1375
+--------------------------------------------------------------------------------
+ Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone (SZ) Zone outside and along the border of a Control Area. The Surveillance Zone is part of 
+the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the Surveillance Zone. 
+Infected Zone Buffer Zone Surveillance Zone 
+Control Area + = + = Free Area 
+1 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Preparedne ss and Incide nt Coordination (NPIC)                                                                             
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+December 2021 
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+In an FAD outbreak, the Incident Commander will work with the Operations  
+Section and Planning Section to  determine the appropriate designa tions.  
+Infected, Contact, and Suspect Premises are subject to individual premises quarantine. 
+At-Risk and Monitored Premises are subject to movement control restrictions. 
+Summary of Premises Designations Summary of Zone and Area Designa tions 
+Example Zones, Areas, and Premises 
+Premise s Zone s and A reas 
+Note: Figure s are not to scale. 
+Premises Definition Zone 
+Infected  
+Premises (IP) 
+Premises where a presumptive positive case or 
+
+Text Len: 1267
+--------------------------------------------------------------------------------
+
+Summary of Premises Designations Summary of Zone and Area Designa tions 
+Example Zones, Areas, and Premises 
+Premise s Zone s and A reas 
+Note: Figure s are not to scale. 
+Premises Definition Zone 
+Infected  
+Premises (IP) 
+Premises where a presumptive positive case or 
+confirmed positive case exists based on laboratory 
+results, compatible clinical signs, case definition, 
+and inter national standards. 
+Infected Zone 
+Contact  
+Premises (CP) 
+Premises with susceptible animals that may have 
+been exposed to the FAD, either dir ectly or indi-
+rectly, including but not limited to exposure to ani-
+mals, animal products, fomites, or people from 
+Infected Premises. 
+Infected Zone,  
+Buffer Zone 
+Suspect  
+Premises (SP) 
+Premises under investigation due to the presence 
+of susceptible animals reported to have clinical 
+signs compatible with the FAD. This is intended to 
+be a short-term premises designation. 
+Infected Zone,  
+Buffer Zone,  
+Surveillance Zone, 
+Vaccination Zone 
+At-Risk  
+Premises (ARP) 
+Premises that have susceptible animals, but none 
+of those susceptible animals have clinical signs 
+compatible with the FAD. Pr emises objectively 
+demonstrates that it is not an Infected Premises, 
+Contact Premises, or Suspect Premises. At-Risk 
+Premises may seek to move susceptible animals 
+or products within the Control Ar ea by permit. Only 
+At-Risk Premises are eligible to become Monitored 
+Premises. 
+Text Len: 1422
+--------------------------------------------------------------------------------
+. Pr emises objectively 
+demonstrates that it is not an Infected Premises, 
+Contact Premises, or Suspect Premises. At-Risk 
+Premises may seek to move susceptible animals 
+or products within the Control Ar ea by permit. Only 
+At-Risk Premises are eligible to become Monitored 
+Premises. 
+Infected Zone,  
+Buffer Zone 
+Monitored 
+Premises (MP) 
+Premises objectively demonstrates that it is not an 
+Infected Premises, Contact Pr emises, or Suspect 
+Premises. Only At-Risk Premises are eligible to 
+become Monitored Premises. Monitored Premises 
+meet a set of defined criteria in seeking to move 
+su sceptible animals or products out of the Control 
+Area by permit. 
+Infected Zone,  
+Buffer Zone 
+Free Premises 
+(FP) 
+Premises outside of a Control Area and not a Con-
+tact or Suspect Premises. 
+Surveillance Zone, 
+Free Area 
+Zone/Area Definition 
+Infected Zone (IZ) Zone that immediately surrounds an Infected Premises. 
+Buffer Zone (BZ) Zone that immediately surrounds an Infected Zone or a  
+Contact Premises. 
+Control Area (CA) Consists of an Infected Zone and a Buffer Zone. 
+Surveillance Zone 
+(SZ) 
+Zone outside and along the border of a Control Area. The 
+Surveillance Zone is part of the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the  
+Surveillance Zone. 
+2 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Prep
+Text Len: 1353
+--------------------------------------------------------------------------------
+(SZ) 
+Zone outside and along the border of a Control Area. The 
+Surveillance Zone is part of the Free Area. 
+Free Area (FA) Area not included in any Control Area. Includes the  
+Surveillance Zone. 
+2 of 3 
+ 
+USDA APHIS Veterinary Se rvice s • N ational Preparedne ss and Incide nt Coordination (NPIC)                                                                             
+4700 River Road Unit 42 • Riverdale, MD 20737 • (301) 851-3595 
+December 2021  
+Factors Used to Determine Control Area Size 
+Factors Additional Details  
+Jurisdictional areas • Effectiveness and efficiency of administration  
+• Multi-jur isdictional considerations: local, State, Tr ibal, and multistate   
+Physical boundaries • Areas defined by geography  
+• Areas defined by distance between premises   
+FAD epidemiology • Reproductive rate  • Modes of transmission (such as, fecal-oral, 
+• Incubation period  droplet, aerosol, vectors)  
+• Ease of transmission • Survivability in the environment  
+• Infectious dose  • Ease of diagnosis (for example, no  
+• Species susceptibility  pathognomonic signs; requires diagnostic  
+laboratory testing)  
+• Age of lesions  
+Infected Premises 
+characteristics 
+• Number of contacts 
+Text Len: 1204
+--------------------------------------------------------------------------------
+ 
+• Ease of transmission • Survivability in the environment  
+• Infectious dose  • Ease of diagnosis (for example, no  
+• Species susceptibility  pathognomonic signs; requires diagnostic  
+laboratory testing)  
+• Age of lesions  
+Infected Premises 
+characteristics 
+• Number of contacts   
+• Transmission pathways and  
+transmission r isk   Age of animals  
+ Extent of  animal move-  Movement of traffic and personnel to and from 
+ment  premises (fomite spread)  
+   Number of animals  Biosecurity measures in place at time of out-
+   Species of animals  break  
+Contact Premises 
+characteristics 
+• Number and types of premises  • Movement of traffic (fomites) and personnel to 
+• Susceptible animal populations and from premises (fomite spread)   
+and population density  • Biosecur ity measure in place prior to outbreak  
+• Animal movements  
+Environment • Types of premises in area or • Susceptible wildlife and population density  
+region  • Wildlife as biological or mechanical vectors  
+• Land use in area or region  
+Climate (for aer osol 
+spread diseases) 
+• Prevailing winds  
+• Humidity  
+ 
+General area, re-
+gion, or agricultural 
+sector biosecurity 
+• Biosecur ity pr actices in place pr ior to outbreak  
+• Biosecur ity pr actices implemented once outbreak detected   
+Number of back-
+yard or transitional       
+premises 
+• Types of premises
+Text Len: 1363
+--------------------------------------------------------------------------------
+General area, re-
+gion, or agricultural 
+sector biosecurity 
+• Biosecur ity pr actices in place pr ior to outbreak  
+• Biosecur ity pr actices implemented once outbreak detected   
+Number of back-
+yard or transitional       
+premises 
+• Types of premises, animal movements, and network of animal and fomite movements   
+Continuity of busi-
+ness 
+• Continuity of business plans and pr ocesse s in place or activated at beginning of out-
+break (such as surveillance, negative diagnostic tests, premises biosecurity, and risk-
+assessments)  
+• Per mit pr ocesse s, memorandums of understanding, and information management 
+systems in place or activated at beginning of outbreak   
+Minimum Sizes of Zones and Areas 
+Note: See African Swine Feve r (ASF) Zone s and Are as in Fe ral and 
+Dome stic Swine for changes in the minimum size s for zones and 
+prem ise s.  
+For more information, ple ase go to: 
+http://www.aphis.usda.gov/fadprep 
+ 
+For more details on zone s and premise s de signations, ple ase see 
+the APHIS FAD Framework: Re sponse Strategie s (Manual 2-0). 
+ 
+For the Secure Poultry Supply Plan, click here  
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+Zone or Area Minimum Size and Details 
+Infected Zone (IZ) Perimeter should be at least 3 km (~1.86 miles) 
+beyond per imeters of presumptive or confir
+Text Len: 1348
+--------------------------------------------------------------------------------
+0). 
+ 
+For the Secure Poultry Supply Plan, click here  
+Foreign Animal Disease (FAD) Response 
+Ready Reference Guide—Overview of Zones 
+Zone or Area Minimum Size and Details 
+Infected Zone (IZ) Perimeter should be at least 3 km (~1.86 miles) 
+beyond per imeters of presumptive or confir med 
+Infected Premises. Will depend on disease 
+agent and epidemiological circumstances. This 
+zone may be redefined as the outbreak contin-
+ues. 
+Buffer Zone (BZ) Perimeter should be at least 7 km (~4.35 miles) 
+beyond the perimeter of the Infected Zone. 
+Width is gener ally not less than the minimum 
+radius of the associated Infected Zone, but 
+may be much lar ger. This zone may be rede-
+fined as the outbreak continues. 
+Control Area (CA) Perimeter should be at least 10 km (~6.21 
+miles) beyond the per imeter of the closest 
+Infected Premises. Please see the table to the 
+left for factors that influence the size of the 
+Control Area. This area may be redefined as 
+the outbreak continues. 
+Surveillance Zone 
+(SZ) 
+Width should be at least 10 km (~6.21 miles), 
+but may be much larger. 
+Text Len: 1083
+--------------------------------------------------------------------------------

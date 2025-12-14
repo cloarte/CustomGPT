@@ -1,0 +1,240 @@
+Crop Knowledge Master
+Erwinia Primer
+General Information Summary
+Pathogens & Hosts Taxonomy Characteristics Disease Types Management Graphics Reference
+Authors
+Andrew K. Gonsalves, Educational Specialist
+Stephen A. Ferreira, Extension Plant Pathologist
+Department of Plant Pathology, College of Tropical and Agriculture and Human Resources
+University of Hawaii at Manoa
+PATHOGENS & HOSTS
+Over seven Erwinia species and sub-species have been reported to occur in Hawaii (Raabe, et al., 1981). The following is a list of the reported pathogens from this genus (Erwinia) and the hosts they infect. The list is organized by the scientific name of the pathogen species (CAPITAL LETTERS), followed by the various susceptible plant hosts. Words in blue indicate what symptom or disease a given pathogen causes on the listed hosts.
+ERWINIA CARNEGIANA
+Bacterial Spot:
+watermelon (Citrullus vulgaris)
+ERWINIA CAROTOVORA
+Bacterial Soft Rot:
+garden bean (Phaseolus vulgaris)
+Philodendron selloum
+?Polyscias fruticosa
+eggplant (Solanum melongena)
+ERWINIA CAROTOVORA subsp. ATROSEPTICA
+Black Heart, Soft Rot:
+eggplant (Solanum melongena)
+potato (Solanum tuberosum)
+ERWINIA CAROTOVORA subsp. CAROTOVORA
+Bacterial Soft rot:
+shallot (Allium ascalonicum)
+onion (Allium cepa)
+Allium sp.
+broccoli, cauliflower (Brassica oleracea var. botrytis)
+cabbage (Brassica oleracea var. capitata)
+Chinese or celery cabbage (Brassica
+Text Len: 1401
+--------------------------------------------------------------------------------
+OTOVORA
+Bacterial Soft rot:
+shallot (Allium ascalonicum)
+onion (Allium cepa)
+Allium sp.
+broccoli, cauliflower (Brassica oleracea var. botrytis)
+cabbage (Brassica oleracea var. capitata)
+Chinese or celery cabbage (Brassica pekinensis)
+sweet pepper (Capsicum frutescens)
+Cattleya sp.
+taro (Colocasia esculenta)
+carrot (Daucus carota var. sativa)
+sorghum (Sorghum bicolor)
+Hollow Stem:
+tomato (Lycopersicon esculentum)
+Stump Rot:
+head lettuce (Lactuca sativa var. capitata)
+ERWINIA CHRYSANTHEMI
+Bacterial Blight:
+florist's chrysanthemum (Chrysanthemum morifolium)
+Bacterial Leafspot:
+syngonium (Syngonium podophyllum)
+Indian jujube (Ziziphus mauritiana)
+Bacterial Wilt:
+Dendrobium sp.
+Grammatophyllum sp.
+Soft Rot:
+Philodendron sp.
+corn, maize (Zea mays)
+Other:
+Vanda sp.
+ERWINIA HERBICOLA
+Leafspot:
+syngonium (Syngonium podophyllum)
+Pink Disease:
+pineapple (Ananas comosus)
+Purple Stain:
+papaya (Carica papaya)
+Other:
+golden-fruited palm (Chrysalidocarpus lutescens)
+ERWINIA SP.
+watermelon (Citrullus vulgaris)
+Text Len: 1008
+--------------------------------------------------------------------------------
+ium (Syngonium podophyllum)
+Pink Disease:
+pineapple (Ananas comosus)
+Purple Stain:
+papaya (Carica papaya)
+Other:
+golden-fruited palm (Chrysalidocarpus lutescens)
+ERWINIA SP.
+watermelon (Citrullus vulgaris)
+TAXONOMY
+KINGDOM: Monera (prokaryotes)
+DIVISION: Gracilicutes
+CLASS: Proteobacteria
+FAMILY: Enterobacteriaceae
+GENERAL CHARACTERISTICS
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+TYPES OF DISEASES
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+MANAGEMENT
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+GRAPHICS
+Below is a list of graphics that are available for this Genus:
+Fire blight of apple
+This may be caused by Erwinia amylovora.
+REFERENCES
+Agrios, G.N. 1988. Plant Pathology, 3rd edition. Academic Press, Inc: San Diego. 803 pp.
+Farr, D.F., G.F. Bills, G.P. Chamuris, and A.Y. Rossman. 1989. Fungi on Plants and Plant Products in the United States. APS PRESS: St. Paul, Minnesota. 1252 pp.
+Raabe, Robert D., Ibra L. Conners, and Albert P. Martinez. 1981. Checklist of Plant Diseases in Hawaii. Hawaii Institute of Agriculture and Human Resources, College of Tropical Agriculture and Human Resources, University of Hawaii (Information Text Series 022).
+Streets, R.B.
+Text Len: 1361
+--------------------------------------------------------------------------------
+ States. APS PRESS: St. Paul, Minnesota. 1252 pp.
+Raabe, Robert D., Ibra L. Conners, and Albert P. Martinez. 1981. Checklist of Plant Diseases in Hawaii. Hawaii Institute of Agriculture and Human Resources, College of Tropical Agriculture and Human Resources, University of Hawaii (Information Text Series 022).
+Streets, R.B. 1982. The Diagnosis of Plant Diseases: a field and laboratory manual emphasizing the most practical methods for rapid identification. The University of Arizona Press: Tucson, Arizona.
+    JUNE 1994
+  1-ERWINI
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 594
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Erwinia Primer
+General Information Summary
+Pathogens & Hosts Taxonomy Characteristics Disease Types Management Graphics Reference
+Authors
+Andrew K. Gonsalves, Educational Specialist
+Stephen A. Ferreira, Extension Plant Pathologist
+Department of Plant Pathology, College of Tropical and Agriculture and Human Resources
+University of Hawaii at Manoa
+PATHOGENS & HOSTS
+Over seven Erwinia species and sub-species have been reported to occur in Hawaii (Raabe, et al., 1981). The following is a list of the reported pathogens from this genus (Erwinia) and the hosts they infect. The list is organized by the scientific name of the pathogen species (CAPITAL LETTERS), followed by the various susceptible plant hosts. Words in blue indicate what symptom or disease a given pathogen causes on the listed hosts.
+ERWINIA CARNEGIANA
+Bacterial Spot:
+watermelon (Citrullus vulgaris)
+ERWINIA CAROTOVORA
+Bacterial Soft Rot:
+garden bean (Phaseolus vulgaris)
+Philodendron selloum
+?Polyscias fruticosa
+eggplant (Solanum melongena)
+ERWINIA CAROTOVORA subsp. ATROSEPTICA
+Black Heart, Soft Rot:
+eggplant (Solanum melongena)
+potato (Solanum tuberosum)
+ERWINIA CAROTOVORA subsp. CAROTOVORA
+Bacterial Soft rot:
+shallot (Allium ascalonicum)
+onion (Allium cepa)
+Allium sp.
+broccoli, cauliflower (Brassica oleracea var. botrytis)
+cabbage (Brassica oleracea var. capitata)
+Chinese or celery cabbage (Brassica
+Text Len: 1401
+--------------------------------------------------------------------------------
+OTOVORA
+Bacterial Soft rot:
+shallot (Allium ascalonicum)
+onion (Allium cepa)
+Allium sp.
+broccoli, cauliflower (Brassica oleracea var. botrytis)
+cabbage (Brassica oleracea var. capitata)
+Chinese or celery cabbage (Brassica pekinensis)
+sweet pepper (Capsicum frutescens)
+Cattleya sp.
+taro (Colocasia esculenta)
+carrot (Daucus carota var. sativa)
+sorghum (Sorghum bicolor)
+Hollow Stem:
+tomato (Lycopersicon esculentum)
+Stump Rot:
+head lettuce (Lactuca sativa var. capitata)
+ERWINIA CHRYSANTHEMI
+Bacterial Blight:
+florist's chrysanthemum (Chrysanthemum morifolium)
+Bacterial Leafspot:
+syngonium (Syngonium podophyllum)
+Indian jujube (Ziziphus mauritiana)
+Bacterial Wilt:
+Dendrobium sp.
+Grammatophyllum sp.
+Soft Rot:
+Philodendron sp.
+corn, maize (Zea mays)
+Other:
+Vanda sp.
+ERWINIA HERBICOLA
+Leafspot:
+syngonium (Syngonium podophyllum)
+Pink Disease:
+pineapple (Ananas comosus)
+Purple Stain:
+papaya (Carica papaya)
+Other:
+golden-fruited palm (Chrysalidocarpus lutescens)
+ERWINIA SP.
+watermelon (Citrullus vulgaris)
+Text Len: 1008
+--------------------------------------------------------------------------------
+ium (Syngonium podophyllum)
+Pink Disease:
+pineapple (Ananas comosus)
+Purple Stain:
+papaya (Carica papaya)
+Other:
+golden-fruited palm (Chrysalidocarpus lutescens)
+ERWINIA SP.
+watermelon (Citrullus vulgaris)
+TAXONOMY
+KINGDOM: Monera (prokaryotes)
+DIVISION: Gracilicutes
+CLASS: Proteobacteria
+FAMILY: Enterobacteriaceae
+GENERAL CHARACTERISTICS
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+TYPES OF DISEASES
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+MANAGEMENT
+No information is available for this section at the moment, please check future Knowledge Master Versions.
+GRAPHICS
+Below is a list of graphics that are available for this Genus:
+Fire blight of apple
+This may be caused by Erwinia amylovora.
+REFERENCES
+Agrios, G.N. 1988. Plant Pathology, 3rd edition. Academic Press, Inc: San Diego. 803 pp.
+Farr, D.F., G.F. Bills, G.P. Chamuris, and A.Y. Rossman. 1989. Fungi on Plants and Plant Products in the United States. APS PRESS: St. Paul, Minnesota. 1252 pp.
+Raabe, Robert D., Ibra L. Conners, and Albert P. Martinez. 1981. Checklist of Plant Diseases in Hawaii. Hawaii Institute of Agriculture and Human Resources, College of Tropical Agriculture and Human Resources, University of Hawaii (Information Text Series 022).
+Streets, R.B.
+Text Len: 1361
+--------------------------------------------------------------------------------
+ States. APS PRESS: St. Paul, Minnesota. 1252 pp.
+Raabe, Robert D., Ibra L. Conners, and Albert P. Martinez. 1981. Checklist of Plant Diseases in Hawaii. Hawaii Institute of Agriculture and Human Resources, College of Tropical Agriculture and Human Resources, University of Hawaii (Information Text Series 022).
+Streets, R.B. 1982. The Diagnosis of Plant Diseases: a field and laboratory manual emphasizing the most practical methods for rapid identification. The University of Arizona Press: Tucson, Arizona.
+    JUNE 1994
+  1-ERWINI
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 594
+--------------------------------------------------------------------------------

@@ -1,0 +1,922 @@
+Implementation Plan Implementation Plan 
+to Increase Public to Increase Public 
+Access to  Access to  
+USDA-Funded USDA-Funded 
+Research ResultsResearch Results
+June 28, 2023
+USDA Implementation Plan to Increase Public Access to 
+USDA-Funded Research Results
+June 28, 2023
+1. INTRODUCTION
+1.1  USDA Mission and Public Access Background
+USDA is made up of 29 agencies and staff offices with nearly 100,000 employees who serve the American people at more than 
+4,500 locations across the country and abroad. 
+The mission of the U.S. Department of Agriculture (USDA) is to “serve all Americans by providing effective, innovative, 
+science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural 
+development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help 
+America thrive. ”1 The mission statement highlights the importance of research and science as a basis for decision-making. 
+USDA has long embraced its responsibility for making the products of its research more publicly available. In response to the 
+February 2013 Office of Science and Technology Policy (OSTP) memo entitled “Increasing Access to the Results of Federally Funded 
+Scientific Research, ”2 USDA released its initial Implementation Plan in November 20143 and proceeded to develop infrastructure 
+and processes to provide public access to USDA-funded research. The Department also codified requirements for public access in 
+USDA Departmental Regulation 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.4  
+This document provides an updated implementation plan to carry out OSTP memorandum entitled, “Ensuring Free, Immediate, 
+and Equitable Access to Federally Funded Research” from August 2022.
+Text Len: 1827
+--------------------------------------------------------------------------------
+ also codified requirements for public access in 
+USDA Departmental Regulation 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.4  
+This document provides an updated implementation plan to carry out OSTP memorandum entitled, “Ensuring Free, Immediate, 
+and Equitable Access to Federally Funded Research” from August 2022.5 
+As noted in the OSTP memorandum, the USDA implementation plan and the subsequent policy will be consistent with federal 
+statutes and their implementing regulations regarding information management, including: the Paperwork Reduction Act, 
+E-Government Act, Freedom of Information Act, Federal Information Security Management Act, Privacy Act, Health Information
+Technology for Economic and Clinical Health Act, Information Quality Act, Foundations for Evidence-Based Policymaking Act,
+Confidential Information Protection and Statistical Efficiency Act, Federal Policy for the Protection of Human Subjects, Federal
+Records Act, and other laws and implementing regulations or policies that require federal agencies to protect trade secrets,
+confidential commercial information, personally identifiable information, and other information which is protected under law or
+policy.
+Office of Management and Budget (OMB) guidance and circulars will also govern the implementation plan and subsequent USDA 
+policy. These include OMB guidance under OMB M-13-13 and subsequent open data policies (e.g., those to be promulgated under 
+the OPEN Government Data Act and Pub. L. No. 115-435) and OMB Circular A-130.
+This implementation plan will guide the Department and those agencies and staff offices that carry out USDA’s research functions. 
+1. March 2022, U.S. Department of Agriculture Strategic Plan, Fiscal Years 2022-2026 USDA Strategic Plan Fiscal Years 2022-2026,
+page 3.
+2. February 22, 2013, Increasing Access to the Results of Federally Funded Scientific Research
+
+Text Len: 1927
+--------------------------------------------------------------------------------
+ implementation plan will guide the Department and those agencies and staff offices that carry out USDA’s research functions. 
+1. March 2022, U.S. Department of Agriculture Strategic Plan, Fiscal Years 2022-2026 USDA Strategic Plan Fiscal Years 2022-2026,
+page 3.
+2. February 22, 2013, Increasing Access to the Results of Federally Funded Scientific Research
+https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf.
+3. November 7, 2014, Implementation Plan to Increase Public Access to Results of USDA-funded
+Scientific Research USDA-Public-Access-Implementation-Plan.pdf.
+4. July 20, 2022, USDA, Public Access to Scholarly Publications and Digital Scientific Research Data USDA Departmental Regulation
+1020-006.
+5. August 24, 2022, Office of Science and Technology Policy (OSTP), Ensuring Free, Immediate, and Equitable Access to Federally
+Funded Research, 08-2022-OSTP-Public-Access-Memo.pdf (whitehouse.gov).
+2
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+1.2  Overview of leadership roles and responsibilities 
+The USDA Chief Scientist and the staff office that supports the position, the Office of the Chief Scientist (OCS), lead science policy 
+development for the Department and are responsible for USDA’s public access policy. 
+The USDA Science Council advises the Secretary and the Chief Scientist on the priorities for USDA’s science agenda, reflecting the 
+high priority issues impacting all aspects of United States food, agriculture, natural resources, energy, and communities. The USDA 
+Science Council provides advice on issues related to ensuring free, immediate, and equitable access
+Text Len: 1688
+--------------------------------------------------------------------------------
+ are responsible for USDA’s public access policy. 
+The USDA Science Council advises the Secretary and the Chief Scientist on the priorities for USDA’s science agenda, reflecting the 
+high priority issues impacting all aspects of United States food, agriculture, natural resources, energy, and communities. The USDA 
+Science Council provides advice on issues related to ensuring free, immediate, and equitable access to USDA-funded research. 
+OCS works closely with the National Agricultural Library (NAL) to develop and coordinate policy implementation in USDA agencies 
+and across the Department. NAL provides day-to-day support and service in implementing public access policies.
+OCS and NAL convene a cross-agency group called the Public Access and Open Science Forum that serves as an implementation-
+level advisory, communication, and coordination body for public access and related activities at USDA. This group consists of 
+representatives from the USDA agencies and staff offices that make up the USDA Science Council. 
+NAL represents USDA on the National Science and Technology Council’s Subcommittee on Open Science (SOS) and its working 
+groups. This ensures USDA coordinates policy and implementation with other departments and federal agencies across the 
+federal government. 
+USDA also partners and shares resources with other federal agencies for relevant public access initiatives and services. For 
+example, USDA partners with the Department of Energy’s Office of Scientific and Technical Information for digital persistent 
+identifier services and actively participates in SOS guidance development. NAL also collaborates with outside stakeholders, 
+including scientific societies and partners like CHORUS.
+1.3  Organization of the implementation plan
+This high-level plan consists of four sections. 
+The first section is entitled, “Updating Policies on Public Access to Scholarly Publications and Their Associated Research Data. ” It 
+covers anticipated policy development activities.
+The second section is entitled, �
+Text Len: 2037
+--------------------------------------------------------------------------------
+, 
+including scientific societies and partners like CHORUS.
+1.3  Organization of the implementation plan
+This high-level plan consists of four sections. 
+The first section is entitled, “Updating Policies on Public Access to Scholarly Publications and Their Associated Research Data. ” It 
+covers anticipated policy development activities.
+The second section is entitled, “Updating Public Access Infrastructure. ” It describes infrastructure already in place for public access 
+and how USDA will update it for new policy requirements.
+The third section is entitled, “Training and Outreach. ” It covers customer- and stakeholder-centered approaches to raise awareness 
+and train for implementation compliance.
+The fourth section is entitled, “Activities and Milestones. ” It provides a list of major activities and milestones for FY 2023 through 
+FY 2025 to meet the December 31, 2025, policy deadline and meet the December 31, 2024, deadline for a second public access 
+implementation plan to ensure scientific and research integrity in agency public access policies.
+2. UPDATING  POLICIES ON PUBLIC ACCESS TO SCHOLARL Y PUBLICATIONS AND
+THEIR ASSOCIATED  RESEARCH DATA
+Established policy – in the form of a USDA Departmental Regulation and subsequent federal rulemakings – is the backbone for 
+all other implementation activities. This section of the implementation plan describes USDA’s policy approach to ensure free, 
+immediate, and equitable public access to scholarly publications and their underlying scientific data funded by USDA.
+The USDA will develop public access policies that will ensure, as appropriate and consistent with applicable law and implementing 
+regulations, that:
+• All peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally
+funded research are made freely available and publicly accessible by default in agency-designated repositories without
+any embargo or
+Text Len: 1945
+--------------------------------------------------------------------------------
+ and their underlying scientific data funded by USDA.
+The USDA will develop public access policies that will ensure, as appropriate and consistent with applicable law and implementing 
+regulations, that:
+• All peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally
+funded research are made freely available and publicly accessible by default in agency-designated repositories without
+any embargo or delay after publication.
+• Scientific data underlying peer-reviewed scholarly publications resulting from USDA-funded research will be made freely
+available and publicly accessible by default at the time of publication.
+3
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+USDA public access policies will align with the August 2022 OSTP memorandum and governing associated federal statutes, 
+regulations, and policies.
+USDA will implement these new policies by December 31, 2025.
+2.1 General Scope
+The public access policy will apply to all unclassified scientific research, including intramural research and extramural research, 
+that is supported wholly or in part by the USDA, regardless of the USDA funding level or funding mechanism. 
+This will include scientific research that is supported by:
+• Any direct funding from a USDA grant or cooperative agreement when the new final USDA public access policy is
+approved.
+• Any direct funding from a USDA contract signed after the final USDA public access policy is implemented.
+• Any direct funding or arrangement, including in-kind support, from any USDA Intramural Research.
+USDA will review the scope as part of the larger public access policy activity consistent with the latest OSTP memorandum. USDA 
+will also solicit feedback on the scope during the implementation process.
+There are connections between requirements for digital persistent identifiers (DPIs) for public access policy requirements and 
+implementation requirements associated with National Security Presidential Memorandum 33 (NSPM-33
+Text Len: 2051
+--------------------------------------------------------------------------------
+.
+USDA will review the scope as part of the larger public access policy activity consistent with the latest OSTP memorandum. USDA 
+will also solicit feedback on the scope during the implementation process.
+There are connections between requirements for digital persistent identifiers (DPIs) for public access policy requirements and 
+implementation requirements associated with National Security Presidential Memorandum 33 (NSPM-33) entitled, “Presidential 
+Memorandum on United States Government-Supported Research and Development National Security Policy .”6 
+USDA policy will further update policies to ensure alignment between scientific and research integrity and public access policies 
+by December 31, 2026, to be effective December 31, 2027.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+2.2 Policy for Scholarly Publications 
+The public access policy will apply to any manuscript that is peer-reviewed and is accepted for publication in a journal on or after 
+the USDA approval of a new final public access policy. 
+USDA will consider expansion of the scope to other publication types during the policy consultation and development process. 
+The public access policy for scholarly publications will ensure:
+• Final peer-reviewed, accepted manuscripts will be made freely accessible to the public in machine-readable form
+through the USDA public access system (PubAg, hosted by the NAL). USDA will provide public access through PubAg on
+the date on which the publisher makes the article available online. Final versions of record may be submitted if the
+author has secured rights to submit them (e.g., by securing open access licensing).
+• Scholarly publications will have digital persistent identifiers (DPIs), such as a Digital Object Identifier (DOI), consistent
+with current policy and practice.
+
+Text Len: 1987
+--------------------------------------------------------------------------------
+ access through PubAg on
+the date on which the publisher makes the article available online. Final versions of record may be submitted if the
+author has secured rights to submit them (e.g., by securing open access licensing).
+• Scholarly publications will have digital persistent identifiers (DPIs), such as a Digital Object Identifier (DOI), consistent
+with current policy and practice.
+• Scholarly publications will reference the USDA funding source(s).
+• All authors of scholarly publications will have individual DPIs, such as the Open Researcher and Contributor ID (ORCID iD),
+that are linked to their scholarly publications.
+• Digital scientific research data assets connected to a scholarly publication covered by USDA policy will also receive a DPI,
+such as a DOI. This will allow a scholarly publication and its catalog metadata to link to the published digital scientific
+research data asset from which the publication was developed.
+• USDA will encourage authors of scholarly publications to obtain DPIs for other associated scientific research products.
+4
+6. January 14, 2021, Presidential Memorandum on United States Government-Supported Research and Development National Security Policy  
+and subsequent implementation toolkit: January 2022, Guidance for Implementing National Security Presidential Memorandum 33 (NSPM-33) 
+on National Security Strategy for United States Government-supported Research and Development
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+such as software, workflow documentation, curricular materials, and multi-media materials, if these products provide 
+information that would help future users of the scholarly publication and are not subject to access restrictions.
+• USDA will make clear that costs associated with publication of scholarly articles may be charged as an allowable expense
+in all research budgets.
+• USDA will clarify the role of publishers (through their various Open Access models), institutional repositories, and other
+external entities in
+Text Len: 2040
+--------------------------------------------------------------------------------
+media materials, if these products provide 
+information that would help future users of the scholarly publication and are not subject to access restrictions.
+• USDA will make clear that costs associated with publication of scholarly articles may be charged as an allowable expense
+in all research budgets.
+• USDA will clarify the role of publishers (through their various Open Access models), institutional repositories, and other
+external entities in ensuring free, immediate, and equitable access to USDA-funded research outputs. USDA will also
+discuss intellectual property rights concerns in stakeholder discussions, to inform USDA policy on government purpose
+licensing and use and reuse rights for publications.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+2.3 Policy for Data Management Planning and Digital Scientific Research Data
+The USDA public access policy will apply to any digital scientific research data asset connected to a scholarly publication covered 
+by the USDA public access policy. The public access policy will also extend to other digital scientific research data assets as 
+currently outlined in DR 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.
+USDA will describe categories of digital scientific research data assets that are exempt from public access requirements by statute 
+or regulation and describe processes to review and approve requests for waivers and extensions to public access requirements. 
+USDA will require digital scientific research data assets covered by public access requirements be published in a machine-readable 
+format by a data repository that is recognized by reputable registries and provides:
+• Public access for search, retrieval, and analysis.
+• A digital persistent identifier, such as a DOI.
+• Long-term preservation of the data asset.
+USDA will require that an approved data management plan (DMP) accompany all scientific research that produces digital scientific 
+research
+Text Len: 2157
+--------------------------------------------------------------------------------
+-readable 
+format by a data repository that is recognized by reputable registries and provides:
+• Public access for search, retrieval, and analysis.
+• A digital persistent identifier, such as a DOI.
+• Long-term preservation of the data asset.
+USDA will require that an approved data management plan (DMP) accompany all scientific research that produces digital scientific 
+research data assets. The public access policy will prescribe the high-level DMP elements and explain when and how data will be 
+publicly accessible.
+As noted above in the Policy for Scholarly Publications section, digital scientific research data assets covered by this policy must 
+also receive digital persistent identifiers (DPIs).
+USDA will make digital scientific research data assets associated with scholarly publications covered by the public access policy 
+publicly accessible immediately, simultaneous with the article publication. USDA also will continue to require data not associated 
+with scholarly publications to be made available by the end of the period of performance of the award.
+USDA will encourage authors of digital scientific research data assets to obtain DPIs for other associated research products such 
+as software, workflow documentation, curricular materials, and multi-media materials if these products provide information that 
+would help future users of the data asset and are not subject to access restrictions.
+USDA will require all authors of digital scientific research data assets (data authors) have individual DPIs (e.g., ORCID iDs) that are 
+linked to their data assets and other research products.
+The public access policy will require a standardized metadata catalog entry that is machine-readable, references the USDA 
+funding source(s), and describes the digital scientific research data asset be submitted to the publicly available USDA scientific 
+data catalog system (Ag Data Commons, hosted by the NAL) simultaneous with the publication of the associated scholarly 
+publication. USDA will require that the metadata catalog entry include the DP
+Text Len: 2067
+--------------------------------------------------------------------------------
+ policy will require a standardized metadata catalog entry that is machine-readable, references the USDA 
+funding source(s), and describes the digital scientific research data asset be submitted to the publicly available USDA scientific 
+data catalog system (Ag Data Commons, hosted by the NAL) simultaneous with the publication of the associated scholarly 
+publication. USDA will require that the metadata catalog entry include the DPIs of the data authors, the published digital scientific 
+research data asset, and any associated research products. 
+USDA will make clear tha
+t costs associated with publication, submission, curation, and management of digital scientific research 
+data assets may be charged as an allowable expense in all research budgets.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+5
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+2.4 Public Input in New Policy Development
+USDA will take the following steps to ensure public input in new public access policy development:
+• Recharter the USDA Public Access and Open Science Forum through the Office of the Chief Scientist and the USDA
+Science Council. The USDA Public Access and Open Science Forum will:
+• Provide a platform for USDA agencies to collaborate through meetings, workshops and working groups on
+ public access policy issues of agency and Departmental concern.
+• Review current USDA public access policies and survey USDA agencies’ scholarly publications and associated
+ science data policies, practices, and plans.
+• Review policies and strategies of other federal agencies to gain insight into issues and practices that are relevant to
+USDA.
+• Develop the USDA public access policy for approval by the Secretary through the USDA Office of the Chief Scientist and
+USDA Science Council, in consultation with external
+Text Len: 2018
+--------------------------------------------------------------------------------
+ public access policies and survey USDA agencies’ scholarly publications and associated
+ science data policies, practices, and plans.
+• Review policies and strategies of other federal agencies to gain insight into issues and practices that are relevant to
+USDA.
+• Develop the USDA public access policy for approval by the Secretary through the USDA Office of the Chief Scientist and
+USDA Science Council, in consultation with external stakeholders.
+• Convene the USDA Science Council specifically to review public access policy development progress to meet the
+December 30, 2025, deadline.
+• Use formal Tribal Consultation Processes to ensure Tribal sovereignty in public access matters.
+• Gather input on potential public access policies from external stakeholders consistent with federal law and regulation,
+including through the National Agricultural Research, Extension, Education, and Economics (NAREEE) Advisory Board.
+• Follow formal federal rulemaking procedures (i.e., Advanced Notice of Proposed Rulemaking under the Administrative
+Procedures Act).
+• Ensure implementation activities described elsewhere in this plan are consistent with anticipated USDA public access
+policies.
+3. UPDATING  PUBLIC ACCESS INFRASTRUCTURE
+USDA has established public repositories for both USDA-funded peer reviewed scholarly publications and digital scientific 
+research data. These repositories provide the basic infrastructure for providing public access, transparency, and scientific integrity 
+using rich metadata, digital persistent identifiers (DPIs), and controlled vocabularies to connect research outputs to make them 
+Findable, Accessible, Interoperable, and Reusable (FAIR). 
+USDA will improve this infrastructure so that the Department can compound the value of its research investments by increasing 
+machine-readability, data storage capacity, process automation, and integration with internal and external sources to bring 
+USDA research outputs to the public. In addition to enhancing research outcomes, this improved infrastructure will ensure free, 
+immediate, and equitable access to
+Text Len: 2093
+--------------------------------------------------------------------------------
+IR). 
+USDA will improve this infrastructure so that the Department can compound the value of its research investments by increasing 
+machine-readability, data storage capacity, process automation, and integration with internal and external sources to bring 
+USDA research outputs to the public. In addition to enhancing research outcomes, this improved infrastructure will ensure free, 
+immediate, and equitable access to USDA-funded research. 
+USDA will also develop an automated reporting framework from existing and planned research management systems to analyze 
+public access policy effectiveness and compliance.
+3.1 Public repository for USDA-funded Peer Reviewed Scholarly Publications
+USDA’s public access system to USDA-funded scholarly publications is PubAg. PubAg utilizes Alma and Primo VE to manage and 
+deliver its content. It is available at NAL ’s integrated search service, https://search.nal.usda.gov.
+PubAg supports current USDA policy by providing a search and discovery interface to citations and peer-reviewed journal articles 
+in the food and agricultural sciences, including access to the best available full-text version of USDA-funded scholarly publications. 
+The Department will enhance PubAg to ensure compliance with Departmental public access policies, with an emphasis on 
+enhancing submission processes, particularly for extramural researchers, and making full-text articles machine-readable. PubAg 
+will ensure USDA-funded scholarly publications are freely, immediately, and equitably accessible.
+6
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+3.2 Public Repository for USDA-funded Digital Scientific Research Data 
+USDA maintains a public catalog and repository for USDA-funded digital scientific research data called Ag Data Commons. It is 
+available at https://data.nal.usda.gov/. 
+Ag Data Commons is a public
+Text Len: 1883
+--------------------------------------------------------------------------------
+REASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+3.2 Public Repository for USDA-funded Digital Scientific Research Data 
+USDA maintains a public catalog and repository for USDA-funded digital scientific research data called Ag Data Commons. It is 
+available at https://data.nal.usda.gov/. 
+Ag Data Commons is a public, government, scientific research data catalog and general repository that enables the USDA’s 
+compliance with both public access and open data requirements to make federally funded research data open, accessible, and 
+machine-readable. 
+USDA is currently in the process of migrating Ag Data Commons content and data sets from its custom prototype application to 
+Figshare, a commercial software as a service (SaaS) solution. This transition embodies best management practices described in the 
+report titled “Desirable Characteristics of Data Repositories for Federally Funded Research. ” 7 
+The new platform will be configured to assist compliance with current and the updated public access policies resulting from the 
+August 2022 OSTP memorandum.
+4. OUTREACH  AND TRAINING
+USDA will take a customer- and stakeholder-centered approach to providing free, immediate, and equitable access to 
+USDA funded research results. Success will be achieved with broad community participation, inclusive partnerships, and 
+interagency coordination. The Department is committed to Diversity, Equity, Inclusion, and Accessibility. The development and 
+implementation of new public access policies will reflect this commitment, as will the outreach and training materials USDA 
+develops. 
+USDA will maintain up-to-date public web pages to provide the latest information about USDA’s public access policies and 
+implementation resources. The Department anticipates USDA agencies and staff offices and external institutions receiving USDA 
+funding will rely on these materials for their specific public access
+Text Len: 1914
+--------------------------------------------------------------------------------
+ policies will reflect this commitment, as will the outreach and training materials USDA 
+develops. 
+USDA will maintain up-to-date public web pages to provide the latest information about USDA’s public access policies and 
+implementation resources. The Department anticipates USDA agencies and staff offices and external institutions receiving USDA 
+funding will rely on these materials for their specific public access guidance. 
+USDA will develop outreach and training materials through the following processes:  
+4.1 Identify stakeholders
+Coordinated by the Public Access and Open Science Forum, USDA will work with community partners to identify current and new 
+stakeholders including:
+• USDA-employed (intramural) and USDA-supported (extramural) researchers
+• Federal and non-federal professionals and support teams
+• Librarians, archivists, and museum curators
+• Professional Society leaders and members
+• Publishers
+• Private and other non-governmental parties 
+4.2 Expand outreach and engagement
+USDA will collaborate with customers and community stakeholders to expand outreach and engagement. USDA will:
+• Identify audiences and develop initial communications and engagement materials appropriate to the audiences.
+• Host and participate in meetings to inform and engage customers and stakeholders.
+• Reflect and share lessons learned back to the audiences USDA is serving.
+• Coordinate and share ongoing outreach and engagement plans with departments and agencies beyond USDA. 
+ 
+7  The National Science and Technology Council, Desirable Characteristics of Data Repositories for 
+    Federally Funded Research, 2022, DOI: https://doi.org/10.5479/10088/113528.
+7
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+4.3 Advance learning objectives
+USDA will collaborate with customers and community stakeholders to identify learning objectives,
+Text Len: 1885
+--------------------------------------------------------------------------------
+   Federally Funded Research, 2022, DOI: https://doi.org/10.5479/10088/113528.
+7
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+4.3 Advance learning objectives
+USDA will collaborate with customers and community stakeholders to identify learning objectives, assess learning needs, and 
+develop training courses and materials to support free, immediate, and equitable access to USDA-funded research. Collaborative 
+planning and knowledge sharing will be key to USDA’s success. USDA will:
+• Evaluate existing training materials and determine needs for new content. 
+• Identify the most effective ways to provide existing and new training content to meet customer and stakeholder needs.
+• Establish regular evaluation cycles and continuing feedback mechanisms to ensure USDA is meeting customer and 
+stakeholder training needs.
+5. ACTIVITIES AND MILESTONES
+Below is a listing of high-level activities and milestones. They will likely change as USDA carries out the August 2022 OSTP 
+memorandum and learns through the policy development and implementation process. 
+FY 2023
+• Draft implementation plan.
+• Conduct initial customer and stakeholder engagement events for policy revisions.
+• Review existing USDA public access policy to identify policy changes needed for December 31, 2025, deadline.
+• Begin work to develop an automated reporting framework from existing and planned research management systems to 
+analyze policy effectiveness.
+• Ensure ongoing operations and maintenance, and enhancements to PubAg and Ag Data Commons continue to ensure 
+public access to USDA-funded research outputs, with an emphasis on extramural research outputs.
+• Inventory and evaluate existing outreach and training materials and processes and begin engagement with customers 
+and community stakeholders.
+FY 2024
+• Continue customer and stakeholder engagement to validate information and requirements for making USDA-
+Text Len: 1937
+--------------------------------------------------------------------------------
+ operations and maintenance, and enhancements to PubAg and Ag Data Commons continue to ensure 
+public access to USDA-funded research outputs, with an emphasis on extramural research outputs.
+• Inventory and evaluate existing outreach and training materials and processes and begin engagement with customers 
+and community stakeholders.
+FY 2024
+• Continue customer and stakeholder engagement to validate information and requirements for making USDA-funded 
+research freely, immediately, and equitably accessible by December 31, 2025.
+• Make changes to existing USDA public access policy, following statutory and regulatory requirements and processes, so 
+that USDA can implement new policies by December 31, 2025.
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and research 
+management systems to ensure public access to USDA-funded research outputs, with an emphasis on digital persistent 
+identifier issues to integrate research outputs consistently and at scale.
+• Prototype automated reporting frameworks and processes needed to analyze policy effectiveness.
+• Develop plans to carry out likely development needs as well as needs revealed during the policy development and 
+implementation process. 
+• Develop new outreach and training materials and validate them with customers and community stakeholders.
+FY 2025
+• Continue customer and stakeholder engagement to ensure the public knows how USDA-funded research outputs will be 
+freely, immediately, and equitably accessible by December 31, 2025.
+• Implement formally the changes to existing USDA public access policies to meet the December 31, 2025, deadline.
+• Draft and submit an update to the USDA public access plan to ensure scientific and research integrity in the Department’s 
+public access policies. 
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and other research 
+management systems to ensure public access to USDA-funded research outputs and to ensure data storage and long-
+term preservation and access at scale.
+• Evaluate outreach and training materials and
+Text Len: 2113
+--------------------------------------------------------------------------------
+ plan to ensure scientific and research integrity in the Department’s 
+public access policies. 
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and other research 
+management systems to ensure public access to USDA-funded research outputs and to ensure data storage and long-
+term preservation and access at scale.
+• Evaluate outreach and training materials and continue to validate them with customers and community stakeholders.
+8
+USDA’S NON-DISCRIMINATION STATEMENT
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, USDA, its 
+Mission Areas, agencies, staff offices, employees, and institutions participating in or administering USDA programs are prohibited from 
+discriminating based on race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, 
+disability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or reprisal or 
+retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not all bases apply to all programs).  
+Remedies and complaint filing deadlines vary by program or incident.   Program information may be made available in languages other 
+than English.  Persons with disabilities who require alternative means of communication to obtain program information (e.g., Braille, 
+large print, audiotape, American Sign Language) should contact the responsible Mission Area, agency, or staff office; the USDA TARGET 
+Center at (202) 720-2600 (voice and TTY); or the Federal Relay Service at (800) 877-8339.  
+ 
+To file a program discrimination complaint, a complainant should complete a Form  AD-3027, USDA Program Discrimination Complaint 
+Form, which can be
+Text Len: 1847
+--------------------------------------------------------------------------------
+, agency, or staff office; the USDA TARGET 
+Center at (202) 720-2600 (voice and TTY); or the Federal Relay Service at (800) 877-8339.  
+ 
+To file a program discrimination complaint, a complainant should complete a Form  AD-3027, USDA Program Discrimination Complaint 
+Form, which can be obtained online at https://www.ocio.usda.gov/document/ad-3027, from any USDA office, by calling (866) 632-
+9992, or by writing a letter addressed to USDA.  The letter must contain the complainant’s name, address, telephone number, and a 
+written description of the alleged discriminatory action in sufficient detail to inform the Assistant Secretary for Civil Rights (ASCR) about 
+the nature and date of an alleged civil rights violation.  The completed AD-3027 form or letter must be submitted to USDA by:   (1) Mail:  
+U.S. Department of Agriculture    Office of the Assistant Secretary for Civil Rights    1400 Independence Avenue, SW    Washington, D.C. 
+20250-9410; or  (2) Fax:   (833) 256-1665 or (202) 690-7442; or  (3) Email: program.intake@usda.gov  USDA is an equal opportunity 
+provider, employer, and lender.
+Text Len: 1108
+--------------------------------------------------------------------------------
+Implementation Plan Implementation Plan 
+to Increase Public to Increase Public 
+Access to  Access to  
+USDA-Funded USDA-Funded 
+Research ResultsResearch Results
+June 28, 2023
+USDA Implementation Plan to Increase Public Access to 
+USDA-Funded Research Results
+June 28, 2023
+1. INTRODUCTION
+1.1  USDA Mission and Public Access Background
+USDA is made up of 29 agencies and staff offices with nearly 100,000 employees who serve the American people at more than 
+4,500 locations across the country and abroad. 
+The mission of the U.S. Department of Agriculture (USDA) is to “serve all Americans by providing effective, innovative, 
+science-based public policy leadership in agriculture, food and nutrition, natural resource protection and management, rural 
+development, and related issues with a commitment to deliver equitable and climate-smart opportunities that inspire and help 
+America thrive. ”1 The mission statement highlights the importance of research and science as a basis for decision-making. 
+USDA has long embraced its responsibility for making the products of its research more publicly available. In response to the 
+February 2013 Office of Science and Technology Policy (OSTP) memo entitled “Increasing Access to the Results of Federally Funded 
+Scientific Research, ”2 USDA released its initial Implementation Plan in November 20143 and proceeded to develop infrastructure 
+and processes to provide public access to USDA-funded research. The Department also codified requirements for public access in 
+USDA Departmental Regulation 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.4  
+This document provides an updated implementation plan to carry out OSTP memorandum entitled, “Ensuring Free, Immediate, 
+and Equitable Access to Federally Funded Research” from August 2022.
+Text Len: 1827
+--------------------------------------------------------------------------------
+ also codified requirements for public access in 
+USDA Departmental Regulation 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.4  
+This document provides an updated implementation plan to carry out OSTP memorandum entitled, “Ensuring Free, Immediate, 
+and Equitable Access to Federally Funded Research” from August 2022.5 
+As noted in the OSTP memorandum, the USDA implementation plan and the subsequent policy will be consistent with federal 
+statutes and their implementing regulations regarding information management, including: the Paperwork Reduction Act, 
+E-Government Act, Freedom of Information Act, Federal Information Security Management Act, Privacy Act, Health Information
+Technology for Economic and Clinical Health Act, Information Quality Act, Foundations for Evidence-Based Policymaking Act,
+Confidential Information Protection and Statistical Efficiency Act, Federal Policy for the Protection of Human Subjects, Federal
+Records Act, and other laws and implementing regulations or policies that require federal agencies to protect trade secrets,
+confidential commercial information, personally identifiable information, and other information which is protected under law or
+policy.
+Office of Management and Budget (OMB) guidance and circulars will also govern the implementation plan and subsequent USDA 
+policy. These include OMB guidance under OMB M-13-13 and subsequent open data policies (e.g., those to be promulgated under 
+the OPEN Government Data Act and Pub. L. No. 115-435) and OMB Circular A-130.
+This implementation plan will guide the Department and those agencies and staff offices that carry out USDA’s research functions. 
+1. March 2022, U.S. Department of Agriculture Strategic Plan, Fiscal Years 2022-2026 USDA Strategic Plan Fiscal Years 2022-2026,
+page 3.
+2. February 22, 2013, Increasing Access to the Results of Federally Funded Scientific Research
+
+Text Len: 1927
+--------------------------------------------------------------------------------
+ implementation plan will guide the Department and those agencies and staff offices that carry out USDA’s research functions. 
+1. March 2022, U.S. Department of Agriculture Strategic Plan, Fiscal Years 2022-2026 USDA Strategic Plan Fiscal Years 2022-2026,
+page 3.
+2. February 22, 2013, Increasing Access to the Results of Federally Funded Scientific Research
+https://obamawhitehouse.archives.gov/sites/default/files/microsites/ostp/ostp_public_access_memo_2013.pdf.
+3. November 7, 2014, Implementation Plan to Increase Public Access to Results of USDA-funded
+Scientific Research USDA-Public-Access-Implementation-Plan.pdf.
+4. July 20, 2022, USDA, Public Access to Scholarly Publications and Digital Scientific Research Data USDA Departmental Regulation
+1020-006.
+5. August 24, 2022, Office of Science and Technology Policy (OSTP), Ensuring Free, Immediate, and Equitable Access to Federally
+Funded Research, 08-2022-OSTP-Public-Access-Memo.pdf (whitehouse.gov).
+2
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+1.2  Overview of leadership roles and responsibilities 
+The USDA Chief Scientist and the staff office that supports the position, the Office of the Chief Scientist (OCS), lead science policy 
+development for the Department and are responsible for USDA’s public access policy. 
+The USDA Science Council advises the Secretary and the Chief Scientist on the priorities for USDA’s science agenda, reflecting the 
+high priority issues impacting all aspects of United States food, agriculture, natural resources, energy, and communities. The USDA 
+Science Council provides advice on issues related to ensuring free, immediate, and equitable access
+Text Len: 1688
+--------------------------------------------------------------------------------
+ are responsible for USDA’s public access policy. 
+The USDA Science Council advises the Secretary and the Chief Scientist on the priorities for USDA’s science agenda, reflecting the 
+high priority issues impacting all aspects of United States food, agriculture, natural resources, energy, and communities. The USDA 
+Science Council provides advice on issues related to ensuring free, immediate, and equitable access to USDA-funded research. 
+OCS works closely with the National Agricultural Library (NAL) to develop and coordinate policy implementation in USDA agencies 
+and across the Department. NAL provides day-to-day support and service in implementing public access policies.
+OCS and NAL convene a cross-agency group called the Public Access and Open Science Forum that serves as an implementation-
+level advisory, communication, and coordination body for public access and related activities at USDA. This group consists of 
+representatives from the USDA agencies and staff offices that make up the USDA Science Council. 
+NAL represents USDA on the National Science and Technology Council’s Subcommittee on Open Science (SOS) and its working 
+groups. This ensures USDA coordinates policy and implementation with other departments and federal agencies across the 
+federal government. 
+USDA also partners and shares resources with other federal agencies for relevant public access initiatives and services. For 
+example, USDA partners with the Department of Energy’s Office of Scientific and Technical Information for digital persistent 
+identifier services and actively participates in SOS guidance development. NAL also collaborates with outside stakeholders, 
+including scientific societies and partners like CHORUS.
+1.3  Organization of the implementation plan
+This high-level plan consists of four sections. 
+The first section is entitled, “Updating Policies on Public Access to Scholarly Publications and Their Associated Research Data. ” It 
+covers anticipated policy development activities.
+The second section is entitled, �
+Text Len: 2037
+--------------------------------------------------------------------------------
+, 
+including scientific societies and partners like CHORUS.
+1.3  Organization of the implementation plan
+This high-level plan consists of four sections. 
+The first section is entitled, “Updating Policies on Public Access to Scholarly Publications and Their Associated Research Data. ” It 
+covers anticipated policy development activities.
+The second section is entitled, “Updating Public Access Infrastructure. ” It describes infrastructure already in place for public access 
+and how USDA will update it for new policy requirements.
+The third section is entitled, “Training and Outreach. ” It covers customer- and stakeholder-centered approaches to raise awareness 
+and train for implementation compliance.
+The fourth section is entitled, “Activities and Milestones. ” It provides a list of major activities and milestones for FY 2023 through 
+FY 2025 to meet the December 31, 2025, policy deadline and meet the December 31, 2024, deadline for a second public access 
+implementation plan to ensure scientific and research integrity in agency public access policies.
+2. UPDATING  POLICIES ON PUBLIC ACCESS TO SCHOLARL Y PUBLICATIONS AND
+THEIR ASSOCIATED  RESEARCH DATA
+Established policy – in the form of a USDA Departmental Regulation and subsequent federal rulemakings – is the backbone for 
+all other implementation activities. This section of the implementation plan describes USDA’s policy approach to ensure free, 
+immediate, and equitable public access to scholarly publications and their underlying scientific data funded by USDA.
+The USDA will develop public access policies that will ensure, as appropriate and consistent with applicable law and implementing 
+regulations, that:
+• All peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally
+funded research are made freely available and publicly accessible by default in agency-designated repositories without
+any embargo or
+Text Len: 1945
+--------------------------------------------------------------------------------
+ and their underlying scientific data funded by USDA.
+The USDA will develop public access policies that will ensure, as appropriate and consistent with applicable law and implementing 
+regulations, that:
+• All peer-reviewed scholarly publications authored or co-authored by individuals or institutions resulting from federally
+funded research are made freely available and publicly accessible by default in agency-designated repositories without
+any embargo or delay after publication.
+• Scientific data underlying peer-reviewed scholarly publications resulting from USDA-funded research will be made freely
+available and publicly accessible by default at the time of publication.
+3
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+USDA public access policies will align with the August 2022 OSTP memorandum and governing associated federal statutes, 
+regulations, and policies.
+USDA will implement these new policies by December 31, 2025.
+2.1 General Scope
+The public access policy will apply to all unclassified scientific research, including intramural research and extramural research, 
+that is supported wholly or in part by the USDA, regardless of the USDA funding level or funding mechanism. 
+This will include scientific research that is supported by:
+• Any direct funding from a USDA grant or cooperative agreement when the new final USDA public access policy is
+approved.
+• Any direct funding from a USDA contract signed after the final USDA public access policy is implemented.
+• Any direct funding or arrangement, including in-kind support, from any USDA Intramural Research.
+USDA will review the scope as part of the larger public access policy activity consistent with the latest OSTP memorandum. USDA 
+will also solicit feedback on the scope during the implementation process.
+There are connections between requirements for digital persistent identifiers (DPIs) for public access policy requirements and 
+implementation requirements associated with National Security Presidential Memorandum 33 (NSPM-33
+Text Len: 2051
+--------------------------------------------------------------------------------
+.
+USDA will review the scope as part of the larger public access policy activity consistent with the latest OSTP memorandum. USDA 
+will also solicit feedback on the scope during the implementation process.
+There are connections between requirements for digital persistent identifiers (DPIs) for public access policy requirements and 
+implementation requirements associated with National Security Presidential Memorandum 33 (NSPM-33) entitled, “Presidential 
+Memorandum on United States Government-Supported Research and Development National Security Policy .”6 
+USDA policy will further update policies to ensure alignment between scientific and research integrity and public access policies 
+by December 31, 2026, to be effective December 31, 2027.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+2.2 Policy for Scholarly Publications 
+The public access policy will apply to any manuscript that is peer-reviewed and is accepted for publication in a journal on or after 
+the USDA approval of a new final public access policy. 
+USDA will consider expansion of the scope to other publication types during the policy consultation and development process. 
+The public access policy for scholarly publications will ensure:
+• Final peer-reviewed, accepted manuscripts will be made freely accessible to the public in machine-readable form
+through the USDA public access system (PubAg, hosted by the NAL). USDA will provide public access through PubAg on
+the date on which the publisher makes the article available online. Final versions of record may be submitted if the
+author has secured rights to submit them (e.g., by securing open access licensing).
+• Scholarly publications will have digital persistent identifiers (DPIs), such as a Digital Object Identifier (DOI), consistent
+with current policy and practice.
+
+Text Len: 1987
+--------------------------------------------------------------------------------
+ access through PubAg on
+the date on which the publisher makes the article available online. Final versions of record may be submitted if the
+author has secured rights to submit them (e.g., by securing open access licensing).
+• Scholarly publications will have digital persistent identifiers (DPIs), such as a Digital Object Identifier (DOI), consistent
+with current policy and practice.
+• Scholarly publications will reference the USDA funding source(s).
+• All authors of scholarly publications will have individual DPIs, such as the Open Researcher and Contributor ID (ORCID iD),
+that are linked to their scholarly publications.
+• Digital scientific research data assets connected to a scholarly publication covered by USDA policy will also receive a DPI,
+such as a DOI. This will allow a scholarly publication and its catalog metadata to link to the published digital scientific
+research data asset from which the publication was developed.
+• USDA will encourage authors of scholarly publications to obtain DPIs for other associated scientific research products.
+4
+6. January 14, 2021, Presidential Memorandum on United States Government-Supported Research and Development National Security Policy  
+and subsequent implementation toolkit: January 2022, Guidance for Implementing National Security Presidential Memorandum 33 (NSPM-33) 
+on National Security Strategy for United States Government-supported Research and Development
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+such as software, workflow documentation, curricular materials, and multi-media materials, if these products provide 
+information that would help future users of the scholarly publication and are not subject to access restrictions.
+• USDA will make clear that costs associated with publication of scholarly articles may be charged as an allowable expense
+in all research budgets.
+• USDA will clarify the role of publishers (through their various Open Access models), institutional repositories, and other
+external entities in
+Text Len: 2040
+--------------------------------------------------------------------------------
+media materials, if these products provide 
+information that would help future users of the scholarly publication and are not subject to access restrictions.
+• USDA will make clear that costs associated with publication of scholarly articles may be charged as an allowable expense
+in all research budgets.
+• USDA will clarify the role of publishers (through their various Open Access models), institutional repositories, and other
+external entities in ensuring free, immediate, and equitable access to USDA-funded research outputs. USDA will also
+discuss intellectual property rights concerns in stakeholder discussions, to inform USDA policy on government purpose
+licensing and use and reuse rights for publications.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+2.3 Policy for Data Management Planning and Digital Scientific Research Data
+The USDA public access policy will apply to any digital scientific research data asset connected to a scholarly publication covered 
+by the USDA public access policy. The public access policy will also extend to other digital scientific research data assets as 
+currently outlined in DR 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data.
+USDA will describe categories of digital scientific research data assets that are exempt from public access requirements by statute 
+or regulation and describe processes to review and approve requests for waivers and extensions to public access requirements. 
+USDA will require digital scientific research data assets covered by public access requirements be published in a machine-readable 
+format by a data repository that is recognized by reputable registries and provides:
+• Public access for search, retrieval, and analysis.
+• A digital persistent identifier, such as a DOI.
+• Long-term preservation of the data asset.
+USDA will require that an approved data management plan (DMP) accompany all scientific research that produces digital scientific 
+research
+Text Len: 2157
+--------------------------------------------------------------------------------
+-readable 
+format by a data repository that is recognized by reputable registries and provides:
+• Public access for search, retrieval, and analysis.
+• A digital persistent identifier, such as a DOI.
+• Long-term preservation of the data asset.
+USDA will require that an approved data management plan (DMP) accompany all scientific research that produces digital scientific 
+research data assets. The public access policy will prescribe the high-level DMP elements and explain when and how data will be 
+publicly accessible.
+As noted above in the Policy for Scholarly Publications section, digital scientific research data assets covered by this policy must 
+also receive digital persistent identifiers (DPIs).
+USDA will make digital scientific research data assets associated with scholarly publications covered by the public access policy 
+publicly accessible immediately, simultaneous with the article publication. USDA also will continue to require data not associated 
+with scholarly publications to be made available by the end of the period of performance of the award.
+USDA will encourage authors of digital scientific research data assets to obtain DPIs for other associated research products such 
+as software, workflow documentation, curricular materials, and multi-media materials if these products provide information that 
+would help future users of the data asset and are not subject to access restrictions.
+USDA will require all authors of digital scientific research data assets (data authors) have individual DPIs (e.g., ORCID iDs) that are 
+linked to their data assets and other research products.
+The public access policy will require a standardized metadata catalog entry that is machine-readable, references the USDA 
+funding source(s), and describes the digital scientific research data asset be submitted to the publicly available USDA scientific 
+data catalog system (Ag Data Commons, hosted by the NAL) simultaneous with the publication of the associated scholarly 
+publication. USDA will require that the metadata catalog entry include the DP
+Text Len: 2067
+--------------------------------------------------------------------------------
+ policy will require a standardized metadata catalog entry that is machine-readable, references the USDA 
+funding source(s), and describes the digital scientific research data asset be submitted to the publicly available USDA scientific 
+data catalog system (Ag Data Commons, hosted by the NAL) simultaneous with the publication of the associated scholarly 
+publication. USDA will require that the metadata catalog entry include the DPIs of the data authors, the published digital scientific 
+research data asset, and any associated research products. 
+USDA will make clear tha
+t costs associated with publication, submission, curation, and management of digital scientific research 
+data assets may be charged as an allowable expense in all research budgets.
+USDA Departmental Regulation (DR) 1020-006, Public Access to Scholarly Publications and Digital Scientific Research Data, 
+remains USDA policy while USDA develops new policies consistent with the August 2022 OSTP memorandum.
+5
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+2.4 Public Input in New Policy Development
+USDA will take the following steps to ensure public input in new public access policy development:
+• Recharter the USDA Public Access and Open Science Forum through the Office of the Chief Scientist and the USDA
+Science Council. The USDA Public Access and Open Science Forum will:
+• Provide a platform for USDA agencies to collaborate through meetings, workshops and working groups on
+ public access policy issues of agency and Departmental concern.
+• Review current USDA public access policies and survey USDA agencies’ scholarly publications and associated
+ science data policies, practices, and plans.
+• Review policies and strategies of other federal agencies to gain insight into issues and practices that are relevant to
+USDA.
+• Develop the USDA public access policy for approval by the Secretary through the USDA Office of the Chief Scientist and
+USDA Science Council, in consultation with external
+Text Len: 2018
+--------------------------------------------------------------------------------
+ public access policies and survey USDA agencies’ scholarly publications and associated
+ science data policies, practices, and plans.
+• Review policies and strategies of other federal agencies to gain insight into issues and practices that are relevant to
+USDA.
+• Develop the USDA public access policy for approval by the Secretary through the USDA Office of the Chief Scientist and
+USDA Science Council, in consultation with external stakeholders.
+• Convene the USDA Science Council specifically to review public access policy development progress to meet the
+December 30, 2025, deadline.
+• Use formal Tribal Consultation Processes to ensure Tribal sovereignty in public access matters.
+• Gather input on potential public access policies from external stakeholders consistent with federal law and regulation,
+including through the National Agricultural Research, Extension, Education, and Economics (NAREEE) Advisory Board.
+• Follow formal federal rulemaking procedures (i.e., Advanced Notice of Proposed Rulemaking under the Administrative
+Procedures Act).
+• Ensure implementation activities described elsewhere in this plan are consistent with anticipated USDA public access
+policies.
+3. UPDATING  PUBLIC ACCESS INFRASTRUCTURE
+USDA has established public repositories for both USDA-funded peer reviewed scholarly publications and digital scientific 
+research data. These repositories provide the basic infrastructure for providing public access, transparency, and scientific integrity 
+using rich metadata, digital persistent identifiers (DPIs), and controlled vocabularies to connect research outputs to make them 
+Findable, Accessible, Interoperable, and Reusable (FAIR). 
+USDA will improve this infrastructure so that the Department can compound the value of its research investments by increasing 
+machine-readability, data storage capacity, process automation, and integration with internal and external sources to bring 
+USDA research outputs to the public. In addition to enhancing research outcomes, this improved infrastructure will ensure free, 
+immediate, and equitable access to
+Text Len: 2093
+--------------------------------------------------------------------------------
+IR). 
+USDA will improve this infrastructure so that the Department can compound the value of its research investments by increasing 
+machine-readability, data storage capacity, process automation, and integration with internal and external sources to bring 
+USDA research outputs to the public. In addition to enhancing research outcomes, this improved infrastructure will ensure free, 
+immediate, and equitable access to USDA-funded research. 
+USDA will also develop an automated reporting framework from existing and planned research management systems to analyze 
+public access policy effectiveness and compliance.
+3.1 Public repository for USDA-funded Peer Reviewed Scholarly Publications
+USDA’s public access system to USDA-funded scholarly publications is PubAg. PubAg utilizes Alma and Primo VE to manage and 
+deliver its content. It is available at NAL ’s integrated search service, https://search.nal.usda.gov.
+PubAg supports current USDA policy by providing a search and discovery interface to citations and peer-reviewed journal articles 
+in the food and agricultural sciences, including access to the best available full-text version of USDA-funded scholarly publications. 
+The Department will enhance PubAg to ensure compliance with Departmental public access policies, with an emphasis on 
+enhancing submission processes, particularly for extramural researchers, and making full-text articles machine-readable. PubAg 
+will ensure USDA-funded scholarly publications are freely, immediately, and equitably accessible.
+6
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+3.2 Public Repository for USDA-funded Digital Scientific Research Data 
+USDA maintains a public catalog and repository for USDA-funded digital scientific research data called Ag Data Commons. It is 
+available at https://data.nal.usda.gov/. 
+Ag Data Commons is a public
+Text Len: 1883
+--------------------------------------------------------------------------------
+REASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+3.2 Public Repository for USDA-funded Digital Scientific Research Data 
+USDA maintains a public catalog and repository for USDA-funded digital scientific research data called Ag Data Commons. It is 
+available at https://data.nal.usda.gov/. 
+Ag Data Commons is a public, government, scientific research data catalog and general repository that enables the USDA’s 
+compliance with both public access and open data requirements to make federally funded research data open, accessible, and 
+machine-readable. 
+USDA is currently in the process of migrating Ag Data Commons content and data sets from its custom prototype application to 
+Figshare, a commercial software as a service (SaaS) solution. This transition embodies best management practices described in the 
+report titled “Desirable Characteristics of Data Repositories for Federally Funded Research. ” 7 
+The new platform will be configured to assist compliance with current and the updated public access policies resulting from the 
+August 2022 OSTP memorandum.
+4. OUTREACH  AND TRAINING
+USDA will take a customer- and stakeholder-centered approach to providing free, immediate, and equitable access to 
+USDA funded research results. Success will be achieved with broad community participation, inclusive partnerships, and 
+interagency coordination. The Department is committed to Diversity, Equity, Inclusion, and Accessibility. The development and 
+implementation of new public access policies will reflect this commitment, as will the outreach and training materials USDA 
+develops. 
+USDA will maintain up-to-date public web pages to provide the latest information about USDA’s public access policies and 
+implementation resources. The Department anticipates USDA agencies and staff offices and external institutions receiving USDA 
+funding will rely on these materials for their specific public access
+Text Len: 1914
+--------------------------------------------------------------------------------
+ policies will reflect this commitment, as will the outreach and training materials USDA 
+develops. 
+USDA will maintain up-to-date public web pages to provide the latest information about USDA’s public access policies and 
+implementation resources. The Department anticipates USDA agencies and staff offices and external institutions receiving USDA 
+funding will rely on these materials for their specific public access guidance. 
+USDA will develop outreach and training materials through the following processes:  
+4.1 Identify stakeholders
+Coordinated by the Public Access and Open Science Forum, USDA will work with community partners to identify current and new 
+stakeholders including:
+• USDA-employed (intramural) and USDA-supported (extramural) researchers
+• Federal and non-federal professionals and support teams
+• Librarians, archivists, and museum curators
+• Professional Society leaders and members
+• Publishers
+• Private and other non-governmental parties 
+4.2 Expand outreach and engagement
+USDA will collaborate with customers and community stakeholders to expand outreach and engagement. USDA will:
+• Identify audiences and develop initial communications and engagement materials appropriate to the audiences.
+• Host and participate in meetings to inform and engage customers and stakeholders.
+• Reflect and share lessons learned back to the audiences USDA is serving.
+• Coordinate and share ongoing outreach and engagement plans with departments and agencies beyond USDA. 
+ 
+7  The National Science and Technology Council, Desirable Characteristics of Data Repositories for 
+    Federally Funded Research, 2022, DOI: https://doi.org/10.5479/10088/113528.
+7
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+4.3 Advance learning objectives
+USDA will collaborate with customers and community stakeholders to identify learning objectives,
+Text Len: 1885
+--------------------------------------------------------------------------------
+   Federally Funded Research, 2022, DOI: https://doi.org/10.5479/10088/113528.
+7
+USDA IMPLEMENTATION PLAN TO INCREASE PUBLIC ACCESS TO USDA-FUNDED RESEARCH RESULTS
+4.3 Advance learning objectives
+USDA will collaborate with customers and community stakeholders to identify learning objectives, assess learning needs, and 
+develop training courses and materials to support free, immediate, and equitable access to USDA-funded research. Collaborative 
+planning and knowledge sharing will be key to USDA’s success. USDA will:
+• Evaluate existing training materials and determine needs for new content. 
+• Identify the most effective ways to provide existing and new training content to meet customer and stakeholder needs.
+• Establish regular evaluation cycles and continuing feedback mechanisms to ensure USDA is meeting customer and 
+stakeholder training needs.
+5. ACTIVITIES AND MILESTONES
+Below is a listing of high-level activities and milestones. They will likely change as USDA carries out the August 2022 OSTP 
+memorandum and learns through the policy development and implementation process. 
+FY 2023
+• Draft implementation plan.
+• Conduct initial customer and stakeholder engagement events for policy revisions.
+• Review existing USDA public access policy to identify policy changes needed for December 31, 2025, deadline.
+• Begin work to develop an automated reporting framework from existing and planned research management systems to 
+analyze policy effectiveness.
+• Ensure ongoing operations and maintenance, and enhancements to PubAg and Ag Data Commons continue to ensure 
+public access to USDA-funded research outputs, with an emphasis on extramural research outputs.
+• Inventory and evaluate existing outreach and training materials and processes and begin engagement with customers 
+and community stakeholders.
+FY 2024
+• Continue customer and stakeholder engagement to validate information and requirements for making USDA-
+Text Len: 1937
+--------------------------------------------------------------------------------
+ operations and maintenance, and enhancements to PubAg and Ag Data Commons continue to ensure 
+public access to USDA-funded research outputs, with an emphasis on extramural research outputs.
+• Inventory and evaluate existing outreach and training materials and processes and begin engagement with customers 
+and community stakeholders.
+FY 2024
+• Continue customer and stakeholder engagement to validate information and requirements for making USDA-funded 
+research freely, immediately, and equitably accessible by December 31, 2025.
+• Make changes to existing USDA public access policy, following statutory and regulatory requirements and processes, so 
+that USDA can implement new policies by December 31, 2025.
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and research 
+management systems to ensure public access to USDA-funded research outputs, with an emphasis on digital persistent 
+identifier issues to integrate research outputs consistently and at scale.
+• Prototype automated reporting frameworks and processes needed to analyze policy effectiveness.
+• Develop plans to carry out likely development needs as well as needs revealed during the policy development and 
+implementation process. 
+• Develop new outreach and training materials and validate them with customers and community stakeholders.
+FY 2025
+• Continue customer and stakeholder engagement to ensure the public knows how USDA-funded research outputs will be 
+freely, immediately, and equitably accessible by December 31, 2025.
+• Implement formally the changes to existing USDA public access policies to meet the December 31, 2025, deadline.
+• Draft and submit an update to the USDA public access plan to ensure scientific and research integrity in the Department’s 
+public access policies. 
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and other research 
+management systems to ensure public access to USDA-funded research outputs and to ensure data storage and long-
+term preservation and access at scale.
+• Evaluate outreach and training materials and
+Text Len: 2113
+--------------------------------------------------------------------------------
+ plan to ensure scientific and research integrity in the Department’s 
+public access policies. 
+• Ensure ongoing operations and maintenance, and enhancements to PubAg, Ag Data Commons, and other research 
+management systems to ensure public access to USDA-funded research outputs and to ensure data storage and long-
+term preservation and access at scale.
+• Evaluate outreach and training materials and continue to validate them with customers and community stakeholders.
+8
+USDA’S NON-DISCRIMINATION STATEMENT
+In accordance with Federal civil rights law and U.S. Department of Agriculture (USDA) civil rights regulations and policies, USDA, its 
+Mission Areas, agencies, staff offices, employees, and institutions participating in or administering USDA programs are prohibited from 
+discriminating based on race, color, national origin, religion, sex, gender identity (including gender expression), sexual orientation, 
+disability, age, marital status, family/parental status, income derived from a public assistance program, political beliefs, or reprisal or 
+retaliation for prior civil rights activity, in any program or activity conducted or funded by USDA (not all bases apply to all programs).  
+Remedies and complaint filing deadlines vary by program or incident.   Program information may be made available in languages other 
+than English.  Persons with disabilities who require alternative means of communication to obtain program information (e.g., Braille, 
+large print, audiotape, American Sign Language) should contact the responsible Mission Area, agency, or staff office; the USDA TARGET 
+Center at (202) 720-2600 (voice and TTY); or the Federal Relay Service at (800) 877-8339.  
+ 
+To file a program discrimination complaint, a complainant should complete a Form  AD-3027, USDA Program Discrimination Complaint 
+Form, which can be
+Text Len: 1847
+--------------------------------------------------------------------------------
+, agency, or staff office; the USDA TARGET 
+Center at (202) 720-2600 (voice and TTY); or the Federal Relay Service at (800) 877-8339.  
+ 
+To file a program discrimination complaint, a complainant should complete a Form  AD-3027, USDA Program Discrimination Complaint 
+Form, which can be obtained online at https://www.ocio.usda.gov/document/ad-3027, from any USDA office, by calling (866) 632-
+9992, or by writing a letter addressed to USDA.  The letter must contain the complainant’s name, address, telephone number, and a 
+written description of the alleged discriminatory action in sufficient detail to inform the Assistant Secretary for Civil Rights (ASCR) about 
+the nature and date of an alleged civil rights violation.  The completed AD-3027 form or letter must be submitted to USDA by:   (1) Mail:  
+U.S. Department of Agriculture    Office of the Assistant Secretary for Civil Rights    1400 Independence Avenue, SW    Washington, D.C. 
+20250-9410; or  (2) Fax:   (833) 256-1665 or (202) 690-7442; or  (3) Email: program.intake@usda.gov  USDA is an equal opportunity 
+provider, employer, and lender.
+Text Len: 1108
+--------------------------------------------------------------------------------

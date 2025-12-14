@@ -1,0 +1,298 @@
+ African Swine Fever (ASF) Response 
+Ready Reference Guide— 
+Overview of the Response Plan: The Red Book 
+May 2020 USDA APHIS Veterinary Services • Na�onal Preparedness and Incident Coordina�on (NPIC) 1 of 2 
+ 4700 River Road Unit 42 • Riverdale, MD 20737 
+  
+Introduction 
+This document provides a brief overview of the new ASF Response Plan: The Red Book (April 2020). The ASF Response Plan provides 
+the best known strategic guidance for USDA APHIS and responders at all levels in the event of an ASF outbreak occurring in 
+domestic or feral swine. Please see the full ASF Response Plan for further information, located at www.aphis.usda.gov/fadprep.  
+ Goals of a ASF Response 
+The goals of an ASF response are to 
+1. detect, control, and contain ASF in swine as quickly as possible; 
+2. eradicate ASF using strategies that seek to stabilize animal agriculture, the food 
+supply, the economy, and to protect public health and the environment ; and 
+3. provide science- and risk-based approaches and systems to facilitate con�nuity of 
+business for non-infected animals and non-contaminated animal products. 
+Achieving these three goals will allow individual swine facilities, States, Tribes, regions, and industries to resume normal production 
+as quickly as possible. The objective is to allow the United States to regain disease-free status without the response effort causing 
+more disruption and damage than the disease outbreak itself.  
+Four Epidemiological Principals of Response 
+Four basic epidemiological principles form the foundation to contain, control, and eradicate ASF in the U.S. swine population: 
+1. Prevent contact between ASF
+Text Len: 1650
+--------------------------------------------------------------------------------
+ The objective is to allow the United States to regain disease-free status without the response effort causing 
+more disruption and damage than the disease outbreak itself.  
+Four Epidemiological Principals of Response 
+Four basic epidemiological principles form the foundation to contain, control, and eradicate ASF in the U.S. swine population: 
+1. Prevent contact between ASF virus (ASFV) and swine. This is accomplished through  
+a. quaran�ne of infected swine and movement controls in the Control Area (Infected Zone [IZ] + Buﬀer Zone [BZ]),  
+b. u�liza�on of Network-Based Controls (NBCs), and 
+c. enhanced biosecurity procedures that include preven�ng contact between feral swine and domes�c swine.  
+2. Stop the production of ASFV by infected or exposed swine. This is accomplished by mass depopula�on (and disposal) of 
+infected and poten�ally infected swine; priori�za�on may increase eﬀec�veness.  
+3. Stop the transmission of ASFV by vectors. 
+4. Prevent ASFV from becoming established in feral swine populations. 
+Response Strategies 
+The United States’ primary control and eradication strategy for ASF in swine is the establishment of quarantines and movement 
+controls with eradication by stamping-out. There is currently no effective vaccine available for ASFV in domestic swine. APHIS 
+acknowledges that there may be significant challenges to eradicate ASF, depending on the outbreak (e.g., if feral swine are 
+infected). The following table provides an overview of the primary response strategies for both domestic and feral swine.  
+Text Len: 1551
+--------------------------------------------------------------------------------
+ing-out. There is currently no effective vaccine available for ASFV in domestic swine. APHIS 
+acknowledges that there may be significant challenges to eradicate ASF, depending on the outbreak (e.g., if feral swine are 
+infected). The following table provides an overview of the primary response strategies for both domestic and feral swine.  
+Overview of ASF Response Strategies in Domes�c and Feral Swine 
+  Domestic Swine Feral Swine  
+ Primary Control Strategy Control Areas around Infected Premises Control Areas around Infected Pigs  
+       Focus Preven�ng ASFV from coming in contact with 
+suscep�ble swine 
+Limi�ng viral spread & transmission through the 
+establishment of Control Areas 
+ 
+       Supported primarily by Quaran�ne and movement controls, 
+enhanced biosecurity 
+Surveillance, immediate carcass removal and 
+disposal 
+ 
+       Control Area Size Minimum 5km (3km IZ + 2km BZ) Minimum 5km (3km IZ + 2km BZ)  
+ Primary Eradication Strategy Stamping-out* Stamping-out* with Popula�on Reduc�on  
+*Stamping-out is the depopula�on of clinically aﬀected and in-contact swine. Infected Pigs will be depopulated in the quickest, safest, and most humane way 
+possible. To be most eﬀec�ve in stopping the disease transmission, it may be necessary to priori�ze depopula�on based on clinical signs and epidemiological 
+informa�on. Stamping-out will require a well-planned and proac�ve
+Text Len: 1391
+--------------------------------------------------------------------------------
+ will be depopulated in the quickest, safest, and most humane way 
+possible. To be most eﬀec�ve in stopping the disease transmission, it may be necessary to priori�ze depopula�on based on clinical signs and epidemiological 
+informa�on. Stamping-out will require a well-planned and proac�ve coordinated public awareness campaign.  
+
+ African Swine Fever (ASF) Response 
+Ready Reference Guide— 
+Overview of the Response Plan: The Red Book 
+May 2020 USDA APHIS Veterinary Services • Na�onal Preparedness and Incident Coordina�on (NPIC) 2 of 2 
+ 4700 River Road Unit 42 • Riverdale, MD 20737 
+ 
+Authorization for Response Activities 
+When the criteria for a presumptive positive ASF case have been met, the APHIS Administrator or VS Deputy Administrator can 
+authorize APHIS personnel—in conjunction with State, Tribal, and unified Incident Command personnel—to initiate certain 
+response activities of the index case (Infected Premises or Infected Pig), including an epidemiological investigation of Contact 
+Premises.  
+Upon ASFV confirmation by the National Veterinary Services Laboratories (NVSL) Foreign Animal Disease Diagnostic Laboratory, the 
+Secretary of Agriculture will 
+ take immediate steps to declare an Extraordinary Emergency;  
+ issue a National Movement Standstill of at least 72 hours with a detec tion in domestic or feral swine; 
+ authorize depopulation of Infected Premises; and 
+ authorize payment for virus elimination at a uniform, flat rate, based on the size of the affected premises.  
+ 
+ 
+Coordinated Public Awareness Campaign 
+In an ASF outbreak, a public awareness campaign must be effectively coordinated with audience -
+Text Len: 1653
+--------------------------------------------------------------------------------
+ domestic or feral swine; 
+ authorize depopulation of Infected Premises; and 
+ authorize payment for virus elimination at a uniform, flat rate, based on the size of the affected premises.  
+ 
+ 
+Coordinated Public Awareness Campaign 
+In an ASF outbreak, a public awareness campaign must be effectively coordinated with audience -appropriate information both 
+created and distributed. This supports the response strategy by 
+ engaging and leveraging stakeholder relationships to provide unified public messages for all audiences;  
+ addressing the issues and concerns relating to food safety, public health, and anim al welfare; 
+ addressing issues and concerns related to interstate commerce, continuity of business, and international trade; and 
+ widely disseminating key communication messages to consumers and producers.  
+Movement Controls 
+A temporary hold order, a quarantine and/or some type of stop movement will be immediately issued on a premises by State 
+authority, or Tribal authority, upon strong suspicion of ASF on a premises. Each State’s animal health emergency response plan 
+should describe implementation along with considerations for the highly -integrated swine industry.  
+National Movement Standstill 
+A National Movement Standstill is a complete stop in live swine movement across the United States. It 
+is intended to allow States, Tribes, and industry to gather initial critical information for a unified 
+approach to an ASF response, while inhibiting further virus transmission before effective disease 
+control measures can be successfully implemented. A National Movement Standstill  
+ is issued by USDA upon confirmation of ASF in commercial swine for at least 72 hours, 
+ is effective only if all parties involved understand the reasons and goals, and have planned for it.  
+Network Based Controls 
+Network Based Controls
+Text Len: 1861
+--------------------------------------------------------------------------------
+ further virus transmission before effective disease 
+control measures can be successfully implemented. A National Movement Standstill  
+ is issued by USDA upon confirmation of ASF in commercial swine for at least 72 hours, 
+ is effective only if all parties involved understand the reasons and goals, and have planned for it.  
+Network Based Controls 
+Network Based Controls (NBCs) are designed to be used in combination with traditional Control Areas to assist in limiting the  
+spread of ASFV. NBCs will target response resources to high risk epidemiologically -linked premises in an effort to rapidly detect new 
+cases. All premises that are tracked/linked to an Infected Premises are subject to Control Area restrictions and diagnostic t esting.  
+What Else Will Occur During an ASF Response? 
+Critical activities and tools must be implemented to execute and support any response strategy. These activities and tools must 
+support a science- and risk-based approach that protects public health, animal health, the environment, and stabilizes animal 
+agriculture and the economy. Some of the critical activities that will be employed are as follows: 
+ Diagnosis and Reporting 
+ Surveillance 
+ Epidemiological Investigation and Tracing 
+ Quarantine and Movement Control 
+ Continuity of Business (Secure Pork Supply Plan) 
+ Information Management 
+ Public Communication and Messaging Campaign 
+ Health and Safety 
+ Biosecurity 
+ 3D (Depopulation, Disposal, Decontamination) Activities 
+ Wildlife Management & Vector Control 
+ Indemnity & Compensation 
+ 
+
+Text Len: 1570
+--------------------------------------------------------------------------------
+ African Swine Fever (ASF) Response 
+Ready Reference Guide— 
+Overview of the Response Plan: The Red Book 
+May 2020 USDA APHIS Veterinary Services • Na�onal Preparedness and Incident Coordina�on (NPIC) 1 of 2 
+ 4700 River Road Unit 42 • Riverdale, MD 20737 
+  
+Introduction 
+This document provides a brief overview of the new ASF Response Plan: The Red Book (April 2020). The ASF Response Plan provides 
+the best known strategic guidance for USDA APHIS and responders at all levels in the event of an ASF outbreak occurring in 
+domestic or feral swine. Please see the full ASF Response Plan for further information, located at www.aphis.usda.gov/fadprep.  
+ Goals of a ASF Response 
+The goals of an ASF response are to 
+1. detect, control, and contain ASF in swine as quickly as possible; 
+2. eradicate ASF using strategies that seek to stabilize animal agriculture, the food 
+supply, the economy, and to protect public health and the environment ; and 
+3. provide science- and risk-based approaches and systems to facilitate con�nuity of 
+business for non-infected animals and non-contaminated animal products. 
+Achieving these three goals will allow individual swine facilities, States, Tribes, regions, and industries to resume normal production 
+as quickly as possible. The objective is to allow the United States to regain disease-free status without the response effort causing 
+more disruption and damage than the disease outbreak itself.  
+Four Epidemiological Principals of Response 
+Four basic epidemiological principles form the foundation to contain, control, and eradicate ASF in the U.S. swine population: 
+1. Prevent contact between ASF
+Text Len: 1650
+--------------------------------------------------------------------------------
+ The objective is to allow the United States to regain disease-free status without the response effort causing 
+more disruption and damage than the disease outbreak itself.  
+Four Epidemiological Principals of Response 
+Four basic epidemiological principles form the foundation to contain, control, and eradicate ASF in the U.S. swine population: 
+1. Prevent contact between ASF virus (ASFV) and swine. This is accomplished through  
+a. quaran�ne of infected swine and movement controls in the Control Area (Infected Zone [IZ] + Buﬀer Zone [BZ]),  
+b. u�liza�on of Network-Based Controls (NBCs), and 
+c. enhanced biosecurity procedures that include preven�ng contact between feral swine and domes�c swine.  
+2. Stop the production of ASFV by infected or exposed swine. This is accomplished by mass depopula�on (and disposal) of 
+infected and poten�ally infected swine; priori�za�on may increase eﬀec�veness.  
+3. Stop the transmission of ASFV by vectors. 
+4. Prevent ASFV from becoming established in feral swine populations. 
+Response Strategies 
+The United States’ primary control and eradication strategy for ASF in swine is the establishment of quarantines and movement 
+controls with eradication by stamping-out. There is currently no effective vaccine available for ASFV in domestic swine. APHIS 
+acknowledges that there may be significant challenges to eradicate ASF, depending on the outbreak (e.g., if feral swine are 
+infected). The following table provides an overview of the primary response strategies for both domestic and feral swine.  
+Text Len: 1551
+--------------------------------------------------------------------------------
+ing-out. There is currently no effective vaccine available for ASFV in domestic swine. APHIS 
+acknowledges that there may be significant challenges to eradicate ASF, depending on the outbreak (e.g., if feral swine are 
+infected). The following table provides an overview of the primary response strategies for both domestic and feral swine.  
+Overview of ASF Response Strategies in Domes�c and Feral Swine 
+  Domestic Swine Feral Swine  
+ Primary Control Strategy Control Areas around Infected Premises Control Areas around Infected Pigs  
+       Focus Preven�ng ASFV from coming in contact with 
+suscep�ble swine 
+Limi�ng viral spread & transmission through the 
+establishment of Control Areas 
+ 
+       Supported primarily by Quaran�ne and movement controls, 
+enhanced biosecurity 
+Surveillance, immediate carcass removal and 
+disposal 
+ 
+       Control Area Size Minimum 5km (3km IZ + 2km BZ) Minimum 5km (3km IZ + 2km BZ)  
+ Primary Eradication Strategy Stamping-out* Stamping-out* with Popula�on Reduc�on  
+*Stamping-out is the depopula�on of clinically aﬀected and in-contact swine. Infected Pigs will be depopulated in the quickest, safest, and most humane way 
+possible. To be most eﬀec�ve in stopping the disease transmission, it may be necessary to priori�ze depopula�on based on clinical signs and epidemiological 
+informa�on. Stamping-out will require a well-planned and proac�ve
+Text Len: 1391
+--------------------------------------------------------------------------------
+ will be depopulated in the quickest, safest, and most humane way 
+possible. To be most eﬀec�ve in stopping the disease transmission, it may be necessary to priori�ze depopula�on based on clinical signs and epidemiological 
+informa�on. Stamping-out will require a well-planned and proac�ve coordinated public awareness campaign.  
+
+ African Swine Fever (ASF) Response 
+Ready Reference Guide— 
+Overview of the Response Plan: The Red Book 
+May 2020 USDA APHIS Veterinary Services • Na�onal Preparedness and Incident Coordina�on (NPIC) 2 of 2 
+ 4700 River Road Unit 42 • Riverdale, MD 20737 
+ 
+Authorization for Response Activities 
+When the criteria for a presumptive positive ASF case have been met, the APHIS Administrator or VS Deputy Administrator can 
+authorize APHIS personnel—in conjunction with State, Tribal, and unified Incident Command personnel—to initiate certain 
+response activities of the index case (Infected Premises or Infected Pig), including an epidemiological investigation of Contact 
+Premises.  
+Upon ASFV confirmation by the National Veterinary Services Laboratories (NVSL) Foreign Animal Disease Diagnostic Laboratory, the 
+Secretary of Agriculture will 
+ take immediate steps to declare an Extraordinary Emergency;  
+ issue a National Movement Standstill of at least 72 hours with a detec tion in domestic or feral swine; 
+ authorize depopulation of Infected Premises; and 
+ authorize payment for virus elimination at a uniform, flat rate, based on the size of the affected premises.  
+ 
+ 
+Coordinated Public Awareness Campaign 
+In an ASF outbreak, a public awareness campaign must be effectively coordinated with audience -
+Text Len: 1653
+--------------------------------------------------------------------------------
+ domestic or feral swine; 
+ authorize depopulation of Infected Premises; and 
+ authorize payment for virus elimination at a uniform, flat rate, based on the size of the affected premises.  
+ 
+ 
+Coordinated Public Awareness Campaign 
+In an ASF outbreak, a public awareness campaign must be effectively coordinated with audience -appropriate information both 
+created and distributed. This supports the response strategy by 
+ engaging and leveraging stakeholder relationships to provide unified public messages for all audiences;  
+ addressing the issues and concerns relating to food safety, public health, and anim al welfare; 
+ addressing issues and concerns related to interstate commerce, continuity of business, and international trade; and 
+ widely disseminating key communication messages to consumers and producers.  
+Movement Controls 
+A temporary hold order, a quarantine and/or some type of stop movement will be immediately issued on a premises by State 
+authority, or Tribal authority, upon strong suspicion of ASF on a premises. Each State’s animal health emergency response plan 
+should describe implementation along with considerations for the highly -integrated swine industry.  
+National Movement Standstill 
+A National Movement Standstill is a complete stop in live swine movement across the United States. It 
+is intended to allow States, Tribes, and industry to gather initial critical information for a unified 
+approach to an ASF response, while inhibiting further virus transmission before effective disease 
+control measures can be successfully implemented. A National Movement Standstill  
+ is issued by USDA upon confirmation of ASF in commercial swine for at least 72 hours, 
+ is effective only if all parties involved understand the reasons and goals, and have planned for it.  
+Network Based Controls 
+Network Based Controls
+Text Len: 1861
+--------------------------------------------------------------------------------
+ further virus transmission before effective disease 
+control measures can be successfully implemented. A National Movement Standstill  
+ is issued by USDA upon confirmation of ASF in commercial swine for at least 72 hours, 
+ is effective only if all parties involved understand the reasons and goals, and have planned for it.  
+Network Based Controls 
+Network Based Controls (NBCs) are designed to be used in combination with traditional Control Areas to assist in limiting the  
+spread of ASFV. NBCs will target response resources to high risk epidemiologically -linked premises in an effort to rapidly detect new 
+cases. All premises that are tracked/linked to an Infected Premises are subject to Control Area restrictions and diagnostic t esting.  
+What Else Will Occur During an ASF Response? 
+Critical activities and tools must be implemented to execute and support any response strategy. These activities and tools must 
+support a science- and risk-based approach that protects public health, animal health, the environment, and stabilizes animal 
+agriculture and the economy. Some of the critical activities that will be employed are as follows: 
+ Diagnosis and Reporting 
+ Surveillance 
+ Epidemiological Investigation and Tracing 
+ Quarantine and Movement Control 
+ Continuity of Business (Secure Pork Supply Plan) 
+ Information Management 
+ Public Communication and Messaging Campaign 
+ Health and Safety 
+ Biosecurity 
+ 3D (Depopulation, Disposal, Decontamination) Activities 
+ Wildlife Management & Vector Control 
+ Indemnity & Compensation 
+ 
+
+Text Len: 1570
+--------------------------------------------------------------------------------

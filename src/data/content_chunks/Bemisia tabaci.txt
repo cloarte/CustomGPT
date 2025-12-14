@@ -1,0 +1,376 @@
+Crop Knowledge Master
+Bemisia tabaci (Gennadius)
+Sweetpotato Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F. L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The sweetpotato whitefly has an extremely wide host range. It attacks more than 500 species of plants (Greathead, 1986) from 63 plant families (Mound and Halsey, 1978). In Hawaii, the sweetpotato whitefly has been found on the following crop plants: annona (cherimoya, atemoya, sugarapple), avocado, broccoli, cauliflower, Chinese cabbage, Chinese waxgourd, cucumber, Dendrobium (flowers), edible gourds, eggplant, fig, green bean, guava, hibiscus, hyotan, lettuce, luffa, plumeria, poinsettia, pumpkin, rose, soy bean, squash, sweetpotato, togan, tomato, ung-choi, watermelon, yardlong beans and zucchini. Although not yet reported in the state, other crop hosts include cabbage, chrysanthemum, beans, bittermelon, dishrag squash, pepper, pea, and radish (Mau & Tsuda).
+Weeds often serve as alternate hosts of crop pests. Some of the non-crop hosts that may serve as hosts are: Asystasia, Coccinia sp., castor bean, Euphorbia, ilima, Ipomoea spp., kikania-lai, Malva sp., Momordica sp., mountain apple, sowthistle, spurge, and Xanthium sp. There is no evidence to suggest that
+Text Len: 1389
+--------------------------------------------------------------------------------
+ the non-crop hosts that may serve as hosts are: Asystasia, Coccinia sp., castor bean, Euphorbia, ilima, Ipomoea spp., kikania-lai, Malva sp., Momordica sp., mountain apple, sowthistle, spurge, and Xanthium sp. There is no evidence to suggest that sweetpotato whitefly can reproduce on these hosts weeds.
+DISTRIBUTION
+There are more than 1000 whitefly species in the world. Twenty species occur in Hawaii; 12 of which have been accidentally introduced in the last 20 years. The sweetpotato whitefly (Bemisia tabaci) is one of the more pestiferous of the group. This pest was first described as Aleyrodes tabaci from tobacco in Greece in 1889. In Hawaii, it was first found at Pearl City, Oahu in October 1982. When discovered it had already been in Hawaii for a considerable time. Field surveys conducted at the time turned up infestations in leeward Oahu (Pearl City), central Oahu (Kalihi), and windward Oahu (Kailua). As of October 1990, it occurs on the islands of Hawaii, Kauai, Maui, Molokai, and Oahu.
+In addition to Hawaii, the sweetpotato whitefly has been reported as a serious pest of cultivated crops in tropical and subtropical areas including Africa, Asia, Central America, South America, and the West Indies where it is also known as the tobacco whitefly and cotton whitefly. In North America, it has been reported from Arizona, California, District of Columbia, Florida, Georgia, Maryland, Texas and Mexico (Cock, 1986).
+DAMAGE
+The sweetpotato whitefly is recognized as an important pest on many crops. Three types of damage may be caused by the sweetpotato whitefly: 1) direct
+Text Len: 1593
+--------------------------------------------------------------------------------
+ the tobacco whitefly and cotton whitefly. In North America, it has been reported from Arizona, California, District of Columbia, Florida, Georgia, Maryland, Texas and Mexico (Cock, 1986).
+DAMAGE
+The sweetpotato whitefly is recognized as an important pest on many crops. Three types of damage may be caused by the sweetpotato whitefly: 1) direct damage, 2) indirect damage and 3) virus transmission (Berlinger, 1986).
+Direct feeding damage is caused by the piercing and sucking sap from the foliage of plants. This feeding causes weakening and early wilting of the plant and reduces the plant growth rate and yield (Berlinger, 1986). It may also cause leaf chlorosis, leaf withering, premature dropping of leaves and plant death. Infestations of sweetpotato whitefly nymphs are associated with the occurrence of irregular ripening of tomatoes and silverleaf of squash.
+Observations of the damage caused by sweetpotato whitefly in Hawaii are discussed by Johnson et. al. (1992) and reiterated here. On head lettuce, stunting, yellowing and death of plants may occur with rapid increases sweetpotato whitefly populations. Surviving heads are often unmarketable and extensive damage in the field may prevent any harvest. Some oriental leafy vegetable crops experience stunting, yellowing, mottling and stem blanching during with large populations of this whitefly. Pumpkin and zucchini exhibit squash silverleaf disorder. Irregular ripening occurs on tomato.
+Indirect damage results by the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or yields it unmarketable (Berlinger, 1986).
+The third type of damage is caused by the vectoring of plant viruses by this insect. A
+Text Len: 1837
+--------------------------------------------------------------------------------
+ the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or yields it unmarketable (Berlinger, 1986).
+The third type of damage is caused by the vectoring of plant viruses by this insect. A small population of whiteflies is sufficient to cause considerable damage (Cohen and Berlinger, 1986). Plant viruses transmitted by whiteflies cause over 40 diseases of vegetable and fiber crops worldwide. Among the 1,100 recognized species of whiteflies in the world, only three are recognized as vectors of plant viruses. The sweetpotato whitefly is considered the most common and important whitefly vector of plant viruses worldwide. It is also the only known whitefly vector of viruses categorized in the geminivirus group.
+In the past decade, whitefly-transmitted plant viruses have increased in prevalence and distribution. The recent impact has been devastating with yield losses ranging from 20 to 100 percent, depending upon the crop, season, and prevalence of the whitefly. Some diseases associated with sweetpotato whitefly include: Lettuce necrotic yellows, irregular ripening of tomato, silver leaf of squash, cotton leaf curl, tobacco leaf curl, and cassava mosaic. None of the whitefly vectored viruses are known to occur in Hawaii.
+BIOLOGY
+Whiteflies have six life stages - the egg, four nymphal stages, and the adult. The development time of this insect from egg to adult may range from 15-70 days dependent upon temperature and plant host. Development occurs in temperatures ranging from 50 to 89.6ûF (10 to 32ûC). 80.6ûF (27ûC) appears to be the optimal temperature for development. Under control conditions on cotton, the pest completes its development in 17 days at 86ûF (30û
+Text Len: 1852
+--------------------------------------------------------------------------------
+ this insect from egg to adult may range from 15-70 days dependent upon temperature and plant host. Development occurs in temperatures ranging from 50 to 89.6ûF (10 to 32ûC). 80.6ûF (27ûC) appears to be the optimal temperature for development. Under control conditions on cotton, the pest completes its development in 17 days at 86ûF (30ûC) On the contentinal U.S. development from egg to adult under field conditions varies with the season; development variesfrom 25 to 50 days. Very little seasonal difference occurs in Hawaii. Overlapping whitefly generations occur throughout the year.
+EGGS
+Female whiteflies deposit pear-shaped eggs into the mesophyll or inner tissue of the leaf from the lower surface. Eggs are attached to the leaf by a stalk-like process. Eggs are white when first laid, and become brown prior to hatching. They are generally laid on the underside surface of the younger, upper leaves of the plant. Females lay from 28-300 eggs depending on host and temperature. On cotton, a female lays 81 eggs, on average, at 80.06û F (26.7û C) and 72 eggs at 89.96û F (32.2û C) (Butler et al., 1983). Egg densities can be as high as 1,200 eggs per square inch.
+Under laboratory conditions on cotton leaves, eggs hatched in 5 days at 90.5û F (32.5ûC) and 22.5 days at 62.1û F (16.7û C) (Butler et al., 1983). Eggs did not hatch in temperatures above 96.8û F (36û C) in the same study. Similar incubations have been reported on sweet potato and potato (El-Helay, et .al., 1971; Azab et. al., 1971) and eggplant (Avidov, 1956) (Butler
+Text Len: 1543
+--------------------------------------------------------------------------------
+16.7û C) (Butler et al., 1983). Eggs did not hatch in temperatures above 96.8û F (36û C) in the same study. Similar incubations have been reported on sweet potato and potato (El-Helay, et .al., 1971; Azab et. al., 1971) and eggplant (Avidov, 1956) (Butler, et. al., 1983).
+Low temperatures increase mortality. However, humidity is not a factor in egg mortality and egg incubation periods.
+NYMPHS
+The first nymphal stage is called crawlers and the last stage is often referred to as the pupa. After hatching the crawlers move a short distance and settle to feed. Once settled, the subsequent three nymphal stages are scale-like and sedentary. Nymphs are creamy white to light green and oval in outline. The total nymphal period lasts about 2-4 weeks.
+ADULTS
+Adult sweetpotato whiteflies are small, approximately 1/25 inch in length, with a pale yellow body and two pairs of white wings and covered with a white waxy powder. At rest, wings are held in an inverted V position. Their compound eyes are red.
+Adults usually emerge from their pupal cases in the morning hours and may copulate a few hours later. Oviposition occurs from 1 to 8 days after mating. Adult life span ranges from 6-55 days dependent on temperature. Females live only 10-15 days under southern continental U.S. summer conditions, but can live several months during the winter.
+In this species, reproduction can occur with or without copulation. Unmated females can reproduce by parthenogenesis in which the females produce only male progeny. Females lay 80 to more than 300 eggs in their lifetime. The plant host reportedly plays an important role in female fecundity.
+This species is similar in appearance with other white
+Text Len: 1692
+--------------------------------------------------------------------------------
+, but can live several months during the winter.
+In this species, reproduction can occur with or without copulation. Unmated females can reproduce by parthenogenesis in which the females produce only male progeny. Females lay 80 to more than 300 eggs in their lifetime. The plant host reportedly plays an important role in female fecundity.
+This species is similar in appearance with other whitefly species.
+BEHAVIOR
+Adult females oviposit preferentially on young foliage and crawlers do not move any significant distance from their eclosion site thus, immature stages tend to be distributed vertically on the plant with older stages found on progressively older leaves.
+Sweetpotato whiteflies are attracted to the color yellow and are believed to not react to odors (Berlinger, 1986).
+In relation to its host plant, this whitefly is mainly affected by the external, physical characteristics of the leaf surface (hairiness, leaf shape, stickiness) and the internal, chemical characteristics of the leaf (pH or leaf sap) (Berlinger, 1986). The sweetpotato whitefly has a preference for hairy-leafed varieties of cotton and less of a preference for glabrous-leafed varieties (Butler and Wilson, 1984).
+Whiteflies have two different flight patterns: short-distance and long-distance flights (Berlinger, 1986). Short-distance flights remain within the plant canopy and the insect travels from plant to plant within a field. These flights are less then 15 feet in distance and mainly involve the flight from the lower leaves, where the adults emerge from, to the upper leaves of the plant where they prefer to lay eggs (Berlinger, 1986). The flight pattern itself is in the form of a loop. Long-distance flights involve the insect being caught in an air current and drifting passively. These drifting flights may carry the insect several hundred feet high and for distances of several miles. This type of flight pattern increases the dispers
+Text Len: 1936
+--------------------------------------------------------------------------------
+ where the adults emerge from, to the upper leaves of the plant where they prefer to lay eggs (Berlinger, 1986). The flight pattern itself is in the form of a loop. Long-distance flights involve the insect being caught in an air current and drifting passively. These drifting flights may carry the insect several hundred feet high and for distances of several miles. This type of flight pattern increases the dispersal of the insect.
+Short-range movements within and between cultivated and weed host plants are known to take place regularly. There is also evidence of long-range whitefly migration. However, the extent to which migration results in colonization of a new habitat by this whitefly has not been satisfactorily established. The direction of sweetpotato whitefly flight is primarily dictated by the wind. They land on particular plants mostly by chance, electing to stay on suitable hosts and move away from those that are not.
+MANAGEMENT
+High reproductive rate and multiple host sequences provide optimal conditions for sweetpotato whitefly population development. The varied habitats, seasonal population development and intra and inter-crop and wild host movement present an extremely complex and difficult challenge requiring new and innovative approached for formulating control and suppression methodology.
+There is really no easy way of controlling the sweetpotato whitefly. Egg mortality is usually minimal. Weather and predation may cause high mortality rates during the crawler and first nymphal stages, but has only moderate effects on the later nymphal stages. In the past adults were easily killed with insecticides but pesticide resistance in sweetpotato whitefly populations is a common problem faced by many growers today. Sweetpotato whitefly has become resistant to chemical insecticides quite rapidly in other parts of the world, and the wisdom of relying only on chemical insecticides is questioned. Moreover, regular insecticide applications can result in resurgence of other pests.
+We believe that a combination of cultural practices and chemical application would provide Hawaii's growers the best chance of controlling this
+Text Len: 2159
+--------------------------------------------------------------------------------
+ a common problem faced by many growers today. Sweetpotato whitefly has become resistant to chemical insecticides quite rapidly in other parts of the world, and the wisdom of relying only on chemical insecticides is questioned. Moreover, regular insecticide applications can result in resurgence of other pests.
+We believe that a combination of cultural practices and chemical application would provide Hawaii's growers the best chance of controlling this pest. The use of sound cultural practices that may avoid, delay, or lessen the severity of the sweetpotato whitefly infestation is a good foundation to begin with. Careful selection of insecticides can help regulate sweetpotato whitefly populations to reduce losses not due to pathogenic organisms. Little can be done to reduce losses due to virus diseases, but we are fortunate that none have been introduced.
+Cultural Control
+Barriers such as row covers, and repellent mulches that effect phototactic responses of whiteflies, have shown some promise in delaying or reducing disease incidence, but are not useful when whitefly populations and virus innoculum levels are high. In a study with tomatoes in Israel soil mulching with yellow polyethylene sheets delayed the spread of tomato yellow leaf curl virus for 20 days against a control crop without mulching (Cohen and Melamed-Madjar, 1978).
+Control of weeds adjacent to cultivated fields, the use of trap crops, and implementation of crop free periods may be effective in reducing vector populations in certain cropping systems.
+Intercropping can be an alternative method for the reduction of pests in certain situations. Beneficial insects are often increased and their activity enhanced on intercrops. Recently, intercroppings of tomatoes have been shown to be beneficial. Various intercropping systems have shown to contribute to the reduction of whitefly populations. Cucumber planted in alternating rows 30 days before tomato delayed infection of the tomato with the whitefly-vectored tomato yellow leaf curl virus.
+Host Plant Resisitance
+Host
+Text Len: 2059
+--------------------------------------------------------------------------------
+ often increased and their activity enhanced on intercrops. Recently, intercroppings of tomatoes have been shown to be beneficial. Various intercropping systems have shown to contribute to the reduction of whitefly populations. Cucumber planted in alternating rows 30 days before tomato delayed infection of the tomato with the whitefly-vectored tomato yellow leaf curl virus.
+Host Plant Resisitance
+Host plant resistance has potential as an integrated pest management component for suppression of sweetpotato whitefly populations (Berlinger, 1986) and may provide a more bio-rational approach for reducing the impact of sweetpotato whitefly transmitted viruses and plant disorders than reliance on pesticides. A trial conducted in Sudan on the susceptibility of eight tomato varieties for sweetpotato whitefly infestation reported low numbers of whitefly eggs, nymphs and adults on the tomato varieties Red Cloud and Strain B (Kisha, 1984).
+Biological Control -- Parasites
+Several parasites attack the sweetpotato whitefly. Large efforts are now underway to locate appropriate biological control agents, such as parasites, throughout the US and elsewhere (Polaszek, et. al., 1992). There are 19 previously described parasites belonging to the Encarsia and Eretmocerus genuses, as well as many more yet undescribed, that attack the sweetpotato whitefly. A key to the known Encarsia species is provided by Polaszek, et. al. (1992).
+Although the outlook for biological control through natural enemies is promising, several situations limit the effectiveness of predators and parasites of the sweet potato whitefly. These instances were discussed by Van Lenteren (1983) and outlined by Gerling (1986). Such situations include times the host plant has zero tolerance for damage and virus transmission, unfavorable climatic conditions, the lack of selective insecticides or of proper natural enemies and that some crops are excellent hosts for this whitefly and their development is too rapid for the parasite to gain control
+Text Len: 2020
+--------------------------------------------------------------------------------
+ the sweet potato whitefly. These instances were discussed by Van Lenteren (1983) and outlined by Gerling (1986). Such situations include times the host plant has zero tolerance for damage and virus transmission, unfavorable climatic conditions, the lack of selective insecticides or of proper natural enemies and that some crops are excellent hosts for this whitefly and their development is too rapid for the parasite to gain control.
+Biological Control -- Predators
+There are many predators that will attack whiteflies. These include various true bugs (Hemiptera: especially Anthocoridae and predatory Miridae), beetles (Coleoptera: Coccinellidae), lacewings (Neuroptera: Chrysopidae, Hemerobiidae, Coniopterygidae), flies (Diptera: Dolichopodidae, Syrphidae, Anthomyoodae), ants (Hymenoptera: Formicidae), spiders (Araneida) and mites (Acarina: Phytoseiidae, Stigmaeidae). Some of these are opportunistic predators of adult whitefly, others are general feeders of leaf-feeding Homoptera like whiteflies, still others are specific predators of whiteflies. Very little information is available on the biology and impact of most predators of sweetpotato whitefly, especially in field crops.
+Biological Control -- Fungi:
+Although many fungi have been found in association with
+Bemisia, only Verticillium lecanii, Paecilomyces fumosoroseus, Peacilomyces farinosus, Aschersonia aleyrodis, and Beauveria bassiana have been demonstrated to be pathogenic. The extent of control by these fungal pathogens is unknown.
+Suggested Practices
+The following advice from Florida scientist and extension workers is sound and should be heeded (Price, Schuster, and Kring, 1988). We recommended
+Text Len: 1677
+--------------------------------------------------------------------------------
+, Peacilomyces farinosus, Aschersonia aleyrodis, and Beauveria bassiana have been demonstrated to be pathogenic. The extent of control by these fungal pathogens is unknown.
+Suggested Practices
+The following advice from Florida scientist and extension workers is sound and should be heeded (Price, Schuster, and Kring, 1988). We recommended that growers pay special attention to the following cultural practices.
+* Sequential plantings - Do not establish new sweetpotato whitefly affected crops near fields that are presently experiencing sweetpotato whitefly problems. Doing so would lead to early establishment of the pest and can lead to serious losses. Because of the close proximity of Hawaiian farms, cooperation among growers is important.
+* Alternate hosts of Sweetpotato whitefly - Weed and volunteer crop hosts should be removed from the field well before new plantings are established. Again, cooperation among growers is essential.
+* Crop transplants - Crop infestations can begin from infested transplants. Take extra care in controlling sweetpotato whitefly in seedling trays before transporting them to an uninfested field.
+* Post-harvest practices - Whiteflies continue to develop on plants after crops have been abandoned. This occurs even if irrigation lines have been disconnected. It is a good practice to spray and plow the plants immediately after last harvest.
+CHEMICAL CONTROL
+Conventional chemical control of the sweetpotato whitefly is difficult to achieve because of the distribution of the immature forms primarily on the underside of the leaves, with older larvae and pupae located lower in the plant canopy. The diversity of the cultivated and weed host plants attacked contribute to the source of infestation. A number of insecticides have effectively controlled this pest in the past but resistance has developed rapidly. Several new materials, including systematics, insect growth regulators and new pyrethroid insecticides, appear promising, however, the resistance phenomena suggests
+Text Len: 2017
+--------------------------------------------------------------------------------
+ leaves, with older larvae and pupae located lower in the plant canopy. The diversity of the cultivated and weed host plants attacked contribute to the source of infestation. A number of insecticides have effectively controlled this pest in the past but resistance has developed rapidly. Several new materials, including systematics, insect growth regulators and new pyrethroid insecticides, appear promising, however, the resistance phenomena suggests that their efficacy will be of a limited duration. Current reliance on chemical control must be considered to be a temporary measure until a satisfactory IPM program can be developed.
+Organic and inorganic materials with completely different modes of action than conventional insecticides have been identified as effective against the sweetpotato whitefly. Oils from other sources have been used as insecticides, acaricides or as additives. They are considered to be physical poisons that interfere with respiration in arthropods, although some plant oils may contain toxicants. Both petroleum based and plant derived oils have been reported efficacious against all stages. Soaps and detergents, either synthetic or naturally derived are active against all life stages except eggs. Botanical extracts such as Margosan-O (Azidirachtin) and glandular secretions from species of Nicotiana (tobacco) are highly toxic to nymphs. Repellence has also been reported using Nicotiana extracts.
+Many currently registered pesticides are very detrimental to natural enemies. Insecticidal soaps and oils, and pesticides containing neem are a few compounds that allow some parasite and predator activity.
+There are no listings for carbaryl, endosulfan, kinoprene, malathion, methomyl, oxamyl, and telstar as of April 2007.
+An additional difficulty for chemical control is caused by the behavior of this insect since adult feeding, mating and oviposition and larval development occur on the lower surfaces of leaves (Coudriet, et. al., 1985).
+University
+Text Len: 1990
+--------------------------------------------------------------------------------
+ carbaryl, endosulfan, kinoprene, malathion, methomyl, oxamyl, and telstar as of April 2007.
+An additional difficulty for chemical control is caused by the behavior of this insect since adult feeding, mating and oviposition and larval development occur on the lower surfaces of leaves (Coudriet, et. al., 1985).
+University of Florida entomologists have conducted extensive evaluations of insecticides, and we believe that their results are applicable to sweetpotato whitefly in Hawaii (Schuster, Price, and Kring 1988). Knowledge of the following points is crucial to developing a pesticide program to control sweetpotato whitefly.
+* The label is the law - It is illegal to use pesticides on crops which are not listed on the product label.
+* Heed application and safety directions - Thorough reading of the label is required before applying insecticides. The label provides applicator safety, mixing and application directions, and other important information.
+* Spray coverage is important - Insecticides that kill by contact with the pest must be applied carefully. Thorough coverage of the lower surface of leaves is essential to achieve control. Spray droplets must contact the immobile nymphal stages to kill them.
+* Alternate insecticide classes - We expect rapid selection of resistance to pesticides by sweetpotato whitefly. In order to avoid or reduce the selection of insecticide resistance in sweetpotato whitefly, insecticides of different classes should be alternated. Refer to Table 2 for assistant in identifying insecticide classes.
+* Stage specific insecticidal activity - While some insecticides are effective against both nymphs and adults, there are others that are more effective against specific life stages. There are no insecticides that are effective against the eggs. Hence, it is important to survey the crop to determine the predominant life stages and to apply the appropriate insecticides or insecticide combinations. We provide the results of Florida tests to
+Text Len: 1991
+--------------------------------------------------------------------------------
+* Stage specific insecticidal activity - While some insecticides are effective against both nymphs and adults, there are others that are more effective against specific life stages. There are no insecticides that are effective against the eggs. Hence, it is important to survey the crop to determine the predominant life stages and to apply the appropriate insecticides or insecticide combinations. We provide the results of Florida tests to help in the selection of appropriate insecticides.
+* Integrate chemical tactics with cultural practices - Do not expect to control sweetpotato whitefly with only insecticides. You can expect difficulty in controlling the pest if you persist in using only chemical tactics.
+* Insecticides also kill beneficial organisms - It is important to remember that frequent pesticide applications can cause substantial harm to naturally occurring beneficial insects in mites. These organisms are considerably smaller than the pest, and are usually quite sensitive to pesticides. For example, by applying frequent insecticide applications to tomatoes, leafminer parasitoids can be suppressed and you could trade the whitefly problem for a leafminer problem.
+REFERENCES
+Avidov, Z. 1956. Bionomics of the tobacco whitefly (Bemisia tabaci Gennad.) in Israel. Katvim. 7: 25-41.
+Azab, A. K., M. M. Megahed and D. H. El-Mirsawi. 1971. On the Biology of Bemisia tabaci (Genn.). Societe Entomologie D'Egypte Bulletin. 55: 305-315.
+Berlinger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Butler, G. D. Jr., T. J. Henneberry and T. E. Clayton. 1983. Bemisia tabaci (Homoptera: Aleyrodidae): Development, Oviposition, and
+Text Len: 1686
+--------------------------------------------------------------------------------
+linger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Butler, G. D. Jr., T. J. Henneberry and T. E. Clayton. 1983. Bemisia tabaci (Homoptera: Aleyrodidae): Development, Oviposition, and Longevity in Relation to Temperature. Ann. Entomol. Soc. America. 76(2): 310-313.
+Butler, G. D. Jr., T. J. Henneberry and W. D. Hutchison. 1989. Biology, Sampling and Population Dynamics of Bemisia tabaci. In Biology and population Dynamics of Invertebrate Crop Pests, G. E. Russell (Ed). Intercept Limited, Andover, Hampshire, UK. p. 83-111.
+Butler, G. D. Jr. and F. D. Wilson. 1984. Activity of Adult Whiteflies (Homoptera: Aleyrodidae) Within Plantings of Different Cotton Strains and Cultivars as Determined by Sticky-Trap Catches. J. Econ. Ent. 77(5): 1137-1140.
+Cock, M. J. W. Ed. 1986. Bemisia tabaci, A Literature Survey on the Cotton Whitefly with an Annotated Bibliography. Food and Agriculture Organization of the U.N., C.A.B. Int. Inst. Biol. Cont. 121 pages.
+Cohen, S. and M. J. Berlinger. 1986. Transmission and Cultural Control of Whitefly-borne Viruses. Agric. Ecosystems Environ. 17: 89-97.
+Cohen, S. and V. Melamed-Madjar. 1978. Prevention by soil mulching of the spread of tomato yellow leaf curl virus transmitted by B
+Text Len: 1269
+--------------------------------------------------------------------------------
+. 121 pages.
+Cohen, S. and M. J. Berlinger. 1986. Transmission and Cultural Control of Whitefly-borne Viruses. Agric. Ecosystems Environ. 17: 89-97.
+Cohen, S. and V. Melamed-Madjar. 1978. Prevention by soil mulching of the spread of tomato yellow leaf curl virus transmitted by Bemisia tabaci (Gennadius) (Hemiptera: Aleyrodidae) in Israel. Bull. Ent. Res. 68(3): 465-470.
+Coudriet, D. L., N. Prabhaker, A. N. Kishaba, and D.E. Meyerdirk. 1985. Variation in Developmental Rate on Different Hosts and Overwintering of the Sweetpotato Whitefly, Bemisia tabaci (Homoptera: Aleyrodidae). Environ. Ent. 14: 516-519.
+El-Helaly, M. S., A. Y. El-Shazil, and F. H. El-Gayar. 1971. Biological studies on Bemisia tabaci Genn. (Homoptera: Aleyrodidae) attacking cotton in the coastal plain of Israel. Bull. Entomol. Res. 70: 213-219.
+Faust, R. M., ed. 1992. Conference Report and 5-Year National Research and Action Plan for Development of Management and Control Methodology for the Sweetpotato Whitefly, Houston, Texas, February 18-21, 1992. U.S. Department of Agriculture, Agricultural Research Service, ARS-107. 165 pages.
+Gerling, D. 1986. Natural Enemies of Bemisia tabaci, Biological Characteristics and Potential as Biological Control Agents: A Review. Agriculture, Ecosystems, and Environment. 17: 99-110.
+Greathead, A. H
+Text Len: 1317
+--------------------------------------------------------------------------------
+, February 18-21, 1992. U.S. Department of Agriculture, Agricultural Research Service, ARS-107. 165 pages.
+Gerling, D. 1986. Natural Enemies of Bemisia tabaci, Biological Characteristics and Potential as Biological Control Agents: A Review. Agriculture, Ecosystems, and Environment. 17: 99-110.
+Greathead, A. H. 1986. Host Plants. Chapter 3, pp. 17-25. In: Bemisia tabaci - a literature survey on the cotton whitefly with an annotated bibliography (Ed. M.J.W. Cock). CAB International Institute of Biological Control, Ascot, UK. 121 pages.
+Hamon, A. B. and V. Salguero. 1987. Bemisia tabaci, sweetpotato whitefly, in Florida (Homoptera: Aleyrodidae: Aleyrodinae). Entomology Circular No. 292. Fla. Dept. Agric. & Consumer Serv., Division of Plant Industry.
+Hill, D. S. 1983. Bemisia tabaci (Genn.). pp. 198. In Agricultural Insect Pests of the Tropics and Their Control, 2nd Edition. Cambridge University Press, Cambridge, London, New York, New Rochelle, Melbourne, Sydney. 746 pages.
+Johnson, M. W., D.E. Ullman, B.E. Tabashnik, H. Costa and A. Omer. 1992. Sweetpotato Whitefly Information from Hawaii. (Given to me by Amir, get reference to include the appropriate information, he did not want this paper cited)
+Kisha, J. S. A. 1984. Whitefly, Bemisia tabaci, Infestations on Tomato Varieties and a Wild Lycopersicon Species. Ann. of Appl. Bio. 104 Supplement, Tests of Agrichemicals and Cultivars (
+Text Len: 1401
+--------------------------------------------------------------------------------
+ (Given to me by Amir, get reference to include the appropriate information, he did not want this paper cited)
+Kisha, J. S. A. 1984. Whitefly, Bemisia tabaci, Infestations on Tomato Varieties and a Wild Lycopersicon Species. Ann. of Appl. Bio. 104 Supplement, Tests of Agrichemicals and Cultivars (5): 124-125.
+Lopez-Avila, A. 1986. Taxonomy and Biology P3. In: Bemisia tabaci, a Literature Survey on the Cotton Whitefly with an Annotated Bibliography. Food and Agriculture Organization of the U.N., C.A.B. Int. Inst. Biol. Cont. 121 pages.
+Mau, Ronald F. L. and Dick Tsuda. 1991. Sweetpotato whitefly Bemisia tabaci (Gennadius) (Homoptera: Aleyrodidae).
+Mound L. A. and S. H. Halsey. 1978. Bemisia tabaci (Gennadius). pp. 118-124. In Whitefly of the World, A Systematic Catalog of the Aleyrodidae (Homoptera) with Host Plant and Natural Enemy Data. British Museum (Natural History ) and John Wiley & Sons, Chichester, New York, Brisbane, Toronto. 340 pages.
+Polaszek, A., G. A. Evans and F. D. Bennett. 1992. Encarsia parasitoids of Bemisia tabaci (Hymenoptera: Aphelinidae, Homoptera: Aleyrodidae): a preliminary guide to identification. Bull. Entomol. Res. 82: 375-392.
+Price, J. F., D. J. Schuster and J. B. Kring. 1988. Management of the sweetpotato whitefly on tomato crops in South Florida.
+Text Len: 1297
+--------------------------------------------------------------------------------
+ tabaci (Hymenoptera: Aphelinidae, Homoptera: Aleyrodidae): a preliminary guide to identification. Bull. Entomol. Res. 82: 375-392.
+Price, J. F., D. J. Schuster and J. B. Kring. 1988. Management of the sweetpotato whitefly on tomato crops in South Florida. University of Florida, Gulf Coast Research & Education Center. Bradenton GCREC Research Report BRA 1988-15.
+  SEP/1991 revised DEC/1992.
+  B-TABACI
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 464
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Bemisia tabaci (Gennadius)
+Sweetpotato Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F. L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The sweetpotato whitefly has an extremely wide host range. It attacks more than 500 species of plants (Greathead, 1986) from 63 plant families (Mound and Halsey, 1978). In Hawaii, the sweetpotato whitefly has been found on the following crop plants: annona (cherimoya, atemoya, sugarapple), avocado, broccoli, cauliflower, Chinese cabbage, Chinese waxgourd, cucumber, Dendrobium (flowers), edible gourds, eggplant, fig, green bean, guava, hibiscus, hyotan, lettuce, luffa, plumeria, poinsettia, pumpkin, rose, soy bean, squash, sweetpotato, togan, tomato, ung-choi, watermelon, yardlong beans and zucchini. Although not yet reported in the state, other crop hosts include cabbage, chrysanthemum, beans, bittermelon, dishrag squash, pepper, pea, and radish (Mau & Tsuda).
+Weeds often serve as alternate hosts of crop pests. Some of the non-crop hosts that may serve as hosts are: Asystasia, Coccinia sp., castor bean, Euphorbia, ilima, Ipomoea spp., kikania-lai, Malva sp., Momordica sp., mountain apple, sowthistle, spurge, and Xanthium sp. There is no evidence to suggest that
+Text Len: 1389
+--------------------------------------------------------------------------------
+ the non-crop hosts that may serve as hosts are: Asystasia, Coccinia sp., castor bean, Euphorbia, ilima, Ipomoea spp., kikania-lai, Malva sp., Momordica sp., mountain apple, sowthistle, spurge, and Xanthium sp. There is no evidence to suggest that sweetpotato whitefly can reproduce on these hosts weeds.
+DISTRIBUTION
+There are more than 1000 whitefly species in the world. Twenty species occur in Hawaii; 12 of which have been accidentally introduced in the last 20 years. The sweetpotato whitefly (Bemisia tabaci) is one of the more pestiferous of the group. This pest was first described as Aleyrodes tabaci from tobacco in Greece in 1889. In Hawaii, it was first found at Pearl City, Oahu in October 1982. When discovered it had already been in Hawaii for a considerable time. Field surveys conducted at the time turned up infestations in leeward Oahu (Pearl City), central Oahu (Kalihi), and windward Oahu (Kailua). As of October 1990, it occurs on the islands of Hawaii, Kauai, Maui, Molokai, and Oahu.
+In addition to Hawaii, the sweetpotato whitefly has been reported as a serious pest of cultivated crops in tropical and subtropical areas including Africa, Asia, Central America, South America, and the West Indies where it is also known as the tobacco whitefly and cotton whitefly. In North America, it has been reported from Arizona, California, District of Columbia, Florida, Georgia, Maryland, Texas and Mexico (Cock, 1986).
+DAMAGE
+The sweetpotato whitefly is recognized as an important pest on many crops. Three types of damage may be caused by the sweetpotato whitefly: 1) direct
+Text Len: 1593
+--------------------------------------------------------------------------------
+ the tobacco whitefly and cotton whitefly. In North America, it has been reported from Arizona, California, District of Columbia, Florida, Georgia, Maryland, Texas and Mexico (Cock, 1986).
+DAMAGE
+The sweetpotato whitefly is recognized as an important pest on many crops. Three types of damage may be caused by the sweetpotato whitefly: 1) direct damage, 2) indirect damage and 3) virus transmission (Berlinger, 1986).
+Direct feeding damage is caused by the piercing and sucking sap from the foliage of plants. This feeding causes weakening and early wilting of the plant and reduces the plant growth rate and yield (Berlinger, 1986). It may also cause leaf chlorosis, leaf withering, premature dropping of leaves and plant death. Infestations of sweetpotato whitefly nymphs are associated with the occurrence of irregular ripening of tomatoes and silverleaf of squash.
+Observations of the damage caused by sweetpotato whitefly in Hawaii are discussed by Johnson et. al. (1992) and reiterated here. On head lettuce, stunting, yellowing and death of plants may occur with rapid increases sweetpotato whitefly populations. Surviving heads are often unmarketable and extensive damage in the field may prevent any harvest. Some oriental leafy vegetable crops experience stunting, yellowing, mottling and stem blanching during with large populations of this whitefly. Pumpkin and zucchini exhibit squash silverleaf disorder. Irregular ripening occurs on tomato.
+Indirect damage results by the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or yields it unmarketable (Berlinger, 1986).
+The third type of damage is caused by the vectoring of plant viruses by this insect. A
+Text Len: 1837
+--------------------------------------------------------------------------------
+ the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or yields it unmarketable (Berlinger, 1986).
+The third type of damage is caused by the vectoring of plant viruses by this insect. A small population of whiteflies is sufficient to cause considerable damage (Cohen and Berlinger, 1986). Plant viruses transmitted by whiteflies cause over 40 diseases of vegetable and fiber crops worldwide. Among the 1,100 recognized species of whiteflies in the world, only three are recognized as vectors of plant viruses. The sweetpotato whitefly is considered the most common and important whitefly vector of plant viruses worldwide. It is also the only known whitefly vector of viruses categorized in the geminivirus group.
+In the past decade, whitefly-transmitted plant viruses have increased in prevalence and distribution. The recent impact has been devastating with yield losses ranging from 20 to 100 percent, depending upon the crop, season, and prevalence of the whitefly. Some diseases associated with sweetpotato whitefly include: Lettuce necrotic yellows, irregular ripening of tomato, silver leaf of squash, cotton leaf curl, tobacco leaf curl, and cassava mosaic. None of the whitefly vectored viruses are known to occur in Hawaii.
+BIOLOGY
+Whiteflies have six life stages - the egg, four nymphal stages, and the adult. The development time of this insect from egg to adult may range from 15-70 days dependent upon temperature and plant host. Development occurs in temperatures ranging from 50 to 89.6ûF (10 to 32ûC). 80.6ûF (27ûC) appears to be the optimal temperature for development. Under control conditions on cotton, the pest completes its development in 17 days at 86ûF (30û
+Text Len: 1852
+--------------------------------------------------------------------------------
+ this insect from egg to adult may range from 15-70 days dependent upon temperature and plant host. Development occurs in temperatures ranging from 50 to 89.6ûF (10 to 32ûC). 80.6ûF (27ûC) appears to be the optimal temperature for development. Under control conditions on cotton, the pest completes its development in 17 days at 86ûF (30ûC) On the contentinal U.S. development from egg to adult under field conditions varies with the season; development variesfrom 25 to 50 days. Very little seasonal difference occurs in Hawaii. Overlapping whitefly generations occur throughout the year.
+EGGS
+Female whiteflies deposit pear-shaped eggs into the mesophyll or inner tissue of the leaf from the lower surface. Eggs are attached to the leaf by a stalk-like process. Eggs are white when first laid, and become brown prior to hatching. They are generally laid on the underside surface of the younger, upper leaves of the plant. Females lay from 28-300 eggs depending on host and temperature. On cotton, a female lays 81 eggs, on average, at 80.06û F (26.7û C) and 72 eggs at 89.96û F (32.2û C) (Butler et al., 1983). Egg densities can be as high as 1,200 eggs per square inch.
+Under laboratory conditions on cotton leaves, eggs hatched in 5 days at 90.5û F (32.5ûC) and 22.5 days at 62.1û F (16.7û C) (Butler et al., 1983). Eggs did not hatch in temperatures above 96.8û F (36û C) in the same study. Similar incubations have been reported on sweet potato and potato (El-Helay, et .al., 1971; Azab et. al., 1971) and eggplant (Avidov, 1956) (Butler
+Text Len: 1543
+--------------------------------------------------------------------------------
+16.7û C) (Butler et al., 1983). Eggs did not hatch in temperatures above 96.8û F (36û C) in the same study. Similar incubations have been reported on sweet potato and potato (El-Helay, et .al., 1971; Azab et. al., 1971) and eggplant (Avidov, 1956) (Butler, et. al., 1983).
+Low temperatures increase mortality. However, humidity is not a factor in egg mortality and egg incubation periods.
+NYMPHS
+The first nymphal stage is called crawlers and the last stage is often referred to as the pupa. After hatching the crawlers move a short distance and settle to feed. Once settled, the subsequent three nymphal stages are scale-like and sedentary. Nymphs are creamy white to light green and oval in outline. The total nymphal period lasts about 2-4 weeks.
+ADULTS
+Adult sweetpotato whiteflies are small, approximately 1/25 inch in length, with a pale yellow body and two pairs of white wings and covered with a white waxy powder. At rest, wings are held in an inverted V position. Their compound eyes are red.
+Adults usually emerge from their pupal cases in the morning hours and may copulate a few hours later. Oviposition occurs from 1 to 8 days after mating. Adult life span ranges from 6-55 days dependent on temperature. Females live only 10-15 days under southern continental U.S. summer conditions, but can live several months during the winter.
+In this species, reproduction can occur with or without copulation. Unmated females can reproduce by parthenogenesis in which the females produce only male progeny. Females lay 80 to more than 300 eggs in their lifetime. The plant host reportedly plays an important role in female fecundity.
+This species is similar in appearance with other white
+Text Len: 1692
+--------------------------------------------------------------------------------
+, but can live several months during the winter.
+In this species, reproduction can occur with or without copulation. Unmated females can reproduce by parthenogenesis in which the females produce only male progeny. Females lay 80 to more than 300 eggs in their lifetime. The plant host reportedly plays an important role in female fecundity.
+This species is similar in appearance with other whitefly species.
+BEHAVIOR
+Adult females oviposit preferentially on young foliage and crawlers do not move any significant distance from their eclosion site thus, immature stages tend to be distributed vertically on the plant with older stages found on progressively older leaves.
+Sweetpotato whiteflies are attracted to the color yellow and are believed to not react to odors (Berlinger, 1986).
+In relation to its host plant, this whitefly is mainly affected by the external, physical characteristics of the leaf surface (hairiness, leaf shape, stickiness) and the internal, chemical characteristics of the leaf (pH or leaf sap) (Berlinger, 1986). The sweetpotato whitefly has a preference for hairy-leafed varieties of cotton and less of a preference for glabrous-leafed varieties (Butler and Wilson, 1984).
+Whiteflies have two different flight patterns: short-distance and long-distance flights (Berlinger, 1986). Short-distance flights remain within the plant canopy and the insect travels from plant to plant within a field. These flights are less then 15 feet in distance and mainly involve the flight from the lower leaves, where the adults emerge from, to the upper leaves of the plant where they prefer to lay eggs (Berlinger, 1986). The flight pattern itself is in the form of a loop. Long-distance flights involve the insect being caught in an air current and drifting passively. These drifting flights may carry the insect several hundred feet high and for distances of several miles. This type of flight pattern increases the dispers
+Text Len: 1936
+--------------------------------------------------------------------------------
+ where the adults emerge from, to the upper leaves of the plant where they prefer to lay eggs (Berlinger, 1986). The flight pattern itself is in the form of a loop. Long-distance flights involve the insect being caught in an air current and drifting passively. These drifting flights may carry the insect several hundred feet high and for distances of several miles. This type of flight pattern increases the dispersal of the insect.
+Short-range movements within and between cultivated and weed host plants are known to take place regularly. There is also evidence of long-range whitefly migration. However, the extent to which migration results in colonization of a new habitat by this whitefly has not been satisfactorily established. The direction of sweetpotato whitefly flight is primarily dictated by the wind. They land on particular plants mostly by chance, electing to stay on suitable hosts and move away from those that are not.
+MANAGEMENT
+High reproductive rate and multiple host sequences provide optimal conditions for sweetpotato whitefly population development. The varied habitats, seasonal population development and intra and inter-crop and wild host movement present an extremely complex and difficult challenge requiring new and innovative approached for formulating control and suppression methodology.
+There is really no easy way of controlling the sweetpotato whitefly. Egg mortality is usually minimal. Weather and predation may cause high mortality rates during the crawler and first nymphal stages, but has only moderate effects on the later nymphal stages. In the past adults were easily killed with insecticides but pesticide resistance in sweetpotato whitefly populations is a common problem faced by many growers today. Sweetpotato whitefly has become resistant to chemical insecticides quite rapidly in other parts of the world, and the wisdom of relying only on chemical insecticides is questioned. Moreover, regular insecticide applications can result in resurgence of other pests.
+We believe that a combination of cultural practices and chemical application would provide Hawaii's growers the best chance of controlling this
+Text Len: 2159
+--------------------------------------------------------------------------------
+ a common problem faced by many growers today. Sweetpotato whitefly has become resistant to chemical insecticides quite rapidly in other parts of the world, and the wisdom of relying only on chemical insecticides is questioned. Moreover, regular insecticide applications can result in resurgence of other pests.
+We believe that a combination of cultural practices and chemical application would provide Hawaii's growers the best chance of controlling this pest. The use of sound cultural practices that may avoid, delay, or lessen the severity of the sweetpotato whitefly infestation is a good foundation to begin with. Careful selection of insecticides can help regulate sweetpotato whitefly populations to reduce losses not due to pathogenic organisms. Little can be done to reduce losses due to virus diseases, but we are fortunate that none have been introduced.
+Cultural Control
+Barriers such as row covers, and repellent mulches that effect phototactic responses of whiteflies, have shown some promise in delaying or reducing disease incidence, but are not useful when whitefly populations and virus innoculum levels are high. In a study with tomatoes in Israel soil mulching with yellow polyethylene sheets delayed the spread of tomato yellow leaf curl virus for 20 days against a control crop without mulching (Cohen and Melamed-Madjar, 1978).
+Control of weeds adjacent to cultivated fields, the use of trap crops, and implementation of crop free periods may be effective in reducing vector populations in certain cropping systems.
+Intercropping can be an alternative method for the reduction of pests in certain situations. Beneficial insects are often increased and their activity enhanced on intercrops. Recently, intercroppings of tomatoes have been shown to be beneficial. Various intercropping systems have shown to contribute to the reduction of whitefly populations. Cucumber planted in alternating rows 30 days before tomato delayed infection of the tomato with the whitefly-vectored tomato yellow leaf curl virus.
+Host Plant Resisitance
+Host
+Text Len: 2059
+--------------------------------------------------------------------------------
+ often increased and their activity enhanced on intercrops. Recently, intercroppings of tomatoes have been shown to be beneficial. Various intercropping systems have shown to contribute to the reduction of whitefly populations. Cucumber planted in alternating rows 30 days before tomato delayed infection of the tomato with the whitefly-vectored tomato yellow leaf curl virus.
+Host Plant Resisitance
+Host plant resistance has potential as an integrated pest management component for suppression of sweetpotato whitefly populations (Berlinger, 1986) and may provide a more bio-rational approach for reducing the impact of sweetpotato whitefly transmitted viruses and plant disorders than reliance on pesticides. A trial conducted in Sudan on the susceptibility of eight tomato varieties for sweetpotato whitefly infestation reported low numbers of whitefly eggs, nymphs and adults on the tomato varieties Red Cloud and Strain B (Kisha, 1984).
+Biological Control -- Parasites
+Several parasites attack the sweetpotato whitefly. Large efforts are now underway to locate appropriate biological control agents, such as parasites, throughout the US and elsewhere (Polaszek, et. al., 1992). There are 19 previously described parasites belonging to the Encarsia and Eretmocerus genuses, as well as many more yet undescribed, that attack the sweetpotato whitefly. A key to the known Encarsia species is provided by Polaszek, et. al. (1992).
+Although the outlook for biological control through natural enemies is promising, several situations limit the effectiveness of predators and parasites of the sweet potato whitefly. These instances were discussed by Van Lenteren (1983) and outlined by Gerling (1986). Such situations include times the host plant has zero tolerance for damage and virus transmission, unfavorable climatic conditions, the lack of selective insecticides or of proper natural enemies and that some crops are excellent hosts for this whitefly and their development is too rapid for the parasite to gain control
+Text Len: 2020
+--------------------------------------------------------------------------------
+ the sweet potato whitefly. These instances were discussed by Van Lenteren (1983) and outlined by Gerling (1986). Such situations include times the host plant has zero tolerance for damage and virus transmission, unfavorable climatic conditions, the lack of selective insecticides or of proper natural enemies and that some crops are excellent hosts for this whitefly and their development is too rapid for the parasite to gain control.
+Biological Control -- Predators
+There are many predators that will attack whiteflies. These include various true bugs (Hemiptera: especially Anthocoridae and predatory Miridae), beetles (Coleoptera: Coccinellidae), lacewings (Neuroptera: Chrysopidae, Hemerobiidae, Coniopterygidae), flies (Diptera: Dolichopodidae, Syrphidae, Anthomyoodae), ants (Hymenoptera: Formicidae), spiders (Araneida) and mites (Acarina: Phytoseiidae, Stigmaeidae). Some of these are opportunistic predators of adult whitefly, others are general feeders of leaf-feeding Homoptera like whiteflies, still others are specific predators of whiteflies. Very little information is available on the biology and impact of most predators of sweetpotato whitefly, especially in field crops.
+Biological Control -- Fungi:
+Although many fungi have been found in association with
+Bemisia, only Verticillium lecanii, Paecilomyces fumosoroseus, Peacilomyces farinosus, Aschersonia aleyrodis, and Beauveria bassiana have been demonstrated to be pathogenic. The extent of control by these fungal pathogens is unknown.
+Suggested Practices
+The following advice from Florida scientist and extension workers is sound and should be heeded (Price, Schuster, and Kring, 1988). We recommended
+Text Len: 1677
+--------------------------------------------------------------------------------
+, Peacilomyces farinosus, Aschersonia aleyrodis, and Beauveria bassiana have been demonstrated to be pathogenic. The extent of control by these fungal pathogens is unknown.
+Suggested Practices
+The following advice from Florida scientist and extension workers is sound and should be heeded (Price, Schuster, and Kring, 1988). We recommended that growers pay special attention to the following cultural practices.
+* Sequential plantings - Do not establish new sweetpotato whitefly affected crops near fields that are presently experiencing sweetpotato whitefly problems. Doing so would lead to early establishment of the pest and can lead to serious losses. Because of the close proximity of Hawaiian farms, cooperation among growers is important.
+* Alternate hosts of Sweetpotato whitefly - Weed and volunteer crop hosts should be removed from the field well before new plantings are established. Again, cooperation among growers is essential.
+* Crop transplants - Crop infestations can begin from infested transplants. Take extra care in controlling sweetpotato whitefly in seedling trays before transporting them to an uninfested field.
+* Post-harvest practices - Whiteflies continue to develop on plants after crops have been abandoned. This occurs even if irrigation lines have been disconnected. It is a good practice to spray and plow the plants immediately after last harvest.
+CHEMICAL CONTROL
+Conventional chemical control of the sweetpotato whitefly is difficult to achieve because of the distribution of the immature forms primarily on the underside of the leaves, with older larvae and pupae located lower in the plant canopy. The diversity of the cultivated and weed host plants attacked contribute to the source of infestation. A number of insecticides have effectively controlled this pest in the past but resistance has developed rapidly. Several new materials, including systematics, insect growth regulators and new pyrethroid insecticides, appear promising, however, the resistance phenomena suggests
+Text Len: 2017
+--------------------------------------------------------------------------------
+ leaves, with older larvae and pupae located lower in the plant canopy. The diversity of the cultivated and weed host plants attacked contribute to the source of infestation. A number of insecticides have effectively controlled this pest in the past but resistance has developed rapidly. Several new materials, including systematics, insect growth regulators and new pyrethroid insecticides, appear promising, however, the resistance phenomena suggests that their efficacy will be of a limited duration. Current reliance on chemical control must be considered to be a temporary measure until a satisfactory IPM program can be developed.
+Organic and inorganic materials with completely different modes of action than conventional insecticides have been identified as effective against the sweetpotato whitefly. Oils from other sources have been used as insecticides, acaricides or as additives. They are considered to be physical poisons that interfere with respiration in arthropods, although some plant oils may contain toxicants. Both petroleum based and plant derived oils have been reported efficacious against all stages. Soaps and detergents, either synthetic or naturally derived are active against all life stages except eggs. Botanical extracts such as Margosan-O (Azidirachtin) and glandular secretions from species of Nicotiana (tobacco) are highly toxic to nymphs. Repellence has also been reported using Nicotiana extracts.
+Many currently registered pesticides are very detrimental to natural enemies. Insecticidal soaps and oils, and pesticides containing neem are a few compounds that allow some parasite and predator activity.
+There are no listings for carbaryl, endosulfan, kinoprene, malathion, methomyl, oxamyl, and telstar as of April 2007.
+An additional difficulty for chemical control is caused by the behavior of this insect since adult feeding, mating and oviposition and larval development occur on the lower surfaces of leaves (Coudriet, et. al., 1985).
+University
+Text Len: 1990
+--------------------------------------------------------------------------------
+ carbaryl, endosulfan, kinoprene, malathion, methomyl, oxamyl, and telstar as of April 2007.
+An additional difficulty for chemical control is caused by the behavior of this insect since adult feeding, mating and oviposition and larval development occur on the lower surfaces of leaves (Coudriet, et. al., 1985).
+University of Florida entomologists have conducted extensive evaluations of insecticides, and we believe that their results are applicable to sweetpotato whitefly in Hawaii (Schuster, Price, and Kring 1988). Knowledge of the following points is crucial to developing a pesticide program to control sweetpotato whitefly.
+* The label is the law - It is illegal to use pesticides on crops which are not listed on the product label.
+* Heed application and safety directions - Thorough reading of the label is required before applying insecticides. The label provides applicator safety, mixing and application directions, and other important information.
+* Spray coverage is important - Insecticides that kill by contact with the pest must be applied carefully. Thorough coverage of the lower surface of leaves is essential to achieve control. Spray droplets must contact the immobile nymphal stages to kill them.
+* Alternate insecticide classes - We expect rapid selection of resistance to pesticides by sweetpotato whitefly. In order to avoid or reduce the selection of insecticide resistance in sweetpotato whitefly, insecticides of different classes should be alternated. Refer to Table 2 for assistant in identifying insecticide classes.
+* Stage specific insecticidal activity - While some insecticides are effective against both nymphs and adults, there are others that are more effective against specific life stages. There are no insecticides that are effective against the eggs. Hence, it is important to survey the crop to determine the predominant life stages and to apply the appropriate insecticides or insecticide combinations. We provide the results of Florida tests to
+Text Len: 1991
+--------------------------------------------------------------------------------
+* Stage specific insecticidal activity - While some insecticides are effective against both nymphs and adults, there are others that are more effective against specific life stages. There are no insecticides that are effective against the eggs. Hence, it is important to survey the crop to determine the predominant life stages and to apply the appropriate insecticides or insecticide combinations. We provide the results of Florida tests to help in the selection of appropriate insecticides.
+* Integrate chemical tactics with cultural practices - Do not expect to control sweetpotato whitefly with only insecticides. You can expect difficulty in controlling the pest if you persist in using only chemical tactics.
+* Insecticides also kill beneficial organisms - It is important to remember that frequent pesticide applications can cause substantial harm to naturally occurring beneficial insects in mites. These organisms are considerably smaller than the pest, and are usually quite sensitive to pesticides. For example, by applying frequent insecticide applications to tomatoes, leafminer parasitoids can be suppressed and you could trade the whitefly problem for a leafminer problem.
+REFERENCES
+Avidov, Z. 1956. Bionomics of the tobacco whitefly (Bemisia tabaci Gennad.) in Israel. Katvim. 7: 25-41.
+Azab, A. K., M. M. Megahed and D. H. El-Mirsawi. 1971. On the Biology of Bemisia tabaci (Genn.). Societe Entomologie D'Egypte Bulletin. 55: 305-315.
+Berlinger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Butler, G. D. Jr., T. J. Henneberry and T. E. Clayton. 1983. Bemisia tabaci (Homoptera: Aleyrodidae): Development, Oviposition, and
+Text Len: 1686
+--------------------------------------------------------------------------------
+linger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Butler, G. D. Jr., T. J. Henneberry and T. E. Clayton. 1983. Bemisia tabaci (Homoptera: Aleyrodidae): Development, Oviposition, and Longevity in Relation to Temperature. Ann. Entomol. Soc. America. 76(2): 310-313.
+Butler, G. D. Jr., T. J. Henneberry and W. D. Hutchison. 1989. Biology, Sampling and Population Dynamics of Bemisia tabaci. In Biology and population Dynamics of Invertebrate Crop Pests, G. E. Russell (Ed). Intercept Limited, Andover, Hampshire, UK. p. 83-111.
+Butler, G. D. Jr. and F. D. Wilson. 1984. Activity of Adult Whiteflies (Homoptera: Aleyrodidae) Within Plantings of Different Cotton Strains and Cultivars as Determined by Sticky-Trap Catches. J. Econ. Ent. 77(5): 1137-1140.
+Cock, M. J. W. Ed. 1986. Bemisia tabaci, A Literature Survey on the Cotton Whitefly with an Annotated Bibliography. Food and Agriculture Organization of the U.N., C.A.B. Int. Inst. Biol. Cont. 121 pages.
+Cohen, S. and M. J. Berlinger. 1986. Transmission and Cultural Control of Whitefly-borne Viruses. Agric. Ecosystems Environ. 17: 89-97.
+Cohen, S. and V. Melamed-Madjar. 1978. Prevention by soil mulching of the spread of tomato yellow leaf curl virus transmitted by B
+Text Len: 1269
+--------------------------------------------------------------------------------
+. 121 pages.
+Cohen, S. and M. J. Berlinger. 1986. Transmission and Cultural Control of Whitefly-borne Viruses. Agric. Ecosystems Environ. 17: 89-97.
+Cohen, S. and V. Melamed-Madjar. 1978. Prevention by soil mulching of the spread of tomato yellow leaf curl virus transmitted by Bemisia tabaci (Gennadius) (Hemiptera: Aleyrodidae) in Israel. Bull. Ent. Res. 68(3): 465-470.
+Coudriet, D. L., N. Prabhaker, A. N. Kishaba, and D.E. Meyerdirk. 1985. Variation in Developmental Rate on Different Hosts and Overwintering of the Sweetpotato Whitefly, Bemisia tabaci (Homoptera: Aleyrodidae). Environ. Ent. 14: 516-519.
+El-Helaly, M. S., A. Y. El-Shazil, and F. H. El-Gayar. 1971. Biological studies on Bemisia tabaci Genn. (Homoptera: Aleyrodidae) attacking cotton in the coastal plain of Israel. Bull. Entomol. Res. 70: 213-219.
+Faust, R. M., ed. 1992. Conference Report and 5-Year National Research and Action Plan for Development of Management and Control Methodology for the Sweetpotato Whitefly, Houston, Texas, February 18-21, 1992. U.S. Department of Agriculture, Agricultural Research Service, ARS-107. 165 pages.
+Gerling, D. 1986. Natural Enemies of Bemisia tabaci, Biological Characteristics and Potential as Biological Control Agents: A Review. Agriculture, Ecosystems, and Environment. 17: 99-110.
+Greathead, A. H
+Text Len: 1317
+--------------------------------------------------------------------------------
+, February 18-21, 1992. U.S. Department of Agriculture, Agricultural Research Service, ARS-107. 165 pages.
+Gerling, D. 1986. Natural Enemies of Bemisia tabaci, Biological Characteristics and Potential as Biological Control Agents: A Review. Agriculture, Ecosystems, and Environment. 17: 99-110.
+Greathead, A. H. 1986. Host Plants. Chapter 3, pp. 17-25. In: Bemisia tabaci - a literature survey on the cotton whitefly with an annotated bibliography (Ed. M.J.W. Cock). CAB International Institute of Biological Control, Ascot, UK. 121 pages.
+Hamon, A. B. and V. Salguero. 1987. Bemisia tabaci, sweetpotato whitefly, in Florida (Homoptera: Aleyrodidae: Aleyrodinae). Entomology Circular No. 292. Fla. Dept. Agric. & Consumer Serv., Division of Plant Industry.
+Hill, D. S. 1983. Bemisia tabaci (Genn.). pp. 198. In Agricultural Insect Pests of the Tropics and Their Control, 2nd Edition. Cambridge University Press, Cambridge, London, New York, New Rochelle, Melbourne, Sydney. 746 pages.
+Johnson, M. W., D.E. Ullman, B.E. Tabashnik, H. Costa and A. Omer. 1992. Sweetpotato Whitefly Information from Hawaii. (Given to me by Amir, get reference to include the appropriate information, he did not want this paper cited)
+Kisha, J. S. A. 1984. Whitefly, Bemisia tabaci, Infestations on Tomato Varieties and a Wild Lycopersicon Species. Ann. of Appl. Bio. 104 Supplement, Tests of Agrichemicals and Cultivars (
+Text Len: 1401
+--------------------------------------------------------------------------------
+ (Given to me by Amir, get reference to include the appropriate information, he did not want this paper cited)
+Kisha, J. S. A. 1984. Whitefly, Bemisia tabaci, Infestations on Tomato Varieties and a Wild Lycopersicon Species. Ann. of Appl. Bio. 104 Supplement, Tests of Agrichemicals and Cultivars (5): 124-125.
+Lopez-Avila, A. 1986. Taxonomy and Biology P3. In: Bemisia tabaci, a Literature Survey on the Cotton Whitefly with an Annotated Bibliography. Food and Agriculture Organization of the U.N., C.A.B. Int. Inst. Biol. Cont. 121 pages.
+Mau, Ronald F. L. and Dick Tsuda. 1991. Sweetpotato whitefly Bemisia tabaci (Gennadius) (Homoptera: Aleyrodidae).
+Mound L. A. and S. H. Halsey. 1978. Bemisia tabaci (Gennadius). pp. 118-124. In Whitefly of the World, A Systematic Catalog of the Aleyrodidae (Homoptera) with Host Plant and Natural Enemy Data. British Museum (Natural History ) and John Wiley & Sons, Chichester, New York, Brisbane, Toronto. 340 pages.
+Polaszek, A., G. A. Evans and F. D. Bennett. 1992. Encarsia parasitoids of Bemisia tabaci (Hymenoptera: Aphelinidae, Homoptera: Aleyrodidae): a preliminary guide to identification. Bull. Entomol. Res. 82: 375-392.
+Price, J. F., D. J. Schuster and J. B. Kring. 1988. Management of the sweetpotato whitefly on tomato crops in South Florida.
+Text Len: 1297
+--------------------------------------------------------------------------------
+ tabaci (Hymenoptera: Aphelinidae, Homoptera: Aleyrodidae): a preliminary guide to identification. Bull. Entomol. Res. 82: 375-392.
+Price, J. F., D. J. Schuster and J. B. Kring. 1988. Management of the sweetpotato whitefly on tomato crops in South Florida. University of Florida, Gulf Coast Research & Education Center. Bradenton GCREC Research Report BRA 1988-15.
+  SEP/1991 revised DEC/1992.
+  B-TABACI
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 464
+--------------------------------------------------------------------------------

@@ -1,0 +1,338 @@
+ 
+ 
+ 
+      
+        
+    
+     
+   
+   
+   
+     
+    
+     
+      
+ 
+       
+             
+            
+           
+    
+               
+                   
+          
+         
+                   
+                  
+                      
+   
+ 
+                 
+           
+ 
+                   
+     
+            
+              
+          
+           
+              
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service
+Text Len: 482
+--------------------------------------------------------------------------------
+             
+          
+           
+              
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Clostridium tetani Toxin 
+2. Strain or Source: Not applicable 
+3. Lot Number: IRP 664 
+4. Fill Date: October 31, 2018 
+5. Expiration Date: February 28, 2029 
+Precautions: Accidental parenteral inoculation and ingestion of the toxin are the primary 
+hazards associated with this reagent. It is uncertain if tetanus toxin can be absorbed 
+through mucous membranes; consequently, the hazards associated with aerosols and 
+droplets remain unclear. The administration of an adult diphtheria-tetanus toxoid at 10-
+year intervals reduces the risk of toxin exposures to laboratory personnel and is highly 
+recommended. 
+6. Intended Use: Use IRP 664 to coat microtiter plates for the indirect enzyme-linked 
+immunosorbent assay (ELISA) as described in SAM 217, and for the comparative toxin-
+antitoxin neutralization test in guinea pigs as described in SAM 206. 
+7. Instructions for Use: 
+9CFR 113.217 Tetanus Toxoid: To conduct the ELISA, coat each well of the microtiter plate 
+with 100 µL of IRP 664 diluted 1:12 by adding 1 mL IRP 664 + 11 mL
+Text Len: 1282
+--------------------------------------------------------------------------------
+
+antitoxin neutralization test in guinea pigs as described in SAM 206. 
+7. Instructions for Use: 
+9CFR 113.217 Tetanus Toxoid: To conduct the ELISA, coat each well of the microtiter plate 
+with 100 µL of IRP 664 diluted 1:12 by adding 1 mL IRP 664 + 11 mL antigen coating buffer 
+(ACB) or 2 mL IRP 664 + 22 mL ACB (for two plates). 
+9CFR 113.451 Tetanus Antitoxin: To conduct comparative toxin-antitoxin neutralization tests 
+in guinea pigs at the 0.10 Antitoxin Unit per mL level, dilute IRP 664 to 1:625 in 1/15 M 
+phosphate buffered saline, pH 7.4, with 0.2% gelatin (PBS w/ gelatin) by adding 1 mL IRP 664 + 
+9 mL PBS w/ gelatin (1:10); 2 mL (1:10) + 18 mL PBS w/ gelatin; 4 mL (1:100) + 21 mL PBS 
+w/ gelatin. 
+8. Test of Reagent: Determination of the test dose of toxin – Titrations were performed to 
+determine the optimum toxin concentration for adsorption to 96-well microtiter plates. 
+Sterility Test – The toxin was tested for sterility and found to be free of viable bacteria and fungi 
+according to 9CFR 113.26. 
+CVB-DAT-5123.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+      
+        
+           
+Text Len: 1156
+--------------------------------------------------------------------------------
+CFR 113.26. 
+CVB-DAT-5123.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+      
+        
+            
+    
+ 
+         
+           
+     
+           
+                    
+    
+             
+             
+                 
+           
+            
+             
+             
+ 
+ 
+   
+              
+  
+             
+CONTROLLED//PROPIN//BASIC 
+9. Container Size, Type, Weight, or Volume: 4-mL glass screw-cap vials containing 
+2.3 mL of toxin. 
+10. Storage Conditions: Store IRP 664 at -70°C or lower. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100 or FAX (515) 337-7673
+Text Len: 662
+--------------------------------------------------------------------------------
+: 4-mL glass screw-cap vials containing 
+2.3 mL of toxin. 
+10. Storage Conditions: Store IRP 664 at -70°C or lower. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100 or FAX (515) 337-7673. 
+12. Origin and Passage History: Clostridium tetani culture 7010 obtained from Burns Bio-
+tech was used to produce IRP 664. The history of the culture prior to being sent to the Center for 
+Veterinary Biologics is unknown. 
+13. Method of Preparation: The culture was grown in 10-liter fermentor vessels containing 
+Modified Mueller & Miller Medium. The culture incubated at 35°-36°C for 110-120 hours, 
+harvested, then centrifuged at 10,000 x g in a rotor chamber at 2°-7°C for 45 minutes. The 
+supernatant was passed through a Pall VacuCap® 90 PF filter unit containing 0.8/0.2-µm 
+Supor® membranes. The filtrate was concentrated using a Millipore pellicon cassette system 
+containing a 10,000 NMWL PTGC00005 filter. The concentrated material retained by the filter 
+was passed through a Pall VacuCap® 90 PF filter unit containing 0.8/0.2-µm Supor® 
+membranes. 
+14. Other: None 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: mailto: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+
+Text Len: 1335
+--------------------------------------------------------------------------------
+ Supor® 
+membranes. 
+14. Other: None 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: mailto: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-5123.03 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 351
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+      
+        
+    
+     
+   
+   
+   
+     
+    
+     
+      
+ 
+       
+             
+            
+           
+    
+               
+                   
+          
+         
+                   
+                  
+                      
+   
+ 
+                 
+           
+ 
+                   
+     
+            
+              
+          
+           
+              
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service
+Text Len: 482
+--------------------------------------------------------------------------------
+             
+          
+           
+              
+CONTROLLED//PROPIN//BASIC 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+Center for Veterinary Biologics 
+P. O. Box 844 
+Ames, IA 50010 
+1. Reagent Name: Clostridium tetani Toxin 
+2. Strain or Source: Not applicable 
+3. Lot Number: IRP 664 
+4. Fill Date: October 31, 2018 
+5. Expiration Date: February 28, 2029 
+Precautions: Accidental parenteral inoculation and ingestion of the toxin are the primary 
+hazards associated with this reagent. It is uncertain if tetanus toxin can be absorbed 
+through mucous membranes; consequently, the hazards associated with aerosols and 
+droplets remain unclear. The administration of an adult diphtheria-tetanus toxoid at 10-
+year intervals reduces the risk of toxin exposures to laboratory personnel and is highly 
+recommended. 
+6. Intended Use: Use IRP 664 to coat microtiter plates for the indirect enzyme-linked 
+immunosorbent assay (ELISA) as described in SAM 217, and for the comparative toxin-
+antitoxin neutralization test in guinea pigs as described in SAM 206. 
+7. Instructions for Use: 
+9CFR 113.217 Tetanus Toxoid: To conduct the ELISA, coat each well of the microtiter plate 
+with 100 µL of IRP 664 diluted 1:12 by adding 1 mL IRP 664 + 11 mL
+Text Len: 1282
+--------------------------------------------------------------------------------
+
+antitoxin neutralization test in guinea pigs as described in SAM 206. 
+7. Instructions for Use: 
+9CFR 113.217 Tetanus Toxoid: To conduct the ELISA, coat each well of the microtiter plate 
+with 100 µL of IRP 664 diluted 1:12 by adding 1 mL IRP 664 + 11 mL antigen coating buffer 
+(ACB) or 2 mL IRP 664 + 22 mL ACB (for two plates). 
+9CFR 113.451 Tetanus Antitoxin: To conduct comparative toxin-antitoxin neutralization tests 
+in guinea pigs at the 0.10 Antitoxin Unit per mL level, dilute IRP 664 to 1:625 in 1/15 M 
+phosphate buffered saline, pH 7.4, with 0.2% gelatin (PBS w/ gelatin) by adding 1 mL IRP 664 + 
+9 mL PBS w/ gelatin (1:10); 2 mL (1:10) + 18 mL PBS w/ gelatin; 4 mL (1:100) + 21 mL PBS 
+w/ gelatin. 
+8. Test of Reagent: Determination of the test dose of toxin – Titrations were performed to 
+determine the optimum toxin concentration for adsorption to 96-well microtiter plates. 
+Sterility Test – The toxin was tested for sterility and found to be free of viable bacteria and fungi 
+according to 9CFR 113.26. 
+CVB-DAT-5123.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+      
+        
+           
+Text Len: 1156
+--------------------------------------------------------------------------------
+CFR 113.26. 
+CVB-DAT-5123.03 Page 1 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+      
+        
+            
+    
+ 
+         
+           
+     
+           
+                    
+    
+             
+             
+                 
+           
+            
+             
+             
+ 
+ 
+   
+              
+  
+             
+CONTROLLED//PROPIN//BASIC 
+9. Container Size, Type, Weight, or Volume: 4-mL glass screw-cap vials containing 
+2.3 mL of toxin. 
+10. Storage Conditions: Store IRP 664 at -70°C or lower. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100 or FAX (515) 337-7673
+Text Len: 662
+--------------------------------------------------------------------------------
+: 4-mL glass screw-cap vials containing 
+2.3 mL of toxin. 
+10. Storage Conditions: Store IRP 664 at -70°C or lower. 
+11. CVB Technical Contact: Bacteriology Section, Center for Veterinary Biologics, (515) 
+337-6100 or FAX (515) 337-7673. 
+12. Origin and Passage History: Clostridium tetani culture 7010 obtained from Burns Bio-
+tech was used to produce IRP 664. The history of the culture prior to being sent to the Center for 
+Veterinary Biologics is unknown. 
+13. Method of Preparation: The culture was grown in 10-liter fermentor vessels containing 
+Modified Mueller & Miller Medium. The culture incubated at 35°-36°C for 110-120 hours, 
+harvested, then centrifuged at 10,000 x g in a rotor chamber at 2°-7°C for 45 minutes. The 
+supernatant was passed through a Pall VacuCap® 90 PF filter unit containing 0.8/0.2-µm 
+Supor® membranes. The filtrate was concentrated using a Millipore pellicon cassette system 
+containing a 10,000 NMWL PTGC00005 filter. The concentrated material retained by the filter 
+was passed through a Pall VacuCap® 90 PF filter unit containing 0.8/0.2-µm Supor® 
+membranes. 
+14. Other: None 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: mailto: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+
+Text Len: 1335
+--------------------------------------------------------------------------------
+ Supor® 
+membranes. 
+14. Other: None 
+Reagent orders and feedback should be sent including phone number to the following email 
+address: mailto: VS.DB.CVB.Reagent.Requests@usda.gov 
+Reagent orders forms (APHIS Form 2018) can be found on the CVB website. 
+CVB-DAT-5123.03 Page 2 of 2 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 351
+--------------------------------------------------------------------------------

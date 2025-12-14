@@ -1,0 +1,376 @@
+According to the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respo nd to, a collection of information unless it displays a valid OMB control number. The valid OMB control 
+number for this information  collection is 0579-0036. The time required to complete this information collection is estimated to average 1 hour per response, including the ti me for reviewing instructions, searching existing data sources, 
+gathering and maintaining the data needed, and completing and reviewing the collection of information. 
+The information in this form is required 
+by law (7 U.S.C. 2131-2159).  Failure 
+to maintain this information can result 
+in suspension or revocation of license. 
+OMB APPROVED 
+0579-0036 
+UNITED STATES DEPARTMENT OF AGRICULTURE 
+ANIMAL AND PLANT HEALTH INSPECTION SERVICE 
+RECORD OF ANIMALS ON HAND 
+(Other than Dogs and Cats) 
+1.  USDA CERTIFICATE NUMBER 2.  NAME AND ADDRESS OF DEALER 3.  DATES COVERED 4.  PAGE NUMBER 
+FROM (MM DD YY) TO (MM, DD, YY) 
+   AGE - SEX ARRIVAL AT PREMISES DISPOSITION 
+ANIMAL 
+IDENTIFICATION 
+NUMBER 
+INDIVIDUAL 
+IDENTIFICATION 
+TATTOOS OR TAG 
+NUMBERS 
+(if applicable) 
+SPECIES NUMBER YOUNG NUMBER ADULT INVOICE NUMBER ARRIVAL DATE 
+(MM, DD, YY) 
+FROM 
+(Name and Address) 
+(Give license number if licensee) 
+DATE
+Text Len: 1319
+--------------------------------------------------------------------------------
+
+IDENTIFICATION 
+TATTOOS OR TAG 
+NUMBERS 
+(if applicable) 
+SPECIES NUMBER YOUNG NUMBER ADULT INVOICE NUMBER ARRIVAL DATE 
+(MM, DD, YY) 
+FROM 
+(Name and Address) 
+(Give license number if licensee) 
+DATE SOLD, 
+EXCHANGED, OR 
+DONATED 
+(MM, DD, YY) 
+DATE DIED 
+(MM, DD, YY) 
+A B C D E F G H I 
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+APHIS FORM 7019 
+NOV 2020
+Privacy Act Notice 
+Authority: The Animal Welfare Act (AWA), 7 U.S.C. 2131 et seq., and the regulations issued thereunder, 9 CFR parts 1 through 4; and the Horse 
+Protection Act (HPA), 15 U.S.C. 1821 et seq., and the regulations issued thereunder, 9 CFR parts 11 and 12. 
+Purpose: This system supports APHIS’ administrative activities and
+Text Len: 845
+--------------------------------------------------------------------------------
+ 7 U.S.C. 2131 et seq., and the regulations issued thereunder, 9 CFR parts 1 through 4; and the Horse 
+Protection Act (HPA), 15 U.S.C. 1821 et seq., and the regulations issued thereunder, 9 CFR parts 11 and 12. 
+Purpose: This system supports APHIS’ administrative activities and enforcement of the AWA and HPA. 
+Routine Uses: 
+In addition to those disclosures generally permitted under 5 U.S.C. 552a (b) of the Privacy Act, records maintained in the system may be disclosed outside 
+USDA as follows: 
+(1) APHIS may disclose the name, city, State, license or registration type and/or status, or change of a license or registrant to any person pursuant to 9 CFR 
+2.38(c) and 2.127; 
+(2) APHIS may disclose annual reports submitted to APHIS by licensees and research facilities to any person pursuant to 9 CFR 2.7 and 2.36; 
+(3) APHIS may disclose inspection reports and other regulatory correspondence issued to licensees and registrants [from the agency] to any attending 
+veterinarian in order to carry out duties under the AWA pursuant to 9 CFR 2.33 and 2.40; 
+(4) APHIS may disclose the name, telephone number and other contact information, location, inspection reports, and regulatory and other correspondence 
+of licensees, registrants, permitees, and applicants for the same, to appropriate Federal, foreign, State, local, Tribal, or other public authority agencies or 
+officials, in order to carry out duties under the AWA or State, local, Tribal or other public authority on the same subject pursuant to 7 U.S.C. 2145(b);
+Text Len: 1528
+--------------------------------------------------------------------------------
+ 
+of licensees, registrants, permitees, and applicants for the same, to appropriate Federal, foreign, State, local, Tribal, or other public authority agencies or 
+officials, in order to carry out duties under the AWA or State, local, Tribal or other public authority on the same subject pursuant to 7 U.S.C. 2145(b); 
+(5) APHIS may disclose inspection reports of licensees and registrants, and permit status, to any pet store or other entity that is required under State, local, 
+Tribal, or other public authority to verify a licensee, registrant, or permitee’s compliance with the AWA; 
+(6) APHIS may disclose information to the National Academies of Sciences, Engineering, and Medicine, and any other research institution engaged or 
+approved by the Department, to the extent APHIS deems the disclosure necessary to complete research and/or compile a report in furtherance of the 
+Department’s mission; 
+(7) APHIS may disclose final adjudicatory AWA and HPA decisions or orders by an appropriate authority to any person; 
+(8) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of persons (referred to 
+as “Designated Qualified Persons” or “DQPs”) that are or have been qualified to detect and diagnose a horse that is sore or otherwise inspect horses for 
+purposes of enforcing the HPA and of horse industry organizations or associations (referred to as “HIOs”) that have currently or have had in the past DQP 
+programs certified by the USDA; 
+(9) APHIS may disclose to any regulated horse owner, HIO, and other entities responsible for
+Text Len: 1617
+--------------------------------------------------------------------------------
+ sore or otherwise inspect horses for 
+purposes of enforcing the HPA and of horse industry organizations or associations (referred to as “HIOs”) that have currently or have had in the past DQP 
+programs certified by the USDA; 
+(9) APHIS may disclose to any regulated horse owner, HIO, and other entities responsible for licensure or required to verify compliance with the HPA, HPA 
+inspection findings and regulatory and other correspondence issued to persons or entities regulated under the HPA; 
+(10) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of any person or entity 
+who has been disqualified, suspended, and/or otherwise prohibited from showing or exhibiting any horse, or judging or managing any horse show, horse 
+exhibition, horse sale, or horse auction under the HPA and the terms of such action; 
+(11) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of any regulated 
+individual or entity whose license or permit has been suspended, revoked, expired, terminated, or denied under the AWA and the terms of such action; 
+(12) APHIS may disclose to appropriate law enforcement agencies, entities, and persons, whether Federal, foreign, State, local, or Tribal, or other public 
+authority responsible for enforcing, investigating, or prosecuting an alleged violation or a violation of law or charged with enforcing, implementing, or 
+complying with a statute, rule, regulation, or order issued pursuant thereto, when a record in this system on its face, or in conjunction with other records, 
+indicates a violation or potential violation of law, whether civil, criminal, or regulatory in nature, and whether arising by general statute or particular program 
+
+Text Len: 1832
+--------------------------------------------------------------------------------
+ violation of law or charged with enforcing, implementing, or 
+complying with a statute, rule, regulation, or order issued pursuant thereto, when a record in this system on its face, or in conjunction with other records, 
+indicates a violation or potential violation of law, whether civil, criminal, or regulatory in nature, and whether arising by general statute or particular program 
+statute, or by regulation, rule, or court order issued pursuant thereto, if the information disclosed is relevant to any enforcement, regulatory, investigative, or 
+prosecutive responsibility of the receiving entity; 
+(13) APHIS may disclose to the Department of Justice when the agency, or any component thereof, or any employee of the agency in his or her official 
+capacity, or any employee of the agency in his or her individual capacity where the Department of Justice has agreed to represent the employee, or the 
+United States, in litigation, where the agency determines that litigation is likely to affect the agency or any of its components, is a party to litigation or has an 
+interest in such litigation, and the use of such records by the Department of Justice is deemed by the agency to be relevant and necessary to the litigation; 
+provided, however, that in each case, the agency determines that disclosure of the records to the Department of Justice is a use of the information contained 
+in the records that is compatible with the purpose for which the records were collected; 
+(14) APHIS may disclose information in this system of records to a court or adjudicative body in administrative, civil, or criminal proceedings when: (a) The 
+agency or any component thereof; or (b) any employee of the agency in his or her official capacity; or (c) any employee of the agency in his or her individual 
+capacity where the agency has agreed to represent the employee; or (d) the United States Government,
+Text Len: 1901
+--------------------------------------------------------------------------------
+ court or adjudicative body in administrative, civil, or criminal proceedings when: (a) The 
+agency or any component thereof; or (b) any employee of the agency in his or her official capacity; or (c) any employee of the agency in his or her individual 
+capacity where the agency has agreed to represent the employee; or (d) the United States Government, is a party to litigation or has an interest in such 
+litigation, and by careful review, the agency determines that the records are to be for a purpose that is compatible with the purpose for which the agency 
+collected the records; 
+(15) APHIS may disclose information from this system of records to appropriate agencies, entities, and persons when: (a) USDA suspects or has confirmed 
+that there has been a breach of the system of records; (b) USDA has determined that as a result of the suspected or confirmed breach there is a risk of harm 
+to individuals, USDA (including its information systems, programs, and operations), the Federal Government, or national security; and (c) the disclosure 
+made to such agencies, entities, and persons is reasonably necessary to assist in connection with USDA’s efforts to respond to the suspected or confirmed 
+compromise and prevent, minimize, or remedy such harm; 
+(16) APHIS may disclose information from this system of records to another Federal agency or Federal entity, when the USDA determines that information 
+from this system of records is reasonably necessary to assist the recipient agency or entity in (a) responding to a suspected or confirmed breach or (b) 
+preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and 
+operations), the Federal Government, or national security, resulting from a suspected or confirmed breach; 
+(17) APHIS
+Text Len: 1839
+--------------------------------------------------------------------------------
+ recipient agency or entity in (a) responding to a suspected or confirmed breach or (b) 
+preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and 
+operations), the Federal Government, or national security, resulting from a suspected or confirmed breach; 
+(17) APHIS may disclose information in this system of records to USDA contractors and other parties engaged to assist in administering the program, 
+analyzing data, developing information management systems, processing Freedom of Information Act requests, and conducting audits. Such contractors 
+and other parties will be bound by the nondisclosure provisions of the Privacy Act; 
+(18) APHIS may disclose information in this system of records to USDA contractors, partner agency employees or contractors, or private industry employed 
+to identify patterns, trends, or anomalies indicative of fraud, waste, or abuse; 
+(19) APHIS may disclose information in this system of records to a Congressional office from the record of an individual in response to any inquiry from that 
+Congressional office made at the written request of the individual to whom the record pertains; 
+(20) APHIS may disclose information in this system of records to the National Archives and Records Administration or to the General Services 
+Administration for records management activities conducted under 44 U.S.C. 2904 and 2906; and 
+(21) APHIS may disclose information in this system of records to the Treasury Department as necessary to carry out any and all functions within their 
+jurisdiction, including but not limited to, processing payments, fees, collections, penalties, and offsets. 
+Disclosure: Furnishing this information is voluntary; however, failure to furnish this information may impede your ability to comply with the requirements of 
+the Animal Welfare Act, regulations, and standards. 
+ 
+Text Len: 1933
+--------------------------------------------------------------------------------
+According to the Paperwork Reduction Act of 1995, an agency may not conduct or sponsor, and a person is not required to respo nd to, a collection of information unless it displays a valid OMB control number. The valid OMB control 
+number for this information  collection is 0579-0036. The time required to complete this information collection is estimated to average 1 hour per response, including the ti me for reviewing instructions, searching existing data sources, 
+gathering and maintaining the data needed, and completing and reviewing the collection of information. 
+The information in this form is required 
+by law (7 U.S.C. 2131-2159).  Failure 
+to maintain this information can result 
+in suspension or revocation of license. 
+OMB APPROVED 
+0579-0036 
+UNITED STATES DEPARTMENT OF AGRICULTURE 
+ANIMAL AND PLANT HEALTH INSPECTION SERVICE 
+RECORD OF ANIMALS ON HAND 
+(Other than Dogs and Cats) 
+1.  USDA CERTIFICATE NUMBER 2.  NAME AND ADDRESS OF DEALER 3.  DATES COVERED 4.  PAGE NUMBER 
+FROM (MM DD YY) TO (MM, DD, YY) 
+   AGE - SEX ARRIVAL AT PREMISES DISPOSITION 
+ANIMAL 
+IDENTIFICATION 
+NUMBER 
+INDIVIDUAL 
+IDENTIFICATION 
+TATTOOS OR TAG 
+NUMBERS 
+(if applicable) 
+SPECIES NUMBER YOUNG NUMBER ADULT INVOICE NUMBER ARRIVAL DATE 
+(MM, DD, YY) 
+FROM 
+(Name and Address) 
+(Give license number if licensee) 
+DATE
+Text Len: 1319
+--------------------------------------------------------------------------------
+
+IDENTIFICATION 
+TATTOOS OR TAG 
+NUMBERS 
+(if applicable) 
+SPECIES NUMBER YOUNG NUMBER ADULT INVOICE NUMBER ARRIVAL DATE 
+(MM, DD, YY) 
+FROM 
+(Name and Address) 
+(Give license number if licensee) 
+DATE SOLD, 
+EXCHANGED, OR 
+DONATED 
+(MM, DD, YY) 
+DATE DIED 
+(MM, DD, YY) 
+A B C D E F G H I 
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+   
+M F M F 
+     
+APHIS FORM 7019 
+NOV 2020
+Privacy Act Notice 
+Authority: The Animal Welfare Act (AWA), 7 U.S.C. 2131 et seq., and the regulations issued thereunder, 9 CFR parts 1 through 4; and the Horse 
+Protection Act (HPA), 15 U.S.C. 1821 et seq., and the regulations issued thereunder, 9 CFR parts 11 and 12. 
+Purpose: This system supports APHIS’ administrative activities and
+Text Len: 845
+--------------------------------------------------------------------------------
+ 7 U.S.C. 2131 et seq., and the regulations issued thereunder, 9 CFR parts 1 through 4; and the Horse 
+Protection Act (HPA), 15 U.S.C. 1821 et seq., and the regulations issued thereunder, 9 CFR parts 11 and 12. 
+Purpose: This system supports APHIS’ administrative activities and enforcement of the AWA and HPA. 
+Routine Uses: 
+In addition to those disclosures generally permitted under 5 U.S.C. 552a (b) of the Privacy Act, records maintained in the system may be disclosed outside 
+USDA as follows: 
+(1) APHIS may disclose the name, city, State, license or registration type and/or status, or change of a license or registrant to any person pursuant to 9 CFR 
+2.38(c) and 2.127; 
+(2) APHIS may disclose annual reports submitted to APHIS by licensees and research facilities to any person pursuant to 9 CFR 2.7 and 2.36; 
+(3) APHIS may disclose inspection reports and other regulatory correspondence issued to licensees and registrants [from the agency] to any attending 
+veterinarian in order to carry out duties under the AWA pursuant to 9 CFR 2.33 and 2.40; 
+(4) APHIS may disclose the name, telephone number and other contact information, location, inspection reports, and regulatory and other correspondence 
+of licensees, registrants, permitees, and applicants for the same, to appropriate Federal, foreign, State, local, Tribal, or other public authority agencies or 
+officials, in order to carry out duties under the AWA or State, local, Tribal or other public authority on the same subject pursuant to 7 U.S.C. 2145(b);
+Text Len: 1528
+--------------------------------------------------------------------------------
+ 
+of licensees, registrants, permitees, and applicants for the same, to appropriate Federal, foreign, State, local, Tribal, or other public authority agencies or 
+officials, in order to carry out duties under the AWA or State, local, Tribal or other public authority on the same subject pursuant to 7 U.S.C. 2145(b); 
+(5) APHIS may disclose inspection reports of licensees and registrants, and permit status, to any pet store or other entity that is required under State, local, 
+Tribal, or other public authority to verify a licensee, registrant, or permitee’s compliance with the AWA; 
+(6) APHIS may disclose information to the National Academies of Sciences, Engineering, and Medicine, and any other research institution engaged or 
+approved by the Department, to the extent APHIS deems the disclosure necessary to complete research and/or compile a report in furtherance of the 
+Department’s mission; 
+(7) APHIS may disclose final adjudicatory AWA and HPA decisions or orders by an appropriate authority to any person; 
+(8) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of persons (referred to 
+as “Designated Qualified Persons” or “DQPs”) that are or have been qualified to detect and diagnose a horse that is sore or otherwise inspect horses for 
+purposes of enforcing the HPA and of horse industry organizations or associations (referred to as “HIOs”) that have currently or have had in the past DQP 
+programs certified by the USDA; 
+(9) APHIS may disclose to any regulated horse owner, HIO, and other entities responsible for
+Text Len: 1617
+--------------------------------------------------------------------------------
+ sore or otherwise inspect horses for 
+purposes of enforcing the HPA and of horse industry organizations or associations (referred to as “HIOs”) that have currently or have had in the past DQP 
+programs certified by the USDA; 
+(9) APHIS may disclose to any regulated horse owner, HIO, and other entities responsible for licensure or required to verify compliance with the HPA, HPA 
+inspection findings and regulatory and other correspondence issued to persons or entities regulated under the HPA; 
+(10) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of any person or entity 
+who has been disqualified, suspended, and/or otherwise prohibited from showing or exhibiting any horse, or judging or managing any horse show, horse 
+exhibition, horse sale, or horse auction under the HPA and the terms of such action; 
+(11) APHIS may disclose to any person the name, city, and State or other information to the extent necessary for proper identification of any regulated 
+individual or entity whose license or permit has been suspended, revoked, expired, terminated, or denied under the AWA and the terms of such action; 
+(12) APHIS may disclose to appropriate law enforcement agencies, entities, and persons, whether Federal, foreign, State, local, or Tribal, or other public 
+authority responsible for enforcing, investigating, or prosecuting an alleged violation or a violation of law or charged with enforcing, implementing, or 
+complying with a statute, rule, regulation, or order issued pursuant thereto, when a record in this system on its face, or in conjunction with other records, 
+indicates a violation or potential violation of law, whether civil, criminal, or regulatory in nature, and whether arising by general statute or particular program 
+
+Text Len: 1832
+--------------------------------------------------------------------------------
+ violation of law or charged with enforcing, implementing, or 
+complying with a statute, rule, regulation, or order issued pursuant thereto, when a record in this system on its face, or in conjunction with other records, 
+indicates a violation or potential violation of law, whether civil, criminal, or regulatory in nature, and whether arising by general statute or particular program 
+statute, or by regulation, rule, or court order issued pursuant thereto, if the information disclosed is relevant to any enforcement, regulatory, investigative, or 
+prosecutive responsibility of the receiving entity; 
+(13) APHIS may disclose to the Department of Justice when the agency, or any component thereof, or any employee of the agency in his or her official 
+capacity, or any employee of the agency in his or her individual capacity where the Department of Justice has agreed to represent the employee, or the 
+United States, in litigation, where the agency determines that litigation is likely to affect the agency or any of its components, is a party to litigation or has an 
+interest in such litigation, and the use of such records by the Department of Justice is deemed by the agency to be relevant and necessary to the litigation; 
+provided, however, that in each case, the agency determines that disclosure of the records to the Department of Justice is a use of the information contained 
+in the records that is compatible with the purpose for which the records were collected; 
+(14) APHIS may disclose information in this system of records to a court or adjudicative body in administrative, civil, or criminal proceedings when: (a) The 
+agency or any component thereof; or (b) any employee of the agency in his or her official capacity; or (c) any employee of the agency in his or her individual 
+capacity where the agency has agreed to represent the employee; or (d) the United States Government,
+Text Len: 1901
+--------------------------------------------------------------------------------
+ court or adjudicative body in administrative, civil, or criminal proceedings when: (a) The 
+agency or any component thereof; or (b) any employee of the agency in his or her official capacity; or (c) any employee of the agency in his or her individual 
+capacity where the agency has agreed to represent the employee; or (d) the United States Government, is a party to litigation or has an interest in such 
+litigation, and by careful review, the agency determines that the records are to be for a purpose that is compatible with the purpose for which the agency 
+collected the records; 
+(15) APHIS may disclose information from this system of records to appropriate agencies, entities, and persons when: (a) USDA suspects or has confirmed 
+that there has been a breach of the system of records; (b) USDA has determined that as a result of the suspected or confirmed breach there is a risk of harm 
+to individuals, USDA (including its information systems, programs, and operations), the Federal Government, or national security; and (c) the disclosure 
+made to such agencies, entities, and persons is reasonably necessary to assist in connection with USDA’s efforts to respond to the suspected or confirmed 
+compromise and prevent, minimize, or remedy such harm; 
+(16) APHIS may disclose information from this system of records to another Federal agency or Federal entity, when the USDA determines that information 
+from this system of records is reasonably necessary to assist the recipient agency or entity in (a) responding to a suspected or confirmed breach or (b) 
+preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and 
+operations), the Federal Government, or national security, resulting from a suspected or confirmed breach; 
+(17) APHIS
+Text Len: 1839
+--------------------------------------------------------------------------------
+ recipient agency or entity in (a) responding to a suspected or confirmed breach or (b) 
+preventing, minimizing, or remedying the risk of harm to individuals, the recipient agency or entity (including its information systems, programs, and 
+operations), the Federal Government, or national security, resulting from a suspected or confirmed breach; 
+(17) APHIS may disclose information in this system of records to USDA contractors and other parties engaged to assist in administering the program, 
+analyzing data, developing information management systems, processing Freedom of Information Act requests, and conducting audits. Such contractors 
+and other parties will be bound by the nondisclosure provisions of the Privacy Act; 
+(18) APHIS may disclose information in this system of records to USDA contractors, partner agency employees or contractors, or private industry employed 
+to identify patterns, trends, or anomalies indicative of fraud, waste, or abuse; 
+(19) APHIS may disclose information in this system of records to a Congressional office from the record of an individual in response to any inquiry from that 
+Congressional office made at the written request of the individual to whom the record pertains; 
+(20) APHIS may disclose information in this system of records to the National Archives and Records Administration or to the General Services 
+Administration for records management activities conducted under 44 U.S.C. 2904 and 2906; and 
+(21) APHIS may disclose information in this system of records to the Treasury Department as necessary to carry out any and all functions within their 
+jurisdiction, including but not limited to, processing payments, fees, collections, penalties, and offsets. 
+Disclosure: Furnishing this information is voluntary; however, failure to furnish this information may impede your ability to comply with the requirements of 
+the Animal Welfare Act, regulations, and standards. 
+ 
+Text Len: 1933
+--------------------------------------------------------------------------------

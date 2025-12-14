@@ -1,0 +1,314 @@
+ 
+The Occurrence of Another Highly Pathogenic Avian Inﬂuenza (HPAI) Spillover 
+from Wild Birds into Dairy Cattle 
+Background  
+In March 2024, the USDA conﬁrmed the ﬁrst case of highly pathogenic avian inﬂuenza (HPAI) 
+spreading between dairy cattle herds in the United States. This followed reports from dairy 
+producers of an unusual illness in their lactating cows over the preceding 2-3 months. Virus 
+whole genome sequencing and modeling performed by USDA suggested a single spillover of 
+HPAI H5N1, clade 2.3.4.4b, genotype B3.13 from wild birds into dairy cattle likely occurred 
+between October 2023 and January 2024 (1). Since then, federal, state, and industry partners 
+have collaborated to address the HPAI threat in dairy cattle, resulting in two federal orders and 
+the implementation of the National Milk Testing Strategy (NMTS). 
+States began enrolling in the NMTS in December 2024, in which they are continuing to conduct 
+or now implementing state-wide bulk tank surveillance and/or milk processing plant silo 
+monitoring. Nevada was among the ﬁrst to participate in the National Silo Monitoring Program, 
+which includes testing milk samples from processing plant silos for HPAI. This sampling scheme 
+coincides with the FDA's existing regulatory program, which requires all raw milk Grade A silos 
+to be sampled four times within 6 months. 
+The Detection 
+In Nevada, 3 of 11 silo samples collected on January 6 and 7, 2025 tested positive for HPAI via 
+polymerase chain reaction (PCR) at the National Veterinary Services Laboratories (NVSL) on 
+January 10.
+Text Len: 1574
+--------------------------------------------------------------------------------
+ regulatory program, which requires all raw milk Grade A silos 
+to be sampled four times within 6 months. 
+The Detection 
+In Nevada, 3 of 11 silo samples collected on January 6 and 7, 2025 tested positive for HPAI via 
+polymerase chain reaction (PCR) at the National Veterinary Services Laboratories (NVSL) on 
+January 10. The state was notiﬁed, triggering an investigation to trace the source, as up to  
+12 dairies (in the same geographic region) could have contributed milk to the aﬀected silos. On 
+January 17, regulatory oﬃcials collected on-farm bulk milk samples from suspected dairy farms 
+and submitted them to the Washington Animal Disease Diagnostic Laboratory (WADDL), a 
+member of the National Animal Health Laboratory Network (NAHLN). HPAI was conﬁrmed via 
+PCR at NVSL on Friday, January 24, in samples from two of those dairies. NVSL completed whole 
+genome sequencing on January 31 and identiﬁed HPAI H5N1, clade 2.3.4.4b, genotype D1.1 in 
+samples from four diﬀerent bulk tanks from one herd. A second herd also showed a partial 
+sequence consistent with D1.1. Clinical signs were not observed in the cattle prior to the 
+detection, but have been reported since, and the aﬀected dairy producers reported large wild 
+bird die-oﬀs near the dairies. 
+While genotype D1.1 has been the dominant strain circulating in migratory wild birds across all 
+four North American ﬂyways during the winter of 2024-2025, these Nevada cases represent the 
+
+�
+Text Len: 1458
+--------------------------------------------------------------------------------
+ since, and the aﬀected dairy producers reported large wild 
+bird die-oﬀs near the dairies. 
+While genotype D1.1 has been the dominant strain circulating in migratory wild birds across all 
+four North American ﬂyways during the winter of 2024-2025, these Nevada cases represent the 
+
+ﬁrst detection of a genotype other than B3.13 in U.S. dairy cattle and the second known 
+spillover from wild birds into lactating dairy cattle. 
+Virus Epidemiology and Origin 
+Since late 2021, six separate introductions of Eurasian HPAI H5N1 clade 2.3.4.4b have been 
+documented into the migratory wild birds in the North American ﬂyways (genotypes A1 through 
+A6). Genotype D1.1 is a reassortant of A3. Genotype A3 ﬁrst appeared in the Paciﬁc ﬂyway in 
+April of 2022 with detections only in the Paciﬁc ﬂyway until the fall of 2024. Since this fall, 
+genotype A3 has been sporadically reported in migratory wild birds across all four ﬂyways 
+through wild bird surveillance, making up 3.3% of the overall detections to date. Genotype D1.1 
+retains four genes from the original A3 genotype; hemagglutinin (HA), polymerase basic 1 (PB1), 
+matrix (M) and nonstructural (NS), with other genes originating from other North American 
+lineage viruses found in migratory wild birds. This genotype was ﬁrst detected in September 
+2024 and has quickly expanded to all North
+Text Len: 1346
+--------------------------------------------------------------------------------
+ original A3 genotype; hemagglutinin (HA), polymerase basic 1 (PB1), 
+matrix (M) and nonstructural (NS), with other genes originating from other North American 
+lineage viruses found in migratory wild birds. This genotype was ﬁrst detected in September 
+2024 and has quickly expanded to all North American ﬂyways. D1.1 is the current predominant 
+genotype in migratory wild birds, making up 6.07% of the total detections since 2022 despite 
+ﬁrst occurring late 2024. 
+The D1.1 viruses identiﬁed in dairy cattle in Nevada were found to be closely related to other 
+D1.1 viruses recently detected in migratory wild birds across multiple North American Flyways. 
+Analysis of the hemagglutinin gene of the Nevada dairy cattle viruses did not identify changes 
+predicted to impact infectivity or adaptation to mammalian hosts. However, a change of PB2 
+D701N commonly associated with mammalian adaptation of HPAI virus was identiﬁed in viruses 
+sequenced from four separate dairy cattle. To date, this change has not been observed in D1.1 
+viruses found in wild birds or poultry and is not found in B3.13 genotype viruses detected in 
+dairy cattle. PB2 D701N has previously been associated with mammalian adaptation because it 
+improves RNA polymerase activity and replication eﬃciency in mammalian cells and has the 
+potential to impact pathogenesis in infected mammals (2,3,4,5,6). The change has previously 
+been identiﬁed in human cases of HPAI H5 but with no evidence of onward transmission among 
+humans (7,8). No other changes associated with
+Text Len: 1544
+--------------------------------------------------------------------------------
+ activity and replication eﬃciency in mammalian cells and has the 
+potential to impact pathogenesis in infected mammals (2,3,4,5,6). The change has previously 
+been identiﬁed in human cases of HPAI H5 but with no evidence of onward transmission among 
+humans (7,8). No other changes associated with mammalian adaptation were identiﬁed in the 
+sequences. Of note, these D1.1 viruses sequenced from dairy cattle do not contain the PB2 -
+631L marker that appeared to be ﬁxed in dairy cattle B3.13 sequences. Following the existing 
+public sharing process, NVSL immediately provided the D1.1 sequence information the Centers 
+for Disease Control and Prevention and will post sequence ﬁles to the National Center for 
+Biotechnology Information (NCBI) Sequence Read Archive (SRA) within 7 days of analysis, adding 
+metadata as sequences are interpreted and quality checked in light of epidemiological 
+information.   
+ 
+Summary 
+This detection indicates that this HPAI virus, genotype D1.1, is the second spillover event from 
+migratory wild birds to dairy cattle following the B3.13 event in late 2023/early 2024. 
+Investigations are ongoing to fully characterize this event. The Nevada Department of 
+Agriculture acted quickly, by ﬁrst rapidly enrolling in the NMTS to initiate active surveillance, 
+and then to identify and quarantine the aﬀected dairies before cattle movements could further 
+transmit this virus beyond the local area. This is the ﬁrst instance where sampling of milk at 
+processing plants rather than individually or directly on farm has detected a high consequence 
+disease, demonstrating silo monitoring as an
+Text Len: 1627
+--------------------------------------------------------------------------------
+ to initiate active surveillance, 
+and then to identify and quarantine the aﬀected dairies before cattle movements could further 
+transmit this virus beyond the local area. This is the ﬁrst instance where sampling of milk at 
+processing plants rather than individually or directly on farm has detected a high consequence 
+disease, demonstrating silo monitoring as an eﬃcient method to monitor HPAI in the National 
+dairy herd.  
+ 
+ 
+1. Nguyen T, Hutter C, Markin A, Thomas M, Lantz K, Killian M, Janzen GM, Vijendran S, Wagle S, 
+Inderski B, Magstadt DR, Li G, Diel DG, Frye EA, Dimitrov SM, Swinford A, Thompson AC, Snevik 
+KR, Suarez DL, Spackman E, Lakin S, Ahola SC, Johnson SR, Baker A, Robbe-Austerman S, 
+Torchetti M, Anderson TK. 2024. Emergence and interstate spread of highly pathogenic avian 
+inﬂuenza A(H5N1) in dairy cattle. bioRxiv 2024.05.01.591751; doi: 
+https://doi.org/10.1101/2024.05.01.591751 
+2. Li Z, Chen H, Jiao P , Deng G, Tian G, Li Y , Hoﬀmann E, Webster RG, Matsuoka Y , Yu K. 2005. 
+Molecular basis of replication of duck H5N1 inﬂuenza viruses in a mammalian mouse model. 
+The Journal of Virology 79:12058-12064. 
+3. Gabriel G, Abram M, Keiner B, Wagner R,
+Text Len: 1185
+--------------------------------------------------------------------------------
+ Hoﬀmann E, Webster RG, Matsuoka Y , Yu K. 2005. 
+Molecular basis of replication of duck H5N1 inﬂuenza viruses in a mammalian mouse model. 
+The Journal of Virology 79:12058-12064. 
+3. Gabriel G, Abram M, Keiner B, Wagner R, Klenk HD, Stech J. 2007. Diﬀerential polymerase 
+activity in avian and mammalian cells determines host range of inﬂuenza virus. J Virol 81:9601-4. 
+4. Steel J, Lowen AC, Mubareka S, Palese P . 2009. Transmission of inﬂuenza virus in a 
+mammalian host is increased by PB2 amino acids 627K or 627E/701N. PLoS Pathog 5:e1000252. 
+5. Gao Y , Zhang Y , Shinya K, Deng G, Jiang Y , Li Z, Guan Y , Tian G, Li Y , Shi J, Liu L, Zeng X, Bu Z, Xia 
+X, Kawaoka Y , Chen H. 2009. Identiﬁcation of amino acids in HA and PB2 critical for the 
+transmission of H5N1 avian inﬂuenza viruses in a mammalian host. PLoSPathog 5:e1000709. 
+6. Zhou B, Pearce MB, Li Y , Wang J, Mason RJ, Tumpey TM, Wentworth DE. 2013. Asparagine 
+substitution at PB2 residue 701 enhances the replication, pathogenicity, and transmission of the 
+2009 pandemic H1N1 inﬂuenza A virus. PLoS ONE 8:e67616. 
+7. Le QM, Ito
+Text Len: 1100
+--------------------------------------------------------------------------------
+ , Wang J, Mason RJ, Tumpey TM, Wentworth DE. 2013. Asparagine 
+substitution at PB2 residue 701 enhances the replication, pathogenicity, and transmission of the 
+2009 pandemic H1N1 inﬂuenza A virus. PLoS ONE 8:e67616. 
+7. Le QM, Ito M, Muramoto Y , Hoang PV, Vuong CD, Sakai-Tagawa Y , Kiso M, Ozawa M, Takano R, 
+Kawaoka Y . 2010. Pathogenicity of highly pathogenic avian H5N1 inﬂuenza A viruses isolated 
+from humans between 2003 and 2008 in northern Vietnam. J Gen Virol 91:2485-90.  
+8. Zhu W, Li X, Dong J, Bo H, Liu J, Yang J, Zhang Y , Wei H, Huang W, Zhao X, Chen T, Yang J, Li Z, 
+Zeng X, Li C, Tang J, Xin L, Gao R, Liu L, Tan M, Shu Y , Yang L, Wang D. 2022. Epidemiologic, 
+Clinical, and Genetic Characteristics of Human Infections with Inﬂuenza A(H5N6) Viruses, China. 
+Emerg Infect Dis 28:1332-1344. 
+Text Len: 814
+--------------------------------------------------------------------------------
+ 
+The Occurrence of Another Highly Pathogenic Avian Inﬂuenza (HPAI) Spillover 
+from Wild Birds into Dairy Cattle 
+Background  
+In March 2024, the USDA conﬁrmed the ﬁrst case of highly pathogenic avian inﬂuenza (HPAI) 
+spreading between dairy cattle herds in the United States. This followed reports from dairy 
+producers of an unusual illness in their lactating cows over the preceding 2-3 months. Virus 
+whole genome sequencing and modeling performed by USDA suggested a single spillover of 
+HPAI H5N1, clade 2.3.4.4b, genotype B3.13 from wild birds into dairy cattle likely occurred 
+between October 2023 and January 2024 (1). Since then, federal, state, and industry partners 
+have collaborated to address the HPAI threat in dairy cattle, resulting in two federal orders and 
+the implementation of the National Milk Testing Strategy (NMTS). 
+States began enrolling in the NMTS in December 2024, in which they are continuing to conduct 
+or now implementing state-wide bulk tank surveillance and/or milk processing plant silo 
+monitoring. Nevada was among the ﬁrst to participate in the National Silo Monitoring Program, 
+which includes testing milk samples from processing plant silos for HPAI. This sampling scheme 
+coincides with the FDA's existing regulatory program, which requires all raw milk Grade A silos 
+to be sampled four times within 6 months. 
+The Detection 
+In Nevada, 3 of 11 silo samples collected on January 6 and 7, 2025 tested positive for HPAI via 
+polymerase chain reaction (PCR) at the National Veterinary Services Laboratories (NVSL) on 
+January 10.
+Text Len: 1574
+--------------------------------------------------------------------------------
+ regulatory program, which requires all raw milk Grade A silos 
+to be sampled four times within 6 months. 
+The Detection 
+In Nevada, 3 of 11 silo samples collected on January 6 and 7, 2025 tested positive for HPAI via 
+polymerase chain reaction (PCR) at the National Veterinary Services Laboratories (NVSL) on 
+January 10. The state was notiﬁed, triggering an investigation to trace the source, as up to  
+12 dairies (in the same geographic region) could have contributed milk to the aﬀected silos. On 
+January 17, regulatory oﬃcials collected on-farm bulk milk samples from suspected dairy farms 
+and submitted them to the Washington Animal Disease Diagnostic Laboratory (WADDL), a 
+member of the National Animal Health Laboratory Network (NAHLN). HPAI was conﬁrmed via 
+PCR at NVSL on Friday, January 24, in samples from two of those dairies. NVSL completed whole 
+genome sequencing on January 31 and identiﬁed HPAI H5N1, clade 2.3.4.4b, genotype D1.1 in 
+samples from four diﬀerent bulk tanks from one herd. A second herd also showed a partial 
+sequence consistent with D1.1. Clinical signs were not observed in the cattle prior to the 
+detection, but have been reported since, and the aﬀected dairy producers reported large wild 
+bird die-oﬀs near the dairies. 
+While genotype D1.1 has been the dominant strain circulating in migratory wild birds across all 
+four North American ﬂyways during the winter of 2024-2025, these Nevada cases represent the 
+
+�
+Text Len: 1458
+--------------------------------------------------------------------------------
+ since, and the aﬀected dairy producers reported large wild 
+bird die-oﬀs near the dairies. 
+While genotype D1.1 has been the dominant strain circulating in migratory wild birds across all 
+four North American ﬂyways during the winter of 2024-2025, these Nevada cases represent the 
+
+ﬁrst detection of a genotype other than B3.13 in U.S. dairy cattle and the second known 
+spillover from wild birds into lactating dairy cattle. 
+Virus Epidemiology and Origin 
+Since late 2021, six separate introductions of Eurasian HPAI H5N1 clade 2.3.4.4b have been 
+documented into the migratory wild birds in the North American ﬂyways (genotypes A1 through 
+A6). Genotype D1.1 is a reassortant of A3. Genotype A3 ﬁrst appeared in the Paciﬁc ﬂyway in 
+April of 2022 with detections only in the Paciﬁc ﬂyway until the fall of 2024. Since this fall, 
+genotype A3 has been sporadically reported in migratory wild birds across all four ﬂyways 
+through wild bird surveillance, making up 3.3% of the overall detections to date. Genotype D1.1 
+retains four genes from the original A3 genotype; hemagglutinin (HA), polymerase basic 1 (PB1), 
+matrix (M) and nonstructural (NS), with other genes originating from other North American 
+lineage viruses found in migratory wild birds. This genotype was ﬁrst detected in September 
+2024 and has quickly expanded to all North
+Text Len: 1346
+--------------------------------------------------------------------------------
+ original A3 genotype; hemagglutinin (HA), polymerase basic 1 (PB1), 
+matrix (M) and nonstructural (NS), with other genes originating from other North American 
+lineage viruses found in migratory wild birds. This genotype was ﬁrst detected in September 
+2024 and has quickly expanded to all North American ﬂyways. D1.1 is the current predominant 
+genotype in migratory wild birds, making up 6.07% of the total detections since 2022 despite 
+ﬁrst occurring late 2024. 
+The D1.1 viruses identiﬁed in dairy cattle in Nevada were found to be closely related to other 
+D1.1 viruses recently detected in migratory wild birds across multiple North American Flyways. 
+Analysis of the hemagglutinin gene of the Nevada dairy cattle viruses did not identify changes 
+predicted to impact infectivity or adaptation to mammalian hosts. However, a change of PB2 
+D701N commonly associated with mammalian adaptation of HPAI virus was identiﬁed in viruses 
+sequenced from four separate dairy cattle. To date, this change has not been observed in D1.1 
+viruses found in wild birds or poultry and is not found in B3.13 genotype viruses detected in 
+dairy cattle. PB2 D701N has previously been associated with mammalian adaptation because it 
+improves RNA polymerase activity and replication eﬃciency in mammalian cells and has the 
+potential to impact pathogenesis in infected mammals (2,3,4,5,6). The change has previously 
+been identiﬁed in human cases of HPAI H5 but with no evidence of onward transmission among 
+humans (7,8). No other changes associated with
+Text Len: 1544
+--------------------------------------------------------------------------------
+ activity and replication eﬃciency in mammalian cells and has the 
+potential to impact pathogenesis in infected mammals (2,3,4,5,6). The change has previously 
+been identiﬁed in human cases of HPAI H5 but with no evidence of onward transmission among 
+humans (7,8). No other changes associated with mammalian adaptation were identiﬁed in the 
+sequences. Of note, these D1.1 viruses sequenced from dairy cattle do not contain the PB2 -
+631L marker that appeared to be ﬁxed in dairy cattle B3.13 sequences. Following the existing 
+public sharing process, NVSL immediately provided the D1.1 sequence information the Centers 
+for Disease Control and Prevention and will post sequence ﬁles to the National Center for 
+Biotechnology Information (NCBI) Sequence Read Archive (SRA) within 7 days of analysis, adding 
+metadata as sequences are interpreted and quality checked in light of epidemiological 
+information.   
+ 
+Summary 
+This detection indicates that this HPAI virus, genotype D1.1, is the second spillover event from 
+migratory wild birds to dairy cattle following the B3.13 event in late 2023/early 2024. 
+Investigations are ongoing to fully characterize this event. The Nevada Department of 
+Agriculture acted quickly, by ﬁrst rapidly enrolling in the NMTS to initiate active surveillance, 
+and then to identify and quarantine the aﬀected dairies before cattle movements could further 
+transmit this virus beyond the local area. This is the ﬁrst instance where sampling of milk at 
+processing plants rather than individually or directly on farm has detected a high consequence 
+disease, demonstrating silo monitoring as an
+Text Len: 1627
+--------------------------------------------------------------------------------
+ to initiate active surveillance, 
+and then to identify and quarantine the aﬀected dairies before cattle movements could further 
+transmit this virus beyond the local area. This is the ﬁrst instance where sampling of milk at 
+processing plants rather than individually or directly on farm has detected a high consequence 
+disease, demonstrating silo monitoring as an eﬃcient method to monitor HPAI in the National 
+dairy herd.  
+ 
+ 
+1. Nguyen T, Hutter C, Markin A, Thomas M, Lantz K, Killian M, Janzen GM, Vijendran S, Wagle S, 
+Inderski B, Magstadt DR, Li G, Diel DG, Frye EA, Dimitrov SM, Swinford A, Thompson AC, Snevik 
+KR, Suarez DL, Spackman E, Lakin S, Ahola SC, Johnson SR, Baker A, Robbe-Austerman S, 
+Torchetti M, Anderson TK. 2024. Emergence and interstate spread of highly pathogenic avian 
+inﬂuenza A(H5N1) in dairy cattle. bioRxiv 2024.05.01.591751; doi: 
+https://doi.org/10.1101/2024.05.01.591751 
+2. Li Z, Chen H, Jiao P , Deng G, Tian G, Li Y , Hoﬀmann E, Webster RG, Matsuoka Y , Yu K. 2005. 
+Molecular basis of replication of duck H5N1 inﬂuenza viruses in a mammalian mouse model. 
+The Journal of Virology 79:12058-12064. 
+3. Gabriel G, Abram M, Keiner B, Wagner R,
+Text Len: 1185
+--------------------------------------------------------------------------------
+ Hoﬀmann E, Webster RG, Matsuoka Y , Yu K. 2005. 
+Molecular basis of replication of duck H5N1 inﬂuenza viruses in a mammalian mouse model. 
+The Journal of Virology 79:12058-12064. 
+3. Gabriel G, Abram M, Keiner B, Wagner R, Klenk HD, Stech J. 2007. Diﬀerential polymerase 
+activity in avian and mammalian cells determines host range of inﬂuenza virus. J Virol 81:9601-4. 
+4. Steel J, Lowen AC, Mubareka S, Palese P . 2009. Transmission of inﬂuenza virus in a 
+mammalian host is increased by PB2 amino acids 627K or 627E/701N. PLoS Pathog 5:e1000252. 
+5. Gao Y , Zhang Y , Shinya K, Deng G, Jiang Y , Li Z, Guan Y , Tian G, Li Y , Shi J, Liu L, Zeng X, Bu Z, Xia 
+X, Kawaoka Y , Chen H. 2009. Identiﬁcation of amino acids in HA and PB2 critical for the 
+transmission of H5N1 avian inﬂuenza viruses in a mammalian host. PLoSPathog 5:e1000709. 
+6. Zhou B, Pearce MB, Li Y , Wang J, Mason RJ, Tumpey TM, Wentworth DE. 2013. Asparagine 
+substitution at PB2 residue 701 enhances the replication, pathogenicity, and transmission of the 
+2009 pandemic H1N1 inﬂuenza A virus. PLoS ONE 8:e67616. 
+7. Le QM, Ito
+Text Len: 1100
+--------------------------------------------------------------------------------
+ , Wang J, Mason RJ, Tumpey TM, Wentworth DE. 2013. Asparagine 
+substitution at PB2 residue 701 enhances the replication, pathogenicity, and transmission of the 
+2009 pandemic H1N1 inﬂuenza A virus. PLoS ONE 8:e67616. 
+7. Le QM, Ito M, Muramoto Y , Hoang PV, Vuong CD, Sakai-Tagawa Y , Kiso M, Ozawa M, Takano R, 
+Kawaoka Y . 2010. Pathogenicity of highly pathogenic avian H5N1 inﬂuenza A viruses isolated 
+from humans between 2003 and 2008 in northern Vietnam. J Gen Virol 91:2485-90.  
+8. Zhu W, Li X, Dong J, Bo H, Liu J, Yang J, Zhang Y , Wei H, Huang W, Zhao X, Chen T, Yang J, Li Z, 
+Zeng X, Li C, Tang J, Xin L, Gao R, Liu L, Tan M, Shu Y , Yang L, Wang D. 2022. Epidemiologic, 
+Clinical, and Genetic Characteristics of Human Infections with Inﬂuenza A(H5N6) Viruses, China. 
+Emerg Infect Dis 28:1332-1344. 
+Text Len: 814
+--------------------------------------------------------------------------------

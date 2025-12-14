@@ -1,0 +1,212 @@
+Crop Knowledge Master
+Aculops lycopersici (Massee)
+Tomato Russet Mite
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Specialist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+  HOSTS
+Most of the hosts of the tomato russet mite belong to the family Solanaceae (Perring and Farrar, 1986). Hosts include tomato, tomatillo, potato, eggplant, poha (cape gooseberry), wild black currant, popolo, wild gooseberry, blackberry, tobacco, bell pepper, cherry pepper, Tolguacha, eggplant, Jerusalem cherry, Harry nightshade, black nightshade, horsenettle, morning glory, Jimson weed, Chinese thorn apple, petunia, nightshade, small flowered nightshade, amethyst, field bindweed, and Brinjal.
+DISTRIBUTION
+The tomato russet mite is cosmopolitan in distribution. It is present in almost all areas where solanaceous crops are grown (Jeppson, et. al., 1975). The exception is in southern and northern latitudes below 60 degrees and above 60 degrees, respectively (Perring and Farrar, 1986). These latitudes do not appear to have conditions suitable for the tomato russet mite. This mite has been in Hawaii since 1942 and is present on the islands of Kauai, Maui and Oahu.
+DAMAGE
+The tomato russet mite can induce serious injury on tomato. Silvering of the undersurface of lower leaves is an early symptom (Kay, 1986). These leaves later become bronze colored, whither, and die. The lower part of the stem loses hairs, becomes rusty brown or smoky in color, and may develop small cracks on the surface.
+Text Len: 1571
+--------------------------------------------------------------------------------
+ahu.
+DAMAGE
+The tomato russet mite can induce serious injury on tomato. Silvering of the undersurface of lower leaves is an early symptom (Kay, 1986). These leaves later become bronze colored, whither, and die. The lower part of the stem loses hairs, becomes rusty brown or smoky in color, and may develop small cracks on the surface. Some of these damage symptoms are also characteristic of broad mite and thrips so identification of the mite is important. Continuous feeding results in a wilted, russeted (reddish-brown) tomato plant, and eventually leaf desiccation and plant death occurs (Keifer, et. al. 1982).
+Damage also occurs to the fruit. Fruit setting is curtailed in plants infested with tomato russet mite (Kay, 1986). Loss of foliage due to tomato russet mite feeding exposes the fruits to sunburn. In addition, green or ripening fruits from infested crops often have pale, yellow to white, halo shaped blotches. Severe infestations cause severe discoloration of the fruit surface and small cracks at the stem end (Kay, 1986).
+BIOLOGY
+There have been several studies on the developmental biology of the tomato russet mite with varying results. Bailey and Keifer (1943) observed that at 21 degrees C, the tomato russet mite female laid an average of 15 eggs in her lifetime. Newly emerged females began laying eggs after 2 days. Eggs hatched in 2 days at room temperature, the larval stage was only 1 day, and the nymphal stage lasted 2 days. Rice and Strong (1962) reported that the life cycle was 6.5 days under optimal conditions (21 degrees C (70 degrees F) and 30% relative humidity) and under very high temperatures (32 degrees C (90 degrees F)), lower humidities were necessary for survival. This is
+Text Len: 1719
+--------------------------------------------------------------------------------
+ temperature, the larval stage was only 1 day, and the nymphal stage lasted 2 days. Rice and Strong (1962) reported that the life cycle was 6.5 days under optimal conditions (21 degrees C (70 degrees F) and 30% relative humidity) and under very high temperatures (32 degrees C (90 degrees F)), lower humidities were necessary for survival. This is contradictory to previous results by Planes (1941). He noted that high humidity contributed to the rise of high tomato russet mite populations.
+Rice and Strong (1962) reported higher reproductive rates than previous experiments. Their study found that female tomato russet mites laid 10 to 53 eggs, depending on the environmental conditions. Longevity of the females was 47.5 days at 21 degrees C (70 degrees F) and 90% relative humidity. Their result indicated that the optimum conditions for population increase was temperatures near 26.7 degrees C (80 degrees F) and 30% relative humidity.
+A study by Tsalev (1967) indicated that tomato russet mites have high developmental rates in relatively cool conditions (15-24 degrees C (59-75 degrees F)) and 70-80% relative humidity. A single generation developed in 15 to 18 days.
+The developmental biology information in the following sections is based on a 1979 study by Abou-Awad. The results were based on experimental conditions of 25 degrees C (77 degrees F) and 70% relative humidity. Males developed in an average of 4.62 days and females developed in an average of 5.15 days.
+Eggs
+Eggs are round and colorless to white (Kay, 1986). The eggs are laid on leaves and stems of plants. Both males and females hatch in 2.3 days.
+Larvae
+The larval stage or first nymphal stage lasts about 11 hours for females and about 7 hours for males. The larval ch
+Text Len: 1748
+--------------------------------------------------------------------------------
+ of 5.15 days.
+Eggs
+Eggs are round and colorless to white (Kay, 1986). The eggs are laid on leaves and stems of plants. Both males and females hatch in 2.3 days.
+Larvae
+The larval stage or first nymphal stage lasts about 11 hours for females and about 7 hours for males. The larval chrysalis (quiescent molting period between stages) lasts about 13 hours for both males and females. Larvae are white in color and look similar to the adults, but they are smaller and less active.
+Nymph
+The nymphal stage or second nymphal stage lasts a little over a day for females and about 19 hours for males. The nymphal chrysalis lasts 18 hours for females and 16 hours for males.
+Adults
+The adults are about 0.15 to 0.2 mm long and 0.05 mm wide (Kay, 1986). Their bodies are torpedo-shaped and cream to light gray-brown in color. Females live for about 22 days and males live for an average of 16 days. Females have a preovipositional period of 2 days and an ovipositional period of 19 days. The female produces an average of 16 eggs during the ovipositional period. Offspring of both sexes are produced by fertilized females. Unfertilized females only produce males.
+BEHAVIOR
+The tomato russet mite can kill tomato plants by feeding and reproducing rapidly on tomato plants. This phenomenon is known as "solanum stimulation" (Bailey and Keifer, 1943). The tomato russet mite also exhibits "solanum stimulation" on tomatillos, potato, eggplant, black nightshade, and horsenettle (Rice and Strong, 1962). Injury to tomato plants is caused by feeding. The tomato russet mite usually begins at
+Text Len: 1578
+--------------------------------------------------------------------------------
+ phenomenon is known as "solanum stimulation" (Bailey and Keifer, 1943). The tomato russet mite also exhibits "solanum stimulation" on tomatillos, potato, eggplant, black nightshade, and horsenettle (Rice and Strong, 1962). Injury to tomato plants is caused by feeding. The tomato russet mite usually begins at the base of the tomato plant, and eventually works its way up the plant (Kay, 1986). The tomato russet mite feeds on all green surfaces of the host plant. They puncture the plant epidermal cells to feed on the plant cell contents. The greatest concentration of mites is normally the area just ahead of the damaged area. A study by Royalty and Perring (1988) suggests that as tomato russet mite population density increases, feeding activity of each individual mite accelerates.
+Kay (1986) indicates that these mites disperse via the wind or by being carried on machinery, people, and maybe animals or insects that move in the field. These mites cannot fly.
+MANAGEMENT
+Non-Chemical Control
+There are a few of predators that feed on the tomato russet mite, but most of them do not seem feasible for a biological control program. Bailey and Keifer (1943) observed that a predatory mite, Seiulus sp., was effective in controlling tomato russet mite on tomatoes grown in home gardens. However, this predatory mite was not effective as a commercial biological control agent.
+There are other predatory mites which feed on tomato russet mite. Typhlodromus occidentalis (Nesbitt), Pronematus ubiquitis (McGregor), and Lasioseius sp. were predatory mites noted by Rice (1961). The Zambia Department of Agriculture (1977) implied that the predatory mite, Phytosei
+Text Len: 1663
+--------------------------------------------------------------------------------
+
+There are other predatory mites which feed on tomato russet mite. Typhlodromus occidentalis (Nesbitt), Pronematus ubiquitis (McGregor), and Lasioseius sp. were predatory mites noted by Rice (1961). The Zambia Department of Agriculture (1977) implied that the predatory mite, Phytoseiulus persimilis (Athias-Henriot), may have controlled tomato russet mite. De Moraes and Lima (1983) observed that Euseius concordis (Chant) will feed on tomato russet mite. They indicated that its effectiveness as a predator of the tomato russet mite would be limited by the presence of Tetranychus evansi (Baker and Pritchard). The problem is with the webbing of T. evansi. It hinders the activity of E. concordis. Another problem is the presence of tomato russet mite with T. evansi for most of the year.
+There seems to be some potential for the use of Homeopronematus anconai (Baker) as a biological control agent. (Perring and Farrar, 1986). Studies indicate that this predator is effective in controlling tomato russet mite in the laboratory.
+Basic crop sanitation helps in the control of the tomato russet mite (Kay, 1986). Weed hosts should be eliminated within and around the crop. Crop residues should also be destroyed. Keeping the area around the crop free of tomato russet mite hosts helps to reduce the sources of infestation.
+Chemical Control
+The crop should be monitored for any plant symptoms indicative of the presence of the tomato russet mite. When tomato russet mites are found, control measures should be taken early so that serious damage to the crop does not occur. Also,
+Text Len: 1578
+--------------------------------------------------------------------------------
+ Keeping the area around the crop free of tomato russet mite hosts helps to reduce the sources of infestation.
+Chemical Control
+The crop should be monitored for any plant symptoms indicative of the presence of the tomato russet mite. When tomato russet mites are found, control measures should be taken early so that serious damage to the crop does not occur. Also, good pesticide spraying technique is important for complete coverage of all parts of the plant. The lower part of the stem and the undersides of the leaves should not be forgotten.
+Sulfur is usually recommended for the control of mites. However, in northern Queensland, a study by Kay and Shepherd (1988) found sulfur to be ineffective. Their 7 trial study was conducted from 1982 to 1985 on tomatoes. They found that the most effective acaricides against an established infestation of tomato russet mite were dicofol (Kelthane), cyhexatin (Plictran), azocyclotin (Peropal), sulprofos (Bolstar), and monocrotophos (Azodrin). Fenbutatin oxide (Vendex) was moderately effective. Sulfur, demeten-S-methyl (Metasytox-R), dimethoate, endosulfan, methamidophos (Monitor), and propargite (Omite) were ineffective.
+Kay and Shepherd (1988) also found that dicofol and cyhexatin were the most effective treatments to prevent a damaging infestation from developing. Sulprofos and monocrotophos were also effective. Sulfur was ineffective. Three-weekly or monthly applications were found to be insufficient. A weekly or fortnightly application schedule was necessary for prevention.
+Royalty and Perring (1987) evaluated five acaricides on tomato russet mite and a tydeid mite predator, Homeopronem
+Text Len: 1651
+--------------------------------------------------------------------------------
+ from developing. Sulprofos and monocrotophos were also effective. Sulfur was ineffective. Three-weekly or monthly applications were found to be insufficient. A weekly or fortnightly application schedule was necessary for prevention.
+Royalty and Perring (1987) evaluated five acaricides on tomato russet mite and a tydeid mite predator, Homeopronematus anconai. For tomato russet mite, avermectin B1 (Avid, Agrimer) was the most toxic, followed by dicofol, cyhexatin, sulfur, and thuringiensin. For H. anconai, dicofol was the most toxic followed by avermectin B1, sulfur, cyhexatin, and thuringienson. According to their study, selective doses of Avermectin B1 could provide good control of tomato russet mite while conserving a predator of the tomato russet mite, H. anconai.
+REFERENCES
+Abou-Awad, B. A. 1979. The Tomato Russet Mite, Aculops lycopersici (Massee) (Acari: Eriophyidae) in Egypt. Anz. Schadlingskde Pflanzenschutz Umweltschutz. 52: 153-156.
+Bailey, S. F. and H. H. Keifer. 1943. The Tomato Russet Mite, Phyllocoptes destructor Keifer: Its Present Status. J. Econ. Entomol. 36: 706-712.
+De Moraes, G. J. and H. C. Lima. 1983. Biology of Euseius concordis (Chant) (Acarina: Phytoseiidae) a Predator of the Tomato Russet Mite. Acarologia.
+Text Len: 1251
+--------------------------------------------------------------------------------
+ Keifer: Its Present Status. J. Econ. Entomol. 36: 706-712.
+De Moraes, G. J. and H. C. Lima. 1983. Biology of Euseius concordis (Chant) (Acarina: Phytoseiidae) a Predator of the Tomato Russet Mite. Acarologia. 24: 251-255.
+Jeppson, L. R., H. H. Keifer, and E. W. Baker. 1975. Mites Injurious to Economic Plants. University of California Press, Berkeley, CA. 614 pp.
+Kay, I. R. 1986. Tomato Russet Mite: A Serious Pest of Tomatoes. Queensland Agricultural Journal. 112 (5): 231-232.
+Kay, I. R. and R. K. Shepherd. 1988. Chemical Control of the Tomato Russet Mite on Tomatoes in the Dry Tropics of Queensland. Queensland Journal of Agriculture and Animal Sciences. 45 (1): 1-8.
+Perring, T. M. and C. A. Farrar. 1986. Historical Perspective and Current World Status of the Tomato Russet Mite (Acari: Eriophyidae). Miscellaneous Publications of the Entomological Society of America. 63: 1-9.
+Planes, S. 1941. Grave Enfermedad del Tomate Producida por un Acaro del Genero Phyllocoptes. Boletin de Patologia Vegetal. 10: 148-156.
+Rice, R. E. 1961. Bionomics of the Tomato Russet Mite, Aculus lycopersici. Master of Science Thesis, University of California, Davis, California. 49 pp.
+Rice, R. E. and F. E. Strong. 1962. Bionomics of the Tomato Russet Mite. Vas
+Text Len: 1253
+--------------------------------------------------------------------------------
+ 10: 148-156.
+Rice, R. E. 1961. Bionomics of the Tomato Russet Mite, Aculus lycopersici. Master of Science Thesis, University of California, Davis, California. 49 pp.
+Rice, R. E. and F. E. Strong. 1962. Bionomics of the Tomato Russet Mite. Vasates lycopersici (Massee). Ann. Entomol. Soc. Am. 55: 431-435.
+Royalty, R. N. and T. M. Perring. 1987. Comparative Toxicity of Acaricides to Aculops lycopersici and Homeopronematus anconai (Acari: Eriophyidae, Tydeidae). J. Econ. Entomol. 80 (2): 348-351.
+Royalty, R. N. and T. M. Perring. 1988. Morphological Analysis of Damage to Tomato Leaflets by Tomato Russet Mite (Acari: Eriophyidae). J. Econ. Entomol. 81 (3): 816-820.
+Tsalev, M. 1967. The Tomato Russet Mite and Its Control. Rastit. Zasht. 15: 17-18.
+Zambia Dept. of Agric. 1977. Control of Russet Mite. Ann. Rept. Res. Branch 1971-1972. 287 pp.
+  NOV/1994.
+  A-LYCOPE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 930
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Aculops lycopersici (Massee)
+Tomato Russet Mite
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Specialist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+  HOSTS
+Most of the hosts of the tomato russet mite belong to the family Solanaceae (Perring and Farrar, 1986). Hosts include tomato, tomatillo, potato, eggplant, poha (cape gooseberry), wild black currant, popolo, wild gooseberry, blackberry, tobacco, bell pepper, cherry pepper, Tolguacha, eggplant, Jerusalem cherry, Harry nightshade, black nightshade, horsenettle, morning glory, Jimson weed, Chinese thorn apple, petunia, nightshade, small flowered nightshade, amethyst, field bindweed, and Brinjal.
+DISTRIBUTION
+The tomato russet mite is cosmopolitan in distribution. It is present in almost all areas where solanaceous crops are grown (Jeppson, et. al., 1975). The exception is in southern and northern latitudes below 60 degrees and above 60 degrees, respectively (Perring and Farrar, 1986). These latitudes do not appear to have conditions suitable for the tomato russet mite. This mite has been in Hawaii since 1942 and is present on the islands of Kauai, Maui and Oahu.
+DAMAGE
+The tomato russet mite can induce serious injury on tomato. Silvering of the undersurface of lower leaves is an early symptom (Kay, 1986). These leaves later become bronze colored, whither, and die. The lower part of the stem loses hairs, becomes rusty brown or smoky in color, and may develop small cracks on the surface.
+Text Len: 1571
+--------------------------------------------------------------------------------
+ahu.
+DAMAGE
+The tomato russet mite can induce serious injury on tomato. Silvering of the undersurface of lower leaves is an early symptom (Kay, 1986). These leaves later become bronze colored, whither, and die. The lower part of the stem loses hairs, becomes rusty brown or smoky in color, and may develop small cracks on the surface. Some of these damage symptoms are also characteristic of broad mite and thrips so identification of the mite is important. Continuous feeding results in a wilted, russeted (reddish-brown) tomato plant, and eventually leaf desiccation and plant death occurs (Keifer, et. al. 1982).
+Damage also occurs to the fruit. Fruit setting is curtailed in plants infested with tomato russet mite (Kay, 1986). Loss of foliage due to tomato russet mite feeding exposes the fruits to sunburn. In addition, green or ripening fruits from infested crops often have pale, yellow to white, halo shaped blotches. Severe infestations cause severe discoloration of the fruit surface and small cracks at the stem end (Kay, 1986).
+BIOLOGY
+There have been several studies on the developmental biology of the tomato russet mite with varying results. Bailey and Keifer (1943) observed that at 21 degrees C, the tomato russet mite female laid an average of 15 eggs in her lifetime. Newly emerged females began laying eggs after 2 days. Eggs hatched in 2 days at room temperature, the larval stage was only 1 day, and the nymphal stage lasted 2 days. Rice and Strong (1962) reported that the life cycle was 6.5 days under optimal conditions (21 degrees C (70 degrees F) and 30% relative humidity) and under very high temperatures (32 degrees C (90 degrees F)), lower humidities were necessary for survival. This is
+Text Len: 1719
+--------------------------------------------------------------------------------
+ temperature, the larval stage was only 1 day, and the nymphal stage lasted 2 days. Rice and Strong (1962) reported that the life cycle was 6.5 days under optimal conditions (21 degrees C (70 degrees F) and 30% relative humidity) and under very high temperatures (32 degrees C (90 degrees F)), lower humidities were necessary for survival. This is contradictory to previous results by Planes (1941). He noted that high humidity contributed to the rise of high tomato russet mite populations.
+Rice and Strong (1962) reported higher reproductive rates than previous experiments. Their study found that female tomato russet mites laid 10 to 53 eggs, depending on the environmental conditions. Longevity of the females was 47.5 days at 21 degrees C (70 degrees F) and 90% relative humidity. Their result indicated that the optimum conditions for population increase was temperatures near 26.7 degrees C (80 degrees F) and 30% relative humidity.
+A study by Tsalev (1967) indicated that tomato russet mites have high developmental rates in relatively cool conditions (15-24 degrees C (59-75 degrees F)) and 70-80% relative humidity. A single generation developed in 15 to 18 days.
+The developmental biology information in the following sections is based on a 1979 study by Abou-Awad. The results were based on experimental conditions of 25 degrees C (77 degrees F) and 70% relative humidity. Males developed in an average of 4.62 days and females developed in an average of 5.15 days.
+Eggs
+Eggs are round and colorless to white (Kay, 1986). The eggs are laid on leaves and stems of plants. Both males and females hatch in 2.3 days.
+Larvae
+The larval stage or first nymphal stage lasts about 11 hours for females and about 7 hours for males. The larval ch
+Text Len: 1748
+--------------------------------------------------------------------------------
+ of 5.15 days.
+Eggs
+Eggs are round and colorless to white (Kay, 1986). The eggs are laid on leaves and stems of plants. Both males and females hatch in 2.3 days.
+Larvae
+The larval stage or first nymphal stage lasts about 11 hours for females and about 7 hours for males. The larval chrysalis (quiescent molting period between stages) lasts about 13 hours for both males and females. Larvae are white in color and look similar to the adults, but they are smaller and less active.
+Nymph
+The nymphal stage or second nymphal stage lasts a little over a day for females and about 19 hours for males. The nymphal chrysalis lasts 18 hours for females and 16 hours for males.
+Adults
+The adults are about 0.15 to 0.2 mm long and 0.05 mm wide (Kay, 1986). Their bodies are torpedo-shaped and cream to light gray-brown in color. Females live for about 22 days and males live for an average of 16 days. Females have a preovipositional period of 2 days and an ovipositional period of 19 days. The female produces an average of 16 eggs during the ovipositional period. Offspring of both sexes are produced by fertilized females. Unfertilized females only produce males.
+BEHAVIOR
+The tomato russet mite can kill tomato plants by feeding and reproducing rapidly on tomato plants. This phenomenon is known as "solanum stimulation" (Bailey and Keifer, 1943). The tomato russet mite also exhibits "solanum stimulation" on tomatillos, potato, eggplant, black nightshade, and horsenettle (Rice and Strong, 1962). Injury to tomato plants is caused by feeding. The tomato russet mite usually begins at
+Text Len: 1578
+--------------------------------------------------------------------------------
+ phenomenon is known as "solanum stimulation" (Bailey and Keifer, 1943). The tomato russet mite also exhibits "solanum stimulation" on tomatillos, potato, eggplant, black nightshade, and horsenettle (Rice and Strong, 1962). Injury to tomato plants is caused by feeding. The tomato russet mite usually begins at the base of the tomato plant, and eventually works its way up the plant (Kay, 1986). The tomato russet mite feeds on all green surfaces of the host plant. They puncture the plant epidermal cells to feed on the plant cell contents. The greatest concentration of mites is normally the area just ahead of the damaged area. A study by Royalty and Perring (1988) suggests that as tomato russet mite population density increases, feeding activity of each individual mite accelerates.
+Kay (1986) indicates that these mites disperse via the wind or by being carried on machinery, people, and maybe animals or insects that move in the field. These mites cannot fly.
+MANAGEMENT
+Non-Chemical Control
+There are a few of predators that feed on the tomato russet mite, but most of them do not seem feasible for a biological control program. Bailey and Keifer (1943) observed that a predatory mite, Seiulus sp., was effective in controlling tomato russet mite on tomatoes grown in home gardens. However, this predatory mite was not effective as a commercial biological control agent.
+There are other predatory mites which feed on tomato russet mite. Typhlodromus occidentalis (Nesbitt), Pronematus ubiquitis (McGregor), and Lasioseius sp. were predatory mites noted by Rice (1961). The Zambia Department of Agriculture (1977) implied that the predatory mite, Phytosei
+Text Len: 1663
+--------------------------------------------------------------------------------
+
+There are other predatory mites which feed on tomato russet mite. Typhlodromus occidentalis (Nesbitt), Pronematus ubiquitis (McGregor), and Lasioseius sp. were predatory mites noted by Rice (1961). The Zambia Department of Agriculture (1977) implied that the predatory mite, Phytoseiulus persimilis (Athias-Henriot), may have controlled tomato russet mite. De Moraes and Lima (1983) observed that Euseius concordis (Chant) will feed on tomato russet mite. They indicated that its effectiveness as a predator of the tomato russet mite would be limited by the presence of Tetranychus evansi (Baker and Pritchard). The problem is with the webbing of T. evansi. It hinders the activity of E. concordis. Another problem is the presence of tomato russet mite with T. evansi for most of the year.
+There seems to be some potential for the use of Homeopronematus anconai (Baker) as a biological control agent. (Perring and Farrar, 1986). Studies indicate that this predator is effective in controlling tomato russet mite in the laboratory.
+Basic crop sanitation helps in the control of the tomato russet mite (Kay, 1986). Weed hosts should be eliminated within and around the crop. Crop residues should also be destroyed. Keeping the area around the crop free of tomato russet mite hosts helps to reduce the sources of infestation.
+Chemical Control
+The crop should be monitored for any plant symptoms indicative of the presence of the tomato russet mite. When tomato russet mites are found, control measures should be taken early so that serious damage to the crop does not occur. Also,
+Text Len: 1578
+--------------------------------------------------------------------------------
+ Keeping the area around the crop free of tomato russet mite hosts helps to reduce the sources of infestation.
+Chemical Control
+The crop should be monitored for any plant symptoms indicative of the presence of the tomato russet mite. When tomato russet mites are found, control measures should be taken early so that serious damage to the crop does not occur. Also, good pesticide spraying technique is important for complete coverage of all parts of the plant. The lower part of the stem and the undersides of the leaves should not be forgotten.
+Sulfur is usually recommended for the control of mites. However, in northern Queensland, a study by Kay and Shepherd (1988) found sulfur to be ineffective. Their 7 trial study was conducted from 1982 to 1985 on tomatoes. They found that the most effective acaricides against an established infestation of tomato russet mite were dicofol (Kelthane), cyhexatin (Plictran), azocyclotin (Peropal), sulprofos (Bolstar), and monocrotophos (Azodrin). Fenbutatin oxide (Vendex) was moderately effective. Sulfur, demeten-S-methyl (Metasytox-R), dimethoate, endosulfan, methamidophos (Monitor), and propargite (Omite) were ineffective.
+Kay and Shepherd (1988) also found that dicofol and cyhexatin were the most effective treatments to prevent a damaging infestation from developing. Sulprofos and monocrotophos were also effective. Sulfur was ineffective. Three-weekly or monthly applications were found to be insufficient. A weekly or fortnightly application schedule was necessary for prevention.
+Royalty and Perring (1987) evaluated five acaricides on tomato russet mite and a tydeid mite predator, Homeopronem
+Text Len: 1651
+--------------------------------------------------------------------------------
+ from developing. Sulprofos and monocrotophos were also effective. Sulfur was ineffective. Three-weekly or monthly applications were found to be insufficient. A weekly or fortnightly application schedule was necessary for prevention.
+Royalty and Perring (1987) evaluated five acaricides on tomato russet mite and a tydeid mite predator, Homeopronematus anconai. For tomato russet mite, avermectin B1 (Avid, Agrimer) was the most toxic, followed by dicofol, cyhexatin, sulfur, and thuringiensin. For H. anconai, dicofol was the most toxic followed by avermectin B1, sulfur, cyhexatin, and thuringienson. According to their study, selective doses of Avermectin B1 could provide good control of tomato russet mite while conserving a predator of the tomato russet mite, H. anconai.
+REFERENCES
+Abou-Awad, B. A. 1979. The Tomato Russet Mite, Aculops lycopersici (Massee) (Acari: Eriophyidae) in Egypt. Anz. Schadlingskde Pflanzenschutz Umweltschutz. 52: 153-156.
+Bailey, S. F. and H. H. Keifer. 1943. The Tomato Russet Mite, Phyllocoptes destructor Keifer: Its Present Status. J. Econ. Entomol. 36: 706-712.
+De Moraes, G. J. and H. C. Lima. 1983. Biology of Euseius concordis (Chant) (Acarina: Phytoseiidae) a Predator of the Tomato Russet Mite. Acarologia.
+Text Len: 1251
+--------------------------------------------------------------------------------
+ Keifer: Its Present Status. J. Econ. Entomol. 36: 706-712.
+De Moraes, G. J. and H. C. Lima. 1983. Biology of Euseius concordis (Chant) (Acarina: Phytoseiidae) a Predator of the Tomato Russet Mite. Acarologia. 24: 251-255.
+Jeppson, L. R., H. H. Keifer, and E. W. Baker. 1975. Mites Injurious to Economic Plants. University of California Press, Berkeley, CA. 614 pp.
+Kay, I. R. 1986. Tomato Russet Mite: A Serious Pest of Tomatoes. Queensland Agricultural Journal. 112 (5): 231-232.
+Kay, I. R. and R. K. Shepherd. 1988. Chemical Control of the Tomato Russet Mite on Tomatoes in the Dry Tropics of Queensland. Queensland Journal of Agriculture and Animal Sciences. 45 (1): 1-8.
+Perring, T. M. and C. A. Farrar. 1986. Historical Perspective and Current World Status of the Tomato Russet Mite (Acari: Eriophyidae). Miscellaneous Publications of the Entomological Society of America. 63: 1-9.
+Planes, S. 1941. Grave Enfermedad del Tomate Producida por un Acaro del Genero Phyllocoptes. Boletin de Patologia Vegetal. 10: 148-156.
+Rice, R. E. 1961. Bionomics of the Tomato Russet Mite, Aculus lycopersici. Master of Science Thesis, University of California, Davis, California. 49 pp.
+Rice, R. E. and F. E. Strong. 1962. Bionomics of the Tomato Russet Mite. Vas
+Text Len: 1253
+--------------------------------------------------------------------------------
+ 10: 148-156.
+Rice, R. E. 1961. Bionomics of the Tomato Russet Mite, Aculus lycopersici. Master of Science Thesis, University of California, Davis, California. 49 pp.
+Rice, R. E. and F. E. Strong. 1962. Bionomics of the Tomato Russet Mite. Vasates lycopersici (Massee). Ann. Entomol. Soc. Am. 55: 431-435.
+Royalty, R. N. and T. M. Perring. 1987. Comparative Toxicity of Acaricides to Aculops lycopersici and Homeopronematus anconai (Acari: Eriophyidae, Tydeidae). J. Econ. Entomol. 80 (2): 348-351.
+Royalty, R. N. and T. M. Perring. 1988. Morphological Analysis of Damage to Tomato Leaflets by Tomato Russet Mite (Acari: Eriophyidae). J. Econ. Entomol. 81 (3): 816-820.
+Tsalev, M. 1967. The Tomato Russet Mite and Its Control. Rastit. Zasht. 15: 17-18.
+Zambia Dept. of Agric. 1977. Control of Russet Mite. Ann. Rept. Res. Branch 1971-1972. 287 pp.
+  NOV/1994.
+  A-LYCOPE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 930
+--------------------------------------------------------------------------------

@@ -1,0 +1,30 @@
+Family:  Rubiaceae  ;
+Species:  Mitchella repensL.  ;
+Common Name:  partridge berry  ;
+Habitat:  Tsuga canadensis dominated forests with sparse herbaceous vegetation; other mesic forest types; and coastal oak forests in dry-mesic to mesic sandy soils.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herbaceous  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACU (NCNE),FACU (EMP),S5 (State Rank), CoC: 6  ;
+References:  **  ;
+
+Text Len: 502
+--------------------------------------------------------------------------------
+Family:  Rubiaceae  ;
+Species:  Mitchella repensL.  ;
+Common Name:  partridge berry  ;
+Habitat:  Tsuga canadensis dominated forests with sparse herbaceous vegetation; other mesic forest types; and coastal oak forests in dry-mesic to mesic sandy soils.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herbaceous  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACU (NCNE),FACU (EMP),S5 (State Rank), CoC: 6  ;
+References:  **  ;
+
+Text Len: 502
+--------------------------------------------------------------------------------

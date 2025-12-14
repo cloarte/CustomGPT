@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Helianthus decapetalusL.  ;
+Common Name:  Forest Sunflower; Thin Leaf Sunflower  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HEDE  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 455
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Helianthus decapetalusL.  ;
+Common Name:  Forest Sunflower; Thin Leaf Sunflower  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HEDE  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 455
+--------------------------------------------------------------------------------

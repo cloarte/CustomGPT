@@ -1,0 +1,34 @@
+Family:  GERANIACEAE  ;
+Species:  Geranium texanum(Trel.) A. Heller  ;
+Common Name:  Texas Geranium  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  First discovered in Alabama by Alvin Diamond in 2020 in Montgomery County.  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  Diamond, A.R. 2020. Noteworthy collections of four non-native vascular plant species new to the flora of Alabama and one species rediscovered after 125 years. Castanea 85(2): 319-326.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 677
+--------------------------------------------------------------------------------
+Family:  GERANIACEAE  ;
+Species:  Geranium texanum(Trel.) A. Heller  ;
+Common Name:  Texas Geranium  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  First discovered in Alabama by Alvin Diamond in 2020 in Montgomery County.  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  Diamond, A.R. 2020. Noteworthy collections of four non-native vascular plant species new to the flora of Alabama and one species rediscovered after 125 years. Castanea 85(2): 319-326.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 677
+--------------------------------------------------------------------------------

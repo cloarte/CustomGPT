@@ -1,0 +1,32 @@
+Family:  LYCOPODIACEAE  ;
+Species:  Huperzia ×bartleyi(Cusick) Kartesz & Gandhi  ;
+Common Name:  Bartley's Clubmoss; Bartley's Firmoss  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HUBA  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,S? (State Rank),Hyb (Global Rank)  ;
+References:  **  ;
+
+Text Len: 404
+--------------------------------------------------------------------------------
+Family:  LYCOPODIACEAE  ;
+Species:  Huperzia ×bartleyi(Cusick) Kartesz & Gandhi  ;
+Common Name:  Bartley's Clubmoss; Bartley's Firmoss  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HUBA  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,S? (State Rank),Hyb (Global Rank)  ;
+References:  **  ;
+
+Text Len: 404
+--------------------------------------------------------------------------------

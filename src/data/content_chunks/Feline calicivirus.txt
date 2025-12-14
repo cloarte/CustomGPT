@@ -1,0 +1,1578 @@
+SAM 306.08 
+Page 1 of 13 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+SA
+M 306 
+Supplemental Assay Method for the Titration of Feline Calicivirus 
+in Cell Culture 
+A
+ugust 23, 2023 
+S
+AM 306.08 
+S
+AM 306.07, October 30, 2014 
+9
+ CFR, part 113.314 
+E
+mail:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+Date:  
+Number: 
+Supersedes:  
+Standard Requirement: 
+Contact: 
+ 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 2 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of
+Text Len: 1268
+--------------------------------------------------------------------------------
+
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 3 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro titration method for assaying 
+modified-live feline calicivirus (FCV) vaccines for viral content. The method utilizes plaque 
+forming units (PFU) in a cell culture system. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Syringe, self-refilling, repetitive, 2-mL  
+ 
+2.1.2   Micropipettor, 200-µl, and tips (Rainin Pipetman®) 
+ 
+2.1.3   Blender  
+ 
+2.1.4   Media bottle, borosil
+Text Len: 1168
+--------------------------------------------------------------------------------
+   Syringe, self-refilling, repetitive, 2-mL  
+ 
+2.1.2   Micropipettor, 200-µl, and tips (Rainin Pipetman®) 
+ 
+2.1.3   Blender  
+ 
+2.1.4   Media bottle, borosilicate glass with screw-top lid, 1000-mL 
+ 
+2.1.5   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3158, Forma 
+Scientific Inc.) 
+ 
+2.1.6   Water bath  
+ 
+2.1.7   Inverted light microscope (Model CK, Olympus America Inc.) 
+ 
+2.1.8   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.9   Pipette-aid or Handistep 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   FCV Positive Control virus, C-14 strain  
+ 
+2.2.2   Crandall feline kidney (CRFK) cell culture, free of extraneous agents as 
+tested by title 9, Code of Federal Regulations (9 CFR), part 113.52 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 4 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.
+Text Len: 1058
+--------------------------------------------------------------------------------
+tested by title 9, Code of Federal Regulations (9 CFR), part 113.52 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 4 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.2.3   Minimum Essential Medium (MEM) National Centers for Animal Health  
+(NCAH) Media #20030 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to Step 3 with constant mixing. 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.4   Growth Medium 
+ 
+1.  900 mL of MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  100 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+3
+Text Len: 1004
+--------------------------------------------------------------------------------
+
+2.2.4   Growth Medium 
+ 
+1.  900 mL of MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  100 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+3.  Store at 2°- 7°C. 
+ 
+2.2.5   2X Medium 
+ 
+1.  19.22 g MEM with Earles salts without bicarbonate 
+ 
+2.  2.2 g NaHCO3 
+ 
+3.  Dissolve with 900 mL DI. 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to Step 3 with constant mixing. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 5 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N HCl. 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+8.  On the day of test initiation and prior to preparing the Overlay 
+Medium, aseptically add 100 µg/mL gentamicin sulfate. 
+ 
+2.2.6   2% Tragacanth Gum (Trag) 
+ 
+1.  20 g Trag
+Text Len: 946
+--------------------------------------------------------------------------------
+ 2°- 7°C. 
+ 
+8.  On the day of test initiation and prior to preparing the Overlay 
+Medium, aseptically add 100 µg/mL gentamicin sulfate. 
+ 
+2.2.6   2% Tragacanth Gum (Trag) 
+ 
+1.  20 g Trag 
+ 
+2.  1000 mL DI 
+ 
+3.  Add small amounts of Trag at a time and vigorously mix with a 
+blender set on high. 
+ 
+4.  Pour 500 mL into individual glass 1000-mL media bottles. 
+ 
+5. Sterilize by autoclaving at 15 psi, 121°± 2°C for 35 ± 5 minutes. 
+ 
+6.  Store at 2°- 7°C. 
+ 
+2.2.7   7.5% Sodium Bicarbonate  
+ 
+1.  7.5 g NaHCO3 
+ 
+2.  Q.S. to 100 mL with DI. 
+ 
+3.  Sterilize by autoclaving at 15 psi, 121°± 2°C for 30 ± 10 minutes. 
+ 
+4.  Store at 2°- 7°C. 
+ 
+2.2.8   70% Ethyl Alcohol (NCAH Media #30184) 
+ 
+1.  73 mL ethyl alcohol (95% [195 proof]) 
+ 
+2.  27 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 6 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCON
+Text Len: 962
+--------------------------------------------------------------------------------
+% [195 proof]) 
+ 
+2.  27 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 6 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.2.9   Crystal Violet Stain (NCAH Media #30012) 
+ 
+1.  7.5 g crystal violet 
+ 
+2.  50 mL 70% Ethyl Alcohol 
+ 
+3.  Dissolve crystal violet in alcohol; add remaining ingredients. 
+ 
+4.  250 mL formaldehyde 
+ 
+Note: According to 29 CFR 1910.1048, precautions for the use of 
+formaldehyde are as follows: Toxic by inhalation and if swallowed. 
+Irritating to the eyes, respiratory system and the skin. May cause 
+sensitization by inhalation or by skin contact. Risk of serious damage 
+to eyes. Potential cancer hazard; repeated or prolonged exposure 
+increases the risk. 
+ 
+5.  Q.S. to 1000 mL with DI. 
+ 
+6.  Filter through Whatman® #1 filter paper. 
+ 
+7.  Store at room temperature. 
+ 
+2.2.10  Tissue culture plates, 4-well 
+ 
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 25-mL 
+ 
+2.2.13  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.14  Syringes (tuberculin), 1-mL
+Text Len: 1121
+--------------------------------------------------------------------------------
+
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 25-mL 
+ 
+2.2.13  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.14  Syringes (tuberculin), 1-mL 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Personnel must have experience in the preparation and maintenance of cell culture as 
+well as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by plaque formation. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 7 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C.  
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Preparation of CRFK tissue culture plates (Test Plates) 
+ 
+Cells are prepared from healthy, confluent CRFK cell cultures that are maintained 
+by passing every 3 to 4 days. Two days prior to test initiation, add 8.0 mL/well of 
+approximately 105.0 to 105.3 cells/mL suspended in Growth Medium into all wells 
+of a 4-well tissue culture plate. Prepare one Test Plate for the FCV Positive 
+Control and one for each Test Vaccine. Incubate at 36°± 2°C in a CO2
+Text Len: 1254
+--------------------------------------------------------------------------------
+ Two days prior to test initiation, add 8.0 mL/well of 
+approximately 105.0 to 105.3 cells/mL suspended in Growth Medium into all wells 
+of a 4-well tissue culture plate. Prepare one Test Plate for the FCV Positive 
+Control and one for each Test Vaccine. Incubate at 36°± 2°C in a CO2 incubator. 
+ 
+3.3.2   Preparation of FCV Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of current FCV 
+Positive Control virus in the water bath. 
+ 
+2.  Dispense 1.8 mL of MEM into sufficient 12 x 75-mm polystyrene 
+tubes to bracket the expected endpoint appropriately label (e.g., 9 tubes, 
+labeled 10-1 through 10-9, respectively). 
+ 
+3.  Transfer 200 µL of the FCV Positive Control virus to the tube labeled 
+10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube to 
+the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Section 3.3.2(4) for each of the subsequent dilutions, 
+transferring 200 µL of the previous dilution to the next dilution tube until 
+the tenfold dilution series is completed. 
+ 
+3.3.3   Overlay Medium Preparation 
+ 
+On the day of test initiation, prepare approximately 35 mL per plate of Overlay 
+Medium. Volumes listed are for 1 liter of overlay medium. 
+ 
+1.  Aseptically add to 500 mL of 2X Medium: 
+ 
+a.
+Text Len: 1283
+--------------------------------------------------------------------------------
+ is completed. 
+ 
+3.3.3   Overlay Medium Preparation 
+ 
+On the day of test initiation, prepare approximately 35 mL per plate of Overlay 
+Medium. Volumes listed are for 1 liter of overlay medium. 
+ 
+1.  Aseptically add to 500 mL of 2X Medium: 
+ 
+a.  10% gamma-irradiated FBS 
+ 
+b.  10 mL of  7.5% Sodium Bicarbonate 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 8 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+c.  50 µg/mL gentamicin sulfate 
+ 
+d.  500 mL of 2% Trag 
+ 
+2.  Mix and warm the Overlay Medium in a 36°± 2°C water bath for 60 ± 
+10 minutes prior to performing the procedure in Section 4.5. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   The initial test will be with a single vial (a single sample from one vial). 
+On the day of test initiation, using a 1.0-mL syringe and an 18-gauge x 1 1/2-inch 
+needle, rehydrate a vial of the Test Vaccine with the provided diluent by 
+transferring 1.0 mL for a 1-mL-dose vaccine, 0.5 mL for a 1/2-mL-dose vaccine, 
+etc., into the vial containing the lyophilized Test Vaccine; mix by vortexing. 
+Incubate for
+Text Len: 1152
+--------------------------------------------------------------------------------
+, rehydrate a vial of the Test Vaccine with the provided diluent by 
+transferring 1.0 mL for a 1-mL-dose vaccine, 0.5 mL for a 1/2-mL-dose vaccine, 
+etc., into the vial containing the lyophilized Test Vaccine; mix by vortexing. 
+Incubate for 15 ± 5 minutes at room temperature. 
+ 
+3.4.2   Dispense 1.8 mL MEM into each of 6, 12 x 75-mm polystyrene tubes 
+labeled 10-1 through 10-6. 
+ 
+3.4.3   Transfer 200 µL of the Test Vaccine to the tube labeled 10-1; mix by 
+vortexing. 
+ 
+3.4.4   Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to the 
+10-2 tube; mix by vortexing. 
+ 
+3.4.5   Repeat Section 3.4.4 for each of the subsequent dilutions, transferring  
+200 µL of the previous dilution to the next dilution tube until the tenfold dilution 
+series is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test initiation, label the Test Plates and remove the Growth 
+Medium.  
+ 
+Note: Presence of confluent cells is necessary in order to distinguish plaques due to 
+infection by FRV. If cells are not confluent at two days incubation, start of the test 
+may be delayed an additional day in order to obtain confluency. 
+ 
+4.2   Inoculate one well/dilution with 200 µL from dilutions 10-6 through
+Text Len: 1227
+--------------------------------------------------------------------------------
+ cells is necessary in order to distinguish plaques due to 
+infection by FRV. If cells are not confluent at two days incubation, start of the test 
+may be delayed an additional day in order to obtain confluency. 
+ 
+4.2   Inoculate one well/dilution with 200 µL from dilutions 10-6 through 10-3 of the 
+Test Vaccine, starting with the highest dilution (most dilute). Inoculate one well/dilution 
+from dilutions 10-9 through 10-7 of the FCV Positive Control. Change tips between each 
+unique sample (i.e., each Test Vaccine), but tip changes are not necessary between each  
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 9 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+dilution in a series when pipetting from the most dilute to the most concentrated (e.g.,  
+10-6 through 10-3). Gently rotate the plates to evenly disperse the inoculum. 
+ 
+4.3   One uninoculated well on a Test Plate serves as a negative cell control. 
+ 
+4.4   Incubate the inoculated Test Plates at 36°± 2°C for 75 ± 15 minutes in a CO2 
+incubator. To evenly disperse the inoculum, gently rotate the plates at intervals of          
+25 ± 5 minutes. 
+ 
+4.5   Add 8 mL/well of the Overlay Medium to the plates with a 25-mL pipette. 
+Discard any unused, warmed Overlay Medium. 
+Text Len: 1330
+--------------------------------------------------------------------------------
+2 
+incubator. To evenly disperse the inoculum, gently rotate the plates at intervals of          
+25 ± 5 minutes. 
+ 
+4.5   Add 8 mL/well of the Overlay Medium to the plates with a 25-mL pipette. 
+Discard any unused, warmed Overlay Medium. 
+ 
+4.6   Incubate the Test Plates undisturbed at 36°± 2°C in a CO2 incubator for 4 days ± 
+1 day. 
+ 
+4.7   After incubation, without removing the Overlay Medium, pipette 5 mL of the 
+Crystal Violet Stain (Section 2.2.9) into each well of the Test Plates with a 25-mL 
+pipette; mix by gentle rotation. Note the precaution statement in Section 2.2.9(4). 
+ 
+4.8   Allow Test Plates to incubate at room temperature 25 ± 5 minutes. 
+ 
+4.9   Wash the Overlay Medium and the Crystal Violet Stain from the cell monolayers 
+by dipping each plate several times in a container overflowing with running water from 
+the cold water tap until the water is clear. Allow to air dry. 
+ 
+4.10   Count the number of FCV plaques for each well and record observations. If FRV 
+and FCV plaques are counted together in a combination vaccine, the FCV plaques will 
+contrast markedly from FRV. The FRV plaques are visible as small, clear plaques 
+approximately 1 mm in diameter with distinct edges. The FCV plaques are large, clear 
+circular areas (averaging 3 to 4 mm in diameter) with fuzzy edges. If the plaques are not 
+distinguishable by size
+Text Len: 1360
+--------------------------------------------------------------------------------
+, the FCV plaques will 
+contrast markedly from FRV. The FRV plaques are visible as small, clear plaques 
+approximately 1 mm in diameter with distinct edges. The FCV plaques are large, clear 
+circular areas (averaging 3 to 4 mm in diameter) with fuzzy edges. If the plaques are not 
+distinguishable by size, use an inverted light microscope with 100X magnification to 
+differentiate the plaque edges. 
+ 
+4.11   Record results as the number of FCV plaques for each dilution of a Test Vaccine 
+and the FCV Positive Control.  
+ 
+4.12   Calculate the FCV titers of the Test Vaccine and the FCV Positive Control from 
+the dilutions with plaque counts containing 10-100 plaques. The titer may be expressed as 
+PFU per dose of vaccine.  
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 10 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Example: 
+ 
+During the titration of a Test FCV vaccine, the plaque count obtained at dilution 10-3 was 
+65. Calculation of the titer of this vaccine is done according to the following formula: 
+ 
+Test Vaccine Titer = X + p, where 
+ 
+X = Log10 of plaque count 
+p = Log10 of dilution counted  
+ 
+In the above example:  
+ 
+Log10 of plaque count (65)  = 1.8 
+Log10 of dilution counted (10-3) = 3.0  
+ 
+FCV Test Vaccine Titer
+Text Len: 1336
+--------------------------------------------------------------------------------
+, where 
+ 
+X = Log10 of plaque count 
+p = Log10 of dilution counted  
+ 
+In the above example:  
+ 
+Log10 of plaque count (65)  = 1.8 
+Log10 of dilution counted (10-3) = 3.0  
+ 
+FCV Test Vaccine Titer = 1.8 + 3.0 = 4.8 
+ 
+Adjust the titer to the recommend Test Vaccine dose as follows: 
+ 
+A.  Divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this test 
+FCV vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this test FCV vaccine, the inoculation dose is 0.2 mL) 
+ 
+    1 mL dose      = 5  
+      0.2 mL inoculum     
+ 
+B.  Calculate log10 of value in A and add it to the Test Vaccine Titer as 
+illustrated below: 
+ 
+Log of 5 = 0.7 
+ 
+FCV Test Vaccine Titer = 4.8 + 0.7 = 5.5 
+ 
+Therefore, the titer of the FCV Test Vaccine is 105.5 PFU50/mL.  
+ 
+4.13   One plaque represents a single infective unit (IU), whereas one, 50% tissue 
+culture infective dose (TCID50) is statistically equivalent to a theoretical 0.69 IU. A 
+TCID50 endpoint per dose will be 1.44
+Text Len: 1115
+--------------------------------------------------------------------------------
+ of the FCV Test Vaccine is 105.5 PFU50/mL.  
+ 
+4.13   One plaque represents a single infective unit (IU), whereas one, 50% tissue 
+culture infective dose (TCID50) is statistically equivalent to a theoretical 0.69 IU. A 
+TCID50 endpoint per dose will be 1.44 times those expressed as PFU per dose. Therefore, 
+to express a PFU titer as a TCID50 titer, multiply the plaque count by 1.44. In the example 
+above, multiply 65 times 1.44 resulting in 93.6. Convert 93.6 to log10 resulting in 1.97. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 11 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Add the log for the dilution counted (3) and the conversion factor for dose (0.7) which 
+results in a log10 TCID50/mL of 5.67. In practical use, 0.16 (the log of 1.44) may be added 
+to the log10 value of the PFU titer per mL to convert to TCID50/mL. From the above 
+example, the titer of the Test Vaccine is 105.66 TCID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the FCV Positive Control must fall within plus or 
+minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+Text Len: 1288
+--------------------------------------------------------------------------------
+
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the FCV Positive Control must fall within plus or 
+minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The uninoculated cell control cannot exhibit any plaques, cytopathic 
+effects (CPE), or cloudy media that would indicate any contamination. 
+ 
+5.1.3   For endpoint determination, only those tenfold dilutions of the Test 
+Vaccine and the FCV Positive Control inducing 10 to 100 plaques are included in 
+the plaque counts. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice.  
+ 
+5.3   If the validity requirements are met and the titer of the Test Vaccine is greater 
+than or equal to the titer contained in the Animal and Plant Health Inspection Service 
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is less than the titer contained in the 
+APHIS filed Outline of Production for the product under test, the Test Vaccine may  
+be retested in accordance with title 9, Code of Federal Regulations, part 113.8.b. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as PFU50 or TCID50 per dose of Test Vaccine. 
+ 
+ 
+
+Text Len: 1401
+--------------------------------------------------------------------------------
+ filed Outline of Production for the product under test, the Test Vaccine may  
+be retested in accordance with title 9, Code of Federal Regulations, part 113.8.b. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as PFU50 or TCID50 per dose of Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, parts 113.8(b) and 113.314, U.S. 
+Government Printing Office, Washington, DC. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 12 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+7.2 Title 29, Code of Federal Regulations , part 1910.1048, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.3   Cottral, GE. Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates. Ithaca, New York, 1978, pg. 731. 
+ 
+7.4   Davis, Dulbecco, Eisen, Ginsberg, ed. Microbiology including Immunology and 
+Molecular Genetics, 3rd ed. Harper and Row, Hagertown, 1980, pg. 880. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .08 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .07 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version
+Text Len: 1280
+--------------------------------------------------------------------------------
+
+ 
+8.  Summary of Revisions 
+ 
+Version .08 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .07 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .06 
+ 
+• The contact information has been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated. 
+ 
+• FCV Positive Control virus, C-14 strain is no longer available from the CVB and all 
+references to it have been removed from the document. 
+ 
+• References to NVSL have been changed to NCAH throughout the document. 
+ 
+Version .04 
+ 
+• The Contact has been changed from Victor Becerra to Alethea Fry. 
+ 
+• 2.2.9: A precautionary statement for use of formaldehyde has been added. 
+ 
+• 4.13: Conversion from PFU50/mL to TCID50/mL has been clarified. 
+ 
+• Use of reference control terminology has been changed to positive control throughout 
+the document. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 13 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Version .03 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 �
+Text Len: 1426
+--------------------------------------------------------------------------------
+ 
+UNCONTROLLED COPY 
+Version .03 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 “Key Words” has been deleted. 
+ 
+• 2.2.3.2  The amount of sodium bicarbonate (NaHCO2) has been changed from 2.2g to 
+1.1g. 
+ 
+• 2.2.5.8  50 µg/ml gentamicin sulfate has been changed to 100 µg/ml and the use of 
+penicillin and streptomycin has been deleted. 
+ 
+• 4.6  Ninety-six hours has been changed to 4 days ± 1 day. 
+ 
+• 4.12  The determination of virus titer for each Test Vaccine has been rewritten to 
+correct errors in calculations using the example given. 
+ 
+• 5.1.3  The endpoint determination of plaques has been clarified. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference Reagent Sheet” has been changed to “Reagent Data Sheet” throughout the 
+document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+Text Len: 1291
+--------------------------------------------------------------------------------
+SAM 306.08 
+Page 1 of 13 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+SA
+M 306 
+Supplemental Assay Method for the Titration of Feline Calicivirus 
+in Cell Culture 
+A
+ugust 23, 2023 
+S
+AM 306.08 
+S
+AM 306.07, October 30, 2014 
+9
+ CFR, part 113.314 
+E
+mail:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+Date:  
+Number: 
+Supersedes:  
+Standard Requirement: 
+Contact: 
+ 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 2 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of
+Text Len: 1268
+--------------------------------------------------------------------------------
+
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 3 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro titration method for assaying 
+modified-live feline calicivirus (FCV) vaccines for viral content. The method utilizes plaque 
+forming units (PFU) in a cell culture system. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Syringe, self-refilling, repetitive, 2-mL  
+ 
+2.1.2   Micropipettor, 200-µl, and tips (Rainin Pipetman®) 
+ 
+2.1.3   Blender  
+ 
+2.1.4   Media bottle, borosil
+Text Len: 1168
+--------------------------------------------------------------------------------
+   Syringe, self-refilling, repetitive, 2-mL  
+ 
+2.1.2   Micropipettor, 200-µl, and tips (Rainin Pipetman®) 
+ 
+2.1.3   Blender  
+ 
+2.1.4   Media bottle, borosilicate glass with screw-top lid, 1000-mL 
+ 
+2.1.5   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3158, Forma 
+Scientific Inc.) 
+ 
+2.1.6   Water bath  
+ 
+2.1.7   Inverted light microscope (Model CK, Olympus America Inc.) 
+ 
+2.1.8   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.9   Pipette-aid or Handistep 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   FCV Positive Control virus, C-14 strain  
+ 
+2.2.2   Crandall feline kidney (CRFK) cell culture, free of extraneous agents as 
+tested by title 9, Code of Federal Regulations (9 CFR), part 113.52 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 4 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.
+Text Len: 1058
+--------------------------------------------------------------------------------
+tested by title 9, Code of Federal Regulations (9 CFR), part 113.52 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 4 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.2.3   Minimum Essential Medium (MEM) National Centers for Animal Health  
+(NCAH) Media #20030 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to Step 3 with constant mixing. 
+ 
+5.  Q.S. to 1000 mL with DI; adjust pH to 6.8-6.9 with 2N hydrochloric 
+acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.4   Growth Medium 
+ 
+1.  900 mL of MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  100 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+3
+Text Len: 1004
+--------------------------------------------------------------------------------
+
+2.2.4   Growth Medium 
+ 
+1.  900 mL of MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  100 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+3.  Store at 2°- 7°C. 
+ 
+2.2.5   2X Medium 
+ 
+1.  19.22 g MEM with Earles salts without bicarbonate 
+ 
+2.  2.2 g NaHCO3 
+ 
+3.  Dissolve with 900 mL DI. 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI. Heat to 
+60°± 2°C until dissolved. Add to Step 3 with constant mixing. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 5 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N HCl. 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+8.  On the day of test initiation and prior to preparing the Overlay 
+Medium, aseptically add 100 µg/mL gentamicin sulfate. 
+ 
+2.2.6   2% Tragacanth Gum (Trag) 
+ 
+1.  20 g Trag
+Text Len: 946
+--------------------------------------------------------------------------------
+ 2°- 7°C. 
+ 
+8.  On the day of test initiation and prior to preparing the Overlay 
+Medium, aseptically add 100 µg/mL gentamicin sulfate. 
+ 
+2.2.6   2% Tragacanth Gum (Trag) 
+ 
+1.  20 g Trag 
+ 
+2.  1000 mL DI 
+ 
+3.  Add small amounts of Trag at a time and vigorously mix with a 
+blender set on high. 
+ 
+4.  Pour 500 mL into individual glass 1000-mL media bottles. 
+ 
+5. Sterilize by autoclaving at 15 psi, 121°± 2°C for 35 ± 5 minutes. 
+ 
+6.  Store at 2°- 7°C. 
+ 
+2.2.7   7.5% Sodium Bicarbonate  
+ 
+1.  7.5 g NaHCO3 
+ 
+2.  Q.S. to 100 mL with DI. 
+ 
+3.  Sterilize by autoclaving at 15 psi, 121°± 2°C for 30 ± 10 minutes. 
+ 
+4.  Store at 2°- 7°C. 
+ 
+2.2.8   70% Ethyl Alcohol (NCAH Media #30184) 
+ 
+1.  73 mL ethyl alcohol (95% [195 proof]) 
+ 
+2.  27 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 6 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCON
+Text Len: 962
+--------------------------------------------------------------------------------
+% [195 proof]) 
+ 
+2.  27 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 6 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+2.2.9   Crystal Violet Stain (NCAH Media #30012) 
+ 
+1.  7.5 g crystal violet 
+ 
+2.  50 mL 70% Ethyl Alcohol 
+ 
+3.  Dissolve crystal violet in alcohol; add remaining ingredients. 
+ 
+4.  250 mL formaldehyde 
+ 
+Note: According to 29 CFR 1910.1048, precautions for the use of 
+formaldehyde are as follows: Toxic by inhalation and if swallowed. 
+Irritating to the eyes, respiratory system and the skin. May cause 
+sensitization by inhalation or by skin contact. Risk of serious damage 
+to eyes. Potential cancer hazard; repeated or prolonged exposure 
+increases the risk. 
+ 
+5.  Q.S. to 1000 mL with DI. 
+ 
+6.  Filter through Whatman® #1 filter paper. 
+ 
+7.  Store at room temperature. 
+ 
+2.2.10  Tissue culture plates, 4-well 
+ 
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 25-mL 
+ 
+2.2.13  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.14  Syringes (tuberculin), 1-mL
+Text Len: 1121
+--------------------------------------------------------------------------------
+
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 25-mL 
+ 
+2.2.13  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.14  Syringes (tuberculin), 1-mL 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Personnel must have experience in the preparation and maintenance of cell culture as 
+well as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by plaque formation. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 7 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C.  
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Preparation of CRFK tissue culture plates (Test Plates) 
+ 
+Cells are prepared from healthy, confluent CRFK cell cultures that are maintained 
+by passing every 3 to 4 days. Two days prior to test initiation, add 8.0 mL/well of 
+approximately 105.0 to 105.3 cells/mL suspended in Growth Medium into all wells 
+of a 4-well tissue culture plate. Prepare one Test Plate for the FCV Positive 
+Control and one for each Test Vaccine. Incubate at 36°± 2°C in a CO2
+Text Len: 1254
+--------------------------------------------------------------------------------
+ Two days prior to test initiation, add 8.0 mL/well of 
+approximately 105.0 to 105.3 cells/mL suspended in Growth Medium into all wells 
+of a 4-well tissue culture plate. Prepare one Test Plate for the FCV Positive 
+Control and one for each Test Vaccine. Incubate at 36°± 2°C in a CO2 incubator. 
+ 
+3.3.2   Preparation of FCV Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of current FCV 
+Positive Control virus in the water bath. 
+ 
+2.  Dispense 1.8 mL of MEM into sufficient 12 x 75-mm polystyrene 
+tubes to bracket the expected endpoint appropriately label (e.g., 9 tubes, 
+labeled 10-1 through 10-9, respectively). 
+ 
+3.  Transfer 200 µL of the FCV Positive Control virus to the tube labeled 
+10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube to 
+the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Section 3.3.2(4) for each of the subsequent dilutions, 
+transferring 200 µL of the previous dilution to the next dilution tube until 
+the tenfold dilution series is completed. 
+ 
+3.3.3   Overlay Medium Preparation 
+ 
+On the day of test initiation, prepare approximately 35 mL per plate of Overlay 
+Medium. Volumes listed are for 1 liter of overlay medium. 
+ 
+1.  Aseptically add to 500 mL of 2X Medium: 
+ 
+a.
+Text Len: 1283
+--------------------------------------------------------------------------------
+ is completed. 
+ 
+3.3.3   Overlay Medium Preparation 
+ 
+On the day of test initiation, prepare approximately 35 mL per plate of Overlay 
+Medium. Volumes listed are for 1 liter of overlay medium. 
+ 
+1.  Aseptically add to 500 mL of 2X Medium: 
+ 
+a.  10% gamma-irradiated FBS 
+ 
+b.  10 mL of  7.5% Sodium Bicarbonate 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 8 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+c.  50 µg/mL gentamicin sulfate 
+ 
+d.  500 mL of 2% Trag 
+ 
+2.  Mix and warm the Overlay Medium in a 36°± 2°C water bath for 60 ± 
+10 minutes prior to performing the procedure in Section 4.5. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   The initial test will be with a single vial (a single sample from one vial). 
+On the day of test initiation, using a 1.0-mL syringe and an 18-gauge x 1 1/2-inch 
+needle, rehydrate a vial of the Test Vaccine with the provided diluent by 
+transferring 1.0 mL for a 1-mL-dose vaccine, 0.5 mL for a 1/2-mL-dose vaccine, 
+etc., into the vial containing the lyophilized Test Vaccine; mix by vortexing. 
+Incubate for
+Text Len: 1152
+--------------------------------------------------------------------------------
+, rehydrate a vial of the Test Vaccine with the provided diluent by 
+transferring 1.0 mL for a 1-mL-dose vaccine, 0.5 mL for a 1/2-mL-dose vaccine, 
+etc., into the vial containing the lyophilized Test Vaccine; mix by vortexing. 
+Incubate for 15 ± 5 minutes at room temperature. 
+ 
+3.4.2   Dispense 1.8 mL MEM into each of 6, 12 x 75-mm polystyrene tubes 
+labeled 10-1 through 10-6. 
+ 
+3.4.3   Transfer 200 µL of the Test Vaccine to the tube labeled 10-1; mix by 
+vortexing. 
+ 
+3.4.4   Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to the 
+10-2 tube; mix by vortexing. 
+ 
+3.4.5   Repeat Section 3.4.4 for each of the subsequent dilutions, transferring  
+200 µL of the previous dilution to the next dilution tube until the tenfold dilution 
+series is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test initiation, label the Test Plates and remove the Growth 
+Medium.  
+ 
+Note: Presence of confluent cells is necessary in order to distinguish plaques due to 
+infection by FRV. If cells are not confluent at two days incubation, start of the test 
+may be delayed an additional day in order to obtain confluency. 
+ 
+4.2   Inoculate one well/dilution with 200 µL from dilutions 10-6 through
+Text Len: 1227
+--------------------------------------------------------------------------------
+ cells is necessary in order to distinguish plaques due to 
+infection by FRV. If cells are not confluent at two days incubation, start of the test 
+may be delayed an additional day in order to obtain confluency. 
+ 
+4.2   Inoculate one well/dilution with 200 µL from dilutions 10-6 through 10-3 of the 
+Test Vaccine, starting with the highest dilution (most dilute). Inoculate one well/dilution 
+from dilutions 10-9 through 10-7 of the FCV Positive Control. Change tips between each 
+unique sample (i.e., each Test Vaccine), but tip changes are not necessary between each  
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 9 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+dilution in a series when pipetting from the most dilute to the most concentrated (e.g.,  
+10-6 through 10-3). Gently rotate the plates to evenly disperse the inoculum. 
+ 
+4.3   One uninoculated well on a Test Plate serves as a negative cell control. 
+ 
+4.4   Incubate the inoculated Test Plates at 36°± 2°C for 75 ± 15 minutes in a CO2 
+incubator. To evenly disperse the inoculum, gently rotate the plates at intervals of          
+25 ± 5 minutes. 
+ 
+4.5   Add 8 mL/well of the Overlay Medium to the plates with a 25-mL pipette. 
+Discard any unused, warmed Overlay Medium. 
+Text Len: 1330
+--------------------------------------------------------------------------------
+2 
+incubator. To evenly disperse the inoculum, gently rotate the plates at intervals of          
+25 ± 5 minutes. 
+ 
+4.5   Add 8 mL/well of the Overlay Medium to the plates with a 25-mL pipette. 
+Discard any unused, warmed Overlay Medium. 
+ 
+4.6   Incubate the Test Plates undisturbed at 36°± 2°C in a CO2 incubator for 4 days ± 
+1 day. 
+ 
+4.7   After incubation, without removing the Overlay Medium, pipette 5 mL of the 
+Crystal Violet Stain (Section 2.2.9) into each well of the Test Plates with a 25-mL 
+pipette; mix by gentle rotation. Note the precaution statement in Section 2.2.9(4). 
+ 
+4.8   Allow Test Plates to incubate at room temperature 25 ± 5 minutes. 
+ 
+4.9   Wash the Overlay Medium and the Crystal Violet Stain from the cell monolayers 
+by dipping each plate several times in a container overflowing with running water from 
+the cold water tap until the water is clear. Allow to air dry. 
+ 
+4.10   Count the number of FCV plaques for each well and record observations. If FRV 
+and FCV plaques are counted together in a combination vaccine, the FCV plaques will 
+contrast markedly from FRV. The FRV plaques are visible as small, clear plaques 
+approximately 1 mm in diameter with distinct edges. The FCV plaques are large, clear 
+circular areas (averaging 3 to 4 mm in diameter) with fuzzy edges. If the plaques are not 
+distinguishable by size
+Text Len: 1360
+--------------------------------------------------------------------------------
+, the FCV plaques will 
+contrast markedly from FRV. The FRV plaques are visible as small, clear plaques 
+approximately 1 mm in diameter with distinct edges. The FCV plaques are large, clear 
+circular areas (averaging 3 to 4 mm in diameter) with fuzzy edges. If the plaques are not 
+distinguishable by size, use an inverted light microscope with 100X magnification to 
+differentiate the plaque edges. 
+ 
+4.11   Record results as the number of FCV plaques for each dilution of a Test Vaccine 
+and the FCV Positive Control.  
+ 
+4.12   Calculate the FCV titers of the Test Vaccine and the FCV Positive Control from 
+the dilutions with plaque counts containing 10-100 plaques. The titer may be expressed as 
+PFU per dose of vaccine.  
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 10 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Example: 
+ 
+During the titration of a Test FCV vaccine, the plaque count obtained at dilution 10-3 was 
+65. Calculation of the titer of this vaccine is done according to the following formula: 
+ 
+Test Vaccine Titer = X + p, where 
+ 
+X = Log10 of plaque count 
+p = Log10 of dilution counted  
+ 
+In the above example:  
+ 
+Log10 of plaque count (65)  = 1.8 
+Log10 of dilution counted (10-3) = 3.0  
+ 
+FCV Test Vaccine Titer
+Text Len: 1336
+--------------------------------------------------------------------------------
+, where 
+ 
+X = Log10 of plaque count 
+p = Log10 of dilution counted  
+ 
+In the above example:  
+ 
+Log10 of plaque count (65)  = 1.8 
+Log10 of dilution counted (10-3) = 3.0  
+ 
+FCV Test Vaccine Titer = 1.8 + 3.0 = 4.8 
+ 
+Adjust the titer to the recommend Test Vaccine dose as follows: 
+ 
+A.  Divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this test 
+FCV vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this test FCV vaccine, the inoculation dose is 0.2 mL) 
+ 
+    1 mL dose      = 5  
+      0.2 mL inoculum     
+ 
+B.  Calculate log10 of value in A and add it to the Test Vaccine Titer as 
+illustrated below: 
+ 
+Log of 5 = 0.7 
+ 
+FCV Test Vaccine Titer = 4.8 + 0.7 = 5.5 
+ 
+Therefore, the titer of the FCV Test Vaccine is 105.5 PFU50/mL.  
+ 
+4.13   One plaque represents a single infective unit (IU), whereas one, 50% tissue 
+culture infective dose (TCID50) is statistically equivalent to a theoretical 0.69 IU. A 
+TCID50 endpoint per dose will be 1.44
+Text Len: 1115
+--------------------------------------------------------------------------------
+ of the FCV Test Vaccine is 105.5 PFU50/mL.  
+ 
+4.13   One plaque represents a single infective unit (IU), whereas one, 50% tissue 
+culture infective dose (TCID50) is statistically equivalent to a theoretical 0.69 IU. A 
+TCID50 endpoint per dose will be 1.44 times those expressed as PFU per dose. Therefore, 
+to express a PFU titer as a TCID50 titer, multiply the plaque count by 1.44. In the example 
+above, multiply 65 times 1.44 resulting in 93.6. Convert 93.6 to log10 resulting in 1.97. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 11 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Add the log for the dilution counted (3) and the conversion factor for dose (0.7) which 
+results in a log10 TCID50/mL of 5.67. In practical use, 0.16 (the log of 1.44) may be added 
+to the log10 value of the PFU titer per mL to convert to TCID50/mL. From the above 
+example, the titer of the Test Vaccine is 105.66 TCID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the FCV Positive Control must fall within plus or 
+minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+Text Len: 1288
+--------------------------------------------------------------------------------
+
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the FCV Positive Control must fall within plus or 
+minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The uninoculated cell control cannot exhibit any plaques, cytopathic 
+effects (CPE), or cloudy media that would indicate any contamination. 
+ 
+5.1.3   For endpoint determination, only those tenfold dilutions of the Test 
+Vaccine and the FCV Positive Control inducing 10 to 100 plaques are included in 
+the plaque counts. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice.  
+ 
+5.3   If the validity requirements are met and the titer of the Test Vaccine is greater 
+than or equal to the titer contained in the Animal and Plant Health Inspection Service 
+(APHIS) filed Outline of Production for the product under test, the Test Vaccine is 
+considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is less than the titer contained in the 
+APHIS filed Outline of Production for the product under test, the Test Vaccine may  
+be retested in accordance with title 9, Code of Federal Regulations, part 113.8.b. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as PFU50 or TCID50 per dose of Test Vaccine. 
+ 
+ 
+
+Text Len: 1401
+--------------------------------------------------------------------------------
+ filed Outline of Production for the product under test, the Test Vaccine may  
+be retested in accordance with title 9, Code of Federal Regulations, part 113.8.b. 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as PFU50 or TCID50 per dose of Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, parts 113.8(b) and 113.314, U.S. 
+Government Printing Office, Washington, DC. 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 12 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+7.2 Title 29, Code of Federal Regulations , part 1910.1048, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.3   Cottral, GE. Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates. Ithaca, New York, 1978, pg. 731. 
+ 
+7.4   Davis, Dulbecco, Eisen, Ginsberg, ed. Microbiology including Immunology and 
+Molecular Genetics, 3rd ed. Harper and Row, Hagertown, 1980, pg. 880. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .08 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .07 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version
+Text Len: 1280
+--------------------------------------------------------------------------------
+
+ 
+8.  Summary of Revisions 
+ 
+Version .08 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .07 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .06 
+ 
+• The contact information has been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated. 
+ 
+• FCV Positive Control virus, C-14 strain is no longer available from the CVB and all 
+references to it have been removed from the document. 
+ 
+• References to NVSL have been changed to NCAH throughout the document. 
+ 
+Version .04 
+ 
+• The Contact has been changed from Victor Becerra to Alethea Fry. 
+ 
+• 2.2.9: A precautionary statement for use of formaldehyde has been added. 
+ 
+• 4.13: Conversion from PFU50/mL to TCID50/mL has been clarified. 
+ 
+• Use of reference control terminology has been changed to positive control throughout 
+the document. 
+ 
+Center for Veterinary Biologics SAM 306.08 
+Testing Protocol Page 13 of 13 
+ 
+Supplemental Assay Method for the Titration of Feline Calicivirus in Cell Culture 
+   
+UNCONTROLLED COPY 
+Version .03 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 �
+Text Len: 1426
+--------------------------------------------------------------------------------
+ 
+UNCONTROLLED COPY 
+Version .03 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 1.2 “Key Words” has been deleted. 
+ 
+• 2.2.3.2  The amount of sodium bicarbonate (NaHCO2) has been changed from 2.2g to 
+1.1g. 
+ 
+• 2.2.5.8  50 µg/ml gentamicin sulfate has been changed to 100 µg/ml and the use of 
+penicillin and streptomycin has been deleted. 
+ 
+• 4.6  Ninety-six hours has been changed to 4 days ± 1 day. 
+ 
+• 4.12  The determination of virus titer for each Test Vaccine has been rewritten to 
+correct errors in calculations using the example given. 
+ 
+• 5.1.3  The endpoint determination of plaques has been clarified. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference Reagent Sheet” has been changed to “Reagent Data Sheet” throughout the 
+document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+Text Len: 1291
+--------------------------------------------------------------------------------

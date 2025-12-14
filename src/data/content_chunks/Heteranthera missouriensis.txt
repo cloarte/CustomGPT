@@ -1,0 +1,34 @@
+Family:  PONTEDERIACEAE  ;
+Species:  Heteranthera missouriensisC.N. Horn  ;
+Common Name:  Missouri Mud Plantain  ;
+Habitat:  Mud flats and margins of shallow water.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  **  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  This species was first collected in Alabama in 2010 by Wayne Barger in Jackson Co. and subsequently reported as Heteranthera multiflora (Barger et al 2019).  When Horn described H. missouriensis (2020), he cited the Jackson County record as a paratype.  This included H. missouriensis as part of the Alabama flora and as a consequence, excluded H. multiflora.  ;
+Status:  Not Native  ;
+References:  Barger, T.W., A. Cressler, B. Finzel, A. Highland, W.M. Knapp, F. Nation, A.R. Schotz, D.D. Spaulding, and C.T. Taylor. New and noteworthy vascular plants records for Alabama. Phytoneuron 2019-16: 1-7.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1025
+--------------------------------------------------------------------------------
+Family:  PONTEDERIACEAE  ;
+Species:  Heteranthera missouriensisC.N. Horn  ;
+Common Name:  Missouri Mud Plantain  ;
+Habitat:  Mud flats and margins of shallow water.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  **  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  This species was first collected in Alabama in 2010 by Wayne Barger in Jackson Co. and subsequently reported as Heteranthera multiflora (Barger et al 2019).  When Horn described H. missouriensis (2020), he cited the Jackson County record as a paratype.  This included H. missouriensis as part of the Alabama flora and as a consequence, excluded H. multiflora.  ;
+Status:  Not Native  ;
+References:  Barger, T.W., A. Cressler, B. Finzel, A. Highland, W.M. Knapp, F. Nation, A.R. Schotz, D.D. Spaulding, and C.T. Taylor. New and noteworthy vascular plants records for Alabama. Phytoneuron 2019-16: 1-7.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1025
+--------------------------------------------------------------------------------

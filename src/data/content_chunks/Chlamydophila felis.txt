@@ -1,0 +1,1994 @@
+UNCONTROLLED COPY 
+SAM 319.06 
+Page 1 of 16 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+SA
+M 319 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly 
+Feline Chlamydia psittaci) in Cell Culture 
+D
+ate: August 25, 2023  
+N
+umber: SAM 319.06 
+S
+upersedes: SAM 319.05, November 13, 2014 
+S
+tandard Requirement: 9 CFR, part 113.71 
+C
+ontact:      Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 2 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+
+Text Len: 1213
+--------------------------------------------------------------------------------
+ Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the sample 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+Appendices 
+ 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 3 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes a titration method for assaying live cell 
+culture-adapted Chlamydophila felis (formerly feline Chlamydia psittaci) vaccines for potency. 
+The method uses a McCoy cell line as the test system. The presence or absence of the 
+chlamydophila agent is determined by staining inoculated cell cultures by an indirect fluorescent 
+antibody (IFA) method using a monoclonal antibody (MAb)
+Text Len: 1206
+--------------------------------------------------------------------------------
+ophila felis (formerly feline Chlamydia psittaci) vaccines for potency. 
+The method uses a McCoy cell line as the test system. The presence or absence of the 
+chlamydophila agent is determined by staining inoculated cell cultures by an indirect fluorescent 
+antibody (IFA) method using a monoclonal antibody (MAb) specific for C. felis. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Cabinet, laboratory biosafety level-2  
+ 
+2.1.2   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.3   Incubator, 36°± 2°C, aerobic (FA Model 2, Precision Scientific) 
+ 
+2.1.4   Water bath  
+ 
+2.1.5   Centrifuge, rotor, and rotor/microplate carriers (Avanti J-E and JS–5.3 
+rotor, Beckman Coulter) 
+ 
+2.1.6   Microscope, ultraviolet (UV) light (Model BH2, Olympus America Inc.) 
+   
+2.1.7   Pipettors 
+ 
+2.1.8   Multichannel pipettor, 50-300 µL x 12-channel 
+ 
+2.1.9   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.2   Re
+Text Len: 1092
+--------------------------------------------------------------------------------
+   
+2.1.7   Pipettors 
+ 
+2.1.8   Multichannel pipettor, 50-300 µL x 12-channel 
+ 
+2.1.9   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   Chicken-embryo-adapted or cell-culture-adapted Chlamydophila positive 
+control, Cello Strain  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 4 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.2  Monospecific Antisera free of neutralizing antibodies to nonchlamydophila 
+virus fractions present in multifraction Test Vaccines, e.g., feline panleukopenia 
+virus, feline calicivirus, feline viral rhinotracheitis virus.  
+   
+2.2.3   “C. psittaci” MAb, FP 4E1FD7, feline specific  
+ 
+2.2.4   Anti-mouse fluorescein isothiocyanate conjugate (Anti-mouse FITC 
+conjugate) 
+ 
+2.2.
+Text Len: 1042
+--------------------------------------------------------------------------------
+ 
+2.2.3   “C. psittaci” MAb, FP 4E1FD7, feline specific  
+ 
+2.2.4   Anti-mouse fluorescein isothiocyanate conjugate (Anti-mouse FITC 
+conjugate) 
+ 
+2.2.5   A McCoy cell line (McCoy B cell line, mouse fibroblast) free of 
+extraneous agents as tested in accordance with title 9, Code of Federal 
+Regulations (9 CFR)  
+ 
+2.2.6   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  5.0 g lactalbumin hydrolysate or edamine  
+ 
+3.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+4.  Q.S. to 1000 mL with deionized water (DI), and adjust the pH to 6.8-
+6.9 with 2N hydrochloric acid (HCl). 
+    
+5.  Filter through a 0.22-µm filter. 
+ 
+6.  Adjust the pH of the solution with 2N HCl to 7.1-7.2 following 
+filtration. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+2.2.7   Growth medium for cell culture (Growth Medium) 
+ 
+Aseptically add to 900 mL MEM:  
+ 
+1.  100 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+2.  Gentamicin sulfate, 50 µ
+Text Len: 948
+--------------------------------------------------------------------------------
+- 7°C. 
+ 
+2.2.7   Growth medium for cell culture (Growth Medium) 
+ 
+Aseptically add to 900 mL MEM:  
+ 
+1.  100 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+2.  Gentamicin sulfate, 50 µg/mL 
+ 
+3.  Store at 2°- 7°C. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 5 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.8   Chlamydophila Stock Solution 
+ 
+1.  13.37 g Dulbecco’s MEM with high glucose 
+ 
+2.  3.7 g sodium bicarbonate   
+  
+3.  Q.S. to 1000 mL with DI; adjust the pH  to  6.8-6.9 with 2N HCl. 
+ 
+4.  Sterilize through a 0.22-µm filter. 
+ 
+5.  Aseptically add 50 µg/mL gentamicin sulfate; adjust the final pH of 
+the solution to 7.0-7.2 with 2N HCl.   
+  
+6.  Store at 2°- 7°C. 
+ 
+2.2.9   7.5% Sodium Bicarbonate 
+ 
+1.  7.5 g sodium bicarbon
+Text Len: 892
+--------------------------------------------------------------------------------
+ sulfate; adjust the final pH of 
+the solution to 7.0-7.2 with 2N HCl.   
+  
+6.  Store at 2°- 7°C. 
+ 
+2.2.9   7.5% Sodium Bicarbonate 
+ 
+1.  7.5 g sodium bicarbonate 
+ 
+2.  Q.S. to 100 mL with DI. 
+ 
+3.  Sterilize by autoclaving at 121°± 2°C, 15 psi for 30 ± 10 minutes. 
+ 
+4.  Store at 2°- 7°C.    
+ 
+2.2.10 Maintenance Medium 
+ 
+Aseptically add: 
+ 
+1.  10.0 mL sterile tryptose phosphate broth24 (29.5 g/L in DI) 
+ 
+2.  2.0 mL 1M HEPES buffer 
+ 
+3.   4.0 mL gamma-irradiated FBS 
+ 
+4.  0.3 mL cycloheximide stock solution (1000 µg/mL in DI) for a final 
+concentration of 3 µg/mL 
+ 
+5.  Q.S. to 100 mL with Chlamydophila Stock Solution. 
+ 
+6.  Adjust pH to 7.0-7.2 with 7.5% Sodium Bicarbonate. 
+ 
+7.  Store at 2°- 7°C.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 6 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Ch
+Text Len: 896
+--------------------------------------------------------------------------------
+icarbonate. 
+ 
+7.  Store at 2°- 7°C.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 6 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.11 Chlamydophila Diluent  
+ 
+To prepare 100 mL Chlamydophila Diluent, add aseptically: 
+ 
+1.  10.0 mL tryptose phosphate broth 
+  
+2.  2.0 mL 1M HEPES buffer 
+ 
+3.  Q.S. to 100 mL with Chlamydophila Stock Solution.  
+ 
+4.  Adjust pH to 7.0-7.2 with 7.5% Sodium  Bicarbonate. 
+ 
+5.  Store at 2°- 7°C.    
+ 
+2.2.12 Dulbecco's phosphate buffered saline (DPBS) 
+ 
+1.  8.0 g sodium chloride (NaCl) 
+ 
+2.  0.2 g potassium chloride (KCl) 
+ 
+3.  0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H20) 
+ 
+5.  Dissolve reagents with 900 mL DI. 
+ 
+6.  Add 1.03 g sodium phosphate, dibasic,
+Text Len: 913
+--------------------------------------------------------------------------------
+, monobasic, anhydrous (KH2PO4) 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H20) 
+ 
+5.  Dissolve reagents with 900 mL DI. 
+ 
+6.  Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to 10 
+mL DI, heat to 60°± 2°C until dissolved, then add to above mixture with 
+constant mixing. 
+ 
+7.  Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI and 
+add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust the pH to 7.0-7.3 with 2N HCl.  
+ 
+9.  Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.13  Cell culture plates, 96-well 
+ 
+2.2.14  Polystyrene tubes, 12 x 75-mm 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 7 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.15  Syringe, 1-mL tuberculin  
+ 
+2.2.16  Needles, 18-gauge x 1 1/2-inch 
+
+Text Len: 947
+--------------------------------------------------------------------------------
+ophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.15  Syringe, 1-mL tuberculin  
+ 
+2.2.16  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.17  Acetone, 80%  
+ 
+1.  80 mL acetone  
+ 
+2.  20 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+2.2.18 Gauze. Cut into 20- x 15-cm, 4-layer pads; wrap in foil paper; sterilize by 
+autoclaving at 121°± 2°C, 15 psi for 50 ± 10 minutes. 
+ 
+2.2.19 Labeling tape, 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+3.1.1   Personnel shall have experience in the preparation and maintenance of cell 
+culture, as well as in the propagation and maintenance of chlamydophila agents. 
+Personnel shall be proficient with the quantitation techniques for chlamydophila 
+infectivity including the IFA staining method. 
+ 
+This method requires the propagation of C. felis (formerly C. psittaci) agents which may be 
+infectious for humans. All cultures and discarded materials should be considered potentially 
+infective and handled in a manner consistent with safe laboratory practices and in accordance 
+with the recommendations of the Centers for Disease Control and Prevention and the 
+National Institutes of Health. All cultures, spent medium, and contaminated materials should 
+be disinfected or autocl
+Text Len: 1300
+--------------------------------------------------------------------------------
+ittaci) agents which may be 
+infectious for humans. All cultures and discarded materials should be considered potentially 
+infective and handled in a manner consistent with safe laboratory practices and in accordance 
+with the recommendations of the Centers for Disease Control and Prevention and the 
+National Institutes of Health. All cultures, spent medium, and contaminated materials should 
+be disinfected or autoclaved before discarding. The use of appropriate Laboratory Biosafety 
+Level-2 cabinets is recommended for these procedures. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+3.2.1   On the day of cell seeding and then on the day of cell inoculation, set a 
+water bath at 36°± 2°C and the centrifuge temperature at 36°± 2°C. 
+ 
+3.2.2   On the day of the IFA staining procedure, prepare a humidity chamber in 
+the aerobic incubator by filling a pan in the bottom with DI.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 8 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Preparation of McCoy cell culture plates (McCoy Plates) 
+ 
+1.   Prepare cells from healthy, confluent McCoy cells that are maintained 
+by passing every 3 to 4 days. Using a multichannel pipettor, seed all wells 
+of a 96-well cell culture plate 2 days
+Text Len: 1438
+--------------------------------------------------------------------------------
+control procedures 
+ 
+3.3.1   Preparation of McCoy cell culture plates (McCoy Plates) 
+ 
+1.   Prepare cells from healthy, confluent McCoy cells that are maintained 
+by passing every 3 to 4 days. Using a multichannel pipettor, seed all wells 
+of a 96-well cell culture plate 2 days prior to test initiation with 200 
+μL/well of cells suspended in growth media. The cell suspension should 
+contain approximately 105.39 to 105.54 cells per mL. These become the 
+McCoy Plates.    
+ 
+2.   Incubate the McCoy Plates in a CO2 incubator at 36°± 2°C for 2 days 
+prior to inoculation. Only confluent cell monolayers should be used for the 
+assay. (As illustrated in Appendix I. Avoid the use of outside wells if cell 
+monolayers in those wells are not confluent.)     
+ 
+3.3.2   Preparation of the Chlamydophila felis Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of Chlamydophila 
+Positive Control in a 36°± 2°C water bath. 
+ 
+2.  Dispense 1.8 mL Chlamydophila Diluent into an appropriate number 
+of 12 x 75-mm polystyrene tubes to bracket the expected endpoint 
+according to the Center for Veterinary Biologics (CVB) Reagent Data 
+Sheet and label (e.g., 7 tubes, labeled 10-1 through 10-7, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the Chlamydophila
+Text Len: 1293
+--------------------------------------------------------------------------------
+styrene tubes to bracket the expected endpoint 
+according to the Center for Veterinary Biologics (CVB) Reagent Data 
+Sheet and label (e.g., 7 tubes, labeled 10-1 through 10-7, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the Chlamydophila 
+Positive Control to the tube labeled  10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL from the previous dilution tube to the next dilution tube until the 
+dilution sequence is completed. 
+ 
+3.3.3   Preparation of the Working Chlamydophila felis MAb 
+ 
+On the day the IFA staining procedure is conducted, dilute the Feline-specific  
+“C. psittaci” MAb (Chlamydophila felis MAb) with DPBS as stated on the CVB 
+Reagent Data Sheet. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 9 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3.4   Preparation of the Working Anti-mouse FITC Conjugate 
+ 
+On the day the I
+Text Len: 1181
+--------------------------------------------------------------------------------
+
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3.4   Preparation of the Working Anti-mouse FITC Conjugate 
+ 
+On the day the IFA procedure is conducted, dilute the Anti-mouse FITC 
+Conjugate with DPBS to its previously determined optimal working 
+concentration. 
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will be with a single vial (a single sample 
+from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and an 18-
+gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine by transferring 1.0 
+mL for 1-mL-dose vaccines, 0.5 mL for 1/2-mL-dose vaccines, etc., of the 
+provided diluent into the vial containing the lyophilized Test Vaccine; mix by 
+vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+  
+3.4.2   For multifraction feline “C. psittaci” vaccines (C. felis vaccines), 
+neutralize the nonchlamydophila fractions with antiserum specific to each virus 
+fraction. 
+ 
+1.   Prepare dilutions of each neutralizing Monospecific Antiserum 
+(nonchlamydophila) according to the CVB Reagent Data Sheet or the 
+manufacturer’s instructions. 
+ 
+2
+Text Len: 1210
+--------------------------------------------------------------------------------
+neutralize the nonchlamydophila fractions with antiserum specific to each virus 
+fraction. 
+ 
+1.   Prepare dilutions of each neutralizing Monospecific Antiserum 
+(nonchlamydophila) according to the CVB Reagent Data Sheet or the 
+manufacturer’s instructions. 
+ 
+2.   With a 200-µL pipettor and a different tip, dispense 200 µL of each 
+Monospecific Antiserum into a 12 x 75-mm polystyrene tube, labeled 10-1. 
+For example, to neutralize the 3 viral fractions of a feline Chlamydophila 
+felis/FVR/FCV/FPV vaccine, dispense 200 µL of each of the FVR, FCV, 
+and FPV working dilution antisera into the tube labeled 10-1; add 1.2 mL 
+of Chlamydophila Diluent to obtain a final volume of 1.8 mL. 
+ 
+3.   Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+4.   Incubate at 36°± 2°C for 30 ± 5 minutes. 
+ 
+3.4.3   For Test Vaccines containing only a feline chlamydophila fraction, 
+prepare the 10-1 dilution by adding 200 µL of the Test Vaccine to 1.8 mL of  
+Chlamydophila Diluent in a 12 x 75-mm polystyrene tube, labeled 10-1; mix by 
+vortexing.  
+ 
+Center for Veterinary Biologics   
+Text Len: 1145
+--------------------------------------------------------------------------------
+ophila fraction, 
+prepare the 10-1 dilution by adding 200 µL of the Test Vaccine to 1.8 mL of  
+Chlamydophila Diluent in a 12 x 75-mm polystyrene tube, labeled 10-1; mix by 
+vortexing.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 10 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.4.4   Vaccine tenfold dilutions 
+ 
+Using the same method described for diluting the Chlamydophila Positive Control 
+in Section 3.3.2 prepare an appropriate number of tenfold serial dilutions of the 
+reconstituted Test Vaccine to bracket its expected endpoint specified in the 
+Animal and Plant Health Inspection Service (APHIS) filed Outline of Production.  
+ 
+ 
+4.   Performance of the Test 
+ 
+4.1   On the day of test initiation, label the McCoy Plates, aseptically decant the 
+Growth Medium, and blot the plate on a sterile gauze pad. 
+ 
+4.2   Inoculate 8 wells/dilution with 100 µL/well of the Test Vaccine dilutions and the 
+Chlamydophila Positive Control dilutions (dilutions 10-3 through 10-7 for the example in 
+Section 3.3.2(2)). Change tips between each unique sample (e.g., each Test Vaccine and 
+the Chlamydophila
+Text Len: 1249
+--------------------------------------------------------------------------------
+/dilution with 100 µL/well of the Test Vaccine dilutions and the 
+Chlamydophila Positive Control dilutions (dilutions 10-3 through 10-7 for the example in 
+Section 3.3.2(2)). Change tips between each unique sample (e.g., each Test Vaccine and 
+the Chlamydophila Positive Control), but tip changes are not necessary between each 
+dilution in a series if pipetting from the most dilute to the most concentrated within that 
+series (e.g., 10-7 through 10-3) (Appendices I and II).   
+ 
+4.3   Dispense 100 µL of Chlamydophila Diluent to each of 8 wells which serve as 
+uninoculated cell culture controls (Cell Culture Controls) (Appendices I and II). 
+ 
+4.4   Seal each McCoy Plate by placing around the upper side of each plate sufficient 
+1/2-inch labeling tape to maintain the plate’s lid in place.  
+ 
+4.5   Centrifuge the McCoy Plates at 466 x g (1500 rpm in an Avanti J-E and JS–5.3 
+Rotor, and Micro-Test Plate Carriers) at 36°± 2°C for 55 ± 5 minutes to aid adsorption 
+and penetration of chlamydophila into the McCoy cells. 
+ 
+4.6   After centrifugation, pipette 100 µL/well of  Maintenance Medium into the 
+McCoy Plates including the Test Vaccine, Positive Control, and Cell Culture Controls.  
+ 
+4.7   Incubate the McCoy Plates at 36°± 2°C in a CO2 incubator for 5 ± 1
+Text Len: 1275
+--------------------------------------------------------------------------------
+
+ 
+4.6   After centrifugation, pipette 100 µL/well of  Maintenance Medium into the 
+McCoy Plates including the Test Vaccine, Positive Control, and Cell Culture Controls.  
+ 
+4.7   Incubate the McCoy Plates at 36°± 2°C in a CO2 incubator for 5 ± 1 days. 
+  
+4.8   After incubation, decant the medium into an autoclavable waste container and 
+pipette 200 µL of DPBS  into each well of the McCoy Plates.   
+ 
+4.9   Decant the DPBS in the same autoclavable waste container as in Section 4.8, and 
+pipette 200 µL of 80% acetone into each well of the McCoy Plates; incubate at room 
+temperature for 15 ± 5 minutes.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 11 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+4.10   Decant the 80% acetone in a suitable waste container, and gently blot the plate on 
+paper towels. Allow the plates to air dry. 
+ 
+4.11   Dispense 90 ± 10 µL of the Working “Chlamydia” MAb into each well of the 
+McCoy Plates. 
+ 
+4.12   Incubate the McCoy Plates at 36°± 2°C in a high humidity aerobic incubator for 
+30 ±
+Text Len: 1172
+--------------------------------------------------------------------------------
+ plates to air dry. 
+ 
+4.11   Dispense 90 ± 10 µL of the Working “Chlamydia” MAb into each well of the 
+McCoy Plates. 
+ 
+4.12   Incubate the McCoy Plates at 36°± 2°C in a high humidity aerobic incubator for 
+30 ± 5 minutes. 
+ 
+4.13   Decant the MAb; wash the cells twice by pipetting and decanting 200 µL/well of 
+DPBS. The first wash is decanted immediately after delivering the DPBS, whereas the 
+second wash is allowed to remain for 10 ± 5 minutes before decanting. Decant and blot 
+the plate.  
+ 
+4.14   Pipette 90 ± 10 µL of the Working Anti-mouse FITC Conjugate into each well of 
+the McCoy Plates.  
+ 
+4.15   Incubate the McCoy Plates in a high humidity aerobic incubator at 36°± 2°C for 
+30 ± 5 minutes. 
+ 
+4.16   Repeat Section 4.13. 
+ 
+4.17 Fill wells completely with DI, decant, and air dry. 
+ 
+4.18   Examine the plates at 200X using a UV-light microscope for typical 
+intracytoplasmic, apple-green fluorescent inclusions which are characteristic of C. felis 
+infection.  
+ 
+4.18.1  Wells containing 1 or more cells exhibiting  C. felis fluorescent inclusions 
+are considered positive for feline C. felis infection.  
+ 
+4.18.2 Results are recorded as the number of IFA-positive wells versus the total 
+number of wells examined for each
+Text Len: 1247
+--------------------------------------------------------------------------------
+ felis 
+infection.  
+ 
+4.18.1  Wells containing 1 or more cells exhibiting  C. felis fluorescent inclusions 
+are considered positive for feline C. felis infection.  
+ 
+4.18.2 Results are recorded as the number of IFA-positive wells versus the total 
+number of wells examined for each dilution of a Test Vaccine and the 
+Chlamydophila Positive Control. 
+ 
+4.19   Calculate the chlamydophila endpoints of the Test Vaccine and the 
+Chlamydophila Positive Control using the Spearman-Kärber method as commonly 
+modified by Finney. The titers are expressed as log10 50% fluorescent antibody infective 
+dose (FAID50) per mL or per dose. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 12 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Example: 
+ 
+10-2 dilution of Test Vaccine = 8/8 wells IFA positive 
+10-3 dilution of Test Vaccine = 5/8 wells IFA positive 
+10-4 dilution of Test Vaccine = 1/8 wells IFA positive 
+10-5 dilution of Test Vaccine = 0/8 wells IFA positive 
+ 
+Test Vaccine titer = (X - d/2 + [d ● S]) where: 
+ 
+X = reciprocal log10 of highest dilution with all wells IFA positive(2) 
+d =
+Text Len: 1231
+--------------------------------------------------------------------------------
+ Test Vaccine = 1/8 wells IFA positive 
+10-5 dilution of Test Vaccine = 0/8 wells IFA positive 
+ 
+Test Vaccine titer = (X - d/2 + [d ● S]) where: 
+ 
+X = reciprocal log10 of highest dilution with all wells IFA positive(2) 
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells IFA positive for all dilutions tested starting at X:  
+ 
+8    5     1      0     14 
+8 +  8 +  8 +  8 =    8 = 1.75 
+ 
+Test Vaccine titer = (2 – 1/2) + (1 ● 1.75) = 3.25 
+ 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A.  divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this C. felis 
+Test Vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the Test Plate 
+(for this C. felis Test Vaccine, the inoculation dose is 0.1 mL) 
+ 
+  1 mL dose  
+  0.1 mL = 10 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated below: 
+ 
+ Log of 10 = 1.0 
+ 
+Test Vaccine Titer = 3.25 + 1.0 = 4.25 
+ 
+Therefore the titer of the C
+Text Len: 1102
+--------------------------------------------------------------------------------
+ 
+  0.1 mL = 10 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated below: 
+ 
+ Log of 10 = 1.0 
+ 
+Test Vaccine Titer = 3.25 + 1.0 = 4.25 
+ 
+Therefore the titer of the C. felis Test Vaccine is 104.3 FAID50/mL. 
+ 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 13 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   For a valid assay 
+ 
+5.1.1   The Cell Culture Controls shall not exhibit intracytoplasmic fluorescent 
+inclusions, significant degradation of the cell sheet, CPE, or cloudy media that 
+would indicate contamination. 
+ 
+5.1.2   The calculated FAID50 titer of the Chlamydophila Positive Control must 
+fall within plus or minus 2 standard deviations (± 2 SD) of its mean titer, as 
+established by a minimum of 10 previously determined chlamydophila titrations. 
+ 
+5.1.3   The lowest inoculated dilution of the Positive Control must induce specific 
+IFA in 100% of the wells (8/8). If an endpoint is not reached (1 or more wells are 
+IFA positive at the highest dilution), the titer is expressed as “greater than or 
+Text Len: 1243
+--------------------------------------------------------------------------------
+lamydophila titrations. 
+ 
+5.1.3   The lowest inoculated dilution of the Positive Control must induce specific 
+IFA in 100% of the wells (8/8). If an endpoint is not reached (1 or more wells are 
+IFA positive at the highest dilution), the titer is expressed as “greater than or 
+equal to” the calculated titer. If an endpoint is critical to testing, the highest (most 
+dilute) must exhibit no IFA staining (0/8). 
+ 
+5.1.4   If the validity requirements are not met, then the assay is considered a NO 
+TEST and can be retested without prejudice. 
+ 
+5.2   In a valid test, if the titer of the Test Vaccine is equal to or greater than the titer 
+specified in the APHIS filed Outline of Production, the Test Vaccine is considered 
+SATISFACTORY. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is lower than the titer specified in 
+the APHIS filed Outline of Production, the Test Vaccine shall be retested in accordance 
+with the 9 CFR, Part 113.8(b). 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as FAID50 per dose of the Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.71,   U.S.Government Printing 
+Office, Washington, DC.   
+ 
+7.2   Cottral GE (Ed.). Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, I
+Text Len: 1302
+--------------------------------------------------------------------------------
+
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.71,   U.S.Government Printing 
+Office, Washington, DC.   
+ 
+7.2   Cottral GE (Ed.). Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca, New York, 1978, pg. 731. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 14 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+7.3   Finney, DJ. Statistical method in biological assay , 3rd edition. Griffin, London, 
+1978, pp. 394-401. 
+ 
+7.4   Richmond JY, McKinney RW (Eds.). Biosafety  in microbiological and 
+biomedical laboratories. U.S. Department of Health and Human Services, U.S. 
+Government Printing Office, Washington, DC, 1993, pg. 177. 
+ 
+7.5   Smith TF. Chlamydia. In Diagnostic Procedures for viral, rickettsial and 
+chlamydial infections, 6th edition,  NJ Schmidt and RW Emmons (Eds.). American 
+Public Health Assoc., Washington, DC. 1989, pg. 1165-1192. 
+ 
+7.6   Spears, P and Storz, J. Biotyping of Chlamydia psittaci based on inclusion 
+morphology and response to diethylaminoethyl
+Text Len: 1193
+--------------------------------------------------------------------------------
+ edition,  NJ Schmidt and RW Emmons (Eds.). American 
+Public Health Assoc., Washington, DC. 1989, pg. 1165-1192. 
+ 
+7.6   Spears, P and Storz, J. Biotyping of Chlamydia psittaci based on inclusion 
+morphology and response to diethylaminoethyl-dextran and cycloheximide. Infect. 
+Immun. 24:224-232, 1979. 
+ 
+7.7   Spears, P and Storz, J. Chlamydia psittaci : Growth characteristics and 
+enumeration of serotypes 1 and 2 in cultured cells. J. Infect. Dis. 140:959-967, 1979. 
+ 
+7.8   Storz, J. Chlamydia and chlamydia-induced diseases. Charles C. Thomas 
+Publishing Company, Springfield, Illinois, 1971, pg.358. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The Contact has been changed from Ione Stoll to Sandra Conrad. 
+ 
+• Based on the present nomenclature, “Feline Chlamydia psittaci” has been changed to 
+“Chlamydophila felis”; therefore, the Genus “Chlamydia” has been changed to 
+“Ch
+Text Len: 1192
+--------------------------------------------------------------------------------
+• The Contact has been changed from Ione Stoll to Sandra Conrad. 
+ 
+• Based on the present nomenclature, “Feline Chlamydia psittaci” has been changed to 
+“Chlamydophila felis”; therefore, the Genus “Chlamydia” has been changed to 
+“Chlamydophila” and the species “felis” has been introduced.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 15 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+ 
+• 2.2.6.3  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to  1.1 g. 
+ 
+• 4.17  Additional steps have been added for clarification. 
+ 
+• 4.19  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.3  Recording the rate of positive reaction for validity requirements. 
+ 
+•
+Text Len: 1257
+--------------------------------------------------------------------------------
+1 g. 
+ 
+• 4.17  Additional steps have been added for clarification. 
+ 
+• 4.19  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.3  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 16 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Appendix I 
+Chlamydophila Test Plate 
+ 
+     1          2          3          4          5          6        7          8          9         10
+Text Len: 1083
+--------------------------------------------------------------------------------
+   2          3          4          5          6        7          8          9         10        11         12 
+A             
+B 10-1* → → → → → → →  CC CC  
+C 10-2 → → → → → → →  CC CC  
+D 10-3 → → → → → → →  CC CC  
+E 10-4 → → → → → → →  CC CC  
+F 10-5 → → → → → → →     
+G 10-6 → → → → → → →     
+H             
+ 
+CC = cell culture controls 
+ * = Tenfold dilutions of Chlamydophila felis Test Vaccine 
+ 
+ 
+Appendix II 
+Chlamydophila Positive Control Plate 
+ 
+     1          2          3          4          5          6         7         8          9         10        11        12 
+A        
+Text Len: 597
+--------------------------------------------------------------------------------
+      5          6         7         8          9         10        11        12 
+A             
+B 10-3# → → → → → → →  CC CC  
+C 10-4 → → → → → → →  CC CC  
+D 10-5 → → → → → → →  CC CC  
+E 10-6 → → → → → → →  CC CC  
+F 10-7 → → → → → → →     
+G             
+H             
+ 
+CC = cell culture controls 
+  # = Tenfold dilutions of Chlamydophila felis Positive Control 
+Text Len: 368
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 319.06 
+Page 1 of 16 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+SA
+M 319 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly 
+Feline Chlamydia psittaci) in Cell Culture 
+D
+ate: August 25, 2023  
+N
+umber: SAM 319.06 
+S
+upersedes: SAM 319.05, November 13, 2014 
+S
+tandard Requirement: 9 CFR, part 113.71 
+C
+ontact:      Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+U
+nited States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 2 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+
+Text Len: 1213
+--------------------------------------------------------------------------------
+ Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2   Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the sample 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+Appendices 
+ 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 3 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes a titration method for assaying live cell 
+culture-adapted Chlamydophila felis (formerly feline Chlamydia psittaci) vaccines for potency. 
+The method uses a McCoy cell line as the test system. The presence or absence of the 
+chlamydophila agent is determined by staining inoculated cell cultures by an indirect fluorescent 
+antibody (IFA) method using a monoclonal antibody (MAb)
+Text Len: 1206
+--------------------------------------------------------------------------------
+ophila felis (formerly feline Chlamydia psittaci) vaccines for potency. 
+The method uses a McCoy cell line as the test system. The presence or absence of the 
+chlamydophila agent is determined by staining inoculated cell cultures by an indirect fluorescent 
+antibody (IFA) method using a monoclonal antibody (MAb) specific for C. felis. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Cabinet, laboratory biosafety level-2  
+ 
+2.1.2   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.3   Incubator, 36°± 2°C, aerobic (FA Model 2, Precision Scientific) 
+ 
+2.1.4   Water bath  
+ 
+2.1.5   Centrifuge, rotor, and rotor/microplate carriers (Avanti J-E and JS–5.3 
+rotor, Beckman Coulter) 
+ 
+2.1.6   Microscope, ultraviolet (UV) light (Model BH2, Olympus America Inc.) 
+   
+2.1.7   Pipettors 
+ 
+2.1.8   Multichannel pipettor, 50-300 µL x 12-channel 
+ 
+2.1.9   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.2   Re
+Text Len: 1092
+--------------------------------------------------------------------------------
+   
+2.1.7   Pipettors 
+ 
+2.1.8   Multichannel pipettor, 50-300 µL x 12-channel 
+ 
+2.1.9   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   Chicken-embryo-adapted or cell-culture-adapted Chlamydophila positive 
+control, Cello Strain  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 4 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.2  Monospecific Antisera free of neutralizing antibodies to nonchlamydophila 
+virus fractions present in multifraction Test Vaccines, e.g., feline panleukopenia 
+virus, feline calicivirus, feline viral rhinotracheitis virus.  
+   
+2.2.3   “C. psittaci” MAb, FP 4E1FD7, feline specific  
+ 
+2.2.4   Anti-mouse fluorescein isothiocyanate conjugate (Anti-mouse FITC 
+conjugate) 
+ 
+2.2.
+Text Len: 1042
+--------------------------------------------------------------------------------
+ 
+2.2.3   “C. psittaci” MAb, FP 4E1FD7, feline specific  
+ 
+2.2.4   Anti-mouse fluorescein isothiocyanate conjugate (Anti-mouse FITC 
+conjugate) 
+ 
+2.2.5   A McCoy cell line (McCoy B cell line, mouse fibroblast) free of 
+extraneous agents as tested in accordance with title 9, Code of Federal 
+Regulations (9 CFR)  
+ 
+2.2.6   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  5.0 g lactalbumin hydrolysate or edamine  
+ 
+3.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+4.  Q.S. to 1000 mL with deionized water (DI), and adjust the pH to 6.8-
+6.9 with 2N hydrochloric acid (HCl). 
+    
+5.  Filter through a 0.22-µm filter. 
+ 
+6.  Adjust the pH of the solution with 2N HCl to 7.1-7.2 following 
+filtration. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+2.2.7   Growth medium for cell culture (Growth Medium) 
+ 
+Aseptically add to 900 mL MEM:  
+ 
+1.  100 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+2.  Gentamicin sulfate, 50 µ
+Text Len: 948
+--------------------------------------------------------------------------------
+- 7°C. 
+ 
+2.2.7   Growth medium for cell culture (Growth Medium) 
+ 
+Aseptically add to 900 mL MEM:  
+ 
+1.  100 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+2.  Gentamicin sulfate, 50 µg/mL 
+ 
+3.  Store at 2°- 7°C. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 5 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.8   Chlamydophila Stock Solution 
+ 
+1.  13.37 g Dulbecco’s MEM with high glucose 
+ 
+2.  3.7 g sodium bicarbonate   
+  
+3.  Q.S. to 1000 mL with DI; adjust the pH  to  6.8-6.9 with 2N HCl. 
+ 
+4.  Sterilize through a 0.22-µm filter. 
+ 
+5.  Aseptically add 50 µg/mL gentamicin sulfate; adjust the final pH of 
+the solution to 7.0-7.2 with 2N HCl.   
+  
+6.  Store at 2°- 7°C. 
+ 
+2.2.9   7.5% Sodium Bicarbonate 
+ 
+1.  7.5 g sodium bicarbon
+Text Len: 892
+--------------------------------------------------------------------------------
+ sulfate; adjust the final pH of 
+the solution to 7.0-7.2 with 2N HCl.   
+  
+6.  Store at 2°- 7°C. 
+ 
+2.2.9   7.5% Sodium Bicarbonate 
+ 
+1.  7.5 g sodium bicarbonate 
+ 
+2.  Q.S. to 100 mL with DI. 
+ 
+3.  Sterilize by autoclaving at 121°± 2°C, 15 psi for 30 ± 10 minutes. 
+ 
+4.  Store at 2°- 7°C.    
+ 
+2.2.10 Maintenance Medium 
+ 
+Aseptically add: 
+ 
+1.  10.0 mL sterile tryptose phosphate broth24 (29.5 g/L in DI) 
+ 
+2.  2.0 mL 1M HEPES buffer 
+ 
+3.   4.0 mL gamma-irradiated FBS 
+ 
+4.  0.3 mL cycloheximide stock solution (1000 µg/mL in DI) for a final 
+concentration of 3 µg/mL 
+ 
+5.  Q.S. to 100 mL with Chlamydophila Stock Solution. 
+ 
+6.  Adjust pH to 7.0-7.2 with 7.5% Sodium Bicarbonate. 
+ 
+7.  Store at 2°- 7°C.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 6 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Ch
+Text Len: 896
+--------------------------------------------------------------------------------
+icarbonate. 
+ 
+7.  Store at 2°- 7°C.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 6 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.11 Chlamydophila Diluent  
+ 
+To prepare 100 mL Chlamydophila Diluent, add aseptically: 
+ 
+1.  10.0 mL tryptose phosphate broth 
+  
+2.  2.0 mL 1M HEPES buffer 
+ 
+3.  Q.S. to 100 mL with Chlamydophila Stock Solution.  
+ 
+4.  Adjust pH to 7.0-7.2 with 7.5% Sodium  Bicarbonate. 
+ 
+5.  Store at 2°- 7°C.    
+ 
+2.2.12 Dulbecco's phosphate buffered saline (DPBS) 
+ 
+1.  8.0 g sodium chloride (NaCl) 
+ 
+2.  0.2 g potassium chloride (KCl) 
+ 
+3.  0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H20) 
+ 
+5.  Dissolve reagents with 900 mL DI. 
+ 
+6.  Add 1.03 g sodium phosphate, dibasic,
+Text Len: 913
+--------------------------------------------------------------------------------
+, monobasic, anhydrous (KH2PO4) 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H20) 
+ 
+5.  Dissolve reagents with 900 mL DI. 
+ 
+6.  Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to 10 
+mL DI, heat to 60°± 2°C until dissolved, then add to above mixture with 
+constant mixing. 
+ 
+7.  Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI and 
+add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust the pH to 7.0-7.3 with 2N HCl.  
+ 
+9.  Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.13  Cell culture plates, 96-well 
+ 
+2.2.14  Polystyrene tubes, 12 x 75-mm 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 7 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.15  Syringe, 1-mL tuberculin  
+ 
+2.2.16  Needles, 18-gauge x 1 1/2-inch 
+
+Text Len: 947
+--------------------------------------------------------------------------------
+ophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+2.2.15  Syringe, 1-mL tuberculin  
+ 
+2.2.16  Needles, 18-gauge x 1 1/2-inch 
+ 
+2.2.17  Acetone, 80%  
+ 
+1.  80 mL acetone  
+ 
+2.  20 mL DI 
+ 
+3.  Store at room temperature. 
+ 
+2.2.18 Gauze. Cut into 20- x 15-cm, 4-layer pads; wrap in foil paper; sterilize by 
+autoclaving at 121°± 2°C, 15 psi for 50 ± 10 minutes. 
+ 
+2.2.19 Labeling tape, 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+3.1.1   Personnel shall have experience in the preparation and maintenance of cell 
+culture, as well as in the propagation and maintenance of chlamydophila agents. 
+Personnel shall be proficient with the quantitation techniques for chlamydophila 
+infectivity including the IFA staining method. 
+ 
+This method requires the propagation of C. felis (formerly C. psittaci) agents which may be 
+infectious for humans. All cultures and discarded materials should be considered potentially 
+infective and handled in a manner consistent with safe laboratory practices and in accordance 
+with the recommendations of the Centers for Disease Control and Prevention and the 
+National Institutes of Health. All cultures, spent medium, and contaminated materials should 
+be disinfected or autocl
+Text Len: 1300
+--------------------------------------------------------------------------------
+ittaci) agents which may be 
+infectious for humans. All cultures and discarded materials should be considered potentially 
+infective and handled in a manner consistent with safe laboratory practices and in accordance 
+with the recommendations of the Centers for Disease Control and Prevention and the 
+National Institutes of Health. All cultures, spent medium, and contaminated materials should 
+be disinfected or autoclaved before discarding. The use of appropriate Laboratory Biosafety 
+Level-2 cabinets is recommended for these procedures. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+3.2.1   On the day of cell seeding and then on the day of cell inoculation, set a 
+water bath at 36°± 2°C and the centrifuge temperature at 36°± 2°C. 
+ 
+3.2.2   On the day of the IFA staining procedure, prepare a humidity chamber in 
+the aerobic incubator by filling a pan in the bottom with DI.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 8 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Preparation of McCoy cell culture plates (McCoy Plates) 
+ 
+1.   Prepare cells from healthy, confluent McCoy cells that are maintained 
+by passing every 3 to 4 days. Using a multichannel pipettor, seed all wells 
+of a 96-well cell culture plate 2 days
+Text Len: 1438
+--------------------------------------------------------------------------------
+control procedures 
+ 
+3.3.1   Preparation of McCoy cell culture plates (McCoy Plates) 
+ 
+1.   Prepare cells from healthy, confluent McCoy cells that are maintained 
+by passing every 3 to 4 days. Using a multichannel pipettor, seed all wells 
+of a 96-well cell culture plate 2 days prior to test initiation with 200 
+μL/well of cells suspended in growth media. The cell suspension should 
+contain approximately 105.39 to 105.54 cells per mL. These become the 
+McCoy Plates.    
+ 
+2.   Incubate the McCoy Plates in a CO2 incubator at 36°± 2°C for 2 days 
+prior to inoculation. Only confluent cell monolayers should be used for the 
+assay. (As illustrated in Appendix I. Avoid the use of outside wells if cell 
+monolayers in those wells are not confluent.)     
+ 
+3.3.2   Preparation of the Chlamydophila felis Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of Chlamydophila 
+Positive Control in a 36°± 2°C water bath. 
+ 
+2.  Dispense 1.8 mL Chlamydophila Diluent into an appropriate number 
+of 12 x 75-mm polystyrene tubes to bracket the expected endpoint 
+according to the Center for Veterinary Biologics (CVB) Reagent Data 
+Sheet and label (e.g., 7 tubes, labeled 10-1 through 10-7, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the Chlamydophila
+Text Len: 1293
+--------------------------------------------------------------------------------
+styrene tubes to bracket the expected endpoint 
+according to the Center for Veterinary Biologics (CVB) Reagent Data 
+Sheet and label (e.g., 7 tubes, labeled 10-1 through 10-7, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL of the Chlamydophila 
+Positive Control to the tube labeled  10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL from the previous dilution tube to the next dilution tube until the 
+dilution sequence is completed. 
+ 
+3.3.3   Preparation of the Working Chlamydophila felis MAb 
+ 
+On the day the IFA staining procedure is conducted, dilute the Feline-specific  
+“C. psittaci” MAb (Chlamydophila felis MAb) with DPBS as stated on the CVB 
+Reagent Data Sheet. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 9 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3.4   Preparation of the Working Anti-mouse FITC Conjugate 
+ 
+On the day the I
+Text Len: 1181
+--------------------------------------------------------------------------------
+
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.3.4   Preparation of the Working Anti-mouse FITC Conjugate 
+ 
+On the day the IFA procedure is conducted, dilute the Anti-mouse FITC 
+Conjugate with DPBS to its previously determined optimal working 
+concentration. 
+ 
+3.4   Preparation of the sample 
+ 
+3.4.1   The initial test of a Test Vaccine will be with a single vial (a single sample 
+from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and an 18-
+gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine by transferring 1.0 
+mL for 1-mL-dose vaccines, 0.5 mL for 1/2-mL-dose vaccines, etc., of the 
+provided diluent into the vial containing the lyophilized Test Vaccine; mix by 
+vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+  
+3.4.2   For multifraction feline “C. psittaci” vaccines (C. felis vaccines), 
+neutralize the nonchlamydophila fractions with antiserum specific to each virus 
+fraction. 
+ 
+1.   Prepare dilutions of each neutralizing Monospecific Antiserum 
+(nonchlamydophila) according to the CVB Reagent Data Sheet or the 
+manufacturer’s instructions. 
+ 
+2
+Text Len: 1210
+--------------------------------------------------------------------------------
+neutralize the nonchlamydophila fractions with antiserum specific to each virus 
+fraction. 
+ 
+1.   Prepare dilutions of each neutralizing Monospecific Antiserum 
+(nonchlamydophila) according to the CVB Reagent Data Sheet or the 
+manufacturer’s instructions. 
+ 
+2.   With a 200-µL pipettor and a different tip, dispense 200 µL of each 
+Monospecific Antiserum into a 12 x 75-mm polystyrene tube, labeled 10-1. 
+For example, to neutralize the 3 viral fractions of a feline Chlamydophila 
+felis/FVR/FCV/FPV vaccine, dispense 200 µL of each of the FVR, FCV, 
+and FPV working dilution antisera into the tube labeled 10-1; add 1.2 mL 
+of Chlamydophila Diluent to obtain a final volume of 1.8 mL. 
+ 
+3.   Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+4.   Incubate at 36°± 2°C for 30 ± 5 minutes. 
+ 
+3.4.3   For Test Vaccines containing only a feline chlamydophila fraction, 
+prepare the 10-1 dilution by adding 200 µL of the Test Vaccine to 1.8 mL of  
+Chlamydophila Diluent in a 12 x 75-mm polystyrene tube, labeled 10-1; mix by 
+vortexing.  
+ 
+Center for Veterinary Biologics   
+Text Len: 1145
+--------------------------------------------------------------------------------
+ophila fraction, 
+prepare the 10-1 dilution by adding 200 µL of the Test Vaccine to 1.8 mL of  
+Chlamydophila Diluent in a 12 x 75-mm polystyrene tube, labeled 10-1; mix by 
+vortexing.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 10 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+3.4.4   Vaccine tenfold dilutions 
+ 
+Using the same method described for diluting the Chlamydophila Positive Control 
+in Section 3.3.2 prepare an appropriate number of tenfold serial dilutions of the 
+reconstituted Test Vaccine to bracket its expected endpoint specified in the 
+Animal and Plant Health Inspection Service (APHIS) filed Outline of Production.  
+ 
+ 
+4.   Performance of the Test 
+ 
+4.1   On the day of test initiation, label the McCoy Plates, aseptically decant the 
+Growth Medium, and blot the plate on a sterile gauze pad. 
+ 
+4.2   Inoculate 8 wells/dilution with 100 µL/well of the Test Vaccine dilutions and the 
+Chlamydophila Positive Control dilutions (dilutions 10-3 through 10-7 for the example in 
+Section 3.3.2(2)). Change tips between each unique sample (e.g., each Test Vaccine and 
+the Chlamydophila
+Text Len: 1249
+--------------------------------------------------------------------------------
+/dilution with 100 µL/well of the Test Vaccine dilutions and the 
+Chlamydophila Positive Control dilutions (dilutions 10-3 through 10-7 for the example in 
+Section 3.3.2(2)). Change tips between each unique sample (e.g., each Test Vaccine and 
+the Chlamydophila Positive Control), but tip changes are not necessary between each 
+dilution in a series if pipetting from the most dilute to the most concentrated within that 
+series (e.g., 10-7 through 10-3) (Appendices I and II).   
+ 
+4.3   Dispense 100 µL of Chlamydophila Diluent to each of 8 wells which serve as 
+uninoculated cell culture controls (Cell Culture Controls) (Appendices I and II). 
+ 
+4.4   Seal each McCoy Plate by placing around the upper side of each plate sufficient 
+1/2-inch labeling tape to maintain the plate’s lid in place.  
+ 
+4.5   Centrifuge the McCoy Plates at 466 x g (1500 rpm in an Avanti J-E and JS–5.3 
+Rotor, and Micro-Test Plate Carriers) at 36°± 2°C for 55 ± 5 minutes to aid adsorption 
+and penetration of chlamydophila into the McCoy cells. 
+ 
+4.6   After centrifugation, pipette 100 µL/well of  Maintenance Medium into the 
+McCoy Plates including the Test Vaccine, Positive Control, and Cell Culture Controls.  
+ 
+4.7   Incubate the McCoy Plates at 36°± 2°C in a CO2 incubator for 5 ± 1
+Text Len: 1275
+--------------------------------------------------------------------------------
+
+ 
+4.6   After centrifugation, pipette 100 µL/well of  Maintenance Medium into the 
+McCoy Plates including the Test Vaccine, Positive Control, and Cell Culture Controls.  
+ 
+4.7   Incubate the McCoy Plates at 36°± 2°C in a CO2 incubator for 5 ± 1 days. 
+  
+4.8   After incubation, decant the medium into an autoclavable waste container and 
+pipette 200 µL of DPBS  into each well of the McCoy Plates.   
+ 
+4.9   Decant the DPBS in the same autoclavable waste container as in Section 4.8, and 
+pipette 200 µL of 80% acetone into each well of the McCoy Plates; incubate at room 
+temperature for 15 ± 5 minutes.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 11 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+4.10   Decant the 80% acetone in a suitable waste container, and gently blot the plate on 
+paper towels. Allow the plates to air dry. 
+ 
+4.11   Dispense 90 ± 10 µL of the Working “Chlamydia” MAb into each well of the 
+McCoy Plates. 
+ 
+4.12   Incubate the McCoy Plates at 36°± 2°C in a high humidity aerobic incubator for 
+30 ±
+Text Len: 1172
+--------------------------------------------------------------------------------
+ plates to air dry. 
+ 
+4.11   Dispense 90 ± 10 µL of the Working “Chlamydia” MAb into each well of the 
+McCoy Plates. 
+ 
+4.12   Incubate the McCoy Plates at 36°± 2°C in a high humidity aerobic incubator for 
+30 ± 5 minutes. 
+ 
+4.13   Decant the MAb; wash the cells twice by pipetting and decanting 200 µL/well of 
+DPBS. The first wash is decanted immediately after delivering the DPBS, whereas the 
+second wash is allowed to remain for 10 ± 5 minutes before decanting. Decant and blot 
+the plate.  
+ 
+4.14   Pipette 90 ± 10 µL of the Working Anti-mouse FITC Conjugate into each well of 
+the McCoy Plates.  
+ 
+4.15   Incubate the McCoy Plates in a high humidity aerobic incubator at 36°± 2°C for 
+30 ± 5 minutes. 
+ 
+4.16   Repeat Section 4.13. 
+ 
+4.17 Fill wells completely with DI, decant, and air dry. 
+ 
+4.18   Examine the plates at 200X using a UV-light microscope for typical 
+intracytoplasmic, apple-green fluorescent inclusions which are characteristic of C. felis 
+infection.  
+ 
+4.18.1  Wells containing 1 or more cells exhibiting  C. felis fluorescent inclusions 
+are considered positive for feline C. felis infection.  
+ 
+4.18.2 Results are recorded as the number of IFA-positive wells versus the total 
+number of wells examined for each
+Text Len: 1247
+--------------------------------------------------------------------------------
+ felis 
+infection.  
+ 
+4.18.1  Wells containing 1 or more cells exhibiting  C. felis fluorescent inclusions 
+are considered positive for feline C. felis infection.  
+ 
+4.18.2 Results are recorded as the number of IFA-positive wells versus the total 
+number of wells examined for each dilution of a Test Vaccine and the 
+Chlamydophila Positive Control. 
+ 
+4.19   Calculate the chlamydophila endpoints of the Test Vaccine and the 
+Chlamydophila Positive Control using the Spearman-Kärber method as commonly 
+modified by Finney. The titers are expressed as log10 50% fluorescent antibody infective 
+dose (FAID50) per mL or per dose. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 12 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Example: 
+ 
+10-2 dilution of Test Vaccine = 8/8 wells IFA positive 
+10-3 dilution of Test Vaccine = 5/8 wells IFA positive 
+10-4 dilution of Test Vaccine = 1/8 wells IFA positive 
+10-5 dilution of Test Vaccine = 0/8 wells IFA positive 
+ 
+Test Vaccine titer = (X - d/2 + [d ● S]) where: 
+ 
+X = reciprocal log10 of highest dilution with all wells IFA positive(2) 
+d =
+Text Len: 1231
+--------------------------------------------------------------------------------
+ Test Vaccine = 1/8 wells IFA positive 
+10-5 dilution of Test Vaccine = 0/8 wells IFA positive 
+ 
+Test Vaccine titer = (X - d/2 + [d ● S]) where: 
+ 
+X = reciprocal log10 of highest dilution with all wells IFA positive(2) 
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells IFA positive for all dilutions tested starting at X:  
+ 
+8    5     1      0     14 
+8 +  8 +  8 +  8 =    8 = 1.75 
+ 
+Test Vaccine titer = (2 – 1/2) + (1 ● 1.75) = 3.25 
+ 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A.  divide the Test Vaccine Dose by the Inoculation Dose 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this C. felis 
+Test Vaccine, the recommended dose is 1 mL) 
+ 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the Test Plate 
+(for this C. felis Test Vaccine, the inoculation dose is 0.1 mL) 
+ 
+  1 mL dose  
+  0.1 mL = 10 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated below: 
+ 
+ Log of 10 = 1.0 
+ 
+Test Vaccine Titer = 3.25 + 1.0 = 4.25 
+ 
+Therefore the titer of the C
+Text Len: 1102
+--------------------------------------------------------------------------------
+ 
+  0.1 mL = 10 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated below: 
+ 
+ Log of 10 = 1.0 
+ 
+Test Vaccine Titer = 3.25 + 1.0 = 4.25 
+ 
+Therefore the titer of the C. felis Test Vaccine is 104.3 FAID50/mL. 
+ 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 13 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   For a valid assay 
+ 
+5.1.1   The Cell Culture Controls shall not exhibit intracytoplasmic fluorescent 
+inclusions, significant degradation of the cell sheet, CPE, or cloudy media that 
+would indicate contamination. 
+ 
+5.1.2   The calculated FAID50 titer of the Chlamydophila Positive Control must 
+fall within plus or minus 2 standard deviations (± 2 SD) of its mean titer, as 
+established by a minimum of 10 previously determined chlamydophila titrations. 
+ 
+5.1.3   The lowest inoculated dilution of the Positive Control must induce specific 
+IFA in 100% of the wells (8/8). If an endpoint is not reached (1 or more wells are 
+IFA positive at the highest dilution), the titer is expressed as “greater than or 
+Text Len: 1243
+--------------------------------------------------------------------------------
+lamydophila titrations. 
+ 
+5.1.3   The lowest inoculated dilution of the Positive Control must induce specific 
+IFA in 100% of the wells (8/8). If an endpoint is not reached (1 or more wells are 
+IFA positive at the highest dilution), the titer is expressed as “greater than or 
+equal to” the calculated titer. If an endpoint is critical to testing, the highest (most 
+dilute) must exhibit no IFA staining (0/8). 
+ 
+5.1.4   If the validity requirements are not met, then the assay is considered a NO 
+TEST and can be retested without prejudice. 
+ 
+5.2   In a valid test, if the titer of the Test Vaccine is equal to or greater than the titer 
+specified in the APHIS filed Outline of Production, the Test Vaccine is considered 
+SATISFACTORY. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is lower than the titer specified in 
+the APHIS filed Outline of Production, the Test Vaccine shall be retested in accordance 
+with the 9 CFR, Part 113.8(b). 
+ 
+ 
+6.  Report of Test Results 
+ 
+Report results as FAID50 per dose of the Test Vaccine. 
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.71,   U.S.Government Printing 
+Office, Washington, DC.   
+ 
+7.2   Cottral GE (Ed.). Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, I
+Text Len: 1302
+--------------------------------------------------------------------------------
+
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.71,   U.S.Government Printing 
+Office, Washington, DC.   
+ 
+7.2   Cottral GE (Ed.). Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca, New York, 1978, pg. 731. 
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 14 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+7.3   Finney, DJ. Statistical method in biological assay , 3rd edition. Griffin, London, 
+1978, pp. 394-401. 
+ 
+7.4   Richmond JY, McKinney RW (Eds.). Biosafety  in microbiological and 
+biomedical laboratories. U.S. Department of Health and Human Services, U.S. 
+Government Printing Office, Washington, DC, 1993, pg. 177. 
+ 
+7.5   Smith TF. Chlamydia. In Diagnostic Procedures for viral, rickettsial and 
+chlamydial infections, 6th edition,  NJ Schmidt and RW Emmons (Eds.). American 
+Public Health Assoc., Washington, DC. 1989, pg. 1165-1192. 
+ 
+7.6   Spears, P and Storz, J. Biotyping of Chlamydia psittaci based on inclusion 
+morphology and response to diethylaminoethyl
+Text Len: 1193
+--------------------------------------------------------------------------------
+ edition,  NJ Schmidt and RW Emmons (Eds.). American 
+Public Health Assoc., Washington, DC. 1989, pg. 1165-1192. 
+ 
+7.6   Spears, P and Storz, J. Biotyping of Chlamydia psittaci based on inclusion 
+morphology and response to diethylaminoethyl-dextran and cycloheximide. Infect. 
+Immun. 24:224-232, 1979. 
+ 
+7.7   Spears, P and Storz, J. Chlamydia psittaci : Growth characteristics and 
+enumeration of serotypes 1 and 2 in cultured cells. J. Infect. Dis. 140:959-967, 1979. 
+ 
+7.8   Storz, J. Chlamydia and chlamydia-induced diseases. Charles C. Thomas 
+Publishing Company, Springfield, Illinois, 1971, pg.358. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06 
+ 
+• The coversheet and contact information have been updated.  
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The Contact has been changed from Ione Stoll to Sandra Conrad. 
+ 
+• Based on the present nomenclature, “Feline Chlamydia psittaci” has been changed to 
+“Chlamydophila felis”; therefore, the Genus “Chlamydia” has been changed to 
+“Ch
+Text Len: 1192
+--------------------------------------------------------------------------------
+• The Contact has been changed from Ione Stoll to Sandra Conrad. 
+ 
+• Based on the present nomenclature, “Feline Chlamydia psittaci” has been changed to 
+“Chlamydophila felis”; therefore, the Genus “Chlamydia” has been changed to 
+“Chlamydophila” and the species “felis” has been introduced.  
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 15 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+ 
+• 2.2.6.3  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to  1.1 g. 
+ 
+• 4.17  Additional steps have been added for clarification. 
+ 
+• 4.19  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.3  Recording the rate of positive reaction for validity requirements. 
+ 
+•
+Text Len: 1257
+--------------------------------------------------------------------------------
+1 g. 
+ 
+• 4.17  Additional steps have been added for clarification. 
+ 
+• 4.19  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.3  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items.  
+ 
+Center for Veterinary Biologics       SAM 319.06 
+Testing Protocol         Page 16 of 16 
+ 
+Supplemental Assay Method for Titration of Chlamydophila felis (formerly Feline Chlamydia psittaci) in Cell 
+Culture 
+ 
+UNCONTROLLED COPY 
+ 
+Appendix I 
+Chlamydophila Test Plate 
+ 
+     1          2          3          4          5          6        7          8          9         10
+Text Len: 1083
+--------------------------------------------------------------------------------
+   2          3          4          5          6        7          8          9         10        11         12 
+A             
+B 10-1* → → → → → → →  CC CC  
+C 10-2 → → → → → → →  CC CC  
+D 10-3 → → → → → → →  CC CC  
+E 10-4 → → → → → → →  CC CC  
+F 10-5 → → → → → → →     
+G 10-6 → → → → → → →     
+H             
+ 
+CC = cell culture controls 
+ * = Tenfold dilutions of Chlamydophila felis Test Vaccine 
+ 
+ 
+Appendix II 
+Chlamydophila Positive Control Plate 
+ 
+     1          2          3          4          5          6         7         8          9         10        11        12 
+A        
+Text Len: 597
+--------------------------------------------------------------------------------
+      5          6         7         8          9         10        11        12 
+A             
+B 10-3# → → → → → → →  CC CC  
+C 10-4 → → → → → → →  CC CC  
+D 10-5 → → → → → → →  CC CC  
+E 10-6 → → → → → → →  CC CC  
+F 10-7 → → → → → → →     
+G             
+H             
+ 
+CC = cell culture controls 
+  # = Tenfold dilutions of Chlamydophila felis Positive Control 
+Text Len: 368
+--------------------------------------------------------------------------------

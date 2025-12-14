@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Guizotia abyssinica(L. f.) Cassini  ;
+Common Name:  Ramtilla  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Persisting, Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 434
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Guizotia abyssinica(L. f.) Cassini  ;
+Common Name:  Ramtilla  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Persisting, Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 434
+--------------------------------------------------------------------------------

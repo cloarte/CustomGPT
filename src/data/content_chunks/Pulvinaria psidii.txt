@@ -1,0 +1,182 @@
+Crop Knowledge Master
+Pulvinaria psidii (Maskell)
+Green Shield Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The green shield scale attacks a large number of hosts including anthurium, avocado, Bouvardia, Citrus, coffee, ferns, flowering ginger, Gardenia, guava, litchi, Morinda citrifolia, Phlox, pomegranate, pepper tree, rose apple, and Straussia. It has some preference for broad leaf plants.
+DISTRIBUTION
+This scale has been recorded on coffee in East Africa, Ceylon and Southern India, Hawaii, Java and Sumatra, Micronesia, Uganda, and many West Indian and Pacific islands. In Hawaii, it is present on Hawaii, Molokai and Oahu.
+DAMAGE
+The green shield scale feeds from the phloem and is generally found on leaves and tender young stems of the host plant. Damage due to the feeding of an individual scale is small. However, large feeding populations can cause yellowing, defoliation, reduction in fruit set, and loss in plant vigor.
+Like other soft bodied insects such as aphids, leafhoppers, and mealybugs, scales excrete honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects which, in turn, may tend and offer protection to scale insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Sooty mold blackens the leaf, decreases photosynthesis activity, and decreases vigor of the host. When
+Text Len: 1569
+--------------------------------------------------------------------------------
+ and watery excrement is fed on by bees, wasps, ants and other insects which, in turn, may tend and offer protection to scale insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Sooty mold blackens the leaf, decreases photosynthesis activity, and decreases vigor of the host. When the sooty mold occurs on fruit, it often becomes unmarketable or of a lower grade, because the fungus affects the appearance of the fruit and is difficult to wash off (Elmer and Brawner, 1975).
+Eggs are laid in a matting of waxy secretions that may coalesce and cover the plant.
+BIOLOGY
+There are two types of scales: the armored scales and the soft scales. The green shield scale is classified as a soft scale. The soft "shield" is made of entangled threads of wax exuded from the body wall of the scale and discarded cast skins (the old skin shed during molts). Armored scales lose their legs and antennae after the first molt. The females are always wingless and remain under their scale for their entire life. Males may or may not exist depending on the species. In species that have males, the males have one pair of membranous wings, move about actively in search of females, and do not feed during the adult stage. Reproduction is by eggs in most cases, but a few species birth live young. Eggs are protected underneath the scale or shell of the mother insect until they hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+Males are not known in this species. Females reproduce without fertilization and produce eggs that hatch as females.
+EGGS
+Eggs are deposited beneath the body of the adult scale in a flocculent of white waxy secretions. When enough eggs have accumulated, the adult will be
+Text Len: 1752
+--------------------------------------------------------------------------------
+ hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+Males are not known in this species. Females reproduce without fertilization and produce eggs that hatch as females.
+EGGS
+Eggs are deposited beneath the body of the adult scale in a flocculent of white waxy secretions. When enough eggs have accumulated, the adult will be pushed off its nest.
+NYMPHS
+Immature scales are yellow, flat, and elliptical. This stage lasts ranges from 50 to 70 days.
+ADULTS
+Adults are ovoid, green to yellow, and covered with a white powdery wax. The eyes are black. They are about 1/6 inch in length and 1/8 inch in width. They produce up to 260 eggs during their lifetime which are seen as a white cottony mass beneath the adult. This species has often been confused with the green scale, Coccus viridus, which does not having a cottony ovisac or eggsac. Refer to Zimmerman (1948) and Williams and Watson (1990) for a detailed description. In slide preparations, peculiar spiracular plates are a distinctive feature of the green shield scale.
+MANAGEMENT
+Biological Control
+Heavy infestations of this pest have been controlled by the predacious lady bird beetle, Cryptolaemus montrouzieri, that also controls sugarcane mealybug. Parasites include Microterys kotinskyi (Fullaway), and Microterys flavus (Howard).
+Cultural Control
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate,
+Text Len: 1729
+--------------------------------------------------------------------------------
+
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate, formothion, malathion, and nicotine (Copland and Ibrahim, 1985). As in the use of all chemicals, consult the label or Easy Access, the registered pesticide listing for Hawaii, to determine which chemicals may be used on specific crops.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached even after their death. This may give a false impression of the pest status (Copland and Ibrahim, 1985). Eggs are protected by the waxy covering of their mother and are shielded from chemical sprays. Plant sensitivity to chemical sprays should be considered before implementing chemical control. Plant sensitivity is an important factor, since scales are often pests of sensitive ornamental plants (Copland and Ibrahim, 1985).
+Acephate 12420 was found effective on all stages causing a mean mortality of 98.8%. Dicrotophos and monocrotophos were 94.8% and 92.8% effective respectively (Easwaramoorthy and Jayaraj, 1977).
+Acephate 12420, diazinon, dimethoate, and malathion are not labelled as of April 2007.
+REFERENCES
+Beardsley, J.W. 1966. Insects of Micronesia. 6(7): 492.
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids.
+Text Len: 1679
+--------------------------------------------------------------------------------
+ate, and malathion are not labelled as of April 2007.
+REFERENCES
+Beardsley, J.W. 1966. Insects of Micronesia. 6(7): 492.
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N.W. and N. Scopes. Cornell University Press; Ithaca, New York.
+Easwaramoorthy, S. and S. Jayaraj. 1977. Control of guava scale, Pulvinaria psidii Mask., and chili aphid, Myzus persicae (Sulz.), with Cephalosporium lecanii Zimm. and Insecticides. Indian J. Agric. Sci. 43(3): 136-139.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Hodgson, C.J. 1968. Further Notes on Pulvinaria. The Journal of the Entomological Society of Southern Africa. 31: 168-172.
+LePelley, R.H. 1968. Pulvinaria psidii. pp. 371-372. In Pests of Coffee. Longmans, Green & Co., Ltd., London and Harlow. 590 pages.
+Maskell, W.M. 1893. On Coccididae. Transactions and Proceedings of the New Zealand Institute. 25:223.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London.
+Text Len: 1210
+--------------------------------------------------------------------------------
+., London and Harlow. 590 pages.
+Maskell, W.M. 1893. On Coccididae. Transactions and Proceedings of the New Zealand Institute. 25:223.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Newstead, R. 1917. Observations on Scale-Insects (Coccidae) - V. Bull. Ent. Res. 8(1): 125-134.
+Robinson, E. 1917. Coccidae of the Philippine Islands. Philippine J. of Science. 12:10-11.
+Tao, C.C., C.Y. Wong and Y.C. Chang. 1983. Monograph of Coccidae. J. of Taiwan Museum. 36:85-86.
+Williams, D.J. 1950-51. The Insects of Puerto Rico. J. Agric. Univ. P. Rico. 32: 1-975.
+Williams, D.J. and G.W. Watson. 1990. Pulvinaria psidii Maskell. pp. 153-156. In: The Scale Insects of the Tropical South Pacific Region. Part 3.: The Soft Scales (Coccidae) and Other Families. CAB International: wallingford. 267 pages.
+Zimmerman, E.C. 1948. Pulvinaria psidii Maskell. pp. 336-339. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Host
+Text Len: 1262
+--------------------------------------------------------------------------------
+ales (Coccidae) and Other Families. CAB International: wallingford. 267 pages.
+Zimmerman, E.C. 1948. Pulvinaria psidii Maskell. pp. 336-339. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  FEB/1992.
+P-PSIDII
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 440
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Pulvinaria psidii (Maskell)
+Green Shield Scale
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin Kessing, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The green shield scale attacks a large number of hosts including anthurium, avocado, Bouvardia, Citrus, coffee, ferns, flowering ginger, Gardenia, guava, litchi, Morinda citrifolia, Phlox, pomegranate, pepper tree, rose apple, and Straussia. It has some preference for broad leaf plants.
+DISTRIBUTION
+This scale has been recorded on coffee in East Africa, Ceylon and Southern India, Hawaii, Java and Sumatra, Micronesia, Uganda, and many West Indian and Pacific islands. In Hawaii, it is present on Hawaii, Molokai and Oahu.
+DAMAGE
+The green shield scale feeds from the phloem and is generally found on leaves and tender young stems of the host plant. Damage due to the feeding of an individual scale is small. However, large feeding populations can cause yellowing, defoliation, reduction in fruit set, and loss in plant vigor.
+Like other soft bodied insects such as aphids, leafhoppers, and mealybugs, scales excrete honeydew. This sweet and watery excrement is fed on by bees, wasps, ants and other insects which, in turn, may tend and offer protection to scale insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Sooty mold blackens the leaf, decreases photosynthesis activity, and decreases vigor of the host. When
+Text Len: 1569
+--------------------------------------------------------------------------------
+ and watery excrement is fed on by bees, wasps, ants and other insects which, in turn, may tend and offer protection to scale insects. The honeydew serves as a medium on which a sooty fungus, called sooty mold, grows. Sooty mold blackens the leaf, decreases photosynthesis activity, and decreases vigor of the host. When the sooty mold occurs on fruit, it often becomes unmarketable or of a lower grade, because the fungus affects the appearance of the fruit and is difficult to wash off (Elmer and Brawner, 1975).
+Eggs are laid in a matting of waxy secretions that may coalesce and cover the plant.
+BIOLOGY
+There are two types of scales: the armored scales and the soft scales. The green shield scale is classified as a soft scale. The soft "shield" is made of entangled threads of wax exuded from the body wall of the scale and discarded cast skins (the old skin shed during molts). Armored scales lose their legs and antennae after the first molt. The females are always wingless and remain under their scale for their entire life. Males may or may not exist depending on the species. In species that have males, the males have one pair of membranous wings, move about actively in search of females, and do not feed during the adult stage. Reproduction is by eggs in most cases, but a few species birth live young. Eggs are protected underneath the scale or shell of the mother insect until they hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+Males are not known in this species. Females reproduce without fertilization and produce eggs that hatch as females.
+EGGS
+Eggs are deposited beneath the body of the adult scale in a flocculent of white waxy secretions. When enough eggs have accumulated, the adult will be
+Text Len: 1752
+--------------------------------------------------------------------------------
+ hatch. All armored scales have essentially the same life history (Metcalf, 1962).
+Males are not known in this species. Females reproduce without fertilization and produce eggs that hatch as females.
+EGGS
+Eggs are deposited beneath the body of the adult scale in a flocculent of white waxy secretions. When enough eggs have accumulated, the adult will be pushed off its nest.
+NYMPHS
+Immature scales are yellow, flat, and elliptical. This stage lasts ranges from 50 to 70 days.
+ADULTS
+Adults are ovoid, green to yellow, and covered with a white powdery wax. The eyes are black. They are about 1/6 inch in length and 1/8 inch in width. They produce up to 260 eggs during their lifetime which are seen as a white cottony mass beneath the adult. This species has often been confused with the green scale, Coccus viridus, which does not having a cottony ovisac or eggsac. Refer to Zimmerman (1948) and Williams and Watson (1990) for a detailed description. In slide preparations, peculiar spiracular plates are a distinctive feature of the green shield scale.
+MANAGEMENT
+Biological Control
+Heavy infestations of this pest have been controlled by the predacious lady bird beetle, Cryptolaemus montrouzieri, that also controls sugarcane mealybug. Parasites include Microterys kotinskyi (Fullaway), and Microterys flavus (Howard).
+Cultural Control
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate,
+Text Len: 1729
+--------------------------------------------------------------------------------
+
+Scales are usually brought into greenhouse situations with the introduction of infested plant material. All plant material going into the greenhouse should be thoroughly inspected for scales and other insects before being introduced (Copland and Ibrahim, 1985).
+CHEMICAL CONTROL
+Chemicals used on scales are usually the same as those used on mealybugs and may include diazinon, dimethoate, formothion, malathion, and nicotine (Copland and Ibrahim, 1985). As in the use of all chemicals, consult the label or Easy Access, the registered pesticide listing for Hawaii, to determine which chemicals may be used on specific crops.
+Sprays are effective on the nymphal stages of scales. However, control is difficult on other life stages. Adults are firmly attached to the plant and remain attached even after their death. This may give a false impression of the pest status (Copland and Ibrahim, 1985). Eggs are protected by the waxy covering of their mother and are shielded from chemical sprays. Plant sensitivity to chemical sprays should be considered before implementing chemical control. Plant sensitivity is an important factor, since scales are often pests of sensitive ornamental plants (Copland and Ibrahim, 1985).
+Acephate 12420 was found effective on all stages causing a mean mortality of 98.8%. Dicrotophos and monocrotophos were 94.8% and 92.8% effective respectively (Easwaramoorthy and Jayaraj, 1977).
+Acephate 12420, diazinon, dimethoate, and malathion are not labelled as of April 2007.
+REFERENCES
+Beardsley, J.W. 1966. Insects of Micronesia. 6(7): 492.
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids.
+Text Len: 1679
+--------------------------------------------------------------------------------
+ate, and malathion are not labelled as of April 2007.
+REFERENCES
+Beardsley, J.W. 1966. Insects of Micronesia. 6(7): 492.
+Copland, M.J.W. and A.G. Ibrahim. 1985. Chapter 2.10 Biology of Glasshouse Scale Insects and Their Parasitoids. pp. 87-90. In: Biological Pest Control The Glasshouse Experience. Eds. Hussey, N.W. and N. Scopes. Cornell University Press; Ithaca, New York.
+Easwaramoorthy, S. and S. Jayaraj. 1977. Control of guava scale, Pulvinaria psidii Mask., and chili aphid, Myzus persicae (Sulz.), with Cephalosporium lecanii Zimm. and Insecticides. Indian J. Agric. Sci. 43(3): 136-139.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Hodgson, C.J. 1968. Further Notes on Pulvinaria. The Journal of the Entomological Society of Southern Africa. 31: 168-172.
+LePelley, R.H. 1968. Pulvinaria psidii. pp. 371-372. In Pests of Coffee. Longmans, Green & Co., Ltd., London and Harlow. 590 pages.
+Maskell, W.M. 1893. On Coccididae. Transactions and Proceedings of the New Zealand Institute. 25:223.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London.
+Text Len: 1210
+--------------------------------------------------------------------------------
+., London and Harlow. 590 pages.
+Maskell, W.M. 1893. On Coccididae. Transactions and Proceedings of the New Zealand Institute. 25:223.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Newstead, R. 1900. Monograph of the Coccidae of the British Isles. Volume 1. Adlard & Son, Bartholomew Close, Hanover Square, Dorking. 220 pages.
+Newstead, R. 1917. Observations on Scale-Insects (Coccidae) - V. Bull. Ent. Res. 8(1): 125-134.
+Robinson, E. 1917. Coccidae of the Philippine Islands. Philippine J. of Science. 12:10-11.
+Tao, C.C., C.Y. Wong and Y.C. Chang. 1983. Monograph of Coccidae. J. of Taiwan Museum. 36:85-86.
+Williams, D.J. 1950-51. The Insects of Puerto Rico. J. Agric. Univ. P. Rico. 32: 1-975.
+Williams, D.J. and G.W. Watson. 1990. Pulvinaria psidii Maskell. pp. 153-156. In: The Scale Insects of the Tropical South Pacific Region. Part 3.: The Soft Scales (Coccidae) and Other Families. CAB International: wallingford. 267 pages.
+Zimmerman, E.C. 1948. Pulvinaria psidii Maskell. pp. 336-339. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Host
+Text Len: 1262
+--------------------------------------------------------------------------------
+ales (Coccidae) and Other Families. CAB International: wallingford. 267 pages.
+Zimmerman, E.C. 1948. Pulvinaria psidii Maskell. pp. 336-339. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. 464 pages.
+  FEB/1992.
+P-PSIDII
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 440
+--------------------------------------------------------------------------------

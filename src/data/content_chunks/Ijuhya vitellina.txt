@@ -1,0 +1,56 @@
+Abstract
+Cyst nematodes are globally important pathogens in agriculture. Their sedentary lifestyle and long-term association with the roots of host plants render cyst nematodes especially good targets for attack by parasitic fungi. In this context fungi were specifically isolated from nematode eggs of the cereal cyst nematode Heterodera filipjevi. Here, Ijuhya vitellina (Ascomycota, Hypocreales, Bionectriaceae), encountered in wheat fields in Turkey, is newly described on the basis of phylogenetic analyses, morphological characters and life-style related inferences. The species destructively parasitises eggs inside cysts of H. filipjevi. The parasitism was reproduced in in vitro studies. Infected eggs were found to harbour microsclerotia produced by I. vitellina that resemble long-term survival structures also known from other ascomycetes. Microsclerotia were also formed by this species in pure cultures obtained from both, solitarily isolated infected eggs obtained from fields and artificially infected eggs. Hyphae penetrating the eggshell colonised the interior of eggs and became transformed into multicellular, chlamydospore-like structures that developed into microsclerotia. When isolated on artificial media, microsclerotia germinated to produce multiple emerging hyphae. The specific nature of morphological structures produced by I. vitellina inside nematode eggs is interpreted as a unique mode of interaction allowing long-term survival of the fungus inside nematode cysts that are known to survive periods of drought or other harsh environmental conditions. Generic classification of the new species is based on molecular phylogenetic inferences using five different gene regions. I. vitellina is the only species of the genus known to parasitise nematodes and produce microsclerotia. Metabolomic analyses revealed
+Text Len: 1841
+--------------------------------------------------------------------------------
+-term survival of the fungus inside nematode cysts that are known to survive periods of drought or other harsh environmental conditions. Generic classification of the new species is based on molecular phylogenetic inferences using five different gene regions. I. vitellina is the only species of the genus known to parasitise nematodes and produce microsclerotia. Metabolomic analyses revealed that within the Ijuhya species studied here, only I. vitellina produces chaetoglobosin A and its derivate 19-O-acetylchaetoglobosin A. Nematicidal and nematode-inhibiting activities of these compounds have been demonstrated suggesting that the production of these compounds may represent an adaptation to nematode parasitism.
+URI
+http://hdl.handle.net/10883/18881
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+PLoS ONE
+Journal volume
+v. 12
+Journal issue
+7 : e0180032
+Place of Publication
+San Francisco, USA
+Publisher
+Public Library of Science
+DOI
+https://doi.org/10.1371/journal.pone.0180032
+AGROVOC
+PLANT NEMATODES; FUNGI; BIOLOGICAL CONTROL; SECONDARY METABOLITES
+Collections
+Wheat
+Full item page
+Text Len: 1503
+--------------------------------------------------------------------------------
+Abstract
+Cyst nematodes are globally important pathogens in agriculture. Their sedentary lifestyle and long-term association with the roots of host plants render cyst nematodes especially good targets for attack by parasitic fungi. In this context fungi were specifically isolated from nematode eggs of the cereal cyst nematode Heterodera filipjevi. Here, Ijuhya vitellina (Ascomycota, Hypocreales, Bionectriaceae), encountered in wheat fields in Turkey, is newly described on the basis of phylogenetic analyses, morphological characters and life-style related inferences. The species destructively parasitises eggs inside cysts of H. filipjevi. The parasitism was reproduced in in vitro studies. Infected eggs were found to harbour microsclerotia produced by I. vitellina that resemble long-term survival structures also known from other ascomycetes. Microsclerotia were also formed by this species in pure cultures obtained from both, solitarily isolated infected eggs obtained from fields and artificially infected eggs. Hyphae penetrating the eggshell colonised the interior of eggs and became transformed into multicellular, chlamydospore-like structures that developed into microsclerotia. When isolated on artificial media, microsclerotia germinated to produce multiple emerging hyphae. The specific nature of morphological structures produced by I. vitellina inside nematode eggs is interpreted as a unique mode of interaction allowing long-term survival of the fungus inside nematode cysts that are known to survive periods of drought or other harsh environmental conditions. Generic classification of the new species is based on molecular phylogenetic inferences using five different gene regions. I. vitellina is the only species of the genus known to parasitise nematodes and produce microsclerotia. Metabolomic analyses revealed
+Text Len: 1841
+--------------------------------------------------------------------------------
+-term survival of the fungus inside nematode cysts that are known to survive periods of drought or other harsh environmental conditions. Generic classification of the new species is based on molecular phylogenetic inferences using five different gene regions. I. vitellina is the only species of the genus known to parasitise nematodes and produce microsclerotia. Metabolomic analyses revealed that within the Ijuhya species studied here, only I. vitellina produces chaetoglobosin A and its derivate 19-O-acetylchaetoglobosin A. Nematicidal and nematode-inhibiting activities of these compounds have been demonstrated suggesting that the production of these compounds may represent an adaptation to nematode parasitism.
+URI
+http://hdl.handle.net/10883/18881
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose.
+Journal
+PLoS ONE
+Journal volume
+v. 12
+Journal issue
+7 : e0180032
+Place of Publication
+San Francisco, USA
+Publisher
+Public Library of Science
+DOI
+https://doi.org/10.1371/journal.pone.0180032
+AGROVOC
+PLANT NEMATODES; FUNGI; BIOLOGICAL CONTROL; SECONDARY METABOLITES
+Collections
+Wheat
+Full item page
+Text Len: 1503
+--------------------------------------------------------------------------------

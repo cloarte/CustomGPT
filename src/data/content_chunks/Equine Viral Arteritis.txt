@@ -1,0 +1,1688 @@
+United States
+Department of
+Agriculture
+Animal and
+Plant Health
+Inspection
+Service
+APHIS 91–55–075
+Equine Viral Arteritis
+Uniform Methods and Rules,
+Effective April 19, 2004
+
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs
+and activities on the basis of race, color, national origin, sex, religion, age, disability,
+political beliefs, sexual orientation, or marital or family status.  (Not all prohibited bases
+apply to all programs.)  Persons with disabilities who require alternative means for
+communication of program information (Braille, large print, audiotape, etc.) should
+contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD).
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room
+326–W, Whitten Building, 14th and Independence Avenue, SW, Washington, DC
+20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal opportunity
+provider and employer.
+Mention of companies or commercial products does not imply recommendation or
+endorsement by USDA over others not mentioned.  USDA neither guarantees nor
+w arrants the standard of any product mentioned.  Product names are mentioned solely
+to report factually on available data and to provide specific information.
+Issued April 2004
+Contents
+Introduction 5
+Part 1:  Definitions 7
+Accredited veterinarian
+Approved laboratory
+Approved laboratory tests
+Area Veterinarian-in-Charge (AVIC)
+Booking
+Carrier
+Certificate
+Cover
+Equine
+Equine arteritis virus (EAV)
+Equine viral arteritis (EVA)
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+Official test
+
+Text Len: 1612
+--------------------------------------------------------------------------------
+ veterinarian
+Approved laboratory
+Approved laboratory tests
+Area Veterinarian-in-Charge (AVIC)
+Booking
+Carrier
+Certificate
+Cover
+Equine
+Equine arteritis virus (EAV)
+Equine viral arteritis (EVA)
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+Official test
+Permit
+Quarantine
+Quarantined area
+Reactor
+Reference laboratory
+Seroconversion
+Seropositive horse
+Seronegative horse
+Shedder
+State
+State animal health official
+Vaccination
+Virus isolation test
+Virus neutralization test
+Part II:  Recommended Procedures (Minimum Requirements) 11
+A. Laboratory Testing—Prescribed Methods 11
+B. Approved Laboratories 11
+C. Serology 11
+D. Virus Isolation 11
+E. Testing Procedures 12
+3
+F. Outbreak Procedures    14
+G. Control Procedures 15
+H. Movement of Stallions and Semen 17
+I. Recommendations for Breed Registries    17
+4
+Introduction
+Equine viral arteritis (EVA) is a contagious disease of equids caused by the equine
+arteritis virus (EAV).  Although typically not life-threatening to otherwise healthy adult
+horses, EVA is of special concern because it can result in abortion in pregnant mares,
+illness and death in young foals, and establishment of the carrier state in stallions.
+Despite the presence of EAV in many equine populations throughout the world, its
+prevalence in any particular country can vary widely depending upon breed.
+Notwithstanding the global distribution of the causal virus, confirmed outbreaks of EVA
+are reported infrequently.
+Ever since the 1984 epidemic on a considerable number of thoroughbred breeding
+farms in Kentucky, EVA has significantly impacted international trade in horses and
+equine semen
+Text Len: 1635
+--------------------------------------------------------------------------------
+ many equine populations throughout the world, its
+prevalence in any particular country can vary widely depending upon breed.
+Notwithstanding the global distribution of the causal virus, confirmed outbreaks of EVA
+are reported infrequently.
+Ever since the 1984 epidemic on a considerable number of thoroughbred breeding
+farms in Kentucky, EVA has significantly impacted international trade in horses and
+equine semen.  The import control policies of most countries currently deny entry to
+carrier stallions and EAV-infective semen because of the associated disease risks.
+Currently, the United States is the only major horse-breeding country without an import
+control policy for EVA.
+Traditionally, the U.S. horse industry has attached relatively little significance to this
+disease.  Efforts to achieve a greater level of control over dissemination of EAV within
+the country’s equine population have been hampered by insufficient awareness of the
+disease and its potential economic consequences among many within the Nation’s
+horse industry.  This was clearly revealed from the findings of the U.S. Department of
+Agriculture’s (USDA) National Animal Health Monitoring Systems’ Equine ’98 Study.  A
+high percentage of individuals responding to that survey had little if any knowledge
+about EVA and even less about the reasons or methods for controlling it.
+Another finding of major importance to emerge from that study was the very low
+seroprevalence of EAV infection in most U.S. horses.  Because they have never been
+exposed to the virus, the vast majority of the Nation’s horse population could therefore
+be considered completely susceptible to natural infection.
+Although the international movement of horses has increased over the past 30–40
+years, trade in both horses and semen has accelerated considerably during the past
+decade as a result of changing economic trends in the horse industry worldwide
+Text Len: 1908
+--------------------------------------------------------------------------------
+  Because they have never been
+exposed to the virus, the vast majority of the Nation’s horse population could therefore
+be considered completely susceptible to natural infection.
+Although the international movement of horses has increased over the past 30–40
+years, trade in both horses and semen has accelerated considerably during the past
+decade as a result of changing economic trends in the horse industry worldwide.  The
+absence of any restrictions on the import of carrier stallions or EAV-infective semen
+into the United States has greatly increased both the likelihood of the virus’ becoming
+more widely disseminated in the Nation’s equine population and the risk of economi-
+cally damaging outbreaks of EVA.  This trend has been amply borne out by instances
+in which imported carrier stallions or infective semen has been responsible for signifi-
+cant outbreaks of EVA, including abortion in mares and mortality in young foals.  Such
+importations not only augment the number of carrier stallions in the breeding popula-
+tion at large but also  increase the potential for disease outbreaks through the introduc-
+tion of more highly virulent strains of EAV previously exotic to the country.
+This publication, “Equine Viral Arteritis:  Uniform Methods and Rules” (UM&R), con-
+tains minimum standards for detecting, controlling, and preventing EVA as well as
+minimum EVA requirements for the intrastate and interstate movement of equines.
+5
+It should be noted that these minimum standards and requirments represent a frame-
+wo rk for creating a domestic EVA control program.  This document should therefore not
+be viewed as a final product, but as a work-in-progress that can be modified as sci-
+ence and technology evolve, as more experience in controlling EVA is acquired, and as
+resources become available to implement
+Text Len: 1827
+--------------------------------------------------------------------------------
+ be noted that these minimum standards and requirments represent a frame-
+wo rk for creating a domestic EVA control program.  This document should therefore not
+be viewed as a final product, but as a work-in-progress that can be modified as sci-
+ence and technology evolve, as more experience in controlling EVA is acquired, and as
+resources become available to implement the program.
+The provisions of these methods and rules were approved by the USDA, Animal and
+Plant Health Inspection Service (APHIS), Veterinary Services (VS) with recommenda-
+tions from the United States Animal Health Association, the American Horse Council
+(AHC), and the American Association of Equine Practitioners (AAEP).  These UM&R
+may be amended in the future.
+6
+Accredited veterinarian
+Approved laboratory
+Approved laboratory
+tests
+Certificate
+Part I—Definitions
+A veterinarian approved by the Deputy Administrator of USDA–APHIS–VS in accor-
+dance with provisions of part 161, title 9, Code of Federal Regulations (CFR).  An
+accredited veterinarian is preapproved to perform certain functions of Federal and
+cooperative State–Federal programs.
+A State, Federal, or private veterinary diagnostic laboratory that must be approved for
+EVA testing by the USDA–APHIS–VS.
+Laboratory tests for the diagnosis of EAV infection that are approved by the Office
+International des Epizooties (OIE) and USDA–APHIS–VS.
+The veterinary official of USDA–APHIS–VS who is assigned by the Deputy
+Administrator of VS to supervise and perform the official animal health work of APHIS
+in the State or States concerned.
+The contracting or scheduling of mares for breeding to stallions by natural service.
+A clinically normal stallion that sheds EAV continuously in it’s semen.
+An official
+Text Len: 1744
+--------------------------------------------------------------------------------
+ veterinary official of USDA–APHIS–VS who is assigned by the Deputy
+Administrator of VS to supervise and perform the official animal health work of APHIS
+in the State or States concerned.
+The contracting or scheduling of mares for breeding to stallions by natural service.
+A clinically normal stallion that sheds EAV continuously in it’s semen.
+An official document issued by a VS representative, State representative, or accredited
+veterinarian at the point of origin of a shipment of equines.  It includes all of the follow-
+ing:
+1. The description, including age, breed, color, sex, distinctive markings, or unique
+and permanent forms of identification, when present (e.g., brands, tattoos, scars, or
+blemishes), of each restricted equine to be moved;
+2. The number of restricted equines covered by the document;
+3. The purpose for which the equines are to be moved;
+4. The points of origin and destination;
+5. The consignor; and
+6. The consignee.
+To breed a stallion to a mare by natural service.
+Any animal in the Family Equidae, including horses, asses, mules, ponies, and zebras.
+The organism that causes the disease equine viral arteritis.
+A contagious disease of equids caused by equine arteritis virus.
+Area Veterinarian-in-
+Charge (AVIC)
+Booking
+Carrier
+Cover
+Equine
+Equine arteritis virus
+(EAV)
+Equine viral arteritis
+(EVA)
+7
+8
+Official test
+Animals in the Family Equidae that have been exposed to EAV by reason of associat-
+ing with equines known to be infected with the virus.
+1. All animals of the Family Equidae, such as horses, asses,
+Text Len: 1551
+--------------------------------------------------------------------------------
+ine
+Equine arteritis virus
+(EAV)
+Equine viral arteritis
+(EVA)
+7
+8
+Official test
+Animals in the Family Equidae that have been exposed to EAV by reason of associat-
+ing with equines known to be infected with the virus.
+1. All animals of the Family Equidae, such as horses, asses, or zebras, under com-
+mon ownership or supervision that are grouped on one or more parts of any single
+premises (lot, farm, or ranch); or
+2. All animals of the Family Equidae under common ownership or supervision on two
+or more premises that are geographically separated but between which equines
+have been interchanged or had contact with equines from other premises.  It will be
+assumed that contact between animals of the Family Equidae on the different
+premises has occurred unless the owner can establish otherwise and the results of
+the epidemiologic investigation are consistent with the lack of contact between
+premises; or
+3. All animals of the Family Equidae on common premises, such as community
+pastures or grazing association units, but owned by different persons.  Other
+groups of equines owned by the persons involved that are located on other
+premises are considered to be part of a herd unless epidemiologic investigation
+establishes that equines from an affected herd have not had the opportunity for
+direct or indirect contact with equines from that specific premises.
+A farm or other premises where the equines were born or where they have been kept
+for 30 days or more before the date of shipping.  For the purposes of these UM&R,
+herd of origin has the same meaning as place of origin, premises of origin, and farm of
+origin.
+Any modality that provides a unique and permanent identification of an individual
+equine.
+A serially numbered metal or plastic strip,
+Text Len: 1759
+--------------------------------------------------------------------------------
+ or where they have been kept
+for 30 days or more before the date of shipping.  For the purposes of these UM&R,
+herd of origin has the same meaning as place of origin, premises of origin, and farm of
+origin.
+Any modality that provides a unique and permanent identification of an individual
+equine.
+A serially numbered metal or plastic strip, consisting of a self-locking device on one
+end and a slot on the other end, that forms a loop when the ends are engaged.  An
+official seal is tamperproof and cannot be reused if opened.  It is applied to the doors
+of a transport vehicle by a representative of the APHIS AVIC or the State animal health
+official.  A serially numbered, self-locking button that cannot be reused may be substi-
+tuted for the metal or plastic-strip type of seal.
+The virus neutralization and virus isolation test in cell culture are the official laboratory
+procedures currently employed for the diagnosis of EAV infection.  The procedures are
+described in the OIE Manual of Standards for Diagnostic Tests and Vaccines.
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+An official document (VS Form 1–27 or comparable State form) issued by a State or
+Federal representative or by an accredited veterinarian.  The permit must accompany
+all EAV carrier stallions and those EAV-exposed equines being moved under official
+seal to a specified destination.
+The act of placing exposed or infected animals into isolation from other animals to
+prevent the transmission of an infection.
+A confined area under the direct supervision and control of a State or Federal animal
+health official who establishes procedures for the monitoring/recording of all animals
+entering or leaving the area.  All equines under EVA quarantine are considered to have
+been exposed to EAV
+Text Len: 1792
+--------------------------------------------------------------------------------
+The act of placing exposed or infected animals into isolation from other animals to
+prevent the transmission of an infection.
+A confined area under the direct supervision and control of a State or Federal animal
+health official who establishes procedures for the monitoring/recording of all animals
+entering or leaving the area.  All equines under EVA quarantine are considered to have
+been exposed to EAV.
+Any horse, ass, mule, pony, or zebra that has been subjected to an officially approved
+laboratory test that is confirmed positive for antibodies to EAV.
+The national reference laboratory for the serological testing of EAV infection is the
+diagnostic virology laboratory in Ames, IA, a part of USDA–APHIS–VS’ National
+Veterinary Services Laboratories (NVSL).  As designated by OIE, the international
+reference laboratory for all laboratory diagnostic tests for EAV infection is the M. H.
+Gluck Equine Research Center at the University of Kentucky in Lexington, KY .
+The development of neutralizing antibodies to EAV in response to natural infection with
+EAV or to the administration of EVA vaccine.
+A horse that has a serum neutralizing antibody titer of 1:4 or greater to EAV using the
+virus neutralization test.
+A horse that has a serum neutralizing antibody titer less than 1:4 to EAV using the
+virus neutralization test.
+A term used to refer to a carrier stallion that has been determined to have EAV present
+in its semen and is capable of transmitting the infection to other equines through the
+act of breeding either by natural service or the use of artificial insemination.
+Any State of the United States and the Northern Mariana Islands or any other territory
+or possession of the United States.  The District of Columbia, Puerto Rico, the U.S.
+Virgin Islands, and Guam are other examples of
+Text Len: 1805
+--------------------------------------------------------------------------------
+ semen and is capable of transmitting the infection to other equines through the
+act of breeding either by natural service or the use of artificial insemination.
+Any State of the United States and the Northern Mariana Islands or any other territory
+or possession of the United States.  The District of Columbia, Puerto Rico, the U.S.
+Virgin Islands, and Guam are other examples of the latter category.
+The chief sanitary health official in each State responsible for disease control and
+eradication programs affecting livestock and poultry.
+An equine that has been vaccinated with an approved EVA vaccine and for which the
+vaccination status has been kept current in accordance with the manufacturer’s
+recommendations.
+Permit
+Quarantine
+Quarantined area
+Reactor
+Reference laboratory
+State
+State animal health
+official
+Seroconversion
+Seropositive horse
+Seronegative horse
+Shedder
+Vaccinate
+9
+Virus neutralization (VN)
+test
+Isolation of EAV should be attempted in cultures of the RK–13 cell line (ATCC CCL37).
+Suspensions of appropriate tissues or fluid specimens from suspect cases of EAV
+infection are inoculated onto monolayer cultures of RK–13 cells either in 25-cm2 flasks
+or multiwell plates in accordance with the procedures prescribed in the OIE Standards
+Manual for Diagnostic Tests and Vaccines.  Inoculated cultures are incubated for 5 to 7
+days at 37 °C and examined microscopically for viral cytopathic effect.  In the absence
+of visible cytopathic changes, culture supernatants are subcultured onto fresh cell
+monolayers and incubated for an equivalent period at 37 °C.  The identity of any virus
+isolates must be confirmed using reference EAV antiserum.
+An assay for determining
+Text Len: 1691
+--------------------------------------------------------------------------------
+ °C and examined microscopically for viral cytopathic effect.  In the absence
+of visible cytopathic changes, culture supernatants are subcultured onto fresh cell
+monolayers and incubated for an equivalent period at 37 °C.  The identity of any virus
+isolates must be confirmed using reference EAV antiserum.
+An assay for determining serum neutralizing antibodies to a particular virus, in this
+case EAV.  Serial twofold dilutions of serum are tested against a standard quantity of
+an approved reference strain of EAV.  The antibody titer is expressed as the highest
+serum dilution that neutralizes 75 percent of the standard quantity of virus.  An anti-
+body titer of 1:4 or greater is considered positive in the EVA VN test.
+10
+Virus isolation test
+Part II—Recommended Procedures (Minimum Requirements)
+Laboratory tests to detect EAV or EAV antibody should be conducted according to the
+methods for international trade prescribed by the OIE.  These methods are published
+in the chapter on EVA in the current OIE Manual of Standards for Diagnostic Tests and
+Vaccines.  The manual is available at
+<http://www.oie.int/eng/normes/mmanual/A_summry.htm>.
+USDA–APHIS–VS maintains a list of laboratories approved to conduct serological
+testing for EAV.  The proficiency of approved laboratories is subjected to periodic
+evaluation by NVSL.  The current list of approved laboratories can be viewed at
+<http://www.aphis.usda.gov/vs/nvsl/labcertification.htm>.
+1.  Collecting samples—Serum samples are examined for the presence of antibodies
+to EAV in a VN test.  Clean, nonhemolyzed, separated serum is required
+Text Len: 1601
+--------------------------------------------------------------------------------
+ by NVSL.  The current list of approved laboratories can be viewed at
+<http://www.aphis.usda.gov/vs/nvsl/labcertification.htm>.
+1.  Collecting samples—Serum samples are examined for the presence of antibodies
+to EAV in a VN test.  Clean, nonhemolyzed, separated serum is required.  Blood
+samples should be collected into a Vacutainer® tube without anticoagulant.
+Following clot formation, the blood collection tube should be centrifuged and the
+serum transferred to a new sterile tube.  Serum must be shipped to the testing
+laboratory on ice packs.
+2.  Supporting documentation needed—The purpose for testing (e.g., diagnostic,
+surveillance, prevaccination) and a clinical history, including EVA vaccination status
+and vaccination dates, must be provided to the testing laboratory.  A single serum
+sample is sufficient to screen for the presence of EAV antibodies in a healthy horse.
+A VN titer of 1:4 or greater is considered positive for EAV serum antibodies.
+When samples are submitted for diagnostic purposes, paired sera are required.
+The first sample is collected as early in the clinical course of the infection as
+possible, and the second sample is collected 14–21 days after the first.  The two
+samples are examined together in the same VN test.  Demonstration of
+seroconversion or a fourfold or greater rise in antibody titer between the first and
+second sample is significant and confirmatory of recent infection.
+3.  Repeating blood collection—Occasionally, sera will be encountered that cause
+nonspecific toxic changes to the cell monolayers.  These changes can interfere with
+interpretation of VN results at the lower serum dilutions.  In cases where the
+problem
+Text Len: 1676
+--------------------------------------------------------------------------------
+ in antibody titer between the first and
+second sample is significant and confirmatory of recent infection.
+3.  Repeating blood collection—Occasionally, sera will be encountered that cause
+nonspecific toxic changes to the cell monolayers.  These changes can interfere with
+interpretation of VN results at the lower serum dilutions.  In cases where the
+problem cannot be overcome by the laboratory, it may be necessary to repeat blood
+collection from the horse in question and submit the new serum sample to the
+testing laboratory.  The test setup schedule of the laboratory determines the turn
+around time for receiving VN test results, which is normally 5–7 days.
+1.  OIE reference laboratory—Isolation of EAV in cell culture is a specialized
+procedure.  Attempts to perform this test should be limited to veterinary diagnostic
+laboratories with experience and expertise in working with EAV.  The OIE reference
+laboratory for EVA in North America is under the direction of Dr. Peter J. Timoney.  It
+is located at the Department of Veterinary Science, 108 Gluck Equine Research
+Center, Lexington, KY 40546–0099.  [Telephone:  (859) 257–4757, ext. 81085;
+Fax:  (859) 257–8542; E-mail:  ptimoney@uky.edu).]  Laboratories wishing to
+provide virus isolation for EAV are urged to contact Dr. Timoney or Dr. William
+McCollum to obtain a panel of semen samples for evaluation and to confirm their
+competency in the isolation of EAV.
+A. Laboratory Testing—
+Prescribed Methods
+B. Approved Laborato-
+ries
+C. Serology
+D. Virus Isolation
+11
+2.  Maximizing accuracy—To maximize the accuracy of attempted
+Text Len: 1590
+--------------------------------------------------------------------------------
+oney or Dr. William
+McCollum to obtain a panel of semen samples for evaluation and to confirm their
+competency in the isolation of EAV.
+A. Laboratory Testing—
+Prescribed Methods
+B. Approved Laborato-
+ries
+C. Serology
+D. Virus Isolation
+11
+2.  Maximizing accuracy—To maximize the accuracy of attempted virus isolation, care
+must be taken in sample selection and handling during shipment to the laboratory.
+Submitters should contact the receiving veterinary diagnostic laboratory to
+coordinate sample selection, handling and processing, and expedient shipment of
+samples collected for EAV isolation attempts.  For example, use of heparin is
+contraindicated when collecting whole blood samples as is the use of disinfectants
+in cleansing the external genitalia of stallions before collecting a semen sample.  In
+conjunction with attempted virus isolation, the EAV serostatus of each horse being
+tested for virus should be determined (see the section entitled “Serology” above).
+3.  Virus isolation samples—In the case of suspected outbreaks of EVA, samples for
+virus isolation include nasopharyngeal and conjunctival swabs immersed in virus
+transport media, unclotted blood using EDTA or sodium citrate as an anticoagulant,
+and semen from stallions considered to be possible carriers of the virus.  When EVA
+is suspected as a cause of mortality, a variety of tissues collected at necropsy
+should be examined.  It is advisable to consult OIE in determining what tissues
+should be sampled.  In instances of suspected EVA abortion, fetal and placental
+fluids and tissues should be submitted.
+4.  Semen samples—To determine the virus-shedding status of seropositive stallions,
+the sperm-rich fraction of semen must be submitted. 
+Text Len: 1722
+--------------------------------------------------------------------------------
+should be examined.  It is advisable to consult OIE in determining what tissues
+should be sampled.  In instances of suspected EVA abortion, fetal and placental
+fluids and tissues should be submitted.
+4.  Semen samples—To determine the virus-shedding status of seropositive stallions,
+the sperm-rich fraction of semen must be submitted.  Semen from at least two
+ejaculates should be submitted for evaluation.  The preferred sample size is
+5–10 mL of unextended raw semen.  Less preferable is 5–10 mL of extended fresh
+cooled semen.  When frozen semen is the only sample available, at least two straws
+per ejaculate should be submitted to the laboratory.  Virus isolation attempts may
+require more than one cell-culture passage.  The normal turnaround time for EAV
+isolation testing is 10–14 days.
+1.  Test before breeding—Before being used for breeding, stallions should have a blood
+sample collected and tested for antibodies to EAV.  Stallions that are seronegative
+should be vaccinated with an approved EVA vaccine.  EVA-vaccinated stallions
+should not be exposed to EAV-infected animals and should not be used for breeding
+within 28 days after their initial vaccination.  Stallions should be annually
+revaccinated against EVA.
+2.  Seropositive stallions—It is recommended that the following procedures be followed
+when stallions test positive for antibodies to EAV.
+a.  If the stallion’s owner can document that the animal was seronegative for
+antibodies to EAV before being vaccinated for EVA, the procedures listed under
+E.1 should be followed.  A valid EVA vaccination certificate is needed to
+document the stallion’s negative prevaccination antibody status.
+b. 
+Text Len: 1668
+--------------------------------------------------------------------------------
+AV.
+a.  If the stallion’s owner can document that the animal was seronegative for
+antibodies to EAV before being vaccinated for EVA, the procedures listed under
+E.1 should be followed.  A valid EVA vaccination certificate is needed to
+document the stallion’s negative prevaccination antibody status.
+b.  If the stallion’s owner cannot document that an antibody titer to EAV was the
+result of vaccination, one of the two procedures listed below should be followed.
+E. Testing Procedures
+12
+(1)  Breed the stallion to two mares that are negative for EAV antibodies.  Test
+mares must be tested approximately 28 days after breeding for the presence
+of antibodies to EAV.  A negative test result on the two test mares will qualify
+the stallion for breeding.  The stallion will be classified as a seropositive
+nonshedding stallion.
+Or:
+(2)  Collect semen from the stallion and submit it to a laboratory approved for the
+isolation of EAV.  A negative virus isolation result qualifies the stallion for
+breeding.  The stallion will be classified as a seropositive nonshedding
+stallion.  This stallion will be eligible for EVA vaccination and should be
+annually vaccinated against the disease.
+c.  The farm’s veterinarian must document all vaccinations and submit an EVA
+ vaccination certificate to the State Veterinarian within 7 days of the vaccination
+ date.
+(1) Before a stallion receives its first EVA vaccination, a blood sample must be
+collected, either very shortly prior to or at the time of vaccination.
+(2) A stallion’s prior EVA test history will establish how the EVA UM&R will be
+applied in determining the stallion
+Text Len: 1619
+--------------------------------------------------------------------------------
+arian within 7 days of the vaccination
+ date.
+(1) Before a stallion receives its first EVA vaccination, a blood sample must be
+collected, either very shortly prior to or at the time of vaccination.
+(2) A stallion’s prior EVA test history will establish how the EVA UM&R will be
+applied in determining the stallion’s breeding status.
+d.  When a shedding stallion is approved for breeding by the State
+ Veterinarian, the procedures listed next should be followed.
+(1) The owner or agent of a mare booked to a carrier stallion, or seeking such a
+booking, must be notified in writing by the stallion’s owner or agent that the
+animal is classified as a carrier of EAV.   A written copy of the booking
+confirmation must be sent to the State Veterinarian.
+(2) The carrier stallion must be housed, handled, and bred in a facility isolated
+from noncarrier stallions.
+(3) A carrier stallion can be bred to a mare that was vaccinated against EVA at
+least 21 days before breeding or that has an antibody titer to EAV from
+previous natural exposure to the virus.
+(4) A carrier stallion can be bred to a seronegative mare that can be kept in total
+isolation from other seronegative equines for 3 to 4 weeks after breeding.
+(5)  A mare with clinical signs of EVA should not be bred until it has been
+               documented that she is seropositive for antibodies to EAV.
+13
+1.  Notification of State Veterinarian—When an EVA outbreak is suspected, the farm or
+attending veterinarian should immediately contact the State Veterinarian.
+Text Len: 1521
+--------------------------------------------------------------------------------
+ with clinical signs of EVA should not be bred until it has been
+               documented that she is seropositive for antibodies to EAV.
+13
+1.  Notification of State Veterinarian—When an EVA outbreak is suspected, the farm or
+attending veterinarian should immediately contact the State Veterinarian.  In
+jurisdictions where EVA is not a reportable disease, a self-imposed quarantine
+should be implemented immediately on the affected premises to restrict further
+spread of the infection.
+2.  Farm outbreaks—For a quarantine to be maximally effective, immediate restrictions
+must be imposed on the movement of all horses associated with the premises.
+Take these actions as soon as you suspect an outbreak:
+a.  Promptly isolate all affected horses.
+b.  Notify the farm or attending veterinarian immediately.
+c.  In consultation with the farm or attending veterinarian, seek laboratory
+confirmation of a diagnosis as soon as possible.
+d.  In the case of abortion or death in a newborn foal, place the placenta, fetus, or
+ foal in a leakproof bag, keep cold (not frozen), and dispatch to the nearest
+ qualified diagnostic laboratory.
+e.  Disinfect the stall, any equipment, or other potentially contaminated facilities
+ using a phenolic disinfectant.  After treatment with disinfectant, dispose of any
+ bedding by composting in an area away from other horses.
+f.   Using the antiseptic recommended by the farm or attending veterinarian, wash
+down the hindquarters and tail of any mare that has aborted and isolate her from
+other horses for 4 weeks.
+g.  Restrict movement of horses onto and off the affected premises.
+h.  Suspend breeding and training operations until the outbreak is over and notify
+ owners of mares on the affected premises
+Text Len: 1738
+--------------------------------------------------------------------------------
+ Using the antiseptic recommended by the farm or attending veterinarian, wash
+down the hindquarters and tail of any mare that has aborted and isolate her from
+other horses for 4 weeks.
+g.  Restrict movement of horses onto and off the affected premises.
+h.  Suspend breeding and training operations until the outbreak is over and notify
+ owners of mares on the affected premises.  Mares affected with EVA can be
+ safely bred later in the same breeding season once they have fully recovered
+ from the disease and once the outbreak has run its course.
+i.   Monitor horses at weekly intervals to check for any additional spread of the virus.
+ If no further clinical cases of EVA or serologically confirmed cases of infection
+ have occurred for 3 consecutive weeks, the outbreak can be considered over,
+ and all movement restrictions can be lifted.
+j.   Vaccinate all at-risk horses.
+3.  Racetrack outbreaks—Measures to be taken in the event of an EVA outbreak at
+a racetrack, equestrian event, or horse show are broadly similar to those
+recommended for dealing with an outbreak on a breeding farm.  Major emphasis
+should be placed on isolating animals, restricting movement in and out of the
+14
+F.  Outbreak Procedures
+facility, and vaccinating all at-risk animals at the earliest opportunity.  However, EVA
+outbreaks at racetracks may involve conflicting interests.  Measures to restrict the
+spread of infection at such venues often interfere with racing and frequently do not
+find favor with track management, trainers, and owners.  In addition to the steps
+outlined for farm outbreaks, implement these specific measures as soon as an EVA
+outbreak is suspected at a racetrack:
+a.  Isolate all affected horses.
+b.Prohibit the movement of horses between barns that have housed affected
+h
+Text Len: 1783
+--------------------------------------------------------------------------------
+ with racing and frequently do not
+find favor with track management, trainers, and owners.  In addition to the steps
+outlined for farm outbreaks, implement these specific measures as soon as an EVA
+outbreak is suspected at a racetrack:
+a.  Isolate all affected horses.
+b.Prohibit the movement of horses between barns that have housed affected
+horses.
+c.Restrict the movement of horses stabled in such barns other than for racing or
+training.
+d.  Establish temporary, sanitized stabling facilities for ship-ins.
+e.  Require that a health certificate accompany all horses coming to the track.
+f.  Require a 48-hour departure slip from the State Veterinarian and require the
+certifying veterinarian to contact the jurisdiction of the horse’s destination for
+approval to return home.
+1.  Vaccine—It has been possible to develop effective programs for the prevention and
+control of EVA based on the known characteristics of the causal agent and
+epidemiology of the disease.  This infection can be controlled by minimizing or
+eliminating direct or indirect contact with various secretions, excretions, or tissues of
+infected horses.  An important adjunct to the success of existing EVA control
+programs is the availability of a safe and effective vaccine against the disease
+(ARVAC®, Ft. Dodge Animal Health).
+2.  Nonbreeding farm settings—The goal of current control programs is to restrict the
+dissemination of EAV in breeding horse populations in order to prevent outbreaks of
+EVA-related abortion or illness and death in young foals and establishment of the
+carrier state in stallions and postpubertal colts.  Even though EAV has sometimes
+been known to cause widespread outbreaks of disease at venues such as race
+tracks, horse shows, sales, and equest
+Text Len: 1751
+--------------------------------------------------------------------------------
+dissemination of EAV in breeding horse populations in order to prevent outbreaks of
+EVA-related abortion or illness and death in young foals and establishment of the
+carrier state in stallions and postpubertal colts.  Even though EAV has sometimes
+been known to cause widespread outbreaks of disease at venues such as race
+tracks, horse shows, sales, and equestrian events, currently there are no control
+programs specifically directed at preventing the spread of the virus in nonbreeding
+farm settings.
+15
+G.  Control Procedures
+3.  Specific measures—Critical to the effectiveness of EVA prevention and control
+programs is the observance of sound management practices that can help minimize
+the risk of spreading this and various other equine infectious diseases.  All control
+programs developed so far highlight the uniquely important role of the carrier
+stallion in the epidemiology of EVA.  Such animals are the primary reservoir of the
+virus and serve as long-term sources of infection, transmitting EAV to susceptible
+mares either through natural cover or by artificial insemination.  The following
+specific preventive measures can help minimize the spread of EAV in breeding
+horse populations:
+a.  Isolate all new arrivals and horses returning from other farms, sales, or race
+ tracks for 3 to 4 weeks.
+b.  If at all possible, segregate pregnant mares from other horses and maintain
+ mares in small groups based on anticipated foaling dates until they have foaled.
+c.  Before each breeding season, blood-test all new breeding stallions for the
+ presence of antibodies to EAV.
+d.  Have the semen of any antibody-positive, nonvaccinated stallion laboratory-
+ tested to identify any carrier animals.
+e.  Annually vaccinate all noncarrier breeding stallions at least 4 weeks before the
+ start of each breeding season.
+f
+Text Len: 1822
+--------------------------------------------------------------------------------
+ each breeding season, blood-test all new breeding stallions for the
+ presence of antibodies to EAV.
+d.  Have the semen of any antibody-positive, nonvaccinated stallion laboratory-
+ tested to identify any carrier animals.
+e.  Annually vaccinate all noncarrier breeding stallions at least 4 weeks before the
+ start of each breeding season.
+f.   Physically isolate any EAV-carrier stallions.
+g.  Observe strict hygienic precautions when breeding or collecting semen from
+ carrier stallions to avoid the risk of inadvertent transfer of infection through
+ indirect contact with virus-contaminated objects.
+h.  Restrict breeding EAV-carrier stallions to vaccinated mares or mares that have
+ previously tested positive for naturally acquired antibodies to the virus.
+i.   Vaccinate EAV antibody-negative mares against EVA at least 3 weeks before
+ breeding to a known carrier stallion or with virus-infective semen.
+j.   For 3 weeks after they have been bred to a carrier stallion, isolate mares
+ vaccinated for the first time against EVA from all but known EAV antibody-
+ positive horses.  It is especially important to avoid contact between such mares
+     and other pregnant mares to which the virus can be spread by the respiratory
+ route.
+k.  In breeds or areas in which there is a high prevalence of EAV infection, vaccinate
+all immature male foals between 6 and 12 months of age against EVA as advised
+by your veterinarian.  If implemented over a period of years, such a program of
+targeted vaccination would greatly reduce the number of carrier stallions and
+largely eliminate the primary reservoir of EAV.
+16
+H. Movement of Stal-
+lions and Semen
+l.  Determine the infectivity status of semen
+Text Len: 1693
+--------------------------------------------------------------------------------
+ 12 months of age against EVA as advised
+by your veterinarian.  If implemented over a period of years, such a program of
+targeted vaccination would greatly reduce the number of carrier stallions and
+largely eliminate the primary reservoir of EAV.
+16
+H. Movement of Stal-
+lions and Semen
+l.  Determine the infectivity status of semen used for artificial insemination,
+especially if imported from abroad.  When breeding mares with EAV-infective
+semen, adopt the same precautions as recommended for mares bred by natural
+cover to a carrier stallion.
+4.  Voluntary protocol available—A voluntary, industry-driven protocol to assist
+breeders in preventing the spread of EVA was developed by a working group
+convened by the AHC in 1996.  The guidelines, released in August 1997, were
+widely endorsed and are available at the Council’s Web site:
+ <http://www.horsecouncil.org>.  Click on the Equine Health Advisory box.
+5.  Vaccination debate—Because outbreaks of EVA are sporadic and infrequent in
+settings such as racetracks, horse shows, sales, and veterinary clinics, it is
+debatable whether a more widespread policy of vaccination against EVA would be
+justified.  Implementation of such a program of prophylactic vaccination would have
+repercussions on international trade with certain countries that currently debar the
+import of horses seropositive for antibodies to EAV.
+1.  Official health certificate—Equines entering a State from another State or from
+another country should be accompanied by an official health certificate stating that
+they are free from clinical signs of an infectious disease (which by inference
+includes EVA).
+2.  Seropositive stallions or EAV-infective semen—Breeding stallions and equ
+Text Len: 1711
+--------------------------------------------------------------------------------
+ antibodies to EAV.
+1.  Official health certificate—Equines entering a State from another State or from
+another country should be accompanied by an official health certificate stating that
+they are free from clinical signs of an infectious disease (which by inference
+includes EVA).
+2.  Seropositive stallions or EAV-infective semen—Breeding stallions and equine
+semen entering a State from another State or another country should be tested for
+EAV within 90 days of entry.  This means that stallions must be tested serologically,
+and seropostive stallions must have their semen tested by virus isolation.  Carrier
+stallions (those in which EAV has been isolated from their semen) and EAV-infective
+semen must be certified.  These results appear as a certifying statement—
+written on the health certificate—that the consignee has been advised and
+consents to the shipment.  Vaccinated mares can be bred to infected stallions
+or inseminated with semen from an infected stallion.
+3.  Permit—All carrier stallions and EAV-infective semen entering a State should  be
+moved only on a permit issued by the State Veterinarian.  All parties associated with
+the movement of carrier stallions and EAV-infective semen into or within the State
+should be made aware that these animals may be subject to quarantine at any time.
+4.  Regulations—States should develop regulations allowing for the interstate
+movement of carrier stallions and EAV-infected semen.
+1.  EVA education:  publication of articles—Breed registries should take a leadership
+role in educating their members about EAV.  Breed registries should publish articles
+that
+a.  Explain what EVA is, how it is spread, and why it is important to breeders;
+b
+Text Len: 1703
+--------------------------------------------------------------------------------
+movement of carrier stallions and EAV-infected semen.
+1.  EVA education:  publication of articles—Breed registries should take a leadership
+role in educating their members about EAV.  Breed registries should publish articles
+that
+a.  Explain what EVA is, how it is spread, and why it is important to breeders;
+b.  Advise mare owners how to prevent abortion and neonatal disease;
+I. Recommendations
+for Breed Registries
+17
+c.  Explain that breeding a shedding stallion is entirely manageable and
+     how to breed such a stallion safely;
+d.  Explain why an effective EVA control program benefits the breed registry's
+members;
+e.  Educate mare owners to ask stallion owners about the EVA status of their
+ stallions;
+f.   Educate prospective stallion buyers to ask for EVA testing at the time of
+ purchase; and
+g.  Explain how to prevent the carrier state in stallions.
+2.  EVA education:  additional avenues—Breed registries should also publicize and
+distribute other available educational material such as EVA breeding guidelines
+(AAEP or AHC) and the USDA video and CD on EVA; distribute information on
+testing, laboratories, and testing protocols; and invite speakers to annual meetings
+and breeders’ group meetings to explain the disease and answer questions.
+3.  Safe breeding practices—Breed registries should promote safe breeding practices
+by encouraging
+a.  Testing of breeding stock to determine immune status;
+b.  Vaccinating to control and eliminate EVA;
+c.  Vaccinating seronegative stallions, mares, and immature colts; and
+d.  Properly using and managing carrier stallions.
+4.  Raising awareness—Breed regist
+Text Len: 1621
+--------------------------------------------------------------------------------
+ should promote safe breeding practices
+by encouraging
+a.  Testing of breeding stock to determine immune status;
+b.  Vaccinating to control and eliminate EVA;
+c.  Vaccinating seronegative stallions, mares, and immature colts; and
+d.  Properly using and managing carrier stallions.
+4.  Raising awareness—Breed registries should raise awareness and foster discussion
+about EVA by
+a.  Encouraging open dialog between stallion and mare owners;
+b.  Encouraging buyers of imported stallions to test before or at the time of import to
+ identify carrier stallions;
+c.  Encouraging buyers of domestic stallions to test them as part of the prepurchase
+ examination;
+d.  Encouraging mare owners to ask stallion owners about the stallion’s EVA status
+ before breeding; and
+18
+e.  Reducing the stigma attached to EVA by emphasizing that the disease is
+ manageable, that it can be prevented through a vaccination program, and that
+ carrier stallions can be used safely.
+5.  Testing—Breed registries should require mandatory testing of all breeding stallions
+as a condition of registration. Although voluntary adherence to breeding guidelines
+is helpful and desirable, it will not solve all of the problems. A registry can prevent
+many problems by using its influence and control over the registration process to
+require testing as a condition of registration.  This eliminates any singling out of
+carrier stallions and tends to discourage deception. In particular, breed registries
+should take these actions:
+a.  Publish the EVA status of all active breeding stallions.  On the basis of test
+ results, status categories would include (1) serologically negative,
+ (2) serologically positive but negative for virus in the semen (nonshedder),
+ (3
+Text Len: 1729
+--------------------------------------------------------------------------------
+ stallions and tends to discourage deception. In particular, breed registries
+should take these actions:
+a.  Publish the EVA status of all active breeding stallions.  On the basis of test
+ results, status categories would include (1) serologically negative,
+ (2) serologically positive but negative for virus in the semen (nonshedder),
+ (3) serologically positive and positive for virus in the semen (carrier), and
+ (4) serologically negative and subsequently vaccinated annually.
+b.  Require annual testing of all nonvaccinated stallions.
+c.  Recommend vaccination for all nonshedding stallions (after proof of negative
+ test).
+d.  In the case of vaccinated stallions, require proof of annual vaccination booster
+ for all active breeding stallions.
+e.  Keep a list of which stallions recognized by the registry are EAV-carrier
+ stallions.
+f.   Notify mare owners of carrier stallions through publications or in response to
+ direct inquiry.
+6.  Developing regulations—Breed registries should work with local horse groups and
+government authorities to develop State, national, and import regulations.
+19
+Text Len: 1102
+--------------------------------------------------------------------------------
+United States
+Department of
+Agriculture
+Animal and
+Plant Health
+Inspection
+Service
+APHIS 91–55–075
+Equine Viral Arteritis
+Uniform Methods and Rules,
+Effective April 19, 2004
+
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs
+and activities on the basis of race, color, national origin, sex, religion, age, disability,
+political beliefs, sexual orientation, or marital or family status.  (Not all prohibited bases
+apply to all programs.)  Persons with disabilities who require alternative means for
+communication of program information (Braille, large print, audiotape, etc.) should
+contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD).
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room
+326–W, Whitten Building, 14th and Independence Avenue, SW, Washington, DC
+20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal opportunity
+provider and employer.
+Mention of companies or commercial products does not imply recommendation or
+endorsement by USDA over others not mentioned.  USDA neither guarantees nor
+w arrants the standard of any product mentioned.  Product names are mentioned solely
+to report factually on available data and to provide specific information.
+Issued April 2004
+Contents
+Introduction 5
+Part 1:  Definitions 7
+Accredited veterinarian
+Approved laboratory
+Approved laboratory tests
+Area Veterinarian-in-Charge (AVIC)
+Booking
+Carrier
+Certificate
+Cover
+Equine
+Equine arteritis virus (EAV)
+Equine viral arteritis (EVA)
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+Official test
+
+Text Len: 1612
+--------------------------------------------------------------------------------
+ veterinarian
+Approved laboratory
+Approved laboratory tests
+Area Veterinarian-in-Charge (AVIC)
+Booking
+Carrier
+Certificate
+Cover
+Equine
+Equine arteritis virus (EAV)
+Equine viral arteritis (EVA)
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+Official test
+Permit
+Quarantine
+Quarantined area
+Reactor
+Reference laboratory
+Seroconversion
+Seropositive horse
+Seronegative horse
+Shedder
+State
+State animal health official
+Vaccination
+Virus isolation test
+Virus neutralization test
+Part II:  Recommended Procedures (Minimum Requirements) 11
+A. Laboratory Testing—Prescribed Methods 11
+B. Approved Laboratories 11
+C. Serology 11
+D. Virus Isolation 11
+E. Testing Procedures 12
+3
+F. Outbreak Procedures    14
+G. Control Procedures 15
+H. Movement of Stallions and Semen 17
+I. Recommendations for Breed Registries    17
+4
+Introduction
+Equine viral arteritis (EVA) is a contagious disease of equids caused by the equine
+arteritis virus (EAV).  Although typically not life-threatening to otherwise healthy adult
+horses, EVA is of special concern because it can result in abortion in pregnant mares,
+illness and death in young foals, and establishment of the carrier state in stallions.
+Despite the presence of EAV in many equine populations throughout the world, its
+prevalence in any particular country can vary widely depending upon breed.
+Notwithstanding the global distribution of the causal virus, confirmed outbreaks of EVA
+are reported infrequently.
+Ever since the 1984 epidemic on a considerable number of thoroughbred breeding
+farms in Kentucky, EVA has significantly impacted international trade in horses and
+equine semen
+Text Len: 1635
+--------------------------------------------------------------------------------
+ many equine populations throughout the world, its
+prevalence in any particular country can vary widely depending upon breed.
+Notwithstanding the global distribution of the causal virus, confirmed outbreaks of EVA
+are reported infrequently.
+Ever since the 1984 epidemic on a considerable number of thoroughbred breeding
+farms in Kentucky, EVA has significantly impacted international trade in horses and
+equine semen.  The import control policies of most countries currently deny entry to
+carrier stallions and EAV-infective semen because of the associated disease risks.
+Currently, the United States is the only major horse-breeding country without an import
+control policy for EVA.
+Traditionally, the U.S. horse industry has attached relatively little significance to this
+disease.  Efforts to achieve a greater level of control over dissemination of EAV within
+the country’s equine population have been hampered by insufficient awareness of the
+disease and its potential economic consequences among many within the Nation’s
+horse industry.  This was clearly revealed from the findings of the U.S. Department of
+Agriculture’s (USDA) National Animal Health Monitoring Systems’ Equine ’98 Study.  A
+high percentage of individuals responding to that survey had little if any knowledge
+about EVA and even less about the reasons or methods for controlling it.
+Another finding of major importance to emerge from that study was the very low
+seroprevalence of EAV infection in most U.S. horses.  Because they have never been
+exposed to the virus, the vast majority of the Nation’s horse population could therefore
+be considered completely susceptible to natural infection.
+Although the international movement of horses has increased over the past 30–40
+years, trade in both horses and semen has accelerated considerably during the past
+decade as a result of changing economic trends in the horse industry worldwide
+Text Len: 1908
+--------------------------------------------------------------------------------
+  Because they have never been
+exposed to the virus, the vast majority of the Nation’s horse population could therefore
+be considered completely susceptible to natural infection.
+Although the international movement of horses has increased over the past 30–40
+years, trade in both horses and semen has accelerated considerably during the past
+decade as a result of changing economic trends in the horse industry worldwide.  The
+absence of any restrictions on the import of carrier stallions or EAV-infective semen
+into the United States has greatly increased both the likelihood of the virus’ becoming
+more widely disseminated in the Nation’s equine population and the risk of economi-
+cally damaging outbreaks of EVA.  This trend has been amply borne out by instances
+in which imported carrier stallions or infective semen has been responsible for signifi-
+cant outbreaks of EVA, including abortion in mares and mortality in young foals.  Such
+importations not only augment the number of carrier stallions in the breeding popula-
+tion at large but also  increase the potential for disease outbreaks through the introduc-
+tion of more highly virulent strains of EAV previously exotic to the country.
+This publication, “Equine Viral Arteritis:  Uniform Methods and Rules” (UM&R), con-
+tains minimum standards for detecting, controlling, and preventing EVA as well as
+minimum EVA requirements for the intrastate and interstate movement of equines.
+5
+It should be noted that these minimum standards and requirments represent a frame-
+wo rk for creating a domestic EVA control program.  This document should therefore not
+be viewed as a final product, but as a work-in-progress that can be modified as sci-
+ence and technology evolve, as more experience in controlling EVA is acquired, and as
+resources become available to implement
+Text Len: 1827
+--------------------------------------------------------------------------------
+ be noted that these minimum standards and requirments represent a frame-
+wo rk for creating a domestic EVA control program.  This document should therefore not
+be viewed as a final product, but as a work-in-progress that can be modified as sci-
+ence and technology evolve, as more experience in controlling EVA is acquired, and as
+resources become available to implement the program.
+The provisions of these methods and rules were approved by the USDA, Animal and
+Plant Health Inspection Service (APHIS), Veterinary Services (VS) with recommenda-
+tions from the United States Animal Health Association, the American Horse Council
+(AHC), and the American Association of Equine Practitioners (AAEP).  These UM&R
+may be amended in the future.
+6
+Accredited veterinarian
+Approved laboratory
+Approved laboratory
+tests
+Certificate
+Part I—Definitions
+A veterinarian approved by the Deputy Administrator of USDA–APHIS–VS in accor-
+dance with provisions of part 161, title 9, Code of Federal Regulations (CFR).  An
+accredited veterinarian is preapproved to perform certain functions of Federal and
+cooperative State–Federal programs.
+A State, Federal, or private veterinary diagnostic laboratory that must be approved for
+EVA testing by the USDA–APHIS–VS.
+Laboratory tests for the diagnosis of EAV infection that are approved by the Office
+International des Epizooties (OIE) and USDA–APHIS–VS.
+The veterinary official of USDA–APHIS–VS who is assigned by the Deputy
+Administrator of VS to supervise and perform the official animal health work of APHIS
+in the State or States concerned.
+The contracting or scheduling of mares for breeding to stallions by natural service.
+A clinically normal stallion that sheds EAV continuously in it’s semen.
+An official
+Text Len: 1744
+--------------------------------------------------------------------------------
+ veterinary official of USDA–APHIS–VS who is assigned by the Deputy
+Administrator of VS to supervise and perform the official animal health work of APHIS
+in the State or States concerned.
+The contracting or scheduling of mares for breeding to stallions by natural service.
+A clinically normal stallion that sheds EAV continuously in it’s semen.
+An official document issued by a VS representative, State representative, or accredited
+veterinarian at the point of origin of a shipment of equines.  It includes all of the follow-
+ing:
+1. The description, including age, breed, color, sex, distinctive markings, or unique
+and permanent forms of identification, when present (e.g., brands, tattoos, scars, or
+blemishes), of each restricted equine to be moved;
+2. The number of restricted equines covered by the document;
+3. The purpose for which the equines are to be moved;
+4. The points of origin and destination;
+5. The consignor; and
+6. The consignee.
+To breed a stallion to a mare by natural service.
+Any animal in the Family Equidae, including horses, asses, mules, ponies, and zebras.
+The organism that causes the disease equine viral arteritis.
+A contagious disease of equids caused by equine arteritis virus.
+Area Veterinarian-in-
+Charge (AVIC)
+Booking
+Carrier
+Cover
+Equine
+Equine arteritis virus
+(EAV)
+Equine viral arteritis
+(EVA)
+7
+8
+Official test
+Animals in the Family Equidae that have been exposed to EAV by reason of associat-
+ing with equines known to be infected with the virus.
+1. All animals of the Family Equidae, such as horses, asses,
+Text Len: 1551
+--------------------------------------------------------------------------------
+ine
+Equine arteritis virus
+(EAV)
+Equine viral arteritis
+(EVA)
+7
+8
+Official test
+Animals in the Family Equidae that have been exposed to EAV by reason of associat-
+ing with equines known to be infected with the virus.
+1. All animals of the Family Equidae, such as horses, asses, or zebras, under com-
+mon ownership or supervision that are grouped on one or more parts of any single
+premises (lot, farm, or ranch); or
+2. All animals of the Family Equidae under common ownership or supervision on two
+or more premises that are geographically separated but between which equines
+have been interchanged or had contact with equines from other premises.  It will be
+assumed that contact between animals of the Family Equidae on the different
+premises has occurred unless the owner can establish otherwise and the results of
+the epidemiologic investigation are consistent with the lack of contact between
+premises; or
+3. All animals of the Family Equidae on common premises, such as community
+pastures or grazing association units, but owned by different persons.  Other
+groups of equines owned by the persons involved that are located on other
+premises are considered to be part of a herd unless epidemiologic investigation
+establishes that equines from an affected herd have not had the opportunity for
+direct or indirect contact with equines from that specific premises.
+A farm or other premises where the equines were born or where they have been kept
+for 30 days or more before the date of shipping.  For the purposes of these UM&R,
+herd of origin has the same meaning as place of origin, premises of origin, and farm of
+origin.
+Any modality that provides a unique and permanent identification of an individual
+equine.
+A serially numbered metal or plastic strip,
+Text Len: 1759
+--------------------------------------------------------------------------------
+ or where they have been kept
+for 30 days or more before the date of shipping.  For the purposes of these UM&R,
+herd of origin has the same meaning as place of origin, premises of origin, and farm of
+origin.
+Any modality that provides a unique and permanent identification of an individual
+equine.
+A serially numbered metal or plastic strip, consisting of a self-locking device on one
+end and a slot on the other end, that forms a loop when the ends are engaged.  An
+official seal is tamperproof and cannot be reused if opened.  It is applied to the doors
+of a transport vehicle by a representative of the APHIS AVIC or the State animal health
+official.  A serially numbered, self-locking button that cannot be reused may be substi-
+tuted for the metal or plastic-strip type of seal.
+The virus neutralization and virus isolation test in cell culture are the official laboratory
+procedures currently employed for the diagnosis of EAV infection.  The procedures are
+described in the OIE Manual of Standards for Diagnostic Tests and Vaccines.
+Exposed animals
+Herd
+Herd of origin
+Identification
+Official seal
+An official document (VS Form 1–27 or comparable State form) issued by a State or
+Federal representative or by an accredited veterinarian.  The permit must accompany
+all EAV carrier stallions and those EAV-exposed equines being moved under official
+seal to a specified destination.
+The act of placing exposed or infected animals into isolation from other animals to
+prevent the transmission of an infection.
+A confined area under the direct supervision and control of a State or Federal animal
+health official who establishes procedures for the monitoring/recording of all animals
+entering or leaving the area.  All equines under EVA quarantine are considered to have
+been exposed to EAV
+Text Len: 1792
+--------------------------------------------------------------------------------
+The act of placing exposed or infected animals into isolation from other animals to
+prevent the transmission of an infection.
+A confined area under the direct supervision and control of a State or Federal animal
+health official who establishes procedures for the monitoring/recording of all animals
+entering or leaving the area.  All equines under EVA quarantine are considered to have
+been exposed to EAV.
+Any horse, ass, mule, pony, or zebra that has been subjected to an officially approved
+laboratory test that is confirmed positive for antibodies to EAV.
+The national reference laboratory for the serological testing of EAV infection is the
+diagnostic virology laboratory in Ames, IA, a part of USDA–APHIS–VS’ National
+Veterinary Services Laboratories (NVSL).  As designated by OIE, the international
+reference laboratory for all laboratory diagnostic tests for EAV infection is the M. H.
+Gluck Equine Research Center at the University of Kentucky in Lexington, KY .
+The development of neutralizing antibodies to EAV in response to natural infection with
+EAV or to the administration of EVA vaccine.
+A horse that has a serum neutralizing antibody titer of 1:4 or greater to EAV using the
+virus neutralization test.
+A horse that has a serum neutralizing antibody titer less than 1:4 to EAV using the
+virus neutralization test.
+A term used to refer to a carrier stallion that has been determined to have EAV present
+in its semen and is capable of transmitting the infection to other equines through the
+act of breeding either by natural service or the use of artificial insemination.
+Any State of the United States and the Northern Mariana Islands or any other territory
+or possession of the United States.  The District of Columbia, Puerto Rico, the U.S.
+Virgin Islands, and Guam are other examples of
+Text Len: 1805
+--------------------------------------------------------------------------------
+ semen and is capable of transmitting the infection to other equines through the
+act of breeding either by natural service or the use of artificial insemination.
+Any State of the United States and the Northern Mariana Islands or any other territory
+or possession of the United States.  The District of Columbia, Puerto Rico, the U.S.
+Virgin Islands, and Guam are other examples of the latter category.
+The chief sanitary health official in each State responsible for disease control and
+eradication programs affecting livestock and poultry.
+An equine that has been vaccinated with an approved EVA vaccine and for which the
+vaccination status has been kept current in accordance with the manufacturer’s
+recommendations.
+Permit
+Quarantine
+Quarantined area
+Reactor
+Reference laboratory
+State
+State animal health
+official
+Seroconversion
+Seropositive horse
+Seronegative horse
+Shedder
+Vaccinate
+9
+Virus neutralization (VN)
+test
+Isolation of EAV should be attempted in cultures of the RK–13 cell line (ATCC CCL37).
+Suspensions of appropriate tissues or fluid specimens from suspect cases of EAV
+infection are inoculated onto monolayer cultures of RK–13 cells either in 25-cm2 flasks
+or multiwell plates in accordance with the procedures prescribed in the OIE Standards
+Manual for Diagnostic Tests and Vaccines.  Inoculated cultures are incubated for 5 to 7
+days at 37 °C and examined microscopically for viral cytopathic effect.  In the absence
+of visible cytopathic changes, culture supernatants are subcultured onto fresh cell
+monolayers and incubated for an equivalent period at 37 °C.  The identity of any virus
+isolates must be confirmed using reference EAV antiserum.
+An assay for determining
+Text Len: 1691
+--------------------------------------------------------------------------------
+ °C and examined microscopically for viral cytopathic effect.  In the absence
+of visible cytopathic changes, culture supernatants are subcultured onto fresh cell
+monolayers and incubated for an equivalent period at 37 °C.  The identity of any virus
+isolates must be confirmed using reference EAV antiserum.
+An assay for determining serum neutralizing antibodies to a particular virus, in this
+case EAV.  Serial twofold dilutions of serum are tested against a standard quantity of
+an approved reference strain of EAV.  The antibody titer is expressed as the highest
+serum dilution that neutralizes 75 percent of the standard quantity of virus.  An anti-
+body titer of 1:4 or greater is considered positive in the EVA VN test.
+10
+Virus isolation test
+Part II—Recommended Procedures (Minimum Requirements)
+Laboratory tests to detect EAV or EAV antibody should be conducted according to the
+methods for international trade prescribed by the OIE.  These methods are published
+in the chapter on EVA in the current OIE Manual of Standards for Diagnostic Tests and
+Vaccines.  The manual is available at
+<http://www.oie.int/eng/normes/mmanual/A_summry.htm>.
+USDA–APHIS–VS maintains a list of laboratories approved to conduct serological
+testing for EAV.  The proficiency of approved laboratories is subjected to periodic
+evaluation by NVSL.  The current list of approved laboratories can be viewed at
+<http://www.aphis.usda.gov/vs/nvsl/labcertification.htm>.
+1.  Collecting samples—Serum samples are examined for the presence of antibodies
+to EAV in a VN test.  Clean, nonhemolyzed, separated serum is required
+Text Len: 1601
+--------------------------------------------------------------------------------
+ by NVSL.  The current list of approved laboratories can be viewed at
+<http://www.aphis.usda.gov/vs/nvsl/labcertification.htm>.
+1.  Collecting samples—Serum samples are examined for the presence of antibodies
+to EAV in a VN test.  Clean, nonhemolyzed, separated serum is required.  Blood
+samples should be collected into a Vacutainer® tube without anticoagulant.
+Following clot formation, the blood collection tube should be centrifuged and the
+serum transferred to a new sterile tube.  Serum must be shipped to the testing
+laboratory on ice packs.
+2.  Supporting documentation needed—The purpose for testing (e.g., diagnostic,
+surveillance, prevaccination) and a clinical history, including EVA vaccination status
+and vaccination dates, must be provided to the testing laboratory.  A single serum
+sample is sufficient to screen for the presence of EAV antibodies in a healthy horse.
+A VN titer of 1:4 or greater is considered positive for EAV serum antibodies.
+When samples are submitted for diagnostic purposes, paired sera are required.
+The first sample is collected as early in the clinical course of the infection as
+possible, and the second sample is collected 14–21 days after the first.  The two
+samples are examined together in the same VN test.  Demonstration of
+seroconversion or a fourfold or greater rise in antibody titer between the first and
+second sample is significant and confirmatory of recent infection.
+3.  Repeating blood collection—Occasionally, sera will be encountered that cause
+nonspecific toxic changes to the cell monolayers.  These changes can interfere with
+interpretation of VN results at the lower serum dilutions.  In cases where the
+problem
+Text Len: 1676
+--------------------------------------------------------------------------------
+ in antibody titer between the first and
+second sample is significant and confirmatory of recent infection.
+3.  Repeating blood collection—Occasionally, sera will be encountered that cause
+nonspecific toxic changes to the cell monolayers.  These changes can interfere with
+interpretation of VN results at the lower serum dilutions.  In cases where the
+problem cannot be overcome by the laboratory, it may be necessary to repeat blood
+collection from the horse in question and submit the new serum sample to the
+testing laboratory.  The test setup schedule of the laboratory determines the turn
+around time for receiving VN test results, which is normally 5–7 days.
+1.  OIE reference laboratory—Isolation of EAV in cell culture is a specialized
+procedure.  Attempts to perform this test should be limited to veterinary diagnostic
+laboratories with experience and expertise in working with EAV.  The OIE reference
+laboratory for EVA in North America is under the direction of Dr. Peter J. Timoney.  It
+is located at the Department of Veterinary Science, 108 Gluck Equine Research
+Center, Lexington, KY 40546–0099.  [Telephone:  (859) 257–4757, ext. 81085;
+Fax:  (859) 257–8542; E-mail:  ptimoney@uky.edu).]  Laboratories wishing to
+provide virus isolation for EAV are urged to contact Dr. Timoney or Dr. William
+McCollum to obtain a panel of semen samples for evaluation and to confirm their
+competency in the isolation of EAV.
+A. Laboratory Testing—
+Prescribed Methods
+B. Approved Laborato-
+ries
+C. Serology
+D. Virus Isolation
+11
+2.  Maximizing accuracy—To maximize the accuracy of attempted
+Text Len: 1590
+--------------------------------------------------------------------------------
+oney or Dr. William
+McCollum to obtain a panel of semen samples for evaluation and to confirm their
+competency in the isolation of EAV.
+A. Laboratory Testing—
+Prescribed Methods
+B. Approved Laborato-
+ries
+C. Serology
+D. Virus Isolation
+11
+2.  Maximizing accuracy—To maximize the accuracy of attempted virus isolation, care
+must be taken in sample selection and handling during shipment to the laboratory.
+Submitters should contact the receiving veterinary diagnostic laboratory to
+coordinate sample selection, handling and processing, and expedient shipment of
+samples collected for EAV isolation attempts.  For example, use of heparin is
+contraindicated when collecting whole blood samples as is the use of disinfectants
+in cleansing the external genitalia of stallions before collecting a semen sample.  In
+conjunction with attempted virus isolation, the EAV serostatus of each horse being
+tested for virus should be determined (see the section entitled “Serology” above).
+3.  Virus isolation samples—In the case of suspected outbreaks of EVA, samples for
+virus isolation include nasopharyngeal and conjunctival swabs immersed in virus
+transport media, unclotted blood using EDTA or sodium citrate as an anticoagulant,
+and semen from stallions considered to be possible carriers of the virus.  When EVA
+is suspected as a cause of mortality, a variety of tissues collected at necropsy
+should be examined.  It is advisable to consult OIE in determining what tissues
+should be sampled.  In instances of suspected EVA abortion, fetal and placental
+fluids and tissues should be submitted.
+4.  Semen samples—To determine the virus-shedding status of seropositive stallions,
+the sperm-rich fraction of semen must be submitted. 
+Text Len: 1722
+--------------------------------------------------------------------------------
+should be examined.  It is advisable to consult OIE in determining what tissues
+should be sampled.  In instances of suspected EVA abortion, fetal and placental
+fluids and tissues should be submitted.
+4.  Semen samples—To determine the virus-shedding status of seropositive stallions,
+the sperm-rich fraction of semen must be submitted.  Semen from at least two
+ejaculates should be submitted for evaluation.  The preferred sample size is
+5–10 mL of unextended raw semen.  Less preferable is 5–10 mL of extended fresh
+cooled semen.  When frozen semen is the only sample available, at least two straws
+per ejaculate should be submitted to the laboratory.  Virus isolation attempts may
+require more than one cell-culture passage.  The normal turnaround time for EAV
+isolation testing is 10–14 days.
+1.  Test before breeding—Before being used for breeding, stallions should have a blood
+sample collected and tested for antibodies to EAV.  Stallions that are seronegative
+should be vaccinated with an approved EVA vaccine.  EVA-vaccinated stallions
+should not be exposed to EAV-infected animals and should not be used for breeding
+within 28 days after their initial vaccination.  Stallions should be annually
+revaccinated against EVA.
+2.  Seropositive stallions—It is recommended that the following procedures be followed
+when stallions test positive for antibodies to EAV.
+a.  If the stallion’s owner can document that the animal was seronegative for
+antibodies to EAV before being vaccinated for EVA, the procedures listed under
+E.1 should be followed.  A valid EVA vaccination certificate is needed to
+document the stallion’s negative prevaccination antibody status.
+b. 
+Text Len: 1668
+--------------------------------------------------------------------------------
+AV.
+a.  If the stallion’s owner can document that the animal was seronegative for
+antibodies to EAV before being vaccinated for EVA, the procedures listed under
+E.1 should be followed.  A valid EVA vaccination certificate is needed to
+document the stallion’s negative prevaccination antibody status.
+b.  If the stallion’s owner cannot document that an antibody titer to EAV was the
+result of vaccination, one of the two procedures listed below should be followed.
+E. Testing Procedures
+12
+(1)  Breed the stallion to two mares that are negative for EAV antibodies.  Test
+mares must be tested approximately 28 days after breeding for the presence
+of antibodies to EAV.  A negative test result on the two test mares will qualify
+the stallion for breeding.  The stallion will be classified as a seropositive
+nonshedding stallion.
+Or:
+(2)  Collect semen from the stallion and submit it to a laboratory approved for the
+isolation of EAV.  A negative virus isolation result qualifies the stallion for
+breeding.  The stallion will be classified as a seropositive nonshedding
+stallion.  This stallion will be eligible for EVA vaccination and should be
+annually vaccinated against the disease.
+c.  The farm’s veterinarian must document all vaccinations and submit an EVA
+ vaccination certificate to the State Veterinarian within 7 days of the vaccination
+ date.
+(1) Before a stallion receives its first EVA vaccination, a blood sample must be
+collected, either very shortly prior to or at the time of vaccination.
+(2) A stallion’s prior EVA test history will establish how the EVA UM&R will be
+applied in determining the stallion
+Text Len: 1619
+--------------------------------------------------------------------------------
+arian within 7 days of the vaccination
+ date.
+(1) Before a stallion receives its first EVA vaccination, a blood sample must be
+collected, either very shortly prior to or at the time of vaccination.
+(2) A stallion’s prior EVA test history will establish how the EVA UM&R will be
+applied in determining the stallion’s breeding status.
+d.  When a shedding stallion is approved for breeding by the State
+ Veterinarian, the procedures listed next should be followed.
+(1) The owner or agent of a mare booked to a carrier stallion, or seeking such a
+booking, must be notified in writing by the stallion’s owner or agent that the
+animal is classified as a carrier of EAV.   A written copy of the booking
+confirmation must be sent to the State Veterinarian.
+(2) The carrier stallion must be housed, handled, and bred in a facility isolated
+from noncarrier stallions.
+(3) A carrier stallion can be bred to a mare that was vaccinated against EVA at
+least 21 days before breeding or that has an antibody titer to EAV from
+previous natural exposure to the virus.
+(4) A carrier stallion can be bred to a seronegative mare that can be kept in total
+isolation from other seronegative equines for 3 to 4 weeks after breeding.
+(5)  A mare with clinical signs of EVA should not be bred until it has been
+               documented that she is seropositive for antibodies to EAV.
+13
+1.  Notification of State Veterinarian—When an EVA outbreak is suspected, the farm or
+attending veterinarian should immediately contact the State Veterinarian.
+Text Len: 1521
+--------------------------------------------------------------------------------
+ with clinical signs of EVA should not be bred until it has been
+               documented that she is seropositive for antibodies to EAV.
+13
+1.  Notification of State Veterinarian—When an EVA outbreak is suspected, the farm or
+attending veterinarian should immediately contact the State Veterinarian.  In
+jurisdictions where EVA is not a reportable disease, a self-imposed quarantine
+should be implemented immediately on the affected premises to restrict further
+spread of the infection.
+2.  Farm outbreaks—For a quarantine to be maximally effective, immediate restrictions
+must be imposed on the movement of all horses associated with the premises.
+Take these actions as soon as you suspect an outbreak:
+a.  Promptly isolate all affected horses.
+b.  Notify the farm or attending veterinarian immediately.
+c.  In consultation with the farm or attending veterinarian, seek laboratory
+confirmation of a diagnosis as soon as possible.
+d.  In the case of abortion or death in a newborn foal, place the placenta, fetus, or
+ foal in a leakproof bag, keep cold (not frozen), and dispatch to the nearest
+ qualified diagnostic laboratory.
+e.  Disinfect the stall, any equipment, or other potentially contaminated facilities
+ using a phenolic disinfectant.  After treatment with disinfectant, dispose of any
+ bedding by composting in an area away from other horses.
+f.   Using the antiseptic recommended by the farm or attending veterinarian, wash
+down the hindquarters and tail of any mare that has aborted and isolate her from
+other horses for 4 weeks.
+g.  Restrict movement of horses onto and off the affected premises.
+h.  Suspend breeding and training operations until the outbreak is over and notify
+ owners of mares on the affected premises
+Text Len: 1738
+--------------------------------------------------------------------------------
+ Using the antiseptic recommended by the farm or attending veterinarian, wash
+down the hindquarters and tail of any mare that has aborted and isolate her from
+other horses for 4 weeks.
+g.  Restrict movement of horses onto and off the affected premises.
+h.  Suspend breeding and training operations until the outbreak is over and notify
+ owners of mares on the affected premises.  Mares affected with EVA can be
+ safely bred later in the same breeding season once they have fully recovered
+ from the disease and once the outbreak has run its course.
+i.   Monitor horses at weekly intervals to check for any additional spread of the virus.
+ If no further clinical cases of EVA or serologically confirmed cases of infection
+ have occurred for 3 consecutive weeks, the outbreak can be considered over,
+ and all movement restrictions can be lifted.
+j.   Vaccinate all at-risk horses.
+3.  Racetrack outbreaks—Measures to be taken in the event of an EVA outbreak at
+a racetrack, equestrian event, or horse show are broadly similar to those
+recommended for dealing with an outbreak on a breeding farm.  Major emphasis
+should be placed on isolating animals, restricting movement in and out of the
+14
+F.  Outbreak Procedures
+facility, and vaccinating all at-risk animals at the earliest opportunity.  However, EVA
+outbreaks at racetracks may involve conflicting interests.  Measures to restrict the
+spread of infection at such venues often interfere with racing and frequently do not
+find favor with track management, trainers, and owners.  In addition to the steps
+outlined for farm outbreaks, implement these specific measures as soon as an EVA
+outbreak is suspected at a racetrack:
+a.  Isolate all affected horses.
+b.Prohibit the movement of horses between barns that have housed affected
+h
+Text Len: 1783
+--------------------------------------------------------------------------------
+ with racing and frequently do not
+find favor with track management, trainers, and owners.  In addition to the steps
+outlined for farm outbreaks, implement these specific measures as soon as an EVA
+outbreak is suspected at a racetrack:
+a.  Isolate all affected horses.
+b.Prohibit the movement of horses between barns that have housed affected
+horses.
+c.Restrict the movement of horses stabled in such barns other than for racing or
+training.
+d.  Establish temporary, sanitized stabling facilities for ship-ins.
+e.  Require that a health certificate accompany all horses coming to the track.
+f.  Require a 48-hour departure slip from the State Veterinarian and require the
+certifying veterinarian to contact the jurisdiction of the horse’s destination for
+approval to return home.
+1.  Vaccine—It has been possible to develop effective programs for the prevention and
+control of EVA based on the known characteristics of the causal agent and
+epidemiology of the disease.  This infection can be controlled by minimizing or
+eliminating direct or indirect contact with various secretions, excretions, or tissues of
+infected horses.  An important adjunct to the success of existing EVA control
+programs is the availability of a safe and effective vaccine against the disease
+(ARVAC®, Ft. Dodge Animal Health).
+2.  Nonbreeding farm settings—The goal of current control programs is to restrict the
+dissemination of EAV in breeding horse populations in order to prevent outbreaks of
+EVA-related abortion or illness and death in young foals and establishment of the
+carrier state in stallions and postpubertal colts.  Even though EAV has sometimes
+been known to cause widespread outbreaks of disease at venues such as race
+tracks, horse shows, sales, and equest
+Text Len: 1751
+--------------------------------------------------------------------------------
+dissemination of EAV in breeding horse populations in order to prevent outbreaks of
+EVA-related abortion or illness and death in young foals and establishment of the
+carrier state in stallions and postpubertal colts.  Even though EAV has sometimes
+been known to cause widespread outbreaks of disease at venues such as race
+tracks, horse shows, sales, and equestrian events, currently there are no control
+programs specifically directed at preventing the spread of the virus in nonbreeding
+farm settings.
+15
+G.  Control Procedures
+3.  Specific measures—Critical to the effectiveness of EVA prevention and control
+programs is the observance of sound management practices that can help minimize
+the risk of spreading this and various other equine infectious diseases.  All control
+programs developed so far highlight the uniquely important role of the carrier
+stallion in the epidemiology of EVA.  Such animals are the primary reservoir of the
+virus and serve as long-term sources of infection, transmitting EAV to susceptible
+mares either through natural cover or by artificial insemination.  The following
+specific preventive measures can help minimize the spread of EAV in breeding
+horse populations:
+a.  Isolate all new arrivals and horses returning from other farms, sales, or race
+ tracks for 3 to 4 weeks.
+b.  If at all possible, segregate pregnant mares from other horses and maintain
+ mares in small groups based on anticipated foaling dates until they have foaled.
+c.  Before each breeding season, blood-test all new breeding stallions for the
+ presence of antibodies to EAV.
+d.  Have the semen of any antibody-positive, nonvaccinated stallion laboratory-
+ tested to identify any carrier animals.
+e.  Annually vaccinate all noncarrier breeding stallions at least 4 weeks before the
+ start of each breeding season.
+f
+Text Len: 1822
+--------------------------------------------------------------------------------
+ each breeding season, blood-test all new breeding stallions for the
+ presence of antibodies to EAV.
+d.  Have the semen of any antibody-positive, nonvaccinated stallion laboratory-
+ tested to identify any carrier animals.
+e.  Annually vaccinate all noncarrier breeding stallions at least 4 weeks before the
+ start of each breeding season.
+f.   Physically isolate any EAV-carrier stallions.
+g.  Observe strict hygienic precautions when breeding or collecting semen from
+ carrier stallions to avoid the risk of inadvertent transfer of infection through
+ indirect contact with virus-contaminated objects.
+h.  Restrict breeding EAV-carrier stallions to vaccinated mares or mares that have
+ previously tested positive for naturally acquired antibodies to the virus.
+i.   Vaccinate EAV antibody-negative mares against EVA at least 3 weeks before
+ breeding to a known carrier stallion or with virus-infective semen.
+j.   For 3 weeks after they have been bred to a carrier stallion, isolate mares
+ vaccinated for the first time against EVA from all but known EAV antibody-
+ positive horses.  It is especially important to avoid contact between such mares
+     and other pregnant mares to which the virus can be spread by the respiratory
+ route.
+k.  In breeds or areas in which there is a high prevalence of EAV infection, vaccinate
+all immature male foals between 6 and 12 months of age against EVA as advised
+by your veterinarian.  If implemented over a period of years, such a program of
+targeted vaccination would greatly reduce the number of carrier stallions and
+largely eliminate the primary reservoir of EAV.
+16
+H. Movement of Stal-
+lions and Semen
+l.  Determine the infectivity status of semen
+Text Len: 1693
+--------------------------------------------------------------------------------
+ 12 months of age against EVA as advised
+by your veterinarian.  If implemented over a period of years, such a program of
+targeted vaccination would greatly reduce the number of carrier stallions and
+largely eliminate the primary reservoir of EAV.
+16
+H. Movement of Stal-
+lions and Semen
+l.  Determine the infectivity status of semen used for artificial insemination,
+especially if imported from abroad.  When breeding mares with EAV-infective
+semen, adopt the same precautions as recommended for mares bred by natural
+cover to a carrier stallion.
+4.  Voluntary protocol available—A voluntary, industry-driven protocol to assist
+breeders in preventing the spread of EVA was developed by a working group
+convened by the AHC in 1996.  The guidelines, released in August 1997, were
+widely endorsed and are available at the Council’s Web site:
+ <http://www.horsecouncil.org>.  Click on the Equine Health Advisory box.
+5.  Vaccination debate—Because outbreaks of EVA are sporadic and infrequent in
+settings such as racetracks, horse shows, sales, and veterinary clinics, it is
+debatable whether a more widespread policy of vaccination against EVA would be
+justified.  Implementation of such a program of prophylactic vaccination would have
+repercussions on international trade with certain countries that currently debar the
+import of horses seropositive for antibodies to EAV.
+1.  Official health certificate—Equines entering a State from another State or from
+another country should be accompanied by an official health certificate stating that
+they are free from clinical signs of an infectious disease (which by inference
+includes EVA).
+2.  Seropositive stallions or EAV-infective semen—Breeding stallions and equ
+Text Len: 1711
+--------------------------------------------------------------------------------
+ antibodies to EAV.
+1.  Official health certificate—Equines entering a State from another State or from
+another country should be accompanied by an official health certificate stating that
+they are free from clinical signs of an infectious disease (which by inference
+includes EVA).
+2.  Seropositive stallions or EAV-infective semen—Breeding stallions and equine
+semen entering a State from another State or another country should be tested for
+EAV within 90 days of entry.  This means that stallions must be tested serologically,
+and seropostive stallions must have their semen tested by virus isolation.  Carrier
+stallions (those in which EAV has been isolated from their semen) and EAV-infective
+semen must be certified.  These results appear as a certifying statement—
+written on the health certificate—that the consignee has been advised and
+consents to the shipment.  Vaccinated mares can be bred to infected stallions
+or inseminated with semen from an infected stallion.
+3.  Permit—All carrier stallions and EAV-infective semen entering a State should  be
+moved only on a permit issued by the State Veterinarian.  All parties associated with
+the movement of carrier stallions and EAV-infective semen into or within the State
+should be made aware that these animals may be subject to quarantine at any time.
+4.  Regulations—States should develop regulations allowing for the interstate
+movement of carrier stallions and EAV-infected semen.
+1.  EVA education:  publication of articles—Breed registries should take a leadership
+role in educating their members about EAV.  Breed registries should publish articles
+that
+a.  Explain what EVA is, how it is spread, and why it is important to breeders;
+b
+Text Len: 1703
+--------------------------------------------------------------------------------
+movement of carrier stallions and EAV-infected semen.
+1.  EVA education:  publication of articles—Breed registries should take a leadership
+role in educating their members about EAV.  Breed registries should publish articles
+that
+a.  Explain what EVA is, how it is spread, and why it is important to breeders;
+b.  Advise mare owners how to prevent abortion and neonatal disease;
+I. Recommendations
+for Breed Registries
+17
+c.  Explain that breeding a shedding stallion is entirely manageable and
+     how to breed such a stallion safely;
+d.  Explain why an effective EVA control program benefits the breed registry's
+members;
+e.  Educate mare owners to ask stallion owners about the EVA status of their
+ stallions;
+f.   Educate prospective stallion buyers to ask for EVA testing at the time of
+ purchase; and
+g.  Explain how to prevent the carrier state in stallions.
+2.  EVA education:  additional avenues—Breed registries should also publicize and
+distribute other available educational material such as EVA breeding guidelines
+(AAEP or AHC) and the USDA video and CD on EVA; distribute information on
+testing, laboratories, and testing protocols; and invite speakers to annual meetings
+and breeders’ group meetings to explain the disease and answer questions.
+3.  Safe breeding practices—Breed registries should promote safe breeding practices
+by encouraging
+a.  Testing of breeding stock to determine immune status;
+b.  Vaccinating to control and eliminate EVA;
+c.  Vaccinating seronegative stallions, mares, and immature colts; and
+d.  Properly using and managing carrier stallions.
+4.  Raising awareness—Breed regist
+Text Len: 1621
+--------------------------------------------------------------------------------
+ should promote safe breeding practices
+by encouraging
+a.  Testing of breeding stock to determine immune status;
+b.  Vaccinating to control and eliminate EVA;
+c.  Vaccinating seronegative stallions, mares, and immature colts; and
+d.  Properly using and managing carrier stallions.
+4.  Raising awareness—Breed registries should raise awareness and foster discussion
+about EVA by
+a.  Encouraging open dialog between stallion and mare owners;
+b.  Encouraging buyers of imported stallions to test before or at the time of import to
+ identify carrier stallions;
+c.  Encouraging buyers of domestic stallions to test them as part of the prepurchase
+ examination;
+d.  Encouraging mare owners to ask stallion owners about the stallion’s EVA status
+ before breeding; and
+18
+e.  Reducing the stigma attached to EVA by emphasizing that the disease is
+ manageable, that it can be prevented through a vaccination program, and that
+ carrier stallions can be used safely.
+5.  Testing—Breed registries should require mandatory testing of all breeding stallions
+as a condition of registration. Although voluntary adherence to breeding guidelines
+is helpful and desirable, it will not solve all of the problems. A registry can prevent
+many problems by using its influence and control over the registration process to
+require testing as a condition of registration.  This eliminates any singling out of
+carrier stallions and tends to discourage deception. In particular, breed registries
+should take these actions:
+a.  Publish the EVA status of all active breeding stallions.  On the basis of test
+ results, status categories would include (1) serologically negative,
+ (2) serologically positive but negative for virus in the semen (nonshedder),
+ (3
+Text Len: 1729
+--------------------------------------------------------------------------------
+ stallions and tends to discourage deception. In particular, breed registries
+should take these actions:
+a.  Publish the EVA status of all active breeding stallions.  On the basis of test
+ results, status categories would include (1) serologically negative,
+ (2) serologically positive but negative for virus in the semen (nonshedder),
+ (3) serologically positive and positive for virus in the semen (carrier), and
+ (4) serologically negative and subsequently vaccinated annually.
+b.  Require annual testing of all nonvaccinated stallions.
+c.  Recommend vaccination for all nonshedding stallions (after proof of negative
+ test).
+d.  In the case of vaccinated stallions, require proof of annual vaccination booster
+ for all active breeding stallions.
+e.  Keep a list of which stallions recognized by the registry are EAV-carrier
+ stallions.
+f.   Notify mare owners of carrier stallions through publications or in response to
+ direct inquiry.
+6.  Developing regulations—Breed registries should work with local horse groups and
+government authorities to develop State, national, and import regulations.
+19
+Text Len: 1102
+--------------------------------------------------------------------------------

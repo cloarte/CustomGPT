@@ -1,0 +1,158 @@
+Crop Knowledge Master
+ Acrolepia assectella (Zeller)
+Leek Moth
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald FL Mau, Extenstion Entomologist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+Hosts include green onions, garlic, onions, chives, and leeks.
+DISTRIBUTION
+The leek moth is a recognized pest of onion and leek in Europe and Japan. It was first recorded in Hawaii in 1939 on the island of Oahu. The leek moth was brought to the attention of economic entomologists in August 1943 by K.A. Ching of the Pacific Chemical & Fertilizer Company, who discovered leek moth damage to onions in Manoa Valley (Fullaway and Krauss, 1945). The leek moth is also found on the islands of Hawaii, Maui, and Kauai
+DAMAGE
+The leek moth larvae is highly specialized to feed on the leaves of various plants belonging to the genus Allium (Harmatha, et. al., 1987). The larvae prefer younger leaves (0-7 days) but will consume leaves up to two months old (Boscher, 1983). The larvae tunnel mines and chew perforations on young leaves which eventually become deformed older leaves (Nyrop, et. al., 1989). Occasionally, larvae may attack reproductive parts of the host plant but usually avoid the flowers. The flowers contain a saponin compound that inhibits the growth of the leek moth larva (Harmatha, et. al., 1987).
+BIOLOGY
+The information in this section was taken from Fullaway and Krauss (1945).
+EGGS
+Eggs are oviposited on leaves, normally in the whorl of the plant (Nyrop, et. al., 1989).
+
+Text Len: 1552
+--------------------------------------------------------------------------------
+in compound that inhibits the growth of the leek moth larva (Harmatha, et. al., 1987).
+BIOLOGY
+The information in this section was taken from Fullaway and Krauss (1945).
+EGGS
+Eggs are oviposited on leaves, normally in the whorl of the plant (Nyrop, et. al., 1989).
+LARVAE
+The larvae hatch and penetrate the onion leaves. The larvae feed inside the hollow leaves. The mature larvae measure 7-8 mm long. The leek moth has 5 larval stages or instars (Thibout and Nowbahari, 1987).
+PUPAE
+The 5th instars emerge from the leaves to pupate. The cocoon is white, loose, and net-like. Most larvae will pupate on the leaves but there are a few that may pupate on the soil or on nearby plants (Thibout and Nowbahari, 1987). According to Nowbahari and Thibout (1990), the cocoon serves as protection from dehydration. They indicated that this was not as important to the developing pupa but did affect egg development and fertility in females.
+ADULTS
+Adults have a wing span of approximately 8 mm. The forewings are ash colored or approaching black in coloration. The forewing has a large triangular white marking with smaller white markings. The hindwings are gray approaching black in color.
+  BEHAVIOR
+Studies have shown that the leek moth finds host plants by cueing in on propyl propane thiosulfinate emitted by the plant (Auger, et. al., 1989). Once there, females apparently lay eggs in response to certain non-sulfur containing and non-volatile compounds that are specific to the plant genus Allium (Auger and Thibout, 1983).
+Adults have two flight peaks. The first occurs about a day after they emerge from
+Text Len: 1603
+--------------------------------------------------------------------------------
+yl propane thiosulfinate emitted by the plant (Auger, et. al., 1989). Once there, females apparently lay eggs in response to certain non-sulfur containing and non-volatile compounds that are specific to the plant genus Allium (Auger and Thibout, 1983).
+Adults have two flight peaks. The first occurs about a day after they emerge from the pupal case and continues into the evening (Lecompte and Thibout, 1982). The second peak occurs at night and ends at the onset of light. Flight activity is increased when adults are ready to mate and when leek plants are detected.
+Thibout (1979) indicated that mating or transfer of sperm from male to female increases oviposition, stimulates egg production, and inhibits other males from mating with the mated female.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+An often mentioned parasitoid of the leek moth is Diadromus pulchellus, a parasitic wasp. This wasp is not known to occur in Hawaii.
+CHEMICAL CONTROL
+A study in the Netherlands on fourteen commercial leek fields, found that losses due to leek moth were more prevalent along the perimeter than in the interior of fields (Nyrop, et. al., 1989). They found that there was little difference in pest control cost between a sampling-based treatment program and routine application of insecticide. This was attributed to the high value of the crops and low cost of treatment. Pheromone monitoring was found to be unreliable. In addition, a study in 1992, found variation in assessing damage in leek fields, even by trained scouts (Theunissen and Legutowska, 1992). Apparently, observerÕs bias played a role in the assessment of damage to leek. It seems that it is not economically worthwhile to sample pest densities in the short term (Nyrop, et.
+Text Len: 1728
+--------------------------------------------------------------------------------
+ unreliable. In addition, a study in 1992, found variation in assessing damage in leek fields, even by trained scouts (Theunissen and Legutowska, 1992). Apparently, observerÕs bias played a role in the assessment of damage to leek. It seems that it is not economically worthwhile to sample pest densities in the short term (Nyrop, et. al., 1989). However, because of concerns about pesticide resistance and overuse of pesticides, it appears that some type of integrated pest management (IPM) program should be used.
+REFERENCES
+Auger, J., C. LeCompte, and E. Thibout. 1989. Leek Odor Analysis by Gas Chromatography and Identification of the Most Active Substance for the Leek Moth, Acrolepiopsis assectella. J. Chem. Ecol. 15: 1847-1854.
+Auger, J. and E. Thibout. 1983. Specificite Des Substances Non Volatiles Des Allium Responsables De La Ponte De La Teigne Du Poireau, Acrolepiopsis assectella (Lepidoptera). Ent. Exp. and Appl. 34: 71-77.
+Boscher, J. 1983. Action du phytophage Acrolepiopsis assectella Zell. sur la demographie foliaire dÕAllium porrum L. Acta Œcologica. 4: 335-344.
+Fullaway, D. T. and N. L. H. Krauss. 1945. Common Insects of Hawaii. Tongg Publishing Company, Honolulu, HI. 228 pp.
+Harmatha, J., B. Mauchamp, C. Arnault, and K Salama. 1987. Identification of a Spirostane-Type Saponin in the Flowers of Leek with Inhibitory Effects on Growth
+Text Len: 1363
+--------------------------------------------------------------------------------
+ and N. L. H. Krauss. 1945. Common Insects of Hawaii. Tongg Publishing Company, Honolulu, HI. 228 pp.
+Harmatha, J., B. Mauchamp, C. Arnault, and K Salama. 1987. Identification of a Spirostane-Type Saponin in the Flowers of Leek with Inhibitory Effects on Growth of Leek-Moth Larvae. Biochemical Systematics and Ecology. 15: 113-116.
+LeCompte, C. and E. Thibout. 1982. Mise En vidence De Mouvements Verticaux Quotidiens Et Influences De La Plante-Hote, de lÕage Et De La Fecondation Sur Le Rythme DÕActivite De La Teigne Du Poireau, Acrolepiopsis assectella Zell. (Lepidoptere). Acta icologica. 3: 233-240.
+Nowbahari, B. and E. Thibout. 1990. The Cocoon and Humidity in the Development of Acrolepiopsis assectella (Lep.) Pupae: Consequences in Adults. Physiol. Ent. 15: 363-368.
+Nowbahari, B. and E. Thibout. 1992. Defensive Role of Allium Sulfur Compounds for Leek Moth Acropepiopsis assectella Z. (Lepidoptera) Against Generalist Predators. J. Chem. Ecol. 18: 1991-2002.
+Nyrop, J. P., A. M. Shelton, and J. Theunissen. 1989. Value of a Control Decision Rule for Leek Moth Infestations in Leek. Entomol. Exp. Appl. 53: 167-176.
+Theunissen, J. and H. Legut
+Text Len: 1156
+--------------------------------------------------------------------------------
+ Ecol. 18: 1991-2002.
+Nyrop, J. P., A. M. Shelton, and J. Theunissen. 1989. Value of a Control Decision Rule for Leek Moth Infestations in Leek. Entomol. Exp. Appl. 53: 167-176.
+Theunissen, J. and H. Legutowska. 1992. ObserverÕs Bias in the Assessment of Pest and Disease Symptoms in Leek. Entomol. Exp. Appl. 64: 101-109.
+Thibout, E. 1979. Stimulation of Reproductive Activity of Females of Acrolepiopsis assectella (Lepidoptera: Hyponomeutoidea) by the Presence of Eupyrene Spermatozoa in the Spermatheca. Ent. Exp. and Appl. 26: 279-290.
+Thibout, E. and B. Nowbahari. 1987. La S‚lection Du Lieu De Nymphose Chez La Teigne Du Poireau, Acrolepiopsis Assectella (Lep.): Determinisme Exogene Et Variations Interpopulations. Annls. Soc. Ent. Fr. 23: 183-192.
+  FEB/1995.
+  A-ASSECT
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 839
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+ Acrolepia assectella (Zeller)
+Leek Moth
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald FL Mau, Extenstion Entomologist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+Hosts include green onions, garlic, onions, chives, and leeks.
+DISTRIBUTION
+The leek moth is a recognized pest of onion and leek in Europe and Japan. It was first recorded in Hawaii in 1939 on the island of Oahu. The leek moth was brought to the attention of economic entomologists in August 1943 by K.A. Ching of the Pacific Chemical & Fertilizer Company, who discovered leek moth damage to onions in Manoa Valley (Fullaway and Krauss, 1945). The leek moth is also found on the islands of Hawaii, Maui, and Kauai
+DAMAGE
+The leek moth larvae is highly specialized to feed on the leaves of various plants belonging to the genus Allium (Harmatha, et. al., 1987). The larvae prefer younger leaves (0-7 days) but will consume leaves up to two months old (Boscher, 1983). The larvae tunnel mines and chew perforations on young leaves which eventually become deformed older leaves (Nyrop, et. al., 1989). Occasionally, larvae may attack reproductive parts of the host plant but usually avoid the flowers. The flowers contain a saponin compound that inhibits the growth of the leek moth larva (Harmatha, et. al., 1987).
+BIOLOGY
+The information in this section was taken from Fullaway and Krauss (1945).
+EGGS
+Eggs are oviposited on leaves, normally in the whorl of the plant (Nyrop, et. al., 1989).
+
+Text Len: 1552
+--------------------------------------------------------------------------------
+in compound that inhibits the growth of the leek moth larva (Harmatha, et. al., 1987).
+BIOLOGY
+The information in this section was taken from Fullaway and Krauss (1945).
+EGGS
+Eggs are oviposited on leaves, normally in the whorl of the plant (Nyrop, et. al., 1989).
+LARVAE
+The larvae hatch and penetrate the onion leaves. The larvae feed inside the hollow leaves. The mature larvae measure 7-8 mm long. The leek moth has 5 larval stages or instars (Thibout and Nowbahari, 1987).
+PUPAE
+The 5th instars emerge from the leaves to pupate. The cocoon is white, loose, and net-like. Most larvae will pupate on the leaves but there are a few that may pupate on the soil or on nearby plants (Thibout and Nowbahari, 1987). According to Nowbahari and Thibout (1990), the cocoon serves as protection from dehydration. They indicated that this was not as important to the developing pupa but did affect egg development and fertility in females.
+ADULTS
+Adults have a wing span of approximately 8 mm. The forewings are ash colored or approaching black in coloration. The forewing has a large triangular white marking with smaller white markings. The hindwings are gray approaching black in color.
+  BEHAVIOR
+Studies have shown that the leek moth finds host plants by cueing in on propyl propane thiosulfinate emitted by the plant (Auger, et. al., 1989). Once there, females apparently lay eggs in response to certain non-sulfur containing and non-volatile compounds that are specific to the plant genus Allium (Auger and Thibout, 1983).
+Adults have two flight peaks. The first occurs about a day after they emerge from
+Text Len: 1603
+--------------------------------------------------------------------------------
+yl propane thiosulfinate emitted by the plant (Auger, et. al., 1989). Once there, females apparently lay eggs in response to certain non-sulfur containing and non-volatile compounds that are specific to the plant genus Allium (Auger and Thibout, 1983).
+Adults have two flight peaks. The first occurs about a day after they emerge from the pupal case and continues into the evening (Lecompte and Thibout, 1982). The second peak occurs at night and ends at the onset of light. Flight activity is increased when adults are ready to mate and when leek plants are detected.
+Thibout (1979) indicated that mating or transfer of sperm from male to female increases oviposition, stimulates egg production, and inhibits other males from mating with the mated female.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+An often mentioned parasitoid of the leek moth is Diadromus pulchellus, a parasitic wasp. This wasp is not known to occur in Hawaii.
+CHEMICAL CONTROL
+A study in the Netherlands on fourteen commercial leek fields, found that losses due to leek moth were more prevalent along the perimeter than in the interior of fields (Nyrop, et. al., 1989). They found that there was little difference in pest control cost between a sampling-based treatment program and routine application of insecticide. This was attributed to the high value of the crops and low cost of treatment. Pheromone monitoring was found to be unreliable. In addition, a study in 1992, found variation in assessing damage in leek fields, even by trained scouts (Theunissen and Legutowska, 1992). Apparently, observerÕs bias played a role in the assessment of damage to leek. It seems that it is not economically worthwhile to sample pest densities in the short term (Nyrop, et.
+Text Len: 1728
+--------------------------------------------------------------------------------
+ unreliable. In addition, a study in 1992, found variation in assessing damage in leek fields, even by trained scouts (Theunissen and Legutowska, 1992). Apparently, observerÕs bias played a role in the assessment of damage to leek. It seems that it is not economically worthwhile to sample pest densities in the short term (Nyrop, et. al., 1989). However, because of concerns about pesticide resistance and overuse of pesticides, it appears that some type of integrated pest management (IPM) program should be used.
+REFERENCES
+Auger, J., C. LeCompte, and E. Thibout. 1989. Leek Odor Analysis by Gas Chromatography and Identification of the Most Active Substance for the Leek Moth, Acrolepiopsis assectella. J. Chem. Ecol. 15: 1847-1854.
+Auger, J. and E. Thibout. 1983. Specificite Des Substances Non Volatiles Des Allium Responsables De La Ponte De La Teigne Du Poireau, Acrolepiopsis assectella (Lepidoptera). Ent. Exp. and Appl. 34: 71-77.
+Boscher, J. 1983. Action du phytophage Acrolepiopsis assectella Zell. sur la demographie foliaire dÕAllium porrum L. Acta Œcologica. 4: 335-344.
+Fullaway, D. T. and N. L. H. Krauss. 1945. Common Insects of Hawaii. Tongg Publishing Company, Honolulu, HI. 228 pp.
+Harmatha, J., B. Mauchamp, C. Arnault, and K Salama. 1987. Identification of a Spirostane-Type Saponin in the Flowers of Leek with Inhibitory Effects on Growth
+Text Len: 1363
+--------------------------------------------------------------------------------
+ and N. L. H. Krauss. 1945. Common Insects of Hawaii. Tongg Publishing Company, Honolulu, HI. 228 pp.
+Harmatha, J., B. Mauchamp, C. Arnault, and K Salama. 1987. Identification of a Spirostane-Type Saponin in the Flowers of Leek with Inhibitory Effects on Growth of Leek-Moth Larvae. Biochemical Systematics and Ecology. 15: 113-116.
+LeCompte, C. and E. Thibout. 1982. Mise En vidence De Mouvements Verticaux Quotidiens Et Influences De La Plante-Hote, de lÕage Et De La Fecondation Sur Le Rythme DÕActivite De La Teigne Du Poireau, Acrolepiopsis assectella Zell. (Lepidoptere). Acta icologica. 3: 233-240.
+Nowbahari, B. and E. Thibout. 1990. The Cocoon and Humidity in the Development of Acrolepiopsis assectella (Lep.) Pupae: Consequences in Adults. Physiol. Ent. 15: 363-368.
+Nowbahari, B. and E. Thibout. 1992. Defensive Role of Allium Sulfur Compounds for Leek Moth Acropepiopsis assectella Z. (Lepidoptera) Against Generalist Predators. J. Chem. Ecol. 18: 1991-2002.
+Nyrop, J. P., A. M. Shelton, and J. Theunissen. 1989. Value of a Control Decision Rule for Leek Moth Infestations in Leek. Entomol. Exp. Appl. 53: 167-176.
+Theunissen, J. and H. Legut
+Text Len: 1156
+--------------------------------------------------------------------------------
+ Ecol. 18: 1991-2002.
+Nyrop, J. P., A. M. Shelton, and J. Theunissen. 1989. Value of a Control Decision Rule for Leek Moth Infestations in Leek. Entomol. Exp. Appl. 53: 167-176.
+Theunissen, J. and H. Legutowska. 1992. ObserverÕs Bias in the Assessment of Pest and Disease Symptoms in Leek. Entomol. Exp. Appl. 64: 101-109.
+Thibout, E. 1979. Stimulation of Reproductive Activity of Females of Acrolepiopsis assectella (Lepidoptera: Hyponomeutoidea) by the Presence of Eupyrene Spermatozoa in the Spermatheca. Ent. Exp. and Appl. 26: 279-290.
+Thibout, E. and B. Nowbahari. 1987. La S‚lection Du Lieu De Nymphose Chez La Teigne Du Poireau, Acrolepiopsis Assectella (Lep.): Determinisme Exogene Et Variations Interpopulations. Annls. Soc. Ent. Fr. 23: 183-192.
+  FEB/1995.
+  A-ASSECT
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 839
+--------------------------------------------------------------------------------

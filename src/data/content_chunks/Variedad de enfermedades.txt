@@ -1,0 +1,1108 @@
+  
+ 
+         
+   
+ 
+    
+    
+   
+    
+   
+  
+ 
+ 
+  
+             
+ 
+  
+                 
+ 
+ 
+         
+ 
+ 
+          
+   
+  
+               
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+          
+   
+    
+Voluntary 2025 U.S. National Animal Health Reporting System (NAHRS) 
+Reportable Diseases, Infections, and Infestations List1 
+Changes from previous year:2 
+Infection with Megalocytivirus pagrus 1 has replaced Infection with red sea bream iridovirus† (RSIV). 
+Infection with Perkinsus marinus has been moved from monitored to notifiable. The following have been 
+moved from notifiable to monitored: Infection with Aphanomyces astaci (Crayfish plague) and Epizoootic 
+hemorrhagic disease (EHD). Infection with orthobunyaviruses, Simbu serogroup has replaced Akabane 
+virus. 
+Definitions: 
+Notifiable Diseases 
+• Notifiable diseases and conditions consist of emergency incidents, emerging disease incidents, and 
+regulated disease incidents. Immediate reporting
+Text Len: 956
+--------------------------------------------------------------------------------
+) and Epizoootic 
+hemorrhagic disease (EHD). Infection with orthobunyaviruses, Simbu serogroup has replaced Akabane 
+virus. 
+Definitions: 
+Notifiable Diseases 
+• Notifiable diseases and conditions consist of emergency incidents, emerging disease incidents, and 
+regulated disease incidents. Immediate reporting by Animal Health Professionals. 
+Monitored Diseases 
+• Monitored diseases are those that are endemic in the United States. Monthly reporting by State Animal 
+Health Officials and Laboratories. Animal and Plant Health Inspection Service (APHIS) uses data 
+gathered to monitor changes in disease occurrence over time. 
+Terrestrial 
+• Animals that live predominantly or entirely on land. 
+Aquatic 
+• Animals which live predominantly or entirely in the water. 
+Animal Health Professional 
+• An Animal Health Professional is an individual, corporate entity, or animal health organization with 
+formal training in the diagnosis or recognition of animal diseases and/or pests of livestock. Examples of 
+animal health professionals include, but are not limited to, veterinary medical professionals, diagnostic 
+laboratorians, biomedical researchers, public health officials, animal health officials, trained 
+technicians, zoo personnel, and wildlife personnel with such training. 
+1 Diseases are organized by primary species affected; however, listed diseases are reportable regardless of host species. Please refer to disease case definitions for 
+additional clarification on reporting criteria. 
+2 The pdf version of the NLRAD list is updated annually. For any updates that may occur during the year, please consult our website: NLRAD Webpage
+1 
+Notifiable Diseases: Terrestrial 
+                
+ 
+ 
+   
+Multi-Species  
+•  Anthrax 
+Text Len: 1737
+--------------------------------------------------------------------------------
+ version of the NLRAD list is updated annually. For any updates that may occur during the year, please consult our website: NLRAD Webpage
+1 
+Notifiable Diseases: Terrestrial 
+                
+ 
+ 
+   
+Multi-Species  
+•  Anthrax  (Bacillus  anthracis)  
+•  Bluetongue  (Serotype  8)  
+•  Brucellosis* (Brucella  abortus,  B.  melitensis,  B. 
+suis)  
+•  Crimean  Congo  hemorrhagic  fever†  
+•  Eastern  Equine  encephalomyelitis  
+•  Foot-and-mouth  disease†  (FMD)  
+•  Heartwater†  
+•  Japanese  Encephalitis†  
+•  Leishmaniasis  
+•  Melioidosis†  (Burkholderia  pseudomallei)  
+•  Mycobacterium  Tuberculosis  Complex* (M.  
+bovis, M. caprae, M.  tuberculosis)  
+•  New  World  screwworm† (Cochliomyia  
+hominivorax)  
+•  Old  World  screwworm†  (Chrysomya  bezziana)  
+•  Infection with orthobunyaviruses, Simbu 
+serogroup†  (Akabane virus, Schmallenberg 
+virus)  
+•  Pseudorabies*  (Aujeszky’s  disease)  
+•  Rabies 
+Text Len: 920
+--------------------------------------------------------------------------------
+Chrysomya  bezziana)  
+•  Infection with orthobunyaviruses, Simbu 
+serogroup†  (Akabane virus, Schmallenberg 
+virus)  
+•  Pseudorabies*  (Aujeszky’s  disease)  
+•  Rabies  
+•  Rift  Valley  fever†  
+•  Rinderpest†  
+•  SARS-CoV-2^  
+•  Surra†  (Trypanosoma  evansi)  
+•  Trichinellosis  (Trichinella  spp.)  
+•  Trypanosomosis† (tsetse-transmitted)  
+(Trypanosoma  congolense,  T.  vivax,  T.  brucei,  
+T. simiae)  
+•  Vesicular  stomatitis†  
+•  West  Nile  fever/virus  
+Avian  
+•  Duck  viral  hepatitis†  (Duck  hepatitis  A  virus)  
+(domestic poultry)  
+•  Fowl  typhoid†  (Salmonella  enterica  –  Gallinarum)  
+•  Highly  pathogenic  avian  influenza†  (HPAI)  (any  
+subtype)  
+•  Low pathogenic avian influenza*  (all H5/H7  
+subtypes  or  any  subtype  associated  with  human 
+illness)  
+•  Pullorum  disease  (Salmonella  enterica  –  
+Pullorum)  
+•  Turkey
+Text Len: 871
+--------------------------------------------------------------------------------
+  
+subtype)  
+•  Low pathogenic avian influenza*  (all H5/H7  
+subtypes  or  any  subtype  associated  with  human 
+illness)  
+•  Pullorum  disease  (Salmonella  enterica  –  
+Pullorum)  
+•  Turkey  rhinotracheitis  (avian  metapneumovirus)  
+(domestic poultry)  
+•  Virulent  Newcastle Disease†  (domestic  poultry)  
+Honey  Bee  
+•  Tropilaelaps  infestation  of  honey  bees†  
+(infestation with  Tropilaelaps spp.)  
+Bovine  
+•  Bovine  babesiosis†  (Babesia  bovis,  B.  bigemina,  B. 
+divergens)  
+•  Bovine  spongiform  encephalopathy†  (BSE)  
+•  Contagious  bovine  pleuropneumonia† (Mycoplasma 
+mycoides mycoides)  
+•  Hemorrhagic  septicemia† (Pasteurella  multocida, 
+serotypes B/Asian or E/African)  
+•  Lumpy  skin  disease†  
+•  Theileriosis  (Theileria  annulata,  T.  orientalis,  T.  parva)  
+•  Trichomoniasis  
+Caprine  and  Ovine  
+•  Contagious  caprine  pleuropneumonia† (Mycoplasma 
+capricolum capripneum
+Text Len: 928
+--------------------------------------------------------------------------------
+  Theileriosis  (Theileria  annulata,  T.  orientalis,  T.  parva)  
+•  Trichomoniasis  
+Caprine  and  Ovine  
+•  Contagious  caprine  pleuropneumonia† (Mycoplasma 
+capricolum capripneumoniae)  
+•  Mange  (Sarcoptes  scabiei  var  ovis,  Chorioptes  bovis,  
+Psoroptes  ovis,  Psoroptes  cuniculi, Psoregates  ovis)  
+•  Nairobi  sheep disease†  
+•  Peste  des  petits  ruminants†  
+•  Infection  with  Theileria  lestoquardi,  T.  luwenshuni  or  
+T.  uilenbergi  
+•  Scrapie*  
+•  Sheep  pox  and  goat  pox†  
+Equine  
+•  African  horse  sickness†  
+•  Contagious  equine  metritis†  (CEM,  Taylorella 
+equigenitalis)  
+•  Dourine†  (Trypanasoma  equiperdum)  
+•  Equine  infectious  anemia*  (EIA)  
+•  Equine  piroplasmosis*  (babesiosis,  Theileria  equi,  
+Babesia caballi)  
+•  Equine  rhinopneumonitis/  equine  herpesvirus-1 
+myeloencephalopathy (EHV
+Text Len: 860
+--------------------------------------------------------------------------------
+emia*  (EIA)  
+•  Equine  piroplasmosis*  (babesiosis,  Theileria  equi,  
+Babesia caballi)  
+•  Equine  rhinopneumonitis/  equine  herpesvirus-1 
+myeloencephalopathy (EHV1-EHM)  
+•  Glanders†  (Burkholderia  mallei)  
+•  Hendra†  
+•  Venezuelan  Equine  encephalomyelitis†  (VEE)  
+•  Western  Equine  encephalomyelitis†  (WEE)  
+Farmed  Cervid  
+•  Chronic  wasting  disease*  (CWD)  
+Lagomorph  (Rabbits  &  Hares)  
+•  Myxomatosis†  
+•  Rabbit  hemorrhagic  disease†  
+Porcine  
+•  African  swine  fever†  
+•  Classical  swine  fever†  (hog  cholera)  
+•  Nipah  virus†  
+•  Swine  vesicular  disease†  
+Other  
+•  Camel  pox†  
+•  Infection  of  dromedary  camels  with  Middle  East 
+respiratory syndrome c oronavirus†  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 2 
+  
+ 
+ 
+      
+    
+    
+ 
+     
+    
+   
+     
+Text Len: 872
+--------------------------------------------------------------------------------
+
+respiratory syndrome c oronavirus†  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 2 
+  
+ 
+ 
+      
+    
+    
+ 
+     
+    
+   
+     
+    
+ 
+    
+ 
+    
+    
+   
+ 
+     
+      
+  
+       
+  
+       
+  
+       
+      
+  
+      
+       
+        
+ 
+ 
+     
+ 
+    
+  
+       
+     
+  
+  
+    
+   
+    
+      
+   
+  
+       
+  
+    
+      
+    
+ 
+      
+     
+    
+     
+ 
+     
+  
+     
+    
+     
+ 
+       
+     
+ 
+    
+ 
+     
+   
+Monitored Diseases: Terrestrial 
+Multi-Species 
+• Bluetongue (Serotypes other than
+Text Len: 561
+--------------------------------------------------------------------------------
+
+  
+     
+    
+     
+ 
+       
+     
+ 
+    
+ 
+     
+   
+Monitored Diseases: Terrestrial 
+Multi-Species 
+• Bluetongue (Serotypes other than 8) 
+• Echinococcus granulosus (Hydatidosis) 
+• Echinococcus multilocularis (Alveolar 
+echinococcosis) 
+• Epizootic hemorrhagic disease (EHD) 
+• Paratuberculosis (Johne’s disease, 
+Mycobacterium avium paratuberculosis) 
+• Q fever (Coxiella burnetti) 
+• Tularemia (Francisella tularensis) 
+Avian 
+• Avian chlamydiosis (psittacosis) (Chlamydia 
+psittaci) 
+• Avian infectious bronchitis 
+• Avian infectious laryngotracheitis 
+• Avian mycoplasmosis (Mycoplasma 
+gallisepticum) 
+• Avian mycoplasmosis (Mycoplasma synoviae) 
+• Infectious bursal disease (Gumboro disease) 
+Honey Bee 
+• Acarapisosis of honey bees (infestation with 
+Acarapis woodi) 
+• American foulbrood of honey bees (infection 
+with Paenibacillus larvae) 
+• Deformed Wing Virus, Variant C (DWV-C) 
+• European foulbrood of honey bees (infection 
+with Melissococcus plutonius) 
+• Slow bee paralysis virus (
+Text Len: 1003
+--------------------------------------------------------------------------------
+ 
+Acarapis woodi) 
+• American foulbrood of honey bees (infection 
+with Paenibacillus larvae) 
+• Deformed Wing Virus, Variant C (DWV-C) 
+• European foulbrood of honey bees (infection 
+with Melissococcus plutonius) 
+• Slow bee paralysis virus (SBPV) 
+• Small hive beetle infestation (Aethina tumida) 
+• Varroosis of honey bees (Infestation with Varroa 
+spp.) 
+Bovine 
+• Anaplasmosis (Anaplasma marginale, A. 
+central) 
+• Bovine genital campylobacteriosis 
+(Campylobacter fetus venerealis) 
+• Bovine viral diarrhea (BVD, mucosal disease) 
+• Enzootic bovine leucosis (BLV) 
+• Infectious bovine rhinotracheitis/infectious 
+pustular vulvovaginitis (IBR/IPV) 
+• Malignant catarrhal fever 
+Caprine and Ovine 
+• Caprine arthritis/encephalitis (CAE) 
+• Contagious agalactia (Mycoplasma agalactiae, M. 
+capricolum capricolum, M. putrefaciens, M. 
+mycoides capri, M. mycoides mycoides LC) 
+• Enzootic abortion of ewes (ovine chlamydiosis, 
+Chlamydophila abortus) 
+• Maedi-visna/ovine progressive pneumonia 
+• Ovine epididymitis (Brucella ovis infection) 
+• Salmonellosis (Salmonella abort
+Text Len: 1076
+--------------------------------------------------------------------------------
+coides mycoides LC) 
+• Enzootic abortion of ewes (ovine chlamydiosis, 
+Chlamydophila abortus) 
+• Maedi-visna/ovine progressive pneumonia 
+• Ovine epididymitis (Brucella ovis infection) 
+• Salmonellosis (Salmonella abortusovis) 
+Equine 
+• Equine influenza (virus type A) 
+• Equine rhinopneumonitis EHV-1 (non-EHM) 
+• Equine viral arteritis (EVA) 
+• Pigeon fever (Corynebacterium pseudotuberculosis, 
+ulcerative lymphangitis) 
+• Strangles (Streptococcus equi equi) 
+Farmed Cervid 
+• None at this time 
+Lagomorph (Rabbits & Hares) 
+• None at this time 
+Porcine 
+• Infection with Taenia solium (Porcine cysticercosis) 
+• Porcine reproductive and respiratory syndrome 
+(PRRS) 
+• Transmissible gastroenteritis (TGE) 
+Other 
+• None at this time 
+3 
+                
+    
+Notifiable Diseases: Aquatic 
+Amphibian  
+•  Infection  with  Batrachochytrium  
+salamandrivorans† (Bsal)  
+Crustacean  
+•  Acute  hepatopancreatic  necrosis  disease†  
+(Vibrio parahaemolyticus  pVA-1 plasmid)  
+•  Infection  with 
+Text Len: 996
+--------------------------------------------------------------------------------
+ with  Batrachochytrium  
+salamandrivorans† (Bsal)  
+Crustacean  
+•  Acute  hepatopancreatic  necrosis  disease†  
+(Vibrio parahaemolyticus  pVA-1 plasmid)  
+•  Infection  with  decapod  iridescent  virus†  
+(DIV1)  
+•  Infection  with  Enterocytozoon  hepatopenaei^  
+(EHP)  
+•  Infection  with  infectious  hypodermal  and  
+hematopoietic necrosis†  (IHHN)  
+•  Infection  with  infectious  myonecrosis  virus†  
+(IMN)  
+•  Infection  with  Hepatobacter  penaei  
+(necrotizing  hepatopancreatitis)†  (NHP)  
+•  Infection  with  Taura  syndrome  virus†  (TS)  
+•  Infection  with  white  spot  syndrome  virus 
+(WSSV)  
+•  Infection with Macrobrachium  
+rosenbergii  nodavirus†  (white  tail 
+disease)  
+•  Infection  with  yellow  head  virus 
+genotype1†  (yellow head)  
+Fish  
+•  Infection  with  Epizootic  hematopoietic  
+necrosis virus†  (EHN)  
+•  Infection  with  Gyrodactylus  salaris†  
+•  Infection  with  infectious  hematopoiet
+Text Len: 941
+--------------------------------------------------------------------------------
+1†  (yellow head)  
+Fish  
+•  Infection  with  Epizootic  hematopoietic  
+necrosis virus†  (EHN)  
+•  Infection  with  Gyrodactylus  salaris†  
+•  Infection  with  infectious  hematopoietic  
+necrosis virus (IHN)  
+•  Infection  with  HPR- deleted  or  HPR0  
+infectious salmon anemia* (ISA)  
+•  Infection with Megalocytivirus  
+pagrus  1  [Infectious Spleen and 
+Kidney Necrosis virus  (ISKNV),  
+Turbot reddish body iridovirus  
+(TRBIV)  †, red sea bream iridovirus  
+(RSIV)  †].  
+•  Infection  with  salmonid  alphavirus†  (SAV)  
+•  Infection  with  spring  viremia  of  carp  virus*  
+(SVC)  
+•  Infection  with  tilapia  Lake  Virus*  (TiLV)  
+•  Infection  with  viral  hemorrhagic  septicemia 
+virus (VHS)  
+ 
+Mollusk  
+•  Infection  with  abalone herpesvirus†  
+•  Infection  with  Bonamia  exitiosa  
+•  Infection  with  Bonamia  ostreae  
+•  Infection with  Marteilia  refringens†  
+•  Infection  with  Marteilio
+Text Len: 925
+--------------------------------------------------------------------------------
+usk  
+•  Infection  with  abalone herpesvirus†  
+•  Infection  with  Bonamia  exitiosa  
+•  Infection  with  Bonamia  ostreae  
+•  Infection with  Marteilia  refringens†  
+•  Infection  with  Marteilioides  chungmuensis  ^  
+•  Infection  with  Ostreid  herpsesvirus-1^  
+•  Infection  with  Perkinsus  marinus  
+•  Infection  with  Perkinsus  olseni†  
+•  Infection  with  Xenohaliotis  californiensis  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 4 
+  
+ 
+ 
+    
+  
+      
+ 
+       
+ 
+     
+     
+      
+ 
+      
+     
+   
+Monitored Diseases: Aquatic 
+Amphibian 
+• Infection with Batrachochytrium 
+dendrobatidis (Bd) 
+• Infection with Ranavirus (Ranavirus species) 
+Crustacean 
+• Infection with Aphanomyces astaci (Crayfish plague) 
+Fish 
+• Infection with Aphanomyces invadans 
+(epizootic ulcerative syndrome – EUS) 
+• Infection with koi herpesvirus disease 
+Mollusk 
+• Infection with Haplosporidian nelsoni (Hp) 
+
+Text Len: 967
+--------------------------------------------------------------------------------
+ Aphanomyces astaci (Crayfish plague) 
+Fish 
+• Infection with Aphanomyces invadans 
+(epizootic ulcerative syndrome – EUS) 
+• Infection with koi herpesvirus disease 
+Mollusk 
+• Infection with Haplosporidian nelsoni (Hp) 
+• Infection with Mikrocytos mackini 
+5 
+Text Len: 259
+--------------------------------------------------------------------------------
+  
+ 
+         
+   
+ 
+    
+    
+   
+    
+   
+  
+ 
+ 
+  
+             
+ 
+  
+                 
+ 
+ 
+         
+ 
+ 
+          
+   
+  
+               
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+          
+   
+    
+Voluntary 2025 U.S. National Animal Health Reporting System (NAHRS) 
+Reportable Diseases, Infections, and Infestations List1 
+Changes from previous year:2 
+Infection with Megalocytivirus pagrus 1 has replaced Infection with red sea bream iridovirus† (RSIV). 
+Infection with Perkinsus marinus has been moved from monitored to notifiable. The following have been 
+moved from notifiable to monitored: Infection with Aphanomyces astaci (Crayfish plague) and Epizoootic 
+hemorrhagic disease (EHD). Infection with orthobunyaviruses, Simbu serogroup has replaced Akabane 
+virus. 
+Definitions: 
+Notifiable Diseases 
+• Notifiable diseases and conditions consist of emergency incidents, emerging disease incidents, and 
+regulated disease incidents. Immediate reporting
+Text Len: 956
+--------------------------------------------------------------------------------
+) and Epizoootic 
+hemorrhagic disease (EHD). Infection with orthobunyaviruses, Simbu serogroup has replaced Akabane 
+virus. 
+Definitions: 
+Notifiable Diseases 
+• Notifiable diseases and conditions consist of emergency incidents, emerging disease incidents, and 
+regulated disease incidents. Immediate reporting by Animal Health Professionals. 
+Monitored Diseases 
+• Monitored diseases are those that are endemic in the United States. Monthly reporting by State Animal 
+Health Officials and Laboratories. Animal and Plant Health Inspection Service (APHIS) uses data 
+gathered to monitor changes in disease occurrence over time. 
+Terrestrial 
+• Animals that live predominantly or entirely on land. 
+Aquatic 
+• Animals which live predominantly or entirely in the water. 
+Animal Health Professional 
+• An Animal Health Professional is an individual, corporate entity, or animal health organization with 
+formal training in the diagnosis or recognition of animal diseases and/or pests of livestock. Examples of 
+animal health professionals include, but are not limited to, veterinary medical professionals, diagnostic 
+laboratorians, biomedical researchers, public health officials, animal health officials, trained 
+technicians, zoo personnel, and wildlife personnel with such training. 
+1 Diseases are organized by primary species affected; however, listed diseases are reportable regardless of host species. Please refer to disease case definitions for 
+additional clarification on reporting criteria. 
+2 The pdf version of the NLRAD list is updated annually. For any updates that may occur during the year, please consult our website: NLRAD Webpage
+1 
+Notifiable Diseases: Terrestrial 
+                
+ 
+ 
+   
+Multi-Species  
+•  Anthrax 
+Text Len: 1737
+--------------------------------------------------------------------------------
+ version of the NLRAD list is updated annually. For any updates that may occur during the year, please consult our website: NLRAD Webpage
+1 
+Notifiable Diseases: Terrestrial 
+                
+ 
+ 
+   
+Multi-Species  
+•  Anthrax  (Bacillus  anthracis)  
+•  Bluetongue  (Serotype  8)  
+•  Brucellosis* (Brucella  abortus,  B.  melitensis,  B. 
+suis)  
+•  Crimean  Congo  hemorrhagic  fever†  
+•  Eastern  Equine  encephalomyelitis  
+•  Foot-and-mouth  disease†  (FMD)  
+•  Heartwater†  
+•  Japanese  Encephalitis†  
+•  Leishmaniasis  
+•  Melioidosis†  (Burkholderia  pseudomallei)  
+•  Mycobacterium  Tuberculosis  Complex* (M.  
+bovis, M. caprae, M.  tuberculosis)  
+•  New  World  screwworm† (Cochliomyia  
+hominivorax)  
+•  Old  World  screwworm†  (Chrysomya  bezziana)  
+•  Infection with orthobunyaviruses, Simbu 
+serogroup†  (Akabane virus, Schmallenberg 
+virus)  
+•  Pseudorabies*  (Aujeszky’s  disease)  
+•  Rabies 
+Text Len: 920
+--------------------------------------------------------------------------------
+Chrysomya  bezziana)  
+•  Infection with orthobunyaviruses, Simbu 
+serogroup†  (Akabane virus, Schmallenberg 
+virus)  
+•  Pseudorabies*  (Aujeszky’s  disease)  
+•  Rabies  
+•  Rift  Valley  fever†  
+•  Rinderpest†  
+•  SARS-CoV-2^  
+•  Surra†  (Trypanosoma  evansi)  
+•  Trichinellosis  (Trichinella  spp.)  
+•  Trypanosomosis† (tsetse-transmitted)  
+(Trypanosoma  congolense,  T.  vivax,  T.  brucei,  
+T. simiae)  
+•  Vesicular  stomatitis†  
+•  West  Nile  fever/virus  
+Avian  
+•  Duck  viral  hepatitis†  (Duck  hepatitis  A  virus)  
+(domestic poultry)  
+•  Fowl  typhoid†  (Salmonella  enterica  –  Gallinarum)  
+•  Highly  pathogenic  avian  influenza†  (HPAI)  (any  
+subtype)  
+•  Low pathogenic avian influenza*  (all H5/H7  
+subtypes  or  any  subtype  associated  with  human 
+illness)  
+•  Pullorum  disease  (Salmonella  enterica  –  
+Pullorum)  
+•  Turkey
+Text Len: 871
+--------------------------------------------------------------------------------
+  
+subtype)  
+•  Low pathogenic avian influenza*  (all H5/H7  
+subtypes  or  any  subtype  associated  with  human 
+illness)  
+•  Pullorum  disease  (Salmonella  enterica  –  
+Pullorum)  
+•  Turkey  rhinotracheitis  (avian  metapneumovirus)  
+(domestic poultry)  
+•  Virulent  Newcastle Disease†  (domestic  poultry)  
+Honey  Bee  
+•  Tropilaelaps  infestation  of  honey  bees†  
+(infestation with  Tropilaelaps spp.)  
+Bovine  
+•  Bovine  babesiosis†  (Babesia  bovis,  B.  bigemina,  B. 
+divergens)  
+•  Bovine  spongiform  encephalopathy†  (BSE)  
+•  Contagious  bovine  pleuropneumonia† (Mycoplasma 
+mycoides mycoides)  
+•  Hemorrhagic  septicemia† (Pasteurella  multocida, 
+serotypes B/Asian or E/African)  
+•  Lumpy  skin  disease†  
+•  Theileriosis  (Theileria  annulata,  T.  orientalis,  T.  parva)  
+•  Trichomoniasis  
+Caprine  and  Ovine  
+•  Contagious  caprine  pleuropneumonia† (Mycoplasma 
+capricolum capripneum
+Text Len: 928
+--------------------------------------------------------------------------------
+  Theileriosis  (Theileria  annulata,  T.  orientalis,  T.  parva)  
+•  Trichomoniasis  
+Caprine  and  Ovine  
+•  Contagious  caprine  pleuropneumonia† (Mycoplasma 
+capricolum capripneumoniae)  
+•  Mange  (Sarcoptes  scabiei  var  ovis,  Chorioptes  bovis,  
+Psoroptes  ovis,  Psoroptes  cuniculi, Psoregates  ovis)  
+•  Nairobi  sheep disease†  
+•  Peste  des  petits  ruminants†  
+•  Infection  with  Theileria  lestoquardi,  T.  luwenshuni  or  
+T.  uilenbergi  
+•  Scrapie*  
+•  Sheep  pox  and  goat  pox†  
+Equine  
+•  African  horse  sickness†  
+•  Contagious  equine  metritis†  (CEM,  Taylorella 
+equigenitalis)  
+•  Dourine†  (Trypanasoma  equiperdum)  
+•  Equine  infectious  anemia*  (EIA)  
+•  Equine  piroplasmosis*  (babesiosis,  Theileria  equi,  
+Babesia caballi)  
+•  Equine  rhinopneumonitis/  equine  herpesvirus-1 
+myeloencephalopathy (EHV
+Text Len: 860
+--------------------------------------------------------------------------------
+emia*  (EIA)  
+•  Equine  piroplasmosis*  (babesiosis,  Theileria  equi,  
+Babesia caballi)  
+•  Equine  rhinopneumonitis/  equine  herpesvirus-1 
+myeloencephalopathy (EHV1-EHM)  
+•  Glanders†  (Burkholderia  mallei)  
+•  Hendra†  
+•  Venezuelan  Equine  encephalomyelitis†  (VEE)  
+•  Western  Equine  encephalomyelitis†  (WEE)  
+Farmed  Cervid  
+•  Chronic  wasting  disease*  (CWD)  
+Lagomorph  (Rabbits  &  Hares)  
+•  Myxomatosis†  
+•  Rabbit  hemorrhagic  disease†  
+Porcine  
+•  African  swine  fever†  
+•  Classical  swine  fever†  (hog  cholera)  
+•  Nipah  virus†  
+•  Swine  vesicular  disease†  
+Other  
+•  Camel  pox†  
+•  Infection  of  dromedary  camels  with  Middle  East 
+respiratory syndrome c oronavirus†  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 2 
+  
+ 
+ 
+      
+    
+    
+ 
+     
+    
+   
+     
+Text Len: 872
+--------------------------------------------------------------------------------
+
+respiratory syndrome c oronavirus†  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 2 
+  
+ 
+ 
+      
+    
+    
+ 
+     
+    
+   
+     
+    
+ 
+    
+ 
+    
+    
+   
+ 
+     
+      
+  
+       
+  
+       
+  
+       
+      
+  
+      
+       
+        
+ 
+ 
+     
+ 
+    
+  
+       
+     
+  
+  
+    
+   
+    
+      
+   
+  
+       
+  
+    
+      
+    
+ 
+      
+     
+    
+     
+ 
+     
+  
+     
+    
+     
+ 
+       
+     
+ 
+    
+ 
+     
+   
+Monitored Diseases: Terrestrial 
+Multi-Species 
+• Bluetongue (Serotypes other than
+Text Len: 561
+--------------------------------------------------------------------------------
+
+  
+     
+    
+     
+ 
+       
+     
+ 
+    
+ 
+     
+   
+Monitored Diseases: Terrestrial 
+Multi-Species 
+• Bluetongue (Serotypes other than 8) 
+• Echinococcus granulosus (Hydatidosis) 
+• Echinococcus multilocularis (Alveolar 
+echinococcosis) 
+• Epizootic hemorrhagic disease (EHD) 
+• Paratuberculosis (Johne’s disease, 
+Mycobacterium avium paratuberculosis) 
+• Q fever (Coxiella burnetti) 
+• Tularemia (Francisella tularensis) 
+Avian 
+• Avian chlamydiosis (psittacosis) (Chlamydia 
+psittaci) 
+• Avian infectious bronchitis 
+• Avian infectious laryngotracheitis 
+• Avian mycoplasmosis (Mycoplasma 
+gallisepticum) 
+• Avian mycoplasmosis (Mycoplasma synoviae) 
+• Infectious bursal disease (Gumboro disease) 
+Honey Bee 
+• Acarapisosis of honey bees (infestation with 
+Acarapis woodi) 
+• American foulbrood of honey bees (infection 
+with Paenibacillus larvae) 
+• Deformed Wing Virus, Variant C (DWV-C) 
+• European foulbrood of honey bees (infection 
+with Melissococcus plutonius) 
+• Slow bee paralysis virus (
+Text Len: 1003
+--------------------------------------------------------------------------------
+ 
+Acarapis woodi) 
+• American foulbrood of honey bees (infection 
+with Paenibacillus larvae) 
+• Deformed Wing Virus, Variant C (DWV-C) 
+• European foulbrood of honey bees (infection 
+with Melissococcus plutonius) 
+• Slow bee paralysis virus (SBPV) 
+• Small hive beetle infestation (Aethina tumida) 
+• Varroosis of honey bees (Infestation with Varroa 
+spp.) 
+Bovine 
+• Anaplasmosis (Anaplasma marginale, A. 
+central) 
+• Bovine genital campylobacteriosis 
+(Campylobacter fetus venerealis) 
+• Bovine viral diarrhea (BVD, mucosal disease) 
+• Enzootic bovine leucosis (BLV) 
+• Infectious bovine rhinotracheitis/infectious 
+pustular vulvovaginitis (IBR/IPV) 
+• Malignant catarrhal fever 
+Caprine and Ovine 
+• Caprine arthritis/encephalitis (CAE) 
+• Contagious agalactia (Mycoplasma agalactiae, M. 
+capricolum capricolum, M. putrefaciens, M. 
+mycoides capri, M. mycoides mycoides LC) 
+• Enzootic abortion of ewes (ovine chlamydiosis, 
+Chlamydophila abortus) 
+• Maedi-visna/ovine progressive pneumonia 
+• Ovine epididymitis (Brucella ovis infection) 
+• Salmonellosis (Salmonella abort
+Text Len: 1076
+--------------------------------------------------------------------------------
+coides mycoides LC) 
+• Enzootic abortion of ewes (ovine chlamydiosis, 
+Chlamydophila abortus) 
+• Maedi-visna/ovine progressive pneumonia 
+• Ovine epididymitis (Brucella ovis infection) 
+• Salmonellosis (Salmonella abortusovis) 
+Equine 
+• Equine influenza (virus type A) 
+• Equine rhinopneumonitis EHV-1 (non-EHM) 
+• Equine viral arteritis (EVA) 
+• Pigeon fever (Corynebacterium pseudotuberculosis, 
+ulcerative lymphangitis) 
+• Strangles (Streptococcus equi equi) 
+Farmed Cervid 
+• None at this time 
+Lagomorph (Rabbits & Hares) 
+• None at this time 
+Porcine 
+• Infection with Taenia solium (Porcine cysticercosis) 
+• Porcine reproductive and respiratory syndrome 
+(PRRS) 
+• Transmissible gastroenteritis (TGE) 
+Other 
+• None at this time 
+3 
+                
+    
+Notifiable Diseases: Aquatic 
+Amphibian  
+•  Infection  with  Batrachochytrium  
+salamandrivorans† (Bsal)  
+Crustacean  
+•  Acute  hepatopancreatic  necrosis  disease†  
+(Vibrio parahaemolyticus  pVA-1 plasmid)  
+•  Infection  with 
+Text Len: 996
+--------------------------------------------------------------------------------
+ with  Batrachochytrium  
+salamandrivorans† (Bsal)  
+Crustacean  
+•  Acute  hepatopancreatic  necrosis  disease†  
+(Vibrio parahaemolyticus  pVA-1 plasmid)  
+•  Infection  with  decapod  iridescent  virus†  
+(DIV1)  
+•  Infection  with  Enterocytozoon  hepatopenaei^  
+(EHP)  
+•  Infection  with  infectious  hypodermal  and  
+hematopoietic necrosis†  (IHHN)  
+•  Infection  with  infectious  myonecrosis  virus†  
+(IMN)  
+•  Infection  with  Hepatobacter  penaei  
+(necrotizing  hepatopancreatitis)†  (NHP)  
+•  Infection  with  Taura  syndrome  virus†  (TS)  
+•  Infection  with  white  spot  syndrome  virus 
+(WSSV)  
+•  Infection with Macrobrachium  
+rosenbergii  nodavirus†  (white  tail 
+disease)  
+•  Infection  with  yellow  head  virus 
+genotype1†  (yellow head)  
+Fish  
+•  Infection  with  Epizootic  hematopoietic  
+necrosis virus†  (EHN)  
+•  Infection  with  Gyrodactylus  salaris†  
+•  Infection  with  infectious  hematopoiet
+Text Len: 941
+--------------------------------------------------------------------------------
+1†  (yellow head)  
+Fish  
+•  Infection  with  Epizootic  hematopoietic  
+necrosis virus†  (EHN)  
+•  Infection  with  Gyrodactylus  salaris†  
+•  Infection  with  infectious  hematopoietic  
+necrosis virus (IHN)  
+•  Infection  with  HPR- deleted  or  HPR0  
+infectious salmon anemia* (ISA)  
+•  Infection with Megalocytivirus  
+pagrus  1  [Infectious Spleen and 
+Kidney Necrosis virus  (ISKNV),  
+Turbot reddish body iridovirus  
+(TRBIV)  †, red sea bream iridovirus  
+(RSIV)  †].  
+•  Infection  with  salmonid  alphavirus†  (SAV)  
+•  Infection  with  spring  viremia  of  carp  virus*  
+(SVC)  
+•  Infection  with  tilapia  Lake  Virus*  (TiLV)  
+•  Infection  with  viral  hemorrhagic  septicemia 
+virus (VHS)  
+ 
+Mollusk  
+•  Infection  with  abalone herpesvirus†  
+•  Infection  with  Bonamia  exitiosa  
+•  Infection  with  Bonamia  ostreae  
+•  Infection with  Marteilia  refringens†  
+•  Infection  with  Marteilio
+Text Len: 925
+--------------------------------------------------------------------------------
+usk  
+•  Infection  with  abalone herpesvirus†  
+•  Infection  with  Bonamia  exitiosa  
+•  Infection  with  Bonamia  ostreae  
+•  Infection with  Marteilia  refringens†  
+•  Infection  with  Marteilioides  chungmuensis  ^  
+•  Infection  with  Ostreid  herpsesvirus-1^  
+•  Infection  with  Perkinsus  marinus  
+•  Infection  with  Perkinsus  olseni†  
+•  Infection  with  Xenohaliotis  californiensis  
+† are emergency incidents. ^ are emerging disease incidents. * are regulated disease incidents. 4 
+  
+ 
+ 
+    
+  
+      
+ 
+       
+ 
+     
+     
+      
+ 
+      
+     
+   
+Monitored Diseases: Aquatic 
+Amphibian 
+• Infection with Batrachochytrium 
+dendrobatidis (Bd) 
+• Infection with Ranavirus (Ranavirus species) 
+Crustacean 
+• Infection with Aphanomyces astaci (Crayfish plague) 
+Fish 
+• Infection with Aphanomyces invadans 
+(epizootic ulcerative syndrome – EUS) 
+• Infection with koi herpesvirus disease 
+Mollusk 
+• Infection with Haplosporidian nelsoni (Hp) 
+
+Text Len: 967
+--------------------------------------------------------------------------------
+ Aphanomyces astaci (Crayfish plague) 
+Fish 
+• Infection with Aphanomyces invadans 
+(epizootic ulcerative syndrome – EUS) 
+• Infection with koi herpesvirus disease 
+Mollusk 
+• Infection with Haplosporidian nelsoni (Hp) 
+• Infection with Mikrocytos mackini 
+5 
+Text Len: 259
+--------------------------------------------------------------------------------

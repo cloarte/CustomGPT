@@ -1,0 +1,298 @@
+Crop Knowledge Master
+Bactrocera dorsalis (Hendel)
+Oriental Fruit Fly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Matin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The oriental fruit fly attacks over 300 cultivated and wild fruits including Annona (cherimoya, atemoya, sugar apple), avocado, banana, bittermelon, citrus, coffee, guava, macadamia, mango, papaya, passion fruit, peppers, persimmon, and tomato. This pest will apparently breed in all fleshy fruits. On Oahu it is estimated that 95% of the oriental fruit flies develop on guava, Psidium guajava L. (Newell and Haramoto, 1968). It does not attack cucurbit crops such as cucumber and squash.
+DISTRIBUTION
+The oriental fruit fly, originally described from Taiwan, is one of the most destructive fruit fly pests of east Asia and the Pacific. It is second only to the Mediterranean fruit fly. Its distribution range includes Pakistan and India to southern Japan, Indonesia to Micronesia, and the Mariana Islands and Hawaii. Recent outbreaks have occurred in southern California and Florida. Accidentally introduced into Hawaii in 1944 or 1945 (Fullaway, 1947), this pest is currently present on all major Hawaiian islands. It is primarily found in the lowland areas of Hawaii.
+DAMAGE
+The damage to crops caused by oriental fruit flies result from 1) oviposition in fruit and soft tissues of vegetative parts of certain plants, 2) feeding by the larvae, and 3) decomposition of plant tissue by invading secondary microorganisms.
+Larval feeding in fruits is the most damaging. Damage usually consists
+Text Len: 1694
+--------------------------------------------------------------------------------
+ found in the lowland areas of Hawaii.
+DAMAGE
+The damage to crops caused by oriental fruit flies result from 1) oviposition in fruit and soft tissues of vegetative parts of certain plants, 2) feeding by the larvae, and 3) decomposition of plant tissue by invading secondary microorganisms.
+Larval feeding in fruits is the most damaging. Damage usually consists of breakdown of tissues and internal rotting associated with maggot infestation, but this varies with the type of fruit attacked (Steiner, 1957). Infested young fruit becomes distorted, callused and usually drop; mature attacked fruits develop a water soaked appearance. The larval tunnels provide entry points for bacteria and fungi that cause the fruit to rot. When only a few larvae develop, damage consists of an unsightly appearance and reduced marketability because of the egg laying punctures or tissue break down due to the decay (Steiner, 1957).
+On papaya, the oriental fruit fly is the primary pest in Hawaii. The other fruit flies, the Mediterranean fruit fly and the melon fly, are infrequently found in papaya. The solanaceous fruit fly, Dacus latifrons (Hendel), does not attack papaya (Liquido and Cunningham, 1990). Infestation rates in papaya by fruit flies increases with ripeness of the fruits (Liquido and Cunningham, 1990). Although the actual injury on papaya by fruit flies is relatively low, these flies are considered a major pest of papaya in terms of exporting from Hawaii to the US Mainland and Japan. It is necessary to treat the papaya fruits with post-harvest treatments to meet phytosanitary regulations.
+On banana cultivars 'Brazilian,' 'Valery' and 'William's', oriental fruit fly eggs and larvae develop in fruit at the later stages of ripeness only. Banana is not a host for the oriental fruit fly when the bananas are unripe
+Text Len: 1822
+--------------------------------------------------------------------------------
+. It is necessary to treat the papaya fruits with post-harvest treatments to meet phytosanitary regulations.
+On banana cultivars 'Brazilian,' 'Valery' and 'William's', oriental fruit fly eggs and larvae develop in fruit at the later stages of ripeness only. Banana is not a host for the oriental fruit fly when the bananas are unripe and attached to the banana plant. Unripe bananas up to 3 to 4 days post harvest are also free of fruit flies (Armstrong, 1983).
+The economic importance of the oriental fruit fly cannot be evaluated entirely from the standpoint of the actual damage to the various crops affected. It must also be considered from the standpoint of quarantine.
+Quarantine regulations to prevent establishment of oriental fruit flies in areas where it does not occur are vigorously enforced. The U.S. government has strict laws regulating the movement of certain commodities to prevent the establishment of oriental fruit flies into the continental U.S. The Japanese government restricts the entry of untreated hosts of this pest into their country.
+BIOLOGY
+Development from egg to adult takes about 16 days in Hawaii. Developmental periods may be extended considerably by cool weather.
+EGGS
+Female flies insert eggs under the skin of fruit in clusters of 10 to 50 about 1/25 to 1/8 inch below the fruit surface. The eggs measure about 1/25 by 1/250 inch and are white, elongate, and elliptical. They hatch in 1-1/2 days.
+LARVAE
+The white larva is legless, and resemble an elongated cone. The mouth is at the pointed end of the body. There are 3 larval stages, or instars. The third instar is about 2/5 inch long. The entire larval stage lasts for 11-15 days.
+PUPAE
+When mature, larvae drop to the ground and pupate in the soil. The
+Text Len: 1745
+--------------------------------------------------------------------------------
+ larva is legless, and resemble an elongated cone. The mouth is at the pointed end of the body. There are 3 larval stages, or instars. The third instar is about 2/5 inch long. The entire larval stage lasts for 11-15 days.
+PUPAE
+When mature, larvae drop to the ground and pupate in the soil. The puparium is yellowish-brown and seed-like. Adults emerge in about 10 days.
+ADULTS
+The color of the fly is highly variable but mostly yellow with dark markings on the thorax and abdomen. Generally, the abdomen has two horizontal black stripes and a longitudinal median stripe extending from the base of the third segment to the apex of the abdomen. These markings may form a "T" shaped pattern, but the pattern varies considerably.
+Females begin to lay eggs about 8 days after emergence from the puparium. Under optimum conditions, a female can lay more than 3,000 eggs during her lifetime, but under field conditions approximately 1,200 to 1,500 eggs per female is considered to be the usual production. Ripe fruit are preferred for egg laying, but immature ones may be also attacked.
+Adult flies live for many months (Steiner, 1957).
+BEHAVIOR
+Emerging adults crawl up through the soil, usually at an angle. Although they have been reported crawling up from greater depths, the adult usually doesn't have to emerge from a depth greater than 1 to 2 inches. Most flies emerge between 7:00 and 10:00 A.M., this period may be extended with overcast skies, rain or low temperatures but rarely goes into mid-afternoon (Christenson and Foote, 1960).
+Adult flies primarily feed during the morning hours. They search for food in all types of vegetation, including low cover plants and shrubs, and may travel to areas where host plants do not occur (Christenson and Foote,
+Text Len: 1757
+--------------------------------------------------------------------------------
+.M., this period may be extended with overcast skies, rain or low temperatures but rarely goes into mid-afternoon (Christenson and Foote, 1960).
+Adult flies primarily feed during the morning hours. They search for food in all types of vegetation, including low cover plants and shrubs, and may travel to areas where host plants do not occur (Christenson and Foote, 1960). Without food, flies die within three days at an average temperature of 80û F (Christenson and Foote, 1960).
+Like other fruit fly species, the oriental fruit fly prefers to deposits its eggs in old egg deposition lesions (Newell and Haramoto, 1968) and in ripened fruit (Steiner, 1957).
+These flies are good fliers and marked sterile males have been recovered up to 24 miles away from their release point (Steiner, 1957). These flies are very transient throughout their life (Steiner, 1957).
+MANAGEMENT
+In conjunction with the post-harvest quarantine treatments, it is helpful to apply pre-harvest management practices to reduce fruit fly populations. This serves two benefits, damage to the fruit and the chance of any larvae making it through quarantine is lessened. Since the discovery of the oriental fruit fly in Hawaii a number of methods have been employed in attempts to reduce or prevent damage by this pest. They include: 1) mechanical control, 2) cultural control, 3) biological control, 4) post-harvest quarantine treatments and 5) chemical control.
+Mechanical Control
+Mechanical methods of controlling the oriental fruit fly include the use of protective coverings on the fruit and the destruction of adults by use of traps. Shrubs within 100 yards of larval hosts may be used advantageously in placing traps. The use of protective coverings is more effective and costly than the use of traps.
+Cultural Control
+There are three principal cultural methods that may be used for controlling this pest.
+Text Len: 1881
+--------------------------------------------------------------------------------
+ oriental fruit fly include the use of protective coverings on the fruit and the destruction of adults by use of traps. Shrubs within 100 yards of larval hosts may be used advantageously in placing traps. The use of protective coverings is more effective and costly than the use of traps.
+Cultural Control
+There are three principal cultural methods that may be used for controlling this pest. These methods are: 1) field sanitation, 2) trap crops and 3)resistant varieties.
+Of utmost importance and effectiveness is field sanitation. This practice reduces reinfestation pressure. All unmarketable and infested fruits must be destroyed. Crops should be plowed and disked under as soon as harvest has been completed.
+Liquido (1990) reported that papaya fruits left on the ground serve as a major breeding site and reservoir of resident melon fly populations. He also reported that the number of adults in the orchard had a higher significant correlation with the percent infestation in fruits on the ground than the percent infestation in tree fruits. Although this study concerned melon fly infestation, similar results would be expected for the oriental fruit fly since the density of oriental fruit fly in papaya is much greater than that of melon fly (Liquido and Cunningham, 1990). This information further supports the importance of removing fallen fruit for the management of fruit fly populations in papaya orchards.
+They suggested that preharvest control measures such as field sanitation could enhance the quality of marketable fruit by allowing the use of less damaging schedules of post harvest quarantine treatments. For example, vapor heat, dry heat, hot water double dip or a combination of these treatments) could be applied at lower kill temperatures or shorter treatment durations (Liquido, 1990; Liquido, et. al., 1989; Liquido and Cunnigham, 1990).
+Biological Control
+Thirty-two species and varieties of natural enemies to fruit flies were introduced to Hawaii between 1947
+Text Len: 1991
+--------------------------------------------------------------------------------
+. For example, vapor heat, dry heat, hot water double dip or a combination of these treatments) could be applied at lower kill temperatures or shorter treatment durations (Liquido, 1990; Liquido, et. al., 1989; Liquido and Cunnigham, 1990).
+Biological Control
+Thirty-two species and varieties of natural enemies to fruit flies were introduced to Hawaii between 1947 and 1952 to control the fruit flies (Bess, et. al., 1961). Of these natural enemies, one predator and 13 parasites were specific for the oriental fruit fly (van den Bosch, et. al., 1951). These parasites lay their eggs in the eggs or maggots of fruit flies and emerge in the pupal stage. Only three, Opius longicaudatus var. malaiaensis (Fullaway), O. vandenboschi (Fullaway), and O. oophilus (Fullaway), have become abundantly established (Hardy and Delfinado, 1980). These parasites are primarily effective on the oriental and Mediterranean fruit flies in cultivated crops. O. longicaudatus is a parasite of the second and third instar fruit fly larvae; O. vandenboschi is a parasite of the first instar fruit larvae; and O. oophilus is an egg-larval parasite (van den Bosch and Haramoto, 1953). O. longicaudatus females are commonly seen on over-ripe fruits on the ground and ripe fruits on the trees where O. oophilus females are primarily associated with fruits on the trees (van den Bosch, et. al., 1951).
+The pathogen, Nosema tephritidae (Fujii and Tamashiro), a microspordian ingested by mouth, also attacks this fly (Fujii and Tamashiro, 1972). Diseased larvae and pupae appear normal externally (Fujii and Tamashiro, 1972). Symptoms
+Text Len: 1608
+--------------------------------------------------------------------------------
+ on the trees (van den Bosch, et. al., 1951).
+The pathogen, Nosema tephritidae (Fujii and Tamashiro), a microspordian ingested by mouth, also attacks this fly (Fujii and Tamashiro, 1972). Diseased larvae and pupae appear normal externally (Fujii and Tamashiro, 1972). Symptoms are not easily detected until the adult stage when infected individuals are sluggish, have dropping wings and distended abdomen, and poor to no flying ability. Death primarily occurs during late pupation. This pathogen also affects the melon fly, Bactrocera cucurbitae, and the Mediterranean fruit fly, Ceratitis capitata (Fujii and Tamashiro, 1972).
+Post-Harvest Quarantine Control
+The current quarantine treatment for papaya grown in Hawaii for distribution to the US mainland requires careful fruit selection and a two-stage hot- water immersion treatment called the "double dip" method (APHIS, 1988; Liquido and Cunningham, 1990). The double dip method involves the treatment of less than quarter-ripe fruits for an initial immersion for 30 minutes in 107.6ûF (42ûC) water followed immediately by a second hot water immersion at 120.2ûF (49ûC) for 20 minutes (Liquido and Cunningham, 1990).
+On bananas, Armstrong (1983) states that quarantine treatments would not be necessary for export to the US mainland or elsewhere if only mature green fruit is harvested and only bananas in early ripeness stages are processed and packaged for market.
+CHEMICAL CONTROL
+The chemicals used for oriental fruit fly control have been used as 1) toxicants in baits and 2) sprays.
+Insecticide bait sprays are applied either to the crops to be protected, to the plants with which the adults are closely associated, or to both.
+Proteinaceous liquid attractants in
+Text Len: 1724
+--------------------------------------------------------------------------------
+ stages are processed and packaged for market.
+CHEMICAL CONTROL
+The chemicals used for oriental fruit fly control have been used as 1) toxicants in baits and 2) sprays.
+Insecticide bait sprays are applied either to the crops to be protected, to the plants with which the adults are closely associated, or to both.
+Proteinaceous liquid attractants in insecticide sprays is a recommended method of controlling adult Oriental fruit fly populations in the vicinity of crops. The bait insecticide sprays are applied to broad leaf plants that serve as refugia for Oriental fruit fly adults. Baits serve to encourage the adults (especially females) to feed on the spray residue and can provide good rates of kill. To be effective, bait-insecticide sprays must be used in combination with good sanitation practices. These practices include destruction of unmarketable fruit on every harvest date, and destruction of crop residues immediately after economic harvest has been completed.
+There is no listing for Nu-Lure as of April 2007.
+Because of the habits of the oriental fruit fly, quick acting toxicants with good residual effectiveness are good for preventing oviposition within a treated area (Steiner, 1957). Insecticides without residual actions are better for isolated populations where there are no new immigrant flies.
+Larvae are difficult to chemically control since they are protected within the fruit (Tamashiro and Sherman, 1955). However, with correct timing, the last larval stage may be targeted when it leaves the fruit and drops to the ground to pupate with soil toxicants.
+The use of chemicals for the control of fruit flies on avocado can be reduced by combining chemical treatments with a cold storage period (at 46û and 55û F) of 5 days after harvest to kill fruit fly eggs and some larvae (Manoto and Mitchell, 1976). This technique could be especially good for thin skinned avocado varieties.
+REFERENCES
+Arm
+Text Len: 1924
+--------------------------------------------------------------------------------
+ with soil toxicants.
+The use of chemicals for the control of fruit flies on avocado can be reduced by combining chemical treatments with a cold storage period (at 46û and 55û F) of 5 days after harvest to kill fruit fly eggs and some larvae (Manoto and Mitchell, 1976). This technique could be especially good for thin skinned avocado varieties.
+REFERENCES
+Armstrong, J. W. 1983. Infestation Biology of Three Fruit Fly (Diptera: Tephritidae) Species on 'Brazilian,' 'Valery,' and William's' Cultivars of Banana in Hawaii. J. Econ. Entomol. 76(3): 539-543.
+APHIS (Animal and Plant Health Inspection Service). 1988. Schedules for fruits, nuts and vegetables, Section VI-T102. Plant Protection and Quarantine Treatment Manual. USDA, Hyattsville, Md.
+Bess, H. A., R. van den Bosch and F. H. Haramoto. 1961. Fruit Fly Parasites and Their Activities in Hawaii. Proc. Hawaiian Entomol. Soc. 17(3): 367-378.
+Christenson, L. D. and R. H. Foote. 1960. Biology of Fruit Flies. Ann. Rev. Entomol. 5: 171-192.
+Fujii, J. K. and M. Tamashiro. 1972. Nosema tephritidae sp. N., a Microsporodian Pathogen of the Oriental Fruit Fly, Dacus dorsalis Hendel. Proc. Hawaii. Ent. Soc. 21(2): 191-203.
+Fullaway, D. T. Note. Proc. Hawaii. Ent. Soc. 13:8.
+Hardy, D. E. and M. D. Delfinado. 1980. Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands
+Text Len: 1336
+--------------------------------------------------------------------------------
+, Dacus dorsalis Hendel. Proc. Hawaii. Ent. Soc. 21(2): 191-203.
+Fullaway, D. T. Note. Proc. Hawaii. Ent. Soc. 13:8.
+Hardy, D. E. and M. D. Delfinado. 1980. Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including an Enumeration of the Species and Notes on Their Origin Distribution, Hosts, Parasites, etc. Volume 13., Diptera: Cyclorrhapha III. The University Press of Hawaii: Honolulu. 451 pages.
+Heppner, J. B. 1988. Larvae of Fruit Flies. IV. Dacus dorsalis (Oriental Fruit Fly) (Diptera: Tephritidae). Entomology Circular No. 303. Fla. Dept. Agric. and Consumer Serv. Division of Plant Industry.
+Liquido, N. J. 1990. Sanitation as a Cultural Method of Suppressing Melon Fly Population in Papaya Orchards. In: Proceedings: 26th Annual Hawaii Papaya Industry Association Conference. University of Hawaii, CTAHR. 78 pages.
+Liquido, N. J. and R. T. Cunningham. 1990. Colorimetry of Papaya Fruits as an Index of Infestation Rates of Oriental Fruit Fly and Melon Fly (Diptera; Tephritidae). J. Econ. Entomol. 83: 476-484.
+Liquido, N. J., R. T. Cunningham and H. M. Couey. 1989. Infestation Rates of Papaya by Fruit Flies (Diptera: Tephritidae) in Relation to the Degree of Fruit Ripeness. J. Econ. Entomol. 82: 213-219.
+Marsden, D. A. 1979. No. 9 Melon Fly,
+Text Len: 1277
+--------------------------------------------------------------------------------
+ J., R. T. Cunningham and H. M. Couey. 1989. Infestation Rates of Papaya by Fruit Flies (Diptera: Tephritidae) in Relation to the Degree of Fruit Ripeness. J. Econ. Entomol. 82: 213-219.
+Marsden, D. A. 1979. No. 9 Melon Fly, Oriental Fruit Fly, Mediterranean Fruit Fly. Insect Pest Series, Cooperative Extension Service, College of Tropical Agriculture & Human Resources. University of Hawaii.
+Manoto, E. C. and W. C. Mitchell. 1976. Effect of Temperature and Fruit Ripeness on the Development of Oriental Fruit fly Larvae (Dacus dorsalis) in Avocado. Proc. Hawaiian Entomol. Soc. 22(2): 323-328.
+Newell, I. M. and F. H. Haramoto. 1968. Biotic Factors Influencing Populations of Dacus dorsalis in Hawaii. Proc. Hawaiian Entomol. Soc. 20(1): 81-139.
+Steiner, L. F. 1957. Field Evaluation of Oriental Fruit Fly Insecticides in Hawaii. J. Econ. Ent. 50: 16-24.
+Tamashiro, M. and M. Sherman. 1955. Direct and Latent Toxicity of Insecticides to Oriental Fruit Fly Larvae and Their Internal Parasites. J. Econ. Ent. 48: 75-79.
+van den Bosch, R., H. A. Bess and F. H. Haramoto, 1951. Status of Oriental Fruit Fly Parasites in Hawaii. J. Econ. Ent. 44: 753-759.
+van den Bosch, R. and F. H. Haramoto. 1953. Competition Among Parasites of the Oriental Fruit Fly. Proc. Hawaiian Entomol. Soc. 15(1): 201-206.
+Weems, H.
+Text Len: 1307
+--------------------------------------------------------------------------------
+ Haramoto, 1951. Status of Oriental Fruit Fly Parasites in Hawaii. J. Econ. Ent. 44: 753-759.
+van den Bosch, R. and F. H. Haramoto. 1953. Competition Among Parasites of the Oriental Fruit Fly. Proc. Hawaiian Entomol. Soc. 15(1): 201-206.
+Weems, H. V. 1964. Oriental Fruit Fly (Dacus dorsalis Hendel) (Diptera: Tephritidae). Entomology Circular No. 21. Fla. Dept. of Agr. Div. of Plant Industry.
+  NOV/1992.
+  B-DORSAL
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 477
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Bactrocera dorsalis (Hendel)
+Oriental Fruit Fly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Matin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The oriental fruit fly attacks over 300 cultivated and wild fruits including Annona (cherimoya, atemoya, sugar apple), avocado, banana, bittermelon, citrus, coffee, guava, macadamia, mango, papaya, passion fruit, peppers, persimmon, and tomato. This pest will apparently breed in all fleshy fruits. On Oahu it is estimated that 95% of the oriental fruit flies develop on guava, Psidium guajava L. (Newell and Haramoto, 1968). It does not attack cucurbit crops such as cucumber and squash.
+DISTRIBUTION
+The oriental fruit fly, originally described from Taiwan, is one of the most destructive fruit fly pests of east Asia and the Pacific. It is second only to the Mediterranean fruit fly. Its distribution range includes Pakistan and India to southern Japan, Indonesia to Micronesia, and the Mariana Islands and Hawaii. Recent outbreaks have occurred in southern California and Florida. Accidentally introduced into Hawaii in 1944 or 1945 (Fullaway, 1947), this pest is currently present on all major Hawaiian islands. It is primarily found in the lowland areas of Hawaii.
+DAMAGE
+The damage to crops caused by oriental fruit flies result from 1) oviposition in fruit and soft tissues of vegetative parts of certain plants, 2) feeding by the larvae, and 3) decomposition of plant tissue by invading secondary microorganisms.
+Larval feeding in fruits is the most damaging. Damage usually consists
+Text Len: 1694
+--------------------------------------------------------------------------------
+ found in the lowland areas of Hawaii.
+DAMAGE
+The damage to crops caused by oriental fruit flies result from 1) oviposition in fruit and soft tissues of vegetative parts of certain plants, 2) feeding by the larvae, and 3) decomposition of plant tissue by invading secondary microorganisms.
+Larval feeding in fruits is the most damaging. Damage usually consists of breakdown of tissues and internal rotting associated with maggot infestation, but this varies with the type of fruit attacked (Steiner, 1957). Infested young fruit becomes distorted, callused and usually drop; mature attacked fruits develop a water soaked appearance. The larval tunnels provide entry points for bacteria and fungi that cause the fruit to rot. When only a few larvae develop, damage consists of an unsightly appearance and reduced marketability because of the egg laying punctures or tissue break down due to the decay (Steiner, 1957).
+On papaya, the oriental fruit fly is the primary pest in Hawaii. The other fruit flies, the Mediterranean fruit fly and the melon fly, are infrequently found in papaya. The solanaceous fruit fly, Dacus latifrons (Hendel), does not attack papaya (Liquido and Cunningham, 1990). Infestation rates in papaya by fruit flies increases with ripeness of the fruits (Liquido and Cunningham, 1990). Although the actual injury on papaya by fruit flies is relatively low, these flies are considered a major pest of papaya in terms of exporting from Hawaii to the US Mainland and Japan. It is necessary to treat the papaya fruits with post-harvest treatments to meet phytosanitary regulations.
+On banana cultivars 'Brazilian,' 'Valery' and 'William's', oriental fruit fly eggs and larvae develop in fruit at the later stages of ripeness only. Banana is not a host for the oriental fruit fly when the bananas are unripe
+Text Len: 1822
+--------------------------------------------------------------------------------
+. It is necessary to treat the papaya fruits with post-harvest treatments to meet phytosanitary regulations.
+On banana cultivars 'Brazilian,' 'Valery' and 'William's', oriental fruit fly eggs and larvae develop in fruit at the later stages of ripeness only. Banana is not a host for the oriental fruit fly when the bananas are unripe and attached to the banana plant. Unripe bananas up to 3 to 4 days post harvest are also free of fruit flies (Armstrong, 1983).
+The economic importance of the oriental fruit fly cannot be evaluated entirely from the standpoint of the actual damage to the various crops affected. It must also be considered from the standpoint of quarantine.
+Quarantine regulations to prevent establishment of oriental fruit flies in areas where it does not occur are vigorously enforced. The U.S. government has strict laws regulating the movement of certain commodities to prevent the establishment of oriental fruit flies into the continental U.S. The Japanese government restricts the entry of untreated hosts of this pest into their country.
+BIOLOGY
+Development from egg to adult takes about 16 days in Hawaii. Developmental periods may be extended considerably by cool weather.
+EGGS
+Female flies insert eggs under the skin of fruit in clusters of 10 to 50 about 1/25 to 1/8 inch below the fruit surface. The eggs measure about 1/25 by 1/250 inch and are white, elongate, and elliptical. They hatch in 1-1/2 days.
+LARVAE
+The white larva is legless, and resemble an elongated cone. The mouth is at the pointed end of the body. There are 3 larval stages, or instars. The third instar is about 2/5 inch long. The entire larval stage lasts for 11-15 days.
+PUPAE
+When mature, larvae drop to the ground and pupate in the soil. The
+Text Len: 1745
+--------------------------------------------------------------------------------
+ larva is legless, and resemble an elongated cone. The mouth is at the pointed end of the body. There are 3 larval stages, or instars. The third instar is about 2/5 inch long. The entire larval stage lasts for 11-15 days.
+PUPAE
+When mature, larvae drop to the ground and pupate in the soil. The puparium is yellowish-brown and seed-like. Adults emerge in about 10 days.
+ADULTS
+The color of the fly is highly variable but mostly yellow with dark markings on the thorax and abdomen. Generally, the abdomen has two horizontal black stripes and a longitudinal median stripe extending from the base of the third segment to the apex of the abdomen. These markings may form a "T" shaped pattern, but the pattern varies considerably.
+Females begin to lay eggs about 8 days after emergence from the puparium. Under optimum conditions, a female can lay more than 3,000 eggs during her lifetime, but under field conditions approximately 1,200 to 1,500 eggs per female is considered to be the usual production. Ripe fruit are preferred for egg laying, but immature ones may be also attacked.
+Adult flies live for many months (Steiner, 1957).
+BEHAVIOR
+Emerging adults crawl up through the soil, usually at an angle. Although they have been reported crawling up from greater depths, the adult usually doesn't have to emerge from a depth greater than 1 to 2 inches. Most flies emerge between 7:00 and 10:00 A.M., this period may be extended with overcast skies, rain or low temperatures but rarely goes into mid-afternoon (Christenson and Foote, 1960).
+Adult flies primarily feed during the morning hours. They search for food in all types of vegetation, including low cover plants and shrubs, and may travel to areas where host plants do not occur (Christenson and Foote,
+Text Len: 1757
+--------------------------------------------------------------------------------
+.M., this period may be extended with overcast skies, rain or low temperatures but rarely goes into mid-afternoon (Christenson and Foote, 1960).
+Adult flies primarily feed during the morning hours. They search for food in all types of vegetation, including low cover plants and shrubs, and may travel to areas where host plants do not occur (Christenson and Foote, 1960). Without food, flies die within three days at an average temperature of 80û F (Christenson and Foote, 1960).
+Like other fruit fly species, the oriental fruit fly prefers to deposits its eggs in old egg deposition lesions (Newell and Haramoto, 1968) and in ripened fruit (Steiner, 1957).
+These flies are good fliers and marked sterile males have been recovered up to 24 miles away from their release point (Steiner, 1957). These flies are very transient throughout their life (Steiner, 1957).
+MANAGEMENT
+In conjunction with the post-harvest quarantine treatments, it is helpful to apply pre-harvest management practices to reduce fruit fly populations. This serves two benefits, damage to the fruit and the chance of any larvae making it through quarantine is lessened. Since the discovery of the oriental fruit fly in Hawaii a number of methods have been employed in attempts to reduce or prevent damage by this pest. They include: 1) mechanical control, 2) cultural control, 3) biological control, 4) post-harvest quarantine treatments and 5) chemical control.
+Mechanical Control
+Mechanical methods of controlling the oriental fruit fly include the use of protective coverings on the fruit and the destruction of adults by use of traps. Shrubs within 100 yards of larval hosts may be used advantageously in placing traps. The use of protective coverings is more effective and costly than the use of traps.
+Cultural Control
+There are three principal cultural methods that may be used for controlling this pest.
+Text Len: 1881
+--------------------------------------------------------------------------------
+ oriental fruit fly include the use of protective coverings on the fruit and the destruction of adults by use of traps. Shrubs within 100 yards of larval hosts may be used advantageously in placing traps. The use of protective coverings is more effective and costly than the use of traps.
+Cultural Control
+There are three principal cultural methods that may be used for controlling this pest. These methods are: 1) field sanitation, 2) trap crops and 3)resistant varieties.
+Of utmost importance and effectiveness is field sanitation. This practice reduces reinfestation pressure. All unmarketable and infested fruits must be destroyed. Crops should be plowed and disked under as soon as harvest has been completed.
+Liquido (1990) reported that papaya fruits left on the ground serve as a major breeding site and reservoir of resident melon fly populations. He also reported that the number of adults in the orchard had a higher significant correlation with the percent infestation in fruits on the ground than the percent infestation in tree fruits. Although this study concerned melon fly infestation, similar results would be expected for the oriental fruit fly since the density of oriental fruit fly in papaya is much greater than that of melon fly (Liquido and Cunningham, 1990). This information further supports the importance of removing fallen fruit for the management of fruit fly populations in papaya orchards.
+They suggested that preharvest control measures such as field sanitation could enhance the quality of marketable fruit by allowing the use of less damaging schedules of post harvest quarantine treatments. For example, vapor heat, dry heat, hot water double dip or a combination of these treatments) could be applied at lower kill temperatures or shorter treatment durations (Liquido, 1990; Liquido, et. al., 1989; Liquido and Cunnigham, 1990).
+Biological Control
+Thirty-two species and varieties of natural enemies to fruit flies were introduced to Hawaii between 1947
+Text Len: 1991
+--------------------------------------------------------------------------------
+. For example, vapor heat, dry heat, hot water double dip or a combination of these treatments) could be applied at lower kill temperatures or shorter treatment durations (Liquido, 1990; Liquido, et. al., 1989; Liquido and Cunnigham, 1990).
+Biological Control
+Thirty-two species and varieties of natural enemies to fruit flies were introduced to Hawaii between 1947 and 1952 to control the fruit flies (Bess, et. al., 1961). Of these natural enemies, one predator and 13 parasites were specific for the oriental fruit fly (van den Bosch, et. al., 1951). These parasites lay their eggs in the eggs or maggots of fruit flies and emerge in the pupal stage. Only three, Opius longicaudatus var. malaiaensis (Fullaway), O. vandenboschi (Fullaway), and O. oophilus (Fullaway), have become abundantly established (Hardy and Delfinado, 1980). These parasites are primarily effective on the oriental and Mediterranean fruit flies in cultivated crops. O. longicaudatus is a parasite of the second and third instar fruit fly larvae; O. vandenboschi is a parasite of the first instar fruit larvae; and O. oophilus is an egg-larval parasite (van den Bosch and Haramoto, 1953). O. longicaudatus females are commonly seen on over-ripe fruits on the ground and ripe fruits on the trees where O. oophilus females are primarily associated with fruits on the trees (van den Bosch, et. al., 1951).
+The pathogen, Nosema tephritidae (Fujii and Tamashiro), a microspordian ingested by mouth, also attacks this fly (Fujii and Tamashiro, 1972). Diseased larvae and pupae appear normal externally (Fujii and Tamashiro, 1972). Symptoms
+Text Len: 1608
+--------------------------------------------------------------------------------
+ on the trees (van den Bosch, et. al., 1951).
+The pathogen, Nosema tephritidae (Fujii and Tamashiro), a microspordian ingested by mouth, also attacks this fly (Fujii and Tamashiro, 1972). Diseased larvae and pupae appear normal externally (Fujii and Tamashiro, 1972). Symptoms are not easily detected until the adult stage when infected individuals are sluggish, have dropping wings and distended abdomen, and poor to no flying ability. Death primarily occurs during late pupation. This pathogen also affects the melon fly, Bactrocera cucurbitae, and the Mediterranean fruit fly, Ceratitis capitata (Fujii and Tamashiro, 1972).
+Post-Harvest Quarantine Control
+The current quarantine treatment for papaya grown in Hawaii for distribution to the US mainland requires careful fruit selection and a two-stage hot- water immersion treatment called the "double dip" method (APHIS, 1988; Liquido and Cunningham, 1990). The double dip method involves the treatment of less than quarter-ripe fruits for an initial immersion for 30 minutes in 107.6ûF (42ûC) water followed immediately by a second hot water immersion at 120.2ûF (49ûC) for 20 minutes (Liquido and Cunningham, 1990).
+On bananas, Armstrong (1983) states that quarantine treatments would not be necessary for export to the US mainland or elsewhere if only mature green fruit is harvested and only bananas in early ripeness stages are processed and packaged for market.
+CHEMICAL CONTROL
+The chemicals used for oriental fruit fly control have been used as 1) toxicants in baits and 2) sprays.
+Insecticide bait sprays are applied either to the crops to be protected, to the plants with which the adults are closely associated, or to both.
+Proteinaceous liquid attractants in
+Text Len: 1724
+--------------------------------------------------------------------------------
+ stages are processed and packaged for market.
+CHEMICAL CONTROL
+The chemicals used for oriental fruit fly control have been used as 1) toxicants in baits and 2) sprays.
+Insecticide bait sprays are applied either to the crops to be protected, to the plants with which the adults are closely associated, or to both.
+Proteinaceous liquid attractants in insecticide sprays is a recommended method of controlling adult Oriental fruit fly populations in the vicinity of crops. The bait insecticide sprays are applied to broad leaf plants that serve as refugia for Oriental fruit fly adults. Baits serve to encourage the adults (especially females) to feed on the spray residue and can provide good rates of kill. To be effective, bait-insecticide sprays must be used in combination with good sanitation practices. These practices include destruction of unmarketable fruit on every harvest date, and destruction of crop residues immediately after economic harvest has been completed.
+There is no listing for Nu-Lure as of April 2007.
+Because of the habits of the oriental fruit fly, quick acting toxicants with good residual effectiveness are good for preventing oviposition within a treated area (Steiner, 1957). Insecticides without residual actions are better for isolated populations where there are no new immigrant flies.
+Larvae are difficult to chemically control since they are protected within the fruit (Tamashiro and Sherman, 1955). However, with correct timing, the last larval stage may be targeted when it leaves the fruit and drops to the ground to pupate with soil toxicants.
+The use of chemicals for the control of fruit flies on avocado can be reduced by combining chemical treatments with a cold storage period (at 46û and 55û F) of 5 days after harvest to kill fruit fly eggs and some larvae (Manoto and Mitchell, 1976). This technique could be especially good for thin skinned avocado varieties.
+REFERENCES
+Arm
+Text Len: 1924
+--------------------------------------------------------------------------------
+ with soil toxicants.
+The use of chemicals for the control of fruit flies on avocado can be reduced by combining chemical treatments with a cold storage period (at 46û and 55û F) of 5 days after harvest to kill fruit fly eggs and some larvae (Manoto and Mitchell, 1976). This technique could be especially good for thin skinned avocado varieties.
+REFERENCES
+Armstrong, J. W. 1983. Infestation Biology of Three Fruit Fly (Diptera: Tephritidae) Species on 'Brazilian,' 'Valery,' and William's' Cultivars of Banana in Hawaii. J. Econ. Entomol. 76(3): 539-543.
+APHIS (Animal and Plant Health Inspection Service). 1988. Schedules for fruits, nuts and vegetables, Section VI-T102. Plant Protection and Quarantine Treatment Manual. USDA, Hyattsville, Md.
+Bess, H. A., R. van den Bosch and F. H. Haramoto. 1961. Fruit Fly Parasites and Their Activities in Hawaii. Proc. Hawaiian Entomol. Soc. 17(3): 367-378.
+Christenson, L. D. and R. H. Foote. 1960. Biology of Fruit Flies. Ann. Rev. Entomol. 5: 171-192.
+Fujii, J. K. and M. Tamashiro. 1972. Nosema tephritidae sp. N., a Microsporodian Pathogen of the Oriental Fruit Fly, Dacus dorsalis Hendel. Proc. Hawaii. Ent. Soc. 21(2): 191-203.
+Fullaway, D. T. Note. Proc. Hawaii. Ent. Soc. 13:8.
+Hardy, D. E. and M. D. Delfinado. 1980. Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands
+Text Len: 1336
+--------------------------------------------------------------------------------
+, Dacus dorsalis Hendel. Proc. Hawaii. Ent. Soc. 21(2): 191-203.
+Fullaway, D. T. Note. Proc. Hawaii. Ent. Soc. 13:8.
+Hardy, D. E. and M. D. Delfinado. 1980. Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including an Enumeration of the Species and Notes on Their Origin Distribution, Hosts, Parasites, etc. Volume 13., Diptera: Cyclorrhapha III. The University Press of Hawaii: Honolulu. 451 pages.
+Heppner, J. B. 1988. Larvae of Fruit Flies. IV. Dacus dorsalis (Oriental Fruit Fly) (Diptera: Tephritidae). Entomology Circular No. 303. Fla. Dept. Agric. and Consumer Serv. Division of Plant Industry.
+Liquido, N. J. 1990. Sanitation as a Cultural Method of Suppressing Melon Fly Population in Papaya Orchards. In: Proceedings: 26th Annual Hawaii Papaya Industry Association Conference. University of Hawaii, CTAHR. 78 pages.
+Liquido, N. J. and R. T. Cunningham. 1990. Colorimetry of Papaya Fruits as an Index of Infestation Rates of Oriental Fruit Fly and Melon Fly (Diptera; Tephritidae). J. Econ. Entomol. 83: 476-484.
+Liquido, N. J., R. T. Cunningham and H. M. Couey. 1989. Infestation Rates of Papaya by Fruit Flies (Diptera: Tephritidae) in Relation to the Degree of Fruit Ripeness. J. Econ. Entomol. 82: 213-219.
+Marsden, D. A. 1979. No. 9 Melon Fly,
+Text Len: 1277
+--------------------------------------------------------------------------------
+ J., R. T. Cunningham and H. M. Couey. 1989. Infestation Rates of Papaya by Fruit Flies (Diptera: Tephritidae) in Relation to the Degree of Fruit Ripeness. J. Econ. Entomol. 82: 213-219.
+Marsden, D. A. 1979. No. 9 Melon Fly, Oriental Fruit Fly, Mediterranean Fruit Fly. Insect Pest Series, Cooperative Extension Service, College of Tropical Agriculture & Human Resources. University of Hawaii.
+Manoto, E. C. and W. C. Mitchell. 1976. Effect of Temperature and Fruit Ripeness on the Development of Oriental Fruit fly Larvae (Dacus dorsalis) in Avocado. Proc. Hawaiian Entomol. Soc. 22(2): 323-328.
+Newell, I. M. and F. H. Haramoto. 1968. Biotic Factors Influencing Populations of Dacus dorsalis in Hawaii. Proc. Hawaiian Entomol. Soc. 20(1): 81-139.
+Steiner, L. F. 1957. Field Evaluation of Oriental Fruit Fly Insecticides in Hawaii. J. Econ. Ent. 50: 16-24.
+Tamashiro, M. and M. Sherman. 1955. Direct and Latent Toxicity of Insecticides to Oriental Fruit Fly Larvae and Their Internal Parasites. J. Econ. Ent. 48: 75-79.
+van den Bosch, R., H. A. Bess and F. H. Haramoto, 1951. Status of Oriental Fruit Fly Parasites in Hawaii. J. Econ. Ent. 44: 753-759.
+van den Bosch, R. and F. H. Haramoto. 1953. Competition Among Parasites of the Oriental Fruit Fly. Proc. Hawaiian Entomol. Soc. 15(1): 201-206.
+Weems, H.
+Text Len: 1307
+--------------------------------------------------------------------------------
+ Haramoto, 1951. Status of Oriental Fruit Fly Parasites in Hawaii. J. Econ. Ent. 44: 753-759.
+van den Bosch, R. and F. H. Haramoto. 1953. Competition Among Parasites of the Oriental Fruit Fly. Proc. Hawaiian Entomol. Soc. 15(1): 201-206.
+Weems, H. V. 1964. Oriental Fruit Fly (Dacus dorsalis Hendel) (Diptera: Tephritidae). Entomology Circular No. 21. Fla. Dept. of Agr. Div. of Plant Industry.
+  NOV/1992.
+  B-DORSAL
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 477
+--------------------------------------------------------------------------------

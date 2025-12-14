@@ -1,0 +1,2602 @@
+1 
+03/14/2022 
+ 
+Plan de vigilancia de la salud pública para los representantes de USDA/APHIS que responden a las 
+detecciones del virus de la influenza aviar en las aves de corral  
+ 
+Este documento proporciona orientación a las autoridades de salud pública locales, estatales y f ederales 
+sobre el monitoreo de personas potencialmente expuestas a los virus de la influenza aviar durante las 
+actividades de respuesta oficiales del Servicio de Inspección de Sanidad Animal y Vegetal (Agriculture 
+Animal and P lant Health Inspection Service, APHIS) del Departamento de Agricultura de los Estados 
+Unidos en los Estados Unidos. Las actividades de respuesta pueden incluir actividades de despoblación, 
+eliminación y limpieza y desinfección relacionadas con las aves afectadas o sus entornos, u otras 
+actividades que los Centros para el Control y la Prevención de Enfermedades (Centers for Disease 
+Control and Prevention, CDC) o APHIS consideren relacionadas con la respuesta. Los virus de la 
+influenza aviar de interés para la salud pública incluyen aquellos virus que se sabe que han causado 
+enfermedades graves en humanos, tales como el virus HPAI H5N1 de linaje euroasiático 
+A/goose/Guangd
+Text Len: 1198
+--------------------------------------------------------------------------------
+ virus de la 
+influenza aviar de interés para la salud pública incluyen aquellos virus que se sabe que han causado 
+enfermedades graves en humanos, tales como el virus HPAI H5N1 de linaje euroasiático 
+A/goose/Guangdong/1/96 (gs/GD) y el virus LPAI de linaje asiático y virus HPAI H7N9. Los virus de la 
+influenza aviar que son similares a los virus que se sabe que causan enfermedades graves en humanos 
+también son motivo de preocupación para la salud pública debido a su aparente potencial de causar 
+enfermedades graves en humanos. Estos incluyen los virus gs/GD HPAI H5 y LPAI y HPAI H7 de linaje 
+norteamericano asociados con brotes en aves de corral en los Estados Unidos entre 2014 y 2017. Se 
+puede determinar que otros virus de la influenza aviar son un problema de salud pública en función de 
+circunstancias específicas. 
+ 
+El propósito de este plan de monitoreo es facilitar la identificación oportuna de posibles infecciones 
+humanas con virus de la influenza aviar para garantizar que el personal expuesto reciba evaluación y 
+tratamiento médico inmediatos, si es necesario, y para evitar una
+Text Len: 1107
+--------------------------------------------------------------------------------
+ monitoreo es facilitar la identificación oportuna de posibles infecciones 
+humanas con virus de la influenza aviar para garantizar que el personal expuesto reciba evaluación y 
+tratamiento médico inmediatos, si es necesario, y para evitar una posible propagación secundaria. 
+ 
+Los CDC recomiendan ( https://www.cdc.gov/flu/avianflu/h5/infected-birds-exposure.htm) que todas 
+las personas expuestas a aves infectadas o ambientes contaminados por virus, con virus de influenza 
+aviar de interés para la salud pública, sean monitoreadas para detectar enfermedades durante 
+10 días después de su última exposición. Los departamentos de salud estatales deben notificar a los 
+CDC de inmediato cuando realicen pruebas a cualquier paciente en virtud de una investigación pa ra  
+detectar una infección por el virus de la influenza aviar. 
+ 
+Aunque este plan de monitoreo está dirigido a la personal que responde a brotes de influenza aviar, la 
+guía que contiene también se puede usar para monitorear a personas que no pertenecen al 
+Departamento de Agricultura de los Estados Unidos (Department of Agriculture of the United States, 
+USDA) o contrat istas pero que han estado expuestas a aves infect
+Text Len: 1194
+--------------------------------------------------------------------------------
+ contiene también se puede usar para monitorear a personas que no pertenecen al 
+Departamento de Agricultura de los Estados Unidos (Department of Agriculture of the United States, 
+USDA) o contrat istas pero que han estado expuestas a aves infectadas con virus de influenza aviar 
+(p. ej., trabajadores o residentes de granjas donde se han identificado virus de influenza aviar en aves). 
+Los departamentos de salud pública estatales y locales  deben identificar a las personas expuestas que 
+quedan fuera de la categoría de "personal que responde" y monitorearlas de acuerdo con la guía 
+contenida en este plan. Consulte las Secciones 1 a 6 y los Anexos 5 y 6 de este documento para obtener 
+orientación que puede ser apropiada para el personal que presta servicios de respuesta.  
+ 
+Tabla de contenido 
+Sección 1: Antecedentes y justificación para monitorear  a los representantes expuestos 
+Sección 2: Resumen del plan de seguimiento revisado  
+Sección 3: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta  
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensaj
+Text Len: 1189
+--------------------------------------------------------------------------------
+: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta  
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensajes de texto 
+Sección 6: Criterios para implementa r, suspender y restablecer el monitoreo 
+Anexo 1: Instrucciones de movilización (que se entregarán al personal de respuesta al comenzar las 
+actividades de respuesta) 
+ 
+1 Un representante de los servicios de respuesta del APHIS es cualquier empleado del APHIS calificado para ocupar un puesto de respuesta de emergencia 
+en apoyo a un incidente agrícola o de todo riesgo. 
+2 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán a 
+todos los oficiales de seguridad involucrados en las actividades de respuesta a la influenza aviar)  
+Anexo 3: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta)  
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+Anexo 5: Guía para eval
+Text Len: 1104
+--------------------------------------------------------------------------------
+: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta)  
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+Anexo 5: Guía para evaluar al personal de respuesta expuesto (departamentos de salud estatales y locales) 
+Anexo 6: Preguntas frecuentes (documento separado para los departamentos de salud estatales y locales, 
+previa solicitud)  
+ 
+Sección 1: Antecedentes y fundamentos para monitorear al personal expuesto 
+ 
+En respuesta a los grandes brotes en aves de corral del virus de la influenza aviar en los Estados Unidos 
+en 2014 y 2015, los CDC y el APHIS redactaron recomendaciones conjuntas de monitoreo para las 
+personas expuestas a aves de corral infectadas en los Estados Unidos. Dado que el riesgo de transmisión 
+de aves a humanos para estos virus no estaba claro, se redactaron recomendaciones estrictas de monitoreo 
+basadas en lo que se sabía sobre los virus H5 gs/GD HPAI de linaje euroasiático.  
+ 
+Estas recomendaciones requerían un monitoreo activo de las personas expuestas al virus. El monitoreo 
+activo significó que alguien contactó a c
+Text Len: 1147
+--------------------------------------------------------------------------------
+ que se sabía sobre los virus H5 gs/GD HPAI de linaje euroasiático.  
+ 
+Estas recomendaciones requerían un monitoreo activo de las personas expuestas al virus. El monitoreo 
+activo significó que alguien contactó a cada responsable del servicio de respuesta diariamente para 
+evaluar el estado de salud. Se recomendó el monitoreo tanto durante el período de exposición como 
+durante los 10 días posteriores a la última exposición para enfermedades definidas util izando una 
+definición amplia de enfermedades respiratorias o conjuntivitis. Se tomaron muestras de las personas 
+que estaban enfermas y se analizaron en el laboratorio de salud pública estatal utilizando el panel de 
+diagnóstico de RT-PCR en tiempo real del virus de la influenza humana de los CDC para su detección. 
+ 
+Además, las recomendaciones significaron que, en una amplia respuesta, se siguió a un gran número de 
+personas durante largos períodos, lo que requería muchos recursos. Como tal, las recomendacione s 
+actuales para monitorear al personal de respuesta posiblemente expuestos a los virus de la influenza aviar 
+en los Estados Unidos pueden ser demasiado estrictas. Después de varios a
+Text Len: 1165
+--------------------------------------------------------------------------------
+ lo que requería muchos recursos. Como tal, las recomendacione s 
+actuales para monitorear al personal de respuesta posiblemente expuestos a los virus de la influenza aviar 
+en los Estados Unidos pueden ser demasiado estrictas. Después de varios años de recopilar datos de 
+respuesta, los CDC y el APHIS revisaron los datos (incluidos los datos del personal de respuesta y las 
+pruebas de evaluación de riesgos para gs/GD HPAI H5 y los virus LPAI y HPAI H7 de linaje 
+norteamericano asociados con brotes en aves de corral en los Estados Unidos entre 2014 y 20172) y revisó 
+las recomendaciones de seguimiento en función de la mejor evidencia disponible (presentada para su 
+publicación). 
+ 
+Los resultados de los datos recopilados indicaron lo siguiente:  
+• Los datos existentes de la Herramienta de Evaluación de Riesgos de Influenza (Influenza Risk 
+Assessment Tool, IRAT) sugieren un riesgo bajo a moderado (ingrese a 
+https://www.cdc.gov/flu/pandemic-resources/monitoring/irat-virus-summaries.htm). 
+• No se detectaron infecciones humanas.  
+• El riesgo para el personal de respuesta fue bajo, aunque el poder para decir
+Text Len: 1125
+--------------------------------------------------------------------------------
+rese a 
+https://www.cdc.gov/flu/pandemic-resources/monitoring/irat-virus-summaries.htm). 
+• No se detectaron infecciones humanas.  
+• El riesgo para el personal de respuesta fue bajo, aunque el poder para decir esto con seguridad 
+varió según el año y el virus. 
+• La mayoría de los datos procedían de personal de respuesta que usaba equipo de protección 
+personal (EPP), lo que podría limitar la interpretación de los resultados.  
+Debido a estos hallazgos, el APHIS y los CDC los revisaron conjuntamente y determinaron que se podría 
+reanudar el monitoreo pasivo de personas que usan EPP y responden a ciertos virus H5 y H7 que no 
+tienen antecedentes de causar infecciones humanas, tanto durante la movilización como la 
+desmovilización, sustituyendo las recomendaciones anteriores para procedimientos de seguimiento activo 
+de estas personas.  
+2 Eurasia A/goose/Guangdong/1/1996 -lineage (gs/GD/96) virus HPAI H5N8 clado 2.3.4.4; reordenamientos de gs/GD/96 H5N8 con virus del linaje de 
+aves silvestres de Norteamérica (LPAI) (reordenamiento H5N
+Text Len: 1051
+--------------------------------------------------------------------------------
+1996 -lineage (gs/GD/96) virus HPAI H5N8 clado 2.3.4.4; reordenamientos de gs/GD/96 H5N8 con virus del linaje de 
+aves silvestres de Norteamérica (LPAI) (reordenamiento H5N2 y reordenamiento H5N1); linaje de aves silvestres de Norteamérica LPAI y virus HPAI 
+H7N8; y el virus LPAI y HPAI H7N9 del linaje de aves silvestres de Norteamérica 
+3 
+03/14/2022 
+ 
+Sección 2: Resumen del plan de seguimiento revisado 
+Las recomendaciones revisadas para el monitoreo basadas en la mejor evidencia disponible incluyen las 
+siguientes propuestas.  
+• Si se responde a un virus de la influenza aviar de interés para la salud pública no informado 
+anteriormente, las recomendaciones de monitoreo activo siguen siendo las mismas.  
+• Si responde a uno de los virus evaluados2, HPAI H5N8 y H5N2; LPAI y/o HPAI H7N8 o H7N9:  
+o Monitoreo activo de personas expuestas sin EPP o incumplimiento en el EPP usado (sin 
+cambios en la recomendación). 
+o Monitoreo pasivo de personas que
+Text Len: 963
+--------------------------------------------------------------------------------
+ LPAI y/o HPAI H7N8 o H7N9:  
+o Monitoreo activo de personas expuestas sin EPP o incumplimiento en el EPP usado (sin 
+cambios en la recomendación). 
+o Monitoreo pasivo de personas que usan EPP (cambiar la recomendación par a que el 
+personal de respuesta se autocontrole e informe cualquier enfermedad al funcionario de 
+seguridad [durante la respuesta] o a las autoridades de salud pública [10 días después de la 
+última exposición]). 
+o Las recomendaciones describen los factores para restablecer el monitoreo activo (p.  ej., 
+nueva evidencia genética o antigénica que sugiera un aumento en el riesgo de transmisión de 
+animal a humano). 
+De conformidad con el plan de vigilancia anterior y las recomendaciones revisadas, se mantendrán los 
+siguientes procedimientos.  
+• Tras la activación de la respuesta a la identificación del virus de la influenza aviar, el APHIS 
+proporcionará a todo el personal de respuesta del APHIS instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas compatibles con enfermedades 
+respiratorias o
+Text Len: 1089
+--------------------------------------------------------------------------------
+IS 
+proporcionará a todo el personal de respuesta del APHIS instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas compatibles con enfermedades 
+respiratorias o conjuntivitis, e instrucciones para informar los síntomas a los oficiales de seguridad del 
+APHIS de inmediato (Anexo 1). De manera similar, los funcionarios de Contratación o su designado 
+proporcionarán a todo el personal de respuesta contratado instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas consistentes con enfermedades 
+respiratorias o conjuntivitis, e instrucciones para informar los síntomas a sus oficiales de seguridad 
+contratados de inmediato.  
+• El APHIS y los CDC capacitarán a todos los oficiales de seguridad de APHIS sobre los 
+procedimientos especificados en el plan de monitoreo (Adjunto 2). El APHIS y los CDC capacitarán a 
+todos los oficiales de seguridad contractual sobre los procedimientos especificados en el plan.  
+• El APHIS proporcionará a todos el personal de seguridad del APHIS, después de la desmovilización, 
+instrucc
+Text Len: 1142
+--------------------------------------------------------------------------------
+ CDC capacitarán a 
+todos los oficiales de seguridad contractual sobre los procedimientos especificados en el plan.  
+• El APHIS proporcionará a todos el personal de seguridad del APHIS, después de la desmovilización, 
+instrucciones para informar cualquier enfermedad respiratoria/conjuntival a la oficina de salud pública 
+estatal/local de su estado de destino (generalmente, el estado de residencia) (Anexo 3). Los 
+funcionarios de contratación o sus  designados proporcionarán a todos el personal de respuesta del 
+contratista, al momento de la desmovilización, instrucciones para  informar cualquier enfermedad 
+respiratoria/conjuntival a la oficina de salud pública estatal/local de su estado de destino 
+(generalmente, el estado de residencia). La División de/Influenza los CD C proporcionarán puntos de 
+contacto para poder utilizar.  
+• Los funcionarios de enlace del APHIS se comunicarán con los coordinadores de emergencias 
+locales/estatales en el área del incidente para analizar los recursos locales/estatales que pueden estar 
+disponibles y establecer puntos de atención para los empleados y contratistas del APHIS que trabajan 
+en el �
+Text Len: 1150
+--------------------------------------------------------------------------------
+ emergencias 
+locales/estatales en el área del incidente para analizar los recursos locales/estatales que pueden estar 
+disponibles y establecer puntos de atención para los empleados y contratistas del APHIS que trabajan 
+en el área. El funcionario de enlace comunicará todos los recursos y necesidades relevantes al oficial 
+de seguridad. 
+• El APHIS y los funcionarios de contratación (o sus designados) generarán un informe diario de la 
+desmovilización  del personal de respuesta y lo compartirán con la Oficina de Coordinación 
+Interinstitucional (Office of Interagency Coordination, OIC). La OCI consolidará los informes y 
+entregará un informe diario del personal de seguridad desmovilizado a los CDC/División de Influenza 
+(Anexo 4). CDC/División de Influenza distribuirá un informe a los contactos  de Salud Pública Estatal 
+apropiados a través de notificaciones Epi -X seguras y protegidas con contraseña. 
+4 
+03/14/2022 
+ 
+• La División de Influenza/los CDC proporcionarán orientación adicional (Adjunto 5) a los 
+departamentos de salud estatales y locales sobre cómo hacer un seguimiento con cualquier APHIS 
+desmov
+Text Len: 1127
+--------------------------------------------------------------------------------
+14/2022 
+ 
+• La División de Influenza/los CDC proporcionarán orientación adicional (Adjunto 5) a los 
+departamentos de salud estatales y locales sobre cómo hacer un seguimiento con cualquier APHIS 
+desmovilizado o responsable del servicio de respues ta del Contratista en su estado, según sea 
+necesario.  
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+5 
+03/14/2022 
+ 
+Sección 3: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Muchos departamentos de salud estatales y locales tienen una amplia experiencia en el control de personas 
+en busca de signos y síntomas de enfermedades infecciosas. Los CDC reconocen que los estados pueden 
+haber establecido protocolos o métodos preferidos para monitorear a las personas expuestas a aves 
+infectadas por influenza aviar o virus en ambientes  contaminados. Se pueden emplear diferentes protocolos 
+de monitoreo para un amplio conjunto de signos y síntomas que son consistentes con la influenza (más allá 
+de los síntomas convencionales de enfermedades similares
+Text Len: 1092
+--------------------------------------------------------------------------------
+ por influenza aviar o virus en ambientes  contaminados. Se pueden emplear diferentes protocolos 
+de monitoreo para un amplio conjunto de signos y síntomas que son consistentes con la influenza (más allá 
+de los síntomas convencionales de enfermedades similares a la influenza [Influenza -Like Illness, ILI]), si 
+es posible. 
+ 
+Los CDC recomiendan que todas las personas expuestas a aves infectadas o ambientes potencialmente 
+contaminados que involucren un virus de influenza aviar de interés para la salud pública no informado 
+anteriormente se deben monitorear según las recomendaciones anteriores, es decir, que el personal de 
+respuesta debe monitorearse activamente para detectar enfermedades durante su exposición y durante 
+10 días después de su última exposición.  
+ 
+Además, los CDC recomiendan que todas las personas expuestas a aves infectadas o ambientes 
+potencialmente contaminados, con uno de los virus evaluados 2 HPAI H5N8 y H5N2; LPAI y/o HPAI 
+H7N8 o H7N9 utilizan los siguientes procedimientos: 
+• Monitoreo activo de personas expuestas sin EPP o incumplimiento con el EPP (sin cambios en 
+la recomendación anterior). 
+Text Len: 1140
+--------------------------------------------------------------------------------
+ LPAI y/o HPAI 
+H7N8 o H7N9 utilizan los siguientes procedimientos: 
+• Monitoreo activo de personas expuestas sin EPP o incumplimiento con el EPP (sin cambios en 
+la recomendación anterior). 
+• Monitoreo pasivo de personas que usan EPP, mediante el cual se les pide al personal de 
+respuesta que se autocontrole e informe cualquier enfermedad al oficial de seguridad durante la 
+respuesta, o a las autoridades de salud pública durante 10 días después de su última exposición 
+(un cambio a la recomendación anterior) . 
+Los departamentos de salud estatales, los oficiales de seguridad del APHIS y los oficiales de seguridad de 
+los contratistas deben compartir la responsabilidad de la evaluación, el seguimiento y el manejo posterior 
+de las personas que desarrollan enfermedades durante su movilización. Los departamentos de salud 
+estatales son responsables de monitorear al personal de respuesta después de su  movilización (es decir, 
+durante 10 días después de que se "desmovilicen", que también se considera el período posterior a la 
+exposición de 10 días del per sonal de respuesta). 
+ 
+Para el personal de
+Text Len: 1114
+--------------------------------------------------------------------------------
+és de su  movilización (es decir, 
+durante 10 días después de que se "desmovilicen", que también se considera el período posterior a la 
+exposición de 10 días del per sonal de respuesta). 
+ 
+Para el personal de seguridad que se enferman durante su movilización o durante su período posterior a la 
+exposición de 10 días, los departamentos de salud estatales deben ayudar con la evaluación y facilitar el 
+aislamiento inmediato del paciente (el aislamiento en el hogar es aceptable para los pacientes que no 
+requieren hospitalización por enfermedad) y las pruebas de RT-PCR para la influenza en un laboratorio 
+estatal de salud pública según corresponda.  
+ 
+Los departamentos de salud es tatales también deben notificar a los CDC de inmediato cuando realicen 
+pruebas a cualquier paciente bajo  investigación de la infección por el virus de la influenza aviar. Durante la 
+movilización de un responsable del servicio de respuesta, el departamento de salud estatal en el que se lleva 
+a cabo la actividad de respuesta debe notificar a los CDC de inmediato si están realizando pruebas a un 
+paciente bajo investigación para detectar una infección por el virus de la
+Text Len: 1164
+--------------------------------------------------------------------------------
+ respuesta, el departamento de salud estatal en el que se lleva 
+a cabo la actividad de respuesta debe notificar a los CDC de inmediato si están realizando pruebas a un 
+paciente bajo investigación para detectar una infección por el virus de la influenza aviar; después de la 
+movilización de un responsable del servicio de respuesta (durante su período de monitoreo posterior a la 
+exposición de 10 días), el estado de residencia del responsable del servicio de respuesta debe notificar a los 
+CDC de inmediato si se realiza una prueba a un paciente en investigación para detectar una infección por el 
+virus de la influenza aviar.  
+ 
+Puede encontrar orientación adicional sobre las pruebas de detección de infecciones por el virus de la 
+influenza aviar en personas, recomendaciones para el control de infecciones y tratamiento y profilaxis de 
+personas que pueden estar infectadas con los virus de la influenza aviar en 
+http://www.cdc.gov/flu/avianflu/healthprofessionals.htm. 
+  
+6 
+03/14/2022 
+ 
+ 
+Para el personal de seguridad movilizado bajo vigilancia activa, los oficiales de seguridad del APHIS o 
+los oficiales de seguridad del Contratista monitorearán al personal de
+Text Len: 1180
+--------------------------------------------------------------------------------
+essionals.htm. 
+  
+6 
+03/14/2022 
+ 
+ 
+Para el personal de seguridad movilizado bajo vigilancia activa, los oficiales de seguridad del APHIS o 
+los oficiales de seguridad del Contratista monitorearán al personal de respuesta para detectar 
+enfermedades e informarán a los departamentos de salud es tatales o locales (consulte el Anexo 2). 
+ 
+Para el personal de respuesta desmovilizado bajo vigilancia activa, los CDC recomiendan que los 
+departamentos de salud estatales y locales  implementen un protocolo de monitoreo que incluya al menos 
+contacto telefón ico durante el período posterior a la exposición de 10 días de la siguiente manera. Se puede 
+emplear un monitoreo más frecuente o en persona según lo permitan los recursos. La siguiente es una guía 
+para el nivel mínimo de monitoreo activo recomendado para el personal de seguridad desmovilizado.  
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+7 
+03/14/2022 
+ 
+ 
+• Día 1 del período posterior a la exposición (o al reg
+Text Len: 1043
+--------------------------------------------------------------------------------
+ PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+7 
+03/14/2022 
+ 
+ 
+• Día 1 del período posterior a la exposición (o al regresar al estado de residencia): Establecer contacto 
+telefónico para: (I) evaluar cualquier enfermedad consistente con la influenza, (II) describir los 
+parámetros del plan de monitoreo, incluyendo lo que se espera del personal de respuesta durante los días 
+2-9 (ver más abajo), (III) propo rcionar instrucciones adicionales para acatar si la enfermedad se 
+manifiesta (según sea necesario), y (IV) verificar e intercambiar información de contacto.  
+ 
+Determinar y registrar durante la primera conversación telefónica la naturaleza del nivel más alto  de 
+exposición durante la movilización más reciente. Las exposiciones pueden clasificarse en (al menos) los 
+siguientes tres niveles: 
+i. Sin exposición a aves infectadas o a su entorno (p.  ej., tareas administrativas en un puesto de 
+Mando de Incidentes).  
+ii. Exposición a aves infectadas y/o a su entorno mientras se usa el
+Text Len: 1043
+--------------------------------------------------------------------------------
+ tres niveles: 
+i. Sin exposición a aves infectadas o a su entorno (p.  ej., tareas administrativas en un puesto de 
+Mando de Incidentes).  
+ii. Exposición a aves infectadas y/o a su entorno mientras se usa el equipo de protección personal 
+(EPP) recomendado en todo momento.  
+iii. Exposición a aves infectadas y/o a su entorno cuando no se usa el EPP recomendado (p.  ej., 
+exposición antes de ponerse el EPP o una incumplimiento en el uso del EPP durante las actividades 
+de respuesta). 
+ 
+• Día 2 al día 9 del período posterior a la exposición: Los personal de respuesta debe estar bajo 
+observación a diario para detectar signos y síntomas consistentes con la influenza, y comunicarse con el 
+departamento de salud estatal/local si se desarrollan signos o síntomas consistentes con la influenza.  
+• Día 10 del período posterior a la exposición: Establecer contacto telefónico para verificar el estado de 
+salud e informar al responsable del servicio de respuesta que su período de monitoreo ha concluido.  
+ 
+Cuando se está llevando a cabo un monitoreo activo del personal de respuesta del brote, los CDC solicitan 
+la siguiente
+Text Len: 1134
+--------------------------------------------------------------------------------
+ estado de 
+salud e informar al responsable del servicio de respuesta que su período de monitoreo ha concluido.  
+ 
+Cuando se está llevando a cabo un monitoreo activo del personal de respuesta del brote, los CDC solicitan 
+la siguiente información a los departamentos de salud estatales:  
+ 
+• Notificación inmediata (telefónica) al realizar pruebas de infección por el virus de la influenza aviar en 
+cualquier caso en investigación (Case Under Investigation, CUI). 
+• Notificación inmediata (telefónica) de cualquier muestra respiratoria que resulte positiva para el virus 
+de la influenza A/H5 o A/H7 o que resulte positiva para el virus de la influenza  A, pero que no pueda 
+ser subtipificada en el Laboratorio Estatal de Salud Pública.  
+• Una lista de líneas diarias (enviada por correo electrónico a VS ICG One Health, 
+VS.SP.OHC@usda.gov)) con información que describa todos los CUI, para incluir a todo el personal de 
+respuesta movilizado o desmovilizado, y a todas las demás personas  expuestas a aves infectadas o 
+ambientes contaminados. Los CDC proporcionarán la plantilla de lista de líneas.  
+ 
+Sección 4: Profilaxis y
+Text Len: 1135
+--------------------------------------------------------------------------------
+ 
+respuesta movilizado o desmovilizado, y a todas las demás personas  expuestas a aves infectadas o 
+ambientes contaminados. Los CDC proporcionarán la plantilla de lista de líneas.  
+ 
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta 
+La quimioprofilaxis no se recomienda rutinariamente para las personas que usaron EPP mientras 
+participaban en actividades de despoblación, eliminación o limpieza y desinfección. Las decisiones de 
+iniciar la  quimioprofilaxis antiviral deben basarse en el juicio clínico, teniendo en cuenta el tipo de  
+exposición y si la persona expuesta tiene un alto riesgo de complicaciones por la influenza . Si se inicia la 
+quimioprofilaxis antiviral posterior a la exposición, se recomienda la dosificación del tratamiento para los 
+inhibidores de la neuraminidasa oseltamivir o zanamivir (una dosis, dos veces al día) en estos casos en 
+lugar del esquema típico de quimioprofilaxis antiviral recomendado en algunas circunstancias para las 
+exposiciones a la influenza  estacional (una dosis, una vez al día). Para obtener más información, consulte la 
+Guía Provisional sobre la Influenza  Quimioprofil
+Text Len: 1157
+--------------------------------------------------------------------------------
+ quimioprofilaxis antiviral recomendado en algunas circunstancias para las 
+exposiciones a la influenza  estacional (una dosis, una vez al día). Para obtener más información, consulte la 
+Guía Provisional sobre la Influenza  Quimioprofilaxis antiviral de personas expuestas a aves con virus de la 
+influenza aviar A asociados  con enfermedades humanas graves o con el potencial de causar enfermedades 
+humanas graves . 
+ 
+Si un responsable del servicio de respuesta desarrolla signos o síntomas  consistentes con la influenza 
+durante su período de monitoreo, se recomienda el inicio inmediato del tratamiento con medicamentos 
+antivirales contra la influenza mientras están pendientes  las pruebas de laboratorio. 
+8 
+03/14/2022 
+ 
+El tratamiento recomendado es de dos dosis por día de oseltamivir oral o zanamivir inhalado durante 
+5 días. Cuando esté justificado, el tratamiento antiviral debe iniciarse lo antes posible, incluso si han 
+transcurrido más de 48 horas desde el inicio de la enfermedad. 
+ 
+Debe haber un umbral bajo para iniciar el tratamiento en personal de respuesta sintomático mientras las 
+pruebas de laboratorio están pendientes.
+Text Len: 1152
+--------------------------------------------------------------------------------
+ han 
+transcurrido más de 48 horas desde el inicio de la enfermedad. 
+ 
+Debe haber un umbral bajo para iniciar el tratamiento en personal de respuesta sintomático mientras las 
+pruebas de laboratorio están pendientes. Si las pruebas de laboratorio son negativas para el virus de la 
+influenza, se puede interrumpir el tratamiento. Para obtener más información,  consulte la Guía provisional 
+sobre el uso de medicamentos antivirales para el tratamiento de  infecciones humanas con los nuevos virus 
+de la influenza A asociados con enfermedades humanas graves. Para e l personal de respuesta que requiere 
+tratamiento antiviral o profilaxis posterior a la exposición, las reservas estatales y federales de oseltamivir 
+pueden estar disponibles para uso de los departamentos de salud estatales. Para obtener más orientación, 
+comuníquese con los CDC/División de Influenza al 404-639-3747. 
+Para obtener recomendaciones de dosis específicas para el tratamiento o la profilaxis con dosis de 
+tratamiento, consulte Medicamentos antivirales contra la influenza: Resumen para médicos. Los médicos 
+deben consultar el  prospecto del fabricante para conocer la posología, las limitaciones
+Text Len: 1179
+--------------------------------------------------------------------------------
+íficas para el tratamiento o la profilaxis con dosis de 
+tratamiento, consulte Medicamentos antivirales contra la influenza: Resumen para médicos. Los médicos 
+deben consultar el  prospecto del fabricante para conocer la posología, las limitaciones de las poblaciones 
+estudiadas, las contraindicaciones y  los efectos adversos. Si la exposición fue temporal y no continua, se 
+recomiendan cinco d ías de medicación (una dosis, dos veces al día), a partir de la última exposición 
+conocida.  
+ 
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensajes de texto 
+Es probable que los departamentos de salud estatales y locales realicen el monitoreo después de la 
+desmovilización mediante llamadas telefónicas, que pueden ser un proceso lento y que demanda tiempo. 
+Los CDC han colaborado con la Asociación Nacional de Funcionarios de Salud del País y la Ciudad 
+(National Association of Country and City Health Officials, NACCHO) y la Campaña de Cumplimiento 
+para desarrollar un sistema de monitoreo que utiliza el Servicio de Mensajes Cortos (Short Message 
+Service, SMS) bidireccional/mensajes de texto para ayudar en el proceso. 
+
+Text Len: 1160
+--------------------------------------------------------------------------------
+ City Health Officials, NACCHO) y la Campaña de Cumplimiento 
+para desarrollar un sistema de monitoreo que utiliza el Servicio de Mensajes Cortos (Short Message 
+Service, SMS) bidireccional/mensajes de texto para ayudar en el proceso. 
+ 
+Los mensajes de texto son un método potencialmente más eficiente para obtener, manejar y actuar sobre 
+cualquier síntoma de influenza posterior a la movilización experimentada por el personal de respuesta, y 
+los estudios de investigación han usado mensajes de texto para monitorear los síntomas de la influenza con 
+éxito. La participación en el programa de monitoreo de texto sería voluntaria tanto para los departamentos 
+de salud estatales/locales como para el personal de respuesta. El responsable del servicio de respuesta que 
+consienta y resida en los municipios estatales y locales participantes recibiría automáticamente un mensaje 
+de texto por día durante 10 días preguntando si tiene o no síntomas consistentes con la influenza. Los 
+trabajadores sanitarios estatales/locales se rían alertados de inmediato sobre cualquier respuesta positiva y 
+sobre cualquier responsable del servicio de respuesta que no conteste dos  mensajes consecutivos (es decir, 
+dos días sin respu
+Text Len: 1223
+--------------------------------------------------------------------------------
+trabajadores sanitarios estatales/locales se rían alertados de inmediato sobre cualquier respuesta positiva y 
+sobre cualquier responsable del servicio de respuesta que no conteste dos  mensajes consecutivos (es decir, 
+dos días sin respuesta al mensaje). Toda la información compartida a través del serv icio de mensajes de 
+texto permanecería confidencial y no se compartiría más que con los trabajadores sanitarios 
+estatales/locales apropiados. Si un estado está interesado en usar esta plataforma, debe ponerse en contacto 
+con los CDC/División de Influenza al 404 -639-3747. 
+9 
+03/14/2022 
+ 
+Sección 6: Criterios para implementar, suspender y restablecer el monitoreo 
+Las recomendaciones para implementar, suspender y restablecer el monitoreo del personal de respuesta 
+expuesto a aves infectadas con virus de la influe nza aviar se basarán en una evaluación de riesgos. La 
+evaluación de riesgos debe incluir lo siguiente.  
+• Un análisis de la magnitud y distribución de los brotes en aves  
+• Nuevos datos científicos que cambian la comprensión de la transmisión (p.  ej., evidencia genética, 
+Text Len: 1104
+--------------------------------------------------------------------------------
+ debe incluir lo siguiente.  
+• Un análisis de la magnitud y distribución de los brotes en aves  
+• Nuevos datos científicos que cambian la comprensión de la transmisión (p.  ej., evidencia genética, 
+antigénica o de modelo animal de un aumento o disminución de la ineficacia por un cambio en el 
+virus) 
+• Evidencia epidemiológica de un cambio en el riesgo de transmisión (p.  ej., identificación de casos 
+humanos que se cree que son el resultado de la transmisión de animal a humano o de humano a 
+humano)  
+ 
+La evaluación de riesgos de los CDC se guía por una Herramienta de Evaluación de Riesgos de Influenza 
+(Influenza Risk Assessment Tool, IRAT); visite https://www.cdc.gov/flu/pandemic -resources/national -
+strategy/risk-assessment.htm ), que evalúa 10 el ementos de riesgo asociados con los virus de la influenza. 
+Estos 10 elementos se pueden clasificar en las siguientes  tres áreas principales: (I) propiedades del virus, 
+(II) atributos de la población, y (III) la ecología y epidemiología del virus. La IRAT está diseñada para 
+evaluar los virus de la influenza A que no están circulando en la p
+Text Len: 1112
+--------------------------------------------------------------------------------
+  tres áreas principales: (I) propiedades del virus, 
+(II) atributos de la población, y (III) la ecología y epidemiología del virus. La IRAT está diseñada para 
+evaluar los virus de la influenza A que no están circulando en la población humana. 
+ 
+Posibles criterios que contribuyen a la aplicación del monitoreo de la influenza aviar  
+• Identificación de los virus H5 de la HPAI y HPAI o LPAI H7 en parvadas de aves de corral en los 
+Estados Unidos.  
+ 
+Posibles criterios que contribuyen a suspender el monitoreo de la influenza aviar  
+• Cese de los brotes en aves en los Estados Unidos.  
+• Ausencia de infección humana entre un número específico de personas expuestas o después de un 
+período específico (p.  ej., una temporada de brotes en aves). 
+• Evidencia génica y antigénica que sugiere que los virus de la influenza aviar permanecen genéticamente 
+sin cambios después de un período específico (p.  ej., una temporada de brotes en aves). 
+• Se desarrollan mecanismos alternativos para evaluar al personal de respuesta con respecto a la 
+enfermedad, que se cree que son adecuados.
+Text Len: 1091
+--------------------------------------------------------------------------------
+ después de un período específico (p.  ej., una temporada de brotes en aves). 
+• Se desarrollan mecanismos alternativos para evaluar al personal de respuesta con respecto a la 
+enfermedad, que se cree que son adecuados. 
+• Una serie de puntajes de evaluación de la IRAT que indican que el riesgo de una pandemia planteada 
+por estos virus de la influenza aviar es bajo. 
+ 
+Posibles criterios que contribuyen a restablecer la vi gilancia de la influenza aviar 
+• Nueva evidencia génica o antigénica que sugiere un aumento en el riesgo de transmisión de animal a 
+humano.  
+• Identificación de infecciones humanas por virus de la influenza aviar en personas expuestas a aves 
+infectadas durante las actividades de respuesta.  
+• Un cambio en el alcance o el número de identificaciones de influenza aviar en aves (p.  ej., más estados 
+afectados, nuevas especies de aves afectadas) después de que se haya detenido la actividad de 
+monitoreo. 
+• Identificación de un nuevo virus de la influenza aviar reordenado en parvadas de aves de corral de los 
+EE. UU. 
+10 
+03/14/2022 
+ 
+Anexo 1: Instrucciones de
+Text Len: 1098
+--------------------------------------------------------------------------------
+ido la actividad de 
+monitoreo. 
+• Identificación de un nuevo virus de la influenza aviar reordenado en parvadas de aves de corral de los 
+EE. UU. 
+10 
+03/14/2022 
+ 
+Anexo 1: Instrucciones de movilización (que se entregarán al personal de respuesta al comenzar las 
+actividades de respuesta) 
+Para obtener más información, consulte:  
+• CDC/División de Influenza (Información para personas expuestas a aves infectadas con virus de 
+la influenza aviar de interés para la salud pública): https://www.cdc.gov/flu/avianflu/h5/infected-
+birds-exposure.htm 
+• CDC/División de Influenza (Instrucciones de auto observación  para desmovilizar al personal de 
+respuesta de la influenza aviar): https://www.cdc.gov/flu/avianflu/h5/demobilizing -
+responders.htm  
+ 
+Como responsable del servicio de respuesta a brotes de enfermedades de salud animal , tales como la 
+influenza aviar, puede participar en actividades que lo expongan a aves infectadas con el virus de la 
+influenza aviar o superficies y medioambiente  potencialmente contaminados con virus durante la 
+despoblación, eliminación y limpieza y desi nfección de las par
+Text Len: 1118
+--------------------------------------------------------------------------------
+ puede participar en actividades que lo expongan a aves infectadas con el virus de la 
+influenza aviar o superficies y medioambiente  potencialmente contaminados con virus durante la 
+despoblación, eliminación y limpieza y desi nfección de las parvadas afectadas. Aunque el riesgo de 
+enfermedad humana por los virus de la influenza aviar es bajo y hasta la fecha se han encontrado muy 
+pocas infecciones humanas con estos virus en los Estados Unidos, es esencial que siga cuidadosamente 
+todas las precauciones e instrucciones de los Servicios de Inspección de Sanidad de Plantas y Animales 
+(APHIS) del Departamento de Agricultura de los Estados Unidos (USDA) y de los Centros para el 
+Control y la Prevención de Enfermedades (CDC). Siga  corre ctamente todas las pautas operativas del 
+equipo de protección personal (EPP), la bioseguridad y el oficial de seguridad mientras esté de se rvicio. 
+Seguir estas instrucciones ayudará a proteger su salud y de otras personas que trabajan con usted. No 
+dude en hacer preguntas para garantizar su salud y seguridad.  
+ 
+1. Controle su salud cuidadosamente durante su movilización  y durante 10
+Text Len: 1139
+--------------------------------------------------------------------------------
+udará a proteger su salud y de otras personas que trabajan con usted. No 
+dude en hacer preguntas para garantizar su salud y seguridad.  
+ 
+1. Controle su salud cuidadosamente durante su movilización  y durante 10 días a partir del fin de su 
+movilización. Evalúe la presencia de un nuevo inicio o empeoramiento de cualquiera de los siguientes 
+signos y síntomas: 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+más) o sensación de fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posible que la fiebre no siem pre esté presente  
+• Lagrimeo, enrojecimiento o irritación de 
+los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+Manifestar cualquiera de estos signos o síntomas no significa necesariamente que esté infectado con un 
+virus de la influenza aviar, pero es importante que notifique a su oficial de seguridad de inmediato para 
+que lo puedan evaluar y recibir tratamiento si es necesario. 
+ 
+2. Si
+Text Len: 1019
+--------------------------------------------------------------------------------
+omas no significa necesariamente que esté infectado con un 
+virus de la influenza aviar, pero es importante que notifique a su oficial de seguridad de inmediato para 
+que lo puedan evaluar y recibir tratamiento si es necesario. 
+ 
+2. Si experimenta alguno de los signos o síntomas anteriores en cualquier momento durante la 
+movilización, póngase en contacto con los  siguientes recursos de inmediato . (La información a 
+continuación se completará en el sitio por el APHIS o el oficial de seguridad del Contratista).  
+ 
+En una situación de emergencia, busque atención médica de inmediato. 
+ 
+a. Nombre del oficial de seguridad (fechas de operación):    
+i. Número de teléfono principal:      
+ii. Número de teléfono móvil:      
+ 
+b. (Si su oficial de seguridad cambia durante su movilización)  
+ Nombre del oficial de seguridad (fechas de operación):    
+i. Número de teléfono principal:    
+11 
+03/14/2022 
+ 
+ii. Número de teléfono móvil:    
+ 
+c. Si no puede comunicarse con su oficial de
+Text Len: 993
+--------------------------------------------------------------------------------
+echas de operación):    
+i. Número de teléfono principal:    
+11 
+03/14/2022 
+ 
+ii. Número de teléfono móvil:    
+ 
+c. Si no puede comunicarse con su oficial de seguridad y necesita buscar atención médica, 
+proporcione la siguiente información de contacto del departamento de salud pública 
+estatal/local a su médico y dígale que usted es un responsable del servicio de respuesta al brote 
+del virus de la influenza aviar en ese estado:  
+i. Departamento de salud pública estatal/local   
+ii. Número de teléfono:   
+ 
+El departamento de salud pública estatal/local puede pedirle que busque atención médica para recolectar una 
+muestra respiratoria para una prueba que determine si tiene una infección por el virus de la influenza. La 
+prueba RT-PCR (para determinar si tiene influenza) se llevará a cabo sin costo adicional para usted o su 
+seguro médico, siempre que el departamento de salud pública estatal/local le pida que se someta a la prueba y 
+que la organice. Usted es responsable de cualquier gasto médico adicional rel
+Text Len: 1029
+--------------------------------------------------------------------------------
+ costo adicional para usted o su 
+seguro médico, siempre que el departamento de salud pública estatal/local le pida que se someta a la prueba y 
+que la organice. Usted es responsable de cualquier gasto médico adicional relacionado con el cuidado de su 
+enfermedad. 
+ 
+Los empleados federales pueden presentar un reclamo de remuneración laboral en cualquier momento que  
+perciban que hay alguna  lesión relacionada con el trabajo o una enfermedad ocupacional. Se debe contar con 
+documentación médica que respalde ese reclamo; de lo contrario, el Departamento de Trabajo puede 
+rechazarlo. 
+ 
+Gracias por contribuir al servicio de respuesta y por su cooperación para ayudar a garantizar que su  salud y la 
+de otros responsables del servicio de respuesta ante incidentes se controlen y se cuiden bien. Su salud y 
+seguridad es nuestra prioridad. 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+12 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán
+Text Len: 1071
+--------------------------------------------------------------------------------
+ INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+12 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán a 
+los oficiales de seguridad del USDA/APHIS y a los oficiales de seguridad del Contratista que 
+participan en las actividades de respuesta a la influenza aviar)  
+ 
+Guía de autocontrol: 
+• Es importante que todo el personal de respuesta comprenda la importancia del autocontrol como parte 
+de un proceso eficaz de vigilancia y elaboración de informes. Los recordatorios frecuentes de la 
+importancia del autocontrol deben difundirse a través de canales de comunicación eficaces en cada 
+Puesto de Mando de Incidentes y deben incluir una lista de los signos y síntomas de la influenza. 
+• El APHIS y los oficiales de seguridad del Contratista deben proporcionar puntos directos de 
+comunicación y contacto entre personal de respuesta ante incidentes y las autoridades de salud pública 
+estatales y locales. Este personal de respuesta confía en su oficial de seguridad para responder 
+preguntas, quien debe estar disponible para ofrecer asistencia cuando el personal de
+Text Len: 1147
+--------------------------------------------------------------------------------
+re personal de respuesta ante incidentes y las autoridades de salud pública 
+estatales y locales. Este personal de respuesta confía en su oficial de seguridad para responder 
+preguntas, quien debe estar disponible para ofrecer asistencia cuando el personal de respuesta informen 
+una enfermedad. Es responsabilidad del oficial de seguridad de APHIS  seguir el protocolo que figura a 
+continuación al informar sobre sospechas de infección por influenza aviar en el personal de respuesta al 
+departamento de salud pública estatal/local (S/LPHD). La notificación oportuna y la coordinación entre 
+el personal de los centros de atención médica, el S/LPHD, el USDA/APHIS y los CDC es importante 
+para garantizar que se realicen las pruebas correspondientes y se brinde la atención médica adecuada.  
+ 
+Proceso de comunicación de síntomas: 
+1. En simultáneo con el comienzo de las actividades de respuesta a la influenza aviar , el APHIS o el 
+oficial de seguridad del Contratista se comunica con el departamento de salud pública del estado (los 
+CDC proporcionarán la información de contacto al APHIS al momento de la activación de la respuesta) 
+para la jurisdicción donde se
+Text Len: 1171
+--------------------------------------------------------------------------------
+ 
+oficial de seguridad del Contratista se comunica con el departamento de salud pública del estado (los 
+CDC proporcionarán la información de contacto al APHIS al momento de la activación de la respuesta) 
+para la jurisdicción donde se realizan las actividades de respuesta a la influenza aviar. Los oficiales de 
+seguridad deben trabajar con los funcionarios  de salud pública del estado con respecto a: (1) la 
+ubicación de la respuesta; (2) el número aproximado de personas que prestaron servicios de  respuesta; y 
+(3) un punto de contacto en el departamento de salud del estado para notificar en caso de que se 
+identifiquen signos y síntomas compatibles con la influenza en cualquier responsable del servicio de 
+respuesta. El APHIS y los oficiales de segur idad del Contratista informarán al departamento de salud 
+pública del estado cualquier cambio en la ubicación de la respuesta y cambios significativos en el 
+número de personal de respuesta movilizado en el estado. Los oficiales de seguridad deben trabajar con 
+el departamento de salud estatal para identificar opciones que permitan obtener muestras respiratorias 
+para la prueba del virus de la influenza aviar en el laboratorio
+Text Len: 1194
+--------------------------------------------------------------------------------
+ personal de respuesta movilizado en el estado. Los oficiales de seguridad deben trabajar con 
+el departamento de salud estatal para identificar opciones que permitan obtener muestras respiratorias 
+para la prueba del virus de la influenza aviar en el laboratorio de salud pública estatal.  
+ 
+2. Indique al personal de respuesta ante incidentes que se comuniquen con usted, su oficial de seguridad 
+designado, de inmediato, si tiene algún síntoma consistente con la influenza durante la movilización 
+(lista de síntomas disponible a continuación y en el Anexo 1, "Instrucciones de movilización"). Use de 
+canales de comunicación eficaces para proporcionar recordatorios diarios o frecuentes a todo el 
+personal de respuesta acerca de la importancia del autocontrol*; proporcione una lista de los síntomas 
+de la gripe. Evalúe visualmente a cualquier responsable del servicio de respuesta con los que interactúa 
+para detectar signos y síntomas de influenza. Use el EPP adecuado cuando interactúa con personal de 
+respuesta si el personal de respuesta muestra signos consistentes con la influenza.  
+ 
+* Nota: Si la respuesta es a un virus de la influenza aviar no informado previamente como de preocupación 
+para la sal
+Text Len: 1220
+--------------------------------------------------------------------------------
+ EPP adecuado cuando interactúa con personal de 
+respuesta si el personal de respuesta muestra signos consistentes con la influenza.  
+ 
+* Nota: Si la respuesta es a un virus de la influenza aviar no informado previamente como de preocupación 
+para la salud pública, se llevará a cabo un monitoreo activo del personal de respuesta.  
+13 
+03/14/2022 
+ 
+3. Los oficiales de seguridad deben seguir el proceso de notificación de síntomas que se indica a 
+continuación para cualquier responsable del servicio de respuesta ante incidentes de influenza 
+aviar que informe un nuevo inicio o empeoramiento de los siguientes signos o síntomas, incluido 
+lo siguiente: 
+ 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+mayor) o sensación de fiebre/escalofríos* 
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posi bl e que l a fi ebr e no si empr e esté pr esente  
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+Text Len: 1042
+--------------------------------------------------------------------------------
+ e no si empr e esté pr esente  
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+4. El oficial de seguridad del APHIS tendrá la siguiente comunicación inicial con el responsable del 
+servicio de respuesta ante incidentes de influenza aviar del APHIS (los oficiales de seguridad del 
+Contratista tendrán la misma comunicación inicial): 
+a. Si se trata de una emergencia médica, recomiende llamar al 911 de inmediato o acudir al 
+centro médico más cercano. Si se sospecha de infección humana por el virus de la influenza 
+aviar, se debe avisar al operador del 911 de este problema.  
+b. Tenga en cuenta el inicio y la duración de los signos y síntomas que el responsable del 
+servicio de respuesta está experimentando.  
+c. Anote las actividades en las que participó el responsable del servicio de respuesta durante 
+los 10 días anteriores y las ubicaciones específicas de esas actividades.  
+d. Tenga en cuenta dónde se encuentra actualmente el responsable del servicio de respuesta y 
+si tiene la intención de viajar fu
+Text Len: 1128
+--------------------------------------------------------------------------------
+esta durante 
+los 10 días anteriores y las ubicaciones específicas de esas actividades.  
+d. Tenga en cuenta dónde se encuentra actualmente el responsable del servicio de respuesta y 
+si tiene la intención de viajar fuera de la jurisdicción actual dentro de los próximos 2 días. 
+e. Tenga en cuenta si el responsable del servicio de respuesta se quedará con otras personas 
+(es decir, si comparte una habitación) y si  hay personas enfermas. Informe al res ponsable 
+del servicio de respuesta sintomático que se aísle para evitar que otros se enfermen.  
+f. El oficial de seguridad notifica al responsable del servicio de respuesta ante incidentes que 
+el oficial de seguridad está compartiendo la información del responsable del servicio de 
+respuesta con el S/LPHD por razones de salud pública para que el S/LPHD pueda 
+determinar si se necesitan pruebas para la influenza aviar. 
+g. Ofrezca orientación sobre comportamientos para prevenir la exposición de otras personas. 
+Visite http://www.cdc.gov/flu/takingcare.htm  para obtener más información. 
+ 
+5. El oficial de seguridad notifica inmediatamente al S/LPHD correspondiente que un responsable
+Text Len: 1150
+--------------------------------------------------------------------------------
+os para prevenir la exposición de otras personas. 
+Visite http://www.cdc.gov/flu/takingcare.htm  para obtener más información. 
+ 
+5. El oficial de seguridad notifica inmediatamente al S/LPHD correspondiente que un responsable 
+del servicio de respuesta ha reportado síntomas consistentes con la influenza. El oficial de 
+seguridad trabaja con el empleado, el S/LPHD y el centro de atención médica para garantizar que 
+se brinde la atención médica adecuada. En consulta con el proveedor de atención clínica, el 
+S/LPHD determinará si se necesitan pruebas de influenza aviar y notificará al centro de atención 
+médica según sea necesario.  
+o Se proporcionará información de contacto del S/LPHD. 
+o Nota: si el oficial de seguridad no está al tanto del S/LPHD correspondiente para 
+contactarse, comuníquese inmediatamente con los CDC/División de Influenza al 404-639-
+3747 o, después del horario de atención, con los CDC/Centro de Operaciones de 
+Emergencia (Emergency Operations Center, EOC) al 770 -488-7100. 
+14 
+03/14/2022 
+ 
+6. El oficial de seguridad y el funcionario del S/LPHD tendrán
+Text Len: 1090
+--------------------------------------------------------------------------------
+ués del horario de atención, con los CDC/Centro de Operaciones de 
+Emergencia (Emergency Operations Center, EOC) al 770 -488-7100. 
+14 
+03/14/2022 
+ 
+6. El oficial de seguridad y el funcionario del S/LPHD tendrán una conversación de seguimiento 
+con el responsable del servicio de respuesta que está enfermo con influenza aviar:  
+a. Proporcione instrucciones para acudir a un centro de atención médica acordado.  
+b. El oficial de seguridad informará al responsable del servicio de respuesta que los gastos de 
+atención médica pueden variar según su plan de atención médica personal y el centro de 
+atención médica local. Si se notificó al S/LPHD sobre los síntomas y se autorizó la prueba, 
+la prueba  de diagnóstico de influenza RT-PCR se proporcionará sin costo adicional para el  
+empleado o su seguro médico. Otros costos asociados con la atención clínica de rutina de la 
+enfermedad estarán a cargo del responsable del servicio de respuesta. Los empleados 
+federales pueden presentar un reclamo de remuneración laboral en cualquier momento que 
+perciban que hay alguna lesión relacionada con el trabajo
+Text Len: 1109
+--------------------------------------------------------------------------------
+ rutina de la 
+enfermedad estarán a cargo del responsable del servicio de respuesta. Los empleados 
+federales pueden presentar un reclamo de remuneración laboral en cualquier momento que 
+perciban que hay alguna lesión relacionada con el trabajo o una enfermedad ocupacional. 
+Se debe contar con documentación médica que respalde ese reclamo; de lo contrario, el 
+Departamento de Trabajo puede rechazarlo.  
+c. Si el responsable del servicio de respuesta regresa a su ubicación actual después de recibir 
+atención médica, debe seguir los consejos de su médico y S/LPHD para reducir la 
+propagación de cualquier enfermedad infecciosa. Si un responsable del servicio de 
+respuesta se encuentra en examinación para la influenza aviar, se recomienda el aislamiento 
+del paciente y no debe viajar fuera de la jurisdicción actual hasta que se conozcan los 
+resultados de la prueba.  
+d. Haga hincapié en la importancia del cumplimiento para garantizar la salud del responsable 
+del servicio de respuesta enfermo y de los demás.  
+ 
+7. El oficial de seguridad notificará a la persona que figura a continuación acerca de la 
+enfermedad  reportada y
+Text Len: 1140
+--------------------------------------------------------------------------------
+ancia del cumplimiento para garantizar la salud del responsable 
+del servicio de respuesta enfermo y de los demás.  
+ 
+7. El oficial de seguridad notificará a la persona que figura a continuación acerca de la 
+enfermedad  reportada y si la prueba de influenza aviar fue autorizada por el S/LPHD: 
+a. Grupo de Coordinación de Incidentes de VS (Incident Coordination Group, ICG) Health & 
+Safety – James McKee ((301) 436 -3115) [james.e.mckee@usda.gov] y Patrick Newcomb 
+((301)-832-2974)[patrick.newcomb@usda.gov]. 
+b. A su vez, ICG Health & Safety notificará al Dr. Richard Walker, a VS ICG One Health y a 
+CDC/Influenza Division.  
+i. Dr. Richard Walker, oficial médico del APHIS  [Thomas.R.Walker@aphis.usda.gov ] 
+ii. VS ICG One Health [VS.SP.OHC@usda.gov ] 
+iii. CDC/División de Influenza al 404-639-3747 (Krista Knis s [krk9@cdc.gov], Katie 
+Tastad [qwu5@cdc.gov] y Angiezel Merced -Morales [png6@cdc.gov]) 
+c. Notifique a los demás oficiales de seguridad en la misma unidad/ubicación de respuesta al 
+incidente sobre la enfermedad reportada
+Text Len: 1046
+--------------------------------------------------------------------------------
+
+Tastad [qwu5@cdc.gov] y Angiezel Merced -Morales [png6@cdc.gov]) 
+c. Notifique a los demás oficiales de seguridad en la misma unidad/ubicación de respuesta al 
+incidente sobre la enfermedad reportada para generar conciencia sobre una posible 
+infección humana. 
+ 
+8. Si un responsable del servicio de respuesta abandona un lugar de respuesta por cualquier motivo 
+con la intención de regresar al lugar de respuesta (p. ej, por una emergencia familiar o 
+vacaciones), esta persona debe permanecer bajo la jurisdicción del oficial de seguridad del sitio 
+del APHIS para fines de monitoreo de enfermedades y debe comunicarse con el oficial de 
+seguridad del sitio del APHIS del sitio inmediatamente si manifiesta signos o síntomas 
+compatibles con la influenza. Si un responsable del servicio de respuesta se comunica con el 
+oficial de seguridad del sitio del APHIS por una enfermedad mient ras está lejos del lugar de 
+respuesta, el oficial de seguridad del sitio del APHIS debe: (1) recomendarle al responsable del 
+servicio de respuesta que se auto aísle  y se comunique con el departamento de salud pública en el 
+estado donde se encuentra actual
+Text Len: 1149
+--------------------------------------------------------------------------------
+ 
+respuesta, el oficial de seguridad del sitio del APHIS debe: (1) recomendarle al responsable del 
+servicio de respuesta que se auto aísle  y se comunique con el departamento de salud pública en el 
+estado donde se encuentra actualm ente el responsable del servicio de respuesta;  y (2) 
+comunicarse con los CDC/División de Influenza al 404-639 -3747 [Krista Kniss (krk9@cdc.gov), 
+Katie Tastad (qwu5@cdc.gov)  y Angiezel Merced-Morales (png6@cdc.gov)]. 
+15 
+03/14/2022 
+ 
+Anexo 3: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta) 
+• Para obtener más información, consulte: CDC/División de Influenza (Instrucciones de auto 
+observación  para desmovilizar al personal de respuesta de la influenza aviar): 
+https://www.cdc.gov/flu/avianflu/h5/demobilizing -responders.htm 
+ 
+Gracias por su contribución a los esfuerzos de respuesta del Servicio de Inspección de Sanidad de Plantas y 
+Animales (APHIS). El APHIS otorga la máxima prioridad a la salud y seguridad del personal de respuesta y, 
+como
+Text Len: 1061
+--------------------------------------------------------------------------------
+ 
+ 
+Gracias por su contribución a los esfuerzos de respuesta del Servicio de Inspección de Sanidad de Plantas y 
+Animales (APHIS). El APHIS otorga la máxima prioridad a la salud y seguridad del personal de respuesta y, 
+como responsable del servicio de respuesta ante incidentes al brote de influenza aviar, es posible que haya 
+participado en actividades que lo expusieron a aves infectadas con el virus de la influenza aviar o superficies 
+y ambientes potencial mente contaminados por el virus durante la despoblación, eliminación, limpieza y 
+desinfección de parvadas afectadas. Aunque el riesgo de enfermarse por los virus de la influenza aviar es 
+bajo y hasta la fecha se han encontrado pocas infecciones humanas con estos virus en los Estados Unidos, es 
+fundamental que siga cuidadosamente todas las precauciones e instrucciones del APHIS y de los Centros 
+para el Control y la Prevención de Enfermedades (CDC) y que se realice un seguimiento para detectar 
+cualquier signo o síntoma de enfermedad durante 10 días después de que finalice su movilización. La 
+identificación temprana de una persona infectada con el virus de la influenza aviar es importante para el 
+tratamiento y otras medidas de respuesta apro
+Text Len: 1219
+--------------------------------------------------------------------------------
+ signo o síntoma de enfermedad durante 10 días después de que finalice su movilización. La 
+identificación temprana de una persona infectada con el virus de la influenza aviar es importante para el 
+tratamiento y otras medidas de respuesta apropiadas y para prevenir la posible propagación a otras personas.  
+ 
+Siga las instrucciones a continuación atentamente:  
+1. Controle su salud cuidadosamente durante 10 días desde el final de su movilización. 
+Evalúe la presencia de un nuevo inicio o empeoramiento de cua lquiera de los siguientes 
+signos y síntomas: 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+más) o sensación de fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posi bl e que l a fi ebr e no si empr e esté presente 
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+2. Si tiene alguno de los signos o síntomas anteriores en cualquier momento durante los
+Text Len: 1028
+--------------------------------------------------------------------------------
+ón de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+2. Si tiene alguno de los signos o síntomas anteriores en cualquier momento durante los 10 días 
+posteriores a su desmovilización, comuníquese con el departamento de salud pública estatal/local 
+de inmediato . Consulte la lista adjunta para obtener la informació n de contacto de su 
+departamento de salud pública estatal/local.  
+ 
+En una situación de emergencia, busque atención médica de inmediato. 
+ 
+3. El departamento de salud pública estatal/local puede pedirle que busque atención médica para 
+recolectar una muestra respiratoria o conjuntival para realizar una prueba que determine si está 
+contagiado con el virus de influenza. Para determinar si tiene influenza, la prueba RT -PCR se 
+llevará a cabo sin costo adicional para usted o su seguro médico, siempre que el  departamento de 
+salud pública estatal/local le pida que se someta a la prueba y que la organice. Usted es 
+responsable de los gastos médicos adicionales relacionados con el cuidado de su
+Text Len: 1084
+--------------------------------------------------------------------------------
+ su seguro médico, siempre que el  departamento de 
+salud pública estatal/local le pida que se someta a la prueba y que la organice. Usted es 
+responsable de los gastos médicos adicionales relacionados con el cuidado de su enfermedad. 
+Los empleados federales pueden presentar un reclamo de remuneración laboral en cualquier 
+momento que perciban que hay alguna lesión relacionada con el trabajo o una enfermedad 
+ocupacional. Se debe contar con documentación médica que respalde ese reclamo; de lo 
+contrario, el Departamento de Trabajo puede rechazar lo. 
+16 
+03/14/2022 
+ 
+ 
+4. Además de su autocontrol, su información de contacto se ha compartido con los funcionarios del 
+departamento de salud pública estatal/local  para que puedan comunicarse con usted por teléfono, 
+mensaje de texto o correo electrónico para v erificar que su estado de salud es sano. La frecuencia 
+de contacto se determinará en cada estado según su riesgo evaluado y el  procedimiento del 
+estado, y puede variar desde ningún contacto hasta el contacto diario durante los 10 días 
+posteriores a su fech a de desmovilización
+Text Len: 1101
+--------------------------------------------------------------------------------
+ se determinará en cada estado según su riesgo evaluado y el  procedimiento del 
+estado, y puede variar desde ningún contacto hasta el contacto diario durante los 10 días 
+posteriores a su fech a de desmovilización. Las autoridades de salud pública estatales y locales 
+también pueden proporcionarle instrucciones e información adicionales.  
+a. Su información de contacto no se compartirá fuera de los canales oficiales de salud pública y solo 
+se utilizará para contactarlo a fin de monitorearlo su enfermedad después de  una exposición a 
+aves infectadas por influenza aviar y/o ambientes potencialmente contaminados.  
+b. Toda información que proporcione durante este contacto será estrictamente confidencial.  
+ 
+Gracias por contribuir al servicio de la respuesta a la influenza aviar y por su cooperación para ayudar  a 
+garantizar de que su salud y la del personal de respuesta ante incidentes esté bajo monitoreo y buen 
+mantenimiento continuos. Su salud y seguridad es nuestra prioridad. 
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA
+Text Len: 1091
+--------------------------------------------------------------------------------
+oreo y buen 
+mantenimiento continuos. Su salud y seguridad es nuestra prioridad. 
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+ 
+17 
+03/14/2022 
+ 
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+ 
+• El APHIS generará una hoja de cálculo de desmovilización diaria. El informe incluirá a todos los 
+empleados del APHIS desmovilizados durante las 24 horas previas. 
+ 
+• Cada empresa contratada generará una hoja de cálculo diaria de desmovilización. Cada informe 
+incluirá a todos los empleados desmovilizados contratados durante las 24 horas previas. 
+ 
+• Cada hoja de cálculo diaria del APHIS y de la desmovilización de los contratos contendrá los 
+siguientes campos.  
+ Fecha del informe (estará en la convención de nomenclatura utilizada para el informe)  
+ Organización 
+ Incidente:  
+ Apellido 
+ Nombre 
+ Sitio del incident
+Text Len: 924
+--------------------------------------------------------------------------------
+.  
+ Fecha del informe (estará en la convención de nomenclatura utilizada para el informe)  
+ Organización 
+ Incidente:  
+ Apellido 
+ Nombre 
+ Sitio del incidente (identificador único que puede incluir el estado)  
+ Grupo asignado (sección IMT) 
+ Puesto asignado 
+ Dirección de correo electrónico  
+ Número de teléfono principal  
+ Número de teléfono móvil  
+ Estado 
+ Ciudad 
+ Condado 
+ Código postal 
+ Dirección de destino (cuando esté disponible)  
+ Fecha de movilización  
+ Fecha de liberación (fecha de desmovilización)  
+ 
+• El APHIS enviará por correo electrónico un informe protegido por contraseña al VS ICG One 
+Health a través de VS.SP.OHC@usda.gov . 
+ 
+• Cada empresa contratada enviará por correo electrónico un informe protegido por cont raseña a VS 
+ICG One Health, VS.SP.OHC@usda.gov . 
+ 
+• VS ICG One Health distribuirá un
+Text Len: 857
+--------------------------------------------------------------------------------
+OHC@usda.gov . 
+ 
+• Cada empresa contratada enviará por correo electrónico un informe protegido por cont raseña a VS 
+ICG One Health, VS.SP.OHC@usda.gov . 
+ 
+• VS ICG One Health distribuirá un informe diario a los CDC/División de Influenza con respecto a 
+los empleados y contratistas desmovilizados del APHIS.  
+ 
+• Los CDC/División de Influenza distribuirá secciones de la lista a los puntos de contacto del 
+departamento de salud pública estatal correspondientes a través de notificaciones Epi -X (un portal 
+web seguro protegido por contraseña).  
+18 
+03/14/2022 
+ 
+Anexo 5:  Guía ev aluar al personal de respuesta expuesto (para los departamentos de salud 
+estatales y locales)  
+Nota: Los comentarios en esta página (Anexo  5) son para uso exclusivo de las autoridades de salud pública y no deben 
+proporcionar se al per sonal de respuesta que se auto controlan para detectar enfermedades des pués de la desmovilización. 
+ 
+Los departamentos de sal ud estatales han solicitado una guía más detallada sobre cómo determinar si un 
+responsable del servicio de respuesta expu
+Text Len: 1077
+--------------------------------------------------------------------------------
+al de respuesta que se auto controlan para detectar enfermedades des pués de la desmovilización. 
+ 
+Los departamentos de sal ud estatales han solicitado una guía más detallada sobre cómo determinar si un 
+responsable del servicio de respuesta expuesto debe someterse a la prueba de una posible infección por el 
+virus de la influenza aviar. Todo el personal de respuesta potencialmen te expuesto que presente signos o 
+síntomas compatibles con la influenza debe hacerse la prueba. Dado que actualmente  se considera que el 
+riesgo de transmisión de los virus de la influenza aviar de animal a humano es bajo, y la lista de signos y 
+síntomas proporcionada por los CDC es amplia, esto puede dar lugar a que se realicen pruebas de influenza 
+a muchas personas, cuya mayoría probablemente resulte negativa para la infección por el virus de la 
+influenza aviar. Esto puede crear una carga considerable para los recursos de salud pública estatales y 
+locales y generar la necesidad de limitar las pruebas a las personas que se consideran “en mayor riesgo”.  
+ 
+Los brotes del virus de la influenza aviar en las aves pueden ocurrir durante el pico de la temporada de 
+influenza en los Estados Unidos, tiempo durante el c
+Text Len: 1214
+--------------------------------------------------------------------------------
+ de limitar las pruebas a las personas que se consideran “en mayor riesgo”.  
+ 
+Los brotes del virus de la influenza aviar en las aves pueden ocurrir durante el pico de la temporada de 
+influenza en los Estados Unidos, tiempo durante el cual muchos responsables del servicio de respuesta 
+pueden enfermarse de influenza estacional. Esto podría resultar en un gran número de personas que 
+calificarían para las pruebas. Estas personas deben someterse a la prueba de la influenza, ya que las personas 
+con influenza estacional que presentan signos y síntomas de ILI “típicos” son exactamente las personas a las 
+que se les debe hacer la prueba para detectar la infección por el virus de la influenza aviar en virtud de este 
+plan de monitoreo. Sin las pruebas RT -PCR, no es posible determinar si un responsable del servicio de 
+respuesta con ILI tiene una infección por el virus de la influenza aviar o estacional.  
+ 
+Si los recursos lo permiten, los CDC/División d e Influenza recomiendan que todo el personal de respuesta 
+expuesto que presente signos o síntomas consistentes con la influenza se haga la prueba. Si la demanda de 
+pruebas excede la capacidad de salud pública local o estatal, entonces se puede considerar prioriz
+Text Len: 1230
+--------------------------------------------------------------------------------
+endan que todo el personal de respuesta 
+expuesto que presente signos o síntomas consistentes con la influenza se haga la prueba. Si la demanda de 
+pruebas excede la capacidad de salud pública local o estatal, entonces se puede considerar priorizar casos en 
+investigación  (CUI) para la prueba. Desafortunadamente, los CDC no pueden ofrecer un algoritmo de 
+priorización para abordar todos los CUI; los estados deben usar s u mejor juicio y considerar cada CUI caso 
+por caso. Sin embargo, aquí se describen algunos principios rectores:  
+ 
+• Recomendamos un umbral bajo para realizar pruebas a las personas expuestas a aves infectadas con 
+virus de la influenza aviar o superficies y ambientes potencialmente contaminados. Actualmente, se 
+sabe poco sobre la manifestación clínica de la infección humana con estos virus de la influenza 
+aviar; sin embargo, la infección  humana con estos virus de influenza aviar puede compartir 
+características de la infección humana con otros virus de influenza aviar (p.  ej., virus HPAI H5 de 
+linaje euroasiático y virus LPAI y HPAI H7N9 de linaje asiático), y puede ser posible una amplia 
+variedad de presentacion
+Text Len: 1156
+--------------------------------------------------------------------------------
+ infección humana con otros virus de influenza aviar (p.  ej., virus HPAI H5 de 
+linaje euroasiático y virus LPAI y HPAI H7N9 de linaje asiático), y puede ser posible una amplia 
+variedad de presentaciones clínicas, que incluyen  alguna enfermedad clínica leve tal como 
+conjuntivitis solamente o alguna enfermedad similar a la influenza autolimitada.  
+• Si prioriza los CUI para las pruebas, es posible que desee considerar tanto (I) los signos y síntomas 
+clínicos de un paciente como (II) la naturaleza de su exposición. Los signos y síntomas enumerados 
+en el plan de monitoreo y proporcionados aquí enumeran los signos y síntomas más típicos de las 
+enfermedades respiratorias en la columna izquierda y otros signos y síntomas en la columna 
+derecha. La nueva aparición o el empeoramiento de cualquier signo o síntoma de la columna 
+izquierda deberían arrojar pruebas de influenza. Un CUI con un signo o síntoma aislado de la 
+columna derecha (p. ej., dolor de cabeza solamente, fatiga generalizada, diarrea solamente) puede 
+ser de menor prioridad
+Text Len: 1054
+--------------------------------------------------------------------------------
+quierda deberían arrojar pruebas de influenza. Un CUI con un signo o síntoma aislado de la 
+columna derecha (p. ej., dolor de cabeza solamente, fatiga generalizada, diarrea solamente) puede 
+ser de menor prioridad para las pruebas, según la naturaleza de la exposición. La exposición directa 
+y/o prolongada (p. ej., un incumplimiento con el EPP que no se descubrió hasta el final de un turno 
+de sacrificio de 8 horas) puede significar que se debe priorizar la prueba, incluso en los CUI con un 
+signo o síntoma aislado de la columna derecha. La presencia de múltiples signos o síntomas de la 
+derecha también puede significar que hay que priorizar las pruebas. 
+ 
+ 
+19 
+03/14/2022 
+ 
+Controle su salud cuidadosamente durante su movilización y durante 10 días a partir del fin de su 
+movilización. Evalúe la presencia de un nuevo inicio o empeoramiento de cualquiera de los 
+siguientes signos y síntomas: 
+ 
+• Fiebre (temperatura de 100  °F 
+[37,8 °C] o mayor) o sensa ción de 
+fiebre/escalofríos*  
+Text Len: 1000
+--------------------------------------------------------------------------------
+ o empeoramiento de cualquiera de los 
+siguientes signos y síntomas: 
+ 
+• Fiebre (temperatura de 100  °F 
+[37,8 °C] o mayor) o sensa ción de 
+fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  
+* Es posi bl e que l a fi ebr e no si empr e esté pr esente  
+ 
+• Lagrimeo, enrojecimiento o irritación 
+de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+• Los comentarios en esta página (Anexo  5) son para uso exclusivo de las autoridades de salud 
+pública y no deben proporcionarse al personal de respuesta que se auto controlan para detectar 
+enfermedades después de la desmovilización. El personal de respuesta,  el APHIS y los oficiales de 
+seguridad del Contratista deben notificar al departamento de salud pública del estado si 
+experimentan alguno de los signos o síntomas que se indican en las columnas de la lista. 
+• Los CDC continuarán analizando las pautas para evaluar a las personas expuestas a medida que se 
+disponga
+Text Len: 1027
+--------------------------------------------------------------------------------
+o de salud pública del estado si 
+experimentan alguno de los signos o síntomas que se indican en las columnas de la lista. 
+• Los CDC continuarán analizando las pautas para evaluar a las personas expuestas a medida que se 
+disponga de más información sobre la epidemiología y el potencial de transmisión de estos virus de 
+influenza aviar de animales a humanos. 
+• Si tiene preguntas sobre si las pruebas son apropiadas para un CUI y de sea hablar con los CDC, 
+llame a la División de Influenza al 404-639-3747 durante el horario de atención normal, y al Centro 
+de Operaciones de Emergencia de los CDC al 770-488-7100 fuera del horario de atención. 
+ 
+Tenga en cuenta que las infecciones humanas previas con ciertos virus de la influenza aviar han resultado en 
+conjuntivitis (y, a veces, este ha sido el único signo manifestado). Por esa razón, si los pacientes se presentan 
+para las pruebas de influenza como CUI con conjuntivitis, los CDC recomiendan obtener muestras 
+respiratorias (visite https://www.cdc.gov/flu/avianflu/severe -potential.htm  para obtener más información) y 
+una muestra conjuntival. Si el laboratorio de salud públic
+Text Len: 1143
+--------------------------------------------------------------------------------
+untivitis, los CDC recomiendan obtener muestras 
+respiratorias (visite https://www.cdc.gov/flu/avianflu/severe -potential.htm  para obtener más información) y 
+una muestra conjuntival. Si el laboratorio de salud pública  del estado no puede analizar la muestra 
+conjuntival para detectar la influenza, es posible que se envíe a los CDC para su análisis.  
+ 
+Para obtener información adicional sobre las pruebas para pacientes en observación de una posible infección 
+por el virus de la influenza aviar (incluida la recolección y el procesamiento de muestras), consulte la Guía 
+provisional sobre pruebas,  Recolección y procesamiento de muestras para pacientes con sospecha de 
+infección por los nuevos virus  de la influenza A con el potencial de causar enfermedades graves en humanos 
+o auto observación de enfermedades para personal de respuesta a brotes de influenza aviar en aves de corral | 
+Influenza aviar (gripe) (cdc.gov) . 
+ 
+Text Len: 936
+--------------------------------------------------------------------------------
+1 
+03/14/2022 
+ 
+Plan de vigilancia de la salud pública para los representantes de USDA/APHIS que responden a las 
+detecciones del virus de la influenza aviar en las aves de corral  
+ 
+Este documento proporciona orientación a las autoridades de salud pública locales, estatales y f ederales 
+sobre el monitoreo de personas potencialmente expuestas a los virus de la influenza aviar durante las 
+actividades de respuesta oficiales del Servicio de Inspección de Sanidad Animal y Vegetal (Agriculture 
+Animal and P lant Health Inspection Service, APHIS) del Departamento de Agricultura de los Estados 
+Unidos en los Estados Unidos. Las actividades de respuesta pueden incluir actividades de despoblación, 
+eliminación y limpieza y desinfección relacionadas con las aves afectadas o sus entornos, u otras 
+actividades que los Centros para el Control y la Prevención de Enfermedades (Centers for Disease 
+Control and Prevention, CDC) o APHIS consideren relacionadas con la respuesta. Los virus de la 
+influenza aviar de interés para la salud pública incluyen aquellos virus que se sabe que han causado 
+enfermedades graves en humanos, tales como el virus HPAI H5N1 de linaje euroasiático 
+A/goose/Guangd
+Text Len: 1198
+--------------------------------------------------------------------------------
+ virus de la 
+influenza aviar de interés para la salud pública incluyen aquellos virus que se sabe que han causado 
+enfermedades graves en humanos, tales como el virus HPAI H5N1 de linaje euroasiático 
+A/goose/Guangdong/1/96 (gs/GD) y el virus LPAI de linaje asiático y virus HPAI H7N9. Los virus de la 
+influenza aviar que son similares a los virus que se sabe que causan enfermedades graves en humanos 
+también son motivo de preocupación para la salud pública debido a su aparente potencial de causar 
+enfermedades graves en humanos. Estos incluyen los virus gs/GD HPAI H5 y LPAI y HPAI H7 de linaje 
+norteamericano asociados con brotes en aves de corral en los Estados Unidos entre 2014 y 2017. Se 
+puede determinar que otros virus de la influenza aviar son un problema de salud pública en función de 
+circunstancias específicas. 
+ 
+El propósito de este plan de monitoreo es facilitar la identificación oportuna de posibles infecciones 
+humanas con virus de la influenza aviar para garantizar que el personal expuesto reciba evaluación y 
+tratamiento médico inmediatos, si es necesario, y para evitar una
+Text Len: 1107
+--------------------------------------------------------------------------------
+ monitoreo es facilitar la identificación oportuna de posibles infecciones 
+humanas con virus de la influenza aviar para garantizar que el personal expuesto reciba evaluación y 
+tratamiento médico inmediatos, si es necesario, y para evitar una posible propagación secundaria. 
+ 
+Los CDC recomiendan ( https://www.cdc.gov/flu/avianflu/h5/infected-birds-exposure.htm) que todas 
+las personas expuestas a aves infectadas o ambientes contaminados por virus, con virus de influenza 
+aviar de interés para la salud pública, sean monitoreadas para detectar enfermedades durante 
+10 días después de su última exposición. Los departamentos de salud estatales deben notificar a los 
+CDC de inmediato cuando realicen pruebas a cualquier paciente en virtud de una investigación pa ra  
+detectar una infección por el virus de la influenza aviar. 
+ 
+Aunque este plan de monitoreo está dirigido a la personal que responde a brotes de influenza aviar, la 
+guía que contiene también se puede usar para monitorear a personas que no pertenecen al 
+Departamento de Agricultura de los Estados Unidos (Department of Agriculture of the United States, 
+USDA) o contrat istas pero que han estado expuestas a aves infect
+Text Len: 1194
+--------------------------------------------------------------------------------
+ contiene también se puede usar para monitorear a personas que no pertenecen al 
+Departamento de Agricultura de los Estados Unidos (Department of Agriculture of the United States, 
+USDA) o contrat istas pero que han estado expuestas a aves infectadas con virus de influenza aviar 
+(p. ej., trabajadores o residentes de granjas donde se han identificado virus de influenza aviar en aves). 
+Los departamentos de salud pública estatales y locales  deben identificar a las personas expuestas que 
+quedan fuera de la categoría de "personal que responde" y monitorearlas de acuerdo con la guía 
+contenida en este plan. Consulte las Secciones 1 a 6 y los Anexos 5 y 6 de este documento para obtener 
+orientación que puede ser apropiada para el personal que presta servicios de respuesta.  
+ 
+Tabla de contenido 
+Sección 1: Antecedentes y justificación para monitorear  a los representantes expuestos 
+Sección 2: Resumen del plan de seguimiento revisado  
+Sección 3: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta  
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensaj
+Text Len: 1189
+--------------------------------------------------------------------------------
+: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta  
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensajes de texto 
+Sección 6: Criterios para implementa r, suspender y restablecer el monitoreo 
+Anexo 1: Instrucciones de movilización (que se entregarán al personal de respuesta al comenzar las 
+actividades de respuesta) 
+ 
+1 Un representante de los servicios de respuesta del APHIS es cualquier empleado del APHIS calificado para ocupar un puesto de respuesta de emergencia 
+en apoyo a un incidente agrícola o de todo riesgo. 
+2 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán a 
+todos los oficiales de seguridad involucrados en las actividades de respuesta a la influenza aviar)  
+Anexo 3: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta)  
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+Anexo 5: Guía para eval
+Text Len: 1104
+--------------------------------------------------------------------------------
+: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta)  
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+Anexo 5: Guía para evaluar al personal de respuesta expuesto (departamentos de salud estatales y locales) 
+Anexo 6: Preguntas frecuentes (documento separado para los departamentos de salud estatales y locales, 
+previa solicitud)  
+ 
+Sección 1: Antecedentes y fundamentos para monitorear al personal expuesto 
+ 
+En respuesta a los grandes brotes en aves de corral del virus de la influenza aviar en los Estados Unidos 
+en 2014 y 2015, los CDC y el APHIS redactaron recomendaciones conjuntas de monitoreo para las 
+personas expuestas a aves de corral infectadas en los Estados Unidos. Dado que el riesgo de transmisión 
+de aves a humanos para estos virus no estaba claro, se redactaron recomendaciones estrictas de monitoreo 
+basadas en lo que se sabía sobre los virus H5 gs/GD HPAI de linaje euroasiático.  
+ 
+Estas recomendaciones requerían un monitoreo activo de las personas expuestas al virus. El monitoreo 
+activo significó que alguien contactó a c
+Text Len: 1147
+--------------------------------------------------------------------------------
+ que se sabía sobre los virus H5 gs/GD HPAI de linaje euroasiático.  
+ 
+Estas recomendaciones requerían un monitoreo activo de las personas expuestas al virus. El monitoreo 
+activo significó que alguien contactó a cada responsable del servicio de respuesta diariamente para 
+evaluar el estado de salud. Se recomendó el monitoreo tanto durante el período de exposición como 
+durante los 10 días posteriores a la última exposición para enfermedades definidas util izando una 
+definición amplia de enfermedades respiratorias o conjuntivitis. Se tomaron muestras de las personas 
+que estaban enfermas y se analizaron en el laboratorio de salud pública estatal utilizando el panel de 
+diagnóstico de RT-PCR en tiempo real del virus de la influenza humana de los CDC para su detección. 
+ 
+Además, las recomendaciones significaron que, en una amplia respuesta, se siguió a un gran número de 
+personas durante largos períodos, lo que requería muchos recursos. Como tal, las recomendacione s 
+actuales para monitorear al personal de respuesta posiblemente expuestos a los virus de la influenza aviar 
+en los Estados Unidos pueden ser demasiado estrictas. Después de varios a
+Text Len: 1165
+--------------------------------------------------------------------------------
+ lo que requería muchos recursos. Como tal, las recomendacione s 
+actuales para monitorear al personal de respuesta posiblemente expuestos a los virus de la influenza aviar 
+en los Estados Unidos pueden ser demasiado estrictas. Después de varios años de recopilar datos de 
+respuesta, los CDC y el APHIS revisaron los datos (incluidos los datos del personal de respuesta y las 
+pruebas de evaluación de riesgos para gs/GD HPAI H5 y los virus LPAI y HPAI H7 de linaje 
+norteamericano asociados con brotes en aves de corral en los Estados Unidos entre 2014 y 20172) y revisó 
+las recomendaciones de seguimiento en función de la mejor evidencia disponible (presentada para su 
+publicación). 
+ 
+Los resultados de los datos recopilados indicaron lo siguiente:  
+• Los datos existentes de la Herramienta de Evaluación de Riesgos de Influenza (Influenza Risk 
+Assessment Tool, IRAT) sugieren un riesgo bajo a moderado (ingrese a 
+https://www.cdc.gov/flu/pandemic-resources/monitoring/irat-virus-summaries.htm). 
+• No se detectaron infecciones humanas.  
+• El riesgo para el personal de respuesta fue bajo, aunque el poder para decir
+Text Len: 1125
+--------------------------------------------------------------------------------
+rese a 
+https://www.cdc.gov/flu/pandemic-resources/monitoring/irat-virus-summaries.htm). 
+• No se detectaron infecciones humanas.  
+• El riesgo para el personal de respuesta fue bajo, aunque el poder para decir esto con seguridad 
+varió según el año y el virus. 
+• La mayoría de los datos procedían de personal de respuesta que usaba equipo de protección 
+personal (EPP), lo que podría limitar la interpretación de los resultados.  
+Debido a estos hallazgos, el APHIS y los CDC los revisaron conjuntamente y determinaron que se podría 
+reanudar el monitoreo pasivo de personas que usan EPP y responden a ciertos virus H5 y H7 que no 
+tienen antecedentes de causar infecciones humanas, tanto durante la movilización como la 
+desmovilización, sustituyendo las recomendaciones anteriores para procedimientos de seguimiento activo 
+de estas personas.  
+2 Eurasia A/goose/Guangdong/1/1996 -lineage (gs/GD/96) virus HPAI H5N8 clado 2.3.4.4; reordenamientos de gs/GD/96 H5N8 con virus del linaje de 
+aves silvestres de Norteamérica (LPAI) (reordenamiento H5N
+Text Len: 1051
+--------------------------------------------------------------------------------
+1996 -lineage (gs/GD/96) virus HPAI H5N8 clado 2.3.4.4; reordenamientos de gs/GD/96 H5N8 con virus del linaje de 
+aves silvestres de Norteamérica (LPAI) (reordenamiento H5N2 y reordenamiento H5N1); linaje de aves silvestres de Norteamérica LPAI y virus HPAI 
+H7N8; y el virus LPAI y HPAI H7N9 del linaje de aves silvestres de Norteamérica 
+3 
+03/14/2022 
+ 
+Sección 2: Resumen del plan de seguimiento revisado 
+Las recomendaciones revisadas para el monitoreo basadas en la mejor evidencia disponible incluyen las 
+siguientes propuestas.  
+• Si se responde a un virus de la influenza aviar de interés para la salud pública no informado 
+anteriormente, las recomendaciones de monitoreo activo siguen siendo las mismas.  
+• Si responde a uno de los virus evaluados2, HPAI H5N8 y H5N2; LPAI y/o HPAI H7N8 o H7N9:  
+o Monitoreo activo de personas expuestas sin EPP o incumplimiento en el EPP usado (sin 
+cambios en la recomendación). 
+o Monitoreo pasivo de personas que
+Text Len: 963
+--------------------------------------------------------------------------------
+ LPAI y/o HPAI H7N8 o H7N9:  
+o Monitoreo activo de personas expuestas sin EPP o incumplimiento en el EPP usado (sin 
+cambios en la recomendación). 
+o Monitoreo pasivo de personas que usan EPP (cambiar la recomendación par a que el 
+personal de respuesta se autocontrole e informe cualquier enfermedad al funcionario de 
+seguridad [durante la respuesta] o a las autoridades de salud pública [10 días después de la 
+última exposición]). 
+o Las recomendaciones describen los factores para restablecer el monitoreo activo (p.  ej., 
+nueva evidencia genética o antigénica que sugiera un aumento en el riesgo de transmisión de 
+animal a humano). 
+De conformidad con el plan de vigilancia anterior y las recomendaciones revisadas, se mantendrán los 
+siguientes procedimientos.  
+• Tras la activación de la respuesta a la identificación del virus de la influenza aviar, el APHIS 
+proporcionará a todo el personal de respuesta del APHIS instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas compatibles con enfermedades 
+respiratorias o
+Text Len: 1089
+--------------------------------------------------------------------------------
+IS 
+proporcionará a todo el personal de respuesta del APHIS instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas compatibles con enfermedades 
+respiratorias o conjuntivitis, e instrucciones para informar los síntomas a los oficiales de seguridad del 
+APHIS de inmediato (Anexo 1). De manera similar, los funcionarios de Contratación o su designado 
+proporcionarán a todo el personal de respuesta contratado instrucciones de movilización, incluida una 
+descripción de este plan de monitoreo, una lista de signos y síntomas consistentes con enfermedades 
+respiratorias o conjuntivitis, e instrucciones para informar los síntomas a sus oficiales de seguridad 
+contratados de inmediato.  
+• El APHIS y los CDC capacitarán a todos los oficiales de seguridad de APHIS sobre los 
+procedimientos especificados en el plan de monitoreo (Adjunto 2). El APHIS y los CDC capacitarán a 
+todos los oficiales de seguridad contractual sobre los procedimientos especificados en el plan.  
+• El APHIS proporcionará a todos el personal de seguridad del APHIS, después de la desmovilización, 
+instrucc
+Text Len: 1142
+--------------------------------------------------------------------------------
+ CDC capacitarán a 
+todos los oficiales de seguridad contractual sobre los procedimientos especificados en el plan.  
+• El APHIS proporcionará a todos el personal de seguridad del APHIS, después de la desmovilización, 
+instrucciones para informar cualquier enfermedad respiratoria/conjuntival a la oficina de salud pública 
+estatal/local de su estado de destino (generalmente, el estado de residencia) (Anexo 3). Los 
+funcionarios de contratación o sus  designados proporcionarán a todos el personal de respuesta del 
+contratista, al momento de la desmovilización, instrucciones para  informar cualquier enfermedad 
+respiratoria/conjuntival a la oficina de salud pública estatal/local de su estado de destino 
+(generalmente, el estado de residencia). La División de/Influenza los CD C proporcionarán puntos de 
+contacto para poder utilizar.  
+• Los funcionarios de enlace del APHIS se comunicarán con los coordinadores de emergencias 
+locales/estatales en el área del incidente para analizar los recursos locales/estatales que pueden estar 
+disponibles y establecer puntos de atención para los empleados y contratistas del APHIS que trabajan 
+en el �
+Text Len: 1150
+--------------------------------------------------------------------------------
+ emergencias 
+locales/estatales en el área del incidente para analizar los recursos locales/estatales que pueden estar 
+disponibles y establecer puntos de atención para los empleados y contratistas del APHIS que trabajan 
+en el área. El funcionario de enlace comunicará todos los recursos y necesidades relevantes al oficial 
+de seguridad. 
+• El APHIS y los funcionarios de contratación (o sus designados) generarán un informe diario de la 
+desmovilización  del personal de respuesta y lo compartirán con la Oficina de Coordinación 
+Interinstitucional (Office of Interagency Coordination, OIC). La OCI consolidará los informes y 
+entregará un informe diario del personal de seguridad desmovilizado a los CDC/División de Influenza 
+(Anexo 4). CDC/División de Influenza distribuirá un informe a los contactos  de Salud Pública Estatal 
+apropiados a través de notificaciones Epi -X seguras y protegidas con contraseña. 
+4 
+03/14/2022 
+ 
+• La División de Influenza/los CDC proporcionarán orientación adicional (Adjunto 5) a los 
+departamentos de salud estatales y locales sobre cómo hacer un seguimiento con cualquier APHIS 
+desmov
+Text Len: 1127
+--------------------------------------------------------------------------------
+14/2022 
+ 
+• La División de Influenza/los CDC proporcionarán orientación adicional (Adjunto 5) a los 
+departamentos de salud estatales y locales sobre cómo hacer un seguimiento con cualquier APHIS 
+desmovilizado o responsable del servicio de respues ta del Contratista en su estado, según sea 
+necesario.  
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+5 
+03/14/2022 
+ 
+Sección 3: Supervisión de los equipos de respuesta movilizados y desmovilizados  
+Muchos departamentos de salud estatales y locales tienen una amplia experiencia en el control de personas 
+en busca de signos y síntomas de enfermedades infecciosas. Los CDC reconocen que los estados pueden 
+haber establecido protocolos o métodos preferidos para monitorear a las personas expuestas a aves 
+infectadas por influenza aviar o virus en ambientes  contaminados. Se pueden emplear diferentes protocolos 
+de monitoreo para un amplio conjunto de signos y síntomas que son consistentes con la influenza (más allá 
+de los síntomas convencionales de enfermedades similares
+Text Len: 1092
+--------------------------------------------------------------------------------
+ por influenza aviar o virus en ambientes  contaminados. Se pueden emplear diferentes protocolos 
+de monitoreo para un amplio conjunto de signos y síntomas que son consistentes con la influenza (más allá 
+de los síntomas convencionales de enfermedades similares a la influenza [Influenza -Like Illness, ILI]), si 
+es posible. 
+ 
+Los CDC recomiendan que todas las personas expuestas a aves infectadas o ambientes potencialmente 
+contaminados que involucren un virus de influenza aviar de interés para la salud pública no informado 
+anteriormente se deben monitorear según las recomendaciones anteriores, es decir, que el personal de 
+respuesta debe monitorearse activamente para detectar enfermedades durante su exposición y durante 
+10 días después de su última exposición.  
+ 
+Además, los CDC recomiendan que todas las personas expuestas a aves infectadas o ambientes 
+potencialmente contaminados, con uno de los virus evaluados 2 HPAI H5N8 y H5N2; LPAI y/o HPAI 
+H7N8 o H7N9 utilizan los siguientes procedimientos: 
+• Monitoreo activo de personas expuestas sin EPP o incumplimiento con el EPP (sin cambios en 
+la recomendación anterior). 
+Text Len: 1140
+--------------------------------------------------------------------------------
+ LPAI y/o HPAI 
+H7N8 o H7N9 utilizan los siguientes procedimientos: 
+• Monitoreo activo de personas expuestas sin EPP o incumplimiento con el EPP (sin cambios en 
+la recomendación anterior). 
+• Monitoreo pasivo de personas que usan EPP, mediante el cual se les pide al personal de 
+respuesta que se autocontrole e informe cualquier enfermedad al oficial de seguridad durante la 
+respuesta, o a las autoridades de salud pública durante 10 días después de su última exposición 
+(un cambio a la recomendación anterior) . 
+Los departamentos de salud estatales, los oficiales de seguridad del APHIS y los oficiales de seguridad de 
+los contratistas deben compartir la responsabilidad de la evaluación, el seguimiento y el manejo posterior 
+de las personas que desarrollan enfermedades durante su movilización. Los departamentos de salud 
+estatales son responsables de monitorear al personal de respuesta después de su  movilización (es decir, 
+durante 10 días después de que se "desmovilicen", que también se considera el período posterior a la 
+exposición de 10 días del per sonal de respuesta). 
+ 
+Para el personal de
+Text Len: 1114
+--------------------------------------------------------------------------------
+és de su  movilización (es decir, 
+durante 10 días después de que se "desmovilicen", que también se considera el período posterior a la 
+exposición de 10 días del per sonal de respuesta). 
+ 
+Para el personal de seguridad que se enferman durante su movilización o durante su período posterior a la 
+exposición de 10 días, los departamentos de salud estatales deben ayudar con la evaluación y facilitar el 
+aislamiento inmediato del paciente (el aislamiento en el hogar es aceptable para los pacientes que no 
+requieren hospitalización por enfermedad) y las pruebas de RT-PCR para la influenza en un laboratorio 
+estatal de salud pública según corresponda.  
+ 
+Los departamentos de salud es tatales también deben notificar a los CDC de inmediato cuando realicen 
+pruebas a cualquier paciente bajo  investigación de la infección por el virus de la influenza aviar. Durante la 
+movilización de un responsable del servicio de respuesta, el departamento de salud estatal en el que se lleva 
+a cabo la actividad de respuesta debe notificar a los CDC de inmediato si están realizando pruebas a un 
+paciente bajo investigación para detectar una infección por el virus de la
+Text Len: 1164
+--------------------------------------------------------------------------------
+ respuesta, el departamento de salud estatal en el que se lleva 
+a cabo la actividad de respuesta debe notificar a los CDC de inmediato si están realizando pruebas a un 
+paciente bajo investigación para detectar una infección por el virus de la influenza aviar; después de la 
+movilización de un responsable del servicio de respuesta (durante su período de monitoreo posterior a la 
+exposición de 10 días), el estado de residencia del responsable del servicio de respuesta debe notificar a los 
+CDC de inmediato si se realiza una prueba a un paciente en investigación para detectar una infección por el 
+virus de la influenza aviar.  
+ 
+Puede encontrar orientación adicional sobre las pruebas de detección de infecciones por el virus de la 
+influenza aviar en personas, recomendaciones para el control de infecciones y tratamiento y profilaxis de 
+personas que pueden estar infectadas con los virus de la influenza aviar en 
+http://www.cdc.gov/flu/avianflu/healthprofessionals.htm. 
+  
+6 
+03/14/2022 
+ 
+ 
+Para el personal de seguridad movilizado bajo vigilancia activa, los oficiales de seguridad del APHIS o 
+los oficiales de seguridad del Contratista monitorearán al personal de
+Text Len: 1180
+--------------------------------------------------------------------------------
+essionals.htm. 
+  
+6 
+03/14/2022 
+ 
+ 
+Para el personal de seguridad movilizado bajo vigilancia activa, los oficiales de seguridad del APHIS o 
+los oficiales de seguridad del Contratista monitorearán al personal de respuesta para detectar 
+enfermedades e informarán a los departamentos de salud es tatales o locales (consulte el Anexo 2). 
+ 
+Para el personal de respuesta desmovilizado bajo vigilancia activa, los CDC recomiendan que los 
+departamentos de salud estatales y locales  implementen un protocolo de monitoreo que incluya al menos 
+contacto telefón ico durante el período posterior a la exposición de 10 días de la siguiente manera. Se puede 
+emplear un monitoreo más frecuente o en persona según lo permitan los recursos. La siguiente es una guía 
+para el nivel mínimo de monitoreo activo recomendado para el personal de seguridad desmovilizado.  
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+7 
+03/14/2022 
+ 
+ 
+• Día 1 del período posterior a la exposición (o al reg
+Text Len: 1043
+--------------------------------------------------------------------------------
+ PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+7 
+03/14/2022 
+ 
+ 
+• Día 1 del período posterior a la exposición (o al regresar al estado de residencia): Establecer contacto 
+telefónico para: (I) evaluar cualquier enfermedad consistente con la influenza, (II) describir los 
+parámetros del plan de monitoreo, incluyendo lo que se espera del personal de respuesta durante los días 
+2-9 (ver más abajo), (III) propo rcionar instrucciones adicionales para acatar si la enfermedad se 
+manifiesta (según sea necesario), y (IV) verificar e intercambiar información de contacto.  
+ 
+Determinar y registrar durante la primera conversación telefónica la naturaleza del nivel más alto  de 
+exposición durante la movilización más reciente. Las exposiciones pueden clasificarse en (al menos) los 
+siguientes tres niveles: 
+i. Sin exposición a aves infectadas o a su entorno (p.  ej., tareas administrativas en un puesto de 
+Mando de Incidentes).  
+ii. Exposición a aves infectadas y/o a su entorno mientras se usa el
+Text Len: 1043
+--------------------------------------------------------------------------------
+ tres niveles: 
+i. Sin exposición a aves infectadas o a su entorno (p.  ej., tareas administrativas en un puesto de 
+Mando de Incidentes).  
+ii. Exposición a aves infectadas y/o a su entorno mientras se usa el equipo de protección personal 
+(EPP) recomendado en todo momento.  
+iii. Exposición a aves infectadas y/o a su entorno cuando no se usa el EPP recomendado (p.  ej., 
+exposición antes de ponerse el EPP o una incumplimiento en el uso del EPP durante las actividades 
+de respuesta). 
+ 
+• Día 2 al día 9 del período posterior a la exposición: Los personal de respuesta debe estar bajo 
+observación a diario para detectar signos y síntomas consistentes con la influenza, y comunicarse con el 
+departamento de salud estatal/local si se desarrollan signos o síntomas consistentes con la influenza.  
+• Día 10 del período posterior a la exposición: Establecer contacto telefónico para verificar el estado de 
+salud e informar al responsable del servicio de respuesta que su período de monitoreo ha concluido.  
+ 
+Cuando se está llevando a cabo un monitoreo activo del personal de respuesta del brote, los CDC solicitan 
+la siguiente
+Text Len: 1134
+--------------------------------------------------------------------------------
+ estado de 
+salud e informar al responsable del servicio de respuesta que su período de monitoreo ha concluido.  
+ 
+Cuando se está llevando a cabo un monitoreo activo del personal de respuesta del brote, los CDC solicitan 
+la siguiente información a los departamentos de salud estatales:  
+ 
+• Notificación inmediata (telefónica) al realizar pruebas de infección por el virus de la influenza aviar en 
+cualquier caso en investigación (Case Under Investigation, CUI). 
+• Notificación inmediata (telefónica) de cualquier muestra respiratoria que resulte positiva para el virus 
+de la influenza A/H5 o A/H7 o que resulte positiva para el virus de la influenza  A, pero que no pueda 
+ser subtipificada en el Laboratorio Estatal de Salud Pública.  
+• Una lista de líneas diarias (enviada por correo electrónico a VS ICG One Health, 
+VS.SP.OHC@usda.gov)) con información que describa todos los CUI, para incluir a todo el personal de 
+respuesta movilizado o desmovilizado, y a todas las demás personas  expuestas a aves infectadas o 
+ambientes contaminados. Los CDC proporcionarán la plantilla de lista de líneas.  
+ 
+Sección 4: Profilaxis y
+Text Len: 1135
+--------------------------------------------------------------------------------
+ 
+respuesta movilizado o desmovilizado, y a todas las demás personas  expuestas a aves infectadas o 
+ambientes contaminados. Los CDC proporcionarán la plantilla de lista de líneas.  
+ 
+Sección 4: Profilaxis y tratamiento antiviral para el personal de respuesta 
+La quimioprofilaxis no se recomienda rutinariamente para las personas que usaron EPP mientras 
+participaban en actividades de despoblación, eliminación o limpieza y desinfección. Las decisiones de 
+iniciar la  quimioprofilaxis antiviral deben basarse en el juicio clínico, teniendo en cuenta el tipo de  
+exposición y si la persona expuesta tiene un alto riesgo de complicaciones por la influenza . Si se inicia la 
+quimioprofilaxis antiviral posterior a la exposición, se recomienda la dosificación del tratamiento para los 
+inhibidores de la neuraminidasa oseltamivir o zanamivir (una dosis, dos veces al día) en estos casos en 
+lugar del esquema típico de quimioprofilaxis antiviral recomendado en algunas circunstancias para las 
+exposiciones a la influenza  estacional (una dosis, una vez al día). Para obtener más información, consulte la 
+Guía Provisional sobre la Influenza  Quimioprofil
+Text Len: 1157
+--------------------------------------------------------------------------------
+ quimioprofilaxis antiviral recomendado en algunas circunstancias para las 
+exposiciones a la influenza  estacional (una dosis, una vez al día). Para obtener más información, consulte la 
+Guía Provisional sobre la Influenza  Quimioprofilaxis antiviral de personas expuestas a aves con virus de la 
+influenza aviar A asociados  con enfermedades humanas graves o con el potencial de causar enfermedades 
+humanas graves . 
+ 
+Si un responsable del servicio de respuesta desarrolla signos o síntomas  consistentes con la influenza 
+durante su período de monitoreo, se recomienda el inicio inmediato del tratamiento con medicamentos 
+antivirales contra la influenza mientras están pendientes  las pruebas de laboratorio. 
+8 
+03/14/2022 
+ 
+El tratamiento recomendado es de dos dosis por día de oseltamivir oral o zanamivir inhalado durante 
+5 días. Cuando esté justificado, el tratamiento antiviral debe iniciarse lo antes posible, incluso si han 
+transcurrido más de 48 horas desde el inicio de la enfermedad. 
+ 
+Debe haber un umbral bajo para iniciar el tratamiento en personal de respuesta sintomático mientras las 
+pruebas de laboratorio están pendientes.
+Text Len: 1152
+--------------------------------------------------------------------------------
+ han 
+transcurrido más de 48 horas desde el inicio de la enfermedad. 
+ 
+Debe haber un umbral bajo para iniciar el tratamiento en personal de respuesta sintomático mientras las 
+pruebas de laboratorio están pendientes. Si las pruebas de laboratorio son negativas para el virus de la 
+influenza, se puede interrumpir el tratamiento. Para obtener más información,  consulte la Guía provisional 
+sobre el uso de medicamentos antivirales para el tratamiento de  infecciones humanas con los nuevos virus 
+de la influenza A asociados con enfermedades humanas graves. Para e l personal de respuesta que requiere 
+tratamiento antiviral o profilaxis posterior a la exposición, las reservas estatales y federales de oseltamivir 
+pueden estar disponibles para uso de los departamentos de salud estatales. Para obtener más orientación, 
+comuníquese con los CDC/División de Influenza al 404-639-3747. 
+Para obtener recomendaciones de dosis específicas para el tratamiento o la profilaxis con dosis de 
+tratamiento, consulte Medicamentos antivirales contra la influenza: Resumen para médicos. Los médicos 
+deben consultar el  prospecto del fabricante para conocer la posología, las limitaciones
+Text Len: 1179
+--------------------------------------------------------------------------------
+íficas para el tratamiento o la profilaxis con dosis de 
+tratamiento, consulte Medicamentos antivirales contra la influenza: Resumen para médicos. Los médicos 
+deben consultar el  prospecto del fabricante para conocer la posología, las limitaciones de las poblaciones 
+estudiadas, las contraindicaciones y  los efectos adversos. Si la exposición fue temporal y no continua, se 
+recomiendan cinco d ías de medicación (una dosis, dos veces al día), a partir de la última exposición 
+conocida.  
+ 
+Sección 5: Introducción al monitoreo del personal de respuesta a través de mensajes de texto 
+Es probable que los departamentos de salud estatales y locales realicen el monitoreo después de la 
+desmovilización mediante llamadas telefónicas, que pueden ser un proceso lento y que demanda tiempo. 
+Los CDC han colaborado con la Asociación Nacional de Funcionarios de Salud del País y la Ciudad 
+(National Association of Country and City Health Officials, NACCHO) y la Campaña de Cumplimiento 
+para desarrollar un sistema de monitoreo que utiliza el Servicio de Mensajes Cortos (Short Message 
+Service, SMS) bidireccional/mensajes de texto para ayudar en el proceso. 
+
+Text Len: 1160
+--------------------------------------------------------------------------------
+ City Health Officials, NACCHO) y la Campaña de Cumplimiento 
+para desarrollar un sistema de monitoreo que utiliza el Servicio de Mensajes Cortos (Short Message 
+Service, SMS) bidireccional/mensajes de texto para ayudar en el proceso. 
+ 
+Los mensajes de texto son un método potencialmente más eficiente para obtener, manejar y actuar sobre 
+cualquier síntoma de influenza posterior a la movilización experimentada por el personal de respuesta, y 
+los estudios de investigación han usado mensajes de texto para monitorear los síntomas de la influenza con 
+éxito. La participación en el programa de monitoreo de texto sería voluntaria tanto para los departamentos 
+de salud estatales/locales como para el personal de respuesta. El responsable del servicio de respuesta que 
+consienta y resida en los municipios estatales y locales participantes recibiría automáticamente un mensaje 
+de texto por día durante 10 días preguntando si tiene o no síntomas consistentes con la influenza. Los 
+trabajadores sanitarios estatales/locales se rían alertados de inmediato sobre cualquier respuesta positiva y 
+sobre cualquier responsable del servicio de respuesta que no conteste dos  mensajes consecutivos (es decir, 
+dos días sin respu
+Text Len: 1223
+--------------------------------------------------------------------------------
+trabajadores sanitarios estatales/locales se rían alertados de inmediato sobre cualquier respuesta positiva y 
+sobre cualquier responsable del servicio de respuesta que no conteste dos  mensajes consecutivos (es decir, 
+dos días sin respuesta al mensaje). Toda la información compartida a través del serv icio de mensajes de 
+texto permanecería confidencial y no se compartiría más que con los trabajadores sanitarios 
+estatales/locales apropiados. Si un estado está interesado en usar esta plataforma, debe ponerse en contacto 
+con los CDC/División de Influenza al 404 -639-3747. 
+9 
+03/14/2022 
+ 
+Sección 6: Criterios para implementar, suspender y restablecer el monitoreo 
+Las recomendaciones para implementar, suspender y restablecer el monitoreo del personal de respuesta 
+expuesto a aves infectadas con virus de la influe nza aviar se basarán en una evaluación de riesgos. La 
+evaluación de riesgos debe incluir lo siguiente.  
+• Un análisis de la magnitud y distribución de los brotes en aves  
+• Nuevos datos científicos que cambian la comprensión de la transmisión (p.  ej., evidencia genética, 
+Text Len: 1104
+--------------------------------------------------------------------------------
+ debe incluir lo siguiente.  
+• Un análisis de la magnitud y distribución de los brotes en aves  
+• Nuevos datos científicos que cambian la comprensión de la transmisión (p.  ej., evidencia genética, 
+antigénica o de modelo animal de un aumento o disminución de la ineficacia por un cambio en el 
+virus) 
+• Evidencia epidemiológica de un cambio en el riesgo de transmisión (p.  ej., identificación de casos 
+humanos que se cree que son el resultado de la transmisión de animal a humano o de humano a 
+humano)  
+ 
+La evaluación de riesgos de los CDC se guía por una Herramienta de Evaluación de Riesgos de Influenza 
+(Influenza Risk Assessment Tool, IRAT); visite https://www.cdc.gov/flu/pandemic -resources/national -
+strategy/risk-assessment.htm ), que evalúa 10 el ementos de riesgo asociados con los virus de la influenza. 
+Estos 10 elementos se pueden clasificar en las siguientes  tres áreas principales: (I) propiedades del virus, 
+(II) atributos de la población, y (III) la ecología y epidemiología del virus. La IRAT está diseñada para 
+evaluar los virus de la influenza A que no están circulando en la p
+Text Len: 1112
+--------------------------------------------------------------------------------
+  tres áreas principales: (I) propiedades del virus, 
+(II) atributos de la población, y (III) la ecología y epidemiología del virus. La IRAT está diseñada para 
+evaluar los virus de la influenza A que no están circulando en la población humana. 
+ 
+Posibles criterios que contribuyen a la aplicación del monitoreo de la influenza aviar  
+• Identificación de los virus H5 de la HPAI y HPAI o LPAI H7 en parvadas de aves de corral en los 
+Estados Unidos.  
+ 
+Posibles criterios que contribuyen a suspender el monitoreo de la influenza aviar  
+• Cese de los brotes en aves en los Estados Unidos.  
+• Ausencia de infección humana entre un número específico de personas expuestas o después de un 
+período específico (p.  ej., una temporada de brotes en aves). 
+• Evidencia génica y antigénica que sugiere que los virus de la influenza aviar permanecen genéticamente 
+sin cambios después de un período específico (p.  ej., una temporada de brotes en aves). 
+• Se desarrollan mecanismos alternativos para evaluar al personal de respuesta con respecto a la 
+enfermedad, que se cree que son adecuados.
+Text Len: 1091
+--------------------------------------------------------------------------------
+ después de un período específico (p.  ej., una temporada de brotes en aves). 
+• Se desarrollan mecanismos alternativos para evaluar al personal de respuesta con respecto a la 
+enfermedad, que se cree que son adecuados. 
+• Una serie de puntajes de evaluación de la IRAT que indican que el riesgo de una pandemia planteada 
+por estos virus de la influenza aviar es bajo. 
+ 
+Posibles criterios que contribuyen a restablecer la vi gilancia de la influenza aviar 
+• Nueva evidencia génica o antigénica que sugiere un aumento en el riesgo de transmisión de animal a 
+humano.  
+• Identificación de infecciones humanas por virus de la influenza aviar en personas expuestas a aves 
+infectadas durante las actividades de respuesta.  
+• Un cambio en el alcance o el número de identificaciones de influenza aviar en aves (p.  ej., más estados 
+afectados, nuevas especies de aves afectadas) después de que se haya detenido la actividad de 
+monitoreo. 
+• Identificación de un nuevo virus de la influenza aviar reordenado en parvadas de aves de corral de los 
+EE. UU. 
+10 
+03/14/2022 
+ 
+Anexo 1: Instrucciones de
+Text Len: 1098
+--------------------------------------------------------------------------------
+ido la actividad de 
+monitoreo. 
+• Identificación de un nuevo virus de la influenza aviar reordenado en parvadas de aves de corral de los 
+EE. UU. 
+10 
+03/14/2022 
+ 
+Anexo 1: Instrucciones de movilización (que se entregarán al personal de respuesta al comenzar las 
+actividades de respuesta) 
+Para obtener más información, consulte:  
+• CDC/División de Influenza (Información para personas expuestas a aves infectadas con virus de 
+la influenza aviar de interés para la salud pública): https://www.cdc.gov/flu/avianflu/h5/infected-
+birds-exposure.htm 
+• CDC/División de Influenza (Instrucciones de auto observación  para desmovilizar al personal de 
+respuesta de la influenza aviar): https://www.cdc.gov/flu/avianflu/h5/demobilizing -
+responders.htm  
+ 
+Como responsable del servicio de respuesta a brotes de enfermedades de salud animal , tales como la 
+influenza aviar, puede participar en actividades que lo expongan a aves infectadas con el virus de la 
+influenza aviar o superficies y medioambiente  potencialmente contaminados con virus durante la 
+despoblación, eliminación y limpieza y desi nfección de las par
+Text Len: 1118
+--------------------------------------------------------------------------------
+ puede participar en actividades que lo expongan a aves infectadas con el virus de la 
+influenza aviar o superficies y medioambiente  potencialmente contaminados con virus durante la 
+despoblación, eliminación y limpieza y desi nfección de las parvadas afectadas. Aunque el riesgo de 
+enfermedad humana por los virus de la influenza aviar es bajo y hasta la fecha se han encontrado muy 
+pocas infecciones humanas con estos virus en los Estados Unidos, es esencial que siga cuidadosamente 
+todas las precauciones e instrucciones de los Servicios de Inspección de Sanidad de Plantas y Animales 
+(APHIS) del Departamento de Agricultura de los Estados Unidos (USDA) y de los Centros para el 
+Control y la Prevención de Enfermedades (CDC). Siga  corre ctamente todas las pautas operativas del 
+equipo de protección personal (EPP), la bioseguridad y el oficial de seguridad mientras esté de se rvicio. 
+Seguir estas instrucciones ayudará a proteger su salud y de otras personas que trabajan con usted. No 
+dude en hacer preguntas para garantizar su salud y seguridad.  
+ 
+1. Controle su salud cuidadosamente durante su movilización  y durante 10
+Text Len: 1139
+--------------------------------------------------------------------------------
+udará a proteger su salud y de otras personas que trabajan con usted. No 
+dude en hacer preguntas para garantizar su salud y seguridad.  
+ 
+1. Controle su salud cuidadosamente durante su movilización  y durante 10 días a partir del fin de su 
+movilización. Evalúe la presencia de un nuevo inicio o empeoramiento de cualquiera de los siguientes 
+signos y síntomas: 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+más) o sensación de fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posible que la fiebre no siem pre esté presente  
+• Lagrimeo, enrojecimiento o irritación de 
+los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+Manifestar cualquiera de estos signos o síntomas no significa necesariamente que esté infectado con un 
+virus de la influenza aviar, pero es importante que notifique a su oficial de seguridad de inmediato para 
+que lo puedan evaluar y recibir tratamiento si es necesario. 
+ 
+2. Si
+Text Len: 1019
+--------------------------------------------------------------------------------
+omas no significa necesariamente que esté infectado con un 
+virus de la influenza aviar, pero es importante que notifique a su oficial de seguridad de inmediato para 
+que lo puedan evaluar y recibir tratamiento si es necesario. 
+ 
+2. Si experimenta alguno de los signos o síntomas anteriores en cualquier momento durante la 
+movilización, póngase en contacto con los  siguientes recursos de inmediato . (La información a 
+continuación se completará en el sitio por el APHIS o el oficial de seguridad del Contratista).  
+ 
+En una situación de emergencia, busque atención médica de inmediato. 
+ 
+a. Nombre del oficial de seguridad (fechas de operación):    
+i. Número de teléfono principal:      
+ii. Número de teléfono móvil:      
+ 
+b. (Si su oficial de seguridad cambia durante su movilización)  
+ Nombre del oficial de seguridad (fechas de operación):    
+i. Número de teléfono principal:    
+11 
+03/14/2022 
+ 
+ii. Número de teléfono móvil:    
+ 
+c. Si no puede comunicarse con su oficial de
+Text Len: 993
+--------------------------------------------------------------------------------
+echas de operación):    
+i. Número de teléfono principal:    
+11 
+03/14/2022 
+ 
+ii. Número de teléfono móvil:    
+ 
+c. Si no puede comunicarse con su oficial de seguridad y necesita buscar atención médica, 
+proporcione la siguiente información de contacto del departamento de salud pública 
+estatal/local a su médico y dígale que usted es un responsable del servicio de respuesta al brote 
+del virus de la influenza aviar en ese estado:  
+i. Departamento de salud pública estatal/local   
+ii. Número de teléfono:   
+ 
+El departamento de salud pública estatal/local puede pedirle que busque atención médica para recolectar una 
+muestra respiratoria para una prueba que determine si tiene una infección por el virus de la influenza. La 
+prueba RT-PCR (para determinar si tiene influenza) se llevará a cabo sin costo adicional para usted o su 
+seguro médico, siempre que el departamento de salud pública estatal/local le pida que se someta a la prueba y 
+que la organice. Usted es responsable de cualquier gasto médico adicional rel
+Text Len: 1029
+--------------------------------------------------------------------------------
+ costo adicional para usted o su 
+seguro médico, siempre que el departamento de salud pública estatal/local le pida que se someta a la prueba y 
+que la organice. Usted es responsable de cualquier gasto médico adicional relacionado con el cuidado de su 
+enfermedad. 
+ 
+Los empleados federales pueden presentar un reclamo de remuneración laboral en cualquier momento que  
+perciban que hay alguna  lesión relacionada con el trabajo o una enfermedad ocupacional. Se debe contar con 
+documentación médica que respalde ese reclamo; de lo contrario, el Departamento de Trabajo puede 
+rechazarlo. 
+ 
+Gracias por contribuir al servicio de respuesta y por su cooperación para ayudar a garantizar que su  salud y la 
+de otros responsables del servicio de respuesta ante incidentes se controlen y se cuiden bien. Su salud y 
+seguridad es nuestra prioridad. 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+12 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán
+Text Len: 1071
+--------------------------------------------------------------------------------
+ INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+12 
+03/14/2022 
+ 
+Anexo 2: Instrucciones para el APHIS y los oficiales de seguridad del Contratista (que se entregarán a 
+los oficiales de seguridad del USDA/APHIS y a los oficiales de seguridad del Contratista que 
+participan en las actividades de respuesta a la influenza aviar)  
+ 
+Guía de autocontrol: 
+• Es importante que todo el personal de respuesta comprenda la importancia del autocontrol como parte 
+de un proceso eficaz de vigilancia y elaboración de informes. Los recordatorios frecuentes de la 
+importancia del autocontrol deben difundirse a través de canales de comunicación eficaces en cada 
+Puesto de Mando de Incidentes y deben incluir una lista de los signos y síntomas de la influenza. 
+• El APHIS y los oficiales de seguridad del Contratista deben proporcionar puntos directos de 
+comunicación y contacto entre personal de respuesta ante incidentes y las autoridades de salud pública 
+estatales y locales. Este personal de respuesta confía en su oficial de seguridad para responder 
+preguntas, quien debe estar disponible para ofrecer asistencia cuando el personal de
+Text Len: 1147
+--------------------------------------------------------------------------------
+re personal de respuesta ante incidentes y las autoridades de salud pública 
+estatales y locales. Este personal de respuesta confía en su oficial de seguridad para responder 
+preguntas, quien debe estar disponible para ofrecer asistencia cuando el personal de respuesta informen 
+una enfermedad. Es responsabilidad del oficial de seguridad de APHIS  seguir el protocolo que figura a 
+continuación al informar sobre sospechas de infección por influenza aviar en el personal de respuesta al 
+departamento de salud pública estatal/local (S/LPHD). La notificación oportuna y la coordinación entre 
+el personal de los centros de atención médica, el S/LPHD, el USDA/APHIS y los CDC es importante 
+para garantizar que se realicen las pruebas correspondientes y se brinde la atención médica adecuada.  
+ 
+Proceso de comunicación de síntomas: 
+1. En simultáneo con el comienzo de las actividades de respuesta a la influenza aviar , el APHIS o el 
+oficial de seguridad del Contratista se comunica con el departamento de salud pública del estado (los 
+CDC proporcionarán la información de contacto al APHIS al momento de la activación de la respuesta) 
+para la jurisdicción donde se
+Text Len: 1171
+--------------------------------------------------------------------------------
+ 
+oficial de seguridad del Contratista se comunica con el departamento de salud pública del estado (los 
+CDC proporcionarán la información de contacto al APHIS al momento de la activación de la respuesta) 
+para la jurisdicción donde se realizan las actividades de respuesta a la influenza aviar. Los oficiales de 
+seguridad deben trabajar con los funcionarios  de salud pública del estado con respecto a: (1) la 
+ubicación de la respuesta; (2) el número aproximado de personas que prestaron servicios de  respuesta; y 
+(3) un punto de contacto en el departamento de salud del estado para notificar en caso de que se 
+identifiquen signos y síntomas compatibles con la influenza en cualquier responsable del servicio de 
+respuesta. El APHIS y los oficiales de segur idad del Contratista informarán al departamento de salud 
+pública del estado cualquier cambio en la ubicación de la respuesta y cambios significativos en el 
+número de personal de respuesta movilizado en el estado. Los oficiales de seguridad deben trabajar con 
+el departamento de salud estatal para identificar opciones que permitan obtener muestras respiratorias 
+para la prueba del virus de la influenza aviar en el laboratorio
+Text Len: 1194
+--------------------------------------------------------------------------------
+ personal de respuesta movilizado en el estado. Los oficiales de seguridad deben trabajar con 
+el departamento de salud estatal para identificar opciones que permitan obtener muestras respiratorias 
+para la prueba del virus de la influenza aviar en el laboratorio de salud pública estatal.  
+ 
+2. Indique al personal de respuesta ante incidentes que se comuniquen con usted, su oficial de seguridad 
+designado, de inmediato, si tiene algún síntoma consistente con la influenza durante la movilización 
+(lista de síntomas disponible a continuación y en el Anexo 1, "Instrucciones de movilización"). Use de 
+canales de comunicación eficaces para proporcionar recordatorios diarios o frecuentes a todo el 
+personal de respuesta acerca de la importancia del autocontrol*; proporcione una lista de los síntomas 
+de la gripe. Evalúe visualmente a cualquier responsable del servicio de respuesta con los que interactúa 
+para detectar signos y síntomas de influenza. Use el EPP adecuado cuando interactúa con personal de 
+respuesta si el personal de respuesta muestra signos consistentes con la influenza.  
+ 
+* Nota: Si la respuesta es a un virus de la influenza aviar no informado previamente como de preocupación 
+para la sal
+Text Len: 1220
+--------------------------------------------------------------------------------
+ EPP adecuado cuando interactúa con personal de 
+respuesta si el personal de respuesta muestra signos consistentes con la influenza.  
+ 
+* Nota: Si la respuesta es a un virus de la influenza aviar no informado previamente como de preocupación 
+para la salud pública, se llevará a cabo un monitoreo activo del personal de respuesta.  
+13 
+03/14/2022 
+ 
+3. Los oficiales de seguridad deben seguir el proceso de notificación de síntomas que se indica a 
+continuación para cualquier responsable del servicio de respuesta ante incidentes de influenza 
+aviar que informe un nuevo inicio o empeoramiento de los siguientes signos o síntomas, incluido 
+lo siguiente: 
+ 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+mayor) o sensación de fiebre/escalofríos* 
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posi bl e que l a fi ebr e no si empr e esté pr esente  
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+Text Len: 1042
+--------------------------------------------------------------------------------
+ e no si empr e esté pr esente  
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+4. El oficial de seguridad del APHIS tendrá la siguiente comunicación inicial con el responsable del 
+servicio de respuesta ante incidentes de influenza aviar del APHIS (los oficiales de seguridad del 
+Contratista tendrán la misma comunicación inicial): 
+a. Si se trata de una emergencia médica, recomiende llamar al 911 de inmediato o acudir al 
+centro médico más cercano. Si se sospecha de infección humana por el virus de la influenza 
+aviar, se debe avisar al operador del 911 de este problema.  
+b. Tenga en cuenta el inicio y la duración de los signos y síntomas que el responsable del 
+servicio de respuesta está experimentando.  
+c. Anote las actividades en las que participó el responsable del servicio de respuesta durante 
+los 10 días anteriores y las ubicaciones específicas de esas actividades.  
+d. Tenga en cuenta dónde se encuentra actualmente el responsable del servicio de respuesta y 
+si tiene la intención de viajar fu
+Text Len: 1128
+--------------------------------------------------------------------------------
+esta durante 
+los 10 días anteriores y las ubicaciones específicas de esas actividades.  
+d. Tenga en cuenta dónde se encuentra actualmente el responsable del servicio de respuesta y 
+si tiene la intención de viajar fuera de la jurisdicción actual dentro de los próximos 2 días. 
+e. Tenga en cuenta si el responsable del servicio de respuesta se quedará con otras personas 
+(es decir, si comparte una habitación) y si  hay personas enfermas. Informe al res ponsable 
+del servicio de respuesta sintomático que se aísle para evitar que otros se enfermen.  
+f. El oficial de seguridad notifica al responsable del servicio de respuesta ante incidentes que 
+el oficial de seguridad está compartiendo la información del responsable del servicio de 
+respuesta con el S/LPHD por razones de salud pública para que el S/LPHD pueda 
+determinar si se necesitan pruebas para la influenza aviar. 
+g. Ofrezca orientación sobre comportamientos para prevenir la exposición de otras personas. 
+Visite http://www.cdc.gov/flu/takingcare.htm  para obtener más información. 
+ 
+5. El oficial de seguridad notifica inmediatamente al S/LPHD correspondiente que un responsable
+Text Len: 1150
+--------------------------------------------------------------------------------
+os para prevenir la exposición de otras personas. 
+Visite http://www.cdc.gov/flu/takingcare.htm  para obtener más información. 
+ 
+5. El oficial de seguridad notifica inmediatamente al S/LPHD correspondiente que un responsable 
+del servicio de respuesta ha reportado síntomas consistentes con la influenza. El oficial de 
+seguridad trabaja con el empleado, el S/LPHD y el centro de atención médica para garantizar que 
+se brinde la atención médica adecuada. En consulta con el proveedor de atención clínica, el 
+S/LPHD determinará si se necesitan pruebas de influenza aviar y notificará al centro de atención 
+médica según sea necesario.  
+o Se proporcionará información de contacto del S/LPHD. 
+o Nota: si el oficial de seguridad no está al tanto del S/LPHD correspondiente para 
+contactarse, comuníquese inmediatamente con los CDC/División de Influenza al 404-639-
+3747 o, después del horario de atención, con los CDC/Centro de Operaciones de 
+Emergencia (Emergency Operations Center, EOC) al 770 -488-7100. 
+14 
+03/14/2022 
+ 
+6. El oficial de seguridad y el funcionario del S/LPHD tendrán
+Text Len: 1090
+--------------------------------------------------------------------------------
+ués del horario de atención, con los CDC/Centro de Operaciones de 
+Emergencia (Emergency Operations Center, EOC) al 770 -488-7100. 
+14 
+03/14/2022 
+ 
+6. El oficial de seguridad y el funcionario del S/LPHD tendrán una conversación de seguimiento 
+con el responsable del servicio de respuesta que está enfermo con influenza aviar:  
+a. Proporcione instrucciones para acudir a un centro de atención médica acordado.  
+b. El oficial de seguridad informará al responsable del servicio de respuesta que los gastos de 
+atención médica pueden variar según su plan de atención médica personal y el centro de 
+atención médica local. Si se notificó al S/LPHD sobre los síntomas y se autorizó la prueba, 
+la prueba  de diagnóstico de influenza RT-PCR se proporcionará sin costo adicional para el  
+empleado o su seguro médico. Otros costos asociados con la atención clínica de rutina de la 
+enfermedad estarán a cargo del responsable del servicio de respuesta. Los empleados 
+federales pueden presentar un reclamo de remuneración laboral en cualquier momento que 
+perciban que hay alguna lesión relacionada con el trabajo
+Text Len: 1109
+--------------------------------------------------------------------------------
+ rutina de la 
+enfermedad estarán a cargo del responsable del servicio de respuesta. Los empleados 
+federales pueden presentar un reclamo de remuneración laboral en cualquier momento que 
+perciban que hay alguna lesión relacionada con el trabajo o una enfermedad ocupacional. 
+Se debe contar con documentación médica que respalde ese reclamo; de lo contrario, el 
+Departamento de Trabajo puede rechazarlo.  
+c. Si el responsable del servicio de respuesta regresa a su ubicación actual después de recibir 
+atención médica, debe seguir los consejos de su médico y S/LPHD para reducir la 
+propagación de cualquier enfermedad infecciosa. Si un responsable del servicio de 
+respuesta se encuentra en examinación para la influenza aviar, se recomienda el aislamiento 
+del paciente y no debe viajar fuera de la jurisdicción actual hasta que se conozcan los 
+resultados de la prueba.  
+d. Haga hincapié en la importancia del cumplimiento para garantizar la salud del responsable 
+del servicio de respuesta enfermo y de los demás.  
+ 
+7. El oficial de seguridad notificará a la persona que figura a continuación acerca de la 
+enfermedad  reportada y
+Text Len: 1140
+--------------------------------------------------------------------------------
+ancia del cumplimiento para garantizar la salud del responsable 
+del servicio de respuesta enfermo y de los demás.  
+ 
+7. El oficial de seguridad notificará a la persona que figura a continuación acerca de la 
+enfermedad  reportada y si la prueba de influenza aviar fue autorizada por el S/LPHD: 
+a. Grupo de Coordinación de Incidentes de VS (Incident Coordination Group, ICG) Health & 
+Safety – James McKee ((301) 436 -3115) [james.e.mckee@usda.gov] y Patrick Newcomb 
+((301)-832-2974)[patrick.newcomb@usda.gov]. 
+b. A su vez, ICG Health & Safety notificará al Dr. Richard Walker, a VS ICG One Health y a 
+CDC/Influenza Division.  
+i. Dr. Richard Walker, oficial médico del APHIS  [Thomas.R.Walker@aphis.usda.gov ] 
+ii. VS ICG One Health [VS.SP.OHC@usda.gov ] 
+iii. CDC/División de Influenza al 404-639-3747 (Krista Knis s [krk9@cdc.gov], Katie 
+Tastad [qwu5@cdc.gov] y Angiezel Merced -Morales [png6@cdc.gov]) 
+c. Notifique a los demás oficiales de seguridad en la misma unidad/ubicación de respuesta al 
+incidente sobre la enfermedad reportada
+Text Len: 1046
+--------------------------------------------------------------------------------
+
+Tastad [qwu5@cdc.gov] y Angiezel Merced -Morales [png6@cdc.gov]) 
+c. Notifique a los demás oficiales de seguridad en la misma unidad/ubicación de respuesta al 
+incidente sobre la enfermedad reportada para generar conciencia sobre una posible 
+infección humana. 
+ 
+8. Si un responsable del servicio de respuesta abandona un lugar de respuesta por cualquier motivo 
+con la intención de regresar al lugar de respuesta (p. ej, por una emergencia familiar o 
+vacaciones), esta persona debe permanecer bajo la jurisdicción del oficial de seguridad del sitio 
+del APHIS para fines de monitoreo de enfermedades y debe comunicarse con el oficial de 
+seguridad del sitio del APHIS del sitio inmediatamente si manifiesta signos o síntomas 
+compatibles con la influenza. Si un responsable del servicio de respuesta se comunica con el 
+oficial de seguridad del sitio del APHIS por una enfermedad mient ras está lejos del lugar de 
+respuesta, el oficial de seguridad del sitio del APHIS debe: (1) recomendarle al responsable del 
+servicio de respuesta que se auto aísle  y se comunique con el departamento de salud pública en el 
+estado donde se encuentra actual
+Text Len: 1149
+--------------------------------------------------------------------------------
+ 
+respuesta, el oficial de seguridad del sitio del APHIS debe: (1) recomendarle al responsable del 
+servicio de respuesta que se auto aísle  y se comunique con el departamento de salud pública en el 
+estado donde se encuentra actualm ente el responsable del servicio de respuesta;  y (2) 
+comunicarse con los CDC/División de Influenza al 404-639 -3747 [Krista Kniss (krk9@cdc.gov), 
+Katie Tastad (qwu5@cdc.gov)  y Angiezel Merced-Morales (png6@cdc.gov)]. 
+15 
+03/14/2022 
+ 
+Anexo 3: Instrucciones de desmovilización (que se darán al personal de seguridad al finalizar las 
+actividades de respuesta) 
+• Para obtener más información, consulte: CDC/División de Influenza (Instrucciones de auto 
+observación  para desmovilizar al personal de respuesta de la influenza aviar): 
+https://www.cdc.gov/flu/avianflu/h5/demobilizing -responders.htm 
+ 
+Gracias por su contribución a los esfuerzos de respuesta del Servicio de Inspección de Sanidad de Plantas y 
+Animales (APHIS). El APHIS otorga la máxima prioridad a la salud y seguridad del personal de respuesta y, 
+como
+Text Len: 1061
+--------------------------------------------------------------------------------
+ 
+ 
+Gracias por su contribución a los esfuerzos de respuesta del Servicio de Inspección de Sanidad de Plantas y 
+Animales (APHIS). El APHIS otorga la máxima prioridad a la salud y seguridad del personal de respuesta y, 
+como responsable del servicio de respuesta ante incidentes al brote de influenza aviar, es posible que haya 
+participado en actividades que lo expusieron a aves infectadas con el virus de la influenza aviar o superficies 
+y ambientes potencial mente contaminados por el virus durante la despoblación, eliminación, limpieza y 
+desinfección de parvadas afectadas. Aunque el riesgo de enfermarse por los virus de la influenza aviar es 
+bajo y hasta la fecha se han encontrado pocas infecciones humanas con estos virus en los Estados Unidos, es 
+fundamental que siga cuidadosamente todas las precauciones e instrucciones del APHIS y de los Centros 
+para el Control y la Prevención de Enfermedades (CDC) y que se realice un seguimiento para detectar 
+cualquier signo o síntoma de enfermedad durante 10 días después de que finalice su movilización. La 
+identificación temprana de una persona infectada con el virus de la influenza aviar es importante para el 
+tratamiento y otras medidas de respuesta apro
+Text Len: 1219
+--------------------------------------------------------------------------------
+ signo o síntoma de enfermedad durante 10 días después de que finalice su movilización. La 
+identificación temprana de una persona infectada con el virus de la influenza aviar es importante para el 
+tratamiento y otras medidas de respuesta apropiadas y para prevenir la posible propagación a otras personas.  
+ 
+Siga las instrucciones a continuación atentamente:  
+1. Controle su salud cuidadosamente durante 10 días desde el final de su movilización. 
+Evalúe la presencia de un nuevo inicio o empeoramiento de cua lquiera de los siguientes 
+signos y síntomas: 
+• Fiebre (temperatura de 100  °F [37,8 °C] o 
+más) o sensación de fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  de aliento 
+* Es posi bl e que l a fi ebr e no si empr e esté presente 
+• Lagrimeo, enrojecimiento o 
+irritación de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+2. Si tiene alguno de los signos o síntomas anteriores en cualquier momento durante los
+Text Len: 1028
+--------------------------------------------------------------------------------
+ón de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+2. Si tiene alguno de los signos o síntomas anteriores en cualquier momento durante los 10 días 
+posteriores a su desmovilización, comuníquese con el departamento de salud pública estatal/local 
+de inmediato . Consulte la lista adjunta para obtener la informació n de contacto de su 
+departamento de salud pública estatal/local.  
+ 
+En una situación de emergencia, busque atención médica de inmediato. 
+ 
+3. El departamento de salud pública estatal/local puede pedirle que busque atención médica para 
+recolectar una muestra respiratoria o conjuntival para realizar una prueba que determine si está 
+contagiado con el virus de influenza. Para determinar si tiene influenza, la prueba RT -PCR se 
+llevará a cabo sin costo adicional para usted o su seguro médico, siempre que el  departamento de 
+salud pública estatal/local le pida que se someta a la prueba y que la organice. Usted es 
+responsable de los gastos médicos adicionales relacionados con el cuidado de su
+Text Len: 1084
+--------------------------------------------------------------------------------
+ su seguro médico, siempre que el  departamento de 
+salud pública estatal/local le pida que se someta a la prueba y que la organice. Usted es 
+responsable de los gastos médicos adicionales relacionados con el cuidado de su enfermedad. 
+Los empleados federales pueden presentar un reclamo de remuneración laboral en cualquier 
+momento que perciban que hay alguna lesión relacionada con el trabajo o una enfermedad 
+ocupacional. Se debe contar con documentación médica que respalde ese reclamo; de lo 
+contrario, el Departamento de Trabajo puede rechazar lo. 
+16 
+03/14/2022 
+ 
+ 
+4. Además de su autocontrol, su información de contacto se ha compartido con los funcionarios del 
+departamento de salud pública estatal/local  para que puedan comunicarse con usted por teléfono, 
+mensaje de texto o correo electrónico para v erificar que su estado de salud es sano. La frecuencia 
+de contacto se determinará en cada estado según su riesgo evaluado y el  procedimiento del 
+estado, y puede variar desde ningún contacto hasta el contacto diario durante los 10 días 
+posteriores a su fech a de desmovilización
+Text Len: 1101
+--------------------------------------------------------------------------------
+ se determinará en cada estado según su riesgo evaluado y el  procedimiento del 
+estado, y puede variar desde ningún contacto hasta el contacto diario durante los 10 días 
+posteriores a su fech a de desmovilización. Las autoridades de salud pública estatales y locales 
+también pueden proporcionarle instrucciones e información adicionales.  
+a. Su información de contacto no se compartirá fuera de los canales oficiales de salud pública y solo 
+se utilizará para contactarlo a fin de monitorearlo su enfermedad después de  una exposición a 
+aves infectadas por influenza aviar y/o ambientes potencialmente contaminados.  
+b. Toda información que proporcione durante este contacto será estrictamente confidencial.  
+ 
+Gracias por contribuir al servicio de la respuesta a la influenza aviar y por su cooperación para ayudar  a 
+garantizar de que su salud y la del personal de respuesta ante incidentes esté bajo monitoreo y buen 
+mantenimiento continuos. Su salud y seguridad es nuestra prioridad. 
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA
+Text Len: 1091
+--------------------------------------------------------------------------------
+oreo y buen 
+mantenimiento continuos. Su salud y seguridad es nuestra prioridad. 
+ 
+ 
+ 
+[EL RESTO DE ESTA PÁGINA SE DEJA EN BLANCO INTENCIONADAMENTE] 
+ 
+[CONTINUA EN LA PÁGINA SIGUIENTE] 
+ 
+ 
+ 
+17 
+03/14/2022 
+ 
+Anexo 4: Proceso para identificar al personal de respuesta desmovilizado  
+ 
+• El APHIS generará una hoja de cálculo de desmovilización diaria. El informe incluirá a todos los 
+empleados del APHIS desmovilizados durante las 24 horas previas. 
+ 
+• Cada empresa contratada generará una hoja de cálculo diaria de desmovilización. Cada informe 
+incluirá a todos los empleados desmovilizados contratados durante las 24 horas previas. 
+ 
+• Cada hoja de cálculo diaria del APHIS y de la desmovilización de los contratos contendrá los 
+siguientes campos.  
+ Fecha del informe (estará en la convención de nomenclatura utilizada para el informe)  
+ Organización 
+ Incidente:  
+ Apellido 
+ Nombre 
+ Sitio del incident
+Text Len: 924
+--------------------------------------------------------------------------------
+.  
+ Fecha del informe (estará en la convención de nomenclatura utilizada para el informe)  
+ Organización 
+ Incidente:  
+ Apellido 
+ Nombre 
+ Sitio del incidente (identificador único que puede incluir el estado)  
+ Grupo asignado (sección IMT) 
+ Puesto asignado 
+ Dirección de correo electrónico  
+ Número de teléfono principal  
+ Número de teléfono móvil  
+ Estado 
+ Ciudad 
+ Condado 
+ Código postal 
+ Dirección de destino (cuando esté disponible)  
+ Fecha de movilización  
+ Fecha de liberación (fecha de desmovilización)  
+ 
+• El APHIS enviará por correo electrónico un informe protegido por contraseña al VS ICG One 
+Health a través de VS.SP.OHC@usda.gov . 
+ 
+• Cada empresa contratada enviará por correo electrónico un informe protegido por cont raseña a VS 
+ICG One Health, VS.SP.OHC@usda.gov . 
+ 
+• VS ICG One Health distribuirá un
+Text Len: 857
+--------------------------------------------------------------------------------
+OHC@usda.gov . 
+ 
+• Cada empresa contratada enviará por correo electrónico un informe protegido por cont raseña a VS 
+ICG One Health, VS.SP.OHC@usda.gov . 
+ 
+• VS ICG One Health distribuirá un informe diario a los CDC/División de Influenza con respecto a 
+los empleados y contratistas desmovilizados del APHIS.  
+ 
+• Los CDC/División de Influenza distribuirá secciones de la lista a los puntos de contacto del 
+departamento de salud pública estatal correspondientes a través de notificaciones Epi -X (un portal 
+web seguro protegido por contraseña).  
+18 
+03/14/2022 
+ 
+Anexo 5:  Guía ev aluar al personal de respuesta expuesto (para los departamentos de salud 
+estatales y locales)  
+Nota: Los comentarios en esta página (Anexo  5) son para uso exclusivo de las autoridades de salud pública y no deben 
+proporcionar se al per sonal de respuesta que se auto controlan para detectar enfermedades des pués de la desmovilización. 
+ 
+Los departamentos de sal ud estatales han solicitado una guía más detallada sobre cómo determinar si un 
+responsable del servicio de respuesta expu
+Text Len: 1077
+--------------------------------------------------------------------------------
+al de respuesta que se auto controlan para detectar enfermedades des pués de la desmovilización. 
+ 
+Los departamentos de sal ud estatales han solicitado una guía más detallada sobre cómo determinar si un 
+responsable del servicio de respuesta expuesto debe someterse a la prueba de una posible infección por el 
+virus de la influenza aviar. Todo el personal de respuesta potencialmen te expuesto que presente signos o 
+síntomas compatibles con la influenza debe hacerse la prueba. Dado que actualmente  se considera que el 
+riesgo de transmisión de los virus de la influenza aviar de animal a humano es bajo, y la lista de signos y 
+síntomas proporcionada por los CDC es amplia, esto puede dar lugar a que se realicen pruebas de influenza 
+a muchas personas, cuya mayoría probablemente resulte negativa para la infección por el virus de la 
+influenza aviar. Esto puede crear una carga considerable para los recursos de salud pública estatales y 
+locales y generar la necesidad de limitar las pruebas a las personas que se consideran “en mayor riesgo”.  
+ 
+Los brotes del virus de la influenza aviar en las aves pueden ocurrir durante el pico de la temporada de 
+influenza en los Estados Unidos, tiempo durante el c
+Text Len: 1214
+--------------------------------------------------------------------------------
+ de limitar las pruebas a las personas que se consideran “en mayor riesgo”.  
+ 
+Los brotes del virus de la influenza aviar en las aves pueden ocurrir durante el pico de la temporada de 
+influenza en los Estados Unidos, tiempo durante el cual muchos responsables del servicio de respuesta 
+pueden enfermarse de influenza estacional. Esto podría resultar en un gran número de personas que 
+calificarían para las pruebas. Estas personas deben someterse a la prueba de la influenza, ya que las personas 
+con influenza estacional que presentan signos y síntomas de ILI “típicos” son exactamente las personas a las 
+que se les debe hacer la prueba para detectar la infección por el virus de la influenza aviar en virtud de este 
+plan de monitoreo. Sin las pruebas RT -PCR, no es posible determinar si un responsable del servicio de 
+respuesta con ILI tiene una infección por el virus de la influenza aviar o estacional.  
+ 
+Si los recursos lo permiten, los CDC/División d e Influenza recomiendan que todo el personal de respuesta 
+expuesto que presente signos o síntomas consistentes con la influenza se haga la prueba. Si la demanda de 
+pruebas excede la capacidad de salud pública local o estatal, entonces se puede considerar prioriz
+Text Len: 1230
+--------------------------------------------------------------------------------
+endan que todo el personal de respuesta 
+expuesto que presente signos o síntomas consistentes con la influenza se haga la prueba. Si la demanda de 
+pruebas excede la capacidad de salud pública local o estatal, entonces se puede considerar priorizar casos en 
+investigación  (CUI) para la prueba. Desafortunadamente, los CDC no pueden ofrecer un algoritmo de 
+priorización para abordar todos los CUI; los estados deben usar s u mejor juicio y considerar cada CUI caso 
+por caso. Sin embargo, aquí se describen algunos principios rectores:  
+ 
+• Recomendamos un umbral bajo para realizar pruebas a las personas expuestas a aves infectadas con 
+virus de la influenza aviar o superficies y ambientes potencialmente contaminados. Actualmente, se 
+sabe poco sobre la manifestación clínica de la infección humana con estos virus de la influenza 
+aviar; sin embargo, la infección  humana con estos virus de influenza aviar puede compartir 
+características de la infección humana con otros virus de influenza aviar (p.  ej., virus HPAI H5 de 
+linaje euroasiático y virus LPAI y HPAI H7N9 de linaje asiático), y puede ser posible una amplia 
+variedad de presentacion
+Text Len: 1156
+--------------------------------------------------------------------------------
+ infección humana con otros virus de influenza aviar (p.  ej., virus HPAI H5 de 
+linaje euroasiático y virus LPAI y HPAI H7N9 de linaje asiático), y puede ser posible una amplia 
+variedad de presentaciones clínicas, que incluyen  alguna enfermedad clínica leve tal como 
+conjuntivitis solamente o alguna enfermedad similar a la influenza autolimitada.  
+• Si prioriza los CUI para las pruebas, es posible que desee considerar tanto (I) los signos y síntomas 
+clínicos de un paciente como (II) la naturaleza de su exposición. Los signos y síntomas enumerados 
+en el plan de monitoreo y proporcionados aquí enumeran los signos y síntomas más típicos de las 
+enfermedades respiratorias en la columna izquierda y otros signos y síntomas en la columna 
+derecha. La nueva aparición o el empeoramiento de cualquier signo o síntoma de la columna 
+izquierda deberían arrojar pruebas de influenza. Un CUI con un signo o síntoma aislado de la 
+columna derecha (p. ej., dolor de cabeza solamente, fatiga generalizada, diarrea solamente) puede 
+ser de menor prioridad
+Text Len: 1054
+--------------------------------------------------------------------------------
+quierda deberían arrojar pruebas de influenza. Un CUI con un signo o síntoma aislado de la 
+columna derecha (p. ej., dolor de cabeza solamente, fatiga generalizada, diarrea solamente) puede 
+ser de menor prioridad para las pruebas, según la naturaleza de la exposición. La exposición directa 
+y/o prolongada (p. ej., un incumplimiento con el EPP que no se descubrió hasta el final de un turno 
+de sacrificio de 8 horas) puede significar que se debe priorizar la prueba, incluso en los CUI con un 
+signo o síntoma aislado de la columna derecha. La presencia de múltiples signos o síntomas de la 
+derecha también puede significar que hay que priorizar las pruebas. 
+ 
+ 
+19 
+03/14/2022 
+ 
+Controle su salud cuidadosamente durante su movilización y durante 10 días a partir del fin de su 
+movilización. Evalúe la presencia de un nuevo inicio o empeoramiento de cualquiera de los 
+siguientes signos y síntomas: 
+ 
+• Fiebre (temperatura de 100  °F 
+[37,8 °C] o mayor) o sensa ción de 
+fiebre/escalofríos*  
+Text Len: 1000
+--------------------------------------------------------------------------------
+ o empeoramiento de cualquiera de los 
+siguientes signos y síntomas: 
+ 
+• Fiebre (temperatura de 100  °F 
+[37,8 °C] o mayor) o sensa ción de 
+fiebre/escalofríos*  
+• Tos 
+• Dolor de garganta 
+• Dificultad para respirar/falta  
+* Es posi bl e que l a fi ebr e no si empr e esté pr esente  
+ 
+• Lagrimeo, enrojecimiento o irritación 
+de los ojos 
+• Dolores de cabeza 
+• Secreción o congestión nasal  
+• Dolores musculares o corporales  
+• Diarrea 
+ 
+• Los comentarios en esta página (Anexo  5) son para uso exclusivo de las autoridades de salud 
+pública y no deben proporcionarse al personal de respuesta que se auto controlan para detectar 
+enfermedades después de la desmovilización. El personal de respuesta,  el APHIS y los oficiales de 
+seguridad del Contratista deben notificar al departamento de salud pública del estado si 
+experimentan alguno de los signos o síntomas que se indican en las columnas de la lista. 
+• Los CDC continuarán analizando las pautas para evaluar a las personas expuestas a medida que se 
+disponga
+Text Len: 1027
+--------------------------------------------------------------------------------
+o de salud pública del estado si 
+experimentan alguno de los signos o síntomas que se indican en las columnas de la lista. 
+• Los CDC continuarán analizando las pautas para evaluar a las personas expuestas a medida que se 
+disponga de más información sobre la epidemiología y el potencial de transmisión de estos virus de 
+influenza aviar de animales a humanos. 
+• Si tiene preguntas sobre si las pruebas son apropiadas para un CUI y de sea hablar con los CDC, 
+llame a la División de Influenza al 404-639-3747 durante el horario de atención normal, y al Centro 
+de Operaciones de Emergencia de los CDC al 770-488-7100 fuera del horario de atención. 
+ 
+Tenga en cuenta que las infecciones humanas previas con ciertos virus de la influenza aviar han resultado en 
+conjuntivitis (y, a veces, este ha sido el único signo manifestado). Por esa razón, si los pacientes se presentan 
+para las pruebas de influenza como CUI con conjuntivitis, los CDC recomiendan obtener muestras 
+respiratorias (visite https://www.cdc.gov/flu/avianflu/severe -potential.htm  para obtener más información) y 
+una muestra conjuntival. Si el laboratorio de salud públic
+Text Len: 1143
+--------------------------------------------------------------------------------
+untivitis, los CDC recomiendan obtener muestras 
+respiratorias (visite https://www.cdc.gov/flu/avianflu/severe -potential.htm  para obtener más información) y 
+una muestra conjuntival. Si el laboratorio de salud pública  del estado no puede analizar la muestra 
+conjuntival para detectar la influenza, es posible que se envíe a los CDC para su análisis.  
+ 
+Para obtener información adicional sobre las pruebas para pacientes en observación de una posible infección 
+por el virus de la influenza aviar (incluida la recolección y el procesamiento de muestras), consulte la Guía 
+provisional sobre pruebas,  Recolección y procesamiento de muestras para pacientes con sospecha de 
+infección por los nuevos virus  de la influenza A con el potencial de causar enfermedades graves en humanos 
+o auto observación de enfermedades para personal de respuesta a brotes de influenza aviar en aves de corral | 
+Influenza aviar (gripe) (cdc.gov) . 
+ 
+Text Len: 936
+--------------------------------------------------------------------------------

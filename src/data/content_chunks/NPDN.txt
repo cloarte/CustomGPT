@@ -1,0 +1,2746 @@
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+National Plant Diagnostic Network: 2016 Review 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report of the Review Committee 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2016 
+ 
+ 
+1 
+ 
+2016 NPDN Review Committee 
+ 
+ 
+Rick Bennett (Chair) 
+Associate Dean for Research 
+University of Kentucky, 
+Lexington, KY  
+ 
+Casey Sclar 
+Executive Director 
+American Public Gardens Association 
+Kennett Square, PA 
+Charla Hollingsworth 
+Associate Director 
+APHIS-Plant Protection and Quarantine 
+Center for Plant Health, Science and Technology 
+Raleigh, NC 
+ 
+Robin Shepard 
+Executive Director 
+NC Association of Extension Directors 
+Madison, WI 
+ 
+Doug Luster 
+Research Plant Physiologist 
+Foreign Disease-Weed Science Research Unit 
+USDA-ARS 
+Ft. Detrick, Frederick, MD  
+ 
+Anne Vidaver 
+Professor Emeritus 
+University of Nebraska 
+Lincoln, NE 
+Tim Murray 
+APS President Elect 
+Extension Plant Pathologist 
+Washington State University 
+Pullman, WA 
+ 
+ 
+ 
+ 
+  
+2 
+ 
+NPDN 2016 Review Executive Summary 
+ 
+The USDA National Institute of Food and Agriculture (NIFA) convened a Review Committee who 
+met from March 8 -10, 2016 to conduct a critical review of all facets of the National Plant 
+Diagnostic Network (NPDN). The committee met in conjunction with the Fourth  National NPDN 
+meeting in Arlington, Virginia on March 8-12, 2016
+Text Len: 1279
+--------------------------------------------------------------------------------
+ 
+The USDA National Institute of Food and Agriculture (NIFA) convened a Review Committee who 
+met from March 8 -10, 2016 to conduct a critical review of all facets of the National Plant 
+Diagnostic Network (NPDN). The committee met in conjunction with the Fourth  National NPDN 
+meeting in Arlington, Virginia on March 8-12, 2016 coordinated by the University of Florida. The 
+Review Committee was provided background materials on the mission and history of the NPDN, 
+administrative structure, and accomplishments since its inception.  
+ 
+The Review Committee, consisting of professional representatives from major stakeholders, U.S. 
+government agencies, and university partners of the NPDN, developed this report after a 
+thorough review of the five regional network summaries, t he NPDN committee activity 
+summaries, and after  meeting in Arlington with the NPDN Executive Committee and regional 
+directors.  Although much of the core of this review came from content and output from the 2016 
+national meeting, the basis of this report comes from the NPDN committees that implement the 
+plans of work and coordinate the activities within and across regions. Relevant recommendations 
+of the 2007 review report were also considered.  
+ 
+This report is divided into six sections following the framew ork established in 2007 , which is 
+reflective of the mission, scope, and structure of the NPDN.   In each section, the summary is 
+followed by a list of action items with specific recommendations for future improvement of the 
+NPDN. The Review Committee did not feel it is necessary to reflect on the history and inception 
+of the NPDN since this has been adequately addressed in previous documents.  Instead, the 
+Review Committee focused on an analysis of the current state of the NPDN
+Text Len: 1792
+--------------------------------------------------------------------------------
+ summary is 
+followed by a list of action items with specific recommendations for future improvement of the 
+NPDN. The Review Committee did not feel it is necessary to reflect on the history and inception 
+of the NPDN since this has been adequately addressed in previous documents.  Instead, the 
+Review Committee focused on an analysis of the current state of the NPDN and suggestions for 
+the future, including areas for improvement.  
+ 
+Key Findings: 
+ 
+The NPDN and its laboratories are considered essential for minimizing destructive pathogens and 
+pests of U.S. agriculture. Considering its funding challenges, especially since 2007, the NPDN has 
+functioned extremely well, based on a review of its accomplishments including reports, service 
+to multiple public and private entities and resulting refereed publications.  
+ 
+Long term funding and sustainability of the NPDN remain a concern by the Review Committee.   
+Although the Review Committee does not offer specific funding solutions, the report identifies 
+mission areas where funds are needed to support the program and ensure its sustained success.   
+ 
+Succession planning at levels of the executive committee, regional directors and USDA NIFA 
+remains a concern. Many of the current regional directors have been with the NPDN from the 
+beginning. A succession plan is essential to ensure that these mission-critical positions are a part 
+of the ongoing and future operation of the NPDN. The continued stability and functioning of the 
+NPDN with its partner institutions should be seamless and follow a well -developed transition 
+plan.  
+3 
+ 
+ 
+The NPDN Advisory Council has not been effective  and should be replaced by broad -based 
+focused listening groups. These focused listening groups should be composed of representatives 
+from the private sector, state/count
+Text Len: 1835
+--------------------------------------------------------------------------------
+ functioning of the 
+NPDN with its partner institutions should be seamless and follow a well -developed transition 
+plan.  
+3 
+ 
+ 
+The NPDN Advisory Council has not been effective  and should be replaced by broad -based 
+focused listening groups. These focused listening groups should be composed of representatives 
+from the private sector, state/county governments and commodity representation to ensure all 
+partners and benefactors of the NPDN are represented. 
+ 
+Rapid detection, evaluation and use of new methodology, diagnostics, and early communication 
+of disease outbreaks are essential components of the NPDN and  should remain a core mission. 
+Training and education of first responders should be incorpora ted into training worksho ps. 
+Diagnostic resources should be prioritized among NPDN labs, state and regional labs.   
+ 
+Effective linkages among NPDN labs should include enhanced surge capacity during disease 
+outbreaks including an effective mechanism for referral and overload samples when a lab reaches 
+capacity.   
+ 
+The NPDN Executive Committee and NIFA National Program Staff should continue to manage the 
+NPDN as a cooperative agreement. A competitive funding model for the NPDN and its 
+regions/labs would be highly disruptive to the continuity and vitality of the program.  
+ 
+1 
+ 
+ 
+I. Governance & Funding  
+The NPDN was established by the USDA, Cooperative State Research Education and Extension 
+Service (USDA CSREES) from federal funds in 2002 to provide increased diagnostic capability to 
+the nation’s agricultural system.  
+ 
+The NPDN is administered by an Execu tive Committee and Operations Committee under a 
+cooperative agreement with USDA NIFA , which replaced CSREES. 
+Text Len: 1713
+--------------------------------------------------------------------------------
+ the USDA, Cooperative State Research Education and Extension 
+Service (USDA CSREES) from federal funds in 2002 to provide increased diagnostic capability to 
+the nation’s agricultural system.  
+ 
+The NPDN is administered by an Execu tive Committee and Operations Committee under a 
+cooperative agreement with USDA NIFA , which replaced CSREES.  Initially, the NPDN 
+administration was divided among the five regions, each with a separate responsibility.  
+Governance was assigned to the Great Plains Diagnostic Network (GPDN), the North Central Plant 
+Diagnostic Network (NCPDN) provided oversight for public relations aspects, the Northeast Plant 
+Diagnostic Network ( NEPDN) coordinated diagnostics, the Southern Plant Diagnostic Network 
+(SPDN) managed training and education and the Western Plant Diagnostic Network ( WPDN) 
+managed exercises.  Information technology and data management was led by the National 
+Repository. Following the budget reductions in 2011, the Executive Committee decided to focus 
+on four areas.  Each of the four areas : Diagnostics, IT Systems, STAR -D Accreditation, and 
+Communication were to be a shared responsibility of the regions together.   Committees were 
+established to address governance, training and education because ther e was not sufficient 
+funding for focused efforts in training and educational materials. Following the enactment of the 
+Budget Control Act, a new strategic direction was established to focus on detection, diagnostics 
+and reporting (communication).  The strategic planning process is still ongoing.   
+ 
+The NPDN is composed of five regional hubs  with each having unique challenges and regional 
+characteristics. They are composed of institutional partners  who vary in their level of 
+participation in the region and greater Network. Partners in each region value the current 
+
+Text Len: 1851
+--------------------------------------------------------------------------------
+ diagnostics 
+and reporting (communication).  The strategic planning process is still ongoing.   
+ 
+The NPDN is composed of five regional hubs  with each having unique challenges and regional 
+characteristics. They are composed of institutional partners  who vary in their level of 
+participation in the region and greater Network. Partners in each region value the current 
+structure and indicate they appreciate the communications, coordination of funding and 
+reporting, and opportunities to network and attend  training sessions that each regional hub 
+provides. The diagnosticians in each of the labs look forward to regional meetings as an 
+opportunity to exchange information, learn new techniques (as some regional meetings also 
+have some hands -on diagnostic activ ities) and to network.  Several regions have provided 
+additional training for their partners, and the current structure allows new diagnosticians the 
+ability to be mentored by established diagnosticians. Several partner labs with specific expertise 
+have opened their doors to diagnosticians who seek training on a specific topic. Each partner also 
+looks to their regional hub for leadership and guidance with STAR-D, and they appreciate the fact 
+that the hub labs have achieved full accreditation or have been thr ough a gap audit. State 
+laboratory partners in each region have become embedded within each regional structure, and 
+this has led to a sense of community that strengthens the diagnostic efforts within the regions 
+and serves as a point of entry into those issues and activities that involve the entire NPDN.  
+ 
+ 
+ 
+ 
+2 
+ 
+The NPDN mission statement was recently revised and is currently being vetted pending 
+ratification of the NPDN Governance Charter. It states: 
+ 
+The National Plant Diagnostic Network is a premier diagnostic system with the ability to 
+quick
+Text Len: 1859
+--------------------------------------------------------------------------------
+ issues and activities that involve the entire NPDN.  
+ 
+ 
+ 
+ 
+2 
+ 
+The NPDN mission statement was recently revised and is currently being vetted pending 
+ratification of the NPDN Governance Charter. It states: 
+ 
+The National Plant Diagnostic Network is a premier diagnostic system with the ability to 
+quickly detect and accurately identify plant pests and pathogens and to communicate timely 
+and accurate information. 
+ 
+ 
+The mission of the NPDN is based upon national agricultural security . It is charged with rapid 
+detection, diagnosis, and early communication of outbreaks of plant pathogens. The Network 
+coordinates and communicates with county and state extension agents, state departments of 
+agriculture and the USDA, Animal and Plant Health Inspe ction Service, Plant Protection and 
+Quarantine (USDA APHIS PPQ) during outbreaks in implementing its mission. Training of first 
+responders and diagnosticians is an essential component of the NPDN, ensuring that the Network 
+is prepared for the scope of its mission in the event of an outbreak.  The NPDN is a critical 
+component of our nation’s biosecurity infrastructure and should serve as a model for other 
+nations to emulate. 
+ 
+However, t his new mission statement does not mention training and education. This is  a 
+reflection of the reduced funding over the past few years that forced the NPDN to more 
+stringently prioritize its objectives. The NPDN Executive Committee is still committed to that 
+program element which will be prioritized with diagnostics and communications.  
+  
+The vision for the NPDN should undergo a strategic planning process and clarify a new statement 
+based upon current realities.  That new vision statement should reflect high expectations for 
+N
+Text Len: 1750
+--------------------------------------------------------------------------------
+ to more 
+stringently prioritize its objectives. The NPDN Executive Committee is still committed to that 
+program element which will be prioritized with diagnostics and communications.  
+  
+The vision for the NPDN should undergo a strategic planning process and clarify a new statement 
+based upon current realities.  That new vision statement should reflect high expectations for 
+NPDN, including;  
+ Increased recognition for NPDN’s accomplis hments both do mestically and 
+internationally 
+ Greater accountability for competent and reliable diagnostics from labs with active 
+quality management systems in place (STAR-D laboratory accreditation, NPPLAP 
+certifications, etc.)  
+ Increased global impact thr ough cooperation and outreach programs (funded 
+externally). 
+ 
+The NPDN has an Advisory Council that was active for a few years after the NPDN was established. 
+They focused on strategic prioritization of efforts and resources.  Its guidance was helpful, 
+however in recent years, the Advisory Council has not been effective in the original intent due to 
+limitations on participation by industry and commodity stakeholders.  The Advisory Council has 
+not been directly and consistently en gaged with the NPDN leadership . Funding to support 
+meetings was drastically reduced resulting in few opportunities for face -to-face interactions of 
+the Advisory Council . The NPDN could have benefited from input through regular conference 
+calls of the Advisory Council.  
+ 
+3 
+ 
+Additionally, t he Advisory Council does not have all of the representation needed to provide 
+broader advice to the NPDN  because of FACA restrictions , which do not allow non -federal 
+representation. A possible name change and a new charge as a listening or focus group could
+Text Len: 1766
+--------------------------------------------------------------------------------
+ 
+calls of the Advisory Council.  
+ 
+3 
+ 
+Additionally, t he Advisory Council does not have all of the representation needed to provide 
+broader advice to the NPDN  because of FACA restrictions , which do not allow non -federal 
+representation. A possible name change and a new charge as a listening or focus group could 
+provide the needed input to the NPDN without violating FACA compliance.  Despite initial 
+attempts to more broadly engage private industry, their participation didn’t come to f ruition. 
+One approach to greater stakeholder engagement with the NPDN could be regional activities 
+such as summits, commodity focus groups or other open meetings. Another approach would be 
+to use some survey tool to gauge the knowledge of, interest in , and utility of the NPDN to its 
+diverse stakeholders and clients.     
+  
+Extension and Experiment Station directors at L and Grant Universities play an important role in 
+funding and support of diagnostic labs and personnel at their institution.  It is appropriate to 
+develop a mechanism to inform and engage Extension and Experiment Station Directors as well 
+as leadership at state departments of agriculture and provide updates on the NPDN to increase 
+opportunities for their direct engagement. 
+ 
+Succession planning at NPDN remains a concern from the executive director through the regional 
+hub director, and through diagnostician levels. A succession process is needed for these critical 
+positions and should be part of the ongoing evolution of the NPDN. It is critical for the stability 
+and continued functioning of the NPDN and its partner institutions to have a succession plan.  
+Transitions should be seamless and new diagnosticians should be welcomed by the regional 
+network of current experienced dia gnosticians and
+Text Len: 1792
+--------------------------------------------------------------------------------
+ is needed for these critical 
+positions and should be part of the ongoing evolution of the NPDN. It is critical for the stability 
+and continued functioning of the NPDN and its partner institutions to have a succession plan.  
+Transitions should be seamless and new diagnosticians should be welcomed by the regional 
+network of current experienced dia gnosticians and be provided access to expertise and 
+assistance. New Regional Directors should be embedded into a collegial and functional Executive 
+Committee.   
+ 
+Succession planning at the National Program Leader level at NIFA is also a concern. Development 
+of the NPDN has greatly benefited from interaction and programmatic participation by its current 
+NIFA National Program Leader (NPL). The NPDN requires administrative oversight by the granting 
+agency under the guidance of a knowledgeable and engaged NPL r epresentative to ensure a 
+smooth transition during leadership changes. The Review Committee strongly encourages NIFA 
+to promptly designate an NPL to provide administrative oversight with upcoming  personnel 
+changes on the National Program Staff. Specifically, it is recommended that an NPL be identified 
+with strong program leadership, as well as technical and programmatic skills.  
+ 
+The review committee is pleased to note that an effective governance structure has been in place 
+since its inception and that the Network is still capable of identifying and responding to plant 
+pathogens in th e food and agricultural production system in the face of severe reductions in 
+funding. The NPDN has maintained support for diagnostic clinics/laboratories in all 50 states plus 
+Puerto Rico, Guam, and American Samoa, while instituting new training and accreditation and 
+certification programs for procedures and personnel . This has been partially accomplished by  
+leveraging of state and federal dollars .  It is also evident that the Regional
+Text Len: 1922
+--------------------------------------------------------------------------------
+
+funding. The NPDN has maintained support for diagnostic clinics/laboratories in all 50 states plus 
+Puerto Rico, Guam, and American Samoa, while instituting new training and accreditation and 
+certification programs for procedures and personnel . This has been partially accomplished by  
+leveraging of state and federal dollars .  It is also evident that the Regional Directors comprising 
+the Executive Committee maintain a true spirit of teamwork  both within and across all regions 
+and have established effective working relationships with member Land Grant Universities, State 
+Departments of Agriculture and USDA- APHIS. 
+4 
+ 
+ 
+Managing and pre -planning for diagnostic sample surge capacity is still a challenge across and 
+within all regions. It was noted that no consistent performance matrix has been established that 
+would assist regional coordinators to benchmark respective diagnostic clinics and allow them to 
+prioritize selective equipment upgrades. Limited means exist to capture and communicate NPDN   
+performance in order to document effectiveness and prove its value to all commodities and 
+significant stakeholders.  
+ 
+Funds to support the NPDN are allocated from the Food and Ag Defense Initiative (FADI) through 
+NIFA beginning in 2004. Funding peaked in 2010 and then began a steady decline in 2011. These 
+cuts in federal funding led the Executive Committee and laboratories to redefine and narrow the 
+scope and mission of the NPDN.   Despite this challenge, NPDN has been able to modify their 
+approach and deliver a program that assures support for a diagnostic presence in every state , 
+although further cuts could have drastic consequences to our national agricultural system.  
+ 
+The need to increase base funding for all regions was recognized as a major ch allenge with 
+decreasing federal budgets.  There is a need to insure that effic
+Text Len: 1876
+--------------------------------------------------------------------------------
+ has been able to modify their 
+approach and deliver a program that assures support for a diagnostic presence in every state , 
+although further cuts could have drastic consequences to our national agricultural system.  
+ 
+The need to increase base funding for all regions was recognized as a major ch allenge with 
+decreasing federal budgets.  There is a need to insure that efficiencies in funding (especially 
+supplemental funding) flow are operating in all regions so that individual labs are not left with 
+unreimbursed diagnostic costs or funding shortfalls.  It has been suggested that not all states are 
+treated equitably relative to funding perhaps as a result of the number of states in a given region 
+or differences in operations between “hub” institutions.  
+ 
+It was recognized that there are significant opportunities to expand linkages with state 
+departments of agriculture, state agriculture and environmental regulatory officials, co unty 
+extension educators/agents and certified crop and nursery consultants.  Efficient leveraging of 
+resources with appropriate state agencies, non-government organizations ( NGOs) and 
+national/state commodity organizations should continue to be a high prio rity for all regional 
+networks. The regional IPM Centers should become a formal part of the communication linkage 
+and also search for leveraging grants and special pathogen appropriations.  Laboratories should 
+seek applicable certifications and accreditatio ns as a means to document and improve staff 
+capabilities, promote efficient utilization of equipment and facilities, and prove they continue to 
+meet producer and customer needs.  
+ 
+Recommendations 
+ a. Action Items 
+ The current NPDN Advisory Council has not been effective because of FACA compliance 
+requirements, which prevents non -federal representation on advisory boards . The 
+Review Team strongly recommends the establishment of a broad -based N
+Text Len: 1934
+--------------------------------------------------------------------------------
+ facilities, and prove they continue to 
+meet producer and customer needs.  
+ 
+Recommendations 
+ a. Action Items 
+ The current NPDN Advisory Council has not been effective because of FACA compliance 
+requirements, which prevents non -federal representation on advisory boards . The 
+Review Team strongly recommends the establishment of a broad -based NPDN focus or 
+listening group at both the national and regional lev el, to include representatives from 
+the private sector, state/county extension, experiment station/research faculty, CCAs, 
+state/federal regulatory agencies and National Plant Board (NPB) affiliates. It is especially 
+important to include " industry" and NAH LN representation on the Advisory Board for 
+5 
+ 
+exchange of ideas on business practices and governance strategies.  A possible name 
+change and new charge to a non -advisory role as a listening group or focus group could 
+provide the needed input to the NPDN without violating FACA compliance.    
+ The NPDN Executive Committee should complete development of a Strategic Plan for the 
+next five years of the NPDN which establishes and identifies milestones for all aspects of 
+the Network currently covered by NPDN subcommit tees and prioritize them contingent 
+on funding.  
+ As part of the strategic plan, a framework and process for annual self -evaluation should 
+be developed that will help focus efforts on strengthening and measuring key activities. 
+It should i nclude common reporting topics and formats  across all regions , and develop 
+metrics for recording and reporting performance. 
+ Improve identification and c oordination for recognizing labs with surge capacity in 
+identification and sample processing of specific pathogens.  
+ Build a succession plan to efficiently
+Text Len: 1774
+--------------------------------------------------------------------------------
+ focus efforts on strengthening and measuring key activities. 
+It should i nclude common reporting topics and formats  across all regions , and develop 
+metrics for recording and reporting performance. 
+ Improve identification and c oordination for recognizing labs with surge capacity in 
+identification and sample processing of specific pathogens.  
+ Build a succession plan to efficiently transfer leadership responsibilities at the regional 
+and national level.  
+ Develop a new vision statement that reflects the high expectations for NPDN’s continued 
+success. 
+ 
+ b. Specific Recommendations 
+ Evaluate the basi s for formula  funding and practice transparency in annual funding 
+allocations from national to regional to State Labs/ Clinics. Improve accounting and 
+timeliness in annual funding flow and reporting to/from each of these units as well.  
+ The current NPDN Advisory Council should be broadened by a newly formed focus group 
+or interest group that complies with FACA requirements . This new body should be 
+focused on strategic prioritization of efforts and resources. To ensure broader views and 
+representation, the network directors should encourage this group to engage industry 
+leaders and stakeholders in regional activities such as summits or other open meetings 
+for face-to-face interactions and regular conference calls.  
+ The network directors should develop a mechanism to inform and engage Extension and 
+Experiment Station Directors as well as state departments of agriculture to provide 
+updates on the Network and to provide an opportunity to discuss the NPDN.  
+ The review committee recommends that a succession pl an be developed for the 
+Executive Director, Regional Directors and the NIFA NPL responsible for the NPDN.  
+University extension and research administrators could play an important role in short 
+Text Len: 1859
+--------------------------------------------------------------------------------
+ state departments of agriculture to provide 
+updates on the Network and to provide an opportunity to discuss the NPDN.  
+ The review committee recommends that a succession pl an be developed for the 
+Executive Director, Regional Directors and the NIFA NPL responsible for the NPDN.  
+University extension and research administrators could play an important role in short 
+term funding and support of labs at their institution if greater awareness of the scope and 
+needs of NPDN labs was brought to their attention. 
+ NPDN Executive Committee and NIFA National Program Staff should continue to manage 
+the NPDN as a n ongoing cooperative agreement. A competitive funding model for the 
+NPDN and its regions/labs would be highly disruptive to the continuity and vitality of the 
+program.  
+ Regarding surge capacity, the review committee encourages NPDN diagnosticians to 
+receive training offered by APHIS PPQ on high consequence pathogens and p ests so that 
+representative labs are prepared to assist during outbreaks of known agents.  Since 
+6 
+ 
+potential pests may be undefined and broad ranging, complicating issues should be 
+addressed beforehand such as maintaining sample integrity and chain of custody  for 
+shipping large numbers of samples long distances.  
+ Develop a survey tool to gauge the interest of diverse stakeholders and to determine long 
+and short-term plans for labs and personnel at each diagnostic lab institution.  
+ New vision and mission statements should be more visible on the NPDN website.  
+ Consider adding a new committee to address “Surveillance” issues, including interaction 
+of NPDN labs in partnerships with IPM -PIPE components and with USDA APHIS CAPS 
+programs. 
+
+Text Len: 1714
+--------------------------------------------------------------------------------
+ lab institution.  
+ New vision and mission statements should be more visible on the NPDN website.  
+ Consider adding a new committee to address “Surveillance” issues, including interaction 
+of NPDN labs in partnerships with IPM -PIPE components and with USDA APHIS CAPS 
+programs. 
+ Complete a five -year strategi c plan focused on core components such as marketing, 
+incorporating recommendations from the Public Relations and Outreach Review (below) 
+and also focus on documenting and measuring effectiveness, prioritizing resources, and 
+building the governance and internal communication infrastructure needed to support 
+diagnostics and ensure the NPDN’s continued success.  
+ 
+II. Diagnostics  
+Since its inception in 2003, the Diagnostics Committee has focused on communications among 
+diagnosticians, acquisition of USDA permits, creating standard operating procedures for 
+diagnosis of regulated pathogens, coordinating select agent workshops and laboratory surge 
+capacity, developing a workshop on basic techniques for diagnosticians, and establishi ng and 
+implementing the STAR-D lab accreditation program. The Diagnostics Committee has initiated a 
+conversation with the NPDN Database Committee to address concerns expressed at the 2015 
+Diagnosticians/IT meeting on the use of diagnostic confidence levels, which resulted in formation 
+of an ad hoc sub-committee that was charged with surveying members on the use of diagnostic 
+confidence levels. Results of that survey were presented at the 2016 NPDN national meeting.  
+The Diagnostics Committee also collected data on surge capacity from every state to identify the 
+resources available to handle a surge in sample volume that might occur in the event a select 
+agent was found. The committee plans to update this survey, although it’s not stated
+Text Len: 1819
+--------------------------------------------------------------------------------
+ diagnostic 
+confidence levels. Results of that survey were presented at the 2016 NPDN national meeting.  
+The Diagnostics Committee also collected data on surge capacity from every state to identify the 
+resources available to handle a surge in sample volume that might occur in the event a select 
+agent was found. The committee plans to update this survey, although it’s not stated when that 
+will occur. 
+ 
+The National Plant Protection Laboratory Accreditation Program (NPPLAP) accredits laboratories 
+across the U.S. with the goal of increasing national diagnostic capacity and ensuring lab capability 
+in delivering accurate diagnostic determinations for USDA regulatory purposes.  Several NPDN 
+labs have achieved and are successfully maintaining NPPLAP accreditations. Likewise, STAR -D, a 
+quality management system developed by NPDN is being practiced in an increasing number of 
+NPDN labs. Scientists selected from N PDN labs are trained in audit procedures for STAR -D. This 
+group continues to grow, ensuring the ability to support lab audits across the network. This effort, 
+much like NPPLAP accreditation, is gaining traction with NPDN labs as more diagnosticians 
+understand the value of not only accreditation, but the benefits of using a quality management 
+system. There is value added to the STAR -D implementation through increased collaboration 
+among Network labs, recognized standardization amongst peers, and strengthened  quality 
+assurance and control of network collected data. The International Organization of Standards 
+7 
+ 
+(ISO) 13484 is expected to be approved in the future and will offer an intermediary quality 
+standard for NPDN labs that have an interest in achieving ISO or STAR-D accreditation. The ISO 
+13484 standard is the first standard put forward through ISO that specifically addresses plant 
+pathogen testing using molecular
+Text Len: 1875
+--------------------------------------------------------------------------------
+. The International Organization of Standards 
+7 
+ 
+(ISO) 13484 is expected to be approved in the future and will offer an intermediary quality 
+standard for NPDN labs that have an interest in achieving ISO or STAR-D accreditation. The ISO 
+13484 standard is the first standard put forward through ISO that specifically addresses plant 
+pathogen testing using molecular biomarkers, and the process as initiated by the NPPLAP opens 
+the door for the NPDN to additiona lly use the ISO process as a means for introducing technical 
+protocols to be shared at an international level. 
+ 
+The APHIS National Identification Services (NIS) and NPDN labs have worked to preserve sensitive 
+information and to communicate needed informati on regarding samples in a timely manner. 
+When suspect positive samples are confirmed by the CPHST-Beltsville Lab, state government and 
+local PPQ have teamed together with the support of NPDN to delimit the pathogen and rapidly 
+respond to pathogen/disease establishment. Surge capacity has increased for regulatory samples 
+with additional NPDN labs becoming NPPLAP accredited. Surge control efforts for non-regulatory 
+samples are unknown, although in principle, high-throughput platforms in several NPDN labs will 
+support processing of greater numbers of processed samples. Establishing and organizing surge 
+potential in advance of an emergency is extremely beneficial and should be pursued.  
+ 
+Recommendations  
+a. Action items 
+ Develop a comprehensive accreditation and certification process for NPDN that 
+identifies minimum standards for accreditation. The quality management system 
+should meet NPPLAP accreditation criteria. It may be necessary to identify specific 
+levels of accreditation in a quality assurance/quality management system. It is also 
+
+Text Len: 1796
+--------------------------------------------------------------------------------
+
+Recommendations  
+a. Action items 
+ Develop a comprehensive accreditation and certification process for NPDN that 
+identifies minimum standards for accreditation. The quality management system 
+should meet NPPLAP accreditation criteria. It may be necessary to identify specific 
+levels of accreditation in a quality assurance/quality management system. It is also 
+necessary to clarify  how to obtain and distribute the resources needed to attain and 
+retain the levels of quality assurance required for accreditation.  
+ Establish data and practices for monitoring of laboratory workload against lab capacity 
+and develop a referral process for samples to effectively utilize the capacity of the 
+Network in the event of a surge.  
+ Work with APHIS to establish a policy of rapid relay of confirmatory data and address 
+issues of confidentiality of those data.  The review committee recognizes that sample 
+status is released by the CPHST-Beltsville Lab to NIS which then passes the information 
+to the affected State Plant Regulatory Official (SPRO) and State Plant Health Director 
+(SPHD) and others.  As for the SOP itself, it covers everything from the first discovery 
+of a pathogen or pest, to the time the final report is relayed to the SPHD and SPRO of 
+the state involved, and everything in between. This includes the referral process for 
+samples, alterations of protocol for surges, and rapid relay of confirmatory data, all 
+done in a way to preserve confidentiality.   The current revision of the SOP is a 
+continuation of close coordination between NIS and NPDN. 
+ 
+b. Specific Recommendations 
+ Plan effective linkages among the NPDN labs for enhanced surge capacity in a large 
+disease outbreak or bioterror event.
+Text Len: 1736
+--------------------------------------------------------------------------------
+ all 
+done in a way to preserve confidentiality.   The current revision of the SOP is a 
+continuation of close coordination between NIS and NPDN. 
+ 
+b. Specific Recommendations 
+ Plan effective linkages among the NPDN labs for enhanced surge capacity in a large 
+disease outbreak or bioterror event. This must include an effective mechanism for 
+referral of overload samples when a lab reaches capacity.  NIFA and APHIS PPQ are 
+8 
+ 
+involved in the Integrated Consortium of Laboratory Networks (ICLN), a federal effort 
+charged to create a cohesive system of labs capable of integrated and coordinated 
+responses to support major incidents requiring lab support.  However, since 2007, 
+biosecurity has been de-emphasized, limiting the efforts of this recommendation. 
+ Continue the close coordination with APHIS PPQ identification services to refine 
+Standard Operating Procedures and to improve Quality Assurance Systems.  NPPLAP 
+has supported, and benefits from the implementation of STAR -D by NPDN.  A more 
+formal agreement between NPDN and PPQ regarding the Planned Deviation system 
+would benefit all. 
+ Increase coordination with laboratories run by state departments of agriculture. This 
+is vitally important to a well-functioning national system of plant diagnostic labs. 
+ Better integrate the work of entomologists and weed biologists into  the NPDN 
+operation. 
+ Implement strategies for every laboratory to meet a high standard of chain-of-custody 
+for samples and data, sufficient to support APHIS, state departments of agriculture, 
+DHS, and law  enforcement agencies for forensic investigations of  intentional plant 
+pest or pathogen introductions
+Text Len: 1673
+--------------------------------------------------------------------------------
+ weed biologists into  the NPDN 
+operation. 
+ Implement strategies for every laboratory to meet a high standard of chain-of-custody 
+for samples and data, sufficient to support APHIS, state departments of agriculture, 
+DHS, and law  enforcement agencies for forensic investigations of  intentional plant 
+pest or pathogen introductions.  The STAR-D standard is based on the international 
+standard ISO/IEC 17025:2005. This standard provides guidelines for maintaining 
+chain-of-custody, document and record traceability, and requirements for 
+confidentiality. The accredited lab is audited by thi rd party peers, and uses systems 
+expressed by the standard that have been adapted and foster continual improvement 
+through customer interaction and periodic self -assessments. As more NPDN labs 
+become STAR-D accredited, this recommendation should be addressed more widely. 
+ Develop plans to work effectively among NPDN labs and with regional and state 
+laboratories to prioritize diagnostic resources and specific disease assays. This should 
+include state and APHIS CAPS surveys, as well as other monitoring and enf orcement 
+activities. Communication with PPQ and CAP programs is not clear. Each state 
+however, is made aware of PPQ’s priority pest list each year and could be doing 
+something at the state level that PPQ is not aware. S&T has been working to offer 
+specific disease assays to the NPDN and State laboratories. The CPHST Beltsville lab 
+has been working collaboratively to identify CAPS pathogen priorities for molecular 
+validation. Several of these are in progress but a few have been rolled out to state and 
+NPDN l abs. There are currently eight phy
+Text Len: 1674
+--------------------------------------------------------------------------------
+T has been working to offer 
+specific disease assays to the NPDN and State laboratories. The CPHST Beltsville lab 
+has been working collaboratively to identify CAPS pathogen priorities for molecular 
+validation. Several of these are in progress but a few have been rolled out to state and 
+NPDN l abs. There are currently eight phytoplasmas on the CAPS priority pest lists. 
+Phytoplasma screening by qPCR assays have been developed by CPHST Beltsville and 
+are offered to NPDN and state diagnostic laboratories. A training session was held at 
+CPHST Beltsville in March 2015 in which many NPDN labs participated. 
+ Develop better communication and cooperation with NAHLN and with FERN via ICLN 
+and e stablish a committee to identify and prioritize diagnostic assays suitable for 
+inclusion in the ICLN surge reagents program, and communicate surge capacity and 
+deficiencies to the I CLN. I dentify sampling and sample handling issues for  
+consideration by the ICLN Working Group on environmental sampling and sampling 
+method validation. The committee could also work in parallel to the ICLN efforts with 
+reagent suppliers on methods, efficacy and supply availability in surge events. 
+9 
+ 
+ Since STAR-D is operational and gaining momentum, it needs to expand its base to 
+achieve sustainability. Targeted organizations could include, but are not limited to, 
+the National Plant Board, National Clean Plant Network, as well as international 
+groups.  
+ NPDN will benefit a great deal to have more NPDN labs that are STAR-D accredited. 
+ NPDN should consider a National Quality Manager position to further support STAR -
+D
+Text Len: 1630
+--------------------------------------------------------------------------------
+ organizations could include, but are not limited to, 
+the National Plant Board, National Clean Plant Network, as well as international 
+groups.  
+ NPDN will benefit a great deal to have more NPDN labs that are STAR-D accredited. 
+ NPDN should consider a National Quality Manager position to further support STAR -
+D and support QM efforts across the system.  
+ Labs could expand their quality management activitie s to include direct comparisons 
+of test results, standardization of instruments and platforms, ring tests, and 
+development of non-regulatory proficiency tests. 
+ NPDN leaders and members should be more proactive when advocating for federal 
+Farm Bill funds. Organization representation from stakeholders in Washington DC will 
+raise awareness and support of the need for this lab system and its mission to protect 
+American agriculture from losses resulting from pests and disease. 
+ Next generation sequencing is being  used domestically and internationally to screen 
+for pathogens. This is an important tool that has promise for NPDN labs. The review 
+committee supports acquiring appropriate equipment and data sharing across labs. 
+ Planned Deviations are used by NPPLAP accredited labs when they have platforms or 
+methods that are not described in established, validated Work Instructions. As more 
+NPDN labs look to replace their Cepheid thermocyclers, labs need to engage NPPLAP 
+for guidance when considering new platforms. Not all real-time PCR instruments are 
+created equal, and the timing involved in the shift between platforms is important. It 
+is likely that a Planned Deviation will be needed before the equipment can be used for 
+regulatory samples. However, the deviation can satisfy all future use by different labs 
+for the specific equipment studied. 
+  
+c
+Text Len: 1802
+--------------------------------------------------------------------------------
+ new platforms. Not all real-time PCR instruments are 
+created equal, and the timing involved in the shift between platforms is important. It 
+is likely that a Planned Deviation will be needed before the equipment can be used for 
+regulatory samples. However, the deviation can satisfy all future use by different labs 
+for the specific equipment studied. 
+  
+c. Future Issues for Consideration 
+ In conjunction with APHIS, determine the feasibility of cooperating with the border 
+countries of  Canada and Mexico on methodology and data sharing of pests and  
+pathogens of mutual concern. The committee recognizes that information sharing 
+could have unintended trade impacts regarding pests and diseases of regulatory 
+concern. The NPDN should work closely with PPQ prior to engaging in bi- or tri-lateral 
+discussions. 
+ 
+III. Partnerships 
+The NPDN has been a model for effective partnerships among local, state and federal agencies 
+and organizations. The NPDN’s record of accomplishment in response to the enormous economic 
+threats posed by exotic plant pathogens and pests is remarkable due largely to effective 
+partnerships with Land Grant University diagnostic laboratories and USDA APHIS expert 
+laboratories. These partnerships have resulted in many publications in refereed journals and in 
+the validation of newly developed diagnostic protocols.  The NPDN labs have also reinvigorated 
+state plant diagnostic labs with improved infrastructure.   
+10 
+ 
+ 
+One example of an effective partnership that had been successful early during the establishment 
+of the NPDN bu t has since been less active is the NPDN ’s Exercise Program it conducted with 
+USDA APHIS and the National Plant Board (NPB).  Under this program , the NPDN conducted 71 
+exercises
+Text Len: 1764
+--------------------------------------------------------------------------------
+10 
+ 
+ 
+One example of an effective partnership that had been successful early during the establishment 
+of the NPDN bu t has since been less active is the NPDN ’s Exercise Program it conducted with 
+USDA APHIS and the National Plant Board (NPB).  Under this program , the NPDN conducted 71 
+exercises prior to 2011, but only four (4) since 2011 due to budget cuts.  Following 2011,  the 
+Exercise Committee was merged into a subcommittee of the Training and Education Committee 
+and currently meets only intermittently. The ETKnet, developed by the University of Florida SPDN 
+Hub, provided some support in 2015 for the Exercise Committee to  meet more regularly and 
+assure an update of the exercise protocol, but its long term sustainability is still in doubt.  
+ 
+Implementing the Incident Command System (ICS) structure is another state/federal partnership 
+that has been achieved with the NPDN.  In conjunction with APHIS and the NPB, all NPDN labs 
+have conducted full scale and functional exercises , but not all NPDN diagnosticians , State Plant 
+Health Directors and State Plant Regulatory officials have exercised with the ICS structure again 
+due to budget limitations.     
+ 
+Although progress has been made in engaging state and federal regulatory agencies, much 
+potential exists in forming additional productive partnerships with stakeholder groups and the 
+private sector.   Several st ate and federal partners are also responsible for excluding and 
+eradicating regulated plant pests and in most states significant progress has been made in 
+improving the level of trust between regulatory agencies and extension and diagnostic personnel. 
+However, a greater level of ongoing engagement and communication with commodity groups is 
+also necessary to tighten the safeguarding safety net and assure
+Text Len: 1813
+--------------------------------------------------------------------------------
+ sector.   Several st ate and federal partners are also responsible for excluding and 
+eradicating regulated plant pests and in most states significant progress has been made in 
+improving the level of trust between regulatory agencies and extension and diagnostic personnel. 
+However, a greater level of ongoing engagement and communication with commodity groups is 
+also necessary to tighten the safeguarding safety net and assure that responses are rapid and 
+accurate. The diagnostic/education/regulatory partnership must recognize the  importance and 
+value of business confidentiality, diagnostic challenges, and the need to minimize potential 
+threats through quarantines and other restrictions. 
+ 
+One example of a successful commodity/stakeholder partnership is the Sentinel Plant Network 
+Program conducted with the American Public Gardens Association. Through it, not only have 
+greater resources been obtained for both the NPDN and the Association, but also a vastly 
+expanded recognition of the NPDN can be made possible by leveraging professionals at botanic 
+gardens themselves, who can promote NPDN to over 100 million visitors to public gardens per 
+year, in addition to serving as botanical and surveying/monitoring resources.  Greater awareness 
+and use of this partnership can be made by any diagnostic lab. 
+ 
+The NPDN has profited from a commitment to forging strong partnerships between regional and 
+state diagnosticians. All five NPDN regions have made great strides in developing strong 
+partnerships and providing training for Certified Crop Advisors (CCAs), Pest Control Advisors 
+(PCAs), county extension staff, and other first responders. Most prominently, a solid foundation 
+for operating NPDN partnerships exists with the Integrated Pest Management (IPM) Center 
+Network, inwhich the NPDN has formed formal partnerships in several regions. The successes of 
+the Soybean Rust
+Text Len: 1907
+--------------------------------------------------------------------------------
+rop Advisors (CCAs), Pest Control Advisors 
+(PCAs), county extension staff, and other first responders. Most prominently, a solid foundation 
+for operating NPDN partnerships exists with the Integrated Pest Management (IPM) Center 
+Network, inwhich the NPDN has formed formal partnerships in several regions. The successes of 
+the Soybean Rust Information System, developed in partnerships with the USDA agencies, state 
+departments of agriculture, industry partners and the Land Grant Universities, has been 
+expanded in the development of the Integrated Pest Management Pest Information Platform for 
+11 
+ 
+Extension and Education (IPM-PIPE), a sentinel system and data management decision tool that 
+will serve as a model for partnership between the NPDN and most, if not all, interested feder al, 
+state and private interests. 
+ 
+Past detections of plant pathogens with regulatory significance have provided an opportunity for 
+extension personnel, CCAs, state regulators  and diagnostic clinicians to exercise Incident 
+Command System (ICS) structure and maneuvers. Additionally, these incidents have identified  
+needed resources and prompted development of sampling and diagnostic mechanisms. The need 
+to develop surge capacity has encouraged critical working relationships between scientists and  
+administration with the diagnostic labs, State Plant Health Directors (SPHDs), State Plant  
+Regulatory Officials (SPROs), APHIS-PPQ Center for Plant Health Science and Technology (CPHST), 
+and APHIS -PPQ Plant Pest Diagnostics Service units. These are initial steps toward  a fully  
+integrated plant security system that point to the potential partnerships and their ability to 
+harness the necessary capacity and imagination to safeguard U.S. agriculture. New potential and 
+expected threats or any unexpected organisms may further  challenge existing communication 
+
+Text Len: 1876
+--------------------------------------------------------------------------------
+), 
+and APHIS -PPQ Plant Pest Diagnostics Service units. These are initial steps toward  a fully  
+integrated plant security system that point to the potential partnerships and their ability to 
+harness the necessary capacity and imagination to safeguard U.S. agriculture. New potential and 
+expected threats or any unexpected organisms may further  challenge existing communication 
+and diagnostic systems.  
+ 
+Partnerships could be more effective by including an industry component. Primarily due to 
+concerns about confidentiality or lack of communication, these partnerships have not been 
+extensively pursued and developed.  Although resources directed for outreach may be viewed as 
+limiting, this does not realize the potential rate of return from awareness.  The CCAs, PCAs, 
+representatives of seed, fertilizer, and pesticide manufacturers, scouts/field repres entatives for 
+commodity groups and processors and professionals engaged within the horticulture industry all 
+work together, giving them unique environmental and pest pressure information. These 
+partnerships will not only ultimately lead to earlier detectio n of pests, but allow unique 
+communication and response opportunities based on existing levels of trust. 
+ 
+The NPDN’s unique function and focus on plants necessitates different approaches than those of 
+the National Animal Health Laboratory Network (NAHLN).  The broad number of potential 
+pathogen and pest threats, as well as numerous ports of entry, necessitates more diverse 
+approaches and greater field resources for the diagnostic labs of the NPDN.    As a result, the 
+NPDN and the NAHLN are structured differen tly and their appro ach to biosecurity are 
+contrasting. The NAHLN is very focused on detection and diagnosis of a limited number of high 
+consequence threat agents
+Text Len: 1816
+--------------------------------------------------------------------------------
+approaches and greater field resources for the diagnostic labs of the NPDN.    As a result, the 
+NPDN and the NAHLN are structured differen tly and their appro ach to biosecurity are 
+contrasting. The NAHLN is very focused on detection and diagnosis of a limited number of high 
+consequence threat agents, while the NPDN’s scope is to protect all plant systems from any 
+threat. NAHLN labs are certif ied and NAHLN diagnosticians are proficiency tested to execute 
+approved protocols for a limited number of pathogens/threat agents , analogous to the NPDN 
+STAR-D and APHIS/PPQ NPPLAP programs.   The NAHLN is operational in select labs in several 
+states, while NPDN is operati onal in every U.S. state and it s territories.  The NAHLN is guided 
+primarily by APHIS Veterinary Services while the NPDN is funded by agreements with USDA-NIFA 
+with APHIS Farm Bill grants supplementing the USDA -NIFA agreements. Even considering these 
+structural dissimilarities, there should be opportunities to interact and communicate with the 
+NAHLN in laboratory accreditation, proficiency testing, and technology strategies.   More on this 
+relationship will be discussed in later sections.      
+ 
+12 
+ 
+Recommendations 
+a. Action Items 
+ The review committee recommends that NPDN leadership and individual diagnostic 
+laboratories seek partnerships with national and state NGOs such as the Farm Bureau, 
+commodity groups and  processors, CCAs and  agricultural product producers and  
+suppliers that allow for greater stakeholder engagement. The Sentinel Plant Network 
+Program partnership is a
+Text Len: 1586
+--------------------------------------------------------------------------------
+. Action Items 
+ The review committee recommends that NPDN leadership and individual diagnostic 
+laboratories seek partnerships with national and state NGOs such as the Farm Bureau, 
+commodity groups and  processors, CCAs and  agricultural product producers and  
+suppliers that allow for greater stakeholder engagement. The Sentinel Plant Network 
+Program partnership is a good beginning, but only by holding focus groups and directly 
+seeking out the needs of these interest groups will greater resources and recognition 
+be obtained. 
+ The review committee recommends that the NPDN directors develop a strategy to 
+inform and engage Land Grant Extension and Experiment Station Directors as well as 
+state departments of agriculture to gain support of network host institutions.   
+ Individual NPDN  laboratories should establish and/or strengthen the partnerships 
+with SPROs, SPHDs and natural resource agencies. 
+ The NPDN Exercise Program and the Incident Command System should be 
+reinvigorated to facilitate the establishment and maintenance of relationships among 
+NPDN, state and federal staff involved in plant health emergencies.  USDA-NIFA should 
+consider this a high priority for increased supplemental funding. 
+ 
+ b. Specific Recommendations 
+ NPDN leadership should seek partnerships with  those federal agencies who se 
+missions involve land or resource management or plant pest regulations. 
+ NPDN leadership should establish a communication link with the NAHLN and consider 
+opportunities to communicate and exchange information with the NAHLN in 
+laboratory accreditation, proficiency testing, and technology strategies. One option is 
+to have an  NAHLN representative seat on the Advisory Board (or its replacement 
+entity) for NPDN and vice versa for exchange of ideas or business practices. 
+�
+Text Len: 1824
+--------------------------------------------------------------------------------
+HLN and consider 
+opportunities to communicate and exchange information with the NAHLN in 
+laboratory accreditation, proficiency testing, and technology strategies. One option is 
+to have an  NAHLN representative seat on the Advisory Board (or its replacement 
+entity) for NPDN and vice versa for exchange of ideas or business practices. 
+ As available,  individual state diagnostic laboratories should establish partnerships 
+with non- traditional cooperators such as Historically Black Colleges and Universities, 
+Tribal Nations, and private land managers. 
+ NPDN laboratories should identify roles, responsibilities, and measures of success 
+with partners and establish mechanisms to share data, as well as investigational and 
+analytical information. NPDN should further identify international standards which 
+provide guidelines for these practices including those available by ISO, Codex, IPPC, 
+AAVLD, and RPPOs. This can be  facilitated by developing and implementing MOUs 
+with key partners. 
+ NPDN laboratories should develop and implement additional ICS preparedness 
+scenarios in coope ration with key partners to  improve communication, enhance 
+readiness and engage mutually available diagnostics. Varying the size of scenarios in 
+regional, state, and  local locations and  cropping systems will  challenge different 
+resources and personnel. 
+ NPDN should strengthen partnerships with  industry and professional associations 
+such as the American Phytopathological Society (APS), the American Public Gardens 
+Association, AmericanHort, the  California Association of Pest Control Advisors, the 
+13 
+ 
+American Farm Bureau and others to increase recognition and awareness of its crucial 
+work.  Consideration should be given to enhance the Sentinel Plant Network Program.  
+�
+Text Len: 1794
+--------------------------------------------------------------------------------
+ as the American Phytopathological Society (APS), the American Public Gardens 
+Association, AmericanHort, the  California Association of Pest Control Advisors, the 
+13 
+ 
+American Farm Bureau and others to increase recognition and awareness of its crucial 
+work.  Consideration should be given to enhance the Sentinel Plant Network Program.  
+ NPDN should plan engagement activities with stakeholders such as focus groups, 
+periodic summits, or other open meetings to gain and exchange information.  
+ Representatives of stakeholder  organizations should be considered for membership 
+on the NPDN Advisory Board (or its replacement entity).  
+ The NPDN should consider strengthening communications with the National Seed 
+Health System to increase the Network’s role in seed-related issues. 
+ 
+IV. Public Relations and Outreach 
+The NPDN has engaged in structured public relations efforts since its inception and has 
+established a Public Relations Committee, which has been less active in recent years due to 
+budget constraints. Efforts have included the development of a variety of promotional print and 
+electronic materials, highlighting national and regional activities, laboratory capacity and disease-
+specific information. National and regional newsletters, brochures, and websites have been 
+effectively deployed to distribute information. In a notable example of outreach activities, NPDN 
+partnered very effectively with several commodity groups, and USDA agencies to develop 
+effective materials on field crop pathogen identification and management as well as ornamental 
+plant pathogens and diseases. The NPDN websites provide qualit y information on new disease 
+issues and outbreaks in a user-friendly interface (http://www.NPDN.org, (http://www.NPDN.org; 
+https://firstdetector.org/; http://www.protect
+Text Len: 1822
+--------------------------------------------------------------------------------
+ crop pathogen identification and management as well as ornamental 
+plant pathogens and diseases. The NPDN websites provide qualit y information on new disease 
+issues and outbreaks in a user-friendly interface (http://www.NPDN.org, (http://www.NPDN.org; 
+https://firstdetector.org/; http://www.protectingusnow.org/, sentinel plant network 
+(www.sentinelplantnetwork.org), www.npdn-spn.org).  
+ 
+Despite years of continuous effort, some potential partners and stakeholders are still not 
+knowledgeable about the NPDN mission and activities. Additionally, as previously stated, a top 
+priority must be to further educate commodity groups, private industry and other plant industry 
+stakeholders on the mission, scope and activities of the NPDN, and engage them as partners. 
+There is a lack of brand awareness, both of the NPDN itself, and of its products. Although there 
+is a brand logo and identity, it must be focused into a plan with communication goals. The NPDN 
+should develop a formal public relations strategy, with strategic goals at the national, regional 
+and state levels.   It is imperative that state, regional and national NPDN members identify and 
+engage new audiences, while sustaining the interest of existing partners and stakeholders. For 
+example, not all University administrators currently view the NPDN as an entity that is 
+contributing to their current strategic goals.  
+ 
+The NPDN has had a complicated relationship with state departments of agriculture (SDA).  
+Extension and regulatory missions are not always the same and Extension needs for diagnostic 
+methods and specificity of identification are often different.  Some diagnosticians and 
+administrators in SDAs perceive N
+Text Len: 1709
+--------------------------------------------------------------------------------
+ is 
+contributing to their current strategic goals.  
+ 
+The NPDN has had a complicated relationship with state departments of agriculture (SDA).  
+Extension and regulatory missions are not always the same and Extension needs for diagnostic 
+methods and specificity of identification are often different.  Some diagnosticians and 
+administrators in SDAs perceive NPDN labs as a parallel effort, and some state diagnosticians do 
+not grasp how they could interact with their NPDN cohorts.   
+14 
+ 
+Recommendations 
+ a. Action Items 
+ Develop a formal public relations strategic plan with goals at the national, regional and 
+state levels. Consider public relations more broadly in websites, newsletters, and 
+interactions with groups.  Identify target audiences for the strategy and for 
+distribution, and prioritize audiences such as Land Grant University administrators, 
+and State Plant Health Directors. This plan should contain measurable elements that 
+define what successful execution looks like, as well as a programmatic brand review 
+that identifies strong as well as repetitive brands that exist within NPDN.  
+ Diagnosticians in each laboratory should engage in regional meetings,  focus groups, 
+open houses and visits by stakeholders to diagnostic clinics on a rotating basis. These 
+visits should be tracked by NPDN as evidence that outreach is taking place at an 
+increased rate.  
+ Improve access, search capability and content on the website(s), especially publicly 
+accessible in formation and training materials for stakeholders (including but not 
+limited to producers, c rop advisors, first detectors, and green industry/commodity 
+professionals. Websites may need to be consolidated, re-organized, or co-branded to 
+ensure that NPDN is best identified as
+Text Len: 1778
+--------------------------------------------------------------------------------
+ and content on the website(s), especially publicly 
+accessible in formation and training materials for stakeholders (including but not 
+limited to producers, c rop advisors, first detectors, and green industry/commodity 
+professionals. Websites may need to be consolidated, re-organized, or co-branded to 
+ensure that NPDN is best identified as the source of these valuable programs.  
+ The NPDN leadership and Public Relations Committee should develop a framework 
+and process for annual self-evaluation that will help to focus strengthening activities, 
+including reporting topics and formats, and metrics for recordi ng and reporting 
+performance. 
+ NPDN laboratories in states where there is no Land Grant University, should 
+strengthen partnerships with SDAs as partner labs and interact with the SDAs in 
+regional meetings and trainings.    
+ 
+ b. Specific Recommendations 
+ Expand professional outreach by organizing annual town hall meetings and providing 
+booths, di splays, and information at venues such as at annual  meetings of the 
+American Phytopathological Society, the American Public Gardens Association, 
+AmericanHort, t he National Plant Board, National Association of state Departments 
+of Ag riculture, Partners in Community Forestry, and  the North American Plant 
+Protection Organization. 
+ Identify key agricultural legislators in each state and develop plans to educate them 
+via the NPDN partners in that state on local, regional and national accomplishments 
+and needs. Consider inviting State legislative and Congressional staff to diagnostic 
+labs or meeting them at disease impact sites for awareness building. 
+ Develop and disseminate communications toolkits that diagnosticians can use to 
+introduce/promote the NPDN in their outreach efforts
+Text Len: 1782
+--------------------------------------------------------------------------------
+via the NPDN partners in that state on local, regional and national accomplishments 
+and needs. Consider inviting State legislative and Congressional staff to diagnostic 
+labs or meeting them at disease impact sites for awareness building. 
+ Develop and disseminate communications toolkits that diagnosticians can use to 
+introduce/promote the NPDN in their outreach efforts. 
+ Consolidate website presence and make tools available to constituents in an 
+organized and brand-identifiable fashion based on results of PR strategic plan 
+ Adopt a formal, structured annual reporting system for NPDN labs at the local/state 
+and national levels. Ideally, it could include short statements of accomplishment that 
+can be di sseminated to various audience s. Develop “Points of  Progress” for 
+15 
+ 
+communication at the state and regional levels for Experiment Station Directors, 
+SPROs, and USDA agencies. 
+ Publish more of the diagnostic laboratories output in scientific journals. Consider 
+publishing pathogen diagnostic standard operating procedures and ring-test results in 
+easily accessible journals such as those in the Plant Health Management Network. 
+ 
+V. Training & Education  
+The mission of the NPDN Training & Education Committee (TEC) is to provide general leadership, 
+guidelines and direction for the national First Detector training program. This mission is 
+accomplished by developing materials in several formats to facilitate the work of First Detectors 
+and First Detector educators. All NPDN materials are available online at www.firstdetector.org. 
+The 2007 review indicates that from its or igins, education and training w ere stated goals of the 
+NPDN and an important infrastructure was built: “A vast network of first responders has been 
+developed
+Text Len: 1777
+--------------------------------------------------------------------------------
+ facilitate the work of First Detectors 
+and First Detector educators. All NPDN materials are available online at www.firstdetector.org. 
+The 2007 review indicates that from its or igins, education and training w ere stated goals of the 
+NPDN and an important infrastructure was built: “A vast network of first responders has been 
+developed and is rapidly expanding down to the local level, fulfilling one of the primary visions 
+of the network.” Training is a primary focus of the Network and is accomplished at the national, 
+regional and state level with effectiveness, applying a “train -the-trainer” philosophy. Online 
+scenario-based training has been implemented with online access, and Standard Operating 
+Procedures are in place on the internet for open access. 
+ 
+Overall, the TEC has been very successful in addressing its core mission of training “First 
+Detectors.” Since its inception in 2003, an estimated 16,000+ participants have received face-to-
+face training across a broad variety of commodities, and this likely under -represents the total 
+number of participants since many sessions were not recorded in the database. An e -learning 
+module program was implemented in 2009 and nearly 5,000 participants have viewed over 
+23,000 trai ning modules including those registering through other partner sites including the 
+NPDN training gateway, Protect US  (a partnership with the Regional IPM Centers) , and the 
+Sentinel Plant Network (a partnership with the American Public Gardens Association). In addition, 
+training has occurred in 22 countries worldwide.    
+ 
+The mission of the TEC is defined in the context of serving First Detectors and First Detector 
+educators only, and does not explicitly address the needs of diagnosticians themselves. However, 
+Text Len: 1780
+--------------------------------------------------------------------------------
+ and the 
+Sentinel Plant Network (a partnership with the American Public Gardens Association). In addition, 
+training has occurred in 22 countries worldwide.    
+ 
+The mission of the TEC is defined in the context of serving First Detectors and First Detector 
+educators only, and does not explicitly address the needs of diagnosticians themselves. However, 
+diagnosticians and other professionals involved with the NPDN do receive training in places such 
+as at specialized workshops offered annually by USDA -PPQ CPHST-Beltsville on specific topics 
+related to diagnosis and identification of plant pathogens  of regulatory significance as well as 
+other key topics.  These are valuable training sessions outside the scope of that offered for First 
+Detectors and not limited to compliance trainings such as that for STAR-D, but not mentioned in 
+the TEC report specifically. 
+ 
+Extensive budget reductions occurred in 2010, and for the education focus to continue, 
+extramural funding was obtained. Collaborations with Protect US and the Sentinel Plant Network 
+provided additional funding through the Farm Bill (10201) and resulted in a suite of tools (e.g. e-
+learning modules, interpretation, and scouting guides, etc.) for identification of high 
+16 
+ 
+consequence pests and pathogens housed at www.firstdetector.org, and advanced taxonomic 
+training videos, which are housed on the YouTube site, www.youtube.con/user/npdnchannel. 
+Current partners listed on the www.firstdetector.org site include USDA -APHIS, Regional IPM 
+Centers, the CAPS program, the National Plant Board and the State Departments of Agriculture, 
+EDEN, the Center for Ecosystem Species and Health (Bugwood), the Community Invasive Species 
+Network (Protect US), and the
+Text Len: 1748
+--------------------------------------------------------------------------------
+pdnchannel. 
+Current partners listed on the www.firstdetector.org site include USDA -APHIS, Regional IPM 
+Centers, the CAPS program, the National Plant Board and the State Departments of Agriculture, 
+EDEN, the Center for Ecosystem Species and Health (Bugwood), the Community Invasive Species 
+Network (Protect US), and the Sentinel Plant Network. 
+ 
+The training and education programs of the TEC were very successful in raising the initial visibility 
+and awareness of the NPDN and the importance of plant biosecurity to the general public from 
+2003 until the 2010 budget reduction. Nearly 5,000 First Detectors have been trained since 2009 
+when the e-learning platform was implemented and although it has been successful, it is not a 
+replacement for face -to-face training. Given new funds, First Detector training should be 
+reemphasized by both face-to-face and electronic means. Branded training materials should also 
+be updated as needed. Although efforts were made to raise the visibility of the First Detector 
+network and NPDN on social media, the impact of this effort is unclear. 
+ 
+The learning gateway established at www.firstdetector.org serves to direct users to its many 
+different resources. However, because it has lacked one consistent programmatic source of 
+dedicated funding, decisions on the look and interactivity of the we bsite will need attention. 
+Many collaborators have been involved, and the First Detector program seems to be split 
+between gaining resources by collaboration, and retaining its own brand presence. 
+ 
+The use of “First Detector” is a strong brand positioning statement for NPDN, and it should be 
+retained, although having this wrapped in a strong communications / public relations plan would 
+eluc
+Text Len: 1752
+--------------------------------------------------------------------------------
+ have been involved, and the First Detector program seems to be split 
+between gaining resources by collaboration, and retaining its own brand presence. 
+ 
+The use of “First Detector” is a strong brand positioning statement for NPDN, and it should be 
+retained, although having this wrapped in a strong communications / public relations plan would 
+elucidate which social media streams (if any) should be retained. A communication specialist 
+should be retained to make recommendations for improving TEC activities. 
+ 
+Recommendations  
+a. Action Items  
+ First detector training should be incorporated into Certified Crop Adviser training 
+workshops with CCA continuing education credits being approved for the NPDN core 
+e-learning modules. In 2009, NPDN created and launched e -learning modules which 
+provided an opportunity for asynchronous learning. 
+ Establish new and continue to sustain partnerships that support and leverage NPDN 
+and First Detector materials. 
+ Invest in a central information sharing hub and house regional and central training 
+resources in one location under an NPDN or First Detector Umbrella. Unify education 
+and training across all regions and platforms to better support the NPDN and the First 
+Detector network. 
+ Survey audience s to determine utility and potential resource overlap with other 
+programs and develop new content that seeks to serve a unique audience  
+17 
+ 
+b. Specific Recommendations 
+ Expand first detector training to encompass Master Gardeners, CCAs, crop 
+consultants, and other agribusiness professionals. Substantial progress was made from 
+2007-2010 in expanding First Detector training primarily with the implementation of 
+e-learning modules beginning in 2009. More recently, the NPDN YouTube channel
+Text Len: 1770
+--------------------------------------------------------------------------------
+
+b. Specific Recommendations 
+ Expand first detector training to encompass Master Gardeners, CCAs, crop 
+consultants, and other agribusiness professionals. Substantial progress was made from 
+2007-2010 in expanding First Detector training primarily with the implementation of 
+e-learning modules beginning in 2009. More recently, the NPDN YouTube channel was 
+expanded and it hosts First Detector training materials  and advanced taxonomic 
+resources mostly used for internal NPDN training purposes. TEC activities expanded 
+their presence in social media including Facebook and Twitter, and First Detector 
+training and resources were promoted through the Sentinel Plant Network  and First 
+Detector newsletter. Some of these activities were curtailed in 2010 following a 
+substantial budget reduction. 
+ Expand the current initiative on Incident Command System training to all regions. 
+ Continue to develop, expand and refine online traini ng tools and update and expand 
+the e-learning system through expanded collaborations.  
+ Establish Training and Education Committees in all regions. 
+ Develop and provide certifications and  certification programs for various types of  
+training. The committee recognizes that a certification for completing First Detector 
+training has been developed and a receipt of credit in CCA -approved and other state 
+pesticide education courses has been provided. 
+ Strengthen links between  diagnosticians and  First Detectors. Although m any 
+diagnosticians conducted First Detector training from 2003 to 2010, budget reductions 
+in 2011 resulted in substantially less First Detector training. Although this mechanism 
+for strengthening links between diagnosticians and First  Detectors no longer exists, 
+collaborations like the Sentinel Plant Network have served to route new first detector 
+trainees to the www.first
+Text Len: 1864
+--------------------------------------------------------------------------------
+ Although m any 
+diagnosticians conducted First Detector training from 2003 to 2010, budget reductions 
+in 2011 resulted in substantially less First Detector training. Although this mechanism 
+for strengthening links between diagnosticians and First  Detectors no longer exists, 
+collaborations like the Sentinel Plant Network have served to route new first detector 
+trainees to the www.firstdetector.org site. Some effort has been made to expand the 
+TEC presenc e using social media, but it is not specific whether this benefits first 
+detectors or NPDN diagnosticians. It does not replace face -to-face engagement. 
+NPDN’s e-newsletter, although successful, is mainly targeted at NPDN diagnosticians. 
+ Continue to partner  with other agencies, NGOs, and Extension to channel first 
+detectors to resources/ allied education programs (e.g. Don’t Move Firewood, Sentinel 
+Plant Network, Bugwood, etc.). 
+ Appoint an education and training leader vested with the authority to participat e in 
+education and training decisions at the executive level.  
+ Promote the First Detector program and its resources more broadly under the banner 
+of NPDN.  
+ Seek to eliminate repetition in site content.  Develop a plan to maintain and/or phase 
+out educationa l resources. Clarify and/or reduce other microsites and other 
+maintenance-intensive social media presences that aren’t returning time investments. 
+ Determine exact audience to be served by existing and future resources. The focus of 
+education and training can serve NPDN network personnel and expand to encompass 
+professionals and allies, but the latter ha ve many different programs already serving 
+
+Text Len: 1663
+--------------------------------------------------------------------------------
+ microsites and other 
+maintenance-intensive social media presences that aren’t returning time investments. 
+ Determine exact audience to be served by existing and future resources. The focus of 
+education and training can serve NPDN network personnel and expand to encompass 
+professionals and allies, but the latter ha ve many different programs already serving 
+them. 
+18 
+ 
+ Consider providing a moderated online technical forum for conversation and 
+information sharing, using open source forum software. 
+ 
+VI. Integration with Research 
+The role of NPDN is not to conduct research.  The NPDN relies on research results and practices 
+to evaluate its own responses to plant health managers. In some cases, NPDN personnel have 
+been directly or indirectly involved in some research areas dealing with the appearance, diagnosis 
+and management of diseases new or rare in their areas by providing methods development of 
+tests created through outside research activities (one or more of the five in their jurisdiction). 
+Since its inception in 2003, the NPDN has been responsible for numerous peer reviewed 
+publications and since 2007 alone, 33 peer reviewed publications involving research have been 
+written, averaging two to three per year (range: 1 to 5 per year) with collaborators. These findings 
+and others have been communicated directly or indirectly to over 9 million people since 2007.  
+ 
+The emphasis of NPDN is to remain a premier and diagnostic system for detection, identification 
+of plant pests and pathogens and communication.  Based on its initial inception, NPDN was to be 
+aligned with the veterinary counterpart NAHLN. This has been partially achieved through quality 
+management training, sharing information regarding program operations practices, and use  of 
+the NAHLN webportal, but additional alignment is needed.  Opportunities for
+Text Len: 1868
+--------------------------------------------------------------------------------
+ detection, identification 
+of plant pests and pathogens and communication.  Based on its initial inception, NPDN was to be 
+aligned with the veterinary counterpart NAHLN. This has been partially achieved through quality 
+management training, sharing information regarding program operations practices, and use  of 
+the NAHLN webportal, but additional alignment is needed.  Opportunities for increasing capacity 
+across the two fields should be created. Sharing of materials and information/ideas can open 
+doors for producing other sources of income, and collaborative cross-development studies will 
+strengthen the knowledge base of both networks.  Fostering communication between the 
+networks remains a challenge for multiple reasons.  There are some cross - kingdom pathogens 
+of plants that cause devastating diseases for animals. For example, the bacterium Rathayibacter 
+toxicus, a select agent, causes Rathayibacter poisoning of animals. Its first appearance in the U.S. 
+may be observed by the occurrence of dead ungulates, especially cattle. The source of 
+consumption may not be readily apparent without consultation with NPDN personnel. Therefore, 
+some means of secure communication should be discussed with the administrators of NIFA and 
+NAHLN, so that at least the record of desired interaction is clear.  An added box of interactio n 
+ideally should be on the flow charts sent to USDA.  The introduction of R. toxicus was the source 
+of an ICLN exercise in 2012. One outcome from the exercise was recognition that lab capacity 
+was increased through joint effort s between the NPDN and the NAHLN. Other sapronoses 
+examples include Claviceps purpurea (ergotism) and Aspergillus species, and there is increasing 
+evidence that plant pathogens play a role in reducing the effectiveness of human
+Text Len: 1810
+--------------------------------------------------------------------------------
+N exercise in 2012. One outcome from the exercise was recognition that lab capacity 
+was increased through joint effort s between the NPDN and the NAHLN. Other sapronoses 
+examples include Claviceps purpurea (ergotism) and Aspergillus species, and there is increasing 
+evidence that plant pathogens play a role in reducing the effectiveness of human health and 
+increase the effec tiveness of sapronoses (Emerging Infectious Diseases, volume 9, number 3 —
+March 2003, letter: Emerging Human Infectious Diseases: Anthroponoses, Zoonoses, and 
+Sapronoses).   
+19 
+ 
+Recommendations 
+ a. Action items 
+ NPDN diagnosticians should help test new APHIS regulatory diagnostic test methods 
+and protocols for robustness and reproducibility before they become implemented 
+into programs.  
+ NPDN diagnosticians should work collaboratively with CPHST and/or state regulators 
+to develop or update n ew regulatory diagnostic methods  that enable their lab to 
+adjust to new technology trends or create a better fit for their specific lab scope while 
+maintaining the APHIS mission.  
+ NPDN should provide assistance and resources for industry, especially beta t esting 
+prior to commercial product release. 
+ NPDN should review plant diagnostic test needs that occur throughout the Network 
+for opportunities on developing standardized and high throughput testing protocols 
+with appropriate validation and assessments of key test performance measurements. 
+NDPN can research information from NAHLN, the industry, and other diagnostic test 
+arenas on how to accomplish this objective and then apply these concepts to current 
+plant pathological knowledge.  
+ 
+b. Specific recommendations: 
+
+Text Len: 1684
+--------------------------------------------------------------------------------
+ opportunities on developing standardized and high throughput testing protocols 
+with appropriate validation and assessments of key test performance measurements. 
+NDPN can research information from NAHLN, the industry, and other diagnostic test 
+arenas on how to accomplish this objective and then apply these concepts to current 
+plant pathological knowledge.  
+ 
+b. Specific recommendations: 
+ Develop an effective linkage with NAHLN for communication and cooperation, 
+including consideration of a joint exercise involving animals and plants  that is 
+complementary to the ICLN. 
+ Develop a plan with USDA for the collection, maintenance and dissem ination of 
+reference strains, including obligate parasites. Develop a mechanism for the 
+production and validation of standardized reference materials from these strains for 
+network distribution. Because this is critical for verification purposes, the plan should 
+include comparative studies and tracing of both spread and eradication of organisms, 
+and include how strains are identified, maintained, and quality controlled . Language 
+can be drawn from the International Organization of Standards documents ISO 17043 
+and ISO Guide 34 to help ensure common quality assurance practices are used.  
+Diagnostic test developers, including industry, need representative strains of 
+pathogens/ pests for evaluating countermeasures.   However, industry will often 
+maintain proprieta ry materials.  Opportunities must be sought out to encourage 
+sharing of proprietary materials to increase the Network’s state of readiness for an 
+emergency based on the NPDN’s identified threats to their stakeholders.   
+ Evaluate the need for surveillance an d methodology applicable to aquatic economic 
+and invasive plants. These are likely to become of greater economic impact in the 
+future with water composition changes, higher water levels and decreased soil 
+availability due to erosion, quality deterioration and human population
+Text Len: 1979
+--------------------------------------------------------------------------------
+emergency based on the NPDN’s identified threats to their stakeholders.   
+ Evaluate the need for surveillance an d methodology applicable to aquatic economic 
+and invasive plants. These are likely to become of greater economic impact in the 
+future with water composition changes, higher water levels and decreased soil 
+availability due to erosion, quality deterioration and human population expansion.   
+Resources for some required elements of the evaluation may be available through the 
+inclusion of experts from other fields responsible for similar evaluations such as the 
+EPA, USDA-FS, and US Fish and Wildlife Services.  
+  
+20 
+ 
+ c. Future issues: 
+ Consider interactions with engineering , other diagnostic test arenas, or industry for 
+evaluating new methods of ‘surveillance’. For example, the use of unmanned aerial 
+vehicles with telescopic capability for disease and pest introduction  and spread, 
+especially in the enlarged farm acreages and difficult wild terrains in an era of climate 
+challenges makes early detection potentially easier, faster and of greater economic 
+importance. 
+ Further advances in research and materials development requires adequate funding. 
+The review committee endorses rebuilding of the financial base for the NPDN, which 
+has helped minimize or even essentially eliminate some plant disease invasions and 
+their deleterious effects.  Although support for agriculture in so me states is 
+reasonable, there are states that should be expected to provide adequate support 
+without federal assistance.  Competitive funds may also play a role in advancing the 
+science and dissemination of information of plant disease threats.  
+ 
+Text Len: 1680
+--------------------------------------------------------------------------------
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+National Plant Diagnostic Network: 2016 Review 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Report of the Review Committee 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2016 
+ 
+ 
+1 
+ 
+2016 NPDN Review Committee 
+ 
+ 
+Rick Bennett (Chair) 
+Associate Dean for Research 
+University of Kentucky, 
+Lexington, KY  
+ 
+Casey Sclar 
+Executive Director 
+American Public Gardens Association 
+Kennett Square, PA 
+Charla Hollingsworth 
+Associate Director 
+APHIS-Plant Protection and Quarantine 
+Center for Plant Health, Science and Technology 
+Raleigh, NC 
+ 
+Robin Shepard 
+Executive Director 
+NC Association of Extension Directors 
+Madison, WI 
+ 
+Doug Luster 
+Research Plant Physiologist 
+Foreign Disease-Weed Science Research Unit 
+USDA-ARS 
+Ft. Detrick, Frederick, MD  
+ 
+Anne Vidaver 
+Professor Emeritus 
+University of Nebraska 
+Lincoln, NE 
+Tim Murray 
+APS President Elect 
+Extension Plant Pathologist 
+Washington State University 
+Pullman, WA 
+ 
+ 
+ 
+ 
+  
+2 
+ 
+NPDN 2016 Review Executive Summary 
+ 
+The USDA National Institute of Food and Agriculture (NIFA) convened a Review Committee who 
+met from March 8 -10, 2016 to conduct a critical review of all facets of the National Plant 
+Diagnostic Network (NPDN). The committee met in conjunction with the Fourth  National NPDN 
+meeting in Arlington, Virginia on March 8-12, 2016
+Text Len: 1279
+--------------------------------------------------------------------------------
+ 
+The USDA National Institute of Food and Agriculture (NIFA) convened a Review Committee who 
+met from March 8 -10, 2016 to conduct a critical review of all facets of the National Plant 
+Diagnostic Network (NPDN). The committee met in conjunction with the Fourth  National NPDN 
+meeting in Arlington, Virginia on March 8-12, 2016 coordinated by the University of Florida. The 
+Review Committee was provided background materials on the mission and history of the NPDN, 
+administrative structure, and accomplishments since its inception.  
+ 
+The Review Committee, consisting of professional representatives from major stakeholders, U.S. 
+government agencies, and university partners of the NPDN, developed this report after a 
+thorough review of the five regional network summaries, t he NPDN committee activity 
+summaries, and after  meeting in Arlington with the NPDN Executive Committee and regional 
+directors.  Although much of the core of this review came from content and output from the 2016 
+national meeting, the basis of this report comes from the NPDN committees that implement the 
+plans of work and coordinate the activities within and across regions. Relevant recommendations 
+of the 2007 review report were also considered.  
+ 
+This report is divided into six sections following the framew ork established in 2007 , which is 
+reflective of the mission, scope, and structure of the NPDN.   In each section, the summary is 
+followed by a list of action items with specific recommendations for future improvement of the 
+NPDN. The Review Committee did not feel it is necessary to reflect on the history and inception 
+of the NPDN since this has been adequately addressed in previous documents.  Instead, the 
+Review Committee focused on an analysis of the current state of the NPDN
+Text Len: 1792
+--------------------------------------------------------------------------------
+ summary is 
+followed by a list of action items with specific recommendations for future improvement of the 
+NPDN. The Review Committee did not feel it is necessary to reflect on the history and inception 
+of the NPDN since this has been adequately addressed in previous documents.  Instead, the 
+Review Committee focused on an analysis of the current state of the NPDN and suggestions for 
+the future, including areas for improvement.  
+ 
+Key Findings: 
+ 
+The NPDN and its laboratories are considered essential for minimizing destructive pathogens and 
+pests of U.S. agriculture. Considering its funding challenges, especially since 2007, the NPDN has 
+functioned extremely well, based on a review of its accomplishments including reports, service 
+to multiple public and private entities and resulting refereed publications.  
+ 
+Long term funding and sustainability of the NPDN remain a concern by the Review Committee.   
+Although the Review Committee does not offer specific funding solutions, the report identifies 
+mission areas where funds are needed to support the program and ensure its sustained success.   
+ 
+Succession planning at levels of the executive committee, regional directors and USDA NIFA 
+remains a concern. Many of the current regional directors have been with the NPDN from the 
+beginning. A succession plan is essential to ensure that these mission-critical positions are a part 
+of the ongoing and future operation of the NPDN. The continued stability and functioning of the 
+NPDN with its partner institutions should be seamless and follow a well -developed transition 
+plan.  
+3 
+ 
+ 
+The NPDN Advisory Council has not been effective  and should be replaced by broad -based 
+focused listening groups. These focused listening groups should be composed of representatives 
+from the private sector, state/count
+Text Len: 1835
+--------------------------------------------------------------------------------
+ functioning of the 
+NPDN with its partner institutions should be seamless and follow a well -developed transition 
+plan.  
+3 
+ 
+ 
+The NPDN Advisory Council has not been effective  and should be replaced by broad -based 
+focused listening groups. These focused listening groups should be composed of representatives 
+from the private sector, state/county governments and commodity representation to ensure all 
+partners and benefactors of the NPDN are represented. 
+ 
+Rapid detection, evaluation and use of new methodology, diagnostics, and early communication 
+of disease outbreaks are essential components of the NPDN and  should remain a core mission. 
+Training and education of first responders should be incorpora ted into training worksho ps. 
+Diagnostic resources should be prioritized among NPDN labs, state and regional labs.   
+ 
+Effective linkages among NPDN labs should include enhanced surge capacity during disease 
+outbreaks including an effective mechanism for referral and overload samples when a lab reaches 
+capacity.   
+ 
+The NPDN Executive Committee and NIFA National Program Staff should continue to manage the 
+NPDN as a cooperative agreement. A competitive funding model for the NPDN and its 
+regions/labs would be highly disruptive to the continuity and vitality of the program.  
+ 
+1 
+ 
+ 
+I. Governance & Funding  
+The NPDN was established by the USDA, Cooperative State Research Education and Extension 
+Service (USDA CSREES) from federal funds in 2002 to provide increased diagnostic capability to 
+the nation’s agricultural system.  
+ 
+The NPDN is administered by an Execu tive Committee and Operations Committee under a 
+cooperative agreement with USDA NIFA , which replaced CSREES. 
+Text Len: 1713
+--------------------------------------------------------------------------------
+ the USDA, Cooperative State Research Education and Extension 
+Service (USDA CSREES) from federal funds in 2002 to provide increased diagnostic capability to 
+the nation’s agricultural system.  
+ 
+The NPDN is administered by an Execu tive Committee and Operations Committee under a 
+cooperative agreement with USDA NIFA , which replaced CSREES.  Initially, the NPDN 
+administration was divided among the five regions, each with a separate responsibility.  
+Governance was assigned to the Great Plains Diagnostic Network (GPDN), the North Central Plant 
+Diagnostic Network (NCPDN) provided oversight for public relations aspects, the Northeast Plant 
+Diagnostic Network ( NEPDN) coordinated diagnostics, the Southern Plant Diagnostic Network 
+(SPDN) managed training and education and the Western Plant Diagnostic Network ( WPDN) 
+managed exercises.  Information technology and data management was led by the National 
+Repository. Following the budget reductions in 2011, the Executive Committee decided to focus 
+on four areas.  Each of the four areas : Diagnostics, IT Systems, STAR -D Accreditation, and 
+Communication were to be a shared responsibility of the regions together.   Committees were 
+established to address governance, training and education because ther e was not sufficient 
+funding for focused efforts in training and educational materials. Following the enactment of the 
+Budget Control Act, a new strategic direction was established to focus on detection, diagnostics 
+and reporting (communication).  The strategic planning process is still ongoing.   
+ 
+The NPDN is composed of five regional hubs  with each having unique challenges and regional 
+characteristics. They are composed of institutional partners  who vary in their level of 
+participation in the region and greater Network. Partners in each region value the current 
+
+Text Len: 1851
+--------------------------------------------------------------------------------
+ diagnostics 
+and reporting (communication).  The strategic planning process is still ongoing.   
+ 
+The NPDN is composed of five regional hubs  with each having unique challenges and regional 
+characteristics. They are composed of institutional partners  who vary in their level of 
+participation in the region and greater Network. Partners in each region value the current 
+structure and indicate they appreciate the communications, coordination of funding and 
+reporting, and opportunities to network and attend  training sessions that each regional hub 
+provides. The diagnosticians in each of the labs look forward to regional meetings as an 
+opportunity to exchange information, learn new techniques (as some regional meetings also 
+have some hands -on diagnostic activ ities) and to network.  Several regions have provided 
+additional training for their partners, and the current structure allows new diagnosticians the 
+ability to be mentored by established diagnosticians. Several partner labs with specific expertise 
+have opened their doors to diagnosticians who seek training on a specific topic. Each partner also 
+looks to their regional hub for leadership and guidance with STAR-D, and they appreciate the fact 
+that the hub labs have achieved full accreditation or have been thr ough a gap audit. State 
+laboratory partners in each region have become embedded within each regional structure, and 
+this has led to a sense of community that strengthens the diagnostic efforts within the regions 
+and serves as a point of entry into those issues and activities that involve the entire NPDN.  
+ 
+ 
+ 
+ 
+2 
+ 
+The NPDN mission statement was recently revised and is currently being vetted pending 
+ratification of the NPDN Governance Charter. It states: 
+ 
+The National Plant Diagnostic Network is a premier diagnostic system with the ability to 
+quick
+Text Len: 1859
+--------------------------------------------------------------------------------
+ issues and activities that involve the entire NPDN.  
+ 
+ 
+ 
+ 
+2 
+ 
+The NPDN mission statement was recently revised and is currently being vetted pending 
+ratification of the NPDN Governance Charter. It states: 
+ 
+The National Plant Diagnostic Network is a premier diagnostic system with the ability to 
+quickly detect and accurately identify plant pests and pathogens and to communicate timely 
+and accurate information. 
+ 
+ 
+The mission of the NPDN is based upon national agricultural security . It is charged with rapid 
+detection, diagnosis, and early communication of outbreaks of plant pathogens. The Network 
+coordinates and communicates with county and state extension agents, state departments of 
+agriculture and the USDA, Animal and Plant Health Inspe ction Service, Plant Protection and 
+Quarantine (USDA APHIS PPQ) during outbreaks in implementing its mission. Training of first 
+responders and diagnosticians is an essential component of the NPDN, ensuring that the Network 
+is prepared for the scope of its mission in the event of an outbreak.  The NPDN is a critical 
+component of our nation’s biosecurity infrastructure and should serve as a model for other 
+nations to emulate. 
+ 
+However, t his new mission statement does not mention training and education. This is  a 
+reflection of the reduced funding over the past few years that forced the NPDN to more 
+stringently prioritize its objectives. The NPDN Executive Committee is still committed to that 
+program element which will be prioritized with diagnostics and communications.  
+  
+The vision for the NPDN should undergo a strategic planning process and clarify a new statement 
+based upon current realities.  That new vision statement should reflect high expectations for 
+N
+Text Len: 1750
+--------------------------------------------------------------------------------
+ to more 
+stringently prioritize its objectives. The NPDN Executive Committee is still committed to that 
+program element which will be prioritized with diagnostics and communications.  
+  
+The vision for the NPDN should undergo a strategic planning process and clarify a new statement 
+based upon current realities.  That new vision statement should reflect high expectations for 
+NPDN, including;  
+ Increased recognition for NPDN’s accomplis hments both do mestically and 
+internationally 
+ Greater accountability for competent and reliable diagnostics from labs with active 
+quality management systems in place (STAR-D laboratory accreditation, NPPLAP 
+certifications, etc.)  
+ Increased global impact thr ough cooperation and outreach programs (funded 
+externally). 
+ 
+The NPDN has an Advisory Council that was active for a few years after the NPDN was established. 
+They focused on strategic prioritization of efforts and resources.  Its guidance was helpful, 
+however in recent years, the Advisory Council has not been effective in the original intent due to 
+limitations on participation by industry and commodity stakeholders.  The Advisory Council has 
+not been directly and consistently en gaged with the NPDN leadership . Funding to support 
+meetings was drastically reduced resulting in few opportunities for face -to-face interactions of 
+the Advisory Council . The NPDN could have benefited from input through regular conference 
+calls of the Advisory Council.  
+ 
+3 
+ 
+Additionally, t he Advisory Council does not have all of the representation needed to provide 
+broader advice to the NPDN  because of FACA restrictions , which do not allow non -federal 
+representation. A possible name change and a new charge as a listening or focus group could
+Text Len: 1766
+--------------------------------------------------------------------------------
+ 
+calls of the Advisory Council.  
+ 
+3 
+ 
+Additionally, t he Advisory Council does not have all of the representation needed to provide 
+broader advice to the NPDN  because of FACA restrictions , which do not allow non -federal 
+representation. A possible name change and a new charge as a listening or focus group could 
+provide the needed input to the NPDN without violating FACA compliance.  Despite initial 
+attempts to more broadly engage private industry, their participation didn’t come to f ruition. 
+One approach to greater stakeholder engagement with the NPDN could be regional activities 
+such as summits, commodity focus groups or other open meetings. Another approach would be 
+to use some survey tool to gauge the knowledge of, interest in , and utility of the NPDN to its 
+diverse stakeholders and clients.     
+  
+Extension and Experiment Station directors at L and Grant Universities play an important role in 
+funding and support of diagnostic labs and personnel at their institution.  It is appropriate to 
+develop a mechanism to inform and engage Extension and Experiment Station Directors as well 
+as leadership at state departments of agriculture and provide updates on the NPDN to increase 
+opportunities for their direct engagement. 
+ 
+Succession planning at NPDN remains a concern from the executive director through the regional 
+hub director, and through diagnostician levels. A succession process is needed for these critical 
+positions and should be part of the ongoing evolution of the NPDN. It is critical for the stability 
+and continued functioning of the NPDN and its partner institutions to have a succession plan.  
+Transitions should be seamless and new diagnosticians should be welcomed by the regional 
+network of current experienced dia gnosticians and
+Text Len: 1792
+--------------------------------------------------------------------------------
+ is needed for these critical 
+positions and should be part of the ongoing evolution of the NPDN. It is critical for the stability 
+and continued functioning of the NPDN and its partner institutions to have a succession plan.  
+Transitions should be seamless and new diagnosticians should be welcomed by the regional 
+network of current experienced dia gnosticians and be provided access to expertise and 
+assistance. New Regional Directors should be embedded into a collegial and functional Executive 
+Committee.   
+ 
+Succession planning at the National Program Leader level at NIFA is also a concern. Development 
+of the NPDN has greatly benefited from interaction and programmatic participation by its current 
+NIFA National Program Leader (NPL). The NPDN requires administrative oversight by the granting 
+agency under the guidance of a knowledgeable and engaged NPL r epresentative to ensure a 
+smooth transition during leadership changes. The Review Committee strongly encourages NIFA 
+to promptly designate an NPL to provide administrative oversight with upcoming  personnel 
+changes on the National Program Staff. Specifically, it is recommended that an NPL be identified 
+with strong program leadership, as well as technical and programmatic skills.  
+ 
+The review committee is pleased to note that an effective governance structure has been in place 
+since its inception and that the Network is still capable of identifying and responding to plant 
+pathogens in th e food and agricultural production system in the face of severe reductions in 
+funding. The NPDN has maintained support for diagnostic clinics/laboratories in all 50 states plus 
+Puerto Rico, Guam, and American Samoa, while instituting new training and accreditation and 
+certification programs for procedures and personnel . This has been partially accomplished by  
+leveraging of state and federal dollars .  It is also evident that the Regional
+Text Len: 1922
+--------------------------------------------------------------------------------
+
+funding. The NPDN has maintained support for diagnostic clinics/laboratories in all 50 states plus 
+Puerto Rico, Guam, and American Samoa, while instituting new training and accreditation and 
+certification programs for procedures and personnel . This has been partially accomplished by  
+leveraging of state and federal dollars .  It is also evident that the Regional Directors comprising 
+the Executive Committee maintain a true spirit of teamwork  both within and across all regions 
+and have established effective working relationships with member Land Grant Universities, State 
+Departments of Agriculture and USDA- APHIS. 
+4 
+ 
+ 
+Managing and pre -planning for diagnostic sample surge capacity is still a challenge across and 
+within all regions. It was noted that no consistent performance matrix has been established that 
+would assist regional coordinators to benchmark respective diagnostic clinics and allow them to 
+prioritize selective equipment upgrades. Limited means exist to capture and communicate NPDN   
+performance in order to document effectiveness and prove its value to all commodities and 
+significant stakeholders.  
+ 
+Funds to support the NPDN are allocated from the Food and Ag Defense Initiative (FADI) through 
+NIFA beginning in 2004. Funding peaked in 2010 and then began a steady decline in 2011. These 
+cuts in federal funding led the Executive Committee and laboratories to redefine and narrow the 
+scope and mission of the NPDN.   Despite this challenge, NPDN has been able to modify their 
+approach and deliver a program that assures support for a diagnostic presence in every state , 
+although further cuts could have drastic consequences to our national agricultural system.  
+ 
+The need to increase base funding for all regions was recognized as a major ch allenge with 
+decreasing federal budgets.  There is a need to insure that effic
+Text Len: 1876
+--------------------------------------------------------------------------------
+ has been able to modify their 
+approach and deliver a program that assures support for a diagnostic presence in every state , 
+although further cuts could have drastic consequences to our national agricultural system.  
+ 
+The need to increase base funding for all regions was recognized as a major ch allenge with 
+decreasing federal budgets.  There is a need to insure that efficiencies in funding (especially 
+supplemental funding) flow are operating in all regions so that individual labs are not left with 
+unreimbursed diagnostic costs or funding shortfalls.  It has been suggested that not all states are 
+treated equitably relative to funding perhaps as a result of the number of states in a given region 
+or differences in operations between “hub” institutions.  
+ 
+It was recognized that there are significant opportunities to expand linkages with state 
+departments of agriculture, state agriculture and environmental regulatory officials, co unty 
+extension educators/agents and certified crop and nursery consultants.  Efficient leveraging of 
+resources with appropriate state agencies, non-government organizations ( NGOs) and 
+national/state commodity organizations should continue to be a high prio rity for all regional 
+networks. The regional IPM Centers should become a formal part of the communication linkage 
+and also search for leveraging grants and special pathogen appropriations.  Laboratories should 
+seek applicable certifications and accreditatio ns as a means to document and improve staff 
+capabilities, promote efficient utilization of equipment and facilities, and prove they continue to 
+meet producer and customer needs.  
+ 
+Recommendations 
+ a. Action Items 
+ The current NPDN Advisory Council has not been effective because of FACA compliance 
+requirements, which prevents non -federal representation on advisory boards . The 
+Review Team strongly recommends the establishment of a broad -based N
+Text Len: 1934
+--------------------------------------------------------------------------------
+ facilities, and prove they continue to 
+meet producer and customer needs.  
+ 
+Recommendations 
+ a. Action Items 
+ The current NPDN Advisory Council has not been effective because of FACA compliance 
+requirements, which prevents non -federal representation on advisory boards . The 
+Review Team strongly recommends the establishment of a broad -based NPDN focus or 
+listening group at both the national and regional lev el, to include representatives from 
+the private sector, state/county extension, experiment station/research faculty, CCAs, 
+state/federal regulatory agencies and National Plant Board (NPB) affiliates. It is especially 
+important to include " industry" and NAH LN representation on the Advisory Board for 
+5 
+ 
+exchange of ideas on business practices and governance strategies.  A possible name 
+change and new charge to a non -advisory role as a listening group or focus group could 
+provide the needed input to the NPDN without violating FACA compliance.    
+ The NPDN Executive Committee should complete development of a Strategic Plan for the 
+next five years of the NPDN which establishes and identifies milestones for all aspects of 
+the Network currently covered by NPDN subcommit tees and prioritize them contingent 
+on funding.  
+ As part of the strategic plan, a framework and process for annual self -evaluation should 
+be developed that will help focus efforts on strengthening and measuring key activities. 
+It should i nclude common reporting topics and formats  across all regions , and develop 
+metrics for recording and reporting performance. 
+ Improve identification and c oordination for recognizing labs with surge capacity in 
+identification and sample processing of specific pathogens.  
+ Build a succession plan to efficiently
+Text Len: 1774
+--------------------------------------------------------------------------------
+ focus efforts on strengthening and measuring key activities. 
+It should i nclude common reporting topics and formats  across all regions , and develop 
+metrics for recording and reporting performance. 
+ Improve identification and c oordination for recognizing labs with surge capacity in 
+identification and sample processing of specific pathogens.  
+ Build a succession plan to efficiently transfer leadership responsibilities at the regional 
+and national level.  
+ Develop a new vision statement that reflects the high expectations for NPDN’s continued 
+success. 
+ 
+ b. Specific Recommendations 
+ Evaluate the basi s for formula  funding and practice transparency in annual funding 
+allocations from national to regional to State Labs/ Clinics. Improve accounting and 
+timeliness in annual funding flow and reporting to/from each of these units as well.  
+ The current NPDN Advisory Council should be broadened by a newly formed focus group 
+or interest group that complies with FACA requirements . This new body should be 
+focused on strategic prioritization of efforts and resources. To ensure broader views and 
+representation, the network directors should encourage this group to engage industry 
+leaders and stakeholders in regional activities such as summits or other open meetings 
+for face-to-face interactions and regular conference calls.  
+ The network directors should develop a mechanism to inform and engage Extension and 
+Experiment Station Directors as well as state departments of agriculture to provide 
+updates on the Network and to provide an opportunity to discuss the NPDN.  
+ The review committee recommends that a succession pl an be developed for the 
+Executive Director, Regional Directors and the NIFA NPL responsible for the NPDN.  
+University extension and research administrators could play an important role in short 
+Text Len: 1859
+--------------------------------------------------------------------------------
+ state departments of agriculture to provide 
+updates on the Network and to provide an opportunity to discuss the NPDN.  
+ The review committee recommends that a succession pl an be developed for the 
+Executive Director, Regional Directors and the NIFA NPL responsible for the NPDN.  
+University extension and research administrators could play an important role in short 
+term funding and support of labs at their institution if greater awareness of the scope and 
+needs of NPDN labs was brought to their attention. 
+ NPDN Executive Committee and NIFA National Program Staff should continue to manage 
+the NPDN as a n ongoing cooperative agreement. A competitive funding model for the 
+NPDN and its regions/labs would be highly disruptive to the continuity and vitality of the 
+program.  
+ Regarding surge capacity, the review committee encourages NPDN diagnosticians to 
+receive training offered by APHIS PPQ on high consequence pathogens and p ests so that 
+representative labs are prepared to assist during outbreaks of known agents.  Since 
+6 
+ 
+potential pests may be undefined and broad ranging, complicating issues should be 
+addressed beforehand such as maintaining sample integrity and chain of custody  for 
+shipping large numbers of samples long distances.  
+ Develop a survey tool to gauge the interest of diverse stakeholders and to determine long 
+and short-term plans for labs and personnel at each diagnostic lab institution.  
+ New vision and mission statements should be more visible on the NPDN website.  
+ Consider adding a new committee to address “Surveillance” issues, including interaction 
+of NPDN labs in partnerships with IPM -PIPE components and with USDA APHIS CAPS 
+programs. 
+
+Text Len: 1714
+--------------------------------------------------------------------------------
+ lab institution.  
+ New vision and mission statements should be more visible on the NPDN website.  
+ Consider adding a new committee to address “Surveillance” issues, including interaction 
+of NPDN labs in partnerships with IPM -PIPE components and with USDA APHIS CAPS 
+programs. 
+ Complete a five -year strategi c plan focused on core components such as marketing, 
+incorporating recommendations from the Public Relations and Outreach Review (below) 
+and also focus on documenting and measuring effectiveness, prioritizing resources, and 
+building the governance and internal communication infrastructure needed to support 
+diagnostics and ensure the NPDN’s continued success.  
+ 
+II. Diagnostics  
+Since its inception in 2003, the Diagnostics Committee has focused on communications among 
+diagnosticians, acquisition of USDA permits, creating standard operating procedures for 
+diagnosis of regulated pathogens, coordinating select agent workshops and laboratory surge 
+capacity, developing a workshop on basic techniques for diagnosticians, and establishi ng and 
+implementing the STAR-D lab accreditation program. The Diagnostics Committee has initiated a 
+conversation with the NPDN Database Committee to address concerns expressed at the 2015 
+Diagnosticians/IT meeting on the use of diagnostic confidence levels, which resulted in formation 
+of an ad hoc sub-committee that was charged with surveying members on the use of diagnostic 
+confidence levels. Results of that survey were presented at the 2016 NPDN national meeting.  
+The Diagnostics Committee also collected data on surge capacity from every state to identify the 
+resources available to handle a surge in sample volume that might occur in the event a select 
+agent was found. The committee plans to update this survey, although it’s not stated
+Text Len: 1819
+--------------------------------------------------------------------------------
+ diagnostic 
+confidence levels. Results of that survey were presented at the 2016 NPDN national meeting.  
+The Diagnostics Committee also collected data on surge capacity from every state to identify the 
+resources available to handle a surge in sample volume that might occur in the event a select 
+agent was found. The committee plans to update this survey, although it’s not stated when that 
+will occur. 
+ 
+The National Plant Protection Laboratory Accreditation Program (NPPLAP) accredits laboratories 
+across the U.S. with the goal of increasing national diagnostic capacity and ensuring lab capability 
+in delivering accurate diagnostic determinations for USDA regulatory purposes.  Several NPDN 
+labs have achieved and are successfully maintaining NPPLAP accreditations. Likewise, STAR -D, a 
+quality management system developed by NPDN is being practiced in an increasing number of 
+NPDN labs. Scientists selected from N PDN labs are trained in audit procedures for STAR -D. This 
+group continues to grow, ensuring the ability to support lab audits across the network. This effort, 
+much like NPPLAP accreditation, is gaining traction with NPDN labs as more diagnosticians 
+understand the value of not only accreditation, but the benefits of using a quality management 
+system. There is value added to the STAR -D implementation through increased collaboration 
+among Network labs, recognized standardization amongst peers, and strengthened  quality 
+assurance and control of network collected data. The International Organization of Standards 
+7 
+ 
+(ISO) 13484 is expected to be approved in the future and will offer an intermediary quality 
+standard for NPDN labs that have an interest in achieving ISO or STAR-D accreditation. The ISO 
+13484 standard is the first standard put forward through ISO that specifically addresses plant 
+pathogen testing using molecular
+Text Len: 1875
+--------------------------------------------------------------------------------
+. The International Organization of Standards 
+7 
+ 
+(ISO) 13484 is expected to be approved in the future and will offer an intermediary quality 
+standard for NPDN labs that have an interest in achieving ISO or STAR-D accreditation. The ISO 
+13484 standard is the first standard put forward through ISO that specifically addresses plant 
+pathogen testing using molecular biomarkers, and the process as initiated by the NPPLAP opens 
+the door for the NPDN to additiona lly use the ISO process as a means for introducing technical 
+protocols to be shared at an international level. 
+ 
+The APHIS National Identification Services (NIS) and NPDN labs have worked to preserve sensitive 
+information and to communicate needed informati on regarding samples in a timely manner. 
+When suspect positive samples are confirmed by the CPHST-Beltsville Lab, state government and 
+local PPQ have teamed together with the support of NPDN to delimit the pathogen and rapidly 
+respond to pathogen/disease establishment. Surge capacity has increased for regulatory samples 
+with additional NPDN labs becoming NPPLAP accredited. Surge control efforts for non-regulatory 
+samples are unknown, although in principle, high-throughput platforms in several NPDN labs will 
+support processing of greater numbers of processed samples. Establishing and organizing surge 
+potential in advance of an emergency is extremely beneficial and should be pursued.  
+ 
+Recommendations  
+a. Action items 
+ Develop a comprehensive accreditation and certification process for NPDN that 
+identifies minimum standards for accreditation. The quality management system 
+should meet NPPLAP accreditation criteria. It may be necessary to identify specific 
+levels of accreditation in a quality assurance/quality management system. It is also 
+
+Text Len: 1796
+--------------------------------------------------------------------------------
+
+Recommendations  
+a. Action items 
+ Develop a comprehensive accreditation and certification process for NPDN that 
+identifies minimum standards for accreditation. The quality management system 
+should meet NPPLAP accreditation criteria. It may be necessary to identify specific 
+levels of accreditation in a quality assurance/quality management system. It is also 
+necessary to clarify  how to obtain and distribute the resources needed to attain and 
+retain the levels of quality assurance required for accreditation.  
+ Establish data and practices for monitoring of laboratory workload against lab capacity 
+and develop a referral process for samples to effectively utilize the capacity of the 
+Network in the event of a surge.  
+ Work with APHIS to establish a policy of rapid relay of confirmatory data and address 
+issues of confidentiality of those data.  The review committee recognizes that sample 
+status is released by the CPHST-Beltsville Lab to NIS which then passes the information 
+to the affected State Plant Regulatory Official (SPRO) and State Plant Health Director 
+(SPHD) and others.  As for the SOP itself, it covers everything from the first discovery 
+of a pathogen or pest, to the time the final report is relayed to the SPHD and SPRO of 
+the state involved, and everything in between. This includes the referral process for 
+samples, alterations of protocol for surges, and rapid relay of confirmatory data, all 
+done in a way to preserve confidentiality.   The current revision of the SOP is a 
+continuation of close coordination between NIS and NPDN. 
+ 
+b. Specific Recommendations 
+ Plan effective linkages among the NPDN labs for enhanced surge capacity in a large 
+disease outbreak or bioterror event.
+Text Len: 1736
+--------------------------------------------------------------------------------
+ all 
+done in a way to preserve confidentiality.   The current revision of the SOP is a 
+continuation of close coordination between NIS and NPDN. 
+ 
+b. Specific Recommendations 
+ Plan effective linkages among the NPDN labs for enhanced surge capacity in a large 
+disease outbreak or bioterror event. This must include an effective mechanism for 
+referral of overload samples when a lab reaches capacity.  NIFA and APHIS PPQ are 
+8 
+ 
+involved in the Integrated Consortium of Laboratory Networks (ICLN), a federal effort 
+charged to create a cohesive system of labs capable of integrated and coordinated 
+responses to support major incidents requiring lab support.  However, since 2007, 
+biosecurity has been de-emphasized, limiting the efforts of this recommendation. 
+ Continue the close coordination with APHIS PPQ identification services to refine 
+Standard Operating Procedures and to improve Quality Assurance Systems.  NPPLAP 
+has supported, and benefits from the implementation of STAR -D by NPDN.  A more 
+formal agreement between NPDN and PPQ regarding the Planned Deviation system 
+would benefit all. 
+ Increase coordination with laboratories run by state departments of agriculture. This 
+is vitally important to a well-functioning national system of plant diagnostic labs. 
+ Better integrate the work of entomologists and weed biologists into  the NPDN 
+operation. 
+ Implement strategies for every laboratory to meet a high standard of chain-of-custody 
+for samples and data, sufficient to support APHIS, state departments of agriculture, 
+DHS, and law  enforcement agencies for forensic investigations of  intentional plant 
+pest or pathogen introductions
+Text Len: 1673
+--------------------------------------------------------------------------------
+ weed biologists into  the NPDN 
+operation. 
+ Implement strategies for every laboratory to meet a high standard of chain-of-custody 
+for samples and data, sufficient to support APHIS, state departments of agriculture, 
+DHS, and law  enforcement agencies for forensic investigations of  intentional plant 
+pest or pathogen introductions.  The STAR-D standard is based on the international 
+standard ISO/IEC 17025:2005. This standard provides guidelines for maintaining 
+chain-of-custody, document and record traceability, and requirements for 
+confidentiality. The accredited lab is audited by thi rd party peers, and uses systems 
+expressed by the standard that have been adapted and foster continual improvement 
+through customer interaction and periodic self -assessments. As more NPDN labs 
+become STAR-D accredited, this recommendation should be addressed more widely. 
+ Develop plans to work effectively among NPDN labs and with regional and state 
+laboratories to prioritize diagnostic resources and specific disease assays. This should 
+include state and APHIS CAPS surveys, as well as other monitoring and enf orcement 
+activities. Communication with PPQ and CAP programs is not clear. Each state 
+however, is made aware of PPQ’s priority pest list each year and could be doing 
+something at the state level that PPQ is not aware. S&T has been working to offer 
+specific disease assays to the NPDN and State laboratories. The CPHST Beltsville lab 
+has been working collaboratively to identify CAPS pathogen priorities for molecular 
+validation. Several of these are in progress but a few have been rolled out to state and 
+NPDN l abs. There are currently eight phy
+Text Len: 1674
+--------------------------------------------------------------------------------
+T has been working to offer 
+specific disease assays to the NPDN and State laboratories. The CPHST Beltsville lab 
+has been working collaboratively to identify CAPS pathogen priorities for molecular 
+validation. Several of these are in progress but a few have been rolled out to state and 
+NPDN l abs. There are currently eight phytoplasmas on the CAPS priority pest lists. 
+Phytoplasma screening by qPCR assays have been developed by CPHST Beltsville and 
+are offered to NPDN and state diagnostic laboratories. A training session was held at 
+CPHST Beltsville in March 2015 in which many NPDN labs participated. 
+ Develop better communication and cooperation with NAHLN and with FERN via ICLN 
+and e stablish a committee to identify and prioritize diagnostic assays suitable for 
+inclusion in the ICLN surge reagents program, and communicate surge capacity and 
+deficiencies to the I CLN. I dentify sampling and sample handling issues for  
+consideration by the ICLN Working Group on environmental sampling and sampling 
+method validation. The committee could also work in parallel to the ICLN efforts with 
+reagent suppliers on methods, efficacy and supply availability in surge events. 
+9 
+ 
+ Since STAR-D is operational and gaining momentum, it needs to expand its base to 
+achieve sustainability. Targeted organizations could include, but are not limited to, 
+the National Plant Board, National Clean Plant Network, as well as international 
+groups.  
+ NPDN will benefit a great deal to have more NPDN labs that are STAR-D accredited. 
+ NPDN should consider a National Quality Manager position to further support STAR -
+D
+Text Len: 1630
+--------------------------------------------------------------------------------
+ organizations could include, but are not limited to, 
+the National Plant Board, National Clean Plant Network, as well as international 
+groups.  
+ NPDN will benefit a great deal to have more NPDN labs that are STAR-D accredited. 
+ NPDN should consider a National Quality Manager position to further support STAR -
+D and support QM efforts across the system.  
+ Labs could expand their quality management activitie s to include direct comparisons 
+of test results, standardization of instruments and platforms, ring tests, and 
+development of non-regulatory proficiency tests. 
+ NPDN leaders and members should be more proactive when advocating for federal 
+Farm Bill funds. Organization representation from stakeholders in Washington DC will 
+raise awareness and support of the need for this lab system and its mission to protect 
+American agriculture from losses resulting from pests and disease. 
+ Next generation sequencing is being  used domestically and internationally to screen 
+for pathogens. This is an important tool that has promise for NPDN labs. The review 
+committee supports acquiring appropriate equipment and data sharing across labs. 
+ Planned Deviations are used by NPPLAP accredited labs when they have platforms or 
+methods that are not described in established, validated Work Instructions. As more 
+NPDN labs look to replace their Cepheid thermocyclers, labs need to engage NPPLAP 
+for guidance when considering new platforms. Not all real-time PCR instruments are 
+created equal, and the timing involved in the shift between platforms is important. It 
+is likely that a Planned Deviation will be needed before the equipment can be used for 
+regulatory samples. However, the deviation can satisfy all future use by different labs 
+for the specific equipment studied. 
+  
+c
+Text Len: 1802
+--------------------------------------------------------------------------------
+ new platforms. Not all real-time PCR instruments are 
+created equal, and the timing involved in the shift between platforms is important. It 
+is likely that a Planned Deviation will be needed before the equipment can be used for 
+regulatory samples. However, the deviation can satisfy all future use by different labs 
+for the specific equipment studied. 
+  
+c. Future Issues for Consideration 
+ In conjunction with APHIS, determine the feasibility of cooperating with the border 
+countries of  Canada and Mexico on methodology and data sharing of pests and  
+pathogens of mutual concern. The committee recognizes that information sharing 
+could have unintended trade impacts regarding pests and diseases of regulatory 
+concern. The NPDN should work closely with PPQ prior to engaging in bi- or tri-lateral 
+discussions. 
+ 
+III. Partnerships 
+The NPDN has been a model for effective partnerships among local, state and federal agencies 
+and organizations. The NPDN’s record of accomplishment in response to the enormous economic 
+threats posed by exotic plant pathogens and pests is remarkable due largely to effective 
+partnerships with Land Grant University diagnostic laboratories and USDA APHIS expert 
+laboratories. These partnerships have resulted in many publications in refereed journals and in 
+the validation of newly developed diagnostic protocols.  The NPDN labs have also reinvigorated 
+state plant diagnostic labs with improved infrastructure.   
+10 
+ 
+ 
+One example of an effective partnership that had been successful early during the establishment 
+of the NPDN bu t has since been less active is the NPDN ’s Exercise Program it conducted with 
+USDA APHIS and the National Plant Board (NPB).  Under this program , the NPDN conducted 71 
+exercises
+Text Len: 1764
+--------------------------------------------------------------------------------
+10 
+ 
+ 
+One example of an effective partnership that had been successful early during the establishment 
+of the NPDN bu t has since been less active is the NPDN ’s Exercise Program it conducted with 
+USDA APHIS and the National Plant Board (NPB).  Under this program , the NPDN conducted 71 
+exercises prior to 2011, but only four (4) since 2011 due to budget cuts.  Following 2011,  the 
+Exercise Committee was merged into a subcommittee of the Training and Education Committee 
+and currently meets only intermittently. The ETKnet, developed by the University of Florida SPDN 
+Hub, provided some support in 2015 for the Exercise Committee to  meet more regularly and 
+assure an update of the exercise protocol, but its long term sustainability is still in doubt.  
+ 
+Implementing the Incident Command System (ICS) structure is another state/federal partnership 
+that has been achieved with the NPDN.  In conjunction with APHIS and the NPB, all NPDN labs 
+have conducted full scale and functional exercises , but not all NPDN diagnosticians , State Plant 
+Health Directors and State Plant Regulatory officials have exercised with the ICS structure again 
+due to budget limitations.     
+ 
+Although progress has been made in engaging state and federal regulatory agencies, much 
+potential exists in forming additional productive partnerships with stakeholder groups and the 
+private sector.   Several st ate and federal partners are also responsible for excluding and 
+eradicating regulated plant pests and in most states significant progress has been made in 
+improving the level of trust between regulatory agencies and extension and diagnostic personnel. 
+However, a greater level of ongoing engagement and communication with commodity groups is 
+also necessary to tighten the safeguarding safety net and assure
+Text Len: 1813
+--------------------------------------------------------------------------------
+ sector.   Several st ate and federal partners are also responsible for excluding and 
+eradicating regulated plant pests and in most states significant progress has been made in 
+improving the level of trust between regulatory agencies and extension and diagnostic personnel. 
+However, a greater level of ongoing engagement and communication with commodity groups is 
+also necessary to tighten the safeguarding safety net and assure that responses are rapid and 
+accurate. The diagnostic/education/regulatory partnership must recognize the  importance and 
+value of business confidentiality, diagnostic challenges, and the need to minimize potential 
+threats through quarantines and other restrictions. 
+ 
+One example of a successful commodity/stakeholder partnership is the Sentinel Plant Network 
+Program conducted with the American Public Gardens Association. Through it, not only have 
+greater resources been obtained for both the NPDN and the Association, but also a vastly 
+expanded recognition of the NPDN can be made possible by leveraging professionals at botanic 
+gardens themselves, who can promote NPDN to over 100 million visitors to public gardens per 
+year, in addition to serving as botanical and surveying/monitoring resources.  Greater awareness 
+and use of this partnership can be made by any diagnostic lab. 
+ 
+The NPDN has profited from a commitment to forging strong partnerships between regional and 
+state diagnosticians. All five NPDN regions have made great strides in developing strong 
+partnerships and providing training for Certified Crop Advisors (CCAs), Pest Control Advisors 
+(PCAs), county extension staff, and other first responders. Most prominently, a solid foundation 
+for operating NPDN partnerships exists with the Integrated Pest Management (IPM) Center 
+Network, inwhich the NPDN has formed formal partnerships in several regions. The successes of 
+the Soybean Rust
+Text Len: 1907
+--------------------------------------------------------------------------------
+rop Advisors (CCAs), Pest Control Advisors 
+(PCAs), county extension staff, and other first responders. Most prominently, a solid foundation 
+for operating NPDN partnerships exists with the Integrated Pest Management (IPM) Center 
+Network, inwhich the NPDN has formed formal partnerships in several regions. The successes of 
+the Soybean Rust Information System, developed in partnerships with the USDA agencies, state 
+departments of agriculture, industry partners and the Land Grant Universities, has been 
+expanded in the development of the Integrated Pest Management Pest Information Platform for 
+11 
+ 
+Extension and Education (IPM-PIPE), a sentinel system and data management decision tool that 
+will serve as a model for partnership between the NPDN and most, if not all, interested feder al, 
+state and private interests. 
+ 
+Past detections of plant pathogens with regulatory significance have provided an opportunity for 
+extension personnel, CCAs, state regulators  and diagnostic clinicians to exercise Incident 
+Command System (ICS) structure and maneuvers. Additionally, these incidents have identified  
+needed resources and prompted development of sampling and diagnostic mechanisms. The need 
+to develop surge capacity has encouraged critical working relationships between scientists and  
+administration with the diagnostic labs, State Plant Health Directors (SPHDs), State Plant  
+Regulatory Officials (SPROs), APHIS-PPQ Center for Plant Health Science and Technology (CPHST), 
+and APHIS -PPQ Plant Pest Diagnostics Service units. These are initial steps toward  a fully  
+integrated plant security system that point to the potential partnerships and their ability to 
+harness the necessary capacity and imagination to safeguard U.S. agriculture. New potential and 
+expected threats or any unexpected organisms may further  challenge existing communication 
+
+Text Len: 1876
+--------------------------------------------------------------------------------
+), 
+and APHIS -PPQ Plant Pest Diagnostics Service units. These are initial steps toward  a fully  
+integrated plant security system that point to the potential partnerships and their ability to 
+harness the necessary capacity and imagination to safeguard U.S. agriculture. New potential and 
+expected threats or any unexpected organisms may further  challenge existing communication 
+and diagnostic systems.  
+ 
+Partnerships could be more effective by including an industry component. Primarily due to 
+concerns about confidentiality or lack of communication, these partnerships have not been 
+extensively pursued and developed.  Although resources directed for outreach may be viewed as 
+limiting, this does not realize the potential rate of return from awareness.  The CCAs, PCAs, 
+representatives of seed, fertilizer, and pesticide manufacturers, scouts/field repres entatives for 
+commodity groups and processors and professionals engaged within the horticulture industry all 
+work together, giving them unique environmental and pest pressure information. These 
+partnerships will not only ultimately lead to earlier detectio n of pests, but allow unique 
+communication and response opportunities based on existing levels of trust. 
+ 
+The NPDN’s unique function and focus on plants necessitates different approaches than those of 
+the National Animal Health Laboratory Network (NAHLN).  The broad number of potential 
+pathogen and pest threats, as well as numerous ports of entry, necessitates more diverse 
+approaches and greater field resources for the diagnostic labs of the NPDN.    As a result, the 
+NPDN and the NAHLN are structured differen tly and their appro ach to biosecurity are 
+contrasting. The NAHLN is very focused on detection and diagnosis of a limited number of high 
+consequence threat agents
+Text Len: 1816
+--------------------------------------------------------------------------------
+approaches and greater field resources for the diagnostic labs of the NPDN.    As a result, the 
+NPDN and the NAHLN are structured differen tly and their appro ach to biosecurity are 
+contrasting. The NAHLN is very focused on detection and diagnosis of a limited number of high 
+consequence threat agents, while the NPDN’s scope is to protect all plant systems from any 
+threat. NAHLN labs are certif ied and NAHLN diagnosticians are proficiency tested to execute 
+approved protocols for a limited number of pathogens/threat agents , analogous to the NPDN 
+STAR-D and APHIS/PPQ NPPLAP programs.   The NAHLN is operational in select labs in several 
+states, while NPDN is operati onal in every U.S. state and it s territories.  The NAHLN is guided 
+primarily by APHIS Veterinary Services while the NPDN is funded by agreements with USDA-NIFA 
+with APHIS Farm Bill grants supplementing the USDA -NIFA agreements. Even considering these 
+structural dissimilarities, there should be opportunities to interact and communicate with the 
+NAHLN in laboratory accreditation, proficiency testing, and technology strategies.   More on this 
+relationship will be discussed in later sections.      
+ 
+12 
+ 
+Recommendations 
+a. Action Items 
+ The review committee recommends that NPDN leadership and individual diagnostic 
+laboratories seek partnerships with national and state NGOs such as the Farm Bureau, 
+commodity groups and  processors, CCAs and  agricultural product producers and  
+suppliers that allow for greater stakeholder engagement. The Sentinel Plant Network 
+Program partnership is a
+Text Len: 1586
+--------------------------------------------------------------------------------
+. Action Items 
+ The review committee recommends that NPDN leadership and individual diagnostic 
+laboratories seek partnerships with national and state NGOs such as the Farm Bureau, 
+commodity groups and  processors, CCAs and  agricultural product producers and  
+suppliers that allow for greater stakeholder engagement. The Sentinel Plant Network 
+Program partnership is a good beginning, but only by holding focus groups and directly 
+seeking out the needs of these interest groups will greater resources and recognition 
+be obtained. 
+ The review committee recommends that the NPDN directors develop a strategy to 
+inform and engage Land Grant Extension and Experiment Station Directors as well as 
+state departments of agriculture to gain support of network host institutions.   
+ Individual NPDN  laboratories should establish and/or strengthen the partnerships 
+with SPROs, SPHDs and natural resource agencies. 
+ The NPDN Exercise Program and the Incident Command System should be 
+reinvigorated to facilitate the establishment and maintenance of relationships among 
+NPDN, state and federal staff involved in plant health emergencies.  USDA-NIFA should 
+consider this a high priority for increased supplemental funding. 
+ 
+ b. Specific Recommendations 
+ NPDN leadership should seek partnerships with  those federal agencies who se 
+missions involve land or resource management or plant pest regulations. 
+ NPDN leadership should establish a communication link with the NAHLN and consider 
+opportunities to communicate and exchange information with the NAHLN in 
+laboratory accreditation, proficiency testing, and technology strategies. One option is 
+to have an  NAHLN representative seat on the Advisory Board (or its replacement 
+entity) for NPDN and vice versa for exchange of ideas or business practices. 
+�
+Text Len: 1824
+--------------------------------------------------------------------------------
+HLN and consider 
+opportunities to communicate and exchange information with the NAHLN in 
+laboratory accreditation, proficiency testing, and technology strategies. One option is 
+to have an  NAHLN representative seat on the Advisory Board (or its replacement 
+entity) for NPDN and vice versa for exchange of ideas or business practices. 
+ As available,  individual state diagnostic laboratories should establish partnerships 
+with non- traditional cooperators such as Historically Black Colleges and Universities, 
+Tribal Nations, and private land managers. 
+ NPDN laboratories should identify roles, responsibilities, and measures of success 
+with partners and establish mechanisms to share data, as well as investigational and 
+analytical information. NPDN should further identify international standards which 
+provide guidelines for these practices including those available by ISO, Codex, IPPC, 
+AAVLD, and RPPOs. This can be  facilitated by developing and implementing MOUs 
+with key partners. 
+ NPDN laboratories should develop and implement additional ICS preparedness 
+scenarios in coope ration with key partners to  improve communication, enhance 
+readiness and engage mutually available diagnostics. Varying the size of scenarios in 
+regional, state, and  local locations and  cropping systems will  challenge different 
+resources and personnel. 
+ NPDN should strengthen partnerships with  industry and professional associations 
+such as the American Phytopathological Society (APS), the American Public Gardens 
+Association, AmericanHort, the  California Association of Pest Control Advisors, the 
+13 
+ 
+American Farm Bureau and others to increase recognition and awareness of its crucial 
+work.  Consideration should be given to enhance the Sentinel Plant Network Program.  
+�
+Text Len: 1794
+--------------------------------------------------------------------------------
+ as the American Phytopathological Society (APS), the American Public Gardens 
+Association, AmericanHort, the  California Association of Pest Control Advisors, the 
+13 
+ 
+American Farm Bureau and others to increase recognition and awareness of its crucial 
+work.  Consideration should be given to enhance the Sentinel Plant Network Program.  
+ NPDN should plan engagement activities with stakeholders such as focus groups, 
+periodic summits, or other open meetings to gain and exchange information.  
+ Representatives of stakeholder  organizations should be considered for membership 
+on the NPDN Advisory Board (or its replacement entity).  
+ The NPDN should consider strengthening communications with the National Seed 
+Health System to increase the Network’s role in seed-related issues. 
+ 
+IV. Public Relations and Outreach 
+The NPDN has engaged in structured public relations efforts since its inception and has 
+established a Public Relations Committee, which has been less active in recent years due to 
+budget constraints. Efforts have included the development of a variety of promotional print and 
+electronic materials, highlighting national and regional activities, laboratory capacity and disease-
+specific information. National and regional newsletters, brochures, and websites have been 
+effectively deployed to distribute information. In a notable example of outreach activities, NPDN 
+partnered very effectively with several commodity groups, and USDA agencies to develop 
+effective materials on field crop pathogen identification and management as well as ornamental 
+plant pathogens and diseases. The NPDN websites provide qualit y information on new disease 
+issues and outbreaks in a user-friendly interface (http://www.NPDN.org, (http://www.NPDN.org; 
+https://firstdetector.org/; http://www.protect
+Text Len: 1822
+--------------------------------------------------------------------------------
+ crop pathogen identification and management as well as ornamental 
+plant pathogens and diseases. The NPDN websites provide qualit y information on new disease 
+issues and outbreaks in a user-friendly interface (http://www.NPDN.org, (http://www.NPDN.org; 
+https://firstdetector.org/; http://www.protectingusnow.org/, sentinel plant network 
+(www.sentinelplantnetwork.org), www.npdn-spn.org).  
+ 
+Despite years of continuous effort, some potential partners and stakeholders are still not 
+knowledgeable about the NPDN mission and activities. Additionally, as previously stated, a top 
+priority must be to further educate commodity groups, private industry and other plant industry 
+stakeholders on the mission, scope and activities of the NPDN, and engage them as partners. 
+There is a lack of brand awareness, both of the NPDN itself, and of its products. Although there 
+is a brand logo and identity, it must be focused into a plan with communication goals. The NPDN 
+should develop a formal public relations strategy, with strategic goals at the national, regional 
+and state levels.   It is imperative that state, regional and national NPDN members identify and 
+engage new audiences, while sustaining the interest of existing partners and stakeholders. For 
+example, not all University administrators currently view the NPDN as an entity that is 
+contributing to their current strategic goals.  
+ 
+The NPDN has had a complicated relationship with state departments of agriculture (SDA).  
+Extension and regulatory missions are not always the same and Extension needs for diagnostic 
+methods and specificity of identification are often different.  Some diagnosticians and 
+administrators in SDAs perceive N
+Text Len: 1709
+--------------------------------------------------------------------------------
+ is 
+contributing to their current strategic goals.  
+ 
+The NPDN has had a complicated relationship with state departments of agriculture (SDA).  
+Extension and regulatory missions are not always the same and Extension needs for diagnostic 
+methods and specificity of identification are often different.  Some diagnosticians and 
+administrators in SDAs perceive NPDN labs as a parallel effort, and some state diagnosticians do 
+not grasp how they could interact with their NPDN cohorts.   
+14 
+ 
+Recommendations 
+ a. Action Items 
+ Develop a formal public relations strategic plan with goals at the national, regional and 
+state levels. Consider public relations more broadly in websites, newsletters, and 
+interactions with groups.  Identify target audiences for the strategy and for 
+distribution, and prioritize audiences such as Land Grant University administrators, 
+and State Plant Health Directors. This plan should contain measurable elements that 
+define what successful execution looks like, as well as a programmatic brand review 
+that identifies strong as well as repetitive brands that exist within NPDN.  
+ Diagnosticians in each laboratory should engage in regional meetings,  focus groups, 
+open houses and visits by stakeholders to diagnostic clinics on a rotating basis. These 
+visits should be tracked by NPDN as evidence that outreach is taking place at an 
+increased rate.  
+ Improve access, search capability and content on the website(s), especially publicly 
+accessible in formation and training materials for stakeholders (including but not 
+limited to producers, c rop advisors, first detectors, and green industry/commodity 
+professionals. Websites may need to be consolidated, re-organized, or co-branded to 
+ensure that NPDN is best identified as
+Text Len: 1778
+--------------------------------------------------------------------------------
+ and content on the website(s), especially publicly 
+accessible in formation and training materials for stakeholders (including but not 
+limited to producers, c rop advisors, first detectors, and green industry/commodity 
+professionals. Websites may need to be consolidated, re-organized, or co-branded to 
+ensure that NPDN is best identified as the source of these valuable programs.  
+ The NPDN leadership and Public Relations Committee should develop a framework 
+and process for annual self-evaluation that will help to focus strengthening activities, 
+including reporting topics and formats, and metrics for recordi ng and reporting 
+performance. 
+ NPDN laboratories in states where there is no Land Grant University, should 
+strengthen partnerships with SDAs as partner labs and interact with the SDAs in 
+regional meetings and trainings.    
+ 
+ b. Specific Recommendations 
+ Expand professional outreach by organizing annual town hall meetings and providing 
+booths, di splays, and information at venues such as at annual  meetings of the 
+American Phytopathological Society, the American Public Gardens Association, 
+AmericanHort, t he National Plant Board, National Association of state Departments 
+of Ag riculture, Partners in Community Forestry, and  the North American Plant 
+Protection Organization. 
+ Identify key agricultural legislators in each state and develop plans to educate them 
+via the NPDN partners in that state on local, regional and national accomplishments 
+and needs. Consider inviting State legislative and Congressional staff to diagnostic 
+labs or meeting them at disease impact sites for awareness building. 
+ Develop and disseminate communications toolkits that diagnosticians can use to 
+introduce/promote the NPDN in their outreach efforts
+Text Len: 1782
+--------------------------------------------------------------------------------
+via the NPDN partners in that state on local, regional and national accomplishments 
+and needs. Consider inviting State legislative and Congressional staff to diagnostic 
+labs or meeting them at disease impact sites for awareness building. 
+ Develop and disseminate communications toolkits that diagnosticians can use to 
+introduce/promote the NPDN in their outreach efforts. 
+ Consolidate website presence and make tools available to constituents in an 
+organized and brand-identifiable fashion based on results of PR strategic plan 
+ Adopt a formal, structured annual reporting system for NPDN labs at the local/state 
+and national levels. Ideally, it could include short statements of accomplishment that 
+can be di sseminated to various audience s. Develop “Points of  Progress” for 
+15 
+ 
+communication at the state and regional levels for Experiment Station Directors, 
+SPROs, and USDA agencies. 
+ Publish more of the diagnostic laboratories output in scientific journals. Consider 
+publishing pathogen diagnostic standard operating procedures and ring-test results in 
+easily accessible journals such as those in the Plant Health Management Network. 
+ 
+V. Training & Education  
+The mission of the NPDN Training & Education Committee (TEC) is to provide general leadership, 
+guidelines and direction for the national First Detector training program. This mission is 
+accomplished by developing materials in several formats to facilitate the work of First Detectors 
+and First Detector educators. All NPDN materials are available online at www.firstdetector.org. 
+The 2007 review indicates that from its or igins, education and training w ere stated goals of the 
+NPDN and an important infrastructure was built: “A vast network of first responders has been 
+developed
+Text Len: 1777
+--------------------------------------------------------------------------------
+ facilitate the work of First Detectors 
+and First Detector educators. All NPDN materials are available online at www.firstdetector.org. 
+The 2007 review indicates that from its or igins, education and training w ere stated goals of the 
+NPDN and an important infrastructure was built: “A vast network of first responders has been 
+developed and is rapidly expanding down to the local level, fulfilling one of the primary visions 
+of the network.” Training is a primary focus of the Network and is accomplished at the national, 
+regional and state level with effectiveness, applying a “train -the-trainer” philosophy. Online 
+scenario-based training has been implemented with online access, and Standard Operating 
+Procedures are in place on the internet for open access. 
+ 
+Overall, the TEC has been very successful in addressing its core mission of training “First 
+Detectors.” Since its inception in 2003, an estimated 16,000+ participants have received face-to-
+face training across a broad variety of commodities, and this likely under -represents the total 
+number of participants since many sessions were not recorded in the database. An e -learning 
+module program was implemented in 2009 and nearly 5,000 participants have viewed over 
+23,000 trai ning modules including those registering through other partner sites including the 
+NPDN training gateway, Protect US  (a partnership with the Regional IPM Centers) , and the 
+Sentinel Plant Network (a partnership with the American Public Gardens Association). In addition, 
+training has occurred in 22 countries worldwide.    
+ 
+The mission of the TEC is defined in the context of serving First Detectors and First Detector 
+educators only, and does not explicitly address the needs of diagnosticians themselves. However, 
+Text Len: 1780
+--------------------------------------------------------------------------------
+ and the 
+Sentinel Plant Network (a partnership with the American Public Gardens Association). In addition, 
+training has occurred in 22 countries worldwide.    
+ 
+The mission of the TEC is defined in the context of serving First Detectors and First Detector 
+educators only, and does not explicitly address the needs of diagnosticians themselves. However, 
+diagnosticians and other professionals involved with the NPDN do receive training in places such 
+as at specialized workshops offered annually by USDA -PPQ CPHST-Beltsville on specific topics 
+related to diagnosis and identification of plant pathogens  of regulatory significance as well as 
+other key topics.  These are valuable training sessions outside the scope of that offered for First 
+Detectors and not limited to compliance trainings such as that for STAR-D, but not mentioned in 
+the TEC report specifically. 
+ 
+Extensive budget reductions occurred in 2010, and for the education focus to continue, 
+extramural funding was obtained. Collaborations with Protect US and the Sentinel Plant Network 
+provided additional funding through the Farm Bill (10201) and resulted in a suite of tools (e.g. e-
+learning modules, interpretation, and scouting guides, etc.) for identification of high 
+16 
+ 
+consequence pests and pathogens housed at www.firstdetector.org, and advanced taxonomic 
+training videos, which are housed on the YouTube site, www.youtube.con/user/npdnchannel. 
+Current partners listed on the www.firstdetector.org site include USDA -APHIS, Regional IPM 
+Centers, the CAPS program, the National Plant Board and the State Departments of Agriculture, 
+EDEN, the Center for Ecosystem Species and Health (Bugwood), the Community Invasive Species 
+Network (Protect US), and the
+Text Len: 1748
+--------------------------------------------------------------------------------
+pdnchannel. 
+Current partners listed on the www.firstdetector.org site include USDA -APHIS, Regional IPM 
+Centers, the CAPS program, the National Plant Board and the State Departments of Agriculture, 
+EDEN, the Center for Ecosystem Species and Health (Bugwood), the Community Invasive Species 
+Network (Protect US), and the Sentinel Plant Network. 
+ 
+The training and education programs of the TEC were very successful in raising the initial visibility 
+and awareness of the NPDN and the importance of plant biosecurity to the general public from 
+2003 until the 2010 budget reduction. Nearly 5,000 First Detectors have been trained since 2009 
+when the e-learning platform was implemented and although it has been successful, it is not a 
+replacement for face -to-face training. Given new funds, First Detector training should be 
+reemphasized by both face-to-face and electronic means. Branded training materials should also 
+be updated as needed. Although efforts were made to raise the visibility of the First Detector 
+network and NPDN on social media, the impact of this effort is unclear. 
+ 
+The learning gateway established at www.firstdetector.org serves to direct users to its many 
+different resources. However, because it has lacked one consistent programmatic source of 
+dedicated funding, decisions on the look and interactivity of the we bsite will need attention. 
+Many collaborators have been involved, and the First Detector program seems to be split 
+between gaining resources by collaboration, and retaining its own brand presence. 
+ 
+The use of “First Detector” is a strong brand positioning statement for NPDN, and it should be 
+retained, although having this wrapped in a strong communications / public relations plan would 
+eluc
+Text Len: 1752
+--------------------------------------------------------------------------------
+ have been involved, and the First Detector program seems to be split 
+between gaining resources by collaboration, and retaining its own brand presence. 
+ 
+The use of “First Detector” is a strong brand positioning statement for NPDN, and it should be 
+retained, although having this wrapped in a strong communications / public relations plan would 
+elucidate which social media streams (if any) should be retained. A communication specialist 
+should be retained to make recommendations for improving TEC activities. 
+ 
+Recommendations  
+a. Action Items  
+ First detector training should be incorporated into Certified Crop Adviser training 
+workshops with CCA continuing education credits being approved for the NPDN core 
+e-learning modules. In 2009, NPDN created and launched e -learning modules which 
+provided an opportunity for asynchronous learning. 
+ Establish new and continue to sustain partnerships that support and leverage NPDN 
+and First Detector materials. 
+ Invest in a central information sharing hub and house regional and central training 
+resources in one location under an NPDN or First Detector Umbrella. Unify education 
+and training across all regions and platforms to better support the NPDN and the First 
+Detector network. 
+ Survey audience s to determine utility and potential resource overlap with other 
+programs and develop new content that seeks to serve a unique audience  
+17 
+ 
+b. Specific Recommendations 
+ Expand first detector training to encompass Master Gardeners, CCAs, crop 
+consultants, and other agribusiness professionals. Substantial progress was made from 
+2007-2010 in expanding First Detector training primarily with the implementation of 
+e-learning modules beginning in 2009. More recently, the NPDN YouTube channel
+Text Len: 1770
+--------------------------------------------------------------------------------
+
+b. Specific Recommendations 
+ Expand first detector training to encompass Master Gardeners, CCAs, crop 
+consultants, and other agribusiness professionals. Substantial progress was made from 
+2007-2010 in expanding First Detector training primarily with the implementation of 
+e-learning modules beginning in 2009. More recently, the NPDN YouTube channel was 
+expanded and it hosts First Detector training materials  and advanced taxonomic 
+resources mostly used for internal NPDN training purposes. TEC activities expanded 
+their presence in social media including Facebook and Twitter, and First Detector 
+training and resources were promoted through the Sentinel Plant Network  and First 
+Detector newsletter. Some of these activities were curtailed in 2010 following a 
+substantial budget reduction. 
+ Expand the current initiative on Incident Command System training to all regions. 
+ Continue to develop, expand and refine online traini ng tools and update and expand 
+the e-learning system through expanded collaborations.  
+ Establish Training and Education Committees in all regions. 
+ Develop and provide certifications and  certification programs for various types of  
+training. The committee recognizes that a certification for completing First Detector 
+training has been developed and a receipt of credit in CCA -approved and other state 
+pesticide education courses has been provided. 
+ Strengthen links between  diagnosticians and  First Detectors. Although m any 
+diagnosticians conducted First Detector training from 2003 to 2010, budget reductions 
+in 2011 resulted in substantially less First Detector training. Although this mechanism 
+for strengthening links between diagnosticians and First  Detectors no longer exists, 
+collaborations like the Sentinel Plant Network have served to route new first detector 
+trainees to the www.first
+Text Len: 1864
+--------------------------------------------------------------------------------
+ Although m any 
+diagnosticians conducted First Detector training from 2003 to 2010, budget reductions 
+in 2011 resulted in substantially less First Detector training. Although this mechanism 
+for strengthening links between diagnosticians and First  Detectors no longer exists, 
+collaborations like the Sentinel Plant Network have served to route new first detector 
+trainees to the www.firstdetector.org site. Some effort has been made to expand the 
+TEC presenc e using social media, but it is not specific whether this benefits first 
+detectors or NPDN diagnosticians. It does not replace face -to-face engagement. 
+NPDN’s e-newsletter, although successful, is mainly targeted at NPDN diagnosticians. 
+ Continue to partner  with other agencies, NGOs, and Extension to channel first 
+detectors to resources/ allied education programs (e.g. Don’t Move Firewood, Sentinel 
+Plant Network, Bugwood, etc.). 
+ Appoint an education and training leader vested with the authority to participat e in 
+education and training decisions at the executive level.  
+ Promote the First Detector program and its resources more broadly under the banner 
+of NPDN.  
+ Seek to eliminate repetition in site content.  Develop a plan to maintain and/or phase 
+out educationa l resources. Clarify and/or reduce other microsites and other 
+maintenance-intensive social media presences that aren’t returning time investments. 
+ Determine exact audience to be served by existing and future resources. The focus of 
+education and training can serve NPDN network personnel and expand to encompass 
+professionals and allies, but the latter ha ve many different programs already serving 
+
+Text Len: 1663
+--------------------------------------------------------------------------------
+ microsites and other 
+maintenance-intensive social media presences that aren’t returning time investments. 
+ Determine exact audience to be served by existing and future resources. The focus of 
+education and training can serve NPDN network personnel and expand to encompass 
+professionals and allies, but the latter ha ve many different programs already serving 
+them. 
+18 
+ 
+ Consider providing a moderated online technical forum for conversation and 
+information sharing, using open source forum software. 
+ 
+VI. Integration with Research 
+The role of NPDN is not to conduct research.  The NPDN relies on research results and practices 
+to evaluate its own responses to plant health managers. In some cases, NPDN personnel have 
+been directly or indirectly involved in some research areas dealing with the appearance, diagnosis 
+and management of diseases new or rare in their areas by providing methods development of 
+tests created through outside research activities (one or more of the five in their jurisdiction). 
+Since its inception in 2003, the NPDN has been responsible for numerous peer reviewed 
+publications and since 2007 alone, 33 peer reviewed publications involving research have been 
+written, averaging two to three per year (range: 1 to 5 per year) with collaborators. These findings 
+and others have been communicated directly or indirectly to over 9 million people since 2007.  
+ 
+The emphasis of NPDN is to remain a premier and diagnostic system for detection, identification 
+of plant pests and pathogens and communication.  Based on its initial inception, NPDN was to be 
+aligned with the veterinary counterpart NAHLN. This has been partially achieved through quality 
+management training, sharing information regarding program operations practices, and use  of 
+the NAHLN webportal, but additional alignment is needed.  Opportunities for
+Text Len: 1868
+--------------------------------------------------------------------------------
+ detection, identification 
+of plant pests and pathogens and communication.  Based on its initial inception, NPDN was to be 
+aligned with the veterinary counterpart NAHLN. This has been partially achieved through quality 
+management training, sharing information regarding program operations practices, and use  of 
+the NAHLN webportal, but additional alignment is needed.  Opportunities for increasing capacity 
+across the two fields should be created. Sharing of materials and information/ideas can open 
+doors for producing other sources of income, and collaborative cross-development studies will 
+strengthen the knowledge base of both networks.  Fostering communication between the 
+networks remains a challenge for multiple reasons.  There are some cross - kingdom pathogens 
+of plants that cause devastating diseases for animals. For example, the bacterium Rathayibacter 
+toxicus, a select agent, causes Rathayibacter poisoning of animals. Its first appearance in the U.S. 
+may be observed by the occurrence of dead ungulates, especially cattle. The source of 
+consumption may not be readily apparent without consultation with NPDN personnel. Therefore, 
+some means of secure communication should be discussed with the administrators of NIFA and 
+NAHLN, so that at least the record of desired interaction is clear.  An added box of interactio n 
+ideally should be on the flow charts sent to USDA.  The introduction of R. toxicus was the source 
+of an ICLN exercise in 2012. One outcome from the exercise was recognition that lab capacity 
+was increased through joint effort s between the NPDN and the NAHLN. Other sapronoses 
+examples include Claviceps purpurea (ergotism) and Aspergillus species, and there is increasing 
+evidence that plant pathogens play a role in reducing the effectiveness of human
+Text Len: 1810
+--------------------------------------------------------------------------------
+N exercise in 2012. One outcome from the exercise was recognition that lab capacity 
+was increased through joint effort s between the NPDN and the NAHLN. Other sapronoses 
+examples include Claviceps purpurea (ergotism) and Aspergillus species, and there is increasing 
+evidence that plant pathogens play a role in reducing the effectiveness of human health and 
+increase the effec tiveness of sapronoses (Emerging Infectious Diseases, volume 9, number 3 —
+March 2003, letter: Emerging Human Infectious Diseases: Anthroponoses, Zoonoses, and 
+Sapronoses).   
+19 
+ 
+Recommendations 
+ a. Action items 
+ NPDN diagnosticians should help test new APHIS regulatory diagnostic test methods 
+and protocols for robustness and reproducibility before they become implemented 
+into programs.  
+ NPDN diagnosticians should work collaboratively with CPHST and/or state regulators 
+to develop or update n ew regulatory diagnostic methods  that enable their lab to 
+adjust to new technology trends or create a better fit for their specific lab scope while 
+maintaining the APHIS mission.  
+ NPDN should provide assistance and resources for industry, especially beta t esting 
+prior to commercial product release. 
+ NPDN should review plant diagnostic test needs that occur throughout the Network 
+for opportunities on developing standardized and high throughput testing protocols 
+with appropriate validation and assessments of key test performance measurements. 
+NDPN can research information from NAHLN, the industry, and other diagnostic test 
+arenas on how to accomplish this objective and then apply these concepts to current 
+plant pathological knowledge.  
+ 
+b. Specific recommendations: 
+
+Text Len: 1684
+--------------------------------------------------------------------------------
+ opportunities on developing standardized and high throughput testing protocols 
+with appropriate validation and assessments of key test performance measurements. 
+NDPN can research information from NAHLN, the industry, and other diagnostic test 
+arenas on how to accomplish this objective and then apply these concepts to current 
+plant pathological knowledge.  
+ 
+b. Specific recommendations: 
+ Develop an effective linkage with NAHLN for communication and cooperation, 
+including consideration of a joint exercise involving animals and plants  that is 
+complementary to the ICLN. 
+ Develop a plan with USDA for the collection, maintenance and dissem ination of 
+reference strains, including obligate parasites. Develop a mechanism for the 
+production and validation of standardized reference materials from these strains for 
+network distribution. Because this is critical for verification purposes, the plan should 
+include comparative studies and tracing of both spread and eradication of organisms, 
+and include how strains are identified, maintained, and quality controlled . Language 
+can be drawn from the International Organization of Standards documents ISO 17043 
+and ISO Guide 34 to help ensure common quality assurance practices are used.  
+Diagnostic test developers, including industry, need representative strains of 
+pathogens/ pests for evaluating countermeasures.   However, industry will often 
+maintain proprieta ry materials.  Opportunities must be sought out to encourage 
+sharing of proprietary materials to increase the Network’s state of readiness for an 
+emergency based on the NPDN’s identified threats to their stakeholders.   
+ Evaluate the need for surveillance an d methodology applicable to aquatic economic 
+and invasive plants. These are likely to become of greater economic impact in the 
+future with water composition changes, higher water levels and decreased soil 
+availability due to erosion, quality deterioration and human population
+Text Len: 1979
+--------------------------------------------------------------------------------
+emergency based on the NPDN’s identified threats to their stakeholders.   
+ Evaluate the need for surveillance an d methodology applicable to aquatic economic 
+and invasive plants. These are likely to become of greater economic impact in the 
+future with water composition changes, higher water levels and decreased soil 
+availability due to erosion, quality deterioration and human population expansion.   
+Resources for some required elements of the evaluation may be available through the 
+inclusion of experts from other fields responsible for similar evaluations such as the 
+EPA, USDA-FS, and US Fish and Wildlife Services.  
+  
+20 
+ 
+ c. Future issues: 
+ Consider interactions with engineering , other diagnostic test arenas, or industry for 
+evaluating new methods of ‘surveillance’. For example, the use of unmanned aerial 
+vehicles with telescopic capability for disease and pest introduction  and spread, 
+especially in the enlarged farm acreages and difficult wild terrains in an era of climate 
+challenges makes early detection potentially easier, faster and of greater economic 
+importance. 
+ Further advances in research and materials development requires adequate funding. 
+The review committee endorses rebuilding of the financial base for the NPDN, which 
+has helped minimize or even essentially eliminate some plant disease invasions and 
+their deleterious effects.  Although support for agriculture in so me states is 
+reasonable, there are states that should be expected to provide adequate support 
+without federal assistance.  Competitive funds may also play a role in advancing the 
+science and dissemination of information of plant disease threats.  
+ 
+Text Len: 1680
+--------------------------------------------------------------------------------

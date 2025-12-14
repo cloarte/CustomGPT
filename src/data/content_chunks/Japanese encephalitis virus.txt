@@ -1,0 +1,1440 @@
+ 
+ 
+ 
+ 
+ 
+ 
+Key Points 
+• There was a significant change in the
+di
+stribution of JEV last year in Australia, with
+a geographic expansion from the northern tip
+of the country to four southern states.
+• JEV is a mosquito-borne flavivirus belonging to
+F
+laviviridae, the same family as West Nile
+v
+irus, Yellow fever, Murray Valley encephalitis
+virus, and Saint Louis encephalitis.  There is
+one serotype and five genotypes.12,13
+• G
+lobally, JEV has been detected in 30
+species of mosquitoes belonging to the
+gener
+a Aedes, Anopheles, Armigeres,
+Coquillettidia, Culex, and Mansonia. 13, 14
+• T
+he primary mosquito JEV vectors are Culex
+tritaeniorhynchus (in Asia) and Culex
+annulirostris (in Australia). 14
+• C
+ulex pipiens, Culex quinquefasciatus, and
+A
+edes japonicus, native U.S. mosquito
+s
+pecies, may be important vectors if JEV
+w
+ere introduced into the United States.6,14, 18
+• JEV is a zoonotic vector-borne disease that
+can affect multiple mammalian and bird
+s
+pecies including pigs, horses, donkeys,
+cattle, sheep, goats, dogs, cats, egrets,
+her
+ons as well as reptiles, amphibians, and
+hum
+ans.5
+• During the 2021-2022 season, pigs on more
+than 79 swine farms across four Australian
+s
+tates (South Australia, Victoria, New South
+Wales, and Queensland) were impacted by
+JEV; over
+Text Len: 1287
+--------------------------------------------------------------------------------
+ sheep, goats, dogs, cats, egrets,
+her
+ons as well as reptiles, amphibians, and
+hum
+ans.5
+• During the 2021-2022 season, pigs on more
+than 79 swine farms across four Australian
+s
+tates (South Australia, Victoria, New South
+Wales, and Queensland) were impacted by
+JEV; over 40 JEV human infections led to
+s
+even deaths. 7, 9, 20, 22, 27
+• J
+EV was detected for the first time
+during the 2022-2023 season in New
+South Wales in November 2022.11
+• J
+EV is found throughout Asia,
+Australia, and Western Pacific Islands;
+however, Australia observed a
+geographic spread of JEV last year.5,12
+    Concerns for US Animal Health 
+• J
+EV would have a major impact to
+livestock health, trade, and production
+as well as public health.10
+• P
+otential pathways into the United
+States are through the introduction of
+i
+nfected mosquitoes and migratory
+waterbirds and globalized livestock
+trade.4,10, 17
+•
+Competent mosquito vectors and hosts
+are present in the United States. It has
+been demonstrated that North
+American domestic pigs are susceptible
+t
+o JEV infections.16, 17
+• J
+EV primarily affects pigs and horses
+with between 50 to 70% reproductive
+losses and low mortality in adult pigs,
+piglets experiencing up to 100%
+mortality: and encephalitis in horses with
+a 0.3% to 30% mortality rate.5, 9, 10, 12, 14
+•
+Animals infected with JEV, other than
+pigs and birds, may exhibit clinical
+signs, but are considered dead-end
+hosts where they do not
+Text Len: 1434
+--------------------------------------------------------------------------------
+,
+piglets experiencing up to 100%
+mortality: and encephalitis in horses with
+a 0.3% to 30% mortality rate.5, 9, 10, 12, 14
+•
+Animals infected with JEV, other than
+pigs and birds, may exhibit clinical
+signs, but are considered dead-end
+hosts where they do not have a high
+enough viremia for mosquitoes to pick
+up the virus and transmit to another
+host.11
+• J
+EV control options include treating
+inf
+ected animals, chemical control of
+vector species, and landscape
+modifications such as screening barns
+to reduce vector contact. 5,18
+Emerging Risk Notice   
+May 2023  
+Japanese Encephalitis Virus (JEV) 
+ 
+ 
+ 
+ 
+Epidemiology 
+ 
+Distribution 
+ 
+• JEV is distributed throughout Indonesia, 
+Thailand, Cambodia, Korea, Japan, India, 
+Malaysia, Brunei, Singapore, China, Taiwan, 
+Philippines, Papua New Guinea, Vietnam, 
+Bangladesh, Pakistan, and northern 
+Australia. It has never been detected in the 
+United States.3, 12 
+ 
+Hosts  
+Wildlife Hosts 
+ 
+• Ardeid birds (e.g., herons, egrets; natural 
+reservoirs), can maintain high JEV viremia 
+levels that infect mosquitoes in both rural and 
+urban areas. 1,2, 8,5 
+ 
+• There are at least 90 different bird species 
+that may be involved in the transmission of 
+JEV.  They have a lifelong immunity to the 
+virus after the initial viral infection.6 
+ 
+• JEV has been detected in feral sw
+Text Len: 1327
+--------------------------------------------------------------------------------
+levels that infect mosquitoes in both rural and 
+urban areas. 1,2, 8,5 
+ 
+• There are at least 90 different bird species 
+that may be involved in the transmission of 
+JEV.  They have a lifelong immunity to the 
+virus after the initial viral infection.6 
+ 
+• JEV has been detected in feral swine in 
+Australia in Victoria Daly, Litchfield, Tiwi 
+islands, West Arnhem, Marrakai-Dougalis 
+Daly areas. They can maintain high JEV 
+viremia levels that can infect mosquitoes 9,10, 21 
+ 
+Domestic Hosts  
+Swine 
+ 
+• Domestic pigs (amplifying hosts) can maintain 
+high JEV viremia levels that infect mosquitoes in 
+both agricultural and metropolitan areas. 1,2, 8,5 
+ 
+• Swine symptoms include fetal abnormalities 
+and abortions including mummified and 
+stillborn fetuses, weakness with neurological 
+signs, boar infertility, fluid retention, and 
+congested testicles. 10,14, 18 
+ 
+• Reproductive loss in domestic swine can be 
+from 50 to 70% with negligible mortality in 
+adult swine.5 
+ 
+ 
+• High viral titers in swine can last 2 to 4 
+days. Clinical symptoms can develop in 
+as few as 3 days. Direct transmission via 
+nasal shedding of live virus secretions 
+between pigs has been demonstrated. 
+Infected pigs that survive have a long-
+lasting immunity to the virus.6, 14, 15 
+ 
+• Viral transmission from pig to pig via 
+genetic materials (e.g., semen) is rare.10 
+ 
+• JEV can
+Text Len: 1370
+--------------------------------------------------------------------------------
+ via 
+nasal shedding of live virus secretions 
+between pigs has been demonstrated. 
+Infected pigs that survive have a long-
+lasting immunity to the virus.6, 14, 15 
+ 
+• Viral transmission from pig to pig via 
+genetic materials (e.g., semen) is rare.10 
+ 
+• JEV can be detected in boar semen.18 
+ 
+Equines 
+• Horses are dead end hosts not capable of 
+transmitting virus to mosquitoes or other 
+animals.10 
+ 
+• Incubation period is 4 to 14 days in horses.  
+ 
+• Horse symptoms include fever, jaundice, 
+lethargy, anorexia, and neurological signs 
+may include incoordination, impaired 
+vision, difficulty swallowing.10 
+ 
+• Horses may recover in 2 to 3 days.  In a 
+severe JEV infection, horses may display 
+high fevers, sweating, wandering, 
+aggressive behavior, blindness, and 
+muscle tremors. Severe JEV infections 
+can result in coma and death. These 
+symptoms are indistinguishable from 
+West Nile virus (WNV) and other 
+encephalitic diseases. 11, 18 
+ 
+• JEV isolations from horses have been 
+reported in Japan, Hong Kong, Taiwan, 
+and India.12 
+ 
+• There have been no confirmed cases of 
+JEV in horses in Australia as of the 
+publication of this notice, but there have 
+been cases where the combination of 
+clinical signs and test results suggest that 
+JEV was possibly the cause of disease.11 
+ 
+ 
+•  
+ 
+ 
+ 
+ 
+• A 2003 to 2004 serological study completed in 
+Text Len: 1363
+--------------------------------------------------------------------------------
+ 
+JEV in horses in Australia as of the 
+publication of this notice, but there have 
+been cases where the combination of 
+clinical signs and test results suggest that 
+JEV was possibly the cause of disease.11 
+ 
+ 
+•  
+ 
+ 
+ 
+ 
+• A 2003 to 2004 serological study completed in 
+Nepal found JEV sero-prevalence in domestic 
+pigs (48.11%), in ducks (26.79%), and in 
+horses (50%).15 
+ 
+Cattle  
+ 
+• Rare JEV clinical cases have been reported in 
+cattle showing neurological signs, fever, 
+depression, decreased appetite and, in some 
+cases, death.5 
+ 
+Vectors  
+• Highly competent mosquito species for JEV 
+transmission are Aedes albopictus, Aedes 
+vexans, Aedes vigilax, Anopheles tessellatus, 
+Armigeres subalbatus Culex annulus, Culex 
+annulirostris (main vector in Australia), Culex 
+bitaeniorhynchus, Culex fuscocephala, Culex 
+gelidus, Culex pipiens, Culex pipiens pallens, 
+Culex pseudovishnui, Culex quinquefasciatus, 
+Culex sitiens, Culex tarsalis, Culex 
+tritaeniorhynchus, and Culex vishnui 14 
+ 
+• Mosquito species found in the U.S. that could be 
+JEV competent are Culex tritaeniorhynchus, 
+C
+Text Len: 1099
+--------------------------------------------------------------------------------
+, 
+Culex sitiens, Culex tarsalis, Culex 
+tritaeniorhynchus, and Culex vishnui 14 
+ 
+• Mosquito species found in the U.S. that could be 
+JEV competent are Culex tritaeniorhynchus, 
+Culex tarsalis, Culex annulirostris, Culex gelidus, 
+Culex fuscocephala, Culex vishnui, Culex 
+bitaeniorhynchus, Culex pseudovishnui, Culex 
+whitmorei, Culex sitiens, Culex pipiens molestus, 
+Culex pipiens pipiens, Culex quinquefasciatus, 
+Culex salinarius, Culex nigripalpus, Culiseta 
+inornata, Ochlerotatus dorasalis, Ochlerotatus 
+nigromaculis, Ochlerotatus japonicus, Aedes 
+albopictus, Aedes japonicus, Aedes vexans, 
+Anopheles spp. and Mansonia uniformis.6, 18 
+ 
+• Vertical transmission occurs between mosquitoes 
+and their offspring and may be a mechanism that 
+allows for JEV survival through the winter 
+months.6 
+ 
+• JEV has been isolated from Culicoides species 
+in China.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Pathways  
+• Geographic expansion of JEV is likely 
+due to human and pig population 
+growth, and changes in land use that 
+may support habitats that are preferred 
+by
+Text Len: 1046
+--------------------------------------------------------------------------------
+months.6 
+ 
+• JEV has been isolated from Culicoides species 
+in China.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Pathways  
+• Geographic expansion of JEV is likely 
+due to human and pig population 
+growth, and changes in land use that 
+may support habitats that are preferred 
+by both bird and mosquito species.2 
+ 
+• Introductory pathways to other regions may 
+include bird migration, accidental 
+transportation of mosquito vectors, human 
+movement, and international travel.2, 9 
+ 
+• JEV infected mosquito vectors are most 
+likely to enter the United States via 
+aircraft or cargo ships based on a 
+qualitative risk assessment completed in 
+2018; followed by the authors’ 2019 
+quantitative assessment, which 
+determined the higher risk for infected 
+mosquitoes to enter the United States is 
+via aircraft. 13,19 
+ 
+Diagnostic Testing  
+• RT-PCR particularly on central nervous 
+system tissue or fetal tissues. JEV is 
+rarely isolated or detected by PCR in 
+cerebrospinal fluid (CSF). Brain tissue in 
+horses can be used for RT-PCR.23, 24,25 
+ 
+• Swine samples can include fetal tissues, 
+fresh brain, tonsil, spleen, blood, or 
+serum. Equine can include fresh brain, 
+CSF, blood, or serum. Isolation/detection 
+of JEV in horses is usually very low so 
+serology can be used to detect 
+antibodies. Currently, the diagnosis of 
+JEV in pigs can be based on virus 
+isolation of central nervous system 
+tissues; viral RNA detection in
+Text Len: 1403
+--------------------------------------------------------------------------------
+ can include fresh brain, 
+CSF, blood, or serum. Isolation/detection 
+of JEV in horses is usually very low so 
+serology can be used to detect 
+antibodies. Currently, the diagnosis of 
+JEV in pigs can be based on virus 
+isolation of central nervous system 
+tissues; viral RNA detection in samples 
+such as blood, brain, and CSF; and/or via 
+the detection of JEV specific antibodies in 
+CSF or serum. In horses, the specimens 
+collected for virus isolation or detection 
+(nucleic acid or antigen) are portions of 
+the corpus striatum, cortex, or thalamus 
+of the brain.  
+ 
+ 
+ 
+ 
+ 
+ 
+Blood and spinal cord samples can also be 
+used. Due to the short viremia associated 
+with JEV infection (4-5 days) there is a short 
+window for virus detection by PCR in blood 
+and serum samples. 5, 26 
+ 
+• Pigs seroconvert prior to onset of 
+reproduction signs. High antibody titers in 
+these animals in a single serum sample can 
+be indicative of JEV infection. Detection of 
+specific IgM and IgG in equine cerebrospinal 
+fluid or serum may be suggestive of a current 
+JEV infection.5 
+ 
+• The collection of oral/nasal secretion samples 
+from domestic pigs using cotton ropes may be 
+a method to detect JEV positive pigs and 
+appropriate for JEV surveillance in a region. 
+JEV detection in oronasal secretions has 
+potential veterinary diagnostic applications.17 
+ 
+• Samples are to be submitted to the National 
+Veterinary Services Laboratories (NVSL
+Text Len: 1436
+--------------------------------------------------------------------------------
+al secretion samples 
+from domestic pigs using cotton ropes may be 
+a method to detect JEV positive pigs and 
+appropriate for JEV surveillance in a region. 
+JEV detection in oronasal secretions has 
+potential veterinary diagnostic applications.17 
+ 
+• Samples are to be submitted to the National 
+Veterinary Services Laboratories (NVSL). The 
+NVSL Diagnostic Virology Laboratory (DVL) in 
+Ames, IA maintains diagnostics for other 
+flaviviruses, including West Nile Virus. The 
+NVSL Foreign Animal Disease Diagnostic 
+Laboratory (FADDL) at Plum Island, NY is 
+evaluating front-line molecular and 
+confirmatory diagnostic methods. 
+ 
+Treatment 
+• There are no specific treatments for infected 
+animals beyond treatment for symptoms.5, 18 
+ 
+• Live and inactivated vaccines are available for 
+swine and inactivated vaccine for horses; 
+however, no licensed vaccine is available in 
+the United States. 2,5 
+ 
+Prevention 
+• Vaccination of equine and swine in endemic 
+areas may be effective. 17, 18 
+ 
+• P yrethroids, organophosphates, and 
+carbamates can be used for chemical control 
+of adult mosquitoes.5,18  
+ 
+ 
+• Landscape modifications may also reduce 
+exposure to mosquito bites such as stabling 
+animals in screened barns, insecticide 
+treated mosquito nets, elimination of waterin 
+outside water-holding containers, and 
+installation of fans in barns. 5,18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Len: 1392
+--------------------------------------------------------------------------------
+ mosquito bites such as stabling 
+animals in screened barns, insecticide 
+treated mosquito nets, elimination of waterin 
+outside water-holding containers, and 
+installation of fans in barns. 5,18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources 
+1. Oliveira ARS, Strathe E, Etchverry I, Cohnstaedt LW, 
+McVey DS, Piaggio J, and Cernicchiaro N. 2018. 
+Assessment of data on vector and host competence of 
+Japanese encephalitis virus: A systematic review of the 
+literature. Preventive Veterinary Medicine 154: 71-89. 
+2. Erlanger TE, Weiss S, Keiser J, Utzinger J, Wiedenmayer 
+K. 2009. Past, present, and future of Japanese 
+encephalitis. Emerging Infectious Diseases 15(1) 1-7.  
+3. Filgueira L and Lannes N. 2019. Review of Emerging 
+Japanese virus: New Aspects and Concepts about Entry 
+into the Barn and Inter-Cellular Spreading. Pathogens 8 
+(111): 1-19. 
+4. Oliveria ARS, Cohnstaedt LW, Noronha LE, Mitzel D, 
+McVey DS, and Cernicchiaro N. 2020. Perspectives 
+Regarding the Risk of Introduction
+Text Len: 1056
+--------------------------------------------------------------------------------
+ and Concepts about Entry 
+into the Barn and Inter-Cellular Spreading. Pathogens 8 
+(111): 1-19. 
+4. Oliveria ARS, Cohnstaedt LW, Noronha LE, Mitzel D, 
+McVey DS, and Cernicchiaro N. 2020. Perspectives 
+Regarding the Risk of Introduction of the Japanese 
+Encephalitis Virus in the United States. Frontiers in 
+Veterinary Science 7:48 
+ Spickler, Anna Rovid. 2016. Japanese Encephalitis. 
+Retrieved from 
+http://www.cfsph.iastate.edu/DiseaseInfo/factsheets.php  
+5. Oliveira ARS, Cohnstaedt LW, and Cernicchiaro N. 2018. 
+Japanese Encephalitis Virus: Placing Disease Vectors in 
+the Epidemiologic Triad. Annals of the Entomological 
+Society of America. 111: 295-303. 
+6. Hurk van den AF, Pyke AT, Mackenzie JS, Hall-Medelin 
+S, and Ritchie SA. 2019. Japanese Encephalitis Virus in 
+Australia: From Known Known to Known Unknown. 
+Tropical Medicine and Infectious Disease 4(38): 1-11. 
+7. Lindahl JF, Stahl K, Chirico J, Boqvist S, Thu HTV, and 
+Magnusson U. 2013. Circulation of Japanese 
+Encephalitis virus in Pigs and Mosquito vectors within 
+Can Tho City, Vietnam. Negal Tropical Diseases 7(4): 
+e2153 
+8. Japanese Encephalitis Virus Detected in Australia’s Feral 
+Pig Herd. Ag Web
+Text Len: 1182
+--------------------------------------------------------------------------------
+TV, and 
+Magnusson U. 2013. Circulation of Japanese 
+Encephalitis virus in Pigs and Mosquito vectors within 
+Can Tho City, Vietnam. Negal Tropical Diseases 7(4): 
+e2153 
+8. Japanese Encephalitis Virus Detected in Australia’s Feral 
+Pig Herd. Ag Web Farm Journal, Jennifer Shike, April 
+8,2022.https://www.agweb.com/news/livestock/pork/japan
+ese-encephalitis-virus-detected-australias-feral-pig-herd 
+9. Japanese encephalitis in animals. Northern Territory 
+Government Australia. Updated 16 June 2022. 
+https://nt.gov.au/industry/agriculture/livestock/animal-
+health-and-diseases/japanese-encephalitis-in-animals. 
+10. Japanese encephalitis virus. 
+https://www.agriculture.gov.au/biosecurity-trade/pests-
+diseases-weeds/animal/japanese-encephalitis. A ccessed  
+page 14 March 2023 
+11. Gulati BR, Singha H, Singh BK, Virmani N, Kumar S, and 
+Singh RK. 2012. Isolation and genetic characterization of 
+Japanese encephalitis virus from equines in India. J. Vet 
+Sci. 13(2): 11-118. 
+12. Oliveira A RS., Piaggio J., Cohnstaedt LW, McVey S., 
+and Cernicchiaro N. 2018. A quantitative risk assessment 
+(QRA) of the risk of introduction of the Japanese 
+ence
+Text Len: 1151
+--------------------------------------------------------------------------------
+ from equines in India. J. Vet 
+Sci. 13(2): 11-118. 
+12. Oliveira A RS., Piaggio J., Cohnstaedt LW, McVey S., 
+and Cernicchiaro N. 2018. A quantitative risk assessment 
+(QRA) of the risk of introduction of the Japanese 
+encephalitis virus (JEV) in the United States via infected 
+mosquitoes transported in aircraft and cargo ships. 
+Preventive Veterinary Medicine 160: 1-9. 
+13. Van den Eynde C., Sohier C., Matthijs S., and De Regge 
+N. 2022. Japanese Encephalitis Virus Interaction with. 
+Mosquitoes: A Review of Vector Competence, Vector 
+Capacity, and Mosquito Immunity. Pathogens 11:317 
+ 
+ 
+14. Pant G. 2006. A serological survey of pigs, horses, 
+and ducks in Nepal for evidence of infection with 
+Japanese Encephalitis virus. Ann. N.Y. Acad. Sci. 
+1081:124-129. 
+15. Park SL, Huang YJS, Lyons AC, Ayers VB, Hettenbach 
+SM, McVey DS, Burton KR, Higgs S, Vanlandingham 
+DL. 2018. North American domestic pigs are 
+susceptible to experimental infection with Japanese 
+encephalitis virus. Scientific Reports 8:7951. 
+16. Park SL, Huang YJS, and Vanlandingham DL. 2022. 
+Re-examining the importance of pigs in the 
+transmission of Japanese encephalitis virus. 
+Pathogens 11:575. 
+17. Japanese Encephalitis Virus. Factsheet. Swine Health 
+Information Center
+Text Len: 1259
+--------------------------------------------------------------------------------
+. Scientific Reports 8:7951. 
+16. Park SL, Huang YJS, and Vanlandingham DL. 2022. 
+Re-examining the importance of pigs in the 
+transmission of Japanese encephalitis virus. 
+Pathogens 11:575. 
+17. Japanese Encephalitis Virus. Factsheet. Swine Health 
+Information Center. July 2021. 
+18. Oliveria ARS, Piaggio J, Cohnstaedt LW, McVey DS, 
+and Cernicchiaro N. 2019. Introduction of the 
+Japanese encephalitis virus (JEV) in the United States 
+– A qualitative risk assessment. Transboundary 
+Emerging Diseases 66:1558-1574. 
+19. Drake J. 2022. What You Need to Know about the 
+outbreak of Japanese Encephalitis in Australia. Science. 
+https://www.forbes.com/sites/johndrake/2022/06/13/what-
+you-need-to-know-about-the-outbreak-of-japanese-
+encephalitis-in-australia/?sh=504fc7f01f43. 
+20. Gentle M, Wilson C, and Cuskelly J. 2022. Feral Pig 
+management in Australia: implications for disease control. 
+Australian Veterinary Journal 1-4. doi: 10.1111/avj.13198 
+21. Waller C, Currie BJ, Williams DT, Baird RW. 2022. 
+Japanese encephalitis in Australia – A Sentinel Case. N 
+Engl J Med; 387:661-662 
+DOI: 10.1056/NEJMc2207004 
+22. Lam M K.H.K., Ellis T.M., Williams D.
+Text Len: 1162
+--------------------------------------------------------------------------------
+21. Waller C, Currie BJ, Williams DT, Baird RW. 2022. 
+Japanese encephalitis in Australia – A Sentinel Case. N 
+Engl J Med; 387:661-662 
+DOI: 10.1056/NEJMc2207004 
+22. Lam M K.H.K., Ellis T.M., Williams D.T., Lunt R.A., 
+Daniels P.W., Watkins K.L. & Riggs C.M. 2005. Japanese 
+encephalitis in a racing thoroughbred gelding in Hong 
+Kong. Vet. Rec. 157: 168.  
+23. Lian W.C., Liau M.Y. and Mao C.L. 2002. Diagnosis and 
+genetic analysis of Japanese encephalitis virus infected in 
+horses. J. Vet. Med. B Infect. Dis. Vet. Public Health 49: 
+361–365.   
+24. Mansfield KL, Hernandez-Triana LM, Banyard AC, Fooks 
+AR, Johnson N. 2017. Japanese encephalitis virus 
+infection, diagnosis, and control in domestic animals. Vet 
+Microbiol. 201:85-92. doi:10.1016/j.vetmic.2017.01.014 
+25. Chapter 3.1.10. Japanese encephalitis. In Manual of 
+Diagnostic Tests and Vaccines for Terrestrial Animals 
+2021; World Organization for Animal Health (OIE) 
+26. Mackenzie JS and Williams DT. 2022. Japanese 
+encephalitis virus: an emerging and re-emerging virus in 
+Australia. Microbiology Australia 43(4): 150–155 
+ 
+ 
+USDA is an equal opportunity provider, 
+employer, and lender.
+Text Len: 1161
+--------------------------------------------------------------------------------
+ 
+2021; World Organization for Animal Health (OIE) 
+26. Mackenzie JS and Williams DT. 2022. Japanese 
+encephalitis virus: an emerging and re-emerging virus in 
+Australia. Microbiology Australia 43(4): 150–155 
+ 
+ 
+USDA is an equal opportunity provider, 
+employer, and lender. 
+Text Len: 276
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+Key Points 
+• There was a significant change in the
+di
+stribution of JEV last year in Australia, with
+a geographic expansion from the northern tip
+of the country to four southern states.
+• JEV is a mosquito-borne flavivirus belonging to
+F
+laviviridae, the same family as West Nile
+v
+irus, Yellow fever, Murray Valley encephalitis
+virus, and Saint Louis encephalitis.  There is
+one serotype and five genotypes.12,13
+• G
+lobally, JEV has been detected in 30
+species of mosquitoes belonging to the
+gener
+a Aedes, Anopheles, Armigeres,
+Coquillettidia, Culex, and Mansonia. 13, 14
+• T
+he primary mosquito JEV vectors are Culex
+tritaeniorhynchus (in Asia) and Culex
+annulirostris (in Australia). 14
+• C
+ulex pipiens, Culex quinquefasciatus, and
+A
+edes japonicus, native U.S. mosquito
+s
+pecies, may be important vectors if JEV
+w
+ere introduced into the United States.6,14, 18
+• JEV is a zoonotic vector-borne disease that
+can affect multiple mammalian and bird
+s
+pecies including pigs, horses, donkeys,
+cattle, sheep, goats, dogs, cats, egrets,
+her
+ons as well as reptiles, amphibians, and
+hum
+ans.5
+• During the 2021-2022 season, pigs on more
+than 79 swine farms across four Australian
+s
+tates (South Australia, Victoria, New South
+Wales, and Queensland) were impacted by
+JEV; over
+Text Len: 1287
+--------------------------------------------------------------------------------
+ sheep, goats, dogs, cats, egrets,
+her
+ons as well as reptiles, amphibians, and
+hum
+ans.5
+• During the 2021-2022 season, pigs on more
+than 79 swine farms across four Australian
+s
+tates (South Australia, Victoria, New South
+Wales, and Queensland) were impacted by
+JEV; over 40 JEV human infections led to
+s
+even deaths. 7, 9, 20, 22, 27
+• J
+EV was detected for the first time
+during the 2022-2023 season in New
+South Wales in November 2022.11
+• J
+EV is found throughout Asia,
+Australia, and Western Pacific Islands;
+however, Australia observed a
+geographic spread of JEV last year.5,12
+    Concerns for US Animal Health 
+• J
+EV would have a major impact to
+livestock health, trade, and production
+as well as public health.10
+• P
+otential pathways into the United
+States are through the introduction of
+i
+nfected mosquitoes and migratory
+waterbirds and globalized livestock
+trade.4,10, 17
+•
+Competent mosquito vectors and hosts
+are present in the United States. It has
+been demonstrated that North
+American domestic pigs are susceptible
+t
+o JEV infections.16, 17
+• J
+EV primarily affects pigs and horses
+with between 50 to 70% reproductive
+losses and low mortality in adult pigs,
+piglets experiencing up to 100%
+mortality: and encephalitis in horses with
+a 0.3% to 30% mortality rate.5, 9, 10, 12, 14
+•
+Animals infected with JEV, other than
+pigs and birds, may exhibit clinical
+signs, but are considered dead-end
+hosts where they do not
+Text Len: 1434
+--------------------------------------------------------------------------------
+,
+piglets experiencing up to 100%
+mortality: and encephalitis in horses with
+a 0.3% to 30% mortality rate.5, 9, 10, 12, 14
+•
+Animals infected with JEV, other than
+pigs and birds, may exhibit clinical
+signs, but are considered dead-end
+hosts where they do not have a high
+enough viremia for mosquitoes to pick
+up the virus and transmit to another
+host.11
+• J
+EV control options include treating
+inf
+ected animals, chemical control of
+vector species, and landscape
+modifications such as screening barns
+to reduce vector contact. 5,18
+Emerging Risk Notice   
+May 2023  
+Japanese Encephalitis Virus (JEV) 
+ 
+ 
+ 
+ 
+Epidemiology 
+ 
+Distribution 
+ 
+• JEV is distributed throughout Indonesia, 
+Thailand, Cambodia, Korea, Japan, India, 
+Malaysia, Brunei, Singapore, China, Taiwan, 
+Philippines, Papua New Guinea, Vietnam, 
+Bangladesh, Pakistan, and northern 
+Australia. It has never been detected in the 
+United States.3, 12 
+ 
+Hosts  
+Wildlife Hosts 
+ 
+• Ardeid birds (e.g., herons, egrets; natural 
+reservoirs), can maintain high JEV viremia 
+levels that infect mosquitoes in both rural and 
+urban areas. 1,2, 8,5 
+ 
+• There are at least 90 different bird species 
+that may be involved in the transmission of 
+JEV.  They have a lifelong immunity to the 
+virus after the initial viral infection.6 
+ 
+• JEV has been detected in feral sw
+Text Len: 1327
+--------------------------------------------------------------------------------
+levels that infect mosquitoes in both rural and 
+urban areas. 1,2, 8,5 
+ 
+• There are at least 90 different bird species 
+that may be involved in the transmission of 
+JEV.  They have a lifelong immunity to the 
+virus after the initial viral infection.6 
+ 
+• JEV has been detected in feral swine in 
+Australia in Victoria Daly, Litchfield, Tiwi 
+islands, West Arnhem, Marrakai-Dougalis 
+Daly areas. They can maintain high JEV 
+viremia levels that can infect mosquitoes 9,10, 21 
+ 
+Domestic Hosts  
+Swine 
+ 
+• Domestic pigs (amplifying hosts) can maintain 
+high JEV viremia levels that infect mosquitoes in 
+both agricultural and metropolitan areas. 1,2, 8,5 
+ 
+• Swine symptoms include fetal abnormalities 
+and abortions including mummified and 
+stillborn fetuses, weakness with neurological 
+signs, boar infertility, fluid retention, and 
+congested testicles. 10,14, 18 
+ 
+• Reproductive loss in domestic swine can be 
+from 50 to 70% with negligible mortality in 
+adult swine.5 
+ 
+ 
+• High viral titers in swine can last 2 to 4 
+days. Clinical symptoms can develop in 
+as few as 3 days. Direct transmission via 
+nasal shedding of live virus secretions 
+between pigs has been demonstrated. 
+Infected pigs that survive have a long-
+lasting immunity to the virus.6, 14, 15 
+ 
+• Viral transmission from pig to pig via 
+genetic materials (e.g., semen) is rare.10 
+ 
+• JEV can
+Text Len: 1370
+--------------------------------------------------------------------------------
+ via 
+nasal shedding of live virus secretions 
+between pigs has been demonstrated. 
+Infected pigs that survive have a long-
+lasting immunity to the virus.6, 14, 15 
+ 
+• Viral transmission from pig to pig via 
+genetic materials (e.g., semen) is rare.10 
+ 
+• JEV can be detected in boar semen.18 
+ 
+Equines 
+• Horses are dead end hosts not capable of 
+transmitting virus to mosquitoes or other 
+animals.10 
+ 
+• Incubation period is 4 to 14 days in horses.  
+ 
+• Horse symptoms include fever, jaundice, 
+lethargy, anorexia, and neurological signs 
+may include incoordination, impaired 
+vision, difficulty swallowing.10 
+ 
+• Horses may recover in 2 to 3 days.  In a 
+severe JEV infection, horses may display 
+high fevers, sweating, wandering, 
+aggressive behavior, blindness, and 
+muscle tremors. Severe JEV infections 
+can result in coma and death. These 
+symptoms are indistinguishable from 
+West Nile virus (WNV) and other 
+encephalitic diseases. 11, 18 
+ 
+• JEV isolations from horses have been 
+reported in Japan, Hong Kong, Taiwan, 
+and India.12 
+ 
+• There have been no confirmed cases of 
+JEV in horses in Australia as of the 
+publication of this notice, but there have 
+been cases where the combination of 
+clinical signs and test results suggest that 
+JEV was possibly the cause of disease.11 
+ 
+ 
+•  
+ 
+ 
+ 
+ 
+• A 2003 to 2004 serological study completed in 
+Text Len: 1363
+--------------------------------------------------------------------------------
+ 
+JEV in horses in Australia as of the 
+publication of this notice, but there have 
+been cases where the combination of 
+clinical signs and test results suggest that 
+JEV was possibly the cause of disease.11 
+ 
+ 
+•  
+ 
+ 
+ 
+ 
+• A 2003 to 2004 serological study completed in 
+Nepal found JEV sero-prevalence in domestic 
+pigs (48.11%), in ducks (26.79%), and in 
+horses (50%).15 
+ 
+Cattle  
+ 
+• Rare JEV clinical cases have been reported in 
+cattle showing neurological signs, fever, 
+depression, decreased appetite and, in some 
+cases, death.5 
+ 
+Vectors  
+• Highly competent mosquito species for JEV 
+transmission are Aedes albopictus, Aedes 
+vexans, Aedes vigilax, Anopheles tessellatus, 
+Armigeres subalbatus Culex annulus, Culex 
+annulirostris (main vector in Australia), Culex 
+bitaeniorhynchus, Culex fuscocephala, Culex 
+gelidus, Culex pipiens, Culex pipiens pallens, 
+Culex pseudovishnui, Culex quinquefasciatus, 
+Culex sitiens, Culex tarsalis, Culex 
+tritaeniorhynchus, and Culex vishnui 14 
+ 
+• Mosquito species found in the U.S. that could be 
+JEV competent are Culex tritaeniorhynchus, 
+C
+Text Len: 1099
+--------------------------------------------------------------------------------
+, 
+Culex sitiens, Culex tarsalis, Culex 
+tritaeniorhynchus, and Culex vishnui 14 
+ 
+• Mosquito species found in the U.S. that could be 
+JEV competent are Culex tritaeniorhynchus, 
+Culex tarsalis, Culex annulirostris, Culex gelidus, 
+Culex fuscocephala, Culex vishnui, Culex 
+bitaeniorhynchus, Culex pseudovishnui, Culex 
+whitmorei, Culex sitiens, Culex pipiens molestus, 
+Culex pipiens pipiens, Culex quinquefasciatus, 
+Culex salinarius, Culex nigripalpus, Culiseta 
+inornata, Ochlerotatus dorasalis, Ochlerotatus 
+nigromaculis, Ochlerotatus japonicus, Aedes 
+albopictus, Aedes japonicus, Aedes vexans, 
+Anopheles spp. and Mansonia uniformis.6, 18 
+ 
+• Vertical transmission occurs between mosquitoes 
+and their offspring and may be a mechanism that 
+allows for JEV survival through the winter 
+months.6 
+ 
+• JEV has been isolated from Culicoides species 
+in China.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Pathways  
+• Geographic expansion of JEV is likely 
+due to human and pig population 
+growth, and changes in land use that 
+may support habitats that are preferred 
+by
+Text Len: 1046
+--------------------------------------------------------------------------------
+months.6 
+ 
+• JEV has been isolated from Culicoides species 
+in China.5 
+ 
+ 
+ 
+ 
+ 
+ 
+Pathways  
+• Geographic expansion of JEV is likely 
+due to human and pig population 
+growth, and changes in land use that 
+may support habitats that are preferred 
+by both bird and mosquito species.2 
+ 
+• Introductory pathways to other regions may 
+include bird migration, accidental 
+transportation of mosquito vectors, human 
+movement, and international travel.2, 9 
+ 
+• JEV infected mosquito vectors are most 
+likely to enter the United States via 
+aircraft or cargo ships based on a 
+qualitative risk assessment completed in 
+2018; followed by the authors’ 2019 
+quantitative assessment, which 
+determined the higher risk for infected 
+mosquitoes to enter the United States is 
+via aircraft. 13,19 
+ 
+Diagnostic Testing  
+• RT-PCR particularly on central nervous 
+system tissue or fetal tissues. JEV is 
+rarely isolated or detected by PCR in 
+cerebrospinal fluid (CSF). Brain tissue in 
+horses can be used for RT-PCR.23, 24,25 
+ 
+• Swine samples can include fetal tissues, 
+fresh brain, tonsil, spleen, blood, or 
+serum. Equine can include fresh brain, 
+CSF, blood, or serum. Isolation/detection 
+of JEV in horses is usually very low so 
+serology can be used to detect 
+antibodies. Currently, the diagnosis of 
+JEV in pigs can be based on virus 
+isolation of central nervous system 
+tissues; viral RNA detection in
+Text Len: 1403
+--------------------------------------------------------------------------------
+ can include fresh brain, 
+CSF, blood, or serum. Isolation/detection 
+of JEV in horses is usually very low so 
+serology can be used to detect 
+antibodies. Currently, the diagnosis of 
+JEV in pigs can be based on virus 
+isolation of central nervous system 
+tissues; viral RNA detection in samples 
+such as blood, brain, and CSF; and/or via 
+the detection of JEV specific antibodies in 
+CSF or serum. In horses, the specimens 
+collected for virus isolation or detection 
+(nucleic acid or antigen) are portions of 
+the corpus striatum, cortex, or thalamus 
+of the brain.  
+ 
+ 
+ 
+ 
+ 
+ 
+Blood and spinal cord samples can also be 
+used. Due to the short viremia associated 
+with JEV infection (4-5 days) there is a short 
+window for virus detection by PCR in blood 
+and serum samples. 5, 26 
+ 
+• Pigs seroconvert prior to onset of 
+reproduction signs. High antibody titers in 
+these animals in a single serum sample can 
+be indicative of JEV infection. Detection of 
+specific IgM and IgG in equine cerebrospinal 
+fluid or serum may be suggestive of a current 
+JEV infection.5 
+ 
+• The collection of oral/nasal secretion samples 
+from domestic pigs using cotton ropes may be 
+a method to detect JEV positive pigs and 
+appropriate for JEV surveillance in a region. 
+JEV detection in oronasal secretions has 
+potential veterinary diagnostic applications.17 
+ 
+• Samples are to be submitted to the National 
+Veterinary Services Laboratories (NVSL
+Text Len: 1436
+--------------------------------------------------------------------------------
+al secretion samples 
+from domestic pigs using cotton ropes may be 
+a method to detect JEV positive pigs and 
+appropriate for JEV surveillance in a region. 
+JEV detection in oronasal secretions has 
+potential veterinary diagnostic applications.17 
+ 
+• Samples are to be submitted to the National 
+Veterinary Services Laboratories (NVSL). The 
+NVSL Diagnostic Virology Laboratory (DVL) in 
+Ames, IA maintains diagnostics for other 
+flaviviruses, including West Nile Virus. The 
+NVSL Foreign Animal Disease Diagnostic 
+Laboratory (FADDL) at Plum Island, NY is 
+evaluating front-line molecular and 
+confirmatory diagnostic methods. 
+ 
+Treatment 
+• There are no specific treatments for infected 
+animals beyond treatment for symptoms.5, 18 
+ 
+• Live and inactivated vaccines are available for 
+swine and inactivated vaccine for horses; 
+however, no licensed vaccine is available in 
+the United States. 2,5 
+ 
+Prevention 
+• Vaccination of equine and swine in endemic 
+areas may be effective. 17, 18 
+ 
+• P yrethroids, organophosphates, and 
+carbamates can be used for chemical control 
+of adult mosquitoes.5,18  
+ 
+ 
+• Landscape modifications may also reduce 
+exposure to mosquito bites such as stabling 
+animals in screened barns, insecticide 
+treated mosquito nets, elimination of waterin 
+outside water-holding containers, and 
+installation of fans in barns. 5,18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Text Len: 1392
+--------------------------------------------------------------------------------
+ mosquito bites such as stabling 
+animals in screened barns, insecticide 
+treated mosquito nets, elimination of waterin 
+outside water-holding containers, and 
+installation of fans in barns. 5,18 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Sources 
+1. Oliveira ARS, Strathe E, Etchverry I, Cohnstaedt LW, 
+McVey DS, Piaggio J, and Cernicchiaro N. 2018. 
+Assessment of data on vector and host competence of 
+Japanese encephalitis virus: A systematic review of the 
+literature. Preventive Veterinary Medicine 154: 71-89. 
+2. Erlanger TE, Weiss S, Keiser J, Utzinger J, Wiedenmayer 
+K. 2009. Past, present, and future of Japanese 
+encephalitis. Emerging Infectious Diseases 15(1) 1-7.  
+3. Filgueira L and Lannes N. 2019. Review of Emerging 
+Japanese virus: New Aspects and Concepts about Entry 
+into the Barn and Inter-Cellular Spreading. Pathogens 8 
+(111): 1-19. 
+4. Oliveria ARS, Cohnstaedt LW, Noronha LE, Mitzel D, 
+McVey DS, and Cernicchiaro N. 2020. Perspectives 
+Regarding the Risk of Introduction
+Text Len: 1056
+--------------------------------------------------------------------------------
+ and Concepts about Entry 
+into the Barn and Inter-Cellular Spreading. Pathogens 8 
+(111): 1-19. 
+4. Oliveria ARS, Cohnstaedt LW, Noronha LE, Mitzel D, 
+McVey DS, and Cernicchiaro N. 2020. Perspectives 
+Regarding the Risk of Introduction of the Japanese 
+Encephalitis Virus in the United States. Frontiers in 
+Veterinary Science 7:48 
+ Spickler, Anna Rovid. 2016. Japanese Encephalitis. 
+Retrieved from 
+http://www.cfsph.iastate.edu/DiseaseInfo/factsheets.php  
+5. Oliveira ARS, Cohnstaedt LW, and Cernicchiaro N. 2018. 
+Japanese Encephalitis Virus: Placing Disease Vectors in 
+the Epidemiologic Triad. Annals of the Entomological 
+Society of America. 111: 295-303. 
+6. Hurk van den AF, Pyke AT, Mackenzie JS, Hall-Medelin 
+S, and Ritchie SA. 2019. Japanese Encephalitis Virus in 
+Australia: From Known Known to Known Unknown. 
+Tropical Medicine and Infectious Disease 4(38): 1-11. 
+7. Lindahl JF, Stahl K, Chirico J, Boqvist S, Thu HTV, and 
+Magnusson U. 2013. Circulation of Japanese 
+Encephalitis virus in Pigs and Mosquito vectors within 
+Can Tho City, Vietnam. Negal Tropical Diseases 7(4): 
+e2153 
+8. Japanese Encephalitis Virus Detected in Australia’s Feral 
+Pig Herd. Ag Web
+Text Len: 1182
+--------------------------------------------------------------------------------
+TV, and 
+Magnusson U. 2013. Circulation of Japanese 
+Encephalitis virus in Pigs and Mosquito vectors within 
+Can Tho City, Vietnam. Negal Tropical Diseases 7(4): 
+e2153 
+8. Japanese Encephalitis Virus Detected in Australia’s Feral 
+Pig Herd. Ag Web Farm Journal, Jennifer Shike, April 
+8,2022.https://www.agweb.com/news/livestock/pork/japan
+ese-encephalitis-virus-detected-australias-feral-pig-herd 
+9. Japanese encephalitis in animals. Northern Territory 
+Government Australia. Updated 16 June 2022. 
+https://nt.gov.au/industry/agriculture/livestock/animal-
+health-and-diseases/japanese-encephalitis-in-animals. 
+10. Japanese encephalitis virus. 
+https://www.agriculture.gov.au/biosecurity-trade/pests-
+diseases-weeds/animal/japanese-encephalitis. A ccessed  
+page 14 March 2023 
+11. Gulati BR, Singha H, Singh BK, Virmani N, Kumar S, and 
+Singh RK. 2012. Isolation and genetic characterization of 
+Japanese encephalitis virus from equines in India. J. Vet 
+Sci. 13(2): 11-118. 
+12. Oliveira A RS., Piaggio J., Cohnstaedt LW, McVey S., 
+and Cernicchiaro N. 2018. A quantitative risk assessment 
+(QRA) of the risk of introduction of the Japanese 
+ence
+Text Len: 1151
+--------------------------------------------------------------------------------
+ from equines in India. J. Vet 
+Sci. 13(2): 11-118. 
+12. Oliveira A RS., Piaggio J., Cohnstaedt LW, McVey S., 
+and Cernicchiaro N. 2018. A quantitative risk assessment 
+(QRA) of the risk of introduction of the Japanese 
+encephalitis virus (JEV) in the United States via infected 
+mosquitoes transported in aircraft and cargo ships. 
+Preventive Veterinary Medicine 160: 1-9. 
+13. Van den Eynde C., Sohier C., Matthijs S., and De Regge 
+N. 2022. Japanese Encephalitis Virus Interaction with. 
+Mosquitoes: A Review of Vector Competence, Vector 
+Capacity, and Mosquito Immunity. Pathogens 11:317 
+ 
+ 
+14. Pant G. 2006. A serological survey of pigs, horses, 
+and ducks in Nepal for evidence of infection with 
+Japanese Encephalitis virus. Ann. N.Y. Acad. Sci. 
+1081:124-129. 
+15. Park SL, Huang YJS, Lyons AC, Ayers VB, Hettenbach 
+SM, McVey DS, Burton KR, Higgs S, Vanlandingham 
+DL. 2018. North American domestic pigs are 
+susceptible to experimental infection with Japanese 
+encephalitis virus. Scientific Reports 8:7951. 
+16. Park SL, Huang YJS, and Vanlandingham DL. 2022. 
+Re-examining the importance of pigs in the 
+transmission of Japanese encephalitis virus. 
+Pathogens 11:575. 
+17. Japanese Encephalitis Virus. Factsheet. Swine Health 
+Information Center
+Text Len: 1259
+--------------------------------------------------------------------------------
+. Scientific Reports 8:7951. 
+16. Park SL, Huang YJS, and Vanlandingham DL. 2022. 
+Re-examining the importance of pigs in the 
+transmission of Japanese encephalitis virus. 
+Pathogens 11:575. 
+17. Japanese Encephalitis Virus. Factsheet. Swine Health 
+Information Center. July 2021. 
+18. Oliveria ARS, Piaggio J, Cohnstaedt LW, McVey DS, 
+and Cernicchiaro N. 2019. Introduction of the 
+Japanese encephalitis virus (JEV) in the United States 
+– A qualitative risk assessment. Transboundary 
+Emerging Diseases 66:1558-1574. 
+19. Drake J. 2022. What You Need to Know about the 
+outbreak of Japanese Encephalitis in Australia. Science. 
+https://www.forbes.com/sites/johndrake/2022/06/13/what-
+you-need-to-know-about-the-outbreak-of-japanese-
+encephalitis-in-australia/?sh=504fc7f01f43. 
+20. Gentle M, Wilson C, and Cuskelly J. 2022. Feral Pig 
+management in Australia: implications for disease control. 
+Australian Veterinary Journal 1-4. doi: 10.1111/avj.13198 
+21. Waller C, Currie BJ, Williams DT, Baird RW. 2022. 
+Japanese encephalitis in Australia – A Sentinel Case. N 
+Engl J Med; 387:661-662 
+DOI: 10.1056/NEJMc2207004 
+22. Lam M K.H.K., Ellis T.M., Williams D.
+Text Len: 1162
+--------------------------------------------------------------------------------
+21. Waller C, Currie BJ, Williams DT, Baird RW. 2022. 
+Japanese encephalitis in Australia – A Sentinel Case. N 
+Engl J Med; 387:661-662 
+DOI: 10.1056/NEJMc2207004 
+22. Lam M K.H.K., Ellis T.M., Williams D.T., Lunt R.A., 
+Daniels P.W., Watkins K.L. & Riggs C.M. 2005. Japanese 
+encephalitis in a racing thoroughbred gelding in Hong 
+Kong. Vet. Rec. 157: 168.  
+23. Lian W.C., Liau M.Y. and Mao C.L. 2002. Diagnosis and 
+genetic analysis of Japanese encephalitis virus infected in 
+horses. J. Vet. Med. B Infect. Dis. Vet. Public Health 49: 
+361–365.   
+24. Mansfield KL, Hernandez-Triana LM, Banyard AC, Fooks 
+AR, Johnson N. 2017. Japanese encephalitis virus 
+infection, diagnosis, and control in domestic animals. Vet 
+Microbiol. 201:85-92. doi:10.1016/j.vetmic.2017.01.014 
+25. Chapter 3.1.10. Japanese encephalitis. In Manual of 
+Diagnostic Tests and Vaccines for Terrestrial Animals 
+2021; World Organization for Animal Health (OIE) 
+26. Mackenzie JS and Williams DT. 2022. Japanese 
+encephalitis virus: an emerging and re-emerging virus in 
+Australia. Microbiology Australia 43(4): 150–155 
+ 
+ 
+USDA is an equal opportunity provider, 
+employer, and lender.
+Text Len: 1161
+--------------------------------------------------------------------------------
+ 
+2021; World Organization for Animal Health (OIE) 
+26. Mackenzie JS and Williams DT. 2022. Japanese 
+encephalitis virus: an emerging and re-emerging virus in 
+Australia. Microbiology Australia 43(4): 150–155 
+ 
+ 
+USDA is an equal opportunity provider, 
+employer, and lender. 
+Text Len: 276
+--------------------------------------------------------------------------------

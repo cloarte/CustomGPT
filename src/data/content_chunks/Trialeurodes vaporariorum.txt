@@ -1,0 +1,176 @@
+Crop Knowledge Master
+Trialeurodes vaporariorum (Westwood)
+Greenhouse-Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Jayma L. Martin Kessing, Educational Specialist
+Ronald F. L. Mau, Extension Entomologist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+Greenhouse whiteflies attack a large number of plant hosts. Hosts of economic importance include bean, bittermelon, Chinese wax gourd, cucumber, edible gourds, eggplant, green beans, green pepper, hyotan, lettuce, luffa, ornamentals, pikake, plumeria, poinsettia, potato, pumpkin, rose, strawberry, sweetpotato, taro, togan, tomato, tobacco, watercress, watermelon, yardlong beans and zucchini. Many weed species serve as alternate hosts of the whitefly. An extensive list of hosts is provided by Mound and Halsey (1978).
+DISTRIBUTION
+This pest has a world-wide distribution. They are distributed widely throughout the tropics and subtropics and occur in greenhouses in temperate zones. Greenhouse whiteflies were first recorded on Oahu in 1907 and are presently distributed on all islands.
+DAMAGE
+Nymphs and adults suck sap from leaves. Damage is often not visible. Large populations reduce plant vigor. Adults and young excrete honeydew. This sticky material serves as a medium for the growth of sooty mold. Extensive honeydew and sooty mold deposits reduces marketability of plants and fruits.
+BIOLOGY
+Life cycle duration of the greenhouse whitefly (egg to adult) varies with temperature. In Hawaii the life cycle is completed in 19 to 25 days. Extensive descriptions of developmental stages are found in Harg
+Text Len: 1633
+--------------------------------------------------------------------------------
+ This sticky material serves as a medium for the growth of sooty mold. Extensive honeydew and sooty mold deposits reduces marketability of plants and fruits.
+BIOLOGY
+Life cycle duration of the greenhouse whitefly (egg to adult) varies with temperature. In Hawaii the life cycle is completed in 19 to 25 days. Extensive descriptions of developmental stages are found in Hargreaves (1915) and Lloyd (1922).
+EGGS
+Eggs are spindle shaped, approximately 1/100 inch long, and pale yellow green when first laid darkening to dark purple or black before hatching. They are attached to the underside of a leaf by the petioles, often in a circle or semicircle. The newly laid eggs are yellow and turn black a few days before hatching 6-7 days after oviposition.
+NYMPHS
+There are three to four nymphal stages. The first stage larvae are called crawlers. They are approximately 1/100 inch in length, light green, with bright red eyes. After they find a preferred feeding site they attach to the underside of the leaf and begin feeding. The legs of the remaining nymphal stages are non-functional; thus, the nymphs are sedentary, remaining at the feeding site selected by the crawler. These stages become flattened on the leaf surface and are very difficult to see because of their transparent green color. Except for size the last two nymphal stages are similar in appearance.
+Nymphal development is completed in 9-17 days. The development of the first nymphal stage is completed in 3-5 days. The secon and third nymphal stages requires 4-8, and 2-4 days, respectively. Larval duration varies with temperature and host. Duration of the life cycle is increased with cooler temperatures.
+PUPAE
+The last nymphal stage is often referred to as the "p
+Text Len: 1732
+--------------------------------------------------------------------------------
+ days. The development of the first nymphal stage is completed in 3-5 days. The secon and third nymphal stages requires 4-8, and 2-4 days, respectively. Larval duration varies with temperature and host. Duration of the life cycle is increased with cooler temperatures.
+PUPAE
+The last nymphal stage is often referred to as the "pupa" because the adult whiteflies emerge from it. The body of this nymphal stage is thicker than other stages and posses characteristic long wax filaments along the outer margin. The duration of the pupal stage is 3-7 days.
+ADULTS
+Adult whiteflies are approximately 1/25 inch long, pale yellow in color, with two pairs of wings covered with a white powdery wax. At rest, wings are held flat. Adults generally live for 21-40 days. Females lay an average of more than 100 eggs during their life time.
+BEHAVIOR
+Different stages of this insect are generally found stratified vertically on host plants. Adults are found on the younger leaves and deposit eggs in this level. Older stages of this insect are located at lower levels of the plant. Pupae and emerging adults are be located at the lowest infested stratum level.
+MANAGEMENT
+Greenhouse whiteflies infest greenhouse crops through various avenues: 1) from rooted cutting received from the propagator; 2) from older plantings of the same crop; 3) from infested weeds or other hosts occurring in the greenhouse; 4) from infested host plants outside and near the greenhouse; and 5) from greenhouse personnel who carry adult whiteflies on their clothing and thus serves as a source of inoculum. Although preventive measures can be effective in delaying whitefly infestation, the grower should assume that the greenhouse will eventually become infested and should prepare to implement control measures at the proper time.
+Biological Control
+Several parasite species occur in
+Text Len: 1849
+--------------------------------------------------------------------------------
+ host plants outside and near the greenhouse; and 5) from greenhouse personnel who carry adult whiteflies on their clothing and thus serves as a source of inoculum. Although preventive measures can be effective in delaying whitefly infestation, the grower should assume that the greenhouse will eventually become infested and should prepare to implement control measures at the proper time.
+Biological Control
+Several parasite species occur in Hawaii. The most common species are Prospaltella transvena Timberlake and Encarsia formosa Gahan. Other specie are Eretmocerus nr. haldemani Howard, and Aleurodophilus pergandiellus (Howard).
+Encarsia formosa and Encarsia versicolor Girault are parasites of greenhouse whitefly and offer control in greenhouse situations. Female Encarsia wasps lay a single egg in the young whitefly. The parasite larva subsequently destroys the internal contents of the host so that all that remains is the exoskeleton. A reliable and conspicuous sign that a parasite is developing within the whitefly is a color change that takes place about two weeks after deposition of the parasite's egg. When the skin of the last larval stage turns black. When fully developed, the adult wasp chews a hole in the larval whitefly exoskeleton and emerges.
+To increase the likelihood of successful biological control of greenhouse whitefly, there are several important points to take into account. Most insecticides (including residues) will kill Encarsia. Use of insecticides should cease at least 1 to 2 weeks prior to the introduction of parasites. The control program should begin when whiteflies are first observed. Such a program requires continual monitoring to determine if a parasite population has been established or, for some reason, if they are unable to control the whiteflies. Temperature influences the development of Encarsia parasites thus influencing the interaction between host and parasite. Greenhouse temperature conditions should be kept at
+Text Len: 1978
+--------------------------------------------------------------------------------
+ 1 to 2 weeks prior to the introduction of parasites. The control program should begin when whiteflies are first observed. Such a program requires continual monitoring to determine if a parasite population has been established or, for some reason, if they are unable to control the whiteflies. Temperature influences the development of Encarsia parasites thus influencing the interaction between host and parasite. Greenhouse temperature conditions should be kept at a desirable temperature to enhance the host parasite interaction. For example, the critical temperature for the parasite on tomato and poinsettia is approximately 74û F.
+CHEMICAL CONTROL
+Greenhouse whitefly is resistant to many synthetic insecticides. Insecticidal soaps and oils are effective against the pest. There is some evidence that sprays of diatomaceous earth is also effective.
+REFERENCES
+Gerling, D. 1983. Observations on the Biologies and Interrelationships of Parasites Attacking the Greenhouse Whitefly, Trialeurodes vaporariorum (West.), in Hawaii. Proc. Hawaiian Entomol. Soc. 24(2): 217-226.
+Hargreaves, E. 1915. The Life-History and Habits of the Greenhouse White Fly (Aleyrodes vaporariorum Westd.). Ann. App. Biol. 1: 303-334.
+LaPlante, A. A. and M. Sherman. 1976. Insect Pest Series, Cooperative Extension Service College of Tropical Agriculture, No. 1. Greenhouse Whitefly. College of Tropical Agriculture, University of Hawaii.
+Lloyd, L. L. 1922. The Control of the greenhouse White Fly (Asterochiton vaporariorum) with Notes on Its Biology. Ann. App. Biol. 9: 1-32.
+Mound L. A. and S.H. Halsey. 1978. Trialeurodes vaporariorum (Westwood). pp. 221-224. In
+Text Len: 1645
+--------------------------------------------------------------------------------
+oyd, L. L. 1922. The Control of the greenhouse White Fly (Asterochiton vaporariorum) with Notes on Its Biology. Ann. App. Biol. 9: 1-32.
+Mound L. A. and S.H. Halsey. 1978. Trialeurodes vaporariorum (Westwood). pp. 221-224. In Whitefly of the World, A Systematic Catalog of the Aleyrodidae (Homoptera) with Host Plant and Natural Enemy Data. British Museum (Natural History ) and John Wiley & Sons, Chichester, New York, Brisbane, Toronto. 340 pages.
+Nechols, J. R. and M. J. Tauber. 1977. Age-Specific Interaction Between the greenhouse Whitefly and Encarsia formosa: Influence of Host on the Parasite's Oviposition and Development. Environ. Ent. 6(1): 143-149.
+Noldus, L. P., J. J., X. Rumei and J. C. van Lenteren. 1986. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) XIX. Feeding-site Selection by the Greenhouse Whitefly. J. App. Ent. 101: 492-507.
+Osborne, L. S. and L. E. Ehler. 1981. Biological Control of Greenhouse Whitefly in California Greenhouses. Leaflet 21260. Cooperative Extension, US. Department of Agriculture, University of California.
+Tsuda, D. M. 1988. Biological Control of the Greenhouse Whitefly [Trialeurodes vaporariorum (Westwood)] (Homoptera: Aleyrodidae) with Encarsia formosa Gahan
+Text Len: 1319
+--------------------------------------------------------------------------------
+. Biological Control of Greenhouse Whitefly in California Greenhouses. Leaflet 21260. Cooperative Extension, US. Department of Agriculture, University of California.
+Tsuda, D. M. 1988. Biological Control of the Greenhouse Whitefly [Trialeurodes vaporariorum (Westwood)] (Homoptera: Aleyrodidae) with Encarsia formosa Gahan (Hymenoptera: Aphelinidae) in an Enclosed Hydroponic Greenhouse in Hawaii. MS Thesis. University of Hawaii, Department of Entomology.
+van Lenteren, J. C., H. W. Nell and L. A. Sevenster-van der Lelie. 1980. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) IV. Oviposition Behavior of the Parasite, with Aspects of Host Selection, Host Discrimination and Host Feeding. Z. ang. Ent. 89: 442-454.
+van Vianen, A. and J. C. van Lenteren. 1986. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) XV. Oogenesis and Oviposition of Encarsia formosa. J. App. Ent. 102: 130-139.
+Zimmerman, E. C. 1948. Trialeurodes vaporariorum (Westwood). pp. 48-50. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5.
+Text Len: 1354
+--------------------------------------------------------------------------------
+ Ent. 102: 130-139.
+Zimmerman, E. C. 1948. Trialeurodes vaporariorum (Westwood). pp. 48-50. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pages.
+    NOV/1991.
+  T-VAPORA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 433
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Trialeurodes vaporariorum (Westwood)
+Greenhouse-Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Jayma L. Martin Kessing, Educational Specialist
+Ronald F. L. Mau, Extension Entomologist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+Greenhouse whiteflies attack a large number of plant hosts. Hosts of economic importance include bean, bittermelon, Chinese wax gourd, cucumber, edible gourds, eggplant, green beans, green pepper, hyotan, lettuce, luffa, ornamentals, pikake, plumeria, poinsettia, potato, pumpkin, rose, strawberry, sweetpotato, taro, togan, tomato, tobacco, watercress, watermelon, yardlong beans and zucchini. Many weed species serve as alternate hosts of the whitefly. An extensive list of hosts is provided by Mound and Halsey (1978).
+DISTRIBUTION
+This pest has a world-wide distribution. They are distributed widely throughout the tropics and subtropics and occur in greenhouses in temperate zones. Greenhouse whiteflies were first recorded on Oahu in 1907 and are presently distributed on all islands.
+DAMAGE
+Nymphs and adults suck sap from leaves. Damage is often not visible. Large populations reduce plant vigor. Adults and young excrete honeydew. This sticky material serves as a medium for the growth of sooty mold. Extensive honeydew and sooty mold deposits reduces marketability of plants and fruits.
+BIOLOGY
+Life cycle duration of the greenhouse whitefly (egg to adult) varies with temperature. In Hawaii the life cycle is completed in 19 to 25 days. Extensive descriptions of developmental stages are found in Harg
+Text Len: 1633
+--------------------------------------------------------------------------------
+ This sticky material serves as a medium for the growth of sooty mold. Extensive honeydew and sooty mold deposits reduces marketability of plants and fruits.
+BIOLOGY
+Life cycle duration of the greenhouse whitefly (egg to adult) varies with temperature. In Hawaii the life cycle is completed in 19 to 25 days. Extensive descriptions of developmental stages are found in Hargreaves (1915) and Lloyd (1922).
+EGGS
+Eggs are spindle shaped, approximately 1/100 inch long, and pale yellow green when first laid darkening to dark purple or black before hatching. They are attached to the underside of a leaf by the petioles, often in a circle or semicircle. The newly laid eggs are yellow and turn black a few days before hatching 6-7 days after oviposition.
+NYMPHS
+There are three to four nymphal stages. The first stage larvae are called crawlers. They are approximately 1/100 inch in length, light green, with bright red eyes. After they find a preferred feeding site they attach to the underside of the leaf and begin feeding. The legs of the remaining nymphal stages are non-functional; thus, the nymphs are sedentary, remaining at the feeding site selected by the crawler. These stages become flattened on the leaf surface and are very difficult to see because of their transparent green color. Except for size the last two nymphal stages are similar in appearance.
+Nymphal development is completed in 9-17 days. The development of the first nymphal stage is completed in 3-5 days. The secon and third nymphal stages requires 4-8, and 2-4 days, respectively. Larval duration varies with temperature and host. Duration of the life cycle is increased with cooler temperatures.
+PUPAE
+The last nymphal stage is often referred to as the "p
+Text Len: 1732
+--------------------------------------------------------------------------------
+ days. The development of the first nymphal stage is completed in 3-5 days. The secon and third nymphal stages requires 4-8, and 2-4 days, respectively. Larval duration varies with temperature and host. Duration of the life cycle is increased with cooler temperatures.
+PUPAE
+The last nymphal stage is often referred to as the "pupa" because the adult whiteflies emerge from it. The body of this nymphal stage is thicker than other stages and posses characteristic long wax filaments along the outer margin. The duration of the pupal stage is 3-7 days.
+ADULTS
+Adult whiteflies are approximately 1/25 inch long, pale yellow in color, with two pairs of wings covered with a white powdery wax. At rest, wings are held flat. Adults generally live for 21-40 days. Females lay an average of more than 100 eggs during their life time.
+BEHAVIOR
+Different stages of this insect are generally found stratified vertically on host plants. Adults are found on the younger leaves and deposit eggs in this level. Older stages of this insect are located at lower levels of the plant. Pupae and emerging adults are be located at the lowest infested stratum level.
+MANAGEMENT
+Greenhouse whiteflies infest greenhouse crops through various avenues: 1) from rooted cutting received from the propagator; 2) from older plantings of the same crop; 3) from infested weeds or other hosts occurring in the greenhouse; 4) from infested host plants outside and near the greenhouse; and 5) from greenhouse personnel who carry adult whiteflies on their clothing and thus serves as a source of inoculum. Although preventive measures can be effective in delaying whitefly infestation, the grower should assume that the greenhouse will eventually become infested and should prepare to implement control measures at the proper time.
+Biological Control
+Several parasite species occur in
+Text Len: 1849
+--------------------------------------------------------------------------------
+ host plants outside and near the greenhouse; and 5) from greenhouse personnel who carry adult whiteflies on their clothing and thus serves as a source of inoculum. Although preventive measures can be effective in delaying whitefly infestation, the grower should assume that the greenhouse will eventually become infested and should prepare to implement control measures at the proper time.
+Biological Control
+Several parasite species occur in Hawaii. The most common species are Prospaltella transvena Timberlake and Encarsia formosa Gahan. Other specie are Eretmocerus nr. haldemani Howard, and Aleurodophilus pergandiellus (Howard).
+Encarsia formosa and Encarsia versicolor Girault are parasites of greenhouse whitefly and offer control in greenhouse situations. Female Encarsia wasps lay a single egg in the young whitefly. The parasite larva subsequently destroys the internal contents of the host so that all that remains is the exoskeleton. A reliable and conspicuous sign that a parasite is developing within the whitefly is a color change that takes place about two weeks after deposition of the parasite's egg. When the skin of the last larval stage turns black. When fully developed, the adult wasp chews a hole in the larval whitefly exoskeleton and emerges.
+To increase the likelihood of successful biological control of greenhouse whitefly, there are several important points to take into account. Most insecticides (including residues) will kill Encarsia. Use of insecticides should cease at least 1 to 2 weeks prior to the introduction of parasites. The control program should begin when whiteflies are first observed. Such a program requires continual monitoring to determine if a parasite population has been established or, for some reason, if they are unable to control the whiteflies. Temperature influences the development of Encarsia parasites thus influencing the interaction between host and parasite. Greenhouse temperature conditions should be kept at
+Text Len: 1978
+--------------------------------------------------------------------------------
+ 1 to 2 weeks prior to the introduction of parasites. The control program should begin when whiteflies are first observed. Such a program requires continual monitoring to determine if a parasite population has been established or, for some reason, if they are unable to control the whiteflies. Temperature influences the development of Encarsia parasites thus influencing the interaction between host and parasite. Greenhouse temperature conditions should be kept at a desirable temperature to enhance the host parasite interaction. For example, the critical temperature for the parasite on tomato and poinsettia is approximately 74û F.
+CHEMICAL CONTROL
+Greenhouse whitefly is resistant to many synthetic insecticides. Insecticidal soaps and oils are effective against the pest. There is some evidence that sprays of diatomaceous earth is also effective.
+REFERENCES
+Gerling, D. 1983. Observations on the Biologies and Interrelationships of Parasites Attacking the Greenhouse Whitefly, Trialeurodes vaporariorum (West.), in Hawaii. Proc. Hawaiian Entomol. Soc. 24(2): 217-226.
+Hargreaves, E. 1915. The Life-History and Habits of the Greenhouse White Fly (Aleyrodes vaporariorum Westd.). Ann. App. Biol. 1: 303-334.
+LaPlante, A. A. and M. Sherman. 1976. Insect Pest Series, Cooperative Extension Service College of Tropical Agriculture, No. 1. Greenhouse Whitefly. College of Tropical Agriculture, University of Hawaii.
+Lloyd, L. L. 1922. The Control of the greenhouse White Fly (Asterochiton vaporariorum) with Notes on Its Biology. Ann. App. Biol. 9: 1-32.
+Mound L. A. and S.H. Halsey. 1978. Trialeurodes vaporariorum (Westwood). pp. 221-224. In
+Text Len: 1645
+--------------------------------------------------------------------------------
+oyd, L. L. 1922. The Control of the greenhouse White Fly (Asterochiton vaporariorum) with Notes on Its Biology. Ann. App. Biol. 9: 1-32.
+Mound L. A. and S.H. Halsey. 1978. Trialeurodes vaporariorum (Westwood). pp. 221-224. In Whitefly of the World, A Systematic Catalog of the Aleyrodidae (Homoptera) with Host Plant and Natural Enemy Data. British Museum (Natural History ) and John Wiley & Sons, Chichester, New York, Brisbane, Toronto. 340 pages.
+Nechols, J. R. and M. J. Tauber. 1977. Age-Specific Interaction Between the greenhouse Whitefly and Encarsia formosa: Influence of Host on the Parasite's Oviposition and Development. Environ. Ent. 6(1): 143-149.
+Noldus, L. P., J. J., X. Rumei and J. C. van Lenteren. 1986. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) XIX. Feeding-site Selection by the Greenhouse Whitefly. J. App. Ent. 101: 492-507.
+Osborne, L. S. and L. E. Ehler. 1981. Biological Control of Greenhouse Whitefly in California Greenhouses. Leaflet 21260. Cooperative Extension, US. Department of Agriculture, University of California.
+Tsuda, D. M. 1988. Biological Control of the Greenhouse Whitefly [Trialeurodes vaporariorum (Westwood)] (Homoptera: Aleyrodidae) with Encarsia formosa Gahan
+Text Len: 1319
+--------------------------------------------------------------------------------
+. Biological Control of Greenhouse Whitefly in California Greenhouses. Leaflet 21260. Cooperative Extension, US. Department of Agriculture, University of California.
+Tsuda, D. M. 1988. Biological Control of the Greenhouse Whitefly [Trialeurodes vaporariorum (Westwood)] (Homoptera: Aleyrodidae) with Encarsia formosa Gahan (Hymenoptera: Aphelinidae) in an Enclosed Hydroponic Greenhouse in Hawaii. MS Thesis. University of Hawaii, Department of Entomology.
+van Lenteren, J. C., H. W. Nell and L. A. Sevenster-van der Lelie. 1980. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) IV. Oviposition Behavior of the Parasite, with Aspects of Host Selection, Host Discrimination and Host Feeding. Z. ang. Ent. 89: 442-454.
+van Vianen, A. and J. C. van Lenteren. 1986. The Parasite-Host Relationship Between Encarsia formosa Gahan (Hymenoptera, Aphelinidae) and Trialeurodes vaporariorum (Westwood) (Homoptera, Aleyrodidae) XV. Oogenesis and Oviposition of Encarsia formosa. J. App. Ent. 102: 130-139.
+Zimmerman, E. C. 1948. Trialeurodes vaporariorum (Westwood). pp. 48-50. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5.
+Text Len: 1354
+--------------------------------------------------------------------------------
+ Ent. 102: 130-139.
+Zimmerman, E. C. 1948. Trialeurodes vaporariorum (Westwood). pp. 48-50. In Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, Including Enumeration of the Species and Notes on Their Origin, Distribution, Hosts, Parasites, etc. Volume 5. Homoptera: Sternorhyncha. University of Hawaii Press, Honolulu. 464 pages.
+    NOV/1991.
+  T-VAPORA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 433
+--------------------------------------------------------------------------------

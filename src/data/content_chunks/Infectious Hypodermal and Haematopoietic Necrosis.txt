@@ -1,0 +1,824 @@
+United States Department of Agriculture 
+ 
+ 
+ 
+Date 
+Animal and Plant Health Inspection Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Emerging Risk Notice   
+August 2020  
+Infectious hypodermal and 
+hematopoietic necrosis virus 
+(IHHNV) 
+Key Points  
+ In 2019, shrimp farms in Texas, Florida and 
+New Mexico were quarantined with all affected 
+tanks depopulated after the detection of 
+IHHNV in shrimp. A research facility in 
+California was also quarantined and 
+depopulated after receiving shrimp from a 
+previously infected farm.1    
+ IHHNV is a DNA virus of the family 
+Parvoviridae which affects farmed and wild 
+penaeid shrimp (of the Penaeidae family).2 It 
+has been reported in many regions of the 
+world including Africa, Asia, Australia, Europe, 
+and the Americas.
+Text Len: 923
+--------------------------------------------------------------------------------
+viously infected farm.1    
+ IHHNV is a DNA virus of the family 
+Parvoviridae which affects farmed and wild 
+penaeid shrimp (of the Penaeidae family).2 It 
+has been reported in many regions of the 
+world including Africa, Asia, Australia, Europe, 
+and the Americas.1    
+ IHHNV is reportable to the OIE (World 
+Organisation for Animal Health). It is not 
+known to pose a human health risk. 
+ 
+Concerns for U.S. Animal Health  
+ IHHNV is an emerging global disease first 
+described in association with outbreaks of 
+penaeid shrimp mortality in 1981 in Hawaiian 
+shrimp culture facilities.3   
+ The U.S. is the only country in the Americas 
+since 2006 considered by the OIE to have 
+IHHNV-free zones.1  
+ The mortality rate associated with IHHNV 
+varies, but may be as high as 80-90%.3 Low 
+mortality with high morbidity entailing 
+deformities and growth suppression, resulting 
+in high commercial losses, has also been 
+reported.4  
+ Commercial U.S. shrimp production in 2017 
+was valued at $531 million.5  
+ 
+Epidemiology  
+ USDA-APHIS-VS is working to complete 
+epidemiologic investigations.  
+ IHHNV has been identified globally in farmed 
+and wild shrimp; mortality and morbidity varies 
+depending on species.6  
+ Species which meet the OIE criteria for listing 
+as susceptible to IHHNV include
+Text Len: 1306
+--------------------------------------------------------------------------------
+
+ USDA-APHIS-VS is working to complete 
+epidemiologic investigations.  
+ IHHNV has been identified globally in farmed 
+and wild shrimp; mortality and morbidity varies 
+depending on species.6  
+ Species which meet the OIE criteria for listing 
+as susceptible to IHHNV include: yellowleg 
+shrimp (Penaeus californiensis), giant tiger 
+prawn (P. monodon), northern white shrimp 
+(P. setiferus), blue shrimp (P. stylirostris), and 
+white leg shrimp (P. vannamei). Research 
+suggests other potential host species may 
+exist, but these have not yet met the OIE 
+criteria for listing as susceptible to IHHNV.6  
+ Signs of acute IHHNV infection are most 
+prominent in juveniles of P. stylirostris and 
+include lethargic surface swimming, 
+motionlessness or sinking shrimp, muscle 
+opacity, and high mortality rates.7  
+ Chronic IHHNV infection causes runt deformity 
+syndrome (RDS) in some species, most 
+notably in P. vannamei, selected lines of P. 
+stylirostris, and some populations of P. 
+monodon. Clinical signs include cuticle 
+deformities, deformed rostra, and variable and 
+reduced growth rates.8  
+ Resistance may vary between penaeid 
+species and also within different genetic lines 
+of pinaeid species. P. vannamei is the 
+principal global farmed shrimp species, largely 
+due to its relative resistance to IHHNV 
+infection.9
+Text Len: 1333
+--------------------------------------------------------------------------------
+, and variable and 
+reduced growth rates.8  
+ Resistance may vary between penaeid 
+species and also within different genetic lines 
+of pinaeid species. P. vannamei is the 
+principal global farmed shrimp species, largely 
+due to its relative resistance to IHHNV 
+infection.9   
+ IHHNV is transmitted horizontally and 
+vertically through cannibalization, 
+contaminated water, and infected eggs.3,10 
+  
+ 
+United States Department of Agriculture 
+ 
+ 
+ 
+Date 
+Animal and Plant Health Inspection Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagnostic Testing  
+ IHHNV primarily targets connective tissue cells, 
+gills, haematopoietic nodules and haemocytes, 
+ventral nerve cord and ganglia, antennal gland 
+tubule epithelial cells, and lymphoid organ 
+parenchymal cells. Any of the tissues listed 
+above, pleopods, hemolymph, or whole shrimp 
+or prawns may be used for testing.6 
+ 
+ Diagnostic testing methods include polymerase 
+chain reaction (PCR), dot-blot hybridization, in-
+situ hybridization, histopathology, and genetic 
+sequencing.6 
+ 
+ Hist
+Text Len: 1105
+--------------------------------------------------------------------------------
+opods, hemolymph, or whole shrimp 
+or prawns may be used for testing.6 
+ 
+ Diagnostic testing methods include polymerase 
+chain reaction (PCR), dot-blot hybridization, in-
+situ hybridization, histopathology, and genetic 
+sequencing.6 
+ 
+ Histopathological lesions include Cowdry type 
+A intranuclear inclusions in gills, nerve cord, 
+gastric mucosa, antennal gland, cuticular 
+hypodermis, and hematopoietic and connective 
+tissue.3  
+ 
+ Certain cuticular deformities are 
+pathognomonic for infection with IHHNV, 
+specifically, a deformed rostrum bent to the left 
+or right which may be presented by P. 
+vannamei and P. stylirostris with RDS.6 
+ 
+Treatment 
+ 
+ No treatments or vaccines are currently 
+available for IHHNV.6 
+ 
+Prevention   
+ Appropriate aquaculture biosecurity practices 
+and husbandry are recommended to prevent 
+disease introduction and spread.  
+ 
+ Proper biosecurity practices include: 
+ 
+o Purchasing live shrimp and germplasm from 
+sources known to be free of IHHNV. 
+ 
+o Quarantining and monitoring all new shrimp 
+stocks upon arrival to a farm, disinfecting and 
+properly disposing of water used to transport live 
+shrimp, noting increased mortality rates and 
+using appropriate diagnostic testing. 
+ 
+o Pretreating all water sources and minimizing or 
+eliminating water exchange between 
+Text Len: 1318
+--------------------------------------------------------------------------------
+HHNV. 
+ 
+o Quarantining and monitoring all new shrimp 
+stocks upon arrival to a farm, disinfecting and 
+properly disposing of water used to transport live 
+shrimp, noting increased mortality rates and 
+using appropriate diagnostic testing. 
+ 
+o Pretreating all water sources and minimizing or 
+eliminating water exchange between 
+populations.9  
+ 
+o Routinely sanitizing equipment with appropriate 
+disinfectants.11  
+ 
+ 
+Sources  
+1. OIE World Animal Health Information System Report 
+Archive IHHNV. Available at: 
+https://www.oie.int/wahis_2/public/wahid.php/Diseaseinfor
+mation/reportarchive. Accessed January 2020. 
+ 
+2. Classification and nomenclature of viruses. Fourth report 
+of the International Committee on Taxonomy of Viruses. 
+Intervirology 1982;17:1-199. 
+ 
+3. Lightner DV, Redman RM, Bell TA. Infectious 
+hypodermal and hematopoietic necrosis, a newly 
+recognized virus disease of penaeid shrimp. Journal of 
+invertebrate pathology 1983;42:62-70. 
+ 
+4. Rai P, Safeena MP, Krabsetsve K, et al. Genomics, 
+Molecular Epidemiology and Diagnostics of Infectious 
+hypodermal and hematopoietic necrosis virus. Indian J 
+Virol 2012;23:203-214. 
+ 
+5. American seafood industry steadily increases its 
+footprint.  https://www.noaa.gov/media-release/american-
+seafood-industry-stead
+Text Len: 1286
+--------------------------------------------------------------------------------
+iology and Diagnostics of Infectious 
+hypodermal and hematopoietic necrosis virus. Indian J 
+Virol 2012;23:203-214. 
+ 
+5. American seafood industry steadily increases its 
+footprint.  https://www.noaa.gov/media-release/american-
+seafood-industry-steadily-increases-its-footprint. Accessed 
+September 2019. 
+ 
+6. Manual of Diagnostic Tests for Aquatic Animals (2019). 
+Online access: OIE World Organisation for Animal Health. 
+ 
+7. Hsieh CY, Chuang PC, Chen LC, et al. Infectious 
+hypodermal and haematopoietic necrosis virus (IHHNV) 
+infections in giant freshwater prawn, Macrobrachium 
+rosenbergii. Aquaculture 2006;258:73-79. 
+ 
+8. Kalagayan H, Godin D, Kanna R, et al. IHHN Virus as an 
+Etiological Factor in Runt-Deformity Syndrome (RDS) of 
+Juvenile Penaeus vannamei Cultured in Hawaii. Journal of 
+the World Aquaculture Society 1991;22:235-243. 
+ 
+9. Lightner DV. Biosecurity in Shrimp Farming: Pathogen 
+Exclusion through Use of SPF Stock and Routine 
+Surveillance. Journal of the World Aquaculture Society 
+2005;36:229-248. 
+ 
+10. Motte E, Yugcha E, Luzardo J, et al. Prevention of 
+IHHNV vertical transmission in the white shrimp 
+Litopenaeus vannamei. Aquaculture 2003;219:57-70. 
+
+Text Len: 1191
+--------------------------------------------------------------------------------
+veillance. Journal of the World Aquaculture Society 
+2005;36:229-248. 
+ 
+10. Motte E, Yugcha E, Luzardo J, et al. Prevention of 
+IHHNV vertical transmission in the white shrimp 
+Litopenaeus vannamei. Aquaculture 2003;219:57-70. 
+ 
+11. Biosecurity:  Protecting Farmed Fish.  
+https://www.inspection.gc.ca/animal-health/aquatic-
+animals/biosecurity/eng/1320594187303/1320594268146. 
+Accessed September 2019. 
+ 
+  For more information contact:  
+Dana Cole, DVM, PhD  
+Risk Identification & Risk Assessment Director 
+Dana.J.Cole@usda.gov 
+ 
+USDA is an equal opportunity provider, employer, and lender  
+ 
+Text Len: 600
+--------------------------------------------------------------------------------
+United States Department of Agriculture 
+ 
+ 
+ 
+Date 
+Animal and Plant Health Inspection Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+Emerging Risk Notice   
+August 2020  
+Infectious hypodermal and 
+hematopoietic necrosis virus 
+(IHHNV) 
+Key Points  
+ In 2019, shrimp farms in Texas, Florida and 
+New Mexico were quarantined with all affected 
+tanks depopulated after the detection of 
+IHHNV in shrimp. A research facility in 
+California was also quarantined and 
+depopulated after receiving shrimp from a 
+previously infected farm.1    
+ IHHNV is a DNA virus of the family 
+Parvoviridae which affects farmed and wild 
+penaeid shrimp (of the Penaeidae family).2 It 
+has been reported in many regions of the 
+world including Africa, Asia, Australia, Europe, 
+and the Americas.
+Text Len: 923
+--------------------------------------------------------------------------------
+viously infected farm.1    
+ IHHNV is a DNA virus of the family 
+Parvoviridae which affects farmed and wild 
+penaeid shrimp (of the Penaeidae family).2 It 
+has been reported in many regions of the 
+world including Africa, Asia, Australia, Europe, 
+and the Americas.1    
+ IHHNV is reportable to the OIE (World 
+Organisation for Animal Health). It is not 
+known to pose a human health risk. 
+ 
+Concerns for U.S. Animal Health  
+ IHHNV is an emerging global disease first 
+described in association with outbreaks of 
+penaeid shrimp mortality in 1981 in Hawaiian 
+shrimp culture facilities.3   
+ The U.S. is the only country in the Americas 
+since 2006 considered by the OIE to have 
+IHHNV-free zones.1  
+ The mortality rate associated with IHHNV 
+varies, but may be as high as 80-90%.3 Low 
+mortality with high morbidity entailing 
+deformities and growth suppression, resulting 
+in high commercial losses, has also been 
+reported.4  
+ Commercial U.S. shrimp production in 2017 
+was valued at $531 million.5  
+ 
+Epidemiology  
+ USDA-APHIS-VS is working to complete 
+epidemiologic investigations.  
+ IHHNV has been identified globally in farmed 
+and wild shrimp; mortality and morbidity varies 
+depending on species.6  
+ Species which meet the OIE criteria for listing 
+as susceptible to IHHNV include
+Text Len: 1306
+--------------------------------------------------------------------------------
+
+ USDA-APHIS-VS is working to complete 
+epidemiologic investigations.  
+ IHHNV has been identified globally in farmed 
+and wild shrimp; mortality and morbidity varies 
+depending on species.6  
+ Species which meet the OIE criteria for listing 
+as susceptible to IHHNV include: yellowleg 
+shrimp (Penaeus californiensis), giant tiger 
+prawn (P. monodon), northern white shrimp 
+(P. setiferus), blue shrimp (P. stylirostris), and 
+white leg shrimp (P. vannamei). Research 
+suggests other potential host species may 
+exist, but these have not yet met the OIE 
+criteria for listing as susceptible to IHHNV.6  
+ Signs of acute IHHNV infection are most 
+prominent in juveniles of P. stylirostris and 
+include lethargic surface swimming, 
+motionlessness or sinking shrimp, muscle 
+opacity, and high mortality rates.7  
+ Chronic IHHNV infection causes runt deformity 
+syndrome (RDS) in some species, most 
+notably in P. vannamei, selected lines of P. 
+stylirostris, and some populations of P. 
+monodon. Clinical signs include cuticle 
+deformities, deformed rostra, and variable and 
+reduced growth rates.8  
+ Resistance may vary between penaeid 
+species and also within different genetic lines 
+of pinaeid species. P. vannamei is the 
+principal global farmed shrimp species, largely 
+due to its relative resistance to IHHNV 
+infection.9
+Text Len: 1333
+--------------------------------------------------------------------------------
+, and variable and 
+reduced growth rates.8  
+ Resistance may vary between penaeid 
+species and also within different genetic lines 
+of pinaeid species. P. vannamei is the 
+principal global farmed shrimp species, largely 
+due to its relative resistance to IHHNV 
+infection.9   
+ IHHNV is transmitted horizontally and 
+vertically through cannibalization, 
+contaminated water, and infected eggs.3,10 
+  
+ 
+United States Department of Agriculture 
+ 
+ 
+ 
+Date 
+Animal and Plant Health Inspection Service 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Diagnostic Testing  
+ IHHNV primarily targets connective tissue cells, 
+gills, haematopoietic nodules and haemocytes, 
+ventral nerve cord and ganglia, antennal gland 
+tubule epithelial cells, and lymphoid organ 
+parenchymal cells. Any of the tissues listed 
+above, pleopods, hemolymph, or whole shrimp 
+or prawns may be used for testing.6 
+ 
+ Diagnostic testing methods include polymerase 
+chain reaction (PCR), dot-blot hybridization, in-
+situ hybridization, histopathology, and genetic 
+sequencing.6 
+ 
+ Hist
+Text Len: 1105
+--------------------------------------------------------------------------------
+opods, hemolymph, or whole shrimp 
+or prawns may be used for testing.6 
+ 
+ Diagnostic testing methods include polymerase 
+chain reaction (PCR), dot-blot hybridization, in-
+situ hybridization, histopathology, and genetic 
+sequencing.6 
+ 
+ Histopathological lesions include Cowdry type 
+A intranuclear inclusions in gills, nerve cord, 
+gastric mucosa, antennal gland, cuticular 
+hypodermis, and hematopoietic and connective 
+tissue.3  
+ 
+ Certain cuticular deformities are 
+pathognomonic for infection with IHHNV, 
+specifically, a deformed rostrum bent to the left 
+or right which may be presented by P. 
+vannamei and P. stylirostris with RDS.6 
+ 
+Treatment 
+ 
+ No treatments or vaccines are currently 
+available for IHHNV.6 
+ 
+Prevention   
+ Appropriate aquaculture biosecurity practices 
+and husbandry are recommended to prevent 
+disease introduction and spread.  
+ 
+ Proper biosecurity practices include: 
+ 
+o Purchasing live shrimp and germplasm from 
+sources known to be free of IHHNV. 
+ 
+o Quarantining and monitoring all new shrimp 
+stocks upon arrival to a farm, disinfecting and 
+properly disposing of water used to transport live 
+shrimp, noting increased mortality rates and 
+using appropriate diagnostic testing. 
+ 
+o Pretreating all water sources and minimizing or 
+eliminating water exchange between 
+Text Len: 1318
+--------------------------------------------------------------------------------
+HHNV. 
+ 
+o Quarantining and monitoring all new shrimp 
+stocks upon arrival to a farm, disinfecting and 
+properly disposing of water used to transport live 
+shrimp, noting increased mortality rates and 
+using appropriate diagnostic testing. 
+ 
+o Pretreating all water sources and minimizing or 
+eliminating water exchange between 
+populations.9  
+ 
+o Routinely sanitizing equipment with appropriate 
+disinfectants.11  
+ 
+ 
+Sources  
+1. OIE World Animal Health Information System Report 
+Archive IHHNV. Available at: 
+https://www.oie.int/wahis_2/public/wahid.php/Diseaseinfor
+mation/reportarchive. Accessed January 2020. 
+ 
+2. Classification and nomenclature of viruses. Fourth report 
+of the International Committee on Taxonomy of Viruses. 
+Intervirology 1982;17:1-199. 
+ 
+3. Lightner DV, Redman RM, Bell TA. Infectious 
+hypodermal and hematopoietic necrosis, a newly 
+recognized virus disease of penaeid shrimp. Journal of 
+invertebrate pathology 1983;42:62-70. 
+ 
+4. Rai P, Safeena MP, Krabsetsve K, et al. Genomics, 
+Molecular Epidemiology and Diagnostics of Infectious 
+hypodermal and hematopoietic necrosis virus. Indian J 
+Virol 2012;23:203-214. 
+ 
+5. American seafood industry steadily increases its 
+footprint.  https://www.noaa.gov/media-release/american-
+seafood-industry-stead
+Text Len: 1286
+--------------------------------------------------------------------------------
+iology and Diagnostics of Infectious 
+hypodermal and hematopoietic necrosis virus. Indian J 
+Virol 2012;23:203-214. 
+ 
+5. American seafood industry steadily increases its 
+footprint.  https://www.noaa.gov/media-release/american-
+seafood-industry-steadily-increases-its-footprint. Accessed 
+September 2019. 
+ 
+6. Manual of Diagnostic Tests for Aquatic Animals (2019). 
+Online access: OIE World Organisation for Animal Health. 
+ 
+7. Hsieh CY, Chuang PC, Chen LC, et al. Infectious 
+hypodermal and haematopoietic necrosis virus (IHHNV) 
+infections in giant freshwater prawn, Macrobrachium 
+rosenbergii. Aquaculture 2006;258:73-79. 
+ 
+8. Kalagayan H, Godin D, Kanna R, et al. IHHN Virus as an 
+Etiological Factor in Runt-Deformity Syndrome (RDS) of 
+Juvenile Penaeus vannamei Cultured in Hawaii. Journal of 
+the World Aquaculture Society 1991;22:235-243. 
+ 
+9. Lightner DV. Biosecurity in Shrimp Farming: Pathogen 
+Exclusion through Use of SPF Stock and Routine 
+Surveillance. Journal of the World Aquaculture Society 
+2005;36:229-248. 
+ 
+10. Motte E, Yugcha E, Luzardo J, et al. Prevention of 
+IHHNV vertical transmission in the white shrimp 
+Litopenaeus vannamei. Aquaculture 2003;219:57-70. 
+
+Text Len: 1191
+--------------------------------------------------------------------------------
+veillance. Journal of the World Aquaculture Society 
+2005;36:229-248. 
+ 
+10. Motte E, Yugcha E, Luzardo J, et al. Prevention of 
+IHHNV vertical transmission in the white shrimp 
+Litopenaeus vannamei. Aquaculture 2003;219:57-70. 
+ 
+11. Biosecurity:  Protecting Farmed Fish.  
+https://www.inspection.gc.ca/animal-health/aquatic-
+animals/biosecurity/eng/1320594187303/1320594268146. 
+Accessed September 2019. 
+ 
+  For more information contact:  
+Dana Cole, DVM, PhD  
+Risk Identification & Risk Assessment Director 
+Dana.J.Cole@usda.gov 
+ 
+USDA is an equal opportunity provider, employer, and lender  
+ 
+Text Len: 600
+--------------------------------------------------------------------------------

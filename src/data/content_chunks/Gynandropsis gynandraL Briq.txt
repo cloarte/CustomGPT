@@ -1,0 +1,34 @@
+Family:  CLEOMACEAE  ;
+Species:  Gynandropsis gynandra(L.) Briq.  ;
+Common Name:  Spiderwisp; African spider flower  ;
+Habitat:  Disturbed sites.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  GYGY  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 456
+--------------------------------------------------------------------------------
+Family:  CLEOMACEAE  ;
+Species:  Gynandropsis gynandra(L.) Briq.  ;
+Common Name:  Spiderwisp; African spider flower  ;
+Habitat:  Disturbed sites.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  GYGY  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 456
+--------------------------------------------------------------------------------

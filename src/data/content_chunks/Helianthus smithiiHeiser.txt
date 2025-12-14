@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Helianthus smithiiHeiser  ;
+Common Name:  Smith's Sunflower  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HESM  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  This species was originally named Helianthus parviflorus var. attenuatus A. Gray in 1884.  As Heiser (1964) discovered from chromosome counts and hybridization studies that this entity should be elevated to species, the name Helianthus attenuatus E. Watson precluded Gray's variety "attenuatus" from being elevated at that rank.  Thus a replacement name was required.  Heiser named the taxon after two early collectors, John Donnell Smith (1829-1928) who collected the type and Dale M. Smith who collected a specimen from Randolph County, AL before 1964.--B.R. Keener  ;
+Status:  Native,S2 (State Rank),G2 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1016
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Helianthus smithiiHeiser  ;
+Common Name:  Smith's Sunflower  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HESM  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  This species was originally named Helianthus parviflorus var. attenuatus A. Gray in 1884.  As Heiser (1964) discovered from chromosome counts and hybridization studies that this entity should be elevated to species, the name Helianthus attenuatus E. Watson precluded Gray's variety "attenuatus" from being elevated at that rank.  Thus a replacement name was required.  Heiser named the taxon after two early collectors, John Donnell Smith (1829-1928) who collected the type and Dale M. Smith who collected a specimen from Randolph County, AL before 1964.--B.R. Keener  ;
+Status:  Native,S2 (State Rank),G2 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1016
+--------------------------------------------------------------------------------

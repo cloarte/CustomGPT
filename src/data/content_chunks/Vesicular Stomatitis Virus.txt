@@ -1,0 +1,890 @@
+Breadcrumb Home Animals Animal Health Livestock and Poultry Disease Cattle and Bison Diseases Vesicular Stomatitis Virus Vesicular Stomatitis Virus Last Modified:  April 06, 2024 Vesicular stomatitis is a contagious disease of livestock, mainly affecting horses and cattle. Occasionally, this disease can infect swine, sheep, goats, llamas, alpacas, and even people. It is primarily transmitted by biting flies and midges. The disease causes blister-like sores, among other side effects. Although vesicular stomatitis rarely causes high mortality rates, it can impact animal movement and international trade, resulting in economic losses for livestock producers. Outbreaks usually occur during warmer months, often along waterways. The Southwestern and Western United States have experienced several outbreaks since 1995, with the most widespread in 2019. What To Look For Clinical signs may appear 2 to 8 days after exposure. Here's what to look for: Drooling or frothing at the mouth The first sign of illness is often excessive salivation. If you look inside the mouth, you'll see blanched and raised blisters on the inner surfaces of the lips, gums, tongue, or dental pad. Lesions Blister-like lesions can form around the mouth, nose, sheath, udders, ears, and coronary band (where an animal's hairline meets their hooves). If lesions develop around the coronary band, lameness may occur. Fever You may notice a rise in body temperature before or at the same time lesions first appear. Reluctance to eat The blisters swell and break open, which causes mouth pain, discomfort, and reluctance to eat or drink. This can cause weight loss. How To Prevent This Disease Although experimental vaccines have been developed, none have been approved for use in horses. The best way to prevent the disease is by: Isolating new horses before introducing them to your herd. Controlling insects
+Text Len: 1884
+--------------------------------------------------------------------------------
+. Reluctance to eat The blisters swell and break open, which causes mouth pain, discomfort, and reluctance to eat or drink. This can cause weight loss. How To Prevent This Disease Although experimental vaccines have been developed, none have been approved for use in horses. The best way to prevent the disease is by: Isolating new horses before introducing them to your herd. Controlling insects on your property with fly traps, sprays, and clean horse pens. Separating sick horses from healthy horses on your property. Handling healthy animals before sick animals. Washing and disinfecting your hands and boots after working with sick animals. If possible, change and wash your clothes as well. How It Is Treated Vesicular stomatitis is treated with supportive care. Since the lesions may be quite painful, your veterinarian may prescribe anti-inflammatory drugs. If your animal is having trouble eating, softening their grain in warm water could encourage them to eat more. Softening hay cubes can also help if they're having trouble eating grass and hay. If secondary infections develop around lesions, your veterinarian may prescribe antibiotics. Report Signs of Animal Disease Producers or owners who suspect an animal disease should contact their veterinarian to evaluate the animal or herd. Find an accredited veterinarian . Animal health professionals (veterinarians; diagnostic laboratories; public health, zoo, or wildlife personnel; and others) report diagnosed or suspected cases of nationally listed reportable animal diseases to APHIS Area Veterinarians in Charge and to the State animal health official as applicable under State reporting regulations. Controlling Vesicular Stomatitis Expand All Collapse All Information for Veterinarians If you suspect vesicular stomatitis, contact your local, State, or Federal animal health officials. You may be directed to collect specific samples or a foreign animal disease diagnostician may be dispatched. In the event of an outbreak, APHIS may activate pre-approved National Animal Health Laboratory Network laboratories to test
+Text Len: 2087
+--------------------------------------------------------------------------------
+ Stomatitis Expand All Collapse All Information for Veterinarians If you suspect vesicular stomatitis, contact your local, State, or Federal animal health officials. You may be directed to collect specific samples or a foreign animal disease diagnostician may be dispatched. In the event of an outbreak, APHIS may activate pre-approved National Animal Health Laboratory Network laboratories to test equine samples after the index case in your State is confirmed. View list of National Animal Health Laboratory Network Labs Approved To Test for Vesicular Stomatitis Isolate lesioned animals. State animal health officials will quarantine the farm to help prevent disease spread. Ensure good biosecurity practices when handling sick and healthy horses. Make sure you and your clients use personal protective equipment when handling animals with lesions to prevent disease transmission between animals and people. More Information APHIS Factsheet: Vesicular Stomatitis (315.29 KB) Vesicular Stomatitis in Horses (American Association of Equine Practitioners) Factsheet: Vesicular Stomatitis (Center for Food Security and Public Health) OIE Factsheet: Vesicular Stomatitis (World Organisation of Animal Health) Previous U.S. Outbreaks of Vesicular Stomatitis The following reports summarize recent outbreaks of vesicular stomatitis in the United States. 2023-2024 Vesicular Stomatitis Virus (VSV) Situation Report (625.34 KB) Final Situation Report: 2020 Outbreak (954.69 KB) Final Situation Report: 2019 Outbreak (752.46 KB) Print
+Text Len: 1527
+--------------------------------------------------------------------------------
+1 | Page  
+ 
+ 
+  
+2023-2024 Vesicular Stomatitis Virus (VSV) 
+Situation Report – January 22, 2024  
+Information current as of 8:00 am MST, 1/22/2024  
+ 
+Since the last situation report (1/9/2024), there have been no new VSV-affected premises 
+identified in the United States.  All confirmed cases in the 2023-2024 outbreak were vesicular 
+stomatitis New Jersey virus (VSNJV) serotype. Updates are as follows:   
+ 
+California 
+• No new suspect or confirmed positive premises identified since the last report 
+• Since the last situation report (1/9/2024), the following previously confirmed positive 
+premises were released from quarantine:  2 premises in Sacramento County.  
+• The last VSV quarantines in California were released on January 18, 2024.        
+      
+ 
+Classification of Cases  
+Premises that have diagnostic laboratory confirmation of VSV are categorized as confirmed 
+positive premises.  Once a county is confirmed as VSV-positive, new equine premises presenting 
+with clinical signs of VSV in that county are not required to be tested for confirmation of the 
+disease, but the premises will be quarantined and classified as a suspect premises. Premises may 
+also be classified as suspect if clinical animals on the premises fail to meet confirmed case 
+definition, but there is diagnostic laboratory evidence of recent VSV infection.    
+ 
+Quarantines 
+Confirmed positive and suspect premises are quarantined for at least 14 days from the onset of 
+lesions in the last affected animal on the premises.  
+
+Text Len: 1522
+--------------------------------------------------------------------------------
+
+also be classified as suspect if clinical animals on the premises fail to meet confirmed case 
+definition, but there is diagnostic laboratory evidence of recent VSV infection.    
+ 
+Quarantines 
+Confirmed positive and suspect premises are quarantined for at least 14 days from the onset of 
+lesions in the last affected animal on the premises.  
+ 
+Epidemiology and Disease Control 
+Vesicular stomatitis virus circulates annually between livestock and insect vectors in southern 
+Mexico and only occasionally results in incursion to the U.S. when climatic and ecological 
+factors support movement of VSV-infected insect vectors northward. Known competent vectors 
+for transmission of VSV include black flies, sand flies, and biting midges (Culicoides spp.), but 
+other insect vectors may also be involved.  Susceptible species are primarily equids (horses, 
+donkeys, mules) and cattle, but can also include camelids (llamas, alpacas), swine, sheep, and 
+goats.  Control measures on VSV suspect and confirmed positive premises include quarantine of 
+all susceptible species, isolation of lesioned animals, enhanced biosecurity, and vector mitigation 
+measures to reduce within-herd spread.   
+ 
+ 
+Summary of the Outbreak (New information in blue) 
+The 2023 VSV outbreak began on May 17, 2023, when the National Veterinary Services 
+Laboratories (NVSL) in Ames, Iowa, confirmed the first VSV-positive premises in San Diego 
+County, California.  Texas was subsequently confirmed VSV-positive by NVSL on June 15, 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+2 | Page  
+ 
+2023
+Text Len: 1597
+--------------------------------------------------------------------------------
+ 
+Laboratories (NVSL) in Ames, Iowa, confirmed the first VSV-positive premises in San Diego 
+County, California.  Texas was subsequently confirmed VSV-positive by NVSL on June 15, 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+2 | Page  
+ 
+2023 (Maverick County, Texas) and Nevada was confirmed VSV-positive by NVSL on July 27, 
+2023 (White Pine County, Nevada).   
+ 
+Since the start of the outbreak, 319 VSV-affected premises were identified (99 confirmed 
+positive, 220 suspect) in 3 states, California, Nevada, and Texas.  Three hundred nine (309) of 
+these premises had only equine species clinically affected, seven (7) premises had only clinically 
+affected cattle (Fresno County, San Diego County, and Santa Barbara County, California), two 
+(2) premises had both equine and cattle clinically affected (Fresno County and Mariposa County, 
+California), and one (1) premises had clinically affected rhinoceros (San Diego County, 
+California).  
+ 
+California identified 316 affected premises (96 confirmed positive, 220 suspect) in 19 counties 
+(Fresno, Inyo, Kings, Los Angeles, Madera, Mariposa, Merced, Orange, Placer, Riverside, 
+Sacramento, San Bernardino, San Diego, San Joaquin, San Luis Obispo, Santa Barbara, Tulare, 
+Tuolumne, and Ventura Counties).  Texas identified 2 affected premises (2 confirmed positive) 
+in 2 counties (Maverick and Shackelford Counties).  Nevada identified 1 affected premises (1 
+confirmed positive) in 1 county (White Pine County,
+Text Len: 1495
+--------------------------------------------------------------------------------
+ Diego, San Joaquin, San Luis Obispo, Santa Barbara, Tulare, 
+Tuolumne, and Ventura Counties).  Texas identified 2 affected premises (2 confirmed positive) 
+in 2 counties (Maverick and Shackelford Counties).  Nevada identified 1 affected premises (1 
+confirmed positive) in 1 county (White Pine County, Nevada).   
+ 
+All VSV-affected premises were released from quarantine in Nevada on August 9, 2023, Texas 
+on August 22, 2023, and California on January 18, 2024.  
+ 
+Summary and Status of VSV-Affected Premises 
+Table 1. Location, number, and status of VSV-affected premises.  New information in blue.   
+ 
+CALIFORNIA 
+Confirmed 
+Positive 
+Premises 
+Suspect 
+Premises 
+Premises 
+Released from 
+Quarantine 
+Current 
+Premises 
+Quarantined 
+ 
+Fresno County 
+Inyo County 
+Kings County 
+Los Angeles County 
+Madera County 
+Mariposa County 
+Merced County 
+Orange County 
+Placer County 
+Riverside County 
+Sacramento County 
+San Bernardino County 
+San Diego County 
+San Joaquin County 
+San Luis Obispo County 
+Santa Barbara County 
+Tulare County 
+Tuolumne County 
+Ventura County 
+ 
+ 
+10 
+1 
+1 
+3 
+2 
+3 
+1 
+1 
+3 
+9 
+3 
+3 
+26 
+1 
+4 
+9 
+5 
+2 
+9 
+ 
+49 
+2 
+
+Text Len: 1145
+--------------------------------------------------------------------------------
+umne County 
+Ventura County 
+ 
+ 
+10 
+1 
+1 
+3 
+2 
+3 
+1 
+1 
+3 
+9 
+3 
+3 
+26 
+1 
+4 
+9 
+5 
+2 
+9 
+ 
+49 
+2 
+0 
+4 
+21 
+8 
+0 
+0 
+0 
+36 
+0 
+7 
+42 
+0 
+6 
+4 
+4 
+3 
+34 
+ 
+59 
+3 
+1 
+7 
+23 
+11 
+1 
+1 
+3 
+45 
+3 
+10 
+68 
+1 
+10 
+13 
+9 
+5 
+43 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+TOTAL: 19 COUNTIES 96 220 316 0 
+3 | Page  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Map 1 (Current).  Counties with Current VSV-Quarantined Premises 
+ 
+There are no counties with premises currently quarantined for VSV in the United States.   
+ 
+ 
+ 
+Table 2. Cumulative count of species clinically affected on VSV-quarantined premises.  
+ 
+State Premises with 
+clinically 
+affected equine 
+species 
+Premises with
+Text Len: 690
+--------------------------------------------------------------------------------
+ Premises 
+ 
+There are no counties with premises currently quarantined for VSV in the United States.   
+ 
+ 
+ 
+Table 2. Cumulative count of species clinically affected on VSV-quarantined premises.  
+ 
+State Premises with 
+clinically 
+affected equine 
+species 
+Premises with 
+clinically 
+affected bovine 
+species 
+Premises with 
+clinical signs in 
+both equine 
+and bovine 
+species  
+Premises with 
+clinical signs in 
+other 
+susceptible 
+species 
+Total affected 
+premises 
+CALIFORNIA 306 7 2 1* 316 
+NEVADA 1 0 0 0 1 
+TEXAS 2 0 0 0 2 
+TOTAL 309 7 2 1 319 
+ 
+*wildlife park premises with clinically affected and confirmed VSV-positive rhinoceros 
+ 
+ 
+NEVADA 
+Confirmed 
+Positive 
+Premises 
+Suspect 
+Premises 
+Premises 
+Released from 
+Quarantine 
+Current 
+Premises 
+Quarantined 
+ 
+White Pine County 
+ 
+ 
+1 
+ 
+0 
+ 
+1 
+ 
+0 
+ 
+TOTAL:  1 COUNTY 1 0 1 0 
+TEXAS     
+Maverick County 
+Shackelford County 
+ 
+1 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+ 
+TOTAL:  2 COUNTIES 2 0 2 0 
+TOTAL PREMISES 
+ALL STATES 
+99 220 319 0 
+ 
+4 | Page 
+Text Len: 1002
+--------------------------------------------------------------------------------
+Maverick County 
+Shackelford County 
+ 
+1 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+ 
+TOTAL:  2 COUNTIES 2 0 2 0 
+TOTAL PREMISES 
+ALL STATES 
+99 220 319 0 
+ 
+4 | Page  
+ 
+Map 2 (Cumulative).  Counties with Premises Quarantined for VSV in 2023-2024 
+ 
+ 
+Figure 1.  Epidemic Curve of 2023 VSV Outbreak 
+ 
+ 
+
+5 | Page  
+ 
+Table 3.  Timeline of Events 
+Date Event 
+May 17, 2023 VSV index case for the U.S. confirmed at NVSL – San Diego County, 
+California 
+May 19, 2023 New affected county confirmed – Riverside County, California 
+June 1, 2023 New affected county confirmed – San Bernardino County, California 
+June 5, 2023 New affected county confirmed – Orange County, California 
+June 8, 2023 New affected county confirmed – Los Angeles County, California 
+June 15, 2023 VSV index case for Texas confirmed at NVSL – Maverick County, Texas 
+June 21, 2023 New affected county confirmed – Ventura County, California 
+July 24, 2023 New affected counties confirmed – San Luis Obispo County and Santa 
+Barbara County, California 
+July 27, 2023 VSV index case for Nevada confirmed at NVSL – White Pine County, 
+Nevada 
+August 7, 2023 New affected county confirmed – Shackelford County, Texas 
+August 9, 2023 All VSV quarantines released in Nevada 
+August 14, 2023 New affected county confirmed – Fresno County, California 
+August 22, 20
+Text Len: 1308
+--------------------------------------------------------------------------------
+, 2023 VSV index case for Nevada confirmed at NVSL – White Pine County, 
+Nevada 
+August 7, 2023 New affected county confirmed – Shackelford County, Texas 
+August 9, 2023 All VSV quarantines released in Nevada 
+August 14, 2023 New affected county confirmed – Fresno County, California 
+August 22, 2023 All VSV quarantines released in Texas 
+September 27, 2023 New affected county confirmed – Tulare County, California  
+October 17, 2023 New affected county confirmed – Madera County, California 
+October 23, 2023 New affected county confirmed – Mariposa County, California 
+November 2, 2023 New affected county confirmed – Inyo County, California 
+November 9, 2023 New affected county confirmed – Tuolumne County, California 
+November 14, 2023 New affected county confirmed – Kings County, California 
+November 27, 2023 New affected county confirmed – Merced County, California 
+December 14, 2023 New affected county confirmed – San Joaquin County, California 
+December 15, 2023 New affected county confirmed – Placer County, California 
+December 22, 2023 New affected county confirmed – Sacramento County, California 
+January 18, 2024 All VSV quarantines released in California 
+ 
+Text Len: 1180
+--------------------------------------------------------------------------------
+Breadcrumb Home Animals Animal Health Livestock and Poultry Disease Cattle and Bison Diseases Vesicular Stomatitis Virus Vesicular Stomatitis Virus Last Modified:  April 06, 2024 Vesicular stomatitis is a contagious disease of livestock, mainly affecting horses and cattle. Occasionally, this disease can infect swine, sheep, goats, llamas, alpacas, and even people. It is primarily transmitted by biting flies and midges. The disease causes blister-like sores, among other side effects. Although vesicular stomatitis rarely causes high mortality rates, it can impact animal movement and international trade, resulting in economic losses for livestock producers. Outbreaks usually occur during warmer months, often along waterways. The Southwestern and Western United States have experienced several outbreaks since 1995, with the most widespread in 2019. What To Look For Clinical signs may appear 2 to 8 days after exposure. Here's what to look for: Drooling or frothing at the mouth The first sign of illness is often excessive salivation. If you look inside the mouth, you'll see blanched and raised blisters on the inner surfaces of the lips, gums, tongue, or dental pad. Lesions Blister-like lesions can form around the mouth, nose, sheath, udders, ears, and coronary band (where an animal's hairline meets their hooves). If lesions develop around the coronary band, lameness may occur. Fever You may notice a rise in body temperature before or at the same time lesions first appear. Reluctance to eat The blisters swell and break open, which causes mouth pain, discomfort, and reluctance to eat or drink. This can cause weight loss. How To Prevent This Disease Although experimental vaccines have been developed, none have been approved for use in horses. The best way to prevent the disease is by: Isolating new horses before introducing them to your herd. Controlling insects
+Text Len: 1884
+--------------------------------------------------------------------------------
+. Reluctance to eat The blisters swell and break open, which causes mouth pain, discomfort, and reluctance to eat or drink. This can cause weight loss. How To Prevent This Disease Although experimental vaccines have been developed, none have been approved for use in horses. The best way to prevent the disease is by: Isolating new horses before introducing them to your herd. Controlling insects on your property with fly traps, sprays, and clean horse pens. Separating sick horses from healthy horses on your property. Handling healthy animals before sick animals. Washing and disinfecting your hands and boots after working with sick animals. If possible, change and wash your clothes as well. How It Is Treated Vesicular stomatitis is treated with supportive care. Since the lesions may be quite painful, your veterinarian may prescribe anti-inflammatory drugs. If your animal is having trouble eating, softening their grain in warm water could encourage them to eat more. Softening hay cubes can also help if they're having trouble eating grass and hay. If secondary infections develop around lesions, your veterinarian may prescribe antibiotics. Report Signs of Animal Disease Producers or owners who suspect an animal disease should contact their veterinarian to evaluate the animal or herd. Find an accredited veterinarian . Animal health professionals (veterinarians; diagnostic laboratories; public health, zoo, or wildlife personnel; and others) report diagnosed or suspected cases of nationally listed reportable animal diseases to APHIS Area Veterinarians in Charge and to the State animal health official as applicable under State reporting regulations. Controlling Vesicular Stomatitis Expand All Collapse All Information for Veterinarians If you suspect vesicular stomatitis, contact your local, State, or Federal animal health officials. You may be directed to collect specific samples or a foreign animal disease diagnostician may be dispatched. In the event of an outbreak, APHIS may activate pre-approved National Animal Health Laboratory Network laboratories to test
+Text Len: 2087
+--------------------------------------------------------------------------------
+ Stomatitis Expand All Collapse All Information for Veterinarians If you suspect vesicular stomatitis, contact your local, State, or Federal animal health officials. You may be directed to collect specific samples or a foreign animal disease diagnostician may be dispatched. In the event of an outbreak, APHIS may activate pre-approved National Animal Health Laboratory Network laboratories to test equine samples after the index case in your State is confirmed. View list of National Animal Health Laboratory Network Labs Approved To Test for Vesicular Stomatitis Isolate lesioned animals. State animal health officials will quarantine the farm to help prevent disease spread. Ensure good biosecurity practices when handling sick and healthy horses. Make sure you and your clients use personal protective equipment when handling animals with lesions to prevent disease transmission between animals and people. More Information APHIS Factsheet: Vesicular Stomatitis (315.29 KB) Vesicular Stomatitis in Horses (American Association of Equine Practitioners) Factsheet: Vesicular Stomatitis (Center for Food Security and Public Health) OIE Factsheet: Vesicular Stomatitis (World Organisation of Animal Health) Previous U.S. Outbreaks of Vesicular Stomatitis The following reports summarize recent outbreaks of vesicular stomatitis in the United States. 2023-2024 Vesicular Stomatitis Virus (VSV) Situation Report (625.34 KB) Final Situation Report: 2020 Outbreak (954.69 KB) Final Situation Report: 2019 Outbreak (752.46 KB) Print
+Text Len: 1527
+--------------------------------------------------------------------------------
+1 | Page  
+ 
+ 
+  
+2023-2024 Vesicular Stomatitis Virus (VSV) 
+Situation Report – January 22, 2024  
+Information current as of 8:00 am MST, 1/22/2024  
+ 
+Since the last situation report (1/9/2024), there have been no new VSV-affected premises 
+identified in the United States.  All confirmed cases in the 2023-2024 outbreak were vesicular 
+stomatitis New Jersey virus (VSNJV) serotype. Updates are as follows:   
+ 
+California 
+• No new suspect or confirmed positive premises identified since the last report 
+• Since the last situation report (1/9/2024), the following previously confirmed positive 
+premises were released from quarantine:  2 premises in Sacramento County.  
+• The last VSV quarantines in California were released on January 18, 2024.        
+      
+ 
+Classification of Cases  
+Premises that have diagnostic laboratory confirmation of VSV are categorized as confirmed 
+positive premises.  Once a county is confirmed as VSV-positive, new equine premises presenting 
+with clinical signs of VSV in that county are not required to be tested for confirmation of the 
+disease, but the premises will be quarantined and classified as a suspect premises. Premises may 
+also be classified as suspect if clinical animals on the premises fail to meet confirmed case 
+definition, but there is diagnostic laboratory evidence of recent VSV infection.    
+ 
+Quarantines 
+Confirmed positive and suspect premises are quarantined for at least 14 days from the onset of 
+lesions in the last affected animal on the premises.  
+
+Text Len: 1522
+--------------------------------------------------------------------------------
+
+also be classified as suspect if clinical animals on the premises fail to meet confirmed case 
+definition, but there is diagnostic laboratory evidence of recent VSV infection.    
+ 
+Quarantines 
+Confirmed positive and suspect premises are quarantined for at least 14 days from the onset of 
+lesions in the last affected animal on the premises.  
+ 
+Epidemiology and Disease Control 
+Vesicular stomatitis virus circulates annually between livestock and insect vectors in southern 
+Mexico and only occasionally results in incursion to the U.S. when climatic and ecological 
+factors support movement of VSV-infected insect vectors northward. Known competent vectors 
+for transmission of VSV include black flies, sand flies, and biting midges (Culicoides spp.), but 
+other insect vectors may also be involved.  Susceptible species are primarily equids (horses, 
+donkeys, mules) and cattle, but can also include camelids (llamas, alpacas), swine, sheep, and 
+goats.  Control measures on VSV suspect and confirmed positive premises include quarantine of 
+all susceptible species, isolation of lesioned animals, enhanced biosecurity, and vector mitigation 
+measures to reduce within-herd spread.   
+ 
+ 
+Summary of the Outbreak (New information in blue) 
+The 2023 VSV outbreak began on May 17, 2023, when the National Veterinary Services 
+Laboratories (NVSL) in Ames, Iowa, confirmed the first VSV-positive premises in San Diego 
+County, California.  Texas was subsequently confirmed VSV-positive by NVSL on June 15, 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+2 | Page  
+ 
+2023
+Text Len: 1597
+--------------------------------------------------------------------------------
+ 
+Laboratories (NVSL) in Ames, Iowa, confirmed the first VSV-positive premises in San Diego 
+County, California.  Texas was subsequently confirmed VSV-positive by NVSL on June 15, 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+2 | Page  
+ 
+2023 (Maverick County, Texas) and Nevada was confirmed VSV-positive by NVSL on July 27, 
+2023 (White Pine County, Nevada).   
+ 
+Since the start of the outbreak, 319 VSV-affected premises were identified (99 confirmed 
+positive, 220 suspect) in 3 states, California, Nevada, and Texas.  Three hundred nine (309) of 
+these premises had only equine species clinically affected, seven (7) premises had only clinically 
+affected cattle (Fresno County, San Diego County, and Santa Barbara County, California), two 
+(2) premises had both equine and cattle clinically affected (Fresno County and Mariposa County, 
+California), and one (1) premises had clinically affected rhinoceros (San Diego County, 
+California).  
+ 
+California identified 316 affected premises (96 confirmed positive, 220 suspect) in 19 counties 
+(Fresno, Inyo, Kings, Los Angeles, Madera, Mariposa, Merced, Orange, Placer, Riverside, 
+Sacramento, San Bernardino, San Diego, San Joaquin, San Luis Obispo, Santa Barbara, Tulare, 
+Tuolumne, and Ventura Counties).  Texas identified 2 affected premises (2 confirmed positive) 
+in 2 counties (Maverick and Shackelford Counties).  Nevada identified 1 affected premises (1 
+confirmed positive) in 1 county (White Pine County,
+Text Len: 1495
+--------------------------------------------------------------------------------
+ Diego, San Joaquin, San Luis Obispo, Santa Barbara, Tulare, 
+Tuolumne, and Ventura Counties).  Texas identified 2 affected premises (2 confirmed positive) 
+in 2 counties (Maverick and Shackelford Counties).  Nevada identified 1 affected premises (1 
+confirmed positive) in 1 county (White Pine County, Nevada).   
+ 
+All VSV-affected premises were released from quarantine in Nevada on August 9, 2023, Texas 
+on August 22, 2023, and California on January 18, 2024.  
+ 
+Summary and Status of VSV-Affected Premises 
+Table 1. Location, number, and status of VSV-affected premises.  New information in blue.   
+ 
+CALIFORNIA 
+Confirmed 
+Positive 
+Premises 
+Suspect 
+Premises 
+Premises 
+Released from 
+Quarantine 
+Current 
+Premises 
+Quarantined 
+ 
+Fresno County 
+Inyo County 
+Kings County 
+Los Angeles County 
+Madera County 
+Mariposa County 
+Merced County 
+Orange County 
+Placer County 
+Riverside County 
+Sacramento County 
+San Bernardino County 
+San Diego County 
+San Joaquin County 
+San Luis Obispo County 
+Santa Barbara County 
+Tulare County 
+Tuolumne County 
+Ventura County 
+ 
+ 
+10 
+1 
+1 
+3 
+2 
+3 
+1 
+1 
+3 
+9 
+3 
+3 
+26 
+1 
+4 
+9 
+5 
+2 
+9 
+ 
+49 
+2 
+
+Text Len: 1145
+--------------------------------------------------------------------------------
+umne County 
+Ventura County 
+ 
+ 
+10 
+1 
+1 
+3 
+2 
+3 
+1 
+1 
+3 
+9 
+3 
+3 
+26 
+1 
+4 
+9 
+5 
+2 
+9 
+ 
+49 
+2 
+0 
+4 
+21 
+8 
+0 
+0 
+0 
+36 
+0 
+7 
+42 
+0 
+6 
+4 
+4 
+3 
+34 
+ 
+59 
+3 
+1 
+7 
+23 
+11 
+1 
+1 
+3 
+45 
+3 
+10 
+68 
+1 
+10 
+13 
+9 
+5 
+43 
+ 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+ 
+TOTAL: 19 COUNTIES 96 220 316 0 
+3 | Page  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Map 1 (Current).  Counties with Current VSV-Quarantined Premises 
+ 
+There are no counties with premises currently quarantined for VSV in the United States.   
+ 
+ 
+ 
+Table 2. Cumulative count of species clinically affected on VSV-quarantined premises.  
+ 
+State Premises with 
+clinically 
+affected equine 
+species 
+Premises with
+Text Len: 690
+--------------------------------------------------------------------------------
+ Premises 
+ 
+There are no counties with premises currently quarantined for VSV in the United States.   
+ 
+ 
+ 
+Table 2. Cumulative count of species clinically affected on VSV-quarantined premises.  
+ 
+State Premises with 
+clinically 
+affected equine 
+species 
+Premises with 
+clinically 
+affected bovine 
+species 
+Premises with 
+clinical signs in 
+both equine 
+and bovine 
+species  
+Premises with 
+clinical signs in 
+other 
+susceptible 
+species 
+Total affected 
+premises 
+CALIFORNIA 306 7 2 1* 316 
+NEVADA 1 0 0 0 1 
+TEXAS 2 0 0 0 2 
+TOTAL 309 7 2 1 319 
+ 
+*wildlife park premises with clinically affected and confirmed VSV-positive rhinoceros 
+ 
+ 
+NEVADA 
+Confirmed 
+Positive 
+Premises 
+Suspect 
+Premises 
+Premises 
+Released from 
+Quarantine 
+Current 
+Premises 
+Quarantined 
+ 
+White Pine County 
+ 
+ 
+1 
+ 
+0 
+ 
+1 
+ 
+0 
+ 
+TOTAL:  1 COUNTY 1 0 1 0 
+TEXAS     
+Maverick County 
+Shackelford County 
+ 
+1 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+ 
+TOTAL:  2 COUNTIES 2 0 2 0 
+TOTAL PREMISES 
+ALL STATES 
+99 220 319 0 
+ 
+4 | Page 
+Text Len: 1002
+--------------------------------------------------------------------------------
+Maverick County 
+Shackelford County 
+ 
+1 
+1 
+0 
+0 
+1 
+1 
+0 
+0 
+ 
+TOTAL:  2 COUNTIES 2 0 2 0 
+TOTAL PREMISES 
+ALL STATES 
+99 220 319 0 
+ 
+4 | Page  
+ 
+Map 2 (Cumulative).  Counties with Premises Quarantined for VSV in 2023-2024 
+ 
+ 
+Figure 1.  Epidemic Curve of 2023 VSV Outbreak 
+ 
+ 
+
+5 | Page  
+ 
+Table 3.  Timeline of Events 
+Date Event 
+May 17, 2023 VSV index case for the U.S. confirmed at NVSL – San Diego County, 
+California 
+May 19, 2023 New affected county confirmed – Riverside County, California 
+June 1, 2023 New affected county confirmed – San Bernardino County, California 
+June 5, 2023 New affected county confirmed – Orange County, California 
+June 8, 2023 New affected county confirmed – Los Angeles County, California 
+June 15, 2023 VSV index case for Texas confirmed at NVSL – Maverick County, Texas 
+June 21, 2023 New affected county confirmed – Ventura County, California 
+July 24, 2023 New affected counties confirmed – San Luis Obispo County and Santa 
+Barbara County, California 
+July 27, 2023 VSV index case for Nevada confirmed at NVSL – White Pine County, 
+Nevada 
+August 7, 2023 New affected county confirmed – Shackelford County, Texas 
+August 9, 2023 All VSV quarantines released in Nevada 
+August 14, 2023 New affected county confirmed – Fresno County, California 
+August 22, 20
+Text Len: 1308
+--------------------------------------------------------------------------------
+, 2023 VSV index case for Nevada confirmed at NVSL – White Pine County, 
+Nevada 
+August 7, 2023 New affected county confirmed – Shackelford County, Texas 
+August 9, 2023 All VSV quarantines released in Nevada 
+August 14, 2023 New affected county confirmed – Fresno County, California 
+August 22, 2023 All VSV quarantines released in Texas 
+September 27, 2023 New affected county confirmed – Tulare County, California  
+October 17, 2023 New affected county confirmed – Madera County, California 
+October 23, 2023 New affected county confirmed – Mariposa County, California 
+November 2, 2023 New affected county confirmed – Inyo County, California 
+November 9, 2023 New affected county confirmed – Tuolumne County, California 
+November 14, 2023 New affected county confirmed – Kings County, California 
+November 27, 2023 New affected county confirmed – Merced County, California 
+December 14, 2023 New affected county confirmed – San Joaquin County, California 
+December 15, 2023 New affected county confirmed – Placer County, California 
+December 22, 2023 New affected county confirmed – Sacramento County, California 
+January 18, 2024 All VSV quarantines released in California 
+ 
+Text Len: 1180
+--------------------------------------------------------------------------------

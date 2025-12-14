@@ -1,0 +1,136 @@
+Crop Knowledge Master
+Monoomorium floricola (jerdon)
+An Ant
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+M. floricola is arboreal, nesting in shrubs and trees but also nesting in buildings (Wilson & Taylor 1967).
+DISTRIBUTION
+M. floricola is from the Old World tropics and has spread throughout warmer regions of the world (Wheeler 1910, Wilson & Taylor 1967). In Hawaii it is well distributed throughout the populated and unpopulated Islands (Hawaiian Terrestrial Arthropod Checklist 1992), in uncultivated and cultivated land and in residential areas (Huddleston & Fluker 1968).
+DAMAGE
+Damage by ants to agricultural commodities is usually indirect. Mealybugs, aphids, soft scales and whiteflies secrete honeydew, which attracts ants. Ants feed on honeydew, driving away the natural enemies of aphids and scale insects. The pests multiply and inflict damage on the plants. Arboreal species, such as M. floricola, build unsightly nests of dirt and plant rubbish. They easily become established in disturbed areas, nesting in trees and bushes (Wilson & Taylor 1967). In Hawaii this ant infests commercial tropical flower fields.
+BIOLOGY
+Ants are social insects. Immatures are fed and cared for throughout development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which
+Text Len: 1755
+--------------------------------------------------------------------------------
+ development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which damage occurs in extreme heat (Wheeler 1910).
+EGGS
+Eggs are laid by a queen (workers of this species lack ovaries) in the nest where they are protected by workers. They may be fertilized or unfertilized. Eggs are tiny, white or yellowish ovals (Wheeler 1910).
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulbous at the bottom and narrow and curled at the head). Adult ants lick the larvae, and the saliva makes them sticky and easily transported in groups when the colony is disturbed (Wheeler 1910). Most ant species have four larval stages. The larvae are attended by adults, usually of the worker caste (Holldobler & Wilson 1990).
+PUPAE
+The pupae, as well as larvae, are often mistaken for eggs (Wheeler 1910).
+ADULTS
+Adult ants are polymorphic, i.e., having different body types. All the individuals of one body type form a social unit called a caste, which is also defined by a role in the community. Queens are usually comparatively large reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Adult workers of M. floricola are small, only about 1.5 mm (1/16 in) (Huddleston et al.
+Text Len: 1739
+--------------------------------------------------------------------------------
+ reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Adult workers of M. floricola are small, only about 1.5 mm (1/16 in) (Huddleston et al. 1968). They are wingless with smooth, shining blackish-brown head and abdomen and with lighter, yellowish thorax (Huddleston & Fluker 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely to be found outside the nest. There is no soldier caste (Huddleston et. al., 1968)
+BEHAVIOR
+The pest status of M. floricola stems from its habit of inhabiting structures and agricultural fields. It is also, however, beneficial, consuming eggs of insects pests (Richman et. al., 1983).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cultural control: Pruning to keep plants or clumps from contacting each other can slow the spread of arboreal ant colonies.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+Arboreal species are difficult to control by ground treatments. It is necessary instead to
+Text Len: 1726
+--------------------------------------------------------------------------------
+ major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+Arboreal species are difficult to control by ground treatments. It is necessary instead to treat the entire plant. While practical for some commodities, this is impractical for orchard trees, palms, and tall tropicals.
+REFERENCES
+1992. Hawaiian Terrestrial Arthropod Checklist. Gordon M. Nishida, Ed. Bishop Museum: Honolulu, Hawaii. 262 pp.
+Holldobler, B. & E. O. Wilson. 1990. The Ants. The Belknap Press of Harvard University Press: Cambridge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Huddleston, E. W., A. A. Laplante, S. S. Fluker. 1968. Pictorial key of the ants of Hawaii based on the worker forms. Proc. Haw. Entomol. Soc. 20:71-79.
+Richman, D. B., W. F. Buren, and W. H. Whitcomb. 1983. Predatory arthropods attacking the eggs of Diaprepes abbreviatus (L.) (Coleoptera: Curculionidae) in Puerto Rico and Florida. J. Georgia Entomol. Soc. 18: 327-335.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants
+Text Len: 1341
+--------------------------------------------------------------------------------
+es abbreviatus (L.) (Coleoptera: Curculionidae) in Puerto Rico and Florida. J. Georgia Entomol. Soc. 18: 327-335.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants of Polynesia (Hymenoptera: Formicidae). Pacific Insects Monograph 14. Bernice P. Bishop Museum Entomology Department: Honolulu. 96 pp.
+  MAR/1992
+  M-FLORIC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 449
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Monoomorium floricola (jerdon)
+An Ant
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L. Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+M. floricola is arboreal, nesting in shrubs and trees but also nesting in buildings (Wilson & Taylor 1967).
+DISTRIBUTION
+M. floricola is from the Old World tropics and has spread throughout warmer regions of the world (Wheeler 1910, Wilson & Taylor 1967). In Hawaii it is well distributed throughout the populated and unpopulated Islands (Hawaiian Terrestrial Arthropod Checklist 1992), in uncultivated and cultivated land and in residential areas (Huddleston & Fluker 1968).
+DAMAGE
+Damage by ants to agricultural commodities is usually indirect. Mealybugs, aphids, soft scales and whiteflies secrete honeydew, which attracts ants. Ants feed on honeydew, driving away the natural enemies of aphids and scale insects. The pests multiply and inflict damage on the plants. Arboreal species, such as M. floricola, build unsightly nests of dirt and plant rubbish. They easily become established in disturbed areas, nesting in trees and bushes (Wilson & Taylor 1967). In Hawaii this ant infests commercial tropical flower fields.
+BIOLOGY
+Ants are social insects. Immatures are fed and cared for throughout development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which
+Text Len: 1755
+--------------------------------------------------------------------------------
+ development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which damage occurs in extreme heat (Wheeler 1910).
+EGGS
+Eggs are laid by a queen (workers of this species lack ovaries) in the nest where they are protected by workers. They may be fertilized or unfertilized. Eggs are tiny, white or yellowish ovals (Wheeler 1910).
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulbous at the bottom and narrow and curled at the head). Adult ants lick the larvae, and the saliva makes them sticky and easily transported in groups when the colony is disturbed (Wheeler 1910). Most ant species have four larval stages. The larvae are attended by adults, usually of the worker caste (Holldobler & Wilson 1990).
+PUPAE
+The pupae, as well as larvae, are often mistaken for eggs (Wheeler 1910).
+ADULTS
+Adult ants are polymorphic, i.e., having different body types. All the individuals of one body type form a social unit called a caste, which is also defined by a role in the community. Queens are usually comparatively large reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Adult workers of M. floricola are small, only about 1.5 mm (1/16 in) (Huddleston et al.
+Text Len: 1739
+--------------------------------------------------------------------------------
+ reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Adult workers of M. floricola are small, only about 1.5 mm (1/16 in) (Huddleston et al. 1968). They are wingless with smooth, shining blackish-brown head and abdomen and with lighter, yellowish thorax (Huddleston & Fluker 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely to be found outside the nest. There is no soldier caste (Huddleston et. al., 1968)
+BEHAVIOR
+The pest status of M. floricola stems from its habit of inhabiting structures and agricultural fields. It is also, however, beneficial, consuming eggs of insects pests (Richman et. al., 1983).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Cultural control: Pruning to keep plants or clumps from contacting each other can slow the spread of arboreal ant colonies.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+Arboreal species are difficult to control by ground treatments. It is necessary instead to
+Text Len: 1726
+--------------------------------------------------------------------------------
+ major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+Arboreal species are difficult to control by ground treatments. It is necessary instead to treat the entire plant. While practical for some commodities, this is impractical for orchard trees, palms, and tall tropicals.
+REFERENCES
+1992. Hawaiian Terrestrial Arthropod Checklist. Gordon M. Nishida, Ed. Bishop Museum: Honolulu, Hawaii. 262 pp.
+Holldobler, B. & E. O. Wilson. 1990. The Ants. The Belknap Press of Harvard University Press: Cambridge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Huddleston, E. W., A. A. Laplante, S. S. Fluker. 1968. Pictorial key of the ants of Hawaii based on the worker forms. Proc. Haw. Entomol. Soc. 20:71-79.
+Richman, D. B., W. F. Buren, and W. H. Whitcomb. 1983. Predatory arthropods attacking the eggs of Diaprepes abbreviatus (L.) (Coleoptera: Curculionidae) in Puerto Rico and Florida. J. Georgia Entomol. Soc. 18: 327-335.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants
+Text Len: 1341
+--------------------------------------------------------------------------------
+es abbreviatus (L.) (Coleoptera: Curculionidae) in Puerto Rico and Florida. J. Georgia Entomol. Soc. 18: 327-335.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants of Polynesia (Hymenoptera: Formicidae). Pacific Insects Monograph 14. Bernice P. Bishop Museum Entomology Department: Honolulu. 96 pp.
+  MAR/1992
+  M-FLORIC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 449
+--------------------------------------------------------------------------------

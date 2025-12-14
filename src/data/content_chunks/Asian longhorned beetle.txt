@@ -1,0 +1,356 @@
+ARS Home » Northeast Area » Newark, Delaware » Beneficial Insects Introduction Research Unit » Research » Software » Download Download Asian longhorned beetle EndNote Library Welcome to the software download area! Please contact us if you have problems or questions. Download Available Please complete the entire form below and click on "Take me to the download." Thank you for your interest. Download Form Please complete the form below to track the use of the service we are providing and to help improve our product. OMB 0518 - 0032 (01/2025) First Name Last Name Middle Email* Affiliation City State Select... Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas U.S. Territories Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Country Select... United States Afganistan Albania Algeria Andorra Angola Anitgua and Barbuda Argentina Armenia Australia Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bhutan Bolivia Bosnia and Herzegovina Botswana Brazil Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Central African Republic Chad Chile China Colombia Comoros Congo (Brazzaville) Congo, Democratic Republic of the Costa Rica Croatia Cuba Cyprus Czech Republic Cote d'Ivoire Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Fiji Finland France Gabon Gambia, The Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Maritania Mauritius Mexico Micronesia,
+Text Len: 2187
+--------------------------------------------------------------------------------
+ Gabon Gambia, The Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Maritania Mauritius Mexico Micronesia, Federated States of Moldova Monaco Mongolia Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria North Korea Norway Oman Pakistan Palau Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russia Rwanda St. Kitts and St. Nevis St. Lucia St. Vincent and The Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia and Montenegro Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Korea Spain Sri Lanka Sudan Suriname Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Western Sahara Yemen Zambia Zimbabwe Reference Select... Publication or Other Source No Prior Knowledge Colleague or Friend Upgrading from an Older Version Purpose Select... Field Research Farming Software Development Teaching Comments Take me to the download... According to the Paperwork Reduction Act of 1995, an agency cannot conduct or sponsor, and a person is not required to respond to,
+            a collection of information unless it displays a valid OMB control number.
+            The valid OMB control number for this information collection is 0518-0032.
+            The time required to complete this information is estimated to vary from one to five minutes with an average of three minutes per response,
+    
+Text Len: 1952
+--------------------------------------------------------------------------------
+ valid OMB control number.
+            The valid OMB control number for this information collection is 0518-0032.
+            The time required to complete this information is estimated to vary from one to five minutes with an average of three minutes per response,
+            including time for reviewing instructions, and completing and reviewing the collection of information.
+            Send comments regarding this burden estimate or any other aspect of this collection of information,
+            including suggestions for reducing this burden, to Department of Agriculture, Clearance Officer, OIRM, Room 404-W, Washington, DC  20250,
+            and to the Office of Information and Regulatory Affairs, Office of Management and Budget.
+Text Len: 750
+--------------------------------------------------------------------------------
+STERLING
+CLARK
+LEWIS
+PIKE
+AMELIA
+BATAVIA
+TOWNSHIP
+BETHEL
+FRANKLIN
+TOWNSHIP
+MONROE
+TOWNSHIP
+OHIO TOWNSHIP
+PIERCE
+TOWNSHIP
+TATE TOWNSHIP
+WASHINGTON
+TOWNSHIP
+WILLIAMSBURG
+TOWNSHIP
+WILLIAMSBURG
+VILLAGE
+USDA APHIS
+2150 Centre Ave
+Fort Collins, Co 80526
+Data Source:
+USDA APHIS PPQ
+ESRI Basemap
+These data, and all the information contained herein, have been collected by the U.S. Department of Agriculture's Marketing
+and Regulatory Programs Business Services’ (MRPBS) Animal and Plant Health Inspection Service (APHIS) and/or Agriculture
+Marketing Service (AMS), or by its cooperators on APHIS’ and/or AMS’ behalf, for restricted government purposes only. This
+information is the sole property of MRPBS. See full disclaimer at: https://www.aphis.usda.gov/aphis/banner/help/disclaimers/
+Animal and Plant Health Inspection Service ASIAN LONGHORNED BEETLE (ALB) ERADICATION PROGRAM
+ALB Ohio Quarantine Boundary
+ALB Federal Quarantine Boundary
+Town Boundary
+0 1 2
+Miles
+0 1 2
+Kilometers
+Date Created:
+3/13/2025[
+U.S. DEPARTMENT OF AGRICULTURE
+ALB Ohio Quarantine
+Text Len: 1054
+--------------------------------------------------------------------------------
+USDA APHIS
+2150 Centre Ave
+Fort Collins, Co 80526
+Data Source:
+USDA APHIS PPQ
+ESRI Basemap
+These data, and all the information contained herein, have been collected by the U.S. Department of Agriculture's Marketing
+and Regulatory Programs Business Services’ (MRPBS) Animal and Plant Health Inspection Service (APHIS) and/or Agriculture
+Marketing Service (AMS), or by its cooperators on APHIS’ and/or AMS’ behalf, for restricted government purposes only. This
+information is the sole property of MRPBS. See full disclaimer at: https://www.aphis.usda.gov/aphis/banner/help/disclaimers/
+Alabama
+Arkansas
+Connecticut
+DelawareDistrict of
+Columbia
+Georgia
+Illinois Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Michigan
+Minnesota
+Mississippi
+Missouri
+Nebraska
+New Hampshire
+New Jersey
+New York
+North
+Carolina
+North Dakota
+Ohio
+Oklahoma
+Pennsylvania
+Rhode Island
+South
+Carolina
+South Dakota
+Tennessee
+Texas
+Vermont
+Virginia
+West Virginia
+Wisconsin
+Animal and Plant Health Inspection Service ASIAN LONGHORNED BEETLE (ALB) ERADICATION PROGRAM
+ALB National Overview 2025
+Asian Longhorned Beetle Federal Quarantine Boundary
+Active Federal Quarantine
+Rescinded Federal Quarantine
+State Boundary - ALB Eradication Declared
+State Boundary - ALB Quarantine Active
+State Boundary 0 100 200
+Miles
+0 100 200
+Kilometers
+Date Created:
+2/10/2025
+[
+U.S. DEPARTMENT OF AGRICULTURE
+Hollywood, SC
+Last Detection:
+February
+Text Len: 1404
+--------------------------------------------------------------------------------
+ Quarantine
+State Boundary - ALB Eradication Declared
+State Boundary - ALB Quarantine Active
+State Boundary 0 100 200
+Miles
+0 100 200
+Kilometers
+Date Created:
+2/10/2025
+[
+U.S. DEPARTMENT OF AGRICULTURE
+Hollywood, SC
+Last Detection:
+February 2025
+Illinois Eradication:
+Addison & Summit: 2004
+Ravenswood, Kilbourn Park,
+O'Hare, & Park Ridge: 2005
+Chicago: 2008
+Tate Twp/East Fork Rec Area, OH
+Last Detection:
+January 2025
+Ohio Eradication:
+Portion of East Fork State Park, OH: April 2022
+Monroe Twp, OH: September 2018
+Batavia/Stonelick Twps, OH: March 2018
+Central Long Island, NY
+Last Detection:
+May 2024
+Boston, MA
+Eradication: May 2014
+New Jersey Eradication:
+Hudson: April 2008
+Union/Middlesex: March 2013
+Worcester, MA
+Last Detection:
+July 2021
+New York Eradication
+Islip, NY: August 2011
+Manhattan, NY: May 2013
+Staten Island, NY: May 2013
+Eastern Queens, NY: May 2017
+Western Queens/
+Brooklyn, NY: September 2019
+Text Len: 918
+--------------------------------------------------------------------------------
+ARS Home » Northeast Area » Newark, Delaware » Beneficial Insects Introduction Research Unit » Research » Software » Download Download Asian longhorned beetle EndNote Library Welcome to the software download area! Please contact us if you have problems or questions. Download Available Please complete the entire form below and click on "Take me to the download." Thank you for your interest. Download Form Please complete the form below to track the use of the service we are providing and to help improve our product. OMB 0518 - 0032 (01/2025) First Name Last Name Middle Email* Affiliation City State Select... Alabama Alaska Arizona Arkansas California Colorado Connecticut Delaware Florida Georgia Hawaii Idaho Illinois Indiana Iowa Kansas Kentucky Louisiana Maine Maryland Massachusetts Michigan Minnesota Mississippi Missouri Montana Nebraska Nevada New Hampshire New Jersey New Mexico New York North Carolina North Dakota Ohio Oklahoma Oregon Pennsylvania Rhode Island South Carolina South Dakota Tennessee Texas U.S. Territories Utah Vermont Virginia Washington Washington D.C. West Virginia Wisconsin Wyoming Country Select... United States Afganistan Albania Algeria Andorra Angola Anitgua and Barbuda Argentina Armenia Australia Azerbaijan Bahamas Bahrain Bangladesh Barbados Belarus Belgium Belize Benin Bhutan Bolivia Bosnia and Herzegovina Botswana Brazil Brunei Bulgaria Burkina Faso Burundi Cambodia Cameroon Canada Cape Verde Central African Republic Chad Chile China Colombia Comoros Congo (Brazzaville) Congo, Democratic Republic of the Costa Rica Croatia Cuba Cyprus Czech Republic Cote d'Ivoire Denmark Djibouti Dominica Dominican Republic East Timor Ecuador Egypt El Salvador Equatorial Guinea Eritrea Estonia Ethiopia Fiji Finland France Gabon Gambia, The Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Maritania Mauritius Mexico Micronesia,
+Text Len: 2187
+--------------------------------------------------------------------------------
+ Gabon Gambia, The Georgia Germany Ghana Greece Grenada Guatemala Guinea Guinea-Bissau Guyana Haiti Honduras Hungary Iceland India Indonesia Iran Iraq Ireland Israel Italy Jamaica Japan Jordan Kazakhstan Kenya Kiribati Kuwait Kyrgyzstan Laos Latvia Lebanon Lesotho Liberia Libya Liechtenstein Lithuania Luxembourg Macedonia Madagascar Malawi Malaysia Maldives Mali Malta Marshall Islands Maritania Mauritius Mexico Micronesia, Federated States of Moldova Monaco Mongolia Morocco Mozambique Myanmar Namibia Nauru Nepal Netherlands New Zealand Nicaragua Niger Nigeria North Korea Norway Oman Pakistan Palau Panama Papua New Guinea Paraguay Peru Philippines Poland Portugal Qatar Romania Russia Rwanda St. Kitts and St. Nevis St. Lucia St. Vincent and The Grenadines Samoa San Marino Sao Tome and Principe Saudi Arabia Senegal Serbia and Montenegro Seychelles Sierra Leone Singapore Slovakia Slovenia Solomon Islands Somalia South Africa South Korea Spain Sri Lanka Sudan Suriname Swaziland Sweden Switzerland Syria Taiwan Tajikistan Tanzania Thailand Togo Tonga Trinidad and Tobago Tunisia Turkey Turkmenistan Tuvalu Uganda Ukraine United Arab Emirates United Kingdom Uruguay Uzbekistan Vanuatu Vatican City Venezuela Vietnam Western Sahara Yemen Zambia Zimbabwe Reference Select... Publication or Other Source No Prior Knowledge Colleague or Friend Upgrading from an Older Version Purpose Select... Field Research Farming Software Development Teaching Comments Take me to the download... According to the Paperwork Reduction Act of 1995, an agency cannot conduct or sponsor, and a person is not required to respond to,
+            a collection of information unless it displays a valid OMB control number.
+            The valid OMB control number for this information collection is 0518-0032.
+            The time required to complete this information is estimated to vary from one to five minutes with an average of three minutes per response,
+    
+Text Len: 1952
+--------------------------------------------------------------------------------
+ valid OMB control number.
+            The valid OMB control number for this information collection is 0518-0032.
+            The time required to complete this information is estimated to vary from one to five minutes with an average of three minutes per response,
+            including time for reviewing instructions, and completing and reviewing the collection of information.
+            Send comments regarding this burden estimate or any other aspect of this collection of information,
+            including suggestions for reducing this burden, to Department of Agriculture, Clearance Officer, OIRM, Room 404-W, Washington, DC  20250,
+            and to the Office of Information and Regulatory Affairs, Office of Management and Budget.
+Text Len: 750
+--------------------------------------------------------------------------------
+STERLING
+CLARK
+LEWIS
+PIKE
+AMELIA
+BATAVIA
+TOWNSHIP
+BETHEL
+FRANKLIN
+TOWNSHIP
+MONROE
+TOWNSHIP
+OHIO TOWNSHIP
+PIERCE
+TOWNSHIP
+TATE TOWNSHIP
+WASHINGTON
+TOWNSHIP
+WILLIAMSBURG
+TOWNSHIP
+WILLIAMSBURG
+VILLAGE
+USDA APHIS
+2150 Centre Ave
+Fort Collins, Co 80526
+Data Source:
+USDA APHIS PPQ
+ESRI Basemap
+These data, and all the information contained herein, have been collected by the U.S. Department of Agriculture's Marketing
+and Regulatory Programs Business Services’ (MRPBS) Animal and Plant Health Inspection Service (APHIS) and/or Agriculture
+Marketing Service (AMS), or by its cooperators on APHIS’ and/or AMS’ behalf, for restricted government purposes only. This
+information is the sole property of MRPBS. See full disclaimer at: https://www.aphis.usda.gov/aphis/banner/help/disclaimers/
+Animal and Plant Health Inspection Service ASIAN LONGHORNED BEETLE (ALB) ERADICATION PROGRAM
+ALB Ohio Quarantine Boundary
+ALB Federal Quarantine Boundary
+Town Boundary
+0 1 2
+Miles
+0 1 2
+Kilometers
+Date Created:
+3/13/2025[
+U.S. DEPARTMENT OF AGRICULTURE
+ALB Ohio Quarantine
+Text Len: 1054
+--------------------------------------------------------------------------------
+USDA APHIS
+2150 Centre Ave
+Fort Collins, Co 80526
+Data Source:
+USDA APHIS PPQ
+ESRI Basemap
+These data, and all the information contained herein, have been collected by the U.S. Department of Agriculture's Marketing
+and Regulatory Programs Business Services’ (MRPBS) Animal and Plant Health Inspection Service (APHIS) and/or Agriculture
+Marketing Service (AMS), or by its cooperators on APHIS’ and/or AMS’ behalf, for restricted government purposes only. This
+information is the sole property of MRPBS. See full disclaimer at: https://www.aphis.usda.gov/aphis/banner/help/disclaimers/
+Alabama
+Arkansas
+Connecticut
+DelawareDistrict of
+Columbia
+Georgia
+Illinois Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Michigan
+Minnesota
+Mississippi
+Missouri
+Nebraska
+New Hampshire
+New Jersey
+New York
+North
+Carolina
+North Dakota
+Ohio
+Oklahoma
+Pennsylvania
+Rhode Island
+South
+Carolina
+South Dakota
+Tennessee
+Texas
+Vermont
+Virginia
+West Virginia
+Wisconsin
+Animal and Plant Health Inspection Service ASIAN LONGHORNED BEETLE (ALB) ERADICATION PROGRAM
+ALB National Overview 2025
+Asian Longhorned Beetle Federal Quarantine Boundary
+Active Federal Quarantine
+Rescinded Federal Quarantine
+State Boundary - ALB Eradication Declared
+State Boundary - ALB Quarantine Active
+State Boundary 0 100 200
+Miles
+0 100 200
+Kilometers
+Date Created:
+2/10/2025
+[
+U.S. DEPARTMENT OF AGRICULTURE
+Hollywood, SC
+Last Detection:
+February
+Text Len: 1404
+--------------------------------------------------------------------------------
+ Quarantine
+State Boundary - ALB Eradication Declared
+State Boundary - ALB Quarantine Active
+State Boundary 0 100 200
+Miles
+0 100 200
+Kilometers
+Date Created:
+2/10/2025
+[
+U.S. DEPARTMENT OF AGRICULTURE
+Hollywood, SC
+Last Detection:
+February 2025
+Illinois Eradication:
+Addison & Summit: 2004
+Ravenswood, Kilbourn Park,
+O'Hare, & Park Ridge: 2005
+Chicago: 2008
+Tate Twp/East Fork Rec Area, OH
+Last Detection:
+January 2025
+Ohio Eradication:
+Portion of East Fork State Park, OH: April 2022
+Monroe Twp, OH: September 2018
+Batavia/Stonelick Twps, OH: March 2018
+Central Long Island, NY
+Last Detection:
+May 2024
+Boston, MA
+Eradication: May 2014
+New Jersey Eradication:
+Hudson: April 2008
+Union/Middlesex: March 2013
+Worcester, MA
+Last Detection:
+July 2021
+New York Eradication
+Islip, NY: August 2011
+Manhattan, NY: May 2013
+Staten Island, NY: May 2013
+Eastern Queens, NY: May 2017
+Western Queens/
+Brooklyn, NY: September 2019
+Text Len: 918
+--------------------------------------------------------------------------------

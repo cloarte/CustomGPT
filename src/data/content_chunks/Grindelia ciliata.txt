@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Grindelia ciliata(Nutt.) Spreng.  ;
+Common Name:  Spanish-gold; Wax Goldenweed  ;
+Habitat:  Disturbed areas, waste places, ruderal gravelly sites.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Biennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  First collected in Alabama (Blount Co.) by Wayne Barger in 2016 and reported in Barger et al (2019).  ;
+Status:  Not Native  ;
+References:  Barger, T.W., A. Cressler, B. Finzel, A. Highland, W.M. Knapp, F. Nation, A.R. Schotz, D.D. Spaulding, and C.T. Taylor. New and noteworthy vascular plants records for Alabama. Phytoneuron 2019-16: 1-7.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 787
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Grindelia ciliata(Nutt.) Spreng.  ;
+Common Name:  Spanish-gold; Wax Goldenweed  ;
+Habitat:  Disturbed areas, waste places, ruderal gravelly sites.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Biennial  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  First collected in Alabama (Blount Co.) by Wayne Barger in 2016 and reported in Barger et al (2019).  ;
+Status:  Not Native  ;
+References:  Barger, T.W., A. Cressler, B. Finzel, A. Highland, W.M. Knapp, F. Nation, A.R. Schotz, D.D. Spaulding, and C.T. Taylor. New and noteworthy vascular plants records for Alabama. Phytoneuron 2019-16: 1-7.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 787
+--------------------------------------------------------------------------------

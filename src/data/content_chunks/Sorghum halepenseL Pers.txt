@@ -1,0 +1,30 @@
+Family:  Poaceae  ;
+Species:  Sorghum halepense(L.) Pers.  ;
+Common Name:  Johnson grass  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Graminoid  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native, Naturalized,FACU (NCNE),FACU (EMP),SNA (State Rank),GNR (Global Rank)  ;
+References:  **  ;
+
+Text Len: 382
+--------------------------------------------------------------------------------
+Family:  Poaceae  ;
+Species:  Sorghum halepense(L.) Pers.  ;
+Common Name:  Johnson grass  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Graminoid  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Not Native, Naturalized,FACU (NCNE),FACU (EMP),SNA (State Rank),GNR (Global Rank)  ;
+References:  **  ;
+
+Text Len: 382
+--------------------------------------------------------------------------------

@@ -1,0 +1,310 @@
+Issue 3-Policy Considerations for 
+Different Product Types 
+ 
+ 
+Product--Specific 
+Considerations, e.g. Viral Vaccines 
+(live, killed, vectored), Bacterins, 
+Bacterial Extracts, Toxoids 
+David M. Dusek 
+Staff Reviewer 
+Center for Veterinary Biologics/USDA 
+Ames, Iowa 
+ 
+What is this issue about? 
+Should the potency requirements of different 
+veterinary biologicals (vaccines and 
+therapeutics) be treated the same or 
+different based on: 
+Category 
+Virus or bacterial or parasite 
+Live or inactivated 
+Toxoids 
+Recombinant 
+Immunomodulator 
+Is it this simple? 
+Some factors to consider 
+ Species treated 
+ Production animal (bovine, porcine, poultry, minor species) 
+ Companion animal (canine, feline, equine) 
+ Adjuvanted vs none 
+ Type of adjuvant 
+ Single fraction vs multi-fraction  
+ Purpose–Herd immunity versus individual protection 
+ Disease agent (e.g. Canine Coronavirus vs Rabies) 
+Is it this simple? 
+Study design (Experimental clinical vs Field 
+efficacy) 
+Representative of the disease transmission in the 
+field vs artificial but convenient 
+Number of animals 
+Effectiveness of challenge strain 
+Route of challenge 
+Primary outcome 
+Case definition 
+Text Len: 1187
+--------------------------------------------------------------------------------
+? 
+Study design (Experimental clinical vs Field 
+efficacy) 
+Representative of the disease transmission in the 
+field vs artificial but convenient 
+Number of animals 
+Effectiveness of challenge strain 
+Route of challenge 
+Primary outcome 
+Case definition 
+What is the Typical Study 
+Design? 
+Pivotal efficacy studies are conducted with small numbers of 
+animals using firm devised/CVB reviewed protocols or the 9CFR 
+Standard Requirements.  
+Typically 20 treated and 20 controls  
+Experimental clinical study 
+Usually no dose titrations 
+Naïve animals, at youngest age 
+Sometimes immunocompromised 
+CD/CD 
+Steroids 
+Challenge/route procedure varies 
+Natural vs Convenient 
+What is the typical efficacy serial 
+and How is it tested? 
+Production serial or bench-top in 
+R&D or in process development 
+One serial or one of many, 
+evaluated for potency in a validated 
+or un-validated assay 
+Maybe the result of a series of 
+proof-of-concept studies or not 
+Is it this simple? Probably not! 
+Current release and throughout dating 
+specifications 
+Quantal assays e.g. titrations of live virus 
+products are set at ≈16X’s (+1.2log10) the 
+efficacy serial  and must maintain ≈5X’s 
+(+0.7log10) is required throughout dating. 
+
+Text Len: 1239
+--------------------------------------------------------------------------------
+ dating 
+specifications 
+Quantal assays e.g. titrations of live virus 
+products are set at ≈16X’s (+1.2log10) the 
+efficacy serial  and must maintain ≈5X’s 
+(+0.7log10) is required throughout dating. 
+Quantitative counts e.g. live bacteria must 
+maintain 2x the CFU of the efficacy serial 
+throughout the dating of the product  
+Inactivated products the efficacy, release, 
+and throughout dating are traditionally the 
+same. 
+Why are they treated differently? 
+History? 
+History is indeed the witness of the times, 
+the light of truth. (Cicero) 
+Seemed like a good idea at the time 
+(anonymous) 
+The reason for revisiting our potency 
+policy and evaluation of stability 
+monitoring and the rationale for setting 
+expiration dates 
+A long term process  
+CVB is in the early stages  
+Should there be Product-Specific 
+considerations for setting release and 
+throughout dating potency specifications? 
+ Perhaps certain categories could be established based on 
+product type, according to some rational criteria. 
+ But note that the divisions are complex because of the 
+diversity of the products 
+ Possibilities? 
+Risk-based? (What does this mean?) 
+Category within a species e.g. Bovine 
+Dairy  
+Passive immunity products 
+Feed lot 
+Companion animal (Canine, Feline, Equine
+Text Len: 1287
+--------------------------------------------------------------------------------
+
+ Possibilities? 
+Risk-based? (What does this mean?) 
+Category within a species e.g. Bovine 
+Dairy  
+Passive immunity products 
+Feed lot 
+Companion animal (Canine, Feline, Equine) 
+How do you bring consistency to the 
+situation? 
+Regardless of possible divisions a common starting point 
+is essential: 
+ Validated potency assays…… regardless  of the product. 
+ Take into account the variation in the potency assay, 
+manufacturing process, the vial-to-vial variation and 
+the product stability………. regardless of the type of 
+product. 
+ This is essentially what is proposed by the VSM Draft 
+DOC No. 440. 
+ A science based approach in line with the plan initiated 
+in 2004 as part of CVB’s long term comprehensive 
+approach to potency testing. 
+Questions? 
+ 
+Text Len: 767
+--------------------------------------------------------------------------------
+Issue 3-Policy Considerations for 
+Different Product Types 
+ 
+ 
+Product--Specific 
+Considerations, e.g. Viral Vaccines 
+(live, killed, vectored), Bacterins, 
+Bacterial Extracts, Toxoids 
+David M. Dusek 
+Staff Reviewer 
+Center for Veterinary Biologics/USDA 
+Ames, Iowa 
+ 
+What is this issue about? 
+Should the potency requirements of different 
+veterinary biologicals (vaccines and 
+therapeutics) be treated the same or 
+different based on: 
+Category 
+Virus or bacterial or parasite 
+Live or inactivated 
+Toxoids 
+Recombinant 
+Immunomodulator 
+Is it this simple? 
+Some factors to consider 
+ Species treated 
+ Production animal (bovine, porcine, poultry, minor species) 
+ Companion animal (canine, feline, equine) 
+ Adjuvanted vs none 
+ Type of adjuvant 
+ Single fraction vs multi-fraction  
+ Purpose–Herd immunity versus individual protection 
+ Disease agent (e.g. Canine Coronavirus vs Rabies) 
+Is it this simple? 
+Study design (Experimental clinical vs Field 
+efficacy) 
+Representative of the disease transmission in the 
+field vs artificial but convenient 
+Number of animals 
+Effectiveness of challenge strain 
+Route of challenge 
+Primary outcome 
+Case definition 
+Text Len: 1187
+--------------------------------------------------------------------------------
+? 
+Study design (Experimental clinical vs Field 
+efficacy) 
+Representative of the disease transmission in the 
+field vs artificial but convenient 
+Number of animals 
+Effectiveness of challenge strain 
+Route of challenge 
+Primary outcome 
+Case definition 
+What is the Typical Study 
+Design? 
+Pivotal efficacy studies are conducted with small numbers of 
+animals using firm devised/CVB reviewed protocols or the 9CFR 
+Standard Requirements.  
+Typically 20 treated and 20 controls  
+Experimental clinical study 
+Usually no dose titrations 
+Naïve animals, at youngest age 
+Sometimes immunocompromised 
+CD/CD 
+Steroids 
+Challenge/route procedure varies 
+Natural vs Convenient 
+What is the typical efficacy serial 
+and How is it tested? 
+Production serial or bench-top in 
+R&D or in process development 
+One serial or one of many, 
+evaluated for potency in a validated 
+or un-validated assay 
+Maybe the result of a series of 
+proof-of-concept studies or not 
+Is it this simple? Probably not! 
+Current release and throughout dating 
+specifications 
+Quantal assays e.g. titrations of live virus 
+products are set at ≈16X’s (+1.2log10) the 
+efficacy serial  and must maintain ≈5X’s 
+(+0.7log10) is required throughout dating. 
+
+Text Len: 1239
+--------------------------------------------------------------------------------
+ dating 
+specifications 
+Quantal assays e.g. titrations of live virus 
+products are set at ≈16X’s (+1.2log10) the 
+efficacy serial  and must maintain ≈5X’s 
+(+0.7log10) is required throughout dating. 
+Quantitative counts e.g. live bacteria must 
+maintain 2x the CFU of the efficacy serial 
+throughout the dating of the product  
+Inactivated products the efficacy, release, 
+and throughout dating are traditionally the 
+same. 
+Why are they treated differently? 
+History? 
+History is indeed the witness of the times, 
+the light of truth. (Cicero) 
+Seemed like a good idea at the time 
+(anonymous) 
+The reason for revisiting our potency 
+policy and evaluation of stability 
+monitoring and the rationale for setting 
+expiration dates 
+A long term process  
+CVB is in the early stages  
+Should there be Product-Specific 
+considerations for setting release and 
+throughout dating potency specifications? 
+ Perhaps certain categories could be established based on 
+product type, according to some rational criteria. 
+ But note that the divisions are complex because of the 
+diversity of the products 
+ Possibilities? 
+Risk-based? (What does this mean?) 
+Category within a species e.g. Bovine 
+Dairy  
+Passive immunity products 
+Feed lot 
+Companion animal (Canine, Feline, Equine
+Text Len: 1287
+--------------------------------------------------------------------------------
+
+ Possibilities? 
+Risk-based? (What does this mean?) 
+Category within a species e.g. Bovine 
+Dairy  
+Passive immunity products 
+Feed lot 
+Companion animal (Canine, Feline, Equine) 
+How do you bring consistency to the 
+situation? 
+Regardless of possible divisions a common starting point 
+is essential: 
+ Validated potency assays…… regardless  of the product. 
+ Take into account the variation in the potency assay, 
+manufacturing process, the vial-to-vial variation and 
+the product stability………. regardless of the type of 
+product. 
+ This is essentially what is proposed by the VSM Draft 
+DOC No. 440. 
+ A science based approach in line with the plan initiated 
+in 2004 as part of CVB’s long term comprehensive 
+approach to potency testing. 
+Questions? 
+ 
+Text Len: 767
+--------------------------------------------------------------------------------

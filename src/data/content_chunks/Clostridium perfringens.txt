@@ -1,0 +1,1018 @@
+UNCONTROLLED COPY 
+SAM 202.08 
+Page 1 of 9  
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 202 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens  
+Type C Beta Antitoxins 
+ 
+ 
+Date:  October 4, 2024 
+ 
+Number:  SAM 202.08 
+ 
+Supersedes:  SAM 202.07, August 24, 2023 
+ 
+Standard Requirement:   9 CFR 113.454 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.  
+ 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 2 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Re
+Text Len: 1155
+--------------------------------------------------------------------------------
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+2.3   Test animals 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+ 
+4.  Performance of the Test 
+ 
+4.1 Toxin neutralization 
+4.2 Inoculation of mice 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1 Criteria for a valid test 
+5.2 Interpretation of serial results 
+ 
+6.  Report of Test Results 
+ 
+7.  References  
+ 
+8.  Summary of Revisions 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 3 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+1. Introduction 
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine the beta 
+antitoxin content of Clostridium perfringens type C antitoxins as prescribed by the title 9, Code 
+of Federal Regulations (9 CFR), part 113.454. The antitoxin is titrated by a toxin-antitoxin 
+neutralization test using mice
+Text Len: 1227
+--------------------------------------------------------------------------------
+
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine the beta 
+antitoxin content of Clostridium perfringens type C antitoxins as prescribed by the title 9, Code 
+of Federal Regulations (9 CFR), part 113.454. The antitoxin is titrated by a toxin-antitoxin 
+neutralization test using mice as an indicator. 
+ 
+ 
+2.   Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Mixer, vortex type 
+ 
+2.1.2   Freezer, -70ºC 
+ 
+2.1.3   Micropipettes, 100-µL and 1000-µL 
+ 
+2.1.4   Refrigerator, 2º- 7ºC 
+ 
+2.1.5   Autoclave 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. 
+ 
+2.2.1   C. perfringens type C (beta) standard antitoxin IRP 645 (available from 
+the Center for Veterinary Biologics (CVB)) 
+ 
+2.2.2   C. perfringens type C (beta) standard toxin IRP 692 (available from the 
+CVB) 
+ 
+2.2.3   Peptone diluent 
+ 
+2.2.4   Tubes, various sizes with lids 
+ 
+2.2.5   Pipettes, various sizes 
+ 
+2.2
+Text Len: 1076
+--------------------------------------------------------------------------------
+ens type C (beta) standard toxin IRP 692 (available from the 
+CVB) 
+ 
+2.2.3   Peptone diluent 
+ 
+2.2.4   Tubes, various sizes with lids 
+ 
+2.2.5   Pipettes, various sizes 
+ 
+2.2.6   Syringes, 1-cc, luer-lock 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 4 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2.2.7   Needles, 25- to 27-gauge x 1- to 1 1/4-inch  
+ 
+2.2.8   Screw-top Erlenmeyer flask, 500-mL, with cap 
+ 
+2.2.9 Water, distilled or deionized, or water of equivalent purity 
+ 
+2.2.10 Tips for micropipettes 
+ 
+2.3   Test animals 
+ 
+White Swiss nonpregnant female mice, 16-20 g (Five mice are required for each toxin-
+antitoxin mixture.) 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel need specific training in the care and 
+handling of laboratory mice. 
+ 
+
+Text Len: 1127
+--------------------------------------------------------------------------------
+ Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel need specific training in the care and 
+handling of laboratory mice. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+All equipment is operated according to manufacturers’ instructions. 
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Peptone diluent 
+ 
+Peptone (Difco)   8  g 
+NaCl, reagent grade   2  g 
+Water q.s. to 800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide.  
+ 
+Dispense and autoclave with caps loosened at ≥121°C for 25 to 30 minutes 
+following manufacturer’s recommendations. Cool flasks and tighten caps. Store 
+diluent at 2°- 7°C for up to 3 months. 
+ 
+ 
+ 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 5 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+3.3.2   Preparation of C. perfringens type C standard beta antitoxin 
+ 
+1. Clostridium perfringens type C antitoxin IRP 6
+Text Len: 1239
+--------------------------------------------------------------------------------
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+3.3.2   Preparation of C. perfringens type C standard beta antitoxin 
+ 
+1. Clostridium perfringens type C antitoxin IRP 645 contains 550 units of 
+beta antitoxin per mL (AU/mL) and has been standardized against the 
+World Health Organization C. perfringens (C. welchii) type C 
+International antitoxin. Each vial contains 0.6 mL of antitoxin.  
+ 
+2.  A dilution of standard beta antitoxin containing 10 (AU/mL) is used in 
+the toxin-neutralization test. Follow the current Reagent Data Sheet to 
+prepare the dilution.  
+ 
+3.3.3   Preparation of C. perfringens type C standard beta toxin 
+ 
+1.  Follow the current Reagent Data Sheet to prepare the dilution of  
+C. perfringens type C beta toxin IRP 692. IRP 692, diluted 1:10, is stable 
+when stored at -60°C or lower. 
+ 
+Note: A volume of 0.5 mL of standard beta toxin and 0.5 mL of 
+peptone diluent represents 10 Lo doses. A volume of 0.9 mL of the 
+standard beta toxin and 0.1 mL of peptone diluent represents  
+10 L+ doses (see Sections 4.1.1 and 4.1.2). For the purposes of this 
+SAM, 10 Lo dose is defined as the greatest amount of toxin that, when 
+mixed with 10 AU, results in 100% survival of all mice
+Text Len: 1276
+--------------------------------------------------------------------------------
+ of the 
+standard beta toxin and 0.1 mL of peptone diluent represents  
+10 L+ doses (see Sections 4.1.1 and 4.1.2). For the purposes of this 
+SAM, 10 Lo dose is defined as the greatest amount of toxin that, when 
+mixed with 10 AU, results in 100% survival of all mice inoculated 
+intravenously (IV) with 0.2 mL of this mixture. The 10 L+ dose is 
+defined as the least amount of toxin that, when mixed with 10 AU, 
+results in the death of 80%-100% of all mice inoculated IV with  
+0.2 mL of this mixture. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   Toxin neutralization 
+ 
+4.1.1   Product and standard beta toxin 
+ 
+1. Mix a sufficient volume of standard beta toxin and peptone diluent  
+(0.5 mL of standard beta toxin and 0.5 mL peptone diluent (10 Lo doses)) 
+for each product antitoxin dilution and the Lo control using a 17 x 120-mm 
+conical tube. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 6 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2. Add 1 mL of each product antitoxin dilution (see table below) to 1 mL 
+of the standard beta toxin-peptone diluent mixture (10 Lo doses) in  
+17 x 100-mm snap-top tubes. Mix each
+Text Len: 1237
+--------------------------------------------------------------------------------
+ perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2. Add 1 mL of each product antitoxin dilution (see table below) to 1 mL 
+of the standard beta toxin-peptone diluent mixture (10 Lo doses) in  
+17 x 100-mm snap-top tubes. Mix each tube with a vortex-type mixer. 
+ 
+Int’l AU 
+tested 
+Unknown Antitoxin 10 Lo doses 
+Std Toxin Diluent 
+500 1 mL diluted 1:50 
+(0.5 mL product + 24.5 mL dil.) 
+0.5 mL 0.5 mL 
+600 1 mL diluted 1:60 
+(0.5 mL product + 29.5 mL dil.) 
+0.5 mL 0.5 mL 
+1200 1 mL diluted 1:120 
+(0.3 mL product + 35.7 mL dil.) 
+0.5 mL 0.5 mL 
+ 
+3. Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour. 
+ 
+4. Place tubes in ice. 
+ 
+4.1.2   Standard beta toxin and standard beta antitoxin controls 
+ 
+1. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 1.0 
+mL of the standard beta toxin-peptone diluent mixture (10 Lo doses) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+2. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 0.9 
+mL of standard beta toxin and 0.1 mL of peptone diluent (10 L+ doses) in 
+a 17
+Text Len: 1078
+--------------------------------------------------------------------------------
+ Lo doses) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+2. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 0.9 
+mL of standard beta toxin and 0.1 mL of peptone diluent (10 L+ doses) in 
+a 17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+3. Let the mixtures stand at 22º- 26°C for 1 hour. 
+ 
+4. Place tubes in ice. 
+ 
+4.2 Inoculation of mice 
+ 
+4.2.1   Inject 0.2 mL of each standard beta toxin-product antitoxin mixture into 
+each of 5 mice. 
+ 
+4.2.2   Inject 0.2 mL of each standard beta toxin-standard beta antitoxin mixture 
+into each of 5 mice. 
+ 
+4.2.3   Inoculate all mice intravenously into a lateral tail vein. Use 1-cc needle 
+locking syringes fitted with 25- to 27-gauge x 1- to 1 1/4-inch needles.  
+ 
+4.2.4   Always inoculate the mice receiving the standard beta toxin-standard beta 
+antitoxin mixtures (controls) last. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 7 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+4.2.5   Mouse inoculations should be completed within
+Text Len: 1148
+--------------------------------------------------------------------------------
+      SAM 202.08 
+Testing Protocol         Page 7 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+4.2.5   Mouse inoculations should be completed within 1 hour of placing the 
+toxin-antitoxin mixtures in the ice. 
+ 
+4.2.6   The test is concluded 24 hours after the mice are inoculated. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1 Criteria for a valid test 
+ 
+5.1.1 All 5 mice inoculated with the standard 10 Lo/10 AU control mixture must 
+survive. 
+ 
+5.1.2 At least 4 of the 5 mice inoculated with the standard 10 L+/10 AU control 
+mixture must die. 
+ 
+Note: Moribund animals exhibiting clinical signs consistent with the expected 
+disease pathogenesis that are unable to rise or move under their own power 
+may be humanely euthanized and considered as deaths as outlined in             
+9 CFR 117.4. 
+ 
+5.2 Interpretation of serial results 
+ 
+5.2.1   The product contains at least 500 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:50 dilution of product-standard beta 
+toxin mixture survive. 
+ 
+5.2.2   The product contains at least 600 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:60 dilution of product-standard beta
+Text Len: 1283
+--------------------------------------------------------------------------------
+ antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:50 dilution of product-standard beta 
+toxin mixture survive. 
+ 
+5.2.2   The product contains at least 600 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:60 dilution of product-standard beta 
+toxin survive. 
+ 
+5.2.3   The product is considered unsatisfactory if it contains less than 500 
+International Units of beta antitoxin per mL. (If any mice inoculated with the 1:50 
+dilution and 10 Lo doses of standard beta toxin die, the product is considered to 
+contain less than 500 International Units per mL.) 
+ 
+ 
+6.  Reporting of Test Results 
+ 
+Report the results of the test(s) as described by standard operating procedures. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 8 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.454, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2   History of toxin: C. perfringens type C culture #4414, used to produce IRP 692, 
+and was obtained from Coopers Animal Health, Inc., 1201 Douglas Avenue,  
+Kansas City, Kansas, on July 28, 1975. The number of passages is unknown.  
+ 
+7.3   History of antitoxin
+Text Len: 1329
+--------------------------------------------------------------------------------
+2   History of toxin: C. perfringens type C culture #4414, used to produce IRP 692, 
+and was obtained from Coopers Animal Health, Inc., 1201 Douglas Avenue,  
+Kansas City, Kansas, on July 28, 1975. The number of passages is unknown.  
+ 
+7.3   History of antitoxin: C. perfringens type C (beta) antitoxin IRP 645 was produced 
+in goats hyperimmunized with multiple injections of purified C. perfringens type C 
+toxoid and toxin during a 6-month period. 
+ 
+ 
+8. Summary of Revisions 
+ 
+Version .08 
+• Toxin lot IRP 692 replaces IRP 624 throughout the document. 
+ 
+Version .07 
+• Coversheet updated. 
+• Antitoxin lot IRP 645 replaces IRP 637 throughout the document. 
+ 
+Version .06 
+• Antitoxin lot IRP 637 replaces IRP 585-A throughout the document. 
+• Toxin lot IRP 624 replaces IRP 513 (04) throughout the document. 
+• The Director was updated on the cover page. 
+ 
+Version .05 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .04 
+• The Contact information has been updated. 
+• Standard beta antitoxin lot IRP 585 has replaced IRP 486 throughout the document. 
+Due to change in the reagent lot, the use dilution has also changed. 
+ 
+Version .03 
+• The document number has been changed from BBSAM0202 to SAM 202. 
+• 3.3.3: The standard beta toxin use dilution has
+Text Len: 1328
+--------------------------------------------------------------------------------
+ beta antitoxin lot IRP 585 has replaced IRP 486 throughout the document. 
+Due to change in the reagent lot, the use dilution has also changed. 
+ 
+Version .03 
+• The document number has been changed from BBSAM0202 to SAM 202. 
+• 3.3.3: The standard beta toxin use dilution has been adjusted. 
+ 
+Version .02 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 9 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 119 has changed to IRP 486 throughout the document. 
+• IRP 418 has changed to IRP 513(04) throughout the document. 
+• 4.1  The format and content have been modified to clarify the LO and L+ levels of the 
+Toxin Neutralization process. 
+• Humane endpoint language has been added. 
+• Dilution/holding vessel sizes have been added for clarification. 
+• The contact person has been changed to Janet M. Wilson. 
+Text Len: 1194
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 202.08 
+Page 1 of 9  
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 202 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens  
+Type C Beta Antitoxins 
+ 
+ 
+Date:  October 4, 2024 
+ 
+Number:  SAM 202.08 
+ 
+Supersedes:  SAM 202.07, August 24, 2023 
+ 
+Standard Requirement:   9 CFR 113.454 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.  
+ 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 2 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Re
+Text Len: 1155
+--------------------------------------------------------------------------------
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+2.3   Test animals 
+ 
+3.  Preparation for the Test 
+ 
+3.1 Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+ 
+4.  Performance of the Test 
+ 
+4.1 Toxin neutralization 
+4.2 Inoculation of mice 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1 Criteria for a valid test 
+5.2 Interpretation of serial results 
+ 
+6.  Report of Test Results 
+ 
+7.  References  
+ 
+8.  Summary of Revisions 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 3 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+1. Introduction 
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine the beta 
+antitoxin content of Clostridium perfringens type C antitoxins as prescribed by the title 9, Code 
+of Federal Regulations (9 CFR), part 113.454. The antitoxin is titrated by a toxin-antitoxin 
+neutralization test using mice
+Text Len: 1227
+--------------------------------------------------------------------------------
+
+ 
+This Supplemental Assay Method (SAM) describes the method used to determine the beta 
+antitoxin content of Clostridium perfringens type C antitoxins as prescribed by the title 9, Code 
+of Federal Regulations (9 CFR), part 113.454. The antitoxin is titrated by a toxin-antitoxin 
+neutralization test using mice as an indicator. 
+ 
+ 
+2.   Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Mixer, vortex type 
+ 
+2.1.2   Freezer, -70ºC 
+ 
+2.1.3   Micropipettes, 100-µL and 1000-µL 
+ 
+2.1.4   Refrigerator, 2º- 7ºC 
+ 
+2.1.5   Autoclave 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. 
+ 
+2.2.1   C. perfringens type C (beta) standard antitoxin IRP 645 (available from 
+the Center for Veterinary Biologics (CVB)) 
+ 
+2.2.2   C. perfringens type C (beta) standard toxin IRP 692 (available from the 
+CVB) 
+ 
+2.2.3   Peptone diluent 
+ 
+2.2.4   Tubes, various sizes with lids 
+ 
+2.2.5   Pipettes, various sizes 
+ 
+2.2
+Text Len: 1076
+--------------------------------------------------------------------------------
+ens type C (beta) standard toxin IRP 692 (available from the 
+CVB) 
+ 
+2.2.3   Peptone diluent 
+ 
+2.2.4   Tubes, various sizes with lids 
+ 
+2.2.5   Pipettes, various sizes 
+ 
+2.2.6   Syringes, 1-cc, luer-lock 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 4 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2.2.7   Needles, 25- to 27-gauge x 1- to 1 1/4-inch  
+ 
+2.2.8   Screw-top Erlenmeyer flask, 500-mL, with cap 
+ 
+2.2.9 Water, distilled or deionized, or water of equivalent purity 
+ 
+2.2.10 Tips for micropipettes 
+ 
+2.3   Test animals 
+ 
+White Swiss nonpregnant female mice, 16-20 g (Five mice are required for each toxin-
+antitoxin mixture.) 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel need specific training in the care and 
+handling of laboratory mice. 
+ 
+
+Text Len: 1127
+--------------------------------------------------------------------------------
+ Test 
+ 
+3.1   Personnel qualifications/training 
+ 
+Technical personnel need a working knowledge of the use of general laboratory 
+chemicals, equipment, and glassware and must have specific training and experience in 
+the safe handling of clostridial toxins. Personnel need specific training in the care and 
+handling of laboratory mice. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+All equipment is operated according to manufacturers’ instructions. 
+ 
+3.3   Preparation of reagents/control procedures 
+ 
+3.3.1   Peptone diluent 
+ 
+Peptone (Difco)   8  g 
+NaCl, reagent grade   2  g 
+Water q.s. to 800 mL 
+ 
+Dissolve peptone and sodium chloride in water. Adjust pH to 7.2 with 1N sodium 
+hydroxide.  
+ 
+Dispense and autoclave with caps loosened at ≥121°C for 25 to 30 minutes 
+following manufacturer’s recommendations. Cool flasks and tighten caps. Store 
+diluent at 2°- 7°C for up to 3 months. 
+ 
+ 
+ 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 5 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+3.3.2   Preparation of C. perfringens type C standard beta antitoxin 
+ 
+1. Clostridium perfringens type C antitoxin IRP 6
+Text Len: 1239
+--------------------------------------------------------------------------------
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+3.3.2   Preparation of C. perfringens type C standard beta antitoxin 
+ 
+1. Clostridium perfringens type C antitoxin IRP 645 contains 550 units of 
+beta antitoxin per mL (AU/mL) and has been standardized against the 
+World Health Organization C. perfringens (C. welchii) type C 
+International antitoxin. Each vial contains 0.6 mL of antitoxin.  
+ 
+2.  A dilution of standard beta antitoxin containing 10 (AU/mL) is used in 
+the toxin-neutralization test. Follow the current Reagent Data Sheet to 
+prepare the dilution.  
+ 
+3.3.3   Preparation of C. perfringens type C standard beta toxin 
+ 
+1.  Follow the current Reagent Data Sheet to prepare the dilution of  
+C. perfringens type C beta toxin IRP 692. IRP 692, diluted 1:10, is stable 
+when stored at -60°C or lower. 
+ 
+Note: A volume of 0.5 mL of standard beta toxin and 0.5 mL of 
+peptone diluent represents 10 Lo doses. A volume of 0.9 mL of the 
+standard beta toxin and 0.1 mL of peptone diluent represents  
+10 L+ doses (see Sections 4.1.1 and 4.1.2). For the purposes of this 
+SAM, 10 Lo dose is defined as the greatest amount of toxin that, when 
+mixed with 10 AU, results in 100% survival of all mice
+Text Len: 1276
+--------------------------------------------------------------------------------
+ of the 
+standard beta toxin and 0.1 mL of peptone diluent represents  
+10 L+ doses (see Sections 4.1.1 and 4.1.2). For the purposes of this 
+SAM, 10 Lo dose is defined as the greatest amount of toxin that, when 
+mixed with 10 AU, results in 100% survival of all mice inoculated 
+intravenously (IV) with 0.2 mL of this mixture. The 10 L+ dose is 
+defined as the least amount of toxin that, when mixed with 10 AU, 
+results in the death of 80%-100% of all mice inoculated IV with  
+0.2 mL of this mixture. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   Toxin neutralization 
+ 
+4.1.1   Product and standard beta toxin 
+ 
+1. Mix a sufficient volume of standard beta toxin and peptone diluent  
+(0.5 mL of standard beta toxin and 0.5 mL peptone diluent (10 Lo doses)) 
+for each product antitoxin dilution and the Lo control using a 17 x 120-mm 
+conical tube. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 6 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2. Add 1 mL of each product antitoxin dilution (see table below) to 1 mL 
+of the standard beta toxin-peptone diluent mixture (10 Lo doses) in  
+17 x 100-mm snap-top tubes. Mix each
+Text Len: 1237
+--------------------------------------------------------------------------------
+ perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+2. Add 1 mL of each product antitoxin dilution (see table below) to 1 mL 
+of the standard beta toxin-peptone diluent mixture (10 Lo doses) in  
+17 x 100-mm snap-top tubes. Mix each tube with a vortex-type mixer. 
+ 
+Int’l AU 
+tested 
+Unknown Antitoxin 10 Lo doses 
+Std Toxin Diluent 
+500 1 mL diluted 1:50 
+(0.5 mL product + 24.5 mL dil.) 
+0.5 mL 0.5 mL 
+600 1 mL diluted 1:60 
+(0.5 mL product + 29.5 mL dil.) 
+0.5 mL 0.5 mL 
+1200 1 mL diluted 1:120 
+(0.3 mL product + 35.7 mL dil.) 
+0.5 mL 0.5 mL 
+ 
+3. Let the mixtures sit at 22°- 26°C (room temperature) for 1 hour. 
+ 
+4. Place tubes in ice. 
+ 
+4.1.2   Standard beta toxin and standard beta antitoxin controls 
+ 
+1. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 1.0 
+mL of the standard beta toxin-peptone diluent mixture (10 Lo doses) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+2. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 0.9 
+mL of standard beta toxin and 0.1 mL of peptone diluent (10 L+ doses) in 
+a 17
+Text Len: 1078
+--------------------------------------------------------------------------------
+ Lo doses) in a 
+17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+2. Add 1.0 mL of standard beta antitoxin containing 10 AU/mL to 0.9 
+mL of standard beta toxin and 0.1 mL of peptone diluent (10 L+ doses) in 
+a 17 x 100-mm snap-top tube. Mix well with a vortex-type mixer. 
+ 
+3. Let the mixtures stand at 22º- 26°C for 1 hour. 
+ 
+4. Place tubes in ice. 
+ 
+4.2 Inoculation of mice 
+ 
+4.2.1   Inject 0.2 mL of each standard beta toxin-product antitoxin mixture into 
+each of 5 mice. 
+ 
+4.2.2   Inject 0.2 mL of each standard beta toxin-standard beta antitoxin mixture 
+into each of 5 mice. 
+ 
+4.2.3   Inoculate all mice intravenously into a lateral tail vein. Use 1-cc needle 
+locking syringes fitted with 25- to 27-gauge x 1- to 1 1/4-inch needles.  
+ 
+4.2.4   Always inoculate the mice receiving the standard beta toxin-standard beta 
+antitoxin mixtures (controls) last. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 7 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+4.2.5   Mouse inoculations should be completed within
+Text Len: 1148
+--------------------------------------------------------------------------------
+      SAM 202.08 
+Testing Protocol         Page 7 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+4.2.5   Mouse inoculations should be completed within 1 hour of placing the 
+toxin-antitoxin mixtures in the ice. 
+ 
+4.2.6   The test is concluded 24 hours after the mice are inoculated. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1 Criteria for a valid test 
+ 
+5.1.1 All 5 mice inoculated with the standard 10 Lo/10 AU control mixture must 
+survive. 
+ 
+5.1.2 At least 4 of the 5 mice inoculated with the standard 10 L+/10 AU control 
+mixture must die. 
+ 
+Note: Moribund animals exhibiting clinical signs consistent with the expected 
+disease pathogenesis that are unable to rise or move under their own power 
+may be humanely euthanized and considered as deaths as outlined in             
+9 CFR 117.4. 
+ 
+5.2 Interpretation of serial results 
+ 
+5.2.1   The product contains at least 500 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:50 dilution of product-standard beta 
+toxin mixture survive. 
+ 
+5.2.2   The product contains at least 600 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:60 dilution of product-standard beta
+Text Len: 1283
+--------------------------------------------------------------------------------
+ antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:50 dilution of product-standard beta 
+toxin mixture survive. 
+ 
+5.2.2   The product contains at least 600 International Units of beta antitoxin per 
+mL if 5 of the 5 mice inoculated with the 1:60 dilution of product-standard beta 
+toxin survive. 
+ 
+5.2.3   The product is considered unsatisfactory if it contains less than 500 
+International Units of beta antitoxin per mL. (If any mice inoculated with the 1:50 
+dilution and 10 Lo doses of standard beta toxin die, the product is considered to 
+contain less than 500 International Units per mL.) 
+ 
+ 
+6.  Reporting of Test Results 
+ 
+Report the results of the test(s) as described by standard operating procedures. 
+ 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 8 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.454, U.S. Government Printing 
+Office, Washington, DC.  
+ 
+7.2   History of toxin: C. perfringens type C culture #4414, used to produce IRP 692, 
+and was obtained from Coopers Animal Health, Inc., 1201 Douglas Avenue,  
+Kansas City, Kansas, on July 28, 1975. The number of passages is unknown.  
+ 
+7.3   History of antitoxin
+Text Len: 1329
+--------------------------------------------------------------------------------
+2   History of toxin: C. perfringens type C culture #4414, used to produce IRP 692, 
+and was obtained from Coopers Animal Health, Inc., 1201 Douglas Avenue,  
+Kansas City, Kansas, on July 28, 1975. The number of passages is unknown.  
+ 
+7.3   History of antitoxin: C. perfringens type C (beta) antitoxin IRP 645 was produced 
+in goats hyperimmunized with multiple injections of purified C. perfringens type C 
+toxoid and toxin during a 6-month period. 
+ 
+ 
+8. Summary of Revisions 
+ 
+Version .08 
+• Toxin lot IRP 692 replaces IRP 624 throughout the document. 
+ 
+Version .07 
+• Coversheet updated. 
+• Antitoxin lot IRP 645 replaces IRP 637 throughout the document. 
+ 
+Version .06 
+• Antitoxin lot IRP 637 replaces IRP 585-A throughout the document. 
+• Toxin lot IRP 624 replaces IRP 513 (04) throughout the document. 
+• The Director was updated on the cover page. 
+ 
+Version .05 
+• The Bacteriology Section Leader was updated. 
+• Minor word changes for clarification of procedures. 
+ 
+Version .04 
+• The Contact information has been updated. 
+• Standard beta antitoxin lot IRP 585 has replaced IRP 486 throughout the document. 
+Due to change in the reagent lot, the use dilution has also changed. 
+ 
+Version .03 
+• The document number has been changed from BBSAM0202 to SAM 202. 
+• 3.3.3: The standard beta toxin use dilution has
+Text Len: 1328
+--------------------------------------------------------------------------------
+ beta antitoxin lot IRP 585 has replaced IRP 486 throughout the document. 
+Due to change in the reagent lot, the use dilution has also changed. 
+ 
+Version .03 
+• The document number has been changed from BBSAM0202 to SAM 202. 
+• 3.3.3: The standard beta toxin use dilution has been adjusted. 
+ 
+Version .02 
+Center for Veterinary Biologics       SAM 202.08 
+Testing Protocol         Page 9 of 9 
+ 
+Supplemental Assay Method for Potency Testing Clostridium perfringens Type C Beta Antitoxins 
+ 
+UNCONTROLLED COPY 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+• IRP 119 has changed to IRP 486 throughout the document. 
+• IRP 418 has changed to IRP 513(04) throughout the document. 
+• 4.1  The format and content have been modified to clarify the LO and L+ levels of the 
+Toxin Neutralization process. 
+• Humane endpoint language has been added. 
+• Dilution/holding vessel sizes have been added for clarification. 
+• The contact person has been changed to Janet M. Wilson. 
+Text Len: 1194
+--------------------------------------------------------------------------------

@@ -1,0 +1,180 @@
+ 
+1 
+ 
+Guide for Movements and Imports of Disarmed Agrobacterium species  
+and Drosophila melanogaster Developed using Genetic Engineering 
+ 
+The Animal and Plant Health Inspection Service (APHIS) regulates introductions of certain organisms 
+developed using genetic engineering (modified organisms) which are, or have the potential to be, plant 
+pests. Biotechnology Regulatory Services (BRS) issues Letter of No Permit Required (LONPR) for certain 
+modified organisms that are exempt from the requirement for permits for import and interstate 
+movement upon request to facilitate their movement, which might otherwise be impeded by the 
+organism's similarity to regulated organisms. 
+ 
+Modified and disarmed Agrobacterium species, including Agrobacterium tumefaciens (synonyms 
+include: A. radiobacter and Rhizobium radiobacter), A. rhizogenes (synonym include: R. rhizogenes) and 
+A. vitis,  do not require a BRS permit for their movement when the modified genetic material is stably 
+integrated into the genome and does not include the complete infeciotus genome of a plant pest, and 
+are specifically exempted under 7 CFR § 340.5(d), which states: 
+(d) Exemption for GE disarmed Agrobacterium species. A permit for importation or interstate 
+movement is not required for any GE disarmed Agrobacterium species, provided that it is moved 
+as a secure shipment, the modified genetic material is stably integrated into the genome, and 
+the modified material does not include the complete infectious genome of a plant pest. 
+ 
+Modified Drosophila melanogaster developed for research purposes that do not contain genetic 
+material designed to propagate through a population by
+Text Len: 1675
+--------------------------------------------------------------------------------
+ Agrobacterium species, provided that it is moved 
+as a secure shipment, the modified genetic material is stably integrated into the genome, and 
+the modified material does not include the complete infectious genome of a plant pest. 
+ 
+Modified Drosophila melanogaster developed for research purposes that do not contain genetic 
+material designed to propagate through a population by biasing the inheritence rate do not require a 
+BRS permit for their movement and are specifically exempted under 7 CFR § 340.5(e), which states: 
+(e) Exemption for Drosophila melanogaster. A permit for importation or interstate movement is 
+not required for modified Drosophila melanogaster, provided that it is moved as a secure 
+shipment and that any introduced genetic material is not designed to propagate through a 
+population by biasing the population inheritance rate. 
+ 
+How to Request a LONPR for the Importation of Modified Agrobacterium species (disarmed) and 
+Drosophila melanogaster 
+Make a request via email to BRSNoPermitRequired@usda.gov with the following information: 
+{Applicant's Name} 
+{Applicant’s Institution} 
+{Applicant's Full Mailing Address} 
+{Applicant's phone number} 
+{Applicant's email} 
+ 
+The requestor should certify that the organism(s) in the request meets the criteria for exemption from 
+the requirement for a permit and that any supporting information provided in the request and any 
+attachments is complete and accurate to the best of their knowledge. 
+ 
+Note:  
+A Letter of No Permit Required does not expire. Once it has been issued, additional requests from the 
+applicant are not necessary, and it can be used indefinitely for future
+Text Len: 1662
+--------------------------------------------------------------------------------
+ 
+the requirement for a permit and that any supporting information provided in the request and any 
+attachments is complete and accurate to the best of their knowledge. 
+ 
+Note:  
+A Letter of No Permit Required does not expire. Once it has been issued, additional requests from the 
+applicant are not necessary, and it can be used indefinitely for future movements of modified disarmed 
+Agrobacterium species and D. melanogaster that meet the exemptions listed above. 
+Wild-type D. melanogaster, other Drosophila and Agrobacterium species may require a permit from 
+USDA-APHIS Plant Protection Quarantine. 
+ 
+ 
+2 
+ 
+When a BRS Permit is Needed for the Movement and Importation of modified Agrobacterium species 
+and D. melanogaster: 
+ 
+The movement of modified Agrobacterium species and D. melanogaster needs a BRS permit if it: 
+• Contains an introduced genetic sequence from plant pests and the introduced genetic 
+sequences are capable of producing an infectious agent that causes plant disease, or encoding a 
+compound that causes plant disease,  
+• Contains an introduced genetic sequence that produces a biological agent or toxin that is on the 
+select agents and toxins list.   
+• Is used for biocontrol of plant pests and could pose a plant pest risk , or 
+• For D. melanogaster, contains a sequence capable of influencing biased inheritance rate (e.g., 
+any gene drive that influences biased inheritance rates). 
+ 
+A BRS permit can be obtained from APHIS e-File. 
+  
+ 
+ 
+Text Len: 1479
+--------------------------------------------------------------------------------
+ 
+1 
+ 
+Guide for Movements and Imports of Disarmed Agrobacterium species  
+and Drosophila melanogaster Developed using Genetic Engineering 
+ 
+The Animal and Plant Health Inspection Service (APHIS) regulates introductions of certain organisms 
+developed using genetic engineering (modified organisms) which are, or have the potential to be, plant 
+pests. Biotechnology Regulatory Services (BRS) issues Letter of No Permit Required (LONPR) for certain 
+modified organisms that are exempt from the requirement for permits for import and interstate 
+movement upon request to facilitate their movement, which might otherwise be impeded by the 
+organism's similarity to regulated organisms. 
+ 
+Modified and disarmed Agrobacterium species, including Agrobacterium tumefaciens (synonyms 
+include: A. radiobacter and Rhizobium radiobacter), A. rhizogenes (synonym include: R. rhizogenes) and 
+A. vitis,  do not require a BRS permit for their movement when the modified genetic material is stably 
+integrated into the genome and does not include the complete infeciotus genome of a plant pest, and 
+are specifically exempted under 7 CFR § 340.5(d), which states: 
+(d) Exemption for GE disarmed Agrobacterium species. A permit for importation or interstate 
+movement is not required for any GE disarmed Agrobacterium species, provided that it is moved 
+as a secure shipment, the modified genetic material is stably integrated into the genome, and 
+the modified material does not include the complete infectious genome of a plant pest. 
+ 
+Modified Drosophila melanogaster developed for research purposes that do not contain genetic 
+material designed to propagate through a population by
+Text Len: 1675
+--------------------------------------------------------------------------------
+ Agrobacterium species, provided that it is moved 
+as a secure shipment, the modified genetic material is stably integrated into the genome, and 
+the modified material does not include the complete infectious genome of a plant pest. 
+ 
+Modified Drosophila melanogaster developed for research purposes that do not contain genetic 
+material designed to propagate through a population by biasing the inheritence rate do not require a 
+BRS permit for their movement and are specifically exempted under 7 CFR § 340.5(e), which states: 
+(e) Exemption for Drosophila melanogaster. A permit for importation or interstate movement is 
+not required for modified Drosophila melanogaster, provided that it is moved as a secure 
+shipment and that any introduced genetic material is not designed to propagate through a 
+population by biasing the population inheritance rate. 
+ 
+How to Request a LONPR for the Importation of Modified Agrobacterium species (disarmed) and 
+Drosophila melanogaster 
+Make a request via email to BRSNoPermitRequired@usda.gov with the following information: 
+{Applicant's Name} 
+{Applicant’s Institution} 
+{Applicant's Full Mailing Address} 
+{Applicant's phone number} 
+{Applicant's email} 
+ 
+The requestor should certify that the organism(s) in the request meets the criteria for exemption from 
+the requirement for a permit and that any supporting information provided in the request and any 
+attachments is complete and accurate to the best of their knowledge. 
+ 
+Note:  
+A Letter of No Permit Required does not expire. Once it has been issued, additional requests from the 
+applicant are not necessary, and it can be used indefinitely for future
+Text Len: 1662
+--------------------------------------------------------------------------------
+ 
+the requirement for a permit and that any supporting information provided in the request and any 
+attachments is complete and accurate to the best of their knowledge. 
+ 
+Note:  
+A Letter of No Permit Required does not expire. Once it has been issued, additional requests from the 
+applicant are not necessary, and it can be used indefinitely for future movements of modified disarmed 
+Agrobacterium species and D. melanogaster that meet the exemptions listed above. 
+Wild-type D. melanogaster, other Drosophila and Agrobacterium species may require a permit from 
+USDA-APHIS Plant Protection Quarantine. 
+ 
+ 
+2 
+ 
+When a BRS Permit is Needed for the Movement and Importation of modified Agrobacterium species 
+and D. melanogaster: 
+ 
+The movement of modified Agrobacterium species and D. melanogaster needs a BRS permit if it: 
+• Contains an introduced genetic sequence from plant pests and the introduced genetic 
+sequences are capable of producing an infectious agent that causes plant disease, or encoding a 
+compound that causes plant disease,  
+• Contains an introduced genetic sequence that produces a biological agent or toxin that is on the 
+select agents and toxins list.   
+• Is used for biocontrol of plant pests and could pose a plant pest risk , or 
+• For D. melanogaster, contains a sequence capable of influencing biased inheritance rate (e.g., 
+any gene drive that influences biased inheritance rates). 
+ 
+A BRS permit can be obtained from APHIS e-File. 
+  
+ 
+ 
+Text Len: 1479
+--------------------------------------------------------------------------------

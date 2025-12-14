@@ -1,0 +1,196 @@
+State
+# Birds
+Flock Type
+Species
+Pathogenicity Confirmed 
+by NVSL
+IN Dubois 1
+43,094
+Commercial Turkey Meat Bird
+Turkey
+1/15/2016
+H7N8 High Path
+IN Dubois 1a
+19,015
+Commercial Turkey Meat Bird
+Turkey
+Dangerous Contact High 
+Path
+IN Dubois 2
+37,798
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 3
+28,751
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 4
+12,392
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 5
+22,227
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 5a
+156,178
+Commercial Table Egg Layer
+Chicken
+Dangerous Contact Low Path
+IN Dubois 6
+24,732
+Commercial Turkey Meat Bird
+Turkey
+Presumptive H7 Low Path
+IN Dubois 7
+11,425
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 8
+36,695
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 9
+16,591
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 10
+5,325
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+County
+HPAI/LPAI Infected Premises 
+(last updated 5/2/2016) 
+(includes Dangerous Contact Premises)
+     
+Text Len: 1118
+--------------------------------------------------------------------------------
+17/2016
+H7N8 Low Path
+IN Dubois 10
+5,325
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+County
+HPAI/LPAI Infected Premises 
+(last updated 5/2/2016) 
+(includes Dangerous Contact Premises)
+       Last update 5/2/2016 1
+Text Len: 228
+--------------------------------------------------------------------------------
+State
+# Birds
+Flock Type
+Species
+Pathogenicity Confirmed 
+by NVSL
+IN Dubois 1
+43,094
+Commercial Turkey Meat Bird
+Turkey
+1/15/2016
+H7N8 High Path
+IN Dubois 1a
+19,015
+Commercial Turkey Meat Bird
+Turkey
+Dangerous Contact High 
+Path
+IN Dubois 2
+37,798
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 3
+28,751
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 4
+12,392
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 5
+22,227
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 5a
+156,178
+Commercial Table Egg Layer
+Chicken
+Dangerous Contact Low Path
+IN Dubois 6
+24,732
+Commercial Turkey Meat Bird
+Turkey
+Presumptive H7 Low Path
+IN Dubois 7
+11,425
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 8
+36,695
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 9
+16,591
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+IN Dubois 10
+5,325
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+County
+HPAI/LPAI Infected Premises 
+(last updated 5/2/2016) 
+(includes Dangerous Contact Premises)
+     
+Text Len: 1118
+--------------------------------------------------------------------------------
+17/2016
+H7N8 Low Path
+IN Dubois 10
+5,325
+Commercial Turkey Meat Bird
+Turkey
+1/17/2016
+H7N8 Low Path
+County
+HPAI/LPAI Infected Premises 
+(last updated 5/2/2016) 
+(includes Dangerous Contact Premises)
+       Last update 5/2/2016 1
+Text Len: 228
+--------------------------------------------------------------------------------

@@ -1,0 +1,804 @@
+1 
+Swine Hemorrhagic Fever Surveillance 
+Evaluation Brief 
+ September 2023 
+INTRODUCTION 
+African swine fever (ASF) continues to spread across the globe as classical swine fever (CSF) 
+remains present in the Caribbean and South America. The United States Department of Agriculture’s 
+(USDA) Animal and Plant Health Inspection Service (APHIS) has an integrated surveillance plan that 
+maintains vigilance for swine hemorrhagic fever diseases and improves the country’s emergency 
+preparedness. APHIS recently used a RISKSUR framework to evaluate the effectiveness and 
+implementation of this surveillance plan over the past 3 years in the continental United States.  
+APHIS expanded surveillance activities in Puerto Rico and the U.S. Virgin Islands in 2021, after 
+detection of ASF on the island of Hispaniola. APHIS performed a separate evaluation for surveillance 
+activities in those territories and will report those findings separately. 
+SURVEILLANCE PLAN GOALS 
+To strengthen ASF and CSF detection 
+capabilities and enhance outbreak 
+preparedness  
+by testing high-volume sample 
+collection, laboratory capacity, and 
+data management capacities prior to 
+an outbreak scenario, and establishing 
+a baseline of disease absence through 
+timely and consistent surveillance. 
+Support claims of ASF and CSF disease freedom 
+by the diagnostic testing of ASF and CSF in targeted 
+subpopulations of swine     collected via five surveillance 
+components: 
+• Foreign Animal Disease (FAD) Investigations
+• Sick Pig Veterinary Diagnostic Lab (VDL) Component
+• Slaughter & Aggregation Point Component
+• Higher Risk Component
+• Feral Swine Component
+SAMPLING 
+The evaluation included specimens collected from
+Text Len: 1699
+--------------------------------------------------------------------------------
+F in targeted 
+subpopulations of swine     collected via five surveillance 
+components: 
+• Foreign Animal Disease (FAD) Investigations
+• Sick Pig Veterinary Diagnostic Lab (VDL) Component
+• Slaughter & Aggregation Point Component
+• Higher Risk Component
+• Feral Swine Component
+SAMPLING 
+The evaluation included specimens collected from June 1, 2020, to May 31, 2023, from three 
+targeted swine populations: 
+• Commercial swine are domestic swine raised primarily for food production and confined to a
+housing facility designed to prevent exposure to feral swine.
+• Higher risk swine are swine raised in non-commercial settings, such as waste feeders,
+outdoor raised swine, swine with known or suspected feral swine exposure, and show swine.
+• Feral swine are free-roaming swine with an increased risk of exposure to ASF and CSF.
+During the past three years, APHIS’ Foreign Animal Disease Diagnostic Laboratory (FADDL) and 
+National Animal Health Laboratory Network (NAHLN) laboratories tested approximately 43,533 
+specimens for ASF and CSF and 23,524 specimens for CSF only (Figure 1). An average of 1,864 
+specimens were tested per month throughout the three-year period. Of note, the average monthly 
+specimen counts increased each year, rising from 1,111 specimens in year one of the evaluation 
+period to 2,638 specimens in year three. 
+
+2   
+BY THE NUMBERS 
+Foreign Animal Disease (FAD) Investigations: 118 investigations, 771 specimens 
+Targets swine populations with certain disease symptoms to rule out ASF, CSF, and 
+other foreign animal diseases. An FAD investigation is initiated by state and federal 
+Text Len: 1614
+--------------------------------------------------------------------------------
+ to 2,638 specimens in year three. 
+
+2   
+BY THE NUMBERS 
+Foreign Animal Disease (FAD) Investigations: 118 investigations, 771 specimens 
+Targets swine populations with certain disease symptoms to rule out ASF, CSF, and 
+other foreign animal diseases. An FAD investigation is initiated by state and federal 
+animal health officials. 
+Sick Pig Veterinary Diagnostic Lab (VDL) Component: 20,878 specimens 
+Targets clinically ill or dead swine on commercial farms. 
+Slaughter & Aggregation Point Component: 10,643 specimens 
+Targets clinically ill or dead swine at slaughter facilities and aggregation points such as 
+live animal markets. 
+Higher Risk Component: 12,385 specimens 
+Targets clinically ill or dead higher risk swine; apparently healthy animals may be 
+sampled if there are no ill or dead animals available. 
+Feral Swine Component: 22,605 specimens 
+Targets feral swine in geographic areas APHIS considers to be of higher risk for disease 
+introduction and transmission. 
+ 
+ 
+ 
+Figure 1: Specimens tested by total and by surveillance component. The number of specimens tested for 
+both ASF and CSF or for only CSF varied by surveillance system component and were carried out in accordance with 
+the Swine Hemorrhagic Fevers Integrated Surveillance Plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+48%
+2%14%
+12%
+24%
+Sick pig VDL FAD investigations Feral 
+Higher risk Slaughter & aggregation point 
+70%
+30%
+43
+Text Len: 1422
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+48%
+2%14%
+12%
+24%
+Sick pig VDL FAD investigations Feral 
+Higher risk Slaughter & aggregation point 
+70%
+30%
+43,533 
+specimens 
+tested for ASF 
+and CSF 
+23,524 
+specimens 
+tested for 
+CSF only 
+3   
+EFFECTIVENESS METRICS 
+Sample collection over time is displayed in Figure 2. In fall of 2021, the overall number of 
+specimens tested increased dramatically. The number of specimens tested in the sick pig VDL 
+component increased due to increased stakeholder awareness and engagement with this 
+component. APHIS’ 
+addition of four states to 
+the feral swine ASF 
+surveillance in summer 
+2022 increased the 
+amount of testing that had 
+been occurring in those 
+states. Two significant 
+events––the COVID-19 
+pandemic and the 2022–
+2023 highly pathogenic 
+avian influenza outbreak––
+impacted federal, state, 
+and industry resources, but 
+no appreciable negative 
+impacts were observed in 
+the number of specimens 
+tested nationally.  
+An effective, targeted surveillance system ensures samples represent the different production types 
+and associated risks, as well as the geographic distribution of at-risk populations. Geographic 
+representativeness was evaluated through an analysis of the number of specimens tested compared 
+to sampling target numbers and state swine populations.  
+APHIS provides targets for annual specimen collection to 10 states for the higher risk component 
+and 17 states for the
+Text Len: 1442
+--------------------------------------------------------------------------------
+ samples represent the different production types 
+and associated risks, as well as the geographic distribution of at-risk populations. Geographic 
+representativeness was evaluated through an analysis of the number of specimens tested compared 
+to sampling target numbers and state swine populations.  
+APHIS provides targets for annual specimen collection to 10 states for the higher risk component 
+and 17 states for the slaughter & aggregation point component. Figure 3 shows the proportion of 
+these states that met or exceeded 75 percent of their target. APHIS continues to evaluate and 
+adjust target sample numbers to reflect potential changes in swine populations and associated 
+risks, and to identify where increased sampling may best support surveillance objectives. 
+ 
+Figure 3. State sampling targets and performance. The proportion of states that met or exceeded 75 percent of 
+their sampling target based on APHIS guidelines for the higher risk component (left) and slaughter & aggregation point 
+component (right), compared to the proportion that met less than 75 percent of their sampling target.  
+            Higher Risk             Slaughter & Aggregation Point
+              
+0%
+20%
+40%
+60%
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=10)
+Percentage of Sampling Target Met
+0%
+20%
+40%
+60%
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=17)
+Percentage of Sampling Target Met
+Figure 2. Specimens tested by surveillance component.  
+The number of specimens tested by surveillance system component by month. 
+4   
+To achieve geographic representation, the distribution of animals sampled for the sick pig
+Text Len: 1617
+--------------------------------------------------------------------------------
+
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=17)
+Percentage of Sampling Target Met
+Figure 2. Specimens tested by surveillance component.  
+The number of specimens tested by surveillance system component by month. 
+4   
+To achieve geographic representation, the distribution of animals sampled for the sick pig VDL and 
+slaughter & aggregation point components should be proportional to the population distribution of 
+commercial U.S. swine. Comparison of the swine population by state (Figure 4a) and the total 
+specimens tested from the sick pig VDL and slaughter & aggregation point components (Figure 4b) 
+shows that, in general, APHIS, states, and private veterinarians are collecting the most specimens 
+from animals originating from those states with larger swine populations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Surveillance among feral swine is risk-based. States with the heaviest feral swine invasions are 
+included in CSF surveillance. Enhancements to feral swine surveillance for ASF were implemented 
+in select counties in Florida, Texas, Louisiana, and Georgia in 2022, due to increased risks of 
+disease introduction. Evaluation of sample collection by state (Figure 5) shows that surveillance is 
+being carried out across the invaded range of feral swine. APHIS will continue to target surveillance 
+sampling in feral swine populations most at risk for a disease incursion. 
+ 
+ 
+Figure 5. Total feral swine specimens tested.  
+Map of the United States colored on a gradient corresponding 
+to total feral swine specimens tested for CSF only or both ASF 
+and CSF by state from June
+Text Len: 1593
+--------------------------------------------------------------------------------
+HIS will continue to target surveillance 
+sampling in feral swine populations most at risk for a disease incursion. 
+ 
+ 
+Figure 5. Total feral swine specimens tested.  
+Map of the United States colored on a gradient corresponding 
+to total feral swine specimens tested for CSF only or both ASF 
+and CSF by state from June 1, 2020, to May 31, 2023. 
+Samples collected from Hawaii, Puerto Rico, and Guam are 
+not included.  
+ 
+ 
+ 
+ 
+ 
+Figure 4(a). Average swine population by state. 
+Map of the United States colored on a gradient 
+corresponding to total commercial swine population by 
+state according to NASS Quarterly Hogs and Pigs 
+Inventory reports from June 1, 2020, to March 1, 2023. 
+Figure 4(b). Total specimens tested from sick pig 
+VDL and slaughter & aggregation point 
+components. Map of the United States colored on a 
+gradient corresponding to total specimens tested from the 
+sick pig VDL and slaughter & aggregation point 
+components by state from June 1, 2020, to May 31, 2023. 
+
+5   
+FUNCTIONAL METRICS 
+The ease of sampling protocol adoption, variety of accepted sample types, and robust data 
+collection system contribute to the overall functionality of this surveillance plan. Laboratory 
+engagement is demonstrated through the involvement of 12 NAHLN laboratories, 4 of which were 
+added during the 3-year evaluation period. The addition of approved sample types for ASF and 
+CSF surveillance has also increased acceptability and engagement. For example, whole blood was 
+added for the higher risk component, which led to increased specimen volume.  
+During the last evaluation in 2020, 5.
+Text Len: 1610
+--------------------------------------------------------------------------------
+ involvement of 12 NAHLN laboratories, 4 of which were 
+added during the 3-year evaluation period. The addition of approved sample types for ASF and 
+CSF surveillance has also increased acceptability and engagement. For example, whole blood was 
+added for the higher risk component, which led to increased specimen volume.  
+During the last evaluation in 2020, 5.2 percent of specimens were unable to be matched to field 
+data and were therefore not reportable. Since then, plan partners invested significant time and 
+resources to develop tools to support matching processes to address this gap successfully. At the 
+end of this evaluation period, only 0.2 percent (n=569) of specimens were not matched and there 
+are clear processes to quickly get unmatched specimens resolved. Efforts are underway to build out 
+additional capability to link field data to laboratory results and improve the functional metrics. 
+ACCOMPLISHMENTS AND CHALLENGES 
+The evaluation identified program successes and areas for improvement as outlined below.  
+Accomplishments: 
+• Increased awareness and engagement with the sick pig VDL component, resulting in a  
+fivefold increase in the number of case-compatible specimens tested per month.  
+• Added 3 sample types to improve sample collection flexibility and efficiency. 
+• Increased availability of flexible, scalable, and timely surveillance through the addition of 
+four NAHLN laboratories to active surveillance programs. 
+• Increased data fidelity through automated identification and management of duplicate 
+records, pooled specimens, and other factors impacting data quality. 
+• Provided consistent sampling from all targeted surveillance components across time and 
+location though effective coordination of federal, state, and industry partners. 
+• Maintained stable testing rates in the face of significant stresses on personnel and 
+resources during the COVID-19 pandemic and the 2022–2023 highly
+Text Len: 1941
+--------------------------------------------------------------------------------
+ 
+records, pooled specimens, and other factors impacting data quality. 
+• Provided consistent sampling from all targeted surveillance components across time and 
+location though effective coordination of federal, state, and industry partners. 
+• Maintained stable testing rates in the face of significant stresses on personnel and 
+resources during the COVID-19 pandemic and the 2022–2023 highly pathogenic avian 
+influenza outbreaks. 
+Challenges: 
+• Limitations among data collection systems to consistently capture clinical signs, 
+age/production type, and premises identification number have been an ongoing challenge 
+since the plan’s inception in 2019. Accurate and consistent availability of these data would 
+better support surveillance evaluations and other epidemiologic analysis. 
+• Data quality issues occasionally delayed linking laboratory results with epidemiologic 
+information gathered by specimen submitters. 
+• Geographic representativeness could be improved through participation of additional 
+premises and a re-evaluation of state-level sample targets to best support current needs 
+and animal movement patterns.  
+ 
+ 
+ 
+6   
+COLLABORATIVE GOALS FOR IMPROVING THE SURVEILLANCE SYSTEM 
+Ongoing success of the surveillance plan requires continued collaboration among federal, state, 
+and industry partners, particularly in the following focus areas:    
+1. Enhance risk-based targeting of swine subpopulations through ongoing disease introduction 
+risk analyses. 
+2. Re-evaluate state sample target numbers, encourage sample collection from 
+underrepresented states, and identify resource needs to efficiently execute geographically 
+representative disease surveillance.  
+3. Continue to develop and expand the use of tools to capture and share electronic information 
+through all surveillance components and through all stages of specimen collection, 
+processing, and reporting. 
+CONCLUSION 
+
+Text Len: 1912
+--------------------------------------------------------------------------------
+ Re-evaluate state sample target numbers, encourage sample collection from 
+underrepresented states, and identify resource needs to efficiently execute geographically 
+representative disease surveillance.  
+3. Continue to develop and expand the use of tools to capture and share electronic information 
+through all surveillance components and through all stages of specimen collection, 
+processing, and reporting. 
+CONCLUSION 
+The Swine Hemorrhagic Fevers Integrated Surveillance Plan continues to meet its goals by providing 
+ongoing active surveillance for hemorrhagic fevers among the most at-risk animals and populations. 
+By adding approved sample types, expanding surveillance within the NAHLN, and improving data 
+systems, this surveillance plan continues to provide timely and accurate surveillance. For the most 
+recent year assessed, the system tested more than double the number of specimens for ASF and/or 
+CSF when compared to the first year of implementation. The investment in electronic data collection 
+and management systems has allowed real-time monitoring and analysis of surveillance data. Finally, 
+the risk-based, targeted nature of the surveillance system continues to provide an efficient means of 
+achieving the objectives of supporting disease freedom, strengthening detection capabilities, and 
+improving outbreak preparedness. 
+ 
+For more information about CSF and ASF surveillance in the U.S., please view the Swine 
+Hemorrhagic Fevers Integrated Surveillance Plan. 
+For information about the RISKSUR framework, please visit the RISKSUR website. 
+Text Len: 1576
+--------------------------------------------------------------------------------
+1 
+Swine Hemorrhagic Fever Surveillance 
+Evaluation Brief 
+ September 2023 
+INTRODUCTION 
+African swine fever (ASF) continues to spread across the globe as classical swine fever (CSF) 
+remains present in the Caribbean and South America. The United States Department of Agriculture’s 
+(USDA) Animal and Plant Health Inspection Service (APHIS) has an integrated surveillance plan that 
+maintains vigilance for swine hemorrhagic fever diseases and improves the country’s emergency 
+preparedness. APHIS recently used a RISKSUR framework to evaluate the effectiveness and 
+implementation of this surveillance plan over the past 3 years in the continental United States.  
+APHIS expanded surveillance activities in Puerto Rico and the U.S. Virgin Islands in 2021, after 
+detection of ASF on the island of Hispaniola. APHIS performed a separate evaluation for surveillance 
+activities in those territories and will report those findings separately. 
+SURVEILLANCE PLAN GOALS 
+To strengthen ASF and CSF detection 
+capabilities and enhance outbreak 
+preparedness  
+by testing high-volume sample 
+collection, laboratory capacity, and 
+data management capacities prior to 
+an outbreak scenario, and establishing 
+a baseline of disease absence through 
+timely and consistent surveillance. 
+Support claims of ASF and CSF disease freedom 
+by the diagnostic testing of ASF and CSF in targeted 
+subpopulations of swine     collected via five surveillance 
+components: 
+• Foreign Animal Disease (FAD) Investigations
+• Sick Pig Veterinary Diagnostic Lab (VDL) Component
+• Slaughter & Aggregation Point Component
+• Higher Risk Component
+• Feral Swine Component
+SAMPLING 
+The evaluation included specimens collected from
+Text Len: 1699
+--------------------------------------------------------------------------------
+F in targeted 
+subpopulations of swine     collected via five surveillance 
+components: 
+• Foreign Animal Disease (FAD) Investigations
+• Sick Pig Veterinary Diagnostic Lab (VDL) Component
+• Slaughter & Aggregation Point Component
+• Higher Risk Component
+• Feral Swine Component
+SAMPLING 
+The evaluation included specimens collected from June 1, 2020, to May 31, 2023, from three 
+targeted swine populations: 
+• Commercial swine are domestic swine raised primarily for food production and confined to a
+housing facility designed to prevent exposure to feral swine.
+• Higher risk swine are swine raised in non-commercial settings, such as waste feeders,
+outdoor raised swine, swine with known or suspected feral swine exposure, and show swine.
+• Feral swine are free-roaming swine with an increased risk of exposure to ASF and CSF.
+During the past three years, APHIS’ Foreign Animal Disease Diagnostic Laboratory (FADDL) and 
+National Animal Health Laboratory Network (NAHLN) laboratories tested approximately 43,533 
+specimens for ASF and CSF and 23,524 specimens for CSF only (Figure 1). An average of 1,864 
+specimens were tested per month throughout the three-year period. Of note, the average monthly 
+specimen counts increased each year, rising from 1,111 specimens in year one of the evaluation 
+period to 2,638 specimens in year three. 
+
+2   
+BY THE NUMBERS 
+Foreign Animal Disease (FAD) Investigations: 118 investigations, 771 specimens 
+Targets swine populations with certain disease symptoms to rule out ASF, CSF, and 
+other foreign animal diseases. An FAD investigation is initiated by state and federal 
+Text Len: 1614
+--------------------------------------------------------------------------------
+ to 2,638 specimens in year three. 
+
+2   
+BY THE NUMBERS 
+Foreign Animal Disease (FAD) Investigations: 118 investigations, 771 specimens 
+Targets swine populations with certain disease symptoms to rule out ASF, CSF, and 
+other foreign animal diseases. An FAD investigation is initiated by state and federal 
+animal health officials. 
+Sick Pig Veterinary Diagnostic Lab (VDL) Component: 20,878 specimens 
+Targets clinically ill or dead swine on commercial farms. 
+Slaughter & Aggregation Point Component: 10,643 specimens 
+Targets clinically ill or dead swine at slaughter facilities and aggregation points such as 
+live animal markets. 
+Higher Risk Component: 12,385 specimens 
+Targets clinically ill or dead higher risk swine; apparently healthy animals may be 
+sampled if there are no ill or dead animals available. 
+Feral Swine Component: 22,605 specimens 
+Targets feral swine in geographic areas APHIS considers to be of higher risk for disease 
+introduction and transmission. 
+ 
+ 
+ 
+Figure 1: Specimens tested by total and by surveillance component. The number of specimens tested for 
+both ASF and CSF or for only CSF varied by surveillance system component and were carried out in accordance with 
+the Swine Hemorrhagic Fevers Integrated Surveillance Plan. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+48%
+2%14%
+12%
+24%
+Sick pig VDL FAD investigations Feral 
+Higher risk Slaughter & aggregation point 
+70%
+30%
+43
+Text Len: 1422
+--------------------------------------------------------------------------------
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+48%
+2%14%
+12%
+24%
+Sick pig VDL FAD investigations Feral 
+Higher risk Slaughter & aggregation point 
+70%
+30%
+43,533 
+specimens 
+tested for ASF 
+and CSF 
+23,524 
+specimens 
+tested for 
+CSF only 
+3   
+EFFECTIVENESS METRICS 
+Sample collection over time is displayed in Figure 2. In fall of 2021, the overall number of 
+specimens tested increased dramatically. The number of specimens tested in the sick pig VDL 
+component increased due to increased stakeholder awareness and engagement with this 
+component. APHIS’ 
+addition of four states to 
+the feral swine ASF 
+surveillance in summer 
+2022 increased the 
+amount of testing that had 
+been occurring in those 
+states. Two significant 
+events––the COVID-19 
+pandemic and the 2022–
+2023 highly pathogenic 
+avian influenza outbreak––
+impacted federal, state, 
+and industry resources, but 
+no appreciable negative 
+impacts were observed in 
+the number of specimens 
+tested nationally.  
+An effective, targeted surveillance system ensures samples represent the different production types 
+and associated risks, as well as the geographic distribution of at-risk populations. Geographic 
+representativeness was evaluated through an analysis of the number of specimens tested compared 
+to sampling target numbers and state swine populations.  
+APHIS provides targets for annual specimen collection to 10 states for the higher risk component 
+and 17 states for the
+Text Len: 1442
+--------------------------------------------------------------------------------
+ samples represent the different production types 
+and associated risks, as well as the geographic distribution of at-risk populations. Geographic 
+representativeness was evaluated through an analysis of the number of specimens tested compared 
+to sampling target numbers and state swine populations.  
+APHIS provides targets for annual specimen collection to 10 states for the higher risk component 
+and 17 states for the slaughter & aggregation point component. Figure 3 shows the proportion of 
+these states that met or exceeded 75 percent of their target. APHIS continues to evaluate and 
+adjust target sample numbers to reflect potential changes in swine populations and associated 
+risks, and to identify where increased sampling may best support surveillance objectives. 
+ 
+Figure 3. State sampling targets and performance. The proportion of states that met or exceeded 75 percent of 
+their sampling target based on APHIS guidelines for the higher risk component (left) and slaughter & aggregation point 
+component (right), compared to the proportion that met less than 75 percent of their sampling target.  
+            Higher Risk             Slaughter & Aggregation Point
+              
+0%
+20%
+40%
+60%
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=10)
+Percentage of Sampling Target Met
+0%
+20%
+40%
+60%
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=17)
+Percentage of Sampling Target Met
+Figure 2. Specimens tested by surveillance component.  
+The number of specimens tested by surveillance system component by month. 
+4   
+To achieve geographic representation, the distribution of animals sampled for the sick pig
+Text Len: 1617
+--------------------------------------------------------------------------------
+
+80%
+100%
+<75% ≥75%
+Percentage of States 
+(N=17)
+Percentage of Sampling Target Met
+Figure 2. Specimens tested by surveillance component.  
+The number of specimens tested by surveillance system component by month. 
+4   
+To achieve geographic representation, the distribution of animals sampled for the sick pig VDL and 
+slaughter & aggregation point components should be proportional to the population distribution of 
+commercial U.S. swine. Comparison of the swine population by state (Figure 4a) and the total 
+specimens tested from the sick pig VDL and slaughter & aggregation point components (Figure 4b) 
+shows that, in general, APHIS, states, and private veterinarians are collecting the most specimens 
+from animals originating from those states with larger swine populations.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Surveillance among feral swine is risk-based. States with the heaviest feral swine invasions are 
+included in CSF surveillance. Enhancements to feral swine surveillance for ASF were implemented 
+in select counties in Florida, Texas, Louisiana, and Georgia in 2022, due to increased risks of 
+disease introduction. Evaluation of sample collection by state (Figure 5) shows that surveillance is 
+being carried out across the invaded range of feral swine. APHIS will continue to target surveillance 
+sampling in feral swine populations most at risk for a disease incursion. 
+ 
+ 
+Figure 5. Total feral swine specimens tested.  
+Map of the United States colored on a gradient corresponding 
+to total feral swine specimens tested for CSF only or both ASF 
+and CSF by state from June
+Text Len: 1593
+--------------------------------------------------------------------------------
+HIS will continue to target surveillance 
+sampling in feral swine populations most at risk for a disease incursion. 
+ 
+ 
+Figure 5. Total feral swine specimens tested.  
+Map of the United States colored on a gradient corresponding 
+to total feral swine specimens tested for CSF only or both ASF 
+and CSF by state from June 1, 2020, to May 31, 2023. 
+Samples collected from Hawaii, Puerto Rico, and Guam are 
+not included.  
+ 
+ 
+ 
+ 
+ 
+Figure 4(a). Average swine population by state. 
+Map of the United States colored on a gradient 
+corresponding to total commercial swine population by 
+state according to NASS Quarterly Hogs and Pigs 
+Inventory reports from June 1, 2020, to March 1, 2023. 
+Figure 4(b). Total specimens tested from sick pig 
+VDL and slaughter & aggregation point 
+components. Map of the United States colored on a 
+gradient corresponding to total specimens tested from the 
+sick pig VDL and slaughter & aggregation point 
+components by state from June 1, 2020, to May 31, 2023. 
+
+5   
+FUNCTIONAL METRICS 
+The ease of sampling protocol adoption, variety of accepted sample types, and robust data 
+collection system contribute to the overall functionality of this surveillance plan. Laboratory 
+engagement is demonstrated through the involvement of 12 NAHLN laboratories, 4 of which were 
+added during the 3-year evaluation period. The addition of approved sample types for ASF and 
+CSF surveillance has also increased acceptability and engagement. For example, whole blood was 
+added for the higher risk component, which led to increased specimen volume.  
+During the last evaluation in 2020, 5.
+Text Len: 1610
+--------------------------------------------------------------------------------
+ involvement of 12 NAHLN laboratories, 4 of which were 
+added during the 3-year evaluation period. The addition of approved sample types for ASF and 
+CSF surveillance has also increased acceptability and engagement. For example, whole blood was 
+added for the higher risk component, which led to increased specimen volume.  
+During the last evaluation in 2020, 5.2 percent of specimens were unable to be matched to field 
+data and were therefore not reportable. Since then, plan partners invested significant time and 
+resources to develop tools to support matching processes to address this gap successfully. At the 
+end of this evaluation period, only 0.2 percent (n=569) of specimens were not matched and there 
+are clear processes to quickly get unmatched specimens resolved. Efforts are underway to build out 
+additional capability to link field data to laboratory results and improve the functional metrics. 
+ACCOMPLISHMENTS AND CHALLENGES 
+The evaluation identified program successes and areas for improvement as outlined below.  
+Accomplishments: 
+• Increased awareness and engagement with the sick pig VDL component, resulting in a  
+fivefold increase in the number of case-compatible specimens tested per month.  
+• Added 3 sample types to improve sample collection flexibility and efficiency. 
+• Increased availability of flexible, scalable, and timely surveillance through the addition of 
+four NAHLN laboratories to active surveillance programs. 
+• Increased data fidelity through automated identification and management of duplicate 
+records, pooled specimens, and other factors impacting data quality. 
+• Provided consistent sampling from all targeted surveillance components across time and 
+location though effective coordination of federal, state, and industry partners. 
+• Maintained stable testing rates in the face of significant stresses on personnel and 
+resources during the COVID-19 pandemic and the 2022–2023 highly
+Text Len: 1941
+--------------------------------------------------------------------------------
+ 
+records, pooled specimens, and other factors impacting data quality. 
+• Provided consistent sampling from all targeted surveillance components across time and 
+location though effective coordination of federal, state, and industry partners. 
+• Maintained stable testing rates in the face of significant stresses on personnel and 
+resources during the COVID-19 pandemic and the 2022–2023 highly pathogenic avian 
+influenza outbreaks. 
+Challenges: 
+• Limitations among data collection systems to consistently capture clinical signs, 
+age/production type, and premises identification number have been an ongoing challenge 
+since the plan’s inception in 2019. Accurate and consistent availability of these data would 
+better support surveillance evaluations and other epidemiologic analysis. 
+• Data quality issues occasionally delayed linking laboratory results with epidemiologic 
+information gathered by specimen submitters. 
+• Geographic representativeness could be improved through participation of additional 
+premises and a re-evaluation of state-level sample targets to best support current needs 
+and animal movement patterns.  
+ 
+ 
+ 
+6   
+COLLABORATIVE GOALS FOR IMPROVING THE SURVEILLANCE SYSTEM 
+Ongoing success of the surveillance plan requires continued collaboration among federal, state, 
+and industry partners, particularly in the following focus areas:    
+1. Enhance risk-based targeting of swine subpopulations through ongoing disease introduction 
+risk analyses. 
+2. Re-evaluate state sample target numbers, encourage sample collection from 
+underrepresented states, and identify resource needs to efficiently execute geographically 
+representative disease surveillance.  
+3. Continue to develop and expand the use of tools to capture and share electronic information 
+through all surveillance components and through all stages of specimen collection, 
+processing, and reporting. 
+CONCLUSION 
+
+Text Len: 1912
+--------------------------------------------------------------------------------
+ Re-evaluate state sample target numbers, encourage sample collection from 
+underrepresented states, and identify resource needs to efficiently execute geographically 
+representative disease surveillance.  
+3. Continue to develop and expand the use of tools to capture and share electronic information 
+through all surveillance components and through all stages of specimen collection, 
+processing, and reporting. 
+CONCLUSION 
+The Swine Hemorrhagic Fevers Integrated Surveillance Plan continues to meet its goals by providing 
+ongoing active surveillance for hemorrhagic fevers among the most at-risk animals and populations. 
+By adding approved sample types, expanding surveillance within the NAHLN, and improving data 
+systems, this surveillance plan continues to provide timely and accurate surveillance. For the most 
+recent year assessed, the system tested more than double the number of specimens for ASF and/or 
+CSF when compared to the first year of implementation. The investment in electronic data collection 
+and management systems has allowed real-time monitoring and analysis of surveillance data. Finally, 
+the risk-based, targeted nature of the surveillance system continues to provide an efficient means of 
+achieving the objectives of supporting disease freedom, strengthening detection capabilities, and 
+improving outbreak preparedness. 
+ 
+For more information about CSF and ASF surveillance in the U.S., please view the Swine 
+Hemorrhagic Fevers Integrated Surveillance Plan. 
+For information about the RISKSUR framework, please visit the RISKSUR website. 
+Text Len: 1576
+--------------------------------------------------------------------------------

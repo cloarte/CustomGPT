@@ -1,0 +1,46 @@
+PgenusPspec
+Pvar
+Pcult
+Pcommon
+Pfamily
+NgenusNspec
+Nrace
+Ncommon
+Hstat
+Susc
+Tol
+REFERENCE
+Abelia spathulata Siebold & Zucc.
+Abelia; Twin-flowering Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Goodey, J. B., M. T. Franklin, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Text Len: 434
+--------------------------------------------------------------------------------
+PgenusPspec
+Pvar
+Pcult
+Pcommon
+Pfamily
+NgenusNspec
+Nrace
+Ncommon
+Hstat
+Susc
+Tol
+REFERENCE
+Abelia spathulata Siebold & Zucc.
+Abelia; Twin-flowering Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Goodey, J. B., M. T. Franklin, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Text Len: 434
+--------------------------------------------------------------------------------

@@ -1,0 +1,1716 @@
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service  
+ 
+October 2015 
+ 
+Best Practices for Brucella canis  
+Prevention and Control in  
+Dog Breeding Facilities  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+United States 
+Department 
+of Agriculture 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service 
+ 
+ 
+ 
+Best Practices for Brucella canis  
+Prevention and Control in  
+Dog Breeding Facilities  
+ 
+Donald J. Bramlage, DVM – Director of Veterinary Services,  
+Revival Animal Health, Orange City, IA;  
+ 
+William Fortney, DVM - Assistant Professor,  
+Kansas State Veterinary Diagnostic Laboratory, Manhattan, KS;  
+ 
+Rick M Kesler, DVM –  
+Scientific Services Veterinarian, St. Charles, MO;  
+ 
+Craig J. Mabray, MS, DVM – Kennel Specialist,  
+USDA/APHIS/AC, APHIS Center for Animal Welfare, Kansas City, MO;  
+ 
+James W Mason, DVM –  
+Bicknell, IN;  
+ 
+Hilary Reinhold, DVM –  
+LaGrange Veterinary Clinic, LaGrange, IN;  
+ 
+Pamela Sessions, DVM –  
+Sessions Veterinary Clinic, Bloomfield, IA;  
+ 
+Aaron Wise, DVM –  
+East Holmes Veterinary Clinic, Berlin, OH 
+ 
+ 
+  
+Disclaimer: This document presents a compilation of knowledge
+Text Len: 1144
+--------------------------------------------------------------------------------
+ 
+LaGrange Veterinary Clinic, LaGrange, IN;  
+ 
+Pamela Sessions, DVM –  
+Sessions Veterinary Clinic, Bloomfield, IA;  
+ 
+Aaron Wise, DVM –  
+East Holmes Veterinary Clinic, Berlin, OH 
+ 
+ 
+  
+Disclaimer: This document presents a compilation of knowledge garnered from currently 
+available science, technology, population medicine, and biosecurity strategies surrounding the 
+management of Brucella canis infections. It should be considered a work in progress, because 
+the understanding of this important disease continues to evolve through advances in scientific 
+knowledge. The information contained herein is not meant to supersede any local, state, tribal, 
+or federal laws, regulations or policies concerning brucellosis in dogs. The recommendations 
+are intended to be considered best practices, are not meant to be exclusive management 
+approaches, and may require adaptation to meet the specific needs of individual animals and 
+particular circumstances.  
+ 
+Cover photo by Don Bramlage. 
+ 
+ 
+For more information contact:  
+Dr. Craig Mabray 
+Kennel Specialist 
+USDA Center for Animal Welfare  
+USDA-APHIS-AC  
+2312 East Bannister Rd.  Mail Stop 1180 
+Kansas City, MO     64131-3011 
+ 
+816-737-4230 
+ 
+craig.j.mabray@aphis.usda.gov 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the basis of race, color, national origin, 
+age, disability, and where applicable, sex, marital status, familial status, parental status, religion, sexual orientation, genetic information
+Text Len: 1534
+--------------------------------------------------------------------------------
+craig.j.mabray@aphis.usda.gov 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the basis of race, color, national origin, 
+age, disability, and where applicable, sex, marital status, familial status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income is derived from any public assistance program. (Not all prohibited bases 
+apply to all programs.) Persons with disabilities who require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD). To file a complaint of discrimination, write to USDA, 
+Director, Office of Civil Rights, 1400 Independence Avenue, S.W., Washington, D.C. 20250–9410, or call (800) 795–3272 (voice) or (202) 720–
+6382 (TDD). USDA is an equal opportunity provider and employer. 
+October 2015 
+ 
+Table of Contents 
+Canine Brucellosis 1 
+Pathogenesis and Clinical Signs 1 
+Zoonotic Information concerning Brucella canis 3 
+Population Medicine and Biosecurity Considerations 4 
+• Cleaning and Disinfection 5 
+• Diagnosis of Brucella canis 6 
+• Tables: Comparison of Diagnostic Procedures for B. canis  
+o Antibody Detection Methods 7 
+o Organism/Antigen Detection Methods 8 
+• Screening a Kennel for Brucellosis 9 
+• Testing Considerations for Brucellosis Positive Kennels 9 
+• Re-homing Considerations for Dogs Positive for Brucella can
+Text Len: 1528
+--------------------------------------------------------------------------------
+ 
+• Tables: Comparison of Diagnostic Procedures for B. canis  
+o Antibody Detection Methods 7 
+o Organism/Antigen Detection Methods 8 
+• Screening a Kennel for Brucellosis 9 
+• Testing Considerations for Brucellosis Positive Kennels 9 
+• Re-homing Considerations for Dogs Positive for Brucella canis 9 
+• Re-homing Considerations for Retired Dogs from Kennels with an Unknown 
+Brucella canis Status 
+ 
+10 
+Summary 11 
+Recommendations 11 
+Acknowledgements 11 
+Internet Resources 12 
+References 12 
+ 
+i 
+Canine Brucellosis 
+Canine Brucellosis, caused by Brucella canis, is a significant reproductive disease of dogs. It is caused by 
+an intracellular bacterium and often found in breeding kennels throughout the United States.  B. canis is 
+a zoonotic organism that can infect humans and is currently considered to be underreported in human 
+medicine. 1  
+The true prevalence of the disease in dogs is not well understood.  The prevalence rates mentioned in 
+currently available review articles and information sheets reference results obtained in the 1970’s and 
+1980’s with reported rates of infection of1 – 8%.  Within the past few years it has become apparent that 
+the incidence of B. canis infection within the dog breeding industry has been on the rise. 2,3.4   The 
+disease may have also become more recognizable due to increased awareness coupled with improved 
+diagnostic testing capabilities.  
+There is much confusion about the disease among kennel operators and veterinarians alike. Brucellosis, 
+while historically thought of as a disease that causes abortions, has many clinical signs that are often 
+Text Len: 1613
+--------------------------------------------------------------------------------
+ rise. 2,3.4   The 
+disease may have also become more recognizable due to increased awareness coupled with improved 
+diagnostic testing capabilities.  
+There is much confusion about the disease among kennel operators and veterinarians alike. Brucellosis, 
+while historically thought of as a disease that causes abortions, has many clinical signs that are often 
+misinterpreted.  These include but are not limited to early abortions, testicular swelling, uveitis and 
+spinal arthritis.  Misunderstanding about the tests available for Brucellosis, often leads to the disease in 
+kennels being misdiagnosed or under diagnosed. Routine blood work and urinalysis are often normal. 
+It is possible for infected females to raise infected puppies that can enter consumer markets.  A 2011 
+survey of State Public Health Veterinarians reported that B. canis infection is a reportable disease in at 
+least 28 states. 1 Because the disease is reportable in many states there is a small but important 
+“underground” that tries to avert the reporting and thus serves as a continuum for the disease.  
+Additionally, it is important to emphasize that in dogs it is not a curable disease, which means that 
+carrier animals MUST be removed from the breeding population in a kennel situation.  Attempts at 
+treatment have been very disappointing with relapses commonly occurring. Attempted treatment can 
+mask diagnostic testing and has been shown to be yet another important contributing factor in the 
+spread of the disease.  
+Pathogenesis and Clinical Signs  
+Natural transmission of canine brucellosis can occur by several routes.  B. canis organisms are shed in 
+the highest numbers in aborted material and vaginal discharge. Infected females transmit canine 
+brucellosis during estrus, at breeding, or
+Text Len: 1788
+--------------------------------------------------------------------------------
+ to be yet another important contributing factor in the 
+spread of the disease.  
+Pathogenesis and Clinical Signs  
+Natural transmission of canine brucellosis can occur by several routes.  B. canis organisms are shed in 
+the highest numbers in aborted material and vaginal discharge. Infected females transmit canine 
+brucellosis during estrus, at breeding, or after abortion through oronasal contact of vaginal discharges 
+and aborted materials.  Shedding of B. canis may occur for up to six weeks after an abortion.  Semen, 
+seminal fluid and urine from infected males have also been documented as sources of infection.  The 
+rate of isolation from the semen of B. canis is usually high for the first six to eight weeks after infection 
+but males can have intermittent shedding of the organism in low numbers for up to two years. Both 
+males and females may shed the organism in the urine for at least three months after becoming 
+infected. The organism can also be present in blood, milk, saliva, nasal and ocular secretions, and in the 
+feces.  Brucellosis has also been documented to be spread via fomites during vaginoscopy, artificial 
+1 
+ 
+insemination, blood transfusion, or by the use of contaminated syringes or other medical and husbandry 
+equipment (do not share kennels, crates or other equipment).  Hands and clothing can also act as 
+fomites and increase the spread of the organism within a kennel (do not visit other kennels without 
+washing clothes, disinfecting shoes and washing your hands).  The use of high pressure spraying and 
+cleaning equipment and improper wash-down techniques within kennels have also been shown to 
+facilitate the spread of the disease.  Puppies can
+Text Len: 1695
+--------------------------------------------------------------------------------
+fomites and increase the spread of the organism within a kennel (do not visit other kennels without 
+washing clothes, disinfecting shoes and washing your hands).  The use of high pressure spraying and 
+cleaning equipment and improper wash-down techniques within kennels have also been shown to 
+facilitate the spread of the disease.  Puppies can become infected in utero, during birth, while nursing, 
+by contact with contaminated surfaces, or by fomite spread. 
+Canine brucellosis is considered a lifelong infection in dogs. Clinical signs of canine brucellosis are 
+extensive and variable and depend on the sex and age of the dog affected.  The disease often exhibits no 
+clinical signs that are obvious to the owner or veterinarian, or it can present as an abortion storm 
+affecting many dogs.    B. canis is a major cause of infertility and abortion in breeding dogs and therefore 
+should be one of the first diseases to be ruled out when investigating reproductive complaints.  
+ Several months after infection, there will be evidence of conception failures and infertility, such as late-
+term abortion with prolonged vaginal discharge, stillbirths, decreased litter size, and decreased puppy 
+survivability.  As the disease progresses adult dogs may develop epididymitis, orchitis, testicular swelling 
+or atrophy, sperm abnormalities, uveitis, meningioencephalitis, spinal arthritis, weight loss, poor hair 
+coat, listlessness, swollen lymph nodes, and behavioral changes. Some chronically infected dogs may be 
+totally asymptomatic and still be a source of infection for other animals and humans. The clinical signs of 
+infection can mimic many other diseases, and for that reason, Canine Brucellosis has been described as 
+“The Great Imposter”.  
+Text Len: 1755
+--------------------------------------------------------------------------------
+, listlessness, swollen lymph nodes, and behavioral changes. Some chronically infected dogs may be 
+totally asymptomatic and still be a source of infection for other animals and humans. The clinical signs of 
+infection can mimic many other diseases, and for that reason, Canine Brucellosis has been described as 
+“The Great Imposter”.    
+In the female the disease is usually thought of as a cause of abortions in affected breeding dogs.  Most 
+abortions occur between 45 and 55 days of gestation, and the aborted fetuses appear autolyzed. Early 
+embryonic death may lead to resorption and result in perceived conception failure. Endometritis is 
+usually seen in cases of uterine infections. It is also common to observe a prolonged vaginal discharge 
+either following an abortion or during proestrus.  The female may also have puppies that are born dead, 
+born alive and soon die, or in some cases puppies that live to become adults. 
+ In the male B. canis usually infects the prostate, testicles and epididymis and clinical signs are 
+associated with these areas. Enlargement of one or both of the testicles may be seen. In long standing 
+cases atrophy of the testicles may occur.  Enlargement and inflammation of the epididymis 
+(epididymitis) is a commonly observed clinical sign.  Scrotal dermatitis and swelling is usually a source of 
+intense licking by the affected male. Infertility may be seen, but these infected males may also breed 
+successfully.  The organism’s effect on spermatozoa is well described by Greene and Carmichael. 6 Sperm 
+abnormalities can be identified starting five weeks post infection (PI) and become pronounced by eight 
+weeks. These early abnormalities
+Text Len: 1687
+--------------------------------------------------------------------------------
+ 
+intense licking by the affected male. Infertility may be seen, but these infected males may also breed 
+successfully.  The organism’s effect on spermatozoa is well described by Greene and Carmichael. 6 Sperm 
+abnormalities can be identified starting five weeks post infection (PI) and become pronounced by eight 
+weeks. These early abnormalities include immature sperm, deformed acrosomes, swollen midpieces, 
+and retained protoplasmic droplets. By 15 weeks PI bent tails, detached heads, and head-to-head 
+agglutinations are seen. By 20 weeks PI 90% of sperm are abnormal. Aspermia without inflammatory 
+cells may develop and is associated with testicular atrophy. 
+2 
+ 
+Generalized signs may be seen in dogs of any sex or age and include lethargy, lymphadenitis, ocular 
+disease and vertebral pain. Loss of libido and unwillingness to breed are common signs seen in breeding 
+stock.  B. canis should be considered whenever reproductive problems occur, whether acute or chronic. 
+Zoonotic Information concerning Brucella canis 
+To decrease the possibility of human exposure to B. canis veterinarians should encourage their dog 
+breeding clients to wear single-use protective examination gloves during assistance with whelping 
+including the handling of newborn puppies, placentas, fetal membranes, or exposure to urine or vaginal 
+secretions.  Extreme caution should be taken when handling any aborted materials including dead or 
+partially developed puppies, their fetal membranes and placentas. Protective gloves should also be used 
+during assistance with any natural or artificial breeding. Appropriate use of personal protective 
+equipment beyond just wearing gloves (respiratory and ocular protection) may be required to prevent 
+human infection during cleaning and disinfection and animal
+Text Len: 1798
+--------------------------------------------------------------------------------
+ taken when handling any aborted materials including dead or 
+partially developed puppies, their fetal membranes and placentas. Protective gloves should also be used 
+during assistance with any natural or artificial breeding. Appropriate use of personal protective 
+equipment beyond just wearing gloves (respiratory and ocular protection) may be required to prevent 
+human infection during cleaning and disinfection and animal handling in brucellosis positive kennels 
+during quarantine and isolation situations.  Caution should be taken when collecting and handling blood, 
+serum, fluids or tissues for laboratory analysis by the veterinarian, paraprofessional staff, the client, and 
+laboratory personnel if brucellosis is suspected. 
+   
+Veterinarians should discuss with their dog breeding clients the potential for liability and damaged 
+reputation surrounding zoonotic cases of B. canis entering consumer markets through the sale of 
+infected puppies or adult dogs. These puppies or adult dogs commonly come into contact with children, 
+older adults and other immunocompromised individuals. A recent example is a 2012 New York City case 
+involving a 3 year old girl which is the first documented case of transmission of B. canis from a puppy to 
+a child in the United States. This human case of B. canis infection resulted in a multistate, multi-agency 
+investigation to determine the source of the child’s infection, origin of the puppy, location of the 
+puppy’s littermate in another state (PA), additional human exposures, and an investigation of the 
+Midwest breeding facility (personal communication with the CDC and the New York City Department of 
+Health and Mental Hygiene).          
+ 
+The symptoms of B. canis infections in humans are generally similar to those of brucellosis caused by
+Text Len: 1802
+--------------------------------------------------------------------------------
+�s littermate in another state (PA), additional human exposures, and an investigation of the 
+Midwest breeding facility (personal communication with the CDC and the New York City Department of 
+Health and Mental Hygiene).          
+ 
+The symptoms of B. canis infections in humans are generally similar to those of brucellosis caused by the 
+other Brucella species (e.g., B. abortus and B. melitensis).  They are frequently non-specific, and may 
+include one or more of the following: fever (often periodic and nocturnal), fatigue, headache, weakness, 
+malaise, chills, sweats, weight loss, hepatomegaly, splenomegaly, and lymphadenopathy.  
+ A thorough review of the current understanding of B. canis infection and the diagnostic challenges in 
+humans can be found in the 2012 National Association of State Public Health Veterinarians (NASPHV) 
+document “Public Health Implications of B. canis Infections in Humans” 1  from which the following two 
+quotes have been extracted: 
+  
+3 
+ 
+ “Although there are multiple statements in the literature that B. canis infections tend to cause a 
+milder illness compared to other Brucella spp., serious manifestations have been described.  These 
+include septic arthritis, aortic valve vegetations, calvarial osteomyelitis, epidural abscess, pleural 
+effusion, oral lesions, lower extremity aneurysms, and culture negative endocarditis.  There are at 
+least two reports describing B. canis infection in HIV-infected patients. The disease in both patients 
+was well-controlled with regard to viral load and CD4 counts, and each had
+Text Len: 1570
+--------------------------------------------------------------------------------
+elitis, epidural abscess, pleural 
+effusion, oral lesions, lower extremity aneurysms, and culture negative endocarditis.  There are at 
+least two reports describing B. canis infection in HIV-infected patients. The disease in both patients 
+was well-controlled with regard to viral load and CD4 counts, and each had typical clinical 
+presentations of brucellosis with good responses to treatment. “ 
+ “Although the low numbers of known human cases imply that the impact of B. canis on human 
+health is minimal, it seems likely that a lack of clinical suspicion of the infection, its nonspecific clinical 
+presentation, the non-availability of approved serologic tests, and the organism’s fastidiousness in 
+culture all result in the underdiagnosis, and subsequently the underreporting, of this infection”.  
+Population Medicine and Biosecurity Considerations 
+Ideal control measures for canine brucellosis in breeding kennels centers around sound population 
+medicine and biosecurity practices.   Gaining negative Brucellosis status involves testing and removal of 
+infected animals, sourcing new additions to the breeding population from proven negative kennels, and   
+isolation and repeat testing of new additions to prove them brucellosis negative.  Practicing strict 
+biosecurity, continual disease surveillance with proper breeding management and maintaining strict 
+environmental controls (cleaning, disinfection, proper temperature and humidity) are required to 
+maintain Brucellosis free status. Particular care should be taken to properly clean and disinfect whelping 
+sites and nurseries on a daily basis.  
+Once a breeding dog population is proven to be free of brucellosis the best way to keep brucellosis out 
+of the kenn
+Text Len: 1734
+--------------------------------------------------------------------------------
+aning, disinfection, proper temperature and humidity) are required to 
+maintain Brucellosis free status. Particular care should be taken to properly clean and disinfect whelping 
+sites and nurseries on a daily basis.  
+Once a breeding dog population is proven to be free of brucellosis the best way to keep brucellosis out 
+of the kennel is to isolate and test all incoming dogs, proving them negative prior to placing them into 
+the general kennel population.  This is best accomplished by isolating newly purchased dogs in a 
+separate building or facility, away from the general population for a minimum of eight weeks. All 
+incoming dogs should be tested for B. canis on arrival and again at eight weeks. Only after these two 
+negative screening tests have been done on all dogs in the isolation facility can they be safely moved 
+into the established kennel.   If during this eight week isolation period any of the dogs in isolation are 
+diagnosed with brucellosis they should be eliminated from the premises immediately.  The eight week 
+isolation period is then restarted for the remaining dogs in isolation. This isolation and testing approach 
+has proven to be the safest way to introduce new dogs into an established breeding population without 
+the fear of introducing brucellosis or other infectious organisms. 
+Ideally, breeding dogs should never leave the breeding kennel facility other than to visit a veterinarian 
+for necessary treatment (e.g., C-section, serious injury or illness).  It is best to maintain a closed 
+population of breeding dogs in the kennel and not send females out to be bred. A female sent out for 
+breeding purposes is a risk and any dog leaving the breeding kennel facility for any reason other than a 
+C-Section should be tested 90 days after its return to confirm its negative
+Text Len: 1817
+--------------------------------------------------------------------------------
+section, serious injury or illness).  It is best to maintain a closed 
+population of breeding dogs in the kennel and not send females out to be bred. A female sent out for 
+breeding purposes is a risk and any dog leaving the breeding kennel facility for any reason other than a 
+C-Section should be tested 90 days after its return to confirm its negative status.  It is best to isolate that 
+dog from the rest of the kennel population upon its return, but doing so may not be practical because it 
+4 
+ 
+would require isolation during gestation and whelping, which could be problematic in some kennel 
+situations.  
+An alternative approach for bringing in new genetics would be to use artificial insemination (AI) for 
+breeding females, with semen obtained from outside stud dogs that have been proven to be negative 
+for B. canis (two negative tests at least eight weeks apart prior to collection of the semen).  If male dogs 
+are to be used for outside breeding, the safest approach would be to only offer this service through the 
+use of AI, with the semen collected on the premises and then shipped to the outside kennel without the 
+female ever coming to the facility. 
+Visitors (including the breeding client themselves) should not have visited any other breeding facilities 
+that day, should be wearing clean clothing, should disinfect their shoes, should wear disposable 
+protective shoe covers, and should adequately wash their hands. Ideally visitors should not touch or 
+handle any dogs or equipment. Some accomplish access without direct contact using video viewing of 
+dam and sire as well as video of the litter through the nursing period.  This eliminates most direct 
+disease transfer risk until the puppy is moved to the new home. 
+Cleaning and Disinfection  
+B. canis
+Text Len: 1784
+--------------------------------------------------------------------------------
+. Ideally visitors should not touch or 
+handle any dogs or equipment. Some accomplish access without direct contact using video viewing of 
+dam and sire as well as video of the litter through the nursing period.  This eliminates most direct 
+disease transfer risk until the puppy is moved to the new home. 
+Cleaning and Disinfection  
+B. canis is relatively short-lived outside the body and is readily inactivated by common disinfectants as 
+well as by sunlight.  B. canis is stable in the environment in the presence of organic debris for up to two 
+months (proper cleaning and disinfecting is therefore a must).  B. canis can withstand drying in the 
+presence of organic debris, can withstand freezing, and can survive in water, dust and soil. The 
+combination of organic debris, high humidity, low temperatures and little or no sunlight favors survival 
+of the organism (winter conditions in most dog kennels).  
+An important and often overlooked part of kennel management is the proper cleaning and disinfection 
+of a kennel.  When dealing with Brucellosis or other diseases cleaning and disinfection serves to limit the 
+spread of the disease and is a critical component in disease prevention. Proper cleaning and disinfection 
+takes time and must be done correctly for a kennel to be considered truly disinfected. It is important to 
+remember that a clean kennel is not always a disinfected kennel.  The consulting veterinarian must be 
+certain that their clients thoroughly understand the entire cleaning and disinfection process including 
+proper dilution and storage of the cleaners and disinfectants, and the fact that required contact times 
+and appropriate rinsing are absolutely necessary. The required frequency (daily vs. weekly) for cleaning 
+and disinfection should be thoroughly discussed with the client. The
+Text Len: 1827
+--------------------------------------------------------------------------------
+  The consulting veterinarian must be 
+certain that their clients thoroughly understand the entire cleaning and disinfection process including 
+proper dilution and storage of the cleaners and disinfectants, and the fact that required contact times 
+and appropriate rinsing are absolutely necessary. The required frequency (daily vs. weekly) for cleaning 
+and disinfection should be thoroughly discussed with the client. The facility should always be cleaned 
+and disinfected in order of animal susceptibility to disease starting first with the kennel areas housing 
+the most susceptible animals (puppies and nursing bitches), followed by healthy adults and lastly areas 
+housing any unhealthy or isolated animals. Clients should be educated on the specific biosecurity 
+procedures that would be required during isolation or quarantine situations.   
+If there is a “good” aspect of B. canis, it is that the organism is very sensitive to most disinfectants when 
+they are used properly.  The use of a biodegradable enzyme based kennel degreaser is a must before 
+disinfection. A properly used degreaser will effectively remove the biofilm and other organic debris (e.g., 
+residues from feces, urine, vaginal or preputial discharges, oil from the skin and haircoat, other body 
+5 
+ 
+fluids) that build up in all kennels and can “hide” the offending pathogen(s). The degreaser can be 
+applied directly with a spray bottle or conveniently by the use of a hose end foamer. The foamer allows 
+for ease of application and increases the surface area covered. It can also help to ensure that all surfaces 
+are covered.  The use of degreasers that leave a soapy residual film that can contribute to the biofilm is 
+discouraged. 
+Text Len: 1717
+--------------------------------------------------------------------------------
+
+applied directly with a spray bottle or conveniently by the use of a hose end foamer. The foamer allows 
+for ease of application and increases the surface area covered. It can also help to ensure that all surfaces 
+are covered.  The use of degreasers that leave a soapy residual film that can contribute to the biofilm is 
+discouraged.  It is important to rinse all surfaces well after using any degreaser. Once a kennel has 
+undergone degreasing the final step in the cleaning and disinfection process requires the proper 
+application of an appropriate disinfectant to kill the offending pathogens.  A properly functioning hose 
+end foamer supplying the correct concentration of disinfectant is an excellent way to apply the 
+disinfectant to all surfaces that the dogs will come in contact with.  It is important to remember that all 
+disinfectants have a minimal ten minute contact time with the surfaces to be effective (follow product 
+labels and instructions supplied with disinfectant). Most disinfectants require adequate rinsing with 
+clean water after the appropriate contact time has occurred.  After following these procedures we can 
+be assured that we have reduced the biofilm and disinfected the kennel. 
+Diagnosis of Brucella canis  
+B. canis monitoring may be achieved with a variety of tests which have been well described by Hollett 5 
+and by Greene and Carmichael. 6 See the test comparison chart below for specific information on 
+available tests.  The chart was compiled from various sources including peer reviewed publications 5,6, 
+available product inserts 7, and information obtained from reputable veterinary diagnostic laboratories.   
+Because of the zoonotic potential of Brucella, caution should be exercised when collecting and handling 
+blood, serum, fluid or tissues.    
+  
+6 
+Text Len: 1811
+--------------------------------------------------------------------------------
+
+available tests.  The chart was compiled from various sources including peer reviewed publications 5,6, 
+available product inserts 7, and information obtained from reputable veterinary diagnostic laboratories.   
+Because of the zoonotic potential of Brucella, caution should be exercised when collecting and handling 
+blood, serum, fluid or tissues.    
+  
+6 
+ 
+Comparison of Diagnostic Procedures for B. canis 
+Antibody Detection Methods 
+Test Sample 
+Earliest 
+Detection 
+(weeks Pl) 
+Advantages Disadvantages 
+ 
+Rapid Slide Agglutination 
+Test 
+(RSAT) 
+ 
+Serum 
+ 
+ 
+      1- 4 weeks* 
+3-4 weeks** 
+ 
+ 
+Quick, high sensitivity, few false 
+negatives.  Good Screening Test. 
+ 
+False positives possible, must confirm 
+by other tests. 
+Mercaptoethanol (ME) 
+rapid slide agglutination 
+test (ME-RSAT) 
+ 
+Serum 
+ 
+ 
+3 – 4 weeks*** 
+ 
+ 
+Quick, high sensitivity, few false 
+negatives. Increased specificity over 
+RSAT. 
+ 
+False positives possible, must confirm 
+by other tests. 
+ 
+Tube agglutination test 
+(TAT) 
+ 
+Serum 
+ 
+2-4 weeks** 
+3-6 weeks*** 
+ 
+Semiquantitative titer.  Good 
+Screening Test. 
+False positives possible, must confirm 
+by other tests. 
+. 
+ 
+ME-TAT 
+ 
+Serum 
+ 
+2-4 weeks
+Text Len: 1185
+--------------------------------------------------------------------------------
+ 
+ 
+Serum 
+ 
+2-4 weeks** 
+3-6 weeks*** 
+ 
+Semiquantitative titer.  Good 
+Screening Test. 
+False positives possible, must confirm 
+by other tests. 
+. 
+ 
+ME-TAT 
+ 
+Serum 
+ 
+2-4 weeks** 
+5-8 weeks*** 
+Semiquantitative titer. Increased 
+specificity over TAT Longer testing time (2 day test). 
+Agar-gel immunodiffusion 
+(AGID) cell wall (somatic) 
+antigen 
+ 
+Serum 
+ 
+8-12 weeks** 
+5 – 10 weeks*** 
+Positive earlier than CPAg 
+Very sensitive test. 
+Procedure and interpretation complex, 
+nonspecific reactions, poor availability. 
+Internal cytoplasmic 
+protein antigen (CPAg)-
+AGID 
+ 
+Serum 
+ 
+8 – 12 weeks*** 
+Highly specific confirmatory test 
+utilizing highly purified cytoplasmic 
+protein devoid of contamination 
+with LPS. 
+Maternal antibodies prevent 
+seroconversion in puppies; so not useful 
+until 6 months post weaning. Complex 
+procedure. 
+ 
+Indirect Fluorescent 
+antibody 
+ 
+Serum Unknown 
+Available and convenient for 
+diagnostic labs *** 
+Good Screening Test. 
+May be less sensitive than ME-TAT as 
+screening test *** 
+False Positives Possible. 
+ 
+ELISA 
+ 
+Serum 
+ 
+30 days*** 
+Good results with mutant (M-) B 
+canis for cell wall extracts, or
+Text Len: 1151
+--------------------------------------------------------------------------------
+ convenient for 
+diagnostic labs *** 
+Good Screening Test. 
+May be less sensitive than ME-TAT as 
+screening test *** 
+False Positives Possible. 
+ 
+ELISA 
+ 
+Serum 
+ 
+30 days*** 
+Good results with mutant (M-) B 
+canis for cell wall extracts, or B 
+abortus for CPAg *** 
+Antigen purity and preparation 
+critical***   
+ 
+* D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health, Florham Park NJ, USA   
+** Hollett, R.B., 2006; Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66: 575-587 
+*** Greene, Craig E. and Leland E. Carmichael, 2012: Chapter 38: Canine Brucellosis; in Infectious Diseases of the Dog and Cat, Fourth 
+Edition, Craig E. Greene (editor).  
+ 
+7 
+ 
+Comparison of Diagnostic Procedures for B. canis 
+Organism/Antigen Detection Methods 
+Test Sample 
+Earliest 
+Detection 
+(weeks Pl) 
+Advantages Disadvantages 
+Blood or tissue culture 
+ 
+Whole 
+Blood/ 
+FULL Blue 
+Top Tube, 
+or vaginal 
+swab 
+ 
+ 
+Bacteremia 
+detectable, 2-4 
+weeks PI.** 
+Low cost. Can identify actual 
+organism for antimicrobial 
+sensitivity testing and/or DNA 
+profiling 
+Fastidious organism. False negative 
+results possible. Requires sterile 
+technique of blood collection. 
+Contaminant
+Text Len: 1213
+--------------------------------------------------------------------------------
+ 
+ 
+Bacteremia 
+detectable, 2-4 
+weeks PI.** 
+Low cost. Can identify actual 
+organism for antimicrobial 
+sensitivity testing and/or DNA 
+profiling 
+Fastidious organism. False negative 
+results possible. Requires sterile 
+technique of blood collection. 
+Contaminant overgrowth can lead to 
+false negative results.   Intermittent 
+bacteremia may require serial blood 
+cultures.  POOR SCREENING TEST. 
+PCR 
+ 
+Whole 
+Blood/ 
+FULL Blue 
+Top Tube, 
+or vaginal 
+swab 
+ 
+1.5 CFU/ml 
+detected.**** 5x more sensitive than culture 
+False negative results possible. Requires 
+sterile technique of blood collection.  
+POOR SCREENING TEST. 
+ 
+* D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health, Florham Park NJ, USA   
+**Hollett, R.B., 2006; Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66: 575-587 
+***Greene, Craig E. and Leland E. Carmichael, 2012: Chapter 38: Canine Brucellosis; in Infectious Diseases of the Dog and Cat, Fourth 
+Edition, Craig E. Greene (editor).  
+ 
+****Kansas State University Veterinary Diagnostic Laboratory 
+ 
+  
+8 
+ 
+Screening a Kennel for Brucellosis 
+A whole kennel screening test consists of testing all canines over six months of age at least once every 
+12 months.   If there are any reproductive concerns within the
+Text Len: 1290
+--------------------------------------------------------------------------------
+ Craig E. Greene (editor).  
+ 
+****Kansas State University Veterinary Diagnostic Laboratory 
+ 
+  
+8 
+ 
+Screening a Kennel for Brucellosis 
+A whole kennel screening test consists of testing all canines over six months of age at least once every 
+12 months.   If there are any reproductive concerns within the breeding population, B. canis screening 
+should be done. 
+If a positive result is obtained on any test, the dog should be isolated and classified as a Brucella suspect 
+dog.  Because of the possibility of false positives on some tests, select a different diagnostic test to 
+validate the initial results.  If the second test does not agree with the initial test, a third diagnostic test 
+should be performed eight weeks after the second test to rule in or rule out Brucellosis.  Because of 
+variability in state regulations, veterinarians should check with their state veterinarian or appropriate 
+public health official on how to handle Brucellosis positive test results.   
+If a female or male dog has left the kennel for any reason other than a C-Section or veterinary 
+procedure, the dog should be tested for B. canis eight weeks after returning to the kennel.  
+Testing Considerations for Brucellosis Positive Kennels 
+Once Brucellosis is diagnosed (two positive tests), testing and removal of all positive dogs in the kennel 
+is the only way to gain negative status.  It is highly recommended that all dog sales be stopped until 
+negative status is achieved.  Veterinarians should check with their state veterinarians or public health 
+officials to verify if a suspect or positive kennel is placed under a strict no-sale quarantine or only a 
+partial quarantine, in which only pups from Brucellosis positive
+Text Len: 1721
+--------------------------------------------------------------------------------
+ way to gain negative status.  It is highly recommended that all dog sales be stopped until 
+negative status is achieved.  Veterinarians should check with their state veterinarians or public health 
+officials to verify if a suspect or positive kennel is placed under a strict no-sale quarantine or only a 
+partial quarantine, in which only pups from Brucellosis positive females are prohibited from being sold, 
+traded, or bartered.   Even If a state does not have regulations concerning quarantine procedures for 
+Brucellosis positive dogs, it is still recommended that the sale, trade, or bartering of Brucella positive 
+dog or puppies from Brucellosis positive dams be discontinued.  
+Test all remaining dogs and repeat every four weeks until there are two consecutive negative whole 
+kennel tests. Two negative tests should eliminate the organism from the kennel population.   Testing 
+should be done with the knowledge of the state veterinarian and with a test recognized by the state the 
+kennel is physically located in.   
+Re-homing Considerations for Dogs Positive for Brucella canis  
+It is important to emphasize that brucellosis is currently not considered to be a curable disease in dogs. 
+Attempts at treatment have been very disappointing, with relapses commonly occurring. Attempted 
+treatment can mask diagnostic testing, and it has been shown to be an important contributing factor in 
+the spread of the disease.  What this fact currently means for kennel owners is that animals infected 
+with any of the Brucella species MUST be removed from the breeding population.  
+Because of the zoonotic potential of Brucella, confirmed Brucellosis-positive dogs should NOT 
+be rehomed.  
+Decisions concerning the possible re-homing of Brucellosis positive dogs should only be
+Text Len: 1784
+--------------------------------------------------------------------------------
+ means for kennel owners is that animals infected 
+with any of the Brucella species MUST be removed from the breeding population.  
+Because of the zoonotic potential of Brucella, confirmed Brucellosis-positive dogs should NOT 
+be rehomed.  
+Decisions concerning the possible re-homing of Brucellosis positive dogs should only be made with the 
+approval and knowledge of the appropriate public health official(s) within the state of origin as well as 
+within the state of destination if being transferred across state lines. If the decision is made to re-home 
+9 
+ 
+Brucellosis positive dogs, they should undergo an ovario-hysterectomy or castration and be placed on 
+appropriate long-term antibiotics, with proper supervision by a licensed veterinarian that should include 
+lifetime periodic laboratory testing for B. canis.  Brucellosis is considered a lifelong infection in dogs, and  
+even after undergoing surgical sterilization and long term antibiotic use, both male and female dogs may 
+continue to intermittently shed the organism. New owners should be made aware of the ongoing 
+potential risk that these dogs carry for infecting humans, other dogs and other susceptible animal 
+species that they come in contact with (see zoonotic section above).  
+Re-homing Considerations for Retired Dogs from Kennels with an Unknown 
+Brucella canis Status 
+Any dogs that are re-homed or transferred to any individual, entity or organization should have a 
+negative diagnostic test for B. canis prior to change of ownership and tested again 8 weeks later.  The 
+new owner or organization should be educated in the possible zoonotic risks associated with the 
+disease.     
+  
+10 
+ 
+Summary 
+This
+Text Len: 1691
+--------------------------------------------------------------------------------
+omed or transferred to any individual, entity or organization should have a 
+negative diagnostic test for B. canis prior to change of ownership and tested again 8 weeks later.  The 
+new owner or organization should be educated in the possible zoonotic risks associated with the 
+disease.     
+  
+10 
+ 
+Summary 
+This document contains a compilation of knowledge garnered from currently available science, 
+technology, population medicine, and biosecurity strategies surrounding the management of B. canis in 
+dog breeding kennels. It should be considered a work in progress, because the understanding of this 
+important disease continues to evolve through advances in scientific knowledge. It is the hope of the 
+authors that this information will serve as a guide for veterinarians and their clients with the goal of 
+bringing consistency and clarity to the diagnosis, prevention and management of B. canis infection in 
+dog breeding kennels.  Only through continued advancement of science and the dissemination of 
+knowledge can we hope to control this devastating disease. 
+ 
+Recommendations 
+There is an ongoing need for continued basic science and clinical research surrounding prevention, 
+diagnosis, and the identification of effective treatment options aimed at the control of this important 
+disease. Further study will be required to clarify the epizootiology of B. canis with respect to disease 
+pathogenesis, transmission and true prevalence rates in both dogs and in humans.  Immunologic 
+research directed towards the development of an effective B. canis bacterin to be used in the 
+management and control of this disease in dogs would be welcomed.   The authors recommend that 
+laboratory standards be developed for all currently utilized and future diagnostic tests used to identify 
+B. canis infection in dogs. We recommend the implementation of quality control proficiency testing of 
+the currently
+Text Len: 1915
+--------------------------------------------------------------------------------
+ towards the development of an effective B. canis bacterin to be used in the 
+management and control of this disease in dogs would be welcomed.   The authors recommend that 
+laboratory standards be developed for all currently utilized and future diagnostic tests used to identify 
+B. canis infection in dogs. We recommend the implementation of quality control proficiency testing of 
+the currently available tests to validate accuracy, consistency, sensitivity and specificity.   
+ 
+Acknowledgements 
+The authors gratefully acknowledge the following veterinary diagnostic laboratories for their 
+consultation and information concerning testing options for B. canis:  
+Cornell Animal Health Diagnostic Laboratory 
+Kansas State Veterinary Diagnostic Laboratory 
+National Veterinary Services Laboratory 
+ 
+  
+11 
+ 
+Internet Resources 
+State Animal Health Officials 2014:  
+http://www.usaha.org/Portals/6/StateAnimalHealthOfficials.pdf 
+State Public Health Veterinarians 2015: 
+http://www.nasphv.org/Documents/StatePublicHealthVeterinariansByState.pdf 
+ 
+References 
+(1) NASPHV, 2012; Public Health Implications of Brucella canis Infections in Humans;  
+              http://www.nasphv.org/Documents/BrucellaCanisInHumans.pdf (accessed 6/26/2015). 
+(2) Evans, L., L. K. Kauffman and R. Cox, 2005: Brucellosis on the rise in canine breeding kennels. 
+Iowa Veterinary Medical Association Update Newsletter, 13, 10 
+(3) Kauffman, L. and J. Kinyon, 2006: Canine Brucellosis on the rise in Iowa Breeding kennels. IVMA 
+
+Text Len: 1510
+--------------------------------------------------------------------------------
+., L. K. Kauffman and R. Cox, 2005: Brucellosis on the rise in canine breeding kennels. 
+Iowa Veterinary Medical Association Update Newsletter, 13, 10 
+(3) Kauffman, L. and J. Kinyon, 2006: Canine Brucellosis on the rise in Iowa Breeding kennels. IVMA 
+Update News, 14, 3.  
+(4) Brower, A., O. Okwumabua, C. Massengill, Q. Meunks, P. Vanderloo, M. Duster, K. Homb and K. 
+Kurth, 2007: Investigation of the spread of Brucella canis via the U.S. interstate dog trade. Int. J. 
+Infect. Dis. 11, 454-458. 
+(5) Hollett, R.B., Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66 (2006) 575-587 
+(6) Infectious diseases of the dog and cat, Fourth Edition 2012 / [Edited by] Craig E. Greene ; 
+Chapter 38 Canine Brucellosis, Craig E. Greene and Leland E. Carmichael  
+(7) D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health  Florham Park 
+NJ, USA; 
+https://www.zoetisus.com/contact/pages/product_information/msds_pi/pi/Canine_Brucellosis
+_Antibody_Test_Kit_D-TEC_CB.pdf (accessed 6/26/2015). 
+ 
+ 
+12 
+ 
+Text Len: 1041
+--------------------------------------------------------------------------------
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service  
+ 
+October 2015 
+ 
+Best Practices for Brucella canis  
+Prevention and Control in  
+Dog Breeding Facilities  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+United States 
+Department 
+of Agriculture 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service 
+ 
+ 
+ 
+Best Practices for Brucella canis  
+Prevention and Control in  
+Dog Breeding Facilities  
+ 
+Donald J. Bramlage, DVM – Director of Veterinary Services,  
+Revival Animal Health, Orange City, IA;  
+ 
+William Fortney, DVM - Assistant Professor,  
+Kansas State Veterinary Diagnostic Laboratory, Manhattan, KS;  
+ 
+Rick M Kesler, DVM –  
+Scientific Services Veterinarian, St. Charles, MO;  
+ 
+Craig J. Mabray, MS, DVM – Kennel Specialist,  
+USDA/APHIS/AC, APHIS Center for Animal Welfare, Kansas City, MO;  
+ 
+James W Mason, DVM –  
+Bicknell, IN;  
+ 
+Hilary Reinhold, DVM –  
+LaGrange Veterinary Clinic, LaGrange, IN;  
+ 
+Pamela Sessions, DVM –  
+Sessions Veterinary Clinic, Bloomfield, IA;  
+ 
+Aaron Wise, DVM –  
+East Holmes Veterinary Clinic, Berlin, OH 
+ 
+ 
+  
+Disclaimer: This document presents a compilation of knowledge
+Text Len: 1144
+--------------------------------------------------------------------------------
+ 
+LaGrange Veterinary Clinic, LaGrange, IN;  
+ 
+Pamela Sessions, DVM –  
+Sessions Veterinary Clinic, Bloomfield, IA;  
+ 
+Aaron Wise, DVM –  
+East Holmes Veterinary Clinic, Berlin, OH 
+ 
+ 
+  
+Disclaimer: This document presents a compilation of knowledge garnered from currently 
+available science, technology, population medicine, and biosecurity strategies surrounding the 
+management of Brucella canis infections. It should be considered a work in progress, because 
+the understanding of this important disease continues to evolve through advances in scientific 
+knowledge. The information contained herein is not meant to supersede any local, state, tribal, 
+or federal laws, regulations or policies concerning brucellosis in dogs. The recommendations 
+are intended to be considered best practices, are not meant to be exclusive management 
+approaches, and may require adaptation to meet the specific needs of individual animals and 
+particular circumstances.  
+ 
+Cover photo by Don Bramlage. 
+ 
+ 
+For more information contact:  
+Dr. Craig Mabray 
+Kennel Specialist 
+USDA Center for Animal Welfare  
+USDA-APHIS-AC  
+2312 East Bannister Rd.  Mail Stop 1180 
+Kansas City, MO     64131-3011 
+ 
+816-737-4230 
+ 
+craig.j.mabray@aphis.usda.gov 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the basis of race, color, national origin, 
+age, disability, and where applicable, sex, marital status, familial status, parental status, religion, sexual orientation, genetic information
+Text Len: 1534
+--------------------------------------------------------------------------------
+craig.j.mabray@aphis.usda.gov 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs and activities on the basis of race, color, national origin, 
+age, disability, and where applicable, sex, marital status, familial status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income is derived from any public assistance program. (Not all prohibited bases 
+apply to all programs.) Persons with disabilities who require alternative means for communication of program information (Braille, large print, 
+audiotape, etc.) should contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD). To file a complaint of discrimination, write to USDA, 
+Director, Office of Civil Rights, 1400 Independence Avenue, S.W., Washington, D.C. 20250–9410, or call (800) 795–3272 (voice) or (202) 720–
+6382 (TDD). USDA is an equal opportunity provider and employer. 
+October 2015 
+ 
+Table of Contents 
+Canine Brucellosis 1 
+Pathogenesis and Clinical Signs 1 
+Zoonotic Information concerning Brucella canis 3 
+Population Medicine and Biosecurity Considerations 4 
+• Cleaning and Disinfection 5 
+• Diagnosis of Brucella canis 6 
+• Tables: Comparison of Diagnostic Procedures for B. canis  
+o Antibody Detection Methods 7 
+o Organism/Antigen Detection Methods 8 
+• Screening a Kennel for Brucellosis 9 
+• Testing Considerations for Brucellosis Positive Kennels 9 
+• Re-homing Considerations for Dogs Positive for Brucella can
+Text Len: 1528
+--------------------------------------------------------------------------------
+ 
+• Tables: Comparison of Diagnostic Procedures for B. canis  
+o Antibody Detection Methods 7 
+o Organism/Antigen Detection Methods 8 
+• Screening a Kennel for Brucellosis 9 
+• Testing Considerations for Brucellosis Positive Kennels 9 
+• Re-homing Considerations for Dogs Positive for Brucella canis 9 
+• Re-homing Considerations for Retired Dogs from Kennels with an Unknown 
+Brucella canis Status 
+ 
+10 
+Summary 11 
+Recommendations 11 
+Acknowledgements 11 
+Internet Resources 12 
+References 12 
+ 
+i 
+Canine Brucellosis 
+Canine Brucellosis, caused by Brucella canis, is a significant reproductive disease of dogs. It is caused by 
+an intracellular bacterium and often found in breeding kennels throughout the United States.  B. canis is 
+a zoonotic organism that can infect humans and is currently considered to be underreported in human 
+medicine. 1  
+The true prevalence of the disease in dogs is not well understood.  The prevalence rates mentioned in 
+currently available review articles and information sheets reference results obtained in the 1970’s and 
+1980’s with reported rates of infection of1 – 8%.  Within the past few years it has become apparent that 
+the incidence of B. canis infection within the dog breeding industry has been on the rise. 2,3.4   The 
+disease may have also become more recognizable due to increased awareness coupled with improved 
+diagnostic testing capabilities.  
+There is much confusion about the disease among kennel operators and veterinarians alike. Brucellosis, 
+while historically thought of as a disease that causes abortions, has many clinical signs that are often 
+Text Len: 1613
+--------------------------------------------------------------------------------
+ rise. 2,3.4   The 
+disease may have also become more recognizable due to increased awareness coupled with improved 
+diagnostic testing capabilities.  
+There is much confusion about the disease among kennel operators and veterinarians alike. Brucellosis, 
+while historically thought of as a disease that causes abortions, has many clinical signs that are often 
+misinterpreted.  These include but are not limited to early abortions, testicular swelling, uveitis and 
+spinal arthritis.  Misunderstanding about the tests available for Brucellosis, often leads to the disease in 
+kennels being misdiagnosed or under diagnosed. Routine blood work and urinalysis are often normal. 
+It is possible for infected females to raise infected puppies that can enter consumer markets.  A 2011 
+survey of State Public Health Veterinarians reported that B. canis infection is a reportable disease in at 
+least 28 states. 1 Because the disease is reportable in many states there is a small but important 
+“underground” that tries to avert the reporting and thus serves as a continuum for the disease.  
+Additionally, it is important to emphasize that in dogs it is not a curable disease, which means that 
+carrier animals MUST be removed from the breeding population in a kennel situation.  Attempts at 
+treatment have been very disappointing with relapses commonly occurring. Attempted treatment can 
+mask diagnostic testing and has been shown to be yet another important contributing factor in the 
+spread of the disease.  
+Pathogenesis and Clinical Signs  
+Natural transmission of canine brucellosis can occur by several routes.  B. canis organisms are shed in 
+the highest numbers in aborted material and vaginal discharge. Infected females transmit canine 
+brucellosis during estrus, at breeding, or
+Text Len: 1788
+--------------------------------------------------------------------------------
+ to be yet another important contributing factor in the 
+spread of the disease.  
+Pathogenesis and Clinical Signs  
+Natural transmission of canine brucellosis can occur by several routes.  B. canis organisms are shed in 
+the highest numbers in aborted material and vaginal discharge. Infected females transmit canine 
+brucellosis during estrus, at breeding, or after abortion through oronasal contact of vaginal discharges 
+and aborted materials.  Shedding of B. canis may occur for up to six weeks after an abortion.  Semen, 
+seminal fluid and urine from infected males have also been documented as sources of infection.  The 
+rate of isolation from the semen of B. canis is usually high for the first six to eight weeks after infection 
+but males can have intermittent shedding of the organism in low numbers for up to two years. Both 
+males and females may shed the organism in the urine for at least three months after becoming 
+infected. The organism can also be present in blood, milk, saliva, nasal and ocular secretions, and in the 
+feces.  Brucellosis has also been documented to be spread via fomites during vaginoscopy, artificial 
+1 
+ 
+insemination, blood transfusion, or by the use of contaminated syringes or other medical and husbandry 
+equipment (do not share kennels, crates or other equipment).  Hands and clothing can also act as 
+fomites and increase the spread of the organism within a kennel (do not visit other kennels without 
+washing clothes, disinfecting shoes and washing your hands).  The use of high pressure spraying and 
+cleaning equipment and improper wash-down techniques within kennels have also been shown to 
+facilitate the spread of the disease.  Puppies can
+Text Len: 1695
+--------------------------------------------------------------------------------
+fomites and increase the spread of the organism within a kennel (do not visit other kennels without 
+washing clothes, disinfecting shoes and washing your hands).  The use of high pressure spraying and 
+cleaning equipment and improper wash-down techniques within kennels have also been shown to 
+facilitate the spread of the disease.  Puppies can become infected in utero, during birth, while nursing, 
+by contact with contaminated surfaces, or by fomite spread. 
+Canine brucellosis is considered a lifelong infection in dogs. Clinical signs of canine brucellosis are 
+extensive and variable and depend on the sex and age of the dog affected.  The disease often exhibits no 
+clinical signs that are obvious to the owner or veterinarian, or it can present as an abortion storm 
+affecting many dogs.    B. canis is a major cause of infertility and abortion in breeding dogs and therefore 
+should be one of the first diseases to be ruled out when investigating reproductive complaints.  
+ Several months after infection, there will be evidence of conception failures and infertility, such as late-
+term abortion with prolonged vaginal discharge, stillbirths, decreased litter size, and decreased puppy 
+survivability.  As the disease progresses adult dogs may develop epididymitis, orchitis, testicular swelling 
+or atrophy, sperm abnormalities, uveitis, meningioencephalitis, spinal arthritis, weight loss, poor hair 
+coat, listlessness, swollen lymph nodes, and behavioral changes. Some chronically infected dogs may be 
+totally asymptomatic and still be a source of infection for other animals and humans. The clinical signs of 
+infection can mimic many other diseases, and for that reason, Canine Brucellosis has been described as 
+“The Great Imposter”.  
+Text Len: 1755
+--------------------------------------------------------------------------------
+, listlessness, swollen lymph nodes, and behavioral changes. Some chronically infected dogs may be 
+totally asymptomatic and still be a source of infection for other animals and humans. The clinical signs of 
+infection can mimic many other diseases, and for that reason, Canine Brucellosis has been described as 
+“The Great Imposter”.    
+In the female the disease is usually thought of as a cause of abortions in affected breeding dogs.  Most 
+abortions occur between 45 and 55 days of gestation, and the aborted fetuses appear autolyzed. Early 
+embryonic death may lead to resorption and result in perceived conception failure. Endometritis is 
+usually seen in cases of uterine infections. It is also common to observe a prolonged vaginal discharge 
+either following an abortion or during proestrus.  The female may also have puppies that are born dead, 
+born alive and soon die, or in some cases puppies that live to become adults. 
+ In the male B. canis usually infects the prostate, testicles and epididymis and clinical signs are 
+associated with these areas. Enlargement of one or both of the testicles may be seen. In long standing 
+cases atrophy of the testicles may occur.  Enlargement and inflammation of the epididymis 
+(epididymitis) is a commonly observed clinical sign.  Scrotal dermatitis and swelling is usually a source of 
+intense licking by the affected male. Infertility may be seen, but these infected males may also breed 
+successfully.  The organism’s effect on spermatozoa is well described by Greene and Carmichael. 6 Sperm 
+abnormalities can be identified starting five weeks post infection (PI) and become pronounced by eight 
+weeks. These early abnormalities
+Text Len: 1687
+--------------------------------------------------------------------------------
+ 
+intense licking by the affected male. Infertility may be seen, but these infected males may also breed 
+successfully.  The organism’s effect on spermatozoa is well described by Greene and Carmichael. 6 Sperm 
+abnormalities can be identified starting five weeks post infection (PI) and become pronounced by eight 
+weeks. These early abnormalities include immature sperm, deformed acrosomes, swollen midpieces, 
+and retained protoplasmic droplets. By 15 weeks PI bent tails, detached heads, and head-to-head 
+agglutinations are seen. By 20 weeks PI 90% of sperm are abnormal. Aspermia without inflammatory 
+cells may develop and is associated with testicular atrophy. 
+2 
+ 
+Generalized signs may be seen in dogs of any sex or age and include lethargy, lymphadenitis, ocular 
+disease and vertebral pain. Loss of libido and unwillingness to breed are common signs seen in breeding 
+stock.  B. canis should be considered whenever reproductive problems occur, whether acute or chronic. 
+Zoonotic Information concerning Brucella canis 
+To decrease the possibility of human exposure to B. canis veterinarians should encourage their dog 
+breeding clients to wear single-use protective examination gloves during assistance with whelping 
+including the handling of newborn puppies, placentas, fetal membranes, or exposure to urine or vaginal 
+secretions.  Extreme caution should be taken when handling any aborted materials including dead or 
+partially developed puppies, their fetal membranes and placentas. Protective gloves should also be used 
+during assistance with any natural or artificial breeding. Appropriate use of personal protective 
+equipment beyond just wearing gloves (respiratory and ocular protection) may be required to prevent 
+human infection during cleaning and disinfection and animal
+Text Len: 1798
+--------------------------------------------------------------------------------
+ taken when handling any aborted materials including dead or 
+partially developed puppies, their fetal membranes and placentas. Protective gloves should also be used 
+during assistance with any natural or artificial breeding. Appropriate use of personal protective 
+equipment beyond just wearing gloves (respiratory and ocular protection) may be required to prevent 
+human infection during cleaning and disinfection and animal handling in brucellosis positive kennels 
+during quarantine and isolation situations.  Caution should be taken when collecting and handling blood, 
+serum, fluids or tissues for laboratory analysis by the veterinarian, paraprofessional staff, the client, and 
+laboratory personnel if brucellosis is suspected. 
+   
+Veterinarians should discuss with their dog breeding clients the potential for liability and damaged 
+reputation surrounding zoonotic cases of B. canis entering consumer markets through the sale of 
+infected puppies or adult dogs. These puppies or adult dogs commonly come into contact with children, 
+older adults and other immunocompromised individuals. A recent example is a 2012 New York City case 
+involving a 3 year old girl which is the first documented case of transmission of B. canis from a puppy to 
+a child in the United States. This human case of B. canis infection resulted in a multistate, multi-agency 
+investigation to determine the source of the child’s infection, origin of the puppy, location of the 
+puppy’s littermate in another state (PA), additional human exposures, and an investigation of the 
+Midwest breeding facility (personal communication with the CDC and the New York City Department of 
+Health and Mental Hygiene).          
+ 
+The symptoms of B. canis infections in humans are generally similar to those of brucellosis caused by
+Text Len: 1802
+--------------------------------------------------------------------------------
+�s littermate in another state (PA), additional human exposures, and an investigation of the 
+Midwest breeding facility (personal communication with the CDC and the New York City Department of 
+Health and Mental Hygiene).          
+ 
+The symptoms of B. canis infections in humans are generally similar to those of brucellosis caused by the 
+other Brucella species (e.g., B. abortus and B. melitensis).  They are frequently non-specific, and may 
+include one or more of the following: fever (often periodic and nocturnal), fatigue, headache, weakness, 
+malaise, chills, sweats, weight loss, hepatomegaly, splenomegaly, and lymphadenopathy.  
+ A thorough review of the current understanding of B. canis infection and the diagnostic challenges in 
+humans can be found in the 2012 National Association of State Public Health Veterinarians (NASPHV) 
+document “Public Health Implications of B. canis Infections in Humans” 1  from which the following two 
+quotes have been extracted: 
+  
+3 
+ 
+ “Although there are multiple statements in the literature that B. canis infections tend to cause a 
+milder illness compared to other Brucella spp., serious manifestations have been described.  These 
+include septic arthritis, aortic valve vegetations, calvarial osteomyelitis, epidural abscess, pleural 
+effusion, oral lesions, lower extremity aneurysms, and culture negative endocarditis.  There are at 
+least two reports describing B. canis infection in HIV-infected patients. The disease in both patients 
+was well-controlled with regard to viral load and CD4 counts, and each had
+Text Len: 1570
+--------------------------------------------------------------------------------
+elitis, epidural abscess, pleural 
+effusion, oral lesions, lower extremity aneurysms, and culture negative endocarditis.  There are at 
+least two reports describing B. canis infection in HIV-infected patients. The disease in both patients 
+was well-controlled with regard to viral load and CD4 counts, and each had typical clinical 
+presentations of brucellosis with good responses to treatment. “ 
+ “Although the low numbers of known human cases imply that the impact of B. canis on human 
+health is minimal, it seems likely that a lack of clinical suspicion of the infection, its nonspecific clinical 
+presentation, the non-availability of approved serologic tests, and the organism’s fastidiousness in 
+culture all result in the underdiagnosis, and subsequently the underreporting, of this infection”.  
+Population Medicine and Biosecurity Considerations 
+Ideal control measures for canine brucellosis in breeding kennels centers around sound population 
+medicine and biosecurity practices.   Gaining negative Brucellosis status involves testing and removal of 
+infected animals, sourcing new additions to the breeding population from proven negative kennels, and   
+isolation and repeat testing of new additions to prove them brucellosis negative.  Practicing strict 
+biosecurity, continual disease surveillance with proper breeding management and maintaining strict 
+environmental controls (cleaning, disinfection, proper temperature and humidity) are required to 
+maintain Brucellosis free status. Particular care should be taken to properly clean and disinfect whelping 
+sites and nurseries on a daily basis.  
+Once a breeding dog population is proven to be free of brucellosis the best way to keep brucellosis out 
+of the kenn
+Text Len: 1734
+--------------------------------------------------------------------------------
+aning, disinfection, proper temperature and humidity) are required to 
+maintain Brucellosis free status. Particular care should be taken to properly clean and disinfect whelping 
+sites and nurseries on a daily basis.  
+Once a breeding dog population is proven to be free of brucellosis the best way to keep brucellosis out 
+of the kennel is to isolate and test all incoming dogs, proving them negative prior to placing them into 
+the general kennel population.  This is best accomplished by isolating newly purchased dogs in a 
+separate building or facility, away from the general population for a minimum of eight weeks. All 
+incoming dogs should be tested for B. canis on arrival and again at eight weeks. Only after these two 
+negative screening tests have been done on all dogs in the isolation facility can they be safely moved 
+into the established kennel.   If during this eight week isolation period any of the dogs in isolation are 
+diagnosed with brucellosis they should be eliminated from the premises immediately.  The eight week 
+isolation period is then restarted for the remaining dogs in isolation. This isolation and testing approach 
+has proven to be the safest way to introduce new dogs into an established breeding population without 
+the fear of introducing brucellosis or other infectious organisms. 
+Ideally, breeding dogs should never leave the breeding kennel facility other than to visit a veterinarian 
+for necessary treatment (e.g., C-section, serious injury or illness).  It is best to maintain a closed 
+population of breeding dogs in the kennel and not send females out to be bred. A female sent out for 
+breeding purposes is a risk and any dog leaving the breeding kennel facility for any reason other than a 
+C-Section should be tested 90 days after its return to confirm its negative
+Text Len: 1817
+--------------------------------------------------------------------------------
+section, serious injury or illness).  It is best to maintain a closed 
+population of breeding dogs in the kennel and not send females out to be bred. A female sent out for 
+breeding purposes is a risk and any dog leaving the breeding kennel facility for any reason other than a 
+C-Section should be tested 90 days after its return to confirm its negative status.  It is best to isolate that 
+dog from the rest of the kennel population upon its return, but doing so may not be practical because it 
+4 
+ 
+would require isolation during gestation and whelping, which could be problematic in some kennel 
+situations.  
+An alternative approach for bringing in new genetics would be to use artificial insemination (AI) for 
+breeding females, with semen obtained from outside stud dogs that have been proven to be negative 
+for B. canis (two negative tests at least eight weeks apart prior to collection of the semen).  If male dogs 
+are to be used for outside breeding, the safest approach would be to only offer this service through the 
+use of AI, with the semen collected on the premises and then shipped to the outside kennel without the 
+female ever coming to the facility. 
+Visitors (including the breeding client themselves) should not have visited any other breeding facilities 
+that day, should be wearing clean clothing, should disinfect their shoes, should wear disposable 
+protective shoe covers, and should adequately wash their hands. Ideally visitors should not touch or 
+handle any dogs or equipment. Some accomplish access without direct contact using video viewing of 
+dam and sire as well as video of the litter through the nursing period.  This eliminates most direct 
+disease transfer risk until the puppy is moved to the new home. 
+Cleaning and Disinfection  
+B. canis
+Text Len: 1784
+--------------------------------------------------------------------------------
+. Ideally visitors should not touch or 
+handle any dogs or equipment. Some accomplish access without direct contact using video viewing of 
+dam and sire as well as video of the litter through the nursing period.  This eliminates most direct 
+disease transfer risk until the puppy is moved to the new home. 
+Cleaning and Disinfection  
+B. canis is relatively short-lived outside the body and is readily inactivated by common disinfectants as 
+well as by sunlight.  B. canis is stable in the environment in the presence of organic debris for up to two 
+months (proper cleaning and disinfecting is therefore a must).  B. canis can withstand drying in the 
+presence of organic debris, can withstand freezing, and can survive in water, dust and soil. The 
+combination of organic debris, high humidity, low temperatures and little or no sunlight favors survival 
+of the organism (winter conditions in most dog kennels).  
+An important and often overlooked part of kennel management is the proper cleaning and disinfection 
+of a kennel.  When dealing with Brucellosis or other diseases cleaning and disinfection serves to limit the 
+spread of the disease and is a critical component in disease prevention. Proper cleaning and disinfection 
+takes time and must be done correctly for a kennel to be considered truly disinfected. It is important to 
+remember that a clean kennel is not always a disinfected kennel.  The consulting veterinarian must be 
+certain that their clients thoroughly understand the entire cleaning and disinfection process including 
+proper dilution and storage of the cleaners and disinfectants, and the fact that required contact times 
+and appropriate rinsing are absolutely necessary. The required frequency (daily vs. weekly) for cleaning 
+and disinfection should be thoroughly discussed with the client. The
+Text Len: 1827
+--------------------------------------------------------------------------------
+  The consulting veterinarian must be 
+certain that their clients thoroughly understand the entire cleaning and disinfection process including 
+proper dilution and storage of the cleaners and disinfectants, and the fact that required contact times 
+and appropriate rinsing are absolutely necessary. The required frequency (daily vs. weekly) for cleaning 
+and disinfection should be thoroughly discussed with the client. The facility should always be cleaned 
+and disinfected in order of animal susceptibility to disease starting first with the kennel areas housing 
+the most susceptible animals (puppies and nursing bitches), followed by healthy adults and lastly areas 
+housing any unhealthy or isolated animals. Clients should be educated on the specific biosecurity 
+procedures that would be required during isolation or quarantine situations.   
+If there is a “good” aspect of B. canis, it is that the organism is very sensitive to most disinfectants when 
+they are used properly.  The use of a biodegradable enzyme based kennel degreaser is a must before 
+disinfection. A properly used degreaser will effectively remove the biofilm and other organic debris (e.g., 
+residues from feces, urine, vaginal or preputial discharges, oil from the skin and haircoat, other body 
+5 
+ 
+fluids) that build up in all kennels and can “hide” the offending pathogen(s). The degreaser can be 
+applied directly with a spray bottle or conveniently by the use of a hose end foamer. The foamer allows 
+for ease of application and increases the surface area covered. It can also help to ensure that all surfaces 
+are covered.  The use of degreasers that leave a soapy residual film that can contribute to the biofilm is 
+discouraged. 
+Text Len: 1717
+--------------------------------------------------------------------------------
+
+applied directly with a spray bottle or conveniently by the use of a hose end foamer. The foamer allows 
+for ease of application and increases the surface area covered. It can also help to ensure that all surfaces 
+are covered.  The use of degreasers that leave a soapy residual film that can contribute to the biofilm is 
+discouraged.  It is important to rinse all surfaces well after using any degreaser. Once a kennel has 
+undergone degreasing the final step in the cleaning and disinfection process requires the proper 
+application of an appropriate disinfectant to kill the offending pathogens.  A properly functioning hose 
+end foamer supplying the correct concentration of disinfectant is an excellent way to apply the 
+disinfectant to all surfaces that the dogs will come in contact with.  It is important to remember that all 
+disinfectants have a minimal ten minute contact time with the surfaces to be effective (follow product 
+labels and instructions supplied with disinfectant). Most disinfectants require adequate rinsing with 
+clean water after the appropriate contact time has occurred.  After following these procedures we can 
+be assured that we have reduced the biofilm and disinfected the kennel. 
+Diagnosis of Brucella canis  
+B. canis monitoring may be achieved with a variety of tests which have been well described by Hollett 5 
+and by Greene and Carmichael. 6 See the test comparison chart below for specific information on 
+available tests.  The chart was compiled from various sources including peer reviewed publications 5,6, 
+available product inserts 7, and information obtained from reputable veterinary diagnostic laboratories.   
+Because of the zoonotic potential of Brucella, caution should be exercised when collecting and handling 
+blood, serum, fluid or tissues.    
+  
+6 
+Text Len: 1811
+--------------------------------------------------------------------------------
+
+available tests.  The chart was compiled from various sources including peer reviewed publications 5,6, 
+available product inserts 7, and information obtained from reputable veterinary diagnostic laboratories.   
+Because of the zoonotic potential of Brucella, caution should be exercised when collecting and handling 
+blood, serum, fluid or tissues.    
+  
+6 
+ 
+Comparison of Diagnostic Procedures for B. canis 
+Antibody Detection Methods 
+Test Sample 
+Earliest 
+Detection 
+(weeks Pl) 
+Advantages Disadvantages 
+ 
+Rapid Slide Agglutination 
+Test 
+(RSAT) 
+ 
+Serum 
+ 
+ 
+      1- 4 weeks* 
+3-4 weeks** 
+ 
+ 
+Quick, high sensitivity, few false 
+negatives.  Good Screening Test. 
+ 
+False positives possible, must confirm 
+by other tests. 
+Mercaptoethanol (ME) 
+rapid slide agglutination 
+test (ME-RSAT) 
+ 
+Serum 
+ 
+ 
+3 – 4 weeks*** 
+ 
+ 
+Quick, high sensitivity, few false 
+negatives. Increased specificity over 
+RSAT. 
+ 
+False positives possible, must confirm 
+by other tests. 
+ 
+Tube agglutination test 
+(TAT) 
+ 
+Serum 
+ 
+2-4 weeks** 
+3-6 weeks*** 
+ 
+Semiquantitative titer.  Good 
+Screening Test. 
+False positives possible, must confirm 
+by other tests. 
+. 
+ 
+ME-TAT 
+ 
+Serum 
+ 
+2-4 weeks
+Text Len: 1185
+--------------------------------------------------------------------------------
+ 
+ 
+Serum 
+ 
+2-4 weeks** 
+3-6 weeks*** 
+ 
+Semiquantitative titer.  Good 
+Screening Test. 
+False positives possible, must confirm 
+by other tests. 
+. 
+ 
+ME-TAT 
+ 
+Serum 
+ 
+2-4 weeks** 
+5-8 weeks*** 
+Semiquantitative titer. Increased 
+specificity over TAT Longer testing time (2 day test). 
+Agar-gel immunodiffusion 
+(AGID) cell wall (somatic) 
+antigen 
+ 
+Serum 
+ 
+8-12 weeks** 
+5 – 10 weeks*** 
+Positive earlier than CPAg 
+Very sensitive test. 
+Procedure and interpretation complex, 
+nonspecific reactions, poor availability. 
+Internal cytoplasmic 
+protein antigen (CPAg)-
+AGID 
+ 
+Serum 
+ 
+8 – 12 weeks*** 
+Highly specific confirmatory test 
+utilizing highly purified cytoplasmic 
+protein devoid of contamination 
+with LPS. 
+Maternal antibodies prevent 
+seroconversion in puppies; so not useful 
+until 6 months post weaning. Complex 
+procedure. 
+ 
+Indirect Fluorescent 
+antibody 
+ 
+Serum Unknown 
+Available and convenient for 
+diagnostic labs *** 
+Good Screening Test. 
+May be less sensitive than ME-TAT as 
+screening test *** 
+False Positives Possible. 
+ 
+ELISA 
+ 
+Serum 
+ 
+30 days*** 
+Good results with mutant (M-) B 
+canis for cell wall extracts, or
+Text Len: 1151
+--------------------------------------------------------------------------------
+ convenient for 
+diagnostic labs *** 
+Good Screening Test. 
+May be less sensitive than ME-TAT as 
+screening test *** 
+False Positives Possible. 
+ 
+ELISA 
+ 
+Serum 
+ 
+30 days*** 
+Good results with mutant (M-) B 
+canis for cell wall extracts, or B 
+abortus for CPAg *** 
+Antigen purity and preparation 
+critical***   
+ 
+* D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health, Florham Park NJ, USA   
+** Hollett, R.B., 2006; Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66: 575-587 
+*** Greene, Craig E. and Leland E. Carmichael, 2012: Chapter 38: Canine Brucellosis; in Infectious Diseases of the Dog and Cat, Fourth 
+Edition, Craig E. Greene (editor).  
+ 
+7 
+ 
+Comparison of Diagnostic Procedures for B. canis 
+Organism/Antigen Detection Methods 
+Test Sample 
+Earliest 
+Detection 
+(weeks Pl) 
+Advantages Disadvantages 
+Blood or tissue culture 
+ 
+Whole 
+Blood/ 
+FULL Blue 
+Top Tube, 
+or vaginal 
+swab 
+ 
+ 
+Bacteremia 
+detectable, 2-4 
+weeks PI.** 
+Low cost. Can identify actual 
+organism for antimicrobial 
+sensitivity testing and/or DNA 
+profiling 
+Fastidious organism. False negative 
+results possible. Requires sterile 
+technique of blood collection. 
+Contaminant
+Text Len: 1213
+--------------------------------------------------------------------------------
+ 
+ 
+Bacteremia 
+detectable, 2-4 
+weeks PI.** 
+Low cost. Can identify actual 
+organism for antimicrobial 
+sensitivity testing and/or DNA 
+profiling 
+Fastidious organism. False negative 
+results possible. Requires sterile 
+technique of blood collection. 
+Contaminant overgrowth can lead to 
+false negative results.   Intermittent 
+bacteremia may require serial blood 
+cultures.  POOR SCREENING TEST. 
+PCR 
+ 
+Whole 
+Blood/ 
+FULL Blue 
+Top Tube, 
+or vaginal 
+swab 
+ 
+1.5 CFU/ml 
+detected.**** 5x more sensitive than culture 
+False negative results possible. Requires 
+sterile technique of blood collection.  
+POOR SCREENING TEST. 
+ 
+* D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health, Florham Park NJ, USA   
+**Hollett, R.B., 2006; Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66: 575-587 
+***Greene, Craig E. and Leland E. Carmichael, 2012: Chapter 38: Canine Brucellosis; in Infectious Diseases of the Dog and Cat, Fourth 
+Edition, Craig E. Greene (editor).  
+ 
+****Kansas State University Veterinary Diagnostic Laboratory 
+ 
+  
+8 
+ 
+Screening a Kennel for Brucellosis 
+A whole kennel screening test consists of testing all canines over six months of age at least once every 
+12 months.   If there are any reproductive concerns within the
+Text Len: 1290
+--------------------------------------------------------------------------------
+ Craig E. Greene (editor).  
+ 
+****Kansas State University Veterinary Diagnostic Laboratory 
+ 
+  
+8 
+ 
+Screening a Kennel for Brucellosis 
+A whole kennel screening test consists of testing all canines over six months of age at least once every 
+12 months.   If there are any reproductive concerns within the breeding population, B. canis screening 
+should be done. 
+If a positive result is obtained on any test, the dog should be isolated and classified as a Brucella suspect 
+dog.  Because of the possibility of false positives on some tests, select a different diagnostic test to 
+validate the initial results.  If the second test does not agree with the initial test, a third diagnostic test 
+should be performed eight weeks after the second test to rule in or rule out Brucellosis.  Because of 
+variability in state regulations, veterinarians should check with their state veterinarian or appropriate 
+public health official on how to handle Brucellosis positive test results.   
+If a female or male dog has left the kennel for any reason other than a C-Section or veterinary 
+procedure, the dog should be tested for B. canis eight weeks after returning to the kennel.  
+Testing Considerations for Brucellosis Positive Kennels 
+Once Brucellosis is diagnosed (two positive tests), testing and removal of all positive dogs in the kennel 
+is the only way to gain negative status.  It is highly recommended that all dog sales be stopped until 
+negative status is achieved.  Veterinarians should check with their state veterinarians or public health 
+officials to verify if a suspect or positive kennel is placed under a strict no-sale quarantine or only a 
+partial quarantine, in which only pups from Brucellosis positive
+Text Len: 1721
+--------------------------------------------------------------------------------
+ way to gain negative status.  It is highly recommended that all dog sales be stopped until 
+negative status is achieved.  Veterinarians should check with their state veterinarians or public health 
+officials to verify if a suspect or positive kennel is placed under a strict no-sale quarantine or only a 
+partial quarantine, in which only pups from Brucellosis positive females are prohibited from being sold, 
+traded, or bartered.   Even If a state does not have regulations concerning quarantine procedures for 
+Brucellosis positive dogs, it is still recommended that the sale, trade, or bartering of Brucella positive 
+dog or puppies from Brucellosis positive dams be discontinued.  
+Test all remaining dogs and repeat every four weeks until there are two consecutive negative whole 
+kennel tests. Two negative tests should eliminate the organism from the kennel population.   Testing 
+should be done with the knowledge of the state veterinarian and with a test recognized by the state the 
+kennel is physically located in.   
+Re-homing Considerations for Dogs Positive for Brucella canis  
+It is important to emphasize that brucellosis is currently not considered to be a curable disease in dogs. 
+Attempts at treatment have been very disappointing, with relapses commonly occurring. Attempted 
+treatment can mask diagnostic testing, and it has been shown to be an important contributing factor in 
+the spread of the disease.  What this fact currently means for kennel owners is that animals infected 
+with any of the Brucella species MUST be removed from the breeding population.  
+Because of the zoonotic potential of Brucella, confirmed Brucellosis-positive dogs should NOT 
+be rehomed.  
+Decisions concerning the possible re-homing of Brucellosis positive dogs should only be
+Text Len: 1784
+--------------------------------------------------------------------------------
+ means for kennel owners is that animals infected 
+with any of the Brucella species MUST be removed from the breeding population.  
+Because of the zoonotic potential of Brucella, confirmed Brucellosis-positive dogs should NOT 
+be rehomed.  
+Decisions concerning the possible re-homing of Brucellosis positive dogs should only be made with the 
+approval and knowledge of the appropriate public health official(s) within the state of origin as well as 
+within the state of destination if being transferred across state lines. If the decision is made to re-home 
+9 
+ 
+Brucellosis positive dogs, they should undergo an ovario-hysterectomy or castration and be placed on 
+appropriate long-term antibiotics, with proper supervision by a licensed veterinarian that should include 
+lifetime periodic laboratory testing for B. canis.  Brucellosis is considered a lifelong infection in dogs, and  
+even after undergoing surgical sterilization and long term antibiotic use, both male and female dogs may 
+continue to intermittently shed the organism. New owners should be made aware of the ongoing 
+potential risk that these dogs carry for infecting humans, other dogs and other susceptible animal 
+species that they come in contact with (see zoonotic section above).  
+Re-homing Considerations for Retired Dogs from Kennels with an Unknown 
+Brucella canis Status 
+Any dogs that are re-homed or transferred to any individual, entity or organization should have a 
+negative diagnostic test for B. canis prior to change of ownership and tested again 8 weeks later.  The 
+new owner or organization should be educated in the possible zoonotic risks associated with the 
+disease.     
+  
+10 
+ 
+Summary 
+This
+Text Len: 1691
+--------------------------------------------------------------------------------
+omed or transferred to any individual, entity or organization should have a 
+negative diagnostic test for B. canis prior to change of ownership and tested again 8 weeks later.  The 
+new owner or organization should be educated in the possible zoonotic risks associated with the 
+disease.     
+  
+10 
+ 
+Summary 
+This document contains a compilation of knowledge garnered from currently available science, 
+technology, population medicine, and biosecurity strategies surrounding the management of B. canis in 
+dog breeding kennels. It should be considered a work in progress, because the understanding of this 
+important disease continues to evolve through advances in scientific knowledge. It is the hope of the 
+authors that this information will serve as a guide for veterinarians and their clients with the goal of 
+bringing consistency and clarity to the diagnosis, prevention and management of B. canis infection in 
+dog breeding kennels.  Only through continued advancement of science and the dissemination of 
+knowledge can we hope to control this devastating disease. 
+ 
+Recommendations 
+There is an ongoing need for continued basic science and clinical research surrounding prevention, 
+diagnosis, and the identification of effective treatment options aimed at the control of this important 
+disease. Further study will be required to clarify the epizootiology of B. canis with respect to disease 
+pathogenesis, transmission and true prevalence rates in both dogs and in humans.  Immunologic 
+research directed towards the development of an effective B. canis bacterin to be used in the 
+management and control of this disease in dogs would be welcomed.   The authors recommend that 
+laboratory standards be developed for all currently utilized and future diagnostic tests used to identify 
+B. canis infection in dogs. We recommend the implementation of quality control proficiency testing of 
+the currently
+Text Len: 1915
+--------------------------------------------------------------------------------
+ towards the development of an effective B. canis bacterin to be used in the 
+management and control of this disease in dogs would be welcomed.   The authors recommend that 
+laboratory standards be developed for all currently utilized and future diagnostic tests used to identify 
+B. canis infection in dogs. We recommend the implementation of quality control proficiency testing of 
+the currently available tests to validate accuracy, consistency, sensitivity and specificity.   
+ 
+Acknowledgements 
+The authors gratefully acknowledge the following veterinary diagnostic laboratories for their 
+consultation and information concerning testing options for B. canis:  
+Cornell Animal Health Diagnostic Laboratory 
+Kansas State Veterinary Diagnostic Laboratory 
+National Veterinary Services Laboratory 
+ 
+  
+11 
+ 
+Internet Resources 
+State Animal Health Officials 2014:  
+http://www.usaha.org/Portals/6/StateAnimalHealthOfficials.pdf 
+State Public Health Veterinarians 2015: 
+http://www.nasphv.org/Documents/StatePublicHealthVeterinariansByState.pdf 
+ 
+References 
+(1) NASPHV, 2012; Public Health Implications of Brucella canis Infections in Humans;  
+              http://www.nasphv.org/Documents/BrucellaCanisInHumans.pdf (accessed 6/26/2015). 
+(2) Evans, L., L. K. Kauffman and R. Cox, 2005: Brucellosis on the rise in canine breeding kennels. 
+Iowa Veterinary Medical Association Update Newsletter, 13, 10 
+(3) Kauffman, L. and J. Kinyon, 2006: Canine Brucellosis on the rise in Iowa Breeding kennels. IVMA 
+
+Text Len: 1510
+--------------------------------------------------------------------------------
+., L. K. Kauffman and R. Cox, 2005: Brucellosis on the rise in canine breeding kennels. 
+Iowa Veterinary Medical Association Update Newsletter, 13, 10 
+(3) Kauffman, L. and J. Kinyon, 2006: Canine Brucellosis on the rise in Iowa Breeding kennels. IVMA 
+Update News, 14, 3.  
+(4) Brower, A., O. Okwumabua, C. Massengill, Q. Meunks, P. Vanderloo, M. Duster, K. Homb and K. 
+Kurth, 2007: Investigation of the spread of Brucella canis via the U.S. interstate dog trade. Int. J. 
+Infect. Dis. 11, 454-458. 
+(5) Hollett, R.B., Canine Brucellosis: Outbreaks and Compliance; Theriogenology 66 (2006) 575-587 
+(6) Infectious diseases of the dog and cat, Fourth Edition 2012 / [Edited by] Craig E. Greene ; 
+Chapter 38 Canine Brucellosis, Craig E. Greene and Leland E. Carmichael  
+(7) D-Tec CB Canine Brucellosis Antibody Test Kit directions insert; Zoetis Animal Health  Florham Park 
+NJ, USA; 
+https://www.zoetisus.com/contact/pages/product_information/msds_pi/pi/Canine_Brucellosis
+_Antibody_Test_Kit_D-TEC_CB.pdf (accessed 6/26/2015). 
+ 
+ 
+12 
+ 
+Text Len: 1041
+--------------------------------------------------------------------------------

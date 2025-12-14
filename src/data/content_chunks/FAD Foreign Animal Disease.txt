@@ -1,0 +1,292 @@
+October 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC) 1 
+4700 River Road Unit 42 • Riverdale, MD 20737 
+ 
+Foreign Animal Disease (FAD) Response  
+Introduction to FAD Preparedness and Response Plan 
+The Imperative for Foreign Animal Disease Preparedness and Response (FAD PReP) 
+Why Prepare? 
+An FAD outbreak in the United States will have many consequences. Animal health, 
+and animal agriculture will be threatened; an FAD outbreak may impact the 
+security, cost, and safety of our Nation’s food supply. Preparing for and responding 
+to FADs—such as highly pathogenic avian influenza (HPAI), classical swine fever 
+(CSF), Newcastle disease (ND), and foot-and-mouth disease (FMD)—are critical 
+actions to safeguard animal health, public health, the environment, and the nation’s 
+economy. Additionally, the social and psychological impact on producers, owners, 
+and consumers can be significant.  
+FAD PReP is the comprehensive 
+U.S. Department of Agriculture, 
+Animal and Plant Health Inspection 
+Service, Veterinary Services 
+preparedness and response 
+strategy for FAD threats. 
+www.aphis.usda.gov/fadprep
+Historic and Potential Future Consequences of an FAD Outbreak 
+The 2001 FMD outbreak in the United Kingdom had an estimated impact between $12–18 billion.1 The United States has been free 
+of FMD since 1929, but studies have estimated an incursion of FMD would result in detrimental economic losses; one study reached 
+as high as $228 billion.2  The impact would come from lost international trade and disrupted interstate trade, as well as
+Text Len: 1596
+--------------------------------------------------------------------------------
+ FMD outbreak in the United Kingdom had an estimated impact between $12–18 billion.1 The United States has been free 
+of FMD since 1929, but studies have estimated an incursion of FMD would result in detrimental economic losses; one study reached 
+as high as $228 billion.2  The impact would come from lost international trade and disrupted interstate trade, as well as from costs 
+directly associated with the eradication effort, such as depopulation, indemnity, carcass disposal, and cleaning and disinfection. In 
+addition, there would be direct and indirect costs related to foregone production, unemployment, and losses in related businesses.  
+Between 2014 and 2015, the United States experienced its largest FAD outbreak, HPAI. Estimates suggest the outbreak had a $3.3 
+billion impact on the U.S. economy, with $1.6 billion in direct losses from depopulated poultry flocks.3 In part, this was a 
+consequence of partial or full trade embargoes from over 30 countries; there was a reported decline in poultry and egg exports of 14 
+percent from January to June 2015. With these restrictions, egg prices where the highest observed in over 30 years (adjusted for 
+inflation). 
+FAD Investigations from 2001–2020 
+In the past 20 years, there have been over 13,000 
+possible FAD or emerging disease incidents 
+investigated by APHIS Veterinary Services and State 
+collaborators throughout the United States. In most 
+years, only a small percentage of those were 
+confirmed by the investigation to be an emerging 
+disease or FAD, but as noted above, the introduction 
+of a single contagious FAD can result in serious 
+consequences. It is imperative we continue to remain 
+vigilant to protect the health and safety of U
+Text Len: 1717
+--------------------------------------------------------------------------------
+ United States. In most 
+years, only a small percentage of those were 
+confirmed by the investigation to be an emerging 
+disease or FAD, but as noted above, the introduction 
+of a single contagious FAD can result in serious 
+consequences. It is imperative we continue to remain 
+vigilant to protect the health and safety of U.S. 
+agriculture. 
+ 
+1 Thompson, D., Muriel, P., Russell, D., Osborne, P., et al. (2002). Economic costs of the foot and mouth disease outbreak in the United Kingdom in 
+2001. Revue scientifique et technique-Office international des epizooties, 21(3), 675-687; Grubman, M.J., & Baxt, B. (2004). Foot-and-mouth 
+disease. Clinical Microbiology Reviews, 17(2), 465-493. DOI: 10.1128/CMR.17.2.465–493.2004; USDA FAS. (2007). U.K. foot-and-mouth disease – 
+recovery timetable, the economic impact and who pays? Global Agriculture Information Network, UK7020. Retrieved from 
+https://apps.fas.usda.gov/gainfiles/200708/146292150.pdf. 
+2 Oladosu, G., Rose, A., & Lee, B. (2013). Economic impacts of potential foot and mouth disease agroterrorism in the USA: a general equilibrium 
+analysis. Journal of Bioterrorism & Biodefense, S12:001. DOI:10.4172/2157-2526.S12-001. 
+3 Greene, J.L. (2015, July). Update on the highly-pathogenic avian influenza outbreak of 2014-2015. Congressional
+Text Len: 1301
+--------------------------------------------------------------------------------
+ agroterrorism in the USA: a general equilibrium 
+analysis. Journal of Bioterrorism & Biodefense, S12:001. DOI:10.4172/2157-2526.S12-001. 
+3 Greene, J.L. (2015, July). Update on the highly-pathogenic avian influenza outbreak of 2014-2015. Congressional Research Service, R44114. 
+Retrieved from https://www.fas.org/sgp/crs/misc/R44114.pdf. 
+ 
+Foreign Animal Disease (FAD) Response  
+Ready Reference Guide ― Incident Information Management and Reporting 
+October 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC) 2 
+4700 River Road Unit 42 • Riverdale, MD 20737 
+The Goals and Mission of FAD PReP 
+In the event of an FAD outbreak in the United States, the three response goals are to  
+1. detect, control, and contain the disease in animals as quickly as possible; 
+2. eradicate the disease using strategies that seek to protect public health and the 
+environment, and stabilize animal agriculture, the food supply, and the economy; and 
+3. provide science- and risk-based approaches and systems to facilitate continuity of 
+business for non-infected animals and non-contaminated animal products. 
+Achieving these three goals will allow individual livestock facilities, States, Tribes, regions, and industries to resume normal 
+production as rapidly as possible. The objective is to allow the United States to regain disease-free status without the response 
+effort causing more disruption and damage than the disease outbreak itself. 
+FAD PReP Documents and Materials 
+The following categories provide an overview of the different types of FAD PReP documents 
+and
+Text Len: 1606
+--------------------------------------------------------------------------------
+, regions, and industries to resume normal 
+production as rapidly as possible. The objective is to allow the United States to regain disease-free status without the response 
+effort causing more disruption and damage than the disease outbreak itself. 
+FAD PReP Documents and Materials 
+The following categories provide an overview of the different types of FAD PReP documents 
+and materials available—all found online at www.aphis.usda/fadprep: 
+• Disease Response Plans & Strategies 
+• Disease Response Policies  
+• Strategic Plans/Manuals (Concept of Operations) 
+• National Animal Health Emergency Management System (NAHEMS) guidelines  
+• Industry Manuals 
+• Critical Activity Standard Operating Procedures 
+• Ready Reference Guides  
+• APHIS and VS Emergency Management  
+• and much more! 
+ 
+FAD PReP is not just one, 
+standalone FAD plan. It 
+provides collaborations, 
+products, and services for 
+preparing for and 
+responding to animal 
+health emergencies.  
+Challenges & Lessons Learned 
+Challenges of Responding to an FAD 
+Responding to an FAD event—large or small—may be complex and difficult, challenging all stakeholders involved. A response effort 
+must have the capability to be rapidly scaled to the incident. This may involve many resources, personnel, and countermeasures.  
+Establishing commonly accepted and understood response goals and guidelines, as accomplished by the FAD PReP materials, will 
+help to broaden awareness of accepted objectives as well as potential problems.  
+Lessons Learned from Past FAD Outbreaks 
+In order to achieve successful outcomes in future FAD response efforts, it is important to identify, understand, and apply lessons 
+learned. FAD PReP
+Text Len: 1690
+--------------------------------------------------------------------------------
+ response goals and guidelines, as accomplished by the FAD PReP materials, will 
+help to broaden awareness of accepted objectives as well as potential problems.  
+Lessons Learned from Past FAD Outbreaks 
+In order to achieve successful outcomes in future FAD response efforts, it is important to identify, understand, and apply lessons 
+learned. FAD PReP uses these lessons as a foundation for developing documents and materials: 
+• Provides unified State-Federal-Tribal-industry planning that respects local knowledge. 
+• Ensures there are clearly defined, obtainable, and unified goals for response. 
+• Employs science-based and risk-management approaches that protect public health, animal health, the environment, the 
+food supply, and the U.S. economy.  
+• Ensures guidelines, strategies, and procedures are communicated and understood by responders and stakeholders. 
+• Resolves competing interests prior to an outbreak and addresses them q uickly during an outbreak. 
+• Ensures there is the capability for rapid detection and effective FAD tracing.  
+• Acknowledges that high expectations for successful outcomes may require the rapid scale-up of resources during an event. 
+ 
+Questions, Comments, Concerns?       FAD.PReP.Comments@usda.gov 
+  
+Text Len: 1250
+--------------------------------------------------------------------------------
+October 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC) 1 
+4700 River Road Unit 42 • Riverdale, MD 20737 
+ 
+Foreign Animal Disease (FAD) Response  
+Introduction to FAD Preparedness and Response Plan 
+The Imperative for Foreign Animal Disease Preparedness and Response (FAD PReP) 
+Why Prepare? 
+An FAD outbreak in the United States will have many consequences. Animal health, 
+and animal agriculture will be threatened; an FAD outbreak may impact the 
+security, cost, and safety of our Nation’s food supply. Preparing for and responding 
+to FADs—such as highly pathogenic avian influenza (HPAI), classical swine fever 
+(CSF), Newcastle disease (ND), and foot-and-mouth disease (FMD)—are critical 
+actions to safeguard animal health, public health, the environment, and the nation’s 
+economy. Additionally, the social and psychological impact on producers, owners, 
+and consumers can be significant.  
+FAD PReP is the comprehensive 
+U.S. Department of Agriculture, 
+Animal and Plant Health Inspection 
+Service, Veterinary Services 
+preparedness and response 
+strategy for FAD threats. 
+www.aphis.usda.gov/fadprep
+Historic and Potential Future Consequences of an FAD Outbreak 
+The 2001 FMD outbreak in the United Kingdom had an estimated impact between $12–18 billion.1 The United States has been free 
+of FMD since 1929, but studies have estimated an incursion of FMD would result in detrimental economic losses; one study reached 
+as high as $228 billion.2  The impact would come from lost international trade and disrupted interstate trade, as well as
+Text Len: 1596
+--------------------------------------------------------------------------------
+ FMD outbreak in the United Kingdom had an estimated impact between $12–18 billion.1 The United States has been free 
+of FMD since 1929, but studies have estimated an incursion of FMD would result in detrimental economic losses; one study reached 
+as high as $228 billion.2  The impact would come from lost international trade and disrupted interstate trade, as well as from costs 
+directly associated with the eradication effort, such as depopulation, indemnity, carcass disposal, and cleaning and disinfection. In 
+addition, there would be direct and indirect costs related to foregone production, unemployment, and losses in related businesses.  
+Between 2014 and 2015, the United States experienced its largest FAD outbreak, HPAI. Estimates suggest the outbreak had a $3.3 
+billion impact on the U.S. economy, with $1.6 billion in direct losses from depopulated poultry flocks.3 In part, this was a 
+consequence of partial or full trade embargoes from over 30 countries; there was a reported decline in poultry and egg exports of 14 
+percent from January to June 2015. With these restrictions, egg prices where the highest observed in over 30 years (adjusted for 
+inflation). 
+FAD Investigations from 2001–2020 
+In the past 20 years, there have been over 13,000 
+possible FAD or emerging disease incidents 
+investigated by APHIS Veterinary Services and State 
+collaborators throughout the United States. In most 
+years, only a small percentage of those were 
+confirmed by the investigation to be an emerging 
+disease or FAD, but as noted above, the introduction 
+of a single contagious FAD can result in serious 
+consequences. It is imperative we continue to remain 
+vigilant to protect the health and safety of U
+Text Len: 1717
+--------------------------------------------------------------------------------
+ United States. In most 
+years, only a small percentage of those were 
+confirmed by the investigation to be an emerging 
+disease or FAD, but as noted above, the introduction 
+of a single contagious FAD can result in serious 
+consequences. It is imperative we continue to remain 
+vigilant to protect the health and safety of U.S. 
+agriculture. 
+ 
+1 Thompson, D., Muriel, P., Russell, D., Osborne, P., et al. (2002). Economic costs of the foot and mouth disease outbreak in the United Kingdom in 
+2001. Revue scientifique et technique-Office international des epizooties, 21(3), 675-687; Grubman, M.J., & Baxt, B. (2004). Foot-and-mouth 
+disease. Clinical Microbiology Reviews, 17(2), 465-493. DOI: 10.1128/CMR.17.2.465–493.2004; USDA FAS. (2007). U.K. foot-and-mouth disease – 
+recovery timetable, the economic impact and who pays? Global Agriculture Information Network, UK7020. Retrieved from 
+https://apps.fas.usda.gov/gainfiles/200708/146292150.pdf. 
+2 Oladosu, G., Rose, A., & Lee, B. (2013). Economic impacts of potential foot and mouth disease agroterrorism in the USA: a general equilibrium 
+analysis. Journal of Bioterrorism & Biodefense, S12:001. DOI:10.4172/2157-2526.S12-001. 
+3 Greene, J.L. (2015, July). Update on the highly-pathogenic avian influenza outbreak of 2014-2015. Congressional
+Text Len: 1301
+--------------------------------------------------------------------------------
+ agroterrorism in the USA: a general equilibrium 
+analysis. Journal of Bioterrorism & Biodefense, S12:001. DOI:10.4172/2157-2526.S12-001. 
+3 Greene, J.L. (2015, July). Update on the highly-pathogenic avian influenza outbreak of 2014-2015. Congressional Research Service, R44114. 
+Retrieved from https://www.fas.org/sgp/crs/misc/R44114.pdf. 
+ 
+Foreign Animal Disease (FAD) Response  
+Ready Reference Guide ― Incident Information Management and Reporting 
+October 2021 USDA APHIS Veterinary Services • National Preparedness and Incident Coordination (NPIC) 2 
+4700 River Road Unit 42 • Riverdale, MD 20737 
+The Goals and Mission of FAD PReP 
+In the event of an FAD outbreak in the United States, the three response goals are to  
+1. detect, control, and contain the disease in animals as quickly as possible; 
+2. eradicate the disease using strategies that seek to protect public health and the 
+environment, and stabilize animal agriculture, the food supply, and the economy; and 
+3. provide science- and risk-based approaches and systems to facilitate continuity of 
+business for non-infected animals and non-contaminated animal products. 
+Achieving these three goals will allow individual livestock facilities, States, Tribes, regions, and industries to resume normal 
+production as rapidly as possible. The objective is to allow the United States to regain disease-free status without the response 
+effort causing more disruption and damage than the disease outbreak itself. 
+FAD PReP Documents and Materials 
+The following categories provide an overview of the different types of FAD PReP documents 
+and
+Text Len: 1606
+--------------------------------------------------------------------------------
+, regions, and industries to resume normal 
+production as rapidly as possible. The objective is to allow the United States to regain disease-free status without the response 
+effort causing more disruption and damage than the disease outbreak itself. 
+FAD PReP Documents and Materials 
+The following categories provide an overview of the different types of FAD PReP documents 
+and materials available—all found online at www.aphis.usda/fadprep: 
+• Disease Response Plans & Strategies 
+• Disease Response Policies  
+• Strategic Plans/Manuals (Concept of Operations) 
+• National Animal Health Emergency Management System (NAHEMS) guidelines  
+• Industry Manuals 
+• Critical Activity Standard Operating Procedures 
+• Ready Reference Guides  
+• APHIS and VS Emergency Management  
+• and much more! 
+ 
+FAD PReP is not just one, 
+standalone FAD plan. It 
+provides collaborations, 
+products, and services for 
+preparing for and 
+responding to animal 
+health emergencies.  
+Challenges & Lessons Learned 
+Challenges of Responding to an FAD 
+Responding to an FAD event—large or small—may be complex and difficult, challenging all stakeholders involved. A response effort 
+must have the capability to be rapidly scaled to the incident. This may involve many resources, personnel, and countermeasures.  
+Establishing commonly accepted and understood response goals and guidelines, as accomplished by the FAD PReP materials, will 
+help to broaden awareness of accepted objectives as well as potential problems.  
+Lessons Learned from Past FAD Outbreaks 
+In order to achieve successful outcomes in future FAD response efforts, it is important to identify, understand, and apply lessons 
+learned. FAD PReP
+Text Len: 1690
+--------------------------------------------------------------------------------
+ response goals and guidelines, as accomplished by the FAD PReP materials, will 
+help to broaden awareness of accepted objectives as well as potential problems.  
+Lessons Learned from Past FAD Outbreaks 
+In order to achieve successful outcomes in future FAD response efforts, it is important to identify, understand, and apply lessons 
+learned. FAD PReP uses these lessons as a foundation for developing documents and materials: 
+• Provides unified State-Federal-Tribal-industry planning that respects local knowledge. 
+• Ensures there are clearly defined, obtainable, and unified goals for response. 
+• Employs science-based and risk-management approaches that protect public health, animal health, the environment, the 
+food supply, and the U.S. economy.  
+• Ensures guidelines, strategies, and procedures are communicated and understood by responders and stakeholders. 
+• Resolves competing interests prior to an outbreak and addresses them q uickly during an outbreak. 
+• Ensures there is the capability for rapid detection and effective FAD tracing.  
+• Acknowledges that high expectations for successful outcomes may require the rapid scale-up of resources during an event. 
+ 
+Questions, Comments, Concerns?       FAD.PReP.Comments@usda.gov 
+  
+Text Len: 1250
+--------------------------------------------------------------------------------

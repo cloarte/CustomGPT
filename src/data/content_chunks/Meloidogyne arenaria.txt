@@ -1,0 +1,512 @@
+
+
+🔬 Nombre científico: Meloidogyne arenaria
+🌍 Distribución: Côte d'Ivoire, Egypt, Ethiopia, Libya, Madagascar, Malawi, Mauritius, Morocco, Nigeria, São Tomé and Príncipe, Senegal, South Africa, Sudan, Tanzania, Tunisia, Uganda, Zimbabwe, Armenia, Azerbaijan, Bangladesh, China, India, Indonesia, Iran, Iraq, Japan, Jordan, Lebanon, Malaysia, Mongolia, Nepal, Pakistan, Philippines, Saudi Arabia, South Korea, Sri Lanka, Taiwan, Tajikistan, Turkey, Turkmenistan, Uzbekistan, Vietnam, Belgium, Bulgaria, France, Germany, Greece, Hungary, Ireland, Italy, Moldova, Montenegro, Netherlands, North Macedonia, Portugal, Russia, Serbia, Spain, Switzerland, Ukraine, United Kingdom, Belize, Bermuda, Costa Rica, Cuba, El Salvador, Guadeloupe, Guatemala, Mexico, Puerto Rico, Trinidad and Tobago, United States, Australia, Cook Islands, Fiji, Niue, Papua New Guinea, Samoa, Solomon Islands, Tuvalu, Argentina, Bolivia, Brazil, Chile, Colombia, Guyana, Peru, Suriname, Uruguay, Venezuela
+🦠 Hospedantes: Abelmoschus esculentus (okra), Actinidia deliciosa (kiwifruit), Amaranthus viridis (slender amaranth), Angelica dahurica, Anubias barteri, Apium graveolens (celery), Arachis hypogaea (groundnut), Atractylodes macrocephala, Avena sativa (oats), Brosimum gaudichaudii, Caladium, Capsicum annuum (bell pepper), Capsicum frutescens (chilli), Carica papaya (pawpaw), Chenopodium album (fat hen), Cit
+Text Len: 1386
+--------------------------------------------------------------------------------
+olens (celery), Arachis hypogaea (groundnut), Atractylodes macrocephala, Avena sativa (oats), Brosimum gaudichaudii, Caladium, Capsicum annuum (bell pepper), Capsicum frutescens (chilli), Carica papaya (pawpaw), Chenopodium album (fat hen), Citrullus lanatus (watermelon), Clerodendrum inerme, Coffea arabica (arabica coffee), Coffea canephora (robusta coffee), Convolvulus arvensis (bindweed), Cucumis sativus (cucumber), Cucurbita maxima (giant pumpkin), Cucurbita pepo (marrow), Cycas revoluta (sago cycas), Cyperus esculentus (yellow nutsedge), Cyperus rotundus (purple nutsedge), Dahlia pinnata (garden dahlia), Datura stramonium (jimsonweed), Daucus carota (carrot), Desmodium tortuosum (Florida beggarweed), Deutzia gracilis (slender deutzia), Digitalis purpurea (foxglove), Dioscorea alata (white yam), Dioscorea cayenensis (Guinea yam), Ecclinusa ramiflora, Eleusine indica (goose grass), Eustoma grandiflorum (Lisianthus (cut flower crop)), Festuca arundinacea (tall fescue), Ficus carica (common fig), Glycine max (soyabean), Gossypium hirsutum (Bourbon cotton), Grona triflora, Hibiscus cannabinus (kenaf), Hibiscus tiliaceus
+Text Len: 1137
+--------------------------------------------------------------------------------
+iflorum (Lisianthus (cut flower crop)), Festuca arundinacea (tall fescue), Ficus carica (common fig), Glycine max (soyabean), Gossypium hirsutum (Bourbon cotton), Grona triflora, Hibiscus cannabinus (kenaf), Hibiscus tiliaceus (sea hibiscus), Hordeum vulgare (barley), Impatiens (balsam), Ipomoea batatas (sweet potato), Lactuca sativa (lettuce), Lavandula angustifolia (lavender), Lavandula intermedia, Lespedeza stipulacea (Korean lespedeza), Lolium multiflorum (Italian ryegrass), Malachra alceifolia, Malus domestica (apple), Malva parviflora (pink cheeseweed), Mangifera indica (mango), Medicago sativa (lucerne), Melissa officinalis (Lemon balm), Morinda citrifolia (Indian mulberry), Morus alba (mora), Musa (banana), Musa acuminata (wild banana), Nicotiana tabacum (tobacco), Ocimum basilicum (basil), Olea europaea, Olea europaea subsp. europaea (European olive), Ophiopogon japonicus, Oryza sativa (rice), Oxalis corniculata (creeping woodsorrel), Passiflora edulis (passionfruit), Paulownia elongata (elongate paulownia), Petroselinum crispum (parsley), Phaseolus vulgaris (common bean), Phoenix dactylifera (date-palm), Pimpinella anisum (aniseed
+Text Len: 1158
+--------------------------------------------------------------------------------
+alis corniculata (creeping woodsorrel), Passiflora edulis (passionfruit), Paulownia elongata (elongate paulownia), Petroselinum crispum (parsley), Phaseolus vulgaris (common bean), Phoenix dactylifera (date-palm), Pimpinella anisum (aniseed), Piper nigrum (black pepper), Pisum sativum (pea), Pongamia pinnata (Indian beech), Prunus persica (peach), Psidium guajava (guava), Raphanus sativus (radish), Ricinus communis (castor bean), Rosa multiflora (multiflora rose), Rumex acetosella (sheep's sorrel), Saccharum officinarum (sugarcane), Salix babylonica (weeping willow), Solanum lycopersicum (tomato), Solanum muricatum (melon pear), Solanum nigrum (black nightshade), Solanum torvum (turkey berry), Solanum tuberosum (potato), Solanum viarum (tropical soda apple), Spinacia oleracea (spinach), Tectona grandis (teak), Trifolium pratense (red clover), Trifolium repens (white clover), Ulmus parvifolia (lacebark elm), Vicia sativa (common vetch), Vigna unguiculata (cowpea), Vitis vinifera (grapevine), Zantedeschia aethiopica (calla lily), Zea mays (maize)
+ Nombres comunes: Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nod
+Text Len: 1161
+--------------------------------------------------------------------------------
+ vetch), Vigna unguiculata (cowpea), Vitis vinifera (grapevine), Zantedeschia aethiopica (calla lily), Zea mays (maize)
+ Nombres comunes: Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nodulador del cacahuete, Frenchnématode galligène de l'arachidenodosite des racines, GermanyErdnusswurzelgallen-Aelchen, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria)
+ Sinonimos: Anguillula arenariaNeal, 1889, Heterodera arenaria(Neal, 1889) Marcinowski, 1909, Meloidogyne arenaria arenaria(Neal, 1889) Chitwood, 1949, Meloidogyne arenaria thamesiChitwood in Chitwood et al., 1952, Meloidogyne thamesi(Chitwood et al., 1952) Goodey, 1963, Tylenchus arenarius(Neal, 1889) Cobb, 1890, Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nodulador del cacahuete, Frenchnématode galligène de l'arachidenodosite des racines, GermanyErdnusswurzelgallen-Aelchen, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria), MELGTH (Meloidogyne thamesi), Eukaryota, Metazoa, Nematoda, Meloidogynidae, Meloidogyne, Meloidogyne arenaria
+ Invasion: The body of the female is pearly white and pear
+Text Len: 1129
+--------------------------------------------------------------------------------
+, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria), MELGTH (Meloidogyne thamesi), Eukaryota, Metazoa, Nematoda, Meloidogynidae, Meloidogyne, Meloidogyne arenaria
+ Invasion: The body of the female is pearly white and pear-shaped, 500-1000 µm long by 400-600 µm wide. The conical neck of the female is in line with the spherical portion of the body. The stylet is robust, 13-17 (16) µm long and characteristically shaped with large, posteriorly sloped, tear-drop-shaped knobs. The distance of the dorsal oesophageal gland orifice to the base of the stylet is comparatively long (3-7 (5) µm). The overall morphology of females of M. arenaria is similar to other species within the genus.The perineal pattern may be characteristic for the species, but some populations may contain individual variants that restrict the usefulness of this character. Likewise, other species of Meloidogyne may also have perineal patterns that closely resemble that of M. arenaria. The perineal pattern of M. arenaria may be very similar to that of M. incognita and other Meloidogyne species. Patterns that contain short, lateral incisures resemble that of M. javanica, and patterns that are rounded to hexagonal, often containing wings, are like that of M. hapla. The perineal pattern of M. arenaria has a low and rounded dorsal arch, but in some individuals it may be high and squarish. The striae are coarse and smooth to wavy, and some striae may bend toward the vulva. The most useful character of the perineal pattern is the lines in the lateral areas of the dorsal arch that
+Text Len: 1562
+--------------------------------------------------------------------------------
+ M. hapla. The perineal pattern of M. arenaria has a low and rounded dorsal arch, but in some individuals it may be high and squarish. The striae are coarse and smooth to wavy, and some striae may bend toward the vulva. The most useful character of the perineal pattern is the lines in the lateral areas of the dorsal arch that sharply curve toward the tail terminus and meet the ventral striae at an angle. These striae become forked and the distance between them increases near the lateral areas which are often demarcated, but not delineated by distinct lateral incisures. Very short lateral incisures may be present very near the tail terminus. Some perineal patterns of M. arenaria form one or two &apos;wings&apos; that extend laterally and are marked by fusion of the striae in the dorsal and ventral arches.Males of M. arenaria are long (0.9-2.3 mm) and narrow (27-48 µm). Although the shape of the head is a useful morphological character, it is similar to several other less common species. The labial disc and medial lips form a smooth, posteriorly sloping head cap. The head annule is smooth and usually not marked with additional head annulations. Both the head annule and the body annulations are in the same contour. The stylet is long (20-28 µm) and robust with a bluntly pointed tip. The wide, cylindrical shaft gradually merges with the large, rounded, slightly tear-drop-shaped knobs. The dorsal oesophageal gland orifice to the base of the stylet is long to very long (4-8) 6 µm. The overall morphology of males of M. arenaria is similar to other species within the genus.Second-stage juveniles of M. arenaria are
+Text Len: 1633
+--------------------------------------------------------------------------------
+rical shaft gradually merges with the large, rounded, slightly tear-drop-shaped knobs. The dorsal oesophageal gland orifice to the base of the stylet is long to very long (4-8) 6 µm. The overall morphology of males of M. arenaria is similar to other species within the genus.Second-stage juveniles of M. arenaria are long (398-605 (504) µm) and slender (13-18 (15) µm). The tail is moderately long (44-69 (56) µm), and the poorly defined hyaline tail terminus is moderately long (6-13 (9) µm), with a finely rounded to pointed tip. The stylet of second-stage juveniles is moderately long (10-12 (11) µm), and the dorsal oesophageal gland orifice distance to the stylet base is moderately long (3-5 (4) µm). The morphology of the second-stage juvenile of M. arenaria is similar to many other species of Meloidogyne and requires critical evaluation by light and scanning electron microscopy in order to be differentiated.
+ Impacto: No encontrado
+ Habitat: No encontrado
+ Reproduccion: Life CycleThe egg of a root-knot nematode develops into a vermiform first-stage juvenile that undergoes one moult into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults
+Text Len: 1592
+--------------------------------------------------------------------------------
+ just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults three times without feeding and matures into a saccate adult female. Females of M. arenaria reproduce by mitotic parthenogenesis; as soon as they are mature adults they begin producing eggs ( Triantaphyllou and Hirschmann, 1960 ).Male second-stage juveniles undergo a metamorphosis during the third moult into elongate vermiform fourth-stage juveniles. The fourth-stage juvenile male remains enclosed in the cuticle of the second and third stages where it moults again to form an adult vermiform male. The male escapes from the cuticles and the root system. It moves freely in the soil, not feeding, only mating with mature adult females. As populations of M. arenaria reproduce by mitotic parthenogenesis, males serve no reproductive function ( Triantaphyllou and Hirschmann, 1960 ).The length of one generation of M. arenaria is greatly affected by temperature. At very high temperatures (>29°C), the life cycle takes approximately 3 weeks, but at very cool temperatures it can be extended to 2-3 months.
+ Sintomas: Underground symptoms are primarily galls on roots, corms, tubers or peanut pods, abnormal formation and function of root system and giant cells blocking the vascular cylinder.Non-specific above-ground symptoms include patchy, stunted growth; discoloration and leaf chlorosis; excessive wilting during dry, hot conditions; stunting of whole plants; reduced yield and quality; and sometimes premature senescence or death.Infected plants are often stun
+Text Len: 1840
+--------------------------------------------------------------------------------
+ tubers or peanut pods, abnormal formation and function of root system and giant cells blocking the vascular cylinder.Non-specific above-ground symptoms include patchy, stunted growth; discoloration and leaf chlorosis; excessive wilting during dry, hot conditions; stunting of whole plants; reduced yield and quality; and sometimes premature senescence or death.Infected plants are often stunted and chlorotic. Small to large galls (2-200 mm in diameter) occur on the roots of infected plants. M. arenaria populations often produce many small bead-like galls that do not form short lateral roots ( Eisenback et al., 1981 ). Small wart-like projections may occur on infected corms, tubers and peanut pods. Symptoms are similar to those produced by most of the other root-knot nematode species.Root-knot is generally more severe in sandy soils and under adverse environmental conditions such as drought and high temperatures. M. arenaria can interact with fungi or bacteria to cause more severe symptoms, break resistance to the disease agent, or allow weakly parasitic and non-pathogenic organisms to cause disease.
+ Organos afectados: Abelmoschus esculentus (okra), Malvaceae, Main, Tariq-Khan et al. (2020)Hussain et al. (2015)
+ Seccion ambiental: Biology and Ecology Life CycleThe egg of a root-knot nematode develops into a vermiform first-stage juvenile that undergoes one moult into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase
+Text Len: 1764
+--------------------------------------------------------------------------------
+ into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults three times without feeding and matures into a saccate adult female. Females of M. arenaria reproduce by mitotic parthenogenesis; as soon as they are mature adults they begin producing eggs ( Triantaphyllou and Hirschmann, 1960 ).Male second-stage juveniles undergo a metamorphosis during the third moult into elongate vermiform fourth-stage juveniles. The fourth-stage juvenile male remains enclosed in the cuticle of the second and third stages where it moults again to form an adult vermiform male. The male escapes from the cuticles and the root system. It moves freely in the soil, not feeding, only mating with mature adult females. As populations of M. arenaria reproduce by mitotic parthenogenesis, males serve no reproductive function ( Triantaphyllou and Hirschmann, 1960 ).The length of one generation of M. arenaria is greatly affected by temperature. At very high temperatures (>29°C), the life cycle takes approximately 3 weeks, but at very cool temperatures it can be extended to 2-3 months.
+Text Len: 1503
+--------------------------------------------------------------------------------
+Skip to main content
+    
+
+
+
+
+An official website of the United States government.
+    Here's how you know.
+
+
+
+
+
+
+
+dot gov icon
+
+
+
+
+Official websites use .gov
+
+        A .gov website belongs to an official government organization in the United States.    
+
+
+
+
+
+
+https icon
+
+
+
+
+Secure .gov websites use HTTPS
+
+        A lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nematode Collection Database
+U.S. Department of Agriculture
+
+
+
+
+
+
+
+menu
+                
+
+
+
+
+Main navigation
+
+Search 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+                  Entry Number: 5
+              
+
+Entry Number: 5
+
+
+Disposition of Sample
+Records only; material discarded
+
+
+Nematode
+Meloidogyne
+arenaria 100%
+
+
+Host
+Arachis
+hypogaea
+(Peanut)
+in/on Root
+
+
+Origin
+USA
+Georgia
+Tifton
+
+
+Collector
+via A. W. Johnson
+
+
+Date Received
+1995 Nov 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement
+Text Len: 1177
+--------------------------------------------------------------------------------
+
+
+
+Date Received
+1995 Nov 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement(link is external)
+Civil Rights Policy(link is external)
+Information Quality(link is external)
+National Agricultural Library(link is external)
+Agricultural Research Service(link is external)
+USDA.gov(link is external)
+USA.gov(link is external)
+WhiteHouse.gov(link is external)
+
+
+Sign up for ARS News updates
+
+
+Your email address
+Text Len: 611
+--------------------------------------------------------------------------------
+
+
+🔬 Nombre científico: Meloidogyne arenaria
+🌍 Distribución: Côte d'Ivoire, Egypt, Ethiopia, Libya, Madagascar, Malawi, Mauritius, Morocco, Nigeria, São Tomé and Príncipe, Senegal, South Africa, Sudan, Tanzania, Tunisia, Uganda, Zimbabwe, Armenia, Azerbaijan, Bangladesh, China, India, Indonesia, Iran, Iraq, Japan, Jordan, Lebanon, Malaysia, Mongolia, Nepal, Pakistan, Philippines, Saudi Arabia, South Korea, Sri Lanka, Taiwan, Tajikistan, Turkey, Turkmenistan, Uzbekistan, Vietnam, Belgium, Bulgaria, France, Germany, Greece, Hungary, Ireland, Italy, Moldova, Montenegro, Netherlands, North Macedonia, Portugal, Russia, Serbia, Spain, Switzerland, Ukraine, United Kingdom, Belize, Bermuda, Costa Rica, Cuba, El Salvador, Guadeloupe, Guatemala, Mexico, Puerto Rico, Trinidad and Tobago, United States, Australia, Cook Islands, Fiji, Niue, Papua New Guinea, Samoa, Solomon Islands, Tuvalu, Argentina, Bolivia, Brazil, Chile, Colombia, Guyana, Peru, Suriname, Uruguay, Venezuela
+🦠 Hospedantes: Abelmoschus esculentus (okra), Actinidia deliciosa (kiwifruit), Amaranthus viridis (slender amaranth), Angelica dahurica, Anubias barteri, Apium graveolens (celery), Arachis hypogaea (groundnut), Atractylodes macrocephala, Avena sativa (oats), Brosimum gaudichaudii, Caladium, Capsicum annuum (bell pepper), Capsicum frutescens (chilli), Carica papaya (pawpaw), Chenopodium album (fat hen), Cit
+Text Len: 1386
+--------------------------------------------------------------------------------
+olens (celery), Arachis hypogaea (groundnut), Atractylodes macrocephala, Avena sativa (oats), Brosimum gaudichaudii, Caladium, Capsicum annuum (bell pepper), Capsicum frutescens (chilli), Carica papaya (pawpaw), Chenopodium album (fat hen), Citrullus lanatus (watermelon), Clerodendrum inerme, Coffea arabica (arabica coffee), Coffea canephora (robusta coffee), Convolvulus arvensis (bindweed), Cucumis sativus (cucumber), Cucurbita maxima (giant pumpkin), Cucurbita pepo (marrow), Cycas revoluta (sago cycas), Cyperus esculentus (yellow nutsedge), Cyperus rotundus (purple nutsedge), Dahlia pinnata (garden dahlia), Datura stramonium (jimsonweed), Daucus carota (carrot), Desmodium tortuosum (Florida beggarweed), Deutzia gracilis (slender deutzia), Digitalis purpurea (foxglove), Dioscorea alata (white yam), Dioscorea cayenensis (Guinea yam), Ecclinusa ramiflora, Eleusine indica (goose grass), Eustoma grandiflorum (Lisianthus (cut flower crop)), Festuca arundinacea (tall fescue), Ficus carica (common fig), Glycine max (soyabean), Gossypium hirsutum (Bourbon cotton), Grona triflora, Hibiscus cannabinus (kenaf), Hibiscus tiliaceus
+Text Len: 1137
+--------------------------------------------------------------------------------
+iflorum (Lisianthus (cut flower crop)), Festuca arundinacea (tall fescue), Ficus carica (common fig), Glycine max (soyabean), Gossypium hirsutum (Bourbon cotton), Grona triflora, Hibiscus cannabinus (kenaf), Hibiscus tiliaceus (sea hibiscus), Hordeum vulgare (barley), Impatiens (balsam), Ipomoea batatas (sweet potato), Lactuca sativa (lettuce), Lavandula angustifolia (lavender), Lavandula intermedia, Lespedeza stipulacea (Korean lespedeza), Lolium multiflorum (Italian ryegrass), Malachra alceifolia, Malus domestica (apple), Malva parviflora (pink cheeseweed), Mangifera indica (mango), Medicago sativa (lucerne), Melissa officinalis (Lemon balm), Morinda citrifolia (Indian mulberry), Morus alba (mora), Musa (banana), Musa acuminata (wild banana), Nicotiana tabacum (tobacco), Ocimum basilicum (basil), Olea europaea, Olea europaea subsp. europaea (European olive), Ophiopogon japonicus, Oryza sativa (rice), Oxalis corniculata (creeping woodsorrel), Passiflora edulis (passionfruit), Paulownia elongata (elongate paulownia), Petroselinum crispum (parsley), Phaseolus vulgaris (common bean), Phoenix dactylifera (date-palm), Pimpinella anisum (aniseed
+Text Len: 1158
+--------------------------------------------------------------------------------
+alis corniculata (creeping woodsorrel), Passiflora edulis (passionfruit), Paulownia elongata (elongate paulownia), Petroselinum crispum (parsley), Phaseolus vulgaris (common bean), Phoenix dactylifera (date-palm), Pimpinella anisum (aniseed), Piper nigrum (black pepper), Pisum sativum (pea), Pongamia pinnata (Indian beech), Prunus persica (peach), Psidium guajava (guava), Raphanus sativus (radish), Ricinus communis (castor bean), Rosa multiflora (multiflora rose), Rumex acetosella (sheep's sorrel), Saccharum officinarum (sugarcane), Salix babylonica (weeping willow), Solanum lycopersicum (tomato), Solanum muricatum (melon pear), Solanum nigrum (black nightshade), Solanum torvum (turkey berry), Solanum tuberosum (potato), Solanum viarum (tropical soda apple), Spinacia oleracea (spinach), Tectona grandis (teak), Trifolium pratense (red clover), Trifolium repens (white clover), Ulmus parvifolia (lacebark elm), Vicia sativa (common vetch), Vigna unguiculata (cowpea), Vitis vinifera (grapevine), Zantedeschia aethiopica (calla lily), Zea mays (maize)
+ Nombres comunes: Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nod
+Text Len: 1161
+--------------------------------------------------------------------------------
+ vetch), Vigna unguiculata (cowpea), Vitis vinifera (grapevine), Zantedeschia aethiopica (calla lily), Zea mays (maize)
+ Nombres comunes: Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nodulador del cacahuete, Frenchnématode galligène de l'arachidenodosite des racines, GermanyErdnusswurzelgallen-Aelchen, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria)
+ Sinonimos: Anguillula arenariaNeal, 1889, Heterodera arenaria(Neal, 1889) Marcinowski, 1909, Meloidogyne arenaria arenaria(Neal, 1889) Chitwood, 1949, Meloidogyne arenaria thamesiChitwood in Chitwood et al., 1952, Meloidogyne thamesi(Chitwood et al., 1952) Goodey, 1963, Tylenchus arenarius(Neal, 1889) Cobb, 1890, Englishgroundnut root knot nematoderoot-knot nematode disease, Spanishnematodo nodulador del cacahuete, Frenchnématode galligène de l'arachidenodosite des racines, GermanyErdnusswurzelgallen-Aelchen, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria), MELGTH (Meloidogyne thamesi), Eukaryota, Metazoa, Nematoda, Meloidogynidae, Meloidogyne, Meloidogyne arenaria
+ Invasion: The body of the female is pearly white and pear
+Text Len: 1129
+--------------------------------------------------------------------------------
+, JapanNekobu-sentyubyo, MELGAR (Meloidogyne arenaria), MELGTH (Meloidogyne thamesi), Eukaryota, Metazoa, Nematoda, Meloidogynidae, Meloidogyne, Meloidogyne arenaria
+ Invasion: The body of the female is pearly white and pear-shaped, 500-1000 µm long by 400-600 µm wide. The conical neck of the female is in line with the spherical portion of the body. The stylet is robust, 13-17 (16) µm long and characteristically shaped with large, posteriorly sloped, tear-drop-shaped knobs. The distance of the dorsal oesophageal gland orifice to the base of the stylet is comparatively long (3-7 (5) µm). The overall morphology of females of M. arenaria is similar to other species within the genus.The perineal pattern may be characteristic for the species, but some populations may contain individual variants that restrict the usefulness of this character. Likewise, other species of Meloidogyne may also have perineal patterns that closely resemble that of M. arenaria. The perineal pattern of M. arenaria may be very similar to that of M. incognita and other Meloidogyne species. Patterns that contain short, lateral incisures resemble that of M. javanica, and patterns that are rounded to hexagonal, often containing wings, are like that of M. hapla. The perineal pattern of M. arenaria has a low and rounded dorsal arch, but in some individuals it may be high and squarish. The striae are coarse and smooth to wavy, and some striae may bend toward the vulva. The most useful character of the perineal pattern is the lines in the lateral areas of the dorsal arch that
+Text Len: 1562
+--------------------------------------------------------------------------------
+ M. hapla. The perineal pattern of M. arenaria has a low and rounded dorsal arch, but in some individuals it may be high and squarish. The striae are coarse and smooth to wavy, and some striae may bend toward the vulva. The most useful character of the perineal pattern is the lines in the lateral areas of the dorsal arch that sharply curve toward the tail terminus and meet the ventral striae at an angle. These striae become forked and the distance between them increases near the lateral areas which are often demarcated, but not delineated by distinct lateral incisures. Very short lateral incisures may be present very near the tail terminus. Some perineal patterns of M. arenaria form one or two &apos;wings&apos; that extend laterally and are marked by fusion of the striae in the dorsal and ventral arches.Males of M. arenaria are long (0.9-2.3 mm) and narrow (27-48 µm). Although the shape of the head is a useful morphological character, it is similar to several other less common species. The labial disc and medial lips form a smooth, posteriorly sloping head cap. The head annule is smooth and usually not marked with additional head annulations. Both the head annule and the body annulations are in the same contour. The stylet is long (20-28 µm) and robust with a bluntly pointed tip. The wide, cylindrical shaft gradually merges with the large, rounded, slightly tear-drop-shaped knobs. The dorsal oesophageal gland orifice to the base of the stylet is long to very long (4-8) 6 µm. The overall morphology of males of M. arenaria is similar to other species within the genus.Second-stage juveniles of M. arenaria are
+Text Len: 1633
+--------------------------------------------------------------------------------
+rical shaft gradually merges with the large, rounded, slightly tear-drop-shaped knobs. The dorsal oesophageal gland orifice to the base of the stylet is long to very long (4-8) 6 µm. The overall morphology of males of M. arenaria is similar to other species within the genus.Second-stage juveniles of M. arenaria are long (398-605 (504) µm) and slender (13-18 (15) µm). The tail is moderately long (44-69 (56) µm), and the poorly defined hyaline tail terminus is moderately long (6-13 (9) µm), with a finely rounded to pointed tip. The stylet of second-stage juveniles is moderately long (10-12 (11) µm), and the dorsal oesophageal gland orifice distance to the stylet base is moderately long (3-5 (4) µm). The morphology of the second-stage juvenile of M. arenaria is similar to many other species of Meloidogyne and requires critical evaluation by light and scanning electron microscopy in order to be differentiated.
+ Impacto: No encontrado
+ Habitat: No encontrado
+ Reproduccion: Life CycleThe egg of a root-knot nematode develops into a vermiform first-stage juvenile that undergoes one moult into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults
+Text Len: 1592
+--------------------------------------------------------------------------------
+ just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults three times without feeding and matures into a saccate adult female. Females of M. arenaria reproduce by mitotic parthenogenesis; as soon as they are mature adults they begin producing eggs ( Triantaphyllou and Hirschmann, 1960 ).Male second-stage juveniles undergo a metamorphosis during the third moult into elongate vermiform fourth-stage juveniles. The fourth-stage juvenile male remains enclosed in the cuticle of the second and third stages where it moults again to form an adult vermiform male. The male escapes from the cuticles and the root system. It moves freely in the soil, not feeding, only mating with mature adult females. As populations of M. arenaria reproduce by mitotic parthenogenesis, males serve no reproductive function ( Triantaphyllou and Hirschmann, 1960 ).The length of one generation of M. arenaria is greatly affected by temperature. At very high temperatures (>29°C), the life cycle takes approximately 3 weeks, but at very cool temperatures it can be extended to 2-3 months.
+ Sintomas: Underground symptoms are primarily galls on roots, corms, tubers or peanut pods, abnormal formation and function of root system and giant cells blocking the vascular cylinder.Non-specific above-ground symptoms include patchy, stunted growth; discoloration and leaf chlorosis; excessive wilting during dry, hot conditions; stunting of whole plants; reduced yield and quality; and sometimes premature senescence or death.Infected plants are often stun
+Text Len: 1840
+--------------------------------------------------------------------------------
+ tubers or peanut pods, abnormal formation and function of root system and giant cells blocking the vascular cylinder.Non-specific above-ground symptoms include patchy, stunted growth; discoloration and leaf chlorosis; excessive wilting during dry, hot conditions; stunting of whole plants; reduced yield and quality; and sometimes premature senescence or death.Infected plants are often stunted and chlorotic. Small to large galls (2-200 mm in diameter) occur on the roots of infected plants. M. arenaria populations often produce many small bead-like galls that do not form short lateral roots ( Eisenback et al., 1981 ). Small wart-like projections may occur on infected corms, tubers and peanut pods. Symptoms are similar to those produced by most of the other root-knot nematode species.Root-knot is generally more severe in sandy soils and under adverse environmental conditions such as drought and high temperatures. M. arenaria can interact with fungi or bacteria to cause more severe symptoms, break resistance to the disease agent, or allow weakly parasitic and non-pathogenic organisms to cause disease.
+ Organos afectados: Abelmoschus esculentus (okra), Malvaceae, Main, Tariq-Khan et al. (2020)Hussain et al. (2015)
+ Seccion ambiental: Biology and Ecology Life CycleThe egg of a root-knot nematode develops into a vermiform first-stage juvenile that undergoes one moult into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase
+Text Len: 1764
+--------------------------------------------------------------------------------
+ into a second-stage juvenile. The second-stage juvenile hatches from the egg, moves freely in the soil, penetrates the root just behind the root cap, migrates intercellularly in the root and establishes a feeding site within the developing vascular cylinder. As it feeds on the nematode-induced giant cell system, the second-stage juvenile loses its mobility and begins to increase in girth. After it has imbibed a sufficient quantity of sustenance, the flask-shaped second-stage juvenile moults three times without feeding and matures into a saccate adult female. Females of M. arenaria reproduce by mitotic parthenogenesis; as soon as they are mature adults they begin producing eggs ( Triantaphyllou and Hirschmann, 1960 ).Male second-stage juveniles undergo a metamorphosis during the third moult into elongate vermiform fourth-stage juveniles. The fourth-stage juvenile male remains enclosed in the cuticle of the second and third stages where it moults again to form an adult vermiform male. The male escapes from the cuticles and the root system. It moves freely in the soil, not feeding, only mating with mature adult females. As populations of M. arenaria reproduce by mitotic parthenogenesis, males serve no reproductive function ( Triantaphyllou and Hirschmann, 1960 ).The length of one generation of M. arenaria is greatly affected by temperature. At very high temperatures (>29°C), the life cycle takes approximately 3 weeks, but at very cool temperatures it can be extended to 2-3 months.
+Text Len: 1503
+--------------------------------------------------------------------------------
+Skip to main content
+    
+
+
+
+
+An official website of the United States government.
+    Here's how you know.
+
+
+
+
+
+
+
+dot gov icon
+
+
+
+
+Official websites use .gov
+
+        A .gov website belongs to an official government organization in the United States.    
+
+
+
+
+
+
+https icon
+
+
+
+
+Secure .gov websites use HTTPS
+
+        A lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nematode Collection Database
+U.S. Department of Agriculture
+
+
+
+
+
+
+
+menu
+                
+
+
+
+
+Main navigation
+
+Search 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+                  Entry Number: 5
+              
+
+Entry Number: 5
+
+
+Disposition of Sample
+Records only; material discarded
+
+
+Nematode
+Meloidogyne
+arenaria 100%
+
+
+Host
+Arachis
+hypogaea
+(Peanut)
+in/on Root
+
+
+Origin
+USA
+Georgia
+Tifton
+
+
+Collector
+via A. W. Johnson
+
+
+Date Received
+1995 Nov 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement
+Text Len: 1177
+--------------------------------------------------------------------------------
+
+
+
+Date Received
+1995 Nov 02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement(link is external)
+Civil Rights Policy(link is external)
+Information Quality(link is external)
+National Agricultural Library(link is external)
+Agricultural Research Service(link is external)
+USDA.gov(link is external)
+USA.gov(link is external)
+WhiteHouse.gov(link is external)
+
+
+Sign up for ARS News updates
+
+
+Your email address
+Text Len: 611
+--------------------------------------------------------------------------------

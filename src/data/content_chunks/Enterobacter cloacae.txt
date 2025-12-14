@@ -1,0 +1,128 @@
+Crop Knowledge Master
+Enterobacter cloacae 
+internal yellowing of papaya (Plant Disease Pathogen)
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+K.A. Nishijima
+(In:Wayne Nishijima’s papaya compendium)
+HOSTS
+Internal yellowing is a bacterial disease of Hawaii-grown papaya (Carica papaya L.).
+DISTRIBUTION
+Internal yellowing of Hawaii-grown papayas was first observed in 1984 in fruit that were treated with a two-stage, hot-water immersion treatment that was developed to disinfest papaya of fruit fly eggs and larvae.
+DAMAGE
+Internal yellowing affects the internal flesh of ripening fruit without displaying any external symptoms. The disease is characterized by soft, yellow-discolored flesh with diffuse, spreading margins and an offensive, rotting odor in ripening papaya fruit. Infected tissue, which are observed only when fruit are cut open, occur in areas around and including portions of the seed cavity, usually near the calyx and middle sections of the fruit. Occasionally, vascular tissue near the stem-end become infected and appear yellow to yellowish-tan in color.
+Fruit ripeness is a factor in the incidence of internal yellowing with ripe and overripe fruit having the highest incidences of infection. Symptom expression also varies with fruit ripeness. In mature but not fully-ripe fruit, infected tissue appear as "pockets" of yellow-discolored flesh, while in ripe fruit, infected areas do not have distinct margins and appear "diffuse".
+During the period 1984-1986, disease incidence in Hawaii of the hot-water treated fruit was as high as 9.7%. Since then, recent surveys indicate that this level is often surpassed, depending on the time of year and the packinghouse.
+BIOLOGY
+Enterobacter cloacae
+Text Len: 1744
+--------------------------------------------------------------------------------
+, while in ripe fruit, infected areas do not have distinct margins and appear "diffuse".
+During the period 1984-1986, disease incidence in Hawaii of the hot-water treated fruit was as high as 9.7%. Since then, recent surveys indicate that this level is often surpassed, depending on the time of year and the packinghouse.
+BIOLOGY
+Enterobacter cloacae is a gram-negative, rod-shaped bacterium that has peritrichous flagella, measures 0.3-0.6 x 0.8-2.0 µm, is oxidase-negative, catalase-positive, and is facultatively anaerobic. The bacterium is positive for Beta-galactosidase, arginine dihydrolase, ornithine decarboxylase, citrate utilization, nitrate reduction, and Voges-Proskauer reaction. Production of lysine decarboxylase, hydrogen sulfide, urease, tryptophan deaminase and indole are all negative. Acid is produced from many carbon sources. Reactions to many of these biochemical tests may be obtained using API 20E strips (Analytab Products). In addition, E. cloacae is negative for phenylalanine deaminase and pectate degradation.
+Enterobacter cloacae grows well on standard bacteriological media on which yellow pigment and purple stain are not produced. Colonies are creamy tan on yeast extract-dextrose-calcium carbonate agar, and dark pink to burgundy with translucent margins on tetrazolium chloride agar. Miller-Schroth medium is useful for initial screenings because of the positive reaction (orange colonies) of E. cloacae on this medium.
+BEHAVIOR
+Enterobacter cloacae has been isolated from papaya flowers, homogenates of papaya seeds, and the crop and mid-
+Text Len: 1576
+--------------------------------------------------------------------------------
+ dark pink to burgundy with translucent margins on tetrazolium chloride agar. Miller-Schroth medium is useful for initial screenings because of the positive reaction (orange colonies) of E. cloacae on this medium.
+BEHAVIOR
+Enterobacter cloacae has been isolated from papaya flowers, homogenates of papaya seeds, and the crop and mid-gut of the oriental fruit fly (Dacus dorsalis Hendel), and recent studies claiming an apparent attractancy of D. dorsalis to E. cloacae, suggest that fruit flies may possibly be involved in the transmission of the bacterium to papaya. It is suspected that after E. cloacae is transmitted to papaya flowers by fruit flies or other insects, the pathogen remains quiescent during fruit development until symptoms are expressed when the fruit are fully ripe.
+Although E. cloacae was recovered from hot-water treatment tanks, it is believed that these tanks are not a major source of infection in processed papaya fruit because of the relatively rare occurrence of internal yellowing symptoms in the vascular tissue near the stem-end of the fruit.
+A report of E. cloacae isolated from homogenates of papaya seeds in 1972 suggests that this organism may have been present in a non-pathogenic form for many years. Monthly samplings from five papaya packinghouses, that process fruit from different areas on the island of Hawaii, indicate that the incidence of internal yellowing is sporadic and may be affected by environmental factors.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Control of E. cloacae is currently limited to postharvest hot water quarantine treatments which effectively reduce the incidence of internal yellowing in papaya fruit. Without the hot water treatment, incidence of internal yellowing may be as high as 43%, depending on the packinghouse and the time of year.
+The hot water treatments may be inducing resistance in
+Text Len: 1857
+--------------------------------------------------------------------------------
+
+NON-CHEMICAL CONTROL
+Control of E. cloacae is currently limited to postharvest hot water quarantine treatments which effectively reduce the incidence of internal yellowing in papaya fruit. Without the hot water treatment, incidence of internal yellowing may be as high as 43%, depending on the packinghouse and the time of year.
+The hot water treatments may be inducing resistance in the fruit to the bacterial pathogen, but the biochemical and physiological mechanisms involved are not known.
+REFERENCES
+Alvarez, A. M., and Nishijima, W. T. 1987. Postharvest diseases of papaya. Plant Dis. 71:681-686.
+Couey, H. M. 1989. Heat treatment for control of postharvest diseases and insect pests of fruits. HortScience 24:198-202.
+Jang, E. E., and Nishijima, K. A. 1990. Identification and attractancy of bacteria associated with Dacus dorsalis (Diptera:Tephritidae). Environ. Entomol. 19(6):1726-1731.
+Nelson, M. N., and Alvarez, A. M. 1980. Purple stain of Carica papaya. Plant Dis. 64:93-95.
+Nishijima, K. A., Couey, H. M., and Alvarez, A. M. 1987. Internal yellowing, a bacterial disease of papaya fruits caused by Enterobacter cloacae. Plant Dis. 71:1029-1034.
+Rohrbach, K. G. 1989. Unusual tropical fruit diseases with extended latent periods. Plant Dis. 73:607-609.
+Tang, C. S., Bhothipaksa, K., and Frank, H. A. 1972. Bacterial degradation of benzyl isothiocyanate. Appl. Microbiol. 23(
+Text Len: 1389
+--------------------------------------------------------------------------------
+-1034.
+Rohrbach, K. G. 1989. Unusual tropical fruit diseases with extended latent periods. Plant Dis. 73:607-609.
+Tang, C. S., Bhothipaksa, K., and Frank, H. A. 1972. Bacterial degradation of benzyl isothiocyanate. Appl. Microbiol. 23(6):1145-1148.
+    JANUARY 1993
+  3A-ENCLO
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 336
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Enterobacter cloacae 
+internal yellowing of papaya (Plant Disease Pathogen)
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+K.A. Nishijima
+(In:Wayne Nishijima’s papaya compendium)
+HOSTS
+Internal yellowing is a bacterial disease of Hawaii-grown papaya (Carica papaya L.).
+DISTRIBUTION
+Internal yellowing of Hawaii-grown papayas was first observed in 1984 in fruit that were treated with a two-stage, hot-water immersion treatment that was developed to disinfest papaya of fruit fly eggs and larvae.
+DAMAGE
+Internal yellowing affects the internal flesh of ripening fruit without displaying any external symptoms. The disease is characterized by soft, yellow-discolored flesh with diffuse, spreading margins and an offensive, rotting odor in ripening papaya fruit. Infected tissue, which are observed only when fruit are cut open, occur in areas around and including portions of the seed cavity, usually near the calyx and middle sections of the fruit. Occasionally, vascular tissue near the stem-end become infected and appear yellow to yellowish-tan in color.
+Fruit ripeness is a factor in the incidence of internal yellowing with ripe and overripe fruit having the highest incidences of infection. Symptom expression also varies with fruit ripeness. In mature but not fully-ripe fruit, infected tissue appear as "pockets" of yellow-discolored flesh, while in ripe fruit, infected areas do not have distinct margins and appear "diffuse".
+During the period 1984-1986, disease incidence in Hawaii of the hot-water treated fruit was as high as 9.7%. Since then, recent surveys indicate that this level is often surpassed, depending on the time of year and the packinghouse.
+BIOLOGY
+Enterobacter cloacae
+Text Len: 1744
+--------------------------------------------------------------------------------
+, while in ripe fruit, infected areas do not have distinct margins and appear "diffuse".
+During the period 1984-1986, disease incidence in Hawaii of the hot-water treated fruit was as high as 9.7%. Since then, recent surveys indicate that this level is often surpassed, depending on the time of year and the packinghouse.
+BIOLOGY
+Enterobacter cloacae is a gram-negative, rod-shaped bacterium that has peritrichous flagella, measures 0.3-0.6 x 0.8-2.0 µm, is oxidase-negative, catalase-positive, and is facultatively anaerobic. The bacterium is positive for Beta-galactosidase, arginine dihydrolase, ornithine decarboxylase, citrate utilization, nitrate reduction, and Voges-Proskauer reaction. Production of lysine decarboxylase, hydrogen sulfide, urease, tryptophan deaminase and indole are all negative. Acid is produced from many carbon sources. Reactions to many of these biochemical tests may be obtained using API 20E strips (Analytab Products). In addition, E. cloacae is negative for phenylalanine deaminase and pectate degradation.
+Enterobacter cloacae grows well on standard bacteriological media on which yellow pigment and purple stain are not produced. Colonies are creamy tan on yeast extract-dextrose-calcium carbonate agar, and dark pink to burgundy with translucent margins on tetrazolium chloride agar. Miller-Schroth medium is useful for initial screenings because of the positive reaction (orange colonies) of E. cloacae on this medium.
+BEHAVIOR
+Enterobacter cloacae has been isolated from papaya flowers, homogenates of papaya seeds, and the crop and mid-
+Text Len: 1576
+--------------------------------------------------------------------------------
+ dark pink to burgundy with translucent margins on tetrazolium chloride agar. Miller-Schroth medium is useful for initial screenings because of the positive reaction (orange colonies) of E. cloacae on this medium.
+BEHAVIOR
+Enterobacter cloacae has been isolated from papaya flowers, homogenates of papaya seeds, and the crop and mid-gut of the oriental fruit fly (Dacus dorsalis Hendel), and recent studies claiming an apparent attractancy of D. dorsalis to E. cloacae, suggest that fruit flies may possibly be involved in the transmission of the bacterium to papaya. It is suspected that after E. cloacae is transmitted to papaya flowers by fruit flies or other insects, the pathogen remains quiescent during fruit development until symptoms are expressed when the fruit are fully ripe.
+Although E. cloacae was recovered from hot-water treatment tanks, it is believed that these tanks are not a major source of infection in processed papaya fruit because of the relatively rare occurrence of internal yellowing symptoms in the vascular tissue near the stem-end of the fruit.
+A report of E. cloacae isolated from homogenates of papaya seeds in 1972 suggests that this organism may have been present in a non-pathogenic form for many years. Monthly samplings from five papaya packinghouses, that process fruit from different areas on the island of Hawaii, indicate that the incidence of internal yellowing is sporadic and may be affected by environmental factors.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Control of E. cloacae is currently limited to postharvest hot water quarantine treatments which effectively reduce the incidence of internal yellowing in papaya fruit. Without the hot water treatment, incidence of internal yellowing may be as high as 43%, depending on the packinghouse and the time of year.
+The hot water treatments may be inducing resistance in
+Text Len: 1857
+--------------------------------------------------------------------------------
+
+NON-CHEMICAL CONTROL
+Control of E. cloacae is currently limited to postharvest hot water quarantine treatments which effectively reduce the incidence of internal yellowing in papaya fruit. Without the hot water treatment, incidence of internal yellowing may be as high as 43%, depending on the packinghouse and the time of year.
+The hot water treatments may be inducing resistance in the fruit to the bacterial pathogen, but the biochemical and physiological mechanisms involved are not known.
+REFERENCES
+Alvarez, A. M., and Nishijima, W. T. 1987. Postharvest diseases of papaya. Plant Dis. 71:681-686.
+Couey, H. M. 1989. Heat treatment for control of postharvest diseases and insect pests of fruits. HortScience 24:198-202.
+Jang, E. E., and Nishijima, K. A. 1990. Identification and attractancy of bacteria associated with Dacus dorsalis (Diptera:Tephritidae). Environ. Entomol. 19(6):1726-1731.
+Nelson, M. N., and Alvarez, A. M. 1980. Purple stain of Carica papaya. Plant Dis. 64:93-95.
+Nishijima, K. A., Couey, H. M., and Alvarez, A. M. 1987. Internal yellowing, a bacterial disease of papaya fruits caused by Enterobacter cloacae. Plant Dis. 71:1029-1034.
+Rohrbach, K. G. 1989. Unusual tropical fruit diseases with extended latent periods. Plant Dis. 73:607-609.
+Tang, C. S., Bhothipaksa, K., and Frank, H. A. 1972. Bacterial degradation of benzyl isothiocyanate. Appl. Microbiol. 23(
+Text Len: 1389
+--------------------------------------------------------------------------------
+-1034.
+Rohrbach, K. G. 1989. Unusual tropical fruit diseases with extended latent periods. Plant Dis. 73:607-609.
+Tang, C. S., Bhothipaksa, K., and Frank, H. A. 1972. Bacterial degradation of benzyl isothiocyanate. Appl. Microbiol. 23(6):1145-1148.
+    JANUARY 1993
+  3A-ENCLO
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 336
+--------------------------------------------------------------------------------

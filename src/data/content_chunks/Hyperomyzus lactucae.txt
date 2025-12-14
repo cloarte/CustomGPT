@@ -1,0 +1,176 @@
+Crop Knowledge Master
+Hyperomyzus lactucae (L.)
+Sowthistle aphid
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+Primary hosts on which this aphid develops belong to the Ribes genus. This species includes black-currants and gooseberries. Secondary hosts are weedy herbs of the Sonchus genus, especially S. oleraceus (sowthistle, pua-lele). Agricultural crops include sweet potato and tomato. Sowthistles are common weeds with no economic importance except for serving as the principal reservoir of several viruses. This aphid occasionally feeds on papaya but does not develop on it.
+DISTRIBUTION
+Of palearctic origin, this species is now cosmopolitan. It is widespread in Australia, Central Asia, Europe, Hawaii, India, Japan, Mediterranean, the Middle East, New Zealand, North and South America and Pakistan.
+DAMAGE
+These aphids prefer to feed on the underside of young leaves but spread to other parts of the plant if population densities are high.
+Aphids feed by sucking sap from their hosts. This often causes the plants to become deformed, the leaves become curled and shriveled and in some cases, galls are formed on the leaves (Metcalf, 1962). Feeding on Ribes spp. results in leaf curling and yellow spotting.
+Although the sowthistle aphid does not develop on lettuce and papaya, winged individuals feed on these hosts and transmit viruses to these plants. It is this feature that makes this pest economically significant on these crops. This aphid is a vector of about 12 non-persistent viruses such as lettuce
+Text Len: 1704
+--------------------------------------------------------------------------------
+). Feeding on Ribes spp. results in leaf curling and yellow spotting.
+Although the sowthistle aphid does not develop on lettuce and papaya, winged individuals feed on these hosts and transmit viruses to these plants. It is this feature that makes this pest economically significant on these crops. This aphid is a vector of about 12 non-persistent viruses such as lettuce mosaic virus, and several persistent viruses including lettuce necrotic yellows, papaya ringspot virus and sowthistle yellow vein.
+BIOLOGY
+The following developmental durations are from insectary rearing studies on sowthistle plants with mean daily minimum and maximum temperatures of 59.3û F and 78.2û F, respectively (Passlow and Roubicek, 1967). Developmental time is slightly faster in Hawaii.
+With an increase in mean daily temperatures, the development and reproductive rate of this aphid increases. In contrast, the life span and total fecundity decreases. Winged individuals have a longer development time and a lower reproductive rate and life-time fecundity.
+Since winters in Hawaii are mild, there is no need for an over wintering egg stage. In Hawaii, reproduction does not involve mating and egg laying. Females give birth to live female nymphs. As a consequence of this type of reproduction, populations are composed solely of females and there are no males present. Generations are continuous throughout the year in Hawaii.
+Eggs
+In temperate regions, this aphid over winters as eggs. Eggs are not laid in Hawaii.
+Nymphs
+There are 4 nymphal stages, or instars. Duration of the first instar is 1 to 2 days; the second instar is 2 to 3 days; the third instar about 3 days; and the fourth instar is 2 to 4 days. The total development time in the nymphal period requires 9 to 12 days. Nymphs resemble the wing
+Text Len: 1791
+--------------------------------------------------------------------------------
+
+Nymphs
+There are 4 nymphal stages, or instars. Duration of the first instar is 1 to 2 days; the second instar is 2 to 3 days; the third instar about 3 days; and the fourth instar is 2 to 4 days. The total development time in the nymphal period requires 9 to 12 days. Nymphs resemble the wingless adults except for their smaller size.
+Adults
+Non-winged adults are opaque green aphids with pale legs and broad spindle shaped bodies. Winged individuals have a dark patch on the top of their abdomen. Both adult forms are about 1/12 to 1/8 inch long.
+This species is known to have a relatively short adult life (8 days at 75û F) and low reproductivity. High populations of this aphid in the field are usually attributed to host abundance.
+BEHAVIOR
+Dispersal flights of this aphid are likely to occur when the mean weekly temperatures range between 60-72û F, weekly rainfall is less than 0.20 inches and the wind is about 3 mph.
+MANAGEMENT
+Non-Chemical Control
+There are several natural enemies of this aphid worldwide. Common enemies in Australia include the larvae of a syrphid fly, Simosyrphus grandicornis, and an entomophoran (insect attacking) fungus, Erynia neophidis. Several parasitoid wasps have been introduced as biological control agents to supplement the natural enemies in Australia; they are Aphidius sonchi and Praon volucre. These wasps were originally specialized parasites for Hyperomyzus spp. but have become general parasites to other aphids. Only A. sonchi became established. Specific parasites are not reported for Hawaii. However, several general aphid predators, parasites, and pathogens are present that affect populations of this aphid.
+Several environmental factors influence
+Text Len: 1701
+--------------------------------------------------------------------------------
+ Aphidius sonchi and Praon volucre. These wasps were originally specialized parasites for Hyperomyzus spp. but have become general parasites to other aphids. Only A. sonchi became established. Specific parasites are not reported for Hawaii. However, several general aphid predators, parasites, and pathogens are present that affect populations of this aphid.
+Several environmental factors influence aphid populations. High temperatures increase mortality, and Heavy rainfall washes aphids off plants (Hughes, 1963; Maelzer, 1982). However, heavy rainfall is not a major mortality factor, because this aphid usually gathers on the protected under surface of leaves where they are less likely to be washed off (Walker et. al., 1984).
+Chemical Control
+Insecticidal soaps give some control of aphids. Applications should be applied at regular intervals for maximum efficacy (Koehler et. al., 1983). Many synthetic insecticides easily control aphids. Examine insect control guides and insecticide labels to determine which products are effective.
+REFERENCES
+Blackman, R.L. and V.F. Eastop. 1984. Hyperomyzus lactucae (L.). pp. 283. Aphids on the World's Crops: An Identification and Information Guide. John Wiley & Sons: Chichester, New York, Brisbane, Toronto, Singapore. 466 pages.
+Carver, M. and L.T. Woolcock. 1986. The Introduction into Australia of Biological Control Agents of Hyperomyzus lactucae (L.) (Homoptera: Aphididae). J. Australian Entomol. Soc. 25: 65-69.
+Eastop, V.F. 1966. A Taxonomic Study of Australian Aphidoidea (Homoptera). Aust. J. Zool. 14: 399-592.
+Elmer, H.S. and O.L. Brawner
+Text Len: 1599
+--------------------------------------------------------------------------------
+L.) (Homoptera: Aphididae). J. Australian Entomol. Soc. 25: 65-69.
+Eastop, V.F. 1966. A Taxonomic Study of Australian Aphidoidea (Homoptera). Aust. J. Zool. 14: 399-592.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Hughes, R.D. 1963. Population Dynamics of the Cabbage Aphid, Brevicoryne brassicae. J. Anim. Ecol. 32:393-424.
+Keep, E. and J.B. Briggs. 1971. A Survey of Ribes species for Aphid Resistance. Annal. appl. Biol. 68: 23-30.
+Koehler, C.S., L.W. Barclay and T.M. Kretchun. 1983. Pests in the Home Garden. California Agriculture. 37(9/10): 11-12.
+Maelzer, D.A. 1977. The Biology and Main Causes of Changes in Numbers of the Rose Aphid, Macrosiphum rosae (L.) on Cultivated Roses in South Australia. Austral. J. Zool. 25: 269-284.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Passlow, T and M.S. Roubicek. 1967. Life History of the Sowthistle Aphid Hyperomyzus lactucae (L.). Queensland J. Agirc. Sci. 24: 103-104.
+Randles, J.W. and N.C. Crowley. 1970. Epidemiology
+Text Len: 1152
+--------------------------------------------------------------------------------
+ Francisco, Toronto, London. 1087 pages.
+Passlow, T and M.S. Roubicek. 1967. Life History of the Sowthistle Aphid Hyperomyzus lactucae (L.). Queensland J. Agirc. Sci. 24: 103-104.
+Randles, J.W. and N.C. Crowley. 1970. Epidemiology of Lettuce Necrotic Yellows Virus in South Australia I. Relationship Between Disease Incidence and Activity of Hyperomyzus lactucae (L.). Aust. J. Agric. Res. 21: 447-453.
+Shu-sheng, L. and Hughes, R.D. 1987. The Influence of Temperature and Photoperiod on the Development, Survival and Reproduction of the Sowthistle Aphid, Hyperomyzus lactucae. Entomologia Experimentalis of Applicata. 43(1): 31-38.
+Shu-sheng, L. and M. Carver. 1985. Studies on the Biology of Aphidius sonchi Marshall (Hymenoptera: Aphididae), a Parasite of the Sowthistle Aphid, Hyperomyzus lactucae (L.) (Hemiptera: Aphididae). Bull. Entomol. Res. 75(2): 199-208.
+Singer, M.C. and B.D. Smith. 1976. Use of the Plant Growth Regulator Chlormequat Chloride to Control the Aphid Hyperomyzus lactucae on Black Currants. Annal. appl. Biol. 82: 407-414.
+Walker, G.P., L.R. Nault, and D.E. Simonet. 1984. Natural Mortality Factors Acting on Potato Aphid (Macrosiphum euphorbiae) Populations in Processing-Tomato Fields in Ohio.
+Text Len: 1222
+--------------------------------------------------------------------------------
+id Hyperomyzus lactucae on Black Currants. Annal. appl. Biol. 82: 407-414.
+Walker, G.P., L.R. Nault, and D.E. Simonet. 1984. Natural Mortality Factors Acting on Potato Aphid (Macrosiphum euphorbiae) Populations in Processing-Tomato Fields in Ohio. Environ. Entomol. 13(3): 724-732.
+  AUG/1992.
+  H-LACTUC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 364
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Hyperomyzus lactucae (L.)
+Sowthistle aphid
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+Primary hosts on which this aphid develops belong to the Ribes genus. This species includes black-currants and gooseberries. Secondary hosts are weedy herbs of the Sonchus genus, especially S. oleraceus (sowthistle, pua-lele). Agricultural crops include sweet potato and tomato. Sowthistles are common weeds with no economic importance except for serving as the principal reservoir of several viruses. This aphid occasionally feeds on papaya but does not develop on it.
+DISTRIBUTION
+Of palearctic origin, this species is now cosmopolitan. It is widespread in Australia, Central Asia, Europe, Hawaii, India, Japan, Mediterranean, the Middle East, New Zealand, North and South America and Pakistan.
+DAMAGE
+These aphids prefer to feed on the underside of young leaves but spread to other parts of the plant if population densities are high.
+Aphids feed by sucking sap from their hosts. This often causes the plants to become deformed, the leaves become curled and shriveled and in some cases, galls are formed on the leaves (Metcalf, 1962). Feeding on Ribes spp. results in leaf curling and yellow spotting.
+Although the sowthistle aphid does not develop on lettuce and papaya, winged individuals feed on these hosts and transmit viruses to these plants. It is this feature that makes this pest economically significant on these crops. This aphid is a vector of about 12 non-persistent viruses such as lettuce
+Text Len: 1704
+--------------------------------------------------------------------------------
+). Feeding on Ribes spp. results in leaf curling and yellow spotting.
+Although the sowthistle aphid does not develop on lettuce and papaya, winged individuals feed on these hosts and transmit viruses to these plants. It is this feature that makes this pest economically significant on these crops. This aphid is a vector of about 12 non-persistent viruses such as lettuce mosaic virus, and several persistent viruses including lettuce necrotic yellows, papaya ringspot virus and sowthistle yellow vein.
+BIOLOGY
+The following developmental durations are from insectary rearing studies on sowthistle plants with mean daily minimum and maximum temperatures of 59.3û F and 78.2û F, respectively (Passlow and Roubicek, 1967). Developmental time is slightly faster in Hawaii.
+With an increase in mean daily temperatures, the development and reproductive rate of this aphid increases. In contrast, the life span and total fecundity decreases. Winged individuals have a longer development time and a lower reproductive rate and life-time fecundity.
+Since winters in Hawaii are mild, there is no need for an over wintering egg stage. In Hawaii, reproduction does not involve mating and egg laying. Females give birth to live female nymphs. As a consequence of this type of reproduction, populations are composed solely of females and there are no males present. Generations are continuous throughout the year in Hawaii.
+Eggs
+In temperate regions, this aphid over winters as eggs. Eggs are not laid in Hawaii.
+Nymphs
+There are 4 nymphal stages, or instars. Duration of the first instar is 1 to 2 days; the second instar is 2 to 3 days; the third instar about 3 days; and the fourth instar is 2 to 4 days. The total development time in the nymphal period requires 9 to 12 days. Nymphs resemble the wing
+Text Len: 1791
+--------------------------------------------------------------------------------
+
+Nymphs
+There are 4 nymphal stages, or instars. Duration of the first instar is 1 to 2 days; the second instar is 2 to 3 days; the third instar about 3 days; and the fourth instar is 2 to 4 days. The total development time in the nymphal period requires 9 to 12 days. Nymphs resemble the wingless adults except for their smaller size.
+Adults
+Non-winged adults are opaque green aphids with pale legs and broad spindle shaped bodies. Winged individuals have a dark patch on the top of their abdomen. Both adult forms are about 1/12 to 1/8 inch long.
+This species is known to have a relatively short adult life (8 days at 75û F) and low reproductivity. High populations of this aphid in the field are usually attributed to host abundance.
+BEHAVIOR
+Dispersal flights of this aphid are likely to occur when the mean weekly temperatures range between 60-72û F, weekly rainfall is less than 0.20 inches and the wind is about 3 mph.
+MANAGEMENT
+Non-Chemical Control
+There are several natural enemies of this aphid worldwide. Common enemies in Australia include the larvae of a syrphid fly, Simosyrphus grandicornis, and an entomophoran (insect attacking) fungus, Erynia neophidis. Several parasitoid wasps have been introduced as biological control agents to supplement the natural enemies in Australia; they are Aphidius sonchi and Praon volucre. These wasps were originally specialized parasites for Hyperomyzus spp. but have become general parasites to other aphids. Only A. sonchi became established. Specific parasites are not reported for Hawaii. However, several general aphid predators, parasites, and pathogens are present that affect populations of this aphid.
+Several environmental factors influence
+Text Len: 1701
+--------------------------------------------------------------------------------
+ Aphidius sonchi and Praon volucre. These wasps were originally specialized parasites for Hyperomyzus spp. but have become general parasites to other aphids. Only A. sonchi became established. Specific parasites are not reported for Hawaii. However, several general aphid predators, parasites, and pathogens are present that affect populations of this aphid.
+Several environmental factors influence aphid populations. High temperatures increase mortality, and Heavy rainfall washes aphids off plants (Hughes, 1963; Maelzer, 1982). However, heavy rainfall is not a major mortality factor, because this aphid usually gathers on the protected under surface of leaves where they are less likely to be washed off (Walker et. al., 1984).
+Chemical Control
+Insecticidal soaps give some control of aphids. Applications should be applied at regular intervals for maximum efficacy (Koehler et. al., 1983). Many synthetic insecticides easily control aphids. Examine insect control guides and insecticide labels to determine which products are effective.
+REFERENCES
+Blackman, R.L. and V.F. Eastop. 1984. Hyperomyzus lactucae (L.). pp. 283. Aphids on the World's Crops: An Identification and Information Guide. John Wiley & Sons: Chichester, New York, Brisbane, Toronto, Singapore. 466 pages.
+Carver, M. and L.T. Woolcock. 1986. The Introduction into Australia of Biological Control Agents of Hyperomyzus lactucae (L.) (Homoptera: Aphididae). J. Australian Entomol. Soc. 25: 65-69.
+Eastop, V.F. 1966. A Taxonomic Study of Australian Aphidoidea (Homoptera). Aust. J. Zool. 14: 399-592.
+Elmer, H.S. and O.L. Brawner
+Text Len: 1599
+--------------------------------------------------------------------------------
+L.) (Homoptera: Aphididae). J. Australian Entomol. Soc. 25: 65-69.
+Eastop, V.F. 1966. A Taxonomic Study of Australian Aphidoidea (Homoptera). Aust. J. Zool. 14: 399-592.
+Elmer, H.S. and O.L. Brawner. 1975. Control of Brown Soft Scale in Central Valley. Citrograph. 60(11): 402-403.
+Hughes, R.D. 1963. Population Dynamics of the Cabbage Aphid, Brevicoryne brassicae. J. Anim. Ecol. 32:393-424.
+Keep, E. and J.B. Briggs. 1971. A Survey of Ribes species for Aphid Resistance. Annal. appl. Biol. 68: 23-30.
+Koehler, C.S., L.W. Barclay and T.M. Kretchun. 1983. Pests in the Home Garden. California Agriculture. 37(9/10): 11-12.
+Maelzer, D.A. 1977. The Biology and Main Causes of Changes in Numbers of the Rose Aphid, Macrosiphum rosae (L.) on Cultivated Roses in South Australia. Austral. J. Zool. 25: 269-284.
+Metcalf, R.L. 1962. Destructive and Useful Insects Their Habits and Control. McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Passlow, T and M.S. Roubicek. 1967. Life History of the Sowthistle Aphid Hyperomyzus lactucae (L.). Queensland J. Agirc. Sci. 24: 103-104.
+Randles, J.W. and N.C. Crowley. 1970. Epidemiology
+Text Len: 1152
+--------------------------------------------------------------------------------
+ Francisco, Toronto, London. 1087 pages.
+Passlow, T and M.S. Roubicek. 1967. Life History of the Sowthistle Aphid Hyperomyzus lactucae (L.). Queensland J. Agirc. Sci. 24: 103-104.
+Randles, J.W. and N.C. Crowley. 1970. Epidemiology of Lettuce Necrotic Yellows Virus in South Australia I. Relationship Between Disease Incidence and Activity of Hyperomyzus lactucae (L.). Aust. J. Agric. Res. 21: 447-453.
+Shu-sheng, L. and Hughes, R.D. 1987. The Influence of Temperature and Photoperiod on the Development, Survival and Reproduction of the Sowthistle Aphid, Hyperomyzus lactucae. Entomologia Experimentalis of Applicata. 43(1): 31-38.
+Shu-sheng, L. and M. Carver. 1985. Studies on the Biology of Aphidius sonchi Marshall (Hymenoptera: Aphididae), a Parasite of the Sowthistle Aphid, Hyperomyzus lactucae (L.) (Hemiptera: Aphididae). Bull. Entomol. Res. 75(2): 199-208.
+Singer, M.C. and B.D. Smith. 1976. Use of the Plant Growth Regulator Chlormequat Chloride to Control the Aphid Hyperomyzus lactucae on Black Currants. Annal. appl. Biol. 82: 407-414.
+Walker, G.P., L.R. Nault, and D.E. Simonet. 1984. Natural Mortality Factors Acting on Potato Aphid (Macrosiphum euphorbiae) Populations in Processing-Tomato Fields in Ohio.
+Text Len: 1222
+--------------------------------------------------------------------------------
+id Hyperomyzus lactucae on Black Currants. Annal. appl. Biol. 82: 407-414.
+Walker, G.P., L.R. Nault, and D.E. Simonet. 1984. Natural Mortality Factors Acting on Potato Aphid (Macrosiphum euphorbiae) Populations in Processing-Tomato Fields in Ohio. Environ. Entomol. 13(3): 724-732.
+  AUG/1992.
+  H-LACTUC
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 364
+--------------------------------------------------------------------------------

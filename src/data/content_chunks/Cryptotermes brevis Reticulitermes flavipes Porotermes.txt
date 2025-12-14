@@ -1,0 +1,2930 @@
+10 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 11MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+PRÓLOGO
+Chile es un país con una gran variedad de recursos naturales, presentes a lo largo de sus costas como en su 
+suelo. Históricamente el sector minero ha sido el más importante, no obstante en las últimas décadas otras áreas 
+de la economía han aumentado considerablemente su nivel de participación en el ingreso nacional, siendo el sec-
+tor forestal uno de los de mayor crecimiento.
+Bosques naturales y plantaciones con especies exóticas son la materia prima en la que se sustenta el sector 
+forestal chileno y que lo han posicionado en un lugar relevante de la economía nacional, registrándose en el último 
+tiempo cifras históricas en materia de divisas obtenidas por concepto de exportaciones forestales, que superan los 
+dos mil millones de dólares. Gran parte del éxito de la producción forestal está sustentada, entre otros factores, en 
+la buena condición sanitaria de los bosques y en la existencia de un sistema cuarentenario nacional orientado a la 
+detección oportuna de plagas que impactan o pueden impactar negativamente sobre este recurso y a
+Text Len: 1181
+--------------------------------------------------------------------------------
+entada, entre otros factores, en 
+la buena condición sanitaria de los bosques y en la existencia de un sistema cuarentenario nacional orientado a la 
+detección oportuna de plagas que impactan o pueden impactar negativamente sobre este recurso y a la aplicación 
+inmediata de medidas de control.
+No obstante, el creciente intercambio comercial que ha experimentado Chile con el resto del mundo, ha au-
+mentado la presión de ingreso de nuevas plagas forestales, algunas de las cuales han tenido éxito y se han estableci-
+do en los bosques de nuestro país, estando sometidas actualmente la mayoría de ellas a programas de control.
+Con el ﬁn de mejorar la sanidad de nuestros bosques, el Servicio Agrícola y Ganadero tiene dentro de sus 
+prioridades la detección oportuna de plagas, que puedan tener un impacto negativo en el desarrollo del sector fo -
+restal, a través de las acciones que se desarrollan en el Programa de Vigilancia Fitosanitaria Forestal, el cual ha 
+sido diseñado e implementado siguiendo la Norma Internacional de Medidas Fitosanitarias “Directrices para la 
+Vigilancia” (NIMF N° 6/1997), de la Convención Internacional de Protección Fitosanitaria (CIPF) de la
+Text Len: 1177
+--------------------------------------------------------------------------------
+ual ha 
+sido diseñado e implementado siguiendo la Norma Internacional de Medidas Fitosanitarias “Directrices para la 
+Vigilancia” (NIMF N° 6/1997), de la Convención Internacional de Protección Fitosanitaria (CIPF) de la FAO.
+Las estrategias para la detección oportuna de las plagas antes señaladas, son deﬁnidas e implementadas por 
+la Unidad de Vigilancia y Control de Plagas Forestales, de la División de Protección Agrícola del SAG. En esen-
+cia, estas estrategias se basan en el conocimiento amplio de las plagas forestales, tanto para diseñar los métodos de 
+monitoreo como para elaborar el material de apoyo que facilitará la detección de las mismas.
+En este sentido, el presente manual ha sido elaborado por especialistas del Laboratorio Regional SAG de 
+Osorno con el propósito que sea una herramienta útil para la identiﬁcación de insectos, que se encuentran asocia-
+dos a la madera de árboles nativos e introducidos en el sur del país.
+ 
+
+12 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 13MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+INTRODUCCIÓN
+ En este Manual se present
+Text Len: 1107
+--------------------------------------------------------------------------------
+ e introducidos en el sur del país.
+ 
+
+12 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 13MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+INTRODUCCIÓN
+ En este Manual se presentan las principales especies de insectos que atacan la madera en la zona sur de 
+Chile, con especial énfasis en la Décima Región. Estos insectos, en su mayoría, pertenecen al Orden Coleoptera y 
+otros a los Ordenes Hymenoptera, Isoptera y Lepidoptera. Al comienzo del  Manual se ha incluido la deﬁnición 
+de algunos conceptos para entender mejor los daños a los distintos componentes macroestructurales de la made-
+ra. Posteriormente, se proporcionan algunas características generales, que son distintivas de cada familia, tanto 
+en el estado larval como en el adulto, la asociación con madera de diferentes especies forestales, así como algunas 
+características del daño que permitan diferenciar y orientar las prospecciones forestales a bosques y recintos, la 
+detección de daños en maderas en servicio, construcciones y embalajes de madera, siendo estos daños en muchos 
+casos extrapolables a insectos y daños en
+Text Len: 1111
+--------------------------------------------------------------------------------
+ciar y orientar las prospecciones forestales a bosques y recintos, la 
+detección de daños en maderas en servicio, construcciones y embalajes de madera, siendo estos daños en muchos 
+casos extrapolables a insectos y daños en otras latitudes. Además se señalan algunos ejemplos de insectos más fre-
+cuentes asociados a estos daños.
+ Dentro del Orden Coleoptera, las familias más importantes que  se encuentran relacionadas con da -
+ños en madera en el sur de Chile son: Scolytidae, Bostrychidae, Lyctidae, Anobiidae, Cerambycidae, Buprestidae 
+y Curculionidae, en tanto que dentro del Orden Hymenoptera se encuentra la familia Siricidae, en el Orden 
+Lepidoptera la familia Cossidae y en el Orden Isoptera, las familias T ermopsidae y Kalotermitidae. 
+ T oda la información referente a la presencia y ciclos biológicos de los insectos tratados en este Manual, 
+ha sido obtenida en literatura nacional e internacional y los propios registros de  detecciones que el Servicio 
+Agrícola y Ganadero obtiene en la Décima Región de Chile, mediante las distintas actividades de vigilancia  y de-
+fensa forestal, entre las cuales es
+Text Len: 1121
+--------------------------------------------------------------------------------
+ional e internacional y los propios registros de  detecciones que el Servicio 
+Agrícola y Ganadero obtiene en la Décima Región de Chile, mediante las distintas actividades de vigilancia  y de-
+fensa forestal, entre las cuales es posible destacar, la red de trampas de embudo,  trampas de luz, prospecciones a 
+plantaciones forestales y bosque nativo, prospecciones a recintos y denuncias ﬁtosanitarias. 
+
+14 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 15MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+I. MACROESTRUCTURA DE LA MADERA
+ 
+Para una buena comprensión de este Manual es necesario entender algunos conceptos básicos acerca de 
+las estructuras que componen la madera y las funciones que desarrollan cada una de ellas. De esa forma es posi -
+ble entender el por que el daño efectuado por algunos insectos puede ser más perjudicial que otros en diferentes 
+circunstancias.
+ 
+ En una sección de un trozo de madera es posible distinguir desde el exterior hacia el interior las siguien -
+tes estructuras:
+Corteza (Floema): Constituida por dos tejidos, el  más externo llamado s
+Text Len: 1103
+--------------------------------------------------------------------------------
+es 
+circunstancias.
+ 
+ En una sección de un trozo de madera es posible distinguir desde el exterior hacia el interior las siguien -
+tes estructuras:
+Corteza (Floema): Constituida por dos tejidos, el  más externo llamado súber o corcho que tiene fun-
+ción de aislante térmico y uno más interno llamado líber cuya función es el transporte de los produc-
+tos de la fotosíntesis. 
+Cambium: Es el tejido intermedio entre el ﬂoema y el xilema. Es una zona de activa división celular que 
+permite el crecimiento del árbol. 
+Madera (Xilema): Constituida por dos tejidos, el más externo llamado albura tiene como función el  
+transporte de agua, aminoácidos y minerales desde la raíz hacia el tallo.  El tejido más interno se llama 
+duramen y proporciona sostén y resistencia.
+Médula: Constituido por tejido muerto sin función.
+                                                
+FIGURA 1: 
+Macroestructura de la madera.
+CORTEZA
+MEDULA
+MADERA
+
+16 MINISTER
+Text Len: 943
+--------------------------------------------------------------------------------
+                                             
+FIGURA 1: 
+Macroestructura de la madera.
+CORTEZA
+MEDULA
+MADERA
+
+16 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 17MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+cia la construcción del sistema de galerías, mientras que el macho permanece en la cámara nupcial y está encarga-
+do de la expulsión de los desechos hacia el exterior, dentro de éstos se  destacan los géneros Hylastes e Hylurgus. 
+Las especies que presentan poligamia, pueden ser heterosanguíneas y consanguíneas. En el primer caso (poliga -
+mia heterosanguínea) es el macho quien realiza el túnel de entrada y la construcción de la cámara nupcial, para 
+luego permitir la entrada a varias hembras, las cuales expulsan los detritus desde la cámara, estos detritus son ﬁ-
+nalmente arrojados hacia el exterior por el macho. Este tipo de relación se presenta en géneros tales como Ips (cua-
+rentenario para Chile) y Orthotomicus. La poligamia consanguínea se present
+Text Len: 992
+--------------------------------------------------------------------------------
+ la cámara, estos detritus son ﬁ-
+nalmente arrojados hacia el exterior por el macho. Este tipo de relación se presenta en géneros tales como Ips (cua-
+rentenario para Chile) y Orthotomicus. La poligamia consanguínea se presenta en aquellos géneros donde existen 
+muy pocos machos, los cuales no abandonan sus lugares de nacimiento. En este caso son las hembras las que co-
+lonizan los nuevos árboles. Los géneros más importantes con este tipo de relación son Xyleborus (no presente en 
+Chile) y Xyleborinus.
+2.1.1.1. ESCARABAJOS DE CORTEZA
+Se denomina así a los escolítidos que se alimentan de la corteza ya sea de las trozas de la explotación, ár -
+boles caídos o del árbol en pié. Entre ellos se encuentran presentes en Chile, los escarabajos de corteza del pino 
+Hylurgus ligniperda, Hylastes ater y Orthotomicus erosus.
+Hylurgus ligniperda (Fabricius)
+(Escolito rubio del pino)
+Escarabajo originario de Europa y Asia, asociado a la corteza de Pinus spp., especialmente P. radiata. En 
+Chile fue detectado en el año 1985 y  en la actualidad se distribuye
+Text Len: 1057
+--------------------------------------------------------------------------------
+ ligniperda (Fabricius)
+(Escolito rubio del pino)
+Escarabajo originario de Europa y Asia, asociado a la corteza de Pinus spp., especialmente P. radiata. En 
+Chile fue detectado en el año 1985 y  en la actualidad se distribuye desde la Quinta a la Décima Región. 
+Es un pequeño insecto de aproximadamente 6 mm 
+de largo por 2 mm de ancho, de color café oscuro a negro, 
+con la concavidad elitral sin espinas y con abundante pilo -
+sidad de color amarillento en todo el cuerpo, lo que le da el 
+aspecto rubio. La larva de último estadío es de color blanco 
+de aproximadamente 7 mm de largo por 2 mm de ancho, 
+cilíndrica, levemente curvada, sin patas, con la cápsula ce-
+fálica de color amarillento y posee dos protuberancias casi 
+circulares al frente de la cabeza por encima de las mandí -
+bulas. Los adultos son monógamos y las hembras inician la 
+construcción de las galerías que consisten en un túnel de en-
+trada corto que conduce a una cámara en el ﬂoema (cámara 
+nupcial) donde ocurre el apareamiento; luego de aparearse, 
+la hembra construye un
+Text Len: 1051
+--------------------------------------------------------------------------------
+ de las galerías que consisten en un túnel de en-
+trada corto que conduce a una cámara en el ﬂoema (cámara 
+nupcial) donde ocurre el apareamiento; luego de aparearse, 
+la hembra construye una galería larga siguiendo el sentido de la ﬁbra, donde deposita los huevos de a uno en pe-
+queñas hendiduras a lo largo de la galería. Estas galerías las mantienen limpias, eliminando el aserrín rojizo, dado 
+por la coloración de la corteza, a través del oriﬁcio de entrada.
+II. INSECTOS ASOCIADOS A MADERA EN EL SUR DE CHILE
+Según los registros con que cuenta el Servicio Agrícola y Ganadero, en el sur de Chile los principales  insec-
+tos asociados al recurso forestal y madera en servicio se ubican dentro de los  Ordenes Coleoptera, Hymenoptera, 
+Lepidoptera e Isoptera. A continuación se señalan las familias y especies más relevantes dentro de estos Ordenes 
+y sus principales características morfológicas para su  reconocimiento.         
+2.I. ORDEN COLEOPTERA
+A este Orden pertenecen insectos de tamaños muy variables, desde unos pocos milímetros a var
+Text Len: 1050
+--------------------------------------------------------------------------------
+es 
+y sus principales características morfológicas para su  reconocimiento.         
+2.I. ORDEN COLEOPTERA
+A este Orden pertenecen insectos de tamaños muy variables, desde unos pocos milímetros a varios centí-
+metros. En general poseen un cuerpo duro con el primer par de alas quitinizadas y un segundo par de alas mem-
+branosas. En muchos casos presentan los élitros soldados y por lo tanto no está desarrollado el segundo par de 
+alas, siendo incapaces de volar. La cabeza puede estar libre u oculta por debajo del protórax. Las antenas de for -
+mas variables, normalmente con 11 segmentos y con frecuencia reducidos a 8, 9 ó 10. Las patas con tres a cinco 
+segmentos en los tarsos. Aparato bucal del tipo masticador con sus partes bien desarrolladas. La metamorfosis es 
+del tipo holometábola, es decir de un huevo nace una larva que puede pasar por varios estadíos, luego pasa por un 
+período de pupa, para posteriormente llegar al estado adulto o imago.
+2.1.1. Familia Scolytidae
+Corresponde a una familia que presenta numerosos géneros de gran importancia económica forestal. Con 
+tamaños variables entre 0,
+Text Len: 1113
+--------------------------------------------------------------------------------
+período de pupa, para posteriormente llegar al estado adulto o imago.
+2.1.1. Familia Scolytidae
+Corresponde a una familia que presenta numerosos géneros de gran importancia económica forestal. Con 
+tamaños variables entre 0,6 a 9 mm. Poseen una forma y clava antenal distintiva. El cuerpo es casi siempre cilín-
+drico elongado, de color café a negro. Antenas cortas, casi siempre ﬁnalizando en una clava abrupta, grande y re-
+dondeada de 1 a 3 segmentos. El frente del pronoto puede llevar denticulaciones y el declive elitral puede llevar 
+o no algunas prolongaciones cuticulares en forma de espina. La cabeza usualmente está oculta desde arriba y es 
+más estrecha que el pronoto. 
+Las larvas son similares a  las de la familia Curculionidae; blancas, sin patas, con cabeza levemente escle -
+rotizada. De acuerdo al daño que producen los escolítidos pueden ser clasiﬁcados, en primarios (aquellos que son 
+capaces de atacar y matar árboles vivos) y secundarios (asociados a árboles debilitados, caídos y trozas dejadas en 
+el terreno). De acuerdo a su hábito
+Text Len: 1059
+--------------------------------------------------------------------------------
+asiﬁcados, en primarios (aquellos que son 
+capaces de atacar y matar árboles vivos) y secundarios (asociados a árboles debilitados, caídos y trozas dejadas en 
+el terreno). De acuerdo a su hábito alimenticio se distinguen 2 tipos principales: los de corteza y los de ambrosía, 
+ambos tipos  presentan especies polígamas y monógamas. En los géneros con monogamia es la hembra quien ini-
+
+18 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 19MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Los adultos  excavan galerías de 8 a 10 cm de largo, inmedia-
+tamente bajo la corteza, allí las hembras depositan los huevos cuyas 
+larvas al eclosar se desarrollan comprometiendo parte del cambium, 
+pero principalmente la corteza. En Chile se estima que pueden pre -
+sentar hasta 3 generaciones al año y en la Décima Región existen 
+capturas de adultos entre los meses de febrero y noviembre.
+                                  
+Orthotomicus erosus Wollaston
+(Falso Ips del pino)
+Originario de Europa y
+Text Len: 1008
+--------------------------------------------------------------------------------
+ de adultos entre los meses de febrero y noviembre.
+                                  
+Orthotomicus erosus Wollaston
+(Falso Ips del pino)
+Originario de Europa y Norte de África. Entre sus hospederos se cuentan, además del género Pinus, los 
+géneros Picea, Abies y Cedrus. En Chile fue detectado en 1986 en restos de explotación en la Séptima Región y 
+actualmente se distribuye entre la Quinta y Décima Región. Son insectos pequeños, color café oscuro a negro, de 
+3 a 3,8 mm de largo con la concavidad elitral provista de espinas. La larva es de color blanco de aproximadamen-
+te 3 a 4 mm de largo, cilíndrica, levemente curvada, sin patas, con la cápsula cefálica de color café anaranjado y las 
+mandíbulas castaño a negro.
+Se asocia a trozas recién cortadas y restos de explotación. Son polígamos y los ataques son iniciados por 
+los machos, los cuales construyen una cámara nupcial en el cambium, apareándose con una a tres hembras. Estas 
+hembras construyen galerías cortas e irregulares donde coloc
+Text Len: 1004
+--------------------------------------------------------------------------------
+os y los ataques son iniciados por 
+los machos, los cuales construyen una cámara nupcial en el cambium, apareándose con una a tres hembras. Estas 
+hembras construyen galerías cortas e irregulares donde colocan sus huevos en grupos de 10 a 20. Al nacer las 
+larvas se alimentan haciendo galerías individuales bajo la corteza dispuestas en forma perpendicular a la galería 
+donde se acoplaron, éstas posteriormente se unen para formar una galería común. En trozas infestadas se obser-
+van pequeñas cantidades de aserrín café rojizo en las grietas de la corteza. En Europa se ha informado que tiene 
+dos generaciones al año. En  la Décima Región existen registros de presencia de adultos en los meses de febrero 
+y agosto.
+Al nacer las larvas, inician galerías en un comienzo perpendiculares a la de oviposición y después van su -
+friendo desviaciones llegando incluso a juntarse, constituyendo cámaras comunes de alimentación. Pupan en pe-
+queñas cámaras individuales, desde donde salen los adultos, realizando oriﬁcios hacia el exterior. Se han detecta-
+do hasta tres generaciones al año. En la Décima Región existen capturas de
+Text Len: 1127
+--------------------------------------------------------------------------------
+ de alimentación. Pupan en pe-
+queñas cámaras individuales, desde donde salen los adultos, realizando oriﬁcios hacia el exterior. Se han detecta-
+do hasta tres generaciones al año. En la Décima Región existen capturas de adultos durante todo el año. 
+                                             
+Hylastes ater (Paykull)
+(Escolito negro del pino)
+Este insecto de origen europeo se asocia principalmente a restos de cosecha y trozos de Pinus. En Chile fue 
+detectado el año 1983 y actualmente se distribuye entre la Quinta y Décima Región. 
+Es un insecto de cuerpo cilíndrico, lados casi 
+paralelos, pequeño, entre 4 y 5 mm de longitud, co-
+lor negro a negro rojizo brillante con las antenas 
+algo rojizas. Presenta la cabeza y protórax ﬁnamen-
+te punteados, los élitros con siete a ocho hileras de 
+puntos que forman estrías. La larva es curculioni-
+forme, sin patas, de color blanco opaco de aproxi -
+madamente 5 mm de largo por 1,5 mm de ancho, 
+cilíndrica, levemente curv
+Text Len: 974
+--------------------------------------------------------------------------------
+ siete a ocho hileras de 
+puntos que forman estrías. La larva es curculioni-
+forme, sin patas, de color blanco opaco de aproxi -
+madamente 5 mm de largo por 1,5 mm de ancho, 
+cilíndrica, levemente curvada, con la cabeza café 
+amarillenta.
+ 
+
+
+20 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 21MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+madamente 1mm de diámetro. Su ciclo se estima en 2 a 3 generaciones por año. En la Décima Región existen re-
+gistros de captura de adultos entre los meses de febrero y marzo y entre septiembre y diciembre. 
+Gnathotrupes spp.
+(Escolito de ambrosía )
+Insecto nativo,  asociado a numerosas especies forestales principalmente del género Nothofagus, afecta ár-
+boles moribundos, trozas y madera aserrada. Las principales especies presentes en la zona sur de Chile correspon-
+den a G. ﬁmbriatus y G. longipennis siguiendo la distribución de Nothofagus spp.
+El adulto corresponde a un esco -
+lito pequeño, entre 2 y 3 mm de largo,  
+cuerpo cilíndrico, de color café
+Text Len: 1020
+--------------------------------------------------------------------------------
+respon-
+den a G. ﬁmbriatus y G. longipennis siguiendo la distribución de Nothofagus spp.
+El adulto corresponde a un esco -
+lito pequeño, entre 2 y 3 mm de largo,  
+cuerpo cilíndrico, de color café oscuro 
+brillante. El macho construye una galería 
+de entrada la cual penetra la corteza y lle-
+ga hasta el  xilema. Según estudios reali -
+zados en la Universidad Austral de Chile, 
+los adultos barrenan la madera unos 6 cm  
+para luego efectuar un giro de 90° y co -
+menzar a construir la galería de oviposi -
+ción, la que se ubica en forma paralela a 
+la ﬁbra.
+2.1.1.2. ESCARABAJOS DE AMBROSÍA
+Con este nombre se denomina a varias especies pertenecientes a la familia Scolytidae, Platypodidae (no 
+presente en Chile) y Lymexilidae. Ellos perforan la madera (albura y duramen) de árboles caídos o en proceso de 
+decadencia. T anto las larvas como los adultos se alimentan de hongos de ambrosía que cultivan ellos mismos en 
+sus galerías
+Este tipo de relación es menos especíﬁca que la de los  escarabajos de
+Text Len: 1005
+--------------------------------------------------------------------------------
+ en proceso de 
+decadencia. T anto las larvas como los adultos se alimentan de hongos de ambrosía que cultivan ellos mismos en 
+sus galerías
+Este tipo de relación es menos especíﬁca que la de los  escarabajos de corteza, ya que en este caso es suﬁ -
+ciente que el hongo pueda desarrollarse sobre el hospedero para que los escarabajos de ambrosía puedan alimen-
+tarse  en una especie forestal determinada.
+Las esporas del hongo son llevadas por el adulto en estructuras especializadas para su mantención  llama-
+das micangias, estas esporas  son inoculadas en las galerías, generalmente iniciadas por las hembras. Los escolitos 
+presentes en Chile que presentan esta asociación simbiótica son: Xyleborinus saxeseni y Gnathotrupes spp.
+Xyleborinus saxeseni (Ratzeburg)
+(Escolito de ambrosía)
+Escolito muy pequeño, originario del hemisferio norte, se 
+asocia a varias especies de árboles en decadencia o debilitados del 
+género Pinus. En Chile se encuentra distribuido entre la T ercera 
+y Décima Región. El adulto mide aproximadamente 2 mm longi-
+tud, alargado, color castaño osc
+Text Len: 1077
+--------------------------------------------------------------------------------
+�rboles en decadencia o debilitados del 
+género Pinus. En Chile se encuentra distribuido entre la T ercera 
+y Décima Región. El adulto mide aproximadamente 2 mm longi-
+tud, alargado, color castaño oscuro brillante con patas amarillen-
+tas, con pequeños gránulos en el declive elitral. 
+Las larvas son de aproximadamente 2 mm en su último 
+estadío, curculioniformes, de coloración blanco amarillenta y la 
+cabeza de coloración similar con su borde anterior y estructu-
+ras bucales de coloración  
+café amarillento brillante.
+La hembra grávi -
+da construye una galería 
+hacia el centro de la madera de 10 a 70 mm de largo, en la parte terminal 
+agranda las paredes dando una forma de hoja donde deposita sus huevos. 
+La hembra deposita esporas de un hongo de ambrosía, el cual se desarro-
+lla por las paredes de las galerías y  sirve de alimento a las larvas, así la cá-
+mara de crianza adquiere forma irregular en la medida que las larvas van 
+alimentándose. Los adultos al emerger dejan pequeños oriﬁcios de aproxi-
+
+
+22 MINISTERIO DE AGRICULTURA / SERVIC
+Text Len: 1055
+--------------------------------------------------------------------------------
+o a las larvas, así la cá-
+mara de crianza adquiere forma irregular en la medida que las larvas van 
+alimentándose. Los adultos al emerger dejan pequeños oriﬁcios de aproxi-
+
+
+22 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 23MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Los adultos son de tamaño mediano entre 2 y 3 cm de longitud, de cuerpo alargado, muy estrecho, casta-
+ño a negro, delgado y con el primer par de élitros más cortos que los posteriores. Las larvas son alargadas, cilín -
+dricas de color blanco amarillento, con protuberancias laterales a lo largo del abdomen y con  patas torácicas bien 
+desarrolladas. Efectúan galerías circulares y alargadas con las paredes ennegrecidas. La duración del ciclo de vida 
+no ha sido estudiada. Sin embargo, en la Décima Región se han detectado adultos en trampas de luz en los me -
+ses de enero y febrero.
+2.1.3. Familia Bostrychidae
+ Corresponden a insectos de forma cilíndrica, con élitros paralelos. El  pronoto usualmente presenta es -
+pinulescencias frontales y es tan amplio como la cabeza pero sin encerrarla. La
+Text Len: 1096
+--------------------------------------------------------------------------------
+ro.
+2.1.3. Familia Bostrychidae
+ Corresponden a insectos de forma cilíndrica, con élitros paralelos. El  pronoto usualmente presenta es -
+pinulescencias frontales y es tan amplio como la cabeza pero sin encerrarla. La cabeza usualmente está inclinada 
+hacia abajo, casi completamente oculta desde arriba. 
+T anto machos como hembras pueden llevar las esporas del hongo simbionte, inoculando las paredes de la 
+galería, la cual va siendo más grande en la medida que las larvas crecen. Pupan en la galería y  los adultos salen por 
+los túneles efectuados por los padres. En la Décima Región su ciclo se estima en más de dos generaciones al año, 
+con captura de adultos durante todo el año.
+2.1.2. Familia Lymexilidae
+ Corresponde a una pequeña familia con pocos géneros y especies a nivel mundial. De tamaño variable 
+entre 0,6 y  4,5 cm. Los adultos son de color café o negro, algunas veces con apéndices amarillos, de cuerpo suave, 
+alargado, estrecho y cilíndrico, con la cabeza proyectada hacia abajo y estrechada detrás de los ojos. Poseen ante-
+
+Text Len: 1049
+--------------------------------------------------------------------------------
+ adultos son de color café o negro, algunas veces con apéndices amarillos, de cuerpo suave, 
+alargado, estrecho y cilíndrico, con la cabeza proyectada hacia abajo y estrechada detrás de los ojos. Poseen ante-
+nas cortas, ﬁliformes o aserradas. 
+Las larvas son alargadas, cilíndricas, usualmente esclerosadas, de color casi blanco a café oscuro, poseen 
+patas de cuatro segmentos. La cabeza es grande, algo hipognata  y levemente retraída en el protórax. El abdomen 
+presenta nueve segmentos, con el décimo segmento reducido o incompleto. El noveno segmento puede presentar 
+varias modiﬁcaciones, usualmente en forma de una placa cóncava y algunas veces dilatado o prolongado poste -
+riormente.
+Las larvas generalmente se asocian a  tocones y madera muerta, alimentándose de la madera o de hongos 
+de ambrosía cultivados dentro de sus túneles.         
+Atractocerus valdivianus Phillipi
+Insecto nativo de la Familia Lymexilidae, cuyas larvas también se alimentan de hongos de ambrosía. Es 
+un insecto poco frecuente, se encuentra asociado a la madera de
+Text Len: 1052
+--------------------------------------------------------------------------------
+    
+Atractocerus valdivianus Phillipi
+Insecto nativo de la Familia Lymexilidae, cuyas larvas también se alimentan de hongos de ambrosía. Es 
+un insecto poco frecuente, se encuentra asociado a la madera de troncos caídos o árboles muertos del género 
+Nothofagus. En Chile ha sido informado en la Décima Región.
+
+
+24 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 25MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+630 a 720 días entre enero y diciembre del segundo año, las larvas al alimentarse van produciendo galerías que van 
+quedando taponadas con aserrín y excremento, no eliminándolos hacia el exterior, por lo que es posible observar 
+el daño sólo cuando se produce la emergencia de los adultos. En la Décima Región existen registros de captura de  
+adultos en la Provincia de Palena en lo meses de enero, abril y noviembre. Este insecto no reviste mayor importan-
+cia económica, pero bajo ciertas condiciones puede producir el colapso de la madera infestada.
+2.1.4. Familia Lyctidae
+Corresponden a pequeños escarabajos de cuerpo alargado
+Text Len: 1064
+--------------------------------------------------------------------------------
+ insecto no reviste mayor importan-
+cia económica, pero bajo ciertas condiciones puede producir el colapso de la madera infestada.
+2.1.4. Familia Lyctidae
+Corresponden a pequeños escarabajos de cuerpo alargado, algo aplastados dorsoventralmente, con bordes 
+casi paralelos, cuyos tamaños varían entre 2 y 7 mm de longitud. Colores rojizos o negros. Presentan una cabeza 
+bien desarrollada no cubierta por el protórax, las antenas son cortas de 11 segmentos, terminadas en una clava de 
+dos segmentos.  
+Las larvas son similares a las de la familia Bostrychidae,  pero presentan espiráculos ovales sobre el segmen-
+to 8 mucho más grandes que aquellos de los segmentos precedentes. Su daño se maniﬁesta como pequeños oriﬁ-
+cios en las superﬁcies de las maderas atacadas, lo que da el aspecto de haber sido acribilladas (tiro de munición).
+Entre los representantes de esta familia se encuentran varias especies del género Lyctus, siendo los más co-
+nocidos Lyctus chilensis y Lyctus brunneus. 
+Lyctus brunneus (Stephens)
+(Escarabajo pulverizador de la madera)
+ Especie
+Text Len: 1065
+--------------------------------------------------------------------------------
+a familia se encuentran varias especies del género Lyctus, siendo los más co-
+nocidos Lyctus chilensis y Lyctus brunneus. 
+Lyctus brunneus (Stephens)
+(Escarabajo pulverizador de la madera)
+ Especie cosmopolita, ataca la albura de varias especies de maderas duras. Los adultos son  pequeños, de 
+2 a 6 mm de longitud, de cuerpo delgado, aplanado, con bordes paralelos y coloración café rojizo. Las larvas son 
+de coloración blanco cremoso de aproximadamente 5 mm de largo y se distinguen de las larvas de otras familias 
+de escarabajos de madera por la presencia de un espiráculo agrandado en el penúltimo segmento abdominal. 
+Las larvas presentan la cabeza retraída en el tórax, forma escarabeiforme, con patas y cabeza deﬁnida y los 
+espiráculos abdominales de similar tamaño.
+Polycaon chilensis Erichson
+(T aladro chileno del peumo)
+Insecto nativo, presente además en Argentina, Bolivia y Perú. (ARTIGAS, 1994). Asociado principal -
+mente a madera seca de Eucalipto, Ciprés de la Cordillera, Peumo y Lleuque. En Chile se encuentra distribuido 
+entre la Cuarta y Dé
+Text Len: 1066
+--------------------------------------------------------------------------------
+ presente además en Argentina, Bolivia y Perú. (ARTIGAS, 1994). Asociado principal -
+mente a madera seca de Eucalipto, Ciprés de la Cordillera, Peumo y Lleuque. En Chile se encuentra distribuido 
+entre la Cuarta y Décima Región.
+Es un insecto de tamaño variable entre 9 y 26 
+mm de largo por 3 a 7 mm de ancho, de cuerpo alar-
+gado y color castaño rojizo oscuro a negro, con los 
+élitros cubiertos por pelos ﬁnos no muy densos, pero 
+más en la cabeza, tórax y en la parte ventral. La ca -
+beza es de forma subcuadrangular, con antenas de 
+12 segmentos que nacen frente a los ojos, el segundo 
+segmento es más largo que los siguientes, pero menor 
+que los tres últimos, los cuales forman una clava ar-
+ticulada. La larva es de color blanco de aproximada -
+mente 15 mm en su último estadío, escarabeiforme, 
+con el octavo segmento abdominal similar en tamaño 
+al de los otros segmentos.   
+La duración del ciclo de vida  se ha estimado en dos años para la Quinta Región observándose los adultos 
+entre octubre y marzo, los huevos son blancos, alarg
+Text Len: 1046
+--------------------------------------------------------------------------------
+o segmento abdominal similar en tamaño 
+al de los otros segmentos.   
+La duración del ciclo de vida  se ha estimado en dos años para la Quinta Región observándose los adultos 
+entre octubre y marzo, los huevos son blancos, alargados entre 2 y 2,5 mm de largo, puestos en grupos en grietas 
+y depresiones de madera seca o en oriﬁcios de emergencia antiguos. Se estima que el desarrollo larvario dura entre 
+
+
+26 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 27MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.1.5. Familia Anobiidae
+Esta familia incluye pequeños insectos de 1,1 a 9 mm de longitud. Con el protórax semejando una  cape -
+ruza que cubre la cabeza. Antenas con los últimos tres segmentos usualmente engrosados y expandidos, clava no 
+simétrica. Cuerpo de forma variable desde cilíndrico alargado a oval o casi esférico. El color varía desde café claro 
+a negro.
+Las larvas de esta familia son del tipo escarabeiforme, de color blanco amarillento, con pelos ﬁnos en la su-
+perﬁcie. Cabeza bien deﬁnida, tó
+Text Len: 1037
+--------------------------------------------------------------------------------
+férico. El color varía desde café claro 
+a negro.
+Las larvas de esta familia son del tipo escarabeiforme, de color blanco amarillento, con pelos ﬁnos en la su-
+perﬁcie. Cabeza bien deﬁnida, tórax dilatado y patas vestigiales o delgadas terminadas en una uña aguda. Existen 
+anóbidos que atacan corteza y otros que atacan madera en servicio, en este último caso dejan la madera convertida 
+en polvo ﬁno, y se observa una gran cantidad de oriﬁcios pequeños al emerger los adultos, similares  a los  produ-
+cidos por el ataque de Lyctidae, aunque en general el aserrín producido por anóbidos es de una granulación ma-
+yor, palpable al tacto como arenisca. En el caso de los anóbidos que atacan corteza, éstos llenan sus galerías con 
+pequeños pellets, que pueden tener distinta coloración debido a la alimentación tanto de corteza como de algunas 
+capas externas del xilema.
+Anobium punctatum De Geer
+(Escarabajo de los muebles)
+Insecto cosmopolita, asociado a la albura y duramen de madera de lati -
+foliadas y coníferas en servicio. Presente en Chile desde la Quint
+Text Len: 1064
+--------------------------------------------------------------------------------
+capas externas del xilema.
+Anobium punctatum De Geer
+(Escarabajo de los muebles)
+Insecto cosmopolita, asociado a la albura y duramen de madera de lati -
+foliadas y coníferas en servicio. Presente en Chile desde la Quinta a la Décima 
+Región. Su tamaño varía de  4 a 6 mm de longitud, cilíndrico, café rojizo a café 
+oscuro, cubierto por ﬁnos pelos amarillentos. La cabeza presenta una protube -
+rancia frontal prominente con antenas de 11 segmentos y los últimos tres ante-
+nitos elongados, los cuales superan la longitud de los ocho antenitos anteriores. 
+La larva es blanca grisácea, de alrededor de 6 mm de longitud con espínulas pre-
+sentes en los primeros 7 segmentos abdominales y ausentes en los últimos 3. Sus 
+larvas pueden ser distin-
+guidas de los Lyctidae, 
+por la ausencia de un 
+penúltimo espiráculo 
+agrandado.
+El ataque de estos escarabajos  se observa usual -
+mente en madera que ha estado en servicio por más de 
+20 años y en la mayoría de los casos corresponde  a pi -
+sos, paredes y marcos de puertas y ventanas, así como a 
+muebles.
+La hemb
+Text Len: 1061
+--------------------------------------------------------------------------------
+ajos  se observa usual -
+mente en madera que ha estado en servicio por más de 
+20 años y en la mayoría de los casos corresponde  a pi -
+sos, paredes y marcos de puertas y ventanas, así como a 
+muebles.
+La hembra posee un ovipositor largo y ﬂexible, el que in-
+serta profundamente en los poros de maderas duras, poniendo 
+uno o varios huevos en pequeños poros de la albura susceptible 
+de maderas duras que contienen almidón. La madera de pino es 
+inmune al ataque de Lyctus, debido a que la hembra pone sus 
+huevos sólo en los poros conductores de agua del árbol. Sin em-
+bargo, aunque los pinos conducen agua a las hojas de una manera 
+similar a las latifoliadas, sus tubos son mucho más pequeños en 
+diámetro lo que impide la postura de huevos de estos escaraba -
+jos, comparado con los oriﬁcios más grandes de las latifoliadas.
+Las larvas que eclosan a partir de los huevos se alimentan 
+de almidón y después de varias mudas se acercan a la superﬁcie para pupar. Los escarabajos al emerger dejan oriﬁ-
+cios circulares de 1 a 2 mm de diámetro.
+Text Len: 1045
+--------------------------------------------------------------------------------
+ eclosan a partir de los huevos se alimentan 
+de almidón y después de varias mudas se acercan a la superﬁcie para pupar. Los escarabajos al emerger dejan oriﬁ-
+cios circulares de 1 a 2 mm de diámetro. El polvo liberado desde estos oriﬁcios es ﬁno y semejante a la harina. La 
+madera queda reducida a ﬁno polvo, el que se detecta una vez que se ha producido el vuelo de los adultos. Vuelan 
+rápidamente y se dispersan a otras maderas susceptibles. No oviponen sobre maderas enceradas, barnizadas o 
+pintadas. La duración del ciclo de vida se estima entre 8 y 12 meses. 
+Lyctus chilensis Gerber
+(Escarabajo pulverizador de la madera)
+Insecto nativo, asociado a maderas duras secas de especies tales como 
+Aromo, Boldo, Coigüe, Eucalipto, Raulí y Roble.
+Ampliamente distribuido en Chile. Sus características morfológicas, bio-
+lógicas y daño son similares a las de L. brunneus. En la Décima Región existen 
+capturas de adultos en vuelo durante los meses de enero y febrero.
+
+
+28 MINISTERIO DE AGRICULTURA / SERVICIO AGR
+Text Len: 1016
+--------------------------------------------------------------------------------
+ógicas, bio-
+lógicas y daño son similares a las de L. brunneus. En la Décima Región existen 
+capturas de adultos en vuelo durante los meses de enero y febrero.
+
+
+28 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 29MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+El daño que produce es similar al del es -
+carabajo de los muebles, sin embargo los oriﬁcios 
+de emergencia son más grandes (3 a 4 mm de diá-
+metro). Su ciclo de vida no ha sido estudiado. En 
+la Décima Región existen capturas de adultos en 
+vuelo entre los meses de octubre y enero.
+ 
+Ernobius mollis Linnaeus
+(Anóbido de la corteza del pino)
+Corresponde a un insecto de origen Europeo, es un barrenador de la corteza de maderas blandas, especial-
+mente Pinus spp.  En la Décima  Región de Chile,  se ha detectado asociado a corteza de Pinus radiata.
+El adulto presenta un tamaño pequeño, alrededor de 5 mm de longitud, de color café a rojizo con ﬁna pub-
+escencia amarilla, la cabeza se encuentra algo retraída por debajo del pronoto, antenas con 11 segmentos, los tres 
+
+Text Len: 1054
+--------------------------------------------------------------------------------
+
+El adulto presenta un tamaño pequeño, alrededor de 5 mm de longitud, de color café a rojizo con ﬁna pub-
+escencia amarilla, la cabeza se encuentra algo retraída por debajo del pronoto, antenas con 11 segmentos, los tres 
+últimos alargados. Las larvas son de color  blanco, de forma 
+escarabeiforme, con espiráculos similares en tamaño y pre-
+sentan patas con cinco segmentos. Los huevos son puestos 
+en la corteza de pino que haya sido deteriorada por fuego 
+o en estado decadente.
+Las larvas se alimentan de la corteza, pero también 
+producen daño en las capas más externas del xilema, por 
+ello forman un aserrín característico con apariencia de sal 
+y pimienta, similar al producido por algunas especies de 
+curculiónidos de la corteza. Al emerger los adultos realizan 
+oriﬁcios ovales de aproximadamente 2 mm de diámetro. 
+El ciclo se ha estimado en uno a dos años. En la 
+Décima Región existen captura de adultos en gran parte del año.
+Otros géneros de anóbidos detectados en la Décima Región corresponden a especies nativas de los géneros 
+Stichtoptychus y Calymm
+Text Len: 1070
+--------------------------------------------------------------------------------
+ dos años. En la 
+Décima Región existen captura de adultos en gran parte del año.
+Otros géneros de anóbidos detectados en la Décima Región corresponden a especies nativas de los géneros 
+Stichtoptychus y Calymmaderus. Ambos  han sido poco estudiados, existiendo algunos antecedentes sobre su clasi-
+ﬁcación taxonómica, pero sólo unos pocos registros sobre su biología, comportamiento y hospederos. Ambos gé-
+neros presentan características morfológicas similares: el adulto es de color negro, mide aproximadamente 4 mm 
+de longitud, con la cabeza oculta bajo el protórax. En el caso de Stichtoptychus sp. se detectan con alguna frecuen-
+La hembra pone sus huevos en grietas y oriﬁcios de 
+emergencia antiguos, perforando principalmente la albura y 
+moviéndose cerca de la superﬁcie para pupar, los escarabajos 
+emergen a través de oriﬁcios circulares de aproximadamente 
+2 mm, similares a los de los Lyctidae. 
+El ciclo de vida puede durar entre uno y tres años. La 
+longitud del estado larval es afectada por el clima y
+Text Len: 1020
+--------------------------------------------------------------------------------
+vés de oriﬁcios circulares de aproximadamente 
+2 mm, similares a los de los Lyctidae. 
+El ciclo de vida puede durar entre uno y tres años. La 
+longitud del estado larval es afectada por el clima y el alimen-
+to, lo que explica las variaciones en la duración del ciclo. El 
+aserrín producido es ﬁno y arenoso, pero en este caso gene -
+ralmente es palpable al tacto y es posible distinguir su granu-
+lación. Atacan madera sólo si la corteza es removida, no ovi-
+ponen sobre madera pintada y barnizada.
+Hadrobregmus sp.
+(Frailecillo)
+Insecto similar a A. punctatum. El género está poco estudiado y 
+tampoco se ha evaluado la magnitud de su daño, ha sido determinado 
+para madera muerta de Coigüe y Ciprés de la Cordillera. En el Sur de 
+Chile, se ha detectado produciendo daño en casas de madera nativa en 
+V aldivia, Chiloé y Chaitén.
+El adulto presenta un  tamaño entre 6 y 8 mm de largo, de color 
+castaño oscuro con abundante pilosidad amarillenta en todo el cuerpo, 
+presenta la típica forma del pronoto como caperuza. Las larvas son de 
+tip
+Text Len: 1043
+--------------------------------------------------------------------------------
+én.
+El adulto presenta un  tamaño entre 6 y 8 mm de largo, de color 
+castaño oscuro con abundante pilosidad amarillenta en todo el cuerpo, 
+presenta la típica forma del pronoto como caperuza. Las larvas son de 
+tipo escarabeiforme de color blanco cremoso. 
+
+
+30 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 31MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Phoracantha semipunctata Fabricius
+(T aladro del eucalipto)
+Insecto de origen australiano, asociado a distintas especies del gé -
+nero Eucalyptus. Presente entre la Primera y Décima Región de Chile. Los 
+adultos son de tamaño mediano, entre 20 y 28 mm de largo, color café con 
+manchas amarillentas en los élitros y con antenas dirigidas hacia atrás que 
+sobrepasan la longitud del cuerpo. Las larvas miden hasta 40 mm de largo, 
+color blanco amarillento con la cabeza achatada más ancha que larga y con 
+el protórax esclerosado.
+Su ciclo de vida para la Décima Región se estima en un año, obser -
+vándose  la oviposición desde primavera hasta ﬁnes de mayo, el estado lar-
+val
+Text Len: 1054
+--------------------------------------------------------------------------------
+ás ancha que larga y con 
+el protórax esclerosado.
+Su ciclo de vida para la Décima Región se estima en un año, obser -
+vándose  la oviposición desde primavera hasta ﬁnes de mayo, el estado lar-
+val desde enero hasta octubre y los adultos desde mediados de primavera 
+hasta el otoño. 
+ Las larvas de primer y segundo estadío penetran el 
+cambium, a lo cual el árbol responde liberando savia, siendo 
+esto un primer síntoma característico que maniﬁesta su ata -
+que. Posteriormente, las larvas maduras penetran en el xilema 
+anillando el árbol y produciendo clorosis en el follaje. Ataca 
+árboles debilitados o en condiciones de estrés. En las regiones 
+Metropolitana y Quinta de Chile también ha sido detectada 
+en Eucalyptus sp. la especie Phoracantha recurva, de aspecto y 
+biología similar a Phoracanta semipunctata. Algunas diferen -
+cias morfológicas entre las dos especies están en el color de 
+los élitros y la presencia de pelos y espinas en la superﬁcie in-
+ferior de los segmentos antenales. En P . semipunctata los éli-
+tros son mayoritariamente café oscuro con una lí
+Text Len: 1078
+--------------------------------------------------------------------------------
+gicas entre las dos especies están en el color de 
+los élitros y la presencia de pelos y espinas en la superﬁcie in-
+ferior de los segmentos antenales. En P . semipunctata los éli-
+tros son mayoritariamente café oscuro con una línea 
+en zigzag que divide el área color crema en la mitad de 
+los élitros y no presenta o presenta muy pocos pelos 
+dorados en la superﬁcie inferior de cada segmento an-
+tenal. P . recurva, en cambio, es de coloración mayori-
+tariamente crema a amarillento con áreas café oscuro 
+conﬁnadas al tercio posterior de los élitros y con pelos 
+largos y densos en la superﬁcie inferior de cada seg -
+mento antenal.
+cia ejemplares adultos en trampas de embudo para escolítidos, lo que hace suponer que están asociados a árboles  
+muertos o debilitados. En el caso de Calymmaderus sp., éste ha sido detectado en madera en servicio de especies 
+nativas, posiblemente asociado a hongos de madera produciendo un daño similar a Hadrobregmus sp.  
+2.1.6. Familia Cerambycidae
+La familia Cerambycidae incluye varias especies de escarabajos barrenadores de corteza y madera cuy
+Text Len: 1090
+--------------------------------------------------------------------------------
+iblemente asociado a hongos de madera produciendo un daño similar a Hadrobregmus sp.  
+2.1.6. Familia Cerambycidae
+La familia Cerambycidae incluye varias especies de escarabajos barrenadores de corteza y madera cuyos 
+adultos son de tamaño mediano a grande, cuerpo usualmente robusto y relativamente aplanado dorsaventral -
+mente, con la porción anterior de los élitros ancha, 
+usualmente poseen antenas muy largas que pue -
+den ser más largas que la longitud del cuerpo. Los 
+ojos usualmente presentan muescas, donde van in-
+sertas las antenas.
+Las larvas son algo cilíndricas, con un tórax 
+bien desarrollado, lo que resulta en barrenaduras 
+similares a la forma de su cuerpo en la madera in-
+festada. Las larvas tienen cabezas pequeñas pero 
+mandíbulas poderosas y las patas pueden ser vesti-
+giales o estar ausentes.
+Entre los cerambícidos de importancia para 
+Chile se destacan algunas especies asociadas a la -
+tifoliadas nativas y otras exóticas como las que se 
+indican a continuación:
+
+
+32 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 33MINISTERIO DE AGRIC
+Text Len: 1077
+--------------------------------------------------------------------------------
+
+Chile se destacan algunas especies asociadas a la -
+tifoliadas nativas y otras exóticas como las que se 
+indican a continuación:
+
+
+32 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 33MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Chenoderus testaceus (Blanchard)
+(T aladro testáceo)
+Insecto nativo, asociado prin -
+cipalmente a ramas recién muer -
+tas de Nothofagus y eventualmente de 
+Eucalipto, presente desde la Quinta a 
+la Décima Región de Chile. El adulto 
+presenta un tamaño entre 13 y 17 mm 
+de largo, de color completamente tes -
+táceo, pronoto más largo que ancho y 
+lateralmente subredondeado, antenas 
+más largas que el cuerpo y los fémures 
+engrosados en la mitad distal.
+Las larvas son cerambicifor -
+mes de coloración blanco cremosa de 
+aproximadamente 19 mm de largo en su último estadío, presentan  la re -
+gión anterior del protórax más esclerosada. Las larvas producen galerías 
+amplias bajo la corteza, rellenas de aserrín compacto. Antes de pupar in -
+gresan hacia la madera construyendo un
+Text Len: 1032
+--------------------------------------------------------------------------------
+ estadío, presentan  la re -
+gión anterior del protórax más esclerosada. Las larvas producen galerías 
+amplias bajo la corteza, rellenas de aserrín compacto. Antes de pupar in -
+gresan hacia la madera construyendo una cámara taponeada de aserrín ﬁ-
+broso de aproximadamente 5 mm de diámetro por 3 a 6 cm de largo. Al 
+emerger los adultos realizan oriﬁcios entre 3 y 4 mm de diámetro.
+Su daño puede ser de importancia en madera destinada a chapas 
+y parquets. En la Décima Región de Chile se estima a lo menos 1 gene -
+ración al año, con captura de adultos concentrada entre los meses de sep-
+tiembre y febrero. 
+Holopterus chilensis Blanchard
+(T aladrador del roble)
+Insecto nativo, afecta Roble, Raulí y Coigüe. Se encuentra distribuido en Chile entre la Quinta y Décima 
+Región. El adulto presenta un  tamaño que varia entre 2 y 5 cm , de cuerpo alargado, patas delgadas , color  casta-
+ño amarillento. Las larvas son cerambiciformes, de color blanco amarillento y pueden medir hasta 6 cm de largo, 
+con la cabeza de coloración castaño.
+
+Text Len: 1039
+--------------------------------------------------------------------------------
+re 2 y 5 cm , de cuerpo alargado, patas delgadas , color  casta-
+ño amarillento. Las larvas son cerambiciformes, de color blanco amarillento y pueden medir hasta 6 cm de largo, 
+con la cabeza de coloración castaño.
+Eriphus laetus (Blanchard)
+(T aladrillo del peumo)
+Insecto nativo asociado a la corteza de árboles caídos, 
+moribundos o en proceso de secamiento de varias especies fo -
+restales, tales como, Pinus radiata, Cryptocaria alba, Nothofagus 
+dombeyi y Eucalyptus spp. Se presenta en Chile desde la Segunda 
+a la Décima Región.
+El adulto mide entre 9 y 12 mm de largo, los élitros de co-
+lor azul oscuro o negro con el protórax que presenta una mancha 
+roja variable en tamaño, desde muy pequeña a muy marcada. Las 
+larvas son típicamente cerambiciformes de aproximadamente 15 
+mm de largo en su último es-
+tadío, color blanco cremoso 
+con la cabeza castaño clara.
+Las larvas efectúan galerías bajo la corteza produciendo aserrín ﬁno y 
+compactado. Previo a la pupación, las galerías se profundizan hacia la made -
+ra.
+Text Len: 1027
+--------------------------------------------------------------------------------
+ color blanco cremoso 
+con la cabeza castaño clara.
+Las larvas efectúan galerías bajo la corteza produciendo aserrín ﬁno y 
+compactado. Previo a la pupación, las galerías se profundizan hacia la made -
+ra. Los oriﬁcios de emergencia tienden a ser ovalados de 2 x 4 mm y de bor -
+des irregulares. Esta especie puede provocar daños de importancia en madera 
+para chapas y parquets. Para la Octava, Novena y Décima Región de Chile el 
+ciclo de vida se estima en un año. En la Décima Región el período de vuelo se 
+concentra entre los meses de octubre y febrero.
+
+
+34 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 35MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Cheloderus childreni Gray
+(Coleóptero de la luma)
+Insecto nativo asociado a Coigüe y secundariamente en Roble. Se en -
+cuentra distribuido en Chile desde la Séptima a la Undécima Región.
+El adulto mide aproximadamente 45 mm de largo y 15 mm de ancho,  
+con la cabeza de coloración verde metálico que presenta proyecciones latera -
+les.
+Text Len: 1015
+--------------------------------------------------------------------------------
+ distribuido en Chile desde la Séptima a la Undécima Región.
+El adulto mide aproximadamente 45 mm de largo y 15 mm de ancho,  
+con la cabeza de coloración verde metálico que presenta proyecciones latera -
+les. Los élitros son de color tornasol de verde a rojo, con ﬁnas punteaduras en 
+toda su extensión, las antenas y tarsos de coloración azul eléctrico al igual que 
+los fémures dorsalmente. V entralmente cabeza, tórax y abdomen, al igual que 
+la sección ventral de los fémures son de color  verde metálico.    
+Las larva mide 
+aproximadamente 5 cm de longitud, de color blanco con la 
+cabeza fuertemente esclerosada, con patas torácicas poco 
+desarrolladas. Efectúan galerías ovales las que alcanzan 
+los 40 cm de largo por 1,5 cm de ancho en la madera viva 
+de troncos de Coigüe y Roble, dirigiéndose hacia arriba 
+del árbol en forma oblicua los primeros 15 cm y luego en 
+forma paralela a la ﬁbra, dando la apariencia de una letra J, 
+provocando daños hasta los primeros tres metros de altu-
+ra del árbol, inutiliz
+Text Len: 1020
+--------------------------------------------------------------------------------
+ árbol en forma oblicua los primeros 15 cm y luego en 
+forma paralela a la ﬁbra, dando la apariencia de una letra J, 
+provocando daños hasta los primeros tres metros de altu-
+ra del árbol, inutilizando la madera para ﬁnes comerciales 
+como la producción de chapas.
+El ciclo de vida se estima en 5 a 6 años, con emer -
+gencia de adultos durante los meses de la primavera y el verano.
+Calydon submetallicum (Blanchard)
+(T aladro del ñirre)
+Insecto nativo,  asociado a Roble, Coigüe, Lenga, Ñirre y Quillay, entre otros. Se encuentra distribuido des-
+de la Quinta a la Duodécima Región de Chile. El adulto mide entre 13 y 17 mm de longitud, la cabeza es de color 
+negro aterciopelado y los élitros del mismo color con una ﬁna línea que rodea el borde anterior  y se proyecta ha-
+cia el centro de los mismos, por el borde interno,  alcanzando poco más de la mitad del cuerpo donde nuevamente 
+se extiende hacia el borde externo ensanchándose en la mitad. V entralmente, el insecto presenta el abdomen y las 
+patas de coloración azul osc
+Text Len: 1032
+--------------------------------------------------------------------------------
+ borde interno,  alcanzando poco más de la mitad del cuerpo donde nuevamente 
+se extiende hacia el borde externo ensanchándose en la mitad. V entralmente, el insecto presenta el abdomen y las 
+patas de coloración azul oscuro metálico. Las antenas negras sobrepasan levemente la longitud del cuerpo.
+La hembra deposita sus huevos en la corteza de árboles 
+vivos del hospedero; al eclosar, las larvas se dirigen hacia el du-
+ramen y mantienen sus galerías limpias, produciendo un ase -
+rrín granuloso el cual se va acumulando en la base del árbol.
+En  la Décima Región el ciclo se estima en no menos 
+de tres años, la oviposición se produce entre diciembre y fe -
+brero, las larvas se encuentran en cualquier época del año y la 
+emergencia de los adultos ocurre entre octubre y diciembre. 
+
+
+36 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 37MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+de anterior del protórax esclerosado de color amarillento y las patas muy pequeñas. La larva se desarrolla al inte-
+rior de troncos muertos realizando
+Text Len: 1059
+--------------------------------------------------------------------------------
+ GANADERO 37MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+de anterior del protórax esclerosado de color amarillento y las patas muy pequeñas. La larva se desarrolla al inte-
+rior de troncos muertos realizando galerías muy amplias dejando aserrín ﬁbroso. Al emerger los adultos efectúan 
+oriﬁcios circulares de bordes irregulares de aproximadamente 0,8 por 0,9 mm de diámetro.
+El ciclo de vida se desconoce. Sin embargo, en la Décima Región se han encontrado larvas durante casi 
+todo el año y adultos en vuelo desde noviembre a marzo.
+2.1.7. Familia Buprestidae
+ Los insectos pertenecientes a esta familia corresponden a insectos de tamaño mediano a grande, de 2 
+a 4 cm de largo, usualmente algo aplastados, lo que les da la forma de balín. Los adultos presentan coloración 
+casi siempre metálica o bronceada, especialmente en la superﬁcie ventral. Superﬁcie dorsal con o sin pelos fre-
+cuentemente metálica, brillante, algunas veces con manchas 
+amarillas. Extremo elitral a menudo puntiagudo, con lados 
+casi paralelos. Antena usualmente corta
+Text Len: 1057
+--------------------------------------------------------------------------------
+��cie ventral. Superﬁcie dorsal con o sin pelos fre-
+cuentemente metálica, brillante, algunas veces con manchas 
+amarillas. Extremo elitral a menudo puntiagudo, con lados 
+casi paralelos. Antena usualmente corta, aserrada o ﬁlifor -
+me. Las larvas son apodas, elongadas, casi glabras, cabeza 
+pequeña, usualmente poco esclerotizada, tórax agrandado y 
+aplastado.
+Los túneles efectuados por estas larvas tienden a te -
+ner la misma forma del tórax de las mismas, casi tres veces 
+más anchas que  altas, lo que permite diferenciarlos del ata-
+que más parecido realizado por lo cerambícidos. El ciclo de 
+vida dura usualmente uno o dos años. 
+Las larvas se alimentan bajo la corteza de árboles recién caídos o muer -
+tos, efectuando galerías taponeadas de aserrín compactado de aproximadamente 
+7 mm de ancho  y hacia ﬁnales de su período larval ingresan hacia la albura para 
+preparar su cámara pupal en el sentido de la ﬁbra de la madera, efectuando gale-
+rías circulares de aproximadamente 5 cm de
+Text Len: 997
+--------------------------------------------------------------------------------
+cho  y hacia ﬁnales de su período larval ingresan hacia la albura para 
+preparar su cámara pupal en el sentido de la ﬁbra de la madera, efectuando gale-
+rías circulares de aproximadamente 5 cm de longitud por 7 mm de diámetro, las 
+que se encuentran a no más de 1,5 cm de profundidad. El ciclo de vida se estima 
+en dos años, en la Décima Región existen capturas de adultos en vuelo entre los 
+meses de octubre a enero. 
+                   
+  
+Microplophorus magellanicus Blanchard
+(T aladro de Magallanes)
+ Insecto nativo, asociado a madera muerta o en descomposición de algunas especies del género Nothofagus 
+como Coigüe, Lenga y Ñirre, detectado además en árboles caídos de Pino insigne y Pino oregón en la Décima 
+Región. Se encuentra distribuido desde la Octava a la Duodécima Región de Chile. 
+El insecto adulto es de coloración total -
+mente café oscuro, de 32 a 35 mm de largo por 
+9 mm de ancho, antenas algo pectinadas en las 
+hembras y muy pectinadas en los machos. 
+Text Len: 978
+--------------------------------------------------------------------------------
+ a la Duodécima Región de Chile. 
+El insecto adulto es de coloración total -
+mente café oscuro, de 32 a 35 mm de largo por 
+9 mm de ancho, antenas algo pectinadas en las 
+hembras y muy pectinadas en los machos. 
+La larva es cerambiciforme, bastante ro-
+busta, de aproximadamente 40 mm de largo 
+por 9 mm de ancho en su último estadío, de co-
+loración blanco cremosa, con la cabeza y el bor-
+
+
+38 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 39MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.1.8. Familia Curculionidae
+Familia de insectos que se caracterizan por presentar una cabeza prolongada en forma de trompa. Antena 
+a menudo geniculada, con una clava antenal de tres segmentos, usualmente compacta. Palpos casi siempre peque-
+ños y rígidos, a menudo escondidos. El cuerpo muchas veces cubierto con escamas. Pueden presentar los élitros 
+soldados o no, lo que les da la capacidad de volar o que sólo sean capaces de transportarse caminando. 
+Las larvas son blanquecinas, sin patas toráxicas, con la cabeza redondeada y quitinizada y antenas
+Text Len: 1068
+--------------------------------------------------------------------------------
+amas. Pueden presentar los élitros 
+soldados o no, lo que les da la capacidad de volar o que sólo sean capaces de transportarse caminando. 
+Las larvas son blanquecinas, sin patas toráxicas, con la cabeza redondeada y quitinizada y antenas de un 
+segmento. Los tergitos abdominales poseen 3 ó 4 dobleces transversos y los  espiráculos del protórax son más 
+grandes que los abdominales.
+Rhyephenes maillei (Gay et Solier)
+Insecto nativo, se encuentra asociado a corteza de árboles muer-
+tos de varias especies forestales nativas y exóticas tales como: Laurelia 
+phillippiana, Nothofagus dombeyi, Pinus radiata, Pseudotsuga menziesii, 
+entre otros. 
+El adulto mide entre 9 y 13 mm de largo, presenta un  cuerpo 
+muy duro, de color completamente negro, las patas son muy alargadas y  
+los élitros están soldados y cubiertos de pequeños tubérculos. 
+La larva mide 
+aproximadamente 
+17 mm de largo, de 
+color blanco cremo -
+so, curculioniforme, levemente curvada, sin patas, con la cáp-
+sula cefálica y parte superior del protórax esclerosada de color 
+blanco amarillento.
+Esta espec
+Text Len: 1077
+--------------------------------------------------------------------------------
+amente 
+17 mm de largo, de 
+color blanco cremo -
+so, curculioniforme, levemente curvada, sin patas, con la cáp-
+sula cefálica y parte superior del protórax esclerosada de color 
+blanco amarillento.
+Esta especie posee hábitos alimenticios similares a los de 
+los escarabajos de corteza. Las larvas consumen la corteza reali-
+zando galerías amplias taponeadas de aserrín compacto, a medi-
+da que éstas  crecen son capaces de consumir superﬁcialmente la 
+capa externa de la albura produciendo un aserrín con apariencia 
+de sal y pimienta, similar al dejado por los anóbidos de corteza. 
+Antes de pupar forman una cámara en la capa externa de la al-
+bura, cubierta por un aserrín ﬁbroso. Al emerger los adultos de-
+jan oriﬁcios circulares entre 4,5 y 6,5 mm de diámetro.
+Buprestis novemmaculata Linnaeus
+(Cantabria de nueve manchas, 
+Insecto maculado del pino)
+Insecto de origen Europeo, se encuentra asociado a madera de árbo -
+les muertos de Pinus radiata. Se distribuye en Chile entre la Quinta y Novena 
+Región. El adult
+Text Len: 1020
+--------------------------------------------------------------------------------
+ve manchas, 
+Insecto maculado del pino)
+Insecto de origen Europeo, se encuentra asociado a madera de árbo -
+les muertos de Pinus radiata. Se distribuye en Chile entre la Quinta y Novena 
+Región. El adulto mide entre 1,5 a 2,5 cm de largo, de color negro con 4 peque-
+ñas manchas amarillas distanciadas en el centro de los élitros, posee la forma tí-
+pica de la familia y el pronoto demarcado lateralmente por una ﬁna línea ama -
+rilla, el resto del cuerpo también es negro con los esternitos abdominales con 
+pequeñas manchas amarillas. 
+La larva corresponde a la forma típica de la familia, con el primer seg -
+mento del tórax aplanado y expandido, se alimentan de xilema de árboles muer-
+tos y troncos que han permanecido por bastante tiempo caídos.
+Las galerías larvales son planas llenas de aserrín ﬁbroso y los oriﬁcios de 
+emergencia son ovalados. Se estima que su ciclo de vida es superior a un año, 
+con presencia de adultos entre los meses de diciembre y abril. 
+
+
+40 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 41MINISTERIO DE AGR
+Text Len: 1053
+--------------------------------------------------------------------------------
+gencia son ovalados. Se estima que su ciclo de vida es superior a un año, 
+con presencia de adultos entre los meses de diciembre y abril. 
+
+
+40 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 41MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+se sabe acerca del ciclo de este insecto, sin 
+embargo en la Décima Región es posi -
+ble encontrar larvas durante todo el año 
+y adultos en otoño y primavera.
+Pentarthrum sp.
+Género con representantes de origen Europeo, asociado 
+a maderas en servicio húmedas o podridas de maderas duras 
+y blandas. Presente en Chile desde la Segunda a la Undécima 
+Región. Los adultos se caracterizan por ser de pequeño tama -
+ño, entre 3 y 5 mm de largo, de coloración castaño rojizo a ne-
+gro, bastante cilíndricos y algo aplastados dorsoventralmente, 
+con puntuación en el cuerpo, antenas acodadas y el rostro alar-
+gado en forma de pico.
+Su ciclo de vida se estima en un año. En la Décima Región es posible encontrar larvas entre marzo y no -
+viembre, pupas entre septiembre y noviembre, y adultos  ent
+Text Len: 1051
+--------------------------------------------------------------------------------
+ y el rostro alar-
+gado en forma de pico.
+Su ciclo de vida se estima en un año. En la Décima Región es posible encontrar larvas entre marzo y no -
+viembre, pupas entre septiembre y noviembre, y adultos  entre los meses de septiembre y abril.
+Psepholax dentipes Kuschel 
+Insecto nativo, asociado a árboles debilitados de diver -
+sas especies forestales tanto nativas como exóticas, tales como, 
+Canelo, Roble, Olivillo y T epa. En la Décima Región ha sido de-
+tectado además en madera de Coigüe, Ulmo, y Tineo. En Chile 
+existen registros de su presencia en  la Quinta y Décima Región. 
+El adulto mide de 7 a 9 mm de largo, color negro opaco con pe -
+queñas manchas amarillentas sobre los élitros. Las larvas son de 
+color blanco cremoso con la cabeza amarillenta, sin patas, típica -
+mente curculioniforme. El insecto está poco estudiado.
+La hembra ovipone en el xilema, al ﬁnal de un túnel de en-
+trada de aproximadamente 2 cm de largo. Una vez que los huevos 
+han  eclosado, las larvas avanzan realizando galerías circul
+Text Len: 1022
+--------------------------------------------------------------------------------
+ado.
+La hembra ovipone en el xilema, al ﬁnal de un túnel de en-
+trada de aproximadamente 2 cm de largo. Una vez que los huevos 
+han  eclosado, las larvas avanzan realizando galerías circulares en forma radial en distintas direcciones; posterior-
+mente, se observan galerías más anchas taponeadas con aserrín que puede tomar una consistencia compacta y en 
+algunos casos se observan grandes galerías vacías o con insectos adultos en su interior. Los oriﬁcios de emergencia 
+de los adultos son también circulares de aproximadamente 5 mm de diámetro.
+Al ﬁnal del oriﬁcio de entrada para la ovipostura se observan ejemplares adultos taponeando el oriﬁcio 
+con la cabeza hacia el interior del xilema, quedando la parte posterior del cuerpo dirigido hacia el exterior. Poco 
+
+
+42 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 43MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.2. ORDEN HYMENOPTERA
+Agrupa este Orden a insectos de tamaño muy pequeño a  grande. Entre sus características más relevantes 
+están el presentar ambos pares de alas membranosas, con venaci
+Text Len: 1079
+--------------------------------------------------------------------------------
+ICIO AGRÍCOLA Y GANADERO
+2.2. ORDEN HYMENOPTERA
+Agrupa este Orden a insectos de tamaño muy pequeño a  grande. Entre sus características más relevantes 
+están el presentar ambos pares de alas membranosas, con venación moderada, aparato bucal  del tipo masticador 
+o masticador lamedor, en general con antenas largas y ﬁliformes, con patas robustas y tarsos con cinco segmentos. 
+Dependiendo de la unión del tórax al abdomen se clasiﬁcan en subórdenes Symphyta o Apocrita. Los del subor-
+den Symphyta presentan el tórax ampliamente unido al abdomen, mientras que el suborden Apocrita presentan 
+un estrangulamiento o acinturamiento típico en esa región.
+2.2.1. Familia Siricidae
+Esta familia incluye insectos grandes, de 2,5 cm o más de longitud que parecen avispas a simple vista, por 
+lo cual se les llama avispas taladradoras de la madera, pero presentan el tórax ampliamente unido al abdomen. 
+Las hembras son de mayor tamaño que los machos y ambos sexos tienen gran diferencia de tamaño dentro 
+de una especie. Usualmente, los adultos son de color negro o azul oscuro metálico, o con combinacion
+Text Len: 1098
+--------------------------------------------------------------------------------
+iamente unido al abdomen. 
+Las hembras son de mayor tamaño que los machos y ambos sexos tienen gran diferencia de tamaño dentro 
+de una especie. Usualmente, los adultos son de color negro o azul oscuro metálico, o con combinaciones de negro, 
+rojo y amarillo, cuyo abdomen usualmente termina en un cuerno o espina doblado hacia arriba. 
+Las hembras poseen un  ovipositor largo que les permite poner sus huevos en la albura de los árboles que 
+atacan. Presentan relaciones simbióticas con hongos de pudrición de madera. La hembra adquiere el hongo en la 
+cámara pupal al  pasar al estado adulto. En la base del ovipositor presentan sacos intersegmentales invaginados, 
+llamados también micangias, que llevan las esporas del hongo, las cuales son depositadas en el túnel donde se ubi-
+can los huevos, desarrollándose para producir un micelio que penetra la madera circundante. Las enzimas produ-
+cidas por el hongo favorecen posteriormente la digestión de las partícu-
+las de madera en el tracto digestivo de las larvas.
+La larva es de forma cilíndrica, de color cremoso o amarillento, 
+levemente en forma de S, con una peque
+Text Len: 1123
+--------------------------------------------------------------------------------
+ por el hongo favorecen posteriormente la digestión de las partícu-
+las de madera en el tracto digestivo de las larvas.
+La larva es de forma cilíndrica, de color cremoso o amarillento, 
+levemente en forma de S, con una pequeña espina supra-anal en forma 
+de cuerno denominado postcornum. Posee 3 pares de patas toráxicas 
+vestigiales  y carece de patas abdominales. 
+Entre los géneros de mayor importancia asociados a daños en 
+madera están: Sirex, Tremex y Urocerus. Urocerus se asocia a madera de 
+coníferas debilitadas o moribundas o pueden oviponer en árboles caí -
+dos. En tanto que Tremex se encuentra asociado a latifoliadas. En Chile 
+ha sido detectada, en la Región Metropolitana,  la especie Tremex fuscicornis, asociada a árboles del género Salix 
+y Populus, encontrándose actualmente bajo Control Obligatorio. Al emerger los adultos de estos sirícidos, dejan 
+oriﬁcios muy circulares de diferente tamaño según sea macho o hembra.
+La larva mide aproximadamente 4 mm 
+de largo, de color blanco cremoso, curvada en 
+forma de letra C, sin pat
+Text Len: 1050
+--------------------------------------------------------------------------------
+os, dejan 
+oriﬁcios muy circulares de diferente tamaño según sea macho o hembra.
+La larva mide aproximadamente 4 mm 
+de largo, de color blanco cremoso, curvada en 
+forma de letra C, sin patas. El daño siempre 
+está asociado a maderas con alto contenido de 
+humedad y podrida por hongos. Los huevos 
+son insertados en la madera, al eclosar las lar-
+vas consumen la madera previamente afecta -
+da por hongos de pudrición, dejando galerías 
+con aserrín ﬁno y redondeado. Al emerger los 
+adultos dejan pequeños oriﬁcios circulares 
+de bordes irregulares de aproximadamente 
+1 mm de diámetro. En relación a la duración 
+del ciclo de vida, se estima que sucede más de una generación al año.
+      
+     
+          
+ 
+             
+
+
+44 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 45MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.3. ORDEN LEPIDOPTERA
+Este Orden corresponde al grupo de insectos llam
+Text Len: 917
+--------------------------------------------------------------------------------
+  
+
+
+44 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 45MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.3. ORDEN LEPIDOPTERA
+Este Orden corresponde al grupo de insectos llamados comúnmente polillas o mariposas, incluye varias fa-
+milias con individuos pequeños a grandes, cuyas alas presentan escamas y el cuerpo cubierto por escamas y pelos. 
+Presentan un aparato bucal reducido, donde las maxilas se han fusionado para formar  una espiritrompa. Los ojos 
+compuestos son bien desarrollados con o sin ocelos. Las antenas pueden ser ﬁliformes, pectinadas o capitadas. Las 
+alas anteriores y posteriores están unidas ya sea por un lóbulo (jugatae) o por una cerda denominada frenulum o 
+una unión amplexiforme (frenatae). La metamorfosis es del tipo holometábola, presentando larvas denominadas 
+orugas las cuales presentan patas toráxicas y espuripedios abdominales. 
+2.3.1. Familia Cossidae
+Esta familia presenta mariposas de tamaño mediano a grande, de hábitos nocturnos, con  ciclos de uno o 
+más años. Los adultos presentan las  alas anteriores con
+Text Len: 1073
+--------------------------------------------------------------------------------
+puripedios abdominales. 
+2.3.1. Familia Cossidae
+Esta familia presenta mariposas de tamaño mediano a grande, de hábitos nocturnos, con  ciclos de uno o 
+más años. Los adultos presentan las  alas anteriores con ﬁnas manchas y las posteriores menos coloreadas, con an-
+tenas bipectinadas o ﬁliformes. 
+Las larvas pueden medir hasta 40 mm de longitud y son de aspecto robusto, con la cabeza estrechamente 
+unida al protórax. 
+Chilecomadia valdiviana (Philippi)
+(Gusano del tebo)
+Insecto nativo asociado a Eucalyptus nitens, 
+Nothofagus pumilio, Nothofagus antarctica, Nothofagus 
+dombeyi y varias especies frutales. Presente en Chile 
+desde la Quinta a la Duodécima Región. El insecto 
+adulto corresponde a mariposas de alas grises a gris 
+castaño con las alas anteriores con pequeñas manchas 
+oscuras cerca del borde y de la base, las alas posterio -
+res son gris oscuro con pequeñas manchas blancas en 
+el área anal, la envergadura alar es de 5 a 6 cm en las 
+hembras y de 4 a 5 cm  en los machos. 
+La larva, en su último estadío, m
+Text Len: 1031
+--------------------------------------------------------------------------------
+ -
+res son gris oscuro con pequeñas manchas blancas en 
+el área anal, la envergadura alar es de 5 a 6 cm en las 
+hembras y de 4 a 5 cm  en los machos. 
+La larva, en su último estadío, mide entre  3 y 5 cm de largo, con la cabeza castaño rojiza y el resto del cuer-
+po cremoso a rosado, con escasa pilosidad.
+ 
+Urocerus gigas Linnaeus
+Es un insecto originario de Europa y Asia, asociado a ár-
+boles moribundos o en proceso de secamiento de coníferas tales 
+como Pseudotsuga menziesii, Pinus radiata, Pinus contorta, Abies 
+spp., Larix spp. y Picea spp. Distribuido en Chile desde la Cuarta 
+a la Undécima Región. Los adultos semejan avispas de aspecto 
+robusto y tamaños variables, siendo las hembras de alrededor de 
+4 cm y los machos de 3 
+cm de longitud. T anto hembras y machos presentan  coloración negruz-
+ca con franjas amarillas y los ojos negros con la porción posterior de co-
+lor amarillento y  antenas de color amarillo. 
+Los huevos son de aproximadamente 1 mm , son depositados va-
+rios de ellos en la albura, unos so
+Text Len: 1029
+--------------------------------------------------------------------------------
+-
+ca con franjas amarillas y los ojos negros con la porción posterior de co-
+lor amarillento y  antenas de color amarillo. 
+Los huevos son de aproximadamente 1 mm , son depositados va-
+rios de ellos en la albura, unos sobre otros separados por una capa de 
+micelio del hongo Amylostereum chailletti, del cual se alimentan las lar -
+vas. Estas son de color blanco cremoso con tres pares de patas toráxicas 
+rudimentarias y una espina dorsal al ﬁnal del abdomen, de aspecto qui-
+tinoso con pocas cerdas en la zona anterior al postcornum (espina dor -
+sal). En sus primeros estadíos, las larvas realizan galerías circulares en 
+sentido transversal, luego avanzan en forma longitudinal al sentido de 
+la ﬁbra, estas galerías van siendo taponeadas con aserrín. Al emerger los 
+adultos dejan oriﬁcios circulares.
+En la zona sur el ciclo de vida es de un año, encon -
+trándose larvas durante todo el año, pupas entre octubre y 
+marzo y adultos desde octubre hasta abril.           
+
+
+46 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 47MINISTERIO DE AGRICULTURA /
+Text Len: 1066
+--------------------------------------------------------------------------------
+ante todo el año, pupas entre octubre y 
+marzo y adultos desde octubre hasta abril.           
+
+
+46 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 47MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Las larvas mantienen limpias sus galerías du -
+rante todo el período de alimentación, sellándolas exte-
+riormente con un tapón de ﬁbras de madera unidas por 
+seda sólo en forma previa a la construcción de la cámara 
+pupal  e inicio de este estado. La manifestación externa 
+del ataque solamente es visible desde cerca y el ataque y 
+daño no se traduce en la muerte del árbol, debido a que 
+ataca principalmente el xilema. 
+La duración del ciclo de vida es variable existien-
+do registros de un año para la zona Central y estimacio-
+nes de dos años para la zona Sur.
+La oviposición la realizan en el fuste, en la zona de inserción de 
+ramas o en grietas de la corteza en grupos de 30 a 50 huevos. Como 
+consecuencia de la alimentación de las larvas en la zona cambial, se 
+produce la exudación de savia, las larvas se mantienen en
+Text Len: 1045
+--------------------------------------------------------------------------------
+ona de inserción de 
+ramas o en grietas de la corteza en grupos de 30 a 50 huevos. Como 
+consecuencia de la alimentación de las larvas en la zona cambial, se 
+produce la exudación de savia, las larvas se mantienen en un comienzo 
+reunidas y a ﬁnes de verano y comienzos de otoño abandonan la zona 
+cambial de alimentación y comienzan la construcción de galerías indi-
+viduales de alimentación hacia el xilema. Estas galerías son  circulares, 
+amplias y de escasa longitud.
+
+
+48 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 49MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+desde arriba y se presentan en la familia Termitidae. La casta de soldados es la más distintiva y la más fácil de 
+distinguir para su identiﬁcación.
+ Los reproductores son la forma  sexual de la colonia, los futuros reyes y reinas. Tienen ojos compuestos y 
+más oscuros que las obreras y soldados y a menudo más grandes. Presentan una cutícula más gruesa que las otras 
+castas, lo que les permite soportar mejor la desecación y realizar los vuelos de dispersión.
+ Los v
+Text Len: 1063
+--------------------------------------------------------------------------------
+ 
+más oscuros que las obreras y soldados y a menudo más grandes. Presentan una cutícula más gruesa que las otras 
+castas, lo que les permite soportar mejor la desecación y realizar los vuelos de dispersión.
+ Los vuelos de colonización, cuando los reproductores abandonan la colonia ocurren usualmente cuando 
+las condiciones externas se asemejan a las de la colonia. 
+ Con condiciones de temperaturas extremas en que los reproductores alados no sobrevivirían, pueden de -
+sarrollar individuos neoténicos, que alcanzan la madurez sexual sin llegar al estado alado.
+ La reina y el rey son los reproductores alados originales que abandonan la colonia parental  durante la 
+colonización  o vuelo de dispersión. Su función en la colonia es la reproducción, aunque cuando se establece un 
+simple par, ellos deben también alimentar y cuidar a los jóvenes hasta que haya suﬁcientes obreras y soldados para 
+cumplir las labores de la colonia. 
+ Algunas especies necesitan alrededor de tres a cinco años para alcanzar un estado potencial de daño, 
+pero esto depende del lugar, alimento y condiciones climáticas en el ambiente elegido. La reina, una vez liber
+Text Len: 1148
+--------------------------------------------------------------------------------
+ia. 
+ Algunas especies necesitan alrededor de tres a cinco años para alcanzar un estado potencial de daño, 
+pero esto depende del lugar, alimento y condiciones climáticas en el ambiente elegido. La reina, una vez liberada 
+de sus obligaciones de cuidado y alimentación de jóvenes, en algunas especies, alcanza un gran tamaño, debido al 
+agrandamiento de sus ovarios. Este agrandamiento de su abdomen se conoce como ﬁsogastria y ocurre en muchas 
+especies de la familia Rhinotermitidae y T ermitidae. La reina ﬁsogástrica en algunas especies puede medir tres o 
+más centímetros. T anto la reina como el rey pueden vivir por varios  años.
+ La reina de casi todas las especies pone sus huevos de a uno y estos son atendidos por las obreras. 
+ Los jóvenes pueden desarrollarse en obreras, soldados o reproductores alados, en este caso las alas se for-
+man a través de varias mudas.
+ Los soldados y obreras viven por uno o dos años mientras que el rey, la reina y neoténicos viven mucho 
+más tiempo. A partir de la eclosión hasta el obrero maduro o soldado usualment
+Text Len: 1061
+--------------------------------------------------------------------------------
+
+man a través de varias mudas.
+ Los soldados y obreras viven por uno o dos años mientras que el rey, la reina y neoténicos viven mucho 
+más tiempo. A partir de la eclosión hasta el obrero maduro o soldado usualmente toma entre dos a tres meses. 
+ Su presencia, a menudo se denota cuando se observa aserrín de consistencia compacta, el cual es visible 
+sólo cuando el daño está muy avanzado y la madera cede ante la presión.
+2.4. ORDEN ISOPTERA
+ Los insectos pertenecientes al Orden Isoptera, llamados comúnmente termitas, al igual que algunos 
+miembros del Orden Hymenoptera, tales como las hormigas y las abejas tienen una organización social que pue-
+de ser más o menos compleja, dependiendo de la familia. A menudo son llamadas hormigas blancas debido a que 
+la mayoría de ellas son blancas, pequeñas y viven en  grandes colonias como lo hacen las hormigas. Las castas so-
+ciales están divididas en obreras, soldados y alados reproductivos. Los machos y hembras trabajan ambos para 
+atender a la reina, alimentar a los jóvenes y proteger la colonia de hormigas y otros invasores. 
+ El tamaño de la colonia varia des
+Text Len: 1118
+--------------------------------------------------------------------------------
+án divididas en obreras, soldados y alados reproductivos. Los machos y hembras trabajan ambos para 
+atender a la reina, alimentar a los jóvenes y proteger la colonia de hormigas y otros invasores. 
+ El tamaño de la colonia varia desde alrededor de 10 individuos para algunas especies de Kalotermitidae 
+a cientos de miles para ciertas especies de la familia T ermitidae, Rhinotermitidae y Mastotermitidae.
+ Los reproductivos poseen alas de igual tamaño, lo que les da el nombre (isos en griego signiﬁca la misma 
+y ptero signiﬁca ala).
+ Las obreras son ápteras, no maduras sexualmente y ciegas (excepto la familia Hodotermitidae). Así 
+como otros insectos sociales tienen importantes funciones en el nido, tales como la colecta de alimento, la cons -
+trucción y mantención del termitero, la alimentación de los jóvenes y de otros que no se alimentan de madera 
+como los soldados y  la pareja real. Los nidos de las termitas más simples (aquellos hechos por Kalotermitidae y 
+Termopsidae) no tienen obreras verdaderas  y este rol es realizado por varios estadíos ninfales algunas veces lla-
+mados “pseudoderg
+Text Len: 1107
+--------------------------------------------------------------------------------
+. Los nidos de las termitas más simples (aquellos hechos por Kalotermitidae y 
+Termopsidae) no tienen obreras verdaderas  y este rol es realizado por varios estadíos ninfales algunas veces lla-
+mados “pseudodergates”.
+ En las familias más primitivas, es decir, en  Kalotermitidae, Mastotermitidae y T ermopsidae las larvas se 
+desarrollan en obreras o ninfas. Las obreras pueden luego desarrollarse en soldados o completar el estado ninfal 
+y llegar a ser alados. Mientras que en las más recientes familias como Rhinotermitidae y T ermitidae permanecen 
+como obreras durante todo su estado de desarrollo.
+ El rol de los soldados es la defensa, ellos poseen una cabeza más grande  que la de las obreras, a menudo 
+presenta la cabeza coloreada amarillo o café con mandíbulas muy desarrolladas de varias formas y tamaños. Los 
+soldados que presentan garras grandes o mandíbulas reducidas no pueden alimentarse por si mismos y dependen 
+para ello de las obreras. Algunas especies presentan diferentes tamaños de soldados y otras no tienen esta casta. 
+En algunas especies la cabeza está transformada en una larga
+Text Len: 1108
+--------------------------------------------------------------------------------
+ no pueden alimentarse por si mismos y dependen 
+para ello de las obreras. Algunas especies presentan diferentes tamaños de soldados y otras no tienen esta casta. 
+En algunas especies la cabeza está transformada en una larga nariz desde cuya punta pueden liberar una secreción 
+glandular tóxica.  Los soldados pueden pertenecer a un sexo o a ambos dependiendo de la especie. Son suscepti-
+bles a la desecación y rara vez abandonan la colonia  y sus túneles de refugio.
+ Hay dos tipos ﬁsiológicamente diferentes de soldados  en el Orden Isoptera, los mandibulados y los na -
+rigudos. Los mandibulados poseen mandíbulas bien desarrolladas al frente de la cabeza y se presentan en las 
+familias Rhinotermitidae, Kalotermitidae, Termopsidae, Mastotermitidae y algunos Termitidae. Mientras que 
+los soldados narigudos poseen una gran  cabeza prolongada desde la frente con las mandíbulas escondidas vistas 
+
+50 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 51MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ducen en grietas u oriﬁcios de maderas húmedas para comenzar 
+la formaci
+Text Len: 1094
+--------------------------------------------------------------------------------
+
+50 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 51MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ducen en grietas u oriﬁcios de maderas húmedas para comenzar 
+la formación de la colonia. El daño consiste en galerías laminares 
+en todo tipo de madera sin tratamiento con alta humedad. En la 
+Décima Región la captura de adultos en vuelo se concentra entre 
+los meses de diciembre y abril. 
+2.4.1.3.  T ermitas de madera seca
+ Este tipo de termitas, para su desarrollo, no requieren más que la humedad proporcionada por la atmós -
+fera y el contenido de humedad de la madera en la cual ellas se presentan. Usualmente el contenido de humedad 
+de maderas en servicio seca es de alrededor de 12 a 18%, dependiendo de la ubicación y condiciones climáticas. 
+T anto estas termitas como las de madera húmeda no forman una colonia central, sino que viven en pequeños 
+grupos independientes. Ellas producen también pellets fecales secos que son expulsados de la madera infesta-
+da. En Chile, este tipo de termitas, se encuentra representado por
+Text Len: 1057
+--------------------------------------------------------------------------------
+ húmeda no forman una colonia central, sino que viven en pequeños 
+grupos independientes. Ellas producen también pellets fecales secos que son expulsados de la madera infesta-
+da. En Chile, este tipo de termitas, se encuentra representado por  la familia Kalotermitidae, a la cual pertenecen  
+Cryptotermes brevis W alker, denominada termita tropical de las casas, presente entre la Primera y T ercera Región, 
+principalmente en la zona costera y Neotermes chilensis (Blanchard), conocida como termita chilena de la madera, 
+presente entre la Cuarta y la Octava Región. 
+Neotermes chilensis (Blanchard)
+(T ermita chilena de la madera)
+ Insecto nativo, asociado a madera de latifoliadas nativas y exóticas  en proceso de secamiento y madera 
+en servicio. Distribuida entre la Cuarta y Octava Región. Los adultos alados miden aproximadamente 20 mm de 
+largo, de color blanco amarillento. Las obreras de color blanco cremoso poseen el pronoto en forma de medialuna 
+con una escotadura en la zona media anterior.  
+2.4.1. CLASIFICACION 
+ Según el lugar de ocurrencia y la aparición de su daño, las termitas pueden ser cl
+Text Len: 1116
+--------------------------------------------------------------------------------
+ color blanco cremoso poseen el pronoto en forma de medialuna 
+con una escotadura en la zona media anterior.  
+2.4.1. CLASIFICACION 
+ Según el lugar de ocurrencia y la aparición de su daño, las termitas pueden ser clasiﬁcadas en tres cate -
+gorías:
+2.4.1.1. T ermitas subterráneas
+ Incluye termitas que hacen túneles en el suelo, usualmente en los primeros 10 cm de él, para alcanzar 
+alguna fuente alimenticia,  la cual  a menudo se encuentra a alguna distancia de la colonia. Ellas obtienen la hu-
+medad desde el suelo y manipulan esta humedad para originar y bajar la temperatura de la colonia y sus pasajes 
+en el rango de 26-35 ºC. Cuando la temperatura externa es demasiado alta evaporan la humedad reduciendo la 
+temperatura. Las termitas subterráneas pueden operar a partir de una colonia central  que puede contener so -
+bre un millón de individuos. Cuando se encuentran con obstáculos son capaces de construir tubos de refugio que 
+les permiten superar las barreras y denotar su presencia, dentro de este tipo de termitas se encuentra la familia 
+Rhinotermitidae representada en Chile por
+Text Len: 1098
+--------------------------------------------------------------------------------
+ individuos. Cuando se encuentran con obstáculos son capaces de construir tubos de refugio que 
+les permiten superar las barreras y denotar su presencia, dentro de este tipo de termitas se encuentra la familia 
+Rhinotermitidae representada en Chile por la especie introducida Reticulitermes hesperus Banks, presente actual-
+mente en la V Región y Región Metropolitana.
+2.4.1.2.  T ermitas de madera húmeda
+ Atacan árboles deteriorados y caídos  o restos de madera dejados enterrados en el terreno, rara vez se en -
+cuentran en madera seca y condiciones de buena ventilación. Ellas dependen de la humedad de los troncos o de 
+la construcción para su sobrevivencia. Se les puede encontrar en maderas 
+a la cuales llega humedad por efecto de acumulación de agua. Entre estas 
+se encuentran especies de los géneros Kalotermes y Porotermes. 
+Porotermes quadricollis (Rambur)
+(T ermita de la madera húmeda)
+ Insecto nativo presente desde la Quinta a la Duodécima Región. 
+Asociado a maderas en servicio blandas y duras con alto contenido de 
+humedad, troncos y árboles caídos o muertos
+Text Len: 1079
+--------------------------------------------------------------------------------
+mita de la madera húmeda)
+ Insecto nativo presente desde la Quinta a la Duodécima Región. 
+Asociado a maderas en servicio blandas y duras con alto contenido de 
+humedad, troncos y árboles caídos o muertos en pie. La colonia la confor-
+man las castas aladas, obreras, machos neoténicos y soldados. El adulto 
+alado mide hasta 9 mm y cada ala hasta 20 mm de largo. Las obreras pre-
+sentan la cabeza pequeña, sin ocelos y con ojos bien desarrollados, ubica-
+dos detrás de la fosa antenal, con el pronoto en forma de media luna. Los 
+soldados presentan la cabeza más grande y quitinizada, de coloración café 
+amarillento con  las mandíbulas bien desarrolladas. 
+ Vuelan cuando las condiciones del medio exterior son cálidas y hú -
+medas. Los alados, luego de formar parejas, pierden sus alas y se intro -
+
+
+52 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 53MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ANEXOS
+Los soldados poseen una coloración café amarillenta con la cabeza grande, muy quitinizada y más oscura con las 
+mandíbulas fuertemente desarrolladas
+Text Len: 1077
+--------------------------------------------------------------------------------
+ 53MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ANEXOS
+Los soldados poseen una coloración café amarillenta con la cabeza grande, muy quitinizada y más oscura con las 
+mandíbulas fuertemente desarrolladas. Efectúan galerías laminares en la madera. Para la zona centro sur el vuelo 
+se concentra en los meses de diciembre a febrero.
+Text Len: 342
+--------------------------------------------------------------------------------
+10 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 11MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+PRÓLOGO
+Chile es un país con una gran variedad de recursos naturales, presentes a lo largo de sus costas como en su 
+suelo. Históricamente el sector minero ha sido el más importante, no obstante en las últimas décadas otras áreas 
+de la economía han aumentado considerablemente su nivel de participación en el ingreso nacional, siendo el sec-
+tor forestal uno de los de mayor crecimiento.
+Bosques naturales y plantaciones con especies exóticas son la materia prima en la que se sustenta el sector 
+forestal chileno y que lo han posicionado en un lugar relevante de la economía nacional, registrándose en el último 
+tiempo cifras históricas en materia de divisas obtenidas por concepto de exportaciones forestales, que superan los 
+dos mil millones de dólares. Gran parte del éxito de la producción forestal está sustentada, entre otros factores, en 
+la buena condición sanitaria de los bosques y en la existencia de un sistema cuarentenario nacional orientado a la 
+detección oportuna de plagas que impactan o pueden impactar negativamente sobre este recurso y a
+Text Len: 1181
+--------------------------------------------------------------------------------
+entada, entre otros factores, en 
+la buena condición sanitaria de los bosques y en la existencia de un sistema cuarentenario nacional orientado a la 
+detección oportuna de plagas que impactan o pueden impactar negativamente sobre este recurso y a la aplicación 
+inmediata de medidas de control.
+No obstante, el creciente intercambio comercial que ha experimentado Chile con el resto del mundo, ha au-
+mentado la presión de ingreso de nuevas plagas forestales, algunas de las cuales han tenido éxito y se han estableci-
+do en los bosques de nuestro país, estando sometidas actualmente la mayoría de ellas a programas de control.
+Con el ﬁn de mejorar la sanidad de nuestros bosques, el Servicio Agrícola y Ganadero tiene dentro de sus 
+prioridades la detección oportuna de plagas, que puedan tener un impacto negativo en el desarrollo del sector fo -
+restal, a través de las acciones que se desarrollan en el Programa de Vigilancia Fitosanitaria Forestal, el cual ha 
+sido diseñado e implementado siguiendo la Norma Internacional de Medidas Fitosanitarias “Directrices para la 
+Vigilancia” (NIMF N° 6/1997), de la Convención Internacional de Protección Fitosanitaria (CIPF) de la
+Text Len: 1177
+--------------------------------------------------------------------------------
+ual ha 
+sido diseñado e implementado siguiendo la Norma Internacional de Medidas Fitosanitarias “Directrices para la 
+Vigilancia” (NIMF N° 6/1997), de la Convención Internacional de Protección Fitosanitaria (CIPF) de la FAO.
+Las estrategias para la detección oportuna de las plagas antes señaladas, son deﬁnidas e implementadas por 
+la Unidad de Vigilancia y Control de Plagas Forestales, de la División de Protección Agrícola del SAG. En esen-
+cia, estas estrategias se basan en el conocimiento amplio de las plagas forestales, tanto para diseñar los métodos de 
+monitoreo como para elaborar el material de apoyo que facilitará la detección de las mismas.
+En este sentido, el presente manual ha sido elaborado por especialistas del Laboratorio Regional SAG de 
+Osorno con el propósito que sea una herramienta útil para la identiﬁcación de insectos, que se encuentran asocia-
+dos a la madera de árboles nativos e introducidos en el sur del país.
+ 
+
+12 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 13MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+INTRODUCCIÓN
+ En este Manual se present
+Text Len: 1107
+--------------------------------------------------------------------------------
+ e introducidos en el sur del país.
+ 
+
+12 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 13MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+INTRODUCCIÓN
+ En este Manual se presentan las principales especies de insectos que atacan la madera en la zona sur de 
+Chile, con especial énfasis en la Décima Región. Estos insectos, en su mayoría, pertenecen al Orden Coleoptera y 
+otros a los Ordenes Hymenoptera, Isoptera y Lepidoptera. Al comienzo del  Manual se ha incluido la deﬁnición 
+de algunos conceptos para entender mejor los daños a los distintos componentes macroestructurales de la made-
+ra. Posteriormente, se proporcionan algunas características generales, que son distintivas de cada familia, tanto 
+en el estado larval como en el adulto, la asociación con madera de diferentes especies forestales, así como algunas 
+características del daño que permitan diferenciar y orientar las prospecciones forestales a bosques y recintos, la 
+detección de daños en maderas en servicio, construcciones y embalajes de madera, siendo estos daños en muchos 
+casos extrapolables a insectos y daños en
+Text Len: 1111
+--------------------------------------------------------------------------------
+ciar y orientar las prospecciones forestales a bosques y recintos, la 
+detección de daños en maderas en servicio, construcciones y embalajes de madera, siendo estos daños en muchos 
+casos extrapolables a insectos y daños en otras latitudes. Además se señalan algunos ejemplos de insectos más fre-
+cuentes asociados a estos daños.
+ Dentro del Orden Coleoptera, las familias más importantes que  se encuentran relacionadas con da -
+ños en madera en el sur de Chile son: Scolytidae, Bostrychidae, Lyctidae, Anobiidae, Cerambycidae, Buprestidae 
+y Curculionidae, en tanto que dentro del Orden Hymenoptera se encuentra la familia Siricidae, en el Orden 
+Lepidoptera la familia Cossidae y en el Orden Isoptera, las familias T ermopsidae y Kalotermitidae. 
+ T oda la información referente a la presencia y ciclos biológicos de los insectos tratados en este Manual, 
+ha sido obtenida en literatura nacional e internacional y los propios registros de  detecciones que el Servicio 
+Agrícola y Ganadero obtiene en la Décima Región de Chile, mediante las distintas actividades de vigilancia  y de-
+fensa forestal, entre las cuales es
+Text Len: 1121
+--------------------------------------------------------------------------------
+ional e internacional y los propios registros de  detecciones que el Servicio 
+Agrícola y Ganadero obtiene en la Décima Región de Chile, mediante las distintas actividades de vigilancia  y de-
+fensa forestal, entre las cuales es posible destacar, la red de trampas de embudo,  trampas de luz, prospecciones a 
+plantaciones forestales y bosque nativo, prospecciones a recintos y denuncias ﬁtosanitarias. 
+
+14 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 15MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+I. MACROESTRUCTURA DE LA MADERA
+ 
+Para una buena comprensión de este Manual es necesario entender algunos conceptos básicos acerca de 
+las estructuras que componen la madera y las funciones que desarrollan cada una de ellas. De esa forma es posi -
+ble entender el por que el daño efectuado por algunos insectos puede ser más perjudicial que otros en diferentes 
+circunstancias.
+ 
+ En una sección de un trozo de madera es posible distinguir desde el exterior hacia el interior las siguien -
+tes estructuras:
+Corteza (Floema): Constituida por dos tejidos, el  más externo llamado s
+Text Len: 1103
+--------------------------------------------------------------------------------
+es 
+circunstancias.
+ 
+ En una sección de un trozo de madera es posible distinguir desde el exterior hacia el interior las siguien -
+tes estructuras:
+Corteza (Floema): Constituida por dos tejidos, el  más externo llamado súber o corcho que tiene fun-
+ción de aislante térmico y uno más interno llamado líber cuya función es el transporte de los produc-
+tos de la fotosíntesis. 
+Cambium: Es el tejido intermedio entre el ﬂoema y el xilema. Es una zona de activa división celular que 
+permite el crecimiento del árbol. 
+Madera (Xilema): Constituida por dos tejidos, el más externo llamado albura tiene como función el  
+transporte de agua, aminoácidos y minerales desde la raíz hacia el tallo.  El tejido más interno se llama 
+duramen y proporciona sostén y resistencia.
+Médula: Constituido por tejido muerto sin función.
+                                                
+FIGURA 1: 
+Macroestructura de la madera.
+CORTEZA
+MEDULA
+MADERA
+
+16 MINISTER
+Text Len: 943
+--------------------------------------------------------------------------------
+                                             
+FIGURA 1: 
+Macroestructura de la madera.
+CORTEZA
+MEDULA
+MADERA
+
+16 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 17MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+cia la construcción del sistema de galerías, mientras que el macho permanece en la cámara nupcial y está encarga-
+do de la expulsión de los desechos hacia el exterior, dentro de éstos se  destacan los géneros Hylastes e Hylurgus. 
+Las especies que presentan poligamia, pueden ser heterosanguíneas y consanguíneas. En el primer caso (poliga -
+mia heterosanguínea) es el macho quien realiza el túnel de entrada y la construcción de la cámara nupcial, para 
+luego permitir la entrada a varias hembras, las cuales expulsan los detritus desde la cámara, estos detritus son ﬁ-
+nalmente arrojados hacia el exterior por el macho. Este tipo de relación se presenta en géneros tales como Ips (cua-
+rentenario para Chile) y Orthotomicus. La poligamia consanguínea se present
+Text Len: 992
+--------------------------------------------------------------------------------
+ la cámara, estos detritus son ﬁ-
+nalmente arrojados hacia el exterior por el macho. Este tipo de relación se presenta en géneros tales como Ips (cua-
+rentenario para Chile) y Orthotomicus. La poligamia consanguínea se presenta en aquellos géneros donde existen 
+muy pocos machos, los cuales no abandonan sus lugares de nacimiento. En este caso son las hembras las que co-
+lonizan los nuevos árboles. Los géneros más importantes con este tipo de relación son Xyleborus (no presente en 
+Chile) y Xyleborinus.
+2.1.1.1. ESCARABAJOS DE CORTEZA
+Se denomina así a los escolítidos que se alimentan de la corteza ya sea de las trozas de la explotación, ár -
+boles caídos o del árbol en pié. Entre ellos se encuentran presentes en Chile, los escarabajos de corteza del pino 
+Hylurgus ligniperda, Hylastes ater y Orthotomicus erosus.
+Hylurgus ligniperda (Fabricius)
+(Escolito rubio del pino)
+Escarabajo originario de Europa y Asia, asociado a la corteza de Pinus spp., especialmente P. radiata. En 
+Chile fue detectado en el año 1985 y  en la actualidad se distribuye
+Text Len: 1057
+--------------------------------------------------------------------------------
+ ligniperda (Fabricius)
+(Escolito rubio del pino)
+Escarabajo originario de Europa y Asia, asociado a la corteza de Pinus spp., especialmente P. radiata. En 
+Chile fue detectado en el año 1985 y  en la actualidad se distribuye desde la Quinta a la Décima Región. 
+Es un pequeño insecto de aproximadamente 6 mm 
+de largo por 2 mm de ancho, de color café oscuro a negro, 
+con la concavidad elitral sin espinas y con abundante pilo -
+sidad de color amarillento en todo el cuerpo, lo que le da el 
+aspecto rubio. La larva de último estadío es de color blanco 
+de aproximadamente 7 mm de largo por 2 mm de ancho, 
+cilíndrica, levemente curvada, sin patas, con la cápsula ce-
+fálica de color amarillento y posee dos protuberancias casi 
+circulares al frente de la cabeza por encima de las mandí -
+bulas. Los adultos son monógamos y las hembras inician la 
+construcción de las galerías que consisten en un túnel de en-
+trada corto que conduce a una cámara en el ﬂoema (cámara 
+nupcial) donde ocurre el apareamiento; luego de aparearse, 
+la hembra construye un
+Text Len: 1051
+--------------------------------------------------------------------------------
+ de las galerías que consisten en un túnel de en-
+trada corto que conduce a una cámara en el ﬂoema (cámara 
+nupcial) donde ocurre el apareamiento; luego de aparearse, 
+la hembra construye una galería larga siguiendo el sentido de la ﬁbra, donde deposita los huevos de a uno en pe-
+queñas hendiduras a lo largo de la galería. Estas galerías las mantienen limpias, eliminando el aserrín rojizo, dado 
+por la coloración de la corteza, a través del oriﬁcio de entrada.
+II. INSECTOS ASOCIADOS A MADERA EN EL SUR DE CHILE
+Según los registros con que cuenta el Servicio Agrícola y Ganadero, en el sur de Chile los principales  insec-
+tos asociados al recurso forestal y madera en servicio se ubican dentro de los  Ordenes Coleoptera, Hymenoptera, 
+Lepidoptera e Isoptera. A continuación se señalan las familias y especies más relevantes dentro de estos Ordenes 
+y sus principales características morfológicas para su  reconocimiento.         
+2.I. ORDEN COLEOPTERA
+A este Orden pertenecen insectos de tamaños muy variables, desde unos pocos milímetros a var
+Text Len: 1050
+--------------------------------------------------------------------------------
+es 
+y sus principales características morfológicas para su  reconocimiento.         
+2.I. ORDEN COLEOPTERA
+A este Orden pertenecen insectos de tamaños muy variables, desde unos pocos milímetros a varios centí-
+metros. En general poseen un cuerpo duro con el primer par de alas quitinizadas y un segundo par de alas mem-
+branosas. En muchos casos presentan los élitros soldados y por lo tanto no está desarrollado el segundo par de 
+alas, siendo incapaces de volar. La cabeza puede estar libre u oculta por debajo del protórax. Las antenas de for -
+mas variables, normalmente con 11 segmentos y con frecuencia reducidos a 8, 9 ó 10. Las patas con tres a cinco 
+segmentos en los tarsos. Aparato bucal del tipo masticador con sus partes bien desarrolladas. La metamorfosis es 
+del tipo holometábola, es decir de un huevo nace una larva que puede pasar por varios estadíos, luego pasa por un 
+período de pupa, para posteriormente llegar al estado adulto o imago.
+2.1.1. Familia Scolytidae
+Corresponde a una familia que presenta numerosos géneros de gran importancia económica forestal. Con 
+tamaños variables entre 0,
+Text Len: 1113
+--------------------------------------------------------------------------------
+período de pupa, para posteriormente llegar al estado adulto o imago.
+2.1.1. Familia Scolytidae
+Corresponde a una familia que presenta numerosos géneros de gran importancia económica forestal. Con 
+tamaños variables entre 0,6 a 9 mm. Poseen una forma y clava antenal distintiva. El cuerpo es casi siempre cilín-
+drico elongado, de color café a negro. Antenas cortas, casi siempre ﬁnalizando en una clava abrupta, grande y re-
+dondeada de 1 a 3 segmentos. El frente del pronoto puede llevar denticulaciones y el declive elitral puede llevar 
+o no algunas prolongaciones cuticulares en forma de espina. La cabeza usualmente está oculta desde arriba y es 
+más estrecha que el pronoto. 
+Las larvas son similares a  las de la familia Curculionidae; blancas, sin patas, con cabeza levemente escle -
+rotizada. De acuerdo al daño que producen los escolítidos pueden ser clasiﬁcados, en primarios (aquellos que son 
+capaces de atacar y matar árboles vivos) y secundarios (asociados a árboles debilitados, caídos y trozas dejadas en 
+el terreno). De acuerdo a su hábito
+Text Len: 1059
+--------------------------------------------------------------------------------
+asiﬁcados, en primarios (aquellos que son 
+capaces de atacar y matar árboles vivos) y secundarios (asociados a árboles debilitados, caídos y trozas dejadas en 
+el terreno). De acuerdo a su hábito alimenticio se distinguen 2 tipos principales: los de corteza y los de ambrosía, 
+ambos tipos  presentan especies polígamas y monógamas. En los géneros con monogamia es la hembra quien ini-
+
+18 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 19MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Los adultos  excavan galerías de 8 a 10 cm de largo, inmedia-
+tamente bajo la corteza, allí las hembras depositan los huevos cuyas 
+larvas al eclosar se desarrollan comprometiendo parte del cambium, 
+pero principalmente la corteza. En Chile se estima que pueden pre -
+sentar hasta 3 generaciones al año y en la Décima Región existen 
+capturas de adultos entre los meses de febrero y noviembre.
+                                  
+Orthotomicus erosus Wollaston
+(Falso Ips del pino)
+Originario de Europa y
+Text Len: 1008
+--------------------------------------------------------------------------------
+ de adultos entre los meses de febrero y noviembre.
+                                  
+Orthotomicus erosus Wollaston
+(Falso Ips del pino)
+Originario de Europa y Norte de África. Entre sus hospederos se cuentan, además del género Pinus, los 
+géneros Picea, Abies y Cedrus. En Chile fue detectado en 1986 en restos de explotación en la Séptima Región y 
+actualmente se distribuye entre la Quinta y Décima Región. Son insectos pequeños, color café oscuro a negro, de 
+3 a 3,8 mm de largo con la concavidad elitral provista de espinas. La larva es de color blanco de aproximadamen-
+te 3 a 4 mm de largo, cilíndrica, levemente curvada, sin patas, con la cápsula cefálica de color café anaranjado y las 
+mandíbulas castaño a negro.
+Se asocia a trozas recién cortadas y restos de explotación. Son polígamos y los ataques son iniciados por 
+los machos, los cuales construyen una cámara nupcial en el cambium, apareándose con una a tres hembras. Estas 
+hembras construyen galerías cortas e irregulares donde coloc
+Text Len: 1004
+--------------------------------------------------------------------------------
+os y los ataques son iniciados por 
+los machos, los cuales construyen una cámara nupcial en el cambium, apareándose con una a tres hembras. Estas 
+hembras construyen galerías cortas e irregulares donde colocan sus huevos en grupos de 10 a 20. Al nacer las 
+larvas se alimentan haciendo galerías individuales bajo la corteza dispuestas en forma perpendicular a la galería 
+donde se acoplaron, éstas posteriormente se unen para formar una galería común. En trozas infestadas se obser-
+van pequeñas cantidades de aserrín café rojizo en las grietas de la corteza. En Europa se ha informado que tiene 
+dos generaciones al año. En  la Décima Región existen registros de presencia de adultos en los meses de febrero 
+y agosto.
+Al nacer las larvas, inician galerías en un comienzo perpendiculares a la de oviposición y después van su -
+friendo desviaciones llegando incluso a juntarse, constituyendo cámaras comunes de alimentación. Pupan en pe-
+queñas cámaras individuales, desde donde salen los adultos, realizando oriﬁcios hacia el exterior. Se han detecta-
+do hasta tres generaciones al año. En la Décima Región existen capturas de
+Text Len: 1127
+--------------------------------------------------------------------------------
+ de alimentación. Pupan en pe-
+queñas cámaras individuales, desde donde salen los adultos, realizando oriﬁcios hacia el exterior. Se han detecta-
+do hasta tres generaciones al año. En la Décima Región existen capturas de adultos durante todo el año. 
+                                             
+Hylastes ater (Paykull)
+(Escolito negro del pino)
+Este insecto de origen europeo se asocia principalmente a restos de cosecha y trozos de Pinus. En Chile fue 
+detectado el año 1983 y actualmente se distribuye entre la Quinta y Décima Región. 
+Es un insecto de cuerpo cilíndrico, lados casi 
+paralelos, pequeño, entre 4 y 5 mm de longitud, co-
+lor negro a negro rojizo brillante con las antenas 
+algo rojizas. Presenta la cabeza y protórax ﬁnamen-
+te punteados, los élitros con siete a ocho hileras de 
+puntos que forman estrías. La larva es curculioni-
+forme, sin patas, de color blanco opaco de aproxi -
+madamente 5 mm de largo por 1,5 mm de ancho, 
+cilíndrica, levemente curv
+Text Len: 974
+--------------------------------------------------------------------------------
+ siete a ocho hileras de 
+puntos que forman estrías. La larva es curculioni-
+forme, sin patas, de color blanco opaco de aproxi -
+madamente 5 mm de largo por 1,5 mm de ancho, 
+cilíndrica, levemente curvada, con la cabeza café 
+amarillenta.
+ 
+
+
+20 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 21MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+madamente 1mm de diámetro. Su ciclo se estima en 2 a 3 generaciones por año. En la Décima Región existen re-
+gistros de captura de adultos entre los meses de febrero y marzo y entre septiembre y diciembre. 
+Gnathotrupes spp.
+(Escolito de ambrosía )
+Insecto nativo,  asociado a numerosas especies forestales principalmente del género Nothofagus, afecta ár-
+boles moribundos, trozas y madera aserrada. Las principales especies presentes en la zona sur de Chile correspon-
+den a G. ﬁmbriatus y G. longipennis siguiendo la distribución de Nothofagus spp.
+El adulto corresponde a un esco -
+lito pequeño, entre 2 y 3 mm de largo,  
+cuerpo cilíndrico, de color café
+Text Len: 1020
+--------------------------------------------------------------------------------
+respon-
+den a G. ﬁmbriatus y G. longipennis siguiendo la distribución de Nothofagus spp.
+El adulto corresponde a un esco -
+lito pequeño, entre 2 y 3 mm de largo,  
+cuerpo cilíndrico, de color café oscuro 
+brillante. El macho construye una galería 
+de entrada la cual penetra la corteza y lle-
+ga hasta el  xilema. Según estudios reali -
+zados en la Universidad Austral de Chile, 
+los adultos barrenan la madera unos 6 cm  
+para luego efectuar un giro de 90° y co -
+menzar a construir la galería de oviposi -
+ción, la que se ubica en forma paralela a 
+la ﬁbra.
+2.1.1.2. ESCARABAJOS DE AMBROSÍA
+Con este nombre se denomina a varias especies pertenecientes a la familia Scolytidae, Platypodidae (no 
+presente en Chile) y Lymexilidae. Ellos perforan la madera (albura y duramen) de árboles caídos o en proceso de 
+decadencia. T anto las larvas como los adultos se alimentan de hongos de ambrosía que cultivan ellos mismos en 
+sus galerías
+Este tipo de relación es menos especíﬁca que la de los  escarabajos de
+Text Len: 1005
+--------------------------------------------------------------------------------
+ en proceso de 
+decadencia. T anto las larvas como los adultos se alimentan de hongos de ambrosía que cultivan ellos mismos en 
+sus galerías
+Este tipo de relación es menos especíﬁca que la de los  escarabajos de corteza, ya que en este caso es suﬁ -
+ciente que el hongo pueda desarrollarse sobre el hospedero para que los escarabajos de ambrosía puedan alimen-
+tarse  en una especie forestal determinada.
+Las esporas del hongo son llevadas por el adulto en estructuras especializadas para su mantención  llama-
+das micangias, estas esporas  son inoculadas en las galerías, generalmente iniciadas por las hembras. Los escolitos 
+presentes en Chile que presentan esta asociación simbiótica son: Xyleborinus saxeseni y Gnathotrupes spp.
+Xyleborinus saxeseni (Ratzeburg)
+(Escolito de ambrosía)
+Escolito muy pequeño, originario del hemisferio norte, se 
+asocia a varias especies de árboles en decadencia o debilitados del 
+género Pinus. En Chile se encuentra distribuido entre la T ercera 
+y Décima Región. El adulto mide aproximadamente 2 mm longi-
+tud, alargado, color castaño osc
+Text Len: 1077
+--------------------------------------------------------------------------------
+�rboles en decadencia o debilitados del 
+género Pinus. En Chile se encuentra distribuido entre la T ercera 
+y Décima Región. El adulto mide aproximadamente 2 mm longi-
+tud, alargado, color castaño oscuro brillante con patas amarillen-
+tas, con pequeños gránulos en el declive elitral. 
+Las larvas son de aproximadamente 2 mm en su último 
+estadío, curculioniformes, de coloración blanco amarillenta y la 
+cabeza de coloración similar con su borde anterior y estructu-
+ras bucales de coloración  
+café amarillento brillante.
+La hembra grávi -
+da construye una galería 
+hacia el centro de la madera de 10 a 70 mm de largo, en la parte terminal 
+agranda las paredes dando una forma de hoja donde deposita sus huevos. 
+La hembra deposita esporas de un hongo de ambrosía, el cual se desarro-
+lla por las paredes de las galerías y  sirve de alimento a las larvas, así la cá-
+mara de crianza adquiere forma irregular en la medida que las larvas van 
+alimentándose. Los adultos al emerger dejan pequeños oriﬁcios de aproxi-
+
+
+22 MINISTERIO DE AGRICULTURA / SERVIC
+Text Len: 1055
+--------------------------------------------------------------------------------
+o a las larvas, así la cá-
+mara de crianza adquiere forma irregular en la medida que las larvas van 
+alimentándose. Los adultos al emerger dejan pequeños oriﬁcios de aproxi-
+
+
+22 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 23MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Los adultos son de tamaño mediano entre 2 y 3 cm de longitud, de cuerpo alargado, muy estrecho, casta-
+ño a negro, delgado y con el primer par de élitros más cortos que los posteriores. Las larvas son alargadas, cilín -
+dricas de color blanco amarillento, con protuberancias laterales a lo largo del abdomen y con  patas torácicas bien 
+desarrolladas. Efectúan galerías circulares y alargadas con las paredes ennegrecidas. La duración del ciclo de vida 
+no ha sido estudiada. Sin embargo, en la Décima Región se han detectado adultos en trampas de luz en los me -
+ses de enero y febrero.
+2.1.3. Familia Bostrychidae
+ Corresponden a insectos de forma cilíndrica, con élitros paralelos. El  pronoto usualmente presenta es -
+pinulescencias frontales y es tan amplio como la cabeza pero sin encerrarla. La
+Text Len: 1096
+--------------------------------------------------------------------------------
+ro.
+2.1.3. Familia Bostrychidae
+ Corresponden a insectos de forma cilíndrica, con élitros paralelos. El  pronoto usualmente presenta es -
+pinulescencias frontales y es tan amplio como la cabeza pero sin encerrarla. La cabeza usualmente está inclinada 
+hacia abajo, casi completamente oculta desde arriba. 
+T anto machos como hembras pueden llevar las esporas del hongo simbionte, inoculando las paredes de la 
+galería, la cual va siendo más grande en la medida que las larvas crecen. Pupan en la galería y  los adultos salen por 
+los túneles efectuados por los padres. En la Décima Región su ciclo se estima en más de dos generaciones al año, 
+con captura de adultos durante todo el año.
+2.1.2. Familia Lymexilidae
+ Corresponde a una pequeña familia con pocos géneros y especies a nivel mundial. De tamaño variable 
+entre 0,6 y  4,5 cm. Los adultos son de color café o negro, algunas veces con apéndices amarillos, de cuerpo suave, 
+alargado, estrecho y cilíndrico, con la cabeza proyectada hacia abajo y estrechada detrás de los ojos. Poseen ante-
+
+Text Len: 1049
+--------------------------------------------------------------------------------
+ adultos son de color café o negro, algunas veces con apéndices amarillos, de cuerpo suave, 
+alargado, estrecho y cilíndrico, con la cabeza proyectada hacia abajo y estrechada detrás de los ojos. Poseen ante-
+nas cortas, ﬁliformes o aserradas. 
+Las larvas son alargadas, cilíndricas, usualmente esclerosadas, de color casi blanco a café oscuro, poseen 
+patas de cuatro segmentos. La cabeza es grande, algo hipognata  y levemente retraída en el protórax. El abdomen 
+presenta nueve segmentos, con el décimo segmento reducido o incompleto. El noveno segmento puede presentar 
+varias modiﬁcaciones, usualmente en forma de una placa cóncava y algunas veces dilatado o prolongado poste -
+riormente.
+Las larvas generalmente se asocian a  tocones y madera muerta, alimentándose de la madera o de hongos 
+de ambrosía cultivados dentro de sus túneles.         
+Atractocerus valdivianus Phillipi
+Insecto nativo de la Familia Lymexilidae, cuyas larvas también se alimentan de hongos de ambrosía. Es 
+un insecto poco frecuente, se encuentra asociado a la madera de
+Text Len: 1052
+--------------------------------------------------------------------------------
+    
+Atractocerus valdivianus Phillipi
+Insecto nativo de la Familia Lymexilidae, cuyas larvas también se alimentan de hongos de ambrosía. Es 
+un insecto poco frecuente, se encuentra asociado a la madera de troncos caídos o árboles muertos del género 
+Nothofagus. En Chile ha sido informado en la Décima Región.
+
+
+24 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 25MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+630 a 720 días entre enero y diciembre del segundo año, las larvas al alimentarse van produciendo galerías que van 
+quedando taponadas con aserrín y excremento, no eliminándolos hacia el exterior, por lo que es posible observar 
+el daño sólo cuando se produce la emergencia de los adultos. En la Décima Región existen registros de captura de  
+adultos en la Provincia de Palena en lo meses de enero, abril y noviembre. Este insecto no reviste mayor importan-
+cia económica, pero bajo ciertas condiciones puede producir el colapso de la madera infestada.
+2.1.4. Familia Lyctidae
+Corresponden a pequeños escarabajos de cuerpo alargado
+Text Len: 1064
+--------------------------------------------------------------------------------
+ insecto no reviste mayor importan-
+cia económica, pero bajo ciertas condiciones puede producir el colapso de la madera infestada.
+2.1.4. Familia Lyctidae
+Corresponden a pequeños escarabajos de cuerpo alargado, algo aplastados dorsoventralmente, con bordes 
+casi paralelos, cuyos tamaños varían entre 2 y 7 mm de longitud. Colores rojizos o negros. Presentan una cabeza 
+bien desarrollada no cubierta por el protórax, las antenas son cortas de 11 segmentos, terminadas en una clava de 
+dos segmentos.  
+Las larvas son similares a las de la familia Bostrychidae,  pero presentan espiráculos ovales sobre el segmen-
+to 8 mucho más grandes que aquellos de los segmentos precedentes. Su daño se maniﬁesta como pequeños oriﬁ-
+cios en las superﬁcies de las maderas atacadas, lo que da el aspecto de haber sido acribilladas (tiro de munición).
+Entre los representantes de esta familia se encuentran varias especies del género Lyctus, siendo los más co-
+nocidos Lyctus chilensis y Lyctus brunneus. 
+Lyctus brunneus (Stephens)
+(Escarabajo pulverizador de la madera)
+ Especie
+Text Len: 1065
+--------------------------------------------------------------------------------
+a familia se encuentran varias especies del género Lyctus, siendo los más co-
+nocidos Lyctus chilensis y Lyctus brunneus. 
+Lyctus brunneus (Stephens)
+(Escarabajo pulverizador de la madera)
+ Especie cosmopolita, ataca la albura de varias especies de maderas duras. Los adultos son  pequeños, de 
+2 a 6 mm de longitud, de cuerpo delgado, aplanado, con bordes paralelos y coloración café rojizo. Las larvas son 
+de coloración blanco cremoso de aproximadamente 5 mm de largo y se distinguen de las larvas de otras familias 
+de escarabajos de madera por la presencia de un espiráculo agrandado en el penúltimo segmento abdominal. 
+Las larvas presentan la cabeza retraída en el tórax, forma escarabeiforme, con patas y cabeza deﬁnida y los 
+espiráculos abdominales de similar tamaño.
+Polycaon chilensis Erichson
+(T aladro chileno del peumo)
+Insecto nativo, presente además en Argentina, Bolivia y Perú. (ARTIGAS, 1994). Asociado principal -
+mente a madera seca de Eucalipto, Ciprés de la Cordillera, Peumo y Lleuque. En Chile se encuentra distribuido 
+entre la Cuarta y Dé
+Text Len: 1066
+--------------------------------------------------------------------------------
+ presente además en Argentina, Bolivia y Perú. (ARTIGAS, 1994). Asociado principal -
+mente a madera seca de Eucalipto, Ciprés de la Cordillera, Peumo y Lleuque. En Chile se encuentra distribuido 
+entre la Cuarta y Décima Región.
+Es un insecto de tamaño variable entre 9 y 26 
+mm de largo por 3 a 7 mm de ancho, de cuerpo alar-
+gado y color castaño rojizo oscuro a negro, con los 
+élitros cubiertos por pelos ﬁnos no muy densos, pero 
+más en la cabeza, tórax y en la parte ventral. La ca -
+beza es de forma subcuadrangular, con antenas de 
+12 segmentos que nacen frente a los ojos, el segundo 
+segmento es más largo que los siguientes, pero menor 
+que los tres últimos, los cuales forman una clava ar-
+ticulada. La larva es de color blanco de aproximada -
+mente 15 mm en su último estadío, escarabeiforme, 
+con el octavo segmento abdominal similar en tamaño 
+al de los otros segmentos.   
+La duración del ciclo de vida  se ha estimado en dos años para la Quinta Región observándose los adultos 
+entre octubre y marzo, los huevos son blancos, alarg
+Text Len: 1046
+--------------------------------------------------------------------------------
+o segmento abdominal similar en tamaño 
+al de los otros segmentos.   
+La duración del ciclo de vida  se ha estimado en dos años para la Quinta Región observándose los adultos 
+entre octubre y marzo, los huevos son blancos, alargados entre 2 y 2,5 mm de largo, puestos en grupos en grietas 
+y depresiones de madera seca o en oriﬁcios de emergencia antiguos. Se estima que el desarrollo larvario dura entre 
+
+
+26 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 27MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.1.5. Familia Anobiidae
+Esta familia incluye pequeños insectos de 1,1 a 9 mm de longitud. Con el protórax semejando una  cape -
+ruza que cubre la cabeza. Antenas con los últimos tres segmentos usualmente engrosados y expandidos, clava no 
+simétrica. Cuerpo de forma variable desde cilíndrico alargado a oval o casi esférico. El color varía desde café claro 
+a negro.
+Las larvas de esta familia son del tipo escarabeiforme, de color blanco amarillento, con pelos ﬁnos en la su-
+perﬁcie. Cabeza bien deﬁnida, tó
+Text Len: 1037
+--------------------------------------------------------------------------------
+férico. El color varía desde café claro 
+a negro.
+Las larvas de esta familia son del tipo escarabeiforme, de color blanco amarillento, con pelos ﬁnos en la su-
+perﬁcie. Cabeza bien deﬁnida, tórax dilatado y patas vestigiales o delgadas terminadas en una uña aguda. Existen 
+anóbidos que atacan corteza y otros que atacan madera en servicio, en este último caso dejan la madera convertida 
+en polvo ﬁno, y se observa una gran cantidad de oriﬁcios pequeños al emerger los adultos, similares  a los  produ-
+cidos por el ataque de Lyctidae, aunque en general el aserrín producido por anóbidos es de una granulación ma-
+yor, palpable al tacto como arenisca. En el caso de los anóbidos que atacan corteza, éstos llenan sus galerías con 
+pequeños pellets, que pueden tener distinta coloración debido a la alimentación tanto de corteza como de algunas 
+capas externas del xilema.
+Anobium punctatum De Geer
+(Escarabajo de los muebles)
+Insecto cosmopolita, asociado a la albura y duramen de madera de lati -
+foliadas y coníferas en servicio. Presente en Chile desde la Quint
+Text Len: 1064
+--------------------------------------------------------------------------------
+capas externas del xilema.
+Anobium punctatum De Geer
+(Escarabajo de los muebles)
+Insecto cosmopolita, asociado a la albura y duramen de madera de lati -
+foliadas y coníferas en servicio. Presente en Chile desde la Quinta a la Décima 
+Región. Su tamaño varía de  4 a 6 mm de longitud, cilíndrico, café rojizo a café 
+oscuro, cubierto por ﬁnos pelos amarillentos. La cabeza presenta una protube -
+rancia frontal prominente con antenas de 11 segmentos y los últimos tres ante-
+nitos elongados, los cuales superan la longitud de los ocho antenitos anteriores. 
+La larva es blanca grisácea, de alrededor de 6 mm de longitud con espínulas pre-
+sentes en los primeros 7 segmentos abdominales y ausentes en los últimos 3. Sus 
+larvas pueden ser distin-
+guidas de los Lyctidae, 
+por la ausencia de un 
+penúltimo espiráculo 
+agrandado.
+El ataque de estos escarabajos  se observa usual -
+mente en madera que ha estado en servicio por más de 
+20 años y en la mayoría de los casos corresponde  a pi -
+sos, paredes y marcos de puertas y ventanas, así como a 
+muebles.
+La hemb
+Text Len: 1061
+--------------------------------------------------------------------------------
+ajos  se observa usual -
+mente en madera que ha estado en servicio por más de 
+20 años y en la mayoría de los casos corresponde  a pi -
+sos, paredes y marcos de puertas y ventanas, así como a 
+muebles.
+La hembra posee un ovipositor largo y ﬂexible, el que in-
+serta profundamente en los poros de maderas duras, poniendo 
+uno o varios huevos en pequeños poros de la albura susceptible 
+de maderas duras que contienen almidón. La madera de pino es 
+inmune al ataque de Lyctus, debido a que la hembra pone sus 
+huevos sólo en los poros conductores de agua del árbol. Sin em-
+bargo, aunque los pinos conducen agua a las hojas de una manera 
+similar a las latifoliadas, sus tubos son mucho más pequeños en 
+diámetro lo que impide la postura de huevos de estos escaraba -
+jos, comparado con los oriﬁcios más grandes de las latifoliadas.
+Las larvas que eclosan a partir de los huevos se alimentan 
+de almidón y después de varias mudas se acercan a la superﬁcie para pupar. Los escarabajos al emerger dejan oriﬁ-
+cios circulares de 1 a 2 mm de diámetro.
+Text Len: 1045
+--------------------------------------------------------------------------------
+ eclosan a partir de los huevos se alimentan 
+de almidón y después de varias mudas se acercan a la superﬁcie para pupar. Los escarabajos al emerger dejan oriﬁ-
+cios circulares de 1 a 2 mm de diámetro. El polvo liberado desde estos oriﬁcios es ﬁno y semejante a la harina. La 
+madera queda reducida a ﬁno polvo, el que se detecta una vez que se ha producido el vuelo de los adultos. Vuelan 
+rápidamente y se dispersan a otras maderas susceptibles. No oviponen sobre maderas enceradas, barnizadas o 
+pintadas. La duración del ciclo de vida se estima entre 8 y 12 meses. 
+Lyctus chilensis Gerber
+(Escarabajo pulverizador de la madera)
+Insecto nativo, asociado a maderas duras secas de especies tales como 
+Aromo, Boldo, Coigüe, Eucalipto, Raulí y Roble.
+Ampliamente distribuido en Chile. Sus características morfológicas, bio-
+lógicas y daño son similares a las de L. brunneus. En la Décima Región existen 
+capturas de adultos en vuelo durante los meses de enero y febrero.
+
+
+28 MINISTERIO DE AGRICULTURA / SERVICIO AGR
+Text Len: 1016
+--------------------------------------------------------------------------------
+ógicas, bio-
+lógicas y daño son similares a las de L. brunneus. En la Décima Región existen 
+capturas de adultos en vuelo durante los meses de enero y febrero.
+
+
+28 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 29MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+El daño que produce es similar al del es -
+carabajo de los muebles, sin embargo los oriﬁcios 
+de emergencia son más grandes (3 a 4 mm de diá-
+metro). Su ciclo de vida no ha sido estudiado. En 
+la Décima Región existen capturas de adultos en 
+vuelo entre los meses de octubre y enero.
+ 
+Ernobius mollis Linnaeus
+(Anóbido de la corteza del pino)
+Corresponde a un insecto de origen Europeo, es un barrenador de la corteza de maderas blandas, especial-
+mente Pinus spp.  En la Décima  Región de Chile,  se ha detectado asociado a corteza de Pinus radiata.
+El adulto presenta un tamaño pequeño, alrededor de 5 mm de longitud, de color café a rojizo con ﬁna pub-
+escencia amarilla, la cabeza se encuentra algo retraída por debajo del pronoto, antenas con 11 segmentos, los tres 
+
+Text Len: 1054
+--------------------------------------------------------------------------------
+
+El adulto presenta un tamaño pequeño, alrededor de 5 mm de longitud, de color café a rojizo con ﬁna pub-
+escencia amarilla, la cabeza se encuentra algo retraída por debajo del pronoto, antenas con 11 segmentos, los tres 
+últimos alargados. Las larvas son de color  blanco, de forma 
+escarabeiforme, con espiráculos similares en tamaño y pre-
+sentan patas con cinco segmentos. Los huevos son puestos 
+en la corteza de pino que haya sido deteriorada por fuego 
+o en estado decadente.
+Las larvas se alimentan de la corteza, pero también 
+producen daño en las capas más externas del xilema, por 
+ello forman un aserrín característico con apariencia de sal 
+y pimienta, similar al producido por algunas especies de 
+curculiónidos de la corteza. Al emerger los adultos realizan 
+oriﬁcios ovales de aproximadamente 2 mm de diámetro. 
+El ciclo se ha estimado en uno a dos años. En la 
+Décima Región existen captura de adultos en gran parte del año.
+Otros géneros de anóbidos detectados en la Décima Región corresponden a especies nativas de los géneros 
+Stichtoptychus y Calymm
+Text Len: 1070
+--------------------------------------------------------------------------------
+ dos años. En la 
+Décima Región existen captura de adultos en gran parte del año.
+Otros géneros de anóbidos detectados en la Décima Región corresponden a especies nativas de los géneros 
+Stichtoptychus y Calymmaderus. Ambos  han sido poco estudiados, existiendo algunos antecedentes sobre su clasi-
+ﬁcación taxonómica, pero sólo unos pocos registros sobre su biología, comportamiento y hospederos. Ambos gé-
+neros presentan características morfológicas similares: el adulto es de color negro, mide aproximadamente 4 mm 
+de longitud, con la cabeza oculta bajo el protórax. En el caso de Stichtoptychus sp. se detectan con alguna frecuen-
+La hembra pone sus huevos en grietas y oriﬁcios de 
+emergencia antiguos, perforando principalmente la albura y 
+moviéndose cerca de la superﬁcie para pupar, los escarabajos 
+emergen a través de oriﬁcios circulares de aproximadamente 
+2 mm, similares a los de los Lyctidae. 
+El ciclo de vida puede durar entre uno y tres años. La 
+longitud del estado larval es afectada por el clima y
+Text Len: 1020
+--------------------------------------------------------------------------------
+vés de oriﬁcios circulares de aproximadamente 
+2 mm, similares a los de los Lyctidae. 
+El ciclo de vida puede durar entre uno y tres años. La 
+longitud del estado larval es afectada por el clima y el alimen-
+to, lo que explica las variaciones en la duración del ciclo. El 
+aserrín producido es ﬁno y arenoso, pero en este caso gene -
+ralmente es palpable al tacto y es posible distinguir su granu-
+lación. Atacan madera sólo si la corteza es removida, no ovi-
+ponen sobre madera pintada y barnizada.
+Hadrobregmus sp.
+(Frailecillo)
+Insecto similar a A. punctatum. El género está poco estudiado y 
+tampoco se ha evaluado la magnitud de su daño, ha sido determinado 
+para madera muerta de Coigüe y Ciprés de la Cordillera. En el Sur de 
+Chile, se ha detectado produciendo daño en casas de madera nativa en 
+V aldivia, Chiloé y Chaitén.
+El adulto presenta un  tamaño entre 6 y 8 mm de largo, de color 
+castaño oscuro con abundante pilosidad amarillenta en todo el cuerpo, 
+presenta la típica forma del pronoto como caperuza. Las larvas son de 
+tip
+Text Len: 1043
+--------------------------------------------------------------------------------
+én.
+El adulto presenta un  tamaño entre 6 y 8 mm de largo, de color 
+castaño oscuro con abundante pilosidad amarillenta en todo el cuerpo, 
+presenta la típica forma del pronoto como caperuza. Las larvas son de 
+tipo escarabeiforme de color blanco cremoso. 
+
+
+30 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 31MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Phoracantha semipunctata Fabricius
+(T aladro del eucalipto)
+Insecto de origen australiano, asociado a distintas especies del gé -
+nero Eucalyptus. Presente entre la Primera y Décima Región de Chile. Los 
+adultos son de tamaño mediano, entre 20 y 28 mm de largo, color café con 
+manchas amarillentas en los élitros y con antenas dirigidas hacia atrás que 
+sobrepasan la longitud del cuerpo. Las larvas miden hasta 40 mm de largo, 
+color blanco amarillento con la cabeza achatada más ancha que larga y con 
+el protórax esclerosado.
+Su ciclo de vida para la Décima Región se estima en un año, obser -
+vándose  la oviposición desde primavera hasta ﬁnes de mayo, el estado lar-
+val
+Text Len: 1054
+--------------------------------------------------------------------------------
+ás ancha que larga y con 
+el protórax esclerosado.
+Su ciclo de vida para la Décima Región se estima en un año, obser -
+vándose  la oviposición desde primavera hasta ﬁnes de mayo, el estado lar-
+val desde enero hasta octubre y los adultos desde mediados de primavera 
+hasta el otoño. 
+ Las larvas de primer y segundo estadío penetran el 
+cambium, a lo cual el árbol responde liberando savia, siendo 
+esto un primer síntoma característico que maniﬁesta su ata -
+que. Posteriormente, las larvas maduras penetran en el xilema 
+anillando el árbol y produciendo clorosis en el follaje. Ataca 
+árboles debilitados o en condiciones de estrés. En las regiones 
+Metropolitana y Quinta de Chile también ha sido detectada 
+en Eucalyptus sp. la especie Phoracantha recurva, de aspecto y 
+biología similar a Phoracanta semipunctata. Algunas diferen -
+cias morfológicas entre las dos especies están en el color de 
+los élitros y la presencia de pelos y espinas en la superﬁcie in-
+ferior de los segmentos antenales. En P . semipunctata los éli-
+tros son mayoritariamente café oscuro con una lí
+Text Len: 1078
+--------------------------------------------------------------------------------
+gicas entre las dos especies están en el color de 
+los élitros y la presencia de pelos y espinas en la superﬁcie in-
+ferior de los segmentos antenales. En P . semipunctata los éli-
+tros son mayoritariamente café oscuro con una línea 
+en zigzag que divide el área color crema en la mitad de 
+los élitros y no presenta o presenta muy pocos pelos 
+dorados en la superﬁcie inferior de cada segmento an-
+tenal. P . recurva, en cambio, es de coloración mayori-
+tariamente crema a amarillento con áreas café oscuro 
+conﬁnadas al tercio posterior de los élitros y con pelos 
+largos y densos en la superﬁcie inferior de cada seg -
+mento antenal.
+cia ejemplares adultos en trampas de embudo para escolítidos, lo que hace suponer que están asociados a árboles  
+muertos o debilitados. En el caso de Calymmaderus sp., éste ha sido detectado en madera en servicio de especies 
+nativas, posiblemente asociado a hongos de madera produciendo un daño similar a Hadrobregmus sp.  
+2.1.6. Familia Cerambycidae
+La familia Cerambycidae incluye varias especies de escarabajos barrenadores de corteza y madera cuy
+Text Len: 1090
+--------------------------------------------------------------------------------
+iblemente asociado a hongos de madera produciendo un daño similar a Hadrobregmus sp.  
+2.1.6. Familia Cerambycidae
+La familia Cerambycidae incluye varias especies de escarabajos barrenadores de corteza y madera cuyos 
+adultos son de tamaño mediano a grande, cuerpo usualmente robusto y relativamente aplanado dorsaventral -
+mente, con la porción anterior de los élitros ancha, 
+usualmente poseen antenas muy largas que pue -
+den ser más largas que la longitud del cuerpo. Los 
+ojos usualmente presentan muescas, donde van in-
+sertas las antenas.
+Las larvas son algo cilíndricas, con un tórax 
+bien desarrollado, lo que resulta en barrenaduras 
+similares a la forma de su cuerpo en la madera in-
+festada. Las larvas tienen cabezas pequeñas pero 
+mandíbulas poderosas y las patas pueden ser vesti-
+giales o estar ausentes.
+Entre los cerambícidos de importancia para 
+Chile se destacan algunas especies asociadas a la -
+tifoliadas nativas y otras exóticas como las que se 
+indican a continuación:
+
+
+32 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 33MINISTERIO DE AGRIC
+Text Len: 1077
+--------------------------------------------------------------------------------
+
+Chile se destacan algunas especies asociadas a la -
+tifoliadas nativas y otras exóticas como las que se 
+indican a continuación:
+
+
+32 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 33MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Chenoderus testaceus (Blanchard)
+(T aladro testáceo)
+Insecto nativo, asociado prin -
+cipalmente a ramas recién muer -
+tas de Nothofagus y eventualmente de 
+Eucalipto, presente desde la Quinta a 
+la Décima Región de Chile. El adulto 
+presenta un tamaño entre 13 y 17 mm 
+de largo, de color completamente tes -
+táceo, pronoto más largo que ancho y 
+lateralmente subredondeado, antenas 
+más largas que el cuerpo y los fémures 
+engrosados en la mitad distal.
+Las larvas son cerambicifor -
+mes de coloración blanco cremosa de 
+aproximadamente 19 mm de largo en su último estadío, presentan  la re -
+gión anterior del protórax más esclerosada. Las larvas producen galerías 
+amplias bajo la corteza, rellenas de aserrín compacto. Antes de pupar in -
+gresan hacia la madera construyendo un
+Text Len: 1032
+--------------------------------------------------------------------------------
+ estadío, presentan  la re -
+gión anterior del protórax más esclerosada. Las larvas producen galerías 
+amplias bajo la corteza, rellenas de aserrín compacto. Antes de pupar in -
+gresan hacia la madera construyendo una cámara taponeada de aserrín ﬁ-
+broso de aproximadamente 5 mm de diámetro por 3 a 6 cm de largo. Al 
+emerger los adultos realizan oriﬁcios entre 3 y 4 mm de diámetro.
+Su daño puede ser de importancia en madera destinada a chapas 
+y parquets. En la Décima Región de Chile se estima a lo menos 1 gene -
+ración al año, con captura de adultos concentrada entre los meses de sep-
+tiembre y febrero. 
+Holopterus chilensis Blanchard
+(T aladrador del roble)
+Insecto nativo, afecta Roble, Raulí y Coigüe. Se encuentra distribuido en Chile entre la Quinta y Décima 
+Región. El adulto presenta un  tamaño que varia entre 2 y 5 cm , de cuerpo alargado, patas delgadas , color  casta-
+ño amarillento. Las larvas son cerambiciformes, de color blanco amarillento y pueden medir hasta 6 cm de largo, 
+con la cabeza de coloración castaño.
+
+Text Len: 1039
+--------------------------------------------------------------------------------
+re 2 y 5 cm , de cuerpo alargado, patas delgadas , color  casta-
+ño amarillento. Las larvas son cerambiciformes, de color blanco amarillento y pueden medir hasta 6 cm de largo, 
+con la cabeza de coloración castaño.
+Eriphus laetus (Blanchard)
+(T aladrillo del peumo)
+Insecto nativo asociado a la corteza de árboles caídos, 
+moribundos o en proceso de secamiento de varias especies fo -
+restales, tales como, Pinus radiata, Cryptocaria alba, Nothofagus 
+dombeyi y Eucalyptus spp. Se presenta en Chile desde la Segunda 
+a la Décima Región.
+El adulto mide entre 9 y 12 mm de largo, los élitros de co-
+lor azul oscuro o negro con el protórax que presenta una mancha 
+roja variable en tamaño, desde muy pequeña a muy marcada. Las 
+larvas son típicamente cerambiciformes de aproximadamente 15 
+mm de largo en su último es-
+tadío, color blanco cremoso 
+con la cabeza castaño clara.
+Las larvas efectúan galerías bajo la corteza produciendo aserrín ﬁno y 
+compactado. Previo a la pupación, las galerías se profundizan hacia la made -
+ra.
+Text Len: 1027
+--------------------------------------------------------------------------------
+ color blanco cremoso 
+con la cabeza castaño clara.
+Las larvas efectúan galerías bajo la corteza produciendo aserrín ﬁno y 
+compactado. Previo a la pupación, las galerías se profundizan hacia la made -
+ra. Los oriﬁcios de emergencia tienden a ser ovalados de 2 x 4 mm y de bor -
+des irregulares. Esta especie puede provocar daños de importancia en madera 
+para chapas y parquets. Para la Octava, Novena y Décima Región de Chile el 
+ciclo de vida se estima en un año. En la Décima Región el período de vuelo se 
+concentra entre los meses de octubre y febrero.
+
+
+34 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 35MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Cheloderus childreni Gray
+(Coleóptero de la luma)
+Insecto nativo asociado a Coigüe y secundariamente en Roble. Se en -
+cuentra distribuido en Chile desde la Séptima a la Undécima Región.
+El adulto mide aproximadamente 45 mm de largo y 15 mm de ancho,  
+con la cabeza de coloración verde metálico que presenta proyecciones latera -
+les.
+Text Len: 1015
+--------------------------------------------------------------------------------
+ distribuido en Chile desde la Séptima a la Undécima Región.
+El adulto mide aproximadamente 45 mm de largo y 15 mm de ancho,  
+con la cabeza de coloración verde metálico que presenta proyecciones latera -
+les. Los élitros son de color tornasol de verde a rojo, con ﬁnas punteaduras en 
+toda su extensión, las antenas y tarsos de coloración azul eléctrico al igual que 
+los fémures dorsalmente. V entralmente cabeza, tórax y abdomen, al igual que 
+la sección ventral de los fémures son de color  verde metálico.    
+Las larva mide 
+aproximadamente 5 cm de longitud, de color blanco con la 
+cabeza fuertemente esclerosada, con patas torácicas poco 
+desarrolladas. Efectúan galerías ovales las que alcanzan 
+los 40 cm de largo por 1,5 cm de ancho en la madera viva 
+de troncos de Coigüe y Roble, dirigiéndose hacia arriba 
+del árbol en forma oblicua los primeros 15 cm y luego en 
+forma paralela a la ﬁbra, dando la apariencia de una letra J, 
+provocando daños hasta los primeros tres metros de altu-
+ra del árbol, inutiliz
+Text Len: 1020
+--------------------------------------------------------------------------------
+ árbol en forma oblicua los primeros 15 cm y luego en 
+forma paralela a la ﬁbra, dando la apariencia de una letra J, 
+provocando daños hasta los primeros tres metros de altu-
+ra del árbol, inutilizando la madera para ﬁnes comerciales 
+como la producción de chapas.
+El ciclo de vida se estima en 5 a 6 años, con emer -
+gencia de adultos durante los meses de la primavera y el verano.
+Calydon submetallicum (Blanchard)
+(T aladro del ñirre)
+Insecto nativo,  asociado a Roble, Coigüe, Lenga, Ñirre y Quillay, entre otros. Se encuentra distribuido des-
+de la Quinta a la Duodécima Región de Chile. El adulto mide entre 13 y 17 mm de longitud, la cabeza es de color 
+negro aterciopelado y los élitros del mismo color con una ﬁna línea que rodea el borde anterior  y se proyecta ha-
+cia el centro de los mismos, por el borde interno,  alcanzando poco más de la mitad del cuerpo donde nuevamente 
+se extiende hacia el borde externo ensanchándose en la mitad. V entralmente, el insecto presenta el abdomen y las 
+patas de coloración azul osc
+Text Len: 1032
+--------------------------------------------------------------------------------
+ borde interno,  alcanzando poco más de la mitad del cuerpo donde nuevamente 
+se extiende hacia el borde externo ensanchándose en la mitad. V entralmente, el insecto presenta el abdomen y las 
+patas de coloración azul oscuro metálico. Las antenas negras sobrepasan levemente la longitud del cuerpo.
+La hembra deposita sus huevos en la corteza de árboles 
+vivos del hospedero; al eclosar, las larvas se dirigen hacia el du-
+ramen y mantienen sus galerías limpias, produciendo un ase -
+rrín granuloso el cual se va acumulando en la base del árbol.
+En  la Décima Región el ciclo se estima en no menos 
+de tres años, la oviposición se produce entre diciembre y fe -
+brero, las larvas se encuentran en cualquier época del año y la 
+emergencia de los adultos ocurre entre octubre y diciembre. 
+
+
+36 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 37MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+de anterior del protórax esclerosado de color amarillento y las patas muy pequeñas. La larva se desarrolla al inte-
+rior de troncos muertos realizando
+Text Len: 1059
+--------------------------------------------------------------------------------
+ GANADERO 37MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+de anterior del protórax esclerosado de color amarillento y las patas muy pequeñas. La larva se desarrolla al inte-
+rior de troncos muertos realizando galerías muy amplias dejando aserrín ﬁbroso. Al emerger los adultos efectúan 
+oriﬁcios circulares de bordes irregulares de aproximadamente 0,8 por 0,9 mm de diámetro.
+El ciclo de vida se desconoce. Sin embargo, en la Décima Región se han encontrado larvas durante casi 
+todo el año y adultos en vuelo desde noviembre a marzo.
+2.1.7. Familia Buprestidae
+ Los insectos pertenecientes a esta familia corresponden a insectos de tamaño mediano a grande, de 2 
+a 4 cm de largo, usualmente algo aplastados, lo que les da la forma de balín. Los adultos presentan coloración 
+casi siempre metálica o bronceada, especialmente en la superﬁcie ventral. Superﬁcie dorsal con o sin pelos fre-
+cuentemente metálica, brillante, algunas veces con manchas 
+amarillas. Extremo elitral a menudo puntiagudo, con lados 
+casi paralelos. Antena usualmente corta
+Text Len: 1057
+--------------------------------------------------------------------------------
+��cie ventral. Superﬁcie dorsal con o sin pelos fre-
+cuentemente metálica, brillante, algunas veces con manchas 
+amarillas. Extremo elitral a menudo puntiagudo, con lados 
+casi paralelos. Antena usualmente corta, aserrada o ﬁlifor -
+me. Las larvas son apodas, elongadas, casi glabras, cabeza 
+pequeña, usualmente poco esclerotizada, tórax agrandado y 
+aplastado.
+Los túneles efectuados por estas larvas tienden a te -
+ner la misma forma del tórax de las mismas, casi tres veces 
+más anchas que  altas, lo que permite diferenciarlos del ata-
+que más parecido realizado por lo cerambícidos. El ciclo de 
+vida dura usualmente uno o dos años. 
+Las larvas se alimentan bajo la corteza de árboles recién caídos o muer -
+tos, efectuando galerías taponeadas de aserrín compactado de aproximadamente 
+7 mm de ancho  y hacia ﬁnales de su período larval ingresan hacia la albura para 
+preparar su cámara pupal en el sentido de la ﬁbra de la madera, efectuando gale-
+rías circulares de aproximadamente 5 cm de
+Text Len: 997
+--------------------------------------------------------------------------------
+cho  y hacia ﬁnales de su período larval ingresan hacia la albura para 
+preparar su cámara pupal en el sentido de la ﬁbra de la madera, efectuando gale-
+rías circulares de aproximadamente 5 cm de longitud por 7 mm de diámetro, las 
+que se encuentran a no más de 1,5 cm de profundidad. El ciclo de vida se estima 
+en dos años, en la Décima Región existen capturas de adultos en vuelo entre los 
+meses de octubre a enero. 
+                   
+  
+Microplophorus magellanicus Blanchard
+(T aladro de Magallanes)
+ Insecto nativo, asociado a madera muerta o en descomposición de algunas especies del género Nothofagus 
+como Coigüe, Lenga y Ñirre, detectado además en árboles caídos de Pino insigne y Pino oregón en la Décima 
+Región. Se encuentra distribuido desde la Octava a la Duodécima Región de Chile. 
+El insecto adulto es de coloración total -
+mente café oscuro, de 32 a 35 mm de largo por 
+9 mm de ancho, antenas algo pectinadas en las 
+hembras y muy pectinadas en los machos. 
+Text Len: 978
+--------------------------------------------------------------------------------
+ a la Duodécima Región de Chile. 
+El insecto adulto es de coloración total -
+mente café oscuro, de 32 a 35 mm de largo por 
+9 mm de ancho, antenas algo pectinadas en las 
+hembras y muy pectinadas en los machos. 
+La larva es cerambiciforme, bastante ro-
+busta, de aproximadamente 40 mm de largo 
+por 9 mm de ancho en su último estadío, de co-
+loración blanco cremosa, con la cabeza y el bor-
+
+
+38 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 39MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.1.8. Familia Curculionidae
+Familia de insectos que se caracterizan por presentar una cabeza prolongada en forma de trompa. Antena 
+a menudo geniculada, con una clava antenal de tres segmentos, usualmente compacta. Palpos casi siempre peque-
+ños y rígidos, a menudo escondidos. El cuerpo muchas veces cubierto con escamas. Pueden presentar los élitros 
+soldados o no, lo que les da la capacidad de volar o que sólo sean capaces de transportarse caminando. 
+Las larvas son blanquecinas, sin patas toráxicas, con la cabeza redondeada y quitinizada y antenas
+Text Len: 1068
+--------------------------------------------------------------------------------
+amas. Pueden presentar los élitros 
+soldados o no, lo que les da la capacidad de volar o que sólo sean capaces de transportarse caminando. 
+Las larvas son blanquecinas, sin patas toráxicas, con la cabeza redondeada y quitinizada y antenas de un 
+segmento. Los tergitos abdominales poseen 3 ó 4 dobleces transversos y los  espiráculos del protórax son más 
+grandes que los abdominales.
+Rhyephenes maillei (Gay et Solier)
+Insecto nativo, se encuentra asociado a corteza de árboles muer-
+tos de varias especies forestales nativas y exóticas tales como: Laurelia 
+phillippiana, Nothofagus dombeyi, Pinus radiata, Pseudotsuga menziesii, 
+entre otros. 
+El adulto mide entre 9 y 13 mm de largo, presenta un  cuerpo 
+muy duro, de color completamente negro, las patas son muy alargadas y  
+los élitros están soldados y cubiertos de pequeños tubérculos. 
+La larva mide 
+aproximadamente 
+17 mm de largo, de 
+color blanco cremo -
+so, curculioniforme, levemente curvada, sin patas, con la cáp-
+sula cefálica y parte superior del protórax esclerosada de color 
+blanco amarillento.
+Esta espec
+Text Len: 1077
+--------------------------------------------------------------------------------
+amente 
+17 mm de largo, de 
+color blanco cremo -
+so, curculioniforme, levemente curvada, sin patas, con la cáp-
+sula cefálica y parte superior del protórax esclerosada de color 
+blanco amarillento.
+Esta especie posee hábitos alimenticios similares a los de 
+los escarabajos de corteza. Las larvas consumen la corteza reali-
+zando galerías amplias taponeadas de aserrín compacto, a medi-
+da que éstas  crecen son capaces de consumir superﬁcialmente la 
+capa externa de la albura produciendo un aserrín con apariencia 
+de sal y pimienta, similar al dejado por los anóbidos de corteza. 
+Antes de pupar forman una cámara en la capa externa de la al-
+bura, cubierta por un aserrín ﬁbroso. Al emerger los adultos de-
+jan oriﬁcios circulares entre 4,5 y 6,5 mm de diámetro.
+Buprestis novemmaculata Linnaeus
+(Cantabria de nueve manchas, 
+Insecto maculado del pino)
+Insecto de origen Europeo, se encuentra asociado a madera de árbo -
+les muertos de Pinus radiata. Se distribuye en Chile entre la Quinta y Novena 
+Región. El adult
+Text Len: 1020
+--------------------------------------------------------------------------------
+ve manchas, 
+Insecto maculado del pino)
+Insecto de origen Europeo, se encuentra asociado a madera de árbo -
+les muertos de Pinus radiata. Se distribuye en Chile entre la Quinta y Novena 
+Región. El adulto mide entre 1,5 a 2,5 cm de largo, de color negro con 4 peque-
+ñas manchas amarillas distanciadas en el centro de los élitros, posee la forma tí-
+pica de la familia y el pronoto demarcado lateralmente por una ﬁna línea ama -
+rilla, el resto del cuerpo también es negro con los esternitos abdominales con 
+pequeñas manchas amarillas. 
+La larva corresponde a la forma típica de la familia, con el primer seg -
+mento del tórax aplanado y expandido, se alimentan de xilema de árboles muer-
+tos y troncos que han permanecido por bastante tiempo caídos.
+Las galerías larvales son planas llenas de aserrín ﬁbroso y los oriﬁcios de 
+emergencia son ovalados. Se estima que su ciclo de vida es superior a un año, 
+con presencia de adultos entre los meses de diciembre y abril. 
+
+
+40 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 41MINISTERIO DE AGR
+Text Len: 1053
+--------------------------------------------------------------------------------
+gencia son ovalados. Se estima que su ciclo de vida es superior a un año, 
+con presencia de adultos entre los meses de diciembre y abril. 
+
+
+40 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 41MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+se sabe acerca del ciclo de este insecto, sin 
+embargo en la Décima Región es posi -
+ble encontrar larvas durante todo el año 
+y adultos en otoño y primavera.
+Pentarthrum sp.
+Género con representantes de origen Europeo, asociado 
+a maderas en servicio húmedas o podridas de maderas duras 
+y blandas. Presente en Chile desde la Segunda a la Undécima 
+Región. Los adultos se caracterizan por ser de pequeño tama -
+ño, entre 3 y 5 mm de largo, de coloración castaño rojizo a ne-
+gro, bastante cilíndricos y algo aplastados dorsoventralmente, 
+con puntuación en el cuerpo, antenas acodadas y el rostro alar-
+gado en forma de pico.
+Su ciclo de vida se estima en un año. En la Décima Región es posible encontrar larvas entre marzo y no -
+viembre, pupas entre septiembre y noviembre, y adultos  ent
+Text Len: 1051
+--------------------------------------------------------------------------------
+ y el rostro alar-
+gado en forma de pico.
+Su ciclo de vida se estima en un año. En la Décima Región es posible encontrar larvas entre marzo y no -
+viembre, pupas entre septiembre y noviembre, y adultos  entre los meses de septiembre y abril.
+Psepholax dentipes Kuschel 
+Insecto nativo, asociado a árboles debilitados de diver -
+sas especies forestales tanto nativas como exóticas, tales como, 
+Canelo, Roble, Olivillo y T epa. En la Décima Región ha sido de-
+tectado además en madera de Coigüe, Ulmo, y Tineo. En Chile 
+existen registros de su presencia en  la Quinta y Décima Región. 
+El adulto mide de 7 a 9 mm de largo, color negro opaco con pe -
+queñas manchas amarillentas sobre los élitros. Las larvas son de 
+color blanco cremoso con la cabeza amarillenta, sin patas, típica -
+mente curculioniforme. El insecto está poco estudiado.
+La hembra ovipone en el xilema, al ﬁnal de un túnel de en-
+trada de aproximadamente 2 cm de largo. Una vez que los huevos 
+han  eclosado, las larvas avanzan realizando galerías circul
+Text Len: 1022
+--------------------------------------------------------------------------------
+ado.
+La hembra ovipone en el xilema, al ﬁnal de un túnel de en-
+trada de aproximadamente 2 cm de largo. Una vez que los huevos 
+han  eclosado, las larvas avanzan realizando galerías circulares en forma radial en distintas direcciones; posterior-
+mente, se observan galerías más anchas taponeadas con aserrín que puede tomar una consistencia compacta y en 
+algunos casos se observan grandes galerías vacías o con insectos adultos en su interior. Los oriﬁcios de emergencia 
+de los adultos son también circulares de aproximadamente 5 mm de diámetro.
+Al ﬁnal del oriﬁcio de entrada para la ovipostura se observan ejemplares adultos taponeando el oriﬁcio 
+con la cabeza hacia el interior del xilema, quedando la parte posterior del cuerpo dirigido hacia el exterior. Poco 
+
+
+42 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 43MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.2. ORDEN HYMENOPTERA
+Agrupa este Orden a insectos de tamaño muy pequeño a  grande. Entre sus características más relevantes 
+están el presentar ambos pares de alas membranosas, con venaci
+Text Len: 1079
+--------------------------------------------------------------------------------
+ICIO AGRÍCOLA Y GANADERO
+2.2. ORDEN HYMENOPTERA
+Agrupa este Orden a insectos de tamaño muy pequeño a  grande. Entre sus características más relevantes 
+están el presentar ambos pares de alas membranosas, con venación moderada, aparato bucal  del tipo masticador 
+o masticador lamedor, en general con antenas largas y ﬁliformes, con patas robustas y tarsos con cinco segmentos. 
+Dependiendo de la unión del tórax al abdomen se clasiﬁcan en subórdenes Symphyta o Apocrita. Los del subor-
+den Symphyta presentan el tórax ampliamente unido al abdomen, mientras que el suborden Apocrita presentan 
+un estrangulamiento o acinturamiento típico en esa región.
+2.2.1. Familia Siricidae
+Esta familia incluye insectos grandes, de 2,5 cm o más de longitud que parecen avispas a simple vista, por 
+lo cual se les llama avispas taladradoras de la madera, pero presentan el tórax ampliamente unido al abdomen. 
+Las hembras son de mayor tamaño que los machos y ambos sexos tienen gran diferencia de tamaño dentro 
+de una especie. Usualmente, los adultos son de color negro o azul oscuro metálico, o con combinacion
+Text Len: 1098
+--------------------------------------------------------------------------------
+iamente unido al abdomen. 
+Las hembras son de mayor tamaño que los machos y ambos sexos tienen gran diferencia de tamaño dentro 
+de una especie. Usualmente, los adultos son de color negro o azul oscuro metálico, o con combinaciones de negro, 
+rojo y amarillo, cuyo abdomen usualmente termina en un cuerno o espina doblado hacia arriba. 
+Las hembras poseen un  ovipositor largo que les permite poner sus huevos en la albura de los árboles que 
+atacan. Presentan relaciones simbióticas con hongos de pudrición de madera. La hembra adquiere el hongo en la 
+cámara pupal al  pasar al estado adulto. En la base del ovipositor presentan sacos intersegmentales invaginados, 
+llamados también micangias, que llevan las esporas del hongo, las cuales son depositadas en el túnel donde se ubi-
+can los huevos, desarrollándose para producir un micelio que penetra la madera circundante. Las enzimas produ-
+cidas por el hongo favorecen posteriormente la digestión de las partícu-
+las de madera en el tracto digestivo de las larvas.
+La larva es de forma cilíndrica, de color cremoso o amarillento, 
+levemente en forma de S, con una peque
+Text Len: 1123
+--------------------------------------------------------------------------------
+ por el hongo favorecen posteriormente la digestión de las partícu-
+las de madera en el tracto digestivo de las larvas.
+La larva es de forma cilíndrica, de color cremoso o amarillento, 
+levemente en forma de S, con una pequeña espina supra-anal en forma 
+de cuerno denominado postcornum. Posee 3 pares de patas toráxicas 
+vestigiales  y carece de patas abdominales. 
+Entre los géneros de mayor importancia asociados a daños en 
+madera están: Sirex, Tremex y Urocerus. Urocerus se asocia a madera de 
+coníferas debilitadas o moribundas o pueden oviponer en árboles caí -
+dos. En tanto que Tremex se encuentra asociado a latifoliadas. En Chile 
+ha sido detectada, en la Región Metropolitana,  la especie Tremex fuscicornis, asociada a árboles del género Salix 
+y Populus, encontrándose actualmente bajo Control Obligatorio. Al emerger los adultos de estos sirícidos, dejan 
+oriﬁcios muy circulares de diferente tamaño según sea macho o hembra.
+La larva mide aproximadamente 4 mm 
+de largo, de color blanco cremoso, curvada en 
+forma de letra C, sin pat
+Text Len: 1050
+--------------------------------------------------------------------------------
+os, dejan 
+oriﬁcios muy circulares de diferente tamaño según sea macho o hembra.
+La larva mide aproximadamente 4 mm 
+de largo, de color blanco cremoso, curvada en 
+forma de letra C, sin patas. El daño siempre 
+está asociado a maderas con alto contenido de 
+humedad y podrida por hongos. Los huevos 
+son insertados en la madera, al eclosar las lar-
+vas consumen la madera previamente afecta -
+da por hongos de pudrición, dejando galerías 
+con aserrín ﬁno y redondeado. Al emerger los 
+adultos dejan pequeños oriﬁcios circulares 
+de bordes irregulares de aproximadamente 
+1 mm de diámetro. En relación a la duración 
+del ciclo de vida, se estima que sucede más de una generación al año.
+      
+     
+          
+ 
+             
+
+
+44 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 45MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.3. ORDEN LEPIDOPTERA
+Este Orden corresponde al grupo de insectos llam
+Text Len: 917
+--------------------------------------------------------------------------------
+  
+
+
+44 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 45MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+2.3. ORDEN LEPIDOPTERA
+Este Orden corresponde al grupo de insectos llamados comúnmente polillas o mariposas, incluye varias fa-
+milias con individuos pequeños a grandes, cuyas alas presentan escamas y el cuerpo cubierto por escamas y pelos. 
+Presentan un aparato bucal reducido, donde las maxilas se han fusionado para formar  una espiritrompa. Los ojos 
+compuestos son bien desarrollados con o sin ocelos. Las antenas pueden ser ﬁliformes, pectinadas o capitadas. Las 
+alas anteriores y posteriores están unidas ya sea por un lóbulo (jugatae) o por una cerda denominada frenulum o 
+una unión amplexiforme (frenatae). La metamorfosis es del tipo holometábola, presentando larvas denominadas 
+orugas las cuales presentan patas toráxicas y espuripedios abdominales. 
+2.3.1. Familia Cossidae
+Esta familia presenta mariposas de tamaño mediano a grande, de hábitos nocturnos, con  ciclos de uno o 
+más años. Los adultos presentan las  alas anteriores con
+Text Len: 1073
+--------------------------------------------------------------------------------
+puripedios abdominales. 
+2.3.1. Familia Cossidae
+Esta familia presenta mariposas de tamaño mediano a grande, de hábitos nocturnos, con  ciclos de uno o 
+más años. Los adultos presentan las  alas anteriores con ﬁnas manchas y las posteriores menos coloreadas, con an-
+tenas bipectinadas o ﬁliformes. 
+Las larvas pueden medir hasta 40 mm de longitud y son de aspecto robusto, con la cabeza estrechamente 
+unida al protórax. 
+Chilecomadia valdiviana (Philippi)
+(Gusano del tebo)
+Insecto nativo asociado a Eucalyptus nitens, 
+Nothofagus pumilio, Nothofagus antarctica, Nothofagus 
+dombeyi y varias especies frutales. Presente en Chile 
+desde la Quinta a la Duodécima Región. El insecto 
+adulto corresponde a mariposas de alas grises a gris 
+castaño con las alas anteriores con pequeñas manchas 
+oscuras cerca del borde y de la base, las alas posterio -
+res son gris oscuro con pequeñas manchas blancas en 
+el área anal, la envergadura alar es de 5 a 6 cm en las 
+hembras y de 4 a 5 cm  en los machos. 
+La larva, en su último estadío, m
+Text Len: 1031
+--------------------------------------------------------------------------------
+ -
+res son gris oscuro con pequeñas manchas blancas en 
+el área anal, la envergadura alar es de 5 a 6 cm en las 
+hembras y de 4 a 5 cm  en los machos. 
+La larva, en su último estadío, mide entre  3 y 5 cm de largo, con la cabeza castaño rojiza y el resto del cuer-
+po cremoso a rosado, con escasa pilosidad.
+ 
+Urocerus gigas Linnaeus
+Es un insecto originario de Europa y Asia, asociado a ár-
+boles moribundos o en proceso de secamiento de coníferas tales 
+como Pseudotsuga menziesii, Pinus radiata, Pinus contorta, Abies 
+spp., Larix spp. y Picea spp. Distribuido en Chile desde la Cuarta 
+a la Undécima Región. Los adultos semejan avispas de aspecto 
+robusto y tamaños variables, siendo las hembras de alrededor de 
+4 cm y los machos de 3 
+cm de longitud. T anto hembras y machos presentan  coloración negruz-
+ca con franjas amarillas y los ojos negros con la porción posterior de co-
+lor amarillento y  antenas de color amarillo. 
+Los huevos son de aproximadamente 1 mm , son depositados va-
+rios de ellos en la albura, unos so
+Text Len: 1029
+--------------------------------------------------------------------------------
+-
+ca con franjas amarillas y los ojos negros con la porción posterior de co-
+lor amarillento y  antenas de color amarillo. 
+Los huevos son de aproximadamente 1 mm , son depositados va-
+rios de ellos en la albura, unos sobre otros separados por una capa de 
+micelio del hongo Amylostereum chailletti, del cual se alimentan las lar -
+vas. Estas son de color blanco cremoso con tres pares de patas toráxicas 
+rudimentarias y una espina dorsal al ﬁnal del abdomen, de aspecto qui-
+tinoso con pocas cerdas en la zona anterior al postcornum (espina dor -
+sal). En sus primeros estadíos, las larvas realizan galerías circulares en 
+sentido transversal, luego avanzan en forma longitudinal al sentido de 
+la ﬁbra, estas galerías van siendo taponeadas con aserrín. Al emerger los 
+adultos dejan oriﬁcios circulares.
+En la zona sur el ciclo de vida es de un año, encon -
+trándose larvas durante todo el año, pupas entre octubre y 
+marzo y adultos desde octubre hasta abril.           
+
+
+46 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 47MINISTERIO DE AGRICULTURA /
+Text Len: 1066
+--------------------------------------------------------------------------------
+ante todo el año, pupas entre octubre y 
+marzo y adultos desde octubre hasta abril.           
+
+
+46 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 47MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+Las larvas mantienen limpias sus galerías du -
+rante todo el período de alimentación, sellándolas exte-
+riormente con un tapón de ﬁbras de madera unidas por 
+seda sólo en forma previa a la construcción de la cámara 
+pupal  e inicio de este estado. La manifestación externa 
+del ataque solamente es visible desde cerca y el ataque y 
+daño no se traduce en la muerte del árbol, debido a que 
+ataca principalmente el xilema. 
+La duración del ciclo de vida es variable existien-
+do registros de un año para la zona Central y estimacio-
+nes de dos años para la zona Sur.
+La oviposición la realizan en el fuste, en la zona de inserción de 
+ramas o en grietas de la corteza en grupos de 30 a 50 huevos. Como 
+consecuencia de la alimentación de las larvas en la zona cambial, se 
+produce la exudación de savia, las larvas se mantienen en
+Text Len: 1045
+--------------------------------------------------------------------------------
+ona de inserción de 
+ramas o en grietas de la corteza en grupos de 30 a 50 huevos. Como 
+consecuencia de la alimentación de las larvas en la zona cambial, se 
+produce la exudación de savia, las larvas se mantienen en un comienzo 
+reunidas y a ﬁnes de verano y comienzos de otoño abandonan la zona 
+cambial de alimentación y comienzan la construcción de galerías indi-
+viduales de alimentación hacia el xilema. Estas galerías son  circulares, 
+amplias y de escasa longitud.
+
+
+48 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 49MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+desde arriba y se presentan en la familia Termitidae. La casta de soldados es la más distintiva y la más fácil de 
+distinguir para su identiﬁcación.
+ Los reproductores son la forma  sexual de la colonia, los futuros reyes y reinas. Tienen ojos compuestos y 
+más oscuros que las obreras y soldados y a menudo más grandes. Presentan una cutícula más gruesa que las otras 
+castas, lo que les permite soportar mejor la desecación y realizar los vuelos de dispersión.
+ Los v
+Text Len: 1063
+--------------------------------------------------------------------------------
+ 
+más oscuros que las obreras y soldados y a menudo más grandes. Presentan una cutícula más gruesa que las otras 
+castas, lo que les permite soportar mejor la desecación y realizar los vuelos de dispersión.
+ Los vuelos de colonización, cuando los reproductores abandonan la colonia ocurren usualmente cuando 
+las condiciones externas se asemejan a las de la colonia. 
+ Con condiciones de temperaturas extremas en que los reproductores alados no sobrevivirían, pueden de -
+sarrollar individuos neoténicos, que alcanzan la madurez sexual sin llegar al estado alado.
+ La reina y el rey son los reproductores alados originales que abandonan la colonia parental  durante la 
+colonización  o vuelo de dispersión. Su función en la colonia es la reproducción, aunque cuando se establece un 
+simple par, ellos deben también alimentar y cuidar a los jóvenes hasta que haya suﬁcientes obreras y soldados para 
+cumplir las labores de la colonia. 
+ Algunas especies necesitan alrededor de tres a cinco años para alcanzar un estado potencial de daño, 
+pero esto depende del lugar, alimento y condiciones climáticas en el ambiente elegido. La reina, una vez liber
+Text Len: 1148
+--------------------------------------------------------------------------------
+ia. 
+ Algunas especies necesitan alrededor de tres a cinco años para alcanzar un estado potencial de daño, 
+pero esto depende del lugar, alimento y condiciones climáticas en el ambiente elegido. La reina, una vez liberada 
+de sus obligaciones de cuidado y alimentación de jóvenes, en algunas especies, alcanza un gran tamaño, debido al 
+agrandamiento de sus ovarios. Este agrandamiento de su abdomen se conoce como ﬁsogastria y ocurre en muchas 
+especies de la familia Rhinotermitidae y T ermitidae. La reina ﬁsogástrica en algunas especies puede medir tres o 
+más centímetros. T anto la reina como el rey pueden vivir por varios  años.
+ La reina de casi todas las especies pone sus huevos de a uno y estos son atendidos por las obreras. 
+ Los jóvenes pueden desarrollarse en obreras, soldados o reproductores alados, en este caso las alas se for-
+man a través de varias mudas.
+ Los soldados y obreras viven por uno o dos años mientras que el rey, la reina y neoténicos viven mucho 
+más tiempo. A partir de la eclosión hasta el obrero maduro o soldado usualment
+Text Len: 1061
+--------------------------------------------------------------------------------
+
+man a través de varias mudas.
+ Los soldados y obreras viven por uno o dos años mientras que el rey, la reina y neoténicos viven mucho 
+más tiempo. A partir de la eclosión hasta el obrero maduro o soldado usualmente toma entre dos a tres meses. 
+ Su presencia, a menudo se denota cuando se observa aserrín de consistencia compacta, el cual es visible 
+sólo cuando el daño está muy avanzado y la madera cede ante la presión.
+2.4. ORDEN ISOPTERA
+ Los insectos pertenecientes al Orden Isoptera, llamados comúnmente termitas, al igual que algunos 
+miembros del Orden Hymenoptera, tales como las hormigas y las abejas tienen una organización social que pue-
+de ser más o menos compleja, dependiendo de la familia. A menudo son llamadas hormigas blancas debido a que 
+la mayoría de ellas son blancas, pequeñas y viven en  grandes colonias como lo hacen las hormigas. Las castas so-
+ciales están divididas en obreras, soldados y alados reproductivos. Los machos y hembras trabajan ambos para 
+atender a la reina, alimentar a los jóvenes y proteger la colonia de hormigas y otros invasores. 
+ El tamaño de la colonia varia des
+Text Len: 1118
+--------------------------------------------------------------------------------
+án divididas en obreras, soldados y alados reproductivos. Los machos y hembras trabajan ambos para 
+atender a la reina, alimentar a los jóvenes y proteger la colonia de hormigas y otros invasores. 
+ El tamaño de la colonia varia desde alrededor de 10 individuos para algunas especies de Kalotermitidae 
+a cientos de miles para ciertas especies de la familia T ermitidae, Rhinotermitidae y Mastotermitidae.
+ Los reproductivos poseen alas de igual tamaño, lo que les da el nombre (isos en griego signiﬁca la misma 
+y ptero signiﬁca ala).
+ Las obreras son ápteras, no maduras sexualmente y ciegas (excepto la familia Hodotermitidae). Así 
+como otros insectos sociales tienen importantes funciones en el nido, tales como la colecta de alimento, la cons -
+trucción y mantención del termitero, la alimentación de los jóvenes y de otros que no se alimentan de madera 
+como los soldados y  la pareja real. Los nidos de las termitas más simples (aquellos hechos por Kalotermitidae y 
+Termopsidae) no tienen obreras verdaderas  y este rol es realizado por varios estadíos ninfales algunas veces lla-
+mados “pseudoderg
+Text Len: 1107
+--------------------------------------------------------------------------------
+. Los nidos de las termitas más simples (aquellos hechos por Kalotermitidae y 
+Termopsidae) no tienen obreras verdaderas  y este rol es realizado por varios estadíos ninfales algunas veces lla-
+mados “pseudodergates”.
+ En las familias más primitivas, es decir, en  Kalotermitidae, Mastotermitidae y T ermopsidae las larvas se 
+desarrollan en obreras o ninfas. Las obreras pueden luego desarrollarse en soldados o completar el estado ninfal 
+y llegar a ser alados. Mientras que en las más recientes familias como Rhinotermitidae y T ermitidae permanecen 
+como obreras durante todo su estado de desarrollo.
+ El rol de los soldados es la defensa, ellos poseen una cabeza más grande  que la de las obreras, a menudo 
+presenta la cabeza coloreada amarillo o café con mandíbulas muy desarrolladas de varias formas y tamaños. Los 
+soldados que presentan garras grandes o mandíbulas reducidas no pueden alimentarse por si mismos y dependen 
+para ello de las obreras. Algunas especies presentan diferentes tamaños de soldados y otras no tienen esta casta. 
+En algunas especies la cabeza está transformada en una larga
+Text Len: 1108
+--------------------------------------------------------------------------------
+ no pueden alimentarse por si mismos y dependen 
+para ello de las obreras. Algunas especies presentan diferentes tamaños de soldados y otras no tienen esta casta. 
+En algunas especies la cabeza está transformada en una larga nariz desde cuya punta pueden liberar una secreción 
+glandular tóxica.  Los soldados pueden pertenecer a un sexo o a ambos dependiendo de la especie. Son suscepti-
+bles a la desecación y rara vez abandonan la colonia  y sus túneles de refugio.
+ Hay dos tipos ﬁsiológicamente diferentes de soldados  en el Orden Isoptera, los mandibulados y los na -
+rigudos. Los mandibulados poseen mandíbulas bien desarrolladas al frente de la cabeza y se presentan en las 
+familias Rhinotermitidae, Kalotermitidae, Termopsidae, Mastotermitidae y algunos Termitidae. Mientras que 
+los soldados narigudos poseen una gran  cabeza prolongada desde la frente con las mandíbulas escondidas vistas 
+
+50 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 51MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ducen en grietas u oriﬁcios de maderas húmedas para comenzar 
+la formaci
+Text Len: 1094
+--------------------------------------------------------------------------------
+
+50 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 51MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ducen en grietas u oriﬁcios de maderas húmedas para comenzar 
+la formación de la colonia. El daño consiste en galerías laminares 
+en todo tipo de madera sin tratamiento con alta humedad. En la 
+Décima Región la captura de adultos en vuelo se concentra entre 
+los meses de diciembre y abril. 
+2.4.1.3.  T ermitas de madera seca
+ Este tipo de termitas, para su desarrollo, no requieren más que la humedad proporcionada por la atmós -
+fera y el contenido de humedad de la madera en la cual ellas se presentan. Usualmente el contenido de humedad 
+de maderas en servicio seca es de alrededor de 12 a 18%, dependiendo de la ubicación y condiciones climáticas. 
+T anto estas termitas como las de madera húmeda no forman una colonia central, sino que viven en pequeños 
+grupos independientes. Ellas producen también pellets fecales secos que son expulsados de la madera infesta-
+da. En Chile, este tipo de termitas, se encuentra representado por
+Text Len: 1057
+--------------------------------------------------------------------------------
+ húmeda no forman una colonia central, sino que viven en pequeños 
+grupos independientes. Ellas producen también pellets fecales secos que son expulsados de la madera infesta-
+da. En Chile, este tipo de termitas, se encuentra representado por  la familia Kalotermitidae, a la cual pertenecen  
+Cryptotermes brevis W alker, denominada termita tropical de las casas, presente entre la Primera y T ercera Región, 
+principalmente en la zona costera y Neotermes chilensis (Blanchard), conocida como termita chilena de la madera, 
+presente entre la Cuarta y la Octava Región. 
+Neotermes chilensis (Blanchard)
+(T ermita chilena de la madera)
+ Insecto nativo, asociado a madera de latifoliadas nativas y exóticas  en proceso de secamiento y madera 
+en servicio. Distribuida entre la Cuarta y Octava Región. Los adultos alados miden aproximadamente 20 mm de 
+largo, de color blanco amarillento. Las obreras de color blanco cremoso poseen el pronoto en forma de medialuna 
+con una escotadura en la zona media anterior.  
+2.4.1. CLASIFICACION 
+ Según el lugar de ocurrencia y la aparición de su daño, las termitas pueden ser cl
+Text Len: 1116
+--------------------------------------------------------------------------------
+ color blanco cremoso poseen el pronoto en forma de medialuna 
+con una escotadura en la zona media anterior.  
+2.4.1. CLASIFICACION 
+ Según el lugar de ocurrencia y la aparición de su daño, las termitas pueden ser clasiﬁcadas en tres cate -
+gorías:
+2.4.1.1. T ermitas subterráneas
+ Incluye termitas que hacen túneles en el suelo, usualmente en los primeros 10 cm de él, para alcanzar 
+alguna fuente alimenticia,  la cual  a menudo se encuentra a alguna distancia de la colonia. Ellas obtienen la hu-
+medad desde el suelo y manipulan esta humedad para originar y bajar la temperatura de la colonia y sus pasajes 
+en el rango de 26-35 ºC. Cuando la temperatura externa es demasiado alta evaporan la humedad reduciendo la 
+temperatura. Las termitas subterráneas pueden operar a partir de una colonia central  que puede contener so -
+bre un millón de individuos. Cuando se encuentran con obstáculos son capaces de construir tubos de refugio que 
+les permiten superar las barreras y denotar su presencia, dentro de este tipo de termitas se encuentra la familia 
+Rhinotermitidae representada en Chile por
+Text Len: 1098
+--------------------------------------------------------------------------------
+ individuos. Cuando se encuentran con obstáculos son capaces de construir tubos de refugio que 
+les permiten superar las barreras y denotar su presencia, dentro de este tipo de termitas se encuentra la familia 
+Rhinotermitidae representada en Chile por la especie introducida Reticulitermes hesperus Banks, presente actual-
+mente en la V Región y Región Metropolitana.
+2.4.1.2.  T ermitas de madera húmeda
+ Atacan árboles deteriorados y caídos  o restos de madera dejados enterrados en el terreno, rara vez se en -
+cuentran en madera seca y condiciones de buena ventilación. Ellas dependen de la humedad de los troncos o de 
+la construcción para su sobrevivencia. Se les puede encontrar en maderas 
+a la cuales llega humedad por efecto de acumulación de agua. Entre estas 
+se encuentran especies de los géneros Kalotermes y Porotermes. 
+Porotermes quadricollis (Rambur)
+(T ermita de la madera húmeda)
+ Insecto nativo presente desde la Quinta a la Duodécima Región. 
+Asociado a maderas en servicio blandas y duras con alto contenido de 
+humedad, troncos y árboles caídos o muertos
+Text Len: 1079
+--------------------------------------------------------------------------------
+mita de la madera húmeda)
+ Insecto nativo presente desde la Quinta a la Duodécima Región. 
+Asociado a maderas en servicio blandas y duras con alto contenido de 
+humedad, troncos y árboles caídos o muertos en pie. La colonia la confor-
+man las castas aladas, obreras, machos neoténicos y soldados. El adulto 
+alado mide hasta 9 mm y cada ala hasta 20 mm de largo. Las obreras pre-
+sentan la cabeza pequeña, sin ocelos y con ojos bien desarrollados, ubica-
+dos detrás de la fosa antenal, con el pronoto en forma de media luna. Los 
+soldados presentan la cabeza más grande y quitinizada, de coloración café 
+amarillento con  las mandíbulas bien desarrolladas. 
+ Vuelan cuando las condiciones del medio exterior son cálidas y hú -
+medas. Los alados, luego de formar parejas, pierden sus alas y se intro -
+
+
+52 MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO 53MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ANEXOS
+Los soldados poseen una coloración café amarillenta con la cabeza grande, muy quitinizada y más oscura con las 
+mandíbulas fuertemente desarrolladas
+Text Len: 1077
+--------------------------------------------------------------------------------
+ 53MINISTERIO DE AGRICULTURA / SERVICIO AGRÍCOLA Y GANADERO
+ANEXOS
+Los soldados poseen una coloración café amarillenta con la cabeza grande, muy quitinizada y más oscura con las 
+mandíbulas fuertemente desarrolladas. Efectúan galerías laminares en la madera. Para la zona centro sur el vuelo 
+se concentra en los meses de diciembre a febrero.
+Text Len: 342
+--------------------------------------------------------------------------------

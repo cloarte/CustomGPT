@@ -1,0 +1,1574 @@
+UNCONTROLLED COPY 
+SAM 309.06 
+Page 1 of 13 
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 309 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in 
+Vero Cell Culture 
+ 
+Date:                                       August 23, 2023  
+ 
+Number: SAM 309.06 
+ 
+Supersedes: SAM 309.05, October 30, 2014 
+ 
+Standard Requirement:  9 CFR, part 113.316 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 2 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2  
+Text Len: 1161
+--------------------------------------------------------------------------------
+ 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of T est Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 3 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying 
+modified-live canine parainfluenza (CPI) virus vaccines for viral content. Presence or absence of 
+CPI virus is determined by hemadsorption (HAd) of guinea pig red blood cells (GPRBC). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand
+Text Len: 1222
+--------------------------------------------------------------------------------
+I) virus vaccines for viral content. Presence or absence of 
+CPI virus is determined by hemadsorption (HAd) of guinea pig red blood cells (GPRBC). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO 2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.2   Water bath 
+ 
+2.1.3   Centrifuge and rotor (Beckman Coulter) 
+ 
+2.1.4   Microscope, inverted light (Model CK, Olympus America Inc.)  
+ 
+2.1.5   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.6   Syringe, self- refilling repetitive, 2-mL 
+ 
+2.1.7   Pipettor with tips and/or motorized microliter pipette and tips 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CPI Positive Control Virus, D008 strain  
+ 
+2.2.2   Monospecific antisera, free of CPI antibody, which neutralize the non- CPI 
+virus fractions present in multifraction vaccines (e.g., canine distemper
+Text Len: 1141
+--------------------------------------------------------------------------------
+ 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CPI Positive Control Virus, D008 strain  
+ 
+2.2.2   Monospecific antisera, free of CPI antibody, which neutralize the non- CPI 
+virus fractions present in multifraction vaccines (e.g., canine distemper virus 
+(CDV) and canine adenovirus (CAV)) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 4 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+2.2.3   African green monkey kidney (Vero) cell line, free of extraneous agents as 
+tested by title 9,  Code of Federal Regulations (9 CFR)  
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve reagents in Steps 1 and 2 with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, and heat 
+to 60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl). 
+ 
+
+Text Len: 1110
+--------------------------------------------------------------------------------
+ edamine to 10 mL DI, and heat 
+to 60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5   Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  50 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM)  
+ 
+3.  Store at 2°- 7°C. 
+ 
+2.2.6   Alsevers Solution 
+ 
+1.  8.0 g sodium citrate (C6H5Na3O7•2H2O) 
+ 
+2.  0.55 g citric acid (C6H8O7•H2O) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 5 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.  4.2 g sodium chloride (NaCl)  
+ 
+4.  20.5
+Text Len: 871
+--------------------------------------------------------------------------------
+06 
+Testing Protocol         Page 5 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.  4.2 g sodium chloride (NaCl)  
+ 
+4.  20.5 g glucose (C6H12O6) 
+ 
+5.  Q.S. to 1000 mL with DI and dissolve. 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+2.2.7   Dulbecco’s phosphate buffered saline free of calcium (Ca++) and 
+magnesium (Mg++) ions. 
+ 
+1.  8.0 g NaCl 
+ 
+2.  0.2 g potassium chloride (KCl) 
+ 
+3.  0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+   
+4.  Dissolve reagents in Steps 1 through 3 with 900 mL DI. 
+ 
+5.  Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to 10 
+mL DI, and heat to 60°± 2°C until dissolved. Add to Step 4 with constant 
+mixing. 
+ 
+6.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+7.  Sterilize through a 0.22-µm filter. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+Text Len: 910
+--------------------------------------------------------------------------------
+ with constant 
+mixing. 
+ 
+6.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+7.  Sterilize through a 0.22-µm filter. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.8   Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.  8.0 g NaCl 
+ 
+2.  0.2 g KCl 
+ 
+3.  0.2 g KH2PO4 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.  Dissolve reagents in Steps 1 through 4 with 900 mL DI. 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 6 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Add 1.03 g Na2HPO4 to 10 mL DI, and heat to 60°± 2°C until 
+dissolved. Add to Step 5 with constant mixing. 
+ 
+7.  Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI, 
+and add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.  Sterilize through a 0.
+Text Len: 925
+--------------------------------------------------------------------------------
+olve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI, 
+and add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.  Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.9   G uinea pig blood in an equal volume of Alsevers Solution 
+ 
+2.2.10  Cell culture plates, 24-well 
+ 
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 10-mL and 25-mL  
+ 
+2.2.13  Conical tubes, 50-mL 
+ 
+2.2.14  Syringe, 1-mL tuberculin, and needle, 18-gauge x 1 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training  
+ 
+Personnel shall have experience in the preparation and maintenance of cell culture as well 
+as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by HAd. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Test Plates) 
+ 
+Cells are prepared from
+Text Len: 1075
+--------------------------------------------------------------------------------
+ of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Test Plates) 
+ 
+Cells are prepared from healthy, confluent Vero cells that are maintained by 
+passing every 3 to 4 days. One day prior to test initiation, add 1.0 mL/well of 104.7 
+to 105.2 cells/mL cells suspended in Growth Medium into all wells of a 24-well 
+cell culture plate. Prepare 1 Vero plate for the controls and 1 for each Test 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 7 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Vaccine. These become the Test Plates. Incubate at 36°± 2°C in a CO2 incubator 
+for one day. 
+ 
+3.3.2   Preparation of CPI Positive Control Virus 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of CPI Positive 
+Control Virus in a water bath.  
+ 
+2.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 9 tubes, labeled 10-1 through 10-9, 
+respectively). 
+ 
+3.   With a 200-�
+Text Len: 1244
+--------------------------------------------------------------------------------
+ 
+2.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 9 tubes, labeled 10-1 through 10-9, 
+respectively). 
+ 
+3.   With a 200-µL pipettor, transfer 200 µL of the CPI Positive Control 
+Virus to the first tube labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1 labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube until the tenfold 
+dilution series is completed.  
+ 
+3.3.3   Prepare a dilution of each neutralizing non- CPI antiserum in DPBS 
+according to the supplied CVB Reagent Data Sheet or as determined for that 
+specific antiserum.  
+ 
+3.3.4   Preparation of washed guinea pig red blood cells (GPRBC) 
+ 
+1.  Transfer 20 mL of the guinea pig blood into a 50-mL conical tube. 
+   
+2.  Q.S. to 50 mL with Alsevers Solution, and mix by inverting several 
+times. 
+   
+3.  Centrifuge for 15 ± 5 minutes at 400 x g (1500 rpm in a Beckman J6B 
+centrifuge with JS-4.0 rotor) at 4°± 2°C. 
+  
+Text Len: 1185
+--------------------------------------------------------------------------------
+.S. to 50 mL with Alsevers Solution, and mix by inverting several 
+times. 
+   
+3.  Centrifuge for 15 ± 5 minutes at 400 x g (1500 rpm in a Beckman J6B 
+centrifuge with JS-4.0 rotor) at 4°± 2°C. 
+   
+4.  Remove supernatant and buffy coat by pipetting. 
+ 
+5.  Repeat steps in Steps 2 through 4 for a total of 3 washes. 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 8 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Add an equal volume of Alsevers Solution to the washed GPRBC. 
+Store at 2°- 7°C; use within 1 week of collection. 
+   
+3.3.5   0.5% GPRBC Suspension for the HAd assay 
+ 
+1.  On the day of conducting the HAd test,  pipette 500 µL of washed, 
+packed GPRBC into 100 mL of Ca++, Mg++-Free DPBS, rinsing the pipette 
+thoroughly to remove the GPRBC. 
+ 
+2.  Mix by inverting, store at 2°- 7°C, and use within 1 week of collection. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample
+Text Len: 1084
+--------------------------------------------------------------------------------
+ GPRBC. 
+ 
+2.  Mix by inverting, store at 2°- 7°C, and use within 1 week of collection. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and 
+an 18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine with the 
+provided diluent by transferring 1.0 mL for 1-mL-dose vaccines, 0.5 mL for  
+0.5-mL-dose vaccines, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+3.4.2   For multifraction CPI vaccines, neutralize the non-CPI viral fractions with 
+antiserum specific to each non-CPI virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in confluent Vero 
+cells.  
+ 
+1.  Prepare dilutions of each neutralizing non-CPI antiserum according to 
+the CVB Reagent Data Sheet or manufacturer’s instructions.  
+ 
+2.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1, and q.s. with MEM to 1.8 mL. 
+For example, to neutralize 2 non-CPI viral fractions in a 3-fraction 
+
+Text Len: 1227
+--------------------------------------------------------------------------------
+s instructions.  
+ 
+2.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1, and q.s. with MEM to 1.8 mL. 
+For example, to neutralize 2 non-CPI viral fractions in a 3-fraction 
+CDV/CPI/CAV vaccine, dispense 200 µL of each of the diluted CDV and 
+CAV antiserums into the tube labeled 10-1; add 1.4 mL of MEM to obtain 
+a final volume of 1.8 mL. 
+   
+3.  Pipette 200 µL of the reconstituted Test Vaccine to the 10-1 labeled 
+tube containing the neutralizing antisera; mix by vortexing.  
+ 
+4.  Incubate at room temperature for 60 ± 10 minutes. 
+ 
+3.4.3   For Test Vaccines containing only the CPI viral fraction, prepare the 10-1 
+dilution by mixing 200 µL of the reconstituted Test Vaccine with 1.8 mL of MEM 
+in a labeled 12 x 75-mm polystyrene tube.   
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 9 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into each of 5, 12 x 75-mm polystyrene tubes 
+labeled 10-2 through 10-6 (or
+Text Len: 1154
+--------------------------------------------------------------------------------
+ of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into each of 5, 12 x 75-mm polystyrene tubes 
+labeled 10-2 through 10-6 (or more if the expected CPI endpoint of the Test 
+Vaccine is higher than 10-6).  
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the next dilution tube; mix by vortexing. 
+ 
+3.  Repeat Step 2 to the remaining tubes, transferring 200 µL from the 
+previous dilution to the next dilution tube until the tenfold dilution series 
+is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test inoculation, label the Test Plates and inoculate each of 5 
+wells/dilution with 200 µL of dilutions 10-6 through 10-3 of each Test Vaccine. In a 
+similar manner, identify and inoculate 5 wells/dilution of the CPI Positive Control Virus 
+(with dilutions 10-9 through 10-6 for the example in Section 3.3.2). Change tips between 
+each unique sample (i.e., each Test Vaccine and the CPI Positive Control Virus); tip 
+changes are not necessary between dilutions in a series if pipetting from the most dilute 
+to the most concentrated within that series (e.g., 10-9 through 10-6). 
+ 
+4.2   Five uninoculated wells serve as Negative Cell Controls. 
+ 
+4.3   Incub
+Text Len: 1293
+--------------------------------------------------------------------------------
+ the CPI Positive Control Virus); tip 
+changes are not necessary between dilutions in a series if pipetting from the most dilute 
+to the most concentrated within that series (e.g., 10-9 through 10-6). 
+ 
+4.2   Five uninoculated wells serve as Negative Cell Controls. 
+ 
+4.3   Incubate the Test Plates in a 36°± 2°C CO 2 incubator for 8 days ± 1 day. 
+ 
+4.4   After incubation, perform the HAd assay on the cell monolayers with a 0.5% 
+GPRBC suspension. 
+ 
+4.4.1   Decant the media from the plates into an autoclavable container. 
+ 
+4.4.2   Submerge each Test Plate in a reservoir of Ca++, Mg++-Free DPBS and 
+decant. 
+ 
+4.4.3   Mix the 0.5% GPRBC suspension by gentle inversion, and add  
+1.0 mL/well. 
+ 
+4.4.4   Incubate at 2°- 7°C for 25 ± 5 minutes. 
+ 
+4.4.5   Wash Test Plates by repeating Section 4.4.2 twice.  
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 10 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.4.6   Read the wet Test Plate at 100X magnification on an inverted light 
+microscope, and examine CPI-
+Text Len: 1129
+--------------------------------------------------------------------------------
+         Page 10 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.4.6   Read the wet Test Plate at 100X magnification on an inverted light 
+microscope, and examine CPI-infected vero cells for HAd. 
+ 
+1.  Wells displaying GPRBC adsorbed onto the cell monolayer are 
+considered to be positive for CPI.  
+ 
+2.  Record the results as the number of HAd- positive wells versus total 
+number of wells examined for each dilution of the Test Vaccine and the 
+CPI Positive Control Virus. 
+ 
+4.5   Calculate the CPI Virus endpoints of the Test Vaccine and the CPI Positive 
+Control Virus using the Spearman-Kärber method as modified by Finney. The titers are 
+expressed as log10 50% HAd infective doses (HAdID50). 
+ 
+Example: 
+ 
+10-3 dilution of Test Vaccine = 5/5 wells HAd positive 
+10-4 dilution of Test Vaccine = 4/5 wells HAd positive 
+10-5 dilution of Test Vaccine = 1/5 wells HAd positive 
+10-6 dilution of Test Vaccine = 0/5 wells HAd positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells HAd positive (3)  
+d = log10 of tenfold dilution factor (1) 
+S =
+Text Len: 1207
+--------------------------------------------------------------------------------
+ positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells HAd positive (3)  
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells HAd positive for all dilutions tested: 
+ 
+5     4    1     0    10  
+5 +  5  + 5  + 5 =  5 = 2.0 
+ 
+CPI Test Vaccine titer = (3 -  1/2) + (1 • 2.0) = 4.5 
+ 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A.  divide the Test Vaccine Dose by the Inoculation Dose where: 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for 
+this CPI vaccine, the recommended dose is 1 mL) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 11 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Inoculation Dose = amount of diluted Test vaccine added to each well of 
+the Test Plate (for this test CPI vaccine, the inoculation dose is 0.2 mL) 
+ 
+                      ___1 mL dose       
+       
+Text Len: 1050
+--------------------------------------------------------------------------------
+ulation Dose = amount of diluted Test vaccine added to each well of 
+the Test Plate (for this test CPI vaccine, the inoculation dose is 0.2 mL) 
+ 
+                      ___1 mL dose       
+                       0.2 mL inoculum = 5 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+                       Log of 5 = 0.7 
+ 
+CPI Test Vaccine titer = 4.5 + 0.7 = 5.2 
+                         
+Therefore, the titer of the CPI Test Vaccine is 105.2 HAdID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the CPI Positive Control Virus must fall within plus 
+or minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The lowest inoculated dilution of the CPI Positive Control Virus must 
+exhibit a 100% positive HAd reaction (5/5). If an endpoint is not reached (1 or 
+more wells are HAd positive wells at the highest dilution), the titer is expressed as 
+“greater than
+Text Len: 1060
+--------------------------------------------------------------------------------
+ titers. 
+ 
+5.1.2   The lowest inoculated dilution of the CPI Positive Control Virus must 
+exhibit a 100% positive HAd reaction (5/5). If an endpoint is not reached (1 or 
+more wells are HAd positive wells at the highest dilution), the titer is expressed as 
+“greater than or equal to” the calculated titer. If an endpoint is critical to testing, 
+the highest (most dilute) must exhibit no positive HAd reaction (0/5). 
+ 
+5.1.3   The Negative Cell Controls shall not exhibit degradation, HAd, or cloudy 
+media indicative of contamination. 
+ 
+5.2   If the validity requirements are not met, the assay is considered a NO TEST and 
+can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the Animal and Plant Health Inspection Service (APHIS) filed Outline of 
+Production for the product under test, the Test Vaccine is considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is less than the titer contained in the 
+APHIS filed Outline of Production for the product under test, the Test Vaccine may be 
+retested in accordance with 9 CFR 113.8. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 12 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6. 
+Text Len: 1370
+--------------------------------------------------------------------------------
+.8. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 12 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Report of T est Results 
+ 
+Results are reported as HAdID50 per dose of Test Vaccine.  
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.316, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE, (Ed.), 1978. Manual of standardized methods for veterinary 
+microbiology. Comstock Publishing Associates, Ithaca, pg. 731. 
+ 
+7.3   Finney, DJ, 1978. Statistical method in biological assay . Griffin, London. 3rd 
+edition, pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06 
+ 
+• The coversheet and contact information have been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and
+Text Len: 1253
+--------------------------------------------------------------------------------
+
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 13 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of the positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document.  
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet
+Text Len: 1304
+--------------------------------------------------------------------------------
+° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document.  
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+Text Len: 388
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 309.06 
+Page 1 of 13 
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 309 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in 
+Vero Cell Culture 
+ 
+Date:                                       August 23, 2023  
+ 
+Number: SAM 309.06 
+ 
+Supersedes: SAM 309.05, October 30, 2014 
+ 
+Standard Requirement:  9 CFR, part 113.316 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by USDA 
+and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 2 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2  
+Text Len: 1161
+--------------------------------------------------------------------------------
+ 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3   Preparation of reagents/control procedures 
+3.4   Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of T est Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 3 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying 
+modified-live canine parainfluenza (CPI) virus vaccines for viral content. Presence or absence of 
+CPI virus is determined by hemadsorption (HAd) of guinea pig red blood cells (GPRBC). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand
+Text Len: 1222
+--------------------------------------------------------------------------------
+I) virus vaccines for viral content. Presence or absence of 
+CPI virus is determined by hemadsorption (HAd) of guinea pig red blood cells (GPRBC). 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO 2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.2   Water bath 
+ 
+2.1.3   Centrifuge and rotor (Beckman Coulter) 
+ 
+2.1.4   Microscope, inverted light (Model CK, Olympus America Inc.)  
+ 
+2.1.5   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.6   Syringe, self- refilling repetitive, 2-mL 
+ 
+2.1.7   Pipettor with tips and/or motorized microliter pipette and tips 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CPI Positive Control Virus, D008 strain  
+ 
+2.2.2   Monospecific antisera, free of CPI antibody, which neutralize the non- CPI 
+virus fractions present in multifraction vaccines (e.g., canine distemper
+Text Len: 1141
+--------------------------------------------------------------------------------
+ 
+reagents and supplies must be sterile. 
+ 
+2.2.1   CPI Positive Control Virus, D008 strain  
+ 
+2.2.2   Monospecific antisera, free of CPI antibody, which neutralize the non- CPI 
+virus fractions present in multifraction vaccines (e.g., canine distemper virus 
+(CDV) and canine adenovirus (CAV)) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 4 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+2.2.3   African green monkey kidney (Vero) cell line, free of extraneous agents as 
+tested by title 9,  Code of Federal Regulations (9 CFR)  
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve reagents in Steps 1 and 2 with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, and heat 
+to 60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl). 
+ 
+
+Text Len: 1110
+--------------------------------------------------------------------------------
+ edamine to 10 mL DI, and heat 
+to 60°± 2°C until dissolved. Add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl). 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5   Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  50 mL gamma-irradiated fetal bovine serum (FBS) 
+ 
+b.  10 mL L-glutamine (200 mM)  
+ 
+3.  Store at 2°- 7°C. 
+ 
+2.2.6   Alsevers Solution 
+ 
+1.  8.0 g sodium citrate (C6H5Na3O7•2H2O) 
+ 
+2.  0.55 g citric acid (C6H8O7•H2O) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 5 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.  4.2 g sodium chloride (NaCl)  
+ 
+4.  20.5
+Text Len: 871
+--------------------------------------------------------------------------------
+06 
+Testing Protocol         Page 5 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.  4.2 g sodium chloride (NaCl)  
+ 
+4.  20.5 g glucose (C6H12O6) 
+ 
+5.  Q.S. to 1000 mL with DI and dissolve. 
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Store at 2°- 7°C. 
+ 
+2.2.7   Dulbecco’s phosphate buffered saline free of calcium (Ca++) and 
+magnesium (Mg++) ions. 
+ 
+1.  8.0 g NaCl 
+ 
+2.  0.2 g potassium chloride (KCl) 
+ 
+3.  0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+   
+4.  Dissolve reagents in Steps 1 through 3 with 900 mL DI. 
+ 
+5.  Add 1.03 g sodium phosphate, dibasic, anhydrous (Na2HPO4) to 10 
+mL DI, and heat to 60°± 2°C until dissolved. Add to Step 4 with constant 
+mixing. 
+ 
+6.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+7.  Sterilize through a 0.22-µm filter. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+Text Len: 910
+--------------------------------------------------------------------------------
+ with constant 
+mixing. 
+ 
+6.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+7.  Sterilize through a 0.22-µm filter. 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.8   Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.  8.0 g NaCl 
+ 
+2.  0.2 g KCl 
+ 
+3.  0.2 g KH2PO4 
+ 
+4.  0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.  Dissolve reagents in Steps 1 through 4 with 900 mL DI. 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 6 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Add 1.03 g Na2HPO4 to 10 mL DI, and heat to 60°± 2°C until 
+dissolved. Add to Step 5 with constant mixing. 
+ 
+7.  Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI, 
+and add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.  Sterilize through a 0.
+Text Len: 925
+--------------------------------------------------------------------------------
+olve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI, 
+and add slowly to Step 5 to avoid precipitation. 
+ 
+8.  Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.  Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.9   G uinea pig blood in an equal volume of Alsevers Solution 
+ 
+2.2.10  Cell culture plates, 24-well 
+ 
+2.2.11  Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.12  Pipettes, 10-mL and 25-mL  
+ 
+2.2.13  Conical tubes, 50-mL 
+ 
+2.2.14  Syringe, 1-mL tuberculin, and needle, 18-gauge x 1 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training  
+ 
+Personnel shall have experience in the preparation and maintenance of cell culture as well 
+as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by HAd. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Test Plates) 
+ 
+Cells are prepared from
+Text Len: 1075
+--------------------------------------------------------------------------------
+ of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of Vero cell culture plates (Test Plates) 
+ 
+Cells are prepared from healthy, confluent Vero cells that are maintained by 
+passing every 3 to 4 days. One day prior to test initiation, add 1.0 mL/well of 104.7 
+to 105.2 cells/mL cells suspended in Growth Medium into all wells of a 24-well 
+cell culture plate. Prepare 1 Vero plate for the controls and 1 for each Test 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 7 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Vaccine. These become the Test Plates. Incubate at 36°± 2°C in a CO2 incubator 
+for one day. 
+ 
+3.3.2   Preparation of CPI Positive Control Virus 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of CPI Positive 
+Control Virus in a water bath.  
+ 
+2.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 9 tubes, labeled 10-1 through 10-9, 
+respectively). 
+ 
+3.   With a 200-�
+Text Len: 1244
+--------------------------------------------------------------------------------
+ 
+2.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 9 tubes, labeled 10-1 through 10-9, 
+respectively). 
+ 
+3.   With a 200-µL pipettor, transfer 200 µL of the CPI Positive Control 
+Virus to the first tube labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1 labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL of the previous dilution to the next dilution tube until the tenfold 
+dilution series is completed.  
+ 
+3.3.3   Prepare a dilution of each neutralizing non- CPI antiserum in DPBS 
+according to the supplied CVB Reagent Data Sheet or as determined for that 
+specific antiserum.  
+ 
+3.3.4   Preparation of washed guinea pig red blood cells (GPRBC) 
+ 
+1.  Transfer 20 mL of the guinea pig blood into a 50-mL conical tube. 
+   
+2.  Q.S. to 50 mL with Alsevers Solution, and mix by inverting several 
+times. 
+   
+3.  Centrifuge for 15 ± 5 minutes at 400 x g (1500 rpm in a Beckman J6B 
+centrifuge with JS-4.0 rotor) at 4°± 2°C. 
+  
+Text Len: 1185
+--------------------------------------------------------------------------------
+.S. to 50 mL with Alsevers Solution, and mix by inverting several 
+times. 
+   
+3.  Centrifuge for 15 ± 5 minutes at 400 x g (1500 rpm in a Beckman J6B 
+centrifuge with JS-4.0 rotor) at 4°± 2°C. 
+   
+4.  Remove supernatant and buffy coat by pipetting. 
+ 
+5.  Repeat steps in Steps 2 through 4 for a total of 3 washes. 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 8 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Add an equal volume of Alsevers Solution to the washed GPRBC. 
+Store at 2°- 7°C; use within 1 week of collection. 
+   
+3.3.5   0.5% GPRBC Suspension for the HAd assay 
+ 
+1.  On the day of conducting the HAd test,  pipette 500 µL of washed, 
+packed GPRBC into 100 mL of Ca++, Mg++-Free DPBS, rinsing the pipette 
+thoroughly to remove the GPRBC. 
+ 
+2.  Mix by inverting, store at 2°- 7°C, and use within 1 week of collection. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample
+Text Len: 1084
+--------------------------------------------------------------------------------
+ GPRBC. 
+ 
+2.  Mix by inverting, store at 2°- 7°C, and use within 1 week of collection. 
+ 
+3.4   Preparation of the Test Vaccine 
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and 
+an 18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine with the 
+provided diluent by transferring 1.0 mL for 1-mL-dose vaccines, 0.5 mL for  
+0.5-mL-dose vaccines, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+3.4.2   For multifraction CPI vaccines, neutralize the non-CPI viral fractions with 
+antiserum specific to each non-CPI virus fraction. It is not necessary to neutralize 
+canine parvovirus (CPV) since CPV is not expected to replicate in confluent Vero 
+cells.  
+ 
+1.  Prepare dilutions of each neutralizing non-CPI antiserum according to 
+the CVB Reagent Data Sheet or manufacturer’s instructions.  
+ 
+2.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1, and q.s. with MEM to 1.8 mL. 
+For example, to neutralize 2 non-CPI viral fractions in a 3-fraction 
+
+Text Len: 1227
+--------------------------------------------------------------------------------
+s instructions.  
+ 
+2.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1, and q.s. with MEM to 1.8 mL. 
+For example, to neutralize 2 non-CPI viral fractions in a 3-fraction 
+CDV/CPI/CAV vaccine, dispense 200 µL of each of the diluted CDV and 
+CAV antiserums into the tube labeled 10-1; add 1.4 mL of MEM to obtain 
+a final volume of 1.8 mL. 
+   
+3.  Pipette 200 µL of the reconstituted Test Vaccine to the 10-1 labeled 
+tube containing the neutralizing antisera; mix by vortexing.  
+ 
+4.  Incubate at room temperature for 60 ± 10 minutes. 
+ 
+3.4.3   For Test Vaccines containing only the CPI viral fraction, prepare the 10-1 
+dilution by mixing 200 µL of the reconstituted Test Vaccine with 1.8 mL of MEM 
+in a labeled 12 x 75-mm polystyrene tube.   
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 9 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into each of 5, 12 x 75-mm polystyrene tubes 
+labeled 10-2 through 10-6 (or
+Text Len: 1154
+--------------------------------------------------------------------------------
+ of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into each of 5, 12 x 75-mm polystyrene tubes 
+labeled 10-2 through 10-6 (or more if the expected CPI endpoint of the Test 
+Vaccine is higher than 10-6).  
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the next dilution tube; mix by vortexing. 
+ 
+3.  Repeat Step 2 to the remaining tubes, transferring 200 µL from the 
+previous dilution to the next dilution tube until the tenfold dilution series 
+is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test inoculation, label the Test Plates and inoculate each of 5 
+wells/dilution with 200 µL of dilutions 10-6 through 10-3 of each Test Vaccine. In a 
+similar manner, identify and inoculate 5 wells/dilution of the CPI Positive Control Virus 
+(with dilutions 10-9 through 10-6 for the example in Section 3.3.2). Change tips between 
+each unique sample (i.e., each Test Vaccine and the CPI Positive Control Virus); tip 
+changes are not necessary between dilutions in a series if pipetting from the most dilute 
+to the most concentrated within that series (e.g., 10-9 through 10-6). 
+ 
+4.2   Five uninoculated wells serve as Negative Cell Controls. 
+ 
+4.3   Incub
+Text Len: 1293
+--------------------------------------------------------------------------------
+ the CPI Positive Control Virus); tip 
+changes are not necessary between dilutions in a series if pipetting from the most dilute 
+to the most concentrated within that series (e.g., 10-9 through 10-6). 
+ 
+4.2   Five uninoculated wells serve as Negative Cell Controls. 
+ 
+4.3   Incubate the Test Plates in a 36°± 2°C CO 2 incubator for 8 days ± 1 day. 
+ 
+4.4   After incubation, perform the HAd assay on the cell monolayers with a 0.5% 
+GPRBC suspension. 
+ 
+4.4.1   Decant the media from the plates into an autoclavable container. 
+ 
+4.4.2   Submerge each Test Plate in a reservoir of Ca++, Mg++-Free DPBS and 
+decant. 
+ 
+4.4.3   Mix the 0.5% GPRBC suspension by gentle inversion, and add  
+1.0 mL/well. 
+ 
+4.4.4   Incubate at 2°- 7°C for 25 ± 5 minutes. 
+ 
+4.4.5   Wash Test Plates by repeating Section 4.4.2 twice.  
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 10 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.4.6   Read the wet Test Plate at 100X magnification on an inverted light 
+microscope, and examine CPI-
+Text Len: 1129
+--------------------------------------------------------------------------------
+         Page 10 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.4.6   Read the wet Test Plate at 100X magnification on an inverted light 
+microscope, and examine CPI-infected vero cells for HAd. 
+ 
+1.  Wells displaying GPRBC adsorbed onto the cell monolayer are 
+considered to be positive for CPI.  
+ 
+2.  Record the results as the number of HAd- positive wells versus total 
+number of wells examined for each dilution of the Test Vaccine and the 
+CPI Positive Control Virus. 
+ 
+4.5   Calculate the CPI Virus endpoints of the Test Vaccine and the CPI Positive 
+Control Virus using the Spearman-Kärber method as modified by Finney. The titers are 
+expressed as log10 50% HAd infective doses (HAdID50). 
+ 
+Example: 
+ 
+10-3 dilution of Test Vaccine = 5/5 wells HAd positive 
+10-4 dilution of Test Vaccine = 4/5 wells HAd positive 
+10-5 dilution of Test Vaccine = 1/5 wells HAd positive 
+10-6 dilution of Test Vaccine = 0/5 wells HAd positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells HAd positive (3)  
+d = log10 of tenfold dilution factor (1) 
+S =
+Text Len: 1207
+--------------------------------------------------------------------------------
+ positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells HAd positive (3)  
+d = log10 of tenfold dilution factor (1) 
+S = sum of proportions of wells HAd positive for all dilutions tested: 
+ 
+5     4    1     0    10  
+5 +  5  + 5  + 5 =  5 = 2.0 
+ 
+CPI Test Vaccine titer = (3 -  1/2) + (1 • 2.0) = 4.5 
+ 
+Adjust the titer to the recommended Test Vaccine dose as follows: 
+ 
+A.  divide the Test Vaccine Dose by the Inoculation Dose where: 
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for 
+this CPI vaccine, the recommended dose is 1 mL) 
+ 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 11 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+Inoculation Dose = amount of diluted Test vaccine added to each well of 
+the Test Plate (for this test CPI vaccine, the inoculation dose is 0.2 mL) 
+ 
+                      ___1 mL dose       
+       
+Text Len: 1050
+--------------------------------------------------------------------------------
+ulation Dose = amount of diluted Test vaccine added to each well of 
+the Test Plate (for this test CPI vaccine, the inoculation dose is 0.2 mL) 
+ 
+                      ___1 mL dose       
+                       0.2 mL inoculum = 5 
+ 
+B.  calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+                       Log of 5 = 0.7 
+ 
+CPI Test Vaccine titer = 4.5 + 0.7 = 5.2 
+                         
+Therefore, the titer of the CPI Test Vaccine is 105.2 HAdID50/mL. 
+ 
+ 
+5.  Interpretation of the Test Results 
+ 
+5.1   Validity requirements 
+ 
+5.1.1   The calculated titer of the CPI Positive Control Virus must fall within plus 
+or minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The lowest inoculated dilution of the CPI Positive Control Virus must 
+exhibit a 100% positive HAd reaction (5/5). If an endpoint is not reached (1 or 
+more wells are HAd positive wells at the highest dilution), the titer is expressed as 
+“greater than
+Text Len: 1060
+--------------------------------------------------------------------------------
+ titers. 
+ 
+5.1.2   The lowest inoculated dilution of the CPI Positive Control Virus must 
+exhibit a 100% positive HAd reaction (5/5). If an endpoint is not reached (1 or 
+more wells are HAd positive wells at the highest dilution), the titer is expressed as 
+“greater than or equal to” the calculated titer. If an endpoint is critical to testing, 
+the highest (most dilute) must exhibit no positive HAd reaction (0/5). 
+ 
+5.1.3   The Negative Cell Controls shall not exhibit degradation, HAd, or cloudy 
+media indicative of contamination. 
+ 
+5.2   If the validity requirements are not met, the assay is considered a NO TEST and 
+can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the Animal and Plant Health Inspection Service (APHIS) filed Outline of 
+Production for the product under test, the Test Vaccine is considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is less than the titer contained in the 
+APHIS filed Outline of Production for the product under test, the Test Vaccine may be 
+retested in accordance with 9 CFR 113.8. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 12 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6. 
+Text Len: 1370
+--------------------------------------------------------------------------------
+.8. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 12 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Report of T est Results 
+ 
+Results are reported as HAdID50 per dose of Test Vaccine.  
+ 
+ 
+7.  References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.316, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE, (Ed.), 1978. Manual of standardized methods for veterinary 
+microbiology. Comstock Publishing Associates, Ithaca, pg. 731. 
+ 
+7.3   Finney, DJ, 1978. Statistical method in biological assay . Griffin, London. 3rd 
+edition, pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06 
+ 
+• The coversheet and contact information have been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and
+Text Len: 1253
+--------------------------------------------------------------------------------
+
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document: 
+ 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+Center for Veterinary Biologics        SAM 309.06 
+Testing Protocol         Page 13 of 13 
+ 
+Supplemental Assay Method for Titration of Canine Parainfluenza Virus in Vero Cell Culture 
+ 
+UNCONTROLLED COPY 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of the positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document.  
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet
+Text Len: 1304
+--------------------------------------------------------------------------------
+° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document.  
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+Text Len: 388
+--------------------------------------------------------------------------------

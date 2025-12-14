@@ -1,0 +1,1710 @@
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+5
+Perfil de los requisitos 
+ 
+La presente norma esboza los requisitos fitos anitarios generales que una ONPF del país de 
+origen ha de seguir en cuanto a la movilización de  semilla en el ámbito internacional, incluida 
+la semilla para reexportación, hacia los país es miembros de la NAPPO, desde estos y entre 
+ellos. Estos requisitos generales incluyen la manera de docum entar en forma apropiada el 
+país de origen y las directrices para incluir información fitosanitaria adicional que sea oficial en 
+un certificado fitosanitario, lo cual ayudará a las ONPF en la expedición de certificados 
+fitosanitarios de reexportación.  
+ 
+Además, estos requisitos generales abordan la evaluación del riesgo de plagas y la mitigación 
+del riesgo de plagas mediante la inclusión de los criterios para determinar si la semilla 
+constituye una vía para la posib le introducción de plagas reglamentadas, en particular, 
+determinar si se sabe que las plagas son transpor tadas con la semilla o transmitidas por la 
+semilla.  
+ 
+Se recomienda la certificación de semillas, las pruebas y los
+Text Len: 1161
+--------------------------------------------------------------------------------
+uye una vía para la posib le introducción de plagas reglamentadas, en particular, 
+determinar si se sabe que las plagas son transpor tadas con la semilla o transmitidas por la 
+semilla.  
+ 
+Se recomienda la certificación de semillas, las pruebas y los protocolos de diagnóstico para 
+plagas particulares de semillas. Esta norma también proporciona las directrices para la 
+semilla oscura y semillas restringidas/prohibidas. Los apéndices técnicos y un anexo se 
+incluyen para identificar los protocolos específicos que se re comiendan para plagas de 
+semillas y las opciones de tratamientos fitosanitarios para plagas específicas de semillas. 
+ 
+Antecedentes 
+ 
+La movilización internacional de semillas es primordial para la producción agrícola en muchas 
+de las naciones, y posiblemente en todas ellas. La semilla de calidad constituye el primer 
+paso en la producción de alimentos , alimentos para animales y fibra. El desarrollo y la 
+producción de semilla comprenden la inclusión de rasgos nuevos a través de los programas 
+de selección y mejoramiento genético, seguidos  de programas de aumento de las semillas 
+para producir suficientes semillas con los
+Text Len: 1160
+--------------------------------------------------------------------------------
+producción de semilla comprenden la inclusión de rasgos nuevos a través de los programas 
+de selección y mejoramiento genético, seguidos  de programas de aumento de las semillas 
+para producir suficientes semillas con los rasgos deseados. 
+ 
+El mejoramiento genético y aumento se realizan en el ámbito internacional de tal forma que 
+los investigadores puedan tener acceso a ra sgos genéticos, ambientes, conocimientos 
+nuevos y acelerar los procesos de mejoramiento genético y aumento de semillas. El 
+mejoramiento genético y los ensayos de evaluación deben llevarse a cabo en el área prevista 
+de liberación para determinar si las variedades nuevas se han adaptado en forma adecuada a 
+una serie de ambientes y condiciones. 
+ 
+Con frecuencia la semilla se moviliza hacia muchos países y fuera de ellos, exponiéndolas 
+posiblemente a plagas cuarentenar ias. A las ONPF y la indust ria de semillas les conviene 
+contar con mecanismos que aseguren la mov ilización segura de semillas en el comercio 
+internacional con el fin de proteger la agricultu ra y el medio ambiente. Por esta razón, la 
+mayoría
+Text Len: 1100
+--------------------------------------------------------------------------------
+PF y la indust ria de semillas les conviene 
+contar con mecanismos que aseguren la mov ilización segura de semillas en el comercio 
+internacional con el fin de proteger la agricultu ra y el medio ambiente. Por esta razón, la 
+mayoría de los países cuentan con requisitos fito sanitarios sobre la movilización de semilla, 
+aunque existe variación considerable en los métodos que se utilizan para la evaluación del 
+riesgo fitosanitario relacionado con la semilla, las plagas de interés, los requisitos 
+fitosanitarios de importación, las metodolog ías de diagnóstico e inspección y las medidas 
+fitosanitarias aceptables para mitigación del riesgo. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+6
+El objetivo de esta norma es brindar directrices las cuales ayudarán a: 
+• prevenir la entrada y dispersión de plagas reglamentadas que estén relacionadas con 
+semillas, 
+• facilitar la reexportación de semillas desde los países de la NAPPO, 
+• promover la aplicación de r equisitos fitosanitarios de im portación, protocolos de 
+prueba/diagnóstico y sistemas de certificaci ón fitosanitaria para sem
+Text Len: 1136
+--------------------------------------------------------------------------------
+ar la reexportación de semillas desde los países de la NAPPO, 
+• promover la aplicación de r equisitos fitosanitarios de im portación, protocolos de 
+prueba/diagnóstico y sistemas de certificaci ón fitosanitaria para semilla, que estén 
+armonizados. 
+ 
+1. Requisitos generales  
+ 
+1.1 Análisis de riesgo de plagas 
+ 
+El análisis de riesgo de plagas (ARP) para semillas debería realizarse en conformidad con lo 
+establecido en las NIMF 2: 2007 y NIMF 11: 2004. Las medidas fitosanitarias deberían 
+aplicarse según los resultados de los ARP. Las plagas identificadas durante el proceso de 
+ARP podrán clasificarse como plagas reglament adas por los países específicos, según su 
+presencia o ausencia en dicho país, su posible impacto económico y las medidas oficiales de 
+control que allí se apliquen. 
+ 
+El análisis de riesgo de plagas para semillas se complica por el hecho de que muchas plagas 
+podrán no transferirse con la semilla misma. Debe hacerse una diferencia entre plagas 
+transportadas con la semilla, que son las que se pueden encontrar en la semilla o dentro de 
+su testa
+Text Len: 1084
+--------------------------------------------------------------------------------
+illas se complica por el hecho de que muchas plagas 
+podrán no transferirse con la semilla misma. Debe hacerse una diferencia entre plagas 
+transportadas con la semilla, que son las que se pueden encontrar en la semilla o dentro de 
+su testa pero que no necesariamente transfiere la plaga a la pl anta resultante, y las plagas 
+transmitidas por la semilla, que son las que pued en transferirse desde la semilla a la plante 
+resultante. Durante el proceso de ARP, debería tenerse cuidado en asegurar que la semilla es 
+en realidad una vía para la introducción de cualquier plaga reglamentada para las cuales se 
+requieran medidas fitosanitarias. Antes de implem entar las medidas fitosanitarias, se debería 
+demostrar mediante observación científica doc umentada que la plaga reglamentada puede 
+transferirse desde la semilla bajo condiciones am bientales naturales. Muchos estudios han 
+documentado que la transferencia de plagas transportadas con la semilla podrá ocurrir bajo 
+condiciones de laboratorio pero dicha capacidad de transferencia nunca se ha observado en 
+condiciones de campo.  Resulta crítica la interpretación de las publicaciones científicas por 
+parte de expertos, en cuanto a semillas como una vía
+Text Len: 1217
+--------------------------------------------------------------------------------
+ bajo 
+condiciones de laboratorio pero dicha capacidad de transferencia nunca se ha observado en 
+condiciones de campo.  Resulta crítica la interpretación de las publicaciones científicas por 
+parte de expertos, en cuanto a semillas como una vía para las plagas. 
+ 
+1.2 Medidas fitosanitarias para el manejo del riesgo de plagas 
+ 
+Las medidas fitosanitarias para el manejo del  riesgo de plagas debe rían utilizarse para 
+prevenir la entrada y dispersión de plagas reglamentadas.  
+ 
+Después de realizar un análisis de riesgo de plagas, existen una serie de medidas 
+fitosanitarias para mitigar el riesgo de plagas al importar semillas hacia un país miembro de la 
+NAPPO. Las medidas fitosanitarias tales como inspección, prueba, área libre de plagas, lugar 
+de producción libre de plagas y tratamientos podrán aplicarse o combinarse para obtener un 
+nivel adecuado de protección fitosanitaria. 
+ 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+7
+Los tratamientos de semillas incluyen una variedad de técnicas que pueden comprender, 
+entre otras
+Text Len: 1084
+--------------------------------------------------------------------------------
+osanitaria. 
+ 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+7
+Los tratamientos de semillas incluyen una variedad de técnicas que pueden comprender, 
+entre otras: calor, plaguicidas  y desinfectantes químicos. Los tratamientos de semillas son 
+una herramienta de manejo que se utiliza para prevenir o mitigar el daño a una planta durante 
+su desarrollo temprano, causado por una variedad de insectos y enfermedades. Algunos 
+tratamientos de semillas  podrán tener valor fitosanitario su ficiente para eliminar una plaga 
+específica de un tipo de semilla particular. En es tos casos, la ONPF podrá permitir el uso de 
+un tratamiento comprobado como medida fitosanita ria además de las inspecciones durante la 
+temporada de crecimiento o la s pruebas de laboratorio, o en vez de éstas dos últimas . Otras 
+entidades, que no son la ONPF, pueden reglamentar tratamientos de sem illas tales como 
+aquellos a base de plaguicidas  que puede que no estén disponi bles en algunos países 
+miembros de la NAPPO. 
+ 
+1.3 Equivalencia de
+Text Len: 1062
+--------------------------------------------------------------------------------
+ que no son la ONPF, pueden reglamentar tratamientos de sem illas tales como 
+aquellos a base de plaguicidas  que puede que no estén disponi bles en algunos países 
+miembros de la NAPPO. 
+ 
+1.3 Equivalencia de las medidas fitosanitarias 
+ 
+La equivalencia de las medidas fitosanitarias es uno de los principios básicos que se 
+encuentra en la NIMF 1: 2006 . El proceso para reconocer la equivalencia se define en la 
+NIMF 24: 2005 como: "...el examen objetivo de las medidas fitosani tarias alternativas que se 
+han propuesto para determinar si  ellas logran el nivel adecuado de protección de un país 
+importador, como lo indican las medidas existentes de dicho país." 
+ 
+La equivalencia de las medidas fito sanitarias es de suma importancia para la movilización 
+internacional de semillas debido a que muchas medidas fitosanitarias distintas están 
+disponibles y pueden tener el mismo efecto previsto.  
+ 
+La determinación de la equivalencia deber ía fundamentarse en el  riesgo de plaga 
+especificado y conlleva el intercambio de info rmación y la evaluación entre las ONPF de los 
+países importador y exportador.  
+ 
+1.4 Requ
+Text Len: 1129
+--------------------------------------------------------------------------------
+
+La determinación de la equivalencia deber ía fundamentarse en el  riesgo de plaga 
+especificado y conlleva el intercambio de info rmación y la evaluación entre las ONPF de los 
+países importador y exportador.  
+ 
+1.4 Requisitos fitosanitarios que se recomiendan para semillas 
+ 
+Las ONPF con frecuencia cuentan con requisitos fi tosanitarios similares para semillas de la 
+misma especie. Las variaciones menores en la redacción de las declaraciones adicionales 
+(DA), (a saber, los métodos necesarios para la inspección de campo, el muestreo, la prueba o 
+los tratamientos) pueden crear obstáculos a la certificación fitosanitaria para múltiples 
+destinos.  
+ 
+Para facilitar el comercio internacional, los requisitos fitosanitarios de importación deberían 
+armonizarse, y reconocerse la m edidas fitosanitarias equivalentes. El resultado sería un nivel 
+constante de protección cuando la semilla se  movilice en el ámbito internacional y se 
+simplificarían los acuerdos bilaterales. 
+ 
+1.5 Requisitos de la documentación  
+ 
+Cuando la ONPF del país import ador solicite un certificado fitos anitario, la ONPF del país 
+Text Len: 1120
+--------------------------------------------------------------------------------
+ movilice en el ámbito internacional y se 
+simplificarían los acuerdos bilaterales. 
+ 
+1.5 Requisitos de la documentación  
+ 
+Cuando la ONPF del país import ador solicite un certificado fitos anitario, la ONPF del país 
+exportador debería expedirlo en conformidad con los requisitos de la ONPF del país 
+importador y la NIMF 12: 2011. 
+ 
+La ONPF del país importador también podrá exigir un permiso para importar antes de permitir 
+la importación de un producto.  
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+8
+ 
+2. Requisitos específicos  
+ 
+2.1 Reexportación 
+ 
+Las semillas podrán exportarse y luego reexportarse varias veces antes de plantarse. La 
+semilla reexportada generalmente está sujeta a los requisitos de importación del país que 
+recibe la semilla reexportada. El país que recibe la semilla reexportada también podrá exigir la 
+seguridad de que la situación de la plaga en cualquier país en la cadena comercial sea 
+aceptable/apropiada antes de permitir la entrada de la semilla. La OPNF del país reexportador 
+debería verificar los requisitos de importación de
+Text Len: 1115
+--------------------------------------------------------------------------------
+
+seguridad de que la situación de la plaga en cualquier país en la cadena comercial sea 
+aceptable/apropiada antes de permitir la entrada de la semilla. La OPNF del país reexportador 
+debería verificar los requisitos de importación de la ONPF del próximo país de destino.. 
+ 
+2.2 Comunicación de información técnica entre las ONPF para facilitar la certificación 
+fitosanitaria posterior  
+ 
+Los países de la NAPPO reconocen que hay sit uaciones en las cuales un país importador 
+posterior exigirá medidas fitosa nitarias las cuales deben realiz arse en el país de origen (a 
+saber, inspección durante la temporada de crecim iento, muestreo de suelo). Para ayudar a 
+facilitar las reexportaciones, esta información té cnica podrá transmitirse al país que reexporta 
+la semilla para asegurar que ellos cumplen con los requisitos fitosanitarios del país importador 
+así como su obligación internacional conforme a la NIMF 12: 2011. 
+ 
+Las declaraciones adicionales (DA) en ocas iones se requieren para los certificados 
+fitosanitarios como medio para proporcionar in formación adicional específica sobre un envío 
+en relación con las plag
+Text Len: 1136
+--------------------------------------------------------------------------------
+ NIMF 12: 2011. 
+ 
+Las declaraciones adicionales (DA) en ocas iones se requieren para los certificados 
+fitosanitarios como medio para proporcionar in formación adicional específica sobre un envío 
+en relación con las plagas reglamentadas. La in formación fitosanitaria adicional que sea 
+oficial y que avale la ausencia de plagas adicional es las cuales no son ex igidas por el primer 
+país importador podrá incluirse en el certificado fitosanitario original para facilitar la 
+reexportación futura a otros países. Esta información debería seguir a las DA y estar 
+separada de las DA que exige el primer país importador en conformidad con lo establecido en 
+la NIMF 12: 2011. 
+ 
+La ONPF del país de reexportación podrá expedir un certificado fitosanitario de reexportación, 
+si se cumplen los requisitos de importación del país importador. Este se basará en un 
+certificado fitosanitario expedido por la ON PF del país de origen con declaraciones 
+adicionales específicas u otro tipo de informaci ón fitosanitaria para br indar la seguridad de 
+que el envío cumple con los requisitos fitosani tarios existentes del país importador. El 
+certificado de reexportación también confirm
+Text Len: 1181
+--------------------------------------------------------------------------------
+
+adicionales específicas u otro tipo de informaci ón fitosanitaria para br indar la seguridad de 
+que el envío cumple con los requisitos fitosani tarios existentes del país importador. El 
+certificado de reexportación también confirma  que durante el almacenaje en el país de 
+reexportación, el envío no ha est ado sujeto al riesgo de infestac ión o infección. Si el país  
+importador tiene requisitos de importación para plagas adicionales, los cuales aún no haya 
+cumplido el país de origen, y el país de reexportación puede cumplir esos requisitos utilizando 
+un tratamiento de semillas aprobado o prueba de sanidad de la semilla, entonces se podrá 
+expedir un certificado fitosanitario de reexportación. 
+ 
+Las ONPF deberían seguir las directrices establecidas en la NIMF 12 para obtener 
+información adicional con el fin de facilitar la exportación y reexportación de semillas.  
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+9
+2.3 Inspección y/o prueba de semilla oscura (peletizada, cubierta o que ha sido sometida a 
+tratamiento) 
+Text Len: 1077
+--------------------------------------------------------------------------------
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+9
+2.3 Inspección y/o prueba de semilla oscura (peletizada, cubierta o que ha sido sometida a 
+tratamiento) 
+ 
+La semilla oscura incluye aquella que está cubierta, peletizada o enterrada en cinta adhesiva, 
+tapetes o cualquier otro sustrato que oculte  su visibilidad. Los exportadores deberían 
+consultar con la ONPF del país importador para determinar si cuentan con requisitos 
+específicos para la semilla oscura. 
+ 
+2.4 Consideraciones especiales para la importación de cantidades pequeñas de semillas  
+ 
+Varias compañías y entidades de investigaci ón cuentan con programas de mejoramiento 
+genético y aumento en varios países con el fin de evaluar la adaptación de la semilla a climas 
+distintos, resistencia a plagas, así como condiciones de crecimi ento y sistemas de 
+producción. Todo ello supone que hay movilización internacional de semillas. 
+ 
+El riesgo fitosanitario relacionado con la movilización inter nacional de cantidades pequeñas 
+de semillas por lo general se considera menor que el que
+Text Len: 1091
+--------------------------------------------------------------------------------
+emas de 
+producción. Todo ello supone que hay movilización internacional de semillas. 
+ 
+El riesgo fitosanitario relacionado con la movilización inter nacional de cantidades pequeñas 
+de semillas por lo general se considera menor que el que puede ocasionar la semilla prevista 
+para plantarse comercialmente. Dicha semilla está  sujeta a medidas fitosanitarias específicas 
+las cuales mitigan el riesgo de dispersión de plagas.   
+ 
+La ONPF del país importador podrá establecer procedimientos específicos para la 
+importación de cantidades pequeñas de semillas.  Hay que tener muy en cuenta cuando se 
+determine el tamaño apropiado de la muestra para realizar el muestreo y las pruebas a 
+cantidades pequeñas de semillas (en conformidad con lo establecido en la NIMF 31: 2008). 
+ 
+2.5 Semilla restringida o prohibida  
+ 
+La ONPF podrá permitir la entrada de semilla que generalmente está restringida o prohibida, 
+si tiene la autoridad legal para hacerlo y cuando la semilla esté prevista para investigación o 
+fines comerciales especializados de acuerdo con un permiso con condiciones especificadas.  
+ 
+Esas condiciones podrán establecer requis
+Text Len: 1146
+--------------------------------------------------------------------------------
+ prohibida, 
+si tiene la autoridad legal para hacerlo y cuando la semilla esté prevista para investigación o 
+fines comerciales especializados de acuerdo con un permiso con condiciones especificadas.  
+ 
+Esas condiciones podrán establecer requisitos tales como contención en laboratorio, 
+cuarentena posentrada, entrada especial, manipulación, almac enamiento, procesamiento, 
+mantenimiento de registros y procedimientos de eliminación que podrá n ser necesarios para 
+proporcionar un nivel apropiado de protección fitosanitaria par a el país importador. El 
+importador/exportador debería consultar con la ONPF del país importador para determinar si 
+tienen requisitos específicos para exportar/importar semilla restringida o prohibida. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+10
+Anexo y apéndices 
+ 
+Este anexo fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013 
+Este anexo es una parte prescriptiva de la norma. 
+ 
+Anexo 1: Plagas (patógenos) que se consideran transportados (SB) o transmitidos por 
+la semilla (ST)* 
+ 
+Plaga Producto SB ST Comentarios Referen
+Text Len: 1130
+--------------------------------------------------------------------------------
+ de marzo del 2013 
+Este anexo es una parte prescriptiva de la norma. 
+ 
+Anexo 1: Plagas (patógenos) que se consideran transportados (SB) o transmitidos por 
+la semilla (ST)* 
+ 
+Plaga Producto SB ST Comentarios Referencias 
+Clavibacter 
+michiganensis 
+var 
+michiganensis  
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+ Sí  Dhavantari, BN, 1993. Seedborne 
+infection in tomato bacterial canker. 
+Proc. 9th Annual Tomato Disease 
+Workshop, pp. 33-36  
+ 
+Hadas, R, Kritzman, F, Gefen, T, y 
+Manulus, S, 2005. Comparison of 
+extraction procedures and determing 
+detection threshold for Clavibacter 
+michiganensis pv. michiganensis in 
+tomato seeds.  
+ 
+Plant Pathology 54(5): 643-649 
+Tsiantos, J, 1987. Transmission of 
+Corynebacterium michiganensis pv 
+michiganensis by seeds. 
+Phytopathology 119(2): 142-146 
+ Capsicum 
+spp. 
+(pimiento) 
+ Sí  Alvares, AM, 2006.Detection and risk 
+assessment of invasive bacterial 
+species on imported tomato seed. In: 
+USDA Research, Education, and 
+Economics Information System, 
+Project HAW00964-1014S 
+Pantoea 
+Stewartii
+Text Len: 1051
+--------------------------------------------------------------------------------
+. 
+(pimiento) 
+ Sí  Alvares, AM, 2006.Detection and risk 
+assessment of invasive bacterial 
+species on imported tomato seed. In: 
+USDA Research, Education, and 
+Economics Information System, 
+Project HAW00964-1014S 
+Pantoea 
+Stewartii 
+(marchitez de 
+Stewart) 
+Zea mays 
+(maíz) 
+ Sí Es casi imposible la 
+transmisión de semilla a 
+partir de semilla de maíz 
+de buena calidad (Block 
+et. al., 1999)  
+Block, CC, Hill, JH y McGee, DC, 
+1999. Relationship between late 
+season severity of Stewart’s bacterial 
+wilt and seed infection in maize. Plant 
+Disease 83: 527-530. 
+Tilletia indica 
+Matri 
+Triticum spp. 
+(wheat), x-
+Triticosecale 
+(triticum) spp. 
+(barley) 
+(únicamente 
+Canadá) 
+Avena spp. 
+(oat ) 
+(únicamente 
+Canadá)  
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) 
+ Sí  Bains, SS, and Dhaliwal, HS, 1989. 
+Release of secondary sporidia of 
+Neovossica indica from inoculated 
+wheat spikes. Plant and Soil Vol. 15 
+(1): 83-87 
+Dhaliwal, HS, 1989. 
+ 
+Mult
+Text Len: 961
+--------------------------------------------------------------------------------
+
+Canadá) 
+ Sí  Bains, SS, and Dhaliwal, HS, 1989. 
+Release of secondary sporidia of 
+Neovossica indica from inoculated 
+wheat spikes. Plant and Soil Vol. 15 
+(1): 83-87 
+Dhaliwal, HS, 1989. 
+ 
+Multiplication of sporidia of Tilletia  
+indica on soil and wheat leaves and 
+spikes and incidence of Karnal bunt. 
+Can. J. Botany67(8): 2387-2390 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+11
+El presente apéndice fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013. 
+Este apéndice es para fines de referencia solamente y no es una parte prescriptiva de la norma. 
+ 
+Apéndice 1: Pruebas y métodos de diagnósticos de semillas que se recomiendan para 
+plagas de semillas (la lista no es exhaustiva) 
+ 
+Plaga Producto Prueba/diagnóstico
+que se recomienda Comentarios Referencias 
+Clavibacter 
+michiganensis 
+michiganensis 
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+Método So4 ISHI-Veg 
+(2001)  
+Text Len: 1032
+--------------------------------------------------------------------------------
+ueba/diagnóstico
+que se recomienda Comentarios Referencias 
+Clavibacter 
+michiganensis 
+michiganensis 
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+Método So4 ISHI-Veg 
+(2001)  
+Métodos se encuentran en 
+el sitio web de la NAPPO 
+o de la  NSHS 
+(www.seedhealth.org) 
+Method for the detection of Clavibacter 
+michiganensis pv 
+michiganensis on tomato seed, 
+version 4, August 2011. 
+International Seed Federation  
+www.worldseed.org/cms/medias/ 
+file/TradeIssues/Phytosanitary 
+Matters/seedhealthtesting 
+Pantoea 
+stewartii      
+(Marchitez de 
+Stewart) 
+Zea mays 
+(maize) 
+Prueba Elisa *  Lamka, GL, Hill, JH, McGee, DC, Braun, 
+EJ. Development of an immunosorbent  
+assay for seed borne Erwinia stewartii. 
+Phytopathology 81: 839-846 
+Tilletia indica 
+Mitra (carbón 
+parcial) 
+Triticum spp. 
+(trigo) Triticale 
+(x-triticosecale), 
+Hordeum spp. 
+(cebada) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Text Len: 909
+--------------------------------------------------------------------------------
+
+parcial) 
+Triticum spp. 
+(trigo) Triticale 
+(x-triticosecale), 
+Hordeum spp. 
+(cebada) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) Avena 
+spp. (avena) 
+(únicamente 
+Canadá) 
+Método de lavado de 
+semillas con tamiz de 
+tamaño selectivo para 
+teliosporas (SSS, por su 
+sigla en inglés) 
+Método SSS modificado 
+ 
+Examen directo de granos 
+inmaduros 
+Métodos se encuentran en 
+el sitio web de la NAPPO 
+(www.nappo.org) 
+NRMF 13: Directrices para establecer, 
+mantener y verificar  áreas libres de 
+carbón parcial en Norteamérica 
+ 
+NRMF 21: Procedimiento armonizado 
+para distinguir morfológicamente a las 
+teliosporas del carbón parcial, de las del 
+carbón del pasto, carbón del arroz y 
+otros tizones similares  
+ 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+12
+Text Len: 911
+--------------------------------------------------------------------------------
+ y 
+otros tizones similares  
+ 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+12
+El presente apéndice fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013. 
+Este apéndice es para fines de referencia solamente y no es una parte prescriptiva de la norma. 
+ 
+Apéndice 2: Tratamientos de semillas que se recomiendan para plagas cuarentenarias 
+de semillas* 
+ 
+Plaga Producto Tratamiento Comentarios Referencias 
+Clavibacter 
+michiganensis 
+pv 
+michiganensis 
+(CMM)  
+Solanum 
+lycopersicum 
+semilla de 
+(tomate) 
+Agua caliente 50 
+C/25 min 
+Logra la 
+erradicación total; 
+temperaturas 
+más altas y/o 
+tiempos más 
+largos 
+disminuyen la 
+germinación 
+Miller, SA, y ML Ivey. 2005. Hot 
+water and chlorine treatment of 
+vegetable seeds  to eradicate 
+bacterial pathogens. The Ohio 
+State University Extension HYG 
+3805-05. 
+ 
+Fatmi, M, NW Shaad, and HA 
+Balkan, 1991. Seed
+Text Len: 1009
+--------------------------------------------------------------------------------
+germinación 
+Miller, SA, y ML Ivey. 2005. Hot 
+water and chlorine treatment of 
+vegetable seeds  to eradicate 
+bacterial pathogens. The Ohio 
+State University Extension HYG 
+3805-05. 
+ 
+Fatmi, M, NW Shaad, and HA 
+Balkan, 1991. Seed treatments 
+for eradicating Clavibacter 
+michiganensis pv michiganensis 
+from naturally infected tomato 
+seeds. Plant Dis 75: 383-385. 
+ 
+Dhanvantari, BN, 1994. Further 
+studies on seed treatments for 
+Bacterial canker. Proceedings of 
+10th Annual Tomato 
+Disease Workshop, 43-51 
+  Ácido clorhídrico El uso del HCL 
+para someter a 
+tratamiento la 
+pulpa en la 
+extracción de 
+semilla seguido 
+del secado de 
+semillas durante 
+3 H logran la 
+erradicación 
+PERO la 
+extracción del 
+ácido seguida de 
+la pulpa en 
+volumen similar 
+del 5% HCL 
+duran 10 min. 
+seguido de 
+lavado no eliminó 
+completamente a 
+CMM de la 
+semilla de tomate 
+infectada en 
+forma natural 
+Thyr, BD, RE Webb, CA 
+Jaworski, TJ Radcliffe, 1973. 
+Tomato bacterial canker: control 
+by seed treatment.. Plant Disease 
+Reporter 57: 974-977. 
+ 
+P
+Text Len: 1045
+--------------------------------------------------------------------------------
+
+CMM de la 
+semilla de tomate 
+infectada en 
+forma natural 
+Thyr, BD, RE Webb, CA 
+Jaworski, TJ Radcliffe, 1973. 
+Tomato bacterial canker: control 
+by seed treatment.. Plant Disease 
+Reporter 57: 974-977. 
+ 
+Pradhanang, PM y G Collier, 
+2009. How effective is HCL to 
+control CMM in tomato seed?  
+Acta Horticulture (Proc 2 nd 
+International Symposium on 
+Tomato Diseases, Kuradara, 
+Turkey, 8-12 October, 2007. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+13
+ 
+Plaga Producto Tratamiento Comentarios Referencias 
+  0.05% o-penilfenol La pulpa sometida 
+a tratamiento con 
+pectinase/HCL 
+frente a la 
+fermentación, 
+demostró ser eficaz 
+para desinfectar a 
+las semillas  
+Dhanvantari, BN 1989. Efficacy of 
+seed extraction methods and seed 
+treatments on control of bacterial 
+canker. Can. J. 
+Plant Path 11: 401-408. 
+ 
+Dhanvantari, BN y RJ Brown. 1993. 
+Improved seed treatments for control 
+of bacterial canker. Can. J. Plant Path 
+15:201-205. 
+  Hipoclorito de 
+calcio 
+0.5% w/v no logra
+Text Len: 1032
+--------------------------------------------------------------------------------
+
+Plant Path 11: 401-408. 
+ 
+Dhanvantari, BN y RJ Brown. 1993. 
+Improved seed treatments for control 
+of bacterial canker. Can. J. Plant Path 
+15:201-205. 
+  Hipoclorito de 
+calcio 
+0.5% w/v no logra 
+la erradicación total 
+Dhanvantari, BN, 1989. Efficacy of 
+seed extraction methods and seed 
+treatments on control of bacterial 
+canker. Can. J. Plant Path. 
+Pantoea stewartii  Zea mays 
+(maize) 
+Ninguno para 
+semilla  
+La incidencia de 
+transmisión de 
+semilla casi no 
+existe si el 
+escarabajo vector 
+se maneja en 
+forma apropiada 
+con los 
+tratamientos 
+disponibles tales 
+como imidaclorpido 
+y thiamethoxam 
+Kuhar, TP, Stivers-Young, LJ, 
+Hoffman, MP, y Taylor, AG, 2002. 
+Control of corn flea beetle and 
+Stewart’s wilt in sweet corn with 
+imidachlorpid and thiamethoxam 
+treatments. Crop Protection 21: 25-
+31. 
+ 
+Pataky, JK,Michener, PM, Freeman, 
+ND, Weinzierl, RA y Teyker, RH. 
+2000. Control of Stewart’s wilt in 
+sweet corn with seed treatment 
+insecticides. Plant Disease 84: 1104-
+Text Len: 994
+--------------------------------------------------------------------------------
+ments. Crop Protection 21: 25-
+31. 
+ 
+Pataky, JK,Michener, PM, Freeman, 
+ND, Weinzierl, RA y Teyker, RH. 
+2000. Control of Stewart’s wilt in 
+sweet corn with seed treatment 
+insecticides. Plant Disease 84: 1104-
+1108. 
+ 
+Munkvold, GP, McGee, DC, y IIes, A. 
+1996. Effects of imidachlorpid 
+treatment of corn on foliar and 
+Erwinia stewartii  transmission by the 
+corn flea beetle. Plant Disease 80: 
+747-749. 
+Tilletia  indica  
+Matri  
+(carbón parcial) 
+Triticum spp 
+(trigo), Triticale 
+(x-triticosecale) 
+Hordeum spp. 
+(cebada) Avena 
+spp. (avena) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) 
+Avena spp. 
+(avena) 
+(únicamente 
+Canadá) 
+Ninguno para 
+semilla  
+La detección 
+positiva de granos 
+inmaduros 
+necesitará 
+desinfección (EE. 
+UU.) Los 
+tratamientos están 
+aprobado 
+solamente para el 
+equipo que se 
+utilice para manejar 
+las semillas (se 
+afectará la 
+vi
+Text Len: 892
+--------------------------------------------------------------------------------
+os 
+inmaduros 
+necesitará 
+desinfección (EE. 
+UU.) Los 
+tratamientos están 
+aprobado 
+solamente para el 
+equipo que se 
+utilice para manejar 
+las semillas (se 
+afectará la 
+viabilidad de la 
+semilla). 
+USDA Port of Entry Treatment 
+Manual: Domestic Treatments (EE. 
+UU.). 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas.
+Text Len: 357
+--------------------------------------------------------------------------------
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+5
+Perfil de los requisitos 
+ 
+La presente norma esboza los requisitos fitos anitarios generales que una ONPF del país de 
+origen ha de seguir en cuanto a la movilización de  semilla en el ámbito internacional, incluida 
+la semilla para reexportación, hacia los país es miembros de la NAPPO, desde estos y entre 
+ellos. Estos requisitos generales incluyen la manera de docum entar en forma apropiada el 
+país de origen y las directrices para incluir información fitosanitaria adicional que sea oficial en 
+un certificado fitosanitario, lo cual ayudará a las ONPF en la expedición de certificados 
+fitosanitarios de reexportación.  
+ 
+Además, estos requisitos generales abordan la evaluación del riesgo de plagas y la mitigación 
+del riesgo de plagas mediante la inclusión de los criterios para determinar si la semilla 
+constituye una vía para la posib le introducción de plagas reglamentadas, en particular, 
+determinar si se sabe que las plagas son transpor tadas con la semilla o transmitidas por la 
+semilla.  
+ 
+Se recomienda la certificación de semillas, las pruebas y los
+Text Len: 1161
+--------------------------------------------------------------------------------
+uye una vía para la posib le introducción de plagas reglamentadas, en particular, 
+determinar si se sabe que las plagas son transpor tadas con la semilla o transmitidas por la 
+semilla.  
+ 
+Se recomienda la certificación de semillas, las pruebas y los protocolos de diagnóstico para 
+plagas particulares de semillas. Esta norma también proporciona las directrices para la 
+semilla oscura y semillas restringidas/prohibidas. Los apéndices técnicos y un anexo se 
+incluyen para identificar los protocolos específicos que se re comiendan para plagas de 
+semillas y las opciones de tratamientos fitosanitarios para plagas específicas de semillas. 
+ 
+Antecedentes 
+ 
+La movilización internacional de semillas es primordial para la producción agrícola en muchas 
+de las naciones, y posiblemente en todas ellas. La semilla de calidad constituye el primer 
+paso en la producción de alimentos , alimentos para animales y fibra. El desarrollo y la 
+producción de semilla comprenden la inclusión de rasgos nuevos a través de los programas 
+de selección y mejoramiento genético, seguidos  de programas de aumento de las semillas 
+para producir suficientes semillas con los
+Text Len: 1160
+--------------------------------------------------------------------------------
+producción de semilla comprenden la inclusión de rasgos nuevos a través de los programas 
+de selección y mejoramiento genético, seguidos  de programas de aumento de las semillas 
+para producir suficientes semillas con los rasgos deseados. 
+ 
+El mejoramiento genético y aumento se realizan en el ámbito internacional de tal forma que 
+los investigadores puedan tener acceso a ra sgos genéticos, ambientes, conocimientos 
+nuevos y acelerar los procesos de mejoramiento genético y aumento de semillas. El 
+mejoramiento genético y los ensayos de evaluación deben llevarse a cabo en el área prevista 
+de liberación para determinar si las variedades nuevas se han adaptado en forma adecuada a 
+una serie de ambientes y condiciones. 
+ 
+Con frecuencia la semilla se moviliza hacia muchos países y fuera de ellos, exponiéndolas 
+posiblemente a plagas cuarentenar ias. A las ONPF y la indust ria de semillas les conviene 
+contar con mecanismos que aseguren la mov ilización segura de semillas en el comercio 
+internacional con el fin de proteger la agricultu ra y el medio ambiente. Por esta razón, la 
+mayoría
+Text Len: 1100
+--------------------------------------------------------------------------------
+PF y la indust ria de semillas les conviene 
+contar con mecanismos que aseguren la mov ilización segura de semillas en el comercio 
+internacional con el fin de proteger la agricultu ra y el medio ambiente. Por esta razón, la 
+mayoría de los países cuentan con requisitos fito sanitarios sobre la movilización de semilla, 
+aunque existe variación considerable en los métodos que se utilizan para la evaluación del 
+riesgo fitosanitario relacionado con la semilla, las plagas de interés, los requisitos 
+fitosanitarios de importación, las metodolog ías de diagnóstico e inspección y las medidas 
+fitosanitarias aceptables para mitigación del riesgo. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+6
+El objetivo de esta norma es brindar directrices las cuales ayudarán a: 
+• prevenir la entrada y dispersión de plagas reglamentadas que estén relacionadas con 
+semillas, 
+• facilitar la reexportación de semillas desde los países de la NAPPO, 
+• promover la aplicación de r equisitos fitosanitarios de im portación, protocolos de 
+prueba/diagnóstico y sistemas de certificaci ón fitosanitaria para sem
+Text Len: 1136
+--------------------------------------------------------------------------------
+ar la reexportación de semillas desde los países de la NAPPO, 
+• promover la aplicación de r equisitos fitosanitarios de im portación, protocolos de 
+prueba/diagnóstico y sistemas de certificaci ón fitosanitaria para semilla, que estén 
+armonizados. 
+ 
+1. Requisitos generales  
+ 
+1.1 Análisis de riesgo de plagas 
+ 
+El análisis de riesgo de plagas (ARP) para semillas debería realizarse en conformidad con lo 
+establecido en las NIMF 2: 2007 y NIMF 11: 2004. Las medidas fitosanitarias deberían 
+aplicarse según los resultados de los ARP. Las plagas identificadas durante el proceso de 
+ARP podrán clasificarse como plagas reglament adas por los países específicos, según su 
+presencia o ausencia en dicho país, su posible impacto económico y las medidas oficiales de 
+control que allí se apliquen. 
+ 
+El análisis de riesgo de plagas para semillas se complica por el hecho de que muchas plagas 
+podrán no transferirse con la semilla misma. Debe hacerse una diferencia entre plagas 
+transportadas con la semilla, que son las que se pueden encontrar en la semilla o dentro de 
+su testa
+Text Len: 1084
+--------------------------------------------------------------------------------
+illas se complica por el hecho de que muchas plagas 
+podrán no transferirse con la semilla misma. Debe hacerse una diferencia entre plagas 
+transportadas con la semilla, que son las que se pueden encontrar en la semilla o dentro de 
+su testa pero que no necesariamente transfiere la plaga a la pl anta resultante, y las plagas 
+transmitidas por la semilla, que son las que pued en transferirse desde la semilla a la plante 
+resultante. Durante el proceso de ARP, debería tenerse cuidado en asegurar que la semilla es 
+en realidad una vía para la introducción de cualquier plaga reglamentada para las cuales se 
+requieran medidas fitosanitarias. Antes de implem entar las medidas fitosanitarias, se debería 
+demostrar mediante observación científica doc umentada que la plaga reglamentada puede 
+transferirse desde la semilla bajo condiciones am bientales naturales. Muchos estudios han 
+documentado que la transferencia de plagas transportadas con la semilla podrá ocurrir bajo 
+condiciones de laboratorio pero dicha capacidad de transferencia nunca se ha observado en 
+condiciones de campo.  Resulta crítica la interpretación de las publicaciones científicas por 
+parte de expertos, en cuanto a semillas como una vía
+Text Len: 1217
+--------------------------------------------------------------------------------
+ bajo 
+condiciones de laboratorio pero dicha capacidad de transferencia nunca se ha observado en 
+condiciones de campo.  Resulta crítica la interpretación de las publicaciones científicas por 
+parte de expertos, en cuanto a semillas como una vía para las plagas. 
+ 
+1.2 Medidas fitosanitarias para el manejo del riesgo de plagas 
+ 
+Las medidas fitosanitarias para el manejo del  riesgo de plagas debe rían utilizarse para 
+prevenir la entrada y dispersión de plagas reglamentadas.  
+ 
+Después de realizar un análisis de riesgo de plagas, existen una serie de medidas 
+fitosanitarias para mitigar el riesgo de plagas al importar semillas hacia un país miembro de la 
+NAPPO. Las medidas fitosanitarias tales como inspección, prueba, área libre de plagas, lugar 
+de producción libre de plagas y tratamientos podrán aplicarse o combinarse para obtener un 
+nivel adecuado de protección fitosanitaria. 
+ 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+7
+Los tratamientos de semillas incluyen una variedad de técnicas que pueden comprender, 
+entre otras
+Text Len: 1084
+--------------------------------------------------------------------------------
+osanitaria. 
+ 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+7
+Los tratamientos de semillas incluyen una variedad de técnicas que pueden comprender, 
+entre otras: calor, plaguicidas  y desinfectantes químicos. Los tratamientos de semillas son 
+una herramienta de manejo que se utiliza para prevenir o mitigar el daño a una planta durante 
+su desarrollo temprano, causado por una variedad de insectos y enfermedades. Algunos 
+tratamientos de semillas  podrán tener valor fitosanitario su ficiente para eliminar una plaga 
+específica de un tipo de semilla particular. En es tos casos, la ONPF podrá permitir el uso de 
+un tratamiento comprobado como medida fitosanita ria además de las inspecciones durante la 
+temporada de crecimiento o la s pruebas de laboratorio, o en vez de éstas dos últimas . Otras 
+entidades, que no son la ONPF, pueden reglamentar tratamientos de sem illas tales como 
+aquellos a base de plaguicidas  que puede que no estén disponi bles en algunos países 
+miembros de la NAPPO. 
+ 
+1.3 Equivalencia de
+Text Len: 1062
+--------------------------------------------------------------------------------
+ que no son la ONPF, pueden reglamentar tratamientos de sem illas tales como 
+aquellos a base de plaguicidas  que puede que no estén disponi bles en algunos países 
+miembros de la NAPPO. 
+ 
+1.3 Equivalencia de las medidas fitosanitarias 
+ 
+La equivalencia de las medidas fitosanitarias es uno de los principios básicos que se 
+encuentra en la NIMF 1: 2006 . El proceso para reconocer la equivalencia se define en la 
+NIMF 24: 2005 como: "...el examen objetivo de las medidas fitosani tarias alternativas que se 
+han propuesto para determinar si  ellas logran el nivel adecuado de protección de un país 
+importador, como lo indican las medidas existentes de dicho país." 
+ 
+La equivalencia de las medidas fito sanitarias es de suma importancia para la movilización 
+internacional de semillas debido a que muchas medidas fitosanitarias distintas están 
+disponibles y pueden tener el mismo efecto previsto.  
+ 
+La determinación de la equivalencia deber ía fundamentarse en el  riesgo de plaga 
+especificado y conlleva el intercambio de info rmación y la evaluación entre las ONPF de los 
+países importador y exportador.  
+ 
+1.4 Requ
+Text Len: 1129
+--------------------------------------------------------------------------------
+
+La determinación de la equivalencia deber ía fundamentarse en el  riesgo de plaga 
+especificado y conlleva el intercambio de info rmación y la evaluación entre las ONPF de los 
+países importador y exportador.  
+ 
+1.4 Requisitos fitosanitarios que se recomiendan para semillas 
+ 
+Las ONPF con frecuencia cuentan con requisitos fi tosanitarios similares para semillas de la 
+misma especie. Las variaciones menores en la redacción de las declaraciones adicionales 
+(DA), (a saber, los métodos necesarios para la inspección de campo, el muestreo, la prueba o 
+los tratamientos) pueden crear obstáculos a la certificación fitosanitaria para múltiples 
+destinos.  
+ 
+Para facilitar el comercio internacional, los requisitos fitosanitarios de importación deberían 
+armonizarse, y reconocerse la m edidas fitosanitarias equivalentes. El resultado sería un nivel 
+constante de protección cuando la semilla se  movilice en el ámbito internacional y se 
+simplificarían los acuerdos bilaterales. 
+ 
+1.5 Requisitos de la documentación  
+ 
+Cuando la ONPF del país import ador solicite un certificado fitos anitario, la ONPF del país 
+Text Len: 1120
+--------------------------------------------------------------------------------
+ movilice en el ámbito internacional y se 
+simplificarían los acuerdos bilaterales. 
+ 
+1.5 Requisitos de la documentación  
+ 
+Cuando la ONPF del país import ador solicite un certificado fitos anitario, la ONPF del país 
+exportador debería expedirlo en conformidad con los requisitos de la ONPF del país 
+importador y la NIMF 12: 2011. 
+ 
+La ONPF del país importador también podrá exigir un permiso para importar antes de permitir 
+la importación de un producto.  
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+8
+ 
+2. Requisitos específicos  
+ 
+2.1 Reexportación 
+ 
+Las semillas podrán exportarse y luego reexportarse varias veces antes de plantarse. La 
+semilla reexportada generalmente está sujeta a los requisitos de importación del país que 
+recibe la semilla reexportada. El país que recibe la semilla reexportada también podrá exigir la 
+seguridad de que la situación de la plaga en cualquier país en la cadena comercial sea 
+aceptable/apropiada antes de permitir la entrada de la semilla. La OPNF del país reexportador 
+debería verificar los requisitos de importación de
+Text Len: 1115
+--------------------------------------------------------------------------------
+
+seguridad de que la situación de la plaga en cualquier país en la cadena comercial sea 
+aceptable/apropiada antes de permitir la entrada de la semilla. La OPNF del país reexportador 
+debería verificar los requisitos de importación de la ONPF del próximo país de destino.. 
+ 
+2.2 Comunicación de información técnica entre las ONPF para facilitar la certificación 
+fitosanitaria posterior  
+ 
+Los países de la NAPPO reconocen que hay sit uaciones en las cuales un país importador 
+posterior exigirá medidas fitosa nitarias las cuales deben realiz arse en el país de origen (a 
+saber, inspección durante la temporada de crecim iento, muestreo de suelo). Para ayudar a 
+facilitar las reexportaciones, esta información té cnica podrá transmitirse al país que reexporta 
+la semilla para asegurar que ellos cumplen con los requisitos fitosanitarios del país importador 
+así como su obligación internacional conforme a la NIMF 12: 2011. 
+ 
+Las declaraciones adicionales (DA) en ocas iones se requieren para los certificados 
+fitosanitarios como medio para proporcionar in formación adicional específica sobre un envío 
+en relación con las plag
+Text Len: 1136
+--------------------------------------------------------------------------------
+ NIMF 12: 2011. 
+ 
+Las declaraciones adicionales (DA) en ocas iones se requieren para los certificados 
+fitosanitarios como medio para proporcionar in formación adicional específica sobre un envío 
+en relación con las plagas reglamentadas. La in formación fitosanitaria adicional que sea 
+oficial y que avale la ausencia de plagas adicional es las cuales no son ex igidas por el primer 
+país importador podrá incluirse en el certificado fitosanitario original para facilitar la 
+reexportación futura a otros países. Esta información debería seguir a las DA y estar 
+separada de las DA que exige el primer país importador en conformidad con lo establecido en 
+la NIMF 12: 2011. 
+ 
+La ONPF del país de reexportación podrá expedir un certificado fitosanitario de reexportación, 
+si se cumplen los requisitos de importación del país importador. Este se basará en un 
+certificado fitosanitario expedido por la ON PF del país de origen con declaraciones 
+adicionales específicas u otro tipo de informaci ón fitosanitaria para br indar la seguridad de 
+que el envío cumple con los requisitos fitosani tarios existentes del país importador. El 
+certificado de reexportación también confirm
+Text Len: 1181
+--------------------------------------------------------------------------------
+
+adicionales específicas u otro tipo de informaci ón fitosanitaria para br indar la seguridad de 
+que el envío cumple con los requisitos fitosani tarios existentes del país importador. El 
+certificado de reexportación también confirma  que durante el almacenaje en el país de 
+reexportación, el envío no ha est ado sujeto al riesgo de infestac ión o infección. Si el país  
+importador tiene requisitos de importación para plagas adicionales, los cuales aún no haya 
+cumplido el país de origen, y el país de reexportación puede cumplir esos requisitos utilizando 
+un tratamiento de semillas aprobado o prueba de sanidad de la semilla, entonces se podrá 
+expedir un certificado fitosanitario de reexportación. 
+ 
+Las ONPF deberían seguir las directrices establecidas en la NIMF 12 para obtener 
+información adicional con el fin de facilitar la exportación y reexportación de semillas.  
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+9
+2.3 Inspección y/o prueba de semilla oscura (peletizada, cubierta o que ha sido sometida a 
+tratamiento) 
+Text Len: 1077
+--------------------------------------------------------------------------------
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+9
+2.3 Inspección y/o prueba de semilla oscura (peletizada, cubierta o que ha sido sometida a 
+tratamiento) 
+ 
+La semilla oscura incluye aquella que está cubierta, peletizada o enterrada en cinta adhesiva, 
+tapetes o cualquier otro sustrato que oculte  su visibilidad. Los exportadores deberían 
+consultar con la ONPF del país importador para determinar si cuentan con requisitos 
+específicos para la semilla oscura. 
+ 
+2.4 Consideraciones especiales para la importación de cantidades pequeñas de semillas  
+ 
+Varias compañías y entidades de investigaci ón cuentan con programas de mejoramiento 
+genético y aumento en varios países con el fin de evaluar la adaptación de la semilla a climas 
+distintos, resistencia a plagas, así como condiciones de crecimi ento y sistemas de 
+producción. Todo ello supone que hay movilización internacional de semillas. 
+ 
+El riesgo fitosanitario relacionado con la movilización inter nacional de cantidades pequeñas 
+de semillas por lo general se considera menor que el que
+Text Len: 1091
+--------------------------------------------------------------------------------
+emas de 
+producción. Todo ello supone que hay movilización internacional de semillas. 
+ 
+El riesgo fitosanitario relacionado con la movilización inter nacional de cantidades pequeñas 
+de semillas por lo general se considera menor que el que puede ocasionar la semilla prevista 
+para plantarse comercialmente. Dicha semilla está  sujeta a medidas fitosanitarias específicas 
+las cuales mitigan el riesgo de dispersión de plagas.   
+ 
+La ONPF del país importador podrá establecer procedimientos específicos para la 
+importación de cantidades pequeñas de semillas.  Hay que tener muy en cuenta cuando se 
+determine el tamaño apropiado de la muestra para realizar el muestreo y las pruebas a 
+cantidades pequeñas de semillas (en conformidad con lo establecido en la NIMF 31: 2008). 
+ 
+2.5 Semilla restringida o prohibida  
+ 
+La ONPF podrá permitir la entrada de semilla que generalmente está restringida o prohibida, 
+si tiene la autoridad legal para hacerlo y cuando la semilla esté prevista para investigación o 
+fines comerciales especializados de acuerdo con un permiso con condiciones especificadas.  
+ 
+Esas condiciones podrán establecer requis
+Text Len: 1146
+--------------------------------------------------------------------------------
+ prohibida, 
+si tiene la autoridad legal para hacerlo y cuando la semilla esté prevista para investigación o 
+fines comerciales especializados de acuerdo con un permiso con condiciones especificadas.  
+ 
+Esas condiciones podrán establecer requisitos tales como contención en laboratorio, 
+cuarentena posentrada, entrada especial, manipulación, almac enamiento, procesamiento, 
+mantenimiento de registros y procedimientos de eliminación que podrá n ser necesarios para 
+proporcionar un nivel apropiado de protección fitosanitaria par a el país importador. El 
+importador/exportador debería consultar con la ONPF del país importador para determinar si 
+tienen requisitos específicos para exportar/importar semilla restringida o prohibida. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+10
+Anexo y apéndices 
+ 
+Este anexo fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013 
+Este anexo es una parte prescriptiva de la norma. 
+ 
+Anexo 1: Plagas (patógenos) que se consideran transportados (SB) o transmitidos por 
+la semilla (ST)* 
+ 
+Plaga Producto SB ST Comentarios Referen
+Text Len: 1130
+--------------------------------------------------------------------------------
+ de marzo del 2013 
+Este anexo es una parte prescriptiva de la norma. 
+ 
+Anexo 1: Plagas (patógenos) que se consideran transportados (SB) o transmitidos por 
+la semilla (ST)* 
+ 
+Plaga Producto SB ST Comentarios Referencias 
+Clavibacter 
+michiganensis 
+var 
+michiganensis  
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+ Sí  Dhavantari, BN, 1993. Seedborne 
+infection in tomato bacterial canker. 
+Proc. 9th Annual Tomato Disease 
+Workshop, pp. 33-36  
+ 
+Hadas, R, Kritzman, F, Gefen, T, y 
+Manulus, S, 2005. Comparison of 
+extraction procedures and determing 
+detection threshold for Clavibacter 
+michiganensis pv. michiganensis in 
+tomato seeds.  
+ 
+Plant Pathology 54(5): 643-649 
+Tsiantos, J, 1987. Transmission of 
+Corynebacterium michiganensis pv 
+michiganensis by seeds. 
+Phytopathology 119(2): 142-146 
+ Capsicum 
+spp. 
+(pimiento) 
+ Sí  Alvares, AM, 2006.Detection and risk 
+assessment of invasive bacterial 
+species on imported tomato seed. In: 
+USDA Research, Education, and 
+Economics Information System, 
+Project HAW00964-1014S 
+Pantoea 
+Stewartii
+Text Len: 1051
+--------------------------------------------------------------------------------
+. 
+(pimiento) 
+ Sí  Alvares, AM, 2006.Detection and risk 
+assessment of invasive bacterial 
+species on imported tomato seed. In: 
+USDA Research, Education, and 
+Economics Information System, 
+Project HAW00964-1014S 
+Pantoea 
+Stewartii 
+(marchitez de 
+Stewart) 
+Zea mays 
+(maíz) 
+ Sí Es casi imposible la 
+transmisión de semilla a 
+partir de semilla de maíz 
+de buena calidad (Block 
+et. al., 1999)  
+Block, CC, Hill, JH y McGee, DC, 
+1999. Relationship between late 
+season severity of Stewart’s bacterial 
+wilt and seed infection in maize. Plant 
+Disease 83: 527-530. 
+Tilletia indica 
+Matri 
+Triticum spp. 
+(wheat), x-
+Triticosecale 
+(triticum) spp. 
+(barley) 
+(únicamente 
+Canadá) 
+Avena spp. 
+(oat ) 
+(únicamente 
+Canadá)  
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) 
+ Sí  Bains, SS, and Dhaliwal, HS, 1989. 
+Release of secondary sporidia of 
+Neovossica indica from inoculated 
+wheat spikes. Plant and Soil Vol. 15 
+(1): 83-87 
+Dhaliwal, HS, 1989. 
+ 
+Mult
+Text Len: 961
+--------------------------------------------------------------------------------
+
+Canadá) 
+ Sí  Bains, SS, and Dhaliwal, HS, 1989. 
+Release of secondary sporidia of 
+Neovossica indica from inoculated 
+wheat spikes. Plant and Soil Vol. 15 
+(1): 83-87 
+Dhaliwal, HS, 1989. 
+ 
+Multiplication of sporidia of Tilletia  
+indica on soil and wheat leaves and 
+spikes and incidence of Karnal bunt. 
+Can. J. Botany67(8): 2387-2390 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+11
+El presente apéndice fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013. 
+Este apéndice es para fines de referencia solamente y no es una parte prescriptiva de la norma. 
+ 
+Apéndice 1: Pruebas y métodos de diagnósticos de semillas que se recomiendan para 
+plagas de semillas (la lista no es exhaustiva) 
+ 
+Plaga Producto Prueba/diagnóstico
+que se recomienda Comentarios Referencias 
+Clavibacter 
+michiganensis 
+michiganensis 
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+Método So4 ISHI-Veg 
+(2001)  
+Text Len: 1032
+--------------------------------------------------------------------------------
+ueba/diagnóstico
+que se recomienda Comentarios Referencias 
+Clavibacter 
+michiganensis 
+michiganensis 
+(CMM) 
+Solanum 
+lycopersicum 
+(tomate) 
+Método So4 ISHI-Veg 
+(2001)  
+Métodos se encuentran en 
+el sitio web de la NAPPO 
+o de la  NSHS 
+(www.seedhealth.org) 
+Method for the detection of Clavibacter 
+michiganensis pv 
+michiganensis on tomato seed, 
+version 4, August 2011. 
+International Seed Federation  
+www.worldseed.org/cms/medias/ 
+file/TradeIssues/Phytosanitary 
+Matters/seedhealthtesting 
+Pantoea 
+stewartii      
+(Marchitez de 
+Stewart) 
+Zea mays 
+(maize) 
+Prueba Elisa *  Lamka, GL, Hill, JH, McGee, DC, Braun, 
+EJ. Development of an immunosorbent  
+assay for seed borne Erwinia stewartii. 
+Phytopathology 81: 839-846 
+Tilletia indica 
+Mitra (carbón 
+parcial) 
+Triticum spp. 
+(trigo) Triticale 
+(x-triticosecale), 
+Hordeum spp. 
+(cebada) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Text Len: 909
+--------------------------------------------------------------------------------
+
+parcial) 
+Triticum spp. 
+(trigo) Triticale 
+(x-triticosecale), 
+Hordeum spp. 
+(cebada) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) Avena 
+spp. (avena) 
+(únicamente 
+Canadá) 
+Método de lavado de 
+semillas con tamiz de 
+tamaño selectivo para 
+teliosporas (SSS, por su 
+sigla en inglés) 
+Método SSS modificado 
+ 
+Examen directo de granos 
+inmaduros 
+Métodos se encuentran en 
+el sitio web de la NAPPO 
+(www.nappo.org) 
+NRMF 13: Directrices para establecer, 
+mantener y verificar  áreas libres de 
+carbón parcial en Norteamérica 
+ 
+NRMF 21: Procedimiento armonizado 
+para distinguir morfológicamente a las 
+teliosporas del carbón parcial, de las del 
+carbón del pasto, carbón del arroz y 
+otros tizones similares  
+ 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+12
+Text Len: 911
+--------------------------------------------------------------------------------
+ y 
+otros tizones similares  
+ 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+12
+El presente apéndice fue adoptado por el Comité Ejecutivo de la NAPPO el 19 de marzo del 2013. 
+Este apéndice es para fines de referencia solamente y no es una parte prescriptiva de la norma. 
+ 
+Apéndice 2: Tratamientos de semillas que se recomiendan para plagas cuarentenarias 
+de semillas* 
+ 
+Plaga Producto Tratamiento Comentarios Referencias 
+Clavibacter 
+michiganensis 
+pv 
+michiganensis 
+(CMM)  
+Solanum 
+lycopersicum 
+semilla de 
+(tomate) 
+Agua caliente 50 
+C/25 min 
+Logra la 
+erradicación total; 
+temperaturas 
+más altas y/o 
+tiempos más 
+largos 
+disminuyen la 
+germinación 
+Miller, SA, y ML Ivey. 2005. Hot 
+water and chlorine treatment of 
+vegetable seeds  to eradicate 
+bacterial pathogens. The Ohio 
+State University Extension HYG 
+3805-05. 
+ 
+Fatmi, M, NW Shaad, and HA 
+Balkan, 1991. Seed
+Text Len: 1009
+--------------------------------------------------------------------------------
+germinación 
+Miller, SA, y ML Ivey. 2005. Hot 
+water and chlorine treatment of 
+vegetable seeds  to eradicate 
+bacterial pathogens. The Ohio 
+State University Extension HYG 
+3805-05. 
+ 
+Fatmi, M, NW Shaad, and HA 
+Balkan, 1991. Seed treatments 
+for eradicating Clavibacter 
+michiganensis pv michiganensis 
+from naturally infected tomato 
+seeds. Plant Dis 75: 383-385. 
+ 
+Dhanvantari, BN, 1994. Further 
+studies on seed treatments for 
+Bacterial canker. Proceedings of 
+10th Annual Tomato 
+Disease Workshop, 43-51 
+  Ácido clorhídrico El uso del HCL 
+para someter a 
+tratamiento la 
+pulpa en la 
+extracción de 
+semilla seguido 
+del secado de 
+semillas durante 
+3 H logran la 
+erradicación 
+PERO la 
+extracción del 
+ácido seguida de 
+la pulpa en 
+volumen similar 
+del 5% HCL 
+duran 10 min. 
+seguido de 
+lavado no eliminó 
+completamente a 
+CMM de la 
+semilla de tomate 
+infectada en 
+forma natural 
+Thyr, BD, RE Webb, CA 
+Jaworski, TJ Radcliffe, 1973. 
+Tomato bacterial canker: control 
+by seed treatment.. Plant Disease 
+Reporter 57: 974-977. 
+ 
+P
+Text Len: 1045
+--------------------------------------------------------------------------------
+
+CMM de la 
+semilla de tomate 
+infectada en 
+forma natural 
+Thyr, BD, RE Webb, CA 
+Jaworski, TJ Radcliffe, 1973. 
+Tomato bacterial canker: control 
+by seed treatment.. Plant Disease 
+Reporter 57: 974-977. 
+ 
+Pradhanang, PM y G Collier, 
+2009. How effective is HCL to 
+control CMM in tomato seed?  
+Acta Horticulture (Proc 2 nd 
+International Symposium on 
+Tomato Diseases, Kuradara, 
+Turkey, 8-12 October, 2007. 
+
+Proyecto de NRMF 36  
+Directrices fitosanitarias para la movilización de semillas  
+13
+ 
+Plaga Producto Tratamiento Comentarios Referencias 
+  0.05% o-penilfenol La pulpa sometida 
+a tratamiento con 
+pectinase/HCL 
+frente a la 
+fermentación, 
+demostró ser eficaz 
+para desinfectar a 
+las semillas  
+Dhanvantari, BN 1989. Efficacy of 
+seed extraction methods and seed 
+treatments on control of bacterial 
+canker. Can. J. 
+Plant Path 11: 401-408. 
+ 
+Dhanvantari, BN y RJ Brown. 1993. 
+Improved seed treatments for control 
+of bacterial canker. Can. J. Plant Path 
+15:201-205. 
+  Hipoclorito de 
+calcio 
+0.5% w/v no logra
+Text Len: 1032
+--------------------------------------------------------------------------------
+
+Plant Path 11: 401-408. 
+ 
+Dhanvantari, BN y RJ Brown. 1993. 
+Improved seed treatments for control 
+of bacterial canker. Can. J. Plant Path 
+15:201-205. 
+  Hipoclorito de 
+calcio 
+0.5% w/v no logra 
+la erradicación total 
+Dhanvantari, BN, 1989. Efficacy of 
+seed extraction methods and seed 
+treatments on control of bacterial 
+canker. Can. J. Plant Path. 
+Pantoea stewartii  Zea mays 
+(maize) 
+Ninguno para 
+semilla  
+La incidencia de 
+transmisión de 
+semilla casi no 
+existe si el 
+escarabajo vector 
+se maneja en 
+forma apropiada 
+con los 
+tratamientos 
+disponibles tales 
+como imidaclorpido 
+y thiamethoxam 
+Kuhar, TP, Stivers-Young, LJ, 
+Hoffman, MP, y Taylor, AG, 2002. 
+Control of corn flea beetle and 
+Stewart’s wilt in sweet corn with 
+imidachlorpid and thiamethoxam 
+treatments. Crop Protection 21: 25-
+31. 
+ 
+Pataky, JK,Michener, PM, Freeman, 
+ND, Weinzierl, RA y Teyker, RH. 
+2000. Control of Stewart’s wilt in 
+sweet corn with seed treatment 
+insecticides. Plant Disease 84: 1104-
+Text Len: 994
+--------------------------------------------------------------------------------
+ments. Crop Protection 21: 25-
+31. 
+ 
+Pataky, JK,Michener, PM, Freeman, 
+ND, Weinzierl, RA y Teyker, RH. 
+2000. Control of Stewart’s wilt in 
+sweet corn with seed treatment 
+insecticides. Plant Disease 84: 1104-
+1108. 
+ 
+Munkvold, GP, McGee, DC, y IIes, A. 
+1996. Effects of imidachlorpid 
+treatment of corn on foliar and 
+Erwinia stewartii  transmission by the 
+corn flea beetle. Plant Disease 80: 
+747-749. 
+Tilletia  indica  
+Matri  
+(carbón parcial) 
+Triticum spp 
+(trigo), Triticale 
+(x-triticosecale) 
+Hordeum spp. 
+(cebada) Avena 
+spp. (avena) 
+(únicamente 
+Canadá) 
+Secale spp. 
+(centeno) 
+(únicamente 
+Canadá) 
+Avena spp. 
+(avena) 
+(únicamente 
+Canadá) 
+Ninguno para 
+semilla  
+La detección 
+positiva de granos 
+inmaduros 
+necesitará 
+desinfección (EE. 
+UU.) Los 
+tratamientos están 
+aprobado 
+solamente para el 
+equipo que se 
+utilice para manejar 
+las semillas (se 
+afectará la 
+vi
+Text Len: 892
+--------------------------------------------------------------------------------
+os 
+inmaduros 
+necesitará 
+desinfección (EE. 
+UU.) Los 
+tratamientos están 
+aprobado 
+solamente para el 
+equipo que se 
+utilice para manejar 
+las semillas (se 
+afectará la 
+viabilidad de la 
+semilla). 
+USDA Port of Entry Treatment 
+Manual: Domestic Treatments (EE. 
+UU.). 
+*La lista de plagas no es exhaustiva, se están recolectando datos para otras plagas.
+Text Len: 357
+--------------------------------------------------------------------------------

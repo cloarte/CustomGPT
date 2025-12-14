@@ -1,0 +1,556 @@
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+State Laboratory Test 
+ 
+1 Alabama Thompson-Bishop-Sparks State Diagnostic Laboratory 
+890 Simms Road 
+Auburn AL 36832 
+ 
+cELISA 
+2 Arkansas Arkansas Livestock & Poultry Commission Laboratory 
+One Natural Resources Drive 
+Little Rock AR 72205 
+ 
+cELISA 
+3 California California Animal Health & Food Safety Laboratory 
+620 West Health Sciences Dr. 
+Davis CA 95616 
+ 
+cELISA 
+4 Colorado Colorado Department of Agriculture – Animal Health Laboratory 
+2331 W. 31st Ave 
+Denver CO 80211 
+ 
+cELISA 
+5 Florida Bronson Animal Disease Diagnostic Laboratory 
+2700 North John Young Parkway 
+Kissimmee FL 34741 
+ 
+cELISA 
+6 Georgia University of Georgia Tifton Veterinary Diagnostic Laboratory 
+43 Brighton Road P.O. Box 1389 
+Tifton GA 31793 
+ 
+cELISA 
+7 Hawaii Hawaii Department of Agriculture, Animal Industry Division, 
+Veterinary Laboratory Services 
+99-941 Halawa Valley St 
+Aiea HI 96712 
+ 
+cELISA 
+8 Idaho Idaho State Department of Agriculture Animal Health Laboratory 
+2230 Old Penitentiary Rd P.O. Box 7249 
+Boise ID 83712 
+ 
+cELISA 
+9 Illinois University of Illinois Veterinary Diagnostic Laboratory 
+2001 S. Lincoln Ave 
+Urbana IL 61820 
+ 
+cELISA 
+10 Indiana Indiana Animal Disease Diagnostic Laboratory at Purdue University 
+406 S. University St 
+West Lafayette IN 47907 
+ 
+cELISA 
+11 Iowa USDA Center
+Text Len: 1347
+--------------------------------------------------------------------------------
+ 
+cELISA 
+9 Illinois University of Illinois Veterinary Diagnostic Laboratory 
+2001 S. Lincoln Ave 
+Urbana IL 61820 
+ 
+cELISA 
+10 Indiana Indiana Animal Disease Diagnostic Laboratory at Purdue University 
+406 S. University St 
+West Lafayette IN 47907 
+ 
+cELISA 
+11 Iowa USDA Center for Veterinary Biologics – PEL 
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL – Serology  
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL  
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL – 
+BMRT/HRU 
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+ 
+Iowa State University Veterinary Diagnostic Laboratory  
+1850 Christensen Dr 
+Ames IA 50011 
+ 
+cELISA 
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+12 Kansas Kansas State Veterinary Diagnostic Laboratory 
+1800 Dennison Ave. Mosier Hall 
+Manhattan KS 66506  
+ 
+cELISA 
+13 Kentucky University of Kentucky, Veterinary Diagnostic Laboratory 
+1490 Bull Lea Rd 
+Lexington KY 40512 
+ 
+cELISA 
+14 Maryland Frederick Animal Health Laboratory 
+1840 Rosemont Ave 
+Frederick MD 21702 
+ 
+cELISA 
+15 Michigan MDARD William C. Geagley Laboratory 
+1615 S Harrison Rd 
+East Lansing MI 48823 
+ 
+cELISA 
+16
+Text Len: 1258
+--------------------------------------------------------------------------------
+
+Lexington KY 40512 
+ 
+cELISA 
+14 Maryland Frederick Animal Health Laboratory 
+1840 Rosemont Ave 
+Frederick MD 21702 
+ 
+cELISA 
+15 Michigan MDARD William C. Geagley Laboratory 
+1615 S Harrison Rd 
+East Lansing MI 48823 
+ 
+cELISA 
+16 Minnesota University of Minnesota Veterinary Diagnostic Laboratory 
+1333 Gortner Ave.  
+St. Paul MN 55108  
+ 
+cELISA 
+17 Mississippi Mississippi Veterinary Research & Diagnostic Laboratory 
+3137 Highway 468 West 
+Pearl MS 39208 
+ 
+cELISA 
+18 Missouri Animal Health Laboratory – Jefferson City 
+101 North Chestnut St 
+Jefferson City MO 65101 
+ 
+cELISA 
+Missouri Department of Agriculture Veterinary Diagnostic 
+Laboratory 
+701 North Miller Ave 
+Springfield MO 65802 
+ 
+cELISA 
+Veterinary Medical Diagnostic Laboratory 
+P.O. Box 6023  
+Columbia MO 65205 
+ 
+cELISA 
+19 Montana Montana Veterinary Diagnostic Laboratory  
+1911 West Lincoln St 
+Bozeman MT 59178 
+ 
+cELISA 
+20 Nebraska University of Nebraska Veterinary Diagnostic Center 
+4040 East Campus Loop North 
+Lincoln NE 68583 
+ 
+cELISA 
+21 New York Animal Health Diagnostic Center 
+240 Farrier Rd 
+Ithaca NY 14853 
+ 
+cELISA 
+22 North Carolina Rollins Diagnostic Laboratory 
+2101 Blue Ridge Rd 
+Raleigh NC 27607 
+ 
+cELISA 
+23 Ohio Animal Disease Diagnostic Laboratory 
+8995 E. Main St. Building 6 
+Reynoldsburg OH 430
+Text Len: 1301
+--------------------------------------------------------------------------------
+ Center 
+240 Farrier Rd 
+Ithaca NY 14853 
+ 
+cELISA 
+22 North Carolina Rollins Diagnostic Laboratory 
+2101 Blue Ridge Rd 
+Raleigh NC 27607 
+ 
+cELISA 
+23 Ohio Animal Disease Diagnostic Laboratory 
+8995 E. Main St. Building 6 
+Reynoldsburg OH 43068 
+ 
+cELISA 
+24 Oklahoma Oklahoma Animal Disease Diagnostic Laboratory 
+Farm Rd and Ridge Rd 
+Stillwater OK 74076 
+ 
+cELISA 
+25 Pennsylvania Pennsylvania Veterinary Laboratory 
+2305 N. Cameron St 
+Harrisburg PA 17110 
+ 
+cELISA 
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+ 
+26 Tennessee Kord Animal Health Diagnostic Laboratory 
+440 Hogan Rd 
+Nashville TN 37220 
+ 
+cELISA 
+27 Texas Texas A&M Veterinary Medical Diagnostic Laboratory – Canyon 
+3209 Russell Long Blvd 
+Canyon TX 79016 
+ 
+cELISA 
+Texas A&M Veterinary Medical Diagnostic Laboratory – College 
+Station 
+483 Agronomy Rd 
+College Station Tx 
+ 
+cELISA 
+28 Utah Utah Veterinary Diagnostic Laboratory 
+950 East 1400 North 
+Logan UT 84341 
+ 
+cELISA 
+29 Virginia VDACS Warrenton Regional Animal Health Laboratory 
+272 Academy Rd 
+Warrenton VA 20186 
+ 
+cELISA 
+Wytheville Regional Animal Industry Laboratory 
+250 Cassell Rd 
+Wytheville VA 24382 
+ 
+cELISA 
+30 Washington Washington Animal Disease Diagnostic Laboratory 
+100 Dairy Rd, 155 N Bustad Hall 
+Pullman WA 99174 
+ 
+c
+Text Len: 1272
+--------------------------------------------------------------------------------
+ 
+Warrenton VA 20186 
+ 
+cELISA 
+Wytheville Regional Animal Industry Laboratory 
+250 Cassell Rd 
+Wytheville VA 24382 
+ 
+cELISA 
+30 Washington Washington Animal Disease Diagnostic Laboratory 
+100 Dairy Rd, 155 N Bustad Hall 
+Pullman WA 99174 
+ 
+cELISA 
+31 Wyoming Wyoming State Veterinary Laboratory 
+1174 Snowy Range Rd 
+Laramie WY 82072 
+ 
+cELISA 
+ 
+Text Len: 349
+--------------------------------------------------------------------------------
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+State Laboratory Test 
+ 
+1 Alabama Thompson-Bishop-Sparks State Diagnostic Laboratory 
+890 Simms Road 
+Auburn AL 36832 
+ 
+cELISA 
+2 Arkansas Arkansas Livestock & Poultry Commission Laboratory 
+One Natural Resources Drive 
+Little Rock AR 72205 
+ 
+cELISA 
+3 California California Animal Health & Food Safety Laboratory 
+620 West Health Sciences Dr. 
+Davis CA 95616 
+ 
+cELISA 
+4 Colorado Colorado Department of Agriculture – Animal Health Laboratory 
+2331 W. 31st Ave 
+Denver CO 80211 
+ 
+cELISA 
+5 Florida Bronson Animal Disease Diagnostic Laboratory 
+2700 North John Young Parkway 
+Kissimmee FL 34741 
+ 
+cELISA 
+6 Georgia University of Georgia Tifton Veterinary Diagnostic Laboratory 
+43 Brighton Road P.O. Box 1389 
+Tifton GA 31793 
+ 
+cELISA 
+7 Hawaii Hawaii Department of Agriculture, Animal Industry Division, 
+Veterinary Laboratory Services 
+99-941 Halawa Valley St 
+Aiea HI 96712 
+ 
+cELISA 
+8 Idaho Idaho State Department of Agriculture Animal Health Laboratory 
+2230 Old Penitentiary Rd P.O. Box 7249 
+Boise ID 83712 
+ 
+cELISA 
+9 Illinois University of Illinois Veterinary Diagnostic Laboratory 
+2001 S. Lincoln Ave 
+Urbana IL 61820 
+ 
+cELISA 
+10 Indiana Indiana Animal Disease Diagnostic Laboratory at Purdue University 
+406 S. University St 
+West Lafayette IN 47907 
+ 
+cELISA 
+11 Iowa USDA Center
+Text Len: 1347
+--------------------------------------------------------------------------------
+ 
+cELISA 
+9 Illinois University of Illinois Veterinary Diagnostic Laboratory 
+2001 S. Lincoln Ave 
+Urbana IL 61820 
+ 
+cELISA 
+10 Indiana Indiana Animal Disease Diagnostic Laboratory at Purdue University 
+406 S. University St 
+West Lafayette IN 47907 
+ 
+cELISA 
+11 Iowa USDA Center for Veterinary Biologics – PEL 
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL – Serology  
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL  
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+USDA National Veterinary Services Laboratory – DBRL – 
+BMRT/HRU 
+1920 Dayton Ave  
+Ames IA 50010 
+ 
+cELISA 
+ 
+Iowa State University Veterinary Diagnostic Laboratory  
+1850 Christensen Dr 
+Ames IA 50011 
+ 
+cELISA 
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+12 Kansas Kansas State Veterinary Diagnostic Laboratory 
+1800 Dennison Ave. Mosier Hall 
+Manhattan KS 66506  
+ 
+cELISA 
+13 Kentucky University of Kentucky, Veterinary Diagnostic Laboratory 
+1490 Bull Lea Rd 
+Lexington KY 40512 
+ 
+cELISA 
+14 Maryland Frederick Animal Health Laboratory 
+1840 Rosemont Ave 
+Frederick MD 21702 
+ 
+cELISA 
+15 Michigan MDARD William C. Geagley Laboratory 
+1615 S Harrison Rd 
+East Lansing MI 48823 
+ 
+cELISA 
+16
+Text Len: 1258
+--------------------------------------------------------------------------------
+
+Lexington KY 40512 
+ 
+cELISA 
+14 Maryland Frederick Animal Health Laboratory 
+1840 Rosemont Ave 
+Frederick MD 21702 
+ 
+cELISA 
+15 Michigan MDARD William C. Geagley Laboratory 
+1615 S Harrison Rd 
+East Lansing MI 48823 
+ 
+cELISA 
+16 Minnesota University of Minnesota Veterinary Diagnostic Laboratory 
+1333 Gortner Ave.  
+St. Paul MN 55108  
+ 
+cELISA 
+17 Mississippi Mississippi Veterinary Research & Diagnostic Laboratory 
+3137 Highway 468 West 
+Pearl MS 39208 
+ 
+cELISA 
+18 Missouri Animal Health Laboratory – Jefferson City 
+101 North Chestnut St 
+Jefferson City MO 65101 
+ 
+cELISA 
+Missouri Department of Agriculture Veterinary Diagnostic 
+Laboratory 
+701 North Miller Ave 
+Springfield MO 65802 
+ 
+cELISA 
+Veterinary Medical Diagnostic Laboratory 
+P.O. Box 6023  
+Columbia MO 65205 
+ 
+cELISA 
+19 Montana Montana Veterinary Diagnostic Laboratory  
+1911 West Lincoln St 
+Bozeman MT 59178 
+ 
+cELISA 
+20 Nebraska University of Nebraska Veterinary Diagnostic Center 
+4040 East Campus Loop North 
+Lincoln NE 68583 
+ 
+cELISA 
+21 New York Animal Health Diagnostic Center 
+240 Farrier Rd 
+Ithaca NY 14853 
+ 
+cELISA 
+22 North Carolina Rollins Diagnostic Laboratory 
+2101 Blue Ridge Rd 
+Raleigh NC 27607 
+ 
+cELISA 
+23 Ohio Animal Disease Diagnostic Laboratory 
+8995 E. Main St. Building 6 
+Reynoldsburg OH 430
+Text Len: 1301
+--------------------------------------------------------------------------------
+ Center 
+240 Farrier Rd 
+Ithaca NY 14853 
+ 
+cELISA 
+22 North Carolina Rollins Diagnostic Laboratory 
+2101 Blue Ridge Rd 
+Raleigh NC 27607 
+ 
+cELISA 
+23 Ohio Animal Disease Diagnostic Laboratory 
+8995 E. Main St. Building 6 
+Reynoldsburg OH 43068 
+ 
+cELISA 
+24 Oklahoma Oklahoma Animal Disease Diagnostic Laboratory 
+Farm Rd and Ridge Rd 
+Stillwater OK 74076 
+ 
+cELISA 
+25 Pennsylvania Pennsylvania Veterinary Laboratory 
+2305 N. Cameron St 
+Harrisburg PA 17110 
+ 
+cELISA 
+NVSL Anaplasmosis  
+Approved Laboratories 
+ 
+ 
+26 Tennessee Kord Animal Health Diagnostic Laboratory 
+440 Hogan Rd 
+Nashville TN 37220 
+ 
+cELISA 
+27 Texas Texas A&M Veterinary Medical Diagnostic Laboratory – Canyon 
+3209 Russell Long Blvd 
+Canyon TX 79016 
+ 
+cELISA 
+Texas A&M Veterinary Medical Diagnostic Laboratory – College 
+Station 
+483 Agronomy Rd 
+College Station Tx 
+ 
+cELISA 
+28 Utah Utah Veterinary Diagnostic Laboratory 
+950 East 1400 North 
+Logan UT 84341 
+ 
+cELISA 
+29 Virginia VDACS Warrenton Regional Animal Health Laboratory 
+272 Academy Rd 
+Warrenton VA 20186 
+ 
+cELISA 
+Wytheville Regional Animal Industry Laboratory 
+250 Cassell Rd 
+Wytheville VA 24382 
+ 
+cELISA 
+30 Washington Washington Animal Disease Diagnostic Laboratory 
+100 Dairy Rd, 155 N Bustad Hall 
+Pullman WA 99174 
+ 
+c
+Text Len: 1272
+--------------------------------------------------------------------------------
+ 
+Warrenton VA 20186 
+ 
+cELISA 
+Wytheville Regional Animal Industry Laboratory 
+250 Cassell Rd 
+Wytheville VA 24382 
+ 
+cELISA 
+30 Washington Washington Animal Disease Diagnostic Laboratory 
+100 Dairy Rd, 155 N Bustad Hall 
+Pullman WA 99174 
+ 
+cELISA 
+31 Wyoming Wyoming State Veterinary Laboratory 
+1174 Snowy Range Rd 
+Laramie WY 82072 
+ 
+cELISA 
+ 
+Text Len: 349
+--------------------------------------------------------------------------------

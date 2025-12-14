@@ -1,0 +1,584 @@
+ 
+ 
+Veterinary Services  
+Centers for Epidemiology and Animal Health October 2008  
+_________________________________________________________________________________________________________________________ 
+ 
+Bovine Leukosis Virus (BLV) 
+on U.S. Dairy Operations, 
+2007 
+ 
+In 2007, the U.S. Department of Agriculture’s (USDA) 
+National Animal Health Monitoring System (NAHMS) 
+conducted the Dairy 2007 study. In all, 17 of the Nation’s 
+major dairy States* participated in the study. These 
+States divided into two regions and represented 79.5 
+percent of U.S. dairy operations and 82.5 percent of U.S. 
+dairy cows participated in the study.  
+This information sheet presents and compares data 
+on BLV prevalence in U.S. dairy cattle collected during 
+Dairy 2007 and during a previous NAHMS dairy study, 
+Dairy 1996.  
+ 
+BLV  
+ 
+BLV is a retrovirus that infects dairy and beef cattle’s 
+lymphoid tissue, causing malignant lymphoma and 
+lymphosarcoma in 1 to 5 percent of infected animals. 
+The virus is transmitted to cattle primarily by direct 
+exposure with infected blood, saliva, semen, and milk.1 
+Most BLV-infected cattle seldom present with clinical 
+signs of disease. Signs of infection may include tumors 
+in lymphoid tissues, enlarged lymph nodes, weight loss, 
+decreased milk production, fever, loss of appetite, rear-
+limb weakness or paralysis, protruding eyeballs, 
+gastrointestinal obstructions, and increased blood 
+lymphocytes counts. Because no vaccine is available for 
+BLV, virus specific antibodies found in serum or milk
+Text Len: 1542
+--------------------------------------------------------------------------------
+ 
+in lymphoid tissues, enlarged lymph nodes, weight loss, 
+decreased milk production, fever, loss of appetite, rear-
+limb weakness or paralysis, protruding eyeballs, 
+gastrointestinal obstructions, and increased blood 
+lymphocytes counts. Because no vaccine is available for 
+BLV, virus specific antibodies found in serum or milk are 
+a good indicator of exposure and a practical method for 
+disease screening.  
+ 
+Economic impact of BLV on U.S. dairies 
+ 
+Producers can incur economic losses because of 
+BLV through cattle deaths, reduced reproductive 
+efficiency, increased replacement and veterinary costs, 
+and the ineligibility to export live cattle, semen, and ova 
+to countries where BLV control efforts are in place.2 3  
+A BLV certification program conducted in New York 
+indicated that the disease had a significant economic 
+impact on operations with high seroprevalence of BLV in 
+which morbidity and mortality rates were high due to 
+malignant lymphoma. 
+  
+*States/Regions:  
+• West: California, Idaho, New Mexico, Texas, and Washington 
+• East: Indiana, Iowa, Kentucky, Michigan, Minnesota, Missouri, New 
+York, Ohio, Pennsylvania, Vermont, Virginia, and Wisconsin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The association between cattle exposed to BLV and 
+herd-level productivity was studied using data from the 
+NAHMS Dairy 1996 study.4 This study found that herds 
+with test-positive cows produced 218 kg less milk per 
+cow, per year than those with no test-positive cows.  
+ 
+BLV prevalence on U.S. dairies, 1996
+Text Len: 1505
+--------------------------------------------------------------------------------
+ cattle exposed to BLV and 
+herd-level productivity was studied using data from the 
+NAHMS Dairy 1996 study.4 This study found that herds 
+with test-positive cows produced 218 kg less milk per 
+cow, per year than those with no test-positive cows.  
+ 
+BLV prevalence on U.S. dairies, 1996 and 
+2007 
+  
+The Dairy 1996 study was the first statistically based 
+study in the United States to provide a baseline 
+prevalence of BLV and the measures for controlling it. 
+During the study, blood samples from cattle on 1,006 
+operations were tested using the Agar Gel Immuno-
+diffusion test (AGID). Results showed that 89.0 percent 
+of U.S. dairy operations had cattle seropositive for BLV; 
+74.8 percent of these operations had an estimated 
+within-herd prevalence of 25 percent or higher. Dairy 
+operations with fewer than 100 cows had lower 
+individual animal prevalences and were less likely to be 
+seropositive for BLV than operations with more than 200 
+cows. 
+As part of the 2007 dairy study, bulk tank milk was 
+collected from 534 operations with 30 or more dairy 
+cows and tested with an Enzyme Linked-Immunosorbent 
+Assay (ELISA) for the presence of antibodies against 
+BLV. Results showed that 83.9 percent of U.S. dairy 
+operations were positive for BLV (table 1). 
+ 
+Table 1. Percentage of Operations in Which Bulk 
+Tank Milk Tested Positive for BLV via ELISA, by 
+Herd size  
+ 
+Herd Size              
+Text Len: 1407
+--------------------------------------------------------------------------------
+ showed that 83.9 percent of U.S. dairy 
+operations were positive for BLV (table 1). 
+ 
+Table 1. Percentage of Operations in Which Bulk 
+Tank Milk Tested Positive for BLV via ELISA, by 
+Herd size  
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 83.2  
+Medium (100-499) 82.1  
+Large (500 or more) 100.0  
+All operations 83.9  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+BLV prevalence estimates were also reported by 
+region: 78.4 percent of operations in the study’s West 
+region and 84.4 percent in the East region tested 
+positive for BLV antibodies.  
+Only 7.5 percent of all operations had independently 
+confirmed the presence of BLV on their premises via 
+laboratory testing during the 12 months prior to the Dairy 
+2007 interview (table 2). Of these operations, the 
+majority (88.5 percent) submitted blood samples for 
+disease confirmation. Only 6.3 percent submitted tissues 
+for necropsy. 
+ 
+Table 2. Percentage of Operations in Which BLV was 
+Confirmed Via Laboratory Testing During the 
+Previous 12 months, by Herd size  
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 5.7  
+Medium (100-499) 12.4  
+Large (500 or more) 7.8  
+All operations 7.5  
+ 
+Summary 
+Text Len: 1220
+--------------------------------------------------------------------------------
+
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 5.7  
+Medium (100-499) 12.4  
+Large (500 or more) 7.8  
+All operations 7.5  
+ 
+Summary  
+ 
+Although the 1996 and 2007 dairy studies used 
+different testing methods (AGID vs. milk ELISA) and 
+different samples (serum vs. bulk tank milk), both studies 
+suggest that BLV is present on the majority of U.S. dairy 
+operations. Different regions were used in the 1996 and 
+2007 studies for the geographic distribution of dairy 
+operations. For this reason, regional differences in BLV 
+herd-level prevalence were not comparable.  
+In addition, the Dairy 2007 study found that only 7.5 
+percent of operations independently confirmed the 
+presence of BLV on their operations via laboratory 
+testing. Although no details were available regarding the 
+reasons why these operations submitted samples for 
+BLV testing, it is possible that they had cattle with clinical 
+signs compatible with BLV. The low percentage of 
+operations that tested for BLV supports the concept that 
+although infection is common, clinical signs of BLV are 
+not frequently observed. A lower percentage of small 
+operations had antibodies detected than large 
+operations. 
+The high individual animal prevalence of BLV 
+reported in the Dairy 1996 study suggests that testing 
+and culling seropositive animals may not be a cost 
+effective method to control the disease. Instead, 
+preventing disease transmission by implementing 
+preventive practices would likely be more cost-effective. 
+Since the primary route of
+Text Len: 1563
+--------------------------------------------------------------------------------
+operations. 
+The high individual animal prevalence of BLV 
+reported in the Dairy 1996 study suggests that testing 
+and culling seropositive animals may not be a cost 
+effective method to control the disease. Instead, 
+preventing disease transmission by implementing 
+preventive practices would likely be more cost-effective. 
+Since the primary route of infection is through contact 
+with infected blood, prevention involves eliminating blood 
+transmission from cow to cow. Prevention practices 
+include using a new needle for each injection, discarding 
+or cleaning syringes contaminated with blood, and 
+cleaning blood-contaminated equipment such as 
+dehorning equipment and tattoo pliers. Additionally, 
+feeding calves pasteurized colostrum and milk, and 
+using BLV seronegative dams for embryo transfer 
+should assist in reducing the incidence of BLV.1 
+To review complete reports from the Dairy 1996 and 
+Dairy 2007 studies, visit the NAHMS Website at:  
+http://nahms.aphis.usda.gov. 
+ 
+References 
+ 
+1. Hopkins SG, and DiGiacomo RF. Natural transmission of bovine 
+leukemia virus in dairy and beef cattle. Vet Clin North Am Food Anim 
+Pract. 1997 Mar;13(1):107-28 
+2. Burny A, Bruck C, Chantrenne H, Cleuter Y, Dekegel D, Ghysdael J, 
+Kettmann R, Leclerq M, Leunen J, Mammerickx M, Portetelle D. 1980 
+Bovine leukemia virus: molecular biology and epidemiology. In: Klein, 
+G. (Ed.), Viral Oncology. Raven Press, New York, pp. 231-305. 
+Text Len: 1440
+--------------------------------------------------------------------------------
+, Ghysdael J, 
+Kettmann R, Leclerq M, Leunen J, Mammerickx M, Portetelle D. 1980 
+Bovine leukemia virus: molecular biology and epidemiology. In: Klein, 
+G. (Ed.), Viral Oncology. Raven Press, New York, pp. 231-305. 
+3. Pelzer KD. Economics of bovine leukemia virus infection. Vet Clin N. 
+Am Food Anim. Pract. 1997. 13 (1), 129-141. 
+4. Ott SL, Johnson R, Wells SJ. Association between bovine-leukosis 
+virus seroprevalence and herd-level productivity on US dairy farms. 
+Prev Vet Med. 2003 Dec 12;61(4):249-62. 
+_____________________________ 
+ 
+For more information, contact: 
+ 
+USDA–APHIS–VS–CEAH 
+NRRC Building B, M.S. 2E7 
+2150 Centre Avenue  
+Fort Collins, CO 80526-8117  
+970.494.7000 
+E-mail: NAHMS@aphis.usda.gov 
+http://nahms.aphis.usda.gov 
+#N526.0708 
+____________________________________ 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in 
+all its programs and activities on the basis of race, color, national 
+origin, age, disability, and where applicable, sex, marital status, familial 
+status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income 
+is derived from any public assistance program.  (Not all prohibited 
+bases apply to all
+Text Len: 1266
+--------------------------------------------------------------------------------
+ race, color, national 
+origin, age, disability, and where applicable, sex, marital status, familial 
+status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income 
+is derived from any public assistance program.  (Not all prohibited 
+bases apply to all programs.)  Persons with disabilities who require 
+alternative means for communication of program information (Braille, 
+large print, audiotape, etc.) should contact USDA’s TARGET Center at 
+(202) 720–2600 (voice and TDD).  To file a complaint of discrimination, 
+write to USDA, Director, Office of Civil Rights, 1400 Independence 
+Avenue, S.W., Washington, D.C. 20250–9410, or call (800) 795–3272 
+(voice) or (202) 720–6382 (TDD).  USDA is an equal opportunity 
+provider and employer. 
+ 
+Mention of companies or commercial products does not imply 
+recommendation or endorsement by the U.S. Department of Agriculture 
+over others not mentioned. USDA neither guarantees nor warrants the 
+standard of any product mentioned. Product names are mentioned solely to 
+report factually on available data and to provide specific information. 
+ 
+Text Len: 1181
+--------------------------------------------------------------------------------
+ 
+ 
+Veterinary Services  
+Centers for Epidemiology and Animal Health October 2008  
+_________________________________________________________________________________________________________________________ 
+ 
+Bovine Leukosis Virus (BLV) 
+on U.S. Dairy Operations, 
+2007 
+ 
+In 2007, the U.S. Department of Agriculture’s (USDA) 
+National Animal Health Monitoring System (NAHMS) 
+conducted the Dairy 2007 study. In all, 17 of the Nation’s 
+major dairy States* participated in the study. These 
+States divided into two regions and represented 79.5 
+percent of U.S. dairy operations and 82.5 percent of U.S. 
+dairy cows participated in the study.  
+This information sheet presents and compares data 
+on BLV prevalence in U.S. dairy cattle collected during 
+Dairy 2007 and during a previous NAHMS dairy study, 
+Dairy 1996.  
+ 
+BLV  
+ 
+BLV is a retrovirus that infects dairy and beef cattle’s 
+lymphoid tissue, causing malignant lymphoma and 
+lymphosarcoma in 1 to 5 percent of infected animals. 
+The virus is transmitted to cattle primarily by direct 
+exposure with infected blood, saliva, semen, and milk.1 
+Most BLV-infected cattle seldom present with clinical 
+signs of disease. Signs of infection may include tumors 
+in lymphoid tissues, enlarged lymph nodes, weight loss, 
+decreased milk production, fever, loss of appetite, rear-
+limb weakness or paralysis, protruding eyeballs, 
+gastrointestinal obstructions, and increased blood 
+lymphocytes counts. Because no vaccine is available for 
+BLV, virus specific antibodies found in serum or milk
+Text Len: 1542
+--------------------------------------------------------------------------------
+ 
+in lymphoid tissues, enlarged lymph nodes, weight loss, 
+decreased milk production, fever, loss of appetite, rear-
+limb weakness or paralysis, protruding eyeballs, 
+gastrointestinal obstructions, and increased blood 
+lymphocytes counts. Because no vaccine is available for 
+BLV, virus specific antibodies found in serum or milk are 
+a good indicator of exposure and a practical method for 
+disease screening.  
+ 
+Economic impact of BLV on U.S. dairies 
+ 
+Producers can incur economic losses because of 
+BLV through cattle deaths, reduced reproductive 
+efficiency, increased replacement and veterinary costs, 
+and the ineligibility to export live cattle, semen, and ova 
+to countries where BLV control efforts are in place.2 3  
+A BLV certification program conducted in New York 
+indicated that the disease had a significant economic 
+impact on operations with high seroprevalence of BLV in 
+which morbidity and mortality rates were high due to 
+malignant lymphoma. 
+  
+*States/Regions:  
+• West: California, Idaho, New Mexico, Texas, and Washington 
+• East: Indiana, Iowa, Kentucky, Michigan, Minnesota, Missouri, New 
+York, Ohio, Pennsylvania, Vermont, Virginia, and Wisconsin 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The association between cattle exposed to BLV and 
+herd-level productivity was studied using data from the 
+NAHMS Dairy 1996 study.4 This study found that herds 
+with test-positive cows produced 218 kg less milk per 
+cow, per year than those with no test-positive cows.  
+ 
+BLV prevalence on U.S. dairies, 1996
+Text Len: 1505
+--------------------------------------------------------------------------------
+ cattle exposed to BLV and 
+herd-level productivity was studied using data from the 
+NAHMS Dairy 1996 study.4 This study found that herds 
+with test-positive cows produced 218 kg less milk per 
+cow, per year than those with no test-positive cows.  
+ 
+BLV prevalence on U.S. dairies, 1996 and 
+2007 
+  
+The Dairy 1996 study was the first statistically based 
+study in the United States to provide a baseline 
+prevalence of BLV and the measures for controlling it. 
+During the study, blood samples from cattle on 1,006 
+operations were tested using the Agar Gel Immuno-
+diffusion test (AGID). Results showed that 89.0 percent 
+of U.S. dairy operations had cattle seropositive for BLV; 
+74.8 percent of these operations had an estimated 
+within-herd prevalence of 25 percent or higher. Dairy 
+operations with fewer than 100 cows had lower 
+individual animal prevalences and were less likely to be 
+seropositive for BLV than operations with more than 200 
+cows. 
+As part of the 2007 dairy study, bulk tank milk was 
+collected from 534 operations with 30 or more dairy 
+cows and tested with an Enzyme Linked-Immunosorbent 
+Assay (ELISA) for the presence of antibodies against 
+BLV. Results showed that 83.9 percent of U.S. dairy 
+operations were positive for BLV (table 1). 
+ 
+Table 1. Percentage of Operations in Which Bulk 
+Tank Milk Tested Positive for BLV via ELISA, by 
+Herd size  
+ 
+Herd Size              
+Text Len: 1407
+--------------------------------------------------------------------------------
+ showed that 83.9 percent of U.S. dairy 
+operations were positive for BLV (table 1). 
+ 
+Table 1. Percentage of Operations in Which Bulk 
+Tank Milk Tested Positive for BLV via ELISA, by 
+Herd size  
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 83.2  
+Medium (100-499) 82.1  
+Large (500 or more) 100.0  
+All operations 83.9  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+BLV prevalence estimates were also reported by 
+region: 78.4 percent of operations in the study’s West 
+region and 84.4 percent in the East region tested 
+positive for BLV antibodies.  
+Only 7.5 percent of all operations had independently 
+confirmed the presence of BLV on their premises via 
+laboratory testing during the 12 months prior to the Dairy 
+2007 interview (table 2). Of these operations, the 
+majority (88.5 percent) submitted blood samples for 
+disease confirmation. Only 6.3 percent submitted tissues 
+for necropsy. 
+ 
+Table 2. Percentage of Operations in Which BLV was 
+Confirmed Via Laboratory Testing During the 
+Previous 12 months, by Herd size  
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 5.7  
+Medium (100-499) 12.4  
+Large (500 or more) 7.8  
+All operations 7.5  
+ 
+Summary 
+Text Len: 1220
+--------------------------------------------------------------------------------
+
+ 
+Herd Size              
+(Number of Cows) Percent Operations 
+Small (fewer than 100) 5.7  
+Medium (100-499) 12.4  
+Large (500 or more) 7.8  
+All operations 7.5  
+ 
+Summary  
+ 
+Although the 1996 and 2007 dairy studies used 
+different testing methods (AGID vs. milk ELISA) and 
+different samples (serum vs. bulk tank milk), both studies 
+suggest that BLV is present on the majority of U.S. dairy 
+operations. Different regions were used in the 1996 and 
+2007 studies for the geographic distribution of dairy 
+operations. For this reason, regional differences in BLV 
+herd-level prevalence were not comparable.  
+In addition, the Dairy 2007 study found that only 7.5 
+percent of operations independently confirmed the 
+presence of BLV on their operations via laboratory 
+testing. Although no details were available regarding the 
+reasons why these operations submitted samples for 
+BLV testing, it is possible that they had cattle with clinical 
+signs compatible with BLV. The low percentage of 
+operations that tested for BLV supports the concept that 
+although infection is common, clinical signs of BLV are 
+not frequently observed. A lower percentage of small 
+operations had antibodies detected than large 
+operations. 
+The high individual animal prevalence of BLV 
+reported in the Dairy 1996 study suggests that testing 
+and culling seropositive animals may not be a cost 
+effective method to control the disease. Instead, 
+preventing disease transmission by implementing 
+preventive practices would likely be more cost-effective. 
+Since the primary route of
+Text Len: 1563
+--------------------------------------------------------------------------------
+operations. 
+The high individual animal prevalence of BLV 
+reported in the Dairy 1996 study suggests that testing 
+and culling seropositive animals may not be a cost 
+effective method to control the disease. Instead, 
+preventing disease transmission by implementing 
+preventive practices would likely be more cost-effective. 
+Since the primary route of infection is through contact 
+with infected blood, prevention involves eliminating blood 
+transmission from cow to cow. Prevention practices 
+include using a new needle for each injection, discarding 
+or cleaning syringes contaminated with blood, and 
+cleaning blood-contaminated equipment such as 
+dehorning equipment and tattoo pliers. Additionally, 
+feeding calves pasteurized colostrum and milk, and 
+using BLV seronegative dams for embryo transfer 
+should assist in reducing the incidence of BLV.1 
+To review complete reports from the Dairy 1996 and 
+Dairy 2007 studies, visit the NAHMS Website at:  
+http://nahms.aphis.usda.gov. 
+ 
+References 
+ 
+1. Hopkins SG, and DiGiacomo RF. Natural transmission of bovine 
+leukemia virus in dairy and beef cattle. Vet Clin North Am Food Anim 
+Pract. 1997 Mar;13(1):107-28 
+2. Burny A, Bruck C, Chantrenne H, Cleuter Y, Dekegel D, Ghysdael J, 
+Kettmann R, Leclerq M, Leunen J, Mammerickx M, Portetelle D. 1980 
+Bovine leukemia virus: molecular biology and epidemiology. In: Klein, 
+G. (Ed.), Viral Oncology. Raven Press, New York, pp. 231-305. 
+Text Len: 1440
+--------------------------------------------------------------------------------
+, Ghysdael J, 
+Kettmann R, Leclerq M, Leunen J, Mammerickx M, Portetelle D. 1980 
+Bovine leukemia virus: molecular biology and epidemiology. In: Klein, 
+G. (Ed.), Viral Oncology. Raven Press, New York, pp. 231-305. 
+3. Pelzer KD. Economics of bovine leukemia virus infection. Vet Clin N. 
+Am Food Anim. Pract. 1997. 13 (1), 129-141. 
+4. Ott SL, Johnson R, Wells SJ. Association between bovine-leukosis 
+virus seroprevalence and herd-level productivity on US dairy farms. 
+Prev Vet Med. 2003 Dec 12;61(4):249-62. 
+_____________________________ 
+ 
+For more information, contact: 
+ 
+USDA–APHIS–VS–CEAH 
+NRRC Building B, M.S. 2E7 
+2150 Centre Avenue  
+Fort Collins, CO 80526-8117  
+970.494.7000 
+E-mail: NAHMS@aphis.usda.gov 
+http://nahms.aphis.usda.gov 
+#N526.0708 
+____________________________________ 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in 
+all its programs and activities on the basis of race, color, national 
+origin, age, disability, and where applicable, sex, marital status, familial 
+status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income 
+is derived from any public assistance program.  (Not all prohibited 
+bases apply to all
+Text Len: 1266
+--------------------------------------------------------------------------------
+ race, color, national 
+origin, age, disability, and where applicable, sex, marital status, familial 
+status, parental status, religion, sexual orientation, genetic information, 
+political beliefs, reprisal, or because all or part of an individual’s income 
+is derived from any public assistance program.  (Not all prohibited 
+bases apply to all programs.)  Persons with disabilities who require 
+alternative means for communication of program information (Braille, 
+large print, audiotape, etc.) should contact USDA’s TARGET Center at 
+(202) 720–2600 (voice and TDD).  To file a complaint of discrimination, 
+write to USDA, Director, Office of Civil Rights, 1400 Independence 
+Avenue, S.W., Washington, D.C. 20250–9410, or call (800) 795–3272 
+(voice) or (202) 720–6382 (TDD).  USDA is an equal opportunity 
+provider and employer. 
+ 
+Mention of companies or commercial products does not imply 
+recommendation or endorsement by the U.S. Department of Agriculture 
+over others not mentioned. USDA neither guarantees nor warrants the 
+standard of any product mentioned. Product names are mentioned solely to 
+report factually on available data and to provide specific information. 
+ 
+Text Len: 1181
+--------------------------------------------------------------------------------

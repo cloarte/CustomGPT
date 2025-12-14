@@ -1,0 +1,2736 @@
+Introduction
+Karnal bunt (sometimes called partial bunt), caused by
+the fungus Tilletia indicaMitra, seldom results in sig-
+nificant yield losses to wheat in the field. The fungus
+does not produce any toxic compounds in leaf, stem
+tissue, or seed that pose health risks when consumed
+(Bonde). Because the fungus poses no risk to human
+health, the U.S. Government does not have any food
+safety regulations concerning Karnal bunt. However,
+Karnal bunt affects flour quality if more than 3 percent
+of the grains are bunted because it produces trimethy-
+lamine, which gives off a fishy odor. Pasta products
+made with flour contaminated with Karnal bunt can
+have an unacceptable color. 
+Many U.S. trading partners will not accept U.S. wheat
+exports unless the wheat is certified to be from areas
+where Karnal bunt is not known to occur. USDA’s
+Animal and Plant Health Inspection Service (APHIS)
+imposes quarantines in an attempt to contain the
+spread of Karnal bunt in the United States and con-
+ducts an annual voluntary survey of grain delivered to
+elevators to check for Karnal bunt across the country.
+The use of quarantines and the survey are the basis
+upon which APHIS is able to issue a certificate that is
+accepted by countries importing U.S. wheat.
+Some have proposed that the Karnal bunt quarantine
+regulations and surveys be ended, suggesting that
+USDA should consider contaminated wheat a quality
+issue and establish tolerances for contamination
+(Combs). This paper analyzes the market effects of
+abruptly ending the issuance of certificates stating that
+U.S. wheat is from areas where Karnal bunt is not
+known to occur in the face of continuing barriers
+Text Len: 1661
+--------------------------------------------------------------------------------
+ bunt quarantine
+regulations and surveys be ended, suggesting that
+USDA should consider contaminated wheat a quality
+issue and establish tolerances for contamination
+(Combs). This paper analyzes the market effects of
+abruptly ending the issuance of certificates stating that
+U.S. wheat is from areas where Karnal bunt is not
+known to occur in the face of continuing barriers in
+many overseas markets. 
+The Incidence of Karnal Bunt
+Karnal bunt is geographically isolated, limited to the
+Indian subcontinent, a small area of Mexico, and the
+southwestern United States (Murray and Brennan).
+Karnal bunt is so named because it was discovered in
+1931 on wheat grown near Karnal, India. The disease
+was first confirmed outside of Asia in 1972 in the State
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square61
+Special Article
+Economic Analysis of Ending the Issuance of 
+Karnal Bunt Phytosanitary Wheat Export Certificates
+Gary Vocke, Edward W. Allen, J. Michael Price1
+Abstract:Karnal bunt is a wheat disease that is subject to regulation in the United
+States through quarantining of affected counties to limit its spread. Currently, the
+Karnal bunt regulatory program allows the U.S. Department of Agriculture (USDA)
+to issue phytosanitary export certificates stating that wheat in a given shipment is
+from an area where Karnal bunt is not known to occur. Ending this certifiation pro-
+gram would jeopardize U.S. exports to some countries. A model developed by the
+Economic Research Service was used to analyze a scenario of ending the certifica-
+tion. The loss of export markets for U.S. wheat producers would be only partially
+offset by increased domestic feeding of lower-
+Text Len: 1693
+--------------------------------------------------------------------------------
+ Karnal bunt is not known to occur. Ending this certifiation pro-
+gram would jeopardize U.S. exports to some countries. A model developed by the
+Economic Research Service was used to analyze a scenario of ending the certifica-
+tion. The loss of export markets for U.S. wheat producers would be only partially
+offset by increased domestic feeding of lower-priced wheat. Wheat prices would
+remain below baseline levels. Reduced wheat production and lower prices for wheat
+combine to reduce the total value of the wheat produced in the country, as well as
+the net income in U.S. agriculture. The cumulative reduction of national net farm
+income from 2003 to 2007 relative to the baseline is $5.3 billion. However, this
+includes cumulative marketing loan payments associated with all crops of $2.0 bil-
+lion above the baseline over the 2003-07 period.
+Keywords: Wheat, Karnal bunt.
+1 The authors are Agricultural Economists with the Economic
+Research Service, Market & Trade Economics Division.
+of Sonora, in northwest Mexico (Dept. for
+Environment, Food & Rural Affairs).
+The disease was first found in the United States in
+1996, in Arizona, Texas, and California, and again in
+Texas in 1998. The latest outbreak was in north Texas
+in 2001. It is not known how the disease spread to the
+southwestern United States and then to north Texas.
+Because the early outbreaks were isolated from the
+major wheat-producing areas, the possibility of the
+disease’s spreading to principal wheat-growing areas
+was thought to be minimal. However, the 2001 out-
+break of Karnal bunt in north Texas was at the edge of
+the major wheat area of the Southern Plains (see fig.
+A-1). This raised the prospect that the disease could
+spread as far north as the spores can
+Text Len: 1742
+--------------------------------------------------------------------------------
+ possibility of the
+disease’s spreading to principal wheat-growing areas
+was thought to be minimal. However, the 2001 out-
+break of Karnal bunt in north Texas was at the edge of
+the major wheat area of the Southern Plains (see fig.
+A-1). This raised the prospect that the disease could
+spread as far north as the spores can tolerate winter
+weather conditions. Karnal bunt spores may rapidly
+decay under extreme cold, suggesting that significant
+portions of the northern United States would not be
+conducive to long-term survival (and therefore perma-
+nent establishment) of Karnal bunt (Dobesberger,
+Jimenez, and Sequreira).
+The occurrence of bunted kernels in areas infested
+with Karnal bunt spores is typically low. The ideal
+conditions for infection are temperatures in the range
+of 59-72 degrees F. and accompanied by rainfall, over-
+head irrigation, or high humidity. These conditions
+must occur during heading and for a few weeks after-
+ward for bunted kernels to develop (Forster and Blair).
+These strict environmental conditions make it possible
+for problems with Karnal bunt to be only intermittent
+even if soil spore concentrations are high.
+Spreading Karnal Bunt
+Karnal bunt spores can be carried in soil and on a vari-
+ety of surfaces, including seeds and other plant parts,
+farm equipment, tools, and vehicles. They can also be
+windborne. Karnal bunt spores are resistant to dry con-
+ditions, sunlight, a wide range of temperatures, and
+most fungicides. Wheat that is not infected can
+become contaminated with spores by passing through
+spore-contaminated equipment, transport vessels, or
+facilities. Other grains can also be contaminated with
+spores in the same way.
+While
+Text Len: 1685
+--------------------------------------------------------------------------------
+borne. Karnal bunt spores are resistant to dry con-
+ditions, sunlight, a wide range of temperatures, and
+most fungicides. Wheat that is not infected can
+become contaminated with spores by passing through
+spore-contaminated equipment, transport vessels, or
+facilities. Other grains can also be contaminated with
+spores in the same way.
+While Karnal bunt is not harmful to animals, it is sus-
+pected that spores in contaminated or infected feed
+(grain or bran from milled wheat) can survive inges-
+tion by animals. Since the manure of livestock fed
+such feed is potentially a source of inoculum, bunted
+wheat in quarantined counties must be heat-treated if
+used for animal feed.
+The American Phytopathological Society states that
+the experience from countries where Karnal bunt
+occurs suggests that Karnal bunt is a minor disease
+and the little risk that does exist for grain quality can
+be effectively managed with resistant varieties without
+the use of quarantines (American Phytopathological
+Society). The Society also suggests that although quar-
+antines may delay the introduction of Karnal bunt into
+new areas, they are unlikely to prevent such introduc-
+tions and subsequent establishment. This conclusion
+has been confirmed repeatedly, most recently by the
+occurrence of Karnal bunt in the United Sates despite
+quarantines imposed on wheat from countries where
+the disease has been known to occur.
+Quarantines may be ineffective where wheat-growing
+areas are contiguous, as between Mexico and the
+United States. However, where longer distances apply,
+as between continents or where deserts or mountains
+intervene, quarantines may help to protect countries
+that do not have Karnal bunt (Murray and Brennan).
+Yield Losses to Karnal Bunt
+
+Text Len: 1741
+--------------------------------------------------------------------------------
+
+Quarantines may be ineffective where wheat-growing
+areas are contiguous, as between Mexico and the
+United States. However, where longer distances apply,
+as between continents or where deserts or mountains
+intervene, quarantines may help to protect countries
+that do not have Karnal bunt (Murray and Brennan).
+Yield Losses to Karnal Bunt
+Karnal bunt spores usually replace only a portion of
+the developing kernel and only a few of the kernels in
+a head. Complete conversion of kernels to spores is
+rare. Thus, yield reductions are generally minimal. For
+example, surveys in India during years of heavy dis-
+ease infestations revealed a general, area-wide yield
+loss of less than 0.5 percent (Davila). However, in a
+few fields with highly susceptible varieties, as much as
+89 percent of the kernels were infected, with yield
+losses ranging from 20 to 40 percent.
+Options for Karnal Bunt Control
+Wheat breeders in areas with Karnal bunt recognize
+the importance of avoiding the release of highly sus-
+ceptible varieties.2 This control measure has proven
+effective for reducing the level of Karnal bunt suffi-
+ciently that quality of the harvested grain is not severe-
+ly affected. However, resistant varieties do not eradi-
+cate the disease, and Karnal bunt epidemics have
+recurred in India as soon as susceptible varieties were
+again grown (Murray and Brennan).
+Apparently, cultural practices are of little practical
+value in reducing the probability of an outbreak
+(Murray and Brennan). Seed treatments can reduce the
+2 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2 International Maize and Wheat Institute (CIMMYT) has identi-
+fied 98 resistant lines of bread wheat,
+Text Len: 1696
+--------------------------------------------------------------------------------
+
+Apparently, cultural practices are of little practical
+value in reducing the probability of an outbreak
+(Murray and Brennan). Seed treatments can reduce the
+2 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2 International Maize and Wheat Institute (CIMMYT) has identi-
+fied 98 resistant lines of bread wheat, and Punjab Agricultural
+University, India, has 68 resistant lines (Davila).
+number of viable spores on seed, and, therefore, the
+probability that Karnal bunt will be introduced to new
+areas. Foliar application of fungicides can reduce the
+level of disease, but more than one application is usu-
+ally required, making this an expensive control option.
+Fungicides are likely to be cost effective only if other
+important diseases, such as rusts or Septoria blotches,
+are also present. Fumigation of soil with chemicals,
+such as methyl bromide, metham-sodium, and
+formaldehyde, has been partially successful in killing
+the spores.
+Exporting Under Deregulation 
+Is Problematic
+Not all countries that have restrictions against 
+Karnal bunt would, in practice, strictly prohibit wheat
+imports from the United States if USDA stopped issu-
+ing certificates. Each country has regulations that 
+are often idiosyncratic in how they are written and
+enforced. For example, Italy and Germany currently
+import wheat from countries where Karnal bunt is
+known to occur, after testing to ensure the wheat is
+free of Karnal bunt, despite European Union regula-
+tions against such a practice.
+In addition, while some markets would be captured by
+wheat-exporting countries that are free of Karnal bunt,
+U.S. wheat exports to countries that have no restrictions
+against Karnal
+Text Len: 1690
+--------------------------------------------------------------------------------
+ bunt is
+known to occur, after testing to ensure the wheat is
+free of Karnal bunt, despite European Union regula-
+tions against such a practice.
+In addition, while some markets would be captured by
+wheat-exporting countries that are free of Karnal bunt,
+U.S. wheat exports to countries that have no restrictions
+against Karnal bunt would likely increase. The longrun
+effects would likely depend on the extent that world
+wheat markets treat Karnal bunt as a quality issue.
+There is also an issue of what procedure would be used
+by other countries for Karnal bunt testing if the United
+States should stop issuing certificates. Currently, there is
+no accurate Karnal bunt test available that is rapid
+enough to use during ship loading. Even the microscop-
+ic examination for spores with the “wash test” can lead
+to false positives because of bunt on ryegrass Tilletia
+walkeri. Annual ryegrass is a significant weed problem
+in wheat fields in the southeastern United States. The
+wash test is currently used for seed wheat to ensure that
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square63
+Figure A-1
+Karnal bunt now established at the southern edge of hard red winter plantings 
+(area planted 1998)
+1 Dot = 5,000 planted acres at the county level
+(counties with less than 5,000 acres do not appear)
+Restricted counties
+Durum
+Hard red spring
+White
+Hard red winter
+Soft red spring
+there is no disease present. For non-seed wheat, USDA
+uses a “bunted kernel test” which involves visual
+inspection for bunt on the grain kernel. Spore-contami-
+nated grain can pass the bunted kernel
+Text Len: 1597
+--------------------------------------------------------------------------------
+ not appear)
+Restricted counties
+Durum
+Hard red spring
+White
+Hard red winter
+Soft red spring
+there is no disease present. For non-seed wheat, USDA
+uses a “bunted kernel test” which involves visual
+inspection for bunt on the grain kernel. Spore-contami-
+nated grain can pass the bunted kernel test. Currently,
+most importing countries, even with phytosanitary regu-
+lations against Karnal bunt, accept APHIS’s certificate
+that the wheat comes from an area not known to have
+Karnal bunt, and do not routinely test for Karnal bunt
+spores or check for bunted kernels.
+If even a few important wheat-importing countries
+maintain prohibitions, shipping companies may have
+concerns about shipping wheat from a deregulated
+U.S. wheat sector. Ship owners wishing to protect their
+interests may insist on a certificate from an authorita-
+tive U.S. source that unequivocally confirms that the
+cargo is free from Karnal bunt spores. 
+Further, shipping vessels that carried contaminated
+wheat to countries without prohibitions would have 
+to be sanitized to ensure that later cargoes from other
+sources going to countries that continue to have prohibi-
+tions will not be contaminated. Under U.S. deregulation,
+spores could spread through the storage and transport
+equipment to other products like corn and soybeans.
+The cost of testing and sanitizing to ensure freedom
+from the disease would likely be considerable. 
+There may also be issues with transshipment through
+the St. Lawrence Seaway if the United States deregu-
+lates Karnal bunt. Currently, Canada prohibits the
+entry of wheat from States with Karnal bunt. Any
+wheat that crosses the Canadian
+Text Len: 1639
+--------------------------------------------------------------------------------
+The cost of testing and sanitizing to ensure freedom
+from the disease would likely be considerable. 
+There may also be issues with transshipment through
+the St. Lawrence Seaway if the United States deregu-
+lates Karnal bunt. Currently, Canada prohibits the
+entry of wheat from States with Karnal bunt. Any
+wheat that crosses the Canadian border needs a decla-
+ration that the grain originated in an area free of
+Karnal bunt on the basis of official surveys.
+The future importance of these issues will likely
+depend on whether Karnal bunt becomes widespread
+across the U.S. wheat sector. However, there is no cer-
+tainty about how far and how rapidly the disease might
+spread if the quarantine system is eliminated.
+The USDA Regulated Areas
+An area that is regulated by USDA for Karnal bunt is a
+definable commercial wheat-production area that
+includes at least one field that tested positive for
+Karnal bunted kernels. USDA restricts movement of
+wheat grain, straw, hay and farm equipment within and
+out of these regulated areas. USDA tests wheat grown
+in regulated areas each year for Karnal bunted kernels.
+Currently, in a regulated area, a grain sample must be
+drawn by an APHIS inspector or State cooperator at
+the time of harvest, or if already harvested, from the
+storage bins, and examined for bunted kernels. If the
+sample is taken from the field as it is being harvested
+and no bunted kernels are found, a certificate will be
+issued and the grain allowed to be transported to any
+market. If the grain sample came from grain already in
+storage and no bunted kernels are found, then a permit
+will be issued for the grain to be transported to any
+market. If one or more bunted kernels are found in the
+sample,
+Text Len: 1715
+--------------------------------------------------------------------------------
+ being harvested
+and no bunted kernels are found, a certificate will be
+issued and the grain allowed to be transported to any
+market. If the grain sample came from grain already in
+storage and no bunted kernels are found, then a permit
+will be issued for the grain to be transported to any
+market. If one or more bunted kernels are found in the
+sample, then a notice will be issued and the grain
+sealed in the storage facility prior to approved treat-
+ment or disposal.
+In a regulated area, wheat grown to produce seed can
+be planted only within the regulated area and only if
+the seed tests spore negative through the wash test.
+Seed wheat cannot be moved outside the regulated
+area. Any seed grown in a regulated area that tests
+spore positive (based on the wash test), but is bunt
+negative (based on visual inspection) cannot leave the
+area for seeding purposes, but it can leave the area for
+export as grain to a country that does not require an
+APHIS Karnal bunt certificate or for domestic use for
+livestock feed or milling.
+Wheat grain, straw, or wheat hay that tests bunt positive
+cannot be moved outside the regulated area without
+APHIS approval. If needed, a permit is issued to allow
+the transport of these products to an approved facility
+outside the regulated area for treatment or disposal.
+Karnal bunt quarantines have been controversial since
+they were initiated in 1996. To increase cooperation,
+USDA compensates producers, grain handlers, and
+other affected parties for losses suffered due to the
+Federal quarantine action. Compensation payments
+have totaled about $35 million since 1996 (U.S.
+Department of Agriculture).
+Estimating the Effects of Karnal 
+Bunt Deregulation
+Even though Karnal bunt poses no health risk, many
+U.S
+Text Len: 1746
+--------------------------------------------------------------------------------
+
+USDA compensates producers, grain handlers, and
+other affected parties for losses suffered due to the
+Federal quarantine action. Compensation payments
+have totaled about $35 million since 1996 (U.S.
+Department of Agriculture).
+Estimating the Effects of Karnal 
+Bunt Deregulation
+Even though Karnal bunt poses no health risk, many
+U.S. wheat export markets have a precautionary stance
+against the acceptance of wheat without a certificate
+indicating the wheat is from an area where Karnal bunt
+is not known to occur. Thus, if the United States were
+to stop its certification, U.S. wheat would not meet
+those importing countries’ phytosanitary requirements.
+It is uncertain how the wheat-importing countries of
+the world would react if the United States were to end
+its Karnal bunt quarantine regulation. The reaction of
+many countries would likely depend upon how fre-
+4 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+quent and how widespread Karnal bunt outbreaks
+occurred in the United States and the availability of
+wheat from other sources. However, it is possible to
+anticipate the likely reactions of governments and
+industry to deregulation not accompanied by a severe
+outbreak. This study does not attempt to forecast
+future incidence of Karnal bunt in U.S. wheat fields.
+The scenario analyzed assumes a unilateral end to U.S.
+karnal bunt certification, without significant success in
+getting importing countries to accept something other
+than a zero tolerance level for karnal bunt spores. If
+ongoing scientific research and diplomatic efforts
+cause a significant number of wheat importers to
+accept a more relaxed standard than a zero tolerance,
+then trade effects would likely be smaller. However,
+such efforts would undoubtedly take time.
+Text Len: 1777
+--------------------------------------------------------------------------------
+al bunt certification, without significant success in
+getting importing countries to accept something other
+than a zero tolerance level for karnal bunt spores. If
+ongoing scientific research and diplomatic efforts
+cause a significant number of wheat importers to
+accept a more relaxed standard than a zero tolerance,
+then trade effects would likely be smaller. However,
+such efforts would undoubtedly take time. 
+With unilateral deregulation, we assumed that most of
+the adverse reactions of U.S. wheat customers would
+fall on hard red winter wheat (HRW) producers in the
+Central and Southern Plains and soft red winter wheat
+(SRW) producers (these two classes averaged 62 per-
+cent of U.S. wheat production between 1996 and
+2000). The combination of weather conditions and
+stage of plant growth needed to result in Karnal bunt
+infection are most likely in areas where these two
+classes of wheat are grown (Dobeseberger, Jimenez,
+and Sequeira). Because U.S. wheat is blended, we also
+assumed that HRW and SRW from northern States that
+might not be susceptible to karnal bunt cannot be certi-
+fied as free of spores. However, the harsh winters in
+the northern United States where the other classes of
+wheat are principally grown are expected to prevent
+the spread of the disease into those regions. U.S.
+domestic and international customers for the three
+classes of wheat: hard red spring (HRS), durum in the
+Northern Plains, and white wheat (from the traditional
+Pacific Northwest and Northeastern white wheat areas,
+not Kansas) are assumed to be unconcerned about
+Karnal bunt contamination, even with decertification.
+This lack of concern assumes that some alternative
+government or private certification is found acceptable
+for importers of spring and white wheat and is a major
+reason why this
+Text Len: 1796
+--------------------------------------------------------------------------------
+
+Northern Plains, and white wheat (from the traditional
+Pacific Northwest and Northeastern white wheat areas,
+not Kansas) are assumed to be unconcerned about
+Karnal bunt contamination, even with decertification.
+This lack of concern assumes that some alternative
+government or private certification is found acceptable
+for importers of spring and white wheat and is a major
+reason why this scenario does not have a larger U.S.
+trade loss. Moreover, Canada is also assumed to accept
+alternative certification, allowing transshipments
+through the Saint Lawrence. For many common uses,
+HRS and HRW are readily substituted, as are SRW
+and soft white wheat. 
+A world wheat trade model that appropriately estimates
+trade flows by class and country was not available to
+analyze the issue, so a scenario was developed based
+on expert judgment of USDA analysts. A set of
+assumptions about prices and trade impacts by country
+was developed using the February 2002 trade matrix of
+2001/02 world wheat trade. The percent changes in
+U.S. wheat exports were then applied, beginning in
+2003, relative to the USDA Agricultural Baseline
+Projections to 2011, in a U.S. agricultural sector model
+to calculate the impacts on the domestic farm sector. 
+As a first step, countries were classified by their
+antipathy to Karnal bunt and their presumed response
+to U.S. deregulation (table A-1). For this analysis, each
+significant market for U.S. wheat exports was put into
+one of three categories.
+Group A , accounting for 25 percent of forecast U.S.
+exports, includes countries that: (1) have strict
+requirements on Karnal bunt as reported by APHIS,
+(2) have a history of strict observance of phytosanitary
+regulations, (3) normally import hard red
+Text Len: 1726
+--------------------------------------------------------------------------------
+ exports was put into
+one of three categories.
+Group A , accounting for 25 percent of forecast U.S.
+exports, includes countries that: (1) have strict
+requirements on Karnal bunt as reported by APHIS,
+(2) have a history of strict observance of phytosanitary
+regulations, (3) normally import hard red winter
+(HRW) or soft red winter wheat (SRW), and (4) could
+be expected to remain intransigent about only import-
+ing wheat that is certified as coming from a Karnal
+bunt-free zone. Important markets in this group
+include EU-15, Eastern Europe, China, Egypt, Algeria,
+Morocco, Libya, Tunisia, and Brazil.
+Group B , accounting for 35 percent of forecast U.S.
+exports, includes countries that: (1) have strict require-
+ments on Karnal bunt, as reported by APHIS, (2) may
+be somewhat more flexible in implementation of phy-
+tosanitary regulations, (3) normally import only a por-
+tion of U.S. wheat from regions potentially at risk, and
+(4) although decertification would disrupt HRW and
+SRW shipments in the first year, over the next 2 years
+these countries would be expected to relax Karnal bunt
+standards to tolerance levels that would permit trade
+and a resumption of imports from the United States.
+Important markets in this group include the former
+Soviet Union, Yemen, South Korea, Indonesia, Taiwan,
+Sri Lanka, Mexico, Venezuela, Colombia, and other
+Western Hemisphere countries.
+Group C, about 40 percent of forecast U.S. exports,
+consists of countries: (1) without strict requirements
+on Karnal bunt, as reported by APHIS, (2) that import
+Text Len: 1543
+--------------------------------------------------------------------------------
+ include the former
+Soviet Union, Yemen, South Korea, Indonesia, Taiwan,
+Sri Lanka, Mexico, Venezuela, Colombia, and other
+Western Hemisphere countries.
+Group C, about 40 percent of forecast U.S. exports,
+consists of countries: (1) without strict requirements
+on Karnal bunt, as reported by APHIS, (2) that import
+only U.S. spring or white wheat, and (3) without sig-
+nificant wheat production, and (4) could be expected
+to demand that less than 3 percent of bunted kernels be
+allowed according to milling standards, but would not
+test for spores. Important countries in this group
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square65
+6 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+Table A-1--Likely trade effect of unilateral U.S. deregulation of Karnal bunt1/
+Total U.S.
+Major importers wheat exports HRW share SRW share Other classes 1st year 2nd year 3rd year Long term
+KB 2001/02 of U.S. of U.S. share of U.S. export U.S. export U.S. export U.S. export
+antipathy forecast exports exports U.S. exports loss 2/ loss 2/ loss 2/ loss 2/
+1,000 metric tons
+Total Western Europe 2,300 0 550 1,750 385 1,152 439 404
+EU-15 high 2,200 0 550 1,650 385 1,122 424 404
+Other West Europe high 100 0 0 100 0 30 15 0
+Eastern Europe high 100 80 0 20 78 96 86 82
+FSU medium 125 100 13 13 111 120 56 28
+Total Asia & Middle East 11,975 2,725 523
+Text Len: 1381
+--------------------------------------------------------------------------------
+ 1,750 385 1,152 439 404
+EU-15 high 2,200 0 550 1,650 385 1,122 424 404
+Other West Europe high 100 0 0 100 0 30 15 0
+Eastern Europe high 100 80 0 20 78 96 86 82
+FSU medium 125 100 13 13 111 120 56 28
+Total Asia & Middle East 11,975 2,725 523 8,727 1,280 1,958 455 6
+Total Middle East 2,425 1,565 131 729 928 1,019 233 73
+   Iran 0 0 0 0
+   Iraq 0 0 0 0
+   Y emen medium 625 0 31 594 31 75 38 19
+   Israel low 700 630 56 14 -70 -35 -53 -70
+   Other Mid East medium 1,100 935 44 121 967 979 248 124
+Total East & SE Asia 9,550 1,160 391 7,998 352 939 222 -66
+Japan low 3,040 152 30 2,858 0 0 0
+South Korea medium 1,300 260 26 1,014 185 406 92 0
+Pakistan low 395 8 0 387 -40 -20 -30 -40
+Indonesia medium 250 25 25 200 50 85 43 21
+Philippines low 1,700 17 255 1,428 -170 -85 -128 -170
+China high 275 14 55 206 69 165 76 69
+Malaysia low 200 20 0 180 -20 -10 -15 -20
+Bangladesh low 300 195 0 105 -30 -15 -23 -30
+Taiwan medium 930 279 0 651 214 172 86 43
+Sri Lanka medium 560 101 0 459 55 119 60 30
+Other Asia medium 600 90 0 510 39 122 61 30
+Total Africa 6,700 3,862 1,834 1,005 3,535 4,239 3,638 3,371
+Total
+Text Len: 1101
+--------------------------------------------------------------------------------
+ -30 -15 -23 -30
+Taiwan medium 930 279 0 651 214 172 86 43
+Sri Lanka medium 560 101 0 459 55 119 60 30
+Other Asia medium 600 90 0 510 39 122 61 30
+Total Africa 6,700 3,862 1,834 1,005 3,535 4,239 3,638 3,371
+Total North Africa 4,100 1,910 1,598 593 3,329 3,943 3,676 3,502
+   Egypt high 3,500 1,680 1,470 350 2,975 3,500 3,273 3,124
+   Algeria high 175 35 0 140 35 70 53 44
+   Morocco high 225 113 90 23 200 225 220 210
+   Libya high 125 75 38 13 111 125 122 117
+   Tunisia high 75 8 0 68 8 23 8 8
+Sub-Saharan Afr. 2,600 1,952 236 412 206 296 -38 -132
+   Nigeria low 1,800 1,584 180 36 -180 -90 -135 -180
+   Other Sub-Sahar. medium 800 368 56 376 386 386 97 48
+Total Western Hemisphere 6,150 2,908 2,025 1,218 1,486 1,943 733 265
+Brazil high 175 105 70 0 175 175 193 184
+Mexico low 2,150 1,290 774 86 -215 -99 -157 -215
+Peru low 550 451 88 11 -55 28 -14 -55
+Venezuela medium 550 165 220 165 369 422 184 92
+Colombia medium 550 402 138 11 538 550 269 134
+Cuba low 75 75 0 0 -8 -4 -8 -8
+Other West Hem. medium 2,100 420 735 945 683 872 265 133
+Unaccounted 150 75 75 0
+2001/02 Total 27,500 9,750
+Text Len: 1091
+--------------------------------------------------------------------------------
+enezuela medium 550 165 220 165 369 422 184 92
+Colombia medium 550 402 138 11 538 550 269 134
+Cuba low 75 75 0 0 -8 -4 -8 -8
+Other West Hem. medium 2,100 420 735 945 683 872 265 133
+Unaccounted 150 75 75 0
+2001/02 Total 27,500 9,750 5,018 12,732 6,876 9,508 5,405 4,156
+Percent of total exports 25 35 20 15
+1/ Assumes increased U.S. shipments of HRS and White to markets not accepting HRW and SRW as well as increased shipments
+of HRW and SRW to markets with low antipathy to Karnal Bunt.  After the first year, increased competitors' production also reduces
+U.S. market share. 
+2/ A positive number indicates a loss of exports, a negative number indicates an increase.
+include Israel, Japan, Pakistan, Philippines, Malaysia,
+Bangladesh, and Nigeria.
+U.S. wheat exports were examined to evaluate the
+effect of reducing U.S. HRW and SRW exports to zero
+for Groups 1 and 2 during the first year (see table A-
+1). This means that about 60 percent of U.S. customers
+would find about 55 percent of U.S. exports unaccept-
+able. Some switching to other U.S. wheat classes is
+assumed, but switching would be limited by supplies
+and by limited substitutability for some uses. The
+world wheat market is segmented: some countries have
+inelastic demand, are willing to pay high premiums,
+and are expected to be concerned about Karnal bunt;
+other countries like discounted, cheap wheat and are
+not concerned about Karnal bunt. Assumptions about
+responsiveness in each country drives the analysis of
+changes in
+Text Len: 1496
+--------------------------------------------------------------------------------
+ substitutability for some uses. The
+world wheat market is segmented: some countries have
+inelastic demand, are willing to pay high premiums,
+and are expected to be concerned about Karnal bunt;
+other countries like discounted, cheap wheat and are
+not concerned about Karnal bunt. Assumptions about
+responsiveness in each country drives the analysis of
+changes in world wheat trade and U.S. exports. 
+In the first year, U.S. exports of HRW and SRW are
+calculated to increase to those markets still accepting
+them, while overall U.S. wheat exports are calculated
+to drop nearly 7 million tons, or 25 percent below
+baseline levels. Most of the drop in U.S. exports is
+expected to be gained by competitors’ exports and
+reduced ending stocks (boosting prices in those coun-
+tries). Importers also draw down stocks some, but the
+decline in world wheat trade is small because some
+importers actually increase imports of cheaper U.S.
+HRW and SRW. 
+While the U.S. average farm price for wheat drops sig-
+nificantly (45 cents per bushel in 2003) under this sce-
+nario, the premium for spring wheat (relative to the all-
+wheat average farm price) is assumed to be about 50
+cents per bushel greater than normal, while the discount
+for HRW and SRW would be at least 50 cents greater
+than normal. The market impacts of by-class premiums
+and discounts are larger than the change in the average
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square67
+Egypt is an important example of how a country
+might react to Karnal bunt decertification. Egypt
+has strict phytosanitary regulations regarding
+Karnal b
+Text Len: 1607
+--------------------------------------------------------------------------------
+ normal. The market impacts of by-class premiums
+and discounts are larger than the change in the average
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square67
+Egypt is an important example of how a country
+might react to Karnal bunt decertification. Egypt
+has strict phytosanitary regulations regarding
+Karnal bunt. Moreover, it is a significant producer,
+with irrigated land that could be quite susceptible
+to the disease. These factors would likely cause
+Egypt to be inflexible about accepting wheat with
+Karnal bunt spores (a Group A country). However,
+while most U.S. exports to Egypt have been HRW
+or SRW, some are other classes. U.S. shipments of
+white wheat could be expected to increase, limiting
+U.S. losses in the first year of the scenario (2003)
+to less than 3 million tons (see table A-1).
+However, in 2004, increased competition, in this
+case especially from Australian white wheat, is
+expected to push U.S. wheat out of the Egyptian
+market. In the third year and later, after prices and
+production in Australia decline from the peak in the
+second year, U.S. white wheat shipments to Egypt
+recoup losses, ending up higher than without
+Karnal bunt. However, without SRW and HRW, the
+United States has still lost most of its wheat export
+market to Egypt. 
+Venezuela is an example of a Group B country
+(with medium Karnal bunt antipathy). While
+Venezuela has regulations prohibiting Karnal bunt
+in wheat imports, and Karnal bunt might propagate
+in that climate, Venezuela’s wheat production is
+insignificant. Eventually, Venezuela could be
+expected to accept a Karnal bunt spore tolerance
+Text Len: 1621
+--------------------------------------------------------------------------------
+Venezuela is an example of a Group B country
+(with medium Karnal bunt antipathy). While
+Venezuela has regulations prohibiting Karnal bunt
+in wheat imports, and Karnal bunt might propagate
+in that climate, Venezuela’s wheat production is
+insignificant. Eventually, Venezuela could be
+expected to accept a Karnal bunt spore tolerance
+greater than zero. However, it would likely take
+extensive negotiations. About 70 percent of U.S.
+exports to Venezuela are HRW or SRW. In the first
+year of the scenario, U.S. HRS shipments would be
+expected to increase some, but Canada and
+Argentina would be expected to provide intense
+competition, replacing most of U.S. HRW and SRW
+shipments. In the second year, with negotiations
+ongoing and intense competition from Canada, even
+the U.S. HRS share is reduced. In the third year,
+Venezuela is assumed to accept a reasonable toler-
+ance for Karnal bunt spores, and U.S. exports
+increase dramatically, but in the long run Canada
+has gained a competitive edge, and the U.S. share
+remains about 17 percent below what it would have
+been without Karnal bunt. 
+A Group C country, with low Karnal Bunt antipa-
+thy, like Israel, has no regulation concerning Karnal
+bunt. Imports of U.S. wheat are above baseline lev-
+els throughout the scenario, but the increase in 2004
+is less because increased competitor supplies and
+reduced prices limit U.S. gains. In 2005 and later,
+the U.S. share increases again because the price of
+U.S. HRW and SRW is comparatively attractive. 
+Examples By Country
+U.S. price received by farmers
+Text Len: 1549
+--------------------------------------------------------------------------------
+ above baseline lev-
+els throughout the scenario, but the increase in 2004
+is less because increased competitor supplies and
+reduced prices limit U.S. gains. In 2005 and later,
+the U.S. share increases again because the price of
+U.S. HRW and SRW is comparatively attractive. 
+Examples By Country
+U.S. price received by farmers for wheat. The assumed
+relative international price changes (about $1.00 per
+bushel) are thus similar enough in magnitude to price
+changes in 1995/96 (when the average farm price
+increased $1.10) so that the 1994 to 1998 reaction of
+U.S. competitors to high prices can provide insight into
+their likely reaction in this scenario. 
+In 1994/95, the major competitors (Canada, Australia,
+EU, and Argentina) reduced wheat stocks more than
+11 million tons, while in the Karnal bunt scenario, a 6-
+million-ton reduction is anticipated. These countries
+increased wheat production by over 30 million tons in
+1996/97, but a smaller increase, about 15 million tons,
+is assumed in the Karnal bunt scenario because their
+price increases would be less than occurred in
+1995/96. Moreover, competitors are currently planting
+more wheat than in 1994/95, so it will be more diffi-
+cult for them to expand from this higher base. 
+In the second year of the scenario (2004), some of the
+importing countries in Group B (see table A-1) are
+assumed to adopt less restrictive Karnal bunt stan-
+dards, opening imports to U.S. HRW and SRW, there-
+by reducing the direct effect of Karnal bunt trade barri-
+ers. However, in that second year, foreign competitors’
+production (and U.S. HRS and
+Text Len: 1590
+--------------------------------------------------------------------------------
+see table A-1) are
+assumed to adopt less restrictive Karnal bunt stan-
+dards, opening imports to U.S. HRW and SRW, there-
+by reducing the direct effect of Karnal bunt trade barri-
+ers. However, in that second year, foreign competitors’
+production (and U.S. HRS and White wheat) is expect-
+ed to increase strongly in response to the first year’s
+higher prices. Although a portion of competitors’
+increased production is used to replenish stocks, much
+is expected to move into export channels, further
+reducing U.S. market share. In the second year of the
+scenario, U.S. wheat exports are estimated down 9.5
+million tons, 35 percent below the baseline level (with-
+out Karnal bunt). 
+In the third year after deregulation, the rest of Group B
+countries further relax Karnal bunt import standards,
+and competitors’ response is muted, as wheat prices
+and premiums in those countries decline. However, in
+the third year, U.S. wheat exports are 20 percent below
+baseline levels. In subsequent years, the U.S. recap-
+tures some lost market share as price premiums in
+competing countries become small. However, the
+exclusion of U.S. HRW and SRW from group A mar-
+kets results in a small premium for U.S. competitors
+that are free of Karnal bunt and reduces long-term
+U.S. wheat exports by 15 percent below baseline lev-
+els. This long-term decline represents a loss in market
+share despite the development of alternative regulatory
+mechanisms in markets accounting for 80 percent of
+U.S. wheat exports. 
+No model is available that includes the effects of 
+whe
+Text Len: 1550
+--------------------------------------------------------------------------------
+ are free of Karnal bunt and reduces long-term
+U.S. wheat exports by 15 percent below baseline lev-
+els. This long-term decline represents a loss in market
+share despite the development of alternative regulatory
+mechanisms in markets accounting for 80 percent of
+U.S. wheat exports. 
+No model is available that includes the effects of 
+wheat classes on world trade or U.S. regional and class
+differences with appropriate substitution elasticities.
+Therefore, a more general model was used to quantify
+price changes and address the effects on U.S. agriculture. 
+Model Simulation Results
+The U.S. domestic impacts of terminating certificates
+for Karnal bunt were estimated with the Food and
+Agricultural Policy Simulator (FAPSIM). FAPSIM is a
+large-scale econometric model of the U.S. agricultural
+sector maintained by the Economic Research Service
+(ERS). The model contains submodels for 24 agricul-
+tural commodities, including wheat.3 The model also
+includes submodels to estimate the value of exports,
+net farm income, and Government outlays on farm
+programs for the United States. 
+These submodels are linked together through the vari-
+ables that they share in common. The model computes
+the set of market prices that equilibrate supply and
+demand in all of the commodity markets simultaneous-
+ly, given any set of exogenous conditions. 
+The estimated trade impacts were introduced into the
+model by exogenously reducing wheat exports from
+their baseline levels over the 2003-07 period by the
+percentages already mentioned. The initial export lev-
+els used in the analysis were obtained from the
+February 2002 USDA baseline (USDA, Office of the
+Chief Economist). All of the model simulation results
+from the scenario are compared against the USDA
+baseline projections in the discussion that
+Text Len: 1793
+--------------------------------------------------------------------------------
+ by exogenously reducing wheat exports from
+their baseline levels over the 2003-07 period by the
+percentages already mentioned. The initial export lev-
+els used in the analysis were obtained from the
+February 2002 USDA baseline (USDA, Office of the
+Chief Economist). All of the model simulation results
+from the scenario are compared against the USDA
+baseline projections in the discussion that follows. 
+Figure A-2 shows the assumed reduction in wheat
+exports under the scenario compared with the baseline.
+In 2003/04 and 2004/05, exports under the scenario
+decline relative to the baseline by 25 and 35 percent, or
+by 244 million and 359 million bushels, respectively.
+Exports partly recover in the succeeding years of the
+analysis, averaging 15 percent less than the baseline.
+The decline in exports under the scenario reduces the
+farmgate price of wheat (fig. A-3). Prices decline from
+the baseline by 17 and 19 percent, or by 45 and 53
+cents per bushel, in 2003/04 and 2004/05, respectively.
+The loss is larger in the second year because the
+sharply higher prices expected to be received by U.S.
+competitors in 2003/04 result in significantly expanded
+8 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+3 The wheat submodel in FAPSIM is an aggregate model. It does
+not distinguish between the different classes of wheat.
+production in 2004/05. We assumed that the European
+Union would not put a tax on wheat exports to hold
+down its domestic prices. U.S. domestic prices partial-
+ly recover relative to the baseline in succeeding years
+with recovery of some of the lost export markets. The
+prices under the scenario are still below baseline prices
+by 13 percent in 2007/08.
+With domestic prices lower under
+Text Len: 1736
+--------------------------------------------------------------------------------
+. We assumed that the European
+Union would not put a tax on wheat exports to hold
+down its domestic prices. U.S. domestic prices partial-
+ly recover relative to the baseline in succeeding years
+with recovery of some of the lost export markets. The
+prices under the scenario are still below baseline prices
+by 13 percent in 2007/08.
+With domestic prices lower under the scenario, the
+U.S. area planted to wheat declines relative to the
+baseline (fig. A-4). However, the response by produc-
+ers to the lower wheat prices is muted somewhat over
+the initial years because of U.S. Government farm pro-
+grams. Part of the market revenue loss that producers
+experience due to lower farm prices over this period is
+offset by an increase in marketing loan benefits that
+they receive from the government. As a result, the area
+planted to wheat declines relative to the baseline by 2
+and 3 percent, or by 1.0 and 2.1 million acres, respec-
+tively, in 2004/05 and 2005/06. In contrast, area plant-
+ed to wheat declines by 2.7 million acres below the
+baseline level in 2007/08 when producers are not
+expected to receive any offsetting compensation
+through marketing loans. Because the production
+response is muted in the early years, excess production
+occurs, causing the price impacts to be larger than they
+would be in the absence of government programs.
+With lower prices under the scenario, domestic feeding
+of wheat increases sharply, by 32 and 107 percent, or
+by 88 and 295 million bushels, in 2003/04 and
+2004/05, respectively. With smaller price impacts in
+the succeeding years, the changes in feed demand also
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square69
+Figure A-2
+Text Len: 1692
+--------------------------------------------------------------------------------
+, domestic feeding
+of wheat increases sharply, by 32 and 107 percent, or
+by 88 and 295 million bushels, in 2003/04 and
+2004/05, respectively. With smaller price impacts in
+the succeeding years, the changes in feed demand also
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square69
+Figure A-2
+U.S. wheat exports
+Mil. bu
+Source: FAPSIM.
+2002 03 04 05 06 07
+600
+700
+800
+900
+1,000
+1,100
+1,200
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+2.20
+2.40
+2.60
+2.80
+3.00
+3.20
+Figure A-3
+U.S. wheat price
+$/bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+58
+59
+60
+61
+62
+63
+Figure A-4
+U.S. wheat planted area
+Mil. acres
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+become smaller. Nonetheless, wheat feeding under the
+scenario remains above the baseline level by about 32
+percent in 2007/08. Part of the reason these impacts
+are large is that the model solution was constrained to
+ensure that the price of wheat never falls below its
+feed value in relation to the price of corn. Wheat dis-
+placed corn as an animal feed to the extent necessary
+to ensure this constraint was satisfied.
+Total domestic use of wheat is estimated to rise by 7
+and 22 percent, or by 90 and 296 million bushels, for
+2003/04 and 2004/05, respectively (fig. A-5). This rise
+is almost entirely due to the increased feeding of
+Text Len: 1342
+--------------------------------------------------------------------------------
+. Wheat dis-
+placed corn as an animal feed to the extent necessary
+to ensure this constraint was satisfied.
+Total domestic use of wheat is estimated to rise by 7
+and 22 percent, or by 90 and 296 million bushels, for
+2003/04 and 2004/05, respectively (fig. A-5). This rise
+is almost entirely due to the increased feeding of
+wheat, with only a slight increase in food use. Seed
+use declines under the scenario relative to the baseline
+because of the reduction in area planted to wheat.
+Even though wheat feeding increases sharply under the
+scenario, this rise is not enough to offset export losses.
+Thus, ending stocks are estimated to rise above the
+baseline by 22 and 27 percent, or by 154 and 179 mil-
+lion bushels, for 2003/04 and 2004/05, respectively
+(fig. A-6). Although the impacts on ending stocks
+become smaller in the succeeding years of the sce-
+nario, stocks remain above baseline levels by 21 per-
+cent in 2007/08.
+The reduction in wheat production and the lower farm-
+gate prices under the scenario combine to reduce U.S.
+cash receipts received by wheat producers from farm
+marketings (fig. A-7). Cash receipts for wheat are esti-
+mated to drop below the baseline by $915 million and
+$1,293 million in 2003 and 2004, respectively. By the
+10 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+1,300
+1,350
+1,400
+1,450
+1,500
+1,550
+1,600
+1,650
+Figure A-5
+U.S. domestic use of wheat
+Mil. bu
+Source: FAPSIM.
+Baseline
+Sc
+Text Len: 1469
+--------------------------------------------------------------------------------
+-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+1,300
+1,350
+1,400
+1,450
+1,500
+1,550
+1,600
+1,650
+Figure A-5
+U.S. domestic use of wheat
+Mil. bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+600
+650
+700
+750
+800
+850
+900
+Figure A-6
+U.S. wheat ending stocks
+Mil. bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+4.50
+5.00
+5.50
+6.00
+6.50
+7.00
+7.50
+Figure A-7
+U.S. wheat cash receipts
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+final year of the analysis, cash receipts remain below
+baseline levels by $1,167 million. Cumulative wheat
+cash receipts decline by $5.8 billion below the baseline
+over the 2003-07 period.
+No marketing loan payments are assumed for wheat
+over the 2003-07 period under the baseline. However,
+the price declines for wheat over the 2003-05 period
+under the scenario are sufficient to trigger marketing
+loan benefits. The payments to wheat producers are
+$0.7, $0.6, and $0.2 billion for 2003/04, 2004/05, and
+2005/06, respectively. The cumulative marketing loan
+benefits associated with all crops increase by $2.0 bil-
+lion above the baseline over the 2003-07 period. 
+As suggested above, other commodities are also affect-
+ed by the price adjustments that occur in the wheat
+sector
+Text Len: 1276
+--------------------------------------------------------------------------------
+ and $0.2 billion for 2003/04, 2004/05, and
+2005/06, respectively. The cumulative marketing loan
+benefits associated with all crops increase by $2.0 bil-
+lion above the baseline over the 2003-07 period. 
+As suggested above, other commodities are also affect-
+ed by the price adjustments that occur in the wheat
+sector under the scenario. As the profitability of wheat
+production declines, producers shift production from
+wheat to alternative crops. The increase in production
+causes the prices for other crops to decline. However,
+the price changes associated with other crops are small
+in relation to the price changes for wheat. Farm prices
+of other crops change by less than 5 percent from their
+baseline levels over the 2003-07 period. The price
+impacts for the livestock sector, stemming from lower
+feed costs, are even smaller. 
+The farm price of corn is estimated to decline below
+the baseline level by 4.5 percent in 2003/2004 as live-
+stock producers shift from corn to the lower priced
+wheat in their feed rations. On average, corn prices are
+1.3 percent below baseline levels over the 2003-07
+period, with comparable changes for other feed grain
+prices. As a result, cumulative cash receipts for feed
+grains decline by $1.2 billion below the baseline over
+the 2003-07 period.
+With lower wheat exports and prices under the sce-
+nario, the value of U.S. exports of wheat declines
+below baseline levels. The cumulative value of total
+U.S. agricultural exports is estimated to fall by over
+$6.3 billion over the 2003-07 period under the scenario
+(fig. A-8). Although most of the decrease is associated
+with wheat, there are also downward adjustments in
+the value of exports for other commodities due to
+lower prices
+Text Len: 1722
+--------------------------------------------------------------------------------
+ exports of wheat declines
+below baseline levels. The cumulative value of total
+U.S. agricultural exports is estimated to fall by over
+$6.3 billion over the 2003-07 period under the scenario
+(fig. A-8). Although most of the decrease is associated
+with wheat, there are also downward adjustments in
+the value of exports for other commodities due to
+lower prices.
+Because prices of all agricultural commodities decline
+under the scenario, total U.S. cash receipts from the
+farm marketings decline below baseline levels.
+Cumulative cash receipts over the 2003-07 period are
+estimated to be $10.4 billion below the baseline level.
+More than half of this decline is associated directly
+with wheat. There are also some offsetting adjust-
+ments. Because there is less total crop area planted
+under the scenario, producers incur fewer production
+expenses. In aggregate, cumulative farm expenses are
+seen as $2.9 billion below the baseline level over the
+2003-07 period. In addition, with producers receiving
+increased government support payments through mar-
+keting loan benefits, cumulative net farm income over
+the 2003-07 period is estimated to be $5.3 billion
+lower than the baseline level (fig. A-9).
+The average impacts discussed here would not be
+spread evenly across the Nation’s wheat sector.
+Because Karnal bunt deregulation would be focused on
+hard red winter and soft red winter exports, impacts
+would center on wheat producers in the Central and
+Southern Plains and the Southeastern region of the
+country. It is possible that a longer run effect of dereg-
+ulation would be to reduce wheat acreage in the
+Central and Southern Plains and to increase wheat
+acreage in the Northern Plains, if foreign customers
+continue to be reluctant to purchase wheat grown in
+areas potentially affected by Karnal bunt.
+The analysis
+Text Len: 1819
+--------------------------------------------------------------------------------
+
+Southern Plains and the Southeastern region of the
+country. It is possible that a longer run effect of dereg-
+ulation would be to reduce wheat acreage in the
+Central and Southern Plains and to increase wheat
+acreage in the Northern Plains, if foreign customers
+continue to be reluctant to purchase wheat grown in
+areas potentially affected by Karnal bunt.
+The analysis assumes that domestic millers of wheat
+are not affected by deregulation. However, if domestic
+millers do respond negatively to wheat from potential-
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square611
+2002 03 04 05 06 07
+50
+55
+60
+65
+70
+Figure A-8
+U.S. value of agricultural exports
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+ly affected areas, the economic incentives to shift
+wheat acreage to the North would be enhanced.
+Conclusions
+Karnal bunt seldom results in significant yield losses
+to wheat in the field. However, Karnal bunt affects
+flour quality if more than 3 percent of the grains are
+bunted because it gives off a fishy odor. In addition,
+pasta products made with flour contaminated with
+Karnal bunt can have an unacceptable color. The fun-
+gus that causes Karnal bunt does not produce any toxic
+compounds in leaf, stem tissue, or seed that pose
+health risks when consumed. Thus, Karnal bunt is a
+food quality issue rather than a food safety issue.
+Because the fungus poses no risk to human health, the
+U.S. Government does not have any food safety regu-
+lations concerning wheat infected with Karnal bunt.
+However, the compensation payments for the Karnal
+bunt quarantine regulatory program have totaled about
+$35 million
+Text Len: 1642
+--------------------------------------------------------------------------------
+ Thus, Karnal bunt is a
+food quality issue rather than a food safety issue.
+Because the fungus poses no risk to human health, the
+U.S. Government does not have any food safety regu-
+lations concerning wheat infected with Karnal bunt.
+However, the compensation payments for the Karnal
+bunt quarantine regulatory program have totaled about
+$35 million from 1996 through 2001.
+Even though scientific evidence is that Karnal bunt
+posses no health risk, many U.S. wheat export markets
+require that wheat from the United States be from
+areas where Karnal bunt is not known to occur. Such
+countries would likely resist importing U.S. wheat if
+the certification procedures were terminated.
+The assumed impact of terminating Karnal bunt certifi-
+cation is entirely through reduced exports. Using an
+ERS model of U.S. agriculture, an export scenario was
+evaluated. Domestic prices dropped sharply, which, in
+turn, reduced the area planted to wheat. Although
+wheat feeding rose with the lower prices, the increase
+was not nearly enough to offset the loss of export mar-
+kets. Wheat prices remained below baseline levels. The
+reduction in wheat production and the lower prices
+combined to reduce the total value of the wheat pro-
+duced in the country, as well as the net income of U.S.
+agriculture. The effects primarily affected producers in
+the Central and Southern Plains and in the Southeast.
+The cumulative total reduction of national net farm
+income from 2003 to 2007 is $5.3 billion. The cumula-
+tive marketing loan payments associated with all crops
+increase by $2.0 billion above the baseline over the
+2003-07 period.
+This article does not consider the cost of testing of
+wheat for Karnal bunt contamination, or the wheat
+quality discounts
+Text Len: 1736
+--------------------------------------------------------------------------------
+ total reduction of national net farm
+income from 2003 to 2007 is $5.3 billion. The cumula-
+tive marketing loan payments associated with all crops
+increase by $2.0 billion above the baseline over the
+2003-07 period.
+This article does not consider the cost of testing of
+wheat for Karnal bunt contamination, or the wheat
+quality discounts that could emerge in the world mar-
+ketplace. Other important issues include possible cont-
+amination of vessels and handling facilities, regula-
+tions for the transhipment of grain through the St.
+Lawrence Seaway, and possible trade impacts for other
+grains such as corn and soybeans if the Karnal bunt
+quarantine system is deregulated.
+References
+American Phytopathological Society. 1996. Position
+Statement of : The American Phytopathological
+Society. The Use of Quarantines for Wheat Karnal
+Bunt. APS Karnal Bunt Symposium Transcripts.
+The American Phytopathological Society.
+http://www.apsnet.org/online/karnal/index.htm.,
+June 24 - August 16.
+Bonde, Morris. Private communication. Agricultural
+Research Service. U.S. Department of Agriculture.
+March 7, 2002.
+Combs, Susan. 2001. Ag Commissioner Recommends
+Changes to Current Karnal Bunt Policy. Austin.
+http://www.tpma.org/news_reports/reports/072001G
+.html.July 20.
+Davila, G. Fuentes. 1997. Karenal Bunt of Wheat.
+CIMMYT, Mexico. Available at:http://www.cim-
+myt.org/Research/wheat/kb/htm/KBcontents.htm.
+October.
+12 /square6Wheat Yearbook/W
+Text Len: 1437
+--------------------------------------------------------------------------------
+
+.html.July 20.
+Davila, G. Fuentes. 1997. Karenal Bunt of Wheat.
+CIMMYT, Mexico. Available at:http://www.cim-
+myt.org/Research/wheat/kb/htm/KBcontents.htm.
+October.
+12 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+36
+38
+40
+42
+44
+46
+48
+Figure A-9
+U.S. net farm income
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+Department for Environment, Food & Rural Affairs
+(DEFRA). 2001. Karnal Bunt. Available at:
+http://www.defra.gov.uk/planth/pestnote/karnal.htm.
+July 2.
+Dobesberger, Erhard, Norma Alejandra Elizalde
+Jimenez, and Ron A. Sequreira. (2001). An
+Epidemiological Approach to Assessing the Risk of
+Establishment of Karnal Bunt, Tilletia indiaca
+Mitra, in North America. North American Plant
+Protection Organization. http://www.nappo.org/
+KarnalBunt/KB-Aug25-01.pdf. October.
+Forster, Robert L., and Blair J. Goates. 1996. Karnal
+Bunt of Wheat. Cooperative Extension Service.
+University of Idaho. CIS 1067. Available at:
+http://www.uidaho.edu/ag/plantdisease/kbwheat.htm. 
+Kelly, Keith. 1996. Karnal Bunt, Where Are We
+Headed? APS Karnal Bunt Symposium Transcripts.
+The American
+Text Len: 1138
+--------------------------------------------------------------------------------
+al
+Bunt of Wheat. Cooperative Extension Service.
+University of Idaho. CIS 1067. Available at:
+http://www.uidaho.edu/ag/plantdisease/kbwheat.htm. 
+Kelly, Keith. 1996. Karnal Bunt, Where Are We
+Headed? APS Karnal Bunt Symposium Transcripts.
+The American Phytopathological Society. Available
+at:http://www.apsnet.org/online/karnal/index.htm.
+June 24 - August 16.
+Murray, Gordon M. and John P. Brennan. 1996. The
+Risk to Australia from Tilletia indica Mirta, the
+Cause of Karnal Bunt of Wheat. APS Karnal Bunt
+Symposium Transcripts. The American
+Phytopathological Society. Available at:
+http://www.apsnet.org/online/karnal/index.htm.June
+24 - August 16. 
+U.S. Department of Agriculture, Office of the Chief
+Economist, Interagency Agricultural Projections
+Committee. 2002. USDA Agricultural Baseline
+Projections to 2011.United States Department of
+Agriculture. Staff Report W AOB-2002-1. February.
+U.S. Department of Agriculture. Unpublished data.
+March 2002.
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square613
+Text Len: 1031
+--------------------------------------------------------------------------------
+Introduction
+Karnal bunt (sometimes called partial bunt), caused by
+the fungus Tilletia indicaMitra, seldom results in sig-
+nificant yield losses to wheat in the field. The fungus
+does not produce any toxic compounds in leaf, stem
+tissue, or seed that pose health risks when consumed
+(Bonde). Because the fungus poses no risk to human
+health, the U.S. Government does not have any food
+safety regulations concerning Karnal bunt. However,
+Karnal bunt affects flour quality if more than 3 percent
+of the grains are bunted because it produces trimethy-
+lamine, which gives off a fishy odor. Pasta products
+made with flour contaminated with Karnal bunt can
+have an unacceptable color. 
+Many U.S. trading partners will not accept U.S. wheat
+exports unless the wheat is certified to be from areas
+where Karnal bunt is not known to occur. USDA’s
+Animal and Plant Health Inspection Service (APHIS)
+imposes quarantines in an attempt to contain the
+spread of Karnal bunt in the United States and con-
+ducts an annual voluntary survey of grain delivered to
+elevators to check for Karnal bunt across the country.
+The use of quarantines and the survey are the basis
+upon which APHIS is able to issue a certificate that is
+accepted by countries importing U.S. wheat.
+Some have proposed that the Karnal bunt quarantine
+regulations and surveys be ended, suggesting that
+USDA should consider contaminated wheat a quality
+issue and establish tolerances for contamination
+(Combs). This paper analyzes the market effects of
+abruptly ending the issuance of certificates stating that
+U.S. wheat is from areas where Karnal bunt is not
+known to occur in the face of continuing barriers
+Text Len: 1661
+--------------------------------------------------------------------------------
+ bunt quarantine
+regulations and surveys be ended, suggesting that
+USDA should consider contaminated wheat a quality
+issue and establish tolerances for contamination
+(Combs). This paper analyzes the market effects of
+abruptly ending the issuance of certificates stating that
+U.S. wheat is from areas where Karnal bunt is not
+known to occur in the face of continuing barriers in
+many overseas markets. 
+The Incidence of Karnal Bunt
+Karnal bunt is geographically isolated, limited to the
+Indian subcontinent, a small area of Mexico, and the
+southwestern United States (Murray and Brennan).
+Karnal bunt is so named because it was discovered in
+1931 on wheat grown near Karnal, India. The disease
+was first confirmed outside of Asia in 1972 in the State
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square61
+Special Article
+Economic Analysis of Ending the Issuance of 
+Karnal Bunt Phytosanitary Wheat Export Certificates
+Gary Vocke, Edward W. Allen, J. Michael Price1
+Abstract:Karnal bunt is a wheat disease that is subject to regulation in the United
+States through quarantining of affected counties to limit its spread. Currently, the
+Karnal bunt regulatory program allows the U.S. Department of Agriculture (USDA)
+to issue phytosanitary export certificates stating that wheat in a given shipment is
+from an area where Karnal bunt is not known to occur. Ending this certifiation pro-
+gram would jeopardize U.S. exports to some countries. A model developed by the
+Economic Research Service was used to analyze a scenario of ending the certifica-
+tion. The loss of export markets for U.S. wheat producers would be only partially
+offset by increased domestic feeding of lower-
+Text Len: 1693
+--------------------------------------------------------------------------------
+ Karnal bunt is not known to occur. Ending this certifiation pro-
+gram would jeopardize U.S. exports to some countries. A model developed by the
+Economic Research Service was used to analyze a scenario of ending the certifica-
+tion. The loss of export markets for U.S. wheat producers would be only partially
+offset by increased domestic feeding of lower-priced wheat. Wheat prices would
+remain below baseline levels. Reduced wheat production and lower prices for wheat
+combine to reduce the total value of the wheat produced in the country, as well as
+the net income in U.S. agriculture. The cumulative reduction of national net farm
+income from 2003 to 2007 relative to the baseline is $5.3 billion. However, this
+includes cumulative marketing loan payments associated with all crops of $2.0 bil-
+lion above the baseline over the 2003-07 period.
+Keywords: Wheat, Karnal bunt.
+1 The authors are Agricultural Economists with the Economic
+Research Service, Market & Trade Economics Division.
+of Sonora, in northwest Mexico (Dept. for
+Environment, Food & Rural Affairs).
+The disease was first found in the United States in
+1996, in Arizona, Texas, and California, and again in
+Texas in 1998. The latest outbreak was in north Texas
+in 2001. It is not known how the disease spread to the
+southwestern United States and then to north Texas.
+Because the early outbreaks were isolated from the
+major wheat-producing areas, the possibility of the
+disease’s spreading to principal wheat-growing areas
+was thought to be minimal. However, the 2001 out-
+break of Karnal bunt in north Texas was at the edge of
+the major wheat area of the Southern Plains (see fig.
+A-1). This raised the prospect that the disease could
+spread as far north as the spores can
+Text Len: 1742
+--------------------------------------------------------------------------------
+ possibility of the
+disease’s spreading to principal wheat-growing areas
+was thought to be minimal. However, the 2001 out-
+break of Karnal bunt in north Texas was at the edge of
+the major wheat area of the Southern Plains (see fig.
+A-1). This raised the prospect that the disease could
+spread as far north as the spores can tolerate winter
+weather conditions. Karnal bunt spores may rapidly
+decay under extreme cold, suggesting that significant
+portions of the northern United States would not be
+conducive to long-term survival (and therefore perma-
+nent establishment) of Karnal bunt (Dobesberger,
+Jimenez, and Sequreira).
+The occurrence of bunted kernels in areas infested
+with Karnal bunt spores is typically low. The ideal
+conditions for infection are temperatures in the range
+of 59-72 degrees F. and accompanied by rainfall, over-
+head irrigation, or high humidity. These conditions
+must occur during heading and for a few weeks after-
+ward for bunted kernels to develop (Forster and Blair).
+These strict environmental conditions make it possible
+for problems with Karnal bunt to be only intermittent
+even if soil spore concentrations are high.
+Spreading Karnal Bunt
+Karnal bunt spores can be carried in soil and on a vari-
+ety of surfaces, including seeds and other plant parts,
+farm equipment, tools, and vehicles. They can also be
+windborne. Karnal bunt spores are resistant to dry con-
+ditions, sunlight, a wide range of temperatures, and
+most fungicides. Wheat that is not infected can
+become contaminated with spores by passing through
+spore-contaminated equipment, transport vessels, or
+facilities. Other grains can also be contaminated with
+spores in the same way.
+While
+Text Len: 1685
+--------------------------------------------------------------------------------
+borne. Karnal bunt spores are resistant to dry con-
+ditions, sunlight, a wide range of temperatures, and
+most fungicides. Wheat that is not infected can
+become contaminated with spores by passing through
+spore-contaminated equipment, transport vessels, or
+facilities. Other grains can also be contaminated with
+spores in the same way.
+While Karnal bunt is not harmful to animals, it is sus-
+pected that spores in contaminated or infected feed
+(grain or bran from milled wheat) can survive inges-
+tion by animals. Since the manure of livestock fed
+such feed is potentially a source of inoculum, bunted
+wheat in quarantined counties must be heat-treated if
+used for animal feed.
+The American Phytopathological Society states that
+the experience from countries where Karnal bunt
+occurs suggests that Karnal bunt is a minor disease
+and the little risk that does exist for grain quality can
+be effectively managed with resistant varieties without
+the use of quarantines (American Phytopathological
+Society). The Society also suggests that although quar-
+antines may delay the introduction of Karnal bunt into
+new areas, they are unlikely to prevent such introduc-
+tions and subsequent establishment. This conclusion
+has been confirmed repeatedly, most recently by the
+occurrence of Karnal bunt in the United Sates despite
+quarantines imposed on wheat from countries where
+the disease has been known to occur.
+Quarantines may be ineffective where wheat-growing
+areas are contiguous, as between Mexico and the
+United States. However, where longer distances apply,
+as between continents or where deserts or mountains
+intervene, quarantines may help to protect countries
+that do not have Karnal bunt (Murray and Brennan).
+Yield Losses to Karnal Bunt
+
+Text Len: 1741
+--------------------------------------------------------------------------------
+
+Quarantines may be ineffective where wheat-growing
+areas are contiguous, as between Mexico and the
+United States. However, where longer distances apply,
+as between continents or where deserts or mountains
+intervene, quarantines may help to protect countries
+that do not have Karnal bunt (Murray and Brennan).
+Yield Losses to Karnal Bunt
+Karnal bunt spores usually replace only a portion of
+the developing kernel and only a few of the kernels in
+a head. Complete conversion of kernels to spores is
+rare. Thus, yield reductions are generally minimal. For
+example, surveys in India during years of heavy dis-
+ease infestations revealed a general, area-wide yield
+loss of less than 0.5 percent (Davila). However, in a
+few fields with highly susceptible varieties, as much as
+89 percent of the kernels were infected, with yield
+losses ranging from 20 to 40 percent.
+Options for Karnal Bunt Control
+Wheat breeders in areas with Karnal bunt recognize
+the importance of avoiding the release of highly sus-
+ceptible varieties.2 This control measure has proven
+effective for reducing the level of Karnal bunt suffi-
+ciently that quality of the harvested grain is not severe-
+ly affected. However, resistant varieties do not eradi-
+cate the disease, and Karnal bunt epidemics have
+recurred in India as soon as susceptible varieties were
+again grown (Murray and Brennan).
+Apparently, cultural practices are of little practical
+value in reducing the probability of an outbreak
+(Murray and Brennan). Seed treatments can reduce the
+2 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2 International Maize and Wheat Institute (CIMMYT) has identi-
+fied 98 resistant lines of bread wheat,
+Text Len: 1696
+--------------------------------------------------------------------------------
+
+Apparently, cultural practices are of little practical
+value in reducing the probability of an outbreak
+(Murray and Brennan). Seed treatments can reduce the
+2 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2 International Maize and Wheat Institute (CIMMYT) has identi-
+fied 98 resistant lines of bread wheat, and Punjab Agricultural
+University, India, has 68 resistant lines (Davila).
+number of viable spores on seed, and, therefore, the
+probability that Karnal bunt will be introduced to new
+areas. Foliar application of fungicides can reduce the
+level of disease, but more than one application is usu-
+ally required, making this an expensive control option.
+Fungicides are likely to be cost effective only if other
+important diseases, such as rusts or Septoria blotches,
+are also present. Fumigation of soil with chemicals,
+such as methyl bromide, metham-sodium, and
+formaldehyde, has been partially successful in killing
+the spores.
+Exporting Under Deregulation 
+Is Problematic
+Not all countries that have restrictions against 
+Karnal bunt would, in practice, strictly prohibit wheat
+imports from the United States if USDA stopped issu-
+ing certificates. Each country has regulations that 
+are often idiosyncratic in how they are written and
+enforced. For example, Italy and Germany currently
+import wheat from countries where Karnal bunt is
+known to occur, after testing to ensure the wheat is
+free of Karnal bunt, despite European Union regula-
+tions against such a practice.
+In addition, while some markets would be captured by
+wheat-exporting countries that are free of Karnal bunt,
+U.S. wheat exports to countries that have no restrictions
+against Karnal
+Text Len: 1690
+--------------------------------------------------------------------------------
+ bunt is
+known to occur, after testing to ensure the wheat is
+free of Karnal bunt, despite European Union regula-
+tions against such a practice.
+In addition, while some markets would be captured by
+wheat-exporting countries that are free of Karnal bunt,
+U.S. wheat exports to countries that have no restrictions
+against Karnal bunt would likely increase. The longrun
+effects would likely depend on the extent that world
+wheat markets treat Karnal bunt as a quality issue.
+There is also an issue of what procedure would be used
+by other countries for Karnal bunt testing if the United
+States should stop issuing certificates. Currently, there is
+no accurate Karnal bunt test available that is rapid
+enough to use during ship loading. Even the microscop-
+ic examination for spores with the “wash test” can lead
+to false positives because of bunt on ryegrass Tilletia
+walkeri. Annual ryegrass is a significant weed problem
+in wheat fields in the southeastern United States. The
+wash test is currently used for seed wheat to ensure that
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square63
+Figure A-1
+Karnal bunt now established at the southern edge of hard red winter plantings 
+(area planted 1998)
+1 Dot = 5,000 planted acres at the county level
+(counties with less than 5,000 acres do not appear)
+Restricted counties
+Durum
+Hard red spring
+White
+Hard red winter
+Soft red spring
+there is no disease present. For non-seed wheat, USDA
+uses a “bunted kernel test” which involves visual
+inspection for bunt on the grain kernel. Spore-contami-
+nated grain can pass the bunted kernel
+Text Len: 1597
+--------------------------------------------------------------------------------
+ not appear)
+Restricted counties
+Durum
+Hard red spring
+White
+Hard red winter
+Soft red spring
+there is no disease present. For non-seed wheat, USDA
+uses a “bunted kernel test” which involves visual
+inspection for bunt on the grain kernel. Spore-contami-
+nated grain can pass the bunted kernel test. Currently,
+most importing countries, even with phytosanitary regu-
+lations against Karnal bunt, accept APHIS’s certificate
+that the wheat comes from an area not known to have
+Karnal bunt, and do not routinely test for Karnal bunt
+spores or check for bunted kernels.
+If even a few important wheat-importing countries
+maintain prohibitions, shipping companies may have
+concerns about shipping wheat from a deregulated
+U.S. wheat sector. Ship owners wishing to protect their
+interests may insist on a certificate from an authorita-
+tive U.S. source that unequivocally confirms that the
+cargo is free from Karnal bunt spores. 
+Further, shipping vessels that carried contaminated
+wheat to countries without prohibitions would have 
+to be sanitized to ensure that later cargoes from other
+sources going to countries that continue to have prohibi-
+tions will not be contaminated. Under U.S. deregulation,
+spores could spread through the storage and transport
+equipment to other products like corn and soybeans.
+The cost of testing and sanitizing to ensure freedom
+from the disease would likely be considerable. 
+There may also be issues with transshipment through
+the St. Lawrence Seaway if the United States deregu-
+lates Karnal bunt. Currently, Canada prohibits the
+entry of wheat from States with Karnal bunt. Any
+wheat that crosses the Canadian
+Text Len: 1639
+--------------------------------------------------------------------------------
+The cost of testing and sanitizing to ensure freedom
+from the disease would likely be considerable. 
+There may also be issues with transshipment through
+the St. Lawrence Seaway if the United States deregu-
+lates Karnal bunt. Currently, Canada prohibits the
+entry of wheat from States with Karnal bunt. Any
+wheat that crosses the Canadian border needs a decla-
+ration that the grain originated in an area free of
+Karnal bunt on the basis of official surveys.
+The future importance of these issues will likely
+depend on whether Karnal bunt becomes widespread
+across the U.S. wheat sector. However, there is no cer-
+tainty about how far and how rapidly the disease might
+spread if the quarantine system is eliminated.
+The USDA Regulated Areas
+An area that is regulated by USDA for Karnal bunt is a
+definable commercial wheat-production area that
+includes at least one field that tested positive for
+Karnal bunted kernels. USDA restricts movement of
+wheat grain, straw, hay and farm equipment within and
+out of these regulated areas. USDA tests wheat grown
+in regulated areas each year for Karnal bunted kernels.
+Currently, in a regulated area, a grain sample must be
+drawn by an APHIS inspector or State cooperator at
+the time of harvest, or if already harvested, from the
+storage bins, and examined for bunted kernels. If the
+sample is taken from the field as it is being harvested
+and no bunted kernels are found, a certificate will be
+issued and the grain allowed to be transported to any
+market. If the grain sample came from grain already in
+storage and no bunted kernels are found, then a permit
+will be issued for the grain to be transported to any
+market. If one or more bunted kernels are found in the
+sample,
+Text Len: 1715
+--------------------------------------------------------------------------------
+ being harvested
+and no bunted kernels are found, a certificate will be
+issued and the grain allowed to be transported to any
+market. If the grain sample came from grain already in
+storage and no bunted kernels are found, then a permit
+will be issued for the grain to be transported to any
+market. If one or more bunted kernels are found in the
+sample, then a notice will be issued and the grain
+sealed in the storage facility prior to approved treat-
+ment or disposal.
+In a regulated area, wheat grown to produce seed can
+be planted only within the regulated area and only if
+the seed tests spore negative through the wash test.
+Seed wheat cannot be moved outside the regulated
+area. Any seed grown in a regulated area that tests
+spore positive (based on the wash test), but is bunt
+negative (based on visual inspection) cannot leave the
+area for seeding purposes, but it can leave the area for
+export as grain to a country that does not require an
+APHIS Karnal bunt certificate or for domestic use for
+livestock feed or milling.
+Wheat grain, straw, or wheat hay that tests bunt positive
+cannot be moved outside the regulated area without
+APHIS approval. If needed, a permit is issued to allow
+the transport of these products to an approved facility
+outside the regulated area for treatment or disposal.
+Karnal bunt quarantines have been controversial since
+they were initiated in 1996. To increase cooperation,
+USDA compensates producers, grain handlers, and
+other affected parties for losses suffered due to the
+Federal quarantine action. Compensation payments
+have totaled about $35 million since 1996 (U.S.
+Department of Agriculture).
+Estimating the Effects of Karnal 
+Bunt Deregulation
+Even though Karnal bunt poses no health risk, many
+U.S
+Text Len: 1746
+--------------------------------------------------------------------------------
+
+USDA compensates producers, grain handlers, and
+other affected parties for losses suffered due to the
+Federal quarantine action. Compensation payments
+have totaled about $35 million since 1996 (U.S.
+Department of Agriculture).
+Estimating the Effects of Karnal 
+Bunt Deregulation
+Even though Karnal bunt poses no health risk, many
+U.S. wheat export markets have a precautionary stance
+against the acceptance of wheat without a certificate
+indicating the wheat is from an area where Karnal bunt
+is not known to occur. Thus, if the United States were
+to stop its certification, U.S. wheat would not meet
+those importing countries’ phytosanitary requirements.
+It is uncertain how the wheat-importing countries of
+the world would react if the United States were to end
+its Karnal bunt quarantine regulation. The reaction of
+many countries would likely depend upon how fre-
+4 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+quent and how widespread Karnal bunt outbreaks
+occurred in the United States and the availability of
+wheat from other sources. However, it is possible to
+anticipate the likely reactions of governments and
+industry to deregulation not accompanied by a severe
+outbreak. This study does not attempt to forecast
+future incidence of Karnal bunt in U.S. wheat fields.
+The scenario analyzed assumes a unilateral end to U.S.
+karnal bunt certification, without significant success in
+getting importing countries to accept something other
+than a zero tolerance level for karnal bunt spores. If
+ongoing scientific research and diplomatic efforts
+cause a significant number of wheat importers to
+accept a more relaxed standard than a zero tolerance,
+then trade effects would likely be smaller. However,
+such efforts would undoubtedly take time.
+Text Len: 1777
+--------------------------------------------------------------------------------
+al bunt certification, without significant success in
+getting importing countries to accept something other
+than a zero tolerance level for karnal bunt spores. If
+ongoing scientific research and diplomatic efforts
+cause a significant number of wheat importers to
+accept a more relaxed standard than a zero tolerance,
+then trade effects would likely be smaller. However,
+such efforts would undoubtedly take time. 
+With unilateral deregulation, we assumed that most of
+the adverse reactions of U.S. wheat customers would
+fall on hard red winter wheat (HRW) producers in the
+Central and Southern Plains and soft red winter wheat
+(SRW) producers (these two classes averaged 62 per-
+cent of U.S. wheat production between 1996 and
+2000). The combination of weather conditions and
+stage of plant growth needed to result in Karnal bunt
+infection are most likely in areas where these two
+classes of wheat are grown (Dobeseberger, Jimenez,
+and Sequeira). Because U.S. wheat is blended, we also
+assumed that HRW and SRW from northern States that
+might not be susceptible to karnal bunt cannot be certi-
+fied as free of spores. However, the harsh winters in
+the northern United States where the other classes of
+wheat are principally grown are expected to prevent
+the spread of the disease into those regions. U.S.
+domestic and international customers for the three
+classes of wheat: hard red spring (HRS), durum in the
+Northern Plains, and white wheat (from the traditional
+Pacific Northwest and Northeastern white wheat areas,
+not Kansas) are assumed to be unconcerned about
+Karnal bunt contamination, even with decertification.
+This lack of concern assumes that some alternative
+government or private certification is found acceptable
+for importers of spring and white wheat and is a major
+reason why this
+Text Len: 1796
+--------------------------------------------------------------------------------
+
+Northern Plains, and white wheat (from the traditional
+Pacific Northwest and Northeastern white wheat areas,
+not Kansas) are assumed to be unconcerned about
+Karnal bunt contamination, even with decertification.
+This lack of concern assumes that some alternative
+government or private certification is found acceptable
+for importers of spring and white wheat and is a major
+reason why this scenario does not have a larger U.S.
+trade loss. Moreover, Canada is also assumed to accept
+alternative certification, allowing transshipments
+through the Saint Lawrence. For many common uses,
+HRS and HRW are readily substituted, as are SRW
+and soft white wheat. 
+A world wheat trade model that appropriately estimates
+trade flows by class and country was not available to
+analyze the issue, so a scenario was developed based
+on expert judgment of USDA analysts. A set of
+assumptions about prices and trade impacts by country
+was developed using the February 2002 trade matrix of
+2001/02 world wheat trade. The percent changes in
+U.S. wheat exports were then applied, beginning in
+2003, relative to the USDA Agricultural Baseline
+Projections to 2011, in a U.S. agricultural sector model
+to calculate the impacts on the domestic farm sector. 
+As a first step, countries were classified by their
+antipathy to Karnal bunt and their presumed response
+to U.S. deregulation (table A-1). For this analysis, each
+significant market for U.S. wheat exports was put into
+one of three categories.
+Group A , accounting for 25 percent of forecast U.S.
+exports, includes countries that: (1) have strict
+requirements on Karnal bunt as reported by APHIS,
+(2) have a history of strict observance of phytosanitary
+regulations, (3) normally import hard red
+Text Len: 1726
+--------------------------------------------------------------------------------
+ exports was put into
+one of three categories.
+Group A , accounting for 25 percent of forecast U.S.
+exports, includes countries that: (1) have strict
+requirements on Karnal bunt as reported by APHIS,
+(2) have a history of strict observance of phytosanitary
+regulations, (3) normally import hard red winter
+(HRW) or soft red winter wheat (SRW), and (4) could
+be expected to remain intransigent about only import-
+ing wheat that is certified as coming from a Karnal
+bunt-free zone. Important markets in this group
+include EU-15, Eastern Europe, China, Egypt, Algeria,
+Morocco, Libya, Tunisia, and Brazil.
+Group B , accounting for 35 percent of forecast U.S.
+exports, includes countries that: (1) have strict require-
+ments on Karnal bunt, as reported by APHIS, (2) may
+be somewhat more flexible in implementation of phy-
+tosanitary regulations, (3) normally import only a por-
+tion of U.S. wheat from regions potentially at risk, and
+(4) although decertification would disrupt HRW and
+SRW shipments in the first year, over the next 2 years
+these countries would be expected to relax Karnal bunt
+standards to tolerance levels that would permit trade
+and a resumption of imports from the United States.
+Important markets in this group include the former
+Soviet Union, Yemen, South Korea, Indonesia, Taiwan,
+Sri Lanka, Mexico, Venezuela, Colombia, and other
+Western Hemisphere countries.
+Group C, about 40 percent of forecast U.S. exports,
+consists of countries: (1) without strict requirements
+on Karnal bunt, as reported by APHIS, (2) that import
+Text Len: 1543
+--------------------------------------------------------------------------------
+ include the former
+Soviet Union, Yemen, South Korea, Indonesia, Taiwan,
+Sri Lanka, Mexico, Venezuela, Colombia, and other
+Western Hemisphere countries.
+Group C, about 40 percent of forecast U.S. exports,
+consists of countries: (1) without strict requirements
+on Karnal bunt, as reported by APHIS, (2) that import
+only U.S. spring or white wheat, and (3) without sig-
+nificant wheat production, and (4) could be expected
+to demand that less than 3 percent of bunted kernels be
+allowed according to milling standards, but would not
+test for spores. Important countries in this group
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square65
+6 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+Table A-1--Likely trade effect of unilateral U.S. deregulation of Karnal bunt1/
+Total U.S.
+Major importers wheat exports HRW share SRW share Other classes 1st year 2nd year 3rd year Long term
+KB 2001/02 of U.S. of U.S. share of U.S. export U.S. export U.S. export U.S. export
+antipathy forecast exports exports U.S. exports loss 2/ loss 2/ loss 2/ loss 2/
+1,000 metric tons
+Total Western Europe 2,300 0 550 1,750 385 1,152 439 404
+EU-15 high 2,200 0 550 1,650 385 1,122 424 404
+Other West Europe high 100 0 0 100 0 30 15 0
+Eastern Europe high 100 80 0 20 78 96 86 82
+FSU medium 125 100 13 13 111 120 56 28
+Total Asia & Middle East 11,975 2,725 523
+Text Len: 1381
+--------------------------------------------------------------------------------
+ 1,750 385 1,152 439 404
+EU-15 high 2,200 0 550 1,650 385 1,122 424 404
+Other West Europe high 100 0 0 100 0 30 15 0
+Eastern Europe high 100 80 0 20 78 96 86 82
+FSU medium 125 100 13 13 111 120 56 28
+Total Asia & Middle East 11,975 2,725 523 8,727 1,280 1,958 455 6
+Total Middle East 2,425 1,565 131 729 928 1,019 233 73
+   Iran 0 0 0 0
+   Iraq 0 0 0 0
+   Y emen medium 625 0 31 594 31 75 38 19
+   Israel low 700 630 56 14 -70 -35 -53 -70
+   Other Mid East medium 1,100 935 44 121 967 979 248 124
+Total East & SE Asia 9,550 1,160 391 7,998 352 939 222 -66
+Japan low 3,040 152 30 2,858 0 0 0
+South Korea medium 1,300 260 26 1,014 185 406 92 0
+Pakistan low 395 8 0 387 -40 -20 -30 -40
+Indonesia medium 250 25 25 200 50 85 43 21
+Philippines low 1,700 17 255 1,428 -170 -85 -128 -170
+China high 275 14 55 206 69 165 76 69
+Malaysia low 200 20 0 180 -20 -10 -15 -20
+Bangladesh low 300 195 0 105 -30 -15 -23 -30
+Taiwan medium 930 279 0 651 214 172 86 43
+Sri Lanka medium 560 101 0 459 55 119 60 30
+Other Asia medium 600 90 0 510 39 122 61 30
+Total Africa 6,700 3,862 1,834 1,005 3,535 4,239 3,638 3,371
+Total
+Text Len: 1101
+--------------------------------------------------------------------------------
+ -30 -15 -23 -30
+Taiwan medium 930 279 0 651 214 172 86 43
+Sri Lanka medium 560 101 0 459 55 119 60 30
+Other Asia medium 600 90 0 510 39 122 61 30
+Total Africa 6,700 3,862 1,834 1,005 3,535 4,239 3,638 3,371
+Total North Africa 4,100 1,910 1,598 593 3,329 3,943 3,676 3,502
+   Egypt high 3,500 1,680 1,470 350 2,975 3,500 3,273 3,124
+   Algeria high 175 35 0 140 35 70 53 44
+   Morocco high 225 113 90 23 200 225 220 210
+   Libya high 125 75 38 13 111 125 122 117
+   Tunisia high 75 8 0 68 8 23 8 8
+Sub-Saharan Afr. 2,600 1,952 236 412 206 296 -38 -132
+   Nigeria low 1,800 1,584 180 36 -180 -90 -135 -180
+   Other Sub-Sahar. medium 800 368 56 376 386 386 97 48
+Total Western Hemisphere 6,150 2,908 2,025 1,218 1,486 1,943 733 265
+Brazil high 175 105 70 0 175 175 193 184
+Mexico low 2,150 1,290 774 86 -215 -99 -157 -215
+Peru low 550 451 88 11 -55 28 -14 -55
+Venezuela medium 550 165 220 165 369 422 184 92
+Colombia medium 550 402 138 11 538 550 269 134
+Cuba low 75 75 0 0 -8 -4 -8 -8
+Other West Hem. medium 2,100 420 735 945 683 872 265 133
+Unaccounted 150 75 75 0
+2001/02 Total 27,500 9,750
+Text Len: 1091
+--------------------------------------------------------------------------------
+enezuela medium 550 165 220 165 369 422 184 92
+Colombia medium 550 402 138 11 538 550 269 134
+Cuba low 75 75 0 0 -8 -4 -8 -8
+Other West Hem. medium 2,100 420 735 945 683 872 265 133
+Unaccounted 150 75 75 0
+2001/02 Total 27,500 9,750 5,018 12,732 6,876 9,508 5,405 4,156
+Percent of total exports 25 35 20 15
+1/ Assumes increased U.S. shipments of HRS and White to markets not accepting HRW and SRW as well as increased shipments
+of HRW and SRW to markets with low antipathy to Karnal Bunt.  After the first year, increased competitors' production also reduces
+U.S. market share. 
+2/ A positive number indicates a loss of exports, a negative number indicates an increase.
+include Israel, Japan, Pakistan, Philippines, Malaysia,
+Bangladesh, and Nigeria.
+U.S. wheat exports were examined to evaluate the
+effect of reducing U.S. HRW and SRW exports to zero
+for Groups 1 and 2 during the first year (see table A-
+1). This means that about 60 percent of U.S. customers
+would find about 55 percent of U.S. exports unaccept-
+able. Some switching to other U.S. wheat classes is
+assumed, but switching would be limited by supplies
+and by limited substitutability for some uses. The
+world wheat market is segmented: some countries have
+inelastic demand, are willing to pay high premiums,
+and are expected to be concerned about Karnal bunt;
+other countries like discounted, cheap wheat and are
+not concerned about Karnal bunt. Assumptions about
+responsiveness in each country drives the analysis of
+changes in
+Text Len: 1496
+--------------------------------------------------------------------------------
+ substitutability for some uses. The
+world wheat market is segmented: some countries have
+inelastic demand, are willing to pay high premiums,
+and are expected to be concerned about Karnal bunt;
+other countries like discounted, cheap wheat and are
+not concerned about Karnal bunt. Assumptions about
+responsiveness in each country drives the analysis of
+changes in world wheat trade and U.S. exports. 
+In the first year, U.S. exports of HRW and SRW are
+calculated to increase to those markets still accepting
+them, while overall U.S. wheat exports are calculated
+to drop nearly 7 million tons, or 25 percent below
+baseline levels. Most of the drop in U.S. exports is
+expected to be gained by competitors’ exports and
+reduced ending stocks (boosting prices in those coun-
+tries). Importers also draw down stocks some, but the
+decline in world wheat trade is small because some
+importers actually increase imports of cheaper U.S.
+HRW and SRW. 
+While the U.S. average farm price for wheat drops sig-
+nificantly (45 cents per bushel in 2003) under this sce-
+nario, the premium for spring wheat (relative to the all-
+wheat average farm price) is assumed to be about 50
+cents per bushel greater than normal, while the discount
+for HRW and SRW would be at least 50 cents greater
+than normal. The market impacts of by-class premiums
+and discounts are larger than the change in the average
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square67
+Egypt is an important example of how a country
+might react to Karnal bunt decertification. Egypt
+has strict phytosanitary regulations regarding
+Karnal b
+Text Len: 1607
+--------------------------------------------------------------------------------
+ normal. The market impacts of by-class premiums
+and discounts are larger than the change in the average
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square67
+Egypt is an important example of how a country
+might react to Karnal bunt decertification. Egypt
+has strict phytosanitary regulations regarding
+Karnal bunt. Moreover, it is a significant producer,
+with irrigated land that could be quite susceptible
+to the disease. These factors would likely cause
+Egypt to be inflexible about accepting wheat with
+Karnal bunt spores (a Group A country). However,
+while most U.S. exports to Egypt have been HRW
+or SRW, some are other classes. U.S. shipments of
+white wheat could be expected to increase, limiting
+U.S. losses in the first year of the scenario (2003)
+to less than 3 million tons (see table A-1).
+However, in 2004, increased competition, in this
+case especially from Australian white wheat, is
+expected to push U.S. wheat out of the Egyptian
+market. In the third year and later, after prices and
+production in Australia decline from the peak in the
+second year, U.S. white wheat shipments to Egypt
+recoup losses, ending up higher than without
+Karnal bunt. However, without SRW and HRW, the
+United States has still lost most of its wheat export
+market to Egypt. 
+Venezuela is an example of a Group B country
+(with medium Karnal bunt antipathy). While
+Venezuela has regulations prohibiting Karnal bunt
+in wheat imports, and Karnal bunt might propagate
+in that climate, Venezuela’s wheat production is
+insignificant. Eventually, Venezuela could be
+expected to accept a Karnal bunt spore tolerance
+Text Len: 1621
+--------------------------------------------------------------------------------
+Venezuela is an example of a Group B country
+(with medium Karnal bunt antipathy). While
+Venezuela has regulations prohibiting Karnal bunt
+in wheat imports, and Karnal bunt might propagate
+in that climate, Venezuela’s wheat production is
+insignificant. Eventually, Venezuela could be
+expected to accept a Karnal bunt spore tolerance
+greater than zero. However, it would likely take
+extensive negotiations. About 70 percent of U.S.
+exports to Venezuela are HRW or SRW. In the first
+year of the scenario, U.S. HRS shipments would be
+expected to increase some, but Canada and
+Argentina would be expected to provide intense
+competition, replacing most of U.S. HRW and SRW
+shipments. In the second year, with negotiations
+ongoing and intense competition from Canada, even
+the U.S. HRS share is reduced. In the third year,
+Venezuela is assumed to accept a reasonable toler-
+ance for Karnal bunt spores, and U.S. exports
+increase dramatically, but in the long run Canada
+has gained a competitive edge, and the U.S. share
+remains about 17 percent below what it would have
+been without Karnal bunt. 
+A Group C country, with low Karnal Bunt antipa-
+thy, like Israel, has no regulation concerning Karnal
+bunt. Imports of U.S. wheat are above baseline lev-
+els throughout the scenario, but the increase in 2004
+is less because increased competitor supplies and
+reduced prices limit U.S. gains. In 2005 and later,
+the U.S. share increases again because the price of
+U.S. HRW and SRW is comparatively attractive. 
+Examples By Country
+U.S. price received by farmers
+Text Len: 1549
+--------------------------------------------------------------------------------
+ above baseline lev-
+els throughout the scenario, but the increase in 2004
+is less because increased competitor supplies and
+reduced prices limit U.S. gains. In 2005 and later,
+the U.S. share increases again because the price of
+U.S. HRW and SRW is comparatively attractive. 
+Examples By Country
+U.S. price received by farmers for wheat. The assumed
+relative international price changes (about $1.00 per
+bushel) are thus similar enough in magnitude to price
+changes in 1995/96 (when the average farm price
+increased $1.10) so that the 1994 to 1998 reaction of
+U.S. competitors to high prices can provide insight into
+their likely reaction in this scenario. 
+In 1994/95, the major competitors (Canada, Australia,
+EU, and Argentina) reduced wheat stocks more than
+11 million tons, while in the Karnal bunt scenario, a 6-
+million-ton reduction is anticipated. These countries
+increased wheat production by over 30 million tons in
+1996/97, but a smaller increase, about 15 million tons,
+is assumed in the Karnal bunt scenario because their
+price increases would be less than occurred in
+1995/96. Moreover, competitors are currently planting
+more wheat than in 1994/95, so it will be more diffi-
+cult for them to expand from this higher base. 
+In the second year of the scenario (2004), some of the
+importing countries in Group B (see table A-1) are
+assumed to adopt less restrictive Karnal bunt stan-
+dards, opening imports to U.S. HRW and SRW, there-
+by reducing the direct effect of Karnal bunt trade barri-
+ers. However, in that second year, foreign competitors’
+production (and U.S. HRS and
+Text Len: 1590
+--------------------------------------------------------------------------------
+see table A-1) are
+assumed to adopt less restrictive Karnal bunt stan-
+dards, opening imports to U.S. HRW and SRW, there-
+by reducing the direct effect of Karnal bunt trade barri-
+ers. However, in that second year, foreign competitors’
+production (and U.S. HRS and White wheat) is expect-
+ed to increase strongly in response to the first year’s
+higher prices. Although a portion of competitors’
+increased production is used to replenish stocks, much
+is expected to move into export channels, further
+reducing U.S. market share. In the second year of the
+scenario, U.S. wheat exports are estimated down 9.5
+million tons, 35 percent below the baseline level (with-
+out Karnal bunt). 
+In the third year after deregulation, the rest of Group B
+countries further relax Karnal bunt import standards,
+and competitors’ response is muted, as wheat prices
+and premiums in those countries decline. However, in
+the third year, U.S. wheat exports are 20 percent below
+baseline levels. In subsequent years, the U.S. recap-
+tures some lost market share as price premiums in
+competing countries become small. However, the
+exclusion of U.S. HRW and SRW from group A mar-
+kets results in a small premium for U.S. competitors
+that are free of Karnal bunt and reduces long-term
+U.S. wheat exports by 15 percent below baseline lev-
+els. This long-term decline represents a loss in market
+share despite the development of alternative regulatory
+mechanisms in markets accounting for 80 percent of
+U.S. wheat exports. 
+No model is available that includes the effects of 
+whe
+Text Len: 1550
+--------------------------------------------------------------------------------
+ are free of Karnal bunt and reduces long-term
+U.S. wheat exports by 15 percent below baseline lev-
+els. This long-term decline represents a loss in market
+share despite the development of alternative regulatory
+mechanisms in markets accounting for 80 percent of
+U.S. wheat exports. 
+No model is available that includes the effects of 
+wheat classes on world trade or U.S. regional and class
+differences with appropriate substitution elasticities.
+Therefore, a more general model was used to quantify
+price changes and address the effects on U.S. agriculture. 
+Model Simulation Results
+The U.S. domestic impacts of terminating certificates
+for Karnal bunt were estimated with the Food and
+Agricultural Policy Simulator (FAPSIM). FAPSIM is a
+large-scale econometric model of the U.S. agricultural
+sector maintained by the Economic Research Service
+(ERS). The model contains submodels for 24 agricul-
+tural commodities, including wheat.3 The model also
+includes submodels to estimate the value of exports,
+net farm income, and Government outlays on farm
+programs for the United States. 
+These submodels are linked together through the vari-
+ables that they share in common. The model computes
+the set of market prices that equilibrate supply and
+demand in all of the commodity markets simultaneous-
+ly, given any set of exogenous conditions. 
+The estimated trade impacts were introduced into the
+model by exogenously reducing wheat exports from
+their baseline levels over the 2003-07 period by the
+percentages already mentioned. The initial export lev-
+els used in the analysis were obtained from the
+February 2002 USDA baseline (USDA, Office of the
+Chief Economist). All of the model simulation results
+from the scenario are compared against the USDA
+baseline projections in the discussion that
+Text Len: 1793
+--------------------------------------------------------------------------------
+ by exogenously reducing wheat exports from
+their baseline levels over the 2003-07 period by the
+percentages already mentioned. The initial export lev-
+els used in the analysis were obtained from the
+February 2002 USDA baseline (USDA, Office of the
+Chief Economist). All of the model simulation results
+from the scenario are compared against the USDA
+baseline projections in the discussion that follows. 
+Figure A-2 shows the assumed reduction in wheat
+exports under the scenario compared with the baseline.
+In 2003/04 and 2004/05, exports under the scenario
+decline relative to the baseline by 25 and 35 percent, or
+by 244 million and 359 million bushels, respectively.
+Exports partly recover in the succeeding years of the
+analysis, averaging 15 percent less than the baseline.
+The decline in exports under the scenario reduces the
+farmgate price of wheat (fig. A-3). Prices decline from
+the baseline by 17 and 19 percent, or by 45 and 53
+cents per bushel, in 2003/04 and 2004/05, respectively.
+The loss is larger in the second year because the
+sharply higher prices expected to be received by U.S.
+competitors in 2003/04 result in significantly expanded
+8 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+3 The wheat submodel in FAPSIM is an aggregate model. It does
+not distinguish between the different classes of wheat.
+production in 2004/05. We assumed that the European
+Union would not put a tax on wheat exports to hold
+down its domestic prices. U.S. domestic prices partial-
+ly recover relative to the baseline in succeeding years
+with recovery of some of the lost export markets. The
+prices under the scenario are still below baseline prices
+by 13 percent in 2007/08.
+With domestic prices lower under
+Text Len: 1736
+--------------------------------------------------------------------------------
+. We assumed that the European
+Union would not put a tax on wheat exports to hold
+down its domestic prices. U.S. domestic prices partial-
+ly recover relative to the baseline in succeeding years
+with recovery of some of the lost export markets. The
+prices under the scenario are still below baseline prices
+by 13 percent in 2007/08.
+With domestic prices lower under the scenario, the
+U.S. area planted to wheat declines relative to the
+baseline (fig. A-4). However, the response by produc-
+ers to the lower wheat prices is muted somewhat over
+the initial years because of U.S. Government farm pro-
+grams. Part of the market revenue loss that producers
+experience due to lower farm prices over this period is
+offset by an increase in marketing loan benefits that
+they receive from the government. As a result, the area
+planted to wheat declines relative to the baseline by 2
+and 3 percent, or by 1.0 and 2.1 million acres, respec-
+tively, in 2004/05 and 2005/06. In contrast, area plant-
+ed to wheat declines by 2.7 million acres below the
+baseline level in 2007/08 when producers are not
+expected to receive any offsetting compensation
+through marketing loans. Because the production
+response is muted in the early years, excess production
+occurs, causing the price impacts to be larger than they
+would be in the absence of government programs.
+With lower prices under the scenario, domestic feeding
+of wheat increases sharply, by 32 and 107 percent, or
+by 88 and 295 million bushels, in 2003/04 and
+2004/05, respectively. With smaller price impacts in
+the succeeding years, the changes in feed demand also
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square69
+Figure A-2
+Text Len: 1692
+--------------------------------------------------------------------------------
+, domestic feeding
+of wheat increases sharply, by 32 and 107 percent, or
+by 88 and 295 million bushels, in 2003/04 and
+2004/05, respectively. With smaller price impacts in
+the succeeding years, the changes in feed demand also
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square69
+Figure A-2
+U.S. wheat exports
+Mil. bu
+Source: FAPSIM.
+2002 03 04 05 06 07
+600
+700
+800
+900
+1,000
+1,100
+1,200
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+2.20
+2.40
+2.60
+2.80
+3.00
+3.20
+Figure A-3
+U.S. wheat price
+$/bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+58
+59
+60
+61
+62
+63
+Figure A-4
+U.S. wheat planted area
+Mil. acres
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+become smaller. Nonetheless, wheat feeding under the
+scenario remains above the baseline level by about 32
+percent in 2007/08. Part of the reason these impacts
+are large is that the model solution was constrained to
+ensure that the price of wheat never falls below its
+feed value in relation to the price of corn. Wheat dis-
+placed corn as an animal feed to the extent necessary
+to ensure this constraint was satisfied.
+Total domestic use of wheat is estimated to rise by 7
+and 22 percent, or by 90 and 296 million bushels, for
+2003/04 and 2004/05, respectively (fig. A-5). This rise
+is almost entirely due to the increased feeding of
+Text Len: 1342
+--------------------------------------------------------------------------------
+. Wheat dis-
+placed corn as an animal feed to the extent necessary
+to ensure this constraint was satisfied.
+Total domestic use of wheat is estimated to rise by 7
+and 22 percent, or by 90 and 296 million bushels, for
+2003/04 and 2004/05, respectively (fig. A-5). This rise
+is almost entirely due to the increased feeding of
+wheat, with only a slight increase in food use. Seed
+use declines under the scenario relative to the baseline
+because of the reduction in area planted to wheat.
+Even though wheat feeding increases sharply under the
+scenario, this rise is not enough to offset export losses.
+Thus, ending stocks are estimated to rise above the
+baseline by 22 and 27 percent, or by 154 and 179 mil-
+lion bushels, for 2003/04 and 2004/05, respectively
+(fig. A-6). Although the impacts on ending stocks
+become smaller in the succeeding years of the sce-
+nario, stocks remain above baseline levels by 21 per-
+cent in 2007/08.
+The reduction in wheat production and the lower farm-
+gate prices under the scenario combine to reduce U.S.
+cash receipts received by wheat producers from farm
+marketings (fig. A-7). Cash receipts for wheat are esti-
+mated to drop below the baseline by $915 million and
+$1,293 million in 2003 and 2004, respectively. By the
+10 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+1,300
+1,350
+1,400
+1,450
+1,500
+1,550
+1,600
+1,650
+Figure A-5
+U.S. domestic use of wheat
+Mil. bu
+Source: FAPSIM.
+Baseline
+Sc
+Text Len: 1469
+--------------------------------------------------------------------------------
+-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+1,300
+1,350
+1,400
+1,450
+1,500
+1,550
+1,600
+1,650
+Figure A-5
+U.S. domestic use of wheat
+Mil. bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+600
+650
+700
+750
+800
+850
+900
+Figure A-6
+U.S. wheat ending stocks
+Mil. bu
+Source: FAPSIM.
+Baseline
+Scenario
+Marketing year
+2002 03 04 05 06 07
+4.50
+5.00
+5.50
+6.00
+6.50
+7.00
+7.50
+Figure A-7
+U.S. wheat cash receipts
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+final year of the analysis, cash receipts remain below
+baseline levels by $1,167 million. Cumulative wheat
+cash receipts decline by $5.8 billion below the baseline
+over the 2003-07 period.
+No marketing loan payments are assumed for wheat
+over the 2003-07 period under the baseline. However,
+the price declines for wheat over the 2003-05 period
+under the scenario are sufficient to trigger marketing
+loan benefits. The payments to wheat producers are
+$0.7, $0.6, and $0.2 billion for 2003/04, 2004/05, and
+2005/06, respectively. The cumulative marketing loan
+benefits associated with all crops increase by $2.0 bil-
+lion above the baseline over the 2003-07 period. 
+As suggested above, other commodities are also affect-
+ed by the price adjustments that occur in the wheat
+sector
+Text Len: 1276
+--------------------------------------------------------------------------------
+ and $0.2 billion for 2003/04, 2004/05, and
+2005/06, respectively. The cumulative marketing loan
+benefits associated with all crops increase by $2.0 bil-
+lion above the baseline over the 2003-07 period. 
+As suggested above, other commodities are also affect-
+ed by the price adjustments that occur in the wheat
+sector under the scenario. As the profitability of wheat
+production declines, producers shift production from
+wheat to alternative crops. The increase in production
+causes the prices for other crops to decline. However,
+the price changes associated with other crops are small
+in relation to the price changes for wheat. Farm prices
+of other crops change by less than 5 percent from their
+baseline levels over the 2003-07 period. The price
+impacts for the livestock sector, stemming from lower
+feed costs, are even smaller. 
+The farm price of corn is estimated to decline below
+the baseline level by 4.5 percent in 2003/2004 as live-
+stock producers shift from corn to the lower priced
+wheat in their feed rations. On average, corn prices are
+1.3 percent below baseline levels over the 2003-07
+period, with comparable changes for other feed grain
+prices. As a result, cumulative cash receipts for feed
+grains decline by $1.2 billion below the baseline over
+the 2003-07 period.
+With lower wheat exports and prices under the sce-
+nario, the value of U.S. exports of wheat declines
+below baseline levels. The cumulative value of total
+U.S. agricultural exports is estimated to fall by over
+$6.3 billion over the 2003-07 period under the scenario
+(fig. A-8). Although most of the decrease is associated
+with wheat, there are also downward adjustments in
+the value of exports for other commodities due to
+lower prices
+Text Len: 1722
+--------------------------------------------------------------------------------
+ exports of wheat declines
+below baseline levels. The cumulative value of total
+U.S. agricultural exports is estimated to fall by over
+$6.3 billion over the 2003-07 period under the scenario
+(fig. A-8). Although most of the decrease is associated
+with wheat, there are also downward adjustments in
+the value of exports for other commodities due to
+lower prices.
+Because prices of all agricultural commodities decline
+under the scenario, total U.S. cash receipts from the
+farm marketings decline below baseline levels.
+Cumulative cash receipts over the 2003-07 period are
+estimated to be $10.4 billion below the baseline level.
+More than half of this decline is associated directly
+with wheat. There are also some offsetting adjust-
+ments. Because there is less total crop area planted
+under the scenario, producers incur fewer production
+expenses. In aggregate, cumulative farm expenses are
+seen as $2.9 billion below the baseline level over the
+2003-07 period. In addition, with producers receiving
+increased government support payments through mar-
+keting loan benefits, cumulative net farm income over
+the 2003-07 period is estimated to be $5.3 billion
+lower than the baseline level (fig. A-9).
+The average impacts discussed here would not be
+spread evenly across the Nation’s wheat sector.
+Because Karnal bunt deregulation would be focused on
+hard red winter and soft red winter exports, impacts
+would center on wheat producers in the Central and
+Southern Plains and the Southeastern region of the
+country. It is possible that a longer run effect of dereg-
+ulation would be to reduce wheat acreage in the
+Central and Southern Plains and to increase wheat
+acreage in the Northern Plains, if foreign customers
+continue to be reluctant to purchase wheat grown in
+areas potentially affected by Karnal bunt.
+The analysis
+Text Len: 1819
+--------------------------------------------------------------------------------
+
+Southern Plains and the Southeastern region of the
+country. It is possible that a longer run effect of dereg-
+ulation would be to reduce wheat acreage in the
+Central and Southern Plains and to increase wheat
+acreage in the Northern Plains, if foreign customers
+continue to be reluctant to purchase wheat grown in
+areas potentially affected by Karnal bunt.
+The analysis assumes that domestic millers of wheat
+are not affected by deregulation. However, if domestic
+millers do respond negatively to wheat from potential-
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square611
+2002 03 04 05 06 07
+50
+55
+60
+65
+70
+Figure A-8
+U.S. value of agricultural exports
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+ly affected areas, the economic incentives to shift
+wheat acreage to the North would be enhanced.
+Conclusions
+Karnal bunt seldom results in significant yield losses
+to wheat in the field. However, Karnal bunt affects
+flour quality if more than 3 percent of the grains are
+bunted because it gives off a fishy odor. In addition,
+pasta products made with flour contaminated with
+Karnal bunt can have an unacceptable color. The fun-
+gus that causes Karnal bunt does not produce any toxic
+compounds in leaf, stem tissue, or seed that pose
+health risks when consumed. Thus, Karnal bunt is a
+food quality issue rather than a food safety issue.
+Because the fungus poses no risk to human health, the
+U.S. Government does not have any food safety regu-
+lations concerning wheat infected with Karnal bunt.
+However, the compensation payments for the Karnal
+bunt quarantine regulatory program have totaled about
+$35 million
+Text Len: 1642
+--------------------------------------------------------------------------------
+ Thus, Karnal bunt is a
+food quality issue rather than a food safety issue.
+Because the fungus poses no risk to human health, the
+U.S. Government does not have any food safety regu-
+lations concerning wheat infected with Karnal bunt.
+However, the compensation payments for the Karnal
+bunt quarantine regulatory program have totaled about
+$35 million from 1996 through 2001.
+Even though scientific evidence is that Karnal bunt
+posses no health risk, many U.S. wheat export markets
+require that wheat from the United States be from
+areas where Karnal bunt is not known to occur. Such
+countries would likely resist importing U.S. wheat if
+the certification procedures were terminated.
+The assumed impact of terminating Karnal bunt certifi-
+cation is entirely through reduced exports. Using an
+ERS model of U.S. agriculture, an export scenario was
+evaluated. Domestic prices dropped sharply, which, in
+turn, reduced the area planted to wheat. Although
+wheat feeding rose with the lower prices, the increase
+was not nearly enough to offset the loss of export mar-
+kets. Wheat prices remained below baseline levels. The
+reduction in wheat production and the lower prices
+combined to reduce the total value of the wheat pro-
+duced in the country, as well as the net income of U.S.
+agriculture. The effects primarily affected producers in
+the Central and Southern Plains and in the Southeast.
+The cumulative total reduction of national net farm
+income from 2003 to 2007 is $5.3 billion. The cumula-
+tive marketing loan payments associated with all crops
+increase by $2.0 billion above the baseline over the
+2003-07 period.
+This article does not consider the cost of testing of
+wheat for Karnal bunt contamination, or the wheat
+quality discounts
+Text Len: 1736
+--------------------------------------------------------------------------------
+ total reduction of national net farm
+income from 2003 to 2007 is $5.3 billion. The cumula-
+tive marketing loan payments associated with all crops
+increase by $2.0 billion above the baseline over the
+2003-07 period.
+This article does not consider the cost of testing of
+wheat for Karnal bunt contamination, or the wheat
+quality discounts that could emerge in the world mar-
+ketplace. Other important issues include possible cont-
+amination of vessels and handling facilities, regula-
+tions for the transhipment of grain through the St.
+Lawrence Seaway, and possible trade impacts for other
+grains such as corn and soybeans if the Karnal bunt
+quarantine system is deregulated.
+References
+American Phytopathological Society. 1996. Position
+Statement of : The American Phytopathological
+Society. The Use of Quarantines for Wheat Karnal
+Bunt. APS Karnal Bunt Symposium Transcripts.
+The American Phytopathological Society.
+http://www.apsnet.org/online/karnal/index.htm.,
+June 24 - August 16.
+Bonde, Morris. Private communication. Agricultural
+Research Service. U.S. Department of Agriculture.
+March 7, 2002.
+Combs, Susan. 2001. Ag Commissioner Recommends
+Changes to Current Karnal Bunt Policy. Austin.
+http://www.tpma.org/news_reports/reports/072001G
+.html.July 20.
+Davila, G. Fuentes. 1997. Karenal Bunt of Wheat.
+CIMMYT, Mexico. Available at:http://www.cim-
+myt.org/Research/wheat/kb/htm/KBcontents.htm.
+October.
+12 /square6Wheat Yearbook/W
+Text Len: 1437
+--------------------------------------------------------------------------------
+
+.html.July 20.
+Davila, G. Fuentes. 1997. Karenal Bunt of Wheat.
+CIMMYT, Mexico. Available at:http://www.cim-
+myt.org/Research/wheat/kb/htm/KBcontents.htm.
+October.
+12 /square6Wheat Yearbook/WHS-2002/March 2002 Economic Research Service/USDA
+2002 03 04 05 06 07
+36
+38
+40
+42
+44
+46
+48
+Figure A-9
+U.S. net farm income
+$ bil.
+Source: FAPSIM.
+Baseline
+Scenario
+Calendar year
+Department for Environment, Food & Rural Affairs
+(DEFRA). 2001. Karnal Bunt. Available at:
+http://www.defra.gov.uk/planth/pestnote/karnal.htm.
+July 2.
+Dobesberger, Erhard, Norma Alejandra Elizalde
+Jimenez, and Ron A. Sequreira. (2001). An
+Epidemiological Approach to Assessing the Risk of
+Establishment of Karnal Bunt, Tilletia indiaca
+Mitra, in North America. North American Plant
+Protection Organization. http://www.nappo.org/
+KarnalBunt/KB-Aug25-01.pdf. October.
+Forster, Robert L., and Blair J. Goates. 1996. Karnal
+Bunt of Wheat. Cooperative Extension Service.
+University of Idaho. CIS 1067. Available at:
+http://www.uidaho.edu/ag/plantdisease/kbwheat.htm. 
+Kelly, Keith. 1996. Karnal Bunt, Where Are We
+Headed? APS Karnal Bunt Symposium Transcripts.
+The American
+Text Len: 1138
+--------------------------------------------------------------------------------
+al
+Bunt of Wheat. Cooperative Extension Service.
+University of Idaho. CIS 1067. Available at:
+http://www.uidaho.edu/ag/plantdisease/kbwheat.htm. 
+Kelly, Keith. 1996. Karnal Bunt, Where Are We
+Headed? APS Karnal Bunt Symposium Transcripts.
+The American Phytopathological Society. Available
+at:http://www.apsnet.org/online/karnal/index.htm.
+June 24 - August 16.
+Murray, Gordon M. and John P. Brennan. 1996. The
+Risk to Australia from Tilletia indica Mirta, the
+Cause of Karnal Bunt of Wheat. APS Karnal Bunt
+Symposium Transcripts. The American
+Phytopathological Society. Available at:
+http://www.apsnet.org/online/karnal/index.htm.June
+24 - August 16. 
+U.S. Department of Agriculture, Office of the Chief
+Economist, Interagency Agricultural Projections
+Committee. 2002. USDA Agricultural Baseline
+Projections to 2011.United States Department of
+Agriculture. Staff Report W AOB-2002-1. February.
+U.S. Department of Agriculture. Unpublished data.
+March 2002.
+Economic Research Service/USDA Wheat Yearbook/WHS-2002/March 2002 /square613
+Text Len: 1031
+--------------------------------------------------------------------------------

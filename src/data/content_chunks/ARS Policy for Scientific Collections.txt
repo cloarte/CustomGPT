@@ -1,0 +1,1850 @@
+1 
+ 
+USDA Agricultural Research Service  
+Scientific Collections Management and Access Policy 
+September 2014 
+ 
+Beginning in 2005, the White House's Office of Science and Technology Policy (OSTP) and Office of 
+Management and Budget (OMB) included in its priorities for interagency activity a call to "focus 
+attention on integrated support and planning for the care and use of federally held scientific 
+collections."  This call gave rise to the formation of an Interagency Working Group on Scientific 
+Collections (IWGSC) under the Committee of Science of the National Science and Technology Council 
+(NSTC).  The IWGSC issued a report entitled, “Scientific Collections: Mission-Critical Infrastructure 
+for Federal Science Agencies,” in December 2008 that made recommendations for the improvement of 
+management, accessibility and impact of scientific collections owned by U.S. government departments 
+and agencies.  
+On October 6, 2010, OSTP issued a memorandum to the heads of executive departments and agencies 
+entitled, “Policy on Scientific Collections,” that directed IWGSC to develop plans for: i) budgeting for 
+collections, ii) ensuring best management practices for collections, and iii) making collections more 
+accessible.   
+On March 20, 2014, OSTP issued a memorandum to the heads of executive departments and agencies 
+entitled, “Improving the Management of and Access to Scientific Collections.”  In the memorandum, 
+OSTP directed federal agencies that own, maintain or otherwise financially support permanent 
+scientific collections to develop a scientific collections management and access policy. 
+The following document is a response to the 2014 memorandum.  It summarizes the management and 
+access policies for institutional scientific collections owned, maintained, or otherwise financially 
+supported by the Agricultural Research
+Text Len: 1858
+--------------------------------------------------------------------------------
+ Collections.”  In the memorandum, 
+OSTP directed federal agencies that own, maintain or otherwise financially support permanent 
+scientific collections to develop a scientific collections management and access policy. 
+The following document is a response to the 2014 memorandum.  It summarizes the management and 
+access policies for institutional scientific collections owned, maintained, or otherwise financially 
+supported by the Agricultural Research Service (ARS), an agency of the United States Department of 
+Agriculture.  These policy requirements were developed with input from NSTC and IWGSC to also 
+comply with the policy memorandum on scientific collections issued by OSTP in 2010 and the America 
+COMPETES Reauthorization Act of 2010.   
+ 
+ARS SCIENTIFIC COLLECTIONS PHILOSOPHY 
+ 
+This document focuses on institutional collections.  The ARS policy is that all scientific objects that 
+make up in part or in whole an ARS scientific collection are publicly funded assets and great care and 
+caution should be taken in regards to their care and preservation.  As with real and personal property, 
+ARS must exercise reasonable oversight over the inventory and control of scientific objects.  These 
+assets are resources obtained and/or produced for the purposes of supporting ARS research and should 
+therefore have been obtained and/or produced as part of an ARS staff member's official duties.  As 
+such, barring restrictions of national and/or personal security, these objects are considered publicly 
+owned and are generally in the public domain.  ARS regards all scientific objects with the same 
+appreciation as permanent records of research (for example, a laboratory notebook) or government 
+property.  Scientific collections are a national and international resource.  These objects do not belong 
+to the scientist; instead, for research or institutional collections, the scientist or curator should inform 
+M
+Text Len: 1931
+--------------------------------------------------------------------------------
+ and are generally in the public domain.  ARS regards all scientific objects with the same 
+appreciation as permanent records of research (for example, a laboratory notebook) or government 
+property.  Scientific collections are a national and international resource.  These objects do not belong 
+to the scientist; instead, for research or institutional collections, the scientist or curator should inform 
+MMS of any major proposed change in acquisition, care, transfer, or de-acquisition/disposal of the 
+collection.  While it is not expected that an exhaustible resource asset such as culture specimens 
+collected during an experiment are in effect a permanent collection, it is the policy of ARS that 
+specimens that have achieved reference status as a long-term voucher or that are shared among 
+laboratories for purposes of research must be given consideration as part of a potential institutional 
+2 
+ 
+collection which deserves long-term care.  Note: If specimens or cultures are used to support research 
+findings, especially in a new publication or technical report, then researchers should deposit 
+representative specimens or cultures on which that research is based in an appropriate ARS institutional 
+or other permanent collection that has the assigned responsibility for long-term maintenance of such 
+essential reference materials.  This depends on resources and the availability of an appropriate 
+collection.  
+ 
+Each institutional collection is an integral part of an ARS project that is peer-reviewed every five years 
+and is subject to fiscal management planning through the Annual Resources Management Plan 
+(ARMP) process.  Thus, no institutional collection exists independently of ARS research and a 
+Congressional appropriation for research.   
+ 
+DEFINITIONS 
+ 
+SCIENTIFIC COLLECTION 
+ 
+For the purposes of this document, scientific collections are broadly defined as sets of physical objects, 
+Text Len: 1920
+--------------------------------------------------------------------------------
+ planning through the Annual Resources Management Plan 
+(ARMP) process.  Thus, no institutional collection exists independently of ARS research and a 
+Congressional appropriation for research.   
+ 
+DEFINITIONS 
+ 
+SCIENTIFIC COLLECTION 
+ 
+For the purposes of this document, scientific collections are broadly defined as sets of physical objects, 
+living or inanimate, and their supporting records and documentation, which are used in science and 
+resource management and serve as long-term research assets that are preserved, cataloged, and 
+managed by or supported by federal agencies for research, resource management, education, and other 
+uses.  These collections are created for the purpose of supporting or doing science or providing 
+germplasm, rather than for their market value as collectibles or their historical, artistic, cultural, or 
+other significance.  The focus is on institutional collections.  The focus is not on specimens, or parts of 
+specimens used temporarily, that document individual-based observations (e.g., individuals alive or 
+dead from an ecological census wherein data pertaining to each individual is not captured in the study – 
+although, permanently accessioned taxon vouchers are always a recommended practice), or that are 
+considered an exhaustible resource (e.g., a biotic reagent as part of a protocol).  However, since all 
+project or working research collections were obtained through public funding, are federal assets, and 
+may be candidates for designation as institutional collections for long-term preservation, they must be 
+cared for by means appropriate as a federal asset.  The following criteria differentiate institutional from 
+project collections.  Each institutional collection is: 
+ 
+ Subject to a formal accessioning process, including associated documentation and archival 
+material (e.g., notes, photographs and maps); 
+Text Len: 1880
+--------------------------------------------------------------------------------
+ as institutional collections for long-term preservation, they must be 
+cared for by means appropriate as a federal asset.  The following criteria differentiate institutional from 
+project collections.  Each institutional collection is: 
+ 
+ Subject to a formal accessioning process, including associated documentation and archival 
+material (e.g., notes, photographs and maps); 
+ Under the authority of scientific collection curators or scientists and housed in facilities devoted 
+to long-term collection storage;  
+ Inventory validated on a schedule determined by the Agency to ensure accountability of the 
+collection; 
+ Physically labeled in some way with catalog numbers or other unique identifiers linked to a 
+corresponding record in a database or other record-keeping system;  
+ Routinely made available to all qualified users, with certain exceptions; 
+ Made available to qualified parties through formal loan procedures for research, education, or 
+exhibition; 
+ Preserved long-term, except under certain infrequent conditions which may justify de-
+accessioning under a set of formal de-accessioning procedures. 
+3 
+ 
+SPECIMEN METADATA 
+Specimen metadata is information that describes a specimen that is part of a scientific collection. 
+Generally, metadata make a specimen uniquely identifiable and more easily searchable.  Specimen 
+metadata also often provide important scientific information about the specimen that may have its own 
+research or education value.  Examples of specimen metadata include: 
+ Source specific information (i.e., date of isolation, source, etc.); 
+ Phenotypic and genotypic scientific information (i.e., toxin producer, serotype, or sequence 
+type);  
+ Species identification;  
+�
+Text Len: 1731
+--------------------------------------------------------------------------------
+ 
+research or education value.  Examples of specimen metadata include: 
+ Source specific information (i.e., date of isolation, source, etc.); 
+ Phenotypic and genotypic scientific information (i.e., toxin producer, serotype, or sequence 
+type);  
+ Species identification;  
+ Digital images of macroscopic specimens or cultures of microscopic specimens. 
+RECORDS AND REGISTRIES 
+The following are suggested ways to document records.  Each institutional collection curator or 
+working collection researcher will need to document collections appropriate to their intended use.    
+ SPECIMEN RECORD 
+ A specimen record is composed of all metadata for a single specimen in a scientific 
+collection.  
+SCIENTIFIC COLLECTION DATABASE 
+ A scientific collection database is a listing or database of all records associated with 
+collection activity including specimens, taxa, accessions, transfers, loans, borrows, 
+inventory, physical location, collection manager(s), and other relevant information. 
+ SCIENTIFIC COLLECTION RECORD 
+ A record of a scientific collection, or a scientific collection record, is a descriptive guide to a 
+scientific collection.  
+ The record contains essential information such as the title of the scientific collection, 
+contact information, and the physical location of the specimens.  Each scientific collection 
+record is made available to the public via an online registry and points to the location of the 
+associated scientific collection database. 
+SCIENTIFIC COLLECTION REGISTRY 
+ A scientific collection registry is defined as an online digital repository that stores and 
+makes publicly available the scientific collection records and, as appropriate, the scientific 
+collections database associated with that record.
+Text Len: 1757
+--------------------------------------------------------------------------------
+ is made available to the public via an online registry and points to the location of the 
+associated scientific collection database. 
+SCIENTIFIC COLLECTION REGISTRY 
+ A scientific collection registry is defined as an online digital repository that stores and 
+makes publicly available the scientific collection records and, as appropriate, the scientific 
+collections database associated with that record.  The Smithsonian Institution has identified 
+GRSciColl (http://www.GRSciColl.org) as an appropriate federal scientific collection 
+registry.  And the Agency has chosen to adopt GRSciColl as its scientific collections registry 
+to host scientific collection records, with the option to store scientific collection databases. 
+  
+PURPOSE AND SCOPE 
+ 
+ARS conducts research to develop and transfer solutions to agricultural problems of high national 
+priority and provide information access and dissemination to: 
+ ensure high-quality, safe food, and other agricultural products; 
+4 
+ 
+ assess the nutritional needs of Americans; 
+ sustain a competitive agricultural economy; 
+ enhance the natural resource base and the environment; and, 
+ provide economic opportunities for rural citizens, communities, and society as a whole. 
+ 
+ARS collections are essential to the mission of the Agency.  Every day, ARS scientists at locations 
+across the Nation and the World, make use of collections to support their research.  The value of this 
+activity is evident.  In the Agency’s 61-year history, collections have contributed to a number of 
+groundbreaking discoveries and have had a significant societal impact. 
+ The ARS Culture Collection (NRRL) in Peoria, Illinois, exemplifies this success.  With cultures 
+from this collection, USDA scientists undertook research that led to the commercial
+Text Len: 1800
+--------------------------------------------------------------------------------
+
+activity is evident.  In the Agency’s 61-year history, collections have contributed to a number of 
+groundbreaking discoveries and have had a significant societal impact. 
+ The ARS Culture Collection (NRRL) in Peoria, Illinois, exemplifies this success.  With cultures 
+from this collection, USDA scientists undertook research that led to the commercial 
+development of the antibiotic penicillin, which heralded a revolution in the treatment of 
+illnesses and disease, and contributed, in part, to the Allied success in World War II. 
+ Peoria also commercialized riboflavin (Vitamin B2), dextran and xanthan gum, and developed 
+several databases of gene sequences that allow rapid identification of fungal and bacterial 
+species.  The databases are used worldwide to greatly enhance plant food safety and medical 
+research.  These remarkable accomplishments showed the breadth of the collection’s impact on 
+science and society, and were made possible in part because the fungal and bacterial collections 
+were so well maintained.  In addition, this collection facilitates technological innovation by 
+enabling scientists to simultaneously fulfill microbial culture deposition requirements in 
+association with patent applications in the United States and any of the 77 other countries that 
+are contracting parties of the Budapest Treaty on the International Recognition of the Deposit of 
+Microorganisms for the Purposes of Patent Procedures, signed on April 28, 1977.     
+ The USDA Nematode Collection (USDANC) in Beltsville, Maryland, has contributed to the 
+ARS mission in several ways.  For example, in 1970, nematode pests threatened the billion-
+dollar potato economy of the Pacific Northwest.  After comparisons of pest specimens with 
+archived specimens at USDANC, scientists determined that the source of the problem was a 
+Text Len: 1839
+--------------------------------------------------------------------------------
+ The USDA Nematode Collection (USDANC) in Beltsville, Maryland, has contributed to the 
+ARS mission in several ways.  For example, in 1970, nematode pests threatened the billion-
+dollar potato economy of the Pacific Northwest.  After comparisons of pest specimens with 
+archived specimens at USDANC, scientists determined that the source of the problem was a 
+new nematode species and were able to make recommendations about crop rotations to save the 
+industry.  Similarly, in 2000, ARS scientists persuaded Brazilian officials to lift a ban on wheat 
+imports by showing that U.S. wheat exports were free of a quarantined nematode.  This saved 
+the wheat industry millions of dollars, and was made possible with the use of ARS’ thorough 
+and well-preserved collection of nematodes. 
+ The scope of ARS collections extends beyond the Agency.  A number of current collections 
+predate the formation of ARS, and many are used by scientists around the globe.  The National 
+Plant Germplasm System (NPGS), for example, is one of the largest distributors of plant 
+germplasm in the world.  NPGS conserves more than 472,000 accessions and annually 
+distributes approximately 120,000 of these to external researchers.  NPGS furnishes the raw 
+material for crop improvement worldwide, thereby helping to underpin global food security.  
+NPGS’ germplasm collection contributes tremendously to scientific research efforts and 
+provides a valuable service to the scientific community. 
+ ARS’s U.S. Small Grains Collection in Aberdeen, Idaho has been critical to finding an answer 
+to Ug99, which is threatening the world’s barley and wheat.  Researchers and breeders
+Text Len: 1656
+--------------------------------------------------------------------------------
+NPGS’ germplasm collection contributes tremendously to scientific research efforts and 
+provides a valuable service to the scientific community. 
+ ARS’s U.S. Small Grains Collection in Aberdeen, Idaho has been critical to finding an answer 
+to Ug99, which is threatening the world’s barley and wheat.  Researchers and breeders in ARS 
+and from around the world have been screening the collection for genes to provide new sources 
+of stem rust resistance to what is considered by many experts to be the most serious threat to the 
+world’s wheat in the past 50 years. 
+ 
+It is clear that collections, particularly the Agency’s large, institutional collections, play a critical role in 
+supporting both ARS research as well as research conducted by other institutions in North America and 
+5 
+ 
+around the world.  However, if a collection is not appropriately maintained, significant losses can 
+occur, lowering its value to research.   
+ 
+ARS shares the objectives of transparency and maximizing public access to ARS scientific collections, 
+where feasible and appropriate.  Accordingly, this document establishes policy, responsibilities, and 
+procedures for the management of and access to scientific collections to protect these National 
+resources. 
+This policy applies to all current and future institutional scientific collections that the Agency owns or 
+manages.   
+ 
+LEGISLATIVE AND REGULATORY REQUIREMENTS AND AUTHORITIES  
+ 
+ARS is the USDA’s chief in-house research agency comprising a workforce of approximately 6,000 
+employees including 2,100 scientists and post doctoral associates representing a wide range of 
+disciplines.  ARS has 800 research projects at 90+ locations, including overseas laboratories.  The U.S 
+Congress first authorized
+Text Len: 1757
+--------------------------------------------------------------------------------
+MENTS AND AUTHORITIES  
+ 
+ARS is the USDA’s chief in-house research agency comprising a workforce of approximately 6,000 
+employees including 2,100 scientists and post doctoral associates representing a wide range of 
+disciplines.  ARS has 800 research projects at 90+ locations, including overseas laboratories.  The U.S 
+Congress first authorized federally-supported agricultural research in the Department of Agriculture 
+Organic Act of 1862 (7 U.S.C. 2201), establishing what is now the USDA.  That statute directed the 
+Commissioner of Agriculture "... to acquire and preserve in his Department all information he can 
+obtain by means of books and correspondence, and by practical and scientific experiments..."  ARS 
+refers to this statute in ensuring protection of all of its scientific collections. 
+ 
+Additionally, ARS maintains the National Plant Germplasm System (NPGS), a network of federal plant 
+genebanks, which operates under authority derived from, inter alia, 7 U.S.C. 2201, 2204, 3125a, 3291, 
+5841 and 5924.  
+In 1990, the U.S. Congress passed legislation (P.L. 101-624) that authorized establishment of a 
+National Genetic Resources Program (NGRP) to acquire, characterize, preserve, document, and 
+distribute germplasm of all life forms (i.e., plant, animal,  microbial, insect, and aquatic species) 
+important for food and agricultural production.   ARS was assigned the primary role of coordinating 
+and administering the NGRP.  In addition, the 1990 legislation directed establishment of a National 
+Genetic Resources Advisory Committee (NGRAC) to respond to the important issues of the nation 
+related to conserving and utilizing genetic resources for food and
+Text Len: 1686
+--------------------------------------------------------------------------------
+, and aquatic species) 
+important for food and agricultural production.   ARS was assigned the primary role of coordinating 
+and administering the NGRP.  In addition, the 1990 legislation directed establishment of a National 
+Genetic Resources Advisory Committee (NGRAC) to respond to the important issues of the nation 
+related to conserving and utilizing genetic resources for food and agriculture.   
+At Peoria, ARS has an additional authority (7 USC 7641), as part of the 1985 Farm Bill, to administer a 
+program of fees for the deposit and distribution of microbial patent cultures in support of international 
+treaties.  This authority is in support of the Budapest Treaty on the International Recognition of the 
+Deposit of Microorganisms for the Purposes of Patent Procedures, signed on April 28, 1977.  
+ 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-
+USDA Locations or Individuals 
+ 
+Additional authorities include: 
+ 
+ Agricultural Research Act of 1935 (7 U.S.C. 427) 
+ Research and Marketing Act of 1946 (Pub. L. 79-733), as amend ed (7 U.S.C. 427, 1621 
+note) 
+ Food and Agriculture Act of 1977 (Pub. L. 95-113), as amend ed (7 U.S.C. 1281 note) 
+6 
+ 
+ Food Security Act of 1985 (Pub. L. 99-198) (7 U.S.C. 3101 note) 
+ Food, Agriculture, Conservation, and Trad e Act of 1990 (Pub. L. 101-624) (7 U.S.C. 1421 
+note) 
+ Fed eral Agriculture
+Text Len: 1397
+--------------------------------------------------------------------------------
+
+ Food Security Act of 1985 (Pub. L. 99-198) (7 U.S.C. 3101 note) 
+ Food, Agriculture, Conservation, and Trad e Act of 1990 (Pub. L. 101-624) (7 U.S.C. 1421 
+note) 
+ Fed eral Agriculture Improvement and Reform Act of 1996 (Pub. L. 104-127) 
+ Agriculture Research, Extension, and Education Reform Act of 1998 (Pub. L. 105-185) 
+ Farm Security and Rural Investment Act of 2002 (Pub. L. 107-171) 
+ Purposes of Agricultural Research, Extension, and Education (Pub. L. 104-127, Titl e VIII, 
+Sec. 901, Apr. 4, 1996, 110 Stat. 1156) 
+ Freed om of Information Act (5 U.S.C 552) 
+ Privacy Act (5 U.S.C. 552a) 
+ Trad e Secrets Act (18 U.S.C. 1905) 
+ Copyright Act (17 U.S.C. 101 inter alia) 
+ Fed eral Acquisition Regulations System, Solicitation Provisions and Contract Clauses (48 
+C.F.R. Part 52) 
+ Federal Accounting Standards Advisory Board (FASAB) (FASAB, 2005) 
+ Government Performance and Results Act (GPRA) of 1993 (P.L. 103-62) 
+ Executive Order 12862 of 1993 on Customer Service Standards 
+ America COMPETES Reauthorization Act of 2010 (Pub. L. No. 111-358), Section 104 
+requires the OSTP
+Text Len: 1106
+--------------------------------------------------------------------------------
+AB, 2005) 
+ Government Performance and Results Act (GPRA) of 1993 (P.L. 103-62) 
+ Executive Order 12862 of 1993 on Customer Service Standards 
+ America COMPETES Reauthorization Act of 2010 (Pub. L. No. 111-358), Section 104 
+requires the OSTP Director to “d evel op policies for the management and use of fed eral 
+scientific coll ections to improve the quality, organization, access, including online access, 
+and l ong-term preservation of such coll ections for the benefit of the scientific enterprise.”  
+ Office of Science and Technol ogy Policy, Memorandum for the Head s of Executive 
+Departments and Agencies, Policy on Scientific coll ections (October 6, 2010) 
+ Office of Science and Technol ogy Policy, Memorandum for the Head s of Executive 
+Departments and Agencies, Improving the Management of and Access to Scientific 
+Coll ections (March 20, 2014) 
+ 
+RESPONSIBILITIES: ORGANIZATIONAL COMPONENTS AND AGENCY 
+OFFICIALS THAT SUPPORT AND IMPLEMENT COLLECTIONS POLICY IN 
+ARS  
+ 
+ARS is a research-based agency, so all scientific collections are utilized to support research, collaborate 
+with the research community worldwide, and to archive and preserve scientific objects crucial to the 
+support of the current and future research community.  All of the research projects, and therefore the 
+collections that support those research projects, are aligned into 17 National Programs grouped into 
+four program areas: Animal Production and Protection; Crop Production and Protection; Natural 
+Resources and Sustainable Agricultural Systems; and, Nutrition, Food Safety, and Quality.  Each of the 
+Text Len: 1611
+--------------------------------------------------------------------------------
+ 
+support of the current and future research community.  All of the research projects, and therefore the 
+collections that support those research projects, are aligned into 17 National Programs grouped into 
+four program areas: Animal Production and Protection; Crop Production and Protection; Natural 
+Resources and Sustainable Agricultural Systems; and, Nutrition, Food Safety, and Quality.  Each of the 
+four program areas is managed by a Deputy Administrator, and each program is led by a team of 
+National Program Leaders (NPLs).  Currently, about 20 NPLs are responsible for planning and 
+7 
+ 
+developing research strategies to address critical issues affecting American agriculture.  Collectively, 
+this forms the Office of National Programs (ONP). 
+ 
+ARS leadership formulated the present concept of ONP as a result of a desire to update the Agency’s 
+approach to interdisciplinary, nationally collaborative research in order to remain on the leading edge 
+of agricultural research.  In 1993, two federal policy and regulatory requirements provided increased 
+impetus for this development: the Government Performance and Results Act (GPRA), requiring all 
+federal institutions to be accountable to Congress and U.S. taxpayers, and an Executive Order to 
+increase customer service standards.  The Agricultural Research, Extension, and Education Reform Act 
+of 1998 demanded further accountability, mandating the establishment of procedures to perform 
+scientific peer reviews of all research projects conducted by ARS.  
+ 
+To plan, implement, coordinate, and account for its research, ARS utilizes its Matrix Management 
+System (MMS).  MMS is composed of vertical (line) management organized by geographic Areas, 
+horizontal (staff) management organized by research programs (ONP), and also includes other 
+functions (budgeting, information technology, technology transfer, security), and business processes
+Text Len: 1914
+--------------------------------------------------------------------------------
+ plan, implement, coordinate, and account for its research, ARS utilizes its Matrix Management 
+System (MMS).  MMS is composed of vertical (line) management organized by geographic Areas, 
+horizontal (staff) management organized by research programs (ONP), and also includes other 
+functions (budgeting, information technology, technology transfer, security), and business processes 
+(administrative and financial management).  The role of ONP in MMS is to provide program direction, 
+relevance, and coordination.  The role of line management is to manage project resources and assure 
+project research quality.  The Administrator and the executive leadership team (Administrator‘s 
+Council) of ARS provide leadership to MMS in accordance with the ARS Strategic Plan, National 
+Program Actions Plans, and established operating policies. 
+ 
+ONP coordinates a 5-year program management cycle that includes the activities by which ARS 
+conducts its research, ensuring effective and efficient program and project management.  In order to be 
+successful, programs and projects must meet goals in three areas: Relevance, Quality (Prospective and 
+Retrospective), and Performance.  In order to demonstrate that ARS research is of the highest quality 
+and to meet the requirements of the Government Performance and Review Act, the Agency prescribes 
+five actions: Program Planning and Priority Setting, Scientific Merit Peer Review [including an outside 
+peer panel review organized by the Office of Scientific Quality Review (OSQR)], Project 
+Implementation, Project Coordination, and Program Assessment.  Since ARS scientific collections 
+support research programs, they are included as an integral part of the 5-year program planning cycle.  
+This includes scientific collections that support ongoing or newly proposed research programs or 
+projects.  The planning and management of all scientific collections whether extant or
+Text Len: 1922
+--------------------------------------------------------------------------------
+ (OSQR)], Project 
+Implementation, Project Coordination, and Program Assessment.  Since ARS scientific collections 
+support research programs, they are included as an integral part of the 5-year program planning cycle.  
+This includes scientific collections that support ongoing or newly proposed research programs or 
+projects.  The planning and management of all scientific collections whether extant or proposed must 
+be considered during all phases of the development, management, and assessment of the 5-year 
+program cycle and ultimate authority and accountability for ARS scientific collections is determined 
+via MMS.  MMS is responsible for implementing this policy on scientific collections across all ARS 
+research programs.  All decisions as to the maintenance, accessioning, and de-accessioning of ARS 
+scientific collections should be considered a modification of a research program and therefore under the 
+guidance of MMS.  For institutional collections, curators have authority to make such decisions; 
+however, major decisions on accessioning, care, and de-accessioning of entire collections or major 
+subsets of collections are brought to the attention of the appropriate Area Office leadership and ONP, 
+including the ARS Scientific Collections Committee (ASCC). 
+ 
+SPECIFIC ROLES REGARDING COLLECTIONS 
+ 
+AREA OFFICES 
+ ARS Area Directors are responsible for the management of funds, personnel, and facilities 
+available for the Agency’s scientific research, including associated collections, in a specific 
+8 
+ 
+multi-state Area.  Research Leaders (or other representatives designated by each Area 
+Director) have responsibility for direct oversight of collection management in Research 
+Units.   
+OFFICE OF NATIONAL PROGRAMS 
+ The Associate Administrator for the Office of National Programs and ASCC, with
+Text Len: 1830
+--------------------------------------------------------------------------------
+, including associated collections, in a specific 
+8 
+ 
+multi-state Area.  Research Leaders (or other representatives designated by each Area 
+Director) have responsibility for direct oversight of collection management in Research 
+Units.   
+OFFICE OF NATIONAL PROGRAMS 
+ The Associate Administrator for the Office of National Programs and ASCC, with Deputy 
+Administrators and National Program Leaders, and with feedback from project scientists 
+and stakeholders, evaluates present and future ARS scientific collections activity needed to 
+support research projects.   
+ARS SCIENTIFIC COLLECTIONS COMMITTEE (ASCC) 
+ The Associate Administrator for the Office of National Programs chairs and appoints the 
+members of the ARS Scientific Collections Committee to determine whether a collection 
+meets the criteria specified (page 2) for an institutional collection, provide technical subject 
+matter expertise on best practices, and develop recommendations for actions by Agency 
+leadership to ensure the quality and sustainability of collections as critical components of 
+scientific infrastructure.  ASCC has representation from ONP and curators and scientists 
+responsible for collections.  The committee convenes as needed, at least once per year.     
+SCIENTISTS    
+ 
+ Scientists are responsible for knowing and following best practices and standards for 
+specimen-based documentation of their primary research findings and maintaining   
+specimens or parts of specimens in a manner that would support their potential long-term 
+transfer into and curation in an institutional collection.  Some may fulfill a role as a 
+collection curator. 
+ 
+COLLECTION CURATORS 
+ 
+ Institutional collections will have a scientific collection curator, often a project Lead 
+Scientist, who is responsible for: 
+o Direction and planning of the
+Text Len: 1832
+--------------------------------------------------------------------------------
+ their potential long-term 
+transfer into and curation in an institutional collection.  Some may fulfill a role as a 
+collection curator. 
+ 
+COLLECTION CURATORS 
+ 
+ Institutional collections will have a scientific collection curator, often a project Lead 
+Scientist, who is responsible for: 
+o Direction and planning of the scientific collection; 
+o Establishment of interagency agreements or contracts, if necessary; 
+o Establishment, review, submission, and revision of a Scientific Collection Plan, 
+including standard operating protocols (SOPs); 
+o Establishment of collecting priorities to guide the development of collections; 
+o Control, monitoring, and documentation of all access to and use of collections; 
+o Ensuring that the SOPs are stored in designated, accessible but secure locations and 
+available to personnel at all times; 
+o Ensuring that personnel review the SOPs, and associated trainings are recorded; 
+o Compliance with this policy, SOPs, and the Scientific Collection Plan, and annual 
+reporting on compliance; 
+o Delegation of authority and assignment of collection responsibility to the appropriate 
+project staff; and, 
+9 
+ 
+o General scientific collection management and reporting. 
+ 
+POLICIES AND PROCEDURES 
+RESEARCH PROJECT PLAN  
+ARS recognizes that the scientists accumulating scientific objects are best suited to propose plans for 
+long-term preservation, maintenance, and accessibility of all scientific collections. 
+Planning for an institutional collection is done as part of developing a research Project Plan during the 
+typical 5-year project cycle, including external peer review coordinated by OSQR.  Project Plans and 
+their objectives are developed by ONP in collaboration with curators and other scientists.  These plans 
+also receive input from line management. 
+The
+Text Len: 1815
+--------------------------------------------------------------------------------
+ scientific collections. 
+Planning for an institutional collection is done as part of developing a research Project Plan during the 
+typical 5-year project cycle, including external peer review coordinated by OSQR.  Project Plans and 
+their objectives are developed by ONP in collaboration with curators and other scientists.  These plans 
+also receive input from line management. 
+The scientific collections plan section of the Project Plan provides an overall vision and protocols for 
+the creation, expansion, long-term management, disposal, and accessibility and security of the scientific 
+collection.  The collections section of a research Project Plan includes the following topics:  
+ Accessioning Plan 
+ Maintenance Plan 
+ De-accessioning Plan (if needed)  
+ Access Plan  
+For some collections, extensive procedures have been established.  For example, since 1996 the 
+National Plant Germplasm System (NPGS) has followed the NPGS Manual of Procedures, which is 
+currently undergoing revision.  Individual genebanks are also required to develop and adhere to their 
+own genebank-specific Manual of Procedures, tailored to the biological characteristics of the crops that 
+they manage and the needs of the user communities they serve.   
+ 
+Accessioning Plan 
+ARS acquires specimens by a variety of methods, including transfer and field collecting.  The Agency 
+recommends responsible, disciplined acquisition of collections, and the specimens within, through the 
+following principles:  
+ The acquisition of collections should be relevant to the mission and goals of ARS and individual 
+laboratories; 
+ There should be clear delegation of collecting authority within laboratories to avoid duplication 
+of efforts and mishandling; and, 
+ There should be strict adherence to all applicable laws and regulations
+Text Len: 1822
+--------------------------------------------------------------------------------
+ the 
+following principles:  
+ The acquisition of collections should be relevant to the mission and goals of ARS and individual 
+laboratories; 
+ There should be clear delegation of collecting authority within laboratories to avoid duplication 
+of efforts and mishandling; and, 
+ There should be strict adherence to all applicable laws and regulations relating to collections 
+acquisition. 
+As a general rule, collection items are acquired and accessioned only when there is a good faith 
+intention to retain them in ARS permanently or for the long-term.  Institutional scientific collections are 
+retained as long as they continue to serve the mission and objectives of the Agency, and can be properly 
+maintained and used. 
+Accession Plans provide the following information: 
+1. Scope of specimens to be potentially included into an institutional collection 
+2. The estimated yearly growth of the scientific collection 
+10 
+ 
+3. Accessioning Protocols 
+a. For transfer of custody of a specimen into the scientific collection 
+b. Procedures used to process, handle, and store the specimen 
+c. For the timely accession of the specimen: 
+a. Standardized descriptive metadata into the record, including, but not limited to: 
+1. Accession/voucher number 
+2. Physical location 
+3. Accession date 
+4. Strain or species information 
+b. Insertion of the record into the database/catalog 
+d. Assignment of physical storage space to the specimen 
+4. Maintenance, Budget, and Access Plans 
+ 
+Maintenance Plan 
+Each Maintenance Plan should have the following information: 
+ 
+1. General information 
+ a. Name, contact information, and operational division for the scientific collection curator 
+ b. Purpose of institutional scientific collection 
+Text Len: 1736
+--------------------------------------------------------------------------------
+ database/catalog 
+d. Assignment of physical storage space to the specimen 
+4. Maintenance, Budget, and Access Plans 
+ 
+Maintenance Plan 
+Each Maintenance Plan should have the following information: 
+ 
+1. General information 
+ a. Name, contact information, and operational division for the scientific collection curator 
+ b. Purpose of institutional scientific collection 
+ c. Date scientific collection was or will be established 
+d. Any applicable statute, regulations, or policy that must be observed during the accession 
+and management of specimens 
+e.  Standards for consistent documentation of metadata 
+f.  Infrastructure requirements 
+g.  Data management plan (machine-readable, open format) 
+2.  Maintenance Protocols 
+a. Procedures used to process, handle, maintain, track, ship, and share specimens 
+b. Procedures used to store specimens in facilities devoted to long-term collection storage, 
+including best practices for the long-term storage of institutional scientific collections 
+c. Procedures used to inventory the collection to ensure accountability of the collection 
+d. Procedures used to physically label specimens in some way with catalog numbers or other 
+unique identifiers linked to the corresponding record in the institutional scientific collection 
+database  
+e. A document to control program and policies for modifying or revising the SOP 
+ 
+De-Accessioning Plan 
+11 
+ 
+Prudent institutional scientific collection management includes judicious consideration of appropriate 
+de-accessioning and disposal.  The periodic review, evaluation, de-accessioning, and disposal of 
+existing institutional scientific collections is intended to refine and improve the quality and relevance of 
+collections with respect to ARS’s mission and purpose.  
+De-accessioning and disposal occur for a variety of reasons, such as unneeded duplication or 
+redund
+Text Len: 1870
+--------------------------------------------------------------------------------
+ing and disposal.  The periodic review, evaluation, de-accessioning, and disposal of 
+existing institutional scientific collections is intended to refine and improve the quality and relevance of 
+collections with respect to ARS’s mission and purpose.  
+De-accessioning and disposal occur for a variety of reasons, such as unneeded duplication or 
+redundancy of institutional scientific collection material; an insufficient relationship of collection items 
+to the mission and goals of ARS such that they are judged to be better placed elsewhere; and, use in 
+research that destroys the future use of the specimens.  
+A lasting archive of ARS research and the data, datasets, and voucher specimen objects that supported 
+the research should be preserved indefinitely as resources allow.  The decision to de-accession a 
+specimen should be made only after careful review of the research, resource management, and 
+educational value of a collection.  Specimen objects and their associated data that form in part or in 
+whole an ARS scientific collection must go through review by MMS before de-accession, transfer, or 
+disposal.  Consideration is given to how research objectives will be met in the absence of the scientific 
+collection, the impact of the unfulfilled objectives of the National Research Program if not met, the 
+financial consequences relating to the loss of the specimens, including potential costs of reacquisition, 
+recollecting, or reproducing the specimen objects in the future, the loss of any potential ARS research 
+products that could be generated from the specimen objects, and the impact on ARS staff and 
+stakeholders at large as a result of reducing or losing access to the specimen objects either temporarily 
+or permanently.  For project and institutional collections proposed for de-accession by a laboratory 
+scientist or curator, MMS and
+Text Len: 1869
+--------------------------------------------------------------------------------
+, the loss of any potential ARS research 
+products that could be generated from the specimen objects, and the impact on ARS staff and 
+stakeholders at large as a result of reducing or losing access to the specimen objects either temporarily 
+or permanently.  For project and institutional collections proposed for de-accession by a laboratory 
+scientist or curator, MMS and ASCC is responsible for making sure that other (non-owner) ARS 
+laboratories will be given an opportunity to accept ownership of the collection, except as otherwise 
+stipulated by authorizing legislation or other restrictions.  If, after the review process, ARS determines 
+that the specimen objects forming a scientific collection in part or in whole will not be further 
+supported in any ARS National Research Program, then the priority is to seek another federal 
+institution as a depository.  Scientific collection curators should consult with researchers who have used 
+the collection, parties interested in the collection’s value for research, resource management, and 
+educational purposes, and other subject matter experts, as needed.  A public or private institution may 
+become the depository if a federal institution is unavailable.  Permanent destruction of specimen 
+objects that have supported ARS research is the last option after pursuing all other options. 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-USDA 
+Locations or Individuals. 
+ 
+Collections, or specimens within, may be de-accessioned and destroyed only in accordance with 
+established authority of the designated scientific collection curator and only when consistent with 
+applicable law. 
+ 
+Notification, Review and Approval 
+A notification of de-accessioning of an entire institutional scientific collection is submitted 
+through the management chain of command, starting with the Research
+Text Len: 1884
+--------------------------------------------------------------------------------
+ or specimens within, may be de-accessioned and destroyed only in accordance with 
+established authority of the designated scientific collection curator and only when consistent with 
+applicable law. 
+ 
+Notification, Review and Approval 
+A notification of de-accessioning of an entire institutional scientific collection is submitted 
+through the management chain of command, starting with the Research Leader (RL).  Once the 
+RL approves the plan, it then proceeds via MMS to ASCC for notification.  The Associate 
+Administrator of ONP will also notify the Administrative Council about the impending de-
+accessioning of an institutional scientific collection. 
+De-accessioning Plans should include: 
+1. A notice of scientific collection de-accessioning must contain the following information: 
+12 
+ 
+a. Scientific collection curator and contact information 
+b. Itemized list of specimens to be de-accessioned 
+c. The disposition of the collection (e.g., transferred or destroyed) 
+d. Transfer recipient, if applicable 
+e. De-accessioning date 
+f. Date of transfer or destruction 
+2. A final notification must be sent to the Associate Administrator of ONP once the entire 
+institutional scientific collection has been either transferred or destroyed. 
+3. De-accessioning and Disposal Protocol, including: 
+a. Guidelines for the decision to de-accession a specimen 
+b. A procedure for the orderly transfer of specimens to a new collection 
+c. The proper method of disposal of the specimen(s) 
+Access and Use Plan 
+Specimens within an ARS scientific collection are the property of the United States Government.  ARS 
+will provide reasonable physical access to its institutional scientific collections to qualified researchers, 
+academics, and others as feasible, appropriate, and consistent with Agency
+Text Len: 1800
+--------------------------------------------------------------------------------
+ to a new collection 
+c. The proper method of disposal of the specimen(s) 
+Access and Use Plan 
+Specimens within an ARS scientific collection are the property of the United States Government.  ARS 
+will provide reasonable physical access to its institutional scientific collections to qualified researchers, 
+academics, and others as feasible, appropriate, and consistent with Agency mission and pursuant to the 
+scientific collections SOP.  Those seeking physical access to the institutional scientific collection must 
+adhere to the procedures outlined in the collection’s SOP. 
+Physical and digital access to the collections must be balanced against human resources, preservation, 
+and security concerns.  Scientific collection curators, working with MMS and in consultation with their 
+Research Leader and ONP, will have the discretion to temporarily, or permanently, limit the access to 
+institutional scientific collections and related catalogs, databases, records, and metadata for purposes 
+of: 
+ Safeguarding individual privacy, confidentiality, trade secrets, copyright, and intellectual 
+property rights; 
+ Adhering to laws, regulations, treaties, and international or tribal agreements; 
+ Protecting national security; 
+ Resource limitations; 
+ Specimen availability; 
+ Preservation constraints; or,  
+ Addressing general security concerns. 
+Any limits to public access to the institutional scientific collection must be disclosed in the SCP, 
+including: 
+ Restrictions, and justification, for physical access to the scientific collection; and, 
+ Redactions, and justification, for the digital access to the scientific collection. 
+Scientific collection databases, which include all specimen records and metadata, are made available to 
+the public through GRSciColl (http://www.GRSciColl
+Text Len: 1808
+--------------------------------------------------------------------------------
+including: 
+ Restrictions, and justification, for physical access to the scientific collection; and, 
+ Redactions, and justification, for the digital access to the scientific collection. 
+Scientific collection databases, which include all specimen records and metadata, are made available to 
+the public through GRSciColl (http://www.GRSciColl.org).  A collection curator may also choose to 
+13 
+ 
+separately provide public access to the scientific collection database online through an ARS website, 
+provided the scientific collection record in GRSciColl directs users to the location of the online 
+database.  
+For more than 20 years, extensive information about the USDA/ARS’s plant, animal, and microbial 
+genetic resources conserved by its genebanks have been maintained and are publicly accessible online 
+via the Germplasm Resources Information Network (GRIN) at http://www.ars-grin.gov.    
+With few exceptions (e.g., patent or Plant Variety Protection vouchers), the accessions in the NPGS and 
+other ARS genebanks and associated information are in the public domain.  Information about the 
+original location where accessions of rare and/or endangered taxa were collected are not accessible to 
+GRIN users.  Curators can make that information available to researchers with legitimate needs for 
+those data. 
+ 
+USDA is home to long term public databases for plant genetic and genomic information.  A few USDA 
+databases are dedicated to specific crops, e.g. SoyBase (soybean), MaizeGDB (corn), GrainGenes 
+(wheat, barley, and oats).  Others host genetic/genomic information for diverse, non-redundant families 
+of plants, e.g. Legume Information System
+Text Len: 1663
+--------------------------------------------------------------------------------
+ and genomic information.  A few USDA 
+databases are dedicated to specific crops, e.g. SoyBase (soybean), MaizeGDB (corn), GrainGenes 
+(wheat, barley, and oats).  Others host genetic/genomic information for diverse, non-redundant families 
+of plants, e.g. Legume Information System (LIS) and Gramene.  The project plans for each database are 
+kept current in consultation with representatives from each research community. 
+ 
+All restrictions on digital access shall be limited to the minimal subset of specific records and metadata 
+as possible, with all other collection content made public.  Where possible, redaction of specific 
+metadata should be favored over limiting digital and physical access to the entire specimen or subset of 
+specimens.  
+Metadata format 
+When constructing and formatting the institutional scientific collection metadata, scientific 
+collection curators must employ machine-readable and open formats, data standards, and 
+common-core and extensible metadata for all new information creation and collection to 
+facilitate search and discoverability and provide clear public guidance for accessing collections 
+materials, consistent with the Executive Order on Making Open and Machine Readable the New 
+Default for Government Information. 
+When available and where not limited by law, this policy, or resources, ARS will make freely 
+and easily accessible to the public all digital metadata in the highest available fidelity and 
+resolution, including, but not limited to photographs, videos, and associated records and 
+documentation, that describe or characterize specimens in a scientific collection. 
+Third-Party Management of Institutional Scientific Collections 
+Third-party collections are those not owned, but supported, by ARS.  For example, ARS partially funds 
+the Tomato Genetic Stock Center at the University of California at Davis and the Ornamental Plant
+Text Len: 1898
+--------------------------------------------------------------------------------
+ to photographs, videos, and associated records and 
+documentation, that describe or characterize specimens in a scientific collection. 
+Third-Party Management of Institutional Scientific Collections 
+Third-party collections are those not owned, but supported, by ARS.  For example, ARS partially funds 
+the Tomato Genetic Stock Center at the University of California at Davis and the Ornamental Plant 
+Germplasm Center at The Ohio State University, and their accessions have NPGS numbers, 
+information in GRIN, and are backed-up in the ARS genebank at Ft. Collins.  Thus, these collections 
+follow the same guidelines as the ARS genebanks. 
+To start a new third-party collection and, whenever practicable and appropriate, a scientific collection 
+curator should work with public or private outside entities qualified to manage scientific collections.  
+Those entities must agree to take responsibility for the stewardship and access to institutional scientific 
+collections.  
+14 
+ 
+ If the outside entity is a federal agency, then the entity’s scientific collection’s policy applies to 
+the institutional collection.  An interagency agreement should be executed and included with a 
+scientific collections plan (if available) and annual report. 
+ If the outside entity is not a federal agency, and does not have a relevant scientific collections 
+management and access policy, then the institutional scientific collection will be governed by 
+the ARS policy.  All Agency grants, contracts, and cooperative agreements that direct an outside 
+non-federal entity to obtain or create an institutional collection must require the entity to 
+comply with the ARS scientific collections policy.  The agreement or contract should be 
+included with the scientific collection section of the annual report. 
+Access Plans include Access and Use Protocols: 
+1. Detailed
+Text Len: 1859
+--------------------------------------------------------------------------------
+ grants, contracts, and cooperative agreements that direct an outside 
+non-federal entity to obtain or create an institutional collection must require the entity to 
+comply with the ARS scientific collections policy.  The agreement or contract should be 
+included with the scientific collection section of the annual report. 
+Access Plans include Access and Use Protocols: 
+1. Detailed instructions for digital access to the scientific collection, including: 
+a. Step by step instructions and timelines for the process of providing digital public access 
+to newly accessioned specimens  
+b. A detailed description of which records or specimen metadata fields are restricted from 
+disclosure and why 
+c. A timeline from accession of a specimen to digital public access 
+d. A detailed description of which records and metadata to be redacted 
+2. Detailed instructions for physical access to the scientific collection, including: 
+a. Outline procedures to properly aliquot, or parse, bio-specimens to ensure ease of 
+distribution 
+b. A detailed description of which specimens, records, and metadata will not be available 
+for physical access 
+c. Procedures used to respond to and accommodate physical access and loan requests 
+d. A standard timeline to respond to a request 
+BUDGETING 
+An institutional collection is part of an ARS base-funded project subject to OSQR review, thus, the 
+collection’s budget is part of the overall project budget.  Project budgets and their adequacy to support 
+the research, including relevant institutional collections, are subject to yearly review by line 
+management in the Agency’s ARMP process.    
+ANNUAL REPORTING 
+To maintain proper oversight of the management of institutional scientific collections, the scientific 
+collection curator submits an annual report summarizing the status of the collection as a component of 
+
+Text Len: 1860
+--------------------------------------------------------------------------------
+acy to support 
+the research, including relevant institutional collections, are subject to yearly review by line 
+management in the Agency’s ARMP process.    
+ANNUAL REPORTING 
+To maintain proper oversight of the management of institutional scientific collections, the scientific 
+collection curator submits an annual report summarizing the status of the collection as a component of 
+the project annual report.  The project annual report is reviewed and approved by the Research Leader 
+of the Management Unit where the institutional collection resides.  Subsequent approval by line 
+management and review by program leaders are required per standard ARS policies and procedures for 
+project annual reports.  The annual report for a project including an institutional collection must 
+include: 
+ A link to the catalog in GRSciColl (http://www.GRSciColl.org) 
+ A summary of major changes to the digital or physical public access to the scientific collection; 
+15 
+ 
+ The current interagency agreement, memorandum of understanding, or contract with a third 
+party entity responsible with the management of the scientific collection, if applicable; 
+ A summary of any significant changes in practices, procedures, technology, law, or regulation 
+that impact the collection.  
+PRACTICES FOR SAFEGUARDING INDIVIDUAL PRIV ACY, 
+CONFIDENTIALITY, INTELLECTUAL PROPERTY RIGHTS, AND 
+NATIONAL SECURITY  
+ 
+PRIV ACY/CONFIDENTIALITY 
+ 
+In most cases, materials are broadly distributed from ARS collections without privacy or confidentiality 
+restrictions.  Nevertheless, certain circumstances require protection of confidential information.  
+Confidentiality Agreements (CA) can be put into place to protect this information.  A CA permits 
+Text Len: 1733
+--------------------------------------------------------------------------------
+URITY  
+ 
+PRIV ACY/CONFIDENTIALITY 
+ 
+In most cases, materials are broadly distributed from ARS collections without privacy or confidentiality 
+restrictions.  Nevertheless, certain circumstances require protection of confidential information.  
+Confidentiality Agreements (CA) can be put into place to protect this information.  A CA permits 
+parties to exchange confidential information and data.  The signatories of a CA agree to not disclose 
+information received from the other party.  A Material Transfer Agreement (MTA) is a type of 
+confidentiality agreement that governs the transfer of certain kinds of materials between two 
+organizations.  The MTA does not transfer ownership – the materials are merely lent to the receiving 
+organization and the MTA sets forth the conditions of the loan by defining the rights of the provider 
+and recipient with respect to the materials and any derivatives, as well as the purposes to which the 
+material may be put.  
+ 
+INTELLECTUAL PROPERTY  
+ 
+Outcomes of ARS research may require some form of intellectual property (IP) protection in order to 
+attract the investment required to achieve successful utilization or adoption of scientific materials.  
+Most protection of intellectual property in the Federal Government is done through patents.  The first 
+consideration in deciding whether or not to seek a patent is if protection will enhance the likelihood 
+that the scientific materials will be utilized or adopted.   
+ 
+BIOSAFETY AND BIOSECURITY 
+ 
+To ensure safety and environmental protection, ARS employees are required to comply with all federal, 
+state, and local regulations regarding the movement of pathogens (human, animal, and plant) within or 
+into the United States, and safeguarding of those pathogens.  Pathogens are distributed and transported 
+only
+Text Len: 1816
+--------------------------------------------------------------------------------
+ 
+BIOSAFETY AND BIOSECURITY 
+ 
+To ensure safety and environmental protection, ARS employees are required to comply with all federal, 
+state, and local regulations regarding the movement of pathogens (human, animal, and plant) within or 
+into the United States, and safeguarding of those pathogens.  Pathogens are distributed and transported 
+only under authority of a permit (e.g., from the USDA Animal and Plant Health Inspection Service, the 
+Department of Health and Human Services, or the Department of Commerce, as appropriate) and a 
+Material Transfer Agreement.  Permitting agencies specify the level of containment for the pathogen as 
+well as conditions for limiting access to pathogens and final disposal methods for pathogens.  
+Acceptable disposal methods (usually autoclaving) for pathogens received under permit are specified in 
+the permit.  This is out of concern for protecting the Agency from liabilities as well as protecting the 
+end-user/requestor from potential harm/infection/contamination/etc.  Inventories of pathogens present 
+in ARS are maintained by ARS.  
+ 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-
+USDA Locations or Individuals 
+ 
+Text Len: 1206
+--------------------------------------------------------------------------------
+1 
+ 
+USDA Agricultural Research Service  
+Scientific Collections Management and Access Policy 
+September 2014 
+ 
+Beginning in 2005, the White House's Office of Science and Technology Policy (OSTP) and Office of 
+Management and Budget (OMB) included in its priorities for interagency activity a call to "focus 
+attention on integrated support and planning for the care and use of federally held scientific 
+collections."  This call gave rise to the formation of an Interagency Working Group on Scientific 
+Collections (IWGSC) under the Committee of Science of the National Science and Technology Council 
+(NSTC).  The IWGSC issued a report entitled, “Scientific Collections: Mission-Critical Infrastructure 
+for Federal Science Agencies,” in December 2008 that made recommendations for the improvement of 
+management, accessibility and impact of scientific collections owned by U.S. government departments 
+and agencies.  
+On October 6, 2010, OSTP issued a memorandum to the heads of executive departments and agencies 
+entitled, “Policy on Scientific Collections,” that directed IWGSC to develop plans for: i) budgeting for 
+collections, ii) ensuring best management practices for collections, and iii) making collections more 
+accessible.   
+On March 20, 2014, OSTP issued a memorandum to the heads of executive departments and agencies 
+entitled, “Improving the Management of and Access to Scientific Collections.”  In the memorandum, 
+OSTP directed federal agencies that own, maintain or otherwise financially support permanent 
+scientific collections to develop a scientific collections management and access policy. 
+The following document is a response to the 2014 memorandum.  It summarizes the management and 
+access policies for institutional scientific collections owned, maintained, or otherwise financially 
+supported by the Agricultural Research
+Text Len: 1858
+--------------------------------------------------------------------------------
+ Collections.”  In the memorandum, 
+OSTP directed federal agencies that own, maintain or otherwise financially support permanent 
+scientific collections to develop a scientific collections management and access policy. 
+The following document is a response to the 2014 memorandum.  It summarizes the management and 
+access policies for institutional scientific collections owned, maintained, or otherwise financially 
+supported by the Agricultural Research Service (ARS), an agency of the United States Department of 
+Agriculture.  These policy requirements were developed with input from NSTC and IWGSC to also 
+comply with the policy memorandum on scientific collections issued by OSTP in 2010 and the America 
+COMPETES Reauthorization Act of 2010.   
+ 
+ARS SCIENTIFIC COLLECTIONS PHILOSOPHY 
+ 
+This document focuses on institutional collections.  The ARS policy is that all scientific objects that 
+make up in part or in whole an ARS scientific collection are publicly funded assets and great care and 
+caution should be taken in regards to their care and preservation.  As with real and personal property, 
+ARS must exercise reasonable oversight over the inventory and control of scientific objects.  These 
+assets are resources obtained and/or produced for the purposes of supporting ARS research and should 
+therefore have been obtained and/or produced as part of an ARS staff member's official duties.  As 
+such, barring restrictions of national and/or personal security, these objects are considered publicly 
+owned and are generally in the public domain.  ARS regards all scientific objects with the same 
+appreciation as permanent records of research (for example, a laboratory notebook) or government 
+property.  Scientific collections are a national and international resource.  These objects do not belong 
+to the scientist; instead, for research or institutional collections, the scientist or curator should inform 
+M
+Text Len: 1931
+--------------------------------------------------------------------------------
+ and are generally in the public domain.  ARS regards all scientific objects with the same 
+appreciation as permanent records of research (for example, a laboratory notebook) or government 
+property.  Scientific collections are a national and international resource.  These objects do not belong 
+to the scientist; instead, for research or institutional collections, the scientist or curator should inform 
+MMS of any major proposed change in acquisition, care, transfer, or de-acquisition/disposal of the 
+collection.  While it is not expected that an exhaustible resource asset such as culture specimens 
+collected during an experiment are in effect a permanent collection, it is the policy of ARS that 
+specimens that have achieved reference status as a long-term voucher or that are shared among 
+laboratories for purposes of research must be given consideration as part of a potential institutional 
+2 
+ 
+collection which deserves long-term care.  Note: If specimens or cultures are used to support research 
+findings, especially in a new publication or technical report, then researchers should deposit 
+representative specimens or cultures on which that research is based in an appropriate ARS institutional 
+or other permanent collection that has the assigned responsibility for long-term maintenance of such 
+essential reference materials.  This depends on resources and the availability of an appropriate 
+collection.  
+ 
+Each institutional collection is an integral part of an ARS project that is peer-reviewed every five years 
+and is subject to fiscal management planning through the Annual Resources Management Plan 
+(ARMP) process.  Thus, no institutional collection exists independently of ARS research and a 
+Congressional appropriation for research.   
+ 
+DEFINITIONS 
+ 
+SCIENTIFIC COLLECTION 
+ 
+For the purposes of this document, scientific collections are broadly defined as sets of physical objects, 
+Text Len: 1920
+--------------------------------------------------------------------------------
+ planning through the Annual Resources Management Plan 
+(ARMP) process.  Thus, no institutional collection exists independently of ARS research and a 
+Congressional appropriation for research.   
+ 
+DEFINITIONS 
+ 
+SCIENTIFIC COLLECTION 
+ 
+For the purposes of this document, scientific collections are broadly defined as sets of physical objects, 
+living or inanimate, and their supporting records and documentation, which are used in science and 
+resource management and serve as long-term research assets that are preserved, cataloged, and 
+managed by or supported by federal agencies for research, resource management, education, and other 
+uses.  These collections are created for the purpose of supporting or doing science or providing 
+germplasm, rather than for their market value as collectibles or their historical, artistic, cultural, or 
+other significance.  The focus is on institutional collections.  The focus is not on specimens, or parts of 
+specimens used temporarily, that document individual-based observations (e.g., individuals alive or 
+dead from an ecological census wherein data pertaining to each individual is not captured in the study – 
+although, permanently accessioned taxon vouchers are always a recommended practice), or that are 
+considered an exhaustible resource (e.g., a biotic reagent as part of a protocol).  However, since all 
+project or working research collections were obtained through public funding, are federal assets, and 
+may be candidates for designation as institutional collections for long-term preservation, they must be 
+cared for by means appropriate as a federal asset.  The following criteria differentiate institutional from 
+project collections.  Each institutional collection is: 
+ 
+ Subject to a formal accessioning process, including associated documentation and archival 
+material (e.g., notes, photographs and maps); 
+Text Len: 1880
+--------------------------------------------------------------------------------
+ as institutional collections for long-term preservation, they must be 
+cared for by means appropriate as a federal asset.  The following criteria differentiate institutional from 
+project collections.  Each institutional collection is: 
+ 
+ Subject to a formal accessioning process, including associated documentation and archival 
+material (e.g., notes, photographs and maps); 
+ Under the authority of scientific collection curators or scientists and housed in facilities devoted 
+to long-term collection storage;  
+ Inventory validated on a schedule determined by the Agency to ensure accountability of the 
+collection; 
+ Physically labeled in some way with catalog numbers or other unique identifiers linked to a 
+corresponding record in a database or other record-keeping system;  
+ Routinely made available to all qualified users, with certain exceptions; 
+ Made available to qualified parties through formal loan procedures for research, education, or 
+exhibition; 
+ Preserved long-term, except under certain infrequent conditions which may justify de-
+accessioning under a set of formal de-accessioning procedures. 
+3 
+ 
+SPECIMEN METADATA 
+Specimen metadata is information that describes a specimen that is part of a scientific collection. 
+Generally, metadata make a specimen uniquely identifiable and more easily searchable.  Specimen 
+metadata also often provide important scientific information about the specimen that may have its own 
+research or education value.  Examples of specimen metadata include: 
+ Source specific information (i.e., date of isolation, source, etc.); 
+ Phenotypic and genotypic scientific information (i.e., toxin producer, serotype, or sequence 
+type);  
+ Species identification;  
+�
+Text Len: 1731
+--------------------------------------------------------------------------------
+ 
+research or education value.  Examples of specimen metadata include: 
+ Source specific information (i.e., date of isolation, source, etc.); 
+ Phenotypic and genotypic scientific information (i.e., toxin producer, serotype, or sequence 
+type);  
+ Species identification;  
+ Digital images of macroscopic specimens or cultures of microscopic specimens. 
+RECORDS AND REGISTRIES 
+The following are suggested ways to document records.  Each institutional collection curator or 
+working collection researcher will need to document collections appropriate to their intended use.    
+ SPECIMEN RECORD 
+ A specimen record is composed of all metadata for a single specimen in a scientific 
+collection.  
+SCIENTIFIC COLLECTION DATABASE 
+ A scientific collection database is a listing or database of all records associated with 
+collection activity including specimens, taxa, accessions, transfers, loans, borrows, 
+inventory, physical location, collection manager(s), and other relevant information. 
+ SCIENTIFIC COLLECTION RECORD 
+ A record of a scientific collection, or a scientific collection record, is a descriptive guide to a 
+scientific collection.  
+ The record contains essential information such as the title of the scientific collection, 
+contact information, and the physical location of the specimens.  Each scientific collection 
+record is made available to the public via an online registry and points to the location of the 
+associated scientific collection database. 
+SCIENTIFIC COLLECTION REGISTRY 
+ A scientific collection registry is defined as an online digital repository that stores and 
+makes publicly available the scientific collection records and, as appropriate, the scientific 
+collections database associated with that record.
+Text Len: 1757
+--------------------------------------------------------------------------------
+ is made available to the public via an online registry and points to the location of the 
+associated scientific collection database. 
+SCIENTIFIC COLLECTION REGISTRY 
+ A scientific collection registry is defined as an online digital repository that stores and 
+makes publicly available the scientific collection records and, as appropriate, the scientific 
+collections database associated with that record.  The Smithsonian Institution has identified 
+GRSciColl (http://www.GRSciColl.org) as an appropriate federal scientific collection 
+registry.  And the Agency has chosen to adopt GRSciColl as its scientific collections registry 
+to host scientific collection records, with the option to store scientific collection databases. 
+  
+PURPOSE AND SCOPE 
+ 
+ARS conducts research to develop and transfer solutions to agricultural problems of high national 
+priority and provide information access and dissemination to: 
+ ensure high-quality, safe food, and other agricultural products; 
+4 
+ 
+ assess the nutritional needs of Americans; 
+ sustain a competitive agricultural economy; 
+ enhance the natural resource base and the environment; and, 
+ provide economic opportunities for rural citizens, communities, and society as a whole. 
+ 
+ARS collections are essential to the mission of the Agency.  Every day, ARS scientists at locations 
+across the Nation and the World, make use of collections to support their research.  The value of this 
+activity is evident.  In the Agency’s 61-year history, collections have contributed to a number of 
+groundbreaking discoveries and have had a significant societal impact. 
+ The ARS Culture Collection (NRRL) in Peoria, Illinois, exemplifies this success.  With cultures 
+from this collection, USDA scientists undertook research that led to the commercial
+Text Len: 1800
+--------------------------------------------------------------------------------
+
+activity is evident.  In the Agency’s 61-year history, collections have contributed to a number of 
+groundbreaking discoveries and have had a significant societal impact. 
+ The ARS Culture Collection (NRRL) in Peoria, Illinois, exemplifies this success.  With cultures 
+from this collection, USDA scientists undertook research that led to the commercial 
+development of the antibiotic penicillin, which heralded a revolution in the treatment of 
+illnesses and disease, and contributed, in part, to the Allied success in World War II. 
+ Peoria also commercialized riboflavin (Vitamin B2), dextran and xanthan gum, and developed 
+several databases of gene sequences that allow rapid identification of fungal and bacterial 
+species.  The databases are used worldwide to greatly enhance plant food safety and medical 
+research.  These remarkable accomplishments showed the breadth of the collection’s impact on 
+science and society, and were made possible in part because the fungal and bacterial collections 
+were so well maintained.  In addition, this collection facilitates technological innovation by 
+enabling scientists to simultaneously fulfill microbial culture deposition requirements in 
+association with patent applications in the United States and any of the 77 other countries that 
+are contracting parties of the Budapest Treaty on the International Recognition of the Deposit of 
+Microorganisms for the Purposes of Patent Procedures, signed on April 28, 1977.     
+ The USDA Nematode Collection (USDANC) in Beltsville, Maryland, has contributed to the 
+ARS mission in several ways.  For example, in 1970, nematode pests threatened the billion-
+dollar potato economy of the Pacific Northwest.  After comparisons of pest specimens with 
+archived specimens at USDANC, scientists determined that the source of the problem was a 
+Text Len: 1839
+--------------------------------------------------------------------------------
+ The USDA Nematode Collection (USDANC) in Beltsville, Maryland, has contributed to the 
+ARS mission in several ways.  For example, in 1970, nematode pests threatened the billion-
+dollar potato economy of the Pacific Northwest.  After comparisons of pest specimens with 
+archived specimens at USDANC, scientists determined that the source of the problem was a 
+new nematode species and were able to make recommendations about crop rotations to save the 
+industry.  Similarly, in 2000, ARS scientists persuaded Brazilian officials to lift a ban on wheat 
+imports by showing that U.S. wheat exports were free of a quarantined nematode.  This saved 
+the wheat industry millions of dollars, and was made possible with the use of ARS’ thorough 
+and well-preserved collection of nematodes. 
+ The scope of ARS collections extends beyond the Agency.  A number of current collections 
+predate the formation of ARS, and many are used by scientists around the globe.  The National 
+Plant Germplasm System (NPGS), for example, is one of the largest distributors of plant 
+germplasm in the world.  NPGS conserves more than 472,000 accessions and annually 
+distributes approximately 120,000 of these to external researchers.  NPGS furnishes the raw 
+material for crop improvement worldwide, thereby helping to underpin global food security.  
+NPGS’ germplasm collection contributes tremendously to scientific research efforts and 
+provides a valuable service to the scientific community. 
+ ARS’s U.S. Small Grains Collection in Aberdeen, Idaho has been critical to finding an answer 
+to Ug99, which is threatening the world’s barley and wheat.  Researchers and breeders
+Text Len: 1656
+--------------------------------------------------------------------------------
+NPGS’ germplasm collection contributes tremendously to scientific research efforts and 
+provides a valuable service to the scientific community. 
+ ARS’s U.S. Small Grains Collection in Aberdeen, Idaho has been critical to finding an answer 
+to Ug99, which is threatening the world’s barley and wheat.  Researchers and breeders in ARS 
+and from around the world have been screening the collection for genes to provide new sources 
+of stem rust resistance to what is considered by many experts to be the most serious threat to the 
+world’s wheat in the past 50 years. 
+ 
+It is clear that collections, particularly the Agency’s large, institutional collections, play a critical role in 
+supporting both ARS research as well as research conducted by other institutions in North America and 
+5 
+ 
+around the world.  However, if a collection is not appropriately maintained, significant losses can 
+occur, lowering its value to research.   
+ 
+ARS shares the objectives of transparency and maximizing public access to ARS scientific collections, 
+where feasible and appropriate.  Accordingly, this document establishes policy, responsibilities, and 
+procedures for the management of and access to scientific collections to protect these National 
+resources. 
+This policy applies to all current and future institutional scientific collections that the Agency owns or 
+manages.   
+ 
+LEGISLATIVE AND REGULATORY REQUIREMENTS AND AUTHORITIES  
+ 
+ARS is the USDA’s chief in-house research agency comprising a workforce of approximately 6,000 
+employees including 2,100 scientists and post doctoral associates representing a wide range of 
+disciplines.  ARS has 800 research projects at 90+ locations, including overseas laboratories.  The U.S 
+Congress first authorized
+Text Len: 1757
+--------------------------------------------------------------------------------
+MENTS AND AUTHORITIES  
+ 
+ARS is the USDA’s chief in-house research agency comprising a workforce of approximately 6,000 
+employees including 2,100 scientists and post doctoral associates representing a wide range of 
+disciplines.  ARS has 800 research projects at 90+ locations, including overseas laboratories.  The U.S 
+Congress first authorized federally-supported agricultural research in the Department of Agriculture 
+Organic Act of 1862 (7 U.S.C. 2201), establishing what is now the USDA.  That statute directed the 
+Commissioner of Agriculture "... to acquire and preserve in his Department all information he can 
+obtain by means of books and correspondence, and by practical and scientific experiments..."  ARS 
+refers to this statute in ensuring protection of all of its scientific collections. 
+ 
+Additionally, ARS maintains the National Plant Germplasm System (NPGS), a network of federal plant 
+genebanks, which operates under authority derived from, inter alia, 7 U.S.C. 2201, 2204, 3125a, 3291, 
+5841 and 5924.  
+In 1990, the U.S. Congress passed legislation (P.L. 101-624) that authorized establishment of a 
+National Genetic Resources Program (NGRP) to acquire, characterize, preserve, document, and 
+distribute germplasm of all life forms (i.e., plant, animal,  microbial, insect, and aquatic species) 
+important for food and agricultural production.   ARS was assigned the primary role of coordinating 
+and administering the NGRP.  In addition, the 1990 legislation directed establishment of a National 
+Genetic Resources Advisory Committee (NGRAC) to respond to the important issues of the nation 
+related to conserving and utilizing genetic resources for food and
+Text Len: 1686
+--------------------------------------------------------------------------------
+, and aquatic species) 
+important for food and agricultural production.   ARS was assigned the primary role of coordinating 
+and administering the NGRP.  In addition, the 1990 legislation directed establishment of a National 
+Genetic Resources Advisory Committee (NGRAC) to respond to the important issues of the nation 
+related to conserving and utilizing genetic resources for food and agriculture.   
+At Peoria, ARS has an additional authority (7 USC 7641), as part of the 1985 Farm Bill, to administer a 
+program of fees for the deposit and distribution of microbial patent cultures in support of international 
+treaties.  This authority is in support of the Budapest Treaty on the International Recognition of the 
+Deposit of Microorganisms for the Purposes of Patent Procedures, signed on April 28, 1977.  
+ 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-
+USDA Locations or Individuals 
+ 
+Additional authorities include: 
+ 
+ Agricultural Research Act of 1935 (7 U.S.C. 427) 
+ Research and Marketing Act of 1946 (Pub. L. 79-733), as amend ed (7 U.S.C. 427, 1621 
+note) 
+ Food and Agriculture Act of 1977 (Pub. L. 95-113), as amend ed (7 U.S.C. 1281 note) 
+6 
+ 
+ Food Security Act of 1985 (Pub. L. 99-198) (7 U.S.C. 3101 note) 
+ Food, Agriculture, Conservation, and Trad e Act of 1990 (Pub. L. 101-624) (7 U.S.C. 1421 
+note) 
+ Fed eral Agriculture
+Text Len: 1397
+--------------------------------------------------------------------------------
+
+ Food Security Act of 1985 (Pub. L. 99-198) (7 U.S.C. 3101 note) 
+ Food, Agriculture, Conservation, and Trad e Act of 1990 (Pub. L. 101-624) (7 U.S.C. 1421 
+note) 
+ Fed eral Agriculture Improvement and Reform Act of 1996 (Pub. L. 104-127) 
+ Agriculture Research, Extension, and Education Reform Act of 1998 (Pub. L. 105-185) 
+ Farm Security and Rural Investment Act of 2002 (Pub. L. 107-171) 
+ Purposes of Agricultural Research, Extension, and Education (Pub. L. 104-127, Titl e VIII, 
+Sec. 901, Apr. 4, 1996, 110 Stat. 1156) 
+ Freed om of Information Act (5 U.S.C 552) 
+ Privacy Act (5 U.S.C. 552a) 
+ Trad e Secrets Act (18 U.S.C. 1905) 
+ Copyright Act (17 U.S.C. 101 inter alia) 
+ Fed eral Acquisition Regulations System, Solicitation Provisions and Contract Clauses (48 
+C.F.R. Part 52) 
+ Federal Accounting Standards Advisory Board (FASAB) (FASAB, 2005) 
+ Government Performance and Results Act (GPRA) of 1993 (P.L. 103-62) 
+ Executive Order 12862 of 1993 on Customer Service Standards 
+ America COMPETES Reauthorization Act of 2010 (Pub. L. No. 111-358), Section 104 
+requires the OSTP
+Text Len: 1106
+--------------------------------------------------------------------------------
+AB, 2005) 
+ Government Performance and Results Act (GPRA) of 1993 (P.L. 103-62) 
+ Executive Order 12862 of 1993 on Customer Service Standards 
+ America COMPETES Reauthorization Act of 2010 (Pub. L. No. 111-358), Section 104 
+requires the OSTP Director to “d evel op policies for the management and use of fed eral 
+scientific coll ections to improve the quality, organization, access, including online access, 
+and l ong-term preservation of such coll ections for the benefit of the scientific enterprise.”  
+ Office of Science and Technol ogy Policy, Memorandum for the Head s of Executive 
+Departments and Agencies, Policy on Scientific coll ections (October 6, 2010) 
+ Office of Science and Technol ogy Policy, Memorandum for the Head s of Executive 
+Departments and Agencies, Improving the Management of and Access to Scientific 
+Coll ections (March 20, 2014) 
+ 
+RESPONSIBILITIES: ORGANIZATIONAL COMPONENTS AND AGENCY 
+OFFICIALS THAT SUPPORT AND IMPLEMENT COLLECTIONS POLICY IN 
+ARS  
+ 
+ARS is a research-based agency, so all scientific collections are utilized to support research, collaborate 
+with the research community worldwide, and to archive and preserve scientific objects crucial to the 
+support of the current and future research community.  All of the research projects, and therefore the 
+collections that support those research projects, are aligned into 17 National Programs grouped into 
+four program areas: Animal Production and Protection; Crop Production and Protection; Natural 
+Resources and Sustainable Agricultural Systems; and, Nutrition, Food Safety, and Quality.  Each of the 
+Text Len: 1611
+--------------------------------------------------------------------------------
+ 
+support of the current and future research community.  All of the research projects, and therefore the 
+collections that support those research projects, are aligned into 17 National Programs grouped into 
+four program areas: Animal Production and Protection; Crop Production and Protection; Natural 
+Resources and Sustainable Agricultural Systems; and, Nutrition, Food Safety, and Quality.  Each of the 
+four program areas is managed by a Deputy Administrator, and each program is led by a team of 
+National Program Leaders (NPLs).  Currently, about 20 NPLs are responsible for planning and 
+7 
+ 
+developing research strategies to address critical issues affecting American agriculture.  Collectively, 
+this forms the Office of National Programs (ONP). 
+ 
+ARS leadership formulated the present concept of ONP as a result of a desire to update the Agency’s 
+approach to interdisciplinary, nationally collaborative research in order to remain on the leading edge 
+of agricultural research.  In 1993, two federal policy and regulatory requirements provided increased 
+impetus for this development: the Government Performance and Results Act (GPRA), requiring all 
+federal institutions to be accountable to Congress and U.S. taxpayers, and an Executive Order to 
+increase customer service standards.  The Agricultural Research, Extension, and Education Reform Act 
+of 1998 demanded further accountability, mandating the establishment of procedures to perform 
+scientific peer reviews of all research projects conducted by ARS.  
+ 
+To plan, implement, coordinate, and account for its research, ARS utilizes its Matrix Management 
+System (MMS).  MMS is composed of vertical (line) management organized by geographic Areas, 
+horizontal (staff) management organized by research programs (ONP), and also includes other 
+functions (budgeting, information technology, technology transfer, security), and business processes
+Text Len: 1914
+--------------------------------------------------------------------------------
+ plan, implement, coordinate, and account for its research, ARS utilizes its Matrix Management 
+System (MMS).  MMS is composed of vertical (line) management organized by geographic Areas, 
+horizontal (staff) management organized by research programs (ONP), and also includes other 
+functions (budgeting, information technology, technology transfer, security), and business processes 
+(administrative and financial management).  The role of ONP in MMS is to provide program direction, 
+relevance, and coordination.  The role of line management is to manage project resources and assure 
+project research quality.  The Administrator and the executive leadership team (Administrator‘s 
+Council) of ARS provide leadership to MMS in accordance with the ARS Strategic Plan, National 
+Program Actions Plans, and established operating policies. 
+ 
+ONP coordinates a 5-year program management cycle that includes the activities by which ARS 
+conducts its research, ensuring effective and efficient program and project management.  In order to be 
+successful, programs and projects must meet goals in three areas: Relevance, Quality (Prospective and 
+Retrospective), and Performance.  In order to demonstrate that ARS research is of the highest quality 
+and to meet the requirements of the Government Performance and Review Act, the Agency prescribes 
+five actions: Program Planning and Priority Setting, Scientific Merit Peer Review [including an outside 
+peer panel review organized by the Office of Scientific Quality Review (OSQR)], Project 
+Implementation, Project Coordination, and Program Assessment.  Since ARS scientific collections 
+support research programs, they are included as an integral part of the 5-year program planning cycle.  
+This includes scientific collections that support ongoing or newly proposed research programs or 
+projects.  The planning and management of all scientific collections whether extant or
+Text Len: 1922
+--------------------------------------------------------------------------------
+ (OSQR)], Project 
+Implementation, Project Coordination, and Program Assessment.  Since ARS scientific collections 
+support research programs, they are included as an integral part of the 5-year program planning cycle.  
+This includes scientific collections that support ongoing or newly proposed research programs or 
+projects.  The planning and management of all scientific collections whether extant or proposed must 
+be considered during all phases of the development, management, and assessment of the 5-year 
+program cycle and ultimate authority and accountability for ARS scientific collections is determined 
+via MMS.  MMS is responsible for implementing this policy on scientific collections across all ARS 
+research programs.  All decisions as to the maintenance, accessioning, and de-accessioning of ARS 
+scientific collections should be considered a modification of a research program and therefore under the 
+guidance of MMS.  For institutional collections, curators have authority to make such decisions; 
+however, major decisions on accessioning, care, and de-accessioning of entire collections or major 
+subsets of collections are brought to the attention of the appropriate Area Office leadership and ONP, 
+including the ARS Scientific Collections Committee (ASCC). 
+ 
+SPECIFIC ROLES REGARDING COLLECTIONS 
+ 
+AREA OFFICES 
+ ARS Area Directors are responsible for the management of funds, personnel, and facilities 
+available for the Agency’s scientific research, including associated collections, in a specific 
+8 
+ 
+multi-state Area.  Research Leaders (or other representatives designated by each Area 
+Director) have responsibility for direct oversight of collection management in Research 
+Units.   
+OFFICE OF NATIONAL PROGRAMS 
+ The Associate Administrator for the Office of National Programs and ASCC, with
+Text Len: 1830
+--------------------------------------------------------------------------------
+, including associated collections, in a specific 
+8 
+ 
+multi-state Area.  Research Leaders (or other representatives designated by each Area 
+Director) have responsibility for direct oversight of collection management in Research 
+Units.   
+OFFICE OF NATIONAL PROGRAMS 
+ The Associate Administrator for the Office of National Programs and ASCC, with Deputy 
+Administrators and National Program Leaders, and with feedback from project scientists 
+and stakeholders, evaluates present and future ARS scientific collections activity needed to 
+support research projects.   
+ARS SCIENTIFIC COLLECTIONS COMMITTEE (ASCC) 
+ The Associate Administrator for the Office of National Programs chairs and appoints the 
+members of the ARS Scientific Collections Committee to determine whether a collection 
+meets the criteria specified (page 2) for an institutional collection, provide technical subject 
+matter expertise on best practices, and develop recommendations for actions by Agency 
+leadership to ensure the quality and sustainability of collections as critical components of 
+scientific infrastructure.  ASCC has representation from ONP and curators and scientists 
+responsible for collections.  The committee convenes as needed, at least once per year.     
+SCIENTISTS    
+ 
+ Scientists are responsible for knowing and following best practices and standards for 
+specimen-based documentation of their primary research findings and maintaining   
+specimens or parts of specimens in a manner that would support their potential long-term 
+transfer into and curation in an institutional collection.  Some may fulfill a role as a 
+collection curator. 
+ 
+COLLECTION CURATORS 
+ 
+ Institutional collections will have a scientific collection curator, often a project Lead 
+Scientist, who is responsible for: 
+o Direction and planning of the
+Text Len: 1832
+--------------------------------------------------------------------------------
+ their potential long-term 
+transfer into and curation in an institutional collection.  Some may fulfill a role as a 
+collection curator. 
+ 
+COLLECTION CURATORS 
+ 
+ Institutional collections will have a scientific collection curator, often a project Lead 
+Scientist, who is responsible for: 
+o Direction and planning of the scientific collection; 
+o Establishment of interagency agreements or contracts, if necessary; 
+o Establishment, review, submission, and revision of a Scientific Collection Plan, 
+including standard operating protocols (SOPs); 
+o Establishment of collecting priorities to guide the development of collections; 
+o Control, monitoring, and documentation of all access to and use of collections; 
+o Ensuring that the SOPs are stored in designated, accessible but secure locations and 
+available to personnel at all times; 
+o Ensuring that personnel review the SOPs, and associated trainings are recorded; 
+o Compliance with this policy, SOPs, and the Scientific Collection Plan, and annual 
+reporting on compliance; 
+o Delegation of authority and assignment of collection responsibility to the appropriate 
+project staff; and, 
+9 
+ 
+o General scientific collection management and reporting. 
+ 
+POLICIES AND PROCEDURES 
+RESEARCH PROJECT PLAN  
+ARS recognizes that the scientists accumulating scientific objects are best suited to propose plans for 
+long-term preservation, maintenance, and accessibility of all scientific collections. 
+Planning for an institutional collection is done as part of developing a research Project Plan during the 
+typical 5-year project cycle, including external peer review coordinated by OSQR.  Project Plans and 
+their objectives are developed by ONP in collaboration with curators and other scientists.  These plans 
+also receive input from line management. 
+The
+Text Len: 1815
+--------------------------------------------------------------------------------
+ scientific collections. 
+Planning for an institutional collection is done as part of developing a research Project Plan during the 
+typical 5-year project cycle, including external peer review coordinated by OSQR.  Project Plans and 
+their objectives are developed by ONP in collaboration with curators and other scientists.  These plans 
+also receive input from line management. 
+The scientific collections plan section of the Project Plan provides an overall vision and protocols for 
+the creation, expansion, long-term management, disposal, and accessibility and security of the scientific 
+collection.  The collections section of a research Project Plan includes the following topics:  
+ Accessioning Plan 
+ Maintenance Plan 
+ De-accessioning Plan (if needed)  
+ Access Plan  
+For some collections, extensive procedures have been established.  For example, since 1996 the 
+National Plant Germplasm System (NPGS) has followed the NPGS Manual of Procedures, which is 
+currently undergoing revision.  Individual genebanks are also required to develop and adhere to their 
+own genebank-specific Manual of Procedures, tailored to the biological characteristics of the crops that 
+they manage and the needs of the user communities they serve.   
+ 
+Accessioning Plan 
+ARS acquires specimens by a variety of methods, including transfer and field collecting.  The Agency 
+recommends responsible, disciplined acquisition of collections, and the specimens within, through the 
+following principles:  
+ The acquisition of collections should be relevant to the mission and goals of ARS and individual 
+laboratories; 
+ There should be clear delegation of collecting authority within laboratories to avoid duplication 
+of efforts and mishandling; and, 
+ There should be strict adherence to all applicable laws and regulations
+Text Len: 1822
+--------------------------------------------------------------------------------
+ the 
+following principles:  
+ The acquisition of collections should be relevant to the mission and goals of ARS and individual 
+laboratories; 
+ There should be clear delegation of collecting authority within laboratories to avoid duplication 
+of efforts and mishandling; and, 
+ There should be strict adherence to all applicable laws and regulations relating to collections 
+acquisition. 
+As a general rule, collection items are acquired and accessioned only when there is a good faith 
+intention to retain them in ARS permanently or for the long-term.  Institutional scientific collections are 
+retained as long as they continue to serve the mission and objectives of the Agency, and can be properly 
+maintained and used. 
+Accession Plans provide the following information: 
+1. Scope of specimens to be potentially included into an institutional collection 
+2. The estimated yearly growth of the scientific collection 
+10 
+ 
+3. Accessioning Protocols 
+a. For transfer of custody of a specimen into the scientific collection 
+b. Procedures used to process, handle, and store the specimen 
+c. For the timely accession of the specimen: 
+a. Standardized descriptive metadata into the record, including, but not limited to: 
+1. Accession/voucher number 
+2. Physical location 
+3. Accession date 
+4. Strain or species information 
+b. Insertion of the record into the database/catalog 
+d. Assignment of physical storage space to the specimen 
+4. Maintenance, Budget, and Access Plans 
+ 
+Maintenance Plan 
+Each Maintenance Plan should have the following information: 
+ 
+1. General information 
+ a. Name, contact information, and operational division for the scientific collection curator 
+ b. Purpose of institutional scientific collection 
+Text Len: 1736
+--------------------------------------------------------------------------------
+ database/catalog 
+d. Assignment of physical storage space to the specimen 
+4. Maintenance, Budget, and Access Plans 
+ 
+Maintenance Plan 
+Each Maintenance Plan should have the following information: 
+ 
+1. General information 
+ a. Name, contact information, and operational division for the scientific collection curator 
+ b. Purpose of institutional scientific collection 
+ c. Date scientific collection was or will be established 
+d. Any applicable statute, regulations, or policy that must be observed during the accession 
+and management of specimens 
+e.  Standards for consistent documentation of metadata 
+f.  Infrastructure requirements 
+g.  Data management plan (machine-readable, open format) 
+2.  Maintenance Protocols 
+a. Procedures used to process, handle, maintain, track, ship, and share specimens 
+b. Procedures used to store specimens in facilities devoted to long-term collection storage, 
+including best practices for the long-term storage of institutional scientific collections 
+c. Procedures used to inventory the collection to ensure accountability of the collection 
+d. Procedures used to physically label specimens in some way with catalog numbers or other 
+unique identifiers linked to the corresponding record in the institutional scientific collection 
+database  
+e. A document to control program and policies for modifying or revising the SOP 
+ 
+De-Accessioning Plan 
+11 
+ 
+Prudent institutional scientific collection management includes judicious consideration of appropriate 
+de-accessioning and disposal.  The periodic review, evaluation, de-accessioning, and disposal of 
+existing institutional scientific collections is intended to refine and improve the quality and relevance of 
+collections with respect to ARS’s mission and purpose.  
+De-accessioning and disposal occur for a variety of reasons, such as unneeded duplication or 
+redund
+Text Len: 1870
+--------------------------------------------------------------------------------
+ing and disposal.  The periodic review, evaluation, de-accessioning, and disposal of 
+existing institutional scientific collections is intended to refine and improve the quality and relevance of 
+collections with respect to ARS’s mission and purpose.  
+De-accessioning and disposal occur for a variety of reasons, such as unneeded duplication or 
+redundancy of institutional scientific collection material; an insufficient relationship of collection items 
+to the mission and goals of ARS such that they are judged to be better placed elsewhere; and, use in 
+research that destroys the future use of the specimens.  
+A lasting archive of ARS research and the data, datasets, and voucher specimen objects that supported 
+the research should be preserved indefinitely as resources allow.  The decision to de-accession a 
+specimen should be made only after careful review of the research, resource management, and 
+educational value of a collection.  Specimen objects and their associated data that form in part or in 
+whole an ARS scientific collection must go through review by MMS before de-accession, transfer, or 
+disposal.  Consideration is given to how research objectives will be met in the absence of the scientific 
+collection, the impact of the unfulfilled objectives of the National Research Program if not met, the 
+financial consequences relating to the loss of the specimens, including potential costs of reacquisition, 
+recollecting, or reproducing the specimen objects in the future, the loss of any potential ARS research 
+products that could be generated from the specimen objects, and the impact on ARS staff and 
+stakeholders at large as a result of reducing or losing access to the specimen objects either temporarily 
+or permanently.  For project and institutional collections proposed for de-accession by a laboratory 
+scientist or curator, MMS and
+Text Len: 1869
+--------------------------------------------------------------------------------
+, the loss of any potential ARS research 
+products that could be generated from the specimen objects, and the impact on ARS staff and 
+stakeholders at large as a result of reducing or losing access to the specimen objects either temporarily 
+or permanently.  For project and institutional collections proposed for de-accession by a laboratory 
+scientist or curator, MMS and ASCC is responsible for making sure that other (non-owner) ARS 
+laboratories will be given an opportunity to accept ownership of the collection, except as otherwise 
+stipulated by authorizing legislation or other restrictions.  If, after the review process, ARS determines 
+that the specimen objects forming a scientific collection in part or in whole will not be further 
+supported in any ARS National Research Program, then the priority is to seek another federal 
+institution as a depository.  Scientific collection curators should consult with researchers who have used 
+the collection, parties interested in the collection’s value for research, resource management, and 
+educational purposes, and other subject matter experts, as needed.  A public or private institution may 
+become the depository if a federal institution is unavailable.  Permanent destruction of specimen 
+objects that have supported ARS research is the last option after pursuing all other options. 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-USDA 
+Locations or Individuals. 
+ 
+Collections, or specimens within, may be de-accessioned and destroyed only in accordance with 
+established authority of the designated scientific collection curator and only when consistent with 
+applicable law. 
+ 
+Notification, Review and Approval 
+A notification of de-accessioning of an entire institutional scientific collection is submitted 
+through the management chain of command, starting with the Research
+Text Len: 1884
+--------------------------------------------------------------------------------
+ or specimens within, may be de-accessioned and destroyed only in accordance with 
+established authority of the designated scientific collection curator and only when consistent with 
+applicable law. 
+ 
+Notification, Review and Approval 
+A notification of de-accessioning of an entire institutional scientific collection is submitted 
+through the management chain of command, starting with the Research Leader (RL).  Once the 
+RL approves the plan, it then proceeds via MMS to ASCC for notification.  The Associate 
+Administrator of ONP will also notify the Administrative Council about the impending de-
+accessioning of an institutional scientific collection. 
+De-accessioning Plans should include: 
+1. A notice of scientific collection de-accessioning must contain the following information: 
+12 
+ 
+a. Scientific collection curator and contact information 
+b. Itemized list of specimens to be de-accessioned 
+c. The disposition of the collection (e.g., transferred or destroyed) 
+d. Transfer recipient, if applicable 
+e. De-accessioning date 
+f. Date of transfer or destruction 
+2. A final notification must be sent to the Associate Administrator of ONP once the entire 
+institutional scientific collection has been either transferred or destroyed. 
+3. De-accessioning and Disposal Protocol, including: 
+a. Guidelines for the decision to de-accession a specimen 
+b. A procedure for the orderly transfer of specimens to a new collection 
+c. The proper method of disposal of the specimen(s) 
+Access and Use Plan 
+Specimens within an ARS scientific collection are the property of the United States Government.  ARS 
+will provide reasonable physical access to its institutional scientific collections to qualified researchers, 
+academics, and others as feasible, appropriate, and consistent with Agency
+Text Len: 1800
+--------------------------------------------------------------------------------
+ to a new collection 
+c. The proper method of disposal of the specimen(s) 
+Access and Use Plan 
+Specimens within an ARS scientific collection are the property of the United States Government.  ARS 
+will provide reasonable physical access to its institutional scientific collections to qualified researchers, 
+academics, and others as feasible, appropriate, and consistent with Agency mission and pursuant to the 
+scientific collections SOP.  Those seeking physical access to the institutional scientific collection must 
+adhere to the procedures outlined in the collection’s SOP. 
+Physical and digital access to the collections must be balanced against human resources, preservation, 
+and security concerns.  Scientific collection curators, working with MMS and in consultation with their 
+Research Leader and ONP, will have the discretion to temporarily, or permanently, limit the access to 
+institutional scientific collections and related catalogs, databases, records, and metadata for purposes 
+of: 
+ Safeguarding individual privacy, confidentiality, trade secrets, copyright, and intellectual 
+property rights; 
+ Adhering to laws, regulations, treaties, and international or tribal agreements; 
+ Protecting national security; 
+ Resource limitations; 
+ Specimen availability; 
+ Preservation constraints; or,  
+ Addressing general security concerns. 
+Any limits to public access to the institutional scientific collection must be disclosed in the SCP, 
+including: 
+ Restrictions, and justification, for physical access to the scientific collection; and, 
+ Redactions, and justification, for the digital access to the scientific collection. 
+Scientific collection databases, which include all specimen records and metadata, are made available to 
+the public through GRSciColl (http://www.GRSciColl
+Text Len: 1808
+--------------------------------------------------------------------------------
+including: 
+ Restrictions, and justification, for physical access to the scientific collection; and, 
+ Redactions, and justification, for the digital access to the scientific collection. 
+Scientific collection databases, which include all specimen records and metadata, are made available to 
+the public through GRSciColl (http://www.GRSciColl.org).  A collection curator may also choose to 
+13 
+ 
+separately provide public access to the scientific collection database online through an ARS website, 
+provided the scientific collection record in GRSciColl directs users to the location of the online 
+database.  
+For more than 20 years, extensive information about the USDA/ARS’s plant, animal, and microbial 
+genetic resources conserved by its genebanks have been maintained and are publicly accessible online 
+via the Germplasm Resources Information Network (GRIN) at http://www.ars-grin.gov.    
+With few exceptions (e.g., patent or Plant Variety Protection vouchers), the accessions in the NPGS and 
+other ARS genebanks and associated information are in the public domain.  Information about the 
+original location where accessions of rare and/or endangered taxa were collected are not accessible to 
+GRIN users.  Curators can make that information available to researchers with legitimate needs for 
+those data. 
+ 
+USDA is home to long term public databases for plant genetic and genomic information.  A few USDA 
+databases are dedicated to specific crops, e.g. SoyBase (soybean), MaizeGDB (corn), GrainGenes 
+(wheat, barley, and oats).  Others host genetic/genomic information for diverse, non-redundant families 
+of plants, e.g. Legume Information System
+Text Len: 1663
+--------------------------------------------------------------------------------
+ and genomic information.  A few USDA 
+databases are dedicated to specific crops, e.g. SoyBase (soybean), MaizeGDB (corn), GrainGenes 
+(wheat, barley, and oats).  Others host genetic/genomic information for diverse, non-redundant families 
+of plants, e.g. Legume Information System (LIS) and Gramene.  The project plans for each database are 
+kept current in consultation with representatives from each research community. 
+ 
+All restrictions on digital access shall be limited to the minimal subset of specific records and metadata 
+as possible, with all other collection content made public.  Where possible, redaction of specific 
+metadata should be favored over limiting digital and physical access to the entire specimen or subset of 
+specimens.  
+Metadata format 
+When constructing and formatting the institutional scientific collection metadata, scientific 
+collection curators must employ machine-readable and open formats, data standards, and 
+common-core and extensible metadata for all new information creation and collection to 
+facilitate search and discoverability and provide clear public guidance for accessing collections 
+materials, consistent with the Executive Order on Making Open and Machine Readable the New 
+Default for Government Information. 
+When available and where not limited by law, this policy, or resources, ARS will make freely 
+and easily accessible to the public all digital metadata in the highest available fidelity and 
+resolution, including, but not limited to photographs, videos, and associated records and 
+documentation, that describe or characterize specimens in a scientific collection. 
+Third-Party Management of Institutional Scientific Collections 
+Third-party collections are those not owned, but supported, by ARS.  For example, ARS partially funds 
+the Tomato Genetic Stock Center at the University of California at Davis and the Ornamental Plant
+Text Len: 1898
+--------------------------------------------------------------------------------
+ to photographs, videos, and associated records and 
+documentation, that describe or characterize specimens in a scientific collection. 
+Third-Party Management of Institutional Scientific Collections 
+Third-party collections are those not owned, but supported, by ARS.  For example, ARS partially funds 
+the Tomato Genetic Stock Center at the University of California at Davis and the Ornamental Plant 
+Germplasm Center at The Ohio State University, and their accessions have NPGS numbers, 
+information in GRIN, and are backed-up in the ARS genebank at Ft. Collins.  Thus, these collections 
+follow the same guidelines as the ARS genebanks. 
+To start a new third-party collection and, whenever practicable and appropriate, a scientific collection 
+curator should work with public or private outside entities qualified to manage scientific collections.  
+Those entities must agree to take responsibility for the stewardship and access to institutional scientific 
+collections.  
+14 
+ 
+ If the outside entity is a federal agency, then the entity’s scientific collection’s policy applies to 
+the institutional collection.  An interagency agreement should be executed and included with a 
+scientific collections plan (if available) and annual report. 
+ If the outside entity is not a federal agency, and does not have a relevant scientific collections 
+management and access policy, then the institutional scientific collection will be governed by 
+the ARS policy.  All Agency grants, contracts, and cooperative agreements that direct an outside 
+non-federal entity to obtain or create an institutional collection must require the entity to 
+comply with the ARS scientific collections policy.  The agreement or contract should be 
+included with the scientific collection section of the annual report. 
+Access Plans include Access and Use Protocols: 
+1. Detailed
+Text Len: 1859
+--------------------------------------------------------------------------------
+ grants, contracts, and cooperative agreements that direct an outside 
+non-federal entity to obtain or create an institutional collection must require the entity to 
+comply with the ARS scientific collections policy.  The agreement or contract should be 
+included with the scientific collection section of the annual report. 
+Access Plans include Access and Use Protocols: 
+1. Detailed instructions for digital access to the scientific collection, including: 
+a. Step by step instructions and timelines for the process of providing digital public access 
+to newly accessioned specimens  
+b. A detailed description of which records or specimen metadata fields are restricted from 
+disclosure and why 
+c. A timeline from accession of a specimen to digital public access 
+d. A detailed description of which records and metadata to be redacted 
+2. Detailed instructions for physical access to the scientific collection, including: 
+a. Outline procedures to properly aliquot, or parse, bio-specimens to ensure ease of 
+distribution 
+b. A detailed description of which specimens, records, and metadata will not be available 
+for physical access 
+c. Procedures used to respond to and accommodate physical access and loan requests 
+d. A standard timeline to respond to a request 
+BUDGETING 
+An institutional collection is part of an ARS base-funded project subject to OSQR review, thus, the 
+collection’s budget is part of the overall project budget.  Project budgets and their adequacy to support 
+the research, including relevant institutional collections, are subject to yearly review by line 
+management in the Agency’s ARMP process.    
+ANNUAL REPORTING 
+To maintain proper oversight of the management of institutional scientific collections, the scientific 
+collection curator submits an annual report summarizing the status of the collection as a component of 
+
+Text Len: 1860
+--------------------------------------------------------------------------------
+acy to support 
+the research, including relevant institutional collections, are subject to yearly review by line 
+management in the Agency’s ARMP process.    
+ANNUAL REPORTING 
+To maintain proper oversight of the management of institutional scientific collections, the scientific 
+collection curator submits an annual report summarizing the status of the collection as a component of 
+the project annual report.  The project annual report is reviewed and approved by the Research Leader 
+of the Management Unit where the institutional collection resides.  Subsequent approval by line 
+management and review by program leaders are required per standard ARS policies and procedures for 
+project annual reports.  The annual report for a project including an institutional collection must 
+include: 
+ A link to the catalog in GRSciColl (http://www.GRSciColl.org) 
+ A summary of major changes to the digital or physical public access to the scientific collection; 
+15 
+ 
+ The current interagency agreement, memorandum of understanding, or contract with a third 
+party entity responsible with the management of the scientific collection, if applicable; 
+ A summary of any significant changes in practices, procedures, technology, law, or regulation 
+that impact the collection.  
+PRACTICES FOR SAFEGUARDING INDIVIDUAL PRIV ACY, 
+CONFIDENTIALITY, INTELLECTUAL PROPERTY RIGHTS, AND 
+NATIONAL SECURITY  
+ 
+PRIV ACY/CONFIDENTIALITY 
+ 
+In most cases, materials are broadly distributed from ARS collections without privacy or confidentiality 
+restrictions.  Nevertheless, certain circumstances require protection of confidential information.  
+Confidentiality Agreements (CA) can be put into place to protect this information.  A CA permits 
+Text Len: 1733
+--------------------------------------------------------------------------------
+URITY  
+ 
+PRIV ACY/CONFIDENTIALITY 
+ 
+In most cases, materials are broadly distributed from ARS collections without privacy or confidentiality 
+restrictions.  Nevertheless, certain circumstances require protection of confidential information.  
+Confidentiality Agreements (CA) can be put into place to protect this information.  A CA permits 
+parties to exchange confidential information and data.  The signatories of a CA agree to not disclose 
+information received from the other party.  A Material Transfer Agreement (MTA) is a type of 
+confidentiality agreement that governs the transfer of certain kinds of materials between two 
+organizations.  The MTA does not transfer ownership – the materials are merely lent to the receiving 
+organization and the MTA sets forth the conditions of the loan by defining the rights of the provider 
+and recipient with respect to the materials and any derivatives, as well as the purposes to which the 
+material may be put.  
+ 
+INTELLECTUAL PROPERTY  
+ 
+Outcomes of ARS research may require some form of intellectual property (IP) protection in order to 
+attract the investment required to achieve successful utilization or adoption of scientific materials.  
+Most protection of intellectual property in the Federal Government is done through patents.  The first 
+consideration in deciding whether or not to seek a patent is if protection will enhance the likelihood 
+that the scientific materials will be utilized or adopted.   
+ 
+BIOSAFETY AND BIOSECURITY 
+ 
+To ensure safety and environmental protection, ARS employees are required to comply with all federal, 
+state, and local regulations regarding the movement of pathogens (human, animal, and plant) within or 
+into the United States, and safeguarding of those pathogens.  Pathogens are distributed and transported 
+only
+Text Len: 1816
+--------------------------------------------------------------------------------
+ 
+BIOSAFETY AND BIOSECURITY 
+ 
+To ensure safety and environmental protection, ARS employees are required to comply with all federal, 
+state, and local regulations regarding the movement of pathogens (human, animal, and plant) within or 
+into the United States, and safeguarding of those pathogens.  Pathogens are distributed and transported 
+only under authority of a permit (e.g., from the USDA Animal and Plant Health Inspection Service, the 
+Department of Health and Human Services, or the Department of Commerce, as appropriate) and a 
+Material Transfer Agreement.  Permitting agencies specify the level of containment for the pathogen as 
+well as conditions for limiting access to pathogens and final disposal methods for pathogens.  
+Acceptable disposal methods (usually autoclaving) for pathogens received under permit are specified in 
+the permit.  This is out of concern for protecting the Agency from liabilities as well as protecting the 
+end-user/requestor from potential harm/infection/contamination/etc.  Inventories of pathogens present 
+in ARS are maintained by ARS.  
+ 
+Note:  REE P&P 601.2-ARS Transfer of Biological Agents and Related Information to Non-
+USDA Locations or Individuals 
+ 
+Text Len: 1206
+--------------------------------------------------------------------------------

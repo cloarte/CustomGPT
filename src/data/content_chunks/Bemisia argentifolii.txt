@@ -1,0 +1,256 @@
+Crop Knowledge Master
+Bemisia argentifolii (Bellows and Perring)
+Silverleaf Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Specialist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The silverleaf whitefly has a wider host range than the sweetpoato whitefly (Byrne and Miller, 1990). It attacks over 500 species of plants (USDA, 1994). Crop hosts that support large populations include alfalfa, broccoli, cabbage, cantaloupe, cauliflower, cotton, cucumber, tomato, squash, peanut, pepper, beans, and watermelon (Perring, et. al., 1993b; USDA, 1994). Ornamental hosts that support large populations include poinsettia, hibiscus, lantana, garden mum, Gerber daisies, mandevilla, and verbena (Gruenhagen, et. al., 1993; USDA, 1994). Other preferred ornamental hosts include canna lilies, bearded iris, crepe myrtle, petunia, rose, and bottle brush.
+In Hawaii, reproducing populations of silverleaf whitefly were observed on the following crops: papaya, watermelon, squash, eggplant, Manoa lettuce, morning glory, daikon, Korean cabbage, mustard cabbage, poinsettia, cauliflower, okra, tomato, cheeseweed, sweetpotato, cabbage, taro, New Zealand pumpkin, cucumber, plumeria, and zucchini (Costa, et. al., 1993). Other recognized hosts include kikania-lei (Solanum aculeatissimum), Asystasia, avocado, fig, Acacia koa, and Coccinia
+Text Len: 1459
+--------------------------------------------------------------------------------
+ okra, tomato, cheeseweed, sweetpotato, cabbage, taro, New Zealand pumpkin, cucumber, plumeria, and zucchini (Costa, et. al., 1993). Other recognized hosts include kikania-lei (Solanum aculeatissimum), Asystasia, avocado, fig, Acacia koa, and Coccinia.
+DISTRIBUTION
+In the United States, the silverleaf whitefly was identified as a serious pest in Florida poinsettia greenhouses in 1986 (Barinaga, 1993). By 1991, the silverleaf whitefly had spread across the southern United States (Arizona, California, Florida, Georgia, Louisiana, New Mexico, and Texas) and caused estimated billions of dollars in agricultural losses (Perring, et. al., 1993b).
+In Hawaii, the silverleaf whitefly is present on the islands of Oahu, Hawaii, Maui, Molokai, and Kauai. It may be difficult to determine exactly when this species was first observed in Hawaii because this species was once thought to be a strain of the sweetpotato whitefly (B-biotype). The sweetpotato whitefly was first observed on Oahu in 1982 (Lai, 1985). There may be some indication that the silverleaf whitefly was here in 1989, when sweetpotato whiteflies were observed on crops not previously reported as hosts in Hawaii (lettuce and Brassica spp.) or the United States (plumeria, taro, and papaya) (Costa, et. al., 1993). At that time, sweetpotato whiteflies became associated with the occurrence of squash silverleaf and irregular ripening of tomato (both diseases are currently attributed to the silverleaf whitefly) on the islands of Hawaii and Maui.
+DAMAGE
+The silverleaf whitefly causes direct feeding damage to host plants by piercing and sucking sap from the
+Text Len: 1622
+--------------------------------------------------------------------------------
+ (Costa, et. al., 1993). At that time, sweetpotato whiteflies became associated with the occurrence of squash silverleaf and irregular ripening of tomato (both diseases are currently attributed to the silverleaf whitefly) on the islands of Hawaii and Maui.
+DAMAGE
+The silverleaf whitefly causes direct feeding damage to host plants by piercing and sucking sap from the foliage of plants. This feeding causes weakening and early wilting of the plant and reduces the plant growth rate and yield (Berlinger, 1986). It may also cause leaf chlorosis, leaf withering, premature dropping of leaves and plant death.
+The silverleaf whitefly feeding is associated with various plant disorders. They include the occurrence of irregular ripening of tomatoes (Schuster, et. al., 1990), yellowing and stem blanching of lettuce and mustard cabbage (Costa, et. al., 1993), stem whitening in Brassica spp. (cruciferous vegetables)(Brown and Costa, 1992), and silverleaf of squash (Yokomi, et. al., 1990; Schuster, et. al., 1991; Brown and Costa, 1992; Cohen, et. al., 1992). Studies (Yokomi, et. al., 1990 and Costa, et. al., 1993) indicate that squash silverleaf is a result of nymphal feeding. It is suggested that squash silverleaf is a result of a toxogenic factor associated with nymphal feeding. High populations of silverleaf whiteflies are not necessary to produce these disorders in plants.
+Indirect damage from silverleaf whitefly is the result of the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or makes it unmarketable (Berlinger, 1986).
+Silverleaf whitefly is also known
+Text Len: 1741
+--------------------------------------------------------------------------------
+Indirect damage from silverleaf whitefly is the result of the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or makes it unmarketable (Berlinger, 1986).
+Silverleaf whitefly is also known vector plant diseases. One particularly damaging pathogen transmitted by the silverleaf whitefly in Florida is tomato mottle geminivirus (Gruenhagen, et. al., 1993). Fortunately, whitefly vectored viruses are not known to occur in Hawaii.
+The wide host range and high reproductive rate in addition to the damage it does makes it an important economic pest. High populations of migrating whiteflies destroy planted crops, then move on to neighboring areas. In temperate regions, silverleaf whiteflies overwinters in weeds and ornamental plants and migrate to crops and gardens in the spring and summer. Silverleaf whitefly outbreaks can occur throughout the year in the tropics and subtropics.
+BIOLOGY
+At 25.4ûC (78ûF), 14 hours of light, and 91.7% relative humidity, the total development time from egg to adult for the silverleaf whitefly on cotton was 18 - 31 days (Bethke, et. al., 1991). Under the same environmental conditions but with poinsettia as a host, total development time took from 18 - 28 days.
+Species Status
+Currently, the name silverleaf whitefly (Bemisia argentifolii) and sweetpotato whitefly B-biotype (Bemisia tabaci B-biotype) are acceptable names for the silverleaf whitefly. Differences in the two biotypes were observed prior to any formal studies. Specifically, the silverleaf whitefly is more voracious, hardier, and prolific than the sweetpot
+Text Len: 1730
+--------------------------------------------------------------------------------
+fly (Bemisia argentifolii) and sweetpotato whitefly B-biotype (Bemisia tabaci B-biotype) are acceptable names for the silverleaf whitefly. Differences in the two biotypes were observed prior to any formal studies. Specifically, the silverleaf whitefly is more voracious, hardier, and prolific than the sweetpotato whitefly, and the silverleaf symptoms on squash plants is associated with the silverleaf whitefly.
+To determine the differences between the silverleaf whitefly
+(Bemisia tabaci B-biotype) and the sweetpotato whitefly (Bemisia tabaci A-biotype), A team of scientists (Perring, et. al., 1993a) used polymerase chain reaction (PCR) - based DNA differentiation tests, allozymic frequency analyses, crossing experiments, and mating behavior studies.
+Mating behavior studies indicated that there was courting between males and females of the two different biotypes but no mating occurred. There was mating within biotypes. The data acquired from these experiments indicates that the silverleaf whitefly and the sweetpotato whitefly are different species.
+Morphological evidence indicates that there are distinct differences in fourth instar (pupal cases) thoracic tracheal fold widths between silverleaf whitefly and sweetpotato whitefly (Bellows, et. al., 1994). The silverleaf whitefly has tracheal folds that are half the width of sweetpotato whitefly tracheal folds (14 to 29 micrometers). Another morphological difference is the absence of submarginal seta ASMS4 in silverleaf whitefly pupal cases. Submarginal seta ASMS4 is present on sweetpotato whitefly pupal cases. This morphological evidence supports the idea that the silverleaf whitefly and the sweetpotato whitefly are different species.
+
+Text Len: 1709
+--------------------------------------------------------------------------------
+al folds (14 to 29 micrometers). Another morphological difference is the absence of submarginal seta ASMS4 in silverleaf whitefly pupal cases. Submarginal seta ASMS4 is present on sweetpotato whitefly pupal cases. This morphological evidence supports the idea that the silverleaf whitefly and the sweetpotato whitefly are different species.
+There are challenges to the conclusion that the silverleaf whitefly and the sweetpotato whitefly are different species. Bruce Campbell of the USDA compared ribosomal RNA between biotype A and B and found no difference (Barinaga, 1993). Also, James Duffus of the USDA claims to have produced a hybrid of biotypes A and B.
+Eggs
+Eggs are similar in appearance to eggs of the sweetpotato whitefly. The eggs are laid on the undersides of leaves. Developmental hosts of the silverleaf whitefly influences egg production. Female silverleaf whiteflies produce an average of 51 eggs on cotton and an average of 85 eggs on poinsettias (Bethke, et. al., 1991).
+Nymphs
+After hatching, the first stage nymphs walk a short distance and settle to feed. Once settled, the subsequent three nymphal stages are scale-like and sedentary. The fourth nymphal stage includes the pupal stage. Unlike most whiteflies, silverleaf whitefly pupae have no waxy filaments around their edges.
+The first, second, third and fourth nymphal stages reared on cotton lasted for an average duration of 5, 3, 3, and 6 days, respectively (Bethke, et. al., 1991). The first, second, third and fourth nymphal stages reared on poinsettia lasted for an average duration of 4, 3, 3, and 4 days, respectively.
+Adults
+Silverleaf whitefly adults are small
+Text Len: 1648
+--------------------------------------------------------------------------------
+ reared on cotton lasted for an average duration of 5, 3, 3, and 6 days, respectively (Bethke, et. al., 1991). The first, second, third and fourth nymphal stages reared on poinsettia lasted for an average duration of 4, 3, 3, and 4 days, respectively.
+Adults
+Silverleaf whitefly adults are small, approximately 1/25 inch in length, with a pale yellow body and two pairs of white wings and covered with a white waxy powder. At rest, wings are held in an inverted V position. Their compound eyes are red. The adults are morphologically very similar to the sweetpotato whitefly. The average lifespan of females were 13.3 days on cotton and 17.4 days on poinsettia (Bethke, et. al., 1991).
+MANAGEMENT
+Cultural Control
+The USDA (USDA, 1994) recommends the destruction of heavily infested plants, plant parts, and alternate hosts before the whiteflies can spread. In cases of serious infestations, it may be a good idea to replace infested plants with plants that are not attacked by whiteflies. Destroy infested weeds around the area. Pigweed, ground cherry, and bindweed are known to support silverleaf whiteflies. Transplants should be inspected for whiteflies before bringing them into an unaffected area. Vegetable plants should be destroyed at harvest to eliminate potential hosts.
+On the mainland, planting times may be adjusted so that seasonal high populations of silverleaf whiteflies or migrating silverleaf whiteflies can be avoided. In Hawaii, adjusting planting times may not be too effective because of year-round warm weather. Populations of silverleaf whitefly may be monitored, but determining the action threshold may be a problem (USDA, 1994) due to the lack of data to establish thresholds on various crops. On poinsettia, more than two to five immatures
+Text Len: 1769
+--------------------------------------------------------------------------------
+ migrating silverleaf whiteflies can be avoided. In Hawaii, adjusting planting times may not be too effective because of year-round warm weather. Populations of silverleaf whitefly may be monitored, but determining the action threshold may be a problem (USDA, 1994) due to the lack of data to establish thresholds on various crops. On poinsettia, more than two to five immatures per square inch of leaf is considered a damaging level. Stunted growth on cucumber occurs when there is an average of 30 nymphs per square inch.
+Biological Control
+Biological control agents of sweetpotato whitefly may attack silverleaf whitefly but not to the extent of controlling them effectively. Some predators including bigeyed bugs, lacewings, and coccinelid beetles will prey on whitefly nymphs. Parasitic wasps in the genus Encarsia and Eretmocerus will parasitize whiteflies. Empty whitefly pupal cases with circular holes are evidence of parasitism.
+The use of pathogenic fungi to control the silverleaf whitefly is a potential alternative to insecticides. Fungi that attack whitefly include the fungi Ascersonia, Verticillium, Paecilomyces, and Beauveria (Knauf, 1994; Osborne and Landa, 1992). These fungi are generally safe to organisms other than their hosts (Knauf, 1994; Hartmann, et. al., 1979). A wettable dispersible granule, PFR-97, that contains the fungus Paecilomyces fumosoroseus may be available for use in the future for control of whiteflies and other pests in vegetable greenhouses. PFR-97 is manufactured by W. R. Grace & Co. Naturalis is another fungus-based product that controls silverleaf whitefly manufactured by Troy Biosciences, Inc. It contains the fungus, Beauveria bassiana.
+Text Len: 1692
+--------------------------------------------------------------------------------
+ilomyces fumosoroseus may be available for use in the future for control of whiteflies and other pests in vegetable greenhouses. PFR-97 is manufactured by W. R. Grace & Co. Naturalis is another fungus-based product that controls silverleaf whitefly manufactured by Troy Biosciences, Inc. It contains the fungus, Beauveria bassiana. Both products are not available in Hawaii at the current time, because of quarantine regulations. However, Paecilomyces fumosoroseus occurs naturally in Hawaii. It is just a matter of isolating and culturing this fungus in Hawaii so that it may be used to help control the silverleaf whitefly in Hawaii. Dr. Arnold Hara of the University of Hawaii and his staff are in the process of organizing a project to address this objective.
+Chemical Control
+Chemical control measures for sweetpotato whiteflies may be tried against the silverleaf whitefly. However, silverleaf whitefly populations develop resistance quite rapidly. A study (Omer, et. al., 1993) found that 15 populations of field collected silverleaf whitefly from Hawaii were resistant to methomyl (18-fold resistance), acephate (24-fold resistance), and permethrin (4-fold resistance). They concluded that resistance development could be retarded by reducing local insecticide use if local insecticide use was the main determinant of resistance.
+Another problem with chemical insecticides is the adverse effect on natural enemies. When possible, management practices and non-chemical control measures should be considered to conserve natural enemies.
+If insecticides are used, they should be used sparingly and combined with non-chemical control methods. When applying insecticides, make sure you get good coverage on the tops and bottoms of leaf surfaces. Insecticidal oils and soaps may be used to help control immature whiteflies (USDA, 1994). They may not provide exceptional control, but resistance
+Text Len: 1895
+--------------------------------------------------------------------------------
+ be considered to conserve natural enemies.
+If insecticides are used, they should be used sparingly and combined with non-chemical control methods. When applying insecticides, make sure you get good coverage on the tops and bottoms of leaf surfaces. Insecticidal oils and soaps may be used to help control immature whiteflies (USDA, 1994). They may not provide exceptional control, but resistance is not a concern, and they are not as detrimental to natural enemies as chemical insecticides.
+Admire, danitol, marathon, merit, ovasyn, and provado are not labelled as of April 2007.
+REFERENCES
+Bellows, T. S., Jr., T. M. Perring, R. J. Gill, and D. H. Headrick. 1994. Description of a Species of Bemisia (Homoptera: Aleyrodidae). Ann. Entomol. Soc. Am. 87: 195-206.
+Barinaga, M. 1993. Is Devastating Whitefly Invader Really a New Species? Science. 259: 30.
+Berlinger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Bethke, J. A., T. D. Paine, and G. S. Nuessly. 1991. Comparative Biology, Morphometrics, and Development of Two Populations of Bemesia tabaci (Homoptera: Aleyrodidae) on Cotton and Poinsettia. Ann. Entomol. Soc. Am. 84: 407-411.
+Brown, J. K. and H. S. Costa. 1992. First Report of Whitefly-Associated Squash Silverleaf Disorder of Cucurbita on Arizona and of White Streaking Disorder of Brassica Species in Arizona and California. Plant Dis. 76: 426.
+
+Text Len: 1408
+--------------------------------------------------------------------------------
+ Poinsettia. Ann. Entomol. Soc. Am. 84: 407-411.
+Brown, J. K. and H. S. Costa. 1992. First Report of Whitefly-Associated Squash Silverleaf Disorder of Cucurbita on Arizona and of White Streaking Disorder of Brassica Species in Arizona and California. Plant Dis. 76: 426.
+Byrne, D. N. and W. B. Miller. 1990. Carbohydrate and Amino Acid Composition of Phloem Sap and Honeydew Produced by Bemesia tabaci. J. Insect. Physiol. 36: 433-439.
+Cohen, S., J. E. Duffus, and H. Y. Hiu. 1992. A New Bemesia tabaci
+Biotype in the Southwestern United States and its Role in Silverleaf of Squash and Transmission of Lettuce Infectious Yellows Virus. Phytopathology. 82: 86-90.
+Costa, H. S., M. W. Johnson, D. E. Ullman, A. D. Omer, and B. E. Tabashnik. 1993. Sweetpotato Whitefly (Homoptera: Aleyrodidae): Analysis of Biotypes and Distribution in Hawaii. Environ. Entomol. 22: 16-20.
+Gruenhagen, N. D., T. M. Perring, L. G. Bezark, D. M. Daoud, and T. F. Leigh. 1993. Silverleaf Whitefly Present in the San Joaquin Valley. California Agric. 47: 4-6.
+Hartmann, G. C., S. S. Wasti, and D. L. Hendrickson. 1979. Murine Safety of Two Species of Entomogenous Fungi, Cordyceps militaris (Fries)
+Text Len: 1174
+--------------------------------------------------------------------------------
+, and T. F. Leigh. 1993. Silverleaf Whitefly Present in the San Joaquin Valley. California Agric. 47: 4-6.
+Hartmann, G. C., S. S. Wasti, and D. L. Hendrickson. 1979. Murine Safety of Two Species of Entomogenous Fungi, Cordyceps militaris (Fries) Link and Paecilomyces fumoso-roseus (Wize) Brown and Smith. Appl. Ent. Zool. 14: 217-220.
+Knauf, T. A. 1994. Naturalis L for Biological Control of Insects in Field and Greenhouse Studies in Vegetables and Ornamentals. ESA Annual Meeting. Dallas, Tx.
+Lai, P.-Y. 1985. Bemesia tabaci (Gennadius). Notes and Exhibitions, Proc. Hawaii. Entomol. Soc. 25: 18.
+McMullen, E. 1985. Silverleaf Strategies. Pest Management. 51(4): 24.
+Omer, A. D., M. W. Johnson, B. E. Tabashnik, H. S. Costa, and D.E. Ullman. 1993. Sweetpotato Whitefly Resistance to Insecticides in Hawaii: Intra-Island Variation is Related to Insecticide Use. Entomol. Exp. Appl. 67: 173-182.
+Osborne, L. S. and Z. Landa. 1992. Biological Control of Whiteflies with Entomopathogenic Fungi. Florida Entomologist. 75: 456-471.
+Perring, T. M., A. D. Cooper, R. J. Rodriguez, C. A. Farrar, and T. S. Bellows Jr. 1993a. Identification of a Whitefly Species by Genomic and Behavioral Studies. Science. 259
+Text Len: 1203
+--------------------------------------------------------------------------------
+ of Whiteflies with Entomopathogenic Fungi. Florida Entomologist. 75: 456-471.
+Perring, T. M., A. D. Cooper, R. J. Rodriguez, C. A. Farrar, and T. S. Bellows Jr. 1993a. Identification of a Whitefly Species by Genomic and Behavioral Studies. Science. 259: 74-76.
+Perring, T. M., C. A. Farrar, T. S. Bellows, A. D. Cooper, and R. J. Rodriguez. 1993b. Evidence for a New Species of Whitefly: UCR Findings and Implications. California. Agric. 47: 7-8.
+Schuster, D. J., T. F. Mueller, J. B. Kring, and J. F. Price. 1990. Relationship of the Sweetpotato Whitefly to a New Tomato Fruit Disorder in Florida. 25: 1618-1620.
+Schuster, D. J., J. B. Kring, and J. F. Price. 1991. Association of the Sweetpotato Whitefly with a Slverleaf Disorder of Squash. HortScience. 26: 155-156.
+United States Department of Agriculture. 1994. Sweetpotato Whitefly Knowledgebase software. University of Florida, Gainesville, FL.
+Yokomi, R. K., K. A. Hoelmer, and L. S. Osborne. 1990. Relationship Between the Sweetpotato Whitefly and the Squash Silverleaf Disorder. Phytopathology. 80: 895-900.
+  MAR/1995.
+  B-ARGENT
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1151
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Bemisia argentifolii (Bellows and Perring)
+Silverleaf Whitefly
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Specialist
+Stephan G. Lee, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+Updated by: J.M. Diez April 2007
+HOSTS
+The silverleaf whitefly has a wider host range than the sweetpoato whitefly (Byrne and Miller, 1990). It attacks over 500 species of plants (USDA, 1994). Crop hosts that support large populations include alfalfa, broccoli, cabbage, cantaloupe, cauliflower, cotton, cucumber, tomato, squash, peanut, pepper, beans, and watermelon (Perring, et. al., 1993b; USDA, 1994). Ornamental hosts that support large populations include poinsettia, hibiscus, lantana, garden mum, Gerber daisies, mandevilla, and verbena (Gruenhagen, et. al., 1993; USDA, 1994). Other preferred ornamental hosts include canna lilies, bearded iris, crepe myrtle, petunia, rose, and bottle brush.
+In Hawaii, reproducing populations of silverleaf whitefly were observed on the following crops: papaya, watermelon, squash, eggplant, Manoa lettuce, morning glory, daikon, Korean cabbage, mustard cabbage, poinsettia, cauliflower, okra, tomato, cheeseweed, sweetpotato, cabbage, taro, New Zealand pumpkin, cucumber, plumeria, and zucchini (Costa, et. al., 1993). Other recognized hosts include kikania-lei (Solanum aculeatissimum), Asystasia, avocado, fig, Acacia koa, and Coccinia
+Text Len: 1459
+--------------------------------------------------------------------------------
+ okra, tomato, cheeseweed, sweetpotato, cabbage, taro, New Zealand pumpkin, cucumber, plumeria, and zucchini (Costa, et. al., 1993). Other recognized hosts include kikania-lei (Solanum aculeatissimum), Asystasia, avocado, fig, Acacia koa, and Coccinia.
+DISTRIBUTION
+In the United States, the silverleaf whitefly was identified as a serious pest in Florida poinsettia greenhouses in 1986 (Barinaga, 1993). By 1991, the silverleaf whitefly had spread across the southern United States (Arizona, California, Florida, Georgia, Louisiana, New Mexico, and Texas) and caused estimated billions of dollars in agricultural losses (Perring, et. al., 1993b).
+In Hawaii, the silverleaf whitefly is present on the islands of Oahu, Hawaii, Maui, Molokai, and Kauai. It may be difficult to determine exactly when this species was first observed in Hawaii because this species was once thought to be a strain of the sweetpotato whitefly (B-biotype). The sweetpotato whitefly was first observed on Oahu in 1982 (Lai, 1985). There may be some indication that the silverleaf whitefly was here in 1989, when sweetpotato whiteflies were observed on crops not previously reported as hosts in Hawaii (lettuce and Brassica spp.) or the United States (plumeria, taro, and papaya) (Costa, et. al., 1993). At that time, sweetpotato whiteflies became associated with the occurrence of squash silverleaf and irregular ripening of tomato (both diseases are currently attributed to the silverleaf whitefly) on the islands of Hawaii and Maui.
+DAMAGE
+The silverleaf whitefly causes direct feeding damage to host plants by piercing and sucking sap from the
+Text Len: 1622
+--------------------------------------------------------------------------------
+ (Costa, et. al., 1993). At that time, sweetpotato whiteflies became associated with the occurrence of squash silverleaf and irregular ripening of tomato (both diseases are currently attributed to the silverleaf whitefly) on the islands of Hawaii and Maui.
+DAMAGE
+The silverleaf whitefly causes direct feeding damage to host plants by piercing and sucking sap from the foliage of plants. This feeding causes weakening and early wilting of the plant and reduces the plant growth rate and yield (Berlinger, 1986). It may also cause leaf chlorosis, leaf withering, premature dropping of leaves and plant death.
+The silverleaf whitefly feeding is associated with various plant disorders. They include the occurrence of irregular ripening of tomatoes (Schuster, et. al., 1990), yellowing and stem blanching of lettuce and mustard cabbage (Costa, et. al., 1993), stem whitening in Brassica spp. (cruciferous vegetables)(Brown and Costa, 1992), and silverleaf of squash (Yokomi, et. al., 1990; Schuster, et. al., 1991; Brown and Costa, 1992; Cohen, et. al., 1992). Studies (Yokomi, et. al., 1990 and Costa, et. al., 1993) indicate that squash silverleaf is a result of nymphal feeding. It is suggested that squash silverleaf is a result of a toxogenic factor associated with nymphal feeding. High populations of silverleaf whiteflies are not necessary to produce these disorders in plants.
+Indirect damage from silverleaf whitefly is the result of the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or makes it unmarketable (Berlinger, 1986).
+Silverleaf whitefly is also known
+Text Len: 1741
+--------------------------------------------------------------------------------
+Indirect damage from silverleaf whitefly is the result of the accumulation of honeydew produced by the whiteflies. This honeydew serves as a substrate for the growth of black sooty mold on leaves and fruit. The mold reduces photosynthesis and lessens the market value of the plant or makes it unmarketable (Berlinger, 1986).
+Silverleaf whitefly is also known vector plant diseases. One particularly damaging pathogen transmitted by the silverleaf whitefly in Florida is tomato mottle geminivirus (Gruenhagen, et. al., 1993). Fortunately, whitefly vectored viruses are not known to occur in Hawaii.
+The wide host range and high reproductive rate in addition to the damage it does makes it an important economic pest. High populations of migrating whiteflies destroy planted crops, then move on to neighboring areas. In temperate regions, silverleaf whiteflies overwinters in weeds and ornamental plants and migrate to crops and gardens in the spring and summer. Silverleaf whitefly outbreaks can occur throughout the year in the tropics and subtropics.
+BIOLOGY
+At 25.4ûC (78ûF), 14 hours of light, and 91.7% relative humidity, the total development time from egg to adult for the silverleaf whitefly on cotton was 18 - 31 days (Bethke, et. al., 1991). Under the same environmental conditions but with poinsettia as a host, total development time took from 18 - 28 days.
+Species Status
+Currently, the name silverleaf whitefly (Bemisia argentifolii) and sweetpotato whitefly B-biotype (Bemisia tabaci B-biotype) are acceptable names for the silverleaf whitefly. Differences in the two biotypes were observed prior to any formal studies. Specifically, the silverleaf whitefly is more voracious, hardier, and prolific than the sweetpot
+Text Len: 1730
+--------------------------------------------------------------------------------
+fly (Bemisia argentifolii) and sweetpotato whitefly B-biotype (Bemisia tabaci B-biotype) are acceptable names for the silverleaf whitefly. Differences in the two biotypes were observed prior to any formal studies. Specifically, the silverleaf whitefly is more voracious, hardier, and prolific than the sweetpotato whitefly, and the silverleaf symptoms on squash plants is associated with the silverleaf whitefly.
+To determine the differences between the silverleaf whitefly
+(Bemisia tabaci B-biotype) and the sweetpotato whitefly (Bemisia tabaci A-biotype), A team of scientists (Perring, et. al., 1993a) used polymerase chain reaction (PCR) - based DNA differentiation tests, allozymic frequency analyses, crossing experiments, and mating behavior studies.
+Mating behavior studies indicated that there was courting between males and females of the two different biotypes but no mating occurred. There was mating within biotypes. The data acquired from these experiments indicates that the silverleaf whitefly and the sweetpotato whitefly are different species.
+Morphological evidence indicates that there are distinct differences in fourth instar (pupal cases) thoracic tracheal fold widths between silverleaf whitefly and sweetpotato whitefly (Bellows, et. al., 1994). The silverleaf whitefly has tracheal folds that are half the width of sweetpotato whitefly tracheal folds (14 to 29 micrometers). Another morphological difference is the absence of submarginal seta ASMS4 in silverleaf whitefly pupal cases. Submarginal seta ASMS4 is present on sweetpotato whitefly pupal cases. This morphological evidence supports the idea that the silverleaf whitefly and the sweetpotato whitefly are different species.
+
+Text Len: 1709
+--------------------------------------------------------------------------------
+al folds (14 to 29 micrometers). Another morphological difference is the absence of submarginal seta ASMS4 in silverleaf whitefly pupal cases. Submarginal seta ASMS4 is present on sweetpotato whitefly pupal cases. This morphological evidence supports the idea that the silverleaf whitefly and the sweetpotato whitefly are different species.
+There are challenges to the conclusion that the silverleaf whitefly and the sweetpotato whitefly are different species. Bruce Campbell of the USDA compared ribosomal RNA between biotype A and B and found no difference (Barinaga, 1993). Also, James Duffus of the USDA claims to have produced a hybrid of biotypes A and B.
+Eggs
+Eggs are similar in appearance to eggs of the sweetpotato whitefly. The eggs are laid on the undersides of leaves. Developmental hosts of the silverleaf whitefly influences egg production. Female silverleaf whiteflies produce an average of 51 eggs on cotton and an average of 85 eggs on poinsettias (Bethke, et. al., 1991).
+Nymphs
+After hatching, the first stage nymphs walk a short distance and settle to feed. Once settled, the subsequent three nymphal stages are scale-like and sedentary. The fourth nymphal stage includes the pupal stage. Unlike most whiteflies, silverleaf whitefly pupae have no waxy filaments around their edges.
+The first, second, third and fourth nymphal stages reared on cotton lasted for an average duration of 5, 3, 3, and 6 days, respectively (Bethke, et. al., 1991). The first, second, third and fourth nymphal stages reared on poinsettia lasted for an average duration of 4, 3, 3, and 4 days, respectively.
+Adults
+Silverleaf whitefly adults are small
+Text Len: 1648
+--------------------------------------------------------------------------------
+ reared on cotton lasted for an average duration of 5, 3, 3, and 6 days, respectively (Bethke, et. al., 1991). The first, second, third and fourth nymphal stages reared on poinsettia lasted for an average duration of 4, 3, 3, and 4 days, respectively.
+Adults
+Silverleaf whitefly adults are small, approximately 1/25 inch in length, with a pale yellow body and two pairs of white wings and covered with a white waxy powder. At rest, wings are held in an inverted V position. Their compound eyes are red. The adults are morphologically very similar to the sweetpotato whitefly. The average lifespan of females were 13.3 days on cotton and 17.4 days on poinsettia (Bethke, et. al., 1991).
+MANAGEMENT
+Cultural Control
+The USDA (USDA, 1994) recommends the destruction of heavily infested plants, plant parts, and alternate hosts before the whiteflies can spread. In cases of serious infestations, it may be a good idea to replace infested plants with plants that are not attacked by whiteflies. Destroy infested weeds around the area. Pigweed, ground cherry, and bindweed are known to support silverleaf whiteflies. Transplants should be inspected for whiteflies before bringing them into an unaffected area. Vegetable plants should be destroyed at harvest to eliminate potential hosts.
+On the mainland, planting times may be adjusted so that seasonal high populations of silverleaf whiteflies or migrating silverleaf whiteflies can be avoided. In Hawaii, adjusting planting times may not be too effective because of year-round warm weather. Populations of silverleaf whitefly may be monitored, but determining the action threshold may be a problem (USDA, 1994) due to the lack of data to establish thresholds on various crops. On poinsettia, more than two to five immatures
+Text Len: 1769
+--------------------------------------------------------------------------------
+ migrating silverleaf whiteflies can be avoided. In Hawaii, adjusting planting times may not be too effective because of year-round warm weather. Populations of silverleaf whitefly may be monitored, but determining the action threshold may be a problem (USDA, 1994) due to the lack of data to establish thresholds on various crops. On poinsettia, more than two to five immatures per square inch of leaf is considered a damaging level. Stunted growth on cucumber occurs when there is an average of 30 nymphs per square inch.
+Biological Control
+Biological control agents of sweetpotato whitefly may attack silverleaf whitefly but not to the extent of controlling them effectively. Some predators including bigeyed bugs, lacewings, and coccinelid beetles will prey on whitefly nymphs. Parasitic wasps in the genus Encarsia and Eretmocerus will parasitize whiteflies. Empty whitefly pupal cases with circular holes are evidence of parasitism.
+The use of pathogenic fungi to control the silverleaf whitefly is a potential alternative to insecticides. Fungi that attack whitefly include the fungi Ascersonia, Verticillium, Paecilomyces, and Beauveria (Knauf, 1994; Osborne and Landa, 1992). These fungi are generally safe to organisms other than their hosts (Knauf, 1994; Hartmann, et. al., 1979). A wettable dispersible granule, PFR-97, that contains the fungus Paecilomyces fumosoroseus may be available for use in the future for control of whiteflies and other pests in vegetable greenhouses. PFR-97 is manufactured by W. R. Grace & Co. Naturalis is another fungus-based product that controls silverleaf whitefly manufactured by Troy Biosciences, Inc. It contains the fungus, Beauveria bassiana.
+Text Len: 1692
+--------------------------------------------------------------------------------
+ilomyces fumosoroseus may be available for use in the future for control of whiteflies and other pests in vegetable greenhouses. PFR-97 is manufactured by W. R. Grace & Co. Naturalis is another fungus-based product that controls silverleaf whitefly manufactured by Troy Biosciences, Inc. It contains the fungus, Beauveria bassiana. Both products are not available in Hawaii at the current time, because of quarantine regulations. However, Paecilomyces fumosoroseus occurs naturally in Hawaii. It is just a matter of isolating and culturing this fungus in Hawaii so that it may be used to help control the silverleaf whitefly in Hawaii. Dr. Arnold Hara of the University of Hawaii and his staff are in the process of organizing a project to address this objective.
+Chemical Control
+Chemical control measures for sweetpotato whiteflies may be tried against the silverleaf whitefly. However, silverleaf whitefly populations develop resistance quite rapidly. A study (Omer, et. al., 1993) found that 15 populations of field collected silverleaf whitefly from Hawaii were resistant to methomyl (18-fold resistance), acephate (24-fold resistance), and permethrin (4-fold resistance). They concluded that resistance development could be retarded by reducing local insecticide use if local insecticide use was the main determinant of resistance.
+Another problem with chemical insecticides is the adverse effect on natural enemies. When possible, management practices and non-chemical control measures should be considered to conserve natural enemies.
+If insecticides are used, they should be used sparingly and combined with non-chemical control methods. When applying insecticides, make sure you get good coverage on the tops and bottoms of leaf surfaces. Insecticidal oils and soaps may be used to help control immature whiteflies (USDA, 1994). They may not provide exceptional control, but resistance
+Text Len: 1895
+--------------------------------------------------------------------------------
+ be considered to conserve natural enemies.
+If insecticides are used, they should be used sparingly and combined with non-chemical control methods. When applying insecticides, make sure you get good coverage on the tops and bottoms of leaf surfaces. Insecticidal oils and soaps may be used to help control immature whiteflies (USDA, 1994). They may not provide exceptional control, but resistance is not a concern, and they are not as detrimental to natural enemies as chemical insecticides.
+Admire, danitol, marathon, merit, ovasyn, and provado are not labelled as of April 2007.
+REFERENCES
+Bellows, T. S., Jr., T. M. Perring, R. J. Gill, and D. H. Headrick. 1994. Description of a Species of Bemisia (Homoptera: Aleyrodidae). Ann. Entomol. Soc. Am. 87: 195-206.
+Barinaga, M. 1993. Is Devastating Whitefly Invader Really a New Species? Science. 259: 30.
+Berlinger, M. J. 1986. Host Plant Resistance to Bemisia tabaci. Agric. Ecosystems Environ. 17: 69-82.
+Bethke, J. A., T. D. Paine, and G. S. Nuessly. 1991. Comparative Biology, Morphometrics, and Development of Two Populations of Bemesia tabaci (Homoptera: Aleyrodidae) on Cotton and Poinsettia. Ann. Entomol. Soc. Am. 84: 407-411.
+Brown, J. K. and H. S. Costa. 1992. First Report of Whitefly-Associated Squash Silverleaf Disorder of Cucurbita on Arizona and of White Streaking Disorder of Brassica Species in Arizona and California. Plant Dis. 76: 426.
+
+Text Len: 1408
+--------------------------------------------------------------------------------
+ Poinsettia. Ann. Entomol. Soc. Am. 84: 407-411.
+Brown, J. K. and H. S. Costa. 1992. First Report of Whitefly-Associated Squash Silverleaf Disorder of Cucurbita on Arizona and of White Streaking Disorder of Brassica Species in Arizona and California. Plant Dis. 76: 426.
+Byrne, D. N. and W. B. Miller. 1990. Carbohydrate and Amino Acid Composition of Phloem Sap and Honeydew Produced by Bemesia tabaci. J. Insect. Physiol. 36: 433-439.
+Cohen, S., J. E. Duffus, and H. Y. Hiu. 1992. A New Bemesia tabaci
+Biotype in the Southwestern United States and its Role in Silverleaf of Squash and Transmission of Lettuce Infectious Yellows Virus. Phytopathology. 82: 86-90.
+Costa, H. S., M. W. Johnson, D. E. Ullman, A. D. Omer, and B. E. Tabashnik. 1993. Sweetpotato Whitefly (Homoptera: Aleyrodidae): Analysis of Biotypes and Distribution in Hawaii. Environ. Entomol. 22: 16-20.
+Gruenhagen, N. D., T. M. Perring, L. G. Bezark, D. M. Daoud, and T. F. Leigh. 1993. Silverleaf Whitefly Present in the San Joaquin Valley. California Agric. 47: 4-6.
+Hartmann, G. C., S. S. Wasti, and D. L. Hendrickson. 1979. Murine Safety of Two Species of Entomogenous Fungi, Cordyceps militaris (Fries)
+Text Len: 1174
+--------------------------------------------------------------------------------
+, and T. F. Leigh. 1993. Silverleaf Whitefly Present in the San Joaquin Valley. California Agric. 47: 4-6.
+Hartmann, G. C., S. S. Wasti, and D. L. Hendrickson. 1979. Murine Safety of Two Species of Entomogenous Fungi, Cordyceps militaris (Fries) Link and Paecilomyces fumoso-roseus (Wize) Brown and Smith. Appl. Ent. Zool. 14: 217-220.
+Knauf, T. A. 1994. Naturalis L for Biological Control of Insects in Field and Greenhouse Studies in Vegetables and Ornamentals. ESA Annual Meeting. Dallas, Tx.
+Lai, P.-Y. 1985. Bemesia tabaci (Gennadius). Notes and Exhibitions, Proc. Hawaii. Entomol. Soc. 25: 18.
+McMullen, E. 1985. Silverleaf Strategies. Pest Management. 51(4): 24.
+Omer, A. D., M. W. Johnson, B. E. Tabashnik, H. S. Costa, and D.E. Ullman. 1993. Sweetpotato Whitefly Resistance to Insecticides in Hawaii: Intra-Island Variation is Related to Insecticide Use. Entomol. Exp. Appl. 67: 173-182.
+Osborne, L. S. and Z. Landa. 1992. Biological Control of Whiteflies with Entomopathogenic Fungi. Florida Entomologist. 75: 456-471.
+Perring, T. M., A. D. Cooper, R. J. Rodriguez, C. A. Farrar, and T. S. Bellows Jr. 1993a. Identification of a Whitefly Species by Genomic and Behavioral Studies. Science. 259
+Text Len: 1203
+--------------------------------------------------------------------------------
+ of Whiteflies with Entomopathogenic Fungi. Florida Entomologist. 75: 456-471.
+Perring, T. M., A. D. Cooper, R. J. Rodriguez, C. A. Farrar, and T. S. Bellows Jr. 1993a. Identification of a Whitefly Species by Genomic and Behavioral Studies. Science. 259: 74-76.
+Perring, T. M., C. A. Farrar, T. S. Bellows, A. D. Cooper, and R. J. Rodriguez. 1993b. Evidence for a New Species of Whitefly: UCR Findings and Implications. California. Agric. 47: 7-8.
+Schuster, D. J., T. F. Mueller, J. B. Kring, and J. F. Price. 1990. Relationship of the Sweetpotato Whitefly to a New Tomato Fruit Disorder in Florida. 25: 1618-1620.
+Schuster, D. J., J. B. Kring, and J. F. Price. 1991. Association of the Sweetpotato Whitefly with a Slverleaf Disorder of Squash. HortScience. 26: 155-156.
+United States Department of Agriculture. 1994. Sweetpotato Whitefly Knowledgebase software. University of Florida, Gainesville, FL.
+Yokomi, R. K., K. A. Hoelmer, and L. S. Osborne. 1990. Relationship Between the Sweetpotato Whitefly and the Squash Silverleaf Disorder. Phytopathology. 80: 895-900.
+  MAR/1995.
+  B-ARGENT
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1151
+--------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+Family:  HYDROPHYLLACEAE  ;
+Species:  Hydrophyllum canadenseL.  ;
+Common Name:  Broadleaf Waterleaf; Canadian Waterleaf; Blunt Leaf Waterleaf  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HYCA3  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACU (NWI),G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 496
+--------------------------------------------------------------------------------
+Family:  HYDROPHYLLACEAE  ;
+Species:  Hydrophyllum canadenseL.  ;
+Common Name:  Broadleaf Waterleaf; Canadian Waterleaf; Blunt Leaf Waterleaf  ;
+Habitat:  **  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HYCA3  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACU (NWI),G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 496
+--------------------------------------------------------------------------------

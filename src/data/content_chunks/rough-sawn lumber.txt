@@ -1,0 +1,84 @@
+Request for Services to Transport, Store, and/or Dispose of Seized or Forfeited Shipments
+2. Description of Commodity
+    (example: rough-sawn lumber )
+1. Seizure Number
+     (see Forfeiture Number/Port File Number)
+3. Quantity and  Unit
+      list lumber in cubic meters; list veneer in square meters
+      (examples: 340 cubic meters; 100 square meters; 250 cartons, 40 boxes;  1,500 dowels;
+        10,000 pieces in 250 boxes; 45 pieces on 15 pallets)
+4. Common Name of Wood
+5. Scientific Name of Wood
+6. Country of Origin 7. Weight in Kilograms
+Width Height
+9. Value of  Shipment    $
+8. Dimensions of the Shipment
+     measure as one unit, then enter the length, width, and
+     height  in feet to determine the truck size needed to
+     transport the shipment
+Length
+ 10 a. Is the shipment on pallets? YES  NO
+10b. If YES, are pallets part of the shipment? YES  NO
+11. Location of Seized Material
+        name of the facility and complete address
+12. CBP or PPQ Point-of-Contact
+        name and phone number
+14. Amount the dock, pier, or warehouse will
+        continue to charge on a daily basis                  $
+13. Storage Charges  Accrued-to-date $
+CBP PPQ
+15. Date the Forfeited Property Valued at $10,000 or
+Text Len: 1222
+--------------------------------------------------------------------------------
+
+14. Amount the dock, pier, or warehouse will
+        continue to charge on a daily basis                  $
+13. Storage Charges  Accrued-to-date $
+CBP PPQ
+15. Date the Forfeited Property Valued at $10,000 or Less can Be Disposed
+       must be the date PPQ Form 627 was sent plus  60 days and not before
+       If forfeited property is greater than $10,000 value, then PPQ Headquarters will notify the contractor of the disposal date
+Text Len: 434
+--------------------------------------------------------------------------------
+Request for Services to Transport, Store, and/or Dispose of Seized or Forfeited Shipments
+2. Description of Commodity
+    (example: rough-sawn lumber )
+1. Seizure Number
+     (see Forfeiture Number/Port File Number)
+3. Quantity and  Unit
+      list lumber in cubic meters; list veneer in square meters
+      (examples: 340 cubic meters; 100 square meters; 250 cartons, 40 boxes;  1,500 dowels;
+        10,000 pieces in 250 boxes; 45 pieces on 15 pallets)
+4. Common Name of Wood
+5. Scientific Name of Wood
+6. Country of Origin 7. Weight in Kilograms
+Width Height
+9. Value of  Shipment    $
+8. Dimensions of the Shipment
+     measure as one unit, then enter the length, width, and
+     height  in feet to determine the truck size needed to
+     transport the shipment
+Length
+ 10 a. Is the shipment on pallets? YES  NO
+10b. If YES, are pallets part of the shipment? YES  NO
+11. Location of Seized Material
+        name of the facility and complete address
+12. CBP or PPQ Point-of-Contact
+        name and phone number
+14. Amount the dock, pier, or warehouse will
+        continue to charge on a daily basis                  $
+13. Storage Charges  Accrued-to-date $
+CBP PPQ
+15. Date the Forfeited Property Valued at $10,000 or
+Text Len: 1222
+--------------------------------------------------------------------------------
+
+14. Amount the dock, pier, or warehouse will
+        continue to charge on a daily basis                  $
+13. Storage Charges  Accrued-to-date $
+CBP PPQ
+15. Date the Forfeited Property Valued at $10,000 or Less can Be Disposed
+       must be the date PPQ Form 627 was sent plus  60 days and not before
+       If forfeited property is greater than $10,000 value, then PPQ Headquarters will notify the contractor of the disposal date
+Text Len: 434
+--------------------------------------------------------------------------------

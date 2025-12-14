@@ -1,0 +1,248 @@
+Crop Knowledge Master
+Chaetanaphothrips signipennis
+Banana Rust Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Arnold H. Hara, Extension Entomologist; Ronald F.L. Mau, Entomologist; Christopher M. Jacobsen, Research Associate; Ruth Y. Niino-DuPonte, Research Associate
+Department of Plant and Environmental Protection Sciences
+and
+Ronald Heu, Entomologist.
+Hawaii Department of Agriculture
+Honolulu, Hawaii
+INTRODUCTION
+Banana rust thrips, Chaetanaphothrips signipennis (Bagnall) (Thysanoptera: Thripidae), was collected once in 1954 from an outdoor planting of anthuriums in Manoa, O`ahu, and was not seen again until 1996, when it was collected from several commercial nurseries and farms on the island of Hawaii, after causing severe damage to anthurmium, ti, dracaena, and banana. The banana rust thrips is similar in appearance to two other introduced Chaetanaphothrips species, the anthurium thrips, C. orchidii (Moulton) and C. leeuweni (Karny), which also share the same hosts, including banana, ti, and anthurium).  Banana rust thrips can be differentiated from the other two species by clear differences in body features (specifically, the presence body hairs and glands in females that are only visible microscopically [Sakimura 1975]).
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and  banana.   They also infest immature fruits of orange, tangerine (mandarin), and tomato, as well as green beans.
+DISTRIBUTION
+Banana rust thrips are present in parts of Australia
+Text Len: 1537
+--------------------------------------------------------------------------------
+opically [Sakimura 1975]).
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and  banana.   They also infest immature fruits of orange, tangerine (mandarin), and tomato, as well as green beans.
+DISTRIBUTION
+Banana rust thrips are present in parts of Australia (Queensland and New South Wales) and Central America (Honduras, Panama), Brazil, Fiji, Sri Lanka, and India. In the US, they are also established in Florida and Hawaii.
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and banana. They also infest immature fruits of orange, mandarin (tangerine), and tomatoes, as well as green beans.
+DAMAGE
+The appearance of feeding damage caused by banana rust thrips varies with host plant species.  In most cases, thrips prefer to feed on very young, succulent, immature fruits, flowers, and foliage.On Dracaena and ti (Figure 1a), thrips can be observed feeding in the whorls of immature leaves, causing discoloration and silvering (characterized by long, white streaks) as well as random squiggles or curly-cues near the petiole end of developed, unfurled leaves.  Also, particularly on red ti varieties, the immature leaves may fail to unfurl and thus appear as deformed leaf whorls (Figure 1b).
+On anthurium, banana rust thrips damage appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and, with age,  bronzing of injured tissue (Figure 1c).  In severe cases, mature anthurium spathes fail to open, reduced plant growth may occur, and the foliage may be affected by deformity
+Text Len: 1568
+--------------------------------------------------------------------------------
+).
+On anthurium, banana rust thrips damage appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and, with age,  bronzing of injured tissue (Figure 1c).  In severe cases, mature anthurium spathes fail to open, reduced plant growth may occur, and the foliage may be affected by deformity, bronzing and streaking.  Damage by banana rust thrips to certain anthurium cultivars, such as ‘Kalapana’ and ‘Ozaki’, may appear as curly-cues rather than streaks.
+On banana, feeding damage is observed on the pseudostem, but it is the injury to the fruit that significantly affects marketability (Figure 2).  Thrips feeding in leaf sheaths results in characteristic dark, V-shaped marks to the outer surface of leaf petioles.  Damaged tissue becomes bronze or rust-colored with age.  Feeding damage to the fruit occurs on fingers soon after flower petals dry, typified initially by a water-soaked appearance.  Young fruits may exhibit dark, smoky-colored random squiggles or curly-cue feeding tracks on the surface.  On mature fruit, oval-shaped, reddish “stains” may be seen where the fingers touch.  Extensive damage may cover more of the fruit surface with reddish-brown or black discoloration and superficial cracks. Though unmarketable, such fruits are still edible.
+Figure 1.Feeding damage by banana rust thrips on ti and anthurium. a) streaks and curly-cue markings on opened ti leaf. b) deformed leaf whorls on red ti that failed to unfurl; c) deformed anthurium spathe. [Photos: A.H. Hara]
+Figure 2. Damage to banana fruit by banana rust thrips [
+Text Len: 1581
+--------------------------------------------------------------------------------
+.Feeding damage by banana rust thrips on ti and anthurium. a) streaks and curly-cue markings on opened ti leaf. b) deformed leaf whorls on red ti that failed to unfurl; c) deformed anthurium spathe. [Photos: A.H. Hara]
+Figure 2. Damage to banana fruit by banana rust thrips [Photo: A. H. Hara]
+BIOLOGY
+Adult banana rust thrips reproduce sexually.   The entire life cycle (egg to adult, Figure 3) of banana rust thrips is completed in approximately 28 days but may take up to 3 months during the cooler season. 
+  Figure 3. Life cycle of the banana rust thrips. [Insect drawings from D. Schulz ~1950]
+  EGGS
+After mating, females lay kidney-shaped eggs that are invisible to the naked eye by depositing them in plant tissue where the thrips feed.  Eggs hatch into nymphs in 6 to 9 days.
+NYMPHS
+The newly hatched yellow nymphs feed for a few days before molting into the second nymphal stage, which is yellow or orange and feeds for a few more days. After 8 to 10 days, mature nymphs migrate off the host plant into soil or growth medium below and molt into prepupae.
+PREPUAE AND PUPAE
+Prepupae look similar to nymphs but have wing pads.  After 2 to 5 days, prepupae enter the pupal stage, which has longer wing pads.   Both stages remain in the soil, medium or debris beneath the host plant and are capable of crawling but do not feed.
+ADULTS
+In 6 to 10 days, the adult emerges from the pupal cell and may remain beneath the surface for up to 24 hours before making its way up to reinfest the host plant.
+Adult female banana rust
+Text Len: 1528
+--------------------------------------------------------------------------------
+ stage, which has longer wing pads.   Both stages remain in the soil, medium or debris beneath the host plant and are capable of crawling but do not feed.
+ADULTS
+In 6 to 10 days, the adult emerges from the pupal cell and may remain beneath the surface for up to 24 hours before making its way up to reinfest the host plant.
+Adult female banana rust thrips are slender, creamy yellow to golden brown, and 1/16 to 1/25 inch (about the thickness of a dime) (Figure 4).  Their wings have dark eye-like spots at the base and are fringed; when the wings are folded, the adult appears to have a black line down its back.
+Figure 4. Adult banana rust thrips [Photo: C.A. O'Donnell, UC Davis]
+BEHAVIOR
+Higher temperature and  humidity and new growth of host plants appear to be favorable to thrips’ feeding and breeding, leading to heavier infestations and damage during the summer months.  Thrips prefer to feed on young, growing plant tissue, such as areas of bud development, or in anthurium, the base of the plant where the spathes develop.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs (Orius tristicolor, O. persequens, and O. insidiosus) are general thrips predators, but the extent of their effectiveness against banana rust thrips is not known.  Some lacewings, ladybird beetles, and predacious mites may also exert some control on nymph and adult thrips, while ants may prey on prepupae and pupae in the soil, medium or surface debris near the base of the host plant.  Several fungi, including Paecilomyces spp. and Verticillium lecanii, have been isolated
+Text Len: 1581
+--------------------------------------------------------------------------------
+ Some lacewings, ladybird beetles, and predacious mites may also exert some control on nymph and adult thrips, while ants may prey on prepupae and pupae in the soil, medium or surface debris near the base of the host plant.  Several fungi, including Paecilomyces spp. and Verticillium lecanii, have been isolated from other thrips species and may infect banana rust thrips as well.
+Cultural
+Remove infested flowers and foliage from the field or shadehouse to eliminate sources of thrips.  Discard old stock plants that may harbor thrips, and obtain thrips-free propagative material for restocking.
+There are no reports of resistant or susceptible anthurium cultivars, although injury is more noticeable on pastel shaded cultivars such as ‘Marian Seefurth’.
+In banana plantings, covering bunches with polyethylene bags during fruit development provides a physical barrier to insect infestations; but bags cannot fully protect the fruit when a thrips infestation is heavy.
+Biorational
+A hot water dip at 120o F (49o C) for 10 minutes before planting can disinfest anthurium propagative material of banana rust thrips.  Banana, dracaena, ti and anthurium have all shown potential for heat treatment, although cultivar sensitivity has been observed to vary with season.  Tests indicated that some anthurium cultivars tolerate hot water treatment as top cuttings with leaves, including: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara, while ‘Ozaki’ cultivar cannot tolerate hot water dip except as whole stem pieces (gobo).  The dracaena cultivar ‘Janet Craig’ was also tolerant of hot-water treatment.  Due to variations among cultivars and growing
+Text Len: 1643
+--------------------------------------------------------------------------------
+: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara, while ‘Ozaki’ cultivar cannot tolerate hot water dip except as whole stem pieces (gobo).  The dracaena cultivar ‘Janet Craig’ was also tolerant of hot-water treatment.  Due to variations among cultivars and growing conditions, small-scale phytotoxicity tests should be conducted before a large amount of propagative material is hot-water treated.
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult a chemical sales representative, the Hawaii Department of Agriculture, or the CTAHR Cooperative Extension Service for information on insecticides currently approved for use against thrips in a particular crop.
+Remove infested flowers and foliage from the field or shadehouse to allow increased insecticide penetration and coverage.  Growers have reported that banana rust thrips tends to be more difficult to control than anthurium thrips, possibly due to the former’s pesticide tolerance and greater reproductive capacity.   Growers are advised to consider insect development of pesticide resistance in devising their integrated pest management practices.
+Generally, thrips populations increase during the summer and decrease during the winter due to fluctuations in temperature and rainfall.  Consequently, repeated spray applications may be needed only from May through August.  Foliar sprays are usually applied two to three times at 2-week intervals for moderate to severe thrips infestations. Since thrips prefer young, growing plant tissue, direct insecticide sprays to the area of bud development, or in anthurium, to the base of the plant where the spathes develop.  Use caution when applying insecticides on anthurium, becauses phytotoxicity varies among cultivars and is more likely to occur under hot, dry growing conditions.  When thrips injury is sutained during the bud stage, injured flowers will be harvested
+Text Len: 1890
+--------------------------------------------------------------------------------
+ to the area of bud development, or in anthurium, to the base of the plant where the spathes develop.  Use caution when applying insecticides on anthurium, becauses phytotoxicity varies among cultivars and is more likely to occur under hot, dry growing conditions.  When thrips injury is sutained during the bud stage, injured flowers will be harvested for at least one month following application of an effective insecticide.
+In banana, spraying the immature bunches and the surrounding soil can significantly reduce thrips damage to the fruit; when bagging bunches, spray just before bagging.  A contact granular insecticide applied in a 30-inch radius around each banana plant is effective against the prepupal and pupal stages of banana rust thrips that inhabit the soil.  No granular insecticide is currently registered for use on anthuriums.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECAUTIONARY STATEMENT
+Consult a chemical sales representative, the Hawaii Department of Agriculture, or the University of Hawaii Cooperative Extension Service for correct formulation of insecticides, more information, or updated recommendations. The user is responsible for the proper use, application, storage, and disposal of pesticides.
+DISCLAIMER
+Reference to a product does not imply approval or recommendation by the College of Tropical Agriculture and Human Resources, Cooperative Extension Service, University of Hawaii, or the United States Department of Agriculture and does not imply its approval to the exclusion of other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI
+Text Len: 1915
+--------------------------------------------------------------------------------
+ other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI 96720, Ph: (808) 974-4105 Fax: (808) 974-4110 E-mail: arnold@hawaii.edu
+REFERENCES
+Caldwell, N.E.H.  1938. The Control of Banana Rust Thrips. Department of Agriculture and Stock. Division of Plant Industry (Research), Bulletin #16, December 1938.
+Denmark, H.A. and L.S. Osborne. 1985.  Chaetanaphothrips signipennis (Bagnall) in Florida (Thysanoptera: Thripidae). Ento. Circular No. 274, Sept. 1985, Florida Department of Agriculture and ConsuemrService, Division of Plant Industry.
+Jacot-Guillarmod, C.F. 1974.  Catalogue of Thysanoptera of the world (Part 3). Annals of the Cape Provincial Museums – Natural History 7(3): 517-976.
+Lewis, T. (Ed.)  1997. Thrips as Crop Pests.  Institute of Arable Crop Research, Rothamsted, Harpenden, Hertfordshire, CABI Publishing, UK.
+Pinese, B. 1987.  Soil and bunch applications of insecticides for control of the banana rust thrips. Queensland Journal of Agricultural and Animal Sciences 44(2):107-111.
+Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite
+Text Len: 1377
+--------------------------------------------------------------------------------
+, Rothamsted, Harpenden, Hertfordshire, CABI Publishing, UK.
+Pinese, B. 1987.  Soil and bunch applications of insecticides for control of the banana rust thrips. Queensland Journal of Agricultural and Animal Sciences 44(2):107-111.
+Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+Pinese, B. and R. Elder.  2000.  DPI Notes – Pest of Plants – Bananas – Banana Rust Thrips in Bananas. Department of Primary Industries,  Queensland Horticulture Institute.  5 pp.  http://www.dpi.qld.gov.au/horticulture/5528.html
+Sakimura, K.  1975.  Danothrips trifasciatus, new species, and collection notes on the Hawaiian species Danothrips (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22:125-132.
+Schulz, D. ca. 1950. University of Illinois at Urbana-Champaign, Department of Entomology. <http://www.life.uiui.edu/Entomology/insectgifs/thysanoptera_grey.gif>
+Stover, R.H. and N.W. Simmons. 1987.  Bananas (3rd Ed.).  Longman Scientific and Technical, Harlow, UK.  468 pp.
+DEC/2002
+Adapted from the authors' CTAHR PIO publication, "Banana Rust Trhips Damage to Banana and Ornamentals in Hawaii". Insect Pests IP-10, June 2002.
+BR-THRIPS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1261
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Chaetanaphothrips signipennis
+Banana Rust Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Arnold H. Hara, Extension Entomologist; Ronald F.L. Mau, Entomologist; Christopher M. Jacobsen, Research Associate; Ruth Y. Niino-DuPonte, Research Associate
+Department of Plant and Environmental Protection Sciences
+and
+Ronald Heu, Entomologist.
+Hawaii Department of Agriculture
+Honolulu, Hawaii
+INTRODUCTION
+Banana rust thrips, Chaetanaphothrips signipennis (Bagnall) (Thysanoptera: Thripidae), was collected once in 1954 from an outdoor planting of anthuriums in Manoa, O`ahu, and was not seen again until 1996, when it was collected from several commercial nurseries and farms on the island of Hawaii, after causing severe damage to anthurmium, ti, dracaena, and banana. The banana rust thrips is similar in appearance to two other introduced Chaetanaphothrips species, the anthurium thrips, C. orchidii (Moulton) and C. leeuweni (Karny), which also share the same hosts, including banana, ti, and anthurium).  Banana rust thrips can be differentiated from the other two species by clear differences in body features (specifically, the presence body hairs and glands in females that are only visible microscopically [Sakimura 1975]).
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and  banana.   They also infest immature fruits of orange, tangerine (mandarin), and tomato, as well as green beans.
+DISTRIBUTION
+Banana rust thrips are present in parts of Australia
+Text Len: 1537
+--------------------------------------------------------------------------------
+opically [Sakimura 1975]).
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and  banana.   They also infest immature fruits of orange, tangerine (mandarin), and tomato, as well as green beans.
+DISTRIBUTION
+Banana rust thrips are present in parts of Australia (Queensland and New South Wales) and Central America (Honduras, Panama), Brazil, Fiji, Sri Lanka, and India. In the US, they are also established in Florida and Hawaii.
+HOSTS
+The primary hosts of banana rust thrips are anthurium, ti, dracaena, and banana. They also infest immature fruits of orange, mandarin (tangerine), and tomatoes, as well as green beans.
+DAMAGE
+The appearance of feeding damage caused by banana rust thrips varies with host plant species.  In most cases, thrips prefer to feed on very young, succulent, immature fruits, flowers, and foliage.On Dracaena and ti (Figure 1a), thrips can be observed feeding in the whorls of immature leaves, causing discoloration and silvering (characterized by long, white streaks) as well as random squiggles or curly-cues near the petiole end of developed, unfurled leaves.  Also, particularly on red ti varieties, the immature leaves may fail to unfurl and thus appear as deformed leaf whorls (Figure 1b).
+On anthurium, banana rust thrips damage appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and, with age,  bronzing of injured tissue (Figure 1c).  In severe cases, mature anthurium spathes fail to open, reduced plant growth may occur, and the foliage may be affected by deformity
+Text Len: 1568
+--------------------------------------------------------------------------------
+).
+On anthurium, banana rust thrips damage appears as white streaks or scarring on the front and back of the spathe, deformed spathes, and, with age,  bronzing of injured tissue (Figure 1c).  In severe cases, mature anthurium spathes fail to open, reduced plant growth may occur, and the foliage may be affected by deformity, bronzing and streaking.  Damage by banana rust thrips to certain anthurium cultivars, such as ‘Kalapana’ and ‘Ozaki’, may appear as curly-cues rather than streaks.
+On banana, feeding damage is observed on the pseudostem, but it is the injury to the fruit that significantly affects marketability (Figure 2).  Thrips feeding in leaf sheaths results in characteristic dark, V-shaped marks to the outer surface of leaf petioles.  Damaged tissue becomes bronze or rust-colored with age.  Feeding damage to the fruit occurs on fingers soon after flower petals dry, typified initially by a water-soaked appearance.  Young fruits may exhibit dark, smoky-colored random squiggles or curly-cue feeding tracks on the surface.  On mature fruit, oval-shaped, reddish “stains” may be seen where the fingers touch.  Extensive damage may cover more of the fruit surface with reddish-brown or black discoloration and superficial cracks. Though unmarketable, such fruits are still edible.
+Figure 1.Feeding damage by banana rust thrips on ti and anthurium. a) streaks and curly-cue markings on opened ti leaf. b) deformed leaf whorls on red ti that failed to unfurl; c) deformed anthurium spathe. [Photos: A.H. Hara]
+Figure 2. Damage to banana fruit by banana rust thrips [
+Text Len: 1581
+--------------------------------------------------------------------------------
+.Feeding damage by banana rust thrips on ti and anthurium. a) streaks and curly-cue markings on opened ti leaf. b) deformed leaf whorls on red ti that failed to unfurl; c) deformed anthurium spathe. [Photos: A.H. Hara]
+Figure 2. Damage to banana fruit by banana rust thrips [Photo: A. H. Hara]
+BIOLOGY
+Adult banana rust thrips reproduce sexually.   The entire life cycle (egg to adult, Figure 3) of banana rust thrips is completed in approximately 28 days but may take up to 3 months during the cooler season. 
+  Figure 3. Life cycle of the banana rust thrips. [Insect drawings from D. Schulz ~1950]
+  EGGS
+After mating, females lay kidney-shaped eggs that are invisible to the naked eye by depositing them in plant tissue where the thrips feed.  Eggs hatch into nymphs in 6 to 9 days.
+NYMPHS
+The newly hatched yellow nymphs feed for a few days before molting into the second nymphal stage, which is yellow or orange and feeds for a few more days. After 8 to 10 days, mature nymphs migrate off the host plant into soil or growth medium below and molt into prepupae.
+PREPUAE AND PUPAE
+Prepupae look similar to nymphs but have wing pads.  After 2 to 5 days, prepupae enter the pupal stage, which has longer wing pads.   Both stages remain in the soil, medium or debris beneath the host plant and are capable of crawling but do not feed.
+ADULTS
+In 6 to 10 days, the adult emerges from the pupal cell and may remain beneath the surface for up to 24 hours before making its way up to reinfest the host plant.
+Adult female banana rust
+Text Len: 1528
+--------------------------------------------------------------------------------
+ stage, which has longer wing pads.   Both stages remain in the soil, medium or debris beneath the host plant and are capable of crawling but do not feed.
+ADULTS
+In 6 to 10 days, the adult emerges from the pupal cell and may remain beneath the surface for up to 24 hours before making its way up to reinfest the host plant.
+Adult female banana rust thrips are slender, creamy yellow to golden brown, and 1/16 to 1/25 inch (about the thickness of a dime) (Figure 4).  Their wings have dark eye-like spots at the base and are fringed; when the wings are folded, the adult appears to have a black line down its back.
+Figure 4. Adult banana rust thrips [Photo: C.A. O'Donnell, UC Davis]
+BEHAVIOR
+Higher temperature and  humidity and new growth of host plants appear to be favorable to thrips’ feeding and breeding, leading to heavier infestations and damage during the summer months.  Thrips prefer to feed on young, growing plant tissue, such as areas of bud development, or in anthurium, the base of the plant where the spathes develop.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Biological
+In Hawai`i, anthocorid bugs (Orius tristicolor, O. persequens, and O. insidiosus) are general thrips predators, but the extent of their effectiveness against banana rust thrips is not known.  Some lacewings, ladybird beetles, and predacious mites may also exert some control on nymph and adult thrips, while ants may prey on prepupae and pupae in the soil, medium or surface debris near the base of the host plant.  Several fungi, including Paecilomyces spp. and Verticillium lecanii, have been isolated
+Text Len: 1581
+--------------------------------------------------------------------------------
+ Some lacewings, ladybird beetles, and predacious mites may also exert some control on nymph and adult thrips, while ants may prey on prepupae and pupae in the soil, medium or surface debris near the base of the host plant.  Several fungi, including Paecilomyces spp. and Verticillium lecanii, have been isolated from other thrips species and may infect banana rust thrips as well.
+Cultural
+Remove infested flowers and foliage from the field or shadehouse to eliminate sources of thrips.  Discard old stock plants that may harbor thrips, and obtain thrips-free propagative material for restocking.
+There are no reports of resistant or susceptible anthurium cultivars, although injury is more noticeable on pastel shaded cultivars such as ‘Marian Seefurth’.
+In banana plantings, covering bunches with polyethylene bags during fruit development provides a physical barrier to insect infestations; but bags cannot fully protect the fruit when a thrips infestation is heavy.
+Biorational
+A hot water dip at 120o F (49o C) for 10 minutes before planting can disinfest anthurium propagative material of banana rust thrips.  Banana, dracaena, ti and anthurium have all shown potential for heat treatment, although cultivar sensitivity has been observed to vary with season.  Tests indicated that some anthurium cultivars tolerate hot water treatment as top cuttings with leaves, including: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara, while ‘Ozaki’ cultivar cannot tolerate hot water dip except as whole stem pieces (gobo).  The dracaena cultivar ‘Janet Craig’ was also tolerant of hot-water treatment.  Due to variations among cultivars and growing
+Text Len: 1643
+--------------------------------------------------------------------------------
+: ‘White Lady’, ‘Blushing Bride’, and ‘Kozohara, while ‘Ozaki’ cultivar cannot tolerate hot water dip except as whole stem pieces (gobo).  The dracaena cultivar ‘Janet Craig’ was also tolerant of hot-water treatment.  Due to variations among cultivars and growing conditions, small-scale phytotoxicity tests should be conducted before a large amount of propagative material is hot-water treated.
+CHEMICAL CONTROL
+Because pesticide registrations may change, consult a chemical sales representative, the Hawaii Department of Agriculture, or the CTAHR Cooperative Extension Service for information on insecticides currently approved for use against thrips in a particular crop.
+Remove infested flowers and foliage from the field or shadehouse to allow increased insecticide penetration and coverage.  Growers have reported that banana rust thrips tends to be more difficult to control than anthurium thrips, possibly due to the former’s pesticide tolerance and greater reproductive capacity.   Growers are advised to consider insect development of pesticide resistance in devising their integrated pest management practices.
+Generally, thrips populations increase during the summer and decrease during the winter due to fluctuations in temperature and rainfall.  Consequently, repeated spray applications may be needed only from May through August.  Foliar sprays are usually applied two to three times at 2-week intervals for moderate to severe thrips infestations. Since thrips prefer young, growing plant tissue, direct insecticide sprays to the area of bud development, or in anthurium, to the base of the plant where the spathes develop.  Use caution when applying insecticides on anthurium, becauses phytotoxicity varies among cultivars and is more likely to occur under hot, dry growing conditions.  When thrips injury is sutained during the bud stage, injured flowers will be harvested
+Text Len: 1890
+--------------------------------------------------------------------------------
+ to the area of bud development, or in anthurium, to the base of the plant where the spathes develop.  Use caution when applying insecticides on anthurium, becauses phytotoxicity varies among cultivars and is more likely to occur under hot, dry growing conditions.  When thrips injury is sutained during the bud stage, injured flowers will be harvested for at least one month following application of an effective insecticide.
+In banana, spraying the immature bunches and the surrounding soil can significantly reduce thrips damage to the fruit; when bagging bunches, spray just before bagging.  A contact granular insecticide applied in a 30-inch radius around each banana plant is effective against the prepupal and pupal stages of banana rust thrips that inhabit the soil.  No granular insecticide is currently registered for use on anthuriums.
+FOLLOW SAFETY PRECAUTIONS GIVEN ON MANUFACTURERS’ LABELS.)
+PRECAUTIONARY STATEMENT
+Consult a chemical sales representative, the Hawaii Department of Agriculture, or the University of Hawaii Cooperative Extension Service for correct formulation of insecticides, more information, or updated recommendations. The user is responsible for the proper use, application, storage, and disposal of pesticides.
+DISCLAIMER
+Reference to a product does not imply approval or recommendation by the College of Tropical Agriculture and Human Resources, Cooperative Extension Service, University of Hawaii, or the United States Department of Agriculture and does not imply its approval to the exclusion of other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI
+Text Len: 1915
+--------------------------------------------------------------------------------
+ other products that may be suitable. All materials should be used in accordance with label instructions.
+This information is the culmination of a series of interviews with researchers, extension agents, chemical sales representatives, and growers in Hawaii and a worldwide literature search.
+FOR QUESTIONS OR COMMENTS PLEASE CONTACT:
+Arnold Hara: 461 West Lanikaula St. Hilo, HI 96720, Ph: (808) 974-4105 Fax: (808) 974-4110 E-mail: arnold@hawaii.edu
+REFERENCES
+Caldwell, N.E.H.  1938. The Control of Banana Rust Thrips. Department of Agriculture and Stock. Division of Plant Industry (Research), Bulletin #16, December 1938.
+Denmark, H.A. and L.S. Osborne. 1985.  Chaetanaphothrips signipennis (Bagnall) in Florida (Thysanoptera: Thripidae). Ento. Circular No. 274, Sept. 1985, Florida Department of Agriculture and ConsuemrService, Division of Plant Industry.
+Jacot-Guillarmod, C.F. 1974.  Catalogue of Thysanoptera of the world (Part 3). Annals of the Cape Provincial Museums – Natural History 7(3): 517-976.
+Lewis, T. (Ed.)  1997. Thrips as Crop Pests.  Institute of Arable Crop Research, Rothamsted, Harpenden, Hertfordshire, CABI Publishing, UK.
+Pinese, B. 1987.  Soil and bunch applications of insecticides for control of the banana rust thrips. Queensland Journal of Agricultural and Animal Sciences 44(2):107-111.
+Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite
+Text Len: 1377
+--------------------------------------------------------------------------------
+, Rothamsted, Harpenden, Hertfordshire, CABI Publishing, UK.
+Pinese, B. 1987.  Soil and bunch applications of insecticides for control of the banana rust thrips. Queensland Journal of Agricultural and Animal Sciences 44(2):107-111.
+Pinese, B. and R. Piper. 1994. Bananas. Insect & Mite Management. Queensland Department of Primary Industries. 67 pp.
+Pinese, B. and R. Elder.  2000.  DPI Notes – Pest of Plants – Bananas – Banana Rust Thrips in Bananas. Department of Primary Industries,  Queensland Horticulture Institute.  5 pp.  http://www.dpi.qld.gov.au/horticulture/5528.html
+Sakimura, K.  1975.  Danothrips trifasciatus, new species, and collection notes on the Hawaiian species Danothrips (Thysanoptera: Thripidae). Proc. Hawaiian Entomol. Soc. 22:125-132.
+Schulz, D. ca. 1950. University of Illinois at Urbana-Champaign, Department of Entomology. <http://www.life.uiui.edu/Entomology/insectgifs/thysanoptera_grey.gif>
+Stover, R.H. and N.W. Simmons. 1987.  Bananas (3rd Ed.).  Longman Scientific and Technical, Harlow, UK.  468 pp.
+DEC/2002
+Adapted from the authors' CTAHR PIO publication, "Banana Rust Trhips Damage to Banana and Ornamentals in Hawaii". Insect Pests IP-10, June 2002.
+BR-THRIPS
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1261
+--------------------------------------------------------------------------------

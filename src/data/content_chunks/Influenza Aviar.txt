@@ -1,0 +1,2412 @@
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please note: This situation is evolving rapidly; this is guidance is subject to change. Check back frequently for updated 
+versions. The intended audience for this document is State Animal Health Officials, Accredited Veterinarians and 
+Producers 
+ 
+ 
+APHIS Requirements and Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in 
+Livestock For State Animal Health Officials, Accredited Veterinarians and Producers 
+May 14, 2024 
+ 
+ 
+Table of Contents 
+Scope and Definitions .................................................................................................................................... 2 
+Clinical Signs in Dairy Cattle ........................................................................................................................... 3 
+APHIS Requirements for Interstate Movement of Cattle ................................................................................... 3 
+Sample Collection and Testing for Interstate Premovement Testing of Lactating Dairy Cattle ..................... 3 
+Cattle Moved Directly to Slaughter ................................................................................................................ 4 
+Certificates of Veterinary Inspection .............................................................................................................. 4 
+APHIS Recommendations ................................................................................................................................... 4 
+Cattle Movement Recommendations ............................................................................................................ 4 
+Biosecurity ........................................................................................................................................................ 5 
+APHIS Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock for State 
+Animal Health Officials, Accredited Veterinarians and Producers ................................................................. 5 
+Disposal of Deceased Birds, Cats, and Other Small Animals…… ....................................................................... 6 
+ 
+Milk Safety ........................................................................................................................................................ 6 
+One Health: Agriculture and Public Health Coordination .................................................................................. 6 
+
+2  
+Highly Pathogenic Avian Influenza A (HPAI) H5N1 virus is an emerging disease in cattle. Federal and State 
+agencies
+Text Len: 2640
+--------------------------------------------------------------------------------
+ Birds, Cats, and Other Small Animals…… ....................................................................... 6 
+ 
+Milk Safety ........................................................................................................................................................ 6 
+One Health: Agriculture and Public Health Coordination .................................................................................. 6 
+
+2  
+Highly Pathogenic Avian Influenza A (HPAI) H5N1 virus is an emerging disease in cattle. Federal and State 
+agencies are moving quickly to conduct additional testing for HPAI (H5N1) virus, including viral genome 
+sequencing to provide a better understanding of the situation to characterize the HPAI (H5N1) virus strain 
+or strains associated with these detections as well as other components of this disease event at the 
+connection between animals, people, and the environment. The genetic and epidemiological data indicate 
+spillover of the virus from wild birds to dairy cows and some instances of spread from dairy to dairy and 
+from dairy premises to poultry premises. Based on this analysis, we have learned that the whole genome 
+sequence for virus found in positive herds in 8 states and on two recent commercial poultry premises in 
+two different states indicates it is the same strain affecting both dairy cattle and poultry. While it is still 
+unclear exactly how virus is spreading, the virus is shed in milk at high concentrations; therefore, anything 
+that comes in contact with unpasteurized raw milk, spilled milk, etc. may spread the virus including other 
+animals, vehicles, and other objects or materials. Therefore, both dairy and poultry producers should re- 
+double biosecurity efforts and be vigilant about monitoring for and controlling disease in their herds and 
+flocks. 
+Additionally, in order to continue to monitor and understand the extent of this virus and reduce the risk of 
+further spread of HPAI H5N1, resulting in greater threats to poultry and livestock, APHIS issued a
+Text Len: 2037
+--------------------------------------------------------------------------------
+ producers should re- 
+double biosecurity efforts and be vigilant about monitoring for and controlling disease in their herds and 
+flocks. 
+Additionally, in order to continue to monitor and understand the extent of this virus and reduce the risk of 
+further spread of HPAI H5N1, resulting in greater threats to poultry and livestock, APHIS issued a Federal  
+Order on April 24, 2024 that requires premovement testing for lactating dairy cattle moving interstate and 
+reporting of positive test results from all laboratories and State Animal Health Officials (SAHO). This 
+document outlines both the interstate movement requirements, as well as APHIS recommendations to 
+limit the spread. Updated laboratory guidance, including details on required reporting, are located on the 
+APHIS website. 
+ 
+Our goal is to safeguard the health of U.S. livestock and poultry, protect the industry, keep our food supply 
+safe, and protect public health and human safety based on the most up-to-date information we have. We 
+continue to work diligently to understand the risk factors associated with this virus, transmission routes, 
+and pathogenicity in cattle. This continues to be a rapidly evolving situation. USDA and Federal and State 
+partners will continue to share additional updates as soon as information becomes available. 
+ 
+Scope and Deﬁnitions 
+Per the Federal Order, these steps are immediately required for lactating dairy cattle. Any requirements for 
+other classes of dairy cattle, or expansion beyond dairy cattle, will be based on scientific factors concerning 
+the virus and its evolving risk profile. 
+Definitions used in this document: 
+• Cattle – The requirements outlined within this guidance apply to the movement of members of the 
+Family: Bovidae; Subfamily: bovinae; Genus: Bos; Species: Bos taurus and
+Text Len: 1817
+--------------------------------------------------------------------------------
+, or expansion beyond dairy cattle, will be based on scientific factors concerning 
+the virus and its evolving risk profile. 
+Definitions used in this document: 
+• Cattle – The requirements outlined within this guidance apply to the movement of members of the 
+Family: Bovidae; Subfamily: bovinae; Genus: Bos; Species: Bos taurus and Bos indicus. 
+• Lactating – The requirements outlined within this guidance apply to the movement of dairy cows 
+currently in one of the lactation phases (i.e., early, mid, and late) of their current production cycle. 
+• Dairy – The requirements outlined within this guidance apply to the movement of lactating cattle 
+breeds raised for the primary purpose of milk production. 
+• Nonlactating – Nonlactating cattle include: heifers, dry cows, and bull calves. 
+• Affected herd – Any dairy cattle herd with suspect, presumptive, or confirmed positive cattle cases 
+present as defined in the case definition, or exposed cattle present. 
+• Exposed cattle – Any cattle that have been on the same premises as an affected herd within the 
+3  
+last 30 days (which is roughly equivalent to two incubation periods of influenza in other species; 
+we currently have studies underway in cattle to better determine) and/or are epidemiologically 
+connected. 
+• Herd – Any group of one or more animals maintained on common ground 
+ 
+Clinical Signs in Dairy Cattle 
+See the case definition for a complete description. Briefly, dairy cattle may experience a sudden drop in 
+feed intake; a marked drop in herd level milk production with some more severely affected cows having 
+thickened milk or may have essentially no milk; subsequent acute drop in milk production; and respiratory 
+signs including clear nasal discharge. 
+
+Text Len: 1740
+--------------------------------------------------------------------------------
+ Signs in Dairy Cattle 
+See the case definition for a complete description. Briefly, dairy cattle may experience a sudden drop in 
+feed intake; a marked drop in herd level milk production with some more severely affected cows having 
+thickened milk or may have essentially no milk; subsequent acute drop in milk production; and respiratory 
+signs including clear nasal discharge. 
+ 
+A
+PHIS Requirements for Interstate Movement of Cattle 
+Interstate movements of lactating dairy cattle must follow the Federal requirements outlined below. 
+Additionally, state-specific guidance for moving cattle must be followed. Clinical lactating dairy cattle are 
+ineligible for interstate movement or movement to slaughter. 
+Nonlactating dairy cattle – including heifers, dry cows, and bull calves – are not currently subject to testing 
+for interstate movement due to their risk profile. 
+Prior to interstate movement, lactating dairy cattle are required to receive a negative test for Influenza A 
+virus at an approved National Animal Health Laboratory Network (NAHLN) laboratory using an NAHLN 
+approved assay. 
+ 
+Sample Collection and Testing for Interstate Premovement Testing of Lactating Dairy Cattle 
+• Samples are to be collected by an accredited veterinarian, or a state licensed veterinarian, or a 
+sample collector approved by the appropriate state animal health official. Designated individuals 
+on production sites can be trained to collect milk samples and nasal swab samples for diagnostic 
+testing. 
+• Samples must be collected under the supervision of a licensed or accredited veterinarian or as 
+determined by the respective State Animal Health Official. 
+• Milk samples: Samples to be collected include milk/udder secretions from individual cows. Each 
+quarter is sampled and combined into one sample for submission to the laboratory. Submissions 
+must be between 3-10 ml of milk per animal. 
+Text Len: 1899
+--------------------------------------------------------------------------------
+ be collected under the supervision of a licensed or accredited veterinarian or as 
+determined by the respective State Animal Health Official. 
+• Milk samples: Samples to be collected include milk/udder secretions from individual cows. Each 
+quarter is sampled and combined into one sample for submission to the laboratory. Submissions 
+must be between 3-10 ml of milk per animal. 
+o Pooling of milk samples can be done only at the laboratory. 
+• For groups/lots of 30 or fewer animals moving interstate, all animals being moved must be tested. 
+If more than 30 animals are moving interstate, then only 30 animals total must be tested. 
+• Sample collection and testing must take place no more than seven (7) days prior to interstate 
+movement. 
+• Samples for interstate premovement testing need to be submitted to an approved National Animal 
+Health Laboratory Network (NAHLN) Laboratory for testing. NAHLN laboratories will conduct 
+NAHLN-approved PCR testing: FluA matrix, H5 and optionally 2.3.4.4b. Please see HPAI Livestock 
+Testing Recommendations f or details.  
+4  
+• APHIS will reimburse for all interstate premovement testing at NAHLN laboratories; therefore, this 
+testing at NAHLN laboratories will be completed at no cost to the producer/submitter. 
+• At this time, APHIS is not reimbursing for sample collection or shipping. 
+ 
+For Cattle with Positive HPAI Test Results 
+• Lactating dairy cattle from herds which have tested positive for Influenza A are not eligible for 
+interstate movement for thirty (30) days from the most recent collection of any sample that tests 
+positive from any individual animal in the herd. After the 30-day period, animals must be tested 
+Text Len: 1683
+--------------------------------------------------------------------------------
+ 
+ 
+For Cattle with Positive HPAI Test Results 
+• Lactating dairy cattle from herds which have tested positive for Influenza A are not eligible for 
+interstate movement for thirty (30) days from the most recent collection of any sample that tests 
+positive from any individual animal in the herd. After the 30-day period, animals must be tested 
+again for movement. 
+• If there are specific circumstances for isolating test-positive cattle and moving to another premises 
+across state lines, this would need to be discussed and agreed upon with the respective State 
+Animal Health Officials and APHIS. 
+ 
+Cattle Moved Directly to Slaughter 
+• Nonclinical lactating dairy cattle moving interstate direct to slaughter are not required to have a 
+premovement test but must move on a certificate of veterinary inspection or other documentation 
+of movement approved by the sending and receiving state animal health officials and provided to 
+the sending and receiving state animal health officials. 
+• Clinical lactating dairy cattle are ineligible for interstate movement or movement to slaughter. 
+ 
+Certiﬁcates of Veterinary Inspection 
+The interstate movement of all lactating dairy cattle must be accompanied by a Certificate of Veterinary 
+Inspection (CVI) per 9 CFR Part 86, Animal Disease Traceability. The destination/receiving state(s) will 
+continue to use CVIs as a basis to track the interstate movement of lactating dairy cattle. 
+• All cattle on the CVI must have individual official identification. 
+• The individual official identification must be recorded on the CVI. 
+• The CVI must include a statement that the cattle are both free from, and have not been exposed 
+to, a known contagious and infectious disease. 
+ 
+Exhibition/Show Dairy Cattle   
+Requirements above for premovement
+Text Len: 1797
+--------------------------------------------------------------------------------
+ on the CVI must have individual official identification. 
+• The individual official identification must be recorded on the CVI. 
+• The CVI must include a statement that the cattle are both free from, and have not been exposed 
+to, a known contagious and infectious disease. 
+ 
+Exhibition/Show Dairy Cattle   
+Requirements above for premovement testing and CVIs apply to dairy cattle moving interstate to 
+exhibitions/shows. Animals moving interstate to an exhibition, show, or sale must have a negative test 
+result from samples collected within 7 days of movement. These animals may travel to their home herd 
+using the same negative test result provided the exhibition, show, or sale does not exceed 10 days of 
+length. See also Recommendations to Minimize Influenza Transmission at Dairy Cattle Livestock Exhibitions. 
+ 
+APHIS Recommendations 
+Additional detailed actions are provided later in this document, subject to updates as information is 
+gathered. 
+ 
+Cattle Movement Recommendations. In addition to the interstate movement requirements above, APHIS 
+provides the following recommendations.  
+• APHIS strongly recommends minimizing movement of cattle as much as possible, with special 
+5  
+attention to evaluating risk and factoring that risk into movement decisions. 
+• If you have any animals with clinical signs on the premises, do not move animals off the premises. 
+• All animals that move on/off a premises should be isolated for 30 days to prevent the spread of 
+disease. 
+• If cattle must be moved, we strongly encourage extreme diligence by producers, veterinarians, 
+and States to ensure only healthy cattle are moving and to ensure the validity of interstate 
+health certificates. APHIS stands ready to assist SAHOs with developing language for interstate 
+certificates of veterinary
+Text Len: 1806
+--------------------------------------------------------------------------------
+ isolated for 30 days to prevent the spread of 
+disease. 
+• If cattle must be moved, we strongly encourage extreme diligence by producers, veterinarians, 
+and States to ensure only healthy cattle are moving and to ensure the validity of interstate 
+health certificates. APHIS stands ready to assist SAHOs with developing language for interstate 
+certificates of veterinary inspection, as needed. 
+• APHIS recommends premovement testing of non-lactating cattle as well. This testing at NAHLN 
+laboratories will be completed at no cost to the producer. Additional recommendations for 
+testing can be found here. 
+• State-specific guidance for moving cattle will also need to be followed. 
+• APHIS scientists are working to establish testing protocols, rapidly assessing currently available 
+tests and test performance including sample types to better understand the characteristics; based 
+on this analysis, we may recommend testing for other classes of cattle beyond lactating dairy cows 
+in the future. 
+• SAHOs should consider adopting the federal testing and movement requirements described above 
+for intrastate movements of lactating dairy cattle to exhibitions or shows.  
+ 
+B
+iosecurity. Producers should implement enhanced biosecurity practices for keeping disease off farms and 
+controlling disease spread on the farm. The Secure Milk Supply Plan is a collaborative initiative among the dairy 
+industry, USDA, State officials and three universities. The Secure Milk Supply website offers comprehensive 
+materials on dairy biosecurity practices, including posters and information sheets in English and Spanish. 
+Additional biosecurity resources can be found at the following links below: 
+ Biosecurity - National Dairy FARM Program 
+ Biosecurity for dairy operations | TAMU 
+ Biosecurity for cattle operations
+Text Len: 1819
+--------------------------------------------------------------------------------
+
+materials on dairy biosecurity practices, including posters and information sheets in English and Spanish. 
+Additional biosecurity resources can be found at the following links below: 
+ Biosecurity - National Dairy FARM Program 
+ Biosecurity for dairy operations | TAMU 
+ Biosecurity for cattle operations | UMN Extension 
+ Farm Biosecurity - CFSPH (iastate.edu) 
+ 
+APHIS Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock for State 
+Animal Health Officials, Accredited Veterinarians and Producers:  
+• Monitoring for Sick Animals. Producers should monitor herds closely for cattle with clinical signs of 
+disease. 
+• Movement of Cattle. Movement of cattle should be minimized; movement of cattle should be 
+focused on preventing movement of disease. 
+• Vehicles, Equipment, and People on the Farm. Producers should limit the movement of vehicles and 
+visitors on and off livestock and poultry premises and establish dedicated routes for vehicles that do 
+come onto the premises. 
+• Wildlife Management. Producers should monitor and report any odd behaviors and die offs in 
+domestic and wild animals immediately. 
+• Dairy Cattle Shows. Organizers and exhibitors should practice strict biosecurity practices for 
+animals and equipment to include frequent cleaning and disinfecting all equipment, avoiding 
+contact with other animals, isolating animals and observing for illness upon return from 
+shows.  
+ 
+6  
+Disposal of Deceased Birds, Cats, and Other Small Animals  
+• Producers should wear disposable gloves when handling any carcasses of birds or animals 
+found on the farm.   
+• If
+Text Len: 1627
+--------------------------------------------------------------------------------
+ all equipment, avoiding 
+contact with other animals, isolating animals and observing for illness upon return from 
+shows.  
+ 
+6  
+Disposal of Deceased Birds, Cats, and Other Small Animals  
+• Producers should wear disposable gloves when handling any carcasses of birds or animals 
+found on the farm.   
+• If there has been any potential human or animal exposure to rabies, contact your local health 
+department for instructions; any cats that demonstrate neurologic signs should be submitted 
+to the local public health laboratory for rabies testing.   
+• Producers should work with their veterinarian to submit dead birds and cats to a NAHLN 
+laboratory for influenza testing.   
+• If dead cats cannot be submitted for rabies or influenza testing, thoroughly spray carcass with 
+Virkon or equivalent disinfectant, double-bag and dispose in accordance with local and State 
+laws. See AVMA guidelines or consult a veterinarian for animal carcass disposal practices.  
+ 
+Milk Safety. The Food and Drug Administration (FDA) recommends special attention to raw milk safety and 
+handling practices for discarded milk. Additional resources available at Questions and Answers Regarding  
+Milk Safety During Highly Pathogenic Avian Influenza (HPAI) Outbreaks | FDA. 
+• Safety of Feeding Waste or Discarded Milk to Animals. The FDA recommends producers discard milk 
+from symptomatic cows. Young calves are susceptible to disease and disease-causing pathogens can 
+be transmitted through raw milk. If milk from cows showing symptoms of illness, including those 
+infected with HPAI A (H5N1), cannot be discarded and is intended to be used to feed calves (or other 
+animals, such as farm cats), the FDA strongly encourages that it be heat treated to kill
+Text Len: 1744
+--------------------------------------------------------------------------------
+ susceptible to disease and disease-causing pathogens can 
+be transmitted through raw milk. If milk from cows showing symptoms of illness, including those 
+infected with HPAI A (H5N1), cannot be discarded and is intended to be used to feed calves (or other 
+animals, such as farm cats), the FDA strongly encourages that it be heat treated to kill harmful 
+bacteria or viruses, such as influenza, before calf feeding. This heat treatment should be similar to 
+times and temperatures commonly found in commercial milk pasteurization processing. 
+• Safety of Unpasteurized Milk and Dairy Products for Human Consumption. Raw milk and raw milk 
+dairy products should not be sold or distributed for human consumption. 
+• Disposal of Discarded Milk. Disposal of milk should be handled in such a way as to prevent exposure 
+to other animals. The FDA recommends producers take precautions when discarding milk from 
+affected cows so that the discarded milk does not become a source of further spread. Producers 
+should consult with their state regulatory authorities for specific recommendations or requirements, 
+however, such precautions could include heat-treatment or pasteurization of discarded milk prior to 
+dumping in lagoons or application of waste solids and ensuring biosecurity around lagoons (e.g., 
+ensuring that animals and birds do not have access to lagoons). 
+• Segregation of Milk from Infected Lactating Cows: Maximal care should be taken to segregate 
+lactating cows known to be actively infected with H5N1 so their milk does not enter the food supply, 
+consistent with the Pasteurized Milk Ordinance. 
+One Health: Agriculture and Public Health Collaboration. Monitoring farmers and farm workers with 
+exposure to infected cattle is important to human and animal health. APHIS will continue to
+Text Len: 1805
+--------------------------------------------------------------------------------
+ to segregate 
+lactating cows known to be actively infected with H5N1 so their milk does not enter the food supply, 
+consistent with the Pasteurized Milk Ordinance. 
+One Health: Agriculture and Public Health Collaboration. Monitoring farmers and farm workers with 
+exposure to infected cattle is important to human and animal health. APHIS will continue to share 
+information from their investigations as they coordinate with CDC, as has been standard procedure with 
+influenza in poultry and swine. The Centers for Disease Control and Prevention (CDC) is working with state 
+and local health departments to continue to monitor workers who may have been in contact with infected 
+or potentially infected animals and test those people who develop symptoms. 
+ 
+People exposed to HPAI A (H5N1)-infected cattle, birds, or other animals (including people wearing 
+recommended PPE) should be monitored daily for signs and symptoms of acute respiratory illness 
+7  
+beginning after their first exposure and for 10 days after their last exposure. Farms with HPAI-positive 
+herds should implement farm-administered daily active monitoring using a simple symptom survey, that 
+CDC provides to state and local public health agencies and that can also be made available directly to 
+farmers. 
+On a daily basis, farms should share the aggregate number of staff who may have been exposed to 
+infected cattle or other animals and are now being monitored for symptoms to a local public health 
+department to a local public health department to maintain awareness of possible spillover infection. 
+ 
+Symptomatic persons should be referred to local public health for prompt medical evaluation, testing, and 
+treatment, such as initiation of antiviral treatment with oseltamivir (Tamiflu) as soon as possible. 
+Additional information related to public health monitoring and
+Text Len: 1854
+--------------------------------------------------------------------------------
+ 
+department to a local public health department to maintain awareness of possible spillover infection. 
+ 
+Symptomatic persons should be referred to local public health for prompt medical evaluation, testing, and 
+treatment, such as initiation of antiviral treatment with oseltamivir (Tamiflu) as soon as possible. 
+Additional information related to public health monitoring and preventing exposures to H5N1 are available 
+on CDC’s website. 
+People should take steps to reduce the risk of infection with avian influenza A viruses associated with 
+working with animals or materials like raw milk. Farms should follow CDC’s guidance for workers, including 
+the use of personal protective equipment to minimize the risk of on farm HPAI transmission. These 
+recommendations and additional information can be found at the links below: 
+ Recommendations for Worker Protection and Use of Personal Protective Equipment (PPE) to  
+Reduce Exposure to Novel Influenza A Viruses Associated with Severe Disease in Humans | Avian  
+Influenza (Flu) (cdc.gov) 
+ Prevention and Antiviral Treatment of Bird Flu Viruses in People | Avian Influenza (Flu) (cdc.gov) 
+ 
+Producers with positive herds are encouraged to collaborate with local and state public health agencies, 
+for example, permitting public health access conduct on-farm activities. Human and animal health experts 
+have a pressing need to better understand the spread of H5N1 and how the virus manifests and might 
+impact both animal and human health. There is no substitute for capturing real-time information from 
+farmers and farmworkers who are or have experienced symptoms through surveys and monitoring of key 
+health indicators. Willing producers and farmworkers should contact their local public health agency. 
+1  
+ 
+Text Len: 1772
+--------------------------------------------------------------------------------
+ understand the spread of H5N1 and how the virus manifests and might 
+impact both animal and human health. There is no substitute for capturing real-time information from 
+farmers and farmworkers who are or have experienced symptoms through surveys and monitoring of key 
+health indicators. Willing producers and farmworkers should contact their local public health agency. 
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Por favor, tenga en cuenta lo siguiente: esta situación evoluciona rápidamente, por lo que esta guía está sujeta a 
+cambios. Consulte con frecuencia las versiones actualizadas. La audiencia a la que va dirigida  este documento son los 
+funcionarios estatales de sanidad animal, los veterinarios acreditados y los productores  
+ 
+ 
+Requisitos y recomendaciones del Servicio de Inspección Sanitaria de Animales y Plantas (APHIS, por sus 
+siglas en inglés) para el virus H5N1 de la influenza aviar altamente patógena (HPAI, por sus siglas en inglés) 
+en el ganado, para funcionarios estatales de sanidad animal, veterinarios acreditados y productores 
+26 de abril de 2024 
+ 
+ 
+Índice 
+Alcance y definiciones ................................................................................................................................... 2 
+Signos clínicos en el ganado vacuno lechero ................................................................................................ 3 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno….……………………………………………………… 3 
+Recogida y
+Text Len: 1485
+--------------------------------------------------------------------------------
+
+ 
+ 
+Índice 
+Alcance y definiciones ................................................................................................................................... 2 
+Signos clínicos en el ganado vacuno lechero ................................................................................................ 3 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno….……………………………………………………… 3 
+Recogida y análisis de muestras para las pruebas previas al traslado interestatal de ganado vacuno 
+lechero en lactancia ...................................................................................................................................... 3 
+Ganado vacuno trasladado directamente al matadero ................................................................................ 4 
+Certificados de inspección veterinaria .......................................................................................................... 4 
+Recomendaciones del APHIS………………………………………………………………………………………………………………………. 4 
+Recomendaciones para el transporte de ganado vacuno  ............................................................................ 4 
+Bioseguridad………………………………………………………………………………………………………………………………………………. 5 
+Recomendaciones del APHIS para el virus H5N1 de la influenza aviar altamente patógena (HPAI) en el 
+ganado para funcionarios estatales de sanidad animal, veterinarios acreditados y productores…………….. 5 
+Seguridad de la leche………………………………………………………………………………………………………………………………….. 5 
+One Health: coordinación entre agricultura y salud pública…..……………………………………………………………………. 6 
+
+2  
+El virus H5N1 de la influenza aviar altamente patógena A (HPAI, por sus siglas en inglés) es una 
+enfermedad emergente en el ganado vacuno. Las agencias federales y estatales
+Text Len: 1780
+--------------------------------------------------------------------------------
+lica…..……………………………………………………………………. 6 
+
+2  
+El virus H5N1 de la influenza aviar altamente patógena A (HPAI, por sus siglas en inglés) es una 
+enfermedad emergente en el ganado vacuno. Las agencias federales y estatales están actuando 
+rápidamente para llevar a cabo pruebas adicionales para el virus HPAI (H5N1), incluyendo la secuenciación 
+del genoma viral para proporcionar una mejor comprensión de la situación para caracterizar la cepa o 
+cepas del virus HPAI (H5N1) asociadas con estas detecciones, así como otros componentes de este evento 
+de enfermedad en la conexión entre los animales, las personas y el medio ambiente. Los datos genéticos y 
+epidemiológicos indican la propagación del virus de las aves silvestres a las vacas lecheras y algunos casos 
+de propagación de lechería a lechería y de instalaciones lecheras a instalaciones avícolas. Basándonos en 
+este análisis, hemos comprobado que la secuencia del genoma completo del virus encontrado en rebaños 
+con resultados positivos en 8 estados y en dos instalaciones avícolas comerciales recientes en dos estados 
+diferentes, indica que se trata de la misma
+Text Len: 1123
+--------------------------------------------------------------------------------
+lisis, hemos comprobado que la secuencia del genoma completo del virus encontrado en rebaños 
+con resultados positivos en 8 estados y en dos instalaciones avícolas comerciales recientes en dos estados 
+diferentes, indica que se trata de la misma cepa que afecta tanto al ganado vacuno lechero como a las 
+aves de corral. Aunque todavía no está claro cómo se propaga exactamente, el virus se desprende en la 
+leche en altas concentraciones; por tanto, cualquier cosa que entre en contacto con leche cruda no 
+pasteurizada, leche derramada, etc. puede propagar el virus, incluidos otros animales, vehículos y otros 
+objetos o materiales. Por lo tanto, tanto los productores lácteos como los avícolas deben redoblar los 
+esfuerzos de bioseguridad y estar atentos al monitoreo y control de las enfermedades en sus rebaños y 
+bandadas. 
+Además, con el fin de continuar monitoreando y entendiendo el alcance de este virus y reducir el riesgo de 
+una mayor propagación del virus H5N1 de la HPAI, lo que resultaría en mayores amenazas para las aves de 
+corral y el ganado, el APHIS emitió una orden federal  el 24 de abril de 2024 que requiere pruebas previas
+Text Len: 1151
+--------------------------------------------------------------------------------
+cir el riesgo de 
+una mayor propagación del virus H5N1 de la HPAI, lo que resultaría en mayores amenazas para las aves de 
+corral y el ganado, el APHIS emitió una orden federal  el 24 de abril de 2024 que requiere pruebas previas 
+al traslado para el ganado vacuno lechero lactante que se mueve interestatalmente y reportar los 
+resultados positivos de las pruebas de todos los laboratorios y de los Funcionarios Estatales de Sanidad 
+Animal (SAHO, por sus siglas en inglés). En este documento se describen tanto los requisitos para el 
+traslado interestatal como las recomendaciones del APHIS para limitar la propagación. Encontrará guías 
+actualizadas para los laboratorios, incluyendo detalles sobre los informes requeridos, en la página web del 
+APHIS. 
+ 
+Nuestra meta es salvaguardar la salud del ganado y las aves de corral de los Estados Unidos, proteger la 
+industria, mantener seguro nuestro suministro de alimentos y proteger la salud pública y la seguridad 
+humana basándonos en la información más actualizada que tenemos. Seguimos trabajando con diligencia 
+para comprender los factores de riesgo asociados a este virus, las vías de transmisión y la patogenicidad en 
+el g
+Text Len: 1184
+--------------------------------------------------------------------------------
+a y la seguridad 
+humana basándonos en la información más actualizada que tenemos. Seguimos trabajando con diligencia 
+para comprender los factores de riesgo asociados a este virus, las vías de transmisión y la patogenicidad en 
+el ganado vacuno. La situación sigue evolucionando rápidamente. El Departamento de Agricultura de los 
+Estados Unidos (USDA, por sus siglas en inglés) y los colaboradores federales y estatales seguirán 
+compartiendo actualizaciones adicionales tan pronto como se disponga de información. 
+ 
+Alcance y definiciones 
+ 
+Según la orden federal, estas medidas se exigen inmediatamente para el ganado vacuno lechero lactante. 
+Cualquier requisito para otras clases de ganado vacuno lechero, o la expansión más allá del ganado vacuno 
+lechero, se basará en factores científicos relativos al virus y su perfil de riesgo en evolución. 
+Definiciones utilizadas en este documento: 
+• Ganado vacuno - Los requisitos descritos en esta guía se aplican al traslado de los miembros de la 
+familia: Bovidae; subfamilia: bovinae; género: Bos; especie: Bos taurus y Bos indicus. 
+• Lactante - Los requis
+Text Len: 1113
+--------------------------------------------------------------------------------
+ado vacuno - Los requisitos descritos en esta guía se aplican al traslado de los miembros de la 
+familia: Bovidae; subfamilia: bovinae; género: Bos; especie: Bos taurus y Bos indicus. 
+• Lactante - Los requisitos descritos en esta guía se aplican al traslado de vacas lecheras que se 
+3  
+encuentran actualmente en una de las fases de lactancia (es decir, temprana, media y tardía) de 
+su ciclo de producción vigente. 
+• Lechero - Los requisitos descritos en esta guía se aplican al traslado de razas de ganado vacuno 
+lactante criadas con el objetivo principal de la producción de leche. 
+• No lactantes - El ganado vacuno no lactante incluye: novillas, vacas secas y terneros. 
+• Rebaño afectado - Cualquier rebaño de ganado vacuno lechero con casos sospechosos, presuntos 
+o positivos confirmados presentes, según la definición de caso, o de ganado vacuno expuesto 
+presente. 
+• Ganado vacuno expuesto - Cualquier ganado vacuno que haya estado en las mismas instalaciones 
+que un rebaño afectado dentro de los  últimos 30 días (lo que equivale aprox
+Text Len: 1052
+--------------------------------------------------------------------------------
+anado vacuno expuesto 
+presente. 
+• Ganado vacuno expuesto - Cualquier ganado vacuno que haya estado en las mismas instalaciones 
+que un rebaño afectado dentro de los  últimos 30 días (lo que equivale aproximadamente a dos 
+periodos de incubación de la influenza en otras especies; actualmente tenemos estudios en curso 
+en ganado vacuno para determinarlo mejor) y/o que estén relacionados epidemiológicamente. 
+• Rebaño - Cualquier grupo de uno o más animales mantenidos en terreno común. 
+ 
+Signos clínicos en el ganado vacuno lechero 
+Consulte la definición de caso para obtener una descripción completa. Brevemente, el ganado vacuno 
+lechero puede experimentar una caída repentina en la ingesta de alimento; una caída marcada en la 
+producción de leche a nivel del rebaño, con algunas vacas más gravemente afectadas con leche espesa o 
+que esencialmente no tienen leche; una caída aguda subsiguiente en la producción de leche; y signos 
+respiratorios que incluyen una secreción nasal clara. 
+ Definición de caso vigente - HPAI H5N1 clado 2.3.4.4b en
+Text Len: 1053
+--------------------------------------------------------------------------------
+e no tienen leche; una caída aguda subsiguiente en la producción de leche; y signos 
+respiratorios que incluyen una secreción nasal clara. 
+ Definición de caso vigente - HPAI H5N1 clado 2.3.4.4b en ganado 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno 
+Los movimientos interestatales de ganado vacuno lechero en lactación deben seguir los requisitos federales 
+que se describen a continuación. Además, deben seguirse las guías específicas de cada estado para el 
+traslado de ganado vacuno. El ganado vacuno lechero en lactación en estado clínico no es elegible para el 
+traslado interestatal ni para el traslado con destino al matadero. 
+El ganado vacuno lechero no lactante --incluidas las novillas, las vacas secas y los terneros-- no está sujeto 
+actualmente a pruebas para el traslado interestatal debido a su perfil de riesgo. 
+Antes del traslado interestatal, se requiere que el ganado vacuno lechero lactante reciba una prueba 
+negativa para el virus de la influenza A en un laboratorio aprobado de la Red Nacional de Laboratorios de 
+Sanidad Animal (NAHLN, por sus siglas en inglés) u tilizando un an
+Text Len: 1130
+--------------------------------------------------------------------------------
+, se requiere que el ganado vacuno lechero lactante reciba una prueba 
+negativa para el virus de la influenza A en un laboratorio aprobado de la Red Nacional de Laboratorios de 
+Sanidad Animal (NAHLN, por sus siglas en inglés) u tilizando un análisis aprobado por la NAHLN.  
+ 
+Recogida y análisis de muestras para las pruebas previas al traslado interestatal de ganado vacuno lechero 
+en lactancia  
+• Las muestras deben ser recogidas por un veterinario acreditado, o un veterinario con licencia 
+estatal, o un recolector de muestras aprobado por el funcionario de sanidad animal estatal 
+correspondiente. Los individuos designados en los sitios de producción pueden recibir 
+adiestramiento para recoger muestras de leche y muestras de hisopos nasales para pruebas de 
+diagnóstico. 
+• Las muestras deben recogerse bajo la supervisión de un veterinario autorizado o acreditado o 
+según determine el respectivo funcionario estatal de sanidad animal. 
+4  
+• Muestras de leche: las muestras que deben recogerse incluyen leche/secreciones de la ubre de 
+vacas individuales. Cada trimestre se toma una muestra y se combina en una sola muestra para 
+enviarla al laborator
+Text Len: 1165
+--------------------------------------------------------------------------------
+4  
+• Muestras de leche: las muestras que deben recogerse incluyen leche/secreciones de la ubre de 
+vacas individuales. Cada trimestre se toma una muestra y se combina en una sola muestra para 
+enviarla al laboratorio. Los envíos deben tener entre 3 y 10 ml de leche por animal. 
+o La mezcla de muestras de leche solamente puede hacerse en el laboratorio. 
+• En el caso de grupos o lotes de 30 animales o menos que se trasladen interestatalmente, todos 
+los animales que se trasladen deberán someterse a pruebas. Si son más de 30 los animales que se 
+trasladan interestatalmente, solamente deberán someterse a pruebas 30 animales en total. 
+• La recogida de muestras y la realización de pruebas deben efectuarse como máximo siete (7) 
+días antes del traslado interestatal. 
+• Las muestras para las pruebas interestatales previas al traslado deben presentarse a un 
+laboratorio aprobado de la Red Nacional de Laboratorios de Sanidad Animal (NAHLN) para su 
+análisis. Los laboratorios de la NAHLN realizarán las pruebas PCR aprobadas por la NAHLN: Matriz 
+FluA, H5 y opcionalmente 2.3.4.4b. Por
+Text Len: 1092
+--------------------------------------------------------------------------------
+ Red Nacional de Laboratorios de Sanidad Animal (NAHLN) para su 
+análisis. Los laboratorios de la NAHLN realizarán las pruebas PCR aprobadas por la NAHLN: Matriz 
+FluA, H5 y opcionalmente 2.3.4.4b. Por favor, consulte las recomendaciones para realizar pruebas 
+en el ganado de la HPAI  para más detalles. APHIS reembolsará todas las pruebas interestatales 
+previas al traslado en los laboratorios de la NAHLN; por lo tanto, estas pruebas en los laboratorios 
+de la NAHLN se completarán sin costo alguno para el productor/presentador. 
+• Por el momento, el APHIS no reembolsa los gastos de recogida o envío de las muestras. 
+Para el ganado vacuno con resultados positivos en las pruebas de HPAI 
+• El ganado vacuno lechero lactante de los rebaños que hayan dado positivo en la prueba de la 
+influenza A no es elegible para el traslado interestatal durante treinta (30) días a partir de la 
+recogida más reciente de cualquier muestra que dé positivo de cualquier animal individual del 
+rebaño. Tras el periodo de 30 días, los animales deben volver a ser sometidos a pruebas previas 
+al traslado. 
+• Si exist
+Text Len: 1105
+--------------------------------------------------------------------------------
+ de la 
+recogida más reciente de cualquier muestra que dé positivo de cualquier animal individual del 
+rebaño. Tras el periodo de 30 días, los animales deben volver a ser sometidos a pruebas previas 
+al traslado. 
+• Si existen circunstancias específicas para aislar el ganado vacuno que dé positivo en las pruebas y 
+trasladarlo a otras instalaciones a través de las fronteras estatales, esto tendría que ser discutido y 
+acordado con los respectivos funcionarios estatales de sanidad animal y el APHIS. 
+ 
+Ganado vacuno trasladado directamente al matadero 
+• El ganado vacuno lechero lactante no clínico que se traslada interestatalmente directo al matadero 
+no está obligado a tener una prueba previa al traslado, pero debe trasladarse con un certificado de 
+inspección veterinaria u otra documentación de traslado aprobada por los funcionarios de sanidad 
+animal del estado de origen y de destino y proporcionada a los funcionarios de sanidad animal del 
+estado de origen y de destino. 
+• El ganado vacuno lechero lactante en estado clínico no es apto para el traslado interestatal ni para 
+el traslado con destino al matadero. 
+ 
+Certificados de inspección
+Text Len: 1160
+--------------------------------------------------------------------------------
+ionarios de sanidad animal del 
+estado de origen y de destino. 
+• El ganado vacuno lechero lactante en estado clínico no es apto para el traslado interestatal ni para 
+el traslado con destino al matadero. 
+ 
+Certificados de inspección veterinaria 
+El traslado interestatal de todo el ganado vacuno lechero lactante debe ir acompañado de un Certificado 
+de inspección veterinaria (CVI, por sus siglas en inglés) según la Parte 86 del Título 9 del Código de 
+Regulaciones Federales (CFR, por sus siglas en inglés), Rastreo de Enfermedades Animales. El (los) 
+estado(s) de destino/recepción seguirá(n) utilizando los CVI como base para rastrear el traslado 
+5  
+interestatal de ganado vacuno lechero lactante. 
+• Todo el ganado vacuno que aparece en el CVI debe tener una identificación oficial individual. 
+• La identificación oficial individual debe registrarse en el CVI. 
+• El CVI debe incluir una declaración de que el ganado vacuno está libre de y no ha estado 
+expuesto a una enfermedad contagiosa e infecciosa conocida. 
+Recomendaciones del APHIS  
+Más adelante en este documento se propor
+Text Len: 1094
+--------------------------------------------------------------------------------
+be incluir una declaración de que el ganado vacuno está libre de y no ha estado 
+expuesto a una enfermedad contagiosa e infecciosa conocida. 
+Recomendaciones del APHIS  
+Más adelante en este documento se proporcionan acciones adicionales detalladas, sujetas a 
+actualizaciones a medida que se reúna información. 
+ 
+Recomendaciones para el traslado de ganado vacuno. Además de los requisitos de traslado interestatal 
+arriba mencionados, el APHIS hace las siguientes recomendaciones.  
+• El APHIS recomienda encarecidamente minimizar el traslado de ganado vacuno en la medida 
+de lo posible, prestando especial atención a la evaluación del riesgo y teniendo en cuenta 
+dicho riesgo a la hora de tomar decisiones sobre los traslados. 
+• Si tiene animales con signos clínicos en las instalaciones, no los traslade fuera de ellas. 
+• Todos los animales que entren o salgan de las instalaciones deben aislarse durante 30 días 
+para evitar la propagación de enfermedades. 
+• Si es necesario trasladar ganado vacuno, recomendamos encarecidamente que los 
+productores, los veterinarios y los estados act
+Text Len: 1095
+--------------------------------------------------------------------------------
+ o salgan de las instalaciones deben aislarse durante 30 días 
+para evitar la propagación de enfermedades. 
+• Si es necesario trasladar ganado vacuno, recomendamos encarecidamente que los 
+productores, los veterinarios y los estados actúen con la máxima diligencia para garantizar que 
+solamente se traslada ganado vacuno sano y para asegurar la validez de los certificados 
+sanitarios interestatales. APHIS está listo para asistir a los SAHO en el desarrollo de lenguaje 
+para los certificados interestatales de inspección veterinaria, según sea necesario. 
+• El APHIS recomienda que también se realicen pruebas previas al traslado del ganado vacuno 
+no lactante. Estas pruebas en los laboratorios de la NAHLN se realizarán sin costo alguno para 
+el productor. Encontrará recomendaciones adicionales para las pruebas aquí. 
+• También habrá que seguir las guías específicas de cada estado para el traslado de ganado vacuno. 
+• Los científicos del APHIS están trabajando para establecer protocolos de pruebas, evaluando 
+rápidamente las pruebas disponibles en la actualidad y el rendimiento de las mismas, incluidos los 
+tipos de muest
+Text Len: 1134
+--------------------------------------------------------------------------------
+ ganado vacuno. 
+• Los científicos del APHIS están trabajando para establecer protocolos de pruebas, evaluando 
+rápidamente las pruebas disponibles en la actualidad y el rendimiento de las mismas, incluidos los 
+tipos de muestras, para comprender mejor las características; basándonos en este análisis, es 
+posible que en el futuro recomendemos la realización de pruebas para otras clases de ganado 
+vacuno, más allá de las vacas lecheras lactantes. 
+ 
+Bioseguridad. Los productores deben implementar prácticas de bioseguridad mejoradas para mantener 
+las enfermedades fuera de las granjas y controlar la propagación de enfermedades en la granja. El Plan de 
+Suministro Seguro de Leche e s una iniciativa de colaboración entre la industria lechera, el USDA, 
+funcionarios estatales y tres universidades. La página web de Suministro Seguro de Leche ofrece 
+materiales exhaustivos sobre las prácticas de bioseguridad lechera, que incluyen carteles y hojas 
+informativas en inglés y español. Encontrará más recursos sobre bioseguridad en los siguientes enlaces: 
+ Bioseguridad - Programa nacional para granjas lecheras 
+ Bioseguridad
+Text Len: 1132
+--------------------------------------------------------------------------------
+, que incluyen carteles y hojas 
+informativas en inglés y español. Encontrará más recursos sobre bioseguridad en los siguientes enlaces: 
+ Bioseguridad - Programa nacional para granjas lecheras 
+ Bioseguridad en las operaciones lecheras | TAMU 
+ Bioseguridad para operaciones de ganado vacuno | Extensión UMN 
+ Bioseguridad en las granjas - CFSPH (iastate.edu) 
+6  
+ 
+Recomendaciones del APHIS para el virus H5N1 de la influenza aviar altamente patógena (HPAI) en el 
+ganado para funcionarios estatales de sanidad animal, veterinarios acreditados y productores: 
+• Monitoreo de animales enfermos. Los productores deben vigilar de cerca los rebaños en busca de 
+ganado vacuno con signos clínicos de enfermedad. 
+• Traslado de ganado vacuno. El traslado de ganado vacuno debe reducirse al mínimo; el 
+traslado de ganado vacuno debe centrarse en prevenir el traslado de enfermedades. 
+• Vehículos, equipos y personas en la granja. Los productores deben limitar el movimiento de 
+vehículos y visitantes dentro y fuera de las instalaciones ganaderas y avícolas y establecer rutas 
+es
+Text Len: 1082
+--------------------------------------------------------------------------------
+ traslado de enfermedades. 
+• Vehículos, equipos y personas en la granja. Los productores deben limitar el movimiento de 
+vehículos y visitantes dentro y fuera de las instalaciones ganaderas y avícolas y establecer rutas 
+específicas para los vehículos que entren en las instalaciones. 
+• Manejo de la vida silvestre. Los productores deben monitorear y notificar inmediatamente 
+cualquier comportamiento extraño o muerte de animales domésticos o salvajes. 
+Seguridad de la leche. La Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés) 
+recomienda prestar especial atención a la seguridad de la leche cruda y a las prácticas de manejo de la 
+leche desechada. Recursos adicionales disponibles en Preguntas y respuestas sobre seguridad de la leche 
+durante los brotes de la Influenza aviar altamente patógena (HPAI) | FDA.  
+• Seguridad al alimentar animales con leche de desperdicio o desechada. La FDA recomienda a los 
+productores que desechen la leche de las vacas sintomáticas. Los terneros jóvenes son susceptibles 
+de contraer enfermedades y los patógenos causantes de enfermedades pueden transmitirse a través 
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+icio o desechada. La FDA recomienda a los 
+productores que desechen la leche de las vacas sintomáticas. Los terneros jóvenes son susceptibles 
+de contraer enfermedades y los patógenos causantes de enfermedades pueden transmitirse a través 
+de la leche cruda. Si la leche procedente de vacas que presentan síntomas de enfermedad, incluidas 
+las infectadas con la HPAI A (H5N1), no puede desecharse y se destina a alimentar a terneros (u otros 
+animales, como gatos de la granja), la FDA recomienda encarecidamente que se someta a un 
+tratamiento térmico para eliminar bacterias o virus nocivos, como el de la influenza, antes de 
+alimentar un ternero. Este tratamiento térmico debe ser similar a los tiempos y temperaturas 
+habituales en el proceso comercial de pasteurización de la leche. 
+• Seguridad de la leche y los productos lácteos no pasteurizados destinados al consumo humano. 
+La leche cruda y los productos lácteos a base de leche cruda no deben venderse ni distribuirse 
+para el consumo humano. 
+• Eliminación de la leche desechada. La eliminación de la leche debe realizarse de forma que se evite 
+la exposición a otros animales
+Text Len: 1140
+--------------------------------------------------------------------------------
+cteos a base de leche cruda no deben venderse ni distribuirse 
+para el consumo humano. 
+• Eliminación de la leche desechada. La eliminación de la leche debe realizarse de forma que se evite 
+la exposición a otros animales. La FDA recomienda a los productores que tomen precauciones al 
+desechar la leche de las vacas afectadas para que no se convierta en una fuente de propagación. Los 
+productores deben consultar con las autoridades reguladoras de su estado para obtener 
+recomendaciones o requisitos específicos, sin embargo, tales precauciones podrían incluir el 
+tratamiento térmico o la pasteurización de la leche desechada antes de verterla en las lagunas o la 
+aplicación de sólidos de desecho y garantizar la bioseguridad alrededor de las lagunas (por ejemplo, 
+garantizar que los animales y las aves no tengan acceso a las mismas). 
+• Segregación de la leche de vacas lactantes infectadas. Se debe tener el máximo cuidado para 
+segregar a las vacas lactantes que se sabe que están activamente infectadas con H5N1 para que su 
+leche no entre en el suministro de alimentos, de acuerdo con la Ordenanza de Leche Pasteurizada. 
+One
+Text Len: 1137
+--------------------------------------------------------------------------------
+ener el máximo cuidado para 
+segregar a las vacas lactantes que se sabe que están activamente infectadas con H5N1 para que su 
+leche no entre en el suministro de alimentos, de acuerdo con la Ordenanza de Leche Pasteurizada. 
+One Health: colaboración entre agricultura y salud pública. Monitorear a los granjeros y a los 
+trabajadores de las granjas con exposición a ganado vacuno infectado es importante para la salud humana 
+y animal. El APHIS seguirá compartiendo la información de sus investigaciones en coordinación con los 
+Centros para el Control y Prevención de Enfermedades (CDC, por sus siglas en inglés),  como ha sido el 
+7  
+procedimiento habitual con la influenza en aves de corral y cerdos. Los Centros para el Control y la 
+Prevención de Enfermedades (CDC) están trabajando con los departamentos de salud estatales y locales 
+para seguir monitoreando a los trabajadores que puedan haber estado en contacto con animales 
+infectados o potencialmente infectados y realizar pruebas a las personas que desarrollen síntomas. 
+ 
+Las personas expuestas a ganado vacuno, aves u otros animales infectados por el HPAI A (H5N1) [incluidas las 
+personas que lleven puest
+Text Len: 1172
+--------------------------------------------------------------------------------
+mente infectados y realizar pruebas a las personas que desarrollen síntomas. 
+ 
+Las personas expuestas a ganado vacuno, aves u otros animales infectados por el HPAI A (H5N1) [incluidas las 
+personas que lleven puesto el equipo de protección personal (PPE, por sus siglas en inglés) recomendado] 
+deben ser monitoreadas diariamente para detectar signos y síntomas de enfermedad respiratoria aguda a 
+partir de su primera exposición y durante 10 días después de su última exposición. Las granjas con rebaños 
+que den positivo a la HPAI deben implementar un monitoreo activo diario realizado en la granja utilizando 
+una simple encuesta de síntomas, que los CDC proporcionan a las agencias de salud pública estatales y 
+locales y que también puede estar disponible directamente para los granjeros. 
+Diariamente, las granjas deben compartir con un departamento de salud pública local el número total de 
+personal que puede haber estado expuesto a ganado vacuno u otros animales infectados y que ahora está 
+siendo monitoreado para detectar síntomas, con el fin de mantener la concienciación sobre la posible 
+propagación de la infección. 
+Text Len: 1134
+--------------------------------------------------------------------------------
+personal que puede haber estado expuesto a ganado vacuno u otros animales infectados y que ahora está 
+siendo monitoreado para detectar síntomas, con el fin de mantener la concienciación sobre la posible 
+propagación de la infección. 
+ 
+Las personas sintomáticas deben ser referidas a la salud pública local para una rápida evaluación médica, 
+pruebas y tratamiento, como el inicio del tratamiento antiviral con Oseltamivir (Tamiflu) lo antes posible. 
+Hay disponible información adicional relacionada con el monitoreo de la salud pública y la prevención de 
+exposiciones al virus H5N1 en la página web del CDC. 
+Las personas deben adoptar medidas para reducir el riesgo de infección por los virus de la influenza aviar A 
+asociados al trabajo con animales o materiales como la leche cruda. Las granjas deben seguir la guía de los 
+CDC para los trabajadores, incluyendo el uso de equipos de protección personal para minimizar el riesgo de 
+transmisión de la HPAI en la granja. Estas recomendaciones e información adicional pueden encontrarse en 
+los siguientes enlaces: 
+ Recomendaciones para la protección de los trabajadores y
+Text Len: 1129
+--------------------------------------------------------------------------------
+ minimizar el riesgo de 
+transmisión de la HPAI en la granja. Estas recomendaciones e información adicional pueden encontrarse en 
+los siguientes enlaces: 
+ Recomendaciones para la protección de los trabajadores y el uso de equipos de protección 
+personal (PPE) para reducir la exposición a los nuevos virus de la influenza A asociados a 
+enfermedad grave en seres humanos  |Influenza aviar (gripe) (cdc.gov)   
+ Prevención y tratamiento antiviral de los virus de la influenza aviar en las personas | Influenza aviar 
+(gripe) (cdc.gov) 
+ 
+Se recomienda a los productores con rebaños que den positivo que trabajen con las agencias de salud 
+pública locales y estatales, por ejemplo, permitiendo el acceso del personal de salud pública para llevar a 
+cabo actividades en la granja. Los expertos en salud humana y animal necesitan urgentemente 
+comprender mejor la propagación del virus H5N1 y cómo se manifiesta y podría afectar tanto a la salud 
+animal como a la humana. No hay sustituto para captar información en tiempo real a través de encuestas 
+y monitoreando los indicadores clave de salud de los agricultores y
+Text Len: 1118
+--------------------------------------------------------------------------------
+5N1 y cómo se manifiesta y podría afectar tanto a la salud 
+animal como a la humana. No hay sustituto para captar información en tiempo real a través de encuestas 
+y monitoreando los indicadores clave de salud de los agricultores y trabajadores agrícolas que están o han 
+experimentado síntomas. Los productores y trabajadores de las granjas que lo deseen deben comunicarse 
+con su agencia local de salud pública. 
+Text Len: 414
+--------------------------------------------------------------------------------
+1 
+Influenza aviar altamente patógena: 
+Desafíos en la implementación de prácticas de 
+bioseguridad para los productores comerciales 
+de pavo y huevos de mesa Mayo de 2024 
+INTRODUCCIÓN 
+La influenza aviar altamente patógena (HPAI) es una enfermedad grave, altamente contagiosa y muchas 
+veces fatal para pollos y pavos. El Servicio de Inspección Sanitaria de Animales y Plantas (APHIS) del 
+Departamento de Agricultura de EE. UU. (USDA) hizo dos estudios para investigar los factores potenciales 
+de riesgo de la introducción del virus de la HPAI en las granjas en el 2022. Un estudio se centró en las 
+granjas comerciales que crían pavos para carne. El otro estudio se centró en las granjas comerciales de 
+huevos de mesa, incluyendo de cría, de gallinas y de ponedoras de huevos de mesa. En el estudio de pavo 
+participaron 125 granjas de 12 estados. Entre enero y octubre de 2022, se confirmaron casos positivos de 
+HPAI en granjas de pavos. En el estudio de huevos de mesa participaron 40 granjas de 8 estados. Entre 
+febrero y septiembre de 2022, se confirmaron casos positivos de HPAI en granjas de huevos de mesa. En 
+ambos
+Text Len: 1131
+--------------------------------------------------------------------------------
+ivos de 
+HPAI en granjas de pavos. En el estudio de huevos de mesa participaron 40 granjas de 8 estados. Entre 
+febrero y septiembre de 2022, se confirmaron casos positivos de HPAI en granjas de huevos de mesa. En 
+ambos estudios, se seleccionaron granjas de control de los mismos estados que las granjas de caso, pero 
+las granjas de control no tenían HPAI durante el mismo período (Figura 1).  
+. 
+Figura 1. Estados que participaron en los estudios de pavo y huevos de mesa. 
+Participantes: 
+Pavo 
+Huevo de mesa 
+Ambos 
+El APHIS informó previamente sobre los factores de riesgo de la introducción de la HPAI en granjas 
+comerciales de pavo y de huevos de mesa, basándose en los resultados de estos estudios. Este informe 
+presenta los resultados de la información que dieron los productores sobre los desafíos de bioseguridad 
+relacionados con el pienso, el personal y el equipo. El objetivo de este informe es ofrecer una perspectiva 
+nacional de estos desafíos, aumentar la conciencia de los problemas a nivel nacional y, quizás, identificar 
+áreas para enfocar las mejoras de bioseguridad para reducir el riesgo potencial de la HPAI en
+Text Len: 1140
+--------------------------------------------------------------------------------
+cer una perspectiva 
+nacional de estos desafíos, aumentar la conciencia de los problemas a nivel nacional y, quizás, identificar 
+áreas para enfocar las mejoras de bioseguridad para reducir el riesgo potencial de la HPAI en las granjas 
+comerciales
+Para entender mejor las perspectivas de la industria de las áreas de bioseguridad que pueden ser difíciles 
+de implementar, ambos estudios preguntaron a los participantes que tan difícil es para los productores 
+alcanzar diversos objetivos de bioseguridad (nada, poco, algo, bastante o extremadamente difícil). Las 
+infografías de las Figuras 2–7 presentan los resultados combinados de todas las granjas participantes de 
+pavo y huevos de mesa (de caso y de control). Debido al pequeño tamaño de la muestra en algunas de las 
+categorías de respuesta, se combinaron los niveles “bastante” y “extremadamente” difícil en el análisis. En 
+los siguientes gráficos, los números pueden no sumar 100 por el redondeo. 
+2 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE PAVO 
+Figura 2. Desafío de bioseguridad de piensos en granjas de pavo 
+Mantener el
+Text Len: 1091
+--------------------------------------------------------------------------------
+es gráficos, los números pueden no sumar 100 por el redondeo. 
+2 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE PAVO 
+Figura 2. Desafío de bioseguridad de piensos en granjas de pavo 
+Mantener el pienso seguro de los roedores 
+Mantener el pienso seguro de la 
+fauna silvestre 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente 
+Resumen de la Figura 2: 
+• Un poco más de una quinta 
+parte de los encuestados informó 
+que mantener el pienso seguro 
+de los roedores era “algo” a 
+“extremadamente” difícil (21.7%). 
+• Muy pocos encuestados dijeron 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil (1.6%). 
+• La mayoría de los encuestados 
+informaron que mantener el pienso 
+seguro de la fauna silvestre era 
+“nada” difícil (71.8%) en comparación 
+con los que informaron que mantener 
+el pienso seguro de los roedores era 
+“nada” difícil (54.0%). 
+Text Len: 906
+--------------------------------------------------------------------------------
+ pienso 
+seguro de la fauna silvestre era 
+“nada” difícil (71.8%) en comparación 
+con los que informaron que mantener 
+el pienso seguro de los roedores era 
+“nada” difícil (54.0%). 
+Figura 3. Desafíos de personal y bioseguridad general en granjas de pavo 
+Contratar nuevo personal 
+Retener al personal capacitado 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente Comunicar la importancia de la 
+bioseguridad al personal 
+Aplicar las medidas diarias 
+de bioseguridad 
+Resumen de la Figura 3: 
+• Un poco más de la mitad de los encuestados 
+del estudio de pavos informó que contratar 
+nuevo personal era “bastante” o 
+“extremadamente” difícil (54.5%). 
+• Casi un tercio informó que retener al personal 
+capacitado era “bastante” o “extremadamente” 
+difícil (31.4%). 
+• Menos encuestados indicaron que comunicar 
+la importancia de la bioseguridad al personal 
+(19.0%) o aplicar las medidas diarias de 
+bioseguridad (15.7%) era “bastante” o 
+“extremad
+Text Len: 963
+--------------------------------------------------------------------------------
+ (31.4%). 
+• Menos encuestados indicaron que comunicar 
+la importancia de la bioseguridad al personal 
+(19.0%) o aplicar las medidas diarias de 
+bioseguridad (15.7%) era “bastante” o 
+“extremadamente” difícil. 
+3
+Figura 4. Desafíos de bioseguridad de vehículos y equipos pequeños
+en granjas de pavo
+Mantener los vehículos compartido 
+limpios y desinfectados 
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente
+Resumen de la Figura 4: 
+• Más encuestados informaron que mantener 
+los equipos pequeños compartidos limpios 
+y desinfectados era “nada” difícil (71.8%) 
+en comparación con los que informaron 
+que mantener los vehículos compartidos 
+limpios y desinfectados era “nada” difícil 
+(55.1%). 
+• Solo un pequeño porcentaje de los 
+participantes del estudio informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados (12.7%) y que mantener 
+los equipos pequeños compartidos 
+limpios y desinfectados
+Text Len: 997
+--------------------------------------------------------------------------------
+1%). 
+• Solo un pequeño porcentaje de los 
+participantes del estudio informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados (12.7%) y que mantener 
+los equipos pequeños compartidos 
+limpios y desinfectados era “bastante” o 
+“extremadamente” difícil (12.0%). 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE HUEVO DE MESA 
+Figura 5. Desafíos de bioseguridad de piensos en granjas de huevos de mesa 
+Mantener el pienso seguro de los roedores 
+Mantener el pienso seguro de la 
+fauna silvestre 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente 
+ 
+ 
+Resumen de la Figura 5: 
+• Un cuarto de los encuestados del 
+estudio de huevos de mesa comerciales 
+informó que mantener el pienso 
+seguro de roedores era “bastante” o 
+“extremadamente” difícil (25.0%). 
+• Ninguno de los encuestados informó 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil. 
+• La mayoría
+Text Len: 931
+--------------------------------------------------------------------------------
+remadamente” difícil (25.0%). 
+• Ninguno de los encuestados informó 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil. 
+• La mayoría de los encuestados 
+informaron que mantener el pienso 
+seguro de la fauna silvestre era “nada” 
+difícil (47.5%) en comparación con los 
+que informaron que mantener el pienso 
+seguro de los roedores era “nada” difícil 
+(25.0%). 
+4 
+Figura 6. Desafíos de personal y bioseguridad general en granjas de huevos de mesa 
+Contratar nuevo personal 
+Retener al personal capacitado 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente Comunicar la importancia de la 
+bioseguridad al personal 
+Aplicar las medidas diarias de bioseguridad 
+Resumen de la Figura 6: 
+• Un poco más de la mitad de todos los 
+participantes en el estudio del huevo de mesa 
+informó que contratar nuevo personal era 
+“bastante” o “extremadamente” difícil (52.5%). 
+• Solo un pequeño porcentaje de participantes 
+informó
+Text Len: 978
+--------------------------------------------------------------------------------
+ de todos los 
+participantes en el estudio del huevo de mesa 
+informó que contratar nuevo personal era 
+“bastante” o “extremadamente” difícil (52.5%). 
+• Solo un pequeño porcentaje de participantes 
+informó que retener al personal capacitado era 
+“bastante” o “extremadamente” difícil (15.0%). 
+• Solo un pequeño porcentaje de los 
+participantes en el estudio del huevo de mesa 
+indicó que comunicar la importancia de la 
+bioseguridad al personal era “bastante” o 
+“extremadamente” difícil (10.0%). 
+• Sin embargo, casi el doble informó que aplicar 
+las medidas diarias de bioseguridad era 
+“bastante” o “extremadamente” difícil (22.5%). 
+Figura 7. Desafíos de bioseguridad de vehículos y equipos pequeños en 
+granjas de huevos de mesa 
+Mantener los vehículos compartido 
+limpios y desinfectados 
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente 
+Resumen de la Figura 7: 
+• Casi un
+Text Len: 966
+--------------------------------------------------------------------------------
+
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente 
+Resumen de la Figura 7: 
+• Casi un tercio de los encuestados en el 
+estudio del huevo de mesa informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados era “nada” difícil (32.5%). 
+• Más de la mitad de los participantes en el 
+estudio del huevo de mesa informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados era “poco” o “algo” difícil 
+(55.0%). 
+• Casi la mitad de los participantes informó 
+que mantener los pequeños equipos 
+compartidos limpios y desinfectados era 
+“nada” difícil (42.5%). 
+• Solo un pequeño porcentaje de los 
+participantes dijo que mantener los vehículos 
+compartidos limpios y desinfectados (12.5%) 
+o los equipos pequeños compartidos limpios 
+y desinfectados (15.0%) era “bastante” o 
+“extremadamente” difícil. 
+5 
+CONSIDERACIONES DE BIOSEGURIDAD PARA TRATAR LOS DESAFÍOS
+Text Len: 964
+--------------------------------------------------------------------------------
+ 
+o los equipos pequeños compartidos limpios 
+y desinfectados (15.0%) era “bastante” o 
+“extremadamente” difícil. 
+5 
+CONSIDERACIONES DE BIOSEGURIDAD PARA TRATAR LOS DESAFÍOS 
+Considerando los factores de riesgo identificados en los estudios de control y de caso y los desafíos de 
+bioseguridad que informaron los productores como se describe arriba, estas son algunas acciones con 
+base científica para implementar en la granja. Los resultados de estos estudios también los puede usar la 
+industria para ayudar a respaldar y tratar los desafíos más frecuentemente reportado que los productores 
+identificaron en sus granjas. 
+Mantenga el pienso seguro 
+de los roedores y la fauna 
+silvestre para prevenir la 
+transmisión de la influenza 
+aviar y otras enfermedades. 
+Exija al personal que se cambie 
+de ropa (incluyendo los zapatos) 
+antes de ir a un establo diferente. 
+Asigne a los trabajadores de la 
+granja a establos específicos 
+cuando sea posible. 
+Limpie y desinfecte los 
+vehículos y equipos 
+compartidos para evitar 
+la transmisión de virus 
+que puedan causar 
+enfermed
+Text Len: 1080
+--------------------------------------------------------------------------------
+igne a los trabajadores de la 
+granja a establos específicos 
+cuando sea posible. 
+Limpie y desinfecte los 
+vehículos y equipos 
+compartidos para evitar 
+la transmisión de virus 
+que puedan causar 
+enfermedades. 
+RECURSOS 
+Para ver los infográficos sobre este estudio, visite USDA APHIS | Influenza aviar 
+altamente patógena (HPAI)
+ 
+o escanee el código QR y busque en Resources for 
+Producers (Recursos para los Productores).
+Green, A. L., Branan, M. A., Fields, V., Patyk, K. A., Kolar, S. K., Beam, A., Marshall, K. L., McGuigan, R. 
+E., Vuolo, M., Freifeld, A.,Torchetti, M. K., Lantz, K., & Delgado, A. H. (2023). Investigation of risk factors 
+for introduction of highly pathogenic avian influenza H5N1 virus onto table egg farms in the United States, 
+2022: a case–control study. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1229008 
+Patyk, K. A., Fields, V., Beam, A., Branan, M. A., McGuigan, R., Green, A., Torchetti, M. K., Lantz, K., 
+Freifeld, A., Marshall, K. L., & Delgado, 
+A. H. (2023). Investigation of risk factors for
+Text Len: 1064
+--------------------------------------------------------------------------------
+008 
+Patyk, K. A., Fields, V., Beam, A., Branan, M. A., McGuigan, R., Green, A., Torchetti, M. K., Lantz, K., 
+Freifeld, A., Marshall, K. L., & Delgado, 
+A. H. (2023). Investigation of risk factors for introduction of highly 
+pathogenic avian influenza H5N1 infection among commercial turkey operations in the United States, 2022: 
+a case-control study. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1229071 
+  
+Text Len: 437
+--------------------------------------------------------------------------------
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Please note: This situation is evolving rapidly; this is guidance is subject to change. Check back frequently for updated 
+versions. The intended audience for this document is State Animal Health Officials, Accredited Veterinarians and 
+Producers 
+ 
+ 
+APHIS Requirements and Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in 
+Livestock For State Animal Health Officials, Accredited Veterinarians and Producers 
+May 14, 2024 
+ 
+ 
+Table of Contents 
+Scope and Definitions .................................................................................................................................... 2 
+Clinical Signs in Dairy Cattle ........................................................................................................................... 3 
+APHIS Requirements for Interstate Movement of Cattle ................................................................................... 3 
+Sample Collection and Testing for Interstate Premovement Testing of Lactating Dairy Cattle ..................... 3 
+Cattle Moved Directly to Slaughter ................................................................................................................ 4 
+Certificates of Veterinary Inspection .............................................................................................................. 4 
+APHIS Recommendations ................................................................................................................................... 4 
+Cattle Movement Recommendations ............................................................................................................ 4 
+Biosecurity ........................................................................................................................................................ 5 
+APHIS Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock for State 
+Animal Health Officials, Accredited Veterinarians and Producers ................................................................. 5 
+Disposal of Deceased Birds, Cats, and Other Small Animals…… ....................................................................... 6 
+ 
+Milk Safety ........................................................................................................................................................ 6 
+One Health: Agriculture and Public Health Coordination .................................................................................. 6 
+
+2  
+Highly Pathogenic Avian Influenza A (HPAI) H5N1 virus is an emerging disease in cattle. Federal and State 
+agencies
+Text Len: 2640
+--------------------------------------------------------------------------------
+ Birds, Cats, and Other Small Animals…… ....................................................................... 6 
+ 
+Milk Safety ........................................................................................................................................................ 6 
+One Health: Agriculture and Public Health Coordination .................................................................................. 6 
+
+2  
+Highly Pathogenic Avian Influenza A (HPAI) H5N1 virus is an emerging disease in cattle. Federal and State 
+agencies are moving quickly to conduct additional testing for HPAI (H5N1) virus, including viral genome 
+sequencing to provide a better understanding of the situation to characterize the HPAI (H5N1) virus strain 
+or strains associated with these detections as well as other components of this disease event at the 
+connection between animals, people, and the environment. The genetic and epidemiological data indicate 
+spillover of the virus from wild birds to dairy cows and some instances of spread from dairy to dairy and 
+from dairy premises to poultry premises. Based on this analysis, we have learned that the whole genome 
+sequence for virus found in positive herds in 8 states and on two recent commercial poultry premises in 
+two different states indicates it is the same strain affecting both dairy cattle and poultry. While it is still 
+unclear exactly how virus is spreading, the virus is shed in milk at high concentrations; therefore, anything 
+that comes in contact with unpasteurized raw milk, spilled milk, etc. may spread the virus including other 
+animals, vehicles, and other objects or materials. Therefore, both dairy and poultry producers should re- 
+double biosecurity efforts and be vigilant about monitoring for and controlling disease in their herds and 
+flocks. 
+Additionally, in order to continue to monitor and understand the extent of this virus and reduce the risk of 
+further spread of HPAI H5N1, resulting in greater threats to poultry and livestock, APHIS issued a
+Text Len: 2037
+--------------------------------------------------------------------------------
+ producers should re- 
+double biosecurity efforts and be vigilant about monitoring for and controlling disease in their herds and 
+flocks. 
+Additionally, in order to continue to monitor and understand the extent of this virus and reduce the risk of 
+further spread of HPAI H5N1, resulting in greater threats to poultry and livestock, APHIS issued a Federal  
+Order on April 24, 2024 that requires premovement testing for lactating dairy cattle moving interstate and 
+reporting of positive test results from all laboratories and State Animal Health Officials (SAHO). This 
+document outlines both the interstate movement requirements, as well as APHIS recommendations to 
+limit the spread. Updated laboratory guidance, including details on required reporting, are located on the 
+APHIS website. 
+ 
+Our goal is to safeguard the health of U.S. livestock and poultry, protect the industry, keep our food supply 
+safe, and protect public health and human safety based on the most up-to-date information we have. We 
+continue to work diligently to understand the risk factors associated with this virus, transmission routes, 
+and pathogenicity in cattle. This continues to be a rapidly evolving situation. USDA and Federal and State 
+partners will continue to share additional updates as soon as information becomes available. 
+ 
+Scope and Deﬁnitions 
+Per the Federal Order, these steps are immediately required for lactating dairy cattle. Any requirements for 
+other classes of dairy cattle, or expansion beyond dairy cattle, will be based on scientific factors concerning 
+the virus and its evolving risk profile. 
+Definitions used in this document: 
+• Cattle – The requirements outlined within this guidance apply to the movement of members of the 
+Family: Bovidae; Subfamily: bovinae; Genus: Bos; Species: Bos taurus and
+Text Len: 1817
+--------------------------------------------------------------------------------
+, or expansion beyond dairy cattle, will be based on scientific factors concerning 
+the virus and its evolving risk profile. 
+Definitions used in this document: 
+• Cattle – The requirements outlined within this guidance apply to the movement of members of the 
+Family: Bovidae; Subfamily: bovinae; Genus: Bos; Species: Bos taurus and Bos indicus. 
+• Lactating – The requirements outlined within this guidance apply to the movement of dairy cows 
+currently in one of the lactation phases (i.e., early, mid, and late) of their current production cycle. 
+• Dairy – The requirements outlined within this guidance apply to the movement of lactating cattle 
+breeds raised for the primary purpose of milk production. 
+• Nonlactating – Nonlactating cattle include: heifers, dry cows, and bull calves. 
+• Affected herd – Any dairy cattle herd with suspect, presumptive, or confirmed positive cattle cases 
+present as defined in the case definition, or exposed cattle present. 
+• Exposed cattle – Any cattle that have been on the same premises as an affected herd within the 
+3  
+last 30 days (which is roughly equivalent to two incubation periods of influenza in other species; 
+we currently have studies underway in cattle to better determine) and/or are epidemiologically 
+connected. 
+• Herd – Any group of one or more animals maintained on common ground 
+ 
+Clinical Signs in Dairy Cattle 
+See the case definition for a complete description. Briefly, dairy cattle may experience a sudden drop in 
+feed intake; a marked drop in herd level milk production with some more severely affected cows having 
+thickened milk or may have essentially no milk; subsequent acute drop in milk production; and respiratory 
+signs including clear nasal discharge. 
+
+Text Len: 1740
+--------------------------------------------------------------------------------
+ Signs in Dairy Cattle 
+See the case definition for a complete description. Briefly, dairy cattle may experience a sudden drop in 
+feed intake; a marked drop in herd level milk production with some more severely affected cows having 
+thickened milk or may have essentially no milk; subsequent acute drop in milk production; and respiratory 
+signs including clear nasal discharge. 
+ 
+A
+PHIS Requirements for Interstate Movement of Cattle 
+Interstate movements of lactating dairy cattle must follow the Federal requirements outlined below. 
+Additionally, state-specific guidance for moving cattle must be followed. Clinical lactating dairy cattle are 
+ineligible for interstate movement or movement to slaughter. 
+Nonlactating dairy cattle – including heifers, dry cows, and bull calves – are not currently subject to testing 
+for interstate movement due to their risk profile. 
+Prior to interstate movement, lactating dairy cattle are required to receive a negative test for Influenza A 
+virus at an approved National Animal Health Laboratory Network (NAHLN) laboratory using an NAHLN 
+approved assay. 
+ 
+Sample Collection and Testing for Interstate Premovement Testing of Lactating Dairy Cattle 
+• Samples are to be collected by an accredited veterinarian, or a state licensed veterinarian, or a 
+sample collector approved by the appropriate state animal health official. Designated individuals 
+on production sites can be trained to collect milk samples and nasal swab samples for diagnostic 
+testing. 
+• Samples must be collected under the supervision of a licensed or accredited veterinarian or as 
+determined by the respective State Animal Health Official. 
+• Milk samples: Samples to be collected include milk/udder secretions from individual cows. Each 
+quarter is sampled and combined into one sample for submission to the laboratory. Submissions 
+must be between 3-10 ml of milk per animal. 
+Text Len: 1899
+--------------------------------------------------------------------------------
+ be collected under the supervision of a licensed or accredited veterinarian or as 
+determined by the respective State Animal Health Official. 
+• Milk samples: Samples to be collected include milk/udder secretions from individual cows. Each 
+quarter is sampled and combined into one sample for submission to the laboratory. Submissions 
+must be between 3-10 ml of milk per animal. 
+o Pooling of milk samples can be done only at the laboratory. 
+• For groups/lots of 30 or fewer animals moving interstate, all animals being moved must be tested. 
+If more than 30 animals are moving interstate, then only 30 animals total must be tested. 
+• Sample collection and testing must take place no more than seven (7) days prior to interstate 
+movement. 
+• Samples for interstate premovement testing need to be submitted to an approved National Animal 
+Health Laboratory Network (NAHLN) Laboratory for testing. NAHLN laboratories will conduct 
+NAHLN-approved PCR testing: FluA matrix, H5 and optionally 2.3.4.4b. Please see HPAI Livestock 
+Testing Recommendations f or details.  
+4  
+• APHIS will reimburse for all interstate premovement testing at NAHLN laboratories; therefore, this 
+testing at NAHLN laboratories will be completed at no cost to the producer/submitter. 
+• At this time, APHIS is not reimbursing for sample collection or shipping. 
+ 
+For Cattle with Positive HPAI Test Results 
+• Lactating dairy cattle from herds which have tested positive for Influenza A are not eligible for 
+interstate movement for thirty (30) days from the most recent collection of any sample that tests 
+positive from any individual animal in the herd. After the 30-day period, animals must be tested 
+Text Len: 1683
+--------------------------------------------------------------------------------
+ 
+ 
+For Cattle with Positive HPAI Test Results 
+• Lactating dairy cattle from herds which have tested positive for Influenza A are not eligible for 
+interstate movement for thirty (30) days from the most recent collection of any sample that tests 
+positive from any individual animal in the herd. After the 30-day period, animals must be tested 
+again for movement. 
+• If there are specific circumstances for isolating test-positive cattle and moving to another premises 
+across state lines, this would need to be discussed and agreed upon with the respective State 
+Animal Health Officials and APHIS. 
+ 
+Cattle Moved Directly to Slaughter 
+• Nonclinical lactating dairy cattle moving interstate direct to slaughter are not required to have a 
+premovement test but must move on a certificate of veterinary inspection or other documentation 
+of movement approved by the sending and receiving state animal health officials and provided to 
+the sending and receiving state animal health officials. 
+• Clinical lactating dairy cattle are ineligible for interstate movement or movement to slaughter. 
+ 
+Certiﬁcates of Veterinary Inspection 
+The interstate movement of all lactating dairy cattle must be accompanied by a Certificate of Veterinary 
+Inspection (CVI) per 9 CFR Part 86, Animal Disease Traceability. The destination/receiving state(s) will 
+continue to use CVIs as a basis to track the interstate movement of lactating dairy cattle. 
+• All cattle on the CVI must have individual official identification. 
+• The individual official identification must be recorded on the CVI. 
+• The CVI must include a statement that the cattle are both free from, and have not been exposed 
+to, a known contagious and infectious disease. 
+ 
+Exhibition/Show Dairy Cattle   
+Requirements above for premovement
+Text Len: 1797
+--------------------------------------------------------------------------------
+ on the CVI must have individual official identification. 
+• The individual official identification must be recorded on the CVI. 
+• The CVI must include a statement that the cattle are both free from, and have not been exposed 
+to, a known contagious and infectious disease. 
+ 
+Exhibition/Show Dairy Cattle   
+Requirements above for premovement testing and CVIs apply to dairy cattle moving interstate to 
+exhibitions/shows. Animals moving interstate to an exhibition, show, or sale must have a negative test 
+result from samples collected within 7 days of movement. These animals may travel to their home herd 
+using the same negative test result provided the exhibition, show, or sale does not exceed 10 days of 
+length. See also Recommendations to Minimize Influenza Transmission at Dairy Cattle Livestock Exhibitions. 
+ 
+APHIS Recommendations 
+Additional detailed actions are provided later in this document, subject to updates as information is 
+gathered. 
+ 
+Cattle Movement Recommendations. In addition to the interstate movement requirements above, APHIS 
+provides the following recommendations.  
+• APHIS strongly recommends minimizing movement of cattle as much as possible, with special 
+5  
+attention to evaluating risk and factoring that risk into movement decisions. 
+• If you have any animals with clinical signs on the premises, do not move animals off the premises. 
+• All animals that move on/off a premises should be isolated for 30 days to prevent the spread of 
+disease. 
+• If cattle must be moved, we strongly encourage extreme diligence by producers, veterinarians, 
+and States to ensure only healthy cattle are moving and to ensure the validity of interstate 
+health certificates. APHIS stands ready to assist SAHOs with developing language for interstate 
+certificates of veterinary
+Text Len: 1806
+--------------------------------------------------------------------------------
+ isolated for 30 days to prevent the spread of 
+disease. 
+• If cattle must be moved, we strongly encourage extreme diligence by producers, veterinarians, 
+and States to ensure only healthy cattle are moving and to ensure the validity of interstate 
+health certificates. APHIS stands ready to assist SAHOs with developing language for interstate 
+certificates of veterinary inspection, as needed. 
+• APHIS recommends premovement testing of non-lactating cattle as well. This testing at NAHLN 
+laboratories will be completed at no cost to the producer. Additional recommendations for 
+testing can be found here. 
+• State-specific guidance for moving cattle will also need to be followed. 
+• APHIS scientists are working to establish testing protocols, rapidly assessing currently available 
+tests and test performance including sample types to better understand the characteristics; based 
+on this analysis, we may recommend testing for other classes of cattle beyond lactating dairy cows 
+in the future. 
+• SAHOs should consider adopting the federal testing and movement requirements described above 
+for intrastate movements of lactating dairy cattle to exhibitions or shows.  
+ 
+B
+iosecurity. Producers should implement enhanced biosecurity practices for keeping disease off farms and 
+controlling disease spread on the farm. The Secure Milk Supply Plan is a collaborative initiative among the dairy 
+industry, USDA, State officials and three universities. The Secure Milk Supply website offers comprehensive 
+materials on dairy biosecurity practices, including posters and information sheets in English and Spanish. 
+Additional biosecurity resources can be found at the following links below: 
+ Biosecurity - National Dairy FARM Program 
+ Biosecurity for dairy operations | TAMU 
+ Biosecurity for cattle operations
+Text Len: 1819
+--------------------------------------------------------------------------------
+
+materials on dairy biosecurity practices, including posters and information sheets in English and Spanish. 
+Additional biosecurity resources can be found at the following links below: 
+ Biosecurity - National Dairy FARM Program 
+ Biosecurity for dairy operations | TAMU 
+ Biosecurity for cattle operations | UMN Extension 
+ Farm Biosecurity - CFSPH (iastate.edu) 
+ 
+APHIS Recommendations for Highly Pathogenic Avian Influenza (HPAI) H5N1 Virus in Livestock for State 
+Animal Health Officials, Accredited Veterinarians and Producers:  
+• Monitoring for Sick Animals. Producers should monitor herds closely for cattle with clinical signs of 
+disease. 
+• Movement of Cattle. Movement of cattle should be minimized; movement of cattle should be 
+focused on preventing movement of disease. 
+• Vehicles, Equipment, and People on the Farm. Producers should limit the movement of vehicles and 
+visitors on and off livestock and poultry premises and establish dedicated routes for vehicles that do 
+come onto the premises. 
+• Wildlife Management. Producers should monitor and report any odd behaviors and die offs in 
+domestic and wild animals immediately. 
+• Dairy Cattle Shows. Organizers and exhibitors should practice strict biosecurity practices for 
+animals and equipment to include frequent cleaning and disinfecting all equipment, avoiding 
+contact with other animals, isolating animals and observing for illness upon return from 
+shows.  
+ 
+6  
+Disposal of Deceased Birds, Cats, and Other Small Animals  
+• Producers should wear disposable gloves when handling any carcasses of birds or animals 
+found on the farm.   
+• If
+Text Len: 1627
+--------------------------------------------------------------------------------
+ all equipment, avoiding 
+contact with other animals, isolating animals and observing for illness upon return from 
+shows.  
+ 
+6  
+Disposal of Deceased Birds, Cats, and Other Small Animals  
+• Producers should wear disposable gloves when handling any carcasses of birds or animals 
+found on the farm.   
+• If there has been any potential human or animal exposure to rabies, contact your local health 
+department for instructions; any cats that demonstrate neurologic signs should be submitted 
+to the local public health laboratory for rabies testing.   
+• Producers should work with their veterinarian to submit dead birds and cats to a NAHLN 
+laboratory for influenza testing.   
+• If dead cats cannot be submitted for rabies or influenza testing, thoroughly spray carcass with 
+Virkon or equivalent disinfectant, double-bag and dispose in accordance with local and State 
+laws. See AVMA guidelines or consult a veterinarian for animal carcass disposal practices.  
+ 
+Milk Safety. The Food and Drug Administration (FDA) recommends special attention to raw milk safety and 
+handling practices for discarded milk. Additional resources available at Questions and Answers Regarding  
+Milk Safety During Highly Pathogenic Avian Influenza (HPAI) Outbreaks | FDA. 
+• Safety of Feeding Waste or Discarded Milk to Animals. The FDA recommends producers discard milk 
+from symptomatic cows. Young calves are susceptible to disease and disease-causing pathogens can 
+be transmitted through raw milk. If milk from cows showing symptoms of illness, including those 
+infected with HPAI A (H5N1), cannot be discarded and is intended to be used to feed calves (or other 
+animals, such as farm cats), the FDA strongly encourages that it be heat treated to kill
+Text Len: 1744
+--------------------------------------------------------------------------------
+ susceptible to disease and disease-causing pathogens can 
+be transmitted through raw milk. If milk from cows showing symptoms of illness, including those 
+infected with HPAI A (H5N1), cannot be discarded and is intended to be used to feed calves (or other 
+animals, such as farm cats), the FDA strongly encourages that it be heat treated to kill harmful 
+bacteria or viruses, such as influenza, before calf feeding. This heat treatment should be similar to 
+times and temperatures commonly found in commercial milk pasteurization processing. 
+• Safety of Unpasteurized Milk and Dairy Products for Human Consumption. Raw milk and raw milk 
+dairy products should not be sold or distributed for human consumption. 
+• Disposal of Discarded Milk. Disposal of milk should be handled in such a way as to prevent exposure 
+to other animals. The FDA recommends producers take precautions when discarding milk from 
+affected cows so that the discarded milk does not become a source of further spread. Producers 
+should consult with their state regulatory authorities for specific recommendations or requirements, 
+however, such precautions could include heat-treatment or pasteurization of discarded milk prior to 
+dumping in lagoons or application of waste solids and ensuring biosecurity around lagoons (e.g., 
+ensuring that animals and birds do not have access to lagoons). 
+• Segregation of Milk from Infected Lactating Cows: Maximal care should be taken to segregate 
+lactating cows known to be actively infected with H5N1 so their milk does not enter the food supply, 
+consistent with the Pasteurized Milk Ordinance. 
+One Health: Agriculture and Public Health Collaboration. Monitoring farmers and farm workers with 
+exposure to infected cattle is important to human and animal health. APHIS will continue to
+Text Len: 1805
+--------------------------------------------------------------------------------
+ to segregate 
+lactating cows known to be actively infected with H5N1 so their milk does not enter the food supply, 
+consistent with the Pasteurized Milk Ordinance. 
+One Health: Agriculture and Public Health Collaboration. Monitoring farmers and farm workers with 
+exposure to infected cattle is important to human and animal health. APHIS will continue to share 
+information from their investigations as they coordinate with CDC, as has been standard procedure with 
+influenza in poultry and swine. The Centers for Disease Control and Prevention (CDC) is working with state 
+and local health departments to continue to monitor workers who may have been in contact with infected 
+or potentially infected animals and test those people who develop symptoms. 
+ 
+People exposed to HPAI A (H5N1)-infected cattle, birds, or other animals (including people wearing 
+recommended PPE) should be monitored daily for signs and symptoms of acute respiratory illness 
+7  
+beginning after their first exposure and for 10 days after their last exposure. Farms with HPAI-positive 
+herds should implement farm-administered daily active monitoring using a simple symptom survey, that 
+CDC provides to state and local public health agencies and that can also be made available directly to 
+farmers. 
+On a daily basis, farms should share the aggregate number of staff who may have been exposed to 
+infected cattle or other animals and are now being monitored for symptoms to a local public health 
+department to a local public health department to maintain awareness of possible spillover infection. 
+ 
+Symptomatic persons should be referred to local public health for prompt medical evaluation, testing, and 
+treatment, such as initiation of antiviral treatment with oseltamivir (Tamiflu) as soon as possible. 
+Additional information related to public health monitoring and
+Text Len: 1854
+--------------------------------------------------------------------------------
+ 
+department to a local public health department to maintain awareness of possible spillover infection. 
+ 
+Symptomatic persons should be referred to local public health for prompt medical evaluation, testing, and 
+treatment, such as initiation of antiviral treatment with oseltamivir (Tamiflu) as soon as possible. 
+Additional information related to public health monitoring and preventing exposures to H5N1 are available 
+on CDC’s website. 
+People should take steps to reduce the risk of infection with avian influenza A viruses associated with 
+working with animals or materials like raw milk. Farms should follow CDC’s guidance for workers, including 
+the use of personal protective equipment to minimize the risk of on farm HPAI transmission. These 
+recommendations and additional information can be found at the links below: 
+ Recommendations for Worker Protection and Use of Personal Protective Equipment (PPE) to  
+Reduce Exposure to Novel Influenza A Viruses Associated with Severe Disease in Humans | Avian  
+Influenza (Flu) (cdc.gov) 
+ Prevention and Antiviral Treatment of Bird Flu Viruses in People | Avian Influenza (Flu) (cdc.gov) 
+ 
+Producers with positive herds are encouraged to collaborate with local and state public health agencies, 
+for example, permitting public health access conduct on-farm activities. Human and animal health experts 
+have a pressing need to better understand the spread of H5N1 and how the virus manifests and might 
+impact both animal and human health. There is no substitute for capturing real-time information from 
+farmers and farmworkers who are or have experienced symptoms through surveys and monitoring of key 
+health indicators. Willing producers and farmworkers should contact their local public health agency. 
+1  
+ 
+Text Len: 1772
+--------------------------------------------------------------------------------
+ understand the spread of H5N1 and how the virus manifests and might 
+impact both animal and human health. There is no substitute for capturing real-time information from 
+farmers and farmworkers who are or have experienced symptoms through surveys and monitoring of key 
+health indicators. Willing producers and farmworkers should contact their local public health agency. 
+1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Por favor, tenga en cuenta lo siguiente: esta situación evoluciona rápidamente, por lo que esta guía está sujeta a 
+cambios. Consulte con frecuencia las versiones actualizadas. La audiencia a la que va dirigida  este documento son los 
+funcionarios estatales de sanidad animal, los veterinarios acreditados y los productores  
+ 
+ 
+Requisitos y recomendaciones del Servicio de Inspección Sanitaria de Animales y Plantas (APHIS, por sus 
+siglas en inglés) para el virus H5N1 de la influenza aviar altamente patógena (HPAI, por sus siglas en inglés) 
+en el ganado, para funcionarios estatales de sanidad animal, veterinarios acreditados y productores 
+26 de abril de 2024 
+ 
+ 
+Índice 
+Alcance y definiciones ................................................................................................................................... 2 
+Signos clínicos en el ganado vacuno lechero ................................................................................................ 3 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno….……………………………………………………… 3 
+Recogida y
+Text Len: 1485
+--------------------------------------------------------------------------------
+
+ 
+ 
+Índice 
+Alcance y definiciones ................................................................................................................................... 2 
+Signos clínicos en el ganado vacuno lechero ................................................................................................ 3 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno….……………………………………………………… 3 
+Recogida y análisis de muestras para las pruebas previas al traslado interestatal de ganado vacuno 
+lechero en lactancia ...................................................................................................................................... 3 
+Ganado vacuno trasladado directamente al matadero ................................................................................ 4 
+Certificados de inspección veterinaria .......................................................................................................... 4 
+Recomendaciones del APHIS………………………………………………………………………………………………………………………. 4 
+Recomendaciones para el transporte de ganado vacuno  ............................................................................ 4 
+Bioseguridad………………………………………………………………………………………………………………………………………………. 5 
+Recomendaciones del APHIS para el virus H5N1 de la influenza aviar altamente patógena (HPAI) en el 
+ganado para funcionarios estatales de sanidad animal, veterinarios acreditados y productores…………….. 5 
+Seguridad de la leche………………………………………………………………………………………………………………………………….. 5 
+One Health: coordinación entre agricultura y salud pública…..……………………………………………………………………. 6 
+
+2  
+El virus H5N1 de la influenza aviar altamente patógena A (HPAI, por sus siglas en inglés) es una 
+enfermedad emergente en el ganado vacuno. Las agencias federales y estatales
+Text Len: 1780
+--------------------------------------------------------------------------------
+lica…..……………………………………………………………………. 6 
+
+2  
+El virus H5N1 de la influenza aviar altamente patógena A (HPAI, por sus siglas en inglés) es una 
+enfermedad emergente en el ganado vacuno. Las agencias federales y estatales están actuando 
+rápidamente para llevar a cabo pruebas adicionales para el virus HPAI (H5N1), incluyendo la secuenciación 
+del genoma viral para proporcionar una mejor comprensión de la situación para caracterizar la cepa o 
+cepas del virus HPAI (H5N1) asociadas con estas detecciones, así como otros componentes de este evento 
+de enfermedad en la conexión entre los animales, las personas y el medio ambiente. Los datos genéticos y 
+epidemiológicos indican la propagación del virus de las aves silvestres a las vacas lecheras y algunos casos 
+de propagación de lechería a lechería y de instalaciones lecheras a instalaciones avícolas. Basándonos en 
+este análisis, hemos comprobado que la secuencia del genoma completo del virus encontrado en rebaños 
+con resultados positivos en 8 estados y en dos instalaciones avícolas comerciales recientes en dos estados 
+diferentes, indica que se trata de la misma
+Text Len: 1123
+--------------------------------------------------------------------------------
+lisis, hemos comprobado que la secuencia del genoma completo del virus encontrado en rebaños 
+con resultados positivos en 8 estados y en dos instalaciones avícolas comerciales recientes en dos estados 
+diferentes, indica que se trata de la misma cepa que afecta tanto al ganado vacuno lechero como a las 
+aves de corral. Aunque todavía no está claro cómo se propaga exactamente, el virus se desprende en la 
+leche en altas concentraciones; por tanto, cualquier cosa que entre en contacto con leche cruda no 
+pasteurizada, leche derramada, etc. puede propagar el virus, incluidos otros animales, vehículos y otros 
+objetos o materiales. Por lo tanto, tanto los productores lácteos como los avícolas deben redoblar los 
+esfuerzos de bioseguridad y estar atentos al monitoreo y control de las enfermedades en sus rebaños y 
+bandadas. 
+Además, con el fin de continuar monitoreando y entendiendo el alcance de este virus y reducir el riesgo de 
+una mayor propagación del virus H5N1 de la HPAI, lo que resultaría en mayores amenazas para las aves de 
+corral y el ganado, el APHIS emitió una orden federal  el 24 de abril de 2024 que requiere pruebas previas
+Text Len: 1151
+--------------------------------------------------------------------------------
+cir el riesgo de 
+una mayor propagación del virus H5N1 de la HPAI, lo que resultaría en mayores amenazas para las aves de 
+corral y el ganado, el APHIS emitió una orden federal  el 24 de abril de 2024 que requiere pruebas previas 
+al traslado para el ganado vacuno lechero lactante que se mueve interestatalmente y reportar los 
+resultados positivos de las pruebas de todos los laboratorios y de los Funcionarios Estatales de Sanidad 
+Animal (SAHO, por sus siglas en inglés). En este documento se describen tanto los requisitos para el 
+traslado interestatal como las recomendaciones del APHIS para limitar la propagación. Encontrará guías 
+actualizadas para los laboratorios, incluyendo detalles sobre los informes requeridos, en la página web del 
+APHIS. 
+ 
+Nuestra meta es salvaguardar la salud del ganado y las aves de corral de los Estados Unidos, proteger la 
+industria, mantener seguro nuestro suministro de alimentos y proteger la salud pública y la seguridad 
+humana basándonos en la información más actualizada que tenemos. Seguimos trabajando con diligencia 
+para comprender los factores de riesgo asociados a este virus, las vías de transmisión y la patogenicidad en 
+el g
+Text Len: 1184
+--------------------------------------------------------------------------------
+a y la seguridad 
+humana basándonos en la información más actualizada que tenemos. Seguimos trabajando con diligencia 
+para comprender los factores de riesgo asociados a este virus, las vías de transmisión y la patogenicidad en 
+el ganado vacuno. La situación sigue evolucionando rápidamente. El Departamento de Agricultura de los 
+Estados Unidos (USDA, por sus siglas en inglés) y los colaboradores federales y estatales seguirán 
+compartiendo actualizaciones adicionales tan pronto como se disponga de información. 
+ 
+Alcance y definiciones 
+ 
+Según la orden federal, estas medidas se exigen inmediatamente para el ganado vacuno lechero lactante. 
+Cualquier requisito para otras clases de ganado vacuno lechero, o la expansión más allá del ganado vacuno 
+lechero, se basará en factores científicos relativos al virus y su perfil de riesgo en evolución. 
+Definiciones utilizadas en este documento: 
+• Ganado vacuno - Los requisitos descritos en esta guía se aplican al traslado de los miembros de la 
+familia: Bovidae; subfamilia: bovinae; género: Bos; especie: Bos taurus y Bos indicus. 
+• Lactante - Los requis
+Text Len: 1113
+--------------------------------------------------------------------------------
+ado vacuno - Los requisitos descritos en esta guía se aplican al traslado de los miembros de la 
+familia: Bovidae; subfamilia: bovinae; género: Bos; especie: Bos taurus y Bos indicus. 
+• Lactante - Los requisitos descritos en esta guía se aplican al traslado de vacas lecheras que se 
+3  
+encuentran actualmente en una de las fases de lactancia (es decir, temprana, media y tardía) de 
+su ciclo de producción vigente. 
+• Lechero - Los requisitos descritos en esta guía se aplican al traslado de razas de ganado vacuno 
+lactante criadas con el objetivo principal de la producción de leche. 
+• No lactantes - El ganado vacuno no lactante incluye: novillas, vacas secas y terneros. 
+• Rebaño afectado - Cualquier rebaño de ganado vacuno lechero con casos sospechosos, presuntos 
+o positivos confirmados presentes, según la definición de caso, o de ganado vacuno expuesto 
+presente. 
+• Ganado vacuno expuesto - Cualquier ganado vacuno que haya estado en las mismas instalaciones 
+que un rebaño afectado dentro de los  últimos 30 días (lo que equivale aprox
+Text Len: 1052
+--------------------------------------------------------------------------------
+anado vacuno expuesto 
+presente. 
+• Ganado vacuno expuesto - Cualquier ganado vacuno que haya estado en las mismas instalaciones 
+que un rebaño afectado dentro de los  últimos 30 días (lo que equivale aproximadamente a dos 
+periodos de incubación de la influenza en otras especies; actualmente tenemos estudios en curso 
+en ganado vacuno para determinarlo mejor) y/o que estén relacionados epidemiológicamente. 
+• Rebaño - Cualquier grupo de uno o más animales mantenidos en terreno común. 
+ 
+Signos clínicos en el ganado vacuno lechero 
+Consulte la definición de caso para obtener una descripción completa. Brevemente, el ganado vacuno 
+lechero puede experimentar una caída repentina en la ingesta de alimento; una caída marcada en la 
+producción de leche a nivel del rebaño, con algunas vacas más gravemente afectadas con leche espesa o 
+que esencialmente no tienen leche; una caída aguda subsiguiente en la producción de leche; y signos 
+respiratorios que incluyen una secreción nasal clara. 
+ Definición de caso vigente - HPAI H5N1 clado 2.3.4.4b en
+Text Len: 1053
+--------------------------------------------------------------------------------
+e no tienen leche; una caída aguda subsiguiente en la producción de leche; y signos 
+respiratorios que incluyen una secreción nasal clara. 
+ Definición de caso vigente - HPAI H5N1 clado 2.3.4.4b en ganado 
+Requisitos del APHIS para el traslado interestatal de ganado vacuno 
+Los movimientos interestatales de ganado vacuno lechero en lactación deben seguir los requisitos federales 
+que se describen a continuación. Además, deben seguirse las guías específicas de cada estado para el 
+traslado de ganado vacuno. El ganado vacuno lechero en lactación en estado clínico no es elegible para el 
+traslado interestatal ni para el traslado con destino al matadero. 
+El ganado vacuno lechero no lactante --incluidas las novillas, las vacas secas y los terneros-- no está sujeto 
+actualmente a pruebas para el traslado interestatal debido a su perfil de riesgo. 
+Antes del traslado interestatal, se requiere que el ganado vacuno lechero lactante reciba una prueba 
+negativa para el virus de la influenza A en un laboratorio aprobado de la Red Nacional de Laboratorios de 
+Sanidad Animal (NAHLN, por sus siglas en inglés) u tilizando un an
+Text Len: 1130
+--------------------------------------------------------------------------------
+, se requiere que el ganado vacuno lechero lactante reciba una prueba 
+negativa para el virus de la influenza A en un laboratorio aprobado de la Red Nacional de Laboratorios de 
+Sanidad Animal (NAHLN, por sus siglas en inglés) u tilizando un análisis aprobado por la NAHLN.  
+ 
+Recogida y análisis de muestras para las pruebas previas al traslado interestatal de ganado vacuno lechero 
+en lactancia  
+• Las muestras deben ser recogidas por un veterinario acreditado, o un veterinario con licencia 
+estatal, o un recolector de muestras aprobado por el funcionario de sanidad animal estatal 
+correspondiente. Los individuos designados en los sitios de producción pueden recibir 
+adiestramiento para recoger muestras de leche y muestras de hisopos nasales para pruebas de 
+diagnóstico. 
+• Las muestras deben recogerse bajo la supervisión de un veterinario autorizado o acreditado o 
+según determine el respectivo funcionario estatal de sanidad animal. 
+4  
+• Muestras de leche: las muestras que deben recogerse incluyen leche/secreciones de la ubre de 
+vacas individuales. Cada trimestre se toma una muestra y se combina en una sola muestra para 
+enviarla al laborator
+Text Len: 1165
+--------------------------------------------------------------------------------
+4  
+• Muestras de leche: las muestras que deben recogerse incluyen leche/secreciones de la ubre de 
+vacas individuales. Cada trimestre se toma una muestra y se combina en una sola muestra para 
+enviarla al laboratorio. Los envíos deben tener entre 3 y 10 ml de leche por animal. 
+o La mezcla de muestras de leche solamente puede hacerse en el laboratorio. 
+• En el caso de grupos o lotes de 30 animales o menos que se trasladen interestatalmente, todos 
+los animales que se trasladen deberán someterse a pruebas. Si son más de 30 los animales que se 
+trasladan interestatalmente, solamente deberán someterse a pruebas 30 animales en total. 
+• La recogida de muestras y la realización de pruebas deben efectuarse como máximo siete (7) 
+días antes del traslado interestatal. 
+• Las muestras para las pruebas interestatales previas al traslado deben presentarse a un 
+laboratorio aprobado de la Red Nacional de Laboratorios de Sanidad Animal (NAHLN) para su 
+análisis. Los laboratorios de la NAHLN realizarán las pruebas PCR aprobadas por la NAHLN: Matriz 
+FluA, H5 y opcionalmente 2.3.4.4b. Por
+Text Len: 1092
+--------------------------------------------------------------------------------
+ Red Nacional de Laboratorios de Sanidad Animal (NAHLN) para su 
+análisis. Los laboratorios de la NAHLN realizarán las pruebas PCR aprobadas por la NAHLN: Matriz 
+FluA, H5 y opcionalmente 2.3.4.4b. Por favor, consulte las recomendaciones para realizar pruebas 
+en el ganado de la HPAI  para más detalles. APHIS reembolsará todas las pruebas interestatales 
+previas al traslado en los laboratorios de la NAHLN; por lo tanto, estas pruebas en los laboratorios 
+de la NAHLN se completarán sin costo alguno para el productor/presentador. 
+• Por el momento, el APHIS no reembolsa los gastos de recogida o envío de las muestras. 
+Para el ganado vacuno con resultados positivos en las pruebas de HPAI 
+• El ganado vacuno lechero lactante de los rebaños que hayan dado positivo en la prueba de la 
+influenza A no es elegible para el traslado interestatal durante treinta (30) días a partir de la 
+recogida más reciente de cualquier muestra que dé positivo de cualquier animal individual del 
+rebaño. Tras el periodo de 30 días, los animales deben volver a ser sometidos a pruebas previas 
+al traslado. 
+• Si exist
+Text Len: 1105
+--------------------------------------------------------------------------------
+ de la 
+recogida más reciente de cualquier muestra que dé positivo de cualquier animal individual del 
+rebaño. Tras el periodo de 30 días, los animales deben volver a ser sometidos a pruebas previas 
+al traslado. 
+• Si existen circunstancias específicas para aislar el ganado vacuno que dé positivo en las pruebas y 
+trasladarlo a otras instalaciones a través de las fronteras estatales, esto tendría que ser discutido y 
+acordado con los respectivos funcionarios estatales de sanidad animal y el APHIS. 
+ 
+Ganado vacuno trasladado directamente al matadero 
+• El ganado vacuno lechero lactante no clínico que se traslada interestatalmente directo al matadero 
+no está obligado a tener una prueba previa al traslado, pero debe trasladarse con un certificado de 
+inspección veterinaria u otra documentación de traslado aprobada por los funcionarios de sanidad 
+animal del estado de origen y de destino y proporcionada a los funcionarios de sanidad animal del 
+estado de origen y de destino. 
+• El ganado vacuno lechero lactante en estado clínico no es apto para el traslado interestatal ni para 
+el traslado con destino al matadero. 
+ 
+Certificados de inspección
+Text Len: 1160
+--------------------------------------------------------------------------------
+ionarios de sanidad animal del 
+estado de origen y de destino. 
+• El ganado vacuno lechero lactante en estado clínico no es apto para el traslado interestatal ni para 
+el traslado con destino al matadero. 
+ 
+Certificados de inspección veterinaria 
+El traslado interestatal de todo el ganado vacuno lechero lactante debe ir acompañado de un Certificado 
+de inspección veterinaria (CVI, por sus siglas en inglés) según la Parte 86 del Título 9 del Código de 
+Regulaciones Federales (CFR, por sus siglas en inglés), Rastreo de Enfermedades Animales. El (los) 
+estado(s) de destino/recepción seguirá(n) utilizando los CVI como base para rastrear el traslado 
+5  
+interestatal de ganado vacuno lechero lactante. 
+• Todo el ganado vacuno que aparece en el CVI debe tener una identificación oficial individual. 
+• La identificación oficial individual debe registrarse en el CVI. 
+• El CVI debe incluir una declaración de que el ganado vacuno está libre de y no ha estado 
+expuesto a una enfermedad contagiosa e infecciosa conocida. 
+Recomendaciones del APHIS  
+Más adelante en este documento se propor
+Text Len: 1094
+--------------------------------------------------------------------------------
+be incluir una declaración de que el ganado vacuno está libre de y no ha estado 
+expuesto a una enfermedad contagiosa e infecciosa conocida. 
+Recomendaciones del APHIS  
+Más adelante en este documento se proporcionan acciones adicionales detalladas, sujetas a 
+actualizaciones a medida que se reúna información. 
+ 
+Recomendaciones para el traslado de ganado vacuno. Además de los requisitos de traslado interestatal 
+arriba mencionados, el APHIS hace las siguientes recomendaciones.  
+• El APHIS recomienda encarecidamente minimizar el traslado de ganado vacuno en la medida 
+de lo posible, prestando especial atención a la evaluación del riesgo y teniendo en cuenta 
+dicho riesgo a la hora de tomar decisiones sobre los traslados. 
+• Si tiene animales con signos clínicos en las instalaciones, no los traslade fuera de ellas. 
+• Todos los animales que entren o salgan de las instalaciones deben aislarse durante 30 días 
+para evitar la propagación de enfermedades. 
+• Si es necesario trasladar ganado vacuno, recomendamos encarecidamente que los 
+productores, los veterinarios y los estados act
+Text Len: 1095
+--------------------------------------------------------------------------------
+ o salgan de las instalaciones deben aislarse durante 30 días 
+para evitar la propagación de enfermedades. 
+• Si es necesario trasladar ganado vacuno, recomendamos encarecidamente que los 
+productores, los veterinarios y los estados actúen con la máxima diligencia para garantizar que 
+solamente se traslada ganado vacuno sano y para asegurar la validez de los certificados 
+sanitarios interestatales. APHIS está listo para asistir a los SAHO en el desarrollo de lenguaje 
+para los certificados interestatales de inspección veterinaria, según sea necesario. 
+• El APHIS recomienda que también se realicen pruebas previas al traslado del ganado vacuno 
+no lactante. Estas pruebas en los laboratorios de la NAHLN se realizarán sin costo alguno para 
+el productor. Encontrará recomendaciones adicionales para las pruebas aquí. 
+• También habrá que seguir las guías específicas de cada estado para el traslado de ganado vacuno. 
+• Los científicos del APHIS están trabajando para establecer protocolos de pruebas, evaluando 
+rápidamente las pruebas disponibles en la actualidad y el rendimiento de las mismas, incluidos los 
+tipos de muest
+Text Len: 1134
+--------------------------------------------------------------------------------
+ ganado vacuno. 
+• Los científicos del APHIS están trabajando para establecer protocolos de pruebas, evaluando 
+rápidamente las pruebas disponibles en la actualidad y el rendimiento de las mismas, incluidos los 
+tipos de muestras, para comprender mejor las características; basándonos en este análisis, es 
+posible que en el futuro recomendemos la realización de pruebas para otras clases de ganado 
+vacuno, más allá de las vacas lecheras lactantes. 
+ 
+Bioseguridad. Los productores deben implementar prácticas de bioseguridad mejoradas para mantener 
+las enfermedades fuera de las granjas y controlar la propagación de enfermedades en la granja. El Plan de 
+Suministro Seguro de Leche e s una iniciativa de colaboración entre la industria lechera, el USDA, 
+funcionarios estatales y tres universidades. La página web de Suministro Seguro de Leche ofrece 
+materiales exhaustivos sobre las prácticas de bioseguridad lechera, que incluyen carteles y hojas 
+informativas en inglés y español. Encontrará más recursos sobre bioseguridad en los siguientes enlaces: 
+ Bioseguridad - Programa nacional para granjas lecheras 
+ Bioseguridad
+Text Len: 1132
+--------------------------------------------------------------------------------
+, que incluyen carteles y hojas 
+informativas en inglés y español. Encontrará más recursos sobre bioseguridad en los siguientes enlaces: 
+ Bioseguridad - Programa nacional para granjas lecheras 
+ Bioseguridad en las operaciones lecheras | TAMU 
+ Bioseguridad para operaciones de ganado vacuno | Extensión UMN 
+ Bioseguridad en las granjas - CFSPH (iastate.edu) 
+6  
+ 
+Recomendaciones del APHIS para el virus H5N1 de la influenza aviar altamente patógena (HPAI) en el 
+ganado para funcionarios estatales de sanidad animal, veterinarios acreditados y productores: 
+• Monitoreo de animales enfermos. Los productores deben vigilar de cerca los rebaños en busca de 
+ganado vacuno con signos clínicos de enfermedad. 
+• Traslado de ganado vacuno. El traslado de ganado vacuno debe reducirse al mínimo; el 
+traslado de ganado vacuno debe centrarse en prevenir el traslado de enfermedades. 
+• Vehículos, equipos y personas en la granja. Los productores deben limitar el movimiento de 
+vehículos y visitantes dentro y fuera de las instalaciones ganaderas y avícolas y establecer rutas 
+es
+Text Len: 1082
+--------------------------------------------------------------------------------
+ traslado de enfermedades. 
+• Vehículos, equipos y personas en la granja. Los productores deben limitar el movimiento de 
+vehículos y visitantes dentro y fuera de las instalaciones ganaderas y avícolas y establecer rutas 
+específicas para los vehículos que entren en las instalaciones. 
+• Manejo de la vida silvestre. Los productores deben monitorear y notificar inmediatamente 
+cualquier comportamiento extraño o muerte de animales domésticos o salvajes. 
+Seguridad de la leche. La Administración de Alimentos y Medicamentos (FDA, por sus siglas en inglés) 
+recomienda prestar especial atención a la seguridad de la leche cruda y a las prácticas de manejo de la 
+leche desechada. Recursos adicionales disponibles en Preguntas y respuestas sobre seguridad de la leche 
+durante los brotes de la Influenza aviar altamente patógena (HPAI) | FDA.  
+• Seguridad al alimentar animales con leche de desperdicio o desechada. La FDA recomienda a los 
+productores que desechen la leche de las vacas sintomáticas. Los terneros jóvenes son susceptibles 
+de contraer enfermedades y los patógenos causantes de enfermedades pueden transmitirse a través 
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+icio o desechada. La FDA recomienda a los 
+productores que desechen la leche de las vacas sintomáticas. Los terneros jóvenes son susceptibles 
+de contraer enfermedades y los patógenos causantes de enfermedades pueden transmitirse a través 
+de la leche cruda. Si la leche procedente de vacas que presentan síntomas de enfermedad, incluidas 
+las infectadas con la HPAI A (H5N1), no puede desecharse y se destina a alimentar a terneros (u otros 
+animales, como gatos de la granja), la FDA recomienda encarecidamente que se someta a un 
+tratamiento térmico para eliminar bacterias o virus nocivos, como el de la influenza, antes de 
+alimentar un ternero. Este tratamiento térmico debe ser similar a los tiempos y temperaturas 
+habituales en el proceso comercial de pasteurización de la leche. 
+• Seguridad de la leche y los productos lácteos no pasteurizados destinados al consumo humano. 
+La leche cruda y los productos lácteos a base de leche cruda no deben venderse ni distribuirse 
+para el consumo humano. 
+• Eliminación de la leche desechada. La eliminación de la leche debe realizarse de forma que se evite 
+la exposición a otros animales
+Text Len: 1140
+--------------------------------------------------------------------------------
+cteos a base de leche cruda no deben venderse ni distribuirse 
+para el consumo humano. 
+• Eliminación de la leche desechada. La eliminación de la leche debe realizarse de forma que se evite 
+la exposición a otros animales. La FDA recomienda a los productores que tomen precauciones al 
+desechar la leche de las vacas afectadas para que no se convierta en una fuente de propagación. Los 
+productores deben consultar con las autoridades reguladoras de su estado para obtener 
+recomendaciones o requisitos específicos, sin embargo, tales precauciones podrían incluir el 
+tratamiento térmico o la pasteurización de la leche desechada antes de verterla en las lagunas o la 
+aplicación de sólidos de desecho y garantizar la bioseguridad alrededor de las lagunas (por ejemplo, 
+garantizar que los animales y las aves no tengan acceso a las mismas). 
+• Segregación de la leche de vacas lactantes infectadas. Se debe tener el máximo cuidado para 
+segregar a las vacas lactantes que se sabe que están activamente infectadas con H5N1 para que su 
+leche no entre en el suministro de alimentos, de acuerdo con la Ordenanza de Leche Pasteurizada. 
+One
+Text Len: 1137
+--------------------------------------------------------------------------------
+ener el máximo cuidado para 
+segregar a las vacas lactantes que se sabe que están activamente infectadas con H5N1 para que su 
+leche no entre en el suministro de alimentos, de acuerdo con la Ordenanza de Leche Pasteurizada. 
+One Health: colaboración entre agricultura y salud pública. Monitorear a los granjeros y a los 
+trabajadores de las granjas con exposición a ganado vacuno infectado es importante para la salud humana 
+y animal. El APHIS seguirá compartiendo la información de sus investigaciones en coordinación con los 
+Centros para el Control y Prevención de Enfermedades (CDC, por sus siglas en inglés),  como ha sido el 
+7  
+procedimiento habitual con la influenza en aves de corral y cerdos. Los Centros para el Control y la 
+Prevención de Enfermedades (CDC) están trabajando con los departamentos de salud estatales y locales 
+para seguir monitoreando a los trabajadores que puedan haber estado en contacto con animales 
+infectados o potencialmente infectados y realizar pruebas a las personas que desarrollen síntomas. 
+ 
+Las personas expuestas a ganado vacuno, aves u otros animales infectados por el HPAI A (H5N1) [incluidas las 
+personas que lleven puest
+Text Len: 1172
+--------------------------------------------------------------------------------
+mente infectados y realizar pruebas a las personas que desarrollen síntomas. 
+ 
+Las personas expuestas a ganado vacuno, aves u otros animales infectados por el HPAI A (H5N1) [incluidas las 
+personas que lleven puesto el equipo de protección personal (PPE, por sus siglas en inglés) recomendado] 
+deben ser monitoreadas diariamente para detectar signos y síntomas de enfermedad respiratoria aguda a 
+partir de su primera exposición y durante 10 días después de su última exposición. Las granjas con rebaños 
+que den positivo a la HPAI deben implementar un monitoreo activo diario realizado en la granja utilizando 
+una simple encuesta de síntomas, que los CDC proporcionan a las agencias de salud pública estatales y 
+locales y que también puede estar disponible directamente para los granjeros. 
+Diariamente, las granjas deben compartir con un departamento de salud pública local el número total de 
+personal que puede haber estado expuesto a ganado vacuno u otros animales infectados y que ahora está 
+siendo monitoreado para detectar síntomas, con el fin de mantener la concienciación sobre la posible 
+propagación de la infección. 
+Text Len: 1134
+--------------------------------------------------------------------------------
+personal que puede haber estado expuesto a ganado vacuno u otros animales infectados y que ahora está 
+siendo monitoreado para detectar síntomas, con el fin de mantener la concienciación sobre la posible 
+propagación de la infección. 
+ 
+Las personas sintomáticas deben ser referidas a la salud pública local para una rápida evaluación médica, 
+pruebas y tratamiento, como el inicio del tratamiento antiviral con Oseltamivir (Tamiflu) lo antes posible. 
+Hay disponible información adicional relacionada con el monitoreo de la salud pública y la prevención de 
+exposiciones al virus H5N1 en la página web del CDC. 
+Las personas deben adoptar medidas para reducir el riesgo de infección por los virus de la influenza aviar A 
+asociados al trabajo con animales o materiales como la leche cruda. Las granjas deben seguir la guía de los 
+CDC para los trabajadores, incluyendo el uso de equipos de protección personal para minimizar el riesgo de 
+transmisión de la HPAI en la granja. Estas recomendaciones e información adicional pueden encontrarse en 
+los siguientes enlaces: 
+ Recomendaciones para la protección de los trabajadores y
+Text Len: 1129
+--------------------------------------------------------------------------------
+ minimizar el riesgo de 
+transmisión de la HPAI en la granja. Estas recomendaciones e información adicional pueden encontrarse en 
+los siguientes enlaces: 
+ Recomendaciones para la protección de los trabajadores y el uso de equipos de protección 
+personal (PPE) para reducir la exposición a los nuevos virus de la influenza A asociados a 
+enfermedad grave en seres humanos  |Influenza aviar (gripe) (cdc.gov)   
+ Prevención y tratamiento antiviral de los virus de la influenza aviar en las personas | Influenza aviar 
+(gripe) (cdc.gov) 
+ 
+Se recomienda a los productores con rebaños que den positivo que trabajen con las agencias de salud 
+pública locales y estatales, por ejemplo, permitiendo el acceso del personal de salud pública para llevar a 
+cabo actividades en la granja. Los expertos en salud humana y animal necesitan urgentemente 
+comprender mejor la propagación del virus H5N1 y cómo se manifiesta y podría afectar tanto a la salud 
+animal como a la humana. No hay sustituto para captar información en tiempo real a través de encuestas 
+y monitoreando los indicadores clave de salud de los agricultores y
+Text Len: 1118
+--------------------------------------------------------------------------------
+5N1 y cómo se manifiesta y podría afectar tanto a la salud 
+animal como a la humana. No hay sustituto para captar información en tiempo real a través de encuestas 
+y monitoreando los indicadores clave de salud de los agricultores y trabajadores agrícolas que están o han 
+experimentado síntomas. Los productores y trabajadores de las granjas que lo deseen deben comunicarse 
+con su agencia local de salud pública. 
+Text Len: 414
+--------------------------------------------------------------------------------
+1 
+Influenza aviar altamente patógena: 
+Desafíos en la implementación de prácticas de 
+bioseguridad para los productores comerciales 
+de pavo y huevos de mesa Mayo de 2024 
+INTRODUCCIÓN 
+La influenza aviar altamente patógena (HPAI) es una enfermedad grave, altamente contagiosa y muchas 
+veces fatal para pollos y pavos. El Servicio de Inspección Sanitaria de Animales y Plantas (APHIS) del 
+Departamento de Agricultura de EE. UU. (USDA) hizo dos estudios para investigar los factores potenciales 
+de riesgo de la introducción del virus de la HPAI en las granjas en el 2022. Un estudio se centró en las 
+granjas comerciales que crían pavos para carne. El otro estudio se centró en las granjas comerciales de 
+huevos de mesa, incluyendo de cría, de gallinas y de ponedoras de huevos de mesa. En el estudio de pavo 
+participaron 125 granjas de 12 estados. Entre enero y octubre de 2022, se confirmaron casos positivos de 
+HPAI en granjas de pavos. En el estudio de huevos de mesa participaron 40 granjas de 8 estados. Entre 
+febrero y septiembre de 2022, se confirmaron casos positivos de HPAI en granjas de huevos de mesa. En 
+ambos
+Text Len: 1131
+--------------------------------------------------------------------------------
+ivos de 
+HPAI en granjas de pavos. En el estudio de huevos de mesa participaron 40 granjas de 8 estados. Entre 
+febrero y septiembre de 2022, se confirmaron casos positivos de HPAI en granjas de huevos de mesa. En 
+ambos estudios, se seleccionaron granjas de control de los mismos estados que las granjas de caso, pero 
+las granjas de control no tenían HPAI durante el mismo período (Figura 1).  
+. 
+Figura 1. Estados que participaron en los estudios de pavo y huevos de mesa. 
+Participantes: 
+Pavo 
+Huevo de mesa 
+Ambos 
+El APHIS informó previamente sobre los factores de riesgo de la introducción de la HPAI en granjas 
+comerciales de pavo y de huevos de mesa, basándose en los resultados de estos estudios. Este informe 
+presenta los resultados de la información que dieron los productores sobre los desafíos de bioseguridad 
+relacionados con el pienso, el personal y el equipo. El objetivo de este informe es ofrecer una perspectiva 
+nacional de estos desafíos, aumentar la conciencia de los problemas a nivel nacional y, quizás, identificar 
+áreas para enfocar las mejoras de bioseguridad para reducir el riesgo potencial de la HPAI en
+Text Len: 1140
+--------------------------------------------------------------------------------
+cer una perspectiva 
+nacional de estos desafíos, aumentar la conciencia de los problemas a nivel nacional y, quizás, identificar 
+áreas para enfocar las mejoras de bioseguridad para reducir el riesgo potencial de la HPAI en las granjas 
+comerciales
+Para entender mejor las perspectivas de la industria de las áreas de bioseguridad que pueden ser difíciles 
+de implementar, ambos estudios preguntaron a los participantes que tan difícil es para los productores 
+alcanzar diversos objetivos de bioseguridad (nada, poco, algo, bastante o extremadamente difícil). Las 
+infografías de las Figuras 2–7 presentan los resultados combinados de todas las granjas participantes de 
+pavo y huevos de mesa (de caso y de control). Debido al pequeño tamaño de la muestra en algunas de las 
+categorías de respuesta, se combinaron los niveles “bastante” y “extremadamente” difícil en el análisis. En 
+los siguientes gráficos, los números pueden no sumar 100 por el redondeo. 
+2 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE PAVO 
+Figura 2. Desafío de bioseguridad de piensos en granjas de pavo 
+Mantener el
+Text Len: 1091
+--------------------------------------------------------------------------------
+es gráficos, los números pueden no sumar 100 por el redondeo. 
+2 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE PAVO 
+Figura 2. Desafío de bioseguridad de piensos en granjas de pavo 
+Mantener el pienso seguro de los roedores 
+Mantener el pienso seguro de la 
+fauna silvestre 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente 
+Resumen de la Figura 2: 
+• Un poco más de una quinta 
+parte de los encuestados informó 
+que mantener el pienso seguro 
+de los roedores era “algo” a 
+“extremadamente” difícil (21.7%). 
+• Muy pocos encuestados dijeron 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil (1.6%). 
+• La mayoría de los encuestados 
+informaron que mantener el pienso 
+seguro de la fauna silvestre era 
+“nada” difícil (71.8%) en comparación 
+con los que informaron que mantener 
+el pienso seguro de los roedores era 
+“nada” difícil (54.0%). 
+Text Len: 906
+--------------------------------------------------------------------------------
+ pienso 
+seguro de la fauna silvestre era 
+“nada” difícil (71.8%) en comparación 
+con los que informaron que mantener 
+el pienso seguro de los roedores era 
+“nada” difícil (54.0%). 
+Figura 3. Desafíos de personal y bioseguridad general en granjas de pavo 
+Contratar nuevo personal 
+Retener al personal capacitado 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente Comunicar la importancia de la 
+bioseguridad al personal 
+Aplicar las medidas diarias 
+de bioseguridad 
+Resumen de la Figura 3: 
+• Un poco más de la mitad de los encuestados 
+del estudio de pavos informó que contratar 
+nuevo personal era “bastante” o 
+“extremadamente” difícil (54.5%). 
+• Casi un tercio informó que retener al personal 
+capacitado era “bastante” o “extremadamente” 
+difícil (31.4%). 
+• Menos encuestados indicaron que comunicar 
+la importancia de la bioseguridad al personal 
+(19.0%) o aplicar las medidas diarias de 
+bioseguridad (15.7%) era “bastante” o 
+“extremad
+Text Len: 963
+--------------------------------------------------------------------------------
+ (31.4%). 
+• Menos encuestados indicaron que comunicar 
+la importancia de la bioseguridad al personal 
+(19.0%) o aplicar las medidas diarias de 
+bioseguridad (15.7%) era “bastante” o 
+“extremadamente” difícil. 
+3
+Figura 4. Desafíos de bioseguridad de vehículos y equipos pequeños
+en granjas de pavo
+Mantener los vehículos compartido 
+limpios y desinfectados 
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente
+Resumen de la Figura 4: 
+• Más encuestados informaron que mantener 
+los equipos pequeños compartidos limpios 
+y desinfectados era “nada” difícil (71.8%) 
+en comparación con los que informaron 
+que mantener los vehículos compartidos 
+limpios y desinfectados era “nada” difícil 
+(55.1%). 
+• Solo un pequeño porcentaje de los 
+participantes del estudio informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados (12.7%) y que mantener 
+los equipos pequeños compartidos 
+limpios y desinfectados
+Text Len: 997
+--------------------------------------------------------------------------------
+1%). 
+• Solo un pequeño porcentaje de los 
+participantes del estudio informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados (12.7%) y que mantener 
+los equipos pequeños compartidos 
+limpios y desinfectados era “bastante” o 
+“extremadamente” difícil (12.0%). 
+DESAFÍOS DE BIOSEGURIDAD DE LOS PRODUCTORES DE HUEVO DE MESA 
+Figura 5. Desafíos de bioseguridad de piensos en granjas de huevos de mesa 
+Mantener el pienso seguro de los roedores 
+Mantener el pienso seguro de la 
+fauna silvestre 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extremada-
+mente 
+ 
+ 
+Resumen de la Figura 5: 
+• Un cuarto de los encuestados del 
+estudio de huevos de mesa comerciales 
+informó que mantener el pienso 
+seguro de roedores era “bastante” o 
+“extremadamente” difícil (25.0%). 
+• Ninguno de los encuestados informó 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil. 
+• La mayoría
+Text Len: 931
+--------------------------------------------------------------------------------
+remadamente” difícil (25.0%). 
+• Ninguno de los encuestados informó 
+que mantener el pienso seguro de 
+la fauna silvestre era “bastante” o 
+“extremadamente” difícil. 
+• La mayoría de los encuestados 
+informaron que mantener el pienso 
+seguro de la fauna silvestre era “nada” 
+difícil (47.5%) en comparación con los 
+que informaron que mantener el pienso 
+seguro de los roedores era “nada” difícil 
+(25.0%). 
+4 
+Figura 6. Desafíos de personal y bioseguridad general en granjas de huevos de mesa 
+Contratar nuevo personal 
+Retener al personal capacitado 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente Comunicar la importancia de la 
+bioseguridad al personal 
+Aplicar las medidas diarias de bioseguridad 
+Resumen de la Figura 6: 
+• Un poco más de la mitad de todos los 
+participantes en el estudio del huevo de mesa 
+informó que contratar nuevo personal era 
+“bastante” o “extremadamente” difícil (52.5%). 
+• Solo un pequeño porcentaje de participantes 
+informó
+Text Len: 978
+--------------------------------------------------------------------------------
+ de todos los 
+participantes en el estudio del huevo de mesa 
+informó que contratar nuevo personal era 
+“bastante” o “extremadamente” difícil (52.5%). 
+• Solo un pequeño porcentaje de participantes 
+informó que retener al personal capacitado era 
+“bastante” o “extremadamente” difícil (15.0%). 
+• Solo un pequeño porcentaje de los 
+participantes en el estudio del huevo de mesa 
+indicó que comunicar la importancia de la 
+bioseguridad al personal era “bastante” o 
+“extremadamente” difícil (10.0%). 
+• Sin embargo, casi el doble informó que aplicar 
+las medidas diarias de bioseguridad era 
+“bastante” o “extremadamente” difícil (22.5%). 
+Figura 7. Desafíos de bioseguridad de vehículos y equipos pequeños en 
+granjas de huevos de mesa 
+Mantener los vehículos compartido 
+limpios y desinfectados 
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente 
+Resumen de la Figura 7: 
+• Casi un
+Text Len: 966
+--------------------------------------------------------------------------------
+
+Mantener los equipos pequeños 
+compartidos limpios y desinfectados 
+Nivel de 
+desafío: 
+Nada 
+Poco 
+Algo 
+Bastante/ 
+extrema-
+damente 
+Resumen de la Figura 7: 
+• Casi un tercio de los encuestados en el 
+estudio del huevo de mesa informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados era “nada” difícil (32.5%). 
+• Más de la mitad de los participantes en el 
+estudio del huevo de mesa informó que 
+mantener los vehículos compartidos limpios 
+y desinfectados era “poco” o “algo” difícil 
+(55.0%). 
+• Casi la mitad de los participantes informó 
+que mantener los pequeños equipos 
+compartidos limpios y desinfectados era 
+“nada” difícil (42.5%). 
+• Solo un pequeño porcentaje de los 
+participantes dijo que mantener los vehículos 
+compartidos limpios y desinfectados (12.5%) 
+o los equipos pequeños compartidos limpios 
+y desinfectados (15.0%) era “bastante” o 
+“extremadamente” difícil. 
+5 
+CONSIDERACIONES DE BIOSEGURIDAD PARA TRATAR LOS DESAFÍOS
+Text Len: 964
+--------------------------------------------------------------------------------
+ 
+o los equipos pequeños compartidos limpios 
+y desinfectados (15.0%) era “bastante” o 
+“extremadamente” difícil. 
+5 
+CONSIDERACIONES DE BIOSEGURIDAD PARA TRATAR LOS DESAFÍOS 
+Considerando los factores de riesgo identificados en los estudios de control y de caso y los desafíos de 
+bioseguridad que informaron los productores como se describe arriba, estas son algunas acciones con 
+base científica para implementar en la granja. Los resultados de estos estudios también los puede usar la 
+industria para ayudar a respaldar y tratar los desafíos más frecuentemente reportado que los productores 
+identificaron en sus granjas. 
+Mantenga el pienso seguro 
+de los roedores y la fauna 
+silvestre para prevenir la 
+transmisión de la influenza 
+aviar y otras enfermedades. 
+Exija al personal que se cambie 
+de ropa (incluyendo los zapatos) 
+antes de ir a un establo diferente. 
+Asigne a los trabajadores de la 
+granja a establos específicos 
+cuando sea posible. 
+Limpie y desinfecte los 
+vehículos y equipos 
+compartidos para evitar 
+la transmisión de virus 
+que puedan causar 
+enfermed
+Text Len: 1080
+--------------------------------------------------------------------------------
+igne a los trabajadores de la 
+granja a establos específicos 
+cuando sea posible. 
+Limpie y desinfecte los 
+vehículos y equipos 
+compartidos para evitar 
+la transmisión de virus 
+que puedan causar 
+enfermedades. 
+RECURSOS 
+Para ver los infográficos sobre este estudio, visite USDA APHIS | Influenza aviar 
+altamente patógena (HPAI)
+ 
+o escanee el código QR y busque en Resources for 
+Producers (Recursos para los Productores).
+Green, A. L., Branan, M. A., Fields, V., Patyk, K. A., Kolar, S. K., Beam, A., Marshall, K. L., McGuigan, R. 
+E., Vuolo, M., Freifeld, A.,Torchetti, M. K., Lantz, K., & Delgado, A. H. (2023). Investigation of risk factors 
+for introduction of highly pathogenic avian influenza H5N1 virus onto table egg farms in the United States, 
+2022: a case–control study. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1229008 
+Patyk, K. A., Fields, V., Beam, A., Branan, M. A., McGuigan, R., Green, A., Torchetti, M. K., Lantz, K., 
+Freifeld, A., Marshall, K. L., & Delgado, 
+A. H. (2023). Investigation of risk factors for
+Text Len: 1064
+--------------------------------------------------------------------------------
+008 
+Patyk, K. A., Fields, V., Beam, A., Branan, M. A., McGuigan, R., Green, A., Torchetti, M. K., Lantz, K., 
+Freifeld, A., Marshall, K. L., & Delgado, 
+A. H. (2023). Investigation of risk factors for introduction of highly 
+pathogenic avian influenza H5N1 infection among commercial turkey operations in the United States, 2022: 
+a case-control study. Frontiers in Veterinary Science, 10. https://doi.org/10.3389/fvets.2023.1229071 
+  
+Text Len: 437
+--------------------------------------------------------------------------------

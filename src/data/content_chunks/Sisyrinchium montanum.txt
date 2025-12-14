@@ -1,0 +1,30 @@
+Family:  Iridaceae  ;
+Species:  Sisyrinchium montanumGreene  ;
+Common Name:  mountain blue-eyed grass  ;
+Habitat:  Fields and pastures.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Forb/herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FAC (NCNE),FAC (EMP),S5 (State Rank),G5 (Global Rank), CoC: 1  ;
+References:  **  ;
+
+Text Len: 400
+--------------------------------------------------------------------------------
+Family:  Iridaceae  ;
+Species:  Sisyrinchium montanumGreene  ;
+Common Name:  mountain blue-eyed grass  ;
+Habitat:  Fields and pastures.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Forb/herb  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FAC (NCNE),FAC (EMP),S5 (State Rank),G5 (Global Rank), CoC: 1  ;
+References:  **  ;
+
+Text Len: 400
+--------------------------------------------------------------------------------

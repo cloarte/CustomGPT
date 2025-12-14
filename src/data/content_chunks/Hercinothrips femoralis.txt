@@ -1,0 +1,156 @@
+Crop Knowledge Master
+Hercinothrips femoralis (O.M. Reuter)
+Banded Greenhouse Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+The banded greenhouse thrips attacks a wide variety of plants. Some of the reported hosts for Hawaii include banana, beet, celery, Commelina diffusa (nudiflora), Crinum, chrysanthemum, dwarf milo maize, eggplant, Emilia sonchifolia (flammea), Erechtites hieracifolia, grass, orchids, pineapple, Plantago major, Sochus oleraceus, sugarcane, and tomato. A listing of host plants in North America is given by Eide (1943).
+DISTRIBUTION
+The banded greenhouse thrips is widely distributed throughout the world. In temperate regions, it is mainly found in greenhouses. It occurs out-of-doors in the Tropics and Subtropics. The banded greenhouse thrips is commonly distributed throughout Florida and is most often found as an economic pest in central and South Florida. In Hawaii, this thrips is present on the Big Island, Kauai, Maui and Oahu (since 1934).
+DAMAGE
+Thrips punctures the leaves, flowers, or stems with their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance and eventually browning and dying occurs. Feeding on leaves causes the appearance of small black specks on the undersides of leaves. Eventually, leaf tips wither, curl, and die due to feeding. When thrips feed on flowers, the petals may become flecked
+Text Len: 1568
+--------------------------------------------------------------------------------
+ their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance and eventually browning and dying occurs. Feeding on leaves causes the appearance of small black specks on the undersides of leaves. Eventually, leaf tips wither, curl, and die due to feeding. When thrips feed on flowers, the petals may become flecked, spotted, and deformed and many buds may fail to open. Thrips can be found in greatest numbers between leaf sheaths and the stem (Metcalf, 1962).
+On banana, thrips causes "silver and bronze scars" which may result in damage of economic importance (Zimmerman, 1948). The silvering usually occurs with small infestations of the banded greenhouse thrips. When large infestations occur, or when thrips damage is aggravated by the red spider and other factors, the banana fruit turns a peculiar reddish color which lowers the market value of the fruit even though the edibility of the fruit is not effected (Bianchi, 1946).
+This thrips species was found to mechanically transmit a bacterial disease of beans (Buchanana, 1932).
+BIOLOGY
+The descriptions given below for the immature stages (eggs, larvae, and pupae) are based on life history information adapted from Lewis (1973) for thrips in general. There are 4 instars between the egg and adult. The feeding instars (the first 2 stages) are called larvae and the non-feeding instars are called pupae. Duration of each stage may vary depending on host, temperature and humidity. In a study conducted by White (1916), it took 30 days from egg to adult at an average mean temperature of 73û F. Reproduction usually occurs sexually, but in some species, live young are produced without fertilization (parthenogenesis). Generations are continuous in Hawaii and thrips of all stages may be found on the
+Text Len: 1819
+--------------------------------------------------------------------------------
+ of each stage may vary depending on host, temperature and humidity. In a study conducted by White (1916), it took 30 days from egg to adult at an average mean temperature of 73û F. Reproduction usually occurs sexually, but in some species, live young are produced without fertilization (parthenogenesis). Generations are continuous in Hawaii and thrips of all stages may be found on the same locality of the plant.
+EGGS
+Eggs of thrips belonging to the Thripidae group are cylindrical with both ends rounded. The egg shell is smooth, delicate, and pale white or yellow in color. Eggs are very small, measuring less than 22/1000 inch (550 µ) long by 10/1000 inch (250 µ) wide. They are usually laid singly in a scattered pattern but sometimes may occur in rows alongside or beneath veins. They are partially or completely inserted into an incision made into the plant tissue by the saw-like ovipositor of the female and may be inserted into the underside of leaves or indiscriminately into leaves, cotyledons, glumes, petals or sepals (Lewis, 1973). Eggs hatch in 3 to 6 days but may take as long as 20 days (Ananthakrishnan, 1984).
+LARVAE
+The first instar larvae are white or nearly transparent at first and turn yellow, orange, crimson, or even purple later. Their small bodies consist of the head, 3 thoracic segments, and 11 abdominal segments, 3 pairs of similarly structured legs, and no wing buds. The duration of the first instar is about 1 to 5 days. When the first instars have doubled in size, they find a protected spot and molt. The second instars are slightly darker in color and the shape of their antennae has changed. At first, they are slightly smaller than the first instars but quickly grow to the size they will become as adults (
+Text Len: 1750
+--------------------------------------------------------------------------------
+ no wing buds. The duration of the first instar is about 1 to 5 days. When the first instars have doubled in size, they find a protected spot and molt. The second instars are slightly darker in color and the shape of their antennae has changed. At first, they are slightly smaller than the first instars but quickly grow to the size they will become as adults (Lewis, 1973).
+When the second instars are ready to enter the pupal stage, they usually move into the soil or litter beneath the host plant. They then mold a simple earthen shell lined with a thin silken web (Lewis, 1973). The duration of the larval stage is between 4 to 10 days (Ananthakrishnan, 1984).
+PUPAE
+The first instars of the pupal stage are called prepupae and represent an intermediate stage between the larvae and true pupae. These individuals have wing buds (an early stage of wing development), rudimentary antennae, and do not feed or excrete. A single pupal stage follows after a molt. Pupae have developed antennae that curve back over their head, the wing pads have developed into long sheaths, and the legs and body have assumed adult proportions (Lewis, 1973). The entire pupal stage usually lasts from 3 to 10 days (Ananthakrishnan, 1984).
+ADULTS
+The adult banded greenhouse thrips is about 3/50 inch (1.5 mm) long. Females are slightly longer than the males. The body is dark brown except for the head, thorax, and last abdominal segment which is lighter in color. Legs are yellow, except for the mid and hind femora which are brown. Antennae are brown except for the bases of segments IV and V which are yellow (Kono and Papp, 1977). There are two dark brown bands and a brown spot on the otherwise pale wings from which the common name
+Text Len: 1720
+--------------------------------------------------------------------------------
+ except for the head, thorax, and last abdominal segment which is lighter in color. Legs are yellow, except for the mid and hind femora which are brown. Antennae are brown except for the bases of segments IV and V which are yellow (Kono and Papp, 1977). There are two dark brown bands and a brown spot on the otherwise pale wings from which the common name is derived.
+Egg laying begins within two weeks of adult emergence. Females lay from 30 to 300 eggs during their lifetime depending on the species, individual, and abundance and quality of food. (Lewis, 1973)
+BEHAVIOR
+During the larval stages, the larvae must consume enough food for development into an adult. They are quite nimble and start to feed soon after hatching. In general, adult thrips are active insects.
+MANAGEMENT
+Biological Control
+An anthocorid bug, Orius tristicolor, is a general thrips predator like other species belonging to the Orius genus (Waterhouse and Norris, 1989). In Hawaii, there are two additional species of anthocorid bugs, Orius persequens and Orius insidiosus.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury.
+REFERENCES
+Ananthakrishnan, T.N. 1984. Bioecology of Thrips. Indira Publishing House: Oak Park, Michigan. 233 pages.
+Bianchi. 1946. Notes and exhibitions: Hercinothrips femoralis (Reuter). Proc. Hawaiian Entomol. Soc. 12(3): 481.
+Buchanan, D. 1932. A Bacterial Disease of Beans Transmitted by Heliothrips femoralis Reut. J. Econ. Ent. 25: 49-53.
+Denmark, H.A. 1976. The Banded Greenhouse Thrips
+Text Len: 1533
+--------------------------------------------------------------------------------
+ (Reuter). Proc. Hawaiian Entomol. Soc. 12(3): 481.
+Buchanan, D. 1932. A Bacterial Disease of Beans Transmitted by Heliothrips femoralis Reut. J. Econ. Ent. 25: 49-53.
+Denmark, H.A. 1976. The Banded Greenhouse Thrips, Hercinothrips femoralis (O.M. Reuter), in Florida (Thysanoptera: Thripidae). Florida Department of Agriculture & Consumer Services, Division of Plant Industry. Entomology Circular No. 172.
+Eide, P.M. 1943. Host Plants of the Banded Greenhouse Thrips. J. Econ. Ent. 3692): 327-328.
+Kono, T. and C.S. Papp. 1977. Hercinothrips femoralis (Reuter). pp. 114-115. In: Handbook of Agricultural Pests. State of California Department of Food and Agriculture Division of Plant Industry Laboratory Services - Entomology. 205 pages.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+Metcalf, C.L. and W.P. Flint. 1962. Destructive and Useful Insects Their Habits and Control 4th Edition (Revised by: R.L. Metcalf). McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Palmer, J.M., L.A. Mound and G.J. duHeaume. 1989. Cie Guides to Insects of Importance to Man 2. Thysanoptera. CAB International Institute of Entomology British Museum of Natural History. 73 pages.
+Waterhouse, D. F. and
+Text Len: 1285
+--------------------------------------------------------------------------------
+, Toronto, London. 1087 pages.
+Palmer, J.M., L.A. Mound and G.J. duHeaume. 1989. Cie Guides to Insects of Importance to Man 2. Thysanoptera. CAB International Institute of Entomology British Museum of Natural History. 73 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Frankliniella occidentalis (Pergande). pp. 24-35. In: Biological Control Pacific Prospects - Supplement 1. Australian Centre for International Agriculture Research: Canberra. 123 pages.
+Zimmerman, E.C. 1948. Hercinothrips femoralis (Reuter). pp. 398. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and notes on the Origin, Distribution, Hosts, Parasites, etc. volume. 2: Apterygota to Thysanoptera. The University Press of Hawaii, Honolulu. 475 pages.
+  JAN/1993
+  H-FEMORA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 875
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Hercinothrips femoralis (O.M. Reuter)
+Banded Greenhouse Thrips
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Ronald F.L. Mau, Extension Entomologist
+Jayma L. Martin, Educational Specialist
+Department of Entomology
+Honolulu, Hawaii
+HOSTS
+The banded greenhouse thrips attacks a wide variety of plants. Some of the reported hosts for Hawaii include banana, beet, celery, Commelina diffusa (nudiflora), Crinum, chrysanthemum, dwarf milo maize, eggplant, Emilia sonchifolia (flammea), Erechtites hieracifolia, grass, orchids, pineapple, Plantago major, Sochus oleraceus, sugarcane, and tomato. A listing of host plants in North America is given by Eide (1943).
+DISTRIBUTION
+The banded greenhouse thrips is widely distributed throughout the world. In temperate regions, it is mainly found in greenhouses. It occurs out-of-doors in the Tropics and Subtropics. The banded greenhouse thrips is commonly distributed throughout Florida and is most often found as an economic pest in central and South Florida. In Hawaii, this thrips is present on the Big Island, Kauai, Maui and Oahu (since 1934).
+DAMAGE
+Thrips punctures the leaves, flowers, or stems with their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance and eventually browning and dying occurs. Feeding on leaves causes the appearance of small black specks on the undersides of leaves. Eventually, leaf tips wither, curl, and die due to feeding. When thrips feed on flowers, the petals may become flecked
+Text Len: 1568
+--------------------------------------------------------------------------------
+ their mouth parts and suck up the exuding sap. General thrips injury on foliage causes a characteristic silvery appearance and eventually browning and dying occurs. Feeding on leaves causes the appearance of small black specks on the undersides of leaves. Eventually, leaf tips wither, curl, and die due to feeding. When thrips feed on flowers, the petals may become flecked, spotted, and deformed and many buds may fail to open. Thrips can be found in greatest numbers between leaf sheaths and the stem (Metcalf, 1962).
+On banana, thrips causes "silver and bronze scars" which may result in damage of economic importance (Zimmerman, 1948). The silvering usually occurs with small infestations of the banded greenhouse thrips. When large infestations occur, or when thrips damage is aggravated by the red spider and other factors, the banana fruit turns a peculiar reddish color which lowers the market value of the fruit even though the edibility of the fruit is not effected (Bianchi, 1946).
+This thrips species was found to mechanically transmit a bacterial disease of beans (Buchanana, 1932).
+BIOLOGY
+The descriptions given below for the immature stages (eggs, larvae, and pupae) are based on life history information adapted from Lewis (1973) for thrips in general. There are 4 instars between the egg and adult. The feeding instars (the first 2 stages) are called larvae and the non-feeding instars are called pupae. Duration of each stage may vary depending on host, temperature and humidity. In a study conducted by White (1916), it took 30 days from egg to adult at an average mean temperature of 73û F. Reproduction usually occurs sexually, but in some species, live young are produced without fertilization (parthenogenesis). Generations are continuous in Hawaii and thrips of all stages may be found on the
+Text Len: 1819
+--------------------------------------------------------------------------------
+ of each stage may vary depending on host, temperature and humidity. In a study conducted by White (1916), it took 30 days from egg to adult at an average mean temperature of 73û F. Reproduction usually occurs sexually, but in some species, live young are produced without fertilization (parthenogenesis). Generations are continuous in Hawaii and thrips of all stages may be found on the same locality of the plant.
+EGGS
+Eggs of thrips belonging to the Thripidae group are cylindrical with both ends rounded. The egg shell is smooth, delicate, and pale white or yellow in color. Eggs are very small, measuring less than 22/1000 inch (550 µ) long by 10/1000 inch (250 µ) wide. They are usually laid singly in a scattered pattern but sometimes may occur in rows alongside or beneath veins. They are partially or completely inserted into an incision made into the plant tissue by the saw-like ovipositor of the female and may be inserted into the underside of leaves or indiscriminately into leaves, cotyledons, glumes, petals or sepals (Lewis, 1973). Eggs hatch in 3 to 6 days but may take as long as 20 days (Ananthakrishnan, 1984).
+LARVAE
+The first instar larvae are white or nearly transparent at first and turn yellow, orange, crimson, or even purple later. Their small bodies consist of the head, 3 thoracic segments, and 11 abdominal segments, 3 pairs of similarly structured legs, and no wing buds. The duration of the first instar is about 1 to 5 days. When the first instars have doubled in size, they find a protected spot and molt. The second instars are slightly darker in color and the shape of their antennae has changed. At first, they are slightly smaller than the first instars but quickly grow to the size they will become as adults (
+Text Len: 1750
+--------------------------------------------------------------------------------
+ no wing buds. The duration of the first instar is about 1 to 5 days. When the first instars have doubled in size, they find a protected spot and molt. The second instars are slightly darker in color and the shape of their antennae has changed. At first, they are slightly smaller than the first instars but quickly grow to the size they will become as adults (Lewis, 1973).
+When the second instars are ready to enter the pupal stage, they usually move into the soil or litter beneath the host plant. They then mold a simple earthen shell lined with a thin silken web (Lewis, 1973). The duration of the larval stage is between 4 to 10 days (Ananthakrishnan, 1984).
+PUPAE
+The first instars of the pupal stage are called prepupae and represent an intermediate stage between the larvae and true pupae. These individuals have wing buds (an early stage of wing development), rudimentary antennae, and do not feed or excrete. A single pupal stage follows after a molt. Pupae have developed antennae that curve back over their head, the wing pads have developed into long sheaths, and the legs and body have assumed adult proportions (Lewis, 1973). The entire pupal stage usually lasts from 3 to 10 days (Ananthakrishnan, 1984).
+ADULTS
+The adult banded greenhouse thrips is about 3/50 inch (1.5 mm) long. Females are slightly longer than the males. The body is dark brown except for the head, thorax, and last abdominal segment which is lighter in color. Legs are yellow, except for the mid and hind femora which are brown. Antennae are brown except for the bases of segments IV and V which are yellow (Kono and Papp, 1977). There are two dark brown bands and a brown spot on the otherwise pale wings from which the common name
+Text Len: 1720
+--------------------------------------------------------------------------------
+ except for the head, thorax, and last abdominal segment which is lighter in color. Legs are yellow, except for the mid and hind femora which are brown. Antennae are brown except for the bases of segments IV and V which are yellow (Kono and Papp, 1977). There are two dark brown bands and a brown spot on the otherwise pale wings from which the common name is derived.
+Egg laying begins within two weeks of adult emergence. Females lay from 30 to 300 eggs during their lifetime depending on the species, individual, and abundance and quality of food. (Lewis, 1973)
+BEHAVIOR
+During the larval stages, the larvae must consume enough food for development into an adult. They are quite nimble and start to feed soon after hatching. In general, adult thrips are active insects.
+MANAGEMENT
+Biological Control
+An anthocorid bug, Orius tristicolor, is a general thrips predator like other species belonging to the Orius genus (Waterhouse and Norris, 1989). In Hawaii, there are two additional species of anthocorid bugs, Orius persequens and Orius insidiosus.
+CHEMICAL CONTROL
+Various insecticides are effective in reducing direct feeding injury.
+REFERENCES
+Ananthakrishnan, T.N. 1984. Bioecology of Thrips. Indira Publishing House: Oak Park, Michigan. 233 pages.
+Bianchi. 1946. Notes and exhibitions: Hercinothrips femoralis (Reuter). Proc. Hawaiian Entomol. Soc. 12(3): 481.
+Buchanan, D. 1932. A Bacterial Disease of Beans Transmitted by Heliothrips femoralis Reut. J. Econ. Ent. 25: 49-53.
+Denmark, H.A. 1976. The Banded Greenhouse Thrips
+Text Len: 1533
+--------------------------------------------------------------------------------
+ (Reuter). Proc. Hawaiian Entomol. Soc. 12(3): 481.
+Buchanan, D. 1932. A Bacterial Disease of Beans Transmitted by Heliothrips femoralis Reut. J. Econ. Ent. 25: 49-53.
+Denmark, H.A. 1976. The Banded Greenhouse Thrips, Hercinothrips femoralis (O.M. Reuter), in Florida (Thysanoptera: Thripidae). Florida Department of Agriculture & Consumer Services, Division of Plant Industry. Entomology Circular No. 172.
+Eide, P.M. 1943. Host Plants of the Banded Greenhouse Thrips. J. Econ. Ent. 3692): 327-328.
+Kono, T. and C.S. Papp. 1977. Hercinothrips femoralis (Reuter). pp. 114-115. In: Handbook of Agricultural Pests. State of California Department of Food and Agriculture Division of Plant Industry Laboratory Services - Entomology. 205 pages.
+Lewis, T. 1973. Thrips Their Biology, Ecology and Economic Importance. Academic Press: London, New York. 349 pages.
+Metcalf, C.L. and W.P. Flint. 1962. Destructive and Useful Insects Their Habits and Control 4th Edition (Revised by: R.L. Metcalf). McGraw-Hill Book Company; New York, San Francisco, Toronto, London. 1087 pages.
+Palmer, J.M., L.A. Mound and G.J. duHeaume. 1989. Cie Guides to Insects of Importance to Man 2. Thysanoptera. CAB International Institute of Entomology British Museum of Natural History. 73 pages.
+Waterhouse, D. F. and
+Text Len: 1285
+--------------------------------------------------------------------------------
+, Toronto, London. 1087 pages.
+Palmer, J.M., L.A. Mound and G.J. duHeaume. 1989. Cie Guides to Insects of Importance to Man 2. Thysanoptera. CAB International Institute of Entomology British Museum of Natural History. 73 pages.
+Waterhouse, D. F. and K. R. Norris. 1989. Chapter 4 Frankliniella occidentalis (Pergande). pp. 24-35. In: Biological Control Pacific Prospects - Supplement 1. Australian Centre for International Agriculture Research: Canberra. 123 pages.
+Zimmerman, E.C. 1948. Hercinothrips femoralis (Reuter). pp. 398. In: Insects of Hawaii. A Manual of the Insects of the Hawaiian Islands, including Enumeration of the Species and notes on the Origin, Distribution, Hosts, Parasites, etc. volume. 2: Apterygota to Thysanoptera. The University Press of Hawaii, Honolulu. 475 pages.
+  JAN/1993
+  H-FEMORA
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 875
+--------------------------------------------------------------------------------

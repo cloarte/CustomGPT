@@ -1,0 +1,3616 @@
+ 
+ 
+Human Health and 
+Ecological Risk 
+Assessment for 
+STATIC™ Spinosad ME 
+Bait Applications  
+ 
+ 
+ 
+March 2014 
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+Marketing and 
+Regulatory 
+Programs 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service 
+ 
+ 
+Human Health and Ecological 
+Risk Assessment for STATIC™ 
+Spinosad ME Bait Applications 
+ 
+ 
+ 
+ 
+ 
+March 2014 
+ 
+ 
+ 
+ 
+Agency Contact 
+Jim E. Warren Ph.D. and Fan Wang-Cahill Ph.D. 
+Animal Plant Health Inspection Service 
+U.S. Department of Agriculture 
+4700 River Road, Unit 149 
+Riverdale, MD  20737 
+ 
+ __________________________________________________________  
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, sex, 
+religion, age, disability, political beliefs, sexual orientation, or marital or family 
+status.  (Not all prohibited bases apply to all programs.)  Persons with 
+disabilities who require alternative means for communication of program 
+information (Braille, large print, audiotape, etc.) should contact the USDA 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice
+Text Len: 1344
+--------------------------------------------------------------------------------
+ USDA 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal 
+opportunity provider and employer. 
+ __________________________________________________________  
+Mention of companies or commercial products in this report does not imply 
+recommendation or endorsement by the U.S. Department of Agriculture over 
+others not mentioned.  USDA neither guarantees nor warrants the standard of 
+any product mentioned.  Product names are mentioned solely to report 
+factually on available data and to provide specific information. 
+ __________________________________________________________  
+This publication reports research involving pesticides.  All uses of pesticides 
+must be registered by appropriate State and/or Federal agencies before they 
+can be recommended.   
+ __________________________________________________________  
+CAUTION:  Pesticides can be injurious to humans, domestic animals,  
+desirable plants, and fish or other wildlife—if they are not handled or applied  
+properly.  Use all pesticides selectively and carefully.  Follow recommended  
+practices for the disposal of surplus pesticides and pesticide containers. 
+ 
+Table of Contents 
+ 
+EXECUTIVE SUMMARY .............................................................................................. i 
+1.0 INTRODUCTION ................................................................................................ 1 
+2.0 PROBLEM FORMULATION ............................................................................... 1 
+2.1 Chemical Description and Product Use ........................................................................ 2 
+2.2 Physical and Chemical Properties ................................................................................ 2 
+2.3 Environmental Fate....................................................................................................... 4 
+2.4 Hazard
+Text Len: 2103
+--------------------------------------------------------------------------------
+ARY .............................................................................................. i 
+1.0 INTRODUCTION ................................................................................................ 1 
+2.0 PROBLEM FORMULATION ............................................................................... 1 
+2.1 Chemical Description and Product Use ........................................................................ 2 
+2.2 Physical and Chemical Properties ................................................................................ 2 
+2.3 Environmental Fate....................................................................................................... 4 
+2.4 Hazard Identification .................................................................................................... 5 
+3.0. DOSE-RESPONSE ASSESSMENT ....................................................................... 8 
+3.1 Human Health Dose-Response Assessment ................................................................. 8 
+3.2 Ecological Dose-Response Assessment ....................................................................... 8 
+4.0 EXPOSURE ASSESSMENT ................................................................................13 
+4.1 Human Health Exposure Assessment ......................................................................... 13 
+4.2 Ecological Exposure Assessment ............................................................................... 15 
+5.0 RISK CHARACTERIZATION .............................................................................16 
+5.1 Human Health ............................................................................................................. 16 
+5.2 Ecological ................................................................................................................... 16 
+6.0 UNCERTAINTIES/CUMULATIVE EFFECTS .....................................................17 
+7.0 REFERENCES ....................................................................................................20 
+Appendix: Risk Estimation for Accidental Occupational Dermal Exposure ........................ 25 
+ 
+ 
+i 
+ 
+EXECUTIVE SUMMARY 
+ 
+USDA APHIS Plant Protection and Quarantine (PPQ) is proposing to use a new formulation of 
+spinosad in its fruit fly eradication program.  Spinosad is currently used in the program however 
+there is a need to develop a new formulation with increased efficacy and as a potential 
+replacement for a similar formulation that uses the organophosphate insecticide naled.  The 
+proposed formulation STATIC™ Spinosad ME contains the
+Text Len: 2636
+--------------------------------------------------------------------------------
+ formulation of 
+spinosad in its fruit fly eradication program.  Spinosad is currently used in the program however 
+there is a need to develop a new formulation with increased efficacy and as a potential 
+replacement for a similar formulation that uses the organophosphate insecticide naled.  The 
+proposed formulation STATIC™ Spinosad ME contains the insecticide spinosad, as well as the 
+attractant methyl eugenol, which is designed to attract and kill, male fruit flies.   
+ 
+USDA APHIS evaluated the potential human health and ecological risks from the proposed use 
+of STATIC™ Spinosad ME in this assessment and determined that the risks to human health and 
+the environment are negligible.  The lack of risk to human health and the environment is based 
+on the low probability of exposure to human health and the environment and favorable 
+environmental fate and effects data.  The method of application for STATIC™ Spinosad ME is 
+by hand as dollops or large droplets to sites on telephone poles, light poles, fences, other 
+inanimate objects, non-crop tree trunks or limbs and non-edible foliage. The proposed method of 
+application substantially reduces the potential for exposure to human health and the environment, 
+such as nontarget fish and wildlife.  Risks to workers and the general population are expected to 
+be minimal based on the labeled use, lack of application to food crops, and a favorable toxicity 
+profile when considering acute or chronic effects.  Risks to nontarget fish and wildlife are also 
+anticipated to be negligible based on the proposed use pattern resulting in a low potential for 
+exposure to most taxa.  A favorable environmental fate profile and low toxicity to most nontarget 
+organisms further reduces the risk to terrestrial and aquatic animals. 
+ 
+Text Len: 1793
+--------------------------------------------------------------------------------
+ a favorable toxicity 
+profile when considering acute or chronic effects.  Risks to nontarget fish and wildlife are also 
+anticipated to be negligible based on the proposed use pattern resulting in a low potential for 
+exposure to most taxa.  A favorable environmental fate profile and low toxicity to most nontarget 
+organisms further reduces the risk to terrestrial and aquatic animals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+1.0 INTRODUCTION 
+ 
+USDA APHIS is proposing to use a new formulation of spinosad, STATICTM Spinosad ME, in 
+its fruit fly eradication program.  This product has been shown to effectively control fruit flies 
+and is intended to supplement other uses of spinosad in the program and may reduce the need for 
+naled, an organophosphate insecticide, in its male annihilation technique (MAT) applications 
+(Vargas et al. 2003, 2009).  USDA APHIS has previously assessed the human health and 
+ecological risks of spinosad under different formulations and use patterns however with the 
+proposed new formulation there is a need to determine if this specific formulation and use 
+pattern will pose a risk beyond what has been determined in previous assessments (USDA 
+APHIS1999, 2003).    
+ 
+This human health risk assessment (HHRA) and ecological risk assessment (ERA) provide a 
+quantitative and qualitative evaluation of the potential risks and hazards to human health and 
+non-target fish, and wildlife as a result of exposure to spinosad under the proposed bait  
+applications of STATIC™ Spinosad ME. 
+Text Len: 1539
+--------------------------------------------------------------------------------
+    
+ 
+This human health risk assessment (HHRA) and ecological risk assessment (ERA) provide a 
+quantitative and qualitative evaluation of the potential risks and hazards to human health and 
+non-target fish, and wildlife as a result of exposure to spinosad under the proposed bait  
+applications of STATIC™ Spinosad ME. 
+ 
+The methods used in this HHRA follow standard regulatory guidance and methodologies (NRC 
+1983, USEPA 2013a), and generally conform to other Federal agencies such as U.S. 
+Environmental Protection Agency, Office of Pesticide Programs (USEPA/OPP).  The methods 
+used to assess potential ecological risk to nontarget fish and wildlife follow EPA methodologies 
+regarding eco-risk assessment, with an emphasis on those used by USEPA/OPP in the pesticide 
+registration process.   
+ 
+The following risk assessment is divided into four sections: problem formulation (identifying 
+hazard), exposure assessment (identifying potentially exposed populations and determining 
+potential exposure pathways for these populations), toxicity assessment (the dose-response 
+assessment), and the integration of the exposure and toxicity assessments, or risk 
+characterization. 
+   
+2.0 PROBLEM FORMULATION 
+ 
+Fruit flies in the family Tephritidae are among the most destructive pests of fruits and vegetables 
+around the world.  The genera Anastrepha, Bactrocera, and Ceratitis pose the greatest risk to U.S. 
+agriculture.  Tephritid fruit flies spend their larval stages feeding and growing in over 400 host 
+plants.  Introduction of these pest species into the United States causes economic losses from 
+destruction and spoiling of host commodities by larvae, costs associated with
+Text Len: 1689
+--------------------------------------------------------------------------------
+, Bactrocera, and Ceratitis pose the greatest risk to U.S. 
+agriculture.  Tephritid fruit flies spend their larval stages feeding and growing in over 400 host 
+plants.  Introduction of these pest species into the United States causes economic losses from 
+destruction and spoiling of host commodities by larvae, costs associated with implementing 
+control measures, and loss of market share due to restrictions on shipment of host commodities.  
+The extensive damage and wide host range of tephritid fruit flies become obstacles to 
+agricultural diversification and trade when pest fruit fly species become established in these 
+areas (USDA APHIS 2013).  
+ 
+Spinosad is a broad spectrum insecticide registered for use on agricultural crops, ornamentals, 
+tree farms/plantations, turfgrass, home gardens and lawns (residential use).  It is also registered 
+for drywood termiticide use, poultry use, area-wide fruit fly use, post-harvest grain use, larval 
+mosquitoes, and as a seed treatment (USEPA 2011).   
+ 
+2 
+ 
+ 
+In the USDA APHIS Fruit Fly Eradication Program, spinosad and the attractant, methyl eugenol, 
+are used in combination as a bait to control multiple species of tephritid fruit flies that infest tree, 
+vine and vegetable crops.  The bait is a thick yellow-brown liquid with a sweet fruit odor.  Fruit 
+flies can detect the bait several yards away from the deposition site.  Through ingestion. spinosad 
+over-activates the central nervous system of insects via the nicotinic acetylcholine receptors.  
+Target insects exhibit tremors, trembling, paralysis and eventual death.  APHIS PP
+Text Len: 1599
+--------------------------------------------------------------------------------
+ a thick yellow-brown liquid with a sweet fruit odor.  Fruit 
+flies can detect the bait several yards away from the deposition site.  Through ingestion. spinosad 
+over-activates the central nervous system of insects via the nicotinic acetylcholine receptors.  
+Target insects exhibit tremors, trembling, paralysis and eventual death.  APHIS PPQ proposes to 
+use STATICTM Spinosad ME bait for its programs. 
+ 
+The following sections discuss the chemical description and product use of STATICTM Spinosad 
+ME; physical and chemical properties; environmental fate; and hazard identification for spinosad 
+and methyl eugenol.   
+2.1 Chemical Description and Product Use 
+ 
+STATICTM Spinosad ME is an insecticidal bait containing 2% spinosad (active ingredient) and 
+51% methyl eugenol (a chemical attractant) dispersed within a waxy formulation carrier 
+(SPLATTM).  Spinosad is a mixture of spinosyn A and D (macrocyclic lactones).  The 
+formulation is in a ratio of 85:15 of spinosyn A to D.  Spinosad is produced biologically from the 
+fermentation culture of the actinomycete Saccharopolyspora spinosa, a bacterial organism 
+isolated from soil.  
+ 
+STATICTM Spinosad ME is used for selective attraction and control of male tephritid fruit files 
+of the genus Bactrocera (or other fruit fly species which respond to the male specific attractant 
+methy eugenol).  The product selectively eliminates male fruit flies from a localized area, which 
+disrupts mating leading to decline or local eradication of a fruit fly population.  It is most 
+effective when fruit fly populations
+Text Len: 1574
+--------------------------------------------------------------------------------
+ritid fruit files 
+of the genus Bactrocera (or other fruit fly species which respond to the male specific attractant 
+methy eugenol).  The product selectively eliminates male fruit flies from a localized area, which 
+disrupts mating leading to decline or local eradication of a fruit fly population.  It is most 
+effective when fruit fly populations are maintained at low levels and males are already scarce.   
+ 
+The preferred application method is as small dollops or large droplets targeted as spot 
+applications to stakes, posts, fences, non-crop tree trunks or limbs, artificial targets, or non-edible 
+border vegetation surrounding crop fields.  The proposed use of this new formulation is similar 
+where it will be applied by hand in dollops to sites on telephone poles, light poles, fences, other 
+inanimate objects, non-crop tree trunks or limbs, non-edible foliage where it won’t be readily 
+accessible to the general public.  The application techniques can vary from application of dollops 
+using a spatula or other spreading implement to mechanical or pneumatic meter-jet capable of 
+delivering large droplets.  Aerial applications are not permitted.   
+ 
+The product comes as a ready-to-use formulation.  The application rates of this formulation for 
+spot applications to non-crop surfaces are 3.4 to 6.85 fl oz (0.0045 to 0.009 lb) active ingredient 
+(ai) spinosad per acre.   
+2.2 Physical and Chemical Properties  
+ 
+Spinosad (technical grade) is a light gray to white crystalline solid with an odor of slightly stale 
+water (CDPR 2002).  The chemical structure of spinosad is shown in Figure 2-1.  
+Text Len: 1616
+--------------------------------------------------------------------------------
+009 lb) active ingredient 
+(ai) spinosad per acre.   
+2.2 Physical and Chemical Properties  
+ 
+Spinosad (technical grade) is a light gray to white crystalline solid with an odor of slightly stale 
+water (CDPR 2002).  The chemical structure of spinosad is shown in Figure 2-1.   
+ 
+ 
+3 
+ 
+ 
+Figure 2-1 Spinosad: Spinosyn A + Spinosyn D  
+ 
+ 
+ 
+The physical and chemical properties of spinosad are summarized in Table 2-1.  Spinosad has 
+low volatility potential based on its low vapor pressure and Henry’s Law Constant values.   
+ 
+Table 2-1 Physical and Chemical Properties of Spinsad 
+Common Name Spinosad Reference Chemical Name Spinosyn A Spinosyn D 
+Molecular formula C41H65NO16 C42H67NO16 CDPR 2002 
+CAS No. 131929-60-7 131929-63-0 CDPR 2002 
+Melting point  84oC to 99.5oC 161.5 oC to 170oC USEPA 1997 
+Vapor pressure 
+(25oC) 
+3.0 x 10-11 hPa 
+2.4 x 10-10 mm Hg 
+2.0 x 10-11 hPa 
+1.6 x 10-10 mm Hg 
+USEPA 1997 
+Cleveland et al. 2002 
+Octanol-water 
+Partition 
+Coefficient (Kow)  
+54.6 90 CDPR 2002 
+Partition 
+coefficients (log 
+Kow) at 23oC 
+pH 5:  2.8  
+Text Len: 1060
+--------------------------------------------------------------------------------
+ 10-10 mm Hg 
+USEPA 1997 
+Cleveland et al. 2002 
+Octanol-water 
+Partition 
+Coefficient (Kow)  
+54.6 90 CDPR 2002 
+Partition 
+coefficients (log 
+Kow) at 23oC 
+pH 5:  2.8  
+pH 7:  4 
+pH 9:  5.2 
+3.2 
+4.5 
+5.2 
+USEPA 1997 
+Henry's Law 
+Constant (Kh) at 
+25 °C, pH 7 
+9.82 x 10-10 atm-
+m3/mol 
+ 
+4.87 x 10-7 atm-
+m3/mol 
+CDPR 2002 
+Water solubility 89.4 ppm 
+290 to 16 mg/L 
+with increasing pH 
+0.495 ppm 
+28.7 to 0.05 mg/L 
+(pH 5-9) 
+USEPA 1997 
+Cleveland et al. 2002 
+ 
+Methyl eugenol is a colorless liquid with the odor of cloves.  The CAS # is 93-15-2.  The 
+chemical structure of methyl eugenol is shown in Figure 2-2.  Water solubility is less than 0.1 
+g/100mL at 19oC.  Vapor pressure is 0.01 mm Hg at 20OC (USEPA 2004).  
+ 
+ 
+4 
+ 
+ 
+ 
+Figure 2-2 Chemical Structure of Methyl Eugenol 
+ 
+2.3 Environmental Fate 
+ 
+The environmental fate describes the processes by which spinosad moves and is transformed in 
+the environment.  The environmental fate processes
+Text Len: 961
+--------------------------------------------------------------------------------
+.01 mm Hg at 20OC (USEPA 2004).  
+ 
+ 
+4 
+ 
+ 
+ 
+Figure 2-2 Chemical Structure of Methyl Eugenol 
+ 
+2.3 Environmental Fate 
+ 
+The environmental fate describes the processes by which spinosad moves and is transformed in 
+the environment.  The environmental fate processes include: 1) mobility, persistence, and 
+degradation in soil, 2) movement to air, 3) migration potential to groundwater and surface water, 
+and 4) plant uptake.   
+ 
+Spinosad persistence in the environment is variable in terrestrial and aquatic systems (Table 2-2) 
+(USEPA 1998).  Spinosad is not sensitive to hydrolysis but breaks down rapidly in water in the 
+presence of light with reported photolytic half-lives of less than 1 day.  The rapid photolytic 
+breakdown of spinosad in laboratory studies has also been confirmed in microcosm studies 
+(Cleveland et al. 2002).  Solubility of spinosad in water is pH dependent and is dependent on the 
+structurally similar active ingredients.  Solubility for spinosyn A ranges from 290 to 16 mg/L 
+with increasing pH, while the solubility for spinosyn D is much less but still pH-dependent with 
+values ranging from 28.7 to 0.05 mg/L for pH values between five and nine (Cleveland et al. 
+2002).   
+ 
+Table 2-2.  Reported Half-lives for Spinosad in Soil and Water. 
+Environmental Fate Parameter Reported Half-life 
+Hydrolysis (Spinosyn A/D) No degradation @ pH 5 and 7, pH 9 (200/259 days) 
+Text Len: 1404
+--------------------------------------------------------------------------------
+ nine (Cleveland et al. 
+2002).   
+ 
+Table 2-2.  Reported Half-lives for Spinosad in Soil and Water. 
+Environmental Fate Parameter Reported Half-life 
+Hydrolysis (Spinosyn A/D) No degradation @ pH 5 and 7, pH 9 (200/259 days) 
+Aqueous Photolysis (Spinosyn A/D) 0.93/0.82 days @ pH 7  
+Soil Photolysis (Spinosyn A/D) 82/44 days 
+Aerobic Soil Metabolism (Spinosyn A/D) 9.0–17.3/14.5 days 
+Anaerobic Aquatic Metabolism (Spinosyn A/D) 161/ 205 days 
+Terrestrial Field Dissipation 0.3 to 0.5 days for Spinosyn A 
+ 
+Degradation of spinosyn A and D in soil is rapid under aerobic conditions suggesting spinosad is 
+susceptible to microbial degradation (EPA 1998a, Hale and Portwood 1996).  Spinosad also 
+degrades quickly on plant surfaces with reported half-lives ranging from 2.0 to 11.7 days (CDPR 
+2002, Sharma et al. 2008). 
+ 
+Spinosad is not considered mobile based on the available soil adsorption (Koc) studies that have 
+been conducted on a range of soil types.  Values range from 884 to 145,350, with the lowest 
+value occurring in a loamy sand with 1.1 percent organic matter and a cation exchange capacity 
+ 
+5 
+ 
+(cec) of 1.9, while the highest value is for a silt loam soil with 0.4 percent organic matter and a
+Text Len: 1218
+--------------------------------------------------------------------------------
+ range of soil types.  Values range from 884 to 145,350, with the lowest 
+value occurring in a loamy sand with 1.1 percent organic matter and a cation exchange capacity 
+ 
+5 
+ 
+(cec) of 1.9, while the highest value is for a silt loam soil with 0.4 percent organic matter and a 
+cec of 12.0 (CDPR 2002).  
+  
+Spinosad is not considered to be volatile based on the vapor pressure for both active ingredients, 
+with values of 2.4 x 10-10 mm Hg for spinosyn A and 1.6 x 10-10 mm Hg for spinosyn D 
+(Cleveland et al., 2002).  Chemicals with vapor pressure values less that 1 x 10-6 are considered 
+nonvolatile (CDPR 2002). 
+Methyl eugenol is a volatile compound.  In the atmosphere, methyl eugenol will be degraded by 
+reaction with photochemically-produced hydroxyl radicals.  The half-life for this reaction in air 
+is estimated to be 5 hours (Toxnet 2013).  Based upon an estimated Koc of 140, methyl eugenol 
+released to soil is expected to have high mobility, and methyl eugenol released to water is 
+expected to adsorb moderately to suspended solids and sediment.  Based upon an estimated 
+Henry's Law constant of 5.6 x 10-6 atm-cu m/mole, methyl eugenol in moist soil surface and 
+water surface is expected to volatilize.  Dissipation half-lives of 6 and 16 hours (at 32 and 22 deg 
+C, respectively) in soil and 6 and 34 hours (at 32 and 22 deg C, respectively) in water have been 
+
+Text Len: 1384
+--------------------------------------------------------------------------------
+ 10-6 atm-cu m/mole, methyl eugenol in moist soil surface and 
+water surface is expected to volatilize.  Dissipation half-lives of 6 and 16 hours (at 32 and 22 deg 
+C, respectively) in soil and 6 and 34 hours (at 32 and 22 deg C, respectively) in water have been 
+reported.  Methyl eugenol in water is not expected to undergo hydrolysis in the environment due 
+to the lack of hydrolysable functional groups (Toxnet 2013).  Modelling predicted half-lives of 
+methyl eugenol in soil, water, and sediment were 8 days, 8 days, and 32 days, respectively.  
+These predicted half-lives suggested that methyl eugenol is expected to reside mainly in the 
+environmental compartment to which it is released (Environment Canada 2010).   
+The active ingredients in STATICTM Spinosad ME are applied within a waxy formulation carrier, 
+which serves to impart increased residual and rainfastness to the active ingredient and methyl 
+eugenol lure.  Therefore, the degradation rates of the active ingredient are lower. 
+2.4 Hazard Identification  
+ 
+Spinosad has low acute toxicity and is classified by USEPA as Toxicity Category III (slightly 
+toxic with “caution” warning on label) for acute oral and dermal toxicity and Toxicity Category 
+IV (Not acutely toxic with no warning on label) for acute inhalation toxicity, primary eye 
+irritation, and primary skin irritation (USEPA 2005).  The rat oral median lethal dose (LD50) is 
+3,738 mg/kg for males and >5,000 mg/kg for females, whereas the mouse oral LD50 is >5,000 
+mg/kg. The
+Text Len: 1515
+--------------------------------------------------------------------------------
+ no warning on label) for acute inhalation toxicity, primary eye 
+irritation, and primary skin irritation (USEPA 2005).  The rat oral median lethal dose (LD50) is 
+3,738 mg/kg for males and >5,000 mg/kg for females, whereas the mouse oral LD50 is >5,000 
+mg/kg. The rabbit dermal LD50 is >2,000 mg/kg and the rat inhalation median lethal 
+concentration (LC50) is >5.18 mg/l air (USEPA 1998).   
+ 
+In subchronic toxicity studes the primary effects in mouse were increased vacuolation of cells in 
+the lymphoid organs, liver, kidney, stomach, female reproductive tract, and epididymis, and less 
+severely in the heart, lung, pancreas, adrenal cortex, bone marrow, tongue, pituitary gland, and 
+anemia.  Thyroid follicle epithelial cell vacuolation, anemia, multifocal hepatocellular 
+granuloma, cardiomyopathy and spleenic histiocytosis were observed in rats.  Microscopic 
+changes in a variety of tissues, anemia, and possible liver damage were observed in dogs 
+(USEPA 2005).  Spinosad was evaluated in 13-week dietary studies and showed No Observable 
+Effect Levels (NOELs) of 4.9 mg/kg/day in dogs, 6 mg/kg/day in mice, and 8.6 mg/kg/day in 
+rats. No dermal irritation or systemic toxicity occurred in a 21-day repeated dose dermal toxicity 
+study in rabbits at 1,000 mg/kg/day (USEPA 1998).  It is not a dermal sensitizer based on a lack 
+ 
+
+Text Len: 1344
+--------------------------------------------------------------------------------
+ dogs, 6 mg/kg/day in mice, and 8.6 mg/kg/day in 
+rats. No dermal irritation or systemic toxicity occurred in a 21-day repeated dose dermal toxicity 
+study in rabbits at 1,000 mg/kg/day (USEPA 1998).  It is not a dermal sensitizer based on a lack 
+ 
+6 
+ 
+of toxicity observed at the limit dose in a 21-day dermal toxicity study using rabbits (USEPA 
+2005).   
+ 
+Chronic toxicity studies in the dog and rat report NOELs of 2.68 and 2.72 mg/kg/day, 
+respectively for male and female dogs, and 2.4 and 3.0 mg/kg/day, respectively for male and 
+female rats. 
+ 
+Spinosad is not a neurotoxic agent in acute, subchronic, or chronic toxicity studies.  No 
+neurotoxic effects were observed at the limit dose in an acute neurotoxicity study in rats and at 
+doses up to 42.7 mg/kg/day in a subchronic neurotoxicity study.  In a chronic feeding study in 
+dogs, increases in serum alanine aminotransferase, aspartate aminotransferase, and triglycerides 
+levels, and the presence of tissue abnormalities, including vacuolated cell aggregations, arteritis, 
+and glandular cell vacuolation (parathyroid) were observed.  In a chronic oral toxicity study in 
+rats, vacuolation of thyroid follicular cells, increased absolute, and relative thyroid weights were 
+observed.  In mice, rats, and dogs, other organs including liver, kidney, spleen, heart, thyroid, 
+and bone marrow (anemia) appeared to be the target organs (USEPA
+Text Len: 1406
+--------------------------------------------------------------------------------
+roid) were observed.  In a chronic oral toxicity study in 
+rats, vacuolation of thyroid follicular cells, increased absolute, and relative thyroid weights were 
+observed.  In mice, rats, and dogs, other organs including liver, kidney, spleen, heart, thyroid, 
+and bone marrow (anemia) appeared to be the target organs (USEPA 2005).  
+ 
+No developmental effects were observed in the rat and rabbit developmental toxicity studies. In a 
+2-generation reproduction study in rats, decreased litter size and survival was observed in the 
+presence of maternal toxicity (deaths) at the highest dose tested.  However, the maternal and 
+offspring toxicity (deaths) indicated no evidence of increased susceptibility in this study (USEPA 
+2005). 
+ 
+There were no major differences in the bioavailability, routes or rates of excretion, or 
+metabolism following a single low oral dose, single high oral dose, or repeated oral doses in rats.  
+Most of the dose (approximately 70-80%) was absorbed.  Approximately 20% of the dose was 
+eliminated in the feces which was the major route of excretion.  The excreted metabolites were 
+glutathione conjugates of the parent and O-demethylated Factor A.  Metabolites in the tissues 
+were the N-and O-demethylated Factor A.  With rapid biliary excretion, metabolites in the bile 
+were the glutathione conjugates of parent and N-and O-demethylated forms of Factor D (USEPA 
+2005). 
+ 
+Carcinogenicity/Mutagenicity:  
+ 
+Carcinogenic toxicity studies show spinosad is not likely to be carcinogenic (USEPA 1998, Yano 
+et al.
+Text Len: 1545
+--------------------------------------------------------------------------------
+ 
+were the glutathione conjugates of parent and N-and O-demethylated forms of Factor D (USEPA 
+2005). 
+ 
+Carcinogenicity/Mutagenicity:  
+ 
+Carcinogenic toxicity studies show spinosad is not likely to be carcinogenic (USEPA 1998, Yano 
+et al. 2002, Stebbins et al. 2002, USEPA 2005).  It is also negative for mutagenicity in various 
+mutagenicity assays.   
+ 
+Endocrine disruption: 
+ 
+A literature search regarding available spinosad toxicity studies show that there was no estrogen 
+or thyroid mediated toxicity (USEPA 2005).   
+ 
+Spinosad is not among the group of 58 pesticide active ingredients on the initial list to be 
+screened under the EPA Endocrine Disruptor Screening Program.  This program determines 
+whether certain substances may have an effect in humans or wildlife similar to an effect 
+ 
+7 
+ 
+produced by a “naturally occurring estrogen, or other such endocrine effects as the Administrator 
+may designate”.  Spinosad is not on the USEPA Draft Second Endocrine Disruptor Screening 
+Program (EDSP) List of Chemicals for Tier 1 Screening (USEPA 2010).  USEPA considers that 
+the compounds on the list are candidates (at least for screening purposes) under EDSP testing 
+based only on their pesticide registration status and/or because such substances may occur in 
+sources of drinking water to which a substantial population may be exposed (USEPA 2013b). 
+ 
+Other ingredients: 
+ 
+Methy eugenol is another ingredient in the formulation used as a chemical attractant for fruit 
+flies.  Methyl eugenol is a naturally occurring
+Text Len: 1538
+--------------------------------------------------------------------------------
+ only on their pesticide registration status and/or because such substances may occur in 
+sources of drinking water to which a substantial population may be exposed (USEPA 2013b). 
+ 
+Other ingredients: 
+ 
+Methy eugenol is another ingredient in the formulation used as a chemical attractant for fruit 
+flies.  Methyl eugenol is a naturally occurring constituent found in a number of plants such as 
+nutmeg, pimento, lemongrass, tarragon, basil, star anise and fennel (European Commission 
+2001). 
+ 
+Methyl eugenol is considered moderately toxic to mammals with median lethal oral doses of 810 
+to 1,560 mg/kg for rats and 540 mg/kg for mice.  The undiluted chemical (98% purity) is not 
+considered an eye or a skin irritant (NTP 2000).  Methyl eugenol is considered practically 
+nontoxic in dermal or inhalation acute exposures (Beroza et al. 1975).  Longer term studies using 
+methyl eugenol have also been conducted using rats and mice.  In a 14-week study, a dose of 0, 
+10, 30, 100, 300 or 1000 mg methyl eugenol/kg body weight in 0.5% aqueous methylcellulose 
+were administered to groups of 10 males and 10 females per sex per species by gavage (5 days 
+per week) (Abdo et al. 2001).  Methyl eugenol administration to rats induced erythrocyte 
+microcytosis, thrombocytosis, hypoproteinemia, and hypoalbuminemia.  It caused an increase in 
+serum alanine aminotransferase and sorbitol dehydrogenase activities and bile acid 
+Text Len: 1426
+--------------------------------------------------------------------------------
+do et al. 2001).  Methyl eugenol administration to rats induced erythrocyte 
+microcytosis, thrombocytosis, hypoproteinemia, and hypoalbuminemia.  It caused an increase in 
+serum alanine aminotransferase and sorbitol dehydrogenase activities and bile acid 
+concentration.  Methyl eugenol also caused an increase in the incidence of hepatocyte cytologic 
+alteration, cytomegaly, Kupffer cell pigmentation, mixed foci of cellular alteration and bile duct 
+hyperplasia of the liver and atrophy and chronic inflammation of the mucosa of the glandular 
+stomach.  In mice, methyl eugenol caused an increase in the incidence of cytologic alteration, 
+necrosis, bile duct hyperplasia and subacute inflammation of the liver and atrophy, degeneration, 
+necrosis, edema, mitotic alteration, and cystic glands of the fundic region of the glandular 
+stomach.  The NOEL of methyl eugenol for both species was estimated at 10 mg/kg (NTP 2013).  
+In long-term exposures the National Toxicology Program (NTP) conducted 2-year studies in rats 
+and mice and concluded that there was clear evidence of carcinogenic activity in male and 
+female F344/N rats, based on an increase incidence of liver neoplasms and neuroendocrine 
+tumors of the glandular stomach in male and female rats, and increased incidence of kidney 
+neoplasms, malignant fibroma and fibroma or fibrosarcoma (combined) in male rats (NTP 2000, 
+2013).  Dose rates in both studies ranged from 37 mg/kg to 150 mg/kg with the dose-related
+Text Len: 1481
+--------------------------------------------------------------------------------
+ocrine 
+tumors of the glandular stomach in male and female rats, and increased incidence of kidney 
+neoplasms, malignant fibroma and fibroma or fibrosarcoma (combined) in male rats (NTP 2000, 
+2013).  Dose rates in both studies ranged from 37 mg/kg to 150 mg/kg with the dose-related 
+effects varying based on the endpoint and a NOEL not reported for either test species.  Methyl 
+eugenol is not considered to be mutagenic and in metabolism studies has been shown to be 
+rapidly eliminated and excreted from human blood serum (NTP 2013, Schecter et al. 2004). 
+ 
+The reported effects of methyl eugenol are at doses above those expected to occur in human 
+populations and is reflected in the USEPA’s Tolerance Reassessment Eligibility Document for 
+methyl eugenol that concluded "...there is a reasonable certainty that no harm to any population 
+or subgroup will result from the dietary and water exposure to methyl eugenol from uses 
+specified in the existing exemption for the requirements for tolerance for methyl eugenol under 
+ 
+8 
+ 
+40 CFR §180.1067." (USEPA 2006).  In addition the Food and Drug Admnistration (FDA) 
+classifies methyl eugenol as a “Generally Recognized as Safe (GRAS)” compound suggesting a 
+low hazard to human health. 
+ 
+3.0. DOSE-RESPONSE ASSESSMENT 
+3.1 Human Health Dose-Response Assessment 
+ 
+A dose-response assessment evaluates the dose levels (toxicity criteria) for potential human 
+health effects including acute and chronic toxicities.   
+ 
+USEPA established a chronic oral reference
+Text Len: 1519
+--------------------------------------------------------------------------------
+ hazard to human health. 
+ 
+3.0. DOSE-RESPONSE ASSESSMENT 
+3.1 Human Health Dose-Response Assessment 
+ 
+A dose-response assessment evaluates the dose levels (toxicity criteria) for potential human 
+health effects including acute and chronic toxicities.   
+ 
+USEPA established a chronic oral reference dose (RfD) of 0.0268 mg/kg/day for spinosad based 
+on chronic toxicity studies with the dog and rat.  This RfD has incorporated a 100-fold safety 
+factor to the NOELs (see Section 2.4) found in the chronic dog study to include animal to human 
+extrapolation (an uncertainty factor of 10) and sensitive subgroups with a population (an 
+uncertainty factor of 10) (USEPA 1998).  For occupational exposure, the RfD is 0.27 mg/kg/day 
+because the uncertainty factor of 10 for protection of sensitive subgroups such as infants or 
+children is not applicable.  The RfD for occupational exposure of 0.27 mg/kg/day is used for this 
+human health risk assessment. 
+3.2 Ecological Dose-Response Assessment 
+3.2.1 Wild Mammal Toxicity 
+ 
+The acute and chronic toxicity of spinosad to wild mammals is expected to be low from oral, 
+dermal and inhalation exposures based on the available data summarized above in the hazard 
+identification section of this risk assessment. Using the lowest reported acute LD50 value and the 
+lowest subchronic rat NOEL, adjusted LD50 and NOEL values were calculated for different size 
+mammals (Table 3-1).  The ranges of different body weights and consumption rates were 
+selected to represent mammals, such as the shrew that
+Text Len: 1546
+--------------------------------------------------------------------------------
+ in the hazard 
+identification section of this risk assessment. Using the lowest reported acute LD50 value and the 
+lowest subchronic rat NOEL, adjusted LD50 and NOEL values were calculated for different size 
+mammals (Table 3-1).  The ranges of different body weights and consumption rates were 
+selected to represent mammals, such as the shrew that consumes a large percentage of their body 
+weight and may receive higher exposure, as well as larger mammals (1 kg) that may consume 
+less when compared to the standard laboratory rat, which is used in several of the mammalian 
+toxicity studies.  The lowest subchronic value was selected due to the short environmental half-
+life of spinosad.  Effects from daily exposure over a 13-week period are not expected but provide 
+a conservative estimate of effects.  These values are also lower than any of the developmental 
+and reproductive NOEL values that have been determined in previous studies. 
+ 
+ 
+9 
+ 
+Table 3-1.  Adjusted LD50 and NOEL Values for Select Mammals. 
+Mammalian 
+Class 
+Body 
+Weight (g) 
+% Body Weight 
+Consumed 
+Adjusted 
+LD50 
+Adjusted 
+NOEL 
+      
+Herbivores/ Insectivores 15 95 8433.08 16.48 
+ 35 66 6823.26 13.34 
+ 1,000 15 2951.27 5.77 
+Granivores 15 21 8433.08 16.48 
+ 35 15 6823.26 13.34 
+ 1,000 3 2951.27 5.77 
+ 
+3.2.2 Avian and Reptile Toxicity 
+ 
+Spinosad acute and chronic toxicity to birds is low for both surrogate
+Text Len: 1397
+--------------------------------------------------------------------------------
+ 2951.27 5.77 
+Granivores 15 21 8433.08 16.48 
+ 35 15 6823.26 13.34 
+ 1,000 3 2951.27 5.77 
+ 
+3.2.2 Avian and Reptile Toxicity 
+ 
+Spinosad acute and chronic toxicity to birds is low for both surrogate species that have been 
+tested (Table 3-2).  Acute LD50 and LC50 for the mallard and bobwhite quail are greater than the 
+highest concentration tested, 1,333 mg/kg and 5,156 parts per million (ppm), respectively (EPA, 
+2010).  Chronic toxicity is also low with reproduction NOEC values of 500 ppm for the mallard 
+and 550 ppm for the bobwhite quail in 20-week exposure studies.   
+ 
+Table 3-2.  Acute and Chronic Avian Toxicity of Spinosad.  
+Test Species/ Duration LD50/LC50 
+(mg/kg) 
+NOEL/LOEL 
+(mg/kg) 
+Bobwhite quail, Colinus virginianus LD50  >1333 500/NR 
+Bobwhite quail LC50 >5156 656/NR 
+Bobwhite quail chronic reproduction NR 550/1100 
+Mallard, Anas platyrhynchos LD50 >1333 1333/NR 
+Mallard LC50 >5156 302/NR 
+Mallard chronic reproduction NR 500/1100 
+NR = Not reported 
+ 
+The lowest acute NOEL value (500 mg/kg) was used to estimate an adjusted sublethal toxicity 
+value for birds of different sizes and feeding rates (table 3-3).  Based on the adjusted body 
+weight for different avian size classes and their percentage
+Text Len: 1232
+--------------------------------------------------------------------------------
+ 302/NR 
+Mallard chronic reproduction NR 500/1100 
+NR = Not reported 
+ 
+The lowest acute NOEL value (500 mg/kg) was used to estimate an adjusted sublethal toxicity 
+value for birds of different sizes and feeding rates (table 3-3).  Based on the adjusted body 
+weight for different avian size classes and their percentage of body weight consumed, adjusted 
+NOEL values ranged from approximately 360 to 648 mg/kg.  
+ 
+Table 3-3.  Adjusted Acute Toxicity Values for Different Sized Birds. 
+Avian 
+Class 
+Body 
+Weight (g)  
+% Body Weight 
+Consumed 
+Adjusted 
+NOEL 
+Small 20 114 360.21 
+Mid 100 65 458.57 
+Large 1000 29 647.75 
+ 
+10 
+ 
+ 
+No reptile toxicity data appears to be available for spinosad.  USEPA/OPP uses the effects data 
+for birds to represent sensitivity to reptiles.  There is uncertainty in this assumption; however, 
+based on the low toxicity of spinosad to birds and mammals, as well as aquatic vertebrates, 
+toxicity to reptiles would also be expected to be low. 
+3.2.3 Terrestrial Invertebrate Toxicity 
+ 
+Toxicity to terrestrial invertebrates is variable based on the available toxicity data for pests, 
+pollinators, and biocontrol agents.  Honey bees appear to be one of the more sensitive terrestrial 
+invertebrates to spinosad, with 48-hour contact LD50 values ranging from 0.0029 to 0.078 µg 
+ai/bee and a reported NOEC of 0.0016 µg ai/bee (0.016 µg/g) (
+Text Len: 1375
+--------------------------------------------------------------------------------
+ocontrol agents.  Honey bees appear to be one of the more sensitive terrestrial 
+invertebrates to spinosad, with 48-hour contact LD50 values ranging from 0.0029 to 0.078 µg 
+ai/bee and a reported NOEC of 0.0016 µg ai/bee (0.016 µg/g) (Mayes et al. 2003).  Toxicity to 
+honey bees is similar to other native bees with reported contact LD50 values of 0.058, 0.065, and 
+0.078 µg ai/bee for the alfalfa leafcutter bee (Megachile rotundata), alkali bee (Nomia 
+melanderi) and honey bee, respectively (Mayer et al., 2001).  Contact toxicity to spinosad 
+decreases rapidly after applications are allowed to dry.  Laboratory, greenhouse, and field studies 
+have demonstrated that spinosad is nontoxic to bees 3 hours after application (Mayes et al., 
+2003).  Studies using honey bees and bumblebees exposed to spinosad residues on alfalfa, 
+strawberries, almonds, citrus, and kiwifruit have documented a lack of impacts to pollinators 
+when applications are made when bees are not active, and after residues have weathered. 
+Toxicity to other nontarget insects ranges from 3.3 to greater than 200 mg/L based on reported 
+LC50 values (Thompson et al. 2000, Williams et al. 2003, Penagos et al. 2005, Miles and Eelen 
+2006, Semiz et al. 2006).  Within Lepidoptera, sensitivity can vary with effective treatment rates 
+ranging from 25 to 360 g/ha (Thompson et al. 2000).  Lepidoptera appear to be less
+Text Len: 1391
+--------------------------------------------------------------------------------
+
+LC50 values (Thompson et al. 2000, Williams et al. 2003, Penagos et al. 2005, Miles and Eelen 
+2006, Semiz et al. 2006).  Within Lepidoptera, sensitivity can vary with effective treatment rates 
+ranging from 25 to 360 g/ha (Thompson et al. 2000).  Lepidoptera appear to be less sensitive to 
+spinosad compared to pollinators, such as honey bees and bumblebees.  For example, contact 
+toxicity of fourth instar Spodoptera littoralis larvae to spinosad is reported as 4.74 µg/g, which is 
+lower than the 0.029 µg/g reported for the honey bee (Pineda et al. 2006).   Dietary spinosad 
+LC50 values for S. littoralis range from 0.5 to 2.98 ppm.  
+Based on field-collected data, there were no effects on abundance and diversity of Lepidoptera, 
+Coleoptera, or Hymenoptera when sampled using malaise traps 2 and 6 days after spinosad 
+treatment for emerald ash borer (USDA APHIS 2007).  Aerial broadcast applications were made 
+to several plots ranging in size from 8 to 20 acres at a rate (0.23 lb ai/ac) which is greater than 
+two orders of magnitude above the use rate proposed in the fruit fly program.  Non-target 
+terrestrial invertebrate impacts have also been evaluated using this specific combination of 
+spinosad and the attractant methyl eugenol.  Methyl eugenol is a naturally occurring chemical 
+produced in over 450 plant species with varied effects on terrestrial invertebrates (Tan and 
+Nishida 2012).  Stark et al. (2004) demonstrated that contact toxicity
+Text Len: 1467
+--------------------------------------------------------------------------------
+ 
+terrestrial invertebrate impacts have also been evaluated using this specific combination of 
+spinosad and the attractant methyl eugenol.  Methyl eugenol is a naturally occurring chemical 
+produced in over 450 plant species with varied effects on terrestrial invertebrates (Tan and 
+Nishida 2012).  Stark et al. (2004) demonstrated that contact toxicity of spinosad to two 
+parasitoids only occurred at levels well above those that would be encountered in any field 
+setting.   
+3.2.4 Terrestrial Plant Toxicity 
+ 
+No terrestrial phytotoxicity has been noted using spinosad at rates up to 0.18 lb ai/ac (EPA 
+1998a). 
+ 
+ 
+ 
+ 
+11 
+ 
+3.2.5 Aquatic Toxicity 
+ 
+Spinosad has moderate toxicity to fish based on the available toxicity data, with acute toxicity 
+values ranging from 4.99 to 30 mg/L in 96-hour exposures (Table 3-4). 
+ 
+Table 3-4.  Spinosad Aquatic Toxicity Values for Aquatic Vertebrates. 
+Test Species/Duration LC50/EC50  
+(mg/L) 
+NOEC/LOEC  
+(mg/L) 
+Acute Tests   
+96-hour LC50 Carp Cyprinus carpio  4.99 NR 
+96-hour LC50 Bluegill Sunfish Lepomis macrochirus 5.9 2.10/NR 
+96-hour LC50 Rainbow Trout Oncorynchus mykiss 30 5.2/NR 
+96-hour LC50 Sheepshead Minnow Cyprinodon variegates 7.87 1.8/NR 
+Subchronic Tests   
+Text Len: 1228
+--------------------------------------------------------------------------------
+ LC50 Bluegill Sunfish Lepomis macrochirus 5.9 2.10/NR 
+96-hour LC50 Rainbow Trout Oncorynchus mykiss 30 5.2/NR 
+96-hour LC50 Sheepshead Minnow Cyprinodon variegates 7.87 1.8/NR 
+Subchronic Tests   
+Rainbow Trout ELS* NR 0.498/0.962 
+Rainbow Trout 21-d  NR 1.2/2.1 
+Sheepshead 35-d ELS  NR 1.15/2.38 
+*ELS = Early life stage study; NR = Not reported 
+ 
+A literature review revealed no apparent toxicity data for spinosad on amphibians.  EPA–OPP 
+uses fish toxicity data to represent the sensitivity of amphibians which provides uncertainty due 
+to potential differences in sensitivities, and differences in exposure pathways between fish and 
+adult amphibians.  However, due to the lack of amphibian-related data for spinosad, fish effects 
+data will be used as a surrogate and discussed in relation to risk in the below aquatic risk 
+characterization section.   
+ 
+Based on the available aquatic toxicity profile, spinosad has variable toxicity to aquatic 
+invertebrates (Table 3-5) (EPA 1998a, Stark and Banks 2001,  Cleveland et al. 2001).  Longer 
+term studies show that under continuous exposure for 21 days, spinosad has a greater effect on 
+the freshwater cladoceran, Daphnia magna.  The same study using pulse doses within a short 
+period of time demonstrates the rapid breakdown of spinosad with an approximate tenfold 
+decrease in toxicity.  Stark and Vargas (2003) demonstrated demographic effects to D. pulex
+Text Len: 1420
+--------------------------------------------------------------------------------
+ for 21 days, spinosad has a greater effect on 
+the freshwater cladoceran, Daphnia magna.  The same study using pulse doses within a short 
+period of time demonstrates the rapid breakdown of spinosad with an approximate tenfold 
+decrease in toxicity.  Stark and Vargas (2003) demonstrated demographic effects to D. pulex 
+populations exposed to formulated spinosad at 8 µg/L and greater in 60- to 70-day exposures.  
+Test chambers were renewed every other day for the duration of the study.  In a long-term 
+sediment study, the midge Chironomus riparius was shown to have lower chronic sensitivity 
+when compared to D. magna tested under continuous exposure conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Table 3-5.  Spinosad Aquatic Toxicity Values for Aquatic Invertebrates. 
+Test Duration/Species LC50/EC50  
+(mg/L) NOEC/LOEC (mg/L) 
+Acute Tests   
+48-hour EC50  Daphnia magna 14.0 0.45/NR 
+96-hour LC50 Grass Shrimp >9.76 1.66/NR 
+96-hour LC50 Eastern Oyster 0.30 0.14/NR 
+24-hour LC50 Aedes aegypti 0.025 NR 
+24-hour LC50 A. aegypti (4th instar) 0.160 NR 
+72-hour LC50 A. aegypti (Adults) 0.460 NR 
+Chronic Tests   
+21-day LC50 D. magna (continuous) >0.006 NR 
+Text Len: 1157
+--------------------------------------------------------------------------------
+ aegypti 0.025 NR 
+24-hour LC50 A. aegypti (4th instar) 0.160 NR 
+72-hour LC50 A. aegypti (Adults) 0.460 NR 
+Chronic Tests   
+21-day LC50 D. magna (continuous) >0.006 NR 
+21-day LC50 D. magna (5-d pulse) >0.057 NR 
+28-day Mysid Life Cycle NR 0.084/0.173 
+25-day LC50 Chironomus riparius  > 0.003 1.6 
+21-day D. magna (continuous) NR 0.617/1.2 (µg/L) 
+21-day D. magna (5-d pulse) NR 1.6/3.2 (µg/L) 
+25-day C. riparius  NR 84.2/173 (µg/L) 
+NR = Not reported 
+ 
+Mosquito species, such as Culex pipiens, Aedes aegypti, and A. albimanus appear to be the most 
+sensitive aquatic invertebate taxa to spinosad, while the cladoceran D. magna was the least 
+sensitive with a 48-hour EC50 of 14 mg/L (EPA 1998a,  Bond et al. 2004).  Mosquito sensitivity 
+was comparable between technical and formulated spinosad based on the available data using 
+other spinosad formulations  (Bond et al. 2004, Cetin et al. 2005, Stevens et al. 2005,  Ayesa et 
+al. 2006).  
+  
+Toxicity to aquatic plants, such as diatoms and
+Text Len: 998
+--------------------------------------------------------------------------------
+ Mosquito sensitivity 
+was comparable between technical and formulated spinosad based on the available data using 
+other spinosad formulations  (Bond et al. 2004, Cetin et al. 2005, Stevens et al. 2005,  Ayesa et 
+al. 2006).  
+  
+Toxicity to aquatic plants, such as diatoms and algae, range from 0.107 mg/L for the freshwater 
+diatom, Navicula pelliculosa, to greater than 105.5 mg/L for green algae based on 5-day 
+exposures (EPA 2010).  Toxicity to aquatic macrophytes is based on a 14-day EC50 value for 
+duckweed, Lemna gibba, which was reported as 10.6 mg/L. 
+ 3.2.6 Metabolite and Formulation Toxicity 
+ 
+Available acute and chronic aquatic toxicity data for metabolites of spinosyn A and D 
+demonstrate that metabolites are less toxic than the parent material (Table 3-6) (USEPA 2013c).  
+The spinosyn A metabolite has a sublethal toxicity value that is more than 160 times below the 
+reported spinosad NOEC for D. magna.  The same is true when comparing chronic toxicity 
+values for D. magna between the parent and metabolite.  Based on NOEC values from the 
+21-day studies, the spinosyn A metabolite is more than 15,000 times less toxic than the parent.  
+Similar reductions in toxicity are also observed when comparing spinosad aquatic invertebrate 
+toxicity to the primary metabolite for spinosyn D. 
+ 
+ 
+13 
+ 
+Table 3-6.  Spinosyn Metabolite Aquatic Toxicity Values for Aquatic Biota.
+Text Len: 1396
+--------------------------------------------------------------------------------
+ more than 15,000 times less toxic than the parent.  
+Similar reductions in toxicity are also observed when comparing spinosad aquatic invertebrate 
+toxicity to the primary metabolite for spinosyn D. 
+ 
+ 
+13 
+ 
+Table 3-6.  Spinosyn Metabolite Aquatic Toxicity Values for Aquatic Biota. 
+Test Duration/ Species LC50/EC50 (mg/L) NOEC/LOEC (mg/L) 
+Spinosyn A metabolite   
+48-hour EC50  D. magna > 197.0  74.7/NR 
+21-day D. magna reproduction NR 9.32/>9.32 
+28-day C. riparius >0.073 0.073/NR 
+96-hour Navicula pelliculosa 31.0 17.2/NR 
+Spinosyn D metabolite   
+48-hour EC50  D. magna 66.8 46.4/NR 
+21-day D. magna reproduction NR 4.85/9.32 
+28-day C. riparius >0.039 0.039 
+96-hour N. pelliculosa 19.0 14.2/NR 
+120-hour N. pelliculosa 0.22 0.17/NR 
+NR = Not reported 
+ 
+No aquatic ecological effects data is available for the proposed formulation however available 
+data on other formulations of spinosad, and the other primary product in the formulation, methyl 
+eugenol, suggest toxicity will occur primarily through exposure to spinosad.  Methyl eugenol 
+comprises 51% of the proposed formulation.  Reported methyl eugenol 96-hour acute aquatic 
+toxicity values range from
+Text Len: 1173
+--------------------------------------------------------------------------------
+ for the proposed formulation however available 
+data on other formulations of spinosad, and the other primary product in the formulation, methyl 
+eugenol, suggest toxicity will occur primarily through exposure to spinosad.  Methyl eugenol 
+comprises 51% of the proposed formulation.  Reported methyl eugenol 96-hour acute aquatic 
+toxicity values range from 6.9 mg/L for the rainbow trout and 8.1 mg/L for the bluegill sunfish 
+(Beroza et al. 1975).  These values are in the same range of acute toxicity values for fish and 
+spinosad however the methyl eugenol toxicity values exceed the solubility for methyl eugenol 
+and therefore would not occur in aquatic systems.  Available aquatic invertebrate data is limited 
+however median lethality values for various mosquito species exceed 50 mg/L which is well 
+above the solubility limit for methyl eugenol (Perumalsamy et al. 2010).  Toxicity to terrestrial 
+wildlife is expected to be similar between the formulation and technical active ingredient based 
+on the previously discussed acute mammalian formulation data and the technical active 
+ingredient. 
+ 
+4.0 EXPOSURE ASSESSMENT 
+4.1 Human Health Exposure Assessment 
+ 
+Exposure assessment estimates the potential exposure of humans to spinosad.  The exposure 
+assessment begins with the use and application method of STATICTM Spinosad ME.  A complete 
+exposure pathway for spinosad includes (1) a release from a spinosad source, (2) an exposure 
+point where contact can occur, and (3) an exposure route such as ingestion, inhalation, or dermal 
+contact by which contact can occur (USEPA 1989).  Exposures for the identified human 
+pop
+Text Len: 1639
+--------------------------------------------------------------------------------
+.  A complete 
+exposure pathway for spinosad includes (1) a release from a spinosad source, (2) an exposure 
+point where contact can occur, and (3) an exposure route such as ingestion, inhalation, or dermal 
+contact by which contact can occur (USEPA 1989).  Exposures for the identified human 
+populations are evaluated for each identified exposure pathway. 
+ 
+ 
+ 
+ 
+14 
+ 
+4.1.1 Potentially Exposed Human Populations and Complete Exposure Pathways 
+ 
+The STATICTM Spinosad ME formulation is used as a bait (small dollops or large droplets) and 
+hand applied using a spatula or other spreading implement, or pneumatic meter-jet capable of 
+delivering large droplets.  STATICTM Spinosad ME is expected to be applied to sites higher up 
+on telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs, 
+non-edible foliage where it is not readily accessible to the general public.  Therefore, workers 
+(i.e. handlers) in the program are the most likely subgroup that could be exposed to spinosad.  
+The potential exposure to workers to spinosad is from mixing (thorough stirring and mixing of 
+the formulation is required prior to use although the formulation is ready-to-use) and application 
+activities.  Under normal applications, the potential for handlers to be exposed to spinosad is 
+minimal from mixing and spot application with adherence to labeled requirements for personal 
+protective equipment (PPE) (long-sleeved shirt and long pants, shoes and socks, and chemical-
+resistant gloves).  Under the accidental event when PPEs do not function properly, the complete 
+
+Text Len: 1604
+--------------------------------------------------------------------------------
+ normal applications, the potential for handlers to be exposed to spinosad is 
+minimal from mixing and spot application with adherence to labeled requirements for personal 
+protective equipment (PPE) (long-sleeved shirt and long pants, shoes and socks, and chemical-
+resistant gloves).  Under the accidental event when PPEs do not function properly, the complete 
+exposure pathway for these workers includes dermal contact and is further evaluated in Section 
+6.  Inhalation route is not complete for spinosad because spinosad is not volatile, and exposure 
+from the inhalation route is limited for methyl eugenol during stirring and mixing of the waxy 
+formulation.  Incidental ingestion route is not complete under the spot application method.   
+ 
+The general public such as residents is not identified as a potentially exposed human population 
+because their exposure to spinosad in STATICTM Spinosad ME bait formulation is extremely 
+unlikely when the locations of the baits are not readily accessible to the general public.   
+ 
+A complete exposure pathway is not identified for dietary plant consumption or dermal contact 
+to plants because the STATICTM Spinosad ME bait is not applied to plants that would be 
+harvested for human consumption.  In addition, spinosad degrades quickly on plant surfaces (see 
+Section 2.3). 
+ 
+A complete exposure pathway is not identified for the groundwater medium or surface water 
+medium based on the specific spot application method required by the label.  Surface runoff via 
+rain fall may occur, however, the amount of spinosad from this bait formulation releasing to soil 
+is minimal based on the proposed low application rates.  In addition this particular formulation of 
+spinosad within a waxy carrier is rain fast and would not be expected to be removed from the
+Text Len: 1812
+--------------------------------------------------------------------------------
+ based on the specific spot application method required by the label.  Surface runoff via 
+rain fall may occur, however, the amount of spinosad from this bait formulation releasing to soil 
+is minimal based on the proposed low application rates.  In addition this particular formulation of 
+spinosad within a waxy carrier is rain fast and would not be expected to be removed from the site 
+of application until after significant weathering and degradation occurs reducing the amount of 
+spinosad available for runoff to receiving water that could serve as a drinking water source.   
+ 4.1.2 Exposure Evaluation 
+ 
+This section quantitatively evaluates the worker accidental exposures from dermal contact 
+pathway while mixing, loading, and applying the spinosad baits.  Under the accidental exposure 
+scenario, it assumes that chemical-resistant gloves are broken.    
+ 
+Chemical-specific data to assess potential exposure to occupational pesticide handlers were not 
+available.  The estimates of exposure to pesticide handlers are based on surrogate study data 
+available in the Pesticide Handlers Exposure Database (PHED) (USEPA 2013d).  The 
+mixer/loader/applicator, mechanically-pressurized handgun sprayer in orchards, vineyards, 
+specialty agricultural crops, rights-of-way, nurseries, landscaping (non-turf), 
+ 
+15 
+ 
+industrial/commercial areas, aquatic areas for drench/soil directed applications and all 
+formulations, except wettable powders exposure scenario with single layer (long-sleeve shirt, 
+long pants, shoes plus socks) and no gloves is the closest scenario to represent the mixing, 
+loading and spot application of the formulation and is used for the dermal exposure evaluation.  
+The unit exposure for the surrogate scenario is 1300 µg
+Text Len: 1757
+--------------------------------------------------------------------------------
+ applications and all 
+formulations, except wettable powders exposure scenario with single layer (long-sleeve shirt, 
+long pants, shoes plus socks) and no gloves is the closest scenario to represent the mixing, 
+loading and spot application of the formulation and is used for the dermal exposure evaluation.  
+The unit exposure for the surrogate scenario is 1300 µg/lb ai.  Application rates range from 
+0.0045 to 0.009 lb ai/acre.  The following equations are used to estimate the exposure dose of 
+dermal contact for workers:   
+ 
+Exposure Dose = Daily Dose Rate/Body Weight 
+Daily Dose Rate = Unit Exposure (mg/lb ai) x Application Rate (lb ai/acre) x Area 
+Treated (acre/day) 
+ 
+The exposure doses were estimated for the application rates and summarized in Appendix A. 
+ 
+4.2 Ecological Exposure Assessment 
+ 4.2.1 Terrestrial Exposure Pathway Evaluation 
+ 
+The potential for exposure of nontarget terrestrial vertebrates to the proposed formulation of 
+spinosad is minimal through either the dermal, inhalation or dietary routes.  The lack of dietary 
+exposure is based on the method of application which will not include objects that would be 
+consumed by nontarget vertebrates (ex. light poles, tree trunks).  Dermal exposure would also be 
+low and would only occur when a nontarget vertebrate would come into contact with the material 
+while moving over an area on a pole or tree where an application was made.  Inhalation exposure 
+would also be low due to the method of application and low volatility of spinosad.  There is the 
+potential for some inhalation exposure to methyl eugenol due to its volatility however methyl 
+Text Len: 1633
+--------------------------------------------------------------------------------
+ a nontarget vertebrate would come into contact with the material 
+while moving over an area on a pole or tree where an application was made.  Inhalation exposure 
+would also be low due to the method of application and low volatility of spinosad.  There is the 
+potential for some inhalation exposure to methyl eugenol due to its volatility however methyl 
+eugenol is a naturally occurring phenylpropanoid compound that is released when plants are 
+damaged and its use in this program would not be expected to result in exposures to terrestrial 
+vertebrates beyond ambient levels. 
+ 4.2.2 Aquatic Exposure Pathway Evaluation 
+ 
+Exposure to aquatic biota from the proposed use of spinosad is expected to result in negligible 
+residues based on the use pattern and low application rates.  Applications are hand applied to 
+specific objects such as light and telephones poles, tree limbs as either large dollops are very 
+large droplets that would not be susceptible to drift.  A possible scenario of aquatic exposure 
+could occur where a dollop or large droplet becomes dislodged from the site of application after 
+it has weathered and washed into a receiving stream.   This scenario would result in negligible 
+residues based on conservative estimates of spinosad transport into water bodies.  Assuming the 
+maximum application rate for spinosad (0.009 lb ai/ac) is discharged into a water body such as a 
+wetland that is one acre in size and six inches deep would result in a spinosad reside of 3.3 µg/L.  
+This very conservative assumption assumes all material applied in one acre is available for 
+transport and that no degradation would occur.   Residues into other larger bodies of water or 
+those where water is running would
+Text Len: 1731
+--------------------------------------------------------------------------------
+ 
+wetland that is one acre in size and six inches deep would result in a spinosad reside of 3.3 µg/L.  
+This very conservative assumption assumes all material applied in one acre is available for 
+transport and that no degradation would occur.   Residues into other larger bodies of water or 
+those where water is running would result in substantially lower residues due to the dilution in 
+those types of water bodies.  
+ 
+ 
+16 
+ 
+5.0 RISK CHARACTERIZATION 
+5.1 Human Health 
+ 
+Risks associated with adverse human health and fish and wildlife are characterized quantitatively 
+and qualitatively in this section.  Under the proposed use, STATICTM Spinosad ME baits for spot 
+application to eradicate fruit flies poses minimal risk to human health due to limited exposure for 
+applicators using appropriate PPE and the low acute toxicity of spinosad to mammals.  
+Accidental risk (hazard quotient) was estimated by dividing the exposure doses with the toxicity 
+value (RfD) for the handler dermal contact exposure scenario.  The estimated risk for labeled 
+application rates is low with hazard quotients three to four orders of magnitude below one 
+indicating risk from accidental spinosad exposure is minimal (Appendix A).   
+ 
+The general public is not a concern because STATICTM Spinosad ME will be applied to sites on 
+telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs and 
+non-edible foliage where the material is not readily accessible. 
+ 
+5.2 Ecological   
+ 
+Risks to fish and wildlife are anticipated to be minimal based on the favorable toxicity profile for 
+spinosad, its environmental
+Text Len: 1637
+--------------------------------------------------------------------------------
+
+telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs and 
+non-edible foliage where the material is not readily accessible. 
+ 
+5.2 Ecological   
+ 
+Risks to fish and wildlife are anticipated to be minimal based on the favorable toxicity profile for 
+spinosad, its environmental fate and the proposed use pattern in the fruit fly program.  Direct risk 
+to terrestrial vertebrates from ingestion of the bait is extremely low since applications aren’t 
+directed to food items such as seeds, fruits and insects that would contain spinosad residues.  In 
+cases where terrestrial vertebrates would consume the bait, they would have to consume many 
+times their body weight to receive a dose that could result in any effects which is highly unlikely. 
+Risk to food items or shelter required by terrestrial vertebrates would also not be anticipated due 
+to the method of application, the selective nature of the bait to certain invertebrates and lack of 
+risk to terrestrial or aquatic plants.  There is some risk to certain terrestrial invertebrates that are 
+attracted to the bait due to the presence of methyl eugenol, and could receive a lethal dose of 
+spinosad, however, based on the selective nature of methyl eugenol and spinosad as well as field 
+collected data the impacts would be localized and transient and not anticipated to result in 
+population level effects to sensitive taxa including beneficial arthropods. 
+ 
+Aquatic vertebrates and invertebrates are also at low risk from the proposed spinosad 
+applications.  The method of application eliminates the potential for off-site drift and runoff and 
+would only occur in cases where baits become weathered and fall from where they were applied, 
+and then carried to aquatic areas.
+Text Len: 1777
+--------------------------------------------------------------------------------
+ arthropods. 
+ 
+Aquatic vertebrates and invertebrates are also at low risk from the proposed spinosad 
+applications.  The method of application eliminates the potential for off-site drift and runoff and 
+would only occur in cases where baits become weathered and fall from where they were applied, 
+and then carried to aquatic areas.  A comparison of the aquatic residue from the wetland habitat 
+that was estimated in the exposure analysis to the available fish effects data shows that the 
+exposure concentration is at least two orders of magnitude below the acute and chronic effects 
+data for fish suggesting minimal risk (Figure 5-1).  Acute risk to aquatic invertebrates is also low 
+with the range of sensitivities well above the estimated residue in a wetland habitat.  The 25-day 
+chronic study with the midge has an effect level below the aquatic residue value while the 
+remaining chronic aquatic invertebrate values are well above the instantaneous residue value 
+suggesting minimal chronic risk to most aquatic invertebrates.  Exceeding the chronic exposure 
+value in the midge study does not imply risk to this group of organisms due to the conservative 
+assumptions that were made to calculate an exposure value.  Not all of the material would be 
+ 
+17 
+ 
+expected to become dislodged from the point of application at the same time and simultaneously 
+released into a water body.  In addition any exposure that would occur would not be continuous 
+over a 25 day period as was done in this study due to spinosad degradation/partitioning in aquatic 
+systems.  Degradation would result in a further decrease in risk since the metabolites are less 
+toxic than the parent.   
+ 
+ 
+ 
+ 
+Figure 5-1.  Aquatic risk
+Text Len: 1719
+--------------------------------------------------------------------------------
+ occur would not be continuous 
+over a 25 day period as was done in this study due to spinosad degradation/partitioning in aquatic 
+systems.  Degradation would result in a further decrease in risk since the metabolites are less 
+toxic than the parent.   
+ 
+ 
+ 
+ 
+Figure 5-1.  Aquatic risk characterization for spinosad. 
+ 
+The lack of risk to both aquatic vertebrates and invertebrates ensures that the direct risk to fish is 
+minimal and that their prey base would also be at low risk from the proposed applications of 
+spinosad. 
+ 
+6.0 UNCERTAINTIES/CUMULATIVE EFFECTS 
+ 
+Uncertainties and cumulative impacts associated with the risk evaluation are qualitatively 
+discussed in this section.  
+ 
+Accidental human exposure to spinosad in baits during mixing, loading, and applying may occur 
+to handlers when label required PPEs do not function properly. The RTU formulation serves to 
+minimize worker exposure as no mixing is required. Surrogate study data available in the PHED 
+were used for the accidental exposure rate since chemical-specific data to assess potential 
+exposure to occupational pesticide handlers were not available.  The closest surrogate study to 
+the spot application of STATICTM spinosad ME is the mixer/loader/applicator, mechanical-
+pressurized handgun sprayer scenario for drench/soil directed applications and all formulations, 
+except the wettable powder exposure scenario with single layer and no gloves.  However, this 
+scenario is more conservative than the spot application scenario for the proposed formulation 
+ 
+18 
+ 
+because more exposure will occur in the mechanical-pressurized handgun sprayer scenario than 
+for placement of a single spot
+Text Len: 1679
+--------------------------------------------------------------------------------
+rench/soil directed applications and all formulations, 
+except the wettable powder exposure scenario with single layer and no gloves.  However, this 
+scenario is more conservative than the spot application scenario for the proposed formulation 
+ 
+18 
+ 
+because more exposure will occur in the mechanical-pressurized handgun sprayer scenario than 
+for placement of a single spot of pesticide.  
+ 
+Uncertainties in the ecological risk assessment sections of this document are similar to those for 
+other pesticides and chemicals.  For example the applicability of surrogate laboratory toxicity 
+studies to natural ecosystems is an area of uncertainty in ecological risk assessment 
+methodology.  The approach in this assessment was to make assumptions regarding exposure 
+that were very conservative and designed to account for some of the uncertainty common with 
+screening level ecological risk assessments that rely on standardized toxicity data. Other areas of 
+potential uncertainty in these types of assessments are with effects data for the metabolites and 
+formulated material, however data was available to demonstrate that common metabolites of 
+spinosad are less toxic than the parent material.  
+ 
+Another area of uncertainty in this risk assessment is related to the potential for cumulative 
+effects.  The potential for cumulative effects can occur through various exposure pathways such 
+as 1) repeated exposure to spinosad; 2) co-exposures to other pesticides within the program with 
+respect to their toxicity; 3) exposures to other chemicals impacting the toxicity of spinosad; and 
+4) exposures to spinosad from other sources. 
+ 
+Spinosad has other labeled food and non-food uses and is currently used in the APHIS Fruit Fly 
+Eradication Program as well as other APHIS programs such as the European Grapevine Moth. 
+Cumulatively there would be an increase in spinosad
+Text Len: 1884
+--------------------------------------------------------------------------------
+; and 
+4) exposures to spinosad from other sources. 
+ 
+Spinosad has other labeled food and non-food uses and is currently used in the APHIS Fruit Fly 
+Eradication Program as well as other APHIS programs such as the European Grapevine Moth. 
+Cumulatively there would be an increase in spinosad use in relation to other APHIS and non-
+APHIS spinosad uses however the effects to human health and the environment are expected to 
+be incrementally negligible, and in cases where it is used as a naled replacement, would be 
+beneficial. From a human health perspective repeated exposure to workers would not be 
+expected to result in significant cumulative effects due to the use of PPE and the very low risk 
+that was determined in this risk assessment.  Cumulative effects to the general population are 
+also not anticipated since the likelihood of exposure is very low in this program since 
+applications are made to non-food items and there is a very low likelihood of any residues in 
+drinking water.  A lack of cumulative effects would also be anticipated as it relates to other 
+chemicals since the risk to workers and the general population is very low from the proposed use 
+of spinosad in the program.          
+ 
+Neither spinosad nor methyl eugenol are among the five common mechanism groups of 
+pesticides (Organophosphates, N-methyl Carbamates, Triazines, Chloroacetanilides, and 
+Pyrethrins/Pyrethroids).  USEPA defines that common mechanism of toxicity pertains to two or 
+more pesticide chemicals or other substances that cause a common toxic effect(s) by the same, or 
+essentially the same, sequence of major biochemical events
+Text Len: 1638
+--------------------------------------------------------------------------------
+, N-methyl Carbamates, Triazines, Chloroacetanilides, and 
+Pyrethrins/Pyrethroids).  USEPA defines that common mechanism of toxicity pertains to two or 
+more pesticide chemicals or other substances that cause a common toxic effect(s) by the same, or 
+essentially the same, sequence of major biochemical events (USEPA 2013e) 
+ 
+Cumulative impacts to aquatic and terrestrial nontarget organisms are expected to be negligible. 
+The proposed use pattern for this formulation is not expected to result in risk to nontarget 
+terrestrial vertebrates from direct effects or through impacts to available prey or habitat.  The 
+lack of significant ecological risk from spinosad use in this program would suggest that 
+significant cumulative effects to nontarget organisms from other stressors would be 
+incrementally minor.  The selective nature of the use of spinosad in the fruit fly program also 
+ 
+19 
+ 
+ensures that any cumulative impacts to beneficial insects from the use of spinosad in this 
+program would be minor and pose less risk than the use of naled in the same formulation type.    
+ 
+Water quality data in the United States, including areas where fruit fly program activities may 
+occur, show pesticide mixtures to be a common occurrence in surface water with varying 
+impacts to aquatic organisms (USGS  2006).  Some of these bodies of water may be listed 
+impaired under Section 303(d) of the Clean Water Act due to pesticides, or some another abiotic 
+or biotic stressor.  The impact to water bodies from any spinosad residues that could occur from 
+use in the Fruit Fly Eradication Program is expected to be incrementally negligible to water 
+bodies that may already be impacted by other contaminants.
+Text Len: 1711
+--------------------------------------------------------------------------------
+impaired under Section 303(d) of the Clean Water Act due to pesticides, or some another abiotic 
+or biotic stressor.  The impact to water bodies from any spinosad residues that could occur from 
+use in the Fruit Fly Eradication Program is expected to be incrementally negligible to water 
+bodies that may already be impacted by other contaminants. The waxy materials in STATIC™ 
+Spinosad ME increase rainfastness of the bait and reduce runoff. The proposed method of 
+application mitigates any impacts from drift and makes runoff unlikely so that any residues that 
+could potentially occur in water would not be expected to result in impacts to aquatic biota.  The 
+impacts of potential mixtures at any concentration are an area of uncertainty due to the large 
+number of potential types of chemical mixtures that could occur, and the spatial and temporal 
+variability in their occurrence. Spinosad has been shown to have greater than additive effects to 
+aquatic invertebrates such as mosquitos however these occur at doses well above those that 
+would occur in this program (Darriet and Corbel, 2006).   The low potential for risk to aquatic 
+biota from spinosad applications suggests that mixture toxicity would not result in significant 
+cumulative effects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+7.0 REFERENCES 
+ 
+Abdo, K. M., Cunningham, M. L., Snell, M.L., Herbert, R. A., Travlos, G. S., Eldridge, S. R., 
+and J.R. 
+Text Len: 1445
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+7.0 REFERENCES 
+ 
+Abdo, K. M., Cunningham, M. L., Snell, M.L., Herbert, R. A., Travlos, G. S., Eldridge, S. R., 
+and J.R.  Bucher. 2001.  Fourteen-week toxicity and cell proliferation of methyleugenol 
+administered by gavage to F344 rats and B6C3F1 mice, Food Chem. Toxicol. 39(4):303-16. 
+ 
+Ayesa, P., Harrington, L.C., and Scott, J.G., 2006.  Evaluation of novel insecticides for control of 
+the dengue vector, Aedes aegypti (Diptera: Culicidae). J. Med. Entomol. 43:55–60. 
+ 
+Beroza, M., Inscoe, M.N., Schwartz, Jr. P.H., Keplinger, M.L. and C.W. Mastri.  1975.  Acute 
+toxicity studies with insect attractants.  Toxicol Appl. Pharm. 31:421-429. 
+ 
+Bond, J.G., Marina, C.F., and Williams, T., 2004.  The naturally derived insecticide spinosad is 
+highly toxic to Aedes and Anopheles mosquito larvae.  Med. Vet. Entomol.  18:50–56. 
+ 
+California Department of Pesticide Regulation, 2002.  Environmental fate of spinosad.  Prepared 
+by Environmental Monitoring Branch.  16 pp. 
+ 
+CDPR—See California Department of Pesticide Regulation. 
+ 
+Cetin, H.,
+Text Len: 1071
+--------------------------------------------------------------------------------
+ larvae.  Med. Vet. Entomol.  18:50–56. 
+ 
+California Department of Pesticide Regulation, 2002.  Environmental fate of spinosad.  Prepared 
+by Environmental Monitoring Branch.  16 pp. 
+ 
+CDPR—See California Department of Pesticide Regulation. 
+ 
+Cetin, H., Yanikoglu, A. and Cilex, J.E., 2005.  Evaluation of the naturally-derived insecticide 
+spinosad against Culex pipens L. (Diptera: Culicidae) larvae in septic tank water in Antalya, 
+Turkey.  J. Vector Ecol. 30:151–154. 
+ 
+Cleveland, C.B., Bormett, G.A., Saunders, D.G., Powers, F.L., McGibbon, A.S., Reeves, G.L., 
+Rutherford, L. and Balcer, J., 2002.  Environmental fate of spinosad. 1. Dissipation and 
+degradation in aqueous systems.  J. Agric. Food Chem. 50:3244–3256. 
+ 
+Cleveland, C.B., Mayes, M.A., and Cryer, S.A., 2001.  An ecological risk assessment for 
+spinosad use on cotton.  Pest Mgt. Sci.  58:70–84. 
+ 
+Darriet, F., and Corbel, V., 2006.  Laboratory evaluation of pyriproxyfen and spinosad, alone and 
+in combination, against Aedes aegypti larvae. J. Med. Ent., 43(6):1190–1194. 
+  
+Environmental Canada, 2010. Screening Assessment for the Challenge Benzene, 1,2
+Text Len: 1135
+--------------------------------------------------------------------------------
+Darriet, F., and Corbel, V., 2006.  Laboratory evaluation of pyriproxyfen and spinosad, alone and 
+in combination, against Aedes aegypti larvae. J. Med. Ent., 43(6):1190–1194. 
+  
+Environmental Canada, 2010. Screening Assessment for the Challenge Benzene, 1,2-dimethoxy-
+4-(2-propenyl) (Methyl eugenol), Chemical Abstracts Service Registry Number 93-15-2, Health 
+Canada (http://www.ec.gc.ca/ese-ees/0129FD3C-B0FF-41C8-8BF5-
+7B2CD016AD36/batch9_93-15-2_en.pdf)   
+ 
+European Commission, 2001.  Opinion of the Scientific Committee on Food on Methyleugenol 
+(4-Allyl-1,2-dimethoxybenzene), Scientific Committee on Food, SCF/CS/FLAV/FLAVOUR/4 
+ADD1 FINAL 26 September 2001 (http://ec.europa.eu/food/fs/sc/scf/out102_en.pdf). 
+ 
+Hale, K.A., and Portwood, D.E., 1996.  The aerobic soil degradation of spinosad: a novel natural 
+insect control agent. J. Environ. Sci. Health B. (31)3:477–484. 
+ 
+21 
+ 
+Mayer D.F., Kovacs G., Brett B.L., and Brisabri B.L., 2001.  The effects of spinosad insecticide 
+to adults of Apis mellifera, Megachile rotundata and Nomia melanderi (Hymenoptera:Ap
+Text Len: 1078
+--------------------------------------------------------------------------------
+)3:477–484. 
+ 
+21 
+ 
+Mayer D.F., Kovacs G., Brett B.L., and Brisabri B.L., 2001.  The effects of spinosad insecticide 
+to adults of Apis mellifera, Megachile rotundata and Nomia melanderi (Hymenoptera:Apidae). 
+Int. J. Horticul. Sci. 7:93–97. 
+ 
+Mayes, M.A., Thompson, G.D., Husband, B., Miles, M.M., 2003.  Spinosad toxicity to 
+pollinators and associated risk. Rev. Environ. Contam. Toxicol. 179:37–71. 
+ 
+Miles, M., and Eelen, H., 2006.  The effects of spinosad to beneficial insects and mites and its 
+use in IPM.  Comm. Appl. Biol. Sci. Ghent University.  71/2b:275–284. 
+ 
+National Toxicology Program (NTP), 2000.  Technical Report on the Toxicology and 
+Carcinogenesis Studies of Methyl Eugenol (CAS NO. 93-15-2) in F344/N Rats and B6C3F1 
+Mice (Gavage Studies), NTP TR 491, NIH Publication No. 00-3950, U.S. Dept. of Health and 
+Human Services, Public Health Service, National Institutes of Health, July 2000. 
+ 
+NTP, 2013.  CAS Registry Number: 93-15-2 Toxicity Effects 
+(http://ntp.niehs.nih.gov/index.cfm?objectid=E8843A21-BDB5-82F8-F2201D29BA6BEED
+Text Len: 1059
+--------------------------------------------------------------------------------
+ Public Health Service, National Institutes of Health, July 2000. 
+ 
+NTP, 2013.  CAS Registry Number: 93-15-2 Toxicity Effects 
+(http://ntp.niehs.nih.gov/index.cfm?objectid=E8843A21-BDB5-82F8-F2201D29BA6BEED6) last 
+accessed on 11 December 2013  
+ 
+Penagos, D.I., Cisneros, J., Hernandez, O., and Williams, T., 2005.  Lethal and sublethal effects 
+of the naturally derived insecticide spinosad on parasitoids of Spodoptera frugiperda 
+(Lepidoptera: Noctuidae).  Biocontrol Sci. Technol. 15:81–95. 
+ 
+Perumalsamy, H., Chang, K.S., Park, C. and Y.J. Ahn.  2010.  Larvicidal activity of Asarum 
+heterotropoides root constituents against insecticide-susceptible and resistant Culex pipiens 
+pallens and Aedes aegypti and Ochlerotatus togoi.  J. Agric. Food Chem.  58:10001-10006. 
+ 
+Pineda, S., Schneider, M., Smagghe, G., Martinez, A., Del Estal, P., Uela, E.V., Valle, J. and 
+Budia, F., 2007.  Lethal and sublethal effects of methoxyfenozide and spinosad on Spodoptera 
+littoralis (Lepidoptera: Noctuidae).  J. Econ. Entomol. 100(3):773–780. 
+ 
+Schecter, A
+Text Len: 1055
+--------------------------------------------------------------------------------
+le, J. and 
+Budia, F., 2007.  Lethal and sublethal effects of methoxyfenozide and spinosad on Spodoptera 
+littoralis (Lepidoptera: Noctuidae).  J. Econ. Entomol. 100(3):773–780. 
+ 
+Schecter, A., Lucier, G. W., Cunningham, M. L., Abdo, K. M., Blumenthal, G., Silver, A. G., 
+Melnick, R., Portier, C., Barr, D. B., Barr, J. R., Stanfill, S. B., Patterson Jr., D.G., Needham, L.L., 
+Stopford, W., Masten, S., Mignogna, J., and Tung, K. C., 2004.  Human consumption of 
+methyleugenol and its elimination from serum. Environmental Health Perspectives, 112:6  
+ 
+Semiz, G., Cetin, H., Isik, K., and Yanikoglu, A., 2006.  Effectiveness of a naturally derived 
+insecticide, spinosad, against the pine processionary moth Thaumetopoea wilkinsoni Tams 
+(Lepidoptera: Thaumetopoeidae) under laboratory conditions.  Pest Manag. Sci. 62:452–455. 
+ 
+Stark, J.D., and Banks, J.E., 2001.  Selective pesticides: are they less hazardous to the 
+environment?  Biosciences 51:980–982. 
+ 
+Stark, J., and Vargas, R.I., 2003.  Demographic changes in Daphnia pulex after exposure to the 
+insecticides spinosad and diaz
+Text Len: 1093
+--------------------------------------------------------------------------------
+ Banks, J.E., 2001.  Selective pesticides: are they less hazardous to the 
+environment?  Biosciences 51:980–982. 
+ 
+Stark, J., and Vargas, R.I., 2003.  Demographic changes in Daphnia pulex after exposure to the 
+insecticides spinosad and diazinon.  Ecotox. Env. Safety.  56:334–338. 
+ 
+22 
+ 
+Stark, J.D., Vargas, R. and N. Miller, 2004.  Toxicity of spinosad in protein bait to three 
+economically important tephritid fruit fly species (Diptera: Tephritidae) and their parasitoids 
+(Hymenoptera: Braconidae).  J. Econ. Entomol. 97(3):911-915. 
+ 
+Stebbins, K. E., Bond, D. M., Novilla, M. N., and Reasor, M. J., 2002.  Spinosad Insecticide: 
+Subchronic and Chronic Toxicity and Lack of Carcinogenicity in CD-1 Mice. Toxicol. Sci. 65: 
+276–287.  
+ 
+Stevens, M.M., Helliwell, S., and Hughes, P.A., 2005.  Toxicity of Bacillus thuringiensis var. 
+israelensis formulations, spinosad, and selected synthetic insecticides to Chironomus tepperi 
+larvae.  J. Am. Mosq. Control Ass. 21(4):446–450. 
+ 
+Tan, K.H. and R. Nishida, 2012.  Methyl eugenol: its occurrence, distribution, and role in nature, 
+
+Text Len: 1091
+--------------------------------------------------------------------------------
+ formulations, spinosad, and selected synthetic insecticides to Chironomus tepperi 
+larvae.  J. Am. Mosq. Control Ass. 21(4):446–450. 
+ 
+Tan, K.H. and R. Nishida, 2012.  Methyl eugenol: its occurrence, distribution, and role in nature, 
+especially in relation to insect behavior and pollination.  J. Insect Sci. 12(56): 1-72. 
+ 
+Thompson, G.D., Dutton, R., and Sparks, T.C., 2000.  Spinosad – a case study: an example from 
+a natural products discovery programme.  Pest Manage. Science. 56:696–702. 
+ 
+Toxnet, 2013.  Environmental Fate and Exposure for Methyl Eugenol, Hazardous Substances 
+Data Bank (http://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+4504).  
+last assessed 12/9/13. 
+ 
+USDA APHIS, 1999. Spinosad Bait Spray Applications Human Health Risk Assessment, March 
+1999. 
+ 
+USDA APHIS, 2003. Spinosad Bait Spray Applications Nontarget Risk Assessment, October 
+2003. 
+ 
+USDA APHIS, 2007.  Draft report:  Aerial application of spinosad for the control of emerald ash 
+borer. 
+ 
+USDA APHIS, 2013. Plant Health:  Fruit Flies 
+http://www.aphis.usda.gov/plant_health/plant_pest_info/fruit_flies/ access on August 26, 2013. 
+ 
+U.S.
+Text Len: 1154
+--------------------------------------------------------------------------------
+ application of spinosad for the control of emerald ash 
+borer. 
+ 
+USDA APHIS, 2013. Plant Health:  Fruit Flies 
+http://www.aphis.usda.gov/plant_health/plant_pest_info/fruit_flies/ access on August 26, 2013. 
+ 
+U.S. Environmental Protection Agency (USEPA), 1989.  Risk assessment guidance for 
+Superfund volume I, human health evaluation manual (Part A). interim final. Office of 
+Emergency and Remedial Response, Washington, DC. EPA/540/1-89/002 December 1989. 
+ 
+USEPA, 1997.  Pesticide Fact Sheet: Spinosad, Office of Pesticides and Toxic Substances 
+ 
+USEPA, 1998.  Spinosad; time-limited pesticide tolerance. 63 FR 144:40239-40247, July 28. 
+ 
+USEPA, 2003.  Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. 
+ 
+USEPA, 2004.  Memorandum: Risk Assessment for Methyl Eugenol (Methyleugenol), 16 
+December 2004. 
+ 
+23 
+ 
+ 
+USEPA, 2005.  Memorandum: Application of Spinosad to Mint; Banana; Plantain; Peanut; Bulb 
+Vegetables; Legume Vegetables; Forage, Fodder, and Straw of Cereal Grains (crop group 16); 
+Grass Forage, Fodder, and Hay (crop group 17); and Nongrass Animal Feeds (crop group 18) 
+and Application of Spinosad for Control of Fruit Flies. HED Risk Assessment. 
+ 
+USEPA, 2006.  Methyl Eugenol (ME
+Text Len: 1226
+--------------------------------------------------------------------------------
+, and Straw of Cereal Grains (crop group 16); 
+Grass Forage, Fodder, and Hay (crop group 17); and Nongrass Animal Feeds (crop group 18) 
+and Application of Spinosad for Control of Fruit Flies. HED Risk Assessment. 
+ 
+USEPA, 2006.  Methyl Eugenol (ME) (203900) Fact Sheet 
+(http://www.epa.gov/opp00001/chem_search/reg_actions/registration/fs_PC-203900_01-Sep-
+06.pdf). 
+ 
+USEPA, 2007.  Dermal Exposure Assessment: A summary of EPA approach, EPA 600/R-
+07/040F | September 2007 | www.epa.gov/ncea  
+ 
+USEPA, 2010.  Draft Second List of Chemicals for Tier 1 Screening 
+(http://www.epa.gov/endo/pubs/draftlist2.pdf)  
+ 
+USEPA, 2011.  Spinosad and spinetoram summary document registration review: initial docket, 
+docket numbers: Spinosad EPA-HQ-OPP-2011-0667 Spinetoram EPA-HQ-OPP-2011-0666, 
+www.regulations.gov 
+ 
+USEPA,2013a.  Overview of Risk Assessment in the Pesticide Program – Human Health Risk 
+Assessment (http://www.epa.gov/pesticides/about/overview_risk_assess.htm, last accessed 
+11/15/2013). 
+ 
+USEPA, 2013b.  Draft Second List of Chemicals for Tier 1 Screening 
+http://www.epa.gov/endo/pubs/prioritysetting/draft
+Text Len: 1123
+--------------------------------------------------------------------------------
+Assessment (http://www.epa.gov/pesticides/about/overview_risk_assess.htm, last accessed 
+11/15/2013). 
+ 
+USEPA, 2013b.  Draft Second List of Chemicals for Tier 1 Screening 
+http://www.epa.gov/endo/pubs/prioritysetting/draftlist2.htm, last accessed 12/13/13 
+ 
+USEPA, 2013c.  EPA One liner ecotox database.  [Online].  Available:  
+http://www.ipmcenters.org/Ecotox/DataAccess.cfm 
+ 
+USEPA, 2013d.  Occupational Pesticide Handler Unit Exposure Surrogate Reference Table 
+(http://www.epa.gov/pesticides/science/handler-exposure-table.pdf), March 2013. 
+ 
+USEPA, 2013e.  Common Mechanism Groups; Cumulative Exposure and Risk Assessment 
+http://www.epa.gov/oppsrrd1/cumulative/common_mech_groups.htm, last accessed 12/13/13 
+ 
+USGS, 2006.  Pesticides in the nation’s streams and ground water, 1992–2001 : the quality of 
+our nation’s waters.  By Robert J. Gilliom, Jack E. Barbash, Charles G. Crawford, Pixie A. 
+Hamilton, Jeffrey D. Martin, Naomi Nakagaki, Lisa H. Nowell, Jonathan C. Scott, Paul E. 
+Stackelberg, Gail P. Thelin, and David M. Wolock.  Circular 1291. 
+   
+Vargas, R.L., Miller, N.W. and J.D. Stark.  2003. 
+Text Len: 1118
+--------------------------------------------------------------------------------
+. Martin, Naomi Nakagaki, Lisa H. Nowell, Jonathan C. Scott, Paul E. 
+Stackelberg, Gail P. Thelin, and David M. Wolock.  Circular 1291. 
+   
+Vargas, R.L., Miller, N.W. and J.D. Stark.  2003.  Field trials of spinosad as a replacement for 
+naled, DDVP, and malathion in methyl eugenol and cue-lure bucket traps to attract and kill male 
+oriental fruit flies and melon flies (Diptera: Tephritidae) in Hawaii.  J. Econ. Entomol. 96(6): 
+1780-1785. 
+ 
+24 
+ 
+Vargas, R.I., Pinero, J.C., Mau, R.F.L. and Stark, J.D., Hertlein, M., Mafra-Neto, A., Coler, R. 
+and A. Getchell.  2009. Attraction and mortality of oriental fruit flies to SPLAT-MAT-methyl 
+eugenol with spinosad.  Entomologia Experimentalis et Applicata 131: 286–293. 
+ 
+Williams, T., Valle, J., and Vinuela, E., 2003.  Is the naturally derived insecticide spinosad® 
+compatible with insect natural enemies.  Biocontrol Science and Technol.  13(5):459–475. 
+ 
+Yano, B. L., Bond, D. M., Novilla, M. N., McFadden, L. G., and Reasor, M. J., 2002.  Spinosad  
+insecticide: subchronic and chronic toxicity and lack of carcinogenicity
+Text Len: 1084
+--------------------------------------------------------------------------------
+rol Science and Technol.  13(5):459–475. 
+ 
+Yano, B. L., Bond, D. M., Novilla, M. N., McFadden, L. G., and Reasor, M. J., 2002.  Spinosad  
+insecticide: subchronic and chronic toxicity and lack of carcinogenicity in Fischer 344 Rats. 
+Toxicol.Sci. 65:288–298. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 
+Appendix: Risk Estimation for Accidental Occupational Dermal Exposure  
+ 
+ 
+    Parameters Units Values Sources 
+Dose = PDR/BW mg/kg-d 
+0.000585 0.00117 
+USEPA 
+2007 
+0.000250714 0.000501429   
+0.00019102 0.000382041   
+BW=body weight kg 70 70 
+USEPA 
+2011 
+PDR = UE * AR * A mg/day       
+PDR =Daily potential dose rates mg/lb a.i 0.04095 0.0819   
+0.01755 0.0351   
+0.013371429 0.026742857   
+UE = unit exposure (mg/lb ai) mg/lb a.i 1.3 1.3 
+USEPA 
+2013d 
+AR = maximum application rate 
+(
+Text Len: 831
+--------------------------------------------------------------------------------
+.04095 0.0819   
+0.01755 0.0351   
+0.013371429 0.026742857   
+UE = unit exposure (mg/lb ai) mg/lb a.i 1.3 1.3 
+USEPA 
+2013d 
+AR = maximum application rate 
+(lb ai/acre or lb ai/gal) lb ai/acre 0.0045 0.009 Label 
+A = maximum area treated 
+(acre/d or gal/d) 
+acres/days 7 7   
+3 3   
+2.285714286 2.285714286   
+Hours of application per day  hrs/day 7 7   
+6 6   
+8 8   
+Acres treated per hour acres/hrs 1 1 Estimated 
+based on 
+label 
+0.5 0.5 
+0.285714286 0.285714286 
+Oral RfD (occupational) mg/kg/day 0.27 0.27   
+Hazard Quotient   0.002 0.004   
+0.0009 0.002   
+0.0007 0.001   
+ 
+ 
+Text Len: 583
+--------------------------------------------------------------------------------
+ 
+ 
+Human Health and 
+Ecological Risk 
+Assessment for 
+STATIC™ Spinosad ME 
+Bait Applications  
+ 
+ 
+ 
+March 2014 
+ 
+ 
+United States 
+Department of 
+Agriculture 
+ 
+Marketing and 
+Regulatory 
+Programs 
+ 
+Animal and  
+Plant Health 
+Inspection  
+Service 
+ 
+ 
+Human Health and Ecological 
+Risk Assessment for STATIC™ 
+Spinosad ME Bait Applications 
+ 
+ 
+ 
+ 
+ 
+March 2014 
+ 
+ 
+ 
+ 
+Agency Contact 
+Jim E. Warren Ph.D. and Fan Wang-Cahill Ph.D. 
+Animal Plant Health Inspection Service 
+U.S. Department of Agriculture 
+4700 River Road, Unit 149 
+Riverdale, MD  20737 
+ 
+ __________________________________________________________  
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its 
+programs and activities on the basis of race, color, national origin, sex, 
+religion, age, disability, political beliefs, sexual orientation, or marital or family 
+status.  (Not all prohibited bases apply to all programs.)  Persons with 
+disabilities who require alternative means for communication of program 
+information (Braille, large print, audiotape, etc.) should contact the USDA 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice
+Text Len: 1344
+--------------------------------------------------------------------------------
+ USDA 
+TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, 
+Room 326–W, Whitten Building, 1400 Independence Avenue, SW, Washington, 
+DC  20250–9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal 
+opportunity provider and employer. 
+ __________________________________________________________  
+Mention of companies or commercial products in this report does not imply 
+recommendation or endorsement by the U.S. Department of Agriculture over 
+others not mentioned.  USDA neither guarantees nor warrants the standard of 
+any product mentioned.  Product names are mentioned solely to report 
+factually on available data and to provide specific information. 
+ __________________________________________________________  
+This publication reports research involving pesticides.  All uses of pesticides 
+must be registered by appropriate State and/or Federal agencies before they 
+can be recommended.   
+ __________________________________________________________  
+CAUTION:  Pesticides can be injurious to humans, domestic animals,  
+desirable plants, and fish or other wildlife—if they are not handled or applied  
+properly.  Use all pesticides selectively and carefully.  Follow recommended  
+practices for the disposal of surplus pesticides and pesticide containers. 
+ 
+Table of Contents 
+ 
+EXECUTIVE SUMMARY .............................................................................................. i 
+1.0 INTRODUCTION ................................................................................................ 1 
+2.0 PROBLEM FORMULATION ............................................................................... 1 
+2.1 Chemical Description and Product Use ........................................................................ 2 
+2.2 Physical and Chemical Properties ................................................................................ 2 
+2.3 Environmental Fate....................................................................................................... 4 
+2.4 Hazard
+Text Len: 2103
+--------------------------------------------------------------------------------
+ARY .............................................................................................. i 
+1.0 INTRODUCTION ................................................................................................ 1 
+2.0 PROBLEM FORMULATION ............................................................................... 1 
+2.1 Chemical Description and Product Use ........................................................................ 2 
+2.2 Physical and Chemical Properties ................................................................................ 2 
+2.3 Environmental Fate....................................................................................................... 4 
+2.4 Hazard Identification .................................................................................................... 5 
+3.0. DOSE-RESPONSE ASSESSMENT ....................................................................... 8 
+3.1 Human Health Dose-Response Assessment ................................................................. 8 
+3.2 Ecological Dose-Response Assessment ....................................................................... 8 
+4.0 EXPOSURE ASSESSMENT ................................................................................13 
+4.1 Human Health Exposure Assessment ......................................................................... 13 
+4.2 Ecological Exposure Assessment ............................................................................... 15 
+5.0 RISK CHARACTERIZATION .............................................................................16 
+5.1 Human Health ............................................................................................................. 16 
+5.2 Ecological ................................................................................................................... 16 
+6.0 UNCERTAINTIES/CUMULATIVE EFFECTS .....................................................17 
+7.0 REFERENCES ....................................................................................................20 
+Appendix: Risk Estimation for Accidental Occupational Dermal Exposure ........................ 25 
+ 
+ 
+i 
+ 
+EXECUTIVE SUMMARY 
+ 
+USDA APHIS Plant Protection and Quarantine (PPQ) is proposing to use a new formulation of 
+spinosad in its fruit fly eradication program.  Spinosad is currently used in the program however 
+there is a need to develop a new formulation with increased efficacy and as a potential 
+replacement for a similar formulation that uses the organophosphate insecticide naled.  The 
+proposed formulation STATIC™ Spinosad ME contains the
+Text Len: 2636
+--------------------------------------------------------------------------------
+ formulation of 
+spinosad in its fruit fly eradication program.  Spinosad is currently used in the program however 
+there is a need to develop a new formulation with increased efficacy and as a potential 
+replacement for a similar formulation that uses the organophosphate insecticide naled.  The 
+proposed formulation STATIC™ Spinosad ME contains the insecticide spinosad, as well as the 
+attractant methyl eugenol, which is designed to attract and kill, male fruit flies.   
+ 
+USDA APHIS evaluated the potential human health and ecological risks from the proposed use 
+of STATIC™ Spinosad ME in this assessment and determined that the risks to human health and 
+the environment are negligible.  The lack of risk to human health and the environment is based 
+on the low probability of exposure to human health and the environment and favorable 
+environmental fate and effects data.  The method of application for STATIC™ Spinosad ME is 
+by hand as dollops or large droplets to sites on telephone poles, light poles, fences, other 
+inanimate objects, non-crop tree trunks or limbs and non-edible foliage. The proposed method of 
+application substantially reduces the potential for exposure to human health and the environment, 
+such as nontarget fish and wildlife.  Risks to workers and the general population are expected to 
+be minimal based on the labeled use, lack of application to food crops, and a favorable toxicity 
+profile when considering acute or chronic effects.  Risks to nontarget fish and wildlife are also 
+anticipated to be negligible based on the proposed use pattern resulting in a low potential for 
+exposure to most taxa.  A favorable environmental fate profile and low toxicity to most nontarget 
+organisms further reduces the risk to terrestrial and aquatic animals. 
+ 
+Text Len: 1793
+--------------------------------------------------------------------------------
+ a favorable toxicity 
+profile when considering acute or chronic effects.  Risks to nontarget fish and wildlife are also 
+anticipated to be negligible based on the proposed use pattern resulting in a low potential for 
+exposure to most taxa.  A favorable environmental fate profile and low toxicity to most nontarget 
+organisms further reduces the risk to terrestrial and aquatic animals. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+1.0 INTRODUCTION 
+ 
+USDA APHIS is proposing to use a new formulation of spinosad, STATICTM Spinosad ME, in 
+its fruit fly eradication program.  This product has been shown to effectively control fruit flies 
+and is intended to supplement other uses of spinosad in the program and may reduce the need for 
+naled, an organophosphate insecticide, in its male annihilation technique (MAT) applications 
+(Vargas et al. 2003, 2009).  USDA APHIS has previously assessed the human health and 
+ecological risks of spinosad under different formulations and use patterns however with the 
+proposed new formulation there is a need to determine if this specific formulation and use 
+pattern will pose a risk beyond what has been determined in previous assessments (USDA 
+APHIS1999, 2003).    
+ 
+This human health risk assessment (HHRA) and ecological risk assessment (ERA) provide a 
+quantitative and qualitative evaluation of the potential risks and hazards to human health and 
+non-target fish, and wildlife as a result of exposure to spinosad under the proposed bait  
+applications of STATIC™ Spinosad ME. 
+Text Len: 1539
+--------------------------------------------------------------------------------
+    
+ 
+This human health risk assessment (HHRA) and ecological risk assessment (ERA) provide a 
+quantitative and qualitative evaluation of the potential risks and hazards to human health and 
+non-target fish, and wildlife as a result of exposure to spinosad under the proposed bait  
+applications of STATIC™ Spinosad ME. 
+ 
+The methods used in this HHRA follow standard regulatory guidance and methodologies (NRC 
+1983, USEPA 2013a), and generally conform to other Federal agencies such as U.S. 
+Environmental Protection Agency, Office of Pesticide Programs (USEPA/OPP).  The methods 
+used to assess potential ecological risk to nontarget fish and wildlife follow EPA methodologies 
+regarding eco-risk assessment, with an emphasis on those used by USEPA/OPP in the pesticide 
+registration process.   
+ 
+The following risk assessment is divided into four sections: problem formulation (identifying 
+hazard), exposure assessment (identifying potentially exposed populations and determining 
+potential exposure pathways for these populations), toxicity assessment (the dose-response 
+assessment), and the integration of the exposure and toxicity assessments, or risk 
+characterization. 
+   
+2.0 PROBLEM FORMULATION 
+ 
+Fruit flies in the family Tephritidae are among the most destructive pests of fruits and vegetables 
+around the world.  The genera Anastrepha, Bactrocera, and Ceratitis pose the greatest risk to U.S. 
+agriculture.  Tephritid fruit flies spend their larval stages feeding and growing in over 400 host 
+plants.  Introduction of these pest species into the United States causes economic losses from 
+destruction and spoiling of host commodities by larvae, costs associated with
+Text Len: 1689
+--------------------------------------------------------------------------------
+, Bactrocera, and Ceratitis pose the greatest risk to U.S. 
+agriculture.  Tephritid fruit flies spend their larval stages feeding and growing in over 400 host 
+plants.  Introduction of these pest species into the United States causes economic losses from 
+destruction and spoiling of host commodities by larvae, costs associated with implementing 
+control measures, and loss of market share due to restrictions on shipment of host commodities.  
+The extensive damage and wide host range of tephritid fruit flies become obstacles to 
+agricultural diversification and trade when pest fruit fly species become established in these 
+areas (USDA APHIS 2013).  
+ 
+Spinosad is a broad spectrum insecticide registered for use on agricultural crops, ornamentals, 
+tree farms/plantations, turfgrass, home gardens and lawns (residential use).  It is also registered 
+for drywood termiticide use, poultry use, area-wide fruit fly use, post-harvest grain use, larval 
+mosquitoes, and as a seed treatment (USEPA 2011).   
+ 
+2 
+ 
+ 
+In the USDA APHIS Fruit Fly Eradication Program, spinosad and the attractant, methyl eugenol, 
+are used in combination as a bait to control multiple species of tephritid fruit flies that infest tree, 
+vine and vegetable crops.  The bait is a thick yellow-brown liquid with a sweet fruit odor.  Fruit 
+flies can detect the bait several yards away from the deposition site.  Through ingestion. spinosad 
+over-activates the central nervous system of insects via the nicotinic acetylcholine receptors.  
+Target insects exhibit tremors, trembling, paralysis and eventual death.  APHIS PP
+Text Len: 1599
+--------------------------------------------------------------------------------
+ a thick yellow-brown liquid with a sweet fruit odor.  Fruit 
+flies can detect the bait several yards away from the deposition site.  Through ingestion. spinosad 
+over-activates the central nervous system of insects via the nicotinic acetylcholine receptors.  
+Target insects exhibit tremors, trembling, paralysis and eventual death.  APHIS PPQ proposes to 
+use STATICTM Spinosad ME bait for its programs. 
+ 
+The following sections discuss the chemical description and product use of STATICTM Spinosad 
+ME; physical and chemical properties; environmental fate; and hazard identification for spinosad 
+and methyl eugenol.   
+2.1 Chemical Description and Product Use 
+ 
+STATICTM Spinosad ME is an insecticidal bait containing 2% spinosad (active ingredient) and 
+51% methyl eugenol (a chemical attractant) dispersed within a waxy formulation carrier 
+(SPLATTM).  Spinosad is a mixture of spinosyn A and D (macrocyclic lactones).  The 
+formulation is in a ratio of 85:15 of spinosyn A to D.  Spinosad is produced biologically from the 
+fermentation culture of the actinomycete Saccharopolyspora spinosa, a bacterial organism 
+isolated from soil.  
+ 
+STATICTM Spinosad ME is used for selective attraction and control of male tephritid fruit files 
+of the genus Bactrocera (or other fruit fly species which respond to the male specific attractant 
+methy eugenol).  The product selectively eliminates male fruit flies from a localized area, which 
+disrupts mating leading to decline or local eradication of a fruit fly population.  It is most 
+effective when fruit fly populations
+Text Len: 1574
+--------------------------------------------------------------------------------
+ritid fruit files 
+of the genus Bactrocera (or other fruit fly species which respond to the male specific attractant 
+methy eugenol).  The product selectively eliminates male fruit flies from a localized area, which 
+disrupts mating leading to decline or local eradication of a fruit fly population.  It is most 
+effective when fruit fly populations are maintained at low levels and males are already scarce.   
+ 
+The preferred application method is as small dollops or large droplets targeted as spot 
+applications to stakes, posts, fences, non-crop tree trunks or limbs, artificial targets, or non-edible 
+border vegetation surrounding crop fields.  The proposed use of this new formulation is similar 
+where it will be applied by hand in dollops to sites on telephone poles, light poles, fences, other 
+inanimate objects, non-crop tree trunks or limbs, non-edible foliage where it won’t be readily 
+accessible to the general public.  The application techniques can vary from application of dollops 
+using a spatula or other spreading implement to mechanical or pneumatic meter-jet capable of 
+delivering large droplets.  Aerial applications are not permitted.   
+ 
+The product comes as a ready-to-use formulation.  The application rates of this formulation for 
+spot applications to non-crop surfaces are 3.4 to 6.85 fl oz (0.0045 to 0.009 lb) active ingredient 
+(ai) spinosad per acre.   
+2.2 Physical and Chemical Properties  
+ 
+Spinosad (technical grade) is a light gray to white crystalline solid with an odor of slightly stale 
+water (CDPR 2002).  The chemical structure of spinosad is shown in Figure 2-1.  
+Text Len: 1616
+--------------------------------------------------------------------------------
+009 lb) active ingredient 
+(ai) spinosad per acre.   
+2.2 Physical and Chemical Properties  
+ 
+Spinosad (technical grade) is a light gray to white crystalline solid with an odor of slightly stale 
+water (CDPR 2002).  The chemical structure of spinosad is shown in Figure 2-1.   
+ 
+ 
+3 
+ 
+ 
+Figure 2-1 Spinosad: Spinosyn A + Spinosyn D  
+ 
+ 
+ 
+The physical and chemical properties of spinosad are summarized in Table 2-1.  Spinosad has 
+low volatility potential based on its low vapor pressure and Henry’s Law Constant values.   
+ 
+Table 2-1 Physical and Chemical Properties of Spinsad 
+Common Name Spinosad Reference Chemical Name Spinosyn A Spinosyn D 
+Molecular formula C41H65NO16 C42H67NO16 CDPR 2002 
+CAS No. 131929-60-7 131929-63-0 CDPR 2002 
+Melting point  84oC to 99.5oC 161.5 oC to 170oC USEPA 1997 
+Vapor pressure 
+(25oC) 
+3.0 x 10-11 hPa 
+2.4 x 10-10 mm Hg 
+2.0 x 10-11 hPa 
+1.6 x 10-10 mm Hg 
+USEPA 1997 
+Cleveland et al. 2002 
+Octanol-water 
+Partition 
+Coefficient (Kow)  
+54.6 90 CDPR 2002 
+Partition 
+coefficients (log 
+Kow) at 23oC 
+pH 5:  2.8  
+Text Len: 1060
+--------------------------------------------------------------------------------
+ 10-10 mm Hg 
+USEPA 1997 
+Cleveland et al. 2002 
+Octanol-water 
+Partition 
+Coefficient (Kow)  
+54.6 90 CDPR 2002 
+Partition 
+coefficients (log 
+Kow) at 23oC 
+pH 5:  2.8  
+pH 7:  4 
+pH 9:  5.2 
+3.2 
+4.5 
+5.2 
+USEPA 1997 
+Henry's Law 
+Constant (Kh) at 
+25 °C, pH 7 
+9.82 x 10-10 atm-
+m3/mol 
+ 
+4.87 x 10-7 atm-
+m3/mol 
+CDPR 2002 
+Water solubility 89.4 ppm 
+290 to 16 mg/L 
+with increasing pH 
+0.495 ppm 
+28.7 to 0.05 mg/L 
+(pH 5-9) 
+USEPA 1997 
+Cleveland et al. 2002 
+ 
+Methyl eugenol is a colorless liquid with the odor of cloves.  The CAS # is 93-15-2.  The 
+chemical structure of methyl eugenol is shown in Figure 2-2.  Water solubility is less than 0.1 
+g/100mL at 19oC.  Vapor pressure is 0.01 mm Hg at 20OC (USEPA 2004).  
+ 
+ 
+4 
+ 
+ 
+ 
+Figure 2-2 Chemical Structure of Methyl Eugenol 
+ 
+2.3 Environmental Fate 
+ 
+The environmental fate describes the processes by which spinosad moves and is transformed in 
+the environment.  The environmental fate processes
+Text Len: 961
+--------------------------------------------------------------------------------
+.01 mm Hg at 20OC (USEPA 2004).  
+ 
+ 
+4 
+ 
+ 
+ 
+Figure 2-2 Chemical Structure of Methyl Eugenol 
+ 
+2.3 Environmental Fate 
+ 
+The environmental fate describes the processes by which spinosad moves and is transformed in 
+the environment.  The environmental fate processes include: 1) mobility, persistence, and 
+degradation in soil, 2) movement to air, 3) migration potential to groundwater and surface water, 
+and 4) plant uptake.   
+ 
+Spinosad persistence in the environment is variable in terrestrial and aquatic systems (Table 2-2) 
+(USEPA 1998).  Spinosad is not sensitive to hydrolysis but breaks down rapidly in water in the 
+presence of light with reported photolytic half-lives of less than 1 day.  The rapid photolytic 
+breakdown of spinosad in laboratory studies has also been confirmed in microcosm studies 
+(Cleveland et al. 2002).  Solubility of spinosad in water is pH dependent and is dependent on the 
+structurally similar active ingredients.  Solubility for spinosyn A ranges from 290 to 16 mg/L 
+with increasing pH, while the solubility for spinosyn D is much less but still pH-dependent with 
+values ranging from 28.7 to 0.05 mg/L for pH values between five and nine (Cleveland et al. 
+2002).   
+ 
+Table 2-2.  Reported Half-lives for Spinosad in Soil and Water. 
+Environmental Fate Parameter Reported Half-life 
+Hydrolysis (Spinosyn A/D) No degradation @ pH 5 and 7, pH 9 (200/259 days) 
+Text Len: 1404
+--------------------------------------------------------------------------------
+ nine (Cleveland et al. 
+2002).   
+ 
+Table 2-2.  Reported Half-lives for Spinosad in Soil and Water. 
+Environmental Fate Parameter Reported Half-life 
+Hydrolysis (Spinosyn A/D) No degradation @ pH 5 and 7, pH 9 (200/259 days) 
+Aqueous Photolysis (Spinosyn A/D) 0.93/0.82 days @ pH 7  
+Soil Photolysis (Spinosyn A/D) 82/44 days 
+Aerobic Soil Metabolism (Spinosyn A/D) 9.0–17.3/14.5 days 
+Anaerobic Aquatic Metabolism (Spinosyn A/D) 161/ 205 days 
+Terrestrial Field Dissipation 0.3 to 0.5 days for Spinosyn A 
+ 
+Degradation of spinosyn A and D in soil is rapid under aerobic conditions suggesting spinosad is 
+susceptible to microbial degradation (EPA 1998a, Hale and Portwood 1996).  Spinosad also 
+degrades quickly on plant surfaces with reported half-lives ranging from 2.0 to 11.7 days (CDPR 
+2002, Sharma et al. 2008). 
+ 
+Spinosad is not considered mobile based on the available soil adsorption (Koc) studies that have 
+been conducted on a range of soil types.  Values range from 884 to 145,350, with the lowest 
+value occurring in a loamy sand with 1.1 percent organic matter and a cation exchange capacity 
+ 
+5 
+ 
+(cec) of 1.9, while the highest value is for a silt loam soil with 0.4 percent organic matter and a
+Text Len: 1218
+--------------------------------------------------------------------------------
+ range of soil types.  Values range from 884 to 145,350, with the lowest 
+value occurring in a loamy sand with 1.1 percent organic matter and a cation exchange capacity 
+ 
+5 
+ 
+(cec) of 1.9, while the highest value is for a silt loam soil with 0.4 percent organic matter and a 
+cec of 12.0 (CDPR 2002).  
+  
+Spinosad is not considered to be volatile based on the vapor pressure for both active ingredients, 
+with values of 2.4 x 10-10 mm Hg for spinosyn A and 1.6 x 10-10 mm Hg for spinosyn D 
+(Cleveland et al., 2002).  Chemicals with vapor pressure values less that 1 x 10-6 are considered 
+nonvolatile (CDPR 2002). 
+Methyl eugenol is a volatile compound.  In the atmosphere, methyl eugenol will be degraded by 
+reaction with photochemically-produced hydroxyl radicals.  The half-life for this reaction in air 
+is estimated to be 5 hours (Toxnet 2013).  Based upon an estimated Koc of 140, methyl eugenol 
+released to soil is expected to have high mobility, and methyl eugenol released to water is 
+expected to adsorb moderately to suspended solids and sediment.  Based upon an estimated 
+Henry's Law constant of 5.6 x 10-6 atm-cu m/mole, methyl eugenol in moist soil surface and 
+water surface is expected to volatilize.  Dissipation half-lives of 6 and 16 hours (at 32 and 22 deg 
+C, respectively) in soil and 6 and 34 hours (at 32 and 22 deg C, respectively) in water have been 
+
+Text Len: 1384
+--------------------------------------------------------------------------------
+ 10-6 atm-cu m/mole, methyl eugenol in moist soil surface and 
+water surface is expected to volatilize.  Dissipation half-lives of 6 and 16 hours (at 32 and 22 deg 
+C, respectively) in soil and 6 and 34 hours (at 32 and 22 deg C, respectively) in water have been 
+reported.  Methyl eugenol in water is not expected to undergo hydrolysis in the environment due 
+to the lack of hydrolysable functional groups (Toxnet 2013).  Modelling predicted half-lives of 
+methyl eugenol in soil, water, and sediment were 8 days, 8 days, and 32 days, respectively.  
+These predicted half-lives suggested that methyl eugenol is expected to reside mainly in the 
+environmental compartment to which it is released (Environment Canada 2010).   
+The active ingredients in STATICTM Spinosad ME are applied within a waxy formulation carrier, 
+which serves to impart increased residual and rainfastness to the active ingredient and methyl 
+eugenol lure.  Therefore, the degradation rates of the active ingredient are lower. 
+2.4 Hazard Identification  
+ 
+Spinosad has low acute toxicity and is classified by USEPA as Toxicity Category III (slightly 
+toxic with “caution” warning on label) for acute oral and dermal toxicity and Toxicity Category 
+IV (Not acutely toxic with no warning on label) for acute inhalation toxicity, primary eye 
+irritation, and primary skin irritation (USEPA 2005).  The rat oral median lethal dose (LD50) is 
+3,738 mg/kg for males and >5,000 mg/kg for females, whereas the mouse oral LD50 is >5,000 
+mg/kg. The
+Text Len: 1515
+--------------------------------------------------------------------------------
+ no warning on label) for acute inhalation toxicity, primary eye 
+irritation, and primary skin irritation (USEPA 2005).  The rat oral median lethal dose (LD50) is 
+3,738 mg/kg for males and >5,000 mg/kg for females, whereas the mouse oral LD50 is >5,000 
+mg/kg. The rabbit dermal LD50 is >2,000 mg/kg and the rat inhalation median lethal 
+concentration (LC50) is >5.18 mg/l air (USEPA 1998).   
+ 
+In subchronic toxicity studes the primary effects in mouse were increased vacuolation of cells in 
+the lymphoid organs, liver, kidney, stomach, female reproductive tract, and epididymis, and less 
+severely in the heart, lung, pancreas, adrenal cortex, bone marrow, tongue, pituitary gland, and 
+anemia.  Thyroid follicle epithelial cell vacuolation, anemia, multifocal hepatocellular 
+granuloma, cardiomyopathy and spleenic histiocytosis were observed in rats.  Microscopic 
+changes in a variety of tissues, anemia, and possible liver damage were observed in dogs 
+(USEPA 2005).  Spinosad was evaluated in 13-week dietary studies and showed No Observable 
+Effect Levels (NOELs) of 4.9 mg/kg/day in dogs, 6 mg/kg/day in mice, and 8.6 mg/kg/day in 
+rats. No dermal irritation or systemic toxicity occurred in a 21-day repeated dose dermal toxicity 
+study in rabbits at 1,000 mg/kg/day (USEPA 1998).  It is not a dermal sensitizer based on a lack 
+ 
+
+Text Len: 1344
+--------------------------------------------------------------------------------
+ dogs, 6 mg/kg/day in mice, and 8.6 mg/kg/day in 
+rats. No dermal irritation or systemic toxicity occurred in a 21-day repeated dose dermal toxicity 
+study in rabbits at 1,000 mg/kg/day (USEPA 1998).  It is not a dermal sensitizer based on a lack 
+ 
+6 
+ 
+of toxicity observed at the limit dose in a 21-day dermal toxicity study using rabbits (USEPA 
+2005).   
+ 
+Chronic toxicity studies in the dog and rat report NOELs of 2.68 and 2.72 mg/kg/day, 
+respectively for male and female dogs, and 2.4 and 3.0 mg/kg/day, respectively for male and 
+female rats. 
+ 
+Spinosad is not a neurotoxic agent in acute, subchronic, or chronic toxicity studies.  No 
+neurotoxic effects were observed at the limit dose in an acute neurotoxicity study in rats and at 
+doses up to 42.7 mg/kg/day in a subchronic neurotoxicity study.  In a chronic feeding study in 
+dogs, increases in serum alanine aminotransferase, aspartate aminotransferase, and triglycerides 
+levels, and the presence of tissue abnormalities, including vacuolated cell aggregations, arteritis, 
+and glandular cell vacuolation (parathyroid) were observed.  In a chronic oral toxicity study in 
+rats, vacuolation of thyroid follicular cells, increased absolute, and relative thyroid weights were 
+observed.  In mice, rats, and dogs, other organs including liver, kidney, spleen, heart, thyroid, 
+and bone marrow (anemia) appeared to be the target organs (USEPA
+Text Len: 1406
+--------------------------------------------------------------------------------
+roid) were observed.  In a chronic oral toxicity study in 
+rats, vacuolation of thyroid follicular cells, increased absolute, and relative thyroid weights were 
+observed.  In mice, rats, and dogs, other organs including liver, kidney, spleen, heart, thyroid, 
+and bone marrow (anemia) appeared to be the target organs (USEPA 2005).  
+ 
+No developmental effects were observed in the rat and rabbit developmental toxicity studies. In a 
+2-generation reproduction study in rats, decreased litter size and survival was observed in the 
+presence of maternal toxicity (deaths) at the highest dose tested.  However, the maternal and 
+offspring toxicity (deaths) indicated no evidence of increased susceptibility in this study (USEPA 
+2005). 
+ 
+There were no major differences in the bioavailability, routes or rates of excretion, or 
+metabolism following a single low oral dose, single high oral dose, or repeated oral doses in rats.  
+Most of the dose (approximately 70-80%) was absorbed.  Approximately 20% of the dose was 
+eliminated in the feces which was the major route of excretion.  The excreted metabolites were 
+glutathione conjugates of the parent and O-demethylated Factor A.  Metabolites in the tissues 
+were the N-and O-demethylated Factor A.  With rapid biliary excretion, metabolites in the bile 
+were the glutathione conjugates of parent and N-and O-demethylated forms of Factor D (USEPA 
+2005). 
+ 
+Carcinogenicity/Mutagenicity:  
+ 
+Carcinogenic toxicity studies show spinosad is not likely to be carcinogenic (USEPA 1998, Yano 
+et al.
+Text Len: 1545
+--------------------------------------------------------------------------------
+ 
+were the glutathione conjugates of parent and N-and O-demethylated forms of Factor D (USEPA 
+2005). 
+ 
+Carcinogenicity/Mutagenicity:  
+ 
+Carcinogenic toxicity studies show spinosad is not likely to be carcinogenic (USEPA 1998, Yano 
+et al. 2002, Stebbins et al. 2002, USEPA 2005).  It is also negative for mutagenicity in various 
+mutagenicity assays.   
+ 
+Endocrine disruption: 
+ 
+A literature search regarding available spinosad toxicity studies show that there was no estrogen 
+or thyroid mediated toxicity (USEPA 2005).   
+ 
+Spinosad is not among the group of 58 pesticide active ingredients on the initial list to be 
+screened under the EPA Endocrine Disruptor Screening Program.  This program determines 
+whether certain substances may have an effect in humans or wildlife similar to an effect 
+ 
+7 
+ 
+produced by a “naturally occurring estrogen, or other such endocrine effects as the Administrator 
+may designate”.  Spinosad is not on the USEPA Draft Second Endocrine Disruptor Screening 
+Program (EDSP) List of Chemicals for Tier 1 Screening (USEPA 2010).  USEPA considers that 
+the compounds on the list are candidates (at least for screening purposes) under EDSP testing 
+based only on their pesticide registration status and/or because such substances may occur in 
+sources of drinking water to which a substantial population may be exposed (USEPA 2013b). 
+ 
+Other ingredients: 
+ 
+Methy eugenol is another ingredient in the formulation used as a chemical attractant for fruit 
+flies.  Methyl eugenol is a naturally occurring
+Text Len: 1538
+--------------------------------------------------------------------------------
+ only on their pesticide registration status and/or because such substances may occur in 
+sources of drinking water to which a substantial population may be exposed (USEPA 2013b). 
+ 
+Other ingredients: 
+ 
+Methy eugenol is another ingredient in the formulation used as a chemical attractant for fruit 
+flies.  Methyl eugenol is a naturally occurring constituent found in a number of plants such as 
+nutmeg, pimento, lemongrass, tarragon, basil, star anise and fennel (European Commission 
+2001). 
+ 
+Methyl eugenol is considered moderately toxic to mammals with median lethal oral doses of 810 
+to 1,560 mg/kg for rats and 540 mg/kg for mice.  The undiluted chemical (98% purity) is not 
+considered an eye or a skin irritant (NTP 2000).  Methyl eugenol is considered practically 
+nontoxic in dermal or inhalation acute exposures (Beroza et al. 1975).  Longer term studies using 
+methyl eugenol have also been conducted using rats and mice.  In a 14-week study, a dose of 0, 
+10, 30, 100, 300 or 1000 mg methyl eugenol/kg body weight in 0.5% aqueous methylcellulose 
+were administered to groups of 10 males and 10 females per sex per species by gavage (5 days 
+per week) (Abdo et al. 2001).  Methyl eugenol administration to rats induced erythrocyte 
+microcytosis, thrombocytosis, hypoproteinemia, and hypoalbuminemia.  It caused an increase in 
+serum alanine aminotransferase and sorbitol dehydrogenase activities and bile acid 
+Text Len: 1426
+--------------------------------------------------------------------------------
+do et al. 2001).  Methyl eugenol administration to rats induced erythrocyte 
+microcytosis, thrombocytosis, hypoproteinemia, and hypoalbuminemia.  It caused an increase in 
+serum alanine aminotransferase and sorbitol dehydrogenase activities and bile acid 
+concentration.  Methyl eugenol also caused an increase in the incidence of hepatocyte cytologic 
+alteration, cytomegaly, Kupffer cell pigmentation, mixed foci of cellular alteration and bile duct 
+hyperplasia of the liver and atrophy and chronic inflammation of the mucosa of the glandular 
+stomach.  In mice, methyl eugenol caused an increase in the incidence of cytologic alteration, 
+necrosis, bile duct hyperplasia and subacute inflammation of the liver and atrophy, degeneration, 
+necrosis, edema, mitotic alteration, and cystic glands of the fundic region of the glandular 
+stomach.  The NOEL of methyl eugenol for both species was estimated at 10 mg/kg (NTP 2013).  
+In long-term exposures the National Toxicology Program (NTP) conducted 2-year studies in rats 
+and mice and concluded that there was clear evidence of carcinogenic activity in male and 
+female F344/N rats, based on an increase incidence of liver neoplasms and neuroendocrine 
+tumors of the glandular stomach in male and female rats, and increased incidence of kidney 
+neoplasms, malignant fibroma and fibroma or fibrosarcoma (combined) in male rats (NTP 2000, 
+2013).  Dose rates in both studies ranged from 37 mg/kg to 150 mg/kg with the dose-related
+Text Len: 1481
+--------------------------------------------------------------------------------
+ocrine 
+tumors of the glandular stomach in male and female rats, and increased incidence of kidney 
+neoplasms, malignant fibroma and fibroma or fibrosarcoma (combined) in male rats (NTP 2000, 
+2013).  Dose rates in both studies ranged from 37 mg/kg to 150 mg/kg with the dose-related 
+effects varying based on the endpoint and a NOEL not reported for either test species.  Methyl 
+eugenol is not considered to be mutagenic and in metabolism studies has been shown to be 
+rapidly eliminated and excreted from human blood serum (NTP 2013, Schecter et al. 2004). 
+ 
+The reported effects of methyl eugenol are at doses above those expected to occur in human 
+populations and is reflected in the USEPA’s Tolerance Reassessment Eligibility Document for 
+methyl eugenol that concluded "...there is a reasonable certainty that no harm to any population 
+or subgroup will result from the dietary and water exposure to methyl eugenol from uses 
+specified in the existing exemption for the requirements for tolerance for methyl eugenol under 
+ 
+8 
+ 
+40 CFR §180.1067." (USEPA 2006).  In addition the Food and Drug Admnistration (FDA) 
+classifies methyl eugenol as a “Generally Recognized as Safe (GRAS)” compound suggesting a 
+low hazard to human health. 
+ 
+3.0. DOSE-RESPONSE ASSESSMENT 
+3.1 Human Health Dose-Response Assessment 
+ 
+A dose-response assessment evaluates the dose levels (toxicity criteria) for potential human 
+health effects including acute and chronic toxicities.   
+ 
+USEPA established a chronic oral reference
+Text Len: 1519
+--------------------------------------------------------------------------------
+ hazard to human health. 
+ 
+3.0. DOSE-RESPONSE ASSESSMENT 
+3.1 Human Health Dose-Response Assessment 
+ 
+A dose-response assessment evaluates the dose levels (toxicity criteria) for potential human 
+health effects including acute and chronic toxicities.   
+ 
+USEPA established a chronic oral reference dose (RfD) of 0.0268 mg/kg/day for spinosad based 
+on chronic toxicity studies with the dog and rat.  This RfD has incorporated a 100-fold safety 
+factor to the NOELs (see Section 2.4) found in the chronic dog study to include animal to human 
+extrapolation (an uncertainty factor of 10) and sensitive subgroups with a population (an 
+uncertainty factor of 10) (USEPA 1998).  For occupational exposure, the RfD is 0.27 mg/kg/day 
+because the uncertainty factor of 10 for protection of sensitive subgroups such as infants or 
+children is not applicable.  The RfD for occupational exposure of 0.27 mg/kg/day is used for this 
+human health risk assessment. 
+3.2 Ecological Dose-Response Assessment 
+3.2.1 Wild Mammal Toxicity 
+ 
+The acute and chronic toxicity of spinosad to wild mammals is expected to be low from oral, 
+dermal and inhalation exposures based on the available data summarized above in the hazard 
+identification section of this risk assessment. Using the lowest reported acute LD50 value and the 
+lowest subchronic rat NOEL, adjusted LD50 and NOEL values were calculated for different size 
+mammals (Table 3-1).  The ranges of different body weights and consumption rates were 
+selected to represent mammals, such as the shrew that
+Text Len: 1546
+--------------------------------------------------------------------------------
+ in the hazard 
+identification section of this risk assessment. Using the lowest reported acute LD50 value and the 
+lowest subchronic rat NOEL, adjusted LD50 and NOEL values were calculated for different size 
+mammals (Table 3-1).  The ranges of different body weights and consumption rates were 
+selected to represent mammals, such as the shrew that consumes a large percentage of their body 
+weight and may receive higher exposure, as well as larger mammals (1 kg) that may consume 
+less when compared to the standard laboratory rat, which is used in several of the mammalian 
+toxicity studies.  The lowest subchronic value was selected due to the short environmental half-
+life of spinosad.  Effects from daily exposure over a 13-week period are not expected but provide 
+a conservative estimate of effects.  These values are also lower than any of the developmental 
+and reproductive NOEL values that have been determined in previous studies. 
+ 
+ 
+9 
+ 
+Table 3-1.  Adjusted LD50 and NOEL Values for Select Mammals. 
+Mammalian 
+Class 
+Body 
+Weight (g) 
+% Body Weight 
+Consumed 
+Adjusted 
+LD50 
+Adjusted 
+NOEL 
+      
+Herbivores/ Insectivores 15 95 8433.08 16.48 
+ 35 66 6823.26 13.34 
+ 1,000 15 2951.27 5.77 
+Granivores 15 21 8433.08 16.48 
+ 35 15 6823.26 13.34 
+ 1,000 3 2951.27 5.77 
+ 
+3.2.2 Avian and Reptile Toxicity 
+ 
+Spinosad acute and chronic toxicity to birds is low for both surrogate
+Text Len: 1397
+--------------------------------------------------------------------------------
+ 2951.27 5.77 
+Granivores 15 21 8433.08 16.48 
+ 35 15 6823.26 13.34 
+ 1,000 3 2951.27 5.77 
+ 
+3.2.2 Avian and Reptile Toxicity 
+ 
+Spinosad acute and chronic toxicity to birds is low for both surrogate species that have been 
+tested (Table 3-2).  Acute LD50 and LC50 for the mallard and bobwhite quail are greater than the 
+highest concentration tested, 1,333 mg/kg and 5,156 parts per million (ppm), respectively (EPA, 
+2010).  Chronic toxicity is also low with reproduction NOEC values of 500 ppm for the mallard 
+and 550 ppm for the bobwhite quail in 20-week exposure studies.   
+ 
+Table 3-2.  Acute and Chronic Avian Toxicity of Spinosad.  
+Test Species/ Duration LD50/LC50 
+(mg/kg) 
+NOEL/LOEL 
+(mg/kg) 
+Bobwhite quail, Colinus virginianus LD50  >1333 500/NR 
+Bobwhite quail LC50 >5156 656/NR 
+Bobwhite quail chronic reproduction NR 550/1100 
+Mallard, Anas platyrhynchos LD50 >1333 1333/NR 
+Mallard LC50 >5156 302/NR 
+Mallard chronic reproduction NR 500/1100 
+NR = Not reported 
+ 
+The lowest acute NOEL value (500 mg/kg) was used to estimate an adjusted sublethal toxicity 
+value for birds of different sizes and feeding rates (table 3-3).  Based on the adjusted body 
+weight for different avian size classes and their percentage
+Text Len: 1232
+--------------------------------------------------------------------------------
+ 302/NR 
+Mallard chronic reproduction NR 500/1100 
+NR = Not reported 
+ 
+The lowest acute NOEL value (500 mg/kg) was used to estimate an adjusted sublethal toxicity 
+value for birds of different sizes and feeding rates (table 3-3).  Based on the adjusted body 
+weight for different avian size classes and their percentage of body weight consumed, adjusted 
+NOEL values ranged from approximately 360 to 648 mg/kg.  
+ 
+Table 3-3.  Adjusted Acute Toxicity Values for Different Sized Birds. 
+Avian 
+Class 
+Body 
+Weight (g)  
+% Body Weight 
+Consumed 
+Adjusted 
+NOEL 
+Small 20 114 360.21 
+Mid 100 65 458.57 
+Large 1000 29 647.75 
+ 
+10 
+ 
+ 
+No reptile toxicity data appears to be available for spinosad.  USEPA/OPP uses the effects data 
+for birds to represent sensitivity to reptiles.  There is uncertainty in this assumption; however, 
+based on the low toxicity of spinosad to birds and mammals, as well as aquatic vertebrates, 
+toxicity to reptiles would also be expected to be low. 
+3.2.3 Terrestrial Invertebrate Toxicity 
+ 
+Toxicity to terrestrial invertebrates is variable based on the available toxicity data for pests, 
+pollinators, and biocontrol agents.  Honey bees appear to be one of the more sensitive terrestrial 
+invertebrates to spinosad, with 48-hour contact LD50 values ranging from 0.0029 to 0.078 µg 
+ai/bee and a reported NOEC of 0.0016 µg ai/bee (0.016 µg/g) (
+Text Len: 1375
+--------------------------------------------------------------------------------
+ocontrol agents.  Honey bees appear to be one of the more sensitive terrestrial 
+invertebrates to spinosad, with 48-hour contact LD50 values ranging from 0.0029 to 0.078 µg 
+ai/bee and a reported NOEC of 0.0016 µg ai/bee (0.016 µg/g) (Mayes et al. 2003).  Toxicity to 
+honey bees is similar to other native bees with reported contact LD50 values of 0.058, 0.065, and 
+0.078 µg ai/bee for the alfalfa leafcutter bee (Megachile rotundata), alkali bee (Nomia 
+melanderi) and honey bee, respectively (Mayer et al., 2001).  Contact toxicity to spinosad 
+decreases rapidly after applications are allowed to dry.  Laboratory, greenhouse, and field studies 
+have demonstrated that spinosad is nontoxic to bees 3 hours after application (Mayes et al., 
+2003).  Studies using honey bees and bumblebees exposed to spinosad residues on alfalfa, 
+strawberries, almonds, citrus, and kiwifruit have documented a lack of impacts to pollinators 
+when applications are made when bees are not active, and after residues have weathered. 
+Toxicity to other nontarget insects ranges from 3.3 to greater than 200 mg/L based on reported 
+LC50 values (Thompson et al. 2000, Williams et al. 2003, Penagos et al. 2005, Miles and Eelen 
+2006, Semiz et al. 2006).  Within Lepidoptera, sensitivity can vary with effective treatment rates 
+ranging from 25 to 360 g/ha (Thompson et al. 2000).  Lepidoptera appear to be less
+Text Len: 1391
+--------------------------------------------------------------------------------
+
+LC50 values (Thompson et al. 2000, Williams et al. 2003, Penagos et al. 2005, Miles and Eelen 
+2006, Semiz et al. 2006).  Within Lepidoptera, sensitivity can vary with effective treatment rates 
+ranging from 25 to 360 g/ha (Thompson et al. 2000).  Lepidoptera appear to be less sensitive to 
+spinosad compared to pollinators, such as honey bees and bumblebees.  For example, contact 
+toxicity of fourth instar Spodoptera littoralis larvae to spinosad is reported as 4.74 µg/g, which is 
+lower than the 0.029 µg/g reported for the honey bee (Pineda et al. 2006).   Dietary spinosad 
+LC50 values for S. littoralis range from 0.5 to 2.98 ppm.  
+Based on field-collected data, there were no effects on abundance and diversity of Lepidoptera, 
+Coleoptera, or Hymenoptera when sampled using malaise traps 2 and 6 days after spinosad 
+treatment for emerald ash borer (USDA APHIS 2007).  Aerial broadcast applications were made 
+to several plots ranging in size from 8 to 20 acres at a rate (0.23 lb ai/ac) which is greater than 
+two orders of magnitude above the use rate proposed in the fruit fly program.  Non-target 
+terrestrial invertebrate impacts have also been evaluated using this specific combination of 
+spinosad and the attractant methyl eugenol.  Methyl eugenol is a naturally occurring chemical 
+produced in over 450 plant species with varied effects on terrestrial invertebrates (Tan and 
+Nishida 2012).  Stark et al. (2004) demonstrated that contact toxicity
+Text Len: 1467
+--------------------------------------------------------------------------------
+ 
+terrestrial invertebrate impacts have also been evaluated using this specific combination of 
+spinosad and the attractant methyl eugenol.  Methyl eugenol is a naturally occurring chemical 
+produced in over 450 plant species with varied effects on terrestrial invertebrates (Tan and 
+Nishida 2012).  Stark et al. (2004) demonstrated that contact toxicity of spinosad to two 
+parasitoids only occurred at levels well above those that would be encountered in any field 
+setting.   
+3.2.4 Terrestrial Plant Toxicity 
+ 
+No terrestrial phytotoxicity has been noted using spinosad at rates up to 0.18 lb ai/ac (EPA 
+1998a). 
+ 
+ 
+ 
+ 
+11 
+ 
+3.2.5 Aquatic Toxicity 
+ 
+Spinosad has moderate toxicity to fish based on the available toxicity data, with acute toxicity 
+values ranging from 4.99 to 30 mg/L in 96-hour exposures (Table 3-4). 
+ 
+Table 3-4.  Spinosad Aquatic Toxicity Values for Aquatic Vertebrates. 
+Test Species/Duration LC50/EC50  
+(mg/L) 
+NOEC/LOEC  
+(mg/L) 
+Acute Tests   
+96-hour LC50 Carp Cyprinus carpio  4.99 NR 
+96-hour LC50 Bluegill Sunfish Lepomis macrochirus 5.9 2.10/NR 
+96-hour LC50 Rainbow Trout Oncorynchus mykiss 30 5.2/NR 
+96-hour LC50 Sheepshead Minnow Cyprinodon variegates 7.87 1.8/NR 
+Subchronic Tests   
+Text Len: 1228
+--------------------------------------------------------------------------------
+ LC50 Bluegill Sunfish Lepomis macrochirus 5.9 2.10/NR 
+96-hour LC50 Rainbow Trout Oncorynchus mykiss 30 5.2/NR 
+96-hour LC50 Sheepshead Minnow Cyprinodon variegates 7.87 1.8/NR 
+Subchronic Tests   
+Rainbow Trout ELS* NR 0.498/0.962 
+Rainbow Trout 21-d  NR 1.2/2.1 
+Sheepshead 35-d ELS  NR 1.15/2.38 
+*ELS = Early life stage study; NR = Not reported 
+ 
+A literature review revealed no apparent toxicity data for spinosad on amphibians.  EPA–OPP 
+uses fish toxicity data to represent the sensitivity of amphibians which provides uncertainty due 
+to potential differences in sensitivities, and differences in exposure pathways between fish and 
+adult amphibians.  However, due to the lack of amphibian-related data for spinosad, fish effects 
+data will be used as a surrogate and discussed in relation to risk in the below aquatic risk 
+characterization section.   
+ 
+Based on the available aquatic toxicity profile, spinosad has variable toxicity to aquatic 
+invertebrates (Table 3-5) (EPA 1998a, Stark and Banks 2001,  Cleveland et al. 2001).  Longer 
+term studies show that under continuous exposure for 21 days, spinosad has a greater effect on 
+the freshwater cladoceran, Daphnia magna.  The same study using pulse doses within a short 
+period of time demonstrates the rapid breakdown of spinosad with an approximate tenfold 
+decrease in toxicity.  Stark and Vargas (2003) demonstrated demographic effects to D. pulex
+Text Len: 1420
+--------------------------------------------------------------------------------
+ for 21 days, spinosad has a greater effect on 
+the freshwater cladoceran, Daphnia magna.  The same study using pulse doses within a short 
+period of time demonstrates the rapid breakdown of spinosad with an approximate tenfold 
+decrease in toxicity.  Stark and Vargas (2003) demonstrated demographic effects to D. pulex 
+populations exposed to formulated spinosad at 8 µg/L and greater in 60- to 70-day exposures.  
+Test chambers were renewed every other day for the duration of the study.  In a long-term 
+sediment study, the midge Chironomus riparius was shown to have lower chronic sensitivity 
+when compared to D. magna tested under continuous exposure conditions. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12 
+ 
+Table 3-5.  Spinosad Aquatic Toxicity Values for Aquatic Invertebrates. 
+Test Duration/Species LC50/EC50  
+(mg/L) NOEC/LOEC (mg/L) 
+Acute Tests   
+48-hour EC50  Daphnia magna 14.0 0.45/NR 
+96-hour LC50 Grass Shrimp >9.76 1.66/NR 
+96-hour LC50 Eastern Oyster 0.30 0.14/NR 
+24-hour LC50 Aedes aegypti 0.025 NR 
+24-hour LC50 A. aegypti (4th instar) 0.160 NR 
+72-hour LC50 A. aegypti (Adults) 0.460 NR 
+Chronic Tests   
+21-day LC50 D. magna (continuous) >0.006 NR 
+Text Len: 1157
+--------------------------------------------------------------------------------
+ aegypti 0.025 NR 
+24-hour LC50 A. aegypti (4th instar) 0.160 NR 
+72-hour LC50 A. aegypti (Adults) 0.460 NR 
+Chronic Tests   
+21-day LC50 D. magna (continuous) >0.006 NR 
+21-day LC50 D. magna (5-d pulse) >0.057 NR 
+28-day Mysid Life Cycle NR 0.084/0.173 
+25-day LC50 Chironomus riparius  > 0.003 1.6 
+21-day D. magna (continuous) NR 0.617/1.2 (µg/L) 
+21-day D. magna (5-d pulse) NR 1.6/3.2 (µg/L) 
+25-day C. riparius  NR 84.2/173 (µg/L) 
+NR = Not reported 
+ 
+Mosquito species, such as Culex pipiens, Aedes aegypti, and A. albimanus appear to be the most 
+sensitive aquatic invertebate taxa to spinosad, while the cladoceran D. magna was the least 
+sensitive with a 48-hour EC50 of 14 mg/L (EPA 1998a,  Bond et al. 2004).  Mosquito sensitivity 
+was comparable between technical and formulated spinosad based on the available data using 
+other spinosad formulations  (Bond et al. 2004, Cetin et al. 2005, Stevens et al. 2005,  Ayesa et 
+al. 2006).  
+  
+Toxicity to aquatic plants, such as diatoms and
+Text Len: 998
+--------------------------------------------------------------------------------
+ Mosquito sensitivity 
+was comparable between technical and formulated spinosad based on the available data using 
+other spinosad formulations  (Bond et al. 2004, Cetin et al. 2005, Stevens et al. 2005,  Ayesa et 
+al. 2006).  
+  
+Toxicity to aquatic plants, such as diatoms and algae, range from 0.107 mg/L for the freshwater 
+diatom, Navicula pelliculosa, to greater than 105.5 mg/L for green algae based on 5-day 
+exposures (EPA 2010).  Toxicity to aquatic macrophytes is based on a 14-day EC50 value for 
+duckweed, Lemna gibba, which was reported as 10.6 mg/L. 
+ 3.2.6 Metabolite and Formulation Toxicity 
+ 
+Available acute and chronic aquatic toxicity data for metabolites of spinosyn A and D 
+demonstrate that metabolites are less toxic than the parent material (Table 3-6) (USEPA 2013c).  
+The spinosyn A metabolite has a sublethal toxicity value that is more than 160 times below the 
+reported spinosad NOEC for D. magna.  The same is true when comparing chronic toxicity 
+values for D. magna between the parent and metabolite.  Based on NOEC values from the 
+21-day studies, the spinosyn A metabolite is more than 15,000 times less toxic than the parent.  
+Similar reductions in toxicity are also observed when comparing spinosad aquatic invertebrate 
+toxicity to the primary metabolite for spinosyn D. 
+ 
+ 
+13 
+ 
+Table 3-6.  Spinosyn Metabolite Aquatic Toxicity Values for Aquatic Biota.
+Text Len: 1396
+--------------------------------------------------------------------------------
+ more than 15,000 times less toxic than the parent.  
+Similar reductions in toxicity are also observed when comparing spinosad aquatic invertebrate 
+toxicity to the primary metabolite for spinosyn D. 
+ 
+ 
+13 
+ 
+Table 3-6.  Spinosyn Metabolite Aquatic Toxicity Values for Aquatic Biota. 
+Test Duration/ Species LC50/EC50 (mg/L) NOEC/LOEC (mg/L) 
+Spinosyn A metabolite   
+48-hour EC50  D. magna > 197.0  74.7/NR 
+21-day D. magna reproduction NR 9.32/>9.32 
+28-day C. riparius >0.073 0.073/NR 
+96-hour Navicula pelliculosa 31.0 17.2/NR 
+Spinosyn D metabolite   
+48-hour EC50  D. magna 66.8 46.4/NR 
+21-day D. magna reproduction NR 4.85/9.32 
+28-day C. riparius >0.039 0.039 
+96-hour N. pelliculosa 19.0 14.2/NR 
+120-hour N. pelliculosa 0.22 0.17/NR 
+NR = Not reported 
+ 
+No aquatic ecological effects data is available for the proposed formulation however available 
+data on other formulations of spinosad, and the other primary product in the formulation, methyl 
+eugenol, suggest toxicity will occur primarily through exposure to spinosad.  Methyl eugenol 
+comprises 51% of the proposed formulation.  Reported methyl eugenol 96-hour acute aquatic 
+toxicity values range from
+Text Len: 1173
+--------------------------------------------------------------------------------
+ for the proposed formulation however available 
+data on other formulations of spinosad, and the other primary product in the formulation, methyl 
+eugenol, suggest toxicity will occur primarily through exposure to spinosad.  Methyl eugenol 
+comprises 51% of the proposed formulation.  Reported methyl eugenol 96-hour acute aquatic 
+toxicity values range from 6.9 mg/L for the rainbow trout and 8.1 mg/L for the bluegill sunfish 
+(Beroza et al. 1975).  These values are in the same range of acute toxicity values for fish and 
+spinosad however the methyl eugenol toxicity values exceed the solubility for methyl eugenol 
+and therefore would not occur in aquatic systems.  Available aquatic invertebrate data is limited 
+however median lethality values for various mosquito species exceed 50 mg/L which is well 
+above the solubility limit for methyl eugenol (Perumalsamy et al. 2010).  Toxicity to terrestrial 
+wildlife is expected to be similar between the formulation and technical active ingredient based 
+on the previously discussed acute mammalian formulation data and the technical active 
+ingredient. 
+ 
+4.0 EXPOSURE ASSESSMENT 
+4.1 Human Health Exposure Assessment 
+ 
+Exposure assessment estimates the potential exposure of humans to spinosad.  The exposure 
+assessment begins with the use and application method of STATICTM Spinosad ME.  A complete 
+exposure pathway for spinosad includes (1) a release from a spinosad source, (2) an exposure 
+point where contact can occur, and (3) an exposure route such as ingestion, inhalation, or dermal 
+contact by which contact can occur (USEPA 1989).  Exposures for the identified human 
+pop
+Text Len: 1639
+--------------------------------------------------------------------------------
+.  A complete 
+exposure pathway for spinosad includes (1) a release from a spinosad source, (2) an exposure 
+point where contact can occur, and (3) an exposure route such as ingestion, inhalation, or dermal 
+contact by which contact can occur (USEPA 1989).  Exposures for the identified human 
+populations are evaluated for each identified exposure pathway. 
+ 
+ 
+ 
+ 
+14 
+ 
+4.1.1 Potentially Exposed Human Populations and Complete Exposure Pathways 
+ 
+The STATICTM Spinosad ME formulation is used as a bait (small dollops or large droplets) and 
+hand applied using a spatula or other spreading implement, or pneumatic meter-jet capable of 
+delivering large droplets.  STATICTM Spinosad ME is expected to be applied to sites higher up 
+on telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs, 
+non-edible foliage where it is not readily accessible to the general public.  Therefore, workers 
+(i.e. handlers) in the program are the most likely subgroup that could be exposed to spinosad.  
+The potential exposure to workers to spinosad is from mixing (thorough stirring and mixing of 
+the formulation is required prior to use although the formulation is ready-to-use) and application 
+activities.  Under normal applications, the potential for handlers to be exposed to spinosad is 
+minimal from mixing and spot application with adherence to labeled requirements for personal 
+protective equipment (PPE) (long-sleeved shirt and long pants, shoes and socks, and chemical-
+resistant gloves).  Under the accidental event when PPEs do not function properly, the complete 
+
+Text Len: 1604
+--------------------------------------------------------------------------------
+ normal applications, the potential for handlers to be exposed to spinosad is 
+minimal from mixing and spot application with adherence to labeled requirements for personal 
+protective equipment (PPE) (long-sleeved shirt and long pants, shoes and socks, and chemical-
+resistant gloves).  Under the accidental event when PPEs do not function properly, the complete 
+exposure pathway for these workers includes dermal contact and is further evaluated in Section 
+6.  Inhalation route is not complete for spinosad because spinosad is not volatile, and exposure 
+from the inhalation route is limited for methyl eugenol during stirring and mixing of the waxy 
+formulation.  Incidental ingestion route is not complete under the spot application method.   
+ 
+The general public such as residents is not identified as a potentially exposed human population 
+because their exposure to spinosad in STATICTM Spinosad ME bait formulation is extremely 
+unlikely when the locations of the baits are not readily accessible to the general public.   
+ 
+A complete exposure pathway is not identified for dietary plant consumption or dermal contact 
+to plants because the STATICTM Spinosad ME bait is not applied to plants that would be 
+harvested for human consumption.  In addition, spinosad degrades quickly on plant surfaces (see 
+Section 2.3). 
+ 
+A complete exposure pathway is not identified for the groundwater medium or surface water 
+medium based on the specific spot application method required by the label.  Surface runoff via 
+rain fall may occur, however, the amount of spinosad from this bait formulation releasing to soil 
+is minimal based on the proposed low application rates.  In addition this particular formulation of 
+spinosad within a waxy carrier is rain fast and would not be expected to be removed from the
+Text Len: 1812
+--------------------------------------------------------------------------------
+ based on the specific spot application method required by the label.  Surface runoff via 
+rain fall may occur, however, the amount of spinosad from this bait formulation releasing to soil 
+is minimal based on the proposed low application rates.  In addition this particular formulation of 
+spinosad within a waxy carrier is rain fast and would not be expected to be removed from the site 
+of application until after significant weathering and degradation occurs reducing the amount of 
+spinosad available for runoff to receiving water that could serve as a drinking water source.   
+ 4.1.2 Exposure Evaluation 
+ 
+This section quantitatively evaluates the worker accidental exposures from dermal contact 
+pathway while mixing, loading, and applying the spinosad baits.  Under the accidental exposure 
+scenario, it assumes that chemical-resistant gloves are broken.    
+ 
+Chemical-specific data to assess potential exposure to occupational pesticide handlers were not 
+available.  The estimates of exposure to pesticide handlers are based on surrogate study data 
+available in the Pesticide Handlers Exposure Database (PHED) (USEPA 2013d).  The 
+mixer/loader/applicator, mechanically-pressurized handgun sprayer in orchards, vineyards, 
+specialty agricultural crops, rights-of-way, nurseries, landscaping (non-turf), 
+ 
+15 
+ 
+industrial/commercial areas, aquatic areas for drench/soil directed applications and all 
+formulations, except wettable powders exposure scenario with single layer (long-sleeve shirt, 
+long pants, shoes plus socks) and no gloves is the closest scenario to represent the mixing, 
+loading and spot application of the formulation and is used for the dermal exposure evaluation.  
+The unit exposure for the surrogate scenario is 1300 µg
+Text Len: 1757
+--------------------------------------------------------------------------------
+ applications and all 
+formulations, except wettable powders exposure scenario with single layer (long-sleeve shirt, 
+long pants, shoes plus socks) and no gloves is the closest scenario to represent the mixing, 
+loading and spot application of the formulation and is used for the dermal exposure evaluation.  
+The unit exposure for the surrogate scenario is 1300 µg/lb ai.  Application rates range from 
+0.0045 to 0.009 lb ai/acre.  The following equations are used to estimate the exposure dose of 
+dermal contact for workers:   
+ 
+Exposure Dose = Daily Dose Rate/Body Weight 
+Daily Dose Rate = Unit Exposure (mg/lb ai) x Application Rate (lb ai/acre) x Area 
+Treated (acre/day) 
+ 
+The exposure doses were estimated for the application rates and summarized in Appendix A. 
+ 
+4.2 Ecological Exposure Assessment 
+ 4.2.1 Terrestrial Exposure Pathway Evaluation 
+ 
+The potential for exposure of nontarget terrestrial vertebrates to the proposed formulation of 
+spinosad is minimal through either the dermal, inhalation or dietary routes.  The lack of dietary 
+exposure is based on the method of application which will not include objects that would be 
+consumed by nontarget vertebrates (ex. light poles, tree trunks).  Dermal exposure would also be 
+low and would only occur when a nontarget vertebrate would come into contact with the material 
+while moving over an area on a pole or tree where an application was made.  Inhalation exposure 
+would also be low due to the method of application and low volatility of spinosad.  There is the 
+potential for some inhalation exposure to methyl eugenol due to its volatility however methyl 
+Text Len: 1633
+--------------------------------------------------------------------------------
+ a nontarget vertebrate would come into contact with the material 
+while moving over an area on a pole or tree where an application was made.  Inhalation exposure 
+would also be low due to the method of application and low volatility of spinosad.  There is the 
+potential for some inhalation exposure to methyl eugenol due to its volatility however methyl 
+eugenol is a naturally occurring phenylpropanoid compound that is released when plants are 
+damaged and its use in this program would not be expected to result in exposures to terrestrial 
+vertebrates beyond ambient levels. 
+ 4.2.2 Aquatic Exposure Pathway Evaluation 
+ 
+Exposure to aquatic biota from the proposed use of spinosad is expected to result in negligible 
+residues based on the use pattern and low application rates.  Applications are hand applied to 
+specific objects such as light and telephones poles, tree limbs as either large dollops are very 
+large droplets that would not be susceptible to drift.  A possible scenario of aquatic exposure 
+could occur where a dollop or large droplet becomes dislodged from the site of application after 
+it has weathered and washed into a receiving stream.   This scenario would result in negligible 
+residues based on conservative estimates of spinosad transport into water bodies.  Assuming the 
+maximum application rate for spinosad (0.009 lb ai/ac) is discharged into a water body such as a 
+wetland that is one acre in size and six inches deep would result in a spinosad reside of 3.3 µg/L.  
+This very conservative assumption assumes all material applied in one acre is available for 
+transport and that no degradation would occur.   Residues into other larger bodies of water or 
+those where water is running would
+Text Len: 1731
+--------------------------------------------------------------------------------
+ 
+wetland that is one acre in size and six inches deep would result in a spinosad reside of 3.3 µg/L.  
+This very conservative assumption assumes all material applied in one acre is available for 
+transport and that no degradation would occur.   Residues into other larger bodies of water or 
+those where water is running would result in substantially lower residues due to the dilution in 
+those types of water bodies.  
+ 
+ 
+16 
+ 
+5.0 RISK CHARACTERIZATION 
+5.1 Human Health 
+ 
+Risks associated with adverse human health and fish and wildlife are characterized quantitatively 
+and qualitatively in this section.  Under the proposed use, STATICTM Spinosad ME baits for spot 
+application to eradicate fruit flies poses minimal risk to human health due to limited exposure for 
+applicators using appropriate PPE and the low acute toxicity of spinosad to mammals.  
+Accidental risk (hazard quotient) was estimated by dividing the exposure doses with the toxicity 
+value (RfD) for the handler dermal contact exposure scenario.  The estimated risk for labeled 
+application rates is low with hazard quotients three to four orders of magnitude below one 
+indicating risk from accidental spinosad exposure is minimal (Appendix A).   
+ 
+The general public is not a concern because STATICTM Spinosad ME will be applied to sites on 
+telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs and 
+non-edible foliage where the material is not readily accessible. 
+ 
+5.2 Ecological   
+ 
+Risks to fish and wildlife are anticipated to be minimal based on the favorable toxicity profile for 
+spinosad, its environmental
+Text Len: 1637
+--------------------------------------------------------------------------------
+
+telephone poles, light poles, fences, other inanimate objects, non-crop tree trunks or limbs and 
+non-edible foliage where the material is not readily accessible. 
+ 
+5.2 Ecological   
+ 
+Risks to fish and wildlife are anticipated to be minimal based on the favorable toxicity profile for 
+spinosad, its environmental fate and the proposed use pattern in the fruit fly program.  Direct risk 
+to terrestrial vertebrates from ingestion of the bait is extremely low since applications aren’t 
+directed to food items such as seeds, fruits and insects that would contain spinosad residues.  In 
+cases where terrestrial vertebrates would consume the bait, they would have to consume many 
+times their body weight to receive a dose that could result in any effects which is highly unlikely. 
+Risk to food items or shelter required by terrestrial vertebrates would also not be anticipated due 
+to the method of application, the selective nature of the bait to certain invertebrates and lack of 
+risk to terrestrial or aquatic plants.  There is some risk to certain terrestrial invertebrates that are 
+attracted to the bait due to the presence of methyl eugenol, and could receive a lethal dose of 
+spinosad, however, based on the selective nature of methyl eugenol and spinosad as well as field 
+collected data the impacts would be localized and transient and not anticipated to result in 
+population level effects to sensitive taxa including beneficial arthropods. 
+ 
+Aquatic vertebrates and invertebrates are also at low risk from the proposed spinosad 
+applications.  The method of application eliminates the potential for off-site drift and runoff and 
+would only occur in cases where baits become weathered and fall from where they were applied, 
+and then carried to aquatic areas.
+Text Len: 1777
+--------------------------------------------------------------------------------
+ arthropods. 
+ 
+Aquatic vertebrates and invertebrates are also at low risk from the proposed spinosad 
+applications.  The method of application eliminates the potential for off-site drift and runoff and 
+would only occur in cases where baits become weathered and fall from where they were applied, 
+and then carried to aquatic areas.  A comparison of the aquatic residue from the wetland habitat 
+that was estimated in the exposure analysis to the available fish effects data shows that the 
+exposure concentration is at least two orders of magnitude below the acute and chronic effects 
+data for fish suggesting minimal risk (Figure 5-1).  Acute risk to aquatic invertebrates is also low 
+with the range of sensitivities well above the estimated residue in a wetland habitat.  The 25-day 
+chronic study with the midge has an effect level below the aquatic residue value while the 
+remaining chronic aquatic invertebrate values are well above the instantaneous residue value 
+suggesting minimal chronic risk to most aquatic invertebrates.  Exceeding the chronic exposure 
+value in the midge study does not imply risk to this group of organisms due to the conservative 
+assumptions that were made to calculate an exposure value.  Not all of the material would be 
+ 
+17 
+ 
+expected to become dislodged from the point of application at the same time and simultaneously 
+released into a water body.  In addition any exposure that would occur would not be continuous 
+over a 25 day period as was done in this study due to spinosad degradation/partitioning in aquatic 
+systems.  Degradation would result in a further decrease in risk since the metabolites are less 
+toxic than the parent.   
+ 
+ 
+ 
+ 
+Figure 5-1.  Aquatic risk
+Text Len: 1719
+--------------------------------------------------------------------------------
+ occur would not be continuous 
+over a 25 day period as was done in this study due to spinosad degradation/partitioning in aquatic 
+systems.  Degradation would result in a further decrease in risk since the metabolites are less 
+toxic than the parent.   
+ 
+ 
+ 
+ 
+Figure 5-1.  Aquatic risk characterization for spinosad. 
+ 
+The lack of risk to both aquatic vertebrates and invertebrates ensures that the direct risk to fish is 
+minimal and that their prey base would also be at low risk from the proposed applications of 
+spinosad. 
+ 
+6.0 UNCERTAINTIES/CUMULATIVE EFFECTS 
+ 
+Uncertainties and cumulative impacts associated with the risk evaluation are qualitatively 
+discussed in this section.  
+ 
+Accidental human exposure to spinosad in baits during mixing, loading, and applying may occur 
+to handlers when label required PPEs do not function properly. The RTU formulation serves to 
+minimize worker exposure as no mixing is required. Surrogate study data available in the PHED 
+were used for the accidental exposure rate since chemical-specific data to assess potential 
+exposure to occupational pesticide handlers were not available.  The closest surrogate study to 
+the spot application of STATICTM spinosad ME is the mixer/loader/applicator, mechanical-
+pressurized handgun sprayer scenario for drench/soil directed applications and all formulations, 
+except the wettable powder exposure scenario with single layer and no gloves.  However, this 
+scenario is more conservative than the spot application scenario for the proposed formulation 
+ 
+18 
+ 
+because more exposure will occur in the mechanical-pressurized handgun sprayer scenario than 
+for placement of a single spot
+Text Len: 1679
+--------------------------------------------------------------------------------
+rench/soil directed applications and all formulations, 
+except the wettable powder exposure scenario with single layer and no gloves.  However, this 
+scenario is more conservative than the spot application scenario for the proposed formulation 
+ 
+18 
+ 
+because more exposure will occur in the mechanical-pressurized handgun sprayer scenario than 
+for placement of a single spot of pesticide.  
+ 
+Uncertainties in the ecological risk assessment sections of this document are similar to those for 
+other pesticides and chemicals.  For example the applicability of surrogate laboratory toxicity 
+studies to natural ecosystems is an area of uncertainty in ecological risk assessment 
+methodology.  The approach in this assessment was to make assumptions regarding exposure 
+that were very conservative and designed to account for some of the uncertainty common with 
+screening level ecological risk assessments that rely on standardized toxicity data. Other areas of 
+potential uncertainty in these types of assessments are with effects data for the metabolites and 
+formulated material, however data was available to demonstrate that common metabolites of 
+spinosad are less toxic than the parent material.  
+ 
+Another area of uncertainty in this risk assessment is related to the potential for cumulative 
+effects.  The potential for cumulative effects can occur through various exposure pathways such 
+as 1) repeated exposure to spinosad; 2) co-exposures to other pesticides within the program with 
+respect to their toxicity; 3) exposures to other chemicals impacting the toxicity of spinosad; and 
+4) exposures to spinosad from other sources. 
+ 
+Spinosad has other labeled food and non-food uses and is currently used in the APHIS Fruit Fly 
+Eradication Program as well as other APHIS programs such as the European Grapevine Moth. 
+Cumulatively there would be an increase in spinosad
+Text Len: 1884
+--------------------------------------------------------------------------------
+; and 
+4) exposures to spinosad from other sources. 
+ 
+Spinosad has other labeled food and non-food uses and is currently used in the APHIS Fruit Fly 
+Eradication Program as well as other APHIS programs such as the European Grapevine Moth. 
+Cumulatively there would be an increase in spinosad use in relation to other APHIS and non-
+APHIS spinosad uses however the effects to human health and the environment are expected to 
+be incrementally negligible, and in cases where it is used as a naled replacement, would be 
+beneficial. From a human health perspective repeated exposure to workers would not be 
+expected to result in significant cumulative effects due to the use of PPE and the very low risk 
+that was determined in this risk assessment.  Cumulative effects to the general population are 
+also not anticipated since the likelihood of exposure is very low in this program since 
+applications are made to non-food items and there is a very low likelihood of any residues in 
+drinking water.  A lack of cumulative effects would also be anticipated as it relates to other 
+chemicals since the risk to workers and the general population is very low from the proposed use 
+of spinosad in the program.          
+ 
+Neither spinosad nor methyl eugenol are among the five common mechanism groups of 
+pesticides (Organophosphates, N-methyl Carbamates, Triazines, Chloroacetanilides, and 
+Pyrethrins/Pyrethroids).  USEPA defines that common mechanism of toxicity pertains to two or 
+more pesticide chemicals or other substances that cause a common toxic effect(s) by the same, or 
+essentially the same, sequence of major biochemical events
+Text Len: 1638
+--------------------------------------------------------------------------------
+, N-methyl Carbamates, Triazines, Chloroacetanilides, and 
+Pyrethrins/Pyrethroids).  USEPA defines that common mechanism of toxicity pertains to two or 
+more pesticide chemicals or other substances that cause a common toxic effect(s) by the same, or 
+essentially the same, sequence of major biochemical events (USEPA 2013e) 
+ 
+Cumulative impacts to aquatic and terrestrial nontarget organisms are expected to be negligible. 
+The proposed use pattern for this formulation is not expected to result in risk to nontarget 
+terrestrial vertebrates from direct effects or through impacts to available prey or habitat.  The 
+lack of significant ecological risk from spinosad use in this program would suggest that 
+significant cumulative effects to nontarget organisms from other stressors would be 
+incrementally minor.  The selective nature of the use of spinosad in the fruit fly program also 
+ 
+19 
+ 
+ensures that any cumulative impacts to beneficial insects from the use of spinosad in this 
+program would be minor and pose less risk than the use of naled in the same formulation type.    
+ 
+Water quality data in the United States, including areas where fruit fly program activities may 
+occur, show pesticide mixtures to be a common occurrence in surface water with varying 
+impacts to aquatic organisms (USGS  2006).  Some of these bodies of water may be listed 
+impaired under Section 303(d) of the Clean Water Act due to pesticides, or some another abiotic 
+or biotic stressor.  The impact to water bodies from any spinosad residues that could occur from 
+use in the Fruit Fly Eradication Program is expected to be incrementally negligible to water 
+bodies that may already be impacted by other contaminants.
+Text Len: 1711
+--------------------------------------------------------------------------------
+impaired under Section 303(d) of the Clean Water Act due to pesticides, or some another abiotic 
+or biotic stressor.  The impact to water bodies from any spinosad residues that could occur from 
+use in the Fruit Fly Eradication Program is expected to be incrementally negligible to water 
+bodies that may already be impacted by other contaminants. The waxy materials in STATIC™ 
+Spinosad ME increase rainfastness of the bait and reduce runoff. The proposed method of 
+application mitigates any impacts from drift and makes runoff unlikely so that any residues that 
+could potentially occur in water would not be expected to result in impacts to aquatic biota.  The 
+impacts of potential mixtures at any concentration are an area of uncertainty due to the large 
+number of potential types of chemical mixtures that could occur, and the spatial and temporal 
+variability in their occurrence. Spinosad has been shown to have greater than additive effects to 
+aquatic invertebrates such as mosquitos however these occur at doses well above those that 
+would occur in this program (Darriet and Corbel, 2006).   The low potential for risk to aquatic 
+biota from spinosad applications suggests that mixture toxicity would not result in significant 
+cumulative effects. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+7.0 REFERENCES 
+ 
+Abdo, K. M., Cunningham, M. L., Snell, M.L., Herbert, R. A., Travlos, G. S., Eldridge, S. R., 
+and J.R. 
+Text Len: 1445
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20 
+ 
+7.0 REFERENCES 
+ 
+Abdo, K. M., Cunningham, M. L., Snell, M.L., Herbert, R. A., Travlos, G. S., Eldridge, S. R., 
+and J.R.  Bucher. 2001.  Fourteen-week toxicity and cell proliferation of methyleugenol 
+administered by gavage to F344 rats and B6C3F1 mice, Food Chem. Toxicol. 39(4):303-16. 
+ 
+Ayesa, P., Harrington, L.C., and Scott, J.G., 2006.  Evaluation of novel insecticides for control of 
+the dengue vector, Aedes aegypti (Diptera: Culicidae). J. Med. Entomol. 43:55–60. 
+ 
+Beroza, M., Inscoe, M.N., Schwartz, Jr. P.H., Keplinger, M.L. and C.W. Mastri.  1975.  Acute 
+toxicity studies with insect attractants.  Toxicol Appl. Pharm. 31:421-429. 
+ 
+Bond, J.G., Marina, C.F., and Williams, T., 2004.  The naturally derived insecticide spinosad is 
+highly toxic to Aedes and Anopheles mosquito larvae.  Med. Vet. Entomol.  18:50–56. 
+ 
+California Department of Pesticide Regulation, 2002.  Environmental fate of spinosad.  Prepared 
+by Environmental Monitoring Branch.  16 pp. 
+ 
+CDPR—See California Department of Pesticide Regulation. 
+ 
+Cetin, H.,
+Text Len: 1071
+--------------------------------------------------------------------------------
+ larvae.  Med. Vet. Entomol.  18:50–56. 
+ 
+California Department of Pesticide Regulation, 2002.  Environmental fate of spinosad.  Prepared 
+by Environmental Monitoring Branch.  16 pp. 
+ 
+CDPR—See California Department of Pesticide Regulation. 
+ 
+Cetin, H., Yanikoglu, A. and Cilex, J.E., 2005.  Evaluation of the naturally-derived insecticide 
+spinosad against Culex pipens L. (Diptera: Culicidae) larvae in septic tank water in Antalya, 
+Turkey.  J. Vector Ecol. 30:151–154. 
+ 
+Cleveland, C.B., Bormett, G.A., Saunders, D.G., Powers, F.L., McGibbon, A.S., Reeves, G.L., 
+Rutherford, L. and Balcer, J., 2002.  Environmental fate of spinosad. 1. Dissipation and 
+degradation in aqueous systems.  J. Agric. Food Chem. 50:3244–3256. 
+ 
+Cleveland, C.B., Mayes, M.A., and Cryer, S.A., 2001.  An ecological risk assessment for 
+spinosad use on cotton.  Pest Mgt. Sci.  58:70–84. 
+ 
+Darriet, F., and Corbel, V., 2006.  Laboratory evaluation of pyriproxyfen and spinosad, alone and 
+in combination, against Aedes aegypti larvae. J. Med. Ent., 43(6):1190–1194. 
+  
+Environmental Canada, 2010. Screening Assessment for the Challenge Benzene, 1,2
+Text Len: 1135
+--------------------------------------------------------------------------------
+Darriet, F., and Corbel, V., 2006.  Laboratory evaluation of pyriproxyfen and spinosad, alone and 
+in combination, against Aedes aegypti larvae. J. Med. Ent., 43(6):1190–1194. 
+  
+Environmental Canada, 2010. Screening Assessment for the Challenge Benzene, 1,2-dimethoxy-
+4-(2-propenyl) (Methyl eugenol), Chemical Abstracts Service Registry Number 93-15-2, Health 
+Canada (http://www.ec.gc.ca/ese-ees/0129FD3C-B0FF-41C8-8BF5-
+7B2CD016AD36/batch9_93-15-2_en.pdf)   
+ 
+European Commission, 2001.  Opinion of the Scientific Committee on Food on Methyleugenol 
+(4-Allyl-1,2-dimethoxybenzene), Scientific Committee on Food, SCF/CS/FLAV/FLAVOUR/4 
+ADD1 FINAL 26 September 2001 (http://ec.europa.eu/food/fs/sc/scf/out102_en.pdf). 
+ 
+Hale, K.A., and Portwood, D.E., 1996.  The aerobic soil degradation of spinosad: a novel natural 
+insect control agent. J. Environ. Sci. Health B. (31)3:477–484. 
+ 
+21 
+ 
+Mayer D.F., Kovacs G., Brett B.L., and Brisabri B.L., 2001.  The effects of spinosad insecticide 
+to adults of Apis mellifera, Megachile rotundata and Nomia melanderi (Hymenoptera:Ap
+Text Len: 1078
+--------------------------------------------------------------------------------
+)3:477–484. 
+ 
+21 
+ 
+Mayer D.F., Kovacs G., Brett B.L., and Brisabri B.L., 2001.  The effects of spinosad insecticide 
+to adults of Apis mellifera, Megachile rotundata and Nomia melanderi (Hymenoptera:Apidae). 
+Int. J. Horticul. Sci. 7:93–97. 
+ 
+Mayes, M.A., Thompson, G.D., Husband, B., Miles, M.M., 2003.  Spinosad toxicity to 
+pollinators and associated risk. Rev. Environ. Contam. Toxicol. 179:37–71. 
+ 
+Miles, M., and Eelen, H., 2006.  The effects of spinosad to beneficial insects and mites and its 
+use in IPM.  Comm. Appl. Biol. Sci. Ghent University.  71/2b:275–284. 
+ 
+National Toxicology Program (NTP), 2000.  Technical Report on the Toxicology and 
+Carcinogenesis Studies of Methyl Eugenol (CAS NO. 93-15-2) in F344/N Rats and B6C3F1 
+Mice (Gavage Studies), NTP TR 491, NIH Publication No. 00-3950, U.S. Dept. of Health and 
+Human Services, Public Health Service, National Institutes of Health, July 2000. 
+ 
+NTP, 2013.  CAS Registry Number: 93-15-2 Toxicity Effects 
+(http://ntp.niehs.nih.gov/index.cfm?objectid=E8843A21-BDB5-82F8-F2201D29BA6BEED
+Text Len: 1059
+--------------------------------------------------------------------------------
+ Public Health Service, National Institutes of Health, July 2000. 
+ 
+NTP, 2013.  CAS Registry Number: 93-15-2 Toxicity Effects 
+(http://ntp.niehs.nih.gov/index.cfm?objectid=E8843A21-BDB5-82F8-F2201D29BA6BEED6) last 
+accessed on 11 December 2013  
+ 
+Penagos, D.I., Cisneros, J., Hernandez, O., and Williams, T., 2005.  Lethal and sublethal effects 
+of the naturally derived insecticide spinosad on parasitoids of Spodoptera frugiperda 
+(Lepidoptera: Noctuidae).  Biocontrol Sci. Technol. 15:81–95. 
+ 
+Perumalsamy, H., Chang, K.S., Park, C. and Y.J. Ahn.  2010.  Larvicidal activity of Asarum 
+heterotropoides root constituents against insecticide-susceptible and resistant Culex pipiens 
+pallens and Aedes aegypti and Ochlerotatus togoi.  J. Agric. Food Chem.  58:10001-10006. 
+ 
+Pineda, S., Schneider, M., Smagghe, G., Martinez, A., Del Estal, P., Uela, E.V., Valle, J. and 
+Budia, F., 2007.  Lethal and sublethal effects of methoxyfenozide and spinosad on Spodoptera 
+littoralis (Lepidoptera: Noctuidae).  J. Econ. Entomol. 100(3):773–780. 
+ 
+Schecter, A
+Text Len: 1055
+--------------------------------------------------------------------------------
+le, J. and 
+Budia, F., 2007.  Lethal and sublethal effects of methoxyfenozide and spinosad on Spodoptera 
+littoralis (Lepidoptera: Noctuidae).  J. Econ. Entomol. 100(3):773–780. 
+ 
+Schecter, A., Lucier, G. W., Cunningham, M. L., Abdo, K. M., Blumenthal, G., Silver, A. G., 
+Melnick, R., Portier, C., Barr, D. B., Barr, J. R., Stanfill, S. B., Patterson Jr., D.G., Needham, L.L., 
+Stopford, W., Masten, S., Mignogna, J., and Tung, K. C., 2004.  Human consumption of 
+methyleugenol and its elimination from serum. Environmental Health Perspectives, 112:6  
+ 
+Semiz, G., Cetin, H., Isik, K., and Yanikoglu, A., 2006.  Effectiveness of a naturally derived 
+insecticide, spinosad, against the pine processionary moth Thaumetopoea wilkinsoni Tams 
+(Lepidoptera: Thaumetopoeidae) under laboratory conditions.  Pest Manag. Sci. 62:452–455. 
+ 
+Stark, J.D., and Banks, J.E., 2001.  Selective pesticides: are they less hazardous to the 
+environment?  Biosciences 51:980–982. 
+ 
+Stark, J., and Vargas, R.I., 2003.  Demographic changes in Daphnia pulex after exposure to the 
+insecticides spinosad and diaz
+Text Len: 1093
+--------------------------------------------------------------------------------
+ Banks, J.E., 2001.  Selective pesticides: are they less hazardous to the 
+environment?  Biosciences 51:980–982. 
+ 
+Stark, J., and Vargas, R.I., 2003.  Demographic changes in Daphnia pulex after exposure to the 
+insecticides spinosad and diazinon.  Ecotox. Env. Safety.  56:334–338. 
+ 
+22 
+ 
+Stark, J.D., Vargas, R. and N. Miller, 2004.  Toxicity of spinosad in protein bait to three 
+economically important tephritid fruit fly species (Diptera: Tephritidae) and their parasitoids 
+(Hymenoptera: Braconidae).  J. Econ. Entomol. 97(3):911-915. 
+ 
+Stebbins, K. E., Bond, D. M., Novilla, M. N., and Reasor, M. J., 2002.  Spinosad Insecticide: 
+Subchronic and Chronic Toxicity and Lack of Carcinogenicity in CD-1 Mice. Toxicol. Sci. 65: 
+276–287.  
+ 
+Stevens, M.M., Helliwell, S., and Hughes, P.A., 2005.  Toxicity of Bacillus thuringiensis var. 
+israelensis formulations, spinosad, and selected synthetic insecticides to Chironomus tepperi 
+larvae.  J. Am. Mosq. Control Ass. 21(4):446–450. 
+ 
+Tan, K.H. and R. Nishida, 2012.  Methyl eugenol: its occurrence, distribution, and role in nature, 
+
+Text Len: 1091
+--------------------------------------------------------------------------------
+ formulations, spinosad, and selected synthetic insecticides to Chironomus tepperi 
+larvae.  J. Am. Mosq. Control Ass. 21(4):446–450. 
+ 
+Tan, K.H. and R. Nishida, 2012.  Methyl eugenol: its occurrence, distribution, and role in nature, 
+especially in relation to insect behavior and pollination.  J. Insect Sci. 12(56): 1-72. 
+ 
+Thompson, G.D., Dutton, R., and Sparks, T.C., 2000.  Spinosad – a case study: an example from 
+a natural products discovery programme.  Pest Manage. Science. 56:696–702. 
+ 
+Toxnet, 2013.  Environmental Fate and Exposure for Methyl Eugenol, Hazardous Substances 
+Data Bank (http://toxnet.nlm.nih.gov/cgi-bin/sis/search/a?dbs+hsdb:@term+@DOCNO+4504).  
+last assessed 12/9/13. 
+ 
+USDA APHIS, 1999. Spinosad Bait Spray Applications Human Health Risk Assessment, March 
+1999. 
+ 
+USDA APHIS, 2003. Spinosad Bait Spray Applications Nontarget Risk Assessment, October 
+2003. 
+ 
+USDA APHIS, 2007.  Draft report:  Aerial application of spinosad for the control of emerald ash 
+borer. 
+ 
+USDA APHIS, 2013. Plant Health:  Fruit Flies 
+http://www.aphis.usda.gov/plant_health/plant_pest_info/fruit_flies/ access on August 26, 2013. 
+ 
+U.S.
+Text Len: 1154
+--------------------------------------------------------------------------------
+ application of spinosad for the control of emerald ash 
+borer. 
+ 
+USDA APHIS, 2013. Plant Health:  Fruit Flies 
+http://www.aphis.usda.gov/plant_health/plant_pest_info/fruit_flies/ access on August 26, 2013. 
+ 
+U.S. Environmental Protection Agency (USEPA), 1989.  Risk assessment guidance for 
+Superfund volume I, human health evaluation manual (Part A). interim final. Office of 
+Emergency and Remedial Response, Washington, DC. EPA/540/1-89/002 December 1989. 
+ 
+USEPA, 1997.  Pesticide Fact Sheet: Spinosad, Office of Pesticides and Toxic Substances 
+ 
+USEPA, 1998.  Spinosad; time-limited pesticide tolerance. 63 FR 144:40239-40247, July 28. 
+ 
+USEPA, 2003.  Estimation Program Interface (EPI) Suite. Ver.3.11. June 10, 2003. 
+ 
+USEPA, 2004.  Memorandum: Risk Assessment for Methyl Eugenol (Methyleugenol), 16 
+December 2004. 
+ 
+23 
+ 
+ 
+USEPA, 2005.  Memorandum: Application of Spinosad to Mint; Banana; Plantain; Peanut; Bulb 
+Vegetables; Legume Vegetables; Forage, Fodder, and Straw of Cereal Grains (crop group 16); 
+Grass Forage, Fodder, and Hay (crop group 17); and Nongrass Animal Feeds (crop group 18) 
+and Application of Spinosad for Control of Fruit Flies. HED Risk Assessment. 
+ 
+USEPA, 2006.  Methyl Eugenol (ME
+Text Len: 1226
+--------------------------------------------------------------------------------
+, and Straw of Cereal Grains (crop group 16); 
+Grass Forage, Fodder, and Hay (crop group 17); and Nongrass Animal Feeds (crop group 18) 
+and Application of Spinosad for Control of Fruit Flies. HED Risk Assessment. 
+ 
+USEPA, 2006.  Methyl Eugenol (ME) (203900) Fact Sheet 
+(http://www.epa.gov/opp00001/chem_search/reg_actions/registration/fs_PC-203900_01-Sep-
+06.pdf). 
+ 
+USEPA, 2007.  Dermal Exposure Assessment: A summary of EPA approach, EPA 600/R-
+07/040F | September 2007 | www.epa.gov/ncea  
+ 
+USEPA, 2010.  Draft Second List of Chemicals for Tier 1 Screening 
+(http://www.epa.gov/endo/pubs/draftlist2.pdf)  
+ 
+USEPA, 2011.  Spinosad and spinetoram summary document registration review: initial docket, 
+docket numbers: Spinosad EPA-HQ-OPP-2011-0667 Spinetoram EPA-HQ-OPP-2011-0666, 
+www.regulations.gov 
+ 
+USEPA,2013a.  Overview of Risk Assessment in the Pesticide Program – Human Health Risk 
+Assessment (http://www.epa.gov/pesticides/about/overview_risk_assess.htm, last accessed 
+11/15/2013). 
+ 
+USEPA, 2013b.  Draft Second List of Chemicals for Tier 1 Screening 
+http://www.epa.gov/endo/pubs/prioritysetting/draft
+Text Len: 1123
+--------------------------------------------------------------------------------
+Assessment (http://www.epa.gov/pesticides/about/overview_risk_assess.htm, last accessed 
+11/15/2013). 
+ 
+USEPA, 2013b.  Draft Second List of Chemicals for Tier 1 Screening 
+http://www.epa.gov/endo/pubs/prioritysetting/draftlist2.htm, last accessed 12/13/13 
+ 
+USEPA, 2013c.  EPA One liner ecotox database.  [Online].  Available:  
+http://www.ipmcenters.org/Ecotox/DataAccess.cfm 
+ 
+USEPA, 2013d.  Occupational Pesticide Handler Unit Exposure Surrogate Reference Table 
+(http://www.epa.gov/pesticides/science/handler-exposure-table.pdf), March 2013. 
+ 
+USEPA, 2013e.  Common Mechanism Groups; Cumulative Exposure and Risk Assessment 
+http://www.epa.gov/oppsrrd1/cumulative/common_mech_groups.htm, last accessed 12/13/13 
+ 
+USGS, 2006.  Pesticides in the nation’s streams and ground water, 1992–2001 : the quality of 
+our nation’s waters.  By Robert J. Gilliom, Jack E. Barbash, Charles G. Crawford, Pixie A. 
+Hamilton, Jeffrey D. Martin, Naomi Nakagaki, Lisa H. Nowell, Jonathan C. Scott, Paul E. 
+Stackelberg, Gail P. Thelin, and David M. Wolock.  Circular 1291. 
+   
+Vargas, R.L., Miller, N.W. and J.D. Stark.  2003. 
+Text Len: 1118
+--------------------------------------------------------------------------------
+. Martin, Naomi Nakagaki, Lisa H. Nowell, Jonathan C. Scott, Paul E. 
+Stackelberg, Gail P. Thelin, and David M. Wolock.  Circular 1291. 
+   
+Vargas, R.L., Miller, N.W. and J.D. Stark.  2003.  Field trials of spinosad as a replacement for 
+naled, DDVP, and malathion in methyl eugenol and cue-lure bucket traps to attract and kill male 
+oriental fruit flies and melon flies (Diptera: Tephritidae) in Hawaii.  J. Econ. Entomol. 96(6): 
+1780-1785. 
+ 
+24 
+ 
+Vargas, R.I., Pinero, J.C., Mau, R.F.L. and Stark, J.D., Hertlein, M., Mafra-Neto, A., Coler, R. 
+and A. Getchell.  2009. Attraction and mortality of oriental fruit flies to SPLAT-MAT-methyl 
+eugenol with spinosad.  Entomologia Experimentalis et Applicata 131: 286–293. 
+ 
+Williams, T., Valle, J., and Vinuela, E., 2003.  Is the naturally derived insecticide spinosad® 
+compatible with insect natural enemies.  Biocontrol Science and Technol.  13(5):459–475. 
+ 
+Yano, B. L., Bond, D. M., Novilla, M. N., McFadden, L. G., and Reasor, M. J., 2002.  Spinosad  
+insecticide: subchronic and chronic toxicity and lack of carcinogenicity
+Text Len: 1084
+--------------------------------------------------------------------------------
+rol Science and Technol.  13(5):459–475. 
+ 
+Yano, B. L., Bond, D. M., Novilla, M. N., McFadden, L. G., and Reasor, M. J., 2002.  Spinosad  
+insecticide: subchronic and chronic toxicity and lack of carcinogenicity in Fischer 344 Rats. 
+Toxicol.Sci. 65:288–298. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+25 
+ 
+Appendix: Risk Estimation for Accidental Occupational Dermal Exposure  
+ 
+ 
+    Parameters Units Values Sources 
+Dose = PDR/BW mg/kg-d 
+0.000585 0.00117 
+USEPA 
+2007 
+0.000250714 0.000501429   
+0.00019102 0.000382041   
+BW=body weight kg 70 70 
+USEPA 
+2011 
+PDR = UE * AR * A mg/day       
+PDR =Daily potential dose rates mg/lb a.i 0.04095 0.0819   
+0.01755 0.0351   
+0.013371429 0.026742857   
+UE = unit exposure (mg/lb ai) mg/lb a.i 1.3 1.3 
+USEPA 
+2013d 
+AR = maximum application rate 
+(
+Text Len: 831
+--------------------------------------------------------------------------------
+.04095 0.0819   
+0.01755 0.0351   
+0.013371429 0.026742857   
+UE = unit exposure (mg/lb ai) mg/lb a.i 1.3 1.3 
+USEPA 
+2013d 
+AR = maximum application rate 
+(lb ai/acre or lb ai/gal) lb ai/acre 0.0045 0.009 Label 
+A = maximum area treated 
+(acre/d or gal/d) 
+acres/days 7 7   
+3 3   
+2.285714286 2.285714286   
+Hours of application per day  hrs/day 7 7   
+6 6   
+8 8   
+Acres treated per hour acres/hrs 1 1 Estimated 
+based on 
+label 
+0.5 0.5 
+0.285714286 0.285714286 
+Oral RfD (occupational) mg/kg/day 0.27 0.27   
+Hazard Quotient   0.002 0.004   
+0.0009 0.002   
+0.0007 0.001   
+ 
+ 
+Text Len: 583
+--------------------------------------------------------------------------------

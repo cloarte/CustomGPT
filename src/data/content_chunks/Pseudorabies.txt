@@ -1,0 +1,4132 @@
+ 
+ 1 
+United States  
+Department of  
+Agriculture 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+ 
+APHIS 91–55–071 
+ 
+ 
+ 
+ 
+ Pseudorabies Eradication 
+ 
+ State–Federal–Industry 
+ 
+ Program Standards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective November 1, 2003 
+ 
+ 2 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs 
+and activities on the basis of race, color, national origin, race, religion, age, disability, 
+political beliefs, sexual orientation, or marital or family status.  (Not all prohibited bases 
+apply to all programs.)  Persons with disabilities who require alternative means for 
+communication of program information (Braille, large print, audiotape, etc.) should 
+contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room 
+326–W, Whitten Building, 14th and Independence Avenue, SW, Washington, DC 20250–
+9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal opportunity provider 
+and employer. 
+ 
+ 
+Issued November  2003  
+ 
+This publication supersedes APHIS 91–55–071, under the same title, which was 
+effective August  1, 2003. 
+ 
+ 3 
+ Pseudorabies Eradication Program Standards 
+ 
+ 
+Contents 
+  
+Introduction  
+ 
+Part I Definitions  
+ 
+Text Len: 1290
+--------------------------------------------------------------------------------
+ November  2003  
+ 
+This publication supersedes APHIS 91–55–071, under the same title, which was 
+effective August  1, 2003. 
+ 
+ 3 
+ Pseudorabies Eradication Program Standards 
+ 
+ 
+Contents 
+  
+Introduction  
+ 
+Part I Definitions  
+ 
+Part II Administrative Procedures  
+ 
+Part III Program Stages and Requirements  
+ 
+Stage I—Preparation  
+Stage II—Control  
+Stage III—Mandatory Herd Cleanup  
+Stage IV—Surveillance  
+Stage V—Free  
+ 
+Part IV Participation in Herd Plans and Release of Quarantines   
+ 
+Subpart I — The Qualified Pseudorabies - Negative  Herd 
+ Subpart II — The Qualified - Negative Gene-Altered Vaccinated (QNV) Herd  
+Subpart III — The Pseudorabies - Monitored Feeder-Pig Herd  
+Subpart IV — Quarantine Release Procedures  
+  
+References 
+ 
+ 
+The minimum standards described in this publication do not preclude the adoption of more stringent 
+standards by any geographic or political subdivision of the United States. 
+ 
+ 4 
+Introduction 
+ 
+These Program Standards were adopted for the eradication of pseudorabies from all domestic swine in 
+the United States.  These are the minimum standards developed by the Veterinary Services division of the 
+Animal and Plant Health Inspection Service (APHIS), an agency of the U.S. Department of Agriculture 
+(USDA), and endorsed by swine health practitioners and State animal health officials at the annual 
+meeting of the United States Animal Health Association in October 2003. 
+ 
+The following list highlights
+Text Len: 1470
+--------------------------------------------------------------------------------
+ These are the minimum standards developed by the Veterinary Services division of the 
+Animal and Plant Health Inspection Service (APHIS), an agency of the U.S. Department of Agriculture 
+(USDA), and endorsed by swine health practitioners and State animal health officials at the annual 
+meeting of the United States Animal Health Association in October 2003. 
+ 
+The following list highlights changes adopted in this version of the Program Standards.  
+ 
+Throughout the document, “National Pork Board” has replaced “National Pork Producers Council.” 
+ 
+Part I, Definitions 
+ 
+Definitions have been added for commercial production swine, confirmed case, feral or wild swine, and 
+transitional production swine. 
+ 
+Part II, Administrative Procedures 
+ 
+Sec. B., when entering and while on a premises, biosecurity procedures must be used by Program 
+personnel.  
+ 
+Sec. G., only the original Application for Program entry and advancement in status is required to be sent to 
+the National Center for Animal Health Programs staff for approval.  No additional copies are necessary. 
+ 
+Sec. I., a new section is added about the procedure for changing the Program Standards.  
+ 
+Part III, Stage I (Preparation) 
+ 
+Sec. A.6., State progress and activity reports are now required to be produced monthly.  
+ 
+Part III, Stage IV (Surveillance)  
+ 
+Sec. A.4., a new subsection is added that requires states to develop and adopt a management plan that 
+adequately separates and controls the interface of feral and transitional production swine with commercial 
+production swine. 
+ 
+Sec. G., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to
+Text Len: 1690
+--------------------------------------------------------------------------------
+  
+ 
+Sec. A.4., a new subsection is added that requires states to develop and adopt a management plan that 
+adequately separates and controls the interface of feral and transitional production swine with commercial 
+production swine. 
+ 
+Sec. G., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to Veterinary Services for action.  Additionally, after a confirmed case is identified in 
+commercial production swine, all movement of swine from herds withing a five-mile radius of the case and 
+from exposed herds must be stopped until such herds are tested and found to be negative using an official 
+random sample test (95/5); and this testing must be completed within 15 days of identifying the infected 
+herd. 
+ 
+Part III, Stage V (Free)  
+ 
+Sec.B.6. now requires states to develop and adopt a management plan that adequately separates and 
+controls the interface of feral and transitional production swine with commercial production swine. 
+ 
+Sec. C., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to Veterinary Services for action.  Additionally, after a confirmed case is identified in 
+commercial production swine, all movement of swine from herds withing a five-mile radius of the case and 
+from exposed herds must be stopped until such herds are tested and found to be negative using an official 
+random sample test (95/5); and this testing must be completed within 15 days of identifying the infected 
+ 
+ 5 
+herd.  
+ 
+Part I—Definitions  
+ 
+Accredited veterinarian 
+A veterinarian approved by the Administrator of APHIS, USDA, to perform functions 
+required by cooperative State–Federal–Industry animal disease-control and
+Text Len: 1757
+--------------------------------------------------------------------------------
+ (95/5); and this testing must be completed within 15 days of identifying the infected 
+ 
+ 5 
+herd.  
+ 
+Part I—Definitions  
+ 
+Accredited veterinarian 
+A veterinarian approved by the Administrator of APHIS, USDA, to perform functions 
+required by cooperative State–Federal–Industry animal disease-control and -eradication 
+programs. 
+ 
+Administrator 
+The Administrator of APHIS, USDA, or any other official of APHIS to whom authority 
+has been delegated or may be delegated to act in his or her stead. 
+ 
+Approved all-class market 
+A livestock market approved by the Administrator where breeding, feeding, and 
+slaughter swine are sold in accordance with Federal interstate regulations and 
+applicable provisions of these Program Standards. 
+ 
+Approved differential pseudorabies test 
+Any test for the diagnosis of pseudorabies that: 
+1. Can distinguish vaccinated swine from infected swine; and 
+2. Is produced under license from the Secretar y of Agriculture with indications for use 
+in the Cooperative State–Federal–Industry Pseudorabies Eradication Program; and 
+3. Is conducted in a laboratory approved by the Administrator. 
+ 
+Approved feeder-pig market 
+A livestock market selling feeder pigs in which no animals from known infected herds 
+are accepted for sale on the same day, in accordance with Federal interstate 
+regulations and applicable provisions of these Program Standards: 
+ 
+1. All swine must originate in a qualified pseudorabies- negative herd; or 
+2. All swine must originate from a Stat e that has achieved Pseudorabies Eradication 
+Program status of Stage III, IV, or V; or 
+3
+Text Len: 1601
+--------------------------------------------------------------------------------
+, in accordance with Federal interstate 
+regulations and applicable provisions of these Program Standards: 
+ 
+1. All swine must originate in a qualified pseudorabies- negative herd; or 
+2. All swine must originate from a Stat e that has achieved Pseudorabies Eradication 
+Program status of Stage III, IV, or V; or 
+3. All swine must originate in a pseudorabies-monitored feeder-pig herd; or 
+4. All swine are found negative to an official pseudorabies test conducted 30 days or 
+less prior to presentation at the market.  In a herd of single-source pigs in which no 
+sows remain, the State Veterinarian may require a negative test of an official 
+random sample (95/5) of the remaining pigs before sale. 
+5. Cleaning and disinfection must be done after all other classes of swine have been 
+removed and before feeder pigs are offered for sale. 
+6. Additional requirements may be impos ed as deemed necessary by the State 
+Veterinarian to limit the possibility of disease spread through the market. 
+  
+Approved slaughter market 
+A livestock market approved by the Administrator that accepts and releases only 
+ 
+ 6 
+shipments of slaughter swine, in accordance with applicable State and Federal 
+regulations.  No swine may be released from an approved slaughter market unless 
+consigned directly to another approved slaughter market, a recognized slaughtering 
+establishment for immediate slaughter, or a quarantined feedlot. 
+ 
+Breeding herd 
+All swine on a premises that are 6 months of age or older, and that are used or intended 
+to be used for breeding. 
+ 
+Certificate 
+An official document issued for and prior to interstate movement of swine
+Text Len: 1646
+--------------------------------------------------------------------------------
+ market, a recognized slaughtering 
+establishment for immediate slaughter, or a quarantined feedlot. 
+ 
+Breeding herd 
+All swine on a premises that are 6 months of age or older, and that are used or intended 
+to be used for breeding. 
+ 
+Certificate 
+An official document issued for and prior to interstate movement of swine not known to 
+be infected with or exposed to pseudorabies by a Veterinary Services representative, a 
+State representative, or an accredited veterinarian, which states:  (1) the number and 
+description of the swine to be moved; (2) the swine to be moved are not known to be 
+infected with or exposed to pseudorabies virus; (3) the purpose for which the swine are 
+to be moved; (4) the points of origin and destination; (5) the consignor and consignee; 
+and (6) additional information as required by applicable State and Federal laws and 
+regulations. 
+ 
+Commercial production swine 
+Those swine that are continuously managed and have adequate facilities and practices 
+to prevent exposure to either transitional production or feral swine. 
+ 
+Common ground 
+The ground, areas, buildings, and equipment commonly shared by any specific group or 
+groups of livestock. 
+ 
+Confirmed case 
+Any animal determined to be infected with pseudorabies virus by an official 
+pseudorabies epidemiologist whose diagnosis is supported by official pseudorabies test 
+results. 
+ 
+Deputy Administrator 
+The Deputy Administrator, Veterinary Services, APHIS, USDA, or any other Veterinary 
+Services official to whom authority has been delegated to act in his or her stead. 
+ 
+Direct shipment 
+Movement without unloading en route, without contact with swine of lesser 
+Text Len: 1668
+--------------------------------------------------------------------------------
+ is supported by official pseudorabies test 
+results. 
+ 
+Deputy Administrator 
+The Deputy Administrator, Veterinary Services, APHIS, USDA, or any other Veterinary 
+Services official to whom authority has been delegated to act in his or her stead. 
+ 
+Direct shipment 
+Movement without unloading en route, without contact with swine of lesser 
+pseudorabies status, and without contact with infected or exposed livestock. 
+ 
+Exposed livestock 
+Any livestock that have been in contact with an animal infected with pseudorabies virus, 
+including all livestock in a known infected herd. (Livestock other than swine that have 
+not been exposed to a clinical case of pseudorabies for the last 10 consecutive days 
+shall no longer be considered to be exposed.) 
+ 
+ 7 
+ 
+Exposed swine 
+Any swine that have been in contact with an animal infected with pseudorabies virus, 
+including all swine in a known infected herd.  
+ 
+Farm of origin 
+A farm where swine were born or on which they have resided for at least 90 consecutive 
+days immediately prior to movement.  
+ 
+Feral or wild swine 
+Those swine that are free roaming.  
+ 
+Infected livestock 
+Any livestock determined to be infected with pseudorabies virus by an official 
+pseudorabies epidemiologist whose diagnosis is supported by official pseudorabies test 
+results. 
+ 
+Interstate 
+From any State into or through any other State. 
+ 
+Intrastate 
+Within a State. 
+ 
+Isolation 
+Separation of swine by a physical barrier in such a manner that one pig does not have 
+access to the isolated pig’s body, excrement, or discharges
+Text Len: 1567
+--------------------------------------------------------------------------------
+
+results. 
+ 
+Interstate 
+From any State into or through any other State. 
+ 
+Intrastate 
+Within a State. 
+ 
+Isolation 
+Separation of swine by a physical barrier in such a manner that one pig does not have 
+access to the isolated pig’s body, excrement, or discharges of another pig; does not 
+share a building with a common ventilation system; and is not within 10 feet of another 
+pig. 
+ 
+Known infected herd 
+Any herd in which any swine have been determined to be infected with pseudorabies 
+virus by an official pseudorabies epidemiologist. 
+ 
+Licensed pseudorabies virus vaccine 
+Any pseudorabies virus vaccine produced under license from the Secretary of 
+Agriculture under the Virus–Serum–Toxin Act of March 4, 1913, and any legislation 
+amendatory thereof (21 U.S.C. 151 et seq.). 
+ 
+Livestock 
+Swine, cattle, sheep, and goats. 
+ 
+Monitored negative feral swine population 
+Feral swine originating from areas that have been geographically defined and under 
+continuous surveillance with no evidence of infection and classified by the pseudorabies 
+ 
+ 8 
+epidemiologist as a monitored negative feral swine population. 
+ 
+Moved 
+Shipped, transported, or otherwise moved; or delivered or received for movement by 
+land, water, or air. 
+National Pseudorabies Control Board 
+A board that reviews requests by States for pseudorabies eradication program status 
+according to the Program Standards and makes recommendations to the APHIS, 
+Veterinary Services, for program stage designation.  Currently, this is a six-member 
+board composed of
+Text Len: 1539
+--------------------------------------------------------------------------------
+ received for movement by 
+land, water, or air. 
+National Pseudorabies Control Board 
+A board that reviews requests by States for pseudorabies eradication program status 
+according to the Program Standards and makes recommendations to the APHIS, 
+Veterinary Services, for program stage designation.  Currently, this is a six-member 
+board composed of two representatives each from the United States Animal Health 
+Association, the National Pork Board, and the National Institute for Animal Agriculture 
+(formerly the Livestock Conservation Institute), appointed by the respective presidents 
+of those organizations. 
+ 
+Official pseudorabies epidemiologist 
+A State or Federal veterinarian designated by the State animal health official and 
+veterinarian in charge to investigate and diagnose suspected pseudorabies in livestock. 
+ The official pseudorabies epidemiologist is expected to have had special training in the 
+diagnosis and epidemiology of pseudorabies which will provide the unique qualifications 
+demanded by the position. 
+ 
+Official pseudorabies herd-cleanup plan 
+A written plan to eliminate pseudorabies virus from a swine herd.  This plan is (1) 
+developed by an official pseudorabies epidemiologist in consultation with the herd 
+owner and his or her veterinary practitioner, when applicable; (2) mutually acceptable to 
+those parties; and (3) approved by the State animal health official. 
+ 
+Official pseudorabies serologic test 
+Any official test approved by the Administrator for diagnosis of pseudorabies in swine, 
+conducted in a laboratory approved by the Administrator, and listed in Section 9 of the 
+Code of Federal Regulations (CFR), Part 85.1, to determine the presence or absence of 
+pseudorabies antibodies. 
+ 
+Official pseudorabies test 
+Any test for the diagnosis of
+Text Len: 1800
+--------------------------------------------------------------------------------
+ approved by the Administrator for diagnosis of pseudorabies in swine, 
+conducted in a laboratory approved by the Administrator, and listed in Section 9 of the 
+Code of Federal Regulations (CFR), Part 85.1, to determine the presence or absence of 
+pseudorabies antibodies. 
+ 
+Official pseudorabies test 
+Any test for the diagnosis of pseudorabies approved by the Administrator, conducted in 
+a laboratory approved by the Administrator, and listed in 9 CFR, Part 85.1. 
+ 
+Official random-sample test (95/20) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 95-
+percent probability of detecting infection in a herd in which at least 20 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+Up to 14 head—test all. 
+ Over 14 head—test 14. 
+ 
+ 
+ 9 
+Official random-sample test (95/10) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 
+95-percent probability of detecting infection in a herd in which at least 10 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+    Less than 100 head—test 25 
+            100–200 head—test 27 
+            201–999 head—test 28 
+           1,000 and over—test 29 
+ 
+Official random-sample test (95/5) 
+A sampling procedure
+Text Len: 1475
+--------------------------------------------------------------------------------
+ 25 
+            100–200 head—test 27 
+            201–999 head—test 28 
+           1,000 and over—test 29 
+ 
+Official random-sample test (95/5) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 
+95-percent probability of detecting infection in a herd in which at least 5 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+    Less than 100 head—test 45 
+            100–200 head—test 51 
+            201–999 head—test 57 
+           1,000 and over—test 59 
+ 
+Permit 
+An official document issued for and prior to the interstate shipment of pseudorabies-
+virus-infected or -exposed swine by a Veterinary Services representative, State 
+representative, or accredited veterinarian, stating: (1) the number of swine to be moved, 
+(2) the purpose for which the swine are to be moved, (3) the points of origin and 
+destination, (4) the consignor and consignee, and (5) additional information required by 
+applicable State and Federal regulations.   
+ 
+Prevalence 
+The number of known infected herds in the State as of the date of the application for 
+Stage III status, divided by the number of swine herds in the State as determined by the 
+National Agricultural
+Text Len: 1318
+--------------------------------------------------------------------------------
+ the consignor and consignee, and (5) additional information required by 
+applicable State and Federal regulations.   
+ 
+Prevalence 
+The number of known infected herds in the State as of the date of the application for 
+Stage III status, divided by the number of swine herds in the State as determined by the 
+National Agricultural Statistics Service (NASS).  When a State has conducted a 
+down-the-road survey of all swine producers, the swine population data so developed 
+may be used rather than the NASS data. 
+ 
+Pseudorabies 
+The contagious, infectious, and communicable disease of livestock and other animals 
+also known as Aujeszky's disease. 
+ 
+Pseudorabies-monitored feeder-pig herd 
+For the purpose of this document, “pseudorabies-monitored feeder-pig herd,” 
+“pseudorabies-monitored vaccinated feeder-pig herd,” “pseudorabies-monitored herd,” 
+and “monitored herd” are interchangeable, and all refer to a swine herd that is in 
+compliance with Part IV, Subpart III, of this document. 
+ 
+ 10 
+ 
+Pseudorabies-restricted feeder-pig market 
+A market specifically designated by the State animal health official to handle shipments 
+of feeder pigs from premises under pseudorabies quarantine.  Sales are limited to 
+quarantined feedlots.  Pseudorabies-restricted feeder-pig markets are restricted to 
+handling intrastate shipments of pseudorabies-quarantined swine only. 
+ 
+Pseudorabies virus vaccinates 
+Any swine
+Text Len: 1419
+--------------------------------------------------------------------------------
+
+of feeder pigs from premises under pseudorabies quarantine.  Sales are limited to 
+quarantined feedlots.  Pseudorabies-restricted feeder-pig markets are restricted to 
+handling intrastate shipments of pseudorabies-quarantined swine only. 
+ 
+Pseudorabies virus vaccinates 
+Any swine that have been vaccinated with a USDA-licensed pseudorabies vaccine. 
+ 
+Quarantined feedlot 
+A premises where pseudorabies-virus-infected or -exposed swine are fed under the 
+supervision and control of the State animal health official and from which swine are 
+moved directly to a recognized slaughtering establishment or directly through no more 
+than one slaughter market and then directly to a recognized slaughtering establishment. 
+ 
+Quarantined herd 
+A herd in which pseudorabies-virus-infected or -exposed swine are bred, reared, or fed 
+under the supervision and control of the State animal health official and from which 
+swine are moved directly to a recognized slaughtering establishment, 
+pseudorabies-restricted feeder-pig market, quarantined feedlot, or directly through no 
+more than two slaughter markets and then directly to a recognized slaughtering 
+establishment or quarantined feedlot. 
+ 
+Recognized slaughtering establishment 
+A slaughtering establishment operated under the provisions of the Federal Meat 
+Inspection Act (21 U.S.C. 601 et seq.) or a State-inspected slaughtering establishment. 
+ 
+State/Area 
+Any State or Territory of the United States, the District of Columbia, Puerto Rico, Guam, 
+or the Northern Mariana Islands, or any portion of a State which meets the following 
+criteria: 
+1
+Text Len: 1604
+--------------------------------------------------------------------------------
+Inspection Act (21 U.S.C. 601 et seq.) or a State-inspected slaughtering establishment. 
+ 
+State/Area 
+Any State or Territory of the United States, the District of Columbia, Puerto Rico, Guam, 
+or the Northern Mariana Islands, or any portion of a State which meets the following 
+criteria: 
+1. All counties whose pseudorabies eradication status is in the same Stage must be 
+contiguous. 
+2. There shall be no more than two Stages in any State. 
+3. Only the following combinations of stat us will be permitted within a State:  Stages II 
+and III, Stages III and IV. 
+4. The surveillance system required for St ages III and IV must differentiate between 
+animals and/or herds from areas with different status. 
+ 
+State animal health official 
+The State official who is responsible for the livestock and poultry disease control and 
+eradication programs in the official's State/Area, or that person's designated 
+representative. 
+ 
+ 
+ 11 
+State pseudorabies committee 
+An appointed advisory committee composed of swine producers, animal scientists, 
+State and Federal regulatory officials, and other representatives of the swine industry.  
+The responsibilities of the committee include: 
+ 
+A. Informing and educating all segments of the State/Area swine industry regarding 
+pseudorabies eradication activities. 
+ 
+B. Reviewing the State/Area pseudor abies eradication program and making 
+recommendations to State and Federal animal health officials and, as appropriate, 
+consulting with State officials in the areas of: 
+1. Budgeting; 
+2. Intrastate and interstate regulations, including use of vaccine; 
+3. Progress through the Program
+Text Len: 1634
+--------------------------------------------------------------------------------
+ 
+B. Reviewing the State/Area pseudor abies eradication program and making 
+recommendations to State and Federal animal health officials and, as appropriate, 
+consulting with State officials in the areas of: 
+1. Budgeting; 
+2. Intrastate and interstate regulations, including use of vaccine; 
+3. Progress through the Program Stages. 
+ 
+C. Maintaining liaison with other States and with the national pseudorabies eradication 
+program through the National Pork Board, the United States Animal Health 
+Association, the National Institute for Animal Agriculture, and APHIS. 
+ 
+State representative 
+A person regularly employed in animal health work by a State and authorized by the 
+State to perform the functions involved or under a cooperative agreement with USDA. 
+ 
+Surveillance index 
+Refers to the percentage of a population of sows and boars sampled, multiplied by the 
+percentage of positive swine traced to the farm of origin.  When no positive swine are 
+found, then the surveillance index will be the percentage of a population of sows and 
+boars sampled. 
+ 
+Only two specific forms of surveillance testing may be included in the surveillance index 
+calculations: 
+1. Samples collected at slaughter. 
+2. Samples collected at markets (first point). 
+ 
+Unless cull sows and boars from herds tested for other purposes (e.g., feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being tested at 
+slaughter or first point—in which case the number of sows in such herds can be 
+deducted from the population to be used for surveillance—data of the following types 
+may not be included in surveillance index calculations: 
+1. Data
+Text Len: 1660
+--------------------------------------------------------------------------------
+ feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being tested at 
+slaughter or first point—in which case the number of sows in such herds can be 
+deducted from the population to be used for surveillance—data of the following types 
+may not be included in surveillance index calculations: 
+1. Data from samples collected for epidemiol ogic purposes (e.g., circle testing, tracing 
+into or out of infected herds); 
+2. Data from status testing (e.g., test s to establish qualified-negative herd status, 
+qualified-negative vaccinated herd status, or feeder-pig-monitored herd status; or 
+testing for sale and show). 
+ 
+ 
+ 12 
+The percentages of the breeding population in a State/Area to be tested annually to 
+meet the surveillance requirements for Stages III, IV, and V apply regardless of whether 
+the surveillance is conducted at slaughter, at first point, or as part of a down-the-road 
+(area) testing program.  Whichever system is used must be random and must be 
+representative of all herds of unknown status in the State/Area. 
+ 
+Randomness of slaughter, first-point, or onfarm (area) surveillance testing must be 
+documented in applications for status. 
+ 
+Swine Health Committee, National Pork Board 
+A committee of pork producers, constituted as determined by the National Pork Board 
+and calling on such scientific experts as needed, which shall review the national 
+Pseudorabies Eradication Program and the expenditure of Federal funds for the 
+Program at least annually.  The committee will also review, in advance, allocations of 
+Federal funds for any national surveillance program to the various States and make 
+recommendations to the Deputy
+Text Len: 1691
+--------------------------------------------------------------------------------
+ National Pork Board 
+and calling on such scientific experts as needed, which shall review the national 
+Pseudorabies Eradication Program and the expenditure of Federal funds for the 
+Program at least annually.  The committee will also review, in advance, allocations of 
+Federal funds for any national surveillance program to the various States and make 
+recommendations to the Deputy Administrator of Veterinary Services, APHIS, as it 
+deems appropriate. 
+ 
+Swine not known to be infected with or exposed to pseudorabies virus 
+All swine except those which are part of a known infected herd or are known to have 
+been exposed to pseudorabies virus. 
+ 
+Transitional production swine 
+Those feral swine that are captive or swine that have reasonable opportunities to be 
+exposed to feral swine.  
+ 
+Veterinarian-in-Charge 
+The veterinary official of Veterinary Services, APHIS, USDA, who is assigned by the 
+Administrator to supervise and perform APHIS' official animal health work in the 
+State/Area concerned. 
+ 
+Veterinary Services 
+The Veterinary Services branch of APHIS, USDA. 
+ 
+Veterinary Services representative 
+A person employed by Veterinary Services, APHIS, USDA, who is authorized to perform 
+official pseudorabies eradication activities. 
+ 
+ 
+Part II—Administrative Procedures  
+ 
+A. Supervision of the Cooperative State –Federal–Industry Pseudorabies 
+Eradication Program 
+ 
+The Cooperative State–Federal–Industry Pseudorabies Eradication Program (hereafter 
+ 
+ 13 
+called "the Program") must be supervised by full-time animal health veterinarians 
+employed by the State or Federal Government. 
+ 
+B.
+Text Len: 1615
+--------------------------------------------------------------------------------
+ the Cooperative State –Federal–Industry Pseudorabies 
+Eradication Program 
+ 
+The Cooperative State–Federal–Industry Pseudorabies Eradication Program (hereafter 
+ 
+ 13 
+called "the Program") must be supervised by full-time animal health veterinarians 
+employed by the State or Federal Government. 
+ 
+B. Entering premises  
+ 
+Persons working for the Program must be authorized by the State to enter premises to 
+carry out Program policy.  While on such premises, they must use commonly accepted 
+sanitary and biosecurity procedures to minimize the risk of physically transmitting 
+diseases among groups of livestock on the farm being investigated, as well as to other 
+premises. 
+C. Providing services to livestock owners  
+ 
+Owners are responsible for handling their animals.  Program administrators may 
+contract with accredited veterinarians, paraprofessionals, other State and Federal 
+agencies, or with the management of privately owned firms as needed, to assist State 
+and Federal animal health personnel in collecting blood or tissue samples, in identifying 
+animals, and in performing other Program activities. 
+ 
+D. Notifying the community of pse udorabies-virus-infected herds and 
+quarantined feedlots 
+ 
+State or Federal Program officials should notify swine owners in the immediate 
+community within 30 days after a swine herd has been quarantined for pseudorabies.  
+Program officials should also notify herd owners in the immediate community when they 
+grant approval for a quarantined feedlot.  Notification may be by an educational letter 
+emphasizing the importance of taking appropriate actions to protect swine against 
+pseudorabies.  When the herd quarantine is released or the approval of the quarant
+Text Len: 1722
+--------------------------------------------------------------------------------
+ined for pseudorabies.  
+Program officials should also notify herd owners in the immediate community when they 
+grant approval for a quarantined feedlot.  Notification may be by an educational letter 
+emphasizing the importance of taking appropriate actions to protect swine against 
+pseudorabies.  When the herd quarantine is released or the approval of the quarantined 
+feedlot is terminated, herd owners should be notified within 30 days by an informational 
+letter. 
+ 
+E. Dealers—Registration and Recordkeeping 
+ 
+The following dealers (individuals or other legal entities) of swine must be registered or 
+licensed with the appropriate State agency:  
+ 
+• Dealers who purchase, deal in, or sell swine; 
+• Dealers who act as commission representatives or brokers; 
+• Dealers who operate and conduct an auction where swine are sold. 
+ 
+These dealers must maintain records required by the licensing agency to make it 
+possible for State authorities to trace swine to their herds of origin or destination. 
+ 
+1. Registering dealers —After giving due notice and opportunity for a hearing to the 
+dealer involved, the State agency must have the authority to deny an 
+application for registration, or to suspend or cancel the registration, when the 
+ 
+ 14 
+agency is satisfied of either or both of the following: 
+ 
+a. There is adequate evidence to establis h that the dealer had the intent to 
+violate or circumvent recordkeeping requirements of this section and/or 
+other animal health regulations; 
+ 
+b. The dealer has repeatedly demonstrated failure to keep records adequate 
+to trace his swine sales and purchases. 
+ 
+2. Keeping records —Each registered or licensed swine dealer must keep sufficient 
+records of all swine
+Text Len: 1723
+--------------------------------------------------------------------------------
+ had the intent to 
+violate or circumvent recordkeeping requirements of this section and/or 
+other animal health regulations; 
+ 
+b. The dealer has repeatedly demonstrated failure to keep records adequate 
+to trace his swine sales and purchases. 
+ 
+2. Keeping records —Each registered or licensed swine dealer must keep sufficient 
+records of all swine purchased for resale to enable the State agency to trace 
+purchased animals satisfactorily to their herds of origin and destination.  The 
+records must be kept for a minimum of 2 years. 
+ 
+3. Dealing with violations —State animal health officials must have the authority to 
+enforce compliance with dealer registration and recordkeeping requirements.  
+This includes the authority to subpoena appropriate records and/or persons who 
+allegedly violate these minimum standards.  The appropriate State officials must 
+also have authority to petition the local court that has venue for an order to 
+enforce these subpoenas. 
+ 
+F.  Administrative review of Program activities 
+ 
+Appropriate Veterinary Services personnel will review the progress of State/Area 
+pseudorabies programs on an ongoing basis to ensure compliance with the Program 
+Standards. 
+ 
+G.  Application for Program status 
+ 
+Application for Program entry and advancement in status, jointly signed by the State 
+animal health official and Veterinarian-in-Charge, along with required documentation, 
+must be submitted to the Veterinary Services National Center for Animal Health 
+Programs, Pseudorabies Eradication Program staff for approval. The application shall 
+be reviewed by the National Pseudorabies Control Board prior to a final decision by the 
+Deputy Administrator. 
+ 
+H.  Other movements 
+ 
+The State Veterinarian may, upon request in specific cases,
+Text Len: 1776
+--------------------------------------------------------------------------------
+ the Veterinary Services National Center for Animal Health 
+Programs, Pseudorabies Eradication Program staff for approval. The application shall 
+be reviewed by the National Pseudorabies Control Board prior to a final decision by the 
+Deputy Administrator. 
+ 
+H.  Other movements 
+ 
+The State Veterinarian may, upon request in specific cases, permit the movement of 
+livestock not otherwise provided for in these Program Standards to prevent the spread 
+of pseudorabies virus.  It is the intention of these Standards that such authority be used 
+only in situations and under circumstances that could not have been reasonably 
+anticipated in advance.  It is not the intention that such authority be used repeatedly to 
+cover the same problem, but that the Program Standards be amended to conform with 
+needed changes as they come to light. 
+ 
+ 15 
+ 
+I.  Changes to the Program Standards 
+ 
+All proposed changes to Program Standards must first be reviewed and approved by 
+the Pseudorabies Program Standards Committee, a subcommittee of the United States 
+Animal Health Association (USAHA) Pseudorabies Committee.  Proposed changes 
+must then be reviewed and approved by the full USAHA Pseudorabies Committee 
+during the annual USAHA meeting.  Proposed changes that are approved by the 
+USAHA Pseudorabies Committee and included in the Pseudorabies Committee report 
+will be forwarded as a recommendation for final approval to Veterinary Services, 
+National Center for Animal Health Programs staff. 
+ 
+ 
+Part III—Program Stages and Requirements  
+ 
+Stage I—Preparation 
+ 
+This is the initial Program stage in which the basic procedures to control and eradicate 
+pseudorabies are developed.  
+ 
+A. To qualify for Stage I recognition, the
+Text Len: 1734
+--------------------------------------------------------------------------------
+ Services, 
+National Center for Animal Health Programs staff. 
+ 
+ 
+Part III—Program Stages and Requirements  
+ 
+Stage I—Preparation 
+ 
+This is the initial Program stage in which the basic procedures to control and eradicate 
+pseudorabies are developed.  
+ 
+A. To qualify for Stage I recognition, the application for Program status shall 
+provide documentation that the following standards are met: 
+ 
+1. A State pseudorabies committee has been formed and is functioning; 
+ 
+2. Plans are formulated for a reli able system of determining pseudorabies 
+prevalence in the State/Area swine population, which may include: 
+ 
+a. Mandatory reporting of suspec ted pseudorabies by producers, 
+veterinarians, and laboratories; 
+ 
+b. Change-of-ownership test requirements; 
+ 
+c. Collection of blood samples from  sows and boars at swine markets, 
+slaughter establishments, or farms.  Emphasis is given to pseudorabies 
+testing of blood samples that are collected for other purposes, e.g., 
+brucellosis validation, disease diagnosis, exhibition requirements, etc. 
+ 
+3. State officials and/or industry represent atives have, or are actively seeking, 
+legislative and regulatory authority to: 
+ 
+a. Participate in the Cooperative State–Federal–Industry Pseudorabies 
+Eradication Program; 
+ 
+b. Require reporting of suspected pseudor abies by producers, veterinarians, 
+ 
+ 16 
+and laboratories to the State animal health official; 
+ 
+c. Conduct diagnostic and epidemiologic investigations of suspected 
+pseudorabies; 
+ 
+d. Quarantine premises on wh
+Text Len: 1534
+--------------------------------------------------------------------------------
+udorabies 
+Eradication Program; 
+ 
+b. Require reporting of suspected pseudor abies by producers, veterinarians, 
+ 
+ 16 
+and laboratories to the State animal health official; 
+ 
+c. Conduct diagnostic and epidemiologic investigations of suspected 
+pseudorabies; 
+ 
+d. Quarantine premises on whic h pseudorabies is confirmed; 
+ 
+e. Trace purchases and sales of swi ne to and from quarantined premises and 
+inspect and collect diagnostic specimens from such swine; 
+ 
+f. Regulate shipments of breeding swi ne, feeder pigs, and slaughter swine 
+within and into the State; 
+ 
+g. Control the use of pseudorabies virus vaccines; 
+ 
+h. Control disposal of dead animals. 
+ 
+4. A system for distribution of Program literature to producers and other interested 
+groups is developed and functioning. 
+ 
+5. Applicable Federal pseudorabies  regulations are enforced. 
+ 
+6. A State progress repor t will be produced monthly. 
+ 
+The States will prepare a monthly report of pseudorabies eradication activities and 
+submit it to Veterinary Services for tabulation and distribution in a national Program 
+progress report.  Veterinary Services shall make reports as requested and at least 
+annually to the Oversight Committee, National Pork Board, on Program progress, 
+Program operation, and use of Federal funds, including, but not limited to, the operation 
+of any national slaughter surveillance program. 
+ 
+B. Duration of status  
+ 
+Twenty-four to 28 months following assignment of Stage I status by Veterinary Services, 
+a State must (1) indicate that it continues to meet the Stage I requirements, utilizing the 
+same certification procedures as followed initially, or
+Text Len: 1654
+--------------------------------------------------------------------------------
+, including, but not limited to, the operation 
+of any national slaughter surveillance program. 
+ 
+B. Duration of status  
+ 
+Twenty-four to 28 months following assignment of Stage I status by Veterinary Services, 
+a State must (1) indicate that it continues to meet the Stage I requirements, utilizing the 
+same certification procedures as followed initially, or (2) certify that it meets the 
+requirements of a subsequent Program Stage.  States failing to recertify as required will 
+automatically lose their Stage I status. 
+ 
+ 
+Stage II—Control  
+ 
+In this stage, a State will continue to participate with Veterinary Services on a 
+cooperative basis.  The goals of this stage are to determine which herds are infected 
+with pseudorabies virus and to begin herd cleanup. 
+ 
+ 17 
+ 
+A. To qualify for Stage II recognition, the application for Program status shall 
+provide documentation that the following standards are met: 
+ 
+1. Stage I standards have been implemented. 
+ 
+2. A surveillance program plus circle-t esting 1.5 miles around all newly identified 
+infected herds has been implemented to find additional infected herds.  This 
+surveillance should be based on testing sows and boars at slaughter, on the 
+farm, or at first point of concentration.   
+ 
+3. States/Areas must have acquired the authority to require herd-cleanup plans on 
+all known infected herds before the States/Areas can apply for a subsequent 
+Program Stage or reapply for status in Stage II. 
+ 
+4. Swine movements into the State/Area are controlled as follows: 
+ 
+a. Breeding swine not known to be infected or exposed to pseudorabies virus 
+must:
+Text Len: 1626
+--------------------------------------------------------------------------------
+-cleanup plans on 
+all known infected herds before the States/Areas can apply for a subsequent 
+Program Stage or reapply for status in Stage II. 
+ 
+4. Swine movements into the State/Area are controlled as follows: 
+ 
+a. Breeding swine not known to be infected or exposed to pseudorabies virus 
+must: 
+ 
+(1) Be negative to an official pseudorabies serologic test within 30 days 
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+vaccinated herd; or 
+ 
+(4) Be shipped directly from the farm of origin in a Stage IV or Free State; 
+or 
+ 
+(5) Originate in a qualified pseudor abies-negative herd or be negative to 
+an official pseudorabies serologic test within 30 days prior to sale at 
+an approved all-class market and be released under State quarantine 
+for isolation and retest in 30–60 days at the importer's expense. 
+ 
+b. Feeder pigs not known to be infected with or exposed to pseudorabies virus 
+and not mingled with or exposed to swine of lesser or unknown status must: 
+ 
+(1) Be negative to an official pseudorabies serologic test within 30 days 
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+ 
+ 18 
+vaccinated herd; or 
+ 
+(4) Originate in a pseudorabies-m onitored feed
+Text Len: 1409
+--------------------------------------------------------------------------------
+
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+ 
+ 18 
+vaccinated herd; or 
+ 
+(4) Originate in a pseudorabies-m onitored feeder-pig herd; or 
+ 
+(5) Be shipped directly from the farm of origin in a Stage III, IV, or Free 
+State; or 
+ 
+(6) Be sold at an approved all-class market or approved slaughter market 
+and imported for feeding in a quarantined feedlot; or 
+ 
+(7) Be sold at an approved feeder-pig market and imported for feeding 
+without restriction. 
+ 
+c. Slaughter hogs: 
+ 
+(1) Swine not known to be infected with or exposed to pseudorabies may 
+move as follows: 
+ 
+(a) Directly to a recognized slaughter establishment; or 
+ 
+(b) Directly to an approved slaughter market or approved all-class 
+market and then directly to another approved slaughter market 
+or a recognized slaughter establishment or quarantined feedlot; 
+or 
+ 
+(c) Directly to an approved slaughter market and then to a 
+quarantined feedlot. 
+ 
+(2) Virus-infected or -exposed swine may move directly to a recognized 
+slaughter establishment or directly to no more than two approved 
+slaughter markets and then directly to a recognized slaughter 
+establishment when 
+ 
+(a) The carrier transporting pseudorabies-virus-infected or -exposed 
+slaughter swine is cleaned and disinfected before it is used to 
+transport
+Text Len: 1404
+--------------------------------------------------------------------------------
+ swine may move directly to a recognized 
+slaughter establishment or directly to no more than two approved 
+slaughter markets and then directly to a recognized slaughter 
+establishment when 
+ 
+(a) The carrier transporting pseudorabies-virus-infected or -exposed 
+slaughter swine is cleaned and disinfected before it is used to 
+transport nonslaughter swine or feedstuffs within the following 30 
+days; and 
+ 
+(b) Additional State-of-destination swine-identification requirements 
+and regulations are followed; and 
+ 
+(c) Quarantined swine are accompanied by a shipping permit (VS 
+Form 1–27) and are conveyed in sealed vehicles. 
+ 
+d. Interstate movements of swine from  infected herds in multisite production 
+ 
+ 19 
+systems must be made as part of a herd-cleanup plan approved by the 
+State Veterinarians of the originating and recipient States. 
+ 
+5. Intrastate movements are controlled as necessary to meet State needs. 
+ 
+Movement of quarantined swine between multiple-site production units may be 
+approved under the following guidelines:  (1) The breeding herds must be 
+vaccinated at least twice a year with a differentiable virus vaccine; (2) 
+Movement of breeding stock, either from one site to another or from the final 
+site, shall be intrastate only; (3) Such movement shall be part of a 
+State-approved cleanup plan that will provide a maximum of 18 months for 
+elimination of the virus from the infected breeding herd; (4) Progeny shall be 
+tested monthly; (5) Before movement of progeny as breeding stock, 100 
+percent of the progeny must be tested. 
+ 
+
+Text Len: 1569
+--------------------------------------------------------------------------------
+3) Such movement shall be part of a 
+State-approved cleanup plan that will provide a maximum of 18 months for 
+elimination of the virus from the infected breeding herd; (4) Progeny shall be 
+tested monthly; (5) Before movement of progeny as breeding stock, 100 
+percent of the progeny must be tested. 
+ 
+6. Transmission of pseudorabies virus from wild or feral swine shall be controlled 
+as follows: 
+ 
+a. Any swine that have had known exposure to wild or feral swine must be 
+separated from wild or feral swine and quarantined until released in 
+accordance with Part IV, subpart IV. 
+ 
+b. Wild or feral swine may be moved to immediate slaughter.  Movement to 
+hunting preserves or game farms is not classified as shipment to slaughter. 
+ 
+c. Wild or feral swine moved to hunting preserves or game farms, or for 
+exhibition, or feeding, must test negative on an official pseudorabies test 
+conducted within 30 days prior to shipment under permit of the State animal 
+health official. 
+ 
+d. Wild or feral swine moved for breeding purposes must be held separate and 
+apart from all swine for 90 days and must test negative on two official 
+pseudorabies tests conducted at least 60 days apart. 
+ 
+B. Disposition of quarantined herds  
+ 
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the quarantine 
+date. 
+ 
+Quarantines issued
+Text Len: 1560
+--------------------------------------------------------------------------------
+
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the quarantine 
+date. 
+ 
+Quarantines issued after January 1, 1998, must be released by January 1, 2000. 
+ 
+ 20 
+ 
+These time frames must be included in all herd-cleanup plans. 
+ 
+C. Duration of status  
+ 
+Twelve to 14 months following assignment of Stage II status by Veterinary Services, a 
+State/Area must (1) certify that it meets the requirements of a higher Program Stage; or 
+(2) indicate that it continues to meet Stage II requirements, utilizing the same 
+certification procedure as followed initially; and (3) demonstrate progress in herd 
+cleanup consistent with the goal of eradication by the year 2000 by, at a minimum, 
+meeting the following provisions:  (A) herd-cleanup plans written on all herds within 30 
+days of quarantine; (B) all herd plans reviewed semiannually and revised as necessary; 
+(C) all quarantined breeding herds must be tested by a whole-herd test every 30 days.  
+All sows and boars testing positive for pseudorabies virus must be removed for 
+slaughter or isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is
+Text Len: 1622
+--------------------------------------------------------------------------------
+ isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is released; (E) unless otherwise determined by the State Veterinarian and 
+the pseudorabies epidemiologist, all swine in quarantined herds and all swine in herds 
+located within 2 miles of a quarantined herd must be vaccinated for pseudorabies.  
+States failing to recertify as required will be reviewed by the National Pseudorabies 
+Control Board and may lose their Stage II status. 
+ 
+ 
+Stage III—Mandatory Herd Cleanup  
+ 
+In this stage, the cleanup of infected herds becomes mandatory.  The State 
+pseudorabies committee shall provide time limits for developing and completing official 
+pseudorabies herd-cleanup plans in conformity with Section C.  An official pseudorabies 
+epidemiologist will consult with the herd owner and his or her veterinary practitioner, 
+when applicable, to develop a mutually acceptable official pseudorabies herd-cleanup.  
+This plan should be based on the strategies outlined in the Livestock Conservation 
+Institute's Swine Pseudorabies Eradication Guidelines.  The attending accredited 
+veterinarian should play a major role in selecting and implementing herd-cleanup plans. 
+ Pseudorabies prevalence in the affected community must be determined for all groups 
+of swine, including swine in feedlots. 
+ 
+A. To qualify for Stage III recognition, the application for Program status shall 
+provide documentation as follows:
+Text Len: 1702
+--------------------------------------------------------------------------------
+ accredited 
+veterinarian should play a major role in selecting and implementing herd-cleanup plans. 
+ Pseudorabies prevalence in the affected community must be determined for all groups 
+of swine, including swine in feedlots. 
+ 
+A. To qualify for Stage III recognition, the application for Program status shall 
+provide documentation as follows: 
+ 
+1. The standards of Stage II are implem ented and, with the endorsement of the 
+State pseudorabies committee, the State animal health official is implementing 
+mandatory herd-cleanup procedures. 
+ 
+ 
+ 21 
+2. Epidemiology 
+ 
+a. Swine movements into and out of infe cted premises or premises suspected 
+of being infected are traced, and the status of receiving and source herds is 
+appropriately established by either a test of all breeding swine or an official 
+random-sample test. 
+ 
+b. All swine units, including feedlots within a 1.5-mile (2.4-kilometer) radius of 
+infected premises, are monitored either by a test of all breeding swine or by 
+an official random-sample test. 
+ 
+c. The State prevalence of infected herds is 1 percent or less, based on 
+surveillance testing that meets the requirements of section 3, below. 
+ 
+3. Surveillance 
+ 
+a. Surveillance by slaughter or first-point testing: 
+ 
+At least 10 percent of the breeding swine population is surveyed annually 
+using an official pseudorabies serologic test with at least 80-percent 
+successful traceback of seropositives to the farm of origin, or testing and 
+traceback to achieve a surveillance index of 0.08.  Current data from the 
+National Agricultural Statistics Service, USDA
+Text Len: 1599
+--------------------------------------------------------------------------------
+ 
+ 
+At least 10 percent of the breeding swine population is surveyed annually 
+using an official pseudorabies serologic test with at least 80-percent 
+successful traceback of seropositives to the farm of origin, or testing and 
+traceback to achieve a surveillance index of 0.08.  Current data from the 
+National Agricultural Statistics Service, USDA, on breeding swine 
+populations will be used to calculate surveillance data.  The surveillance 
+program must be random and must be representative of all herds in the 
+State.  Tests of swine from premises currently known to be infected may not 
+be included in totals to meet the requirements of this section. 
+ 
+Only two specific forms of surveillance testing may be included in the 
+surveillance index calculation:  (1) samples collected at slaughter, and (2) 
+samples collected at markets (first point). 
+ 
+If sows and boars from herds tested for other purposes (e.g., feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being 
+tested at slaughter or first point, then the number of sows in such herds can 
+be deducted from the population to be sampled for surveillance.  
+Applications for status for States/Areas taking advantage of this provision 
+must explain how this is being accomplished. 
+ 
+b. Surveillance by herd testing: 
+ 
+If an official random sample test (95/10) or a monitored herd test is used, 25 
+percent of the herds or 10 percent of the breeding swine in the Stage III 
+area must be tested annually. 
+ 
+ 
+ 22 
+If an official random-sample test (95/20) is used, 33 percent of the herds in 
+the Stage III area must be tested annually. 
+
+Text Len: 1636
+--------------------------------------------------------------------------------
+10) or a monitored herd test is used, 25 
+percent of the herds or 10 percent of the breeding swine in the Stage III 
+area must be tested annually. 
+ 
+ 
+ 22 
+If an official random-sample test (95/20) is used, 33 percent of the herds in 
+the Stage III area must be tested annually. 
+ 
+Herds to be tested must be selected randomly during the surveillance 
+period.  Herds are eligible for selection when more than 12 months have 
+elapsed since the last herd test.  Quarantined herds are not eligible for 
+selection. 
+ 
+4. Vaccination 
+ 
+Vaccination may be permitted by the State animal health official as part of an 
+approved herd-cleanup plan and in area control programs. 
+ 
+5. Transmission of pseudorabies virus from wild or feral swine shall be controlled 
+as follows: 
+ 
+Regulations to prevent virus transmission from wild or feral to domestic swine 
+within the State are implemented.  
+ 
+B. During Stage III:  
+ 
+1. Information and education efforts are intensified. 
+ 
+2. The effectiveness of regulations is monitored, and enforcement is strengthened 
+as necessary. 
+ 
+3. Industry commitment for Program advancement is secured. 
+ 
+4. Epidemiologic evaluation of Program activities is utilized. 
+ 
+5. Swine may not be moved from a quar antined herd to any location within a 
+Stage III area unless part of the herd was at this location when the original herd 
+quarantine was issued or such movement is required as part of an approved 
+herd-cleanup plan. 
+ 
+C. Disposition of quarantined herds  
+Owners of quarantined herds must complete their cleanup plans and
+Text Len: 1561
+--------------------------------------------------------------------------------
+ antined herd to any location within a 
+Stage III area unless part of the herd was at this location when the original herd 
+quarantine was issued or such movement is required as part of an approved 
+herd-cleanup plan. 
+ 
+C. Disposition of quarantined herds  
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 
+1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the 
+quarantine date. 
+ 
+ 
+ 23 
+Quarantines issued after January 1, 1998, must be released by January 1, 
+2000. 
+ 
+These time frames must be included in all herd-cleanup plans. 
+ 
+D. Duration of status  
+ 
+Twelve to 14 months following assignment of Stage III status by Veterinary Services, a 
+State/Area must (1) certify that it meets the requirements of a higher program stage, or 
+(2) indicate that it continues to meet Stage III requirements, utilizing the same 
+certification procedure as followed initially, and demonstrate progress in herd cleanup 
+consistent with the goal of eradication by the year 2000, by, at a minimum, meeting the 
+following  provisions:  (A) herd-cleanup plans written on all herds within 30 days of 
+quarantine; (B) all herd plans reviewed semiannually and revised as necessary; (C) all 
+quarantined breeding herds must be tested by a whole-herd test every 30 days.  All 
+sows and boars testing positive for pseudorabies virus must be removed for slaughter 
+or isolation for slaughter within 15 days after test results are
+Text Len: 1597
+--------------------------------------------------------------------------------
+ of 
+quarantine; (B) all herd plans reviewed semiannually and revised as necessary; (C) all 
+quarantined breeding herds must be tested by a whole-herd test every 30 days.  All 
+sows and boars testing positive for pseudorabies virus must be removed for slaughter 
+or isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is released; (E) unless otherwise determined by the State Veterinarian and 
+the pseudorabies epidemiologist, all swine in quarantined herds and all swine in herds 
+located within 2 miles of a quarantined herd must be vaccinated for pseudorabies.  
+States failing to recertify as required will be reviewed by the National Pseudorabies 
+Control Board and may lose their Stage III status. 
+ 
+In the event that the prevalence of infected herds exceeds 1 percent at any time during 
+the recertification period, the national coordinator for Veterinary Services shall be 
+notified immediately.  Such notification shall be followed by a written explanation for 
+review and consideration by the National Pseudorabies Control Board. 
+ 
+ 
+Stage IV—Surveillance  
+ 
+To qualify for Stage IV recognition, the following requirements shall be met: 
+ 
+A. The application for Program status sh all demonstrate that the standards of 
+Stage III are in effect and shall document that: 
+ 
+1. There is no known infection in the State/Area and the surveillance program 
+required for Stage III has been in
+Text Len: 1690
+--------------------------------------------------------------------------------
+veillance  
+ 
+To qualify for Stage IV recognition, the following requirements shall be met: 
+ 
+A. The application for Program status sh all demonstrate that the standards of 
+Stage III are in effect and shall document that: 
+ 
+1. There is no known infection in the State/Area and the surveillance program 
+required for Stage III has been in effect for at least 2 years. 
+ 
+2. The State/Area has and enforces regul atory authority requiring farm-of-origin 
+identification of cull sows and boars. 
+ 
+ 
+ 24 
+3. No new cases of pseudorabies were confirmed during the year prior to 
+application for Stage IV status, except as follows:  In the event of an isolated 
+case, application for Stage IV status may be made if the affected herd was 
+disposed of within 15 days after test results were reported with no spread to 
+additional premises as determined by testing of all exposed herds and all swine 
+herds within 2 miles of the new case with an official random sample test (95/5). 
+ Testing of the above herds must be accomplished, with negative results, no 
+earlier than 30 days and no later than 60 days after cleanup.   
+ 
+4. States must develop and adopt a m anagement plan that adequately separates 
+and addresses controls of the interface of feral and transitional production 
+swine with commercial production swine.  The plan is to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+B. Surveillance of breeding herds must be continued at the same rate required 
+for Stage III. 
+ 
+C. Certification, with respect to f eedlots on premises on which there are no 
+breeding animals, must show that:
+Text Len: 1657
+--------------------------------------------------------------------------------
+ to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+B. Surveillance of breeding herds must be continued at the same rate required 
+for Stage III. 
+ 
+C. Certification, with respect to f eedlots on premises on which there are no 
+breeding animals, must show that: 
+ 
+1. Such feedlots have been included in a down-the-road herd-testing program, or 
+ 
+2. Such herds will be monitored by slaughter or first-point surveillance of butcher 
+hogs, or 
+ 
+3. During the period since the last case in a State/Area has been cleaned up, such 
+herds  
+ 
+a. Have been negative to an official rando m-sample test (95/10) as defined in 
+these Standards, or 
+ 
+b. Have undergone a 30-day depopulation with appropriate cleaning and 
+disinfection. 
+ 
+4. Any feedlots not tested under the provisi ons of this part must be operated all-in 
+and all-out by premises. 
+ 
+D. Vaccination is prohibited except by pe rmission of the State animal health 
+official in high-risk herds or as part of an approved herd-cleanup plan. 
+ 
+E. Swine import requirements shall be as follows:  
+ 
+1. Slaughter swine 
+ 
+ 
+ 25 
+a. Infected or exposed swine may be shipped through or into a Stage IV 
+State/Area with prior written approval from the State Veterinarian and must 
+move directly to a recognized slaughter establishment.  Such swine must 
+be accompanied by a shipping permit (VS Form 1–27), be conveyed in 
+sealed vehicles
+Text Len: 1453
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 25 
+a. Infected or exposed swine may be shipped through or into a Stage IV 
+State/Area with prior written approval from the State Veterinarian and must 
+move directly to a recognized slaughter establishment.  Such swine must 
+be accompanied by a shipping permit (VS Form 1–27), be conveyed in 
+sealed vehicles, and be unloaded under the supervision of State or Federal 
+officials to ensure that biosecurity measures are observed. 
+ 
+b. Imports of slaughter swine from States  or Areas with a Program status up to 
+and including Stage III are permitted to a recognized slaughter 
+establishment or an approved slaughter market only. 
+ 
+2. Breeding swine 
+ 
+a. Direct shipment from a Stage IV or V State/Area, or 
+ 
+b. Direct shipment from a qualif ied pseudorabies-negative herd in any 
+State/Area, or 
+ 
+c. Negative official pseudorabies serologic test within 30 days prior to 
+shipment with quarantine, isolation, and retest at destination in 30–60 days 
+following importation. 
+ 
+3. Feeder pigs 
+ 
+a. Direct shipment from a farm of orig in or a market in a Stage IV or V 
+State/Area, or 
+ 
+b. Direct shipment from a farm of or igin in a Stage III State/Area, or 
+ 
+c. Direct shipment from a qualified pseudorabies-negative herd or qualified-
+negative gene-altered vaccinated herd, or 
+ 
+d. Entry is allowed into Stage IV St ates/Areas from feeder-pig-monitored 
+herds in Stage II States or from approved feeder-pig markets under the 
+following conditions: 
+Text Len: 1463
+--------------------------------------------------------------------------------
+
+c. Direct shipment from a qualified pseudorabies-negative herd or qualified-
+negative gene-altered vaccinated herd, or 
+ 
+d. Entry is allowed into Stage IV St ates/Areas from feeder-pig-monitored 
+herds in Stage II States or from approved feeder-pig markets under the 
+following conditions: 
+ 
+(1) That the swine enter on permit directly to a designated feedlot; 
+ 
+(2) That the swine be restricted to the designated feedlot until they are 
+sent to slaughter. 
+ 
+F. Intrastate swine movements —no restrictions.  
+ 
+G. Duration of status  
+ 
+ 
+ 26 
+Twelve to 14 months following assignment of Stage IV status by Veterinary 
+Services, a State/Area must (1) indicate that it continues to meet the Stage IV 
+requirements, utilizing the same certification procedures as followed initially, or (2) 
+certify that it meets the requirements of another Program Stage.  States/Areas 
+failing to recertify as required will automatically lose their Stage IV status. 
+ 
+In the event of a confirmed case of pseudorabies in commercial production swine, 
+the national program coordinator for Veterinary Services shall be notified 
+immediately, and the county or counties within a 2-mile radius of the new case will 
+revert to Stage III status (except as noted below) until 60 days following cleanup 
+and quarantine release.  During the 60 days following quarantine release, and 
+before Stage IV status is reinstated, all exposed herds and all swine herds within 2 
+miles of the new case must be tested with an official random sample test (95/5) and 
+be found negative. 
+ 
+The national pseudorabies coordinator and
+Text Len: 1597
+--------------------------------------------------------------------------------
+ until 60 days following cleanup 
+and quarantine release.  During the 60 days following quarantine release, and 
+before Stage IV status is reinstated, all exposed herds and all swine herds within 2 
+miles of the new case must be tested with an official random sample test (95/5) and 
+be found negative. 
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 states 
+within 24 hours.  Such notification is to include the location of the break and the 
+circumstances surrounding the case, including herd size, clinical signs, and type of 
+herd. 
+ 
+Immediately after a confirmed case is identified in commercial production swine, all 
+movement of swine from herds within a five-mile radius of the case and from 
+exposed herds must be stopped until such herds are tested and found to be 
+negative using an official random sample test (95/5).  Testing must be completed 
+within 15 days of identifying the infected herd. 
+ 
+If one or more counties revert to Stage III, animal health officials from the State 
+where a confirmed case occurs in commercial production swine must immediately 
+notify producers and veterinarians that breeding swine from the affected counties 
+must again be tested for pseudorabies within 30 days prior to interstate shipment. 
+ 
+If the newly infected herd is isolated and disposed of within 15 days after test results 
+are reported to State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage IV status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results, no
+Text Len: 1785
+--------------------------------------------------------------------------------
+
+are reported to State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage IV status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results, no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+ 
+ 
+Stage V—Free 
+ 
+This is the stage in which a State is declared pseudorabies free. 
+ 
+ 27 
+ 
+A. To qualify for this final surveillance stage, the application for Program status 
+shall provide evidence that the State is implementing the standards of Stage 
+IV. 
+ 
+B. In addition, the State must document that:  
+ 
+1. The State has been free of pseudorabies for 1 year since recognition of Stage 
+IV status. 
+ 
+2. Surveillance of breeding herds has been continued at one-half the rate required 
+for Stage III and Stage IV.  Once all States have achieved Stage IV or V status, 
+surveillance will no longer be required to maintain Stage V status in states that 
+have maintained Stage V status for five consecutive years, have had no 
+confirmed cases of pseudorabies during the same period, and have 
+demonstrated that no feral swine exist in the state. 
+ 
+3. Swine imports are controlled as follows: 
+ 
+a. Slaughter swine —same as Stage IV; 
+ 
+b. Breeding swine —same as Stage IV; 
+ 
+c. Feeder pigs —same as Stage IV. 
+ 
+4. Vaccination is not permitted except by  permit from the State Veterinarian in 
+certain
+Text Len: 1526
+--------------------------------------------------------------------------------
+. Swine imports are controlled as follows: 
+ 
+a. Slaughter swine —same as Stage IV; 
+ 
+b. Breeding swine —same as Stage IV; 
+ 
+c. Feeder pigs —same as Stage IV. 
+ 
+4. Vaccination is not permitted except by  permit from the State Veterinarian in 
+certain high-risk herds. 
+ 
+5. Intrastate swine movements—no restrictions. 
+ 
+6. States must develop and adopt a m anagement plan that adequately separates 
+and addresses controls of the interface of feral and transitional production 
+swine with commercial production swine.  The plan is to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+C.  Duration of status 
+ 
+Twelve to 14 months following assignment of Stage V status by Veterinary 
+Services, a State/Area must indicate that it continues to meet Stage V 
+requirements, utilizing the same certification as followed initially.  States/Areas 
+failing to recertify as required will automatically lose their Stage V status. 
+ 
+In the event of a confirmed case of pseudorabies in commercial production swine, 
+the national program coordinator for Veterinary Services shall be notified 
+ 
+ 28 
+immediately, and the county or counties within a 2-mile radius of the new case will 
+revert to Stage III status (except as noted below) and all other counties in the State 
+will revert to Stage IV status.  Stage IV status for the affected county may be 
+reinstated as outlined under Stage IV requirements.  
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 States 
+within 24 hours
+Text Len: 1635
+--------------------------------------------------------------------------------
+ as noted below) and all other counties in the State 
+will revert to Stage IV status.  Stage IV status for the affected county may be 
+reinstated as outlined under Stage IV requirements.  
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 States 
+within 24 hours.  Such notification is to include the location of the break and the 
+circumstances surrounding the case, including herd size, clinical signs, and type of 
+herd. 
+ 
+Immediately after a confirmed case is identified in commercial production swine, all 
+movement of swine from herds within a five-mile radius of the case and from 
+exposed herds must be stopped until such herds are tested and found to be 
+negative using an official random sample test (95/5).  Testing must be completed 
+within 15 days of identifying the infected herd. 
+ 
+If one or more counties revert to Stage III, officials from the state where a confirmed 
+case occurs in commercial production swine must immediately notify producers and 
+veterinarians that breeding swine from the affected counties must again be tested 
+for pseudorabies within 30 days prior to interstate shipment. 
+ 
+If the newly infected herd is isolated and disposed of within 15 days after test results 
+are reported to the State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage V status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+Part IV—Participation in Herd
+Text Len: 1755
+--------------------------------------------------------------------------------
+ exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage V status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+Part IV—Participation in Herd Plans and Release of Quarantines 
+ 
+Subpart I—The Qualified Pseudorabies-Negative Herd 
+ 
+A. Establishment of a qualified pse udorabies-negative (QN) breeding herd: 
+ 
+1. For breeding herds, QN status is atta ined by (1) subjecting to an official 
+pseudorabies serologic test all swine over 6 months of age plus a number of 
+progeny equal to 20 percent of the breeding swine population of the herd, and 
+(2) finding that all swine are negative to the test.  Progeny shall be randomly 
+selected from swine between 4 and 6 months of age.  The herd must not have 
+been a known infected herd within the 30 days prior to the qualifying test.  A 
+minimum of 90 percent of the swine in the herd must have been on the 
+premises and a part of the herd for at least 60 days prior to the qualifying official 
+pseudorabies serologic test or have entered by direct shipment from another 
+ 
+ 29 
+QN herd. 
+ 
+2. When all swine are shipped directly fr om existing QN herds, a new QN breeding 
+herd may be established if, within 30 days of arrival, all swine in the initial 
+shipment (up to 50 animals) are tested and found negative to an official 
+pseudorabies serologic test.
+Text Len: 1479
+--------------------------------------------------------------------------------
+ 
+QN herd. 
+ 
+2. When all swine are shipped directly fr om existing QN herds, a new QN breeding 
+herd may be established if, within 30 days of arrival, all swine in the initial 
+shipment (up to 50 animals) are tested and found negative to an official 
+pseudorabies serologic test. 
+ 
+3. Any breeding herd in a Stage IV or V State/Area is recognized as a QN herd. 
+ 
+B. QN breeding herd status may be maintained by monthly or quarterly 
+pseudorabies testing as follows: 
+ 
+1. Monthly testing: 
+ 
+a. Every 30 days, conduct an official pseudorabies serologic test of 7 percent 
+of all breeding swine 6 months of age or older, and test a number of 
+offspring 4 to 6 months of age located on the same premises as the 
+breeding herd equal to 2 percent of the breeding animals in the herd, or 
+ 
+b. On approval of the State Veteri narian, herds in Stage III, IV, or V 
+States/Areas may maintain status on the basis of a monthly negative official 
+random sample test (95/5) in each separate population of breeding swine 
+on a premises, and a monthly test of 50 offspring 4 to 6 months of age 
+located on the same premises as the breeding herd.  Sampling in the 
+population must be random and the testing protocol in the herd must be a 
+part of the approval.  Progeny must be selected at random from all groups 
+on the premises. 
+ 
+c. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult
+Text Len: 1481
+--------------------------------------------------------------------------------
+ random and the testing protocol in the herd must be a 
+part of the approval.  Progeny must be selected at random from all groups 
+on the premises. 
+ 
+c. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult breeding swine are maintained. 
+ 
+2. Quarterly testing: 
+ 
+a. Every 80 to 105 days, conduct an official pseudorabies serologic test of 20 
+percent of all breeding swine 6 months of age or older, and test a number of 
+offspring 4 to 6 months of age located on the same premises as the 
+breeding herd equal to 6 percent of the breeding animals in the herd. 
+ 
+b. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult breeding swine are maintained. 
+ 
+3. All swine tested shall be randomly select ed and, in the case of the adult swine, 
+representative of all age groups on the premises. 
+ 
+ 30 
+ 
+4. All swine intended to be added to a QN herd shall be isolated until they are 
+negative to an official pseudorabies serologic test conducted 30 days or more 
+following their placement in isolation except: 
+ 
+a. Swine from a herd of unknown status must be negative to an official 
+pseudorabies serologic test not more than 30 days prior to movement, with 
+a second test in isolation at least 30 days after movement. 
+ 
+b. Swine intended to augment a QN herd and coming directly from another 
+QN herd may be added without isolation or testing
+Text Len: 1549
+--------------------------------------------------------------------------------
+. Swine from a herd of unknown status must be negative to an official 
+pseudorabies serologic test not more than 30 days prior to movement, with 
+a second test in isolation at least 30 days after movement. 
+ 
+b. Swine intended to augment a QN herd and coming directly from another 
+QN herd may be added without isolation or testing. 
+ 
+c. Swine intended to be added to a QN herd from another QN herd, but with 
+interim contact with swine other than those from a QN herd, shall be 
+isolated until they have been found negative to an official pseudorabies 
+serologic test, conducted 30 days or more after the swine have been placed 
+in isolation. 
+ 
+C. Reestablishment of QN breeding herd status following confirmation of 
+infection in the herd  
+ 
+1. A QN herd that has been determined to  be infected with pseudorabies virus 
+may qualify for reinstatement as a QN herd if: 
+ 
+a. All swine in the herd 6 months of  age and over are negative to an official 
+pseudorabies serologic test, and 
+ 
+b. An official random-sample (95/10) test of progeny 2 –6 months of age is 
+conducted and all swine tested are negative, and 
+ 
+c. In 30 or more days, the testing described in a and b above is repeated. 
+ 
+2. If on a qualifying official pseudorabies se rologic test or any subsequent official 
+pseudorabies test, any swine test positive, QN herd status is suspended until 
+the infection status of the herd is determined by an investigation conducted by 
+an official pseudorabies epidemiologist. 
+ 
+3. The
+Text Len: 1496
+--------------------------------------------------------------------------------
+ above is repeated. 
+ 
+2. If on a qualifying official pseudorabies se rologic test or any subsequent official 
+pseudorabies test, any swine test positive, QN herd status is suspended until 
+the infection status of the herd is determined by an investigation conducted by 
+an official pseudorabies epidemiologist. 
+ 
+3. The official pseudorabies epidemiologist  will consider the following factors in 
+determining the presence or absence of pseudorabies in the herd: 
+ 
+a. The specific titers of titered swine; 
+ 
+b. The percentage and number of titered swine; 
+ 
+c. The vaccination history of titered swine; 
+ 
+ 31 
+ 
+d. Proximity and pseudorabies virus infe ction status of  neighboring herds; 
+ 
+e. The possibility of laboratory or  sample identification error; 
+ 
+f. Other pertinent herd history and clinical signs. 
+ 
+4. Based on the above information obtained by the official pseudorabies 
+epidemiologist, a final determination of infection status will be made; however, 
+before QN herd status may be attained or maintained, all seropositive swine 
+must either: 
+ 
+a. Be sold for slaughter, and a complete herd test conducted at least 30 days 
+later must be negative; or 
+ 
+b. Be negative to an official pseudorabies serologic test. 
+ 
+D. Establishment and maintenance of QN growout premises on which no adult 
+breeding swine are maintained: 
+ 
+Situation 1 
+ 
+Herd A ---------------> Herd B ---------------> Herd C 
+QN breeding herd(s)     Growout     
+Text Len: 1456
+--------------------------------------------------------------------------------
+ pseudorabies serologic test. 
+ 
+D. Establishment and maintenance of QN growout premises on which no adult 
+breeding swine are maintained: 
+ 
+Situation 1 
+ 
+Herd A ---------------> Herd B ---------------> Herd C 
+QN breeding herd(s)     Growout                 Sales Point 
+ 
+Situation 2 
+ 
+Herd A --------------------------------------> Herd C 
+QN breeding herd(s)                            Sales Point 
+ 
+Pigs moved from herd(s) A within 1 week of weaning are not required to be 
+pseudorabies tested. 
+ 
+Herd B 
+ 
+QN status may be attained and maintained by monthly negative official random sample 
+tests (95/5) beginning within 30 days after establishment of the herd, except that in all-
+in/all-out units, 1 test of 50 head is required of each group.  If herds A, B, and C are in 
+the same State and program stage, this testing is not required. 
+ 
+Herd C 
+QN status is attained by a negative official pseudorabies serologic test of the entire 
+initial shipment or 50 head selected at random, whichever is less. 
+ 
+QN status may be maintained by a monthly negative official pseudorabies serologic test 
+ 
+ 32 
+of 50 swine selected at random from those that have been in the herd at least 30 days, 
+except that in all-in/all-out units, 1 test of 50 head is required of each group.  Each 
+segregated group of
+Text Len: 1310
+--------------------------------------------------------------------------------
+ 
+QN status may be maintained by a monthly negative official pseudorabies serologic test 
+ 
+ 32 
+of 50 swine selected at random from those that have been in the herd at least 30 days, 
+except that in all-in/all-out units, 1 test of 50 head is required of each group.  Each 
+segregated group of swine on an individual premises must be considered a separate 
+herd. 
+ 
+Subpart II—The Qualified-Negative Gene-Altered Vaccinated (QNV) Herd  
+ 
+Qualified-negative gene-altered vaccinated (QNV) herd status is attained and 
+maintained under the same guidelines as for qualified pseudorabies-negative (QN) herd 
+status, except that swine may be vaccinated with an approved gene-deleted 
+pseudorabies virus vaccine, and testing may be completed using an official 
+pseudorabies serologic test. 
+ 
+Subpart III—The Pseudorabies-Monitored Feeder-Pig Herd 
+ 
+A. Monitored status in Stage II States or Areas  
+ 
+1. For breeding herds, pseudorabies-monitor ed feeder-pig status is attained when 
+the herd has been sampled and was negative to an official pseudorabies 
+serologic test during the last 12 months at the following rate: 
+ 
+   10 head—test all  
+11–35 head—test 10 
+36 or more—test 30 percent or 30, whichever is less 
+ 
+Tested breeding swine are to be selected at random from all age groups, 
+including herd boars, and all age groups are to be proportionately represented. 
+ 
+2. An offsite nursery that is not other wise part of a pseud
+Text Len: 1432
+--------------------------------------------------------------------------------
+
+11–35 head—test 10 
+36 or more—test 30 percent or 30, whichever is less 
+ 
+Tested breeding swine are to be selected at random from all age groups, 
+including herd boars, and all age groups are to be proportionately represented. 
+ 
+2. An offsite nursery that is not other wise part of a pseudorabies-monitored herd, 
+to which pigs have been moved within 1 week of weaning from pseudorabies-
+monitored feeder-pig herds, may be recognized as a pseudorabies-monitored 
+feeder-pig herd on the basis of a negative official random sample test (95/10) 
+as determined by an official pseudorabies epidemiologist.  The required tests 
+must be conducted within 30 days prior to movement out of the offsite nursery. 
+ 
+An official random sample test (95/10) as determined by an official 
+pseudorabies epidemiologist must be conducted on each group of pigs moving 
+through the offsite nursery.  In the case of a continuous-flow facility, monthly 
+tests (95/10) must be conducted. 
+ 
+B. Monitored status in Stage III, IV, or V States or Areas  
+ 
+1. Any breeding herd in a Stage III, IV, or V State or Area not known to be infected 
+is recognized as a pseudorabies-monitored feeder-pig herd. 
+ 
+ 
+ 33 
+2. Offsite nurseries in Stage III, IV, or V States or Areas shall be recognized as 
+pseudorabies-monitored feeder-pig herds if all pigs in the nurseries come from 
+breeding herds in Stage III, IV, or V States or Areas.  If part of the pigs in the 
+offs
+Text Len: 1440
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 33 
+2. Offsite nurseries in Stage III, IV, or V States or Areas shall be recognized as 
+pseudorabies-monitored feeder-pig herds if all pigs in the nurseries come from 
+breeding herds in Stage III, IV, or V States or Areas.  If part of the pigs in the 
+offsite nursery originate from a Stage II area, the nursery must be tested as 
+outlined in Part A of this section. 
+ 
+C. Monitored status in the vaccinated swine breeding herd is attained and 
+maintained as outlined in parts A and B of this section. 
+ 
+Subpart IV—Quarantine Release Procedures  
+ 
+A herd of swine shall no longer be classified as a known infected herd when no livestock 
+or other animals on the premises show clinical signs of pseudorabies after removal of 
+the positive swine, and at least one of the four following conditions has been met.  
+Additionally, if the herd is vaccinated, all vaccinates must be vaccinated with the same 
+official gene-altered pseudorabies virus vaccine. 
+ 
+A. All swine were removed from the premises; the premises were cleaned and 
+disinfected under official supervision with a disinfectant approved by 
+Veterinary Services for such use; and the premises have been maintained free 
+of swine for 30 days or a period of time determined adequate by an official 
+pseudorabies epidemiologist. 
+ 
+B. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises and all 
+remaining swine, except suckling pigs, were subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+Text Len: 1607
+--------------------------------------------------------------------------------
+abies epidemiologist. 
+ 
+B. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises and all 
+remaining swine, except suckling pigs, were subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+or more after removal of all positive swine. 
+ 
+C. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises; all 
+breeding swine that remain in the herd and an official random sample (95/10) 
+of grower-finishing swine over 2 months of age are subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+or more after removal of positive swine.  A second test of grower-finishing 
+swine at least 30 days after the first is required if the State is in Stage III or IV 
+of the Program. 
+ 
+D. (Stage I, II, and III only)  All swine present on the date the quarantine was 
+imposed have been removed, and there have been no clinical signs in the 
+herd for at least 6 months.  Two successive official (or approved differential) 
+random-sample (95/10) tests of the breeding herd [95/5 for Stage III States], 
+conducted at least 90 days apart, have been determined by the official 
+pseudorabies epidemiologist to reveal no infection, and two successive 
+ 
+ 34 
+official (or approved differential) random-sample (95/10) tests of progeny at 
+least 4 months of age, conducted at least 90 days apart, are negative
+Text Len: 1574
+--------------------------------------------------------------------------------
+ Stage III States], 
+conducted at least 90 days apart, have been determined by the official 
+pseudorabies epidemiologist to reveal no infection, and two successive 
+ 
+ 34 
+official (or approved differential) random-sample (95/10) tests of progeny at 
+least 4 months of age, conducted at least 90 days apart, are negative.  Herds 
+removed from quarantine by this provision are required to be negative by an 
+official (or approved differential) random-sample (95/10) test 1 year after 
+quarantine release. 
+ 
+E. In nurseries or finishing herds wit hout any breeding swine and where no pigs 
+are received from quarantined premises, quarantines may be released as 
+follows: 
+ 
+(1) A negative official random sample te st (95/10), conducted at least 30 days 
+following depopulation with cleaning and disinfection (C&D) of the premises and 
+7 days’ down time, must be determined by the official pseudorabies 
+epidemiologist to reveal no infection; or 
+ 
+(2) A negative official random sample te st (95/5), conducted at least 30 days 
+following a negative official random sample test (95/10), must be determined by 
+the official pseudorabies epidemiologist to reveal no infection. 
+ 
+An official random sample test (95/10) must then be conducted between 60 and 90 days 
+following quarantine release. 
+ 
+References 
+Livestock Conservation Institute. 1990. Pseudorabies Herd Plan Manual (rev). Madison, 
+WI: Livestock Conservation Institute. 36 p. 
+Text Len: 1439
+--------------------------------------------------------------------------------
+ 
+ 1 
+United States  
+Department of  
+Agriculture 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+ 
+APHIS 91–55–071 
+ 
+ 
+ 
+ 
+ Pseudorabies Eradication 
+ 
+ State–Federal–Industry 
+ 
+ Program Standards 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Effective November 1, 2003 
+ 
+ 2 
+ 
+The U.S. Department of Agriculture (USDA) prohibits discrimination in all its programs 
+and activities on the basis of race, color, national origin, race, religion, age, disability, 
+political beliefs, sexual orientation, or marital or family status.  (Not all prohibited bases 
+apply to all programs.)  Persons with disabilities who require alternative means for 
+communication of program information (Braille, large print, audiotape, etc.) should 
+contact USDA’s TARGET Center at (202) 720–2600 (voice and TDD). 
+ 
+To file a complaint of discrimination, write USDA, Director, Office of Civil Rights, Room 
+326–W, Whitten Building, 14th and Independence Avenue, SW, Washington, DC 20250–
+9410 or call (202) 720–5964 (voice and TDD).  USDA is an equal opportunity provider 
+and employer. 
+ 
+ 
+Issued November  2003  
+ 
+This publication supersedes APHIS 91–55–071, under the same title, which was 
+effective August  1, 2003. 
+ 
+ 3 
+ Pseudorabies Eradication Program Standards 
+ 
+ 
+Contents 
+  
+Introduction  
+ 
+Part I Definitions  
+ 
+Text Len: 1290
+--------------------------------------------------------------------------------
+ November  2003  
+ 
+This publication supersedes APHIS 91–55–071, under the same title, which was 
+effective August  1, 2003. 
+ 
+ 3 
+ Pseudorabies Eradication Program Standards 
+ 
+ 
+Contents 
+  
+Introduction  
+ 
+Part I Definitions  
+ 
+Part II Administrative Procedures  
+ 
+Part III Program Stages and Requirements  
+ 
+Stage I—Preparation  
+Stage II—Control  
+Stage III—Mandatory Herd Cleanup  
+Stage IV—Surveillance  
+Stage V—Free  
+ 
+Part IV Participation in Herd Plans and Release of Quarantines   
+ 
+Subpart I — The Qualified Pseudorabies - Negative  Herd 
+ Subpart II — The Qualified - Negative Gene-Altered Vaccinated (QNV) Herd  
+Subpart III — The Pseudorabies - Monitored Feeder-Pig Herd  
+Subpart IV — Quarantine Release Procedures  
+  
+References 
+ 
+ 
+The minimum standards described in this publication do not preclude the adoption of more stringent 
+standards by any geographic or political subdivision of the United States. 
+ 
+ 4 
+Introduction 
+ 
+These Program Standards were adopted for the eradication of pseudorabies from all domestic swine in 
+the United States.  These are the minimum standards developed by the Veterinary Services division of the 
+Animal and Plant Health Inspection Service (APHIS), an agency of the U.S. Department of Agriculture 
+(USDA), and endorsed by swine health practitioners and State animal health officials at the annual 
+meeting of the United States Animal Health Association in October 2003. 
+ 
+The following list highlights
+Text Len: 1470
+--------------------------------------------------------------------------------
+ These are the minimum standards developed by the Veterinary Services division of the 
+Animal and Plant Health Inspection Service (APHIS), an agency of the U.S. Department of Agriculture 
+(USDA), and endorsed by swine health practitioners and State animal health officials at the annual 
+meeting of the United States Animal Health Association in October 2003. 
+ 
+The following list highlights changes adopted in this version of the Program Standards.  
+ 
+Throughout the document, “National Pork Board” has replaced “National Pork Producers Council.” 
+ 
+Part I, Definitions 
+ 
+Definitions have been added for commercial production swine, confirmed case, feral or wild swine, and 
+transitional production swine. 
+ 
+Part II, Administrative Procedures 
+ 
+Sec. B., when entering and while on a premises, biosecurity procedures must be used by Program 
+personnel.  
+ 
+Sec. G., only the original Application for Program entry and advancement in status is required to be sent to 
+the National Center for Animal Health Programs staff for approval.  No additional copies are necessary. 
+ 
+Sec. I., a new section is added about the procedure for changing the Program Standards.  
+ 
+Part III, Stage I (Preparation) 
+ 
+Sec. A.6., State progress and activity reports are now required to be produced monthly.  
+ 
+Part III, Stage IV (Surveillance)  
+ 
+Sec. A.4., a new subsection is added that requires states to develop and adopt a management plan that 
+adequately separates and controls the interface of feral and transitional production swine with commercial 
+production swine. 
+ 
+Sec. G., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to
+Text Len: 1690
+--------------------------------------------------------------------------------
+  
+ 
+Sec. A.4., a new subsection is added that requires states to develop and adopt a management plan that 
+adequately separates and controls the interface of feral and transitional production swine with commercial 
+production swine. 
+ 
+Sec. G., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to Veterinary Services for action.  Additionally, after a confirmed case is identified in 
+commercial production swine, all movement of swine from herds withing a five-mile radius of the case and 
+from exposed herds must be stopped until such herds are tested and found to be negative using an official 
+random sample test (95/5); and this testing must be completed within 15 days of identifying the infected 
+herd. 
+ 
+Part III, Stage V (Free)  
+ 
+Sec.B.6. now requires states to develop and adopt a management plan that adequately separates and 
+controls the interface of feral and transitional production swine with commercial production swine. 
+ 
+Sec. C., now requires that only confirmed cases of pseudorabies in commercial production swine be 
+reported immediately to Veterinary Services for action.  Additionally, after a confirmed case is identified in 
+commercial production swine, all movement of swine from herds withing a five-mile radius of the case and 
+from exposed herds must be stopped until such herds are tested and found to be negative using an official 
+random sample test (95/5); and this testing must be completed within 15 days of identifying the infected 
+ 
+ 5 
+herd.  
+ 
+Part I—Definitions  
+ 
+Accredited veterinarian 
+A veterinarian approved by the Administrator of APHIS, USDA, to perform functions 
+required by cooperative State–Federal–Industry animal disease-control and
+Text Len: 1757
+--------------------------------------------------------------------------------
+ (95/5); and this testing must be completed within 15 days of identifying the infected 
+ 
+ 5 
+herd.  
+ 
+Part I—Definitions  
+ 
+Accredited veterinarian 
+A veterinarian approved by the Administrator of APHIS, USDA, to perform functions 
+required by cooperative State–Federal–Industry animal disease-control and -eradication 
+programs. 
+ 
+Administrator 
+The Administrator of APHIS, USDA, or any other official of APHIS to whom authority 
+has been delegated or may be delegated to act in his or her stead. 
+ 
+Approved all-class market 
+A livestock market approved by the Administrator where breeding, feeding, and 
+slaughter swine are sold in accordance with Federal interstate regulations and 
+applicable provisions of these Program Standards. 
+ 
+Approved differential pseudorabies test 
+Any test for the diagnosis of pseudorabies that: 
+1. Can distinguish vaccinated swine from infected swine; and 
+2. Is produced under license from the Secretar y of Agriculture with indications for use 
+in the Cooperative State–Federal–Industry Pseudorabies Eradication Program; and 
+3. Is conducted in a laboratory approved by the Administrator. 
+ 
+Approved feeder-pig market 
+A livestock market selling feeder pigs in which no animals from known infected herds 
+are accepted for sale on the same day, in accordance with Federal interstate 
+regulations and applicable provisions of these Program Standards: 
+ 
+1. All swine must originate in a qualified pseudorabies- negative herd; or 
+2. All swine must originate from a Stat e that has achieved Pseudorabies Eradication 
+Program status of Stage III, IV, or V; or 
+3
+Text Len: 1601
+--------------------------------------------------------------------------------
+, in accordance with Federal interstate 
+regulations and applicable provisions of these Program Standards: 
+ 
+1. All swine must originate in a qualified pseudorabies- negative herd; or 
+2. All swine must originate from a Stat e that has achieved Pseudorabies Eradication 
+Program status of Stage III, IV, or V; or 
+3. All swine must originate in a pseudorabies-monitored feeder-pig herd; or 
+4. All swine are found negative to an official pseudorabies test conducted 30 days or 
+less prior to presentation at the market.  In a herd of single-source pigs in which no 
+sows remain, the State Veterinarian may require a negative test of an official 
+random sample (95/5) of the remaining pigs before sale. 
+5. Cleaning and disinfection must be done after all other classes of swine have been 
+removed and before feeder pigs are offered for sale. 
+6. Additional requirements may be impos ed as deemed necessary by the State 
+Veterinarian to limit the possibility of disease spread through the market. 
+  
+Approved slaughter market 
+A livestock market approved by the Administrator that accepts and releases only 
+ 
+ 6 
+shipments of slaughter swine, in accordance with applicable State and Federal 
+regulations.  No swine may be released from an approved slaughter market unless 
+consigned directly to another approved slaughter market, a recognized slaughtering 
+establishment for immediate slaughter, or a quarantined feedlot. 
+ 
+Breeding herd 
+All swine on a premises that are 6 months of age or older, and that are used or intended 
+to be used for breeding. 
+ 
+Certificate 
+An official document issued for and prior to interstate movement of swine
+Text Len: 1646
+--------------------------------------------------------------------------------
+ market, a recognized slaughtering 
+establishment for immediate slaughter, or a quarantined feedlot. 
+ 
+Breeding herd 
+All swine on a premises that are 6 months of age or older, and that are used or intended 
+to be used for breeding. 
+ 
+Certificate 
+An official document issued for and prior to interstate movement of swine not known to 
+be infected with or exposed to pseudorabies by a Veterinary Services representative, a 
+State representative, or an accredited veterinarian, which states:  (1) the number and 
+description of the swine to be moved; (2) the swine to be moved are not known to be 
+infected with or exposed to pseudorabies virus; (3) the purpose for which the swine are 
+to be moved; (4) the points of origin and destination; (5) the consignor and consignee; 
+and (6) additional information as required by applicable State and Federal laws and 
+regulations. 
+ 
+Commercial production swine 
+Those swine that are continuously managed and have adequate facilities and practices 
+to prevent exposure to either transitional production or feral swine. 
+ 
+Common ground 
+The ground, areas, buildings, and equipment commonly shared by any specific group or 
+groups of livestock. 
+ 
+Confirmed case 
+Any animal determined to be infected with pseudorabies virus by an official 
+pseudorabies epidemiologist whose diagnosis is supported by official pseudorabies test 
+results. 
+ 
+Deputy Administrator 
+The Deputy Administrator, Veterinary Services, APHIS, USDA, or any other Veterinary 
+Services official to whom authority has been delegated to act in his or her stead. 
+ 
+Direct shipment 
+Movement without unloading en route, without contact with swine of lesser 
+Text Len: 1668
+--------------------------------------------------------------------------------
+ is supported by official pseudorabies test 
+results. 
+ 
+Deputy Administrator 
+The Deputy Administrator, Veterinary Services, APHIS, USDA, or any other Veterinary 
+Services official to whom authority has been delegated to act in his or her stead. 
+ 
+Direct shipment 
+Movement without unloading en route, without contact with swine of lesser 
+pseudorabies status, and without contact with infected or exposed livestock. 
+ 
+Exposed livestock 
+Any livestock that have been in contact with an animal infected with pseudorabies virus, 
+including all livestock in a known infected herd. (Livestock other than swine that have 
+not been exposed to a clinical case of pseudorabies for the last 10 consecutive days 
+shall no longer be considered to be exposed.) 
+ 
+ 7 
+ 
+Exposed swine 
+Any swine that have been in contact with an animal infected with pseudorabies virus, 
+including all swine in a known infected herd.  
+ 
+Farm of origin 
+A farm where swine were born or on which they have resided for at least 90 consecutive 
+days immediately prior to movement.  
+ 
+Feral or wild swine 
+Those swine that are free roaming.  
+ 
+Infected livestock 
+Any livestock determined to be infected with pseudorabies virus by an official 
+pseudorabies epidemiologist whose diagnosis is supported by official pseudorabies test 
+results. 
+ 
+Interstate 
+From any State into or through any other State. 
+ 
+Intrastate 
+Within a State. 
+ 
+Isolation 
+Separation of swine by a physical barrier in such a manner that one pig does not have 
+access to the isolated pig’s body, excrement, or discharges
+Text Len: 1567
+--------------------------------------------------------------------------------
+
+results. 
+ 
+Interstate 
+From any State into or through any other State. 
+ 
+Intrastate 
+Within a State. 
+ 
+Isolation 
+Separation of swine by a physical barrier in such a manner that one pig does not have 
+access to the isolated pig’s body, excrement, or discharges of another pig; does not 
+share a building with a common ventilation system; and is not within 10 feet of another 
+pig. 
+ 
+Known infected herd 
+Any herd in which any swine have been determined to be infected with pseudorabies 
+virus by an official pseudorabies epidemiologist. 
+ 
+Licensed pseudorabies virus vaccine 
+Any pseudorabies virus vaccine produced under license from the Secretary of 
+Agriculture under the Virus–Serum–Toxin Act of March 4, 1913, and any legislation 
+amendatory thereof (21 U.S.C. 151 et seq.). 
+ 
+Livestock 
+Swine, cattle, sheep, and goats. 
+ 
+Monitored negative feral swine population 
+Feral swine originating from areas that have been geographically defined and under 
+continuous surveillance with no evidence of infection and classified by the pseudorabies 
+ 
+ 8 
+epidemiologist as a monitored negative feral swine population. 
+ 
+Moved 
+Shipped, transported, or otherwise moved; or delivered or received for movement by 
+land, water, or air. 
+National Pseudorabies Control Board 
+A board that reviews requests by States for pseudorabies eradication program status 
+according to the Program Standards and makes recommendations to the APHIS, 
+Veterinary Services, for program stage designation.  Currently, this is a six-member 
+board composed of
+Text Len: 1539
+--------------------------------------------------------------------------------
+ received for movement by 
+land, water, or air. 
+National Pseudorabies Control Board 
+A board that reviews requests by States for pseudorabies eradication program status 
+according to the Program Standards and makes recommendations to the APHIS, 
+Veterinary Services, for program stage designation.  Currently, this is a six-member 
+board composed of two representatives each from the United States Animal Health 
+Association, the National Pork Board, and the National Institute for Animal Agriculture 
+(formerly the Livestock Conservation Institute), appointed by the respective presidents 
+of those organizations. 
+ 
+Official pseudorabies epidemiologist 
+A State or Federal veterinarian designated by the State animal health official and 
+veterinarian in charge to investigate and diagnose suspected pseudorabies in livestock. 
+ The official pseudorabies epidemiologist is expected to have had special training in the 
+diagnosis and epidemiology of pseudorabies which will provide the unique qualifications 
+demanded by the position. 
+ 
+Official pseudorabies herd-cleanup plan 
+A written plan to eliminate pseudorabies virus from a swine herd.  This plan is (1) 
+developed by an official pseudorabies epidemiologist in consultation with the herd 
+owner and his or her veterinary practitioner, when applicable; (2) mutually acceptable to 
+those parties; and (3) approved by the State animal health official. 
+ 
+Official pseudorabies serologic test 
+Any official test approved by the Administrator for diagnosis of pseudorabies in swine, 
+conducted in a laboratory approved by the Administrator, and listed in Section 9 of the 
+Code of Federal Regulations (CFR), Part 85.1, to determine the presence or absence of 
+pseudorabies antibodies. 
+ 
+Official pseudorabies test 
+Any test for the diagnosis of
+Text Len: 1800
+--------------------------------------------------------------------------------
+ approved by the Administrator for diagnosis of pseudorabies in swine, 
+conducted in a laboratory approved by the Administrator, and listed in Section 9 of the 
+Code of Federal Regulations (CFR), Part 85.1, to determine the presence or absence of 
+pseudorabies antibodies. 
+ 
+Official pseudorabies test 
+Any test for the diagnosis of pseudorabies approved by the Administrator, conducted in 
+a laboratory approved by the Administrator, and listed in 9 CFR, Part 85.1. 
+ 
+Official random-sample test (95/20) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 95-
+percent probability of detecting infection in a herd in which at least 20 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+Up to 14 head—test all. 
+ Over 14 head—test 14. 
+ 
+ 
+ 9 
+Official random-sample test (95/10) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 
+95-percent probability of detecting infection in a herd in which at least 10 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+    Less than 100 head—test 25 
+            100–200 head—test 27 
+            201–999 head—test 28 
+           1,000 and over—test 29 
+ 
+Official random-sample test (95/5) 
+A sampling procedure
+Text Len: 1475
+--------------------------------------------------------------------------------
+ 25 
+            100–200 head—test 27 
+            201–999 head—test 28 
+           1,000 and over—test 29 
+ 
+Official random-sample test (95/5) 
+A sampling procedure utilizing official pseudorabies serologic tests which provides a 
+95-percent probability of detecting infection in a herd in which at least 5 percent of the 
+swine are seropositive for pseudorabies.  Each segregated group of swine on an 
+individual premises must be considered a separate herd and sampled as follows: 
+    Less than 100 head—test 45 
+            100–200 head—test 51 
+            201–999 head—test 57 
+           1,000 and over—test 59 
+ 
+Permit 
+An official document issued for and prior to the interstate shipment of pseudorabies-
+virus-infected or -exposed swine by a Veterinary Services representative, State 
+representative, or accredited veterinarian, stating: (1) the number of swine to be moved, 
+(2) the purpose for which the swine are to be moved, (3) the points of origin and 
+destination, (4) the consignor and consignee, and (5) additional information required by 
+applicable State and Federal regulations.   
+ 
+Prevalence 
+The number of known infected herds in the State as of the date of the application for 
+Stage III status, divided by the number of swine herds in the State as determined by the 
+National Agricultural
+Text Len: 1318
+--------------------------------------------------------------------------------
+ the consignor and consignee, and (5) additional information required by 
+applicable State and Federal regulations.   
+ 
+Prevalence 
+The number of known infected herds in the State as of the date of the application for 
+Stage III status, divided by the number of swine herds in the State as determined by the 
+National Agricultural Statistics Service (NASS).  When a State has conducted a 
+down-the-road survey of all swine producers, the swine population data so developed 
+may be used rather than the NASS data. 
+ 
+Pseudorabies 
+The contagious, infectious, and communicable disease of livestock and other animals 
+also known as Aujeszky's disease. 
+ 
+Pseudorabies-monitored feeder-pig herd 
+For the purpose of this document, “pseudorabies-monitored feeder-pig herd,” 
+“pseudorabies-monitored vaccinated feeder-pig herd,” “pseudorabies-monitored herd,” 
+and “monitored herd” are interchangeable, and all refer to a swine herd that is in 
+compliance with Part IV, Subpart III, of this document. 
+ 
+ 10 
+ 
+Pseudorabies-restricted feeder-pig market 
+A market specifically designated by the State animal health official to handle shipments 
+of feeder pigs from premises under pseudorabies quarantine.  Sales are limited to 
+quarantined feedlots.  Pseudorabies-restricted feeder-pig markets are restricted to 
+handling intrastate shipments of pseudorabies-quarantined swine only. 
+ 
+Pseudorabies virus vaccinates 
+Any swine
+Text Len: 1419
+--------------------------------------------------------------------------------
+
+of feeder pigs from premises under pseudorabies quarantine.  Sales are limited to 
+quarantined feedlots.  Pseudorabies-restricted feeder-pig markets are restricted to 
+handling intrastate shipments of pseudorabies-quarantined swine only. 
+ 
+Pseudorabies virus vaccinates 
+Any swine that have been vaccinated with a USDA-licensed pseudorabies vaccine. 
+ 
+Quarantined feedlot 
+A premises where pseudorabies-virus-infected or -exposed swine are fed under the 
+supervision and control of the State animal health official and from which swine are 
+moved directly to a recognized slaughtering establishment or directly through no more 
+than one slaughter market and then directly to a recognized slaughtering establishment. 
+ 
+Quarantined herd 
+A herd in which pseudorabies-virus-infected or -exposed swine are bred, reared, or fed 
+under the supervision and control of the State animal health official and from which 
+swine are moved directly to a recognized slaughtering establishment, 
+pseudorabies-restricted feeder-pig market, quarantined feedlot, or directly through no 
+more than two slaughter markets and then directly to a recognized slaughtering 
+establishment or quarantined feedlot. 
+ 
+Recognized slaughtering establishment 
+A slaughtering establishment operated under the provisions of the Federal Meat 
+Inspection Act (21 U.S.C. 601 et seq.) or a State-inspected slaughtering establishment. 
+ 
+State/Area 
+Any State or Territory of the United States, the District of Columbia, Puerto Rico, Guam, 
+or the Northern Mariana Islands, or any portion of a State which meets the following 
+criteria: 
+1
+Text Len: 1604
+--------------------------------------------------------------------------------
+Inspection Act (21 U.S.C. 601 et seq.) or a State-inspected slaughtering establishment. 
+ 
+State/Area 
+Any State or Territory of the United States, the District of Columbia, Puerto Rico, Guam, 
+or the Northern Mariana Islands, or any portion of a State which meets the following 
+criteria: 
+1. All counties whose pseudorabies eradication status is in the same Stage must be 
+contiguous. 
+2. There shall be no more than two Stages in any State. 
+3. Only the following combinations of stat us will be permitted within a State:  Stages II 
+and III, Stages III and IV. 
+4. The surveillance system required for St ages III and IV must differentiate between 
+animals and/or herds from areas with different status. 
+ 
+State animal health official 
+The State official who is responsible for the livestock and poultry disease control and 
+eradication programs in the official's State/Area, or that person's designated 
+representative. 
+ 
+ 
+ 11 
+State pseudorabies committee 
+An appointed advisory committee composed of swine producers, animal scientists, 
+State and Federal regulatory officials, and other representatives of the swine industry.  
+The responsibilities of the committee include: 
+ 
+A. Informing and educating all segments of the State/Area swine industry regarding 
+pseudorabies eradication activities. 
+ 
+B. Reviewing the State/Area pseudor abies eradication program and making 
+recommendations to State and Federal animal health officials and, as appropriate, 
+consulting with State officials in the areas of: 
+1. Budgeting; 
+2. Intrastate and interstate regulations, including use of vaccine; 
+3. Progress through the Program
+Text Len: 1634
+--------------------------------------------------------------------------------
+ 
+B. Reviewing the State/Area pseudor abies eradication program and making 
+recommendations to State and Federal animal health officials and, as appropriate, 
+consulting with State officials in the areas of: 
+1. Budgeting; 
+2. Intrastate and interstate regulations, including use of vaccine; 
+3. Progress through the Program Stages. 
+ 
+C. Maintaining liaison with other States and with the national pseudorabies eradication 
+program through the National Pork Board, the United States Animal Health 
+Association, the National Institute for Animal Agriculture, and APHIS. 
+ 
+State representative 
+A person regularly employed in animal health work by a State and authorized by the 
+State to perform the functions involved or under a cooperative agreement with USDA. 
+ 
+Surveillance index 
+Refers to the percentage of a population of sows and boars sampled, multiplied by the 
+percentage of positive swine traced to the farm of origin.  When no positive swine are 
+found, then the surveillance index will be the percentage of a population of sows and 
+boars sampled. 
+ 
+Only two specific forms of surveillance testing may be included in the surveillance index 
+calculations: 
+1. Samples collected at slaughter. 
+2. Samples collected at markets (first point). 
+ 
+Unless cull sows and boars from herds tested for other purposes (e.g., feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being tested at 
+slaughter or first point—in which case the number of sows in such herds can be 
+deducted from the population to be used for surveillance—data of the following types 
+may not be included in surveillance index calculations: 
+1. Data
+Text Len: 1660
+--------------------------------------------------------------------------------
+ feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being tested at 
+slaughter or first point—in which case the number of sows in such herds can be 
+deducted from the population to be used for surveillance—data of the following types 
+may not be included in surveillance index calculations: 
+1. Data from samples collected for epidemiol ogic purposes (e.g., circle testing, tracing 
+into or out of infected herds); 
+2. Data from status testing (e.g., test s to establish qualified-negative herd status, 
+qualified-negative vaccinated herd status, or feeder-pig-monitored herd status; or 
+testing for sale and show). 
+ 
+ 
+ 12 
+The percentages of the breeding population in a State/Area to be tested annually to 
+meet the surveillance requirements for Stages III, IV, and V apply regardless of whether 
+the surveillance is conducted at slaughter, at first point, or as part of a down-the-road 
+(area) testing program.  Whichever system is used must be random and must be 
+representative of all herds of unknown status in the State/Area. 
+ 
+Randomness of slaughter, first-point, or onfarm (area) surveillance testing must be 
+documented in applications for status. 
+ 
+Swine Health Committee, National Pork Board 
+A committee of pork producers, constituted as determined by the National Pork Board 
+and calling on such scientific experts as needed, which shall review the national 
+Pseudorabies Eradication Program and the expenditure of Federal funds for the 
+Program at least annually.  The committee will also review, in advance, allocations of 
+Federal funds for any national surveillance program to the various States and make 
+recommendations to the Deputy
+Text Len: 1691
+--------------------------------------------------------------------------------
+ National Pork Board 
+and calling on such scientific experts as needed, which shall review the national 
+Pseudorabies Eradication Program and the expenditure of Federal funds for the 
+Program at least annually.  The committee will also review, in advance, allocations of 
+Federal funds for any national surveillance program to the various States and make 
+recommendations to the Deputy Administrator of Veterinary Services, APHIS, as it 
+deems appropriate. 
+ 
+Swine not known to be infected with or exposed to pseudorabies virus 
+All swine except those which are part of a known infected herd or are known to have 
+been exposed to pseudorabies virus. 
+ 
+Transitional production swine 
+Those feral swine that are captive or swine that have reasonable opportunities to be 
+exposed to feral swine.  
+ 
+Veterinarian-in-Charge 
+The veterinary official of Veterinary Services, APHIS, USDA, who is assigned by the 
+Administrator to supervise and perform APHIS' official animal health work in the 
+State/Area concerned. 
+ 
+Veterinary Services 
+The Veterinary Services branch of APHIS, USDA. 
+ 
+Veterinary Services representative 
+A person employed by Veterinary Services, APHIS, USDA, who is authorized to perform 
+official pseudorabies eradication activities. 
+ 
+ 
+Part II—Administrative Procedures  
+ 
+A. Supervision of the Cooperative State –Federal–Industry Pseudorabies 
+Eradication Program 
+ 
+The Cooperative State–Federal–Industry Pseudorabies Eradication Program (hereafter 
+ 
+ 13 
+called "the Program") must be supervised by full-time animal health veterinarians 
+employed by the State or Federal Government. 
+ 
+B.
+Text Len: 1615
+--------------------------------------------------------------------------------
+ the Cooperative State –Federal–Industry Pseudorabies 
+Eradication Program 
+ 
+The Cooperative State–Federal–Industry Pseudorabies Eradication Program (hereafter 
+ 
+ 13 
+called "the Program") must be supervised by full-time animal health veterinarians 
+employed by the State or Federal Government. 
+ 
+B. Entering premises  
+ 
+Persons working for the Program must be authorized by the State to enter premises to 
+carry out Program policy.  While on such premises, they must use commonly accepted 
+sanitary and biosecurity procedures to minimize the risk of physically transmitting 
+diseases among groups of livestock on the farm being investigated, as well as to other 
+premises. 
+C. Providing services to livestock owners  
+ 
+Owners are responsible for handling their animals.  Program administrators may 
+contract with accredited veterinarians, paraprofessionals, other State and Federal 
+agencies, or with the management of privately owned firms as needed, to assist State 
+and Federal animal health personnel in collecting blood or tissue samples, in identifying 
+animals, and in performing other Program activities. 
+ 
+D. Notifying the community of pse udorabies-virus-infected herds and 
+quarantined feedlots 
+ 
+State or Federal Program officials should notify swine owners in the immediate 
+community within 30 days after a swine herd has been quarantined for pseudorabies.  
+Program officials should also notify herd owners in the immediate community when they 
+grant approval for a quarantined feedlot.  Notification may be by an educational letter 
+emphasizing the importance of taking appropriate actions to protect swine against 
+pseudorabies.  When the herd quarantine is released or the approval of the quarant
+Text Len: 1722
+--------------------------------------------------------------------------------
+ined for pseudorabies.  
+Program officials should also notify herd owners in the immediate community when they 
+grant approval for a quarantined feedlot.  Notification may be by an educational letter 
+emphasizing the importance of taking appropriate actions to protect swine against 
+pseudorabies.  When the herd quarantine is released or the approval of the quarantined 
+feedlot is terminated, herd owners should be notified within 30 days by an informational 
+letter. 
+ 
+E. Dealers—Registration and Recordkeeping 
+ 
+The following dealers (individuals or other legal entities) of swine must be registered or 
+licensed with the appropriate State agency:  
+ 
+• Dealers who purchase, deal in, or sell swine; 
+• Dealers who act as commission representatives or brokers; 
+• Dealers who operate and conduct an auction where swine are sold. 
+ 
+These dealers must maintain records required by the licensing agency to make it 
+possible for State authorities to trace swine to their herds of origin or destination. 
+ 
+1. Registering dealers —After giving due notice and opportunity for a hearing to the 
+dealer involved, the State agency must have the authority to deny an 
+application for registration, or to suspend or cancel the registration, when the 
+ 
+ 14 
+agency is satisfied of either or both of the following: 
+ 
+a. There is adequate evidence to establis h that the dealer had the intent to 
+violate or circumvent recordkeeping requirements of this section and/or 
+other animal health regulations; 
+ 
+b. The dealer has repeatedly demonstrated failure to keep records adequate 
+to trace his swine sales and purchases. 
+ 
+2. Keeping records —Each registered or licensed swine dealer must keep sufficient 
+records of all swine
+Text Len: 1723
+--------------------------------------------------------------------------------
+ had the intent to 
+violate or circumvent recordkeeping requirements of this section and/or 
+other animal health regulations; 
+ 
+b. The dealer has repeatedly demonstrated failure to keep records adequate 
+to trace his swine sales and purchases. 
+ 
+2. Keeping records —Each registered or licensed swine dealer must keep sufficient 
+records of all swine purchased for resale to enable the State agency to trace 
+purchased animals satisfactorily to their herds of origin and destination.  The 
+records must be kept for a minimum of 2 years. 
+ 
+3. Dealing with violations —State animal health officials must have the authority to 
+enforce compliance with dealer registration and recordkeeping requirements.  
+This includes the authority to subpoena appropriate records and/or persons who 
+allegedly violate these minimum standards.  The appropriate State officials must 
+also have authority to petition the local court that has venue for an order to 
+enforce these subpoenas. 
+ 
+F.  Administrative review of Program activities 
+ 
+Appropriate Veterinary Services personnel will review the progress of State/Area 
+pseudorabies programs on an ongoing basis to ensure compliance with the Program 
+Standards. 
+ 
+G.  Application for Program status 
+ 
+Application for Program entry and advancement in status, jointly signed by the State 
+animal health official and Veterinarian-in-Charge, along with required documentation, 
+must be submitted to the Veterinary Services National Center for Animal Health 
+Programs, Pseudorabies Eradication Program staff for approval. The application shall 
+be reviewed by the National Pseudorabies Control Board prior to a final decision by the 
+Deputy Administrator. 
+ 
+H.  Other movements 
+ 
+The State Veterinarian may, upon request in specific cases,
+Text Len: 1776
+--------------------------------------------------------------------------------
+ the Veterinary Services National Center for Animal Health 
+Programs, Pseudorabies Eradication Program staff for approval. The application shall 
+be reviewed by the National Pseudorabies Control Board prior to a final decision by the 
+Deputy Administrator. 
+ 
+H.  Other movements 
+ 
+The State Veterinarian may, upon request in specific cases, permit the movement of 
+livestock not otherwise provided for in these Program Standards to prevent the spread 
+of pseudorabies virus.  It is the intention of these Standards that such authority be used 
+only in situations and under circumstances that could not have been reasonably 
+anticipated in advance.  It is not the intention that such authority be used repeatedly to 
+cover the same problem, but that the Program Standards be amended to conform with 
+needed changes as they come to light. 
+ 
+ 15 
+ 
+I.  Changes to the Program Standards 
+ 
+All proposed changes to Program Standards must first be reviewed and approved by 
+the Pseudorabies Program Standards Committee, a subcommittee of the United States 
+Animal Health Association (USAHA) Pseudorabies Committee.  Proposed changes 
+must then be reviewed and approved by the full USAHA Pseudorabies Committee 
+during the annual USAHA meeting.  Proposed changes that are approved by the 
+USAHA Pseudorabies Committee and included in the Pseudorabies Committee report 
+will be forwarded as a recommendation for final approval to Veterinary Services, 
+National Center for Animal Health Programs staff. 
+ 
+ 
+Part III—Program Stages and Requirements  
+ 
+Stage I—Preparation 
+ 
+This is the initial Program stage in which the basic procedures to control and eradicate 
+pseudorabies are developed.  
+ 
+A. To qualify for Stage I recognition, the
+Text Len: 1734
+--------------------------------------------------------------------------------
+ Services, 
+National Center for Animal Health Programs staff. 
+ 
+ 
+Part III—Program Stages and Requirements  
+ 
+Stage I—Preparation 
+ 
+This is the initial Program stage in which the basic procedures to control and eradicate 
+pseudorabies are developed.  
+ 
+A. To qualify for Stage I recognition, the application for Program status shall 
+provide documentation that the following standards are met: 
+ 
+1. A State pseudorabies committee has been formed and is functioning; 
+ 
+2. Plans are formulated for a reli able system of determining pseudorabies 
+prevalence in the State/Area swine population, which may include: 
+ 
+a. Mandatory reporting of suspec ted pseudorabies by producers, 
+veterinarians, and laboratories; 
+ 
+b. Change-of-ownership test requirements; 
+ 
+c. Collection of blood samples from  sows and boars at swine markets, 
+slaughter establishments, or farms.  Emphasis is given to pseudorabies 
+testing of blood samples that are collected for other purposes, e.g., 
+brucellosis validation, disease diagnosis, exhibition requirements, etc. 
+ 
+3. State officials and/or industry represent atives have, or are actively seeking, 
+legislative and regulatory authority to: 
+ 
+a. Participate in the Cooperative State–Federal–Industry Pseudorabies 
+Eradication Program; 
+ 
+b. Require reporting of suspected pseudor abies by producers, veterinarians, 
+ 
+ 16 
+and laboratories to the State animal health official; 
+ 
+c. Conduct diagnostic and epidemiologic investigations of suspected 
+pseudorabies; 
+ 
+d. Quarantine premises on wh
+Text Len: 1534
+--------------------------------------------------------------------------------
+udorabies 
+Eradication Program; 
+ 
+b. Require reporting of suspected pseudor abies by producers, veterinarians, 
+ 
+ 16 
+and laboratories to the State animal health official; 
+ 
+c. Conduct diagnostic and epidemiologic investigations of suspected 
+pseudorabies; 
+ 
+d. Quarantine premises on whic h pseudorabies is confirmed; 
+ 
+e. Trace purchases and sales of swi ne to and from quarantined premises and 
+inspect and collect diagnostic specimens from such swine; 
+ 
+f. Regulate shipments of breeding swi ne, feeder pigs, and slaughter swine 
+within and into the State; 
+ 
+g. Control the use of pseudorabies virus vaccines; 
+ 
+h. Control disposal of dead animals. 
+ 
+4. A system for distribution of Program literature to producers and other interested 
+groups is developed and functioning. 
+ 
+5. Applicable Federal pseudorabies  regulations are enforced. 
+ 
+6. A State progress repor t will be produced monthly. 
+ 
+The States will prepare a monthly report of pseudorabies eradication activities and 
+submit it to Veterinary Services for tabulation and distribution in a national Program 
+progress report.  Veterinary Services shall make reports as requested and at least 
+annually to the Oversight Committee, National Pork Board, on Program progress, 
+Program operation, and use of Federal funds, including, but not limited to, the operation 
+of any national slaughter surveillance program. 
+ 
+B. Duration of status  
+ 
+Twenty-four to 28 months following assignment of Stage I status by Veterinary Services, 
+a State must (1) indicate that it continues to meet the Stage I requirements, utilizing the 
+same certification procedures as followed initially, or
+Text Len: 1654
+--------------------------------------------------------------------------------
+, including, but not limited to, the operation 
+of any national slaughter surveillance program. 
+ 
+B. Duration of status  
+ 
+Twenty-four to 28 months following assignment of Stage I status by Veterinary Services, 
+a State must (1) indicate that it continues to meet the Stage I requirements, utilizing the 
+same certification procedures as followed initially, or (2) certify that it meets the 
+requirements of a subsequent Program Stage.  States failing to recertify as required will 
+automatically lose their Stage I status. 
+ 
+ 
+Stage II—Control  
+ 
+In this stage, a State will continue to participate with Veterinary Services on a 
+cooperative basis.  The goals of this stage are to determine which herds are infected 
+with pseudorabies virus and to begin herd cleanup. 
+ 
+ 17 
+ 
+A. To qualify for Stage II recognition, the application for Program status shall 
+provide documentation that the following standards are met: 
+ 
+1. Stage I standards have been implemented. 
+ 
+2. A surveillance program plus circle-t esting 1.5 miles around all newly identified 
+infected herds has been implemented to find additional infected herds.  This 
+surveillance should be based on testing sows and boars at slaughter, on the 
+farm, or at first point of concentration.   
+ 
+3. States/Areas must have acquired the authority to require herd-cleanup plans on 
+all known infected herds before the States/Areas can apply for a subsequent 
+Program Stage or reapply for status in Stage II. 
+ 
+4. Swine movements into the State/Area are controlled as follows: 
+ 
+a. Breeding swine not known to be infected or exposed to pseudorabies virus 
+must:
+Text Len: 1626
+--------------------------------------------------------------------------------
+-cleanup plans on 
+all known infected herds before the States/Areas can apply for a subsequent 
+Program Stage or reapply for status in Stage II. 
+ 
+4. Swine movements into the State/Area are controlled as follows: 
+ 
+a. Breeding swine not known to be infected or exposed to pseudorabies virus 
+must: 
+ 
+(1) Be negative to an official pseudorabies serologic test within 30 days 
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+vaccinated herd; or 
+ 
+(4) Be shipped directly from the farm of origin in a Stage IV or Free State; 
+or 
+ 
+(5) Originate in a qualified pseudor abies-negative herd or be negative to 
+an official pseudorabies serologic test within 30 days prior to sale at 
+an approved all-class market and be released under State quarantine 
+for isolation and retest in 30–60 days at the importer's expense. 
+ 
+b. Feeder pigs not known to be infected with or exposed to pseudorabies virus 
+and not mingled with or exposed to swine of lesser or unknown status must: 
+ 
+(1) Be negative to an official pseudorabies serologic test within 30 days 
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+ 
+ 18 
+vaccinated herd; or 
+ 
+(4) Originate in a pseudorabies-m onitored feed
+Text Len: 1409
+--------------------------------------------------------------------------------
+
+prior to interstate shipment; or 
+ 
+(2) Originate in a qualified pseudorabies-negative herd; or 
+ 
+(3) Originate in a qualified pseudorabies-negative gene-altered 
+ 
+ 18 
+vaccinated herd; or 
+ 
+(4) Originate in a pseudorabies-m onitored feeder-pig herd; or 
+ 
+(5) Be shipped directly from the farm of origin in a Stage III, IV, or Free 
+State; or 
+ 
+(6) Be sold at an approved all-class market or approved slaughter market 
+and imported for feeding in a quarantined feedlot; or 
+ 
+(7) Be sold at an approved feeder-pig market and imported for feeding 
+without restriction. 
+ 
+c. Slaughter hogs: 
+ 
+(1) Swine not known to be infected with or exposed to pseudorabies may 
+move as follows: 
+ 
+(a) Directly to a recognized slaughter establishment; or 
+ 
+(b) Directly to an approved slaughter market or approved all-class 
+market and then directly to another approved slaughter market 
+or a recognized slaughter establishment or quarantined feedlot; 
+or 
+ 
+(c) Directly to an approved slaughter market and then to a 
+quarantined feedlot. 
+ 
+(2) Virus-infected or -exposed swine may move directly to a recognized 
+slaughter establishment or directly to no more than two approved 
+slaughter markets and then directly to a recognized slaughter 
+establishment when 
+ 
+(a) The carrier transporting pseudorabies-virus-infected or -exposed 
+slaughter swine is cleaned and disinfected before it is used to 
+transport
+Text Len: 1404
+--------------------------------------------------------------------------------
+ swine may move directly to a recognized 
+slaughter establishment or directly to no more than two approved 
+slaughter markets and then directly to a recognized slaughter 
+establishment when 
+ 
+(a) The carrier transporting pseudorabies-virus-infected or -exposed 
+slaughter swine is cleaned and disinfected before it is used to 
+transport nonslaughter swine or feedstuffs within the following 30 
+days; and 
+ 
+(b) Additional State-of-destination swine-identification requirements 
+and regulations are followed; and 
+ 
+(c) Quarantined swine are accompanied by a shipping permit (VS 
+Form 1–27) and are conveyed in sealed vehicles. 
+ 
+d. Interstate movements of swine from  infected herds in multisite production 
+ 
+ 19 
+systems must be made as part of a herd-cleanup plan approved by the 
+State Veterinarians of the originating and recipient States. 
+ 
+5. Intrastate movements are controlled as necessary to meet State needs. 
+ 
+Movement of quarantined swine between multiple-site production units may be 
+approved under the following guidelines:  (1) The breeding herds must be 
+vaccinated at least twice a year with a differentiable virus vaccine; (2) 
+Movement of breeding stock, either from one site to another or from the final 
+site, shall be intrastate only; (3) Such movement shall be part of a 
+State-approved cleanup plan that will provide a maximum of 18 months for 
+elimination of the virus from the infected breeding herd; (4) Progeny shall be 
+tested monthly; (5) Before movement of progeny as breeding stock, 100 
+percent of the progeny must be tested. 
+ 
+
+Text Len: 1569
+--------------------------------------------------------------------------------
+3) Such movement shall be part of a 
+State-approved cleanup plan that will provide a maximum of 18 months for 
+elimination of the virus from the infected breeding herd; (4) Progeny shall be 
+tested monthly; (5) Before movement of progeny as breeding stock, 100 
+percent of the progeny must be tested. 
+ 
+6. Transmission of pseudorabies virus from wild or feral swine shall be controlled 
+as follows: 
+ 
+a. Any swine that have had known exposure to wild or feral swine must be 
+separated from wild or feral swine and quarantined until released in 
+accordance with Part IV, subpart IV. 
+ 
+b. Wild or feral swine may be moved to immediate slaughter.  Movement to 
+hunting preserves or game farms is not classified as shipment to slaughter. 
+ 
+c. Wild or feral swine moved to hunting preserves or game farms, or for 
+exhibition, or feeding, must test negative on an official pseudorabies test 
+conducted within 30 days prior to shipment under permit of the State animal 
+health official. 
+ 
+d. Wild or feral swine moved for breeding purposes must be held separate and 
+apart from all swine for 90 days and must test negative on two official 
+pseudorabies tests conducted at least 60 days apart. 
+ 
+B. Disposition of quarantined herds  
+ 
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the quarantine 
+date. 
+ 
+Quarantines issued
+Text Len: 1560
+--------------------------------------------------------------------------------
+
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the quarantine 
+date. 
+ 
+Quarantines issued after January 1, 1998, must be released by January 1, 2000. 
+ 
+ 20 
+ 
+These time frames must be included in all herd-cleanup plans. 
+ 
+C. Duration of status  
+ 
+Twelve to 14 months following assignment of Stage II status by Veterinary Services, a 
+State/Area must (1) certify that it meets the requirements of a higher Program Stage; or 
+(2) indicate that it continues to meet Stage II requirements, utilizing the same 
+certification procedure as followed initially; and (3) demonstrate progress in herd 
+cleanup consistent with the goal of eradication by the year 2000 by, at a minimum, 
+meeting the following provisions:  (A) herd-cleanup plans written on all herds within 30 
+days of quarantine; (B) all herd plans reviewed semiannually and revised as necessary; 
+(C) all quarantined breeding herds must be tested by a whole-herd test every 30 days.  
+All sows and boars testing positive for pseudorabies virus must be removed for 
+slaughter or isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is
+Text Len: 1622
+--------------------------------------------------------------------------------
+ isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is released; (E) unless otherwise determined by the State Veterinarian and 
+the pseudorabies epidemiologist, all swine in quarantined herds and all swine in herds 
+located within 2 miles of a quarantined herd must be vaccinated for pseudorabies.  
+States failing to recertify as required will be reviewed by the National Pseudorabies 
+Control Board and may lose their Stage II status. 
+ 
+ 
+Stage III—Mandatory Herd Cleanup  
+ 
+In this stage, the cleanup of infected herds becomes mandatory.  The State 
+pseudorabies committee shall provide time limits for developing and completing official 
+pseudorabies herd-cleanup plans in conformity with Section C.  An official pseudorabies 
+epidemiologist will consult with the herd owner and his or her veterinary practitioner, 
+when applicable, to develop a mutually acceptable official pseudorabies herd-cleanup.  
+This plan should be based on the strategies outlined in the Livestock Conservation 
+Institute's Swine Pseudorabies Eradication Guidelines.  The attending accredited 
+veterinarian should play a major role in selecting and implementing herd-cleanup plans. 
+ Pseudorabies prevalence in the affected community must be determined for all groups 
+of swine, including swine in feedlots. 
+ 
+A. To qualify for Stage III recognition, the application for Program status shall 
+provide documentation as follows:
+Text Len: 1702
+--------------------------------------------------------------------------------
+ accredited 
+veterinarian should play a major role in selecting and implementing herd-cleanup plans. 
+ Pseudorabies prevalence in the affected community must be determined for all groups 
+of swine, including swine in feedlots. 
+ 
+A. To qualify for Stage III recognition, the application for Program status shall 
+provide documentation as follows: 
+ 
+1. The standards of Stage II are implem ented and, with the endorsement of the 
+State pseudorabies committee, the State animal health official is implementing 
+mandatory herd-cleanup procedures. 
+ 
+ 
+ 21 
+2. Epidemiology 
+ 
+a. Swine movements into and out of infe cted premises or premises suspected 
+of being infected are traced, and the status of receiving and source herds is 
+appropriately established by either a test of all breeding swine or an official 
+random-sample test. 
+ 
+b. All swine units, including feedlots within a 1.5-mile (2.4-kilometer) radius of 
+infected premises, are monitored either by a test of all breeding swine or by 
+an official random-sample test. 
+ 
+c. The State prevalence of infected herds is 1 percent or less, based on 
+surveillance testing that meets the requirements of section 3, below. 
+ 
+3. Surveillance 
+ 
+a. Surveillance by slaughter or first-point testing: 
+ 
+At least 10 percent of the breeding swine population is surveyed annually 
+using an official pseudorabies serologic test with at least 80-percent 
+successful traceback of seropositives to the farm of origin, or testing and 
+traceback to achieve a surveillance index of 0.08.  Current data from the 
+National Agricultural Statistics Service, USDA
+Text Len: 1599
+--------------------------------------------------------------------------------
+ 
+ 
+At least 10 percent of the breeding swine population is surveyed annually 
+using an official pseudorabies serologic test with at least 80-percent 
+successful traceback of seropositives to the farm of origin, or testing and 
+traceback to achieve a surveillance index of 0.08.  Current data from the 
+National Agricultural Statistics Service, USDA, on breeding swine 
+populations will be used to calculate surveillance data.  The surveillance 
+program must be random and must be representative of all herds in the 
+State.  Tests of swine from premises currently known to be infected may not 
+be included in totals to meet the requirements of this section. 
+ 
+Only two specific forms of surveillance testing may be included in the 
+surveillance index calculation:  (1) samples collected at slaughter, and (2) 
+samples collected at markets (first point). 
+ 
+If sows and boars from herds tested for other purposes (e.g., feeder-pig 
+monitoring, circle testing, etc.) can be eliminated from the population being 
+tested at slaughter or first point, then the number of sows in such herds can 
+be deducted from the population to be sampled for surveillance.  
+Applications for status for States/Areas taking advantage of this provision 
+must explain how this is being accomplished. 
+ 
+b. Surveillance by herd testing: 
+ 
+If an official random sample test (95/10) or a monitored herd test is used, 25 
+percent of the herds or 10 percent of the breeding swine in the Stage III 
+area must be tested annually. 
+ 
+ 
+ 22 
+If an official random-sample test (95/20) is used, 33 percent of the herds in 
+the Stage III area must be tested annually. 
+
+Text Len: 1636
+--------------------------------------------------------------------------------
+10) or a monitored herd test is used, 25 
+percent of the herds or 10 percent of the breeding swine in the Stage III 
+area must be tested annually. 
+ 
+ 
+ 22 
+If an official random-sample test (95/20) is used, 33 percent of the herds in 
+the Stage III area must be tested annually. 
+ 
+Herds to be tested must be selected randomly during the surveillance 
+period.  Herds are eligible for selection when more than 12 months have 
+elapsed since the last herd test.  Quarantined herds are not eligible for 
+selection. 
+ 
+4. Vaccination 
+ 
+Vaccination may be permitted by the State animal health official as part of an 
+approved herd-cleanup plan and in area control programs. 
+ 
+5. Transmission of pseudorabies virus from wild or feral swine shall be controlled 
+as follows: 
+ 
+Regulations to prevent virus transmission from wild or feral to domestic swine 
+within the State are implemented.  
+ 
+B. During Stage III:  
+ 
+1. Information and education efforts are intensified. 
+ 
+2. The effectiveness of regulations is monitored, and enforcement is strengthened 
+as necessary. 
+ 
+3. Industry commitment for Program advancement is secured. 
+ 
+4. Epidemiologic evaluation of Program activities is utilized. 
+ 
+5. Swine may not be moved from a quar antined herd to any location within a 
+Stage III area unless part of the herd was at this location when the original herd 
+quarantine was issued or such movement is required as part of an approved 
+herd-cleanup plan. 
+ 
+C. Disposition of quarantined herds  
+Owners of quarantined herds must complete their cleanup plans and
+Text Len: 1561
+--------------------------------------------------------------------------------
+ antined herd to any location within a 
+Stage III area unless part of the herd was at this location when the original herd 
+quarantine was issued or such movement is required as part of an approved 
+herd-cleanup plan. 
+ 
+C. Disposition of quarantined herds  
+Owners of quarantined herds must complete their cleanup plans and fulfill the 
+requirements for quarantine release as follows: 
+ 
+Quarantines issued before January 1, 1997, must be released by January 1, 
+1999. 
+ 
+Quarantines issued during 1997 must be released within 24 months from the 
+quarantine date. 
+ 
+ 
+ 23 
+Quarantines issued after January 1, 1998, must be released by January 1, 
+2000. 
+ 
+These time frames must be included in all herd-cleanup plans. 
+ 
+D. Duration of status  
+ 
+Twelve to 14 months following assignment of Stage III status by Veterinary Services, a 
+State/Area must (1) certify that it meets the requirements of a higher program stage, or 
+(2) indicate that it continues to meet Stage III requirements, utilizing the same 
+certification procedure as followed initially, and demonstrate progress in herd cleanup 
+consistent with the goal of eradication by the year 2000, by, at a minimum, meeting the 
+following  provisions:  (A) herd-cleanup plans written on all herds within 30 days of 
+quarantine; (B) all herd plans reviewed semiannually and revised as necessary; (C) all 
+quarantined breeding herds must be tested by a whole-herd test every 30 days.  All 
+sows and boars testing positive for pseudorabies virus must be removed for slaughter 
+or isolation for slaughter within 15 days after test results are
+Text Len: 1597
+--------------------------------------------------------------------------------
+ of 
+quarantine; (B) all herd plans reviewed semiannually and revised as necessary; (C) all 
+quarantined breeding herds must be tested by a whole-herd test every 30 days.  All 
+sows and boars testing positive for pseudorabies virus must be removed for slaughter 
+or isolation for slaughter within 15 days after test results are reported; (D) all 
+quarantined continuous-flow finishing sites must be tested every 45 days with an official 
+random sample test (95/10).  If two consecutive tests detect pigs positive for 
+pseudorabies virus, no additions of swine may be made to the premises until the 
+quarantine is released; (E) unless otherwise determined by the State Veterinarian and 
+the pseudorabies epidemiologist, all swine in quarantined herds and all swine in herds 
+located within 2 miles of a quarantined herd must be vaccinated for pseudorabies.  
+States failing to recertify as required will be reviewed by the National Pseudorabies 
+Control Board and may lose their Stage III status. 
+ 
+In the event that the prevalence of infected herds exceeds 1 percent at any time during 
+the recertification period, the national coordinator for Veterinary Services shall be 
+notified immediately.  Such notification shall be followed by a written explanation for 
+review and consideration by the National Pseudorabies Control Board. 
+ 
+ 
+Stage IV—Surveillance  
+ 
+To qualify for Stage IV recognition, the following requirements shall be met: 
+ 
+A. The application for Program status sh all demonstrate that the standards of 
+Stage III are in effect and shall document that: 
+ 
+1. There is no known infection in the State/Area and the surveillance program 
+required for Stage III has been in
+Text Len: 1690
+--------------------------------------------------------------------------------
+veillance  
+ 
+To qualify for Stage IV recognition, the following requirements shall be met: 
+ 
+A. The application for Program status sh all demonstrate that the standards of 
+Stage III are in effect and shall document that: 
+ 
+1. There is no known infection in the State/Area and the surveillance program 
+required for Stage III has been in effect for at least 2 years. 
+ 
+2. The State/Area has and enforces regul atory authority requiring farm-of-origin 
+identification of cull sows and boars. 
+ 
+ 
+ 24 
+3. No new cases of pseudorabies were confirmed during the year prior to 
+application for Stage IV status, except as follows:  In the event of an isolated 
+case, application for Stage IV status may be made if the affected herd was 
+disposed of within 15 days after test results were reported with no spread to 
+additional premises as determined by testing of all exposed herds and all swine 
+herds within 2 miles of the new case with an official random sample test (95/5). 
+ Testing of the above herds must be accomplished, with negative results, no 
+earlier than 30 days and no later than 60 days after cleanup.   
+ 
+4. States must develop and adopt a m anagement plan that adequately separates 
+and addresses controls of the interface of feral and transitional production 
+swine with commercial production swine.  The plan is to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+B. Surveillance of breeding herds must be continued at the same rate required 
+for Stage III. 
+ 
+C. Certification, with respect to f eedlots on premises on which there are no 
+breeding animals, must show that:
+Text Len: 1657
+--------------------------------------------------------------------------------
+ to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+B. Surveillance of breeding herds must be continued at the same rate required 
+for Stage III. 
+ 
+C. Certification, with respect to f eedlots on premises on which there are no 
+breeding animals, must show that: 
+ 
+1. Such feedlots have been included in a down-the-road herd-testing program, or 
+ 
+2. Such herds will be monitored by slaughter or first-point surveillance of butcher 
+hogs, or 
+ 
+3. During the period since the last case in a State/Area has been cleaned up, such 
+herds  
+ 
+a. Have been negative to an official rando m-sample test (95/10) as defined in 
+these Standards, or 
+ 
+b. Have undergone a 30-day depopulation with appropriate cleaning and 
+disinfection. 
+ 
+4. Any feedlots not tested under the provisi ons of this part must be operated all-in 
+and all-out by premises. 
+ 
+D. Vaccination is prohibited except by pe rmission of the State animal health 
+official in high-risk herds or as part of an approved herd-cleanup plan. 
+ 
+E. Swine import requirements shall be as follows:  
+ 
+1. Slaughter swine 
+ 
+ 
+ 25 
+a. Infected or exposed swine may be shipped through or into a Stage IV 
+State/Area with prior written approval from the State Veterinarian and must 
+move directly to a recognized slaughter establishment.  Such swine must 
+be accompanied by a shipping permit (VS Form 1–27), be conveyed in 
+sealed vehicles
+Text Len: 1453
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 25 
+a. Infected or exposed swine may be shipped through or into a Stage IV 
+State/Area with prior written approval from the State Veterinarian and must 
+move directly to a recognized slaughter establishment.  Such swine must 
+be accompanied by a shipping permit (VS Form 1–27), be conveyed in 
+sealed vehicles, and be unloaded under the supervision of State or Federal 
+officials to ensure that biosecurity measures are observed. 
+ 
+b. Imports of slaughter swine from States  or Areas with a Program status up to 
+and including Stage III are permitted to a recognized slaughter 
+establishment or an approved slaughter market only. 
+ 
+2. Breeding swine 
+ 
+a. Direct shipment from a Stage IV or V State/Area, or 
+ 
+b. Direct shipment from a qualif ied pseudorabies-negative herd in any 
+State/Area, or 
+ 
+c. Negative official pseudorabies serologic test within 30 days prior to 
+shipment with quarantine, isolation, and retest at destination in 30–60 days 
+following importation. 
+ 
+3. Feeder pigs 
+ 
+a. Direct shipment from a farm of orig in or a market in a Stage IV or V 
+State/Area, or 
+ 
+b. Direct shipment from a farm of or igin in a Stage III State/Area, or 
+ 
+c. Direct shipment from a qualified pseudorabies-negative herd or qualified-
+negative gene-altered vaccinated herd, or 
+ 
+d. Entry is allowed into Stage IV St ates/Areas from feeder-pig-monitored 
+herds in Stage II States or from approved feeder-pig markets under the 
+following conditions: 
+Text Len: 1463
+--------------------------------------------------------------------------------
+
+c. Direct shipment from a qualified pseudorabies-negative herd or qualified-
+negative gene-altered vaccinated herd, or 
+ 
+d. Entry is allowed into Stage IV St ates/Areas from feeder-pig-monitored 
+herds in Stage II States or from approved feeder-pig markets under the 
+following conditions: 
+ 
+(1) That the swine enter on permit directly to a designated feedlot; 
+ 
+(2) That the swine be restricted to the designated feedlot until they are 
+sent to slaughter. 
+ 
+F. Intrastate swine movements —no restrictions.  
+ 
+G. Duration of status  
+ 
+ 
+ 26 
+Twelve to 14 months following assignment of Stage IV status by Veterinary 
+Services, a State/Area must (1) indicate that it continues to meet the Stage IV 
+requirements, utilizing the same certification procedures as followed initially, or (2) 
+certify that it meets the requirements of another Program Stage.  States/Areas 
+failing to recertify as required will automatically lose their Stage IV status. 
+ 
+In the event of a confirmed case of pseudorabies in commercial production swine, 
+the national program coordinator for Veterinary Services shall be notified 
+immediately, and the county or counties within a 2-mile radius of the new case will 
+revert to Stage III status (except as noted below) until 60 days following cleanup 
+and quarantine release.  During the 60 days following quarantine release, and 
+before Stage IV status is reinstated, all exposed herds and all swine herds within 2 
+miles of the new case must be tested with an official random sample test (95/5) and 
+be found negative. 
+ 
+The national pseudorabies coordinator and
+Text Len: 1597
+--------------------------------------------------------------------------------
+ until 60 days following cleanup 
+and quarantine release.  During the 60 days following quarantine release, and 
+before Stage IV status is reinstated, all exposed herds and all swine herds within 2 
+miles of the new case must be tested with an official random sample test (95/5) and 
+be found negative. 
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 states 
+within 24 hours.  Such notification is to include the location of the break and the 
+circumstances surrounding the case, including herd size, clinical signs, and type of 
+herd. 
+ 
+Immediately after a confirmed case is identified in commercial production swine, all 
+movement of swine from herds within a five-mile radius of the case and from 
+exposed herds must be stopped until such herds are tested and found to be 
+negative using an official random sample test (95/5).  Testing must be completed 
+within 15 days of identifying the infected herd. 
+ 
+If one or more counties revert to Stage III, animal health officials from the State 
+where a confirmed case occurs in commercial production swine must immediately 
+notify producers and veterinarians that breeding swine from the affected counties 
+must again be tested for pseudorabies within 30 days prior to interstate shipment. 
+ 
+If the newly infected herd is isolated and disposed of within 15 days after test results 
+are reported to State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage IV status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results, no
+Text Len: 1785
+--------------------------------------------------------------------------------
+
+are reported to State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage IV status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results, no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+ 
+ 
+Stage V—Free 
+ 
+This is the stage in which a State is declared pseudorabies free. 
+ 
+ 27 
+ 
+A. To qualify for this final surveillance stage, the application for Program status 
+shall provide evidence that the State is implementing the standards of Stage 
+IV. 
+ 
+B. In addition, the State must document that:  
+ 
+1. The State has been free of pseudorabies for 1 year since recognition of Stage 
+IV status. 
+ 
+2. Surveillance of breeding herds has been continued at one-half the rate required 
+for Stage III and Stage IV.  Once all States have achieved Stage IV or V status, 
+surveillance will no longer be required to maintain Stage V status in states that 
+have maintained Stage V status for five consecutive years, have had no 
+confirmed cases of pseudorabies during the same period, and have 
+demonstrated that no feral swine exist in the state. 
+ 
+3. Swine imports are controlled as follows: 
+ 
+a. Slaughter swine —same as Stage IV; 
+ 
+b. Breeding swine —same as Stage IV; 
+ 
+c. Feeder pigs —same as Stage IV. 
+ 
+4. Vaccination is not permitted except by  permit from the State Veterinarian in 
+certain
+Text Len: 1526
+--------------------------------------------------------------------------------
+. Swine imports are controlled as follows: 
+ 
+a. Slaughter swine —same as Stage IV; 
+ 
+b. Breeding swine —same as Stage IV; 
+ 
+c. Feeder pigs —same as Stage IV. 
+ 
+4. Vaccination is not permitted except by  permit from the State Veterinarian in 
+certain high-risk herds. 
+ 
+5. Intrastate swine movements—no restrictions. 
+ 
+6. States must develop and adopt a m anagement plan that adequately separates 
+and addresses controls of the interface of feral and transitional production 
+swine with commercial production swine.  The plan is to be reviewed by the 
+Control Board and Veterinary Services, National Center for Animal Health 
+Programs staff. 
+ 
+C.  Duration of status 
+ 
+Twelve to 14 months following assignment of Stage V status by Veterinary 
+Services, a State/Area must indicate that it continues to meet Stage V 
+requirements, utilizing the same certification as followed initially.  States/Areas 
+failing to recertify as required will automatically lose their Stage V status. 
+ 
+In the event of a confirmed case of pseudorabies in commercial production swine, 
+the national program coordinator for Veterinary Services shall be notified 
+ 
+ 28 
+immediately, and the county or counties within a 2-mile radius of the new case will 
+revert to Stage III status (except as noted below) and all other counties in the State 
+will revert to Stage IV status.  Stage IV status for the affected county may be 
+reinstated as outlined under Stage IV requirements.  
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 States 
+within 24 hours
+Text Len: 1635
+--------------------------------------------------------------------------------
+ as noted below) and all other counties in the State 
+will revert to Stage IV status.  Stage IV status for the affected county may be 
+reinstated as outlined under Stage IV requirements.  
+ 
+The national pseudorabies coordinator and officials from the State where a 
+confirmed case in commercial production swine occurs must notify all 50 States 
+within 24 hours.  Such notification is to include the location of the break and the 
+circumstances surrounding the case, including herd size, clinical signs, and type of 
+herd. 
+ 
+Immediately after a confirmed case is identified in commercial production swine, all 
+movement of swine from herds within a five-mile radius of the case and from 
+exposed herds must be stopped until such herds are tested and found to be 
+negative using an official random sample test (95/5).  Testing must be completed 
+within 15 days of identifying the infected herd. 
+ 
+If one or more counties revert to Stage III, officials from the state where a confirmed 
+case occurs in commercial production swine must immediately notify producers and 
+veterinarians that breeding swine from the affected counties must again be tested 
+for pseudorabies within 30 days prior to interstate shipment. 
+ 
+If the newly infected herd is isolated and disposed of within 15 days after test results 
+are reported to the State animal health officials, and there is no spread to additional 
+premises as determined by testing of all exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage V status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+Part IV—Participation in Herd
+Text Len: 1755
+--------------------------------------------------------------------------------
+ exposed herds and all swine herds within 2 
+miles of the new case with an official random sample test (95/5), Stage V status 
+may be maintained.  Testing of the above herds must be accomplished, with 
+negative results no earlier than 30 days and no later than 60 days after cleanup. 
+ 
+ 
+Part IV—Participation in Herd Plans and Release of Quarantines 
+ 
+Subpart I—The Qualified Pseudorabies-Negative Herd 
+ 
+A. Establishment of a qualified pse udorabies-negative (QN) breeding herd: 
+ 
+1. For breeding herds, QN status is atta ined by (1) subjecting to an official 
+pseudorabies serologic test all swine over 6 months of age plus a number of 
+progeny equal to 20 percent of the breeding swine population of the herd, and 
+(2) finding that all swine are negative to the test.  Progeny shall be randomly 
+selected from swine between 4 and 6 months of age.  The herd must not have 
+been a known infected herd within the 30 days prior to the qualifying test.  A 
+minimum of 90 percent of the swine in the herd must have been on the 
+premises and a part of the herd for at least 60 days prior to the qualifying official 
+pseudorabies serologic test or have entered by direct shipment from another 
+ 
+ 29 
+QN herd. 
+ 
+2. When all swine are shipped directly fr om existing QN herds, a new QN breeding 
+herd may be established if, within 30 days of arrival, all swine in the initial 
+shipment (up to 50 animals) are tested and found negative to an official 
+pseudorabies serologic test.
+Text Len: 1479
+--------------------------------------------------------------------------------
+ 
+QN herd. 
+ 
+2. When all swine are shipped directly fr om existing QN herds, a new QN breeding 
+herd may be established if, within 30 days of arrival, all swine in the initial 
+shipment (up to 50 animals) are tested and found negative to an official 
+pseudorabies serologic test. 
+ 
+3. Any breeding herd in a Stage IV or V State/Area is recognized as a QN herd. 
+ 
+B. QN breeding herd status may be maintained by monthly or quarterly 
+pseudorabies testing as follows: 
+ 
+1. Monthly testing: 
+ 
+a. Every 30 days, conduct an official pseudorabies serologic test of 7 percent 
+of all breeding swine 6 months of age or older, and test a number of 
+offspring 4 to 6 months of age located on the same premises as the 
+breeding herd equal to 2 percent of the breeding animals in the herd, or 
+ 
+b. On approval of the State Veteri narian, herds in Stage III, IV, or V 
+States/Areas may maintain status on the basis of a monthly negative official 
+random sample test (95/5) in each separate population of breeding swine 
+on a premises, and a monthly test of 50 offspring 4 to 6 months of age 
+located on the same premises as the breeding herd.  Sampling in the 
+population must be random and the testing protocol in the herd must be a 
+part of the approval.  Progeny must be selected at random from all groups 
+on the premises. 
+ 
+c. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult
+Text Len: 1481
+--------------------------------------------------------------------------------
+ random and the testing protocol in the herd must be a 
+part of the approval.  Progeny must be selected at random from all groups 
+on the premises. 
+ 
+c. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult breeding swine are maintained. 
+ 
+2. Quarterly testing: 
+ 
+a. Every 80 to 105 days, conduct an official pseudorabies serologic test of 20 
+percent of all breeding swine 6 months of age or older, and test a number of 
+offspring 4 to 6 months of age located on the same premises as the 
+breeding herd equal to 6 percent of the breeding animals in the herd. 
+ 
+b. Progeny testing on multisite herds is covered in item D. on pages 25 –26 
+regarding establishment and maintenance of QN growout premises on 
+which no adult breeding swine are maintained. 
+ 
+3. All swine tested shall be randomly select ed and, in the case of the adult swine, 
+representative of all age groups on the premises. 
+ 
+ 30 
+ 
+4. All swine intended to be added to a QN herd shall be isolated until they are 
+negative to an official pseudorabies serologic test conducted 30 days or more 
+following their placement in isolation except: 
+ 
+a. Swine from a herd of unknown status must be negative to an official 
+pseudorabies serologic test not more than 30 days prior to movement, with 
+a second test in isolation at least 30 days after movement. 
+ 
+b. Swine intended to augment a QN herd and coming directly from another 
+QN herd may be added without isolation or testing
+Text Len: 1549
+--------------------------------------------------------------------------------
+. Swine from a herd of unknown status must be negative to an official 
+pseudorabies serologic test not more than 30 days prior to movement, with 
+a second test in isolation at least 30 days after movement. 
+ 
+b. Swine intended to augment a QN herd and coming directly from another 
+QN herd may be added without isolation or testing. 
+ 
+c. Swine intended to be added to a QN herd from another QN herd, but with 
+interim contact with swine other than those from a QN herd, shall be 
+isolated until they have been found negative to an official pseudorabies 
+serologic test, conducted 30 days or more after the swine have been placed 
+in isolation. 
+ 
+C. Reestablishment of QN breeding herd status following confirmation of 
+infection in the herd  
+ 
+1. A QN herd that has been determined to  be infected with pseudorabies virus 
+may qualify for reinstatement as a QN herd if: 
+ 
+a. All swine in the herd 6 months of  age and over are negative to an official 
+pseudorabies serologic test, and 
+ 
+b. An official random-sample (95/10) test of progeny 2 –6 months of age is 
+conducted and all swine tested are negative, and 
+ 
+c. In 30 or more days, the testing described in a and b above is repeated. 
+ 
+2. If on a qualifying official pseudorabies se rologic test or any subsequent official 
+pseudorabies test, any swine test positive, QN herd status is suspended until 
+the infection status of the herd is determined by an investigation conducted by 
+an official pseudorabies epidemiologist. 
+ 
+3. The
+Text Len: 1496
+--------------------------------------------------------------------------------
+ above is repeated. 
+ 
+2. If on a qualifying official pseudorabies se rologic test or any subsequent official 
+pseudorabies test, any swine test positive, QN herd status is suspended until 
+the infection status of the herd is determined by an investigation conducted by 
+an official pseudorabies epidemiologist. 
+ 
+3. The official pseudorabies epidemiologist  will consider the following factors in 
+determining the presence or absence of pseudorabies in the herd: 
+ 
+a. The specific titers of titered swine; 
+ 
+b. The percentage and number of titered swine; 
+ 
+c. The vaccination history of titered swine; 
+ 
+ 31 
+ 
+d. Proximity and pseudorabies virus infe ction status of  neighboring herds; 
+ 
+e. The possibility of laboratory or  sample identification error; 
+ 
+f. Other pertinent herd history and clinical signs. 
+ 
+4. Based on the above information obtained by the official pseudorabies 
+epidemiologist, a final determination of infection status will be made; however, 
+before QN herd status may be attained or maintained, all seropositive swine 
+must either: 
+ 
+a. Be sold for slaughter, and a complete herd test conducted at least 30 days 
+later must be negative; or 
+ 
+b. Be negative to an official pseudorabies serologic test. 
+ 
+D. Establishment and maintenance of QN growout premises on which no adult 
+breeding swine are maintained: 
+ 
+Situation 1 
+ 
+Herd A ---------------> Herd B ---------------> Herd C 
+QN breeding herd(s)     Growout     
+Text Len: 1456
+--------------------------------------------------------------------------------
+ pseudorabies serologic test. 
+ 
+D. Establishment and maintenance of QN growout premises on which no adult 
+breeding swine are maintained: 
+ 
+Situation 1 
+ 
+Herd A ---------------> Herd B ---------------> Herd C 
+QN breeding herd(s)     Growout                 Sales Point 
+ 
+Situation 2 
+ 
+Herd A --------------------------------------> Herd C 
+QN breeding herd(s)                            Sales Point 
+ 
+Pigs moved from herd(s) A within 1 week of weaning are not required to be 
+pseudorabies tested. 
+ 
+Herd B 
+ 
+QN status may be attained and maintained by monthly negative official random sample 
+tests (95/5) beginning within 30 days after establishment of the herd, except that in all-
+in/all-out units, 1 test of 50 head is required of each group.  If herds A, B, and C are in 
+the same State and program stage, this testing is not required. 
+ 
+Herd C 
+QN status is attained by a negative official pseudorabies serologic test of the entire 
+initial shipment or 50 head selected at random, whichever is less. 
+ 
+QN status may be maintained by a monthly negative official pseudorabies serologic test 
+ 
+ 32 
+of 50 swine selected at random from those that have been in the herd at least 30 days, 
+except that in all-in/all-out units, 1 test of 50 head is required of each group.  Each 
+segregated group of
+Text Len: 1310
+--------------------------------------------------------------------------------
+ 
+QN status may be maintained by a monthly negative official pseudorabies serologic test 
+ 
+ 32 
+of 50 swine selected at random from those that have been in the herd at least 30 days, 
+except that in all-in/all-out units, 1 test of 50 head is required of each group.  Each 
+segregated group of swine on an individual premises must be considered a separate 
+herd. 
+ 
+Subpart II—The Qualified-Negative Gene-Altered Vaccinated (QNV) Herd  
+ 
+Qualified-negative gene-altered vaccinated (QNV) herd status is attained and 
+maintained under the same guidelines as for qualified pseudorabies-negative (QN) herd 
+status, except that swine may be vaccinated with an approved gene-deleted 
+pseudorabies virus vaccine, and testing may be completed using an official 
+pseudorabies serologic test. 
+ 
+Subpart III—The Pseudorabies-Monitored Feeder-Pig Herd 
+ 
+A. Monitored status in Stage II States or Areas  
+ 
+1. For breeding herds, pseudorabies-monitor ed feeder-pig status is attained when 
+the herd has been sampled and was negative to an official pseudorabies 
+serologic test during the last 12 months at the following rate: 
+ 
+   10 head—test all  
+11–35 head—test 10 
+36 or more—test 30 percent or 30, whichever is less 
+ 
+Tested breeding swine are to be selected at random from all age groups, 
+including herd boars, and all age groups are to be proportionately represented. 
+ 
+2. An offsite nursery that is not other wise part of a pseud
+Text Len: 1432
+--------------------------------------------------------------------------------
+
+11–35 head—test 10 
+36 or more—test 30 percent or 30, whichever is less 
+ 
+Tested breeding swine are to be selected at random from all age groups, 
+including herd boars, and all age groups are to be proportionately represented. 
+ 
+2. An offsite nursery that is not other wise part of a pseudorabies-monitored herd, 
+to which pigs have been moved within 1 week of weaning from pseudorabies-
+monitored feeder-pig herds, may be recognized as a pseudorabies-monitored 
+feeder-pig herd on the basis of a negative official random sample test (95/10) 
+as determined by an official pseudorabies epidemiologist.  The required tests 
+must be conducted within 30 days prior to movement out of the offsite nursery. 
+ 
+An official random sample test (95/10) as determined by an official 
+pseudorabies epidemiologist must be conducted on each group of pigs moving 
+through the offsite nursery.  In the case of a continuous-flow facility, monthly 
+tests (95/10) must be conducted. 
+ 
+B. Monitored status in Stage III, IV, or V States or Areas  
+ 
+1. Any breeding herd in a Stage III, IV, or V State or Area not known to be infected 
+is recognized as a pseudorabies-monitored feeder-pig herd. 
+ 
+ 
+ 33 
+2. Offsite nurseries in Stage III, IV, or V States or Areas shall be recognized as 
+pseudorabies-monitored feeder-pig herds if all pigs in the nurseries come from 
+breeding herds in Stage III, IV, or V States or Areas.  If part of the pigs in the 
+offs
+Text Len: 1440
+--------------------------------------------------------------------------------
+
+ 
+ 
+ 33 
+2. Offsite nurseries in Stage III, IV, or V States or Areas shall be recognized as 
+pseudorabies-monitored feeder-pig herds if all pigs in the nurseries come from 
+breeding herds in Stage III, IV, or V States or Areas.  If part of the pigs in the 
+offsite nursery originate from a Stage II area, the nursery must be tested as 
+outlined in Part A of this section. 
+ 
+C. Monitored status in the vaccinated swine breeding herd is attained and 
+maintained as outlined in parts A and B of this section. 
+ 
+Subpart IV—Quarantine Release Procedures  
+ 
+A herd of swine shall no longer be classified as a known infected herd when no livestock 
+or other animals on the premises show clinical signs of pseudorabies after removal of 
+the positive swine, and at least one of the four following conditions has been met.  
+Additionally, if the herd is vaccinated, all vaccinates must be vaccinated with the same 
+official gene-altered pseudorabies virus vaccine. 
+ 
+A. All swine were removed from the premises; the premises were cleaned and 
+disinfected under official supervision with a disinfectant approved by 
+Veterinary Services for such use; and the premises have been maintained free 
+of swine for 30 days or a period of time determined adequate by an official 
+pseudorabies epidemiologist. 
+ 
+B. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises and all 
+remaining swine, except suckling pigs, were subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+Text Len: 1607
+--------------------------------------------------------------------------------
+abies epidemiologist. 
+ 
+B. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises and all 
+remaining swine, except suckling pigs, were subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+or more after removal of all positive swine. 
+ 
+C. All swine positive to an official p seudorabies serologic test or an approved 
+differential pseudorabies test have been removed from the premises; all 
+breeding swine that remain in the herd and an official random sample (95/10) 
+of grower-finishing swine over 2 months of age are subjected to an official (or 
+approved differential) pseudorabies serologic test and found negative 30 days 
+or more after removal of positive swine.  A second test of grower-finishing 
+swine at least 30 days after the first is required if the State is in Stage III or IV 
+of the Program. 
+ 
+D. (Stage I, II, and III only)  All swine present on the date the quarantine was 
+imposed have been removed, and there have been no clinical signs in the 
+herd for at least 6 months.  Two successive official (or approved differential) 
+random-sample (95/10) tests of the breeding herd [95/5 for Stage III States], 
+conducted at least 90 days apart, have been determined by the official 
+pseudorabies epidemiologist to reveal no infection, and two successive 
+ 
+ 34 
+official (or approved differential) random-sample (95/10) tests of progeny at 
+least 4 months of age, conducted at least 90 days apart, are negative
+Text Len: 1574
+--------------------------------------------------------------------------------
+ Stage III States], 
+conducted at least 90 days apart, have been determined by the official 
+pseudorabies epidemiologist to reveal no infection, and two successive 
+ 
+ 34 
+official (or approved differential) random-sample (95/10) tests of progeny at 
+least 4 months of age, conducted at least 90 days apart, are negative.  Herds 
+removed from quarantine by this provision are required to be negative by an 
+official (or approved differential) random-sample (95/10) test 1 year after 
+quarantine release. 
+ 
+E. In nurseries or finishing herds wit hout any breeding swine and where no pigs 
+are received from quarantined premises, quarantines may be released as 
+follows: 
+ 
+(1) A negative official random sample te st (95/10), conducted at least 30 days 
+following depopulation with cleaning and disinfection (C&D) of the premises and 
+7 days’ down time, must be determined by the official pseudorabies 
+epidemiologist to reveal no infection; or 
+ 
+(2) A negative official random sample te st (95/5), conducted at least 30 days 
+following a negative official random sample test (95/10), must be determined by 
+the official pseudorabies epidemiologist to reveal no infection. 
+ 
+An official random sample test (95/10) must then be conducted between 60 and 90 days 
+following quarantine release. 
+ 
+References 
+Livestock Conservation Institute. 1990. Pseudorabies Herd Plan Manual (rev). Madison, 
+WI: Livestock Conservation Institute. 36 p. 
+Text Len: 1439
+--------------------------------------------------------------------------------

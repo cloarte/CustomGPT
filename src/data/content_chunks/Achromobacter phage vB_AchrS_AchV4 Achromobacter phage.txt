@@ -1,0 +1,2098 @@
+Registro #1:
+Virus(species) name: aalivirus A1 [TAX:1482734]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota;
+Pisoniviricetes; Picornavirales; Picornaviridae;
+Paavivirinae; Aalivirus; Aalivirus apekidu
+Host name: Anas platyrhynchos [TAX:8839]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Sauropsida; Sauria;
+Archelosauria; Archosauria; Dinosauria; Saurischia;
+Theropoda; Coelurosauria; Aves; Neognathae;
+Galloanserae; Anseriformes; Anatidae; Anatinae;
+Anas
+--------------------------------------------------------------------------------
+Registro #2:
+Virus(species) name: abaca bunchy top virus [TAX:3158377]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Mulpavirales;
+Nanoviridae; Babuvirus; Babuvirus abacae
+Host name: Musa acuminata AAA Group [TAX:214697]
+Host lineage: Eukaryota; Viridiplantae; Stre
+Text Len: 1027
+--------------------------------------------------------------------------------
+ia; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Mulpavirales;
+Nanoviridae; Babuvirus; Babuvirus abacae
+Host name: Musa acuminata AAA Group [TAX:214697]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; Liliopsida; Petrosaviidae;
+commelinids; Zingiberales; Musaceae; Musa;
+Musa acuminata
+--------------------------------------------------------------------------------
+Registro #3:
+Virus(species) name: Abalone herpesvirus Victoria/AUS/2009 [TAX:1241371]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Peploviricota; Herviviricetes; Herpesvirales;
+Malacoherpesviridae; Aurivirus;
+Aurivirus haliotidmalaco1
+Host name: Haliotis diversicolor [TAX:36095]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Spiralia; Lophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis
+--------------------------------------------------------------------------------
+Registro #4:
+Virus(species) name: Abalone shriveling syndrome-associated virus [TAX:491893]
+Virus
+Text Len: 1142
+--------------------------------------------------------------------------------
+ophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis
+--------------------------------------------------------------------------------
+Registro #4:
+Virus(species) name: Abalone shriveling syndrome-associated virus [TAX:491893]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Haliotis diversicolor aquatilis [TAX:37770]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Spiralia; Lophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis;
+Haliotis diversicolor
+--------------------------------------------------------------------------------
+Registro #5:
+Virus(species) name: Abelson murine leukemia virus [TAX:11788]
+Virus lineage: Viruses; Riboviria; Pararnavirae; Artverviricota;
+Revtraviricetes; Ortervirales; Retroviridae;
+Orthoretrovirinae; Gammaretrovirus;
+unclassified Gammaretrovirus
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathost
+Text Len: 1150
+--------------------------------------------------------------------------------
+aretrovirus;
+unclassified Gammaretrovirus
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Euarchontoglires; Glires; Rodentia;
+Myomorpha; Muroidea; Muridae; Murinae; Mus;
+Mus
+--------------------------------------------------------------------------------
+Registro #6:
+Virus(species) name: Abisko virus [TAX:2025595]
+Virus lineage: Viruses; Riboviria; unclassified Riboviria
+Host name: Epirrita autumnata [TAX:201501]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Endopterygota; Amphiesmenoptera; Lepidoptera;
+Glossata; Neolepidoptera; Heteroneura; Ditrysia;
+Obtectomera; Geometroidea; Geometridae;
+Larentiinae; Epirrita
+--------------------------------------------------------------------------------
+Registro #
+Text Len: 1111
+--------------------------------------------------------------------------------
+ Neoptera;
+Endopterygota; Amphiesmenoptera; Lepidoptera;
+Glossata; Neolepidoptera; Heteroneura; Ditrysia;
+Obtectomera; Geometroidea; Geometridae;
+Larentiinae; Epirrita
+--------------------------------------------------------------------------------
+Registro #7:
+Virus(species) name: Abras virus [TAX:2303487]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus abrasense
+Host name: Culex [TAX:53527]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Endopterygota; Diptera; Nematocera; Culicomorpha;
+Culicoidea; Culicidae; Culicinae; Culicini;
+Culex
+--------------------------------------------------------------------------------
+Registro #8:
+Virus(species) name: Abu Hammad virus [TAX:248058]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+N
+Text Len: 1077
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Registro #8:
+Virus(species) name: Abu Hammad virus [TAX:248058]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Nairoviridae; Orthonairovirus;
+Orthonairovirus abuhammadense
+Host name: Argas hermanni [TAX:44320]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Chelicerata; Arachnida; Acari;
+Parasitiformes; Ixodida; Ixodoidea; Argasidae;
+Argasinae; Argas
+--------------------------------------------------------------------------------
+Registro #9:
+Virus(species) name: Abu Mina virus [TAX:248059]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Nairoviridae; Orthonairovirus;
+Orthonairovirus abuminaense
+Host name: Streptopelia turtur [TAX:177155]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; S
+Text Len: 1098
+--------------------------------------------------------------------------------
+elia turtur [TAX:177155]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Sauropsida; Sauria;
+Archelosauria; Archosauria; Dinosauria; Saurischia;
+Theropoda; Coelurosauria; Aves; Neognathae;
+Neoaves; Columbimorphae; Columbiformes; Columbidae;
+Streptopelia
+--------------------------------------------------------------------------------
+Registro #10:
+Virus(species) name: Abutilon Brazil virus [TAX:665102]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Repensiviricetes; Geplafuvirales;
+Geminiviridae; Begomovirus
+Host name: Abutilon [TAX:3630]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae
+--------------------------------------------------------------------------------
+Registro #11:
+Virus(species) name: Abutilon golden mosaic Y
+Text Len: 1124
+--------------------------------------------------------------------------------
+ta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae
+--------------------------------------------------------------------------------
+Registro #11:
+Virus(species) name: Abutilon golden mosaic Yucatan virus [TAX:1312723]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Repensiviricetes; Geplafuvirales;
+Geminiviridae; Begomovirus;
+Begomovirus abutilonis
+Host name: Abutilon permolle [TAX:1312722]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae; Abutilon
+--------------------------------------------------------------------------------
+Registro #12:
+Virus(species) name: Acanthamoeba castellanii mamavirus [TAX:554168]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+unclassified Mimivirus
+Host name: Acanthamoeba castellanii [TA
+Text Len: 1121
+--------------------------------------------------------------------------------
+irus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+unclassified Mimivirus
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #13:
+Virus(species) name: Acanthamoeba castellanii medusavirus [TAX:2080449]
+Virus lineage: Viruses; unclassified viruses
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #14:
+Virus(species) name: Acanthamoeba polyphaga mimivirus [TAX:212035]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+Mimivirus bradfordmassiliense
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramo
+Text Len: 1128
+--------------------------------------------------------------------------------
+ales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+Mimivirus bradfordmassiliense
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #15:
+Virus(species) name: Acanthamoeba polyphaga moumouvirus [TAX:1269028]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Moumouvirus;
+Moumouvirus moumou
+Host name: Acanthamoeba polyphaga [TAX:5757]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #16:
+Virus(species) name: Acara virus [TAX:2748201]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus acaraense
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota;
+Text Len: 1085
+--------------------------------------------------------------------------------
+; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus acaraense
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Euarchontoglires; Glires; Rodentia;
+Myomorpha; Muroidea; Muridae; Murinae; Mus;
+Mus
+--------------------------------------------------------------------------------
+Registro #17:
+Virus(species) name: Acartia tonsa copepod circovirus [TAX:1168547]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Cirlivirales;
+Circoviridae; Circovirus; unclassified Circovirus
+Host name: Acartia tonsa [TAX:136180]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Crustacea;
+Multicrustacea; Hex
+Text Len: 1035
+--------------------------------------------------------------------------------
+a [TAX:136180]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Crustacea;
+Multicrustacea; Hexanauplia; Copepoda; Neocopepoda;
+Gymnoplea; Calanoida; Acartiidae;
+Acartia
+--------------------------------------------------------------------------------
+Registro #18:
+Virus(species) name: Acaryochloris phage A-HIS1 [TAX:645116]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acaryochloris marina MBIC11017 [TAX:329726]
+Host lineage: Bacteria; Bacillati; Cyanobacteriota/Melainabacteria group;
+Cyanobacteriota; Cyanophyceae; Acaryochloridales;
+Acaryochloridaceae; Acaryochloris;
+Acaryochloris marina
+--------------------------------------------------------------------------------
+Registro #19:
+Virus(species) name: Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Virus lineage: Viruses; unclassified bacterial viruses
+Host name: Acetoanaerobium noterae [TAX:745369]
+Host lineage: Bacteria; Bacillati; Bacillota; Clostridia;
+Peptostreptococcales; Filifactoraceae;
+Acetoanaer
+Text Len: 1144
+--------------------------------------------------------------------------------
+ [TAX:3141805]
+Virus lineage: Viruses; unclassified bacterial viruses
+Host name: Acetoanaerobium noterae [TAX:745369]
+Host lineage: Bacteria; Bacillati; Bacillota; Clostridia;
+Peptostreptococcales; Filifactoraceae;
+Acetoanaerobium
+--------------------------------------------------------------------------------
+Registro #20:
+Virus(species) name: Acetobacter phage phiAO1 [TAX:2860313]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter orleanensis [TAX:104099]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #21:
+Virus(species) name: Acetobacter phage phiAP1 [TAX:2860312]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter pasteurianus [TAX:438]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #22:
+Virus(species) name: Acetobacter phage phi
+Text Len: 1244
+--------------------------------------------------------------------------------
+urianus [TAX:438]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #22:
+Virus(species) name: Acetobacter phage phiAX1 [TAX:2860314]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter sp. [TAX:440]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #23:
+Virus(species) name: Acheta domestica densovirus [TAX:185639]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae; Cossaviricota;
+Quintoviricetes; Piccovirales; Parvoviridae;
+Densovirinae; Scindoambidensovirus;
+Scindoambidensovirus orthopteran1
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pteryg
+Text Len: 1134
+--------------------------------------------------------------------------------
+]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #24:
+Virus(species) name: Acheta domestica mini ambidensovirus [TAX:1404345]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae; Cossaviricota;
+Quintoviricetes; Piccovirales; Parvoviridae;
+Densovirinae; Miniambidensovirus;
+Orthopteran miniambidensovirus 1
+Host name: Ensifera [TAX:6994]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera
+--------------------------------------------------------------------------------
+Registro #25:
+Virus(species) name: Acheta domesticus iflavirus [TAX:2812802]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota
+Text Len: 1112
+--------------------------------------------------------------------------------
+ondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera
+--------------------------------------------------------------------------------
+Registro #25:
+Virus(species) name: Acheta domesticus iflavirus [TAX:2812802]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota;
+Pisoniviricetes; Picornavirales; Iflaviridae;
+Iflavirus; Iflavirus achedomestici
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #26:
+Virus(species) name: Acheta domesticus volvovirus [TAX:1291515]
+Virus lineage: Viruses; unclassified viruses;
+unclassified DNA viruses; unclassified ssDNA viruses;
+Volvovirus
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+
+Text Len: 1154
+--------------------------------------------------------------------------------
+ name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #27:
+Virus(species) name: Achimota virus 1 [TAX:1261100]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Haploviricotina; Monjiviricetes; Mononegavirales;
+Paramyxoviridae; Rubulavirinae; Pararubulavirus;
+Pararubulavirus achimotaense
+Host name: Eidolon helvum [TAX:77214]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pterop
+Text Len: 1016
+--------------------------------------------------------------------------------
+athostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #28:
+Virus(species) name: Achimota virus 2 [TAX:1261101]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Haploviricotina; Monjiviricetes; Mononegavirales;
+Paramyxoviridae; Rubulavirinae; Pararubulavirus;
+Pararubulavirus accraense
+Host name: Eidolon helvum [TAX:77214]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #29:
+Virus(species) name: Ach
+Text Len: 1091
+--------------------------------------------------------------------------------
+niota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #29:
+Virus(species) name: Acholeplasma phage MV-L51 [TAX:1977403]
+Virus lineage: Viruses; Monodnaviria; Loebvirae; Hofneiviricota;
+Faserviricetes; Tubulavirales; Plectroviridae;
+Plectrovirus; Plectrovirus L51
+Host name: Acholeplasma laidlawii [TAX:2148]
+Host lineage: Bacteria; Bacillati; Mycoplasmatota; Mollicutes;
+Acholeplasmatales; Acholeplasmataceae;
+Acholeplasma
+--------------------------------------------------------------------------------
+Registro #30:
+Virus(species) name: Achromobacter phage 2-1 [TAX:3061295]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #31:
+Virus(species) name: Achromobacter phage 83-24 [TAX:1589747]
+Virus lineage
+Text Len: 1216
+--------------------------------------------------------------------------------
+
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #31:
+Virus(species) name: Achromobacter phage 83-24 [TAX:1589747]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+Steinhofvirus sv8324
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #32:
+Virus(species) name: Achromobacter phage AMA1 [TAX:2723726]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter marplatensis [TAX:470868]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #33:
+Virus(species) name: Achromobacter phage AMA2 [TAX:2723727]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes
+Text Len: 1265
+--------------------------------------------------------------------------------
+;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #33:
+Virus(species) name: Achromobacter phage AMA2 [TAX:2723727]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter marplatensis [TAX:470868]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #34:
+Virus(species) name: Achromobacter phage AXY1 [TAX:2884451]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Fengtaivirus; unclassified Fengtaivirus
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #35:
+Virus(species) name: Achromobacter phage CF418P1 [TAX:3043583]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii
+Text Len: 1259
+--------------------------------------------------------------------------------
+species) name: Achromobacter phage CF418P1 [TAX:3043583]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #36:
+Virus(species) name: Achromobacter phage ehaak_LB5 [TAX:3076822]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #37:
+Virus(species) name: Achromobacter phage emuu_LB7 [TAX:3043586]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betap
+Text Len: 1188
+--------------------------------------------------------------------------------
+odnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #38:
+Virus(species) name: Achromobacter phage ewii_LB8 [TAX:3043587]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #39:
+Virus(species) name: Achromobacter phage ewik_TL4 [TAX:3076823]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #40:
+Text Len: 1272
+--------------------------------------------------------------------------------
+virus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #40:
+Virus(species) name: Achromobacter phage hasilly_LB3 [TAX:3076824]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #41:
+Virus(species) name: Achromobacter phage JWAlpha [TAX:1416009]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Jwalphavirus;
+Jwalphavirus jwalpha
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #42:
+Virus(species) name: Achromobacter
+Text Len: 1277
+--------------------------------------------------------------------------------
+ Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #42:
+Virus(species) name: Achromobacter phage JWDelta [TAX:1416008]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Jwalphavirus;
+Jwalphavirus jwalpha
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #43:
+Virus(species) name: Achromobacter phage JWF [TAX:1589748]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #44:
+Virus(species) name: Achromobacter phage JWT [TAX:3070119]
+Virus
+Text Len: 1247
+--------------------------------------------------------------------------------
+698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #44:
+Virus(species) name: Achromobacter phage JWT [TAX:3070119]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #45:
+Virus(species) name: Achromobacter phage JWX [TAX:1589746]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+Steinhofvirus JWX
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #46:
+Virus(species) name: Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviric
+Text Len: 1249
+--------------------------------------------------------------------------------
+ Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #46:
+Virus(species) name: Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #47:
+Virus(species) name: Achromobacter phage kwar_LB4 [TAX:3043589]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #48:
+Virus(species) name: Achromobacter phage maay_LB1 [TAX:3043590]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruh
+Text Len: 1259
+--------------------------------------------------------------------------------
+) name: Achromobacter phage maay_LB1 [TAX:3043590]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #49:
+Virus(species) name: Achromobacter phage Mano [TAX:2767570]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Manovirus;
+Manovirus Mano
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #50:
+Virus(species) name: Achromobacter phage Motura [TAX:2591403]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Moturavirus;
+Moturavirus motura
+Host name: Achromobacter animicus [TAX:1389935]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholder
+Text Len: 1192
+--------------------------------------------------------------------------------
+ Heunggongvirae;
+Uroviricota; Caudoviricetes; Moturavirus;
+Moturavirus motura
+Host name: Achromobacter animicus [TAX:1389935]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #51:
+Virus(species) name: Achromobacter phage nyaak_TL1 [TAX:3043591]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #52:
+Virus(species) name: Achromobacter phage nyashin_LB6 [TAX:3043592]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #53:
+Virus(species)
+Text Len: 1258
+--------------------------------------------------------------------------------
+iricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #53:
+Virus(species) name: Achromobacter phage phiAxp-1 [TAX:1610509]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #54:
+Virus(species) name: Achromobacter phage phiAxp-2 [TAX:1664246]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Fengtaivirus; Fengtaivirus Axp2
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #55:
+Virus(species) name: Achromobacter phage phiAxp-3 [TAX:
+Text Len: 1237
+--------------------------------------------------------------------------------
+X:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #55:
+Virus(species) name: Achromobacter phage phiAxp-3 [TAX:1664247]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Dongdastvirus;
+Dongdastvirus Axp3
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #56:
+Virus(species) name: Achromobacter phage SE2 [TAX:3043584]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter sp. [TAX:134375]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #57:
+Virus(species) name: Achromobacter phage shaaii_LB5 [TAX:3043593]
+Virus lineage: Viruses;
+Text Len: 1247
+--------------------------------------------------------------------------------
+ Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #57:
+Virus(species) name: Achromobacter phage shaaii_LB5 [TAX:3043593]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #58:
+Virus(species) name: Achromobacter phage tuull [TAX:3074846]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #59:
+Virus(species) name: Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casj
+Text Len: 1234
+--------------------------------------------------------------------------------
+----------------
+Registro #59:
+Virus(species) name: Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Gediminasvirus; Gediminasvirus AchV4
+Host name: Achromobacter spanius [TAX:217203]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #60:
+Virus(species) name: Achromobacter phage vB_Ade_ART [TAX:2292880]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter denitrificans [TAX:32002]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+
+Se omitieron 8 filas con columnas insuficientes.
+Total enlaces encontrados: 68
+Total scrapeados con éxito: 60
+URLs scrapeadas:
+aalivirus A1 [TAX:1482734]
+abaca bunchy top virus [TAX:3158377]
+Abalone herpesvirus Victoria/AUS/2009 [TAX:124
+Text Len: 1173
+--------------------------------------------------------------------------------
+as insuficientes.
+Total enlaces encontrados: 68
+Total scrapeados con éxito: 60
+URLs scrapeadas:
+aalivirus A1 [TAX:1482734]
+abaca bunchy top virus [TAX:3158377]
+Abalone herpesvirus Victoria/AUS/2009 [TAX:1241371]
+Abalone shriveling syndrome-associated virus [TAX:491893]
+Abelson murine leukemia virus [TAX:11788]
+Abisko virus [TAX:2025595]
+Abras virus [TAX:2303487]
+Abu Hammad virus [TAX:248058]
+Abu Mina virus [TAX:248059]
+Abutilon Brazil virus [TAX:665102]
+Abutilon golden mosaic Yucatan virus [TAX:1312723]
+Acanthamoeba castellanii mamavirus [TAX:554168]
+Acanthamoeba castellanii medusavirus [TAX:2080449]
+Acanthamoeba polyphaga mimivirus [TAX:212035]
+Acanthamoeba polyphaga moumouvirus [TAX:1269028]
+Acara virus [TAX:2748201]
+Acartia tonsa copepod circovirus [TAX:1168547]
+Acaryochloris phage A-HIS1 [TAX:645116]
+Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Acetobacter phage phiAO1 [TAX:2860313]
+Acetobacter phage phiAP1 [TAX
+Text Len: 931
+--------------------------------------------------------------------------------
+47]
+Acaryochloris phage A-HIS1 [TAX:645116]
+Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Acetobacter phage phiAO1 [TAX:2860313]
+Acetobacter phage phiAP1 [TAX:2860312]
+Acetobacter phage phiAX1 [TAX:2860314]
+Acheta domestica densovirus [TAX:185639]
+Acheta domestica mini ambidensovirus [TAX:1404345]
+Acheta domesticus iflavirus [TAX:2812802]
+Acheta domesticus volvovirus [TAX:1291515]
+Achimota virus 1 [TAX:1261100]
+Achimota virus 2 [TAX:1261101]
+Acholeplasma phage MV-L51 [TAX:1977403]
+Achromobacter phage 2-1 [TAX:3061295]
+Achromobacter phage 83-24 [TAX:1589747]
+Achromobacter phage AMA1 [TAX:2723726]
+Achromobacter phage AMA2 [TAX:2723727]
+Achromobacter phage AXY1 [TAX:2884451]
+Achromobacter phage CF418P1 [TAX:3043583]
+Achromobacter phage ehaak_LB5 [TAX:3076822]
+Achromobacter phage emuu_LB7 [TAX:3043586]
+Achromobacter phage ewii_LB8 [TAX:3043587]
+Achromobacter phage e
+Text Len: 875
+--------------------------------------------------------------------------------
+P1 [TAX:3043583]
+Achromobacter phage ehaak_LB5 [TAX:3076822]
+Achromobacter phage emuu_LB7 [TAX:3043586]
+Achromobacter phage ewii_LB8 [TAX:3043587]
+Achromobacter phage ewik_TL4 [TAX:3076823]
+Achromobacter phage hasilly_LB3 [TAX:3076824]
+Achromobacter phage JWAlpha [TAX:1416009]
+Achromobacter phage JWDelta [TAX:1416008]
+Achromobacter phage JWF [TAX:1589748]
+Achromobacter phage JWT [TAX:3070119]
+Achromobacter phage JWX [TAX:1589746]
+Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Achromobacter phage kwar_LB4 [TAX:3043589]
+Achromobacter phage maay_LB1 [TAX:3043590]
+Achromobacter phage Mano [TAX:2767570]
+Achromobacter phage Motura [TAX:2591403]
+Achromobacter phage nyaak_TL1 [TAX:3043591]
+Achromobacter phage nyashin_LB6 [TAX:3043592]
+Achromobacter phage phiAxp-1 [TAX:1610509]
+Achromobacter phage phiAxp-2 [TAX:1664246]
+Achromobacter phage phiAxp-3 [TAX:16
+Text Len: 857
+--------------------------------------------------------------------------------
+chromobacter phage nyashin_LB6 [TAX:3043592]
+Achromobacter phage phiAxp-1 [TAX:1610509]
+Achromobacter phage phiAxp-2 [TAX:1664246]
+Achromobacter phage phiAxp-3 [TAX:1664247]
+Achromobacter phage SE2 [TAX:3043584]
+Achromobacter phage shaaii_LB5 [TAX:3043593]
+Achromobacter phage tuull [TAX:3074846]
+Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Achromobacter phage vB_Ade_ART [TAX:2292880]
+Total fallidos: 0
+URLs fallidas:
+
+
+Text Len: 425
+--------------------------------------------------------------------------------
+Registro #1:
+Virus(species) name: aalivirus A1 [TAX:1482734]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota;
+Pisoniviricetes; Picornavirales; Picornaviridae;
+Paavivirinae; Aalivirus; Aalivirus apekidu
+Host name: Anas platyrhynchos [TAX:8839]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Sauropsida; Sauria;
+Archelosauria; Archosauria; Dinosauria; Saurischia;
+Theropoda; Coelurosauria; Aves; Neognathae;
+Galloanserae; Anseriformes; Anatidae; Anatinae;
+Anas
+--------------------------------------------------------------------------------
+Registro #2:
+Virus(species) name: abaca bunchy top virus [TAX:3158377]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Mulpavirales;
+Nanoviridae; Babuvirus; Babuvirus abacae
+Host name: Musa acuminata AAA Group [TAX:214697]
+Host lineage: Eukaryota; Viridiplantae; Stre
+Text Len: 1027
+--------------------------------------------------------------------------------
+ia; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Mulpavirales;
+Nanoviridae; Babuvirus; Babuvirus abacae
+Host name: Musa acuminata AAA Group [TAX:214697]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; Liliopsida; Petrosaviidae;
+commelinids; Zingiberales; Musaceae; Musa;
+Musa acuminata
+--------------------------------------------------------------------------------
+Registro #3:
+Virus(species) name: Abalone herpesvirus Victoria/AUS/2009 [TAX:1241371]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Peploviricota; Herviviricetes; Herpesvirales;
+Malacoherpesviridae; Aurivirus;
+Aurivirus haliotidmalaco1
+Host name: Haliotis diversicolor [TAX:36095]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Spiralia; Lophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis
+--------------------------------------------------------------------------------
+Registro #4:
+Virus(species) name: Abalone shriveling syndrome-associated virus [TAX:491893]
+Virus
+Text Len: 1142
+--------------------------------------------------------------------------------
+ophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis
+--------------------------------------------------------------------------------
+Registro #4:
+Virus(species) name: Abalone shriveling syndrome-associated virus [TAX:491893]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Haliotis diversicolor aquatilis [TAX:37770]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Spiralia; Lophotrochozoa;
+Mollusca; Gastropoda; Vetigastropoda; Lepetellida;
+Haliotoidea; Haliotidae; Haliotis;
+Haliotis diversicolor
+--------------------------------------------------------------------------------
+Registro #5:
+Virus(species) name: Abelson murine leukemia virus [TAX:11788]
+Virus lineage: Viruses; Riboviria; Pararnavirae; Artverviricota;
+Revtraviricetes; Ortervirales; Retroviridae;
+Orthoretrovirinae; Gammaretrovirus;
+unclassified Gammaretrovirus
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathost
+Text Len: 1150
+--------------------------------------------------------------------------------
+aretrovirus;
+unclassified Gammaretrovirus
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Euarchontoglires; Glires; Rodentia;
+Myomorpha; Muroidea; Muridae; Murinae; Mus;
+Mus
+--------------------------------------------------------------------------------
+Registro #6:
+Virus(species) name: Abisko virus [TAX:2025595]
+Virus lineage: Viruses; Riboviria; unclassified Riboviria
+Host name: Epirrita autumnata [TAX:201501]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Endopterygota; Amphiesmenoptera; Lepidoptera;
+Glossata; Neolepidoptera; Heteroneura; Ditrysia;
+Obtectomera; Geometroidea; Geometridae;
+Larentiinae; Epirrita
+--------------------------------------------------------------------------------
+Registro #
+Text Len: 1111
+--------------------------------------------------------------------------------
+ Neoptera;
+Endopterygota; Amphiesmenoptera; Lepidoptera;
+Glossata; Neolepidoptera; Heteroneura; Ditrysia;
+Obtectomera; Geometroidea; Geometridae;
+Larentiinae; Epirrita
+--------------------------------------------------------------------------------
+Registro #7:
+Virus(species) name: Abras virus [TAX:2303487]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus abrasense
+Host name: Culex [TAX:53527]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Endopterygota; Diptera; Nematocera; Culicomorpha;
+Culicoidea; Culicidae; Culicinae; Culicini;
+Culex
+--------------------------------------------------------------------------------
+Registro #8:
+Virus(species) name: Abu Hammad virus [TAX:248058]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+N
+Text Len: 1077
+--------------------------------------------------------------------------------
+
+--------------------------------------------------------------------------------
+Registro #8:
+Virus(species) name: Abu Hammad virus [TAX:248058]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Nairoviridae; Orthonairovirus;
+Orthonairovirus abuhammadense
+Host name: Argas hermanni [TAX:44320]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Chelicerata; Arachnida; Acari;
+Parasitiformes; Ixodida; Ixodoidea; Argasidae;
+Argasinae; Argas
+--------------------------------------------------------------------------------
+Registro #9:
+Virus(species) name: Abu Mina virus [TAX:248059]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Nairoviridae; Orthonairovirus;
+Orthonairovirus abuminaense
+Host name: Streptopelia turtur [TAX:177155]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; S
+Text Len: 1098
+--------------------------------------------------------------------------------
+elia turtur [TAX:177155]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Sauropsida; Sauria;
+Archelosauria; Archosauria; Dinosauria; Saurischia;
+Theropoda; Coelurosauria; Aves; Neognathae;
+Neoaves; Columbimorphae; Columbiformes; Columbidae;
+Streptopelia
+--------------------------------------------------------------------------------
+Registro #10:
+Virus(species) name: Abutilon Brazil virus [TAX:665102]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Repensiviricetes; Geplafuvirales;
+Geminiviridae; Begomovirus
+Host name: Abutilon [TAX:3630]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae
+--------------------------------------------------------------------------------
+Registro #11:
+Virus(species) name: Abutilon golden mosaic Y
+Text Len: 1124
+--------------------------------------------------------------------------------
+ta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae
+--------------------------------------------------------------------------------
+Registro #11:
+Virus(species) name: Abutilon golden mosaic Yucatan virus [TAX:1312723]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Repensiviricetes; Geplafuvirales;
+Geminiviridae; Begomovirus;
+Begomovirus abutilonis
+Host name: Abutilon permolle [TAX:1312722]
+Host lineage: Eukaryota; Viridiplantae; Streptophyta;
+Streptophytina; Embryophyta; Tracheophyta;
+Euphyllophyta; Spermatophyta; Magnoliopsida;
+Mesangiospermae; eudicotyledons; Gunneridae;
+Pentapetalae; rosids; malvids; Malvales; Malvaceae;
+Malvoideae; Abutilon
+--------------------------------------------------------------------------------
+Registro #12:
+Virus(species) name: Acanthamoeba castellanii mamavirus [TAX:554168]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+unclassified Mimivirus
+Host name: Acanthamoeba castellanii [TA
+Text Len: 1121
+--------------------------------------------------------------------------------
+irus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+unclassified Mimivirus
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #13:
+Virus(species) name: Acanthamoeba castellanii medusavirus [TAX:2080449]
+Virus lineage: Viruses; unclassified viruses
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #14:
+Virus(species) name: Acanthamoeba polyphaga mimivirus [TAX:212035]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+Mimivirus bradfordmassiliense
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramo
+Text Len: 1128
+--------------------------------------------------------------------------------
+ales;
+Mimiviridae; Megamimivirinae; Mimivirus;
+Mimivirus bradfordmassiliense
+Host name: Acanthamoeba castellanii [TAX:5755]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #15:
+Virus(species) name: Acanthamoeba polyphaga moumouvirus [TAX:1269028]
+Virus lineage: Viruses; Varidnaviria; Bamfordvirae;
+Nucleocytoviricota; Megaviricetes; Imitervirales;
+Mimiviridae; Megamimivirinae; Moumouvirus;
+Moumouvirus moumou
+Host name: Acanthamoeba polyphaga [TAX:5757]
+Host lineage: Eukaryota; Amoebozoa; Discosea; Longamoebia;
+Centramoebida; Acanthamoebidae;
+Acanthamoeba
+--------------------------------------------------------------------------------
+Registro #16:
+Virus(species) name: Acara virus [TAX:2748201]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus acaraense
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota;
+Text Len: 1085
+--------------------------------------------------------------------------------
+; Negarnaviricota;
+Polyploviricotina; Ellioviricetes; Bunyavirales;
+Peribunyaviridae; Orthobunyavirus;
+Orthobunyavirus acaraense
+Host name: Mus musculus [TAX:10090]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Euarchontoglires; Glires; Rodentia;
+Myomorpha; Muroidea; Muridae; Murinae; Mus;
+Mus
+--------------------------------------------------------------------------------
+Registro #17:
+Virus(species) name: Acartia tonsa copepod circovirus [TAX:1168547]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae;
+Cressdnaviricota; Arfiviricetes; Cirlivirales;
+Circoviridae; Circovirus; unclassified Circovirus
+Host name: Acartia tonsa [TAX:136180]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Crustacea;
+Multicrustacea; Hex
+Text Len: 1035
+--------------------------------------------------------------------------------
+a [TAX:136180]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Crustacea;
+Multicrustacea; Hexanauplia; Copepoda; Neocopepoda;
+Gymnoplea; Calanoida; Acartiidae;
+Acartia
+--------------------------------------------------------------------------------
+Registro #18:
+Virus(species) name: Acaryochloris phage A-HIS1 [TAX:645116]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acaryochloris marina MBIC11017 [TAX:329726]
+Host lineage: Bacteria; Bacillati; Cyanobacteriota/Melainabacteria group;
+Cyanobacteriota; Cyanophyceae; Acaryochloridales;
+Acaryochloridaceae; Acaryochloris;
+Acaryochloris marina
+--------------------------------------------------------------------------------
+Registro #19:
+Virus(species) name: Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Virus lineage: Viruses; unclassified bacterial viruses
+Host name: Acetoanaerobium noterae [TAX:745369]
+Host lineage: Bacteria; Bacillati; Bacillota; Clostridia;
+Peptostreptococcales; Filifactoraceae;
+Acetoanaer
+Text Len: 1144
+--------------------------------------------------------------------------------
+ [TAX:3141805]
+Virus lineage: Viruses; unclassified bacterial viruses
+Host name: Acetoanaerobium noterae [TAX:745369]
+Host lineage: Bacteria; Bacillati; Bacillota; Clostridia;
+Peptostreptococcales; Filifactoraceae;
+Acetoanaerobium
+--------------------------------------------------------------------------------
+Registro #20:
+Virus(species) name: Acetobacter phage phiAO1 [TAX:2860313]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter orleanensis [TAX:104099]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #21:
+Virus(species) name: Acetobacter phage phiAP1 [TAX:2860312]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter pasteurianus [TAX:438]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #22:
+Virus(species) name: Acetobacter phage phi
+Text Len: 1244
+--------------------------------------------------------------------------------
+urianus [TAX:438]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #22:
+Virus(species) name: Acetobacter phage phiAX1 [TAX:2860314]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Acetobacter sp. [TAX:440]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Alphaproteobacteria; Acetobacterales;
+Acetobacteraceae; Acetobacter
+--------------------------------------------------------------------------------
+Registro #23:
+Virus(species) name: Acheta domestica densovirus [TAX:185639]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae; Cossaviricota;
+Quintoviricetes; Piccovirales; Parvoviridae;
+Densovirinae; Scindoambidensovirus;
+Scindoambidensovirus orthopteran1
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pteryg
+Text Len: 1134
+--------------------------------------------------------------------------------
+]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #24:
+Virus(species) name: Acheta domestica mini ambidensovirus [TAX:1404345]
+Virus lineage: Viruses; Monodnaviria; Shotokuvirae; Cossaviricota;
+Quintoviricetes; Piccovirales; Parvoviridae;
+Densovirinae; Miniambidensovirus;
+Orthopteran miniambidensovirus 1
+Host name: Ensifera [TAX:6994]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera
+--------------------------------------------------------------------------------
+Registro #25:
+Virus(species) name: Acheta domesticus iflavirus [TAX:2812802]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota
+Text Len: 1112
+--------------------------------------------------------------------------------
+ondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera
+--------------------------------------------------------------------------------
+Registro #25:
+Virus(species) name: Acheta domesticus iflavirus [TAX:2812802]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Pisuviricota;
+Pisoniviricetes; Picornavirales; Iflaviridae;
+Iflavirus; Iflavirus achedomestici
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #26:
+Virus(species) name: Acheta domesticus volvovirus [TAX:1291515]
+Virus lineage: Viruses; unclassified viruses;
+unclassified DNA viruses; unclassified ssDNA viruses;
+Volvovirus
+Host name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+
+Text Len: 1154
+--------------------------------------------------------------------------------
+ name: Acheta domesticus [TAX:6997]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Protostomia; Ecdysozoa; Panarthropoda;
+Arthropoda; Mandibulata; Pancrustacea; Hexapoda;
+Insecta; Dicondylia; Pterygota; Neoptera;
+Polyneoptera; Orthoptera; Ensifera; Gryllidea;
+Grylloidea; Gryllidae; Gryllinae;
+Acheta
+--------------------------------------------------------------------------------
+Registro #27:
+Virus(species) name: Achimota virus 1 [TAX:1261100]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Haploviricotina; Monjiviricetes; Mononegavirales;
+Paramyxoviridae; Rubulavirinae; Pararubulavirus;
+Pararubulavirus achimotaense
+Host name: Eidolon helvum [TAX:77214]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pterop
+Text Len: 1016
+--------------------------------------------------------------------------------
+athostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #28:
+Virus(species) name: Achimota virus 2 [TAX:1261101]
+Virus lineage: Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+Haploviricotina; Monjiviricetes; Mononegavirales;
+Paramyxoviridae; Rubulavirinae; Pararubulavirus;
+Pararubulavirus accraense
+Host name: Eidolon helvum [TAX:77214]
+Host lineage: Eukaryota; Opisthokonta; Metazoa; Eumetazoa;
+Bilateria; Deuterostomia; Chordata; Craniata;
+Vertebrata; Gnathostomata; Teleostomi;
+Euteleostomi; Sarcopterygii; Dipnotetrapodomorpha;
+Tetrapoda; Amniota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #29:
+Virus(species) name: Ach
+Text Len: 1091
+--------------------------------------------------------------------------------
+niota; Mammalia; Theria; Eutheria;
+Boreoeutheria; Laurasiatheria; Chiroptera;
+Yinpterochiroptera; Pteropodoidea; Pteropodidae;
+Pteropodinae; Eidolon
+--------------------------------------------------------------------------------
+Registro #29:
+Virus(species) name: Acholeplasma phage MV-L51 [TAX:1977403]
+Virus lineage: Viruses; Monodnaviria; Loebvirae; Hofneiviricota;
+Faserviricetes; Tubulavirales; Plectroviridae;
+Plectrovirus; Plectrovirus L51
+Host name: Acholeplasma laidlawii [TAX:2148]
+Host lineage: Bacteria; Bacillati; Mycoplasmatota; Mollicutes;
+Acholeplasmatales; Acholeplasmataceae;
+Acholeplasma
+--------------------------------------------------------------------------------
+Registro #30:
+Virus(species) name: Achromobacter phage 2-1 [TAX:3061295]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #31:
+Virus(species) name: Achromobacter phage 83-24 [TAX:1589747]
+Virus lineage
+Text Len: 1216
+--------------------------------------------------------------------------------
+
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #31:
+Virus(species) name: Achromobacter phage 83-24 [TAX:1589747]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+Steinhofvirus sv8324
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #32:
+Virus(species) name: Achromobacter phage AMA1 [TAX:2723726]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter marplatensis [TAX:470868]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #33:
+Virus(species) name: Achromobacter phage AMA2 [TAX:2723727]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes
+Text Len: 1265
+--------------------------------------------------------------------------------
+;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #33:
+Virus(species) name: Achromobacter phage AMA2 [TAX:2723727]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter marplatensis [TAX:470868]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #34:
+Virus(species) name: Achromobacter phage AXY1 [TAX:2884451]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Fengtaivirus; unclassified Fengtaivirus
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #35:
+Virus(species) name: Achromobacter phage CF418P1 [TAX:3043583]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii
+Text Len: 1259
+--------------------------------------------------------------------------------
+species) name: Achromobacter phage CF418P1 [TAX:3043583]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #36:
+Virus(species) name: Achromobacter phage ehaak_LB5 [TAX:3076822]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #37:
+Virus(species) name: Achromobacter phage emuu_LB7 [TAX:3043586]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betap
+Text Len: 1188
+--------------------------------------------------------------------------------
+odnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #38:
+Virus(species) name: Achromobacter phage ewii_LB8 [TAX:3043587]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #39:
+Virus(species) name: Achromobacter phage ewik_TL4 [TAX:3076823]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #40:
+Text Len: 1272
+--------------------------------------------------------------------------------
+virus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #40:
+Virus(species) name: Achromobacter phage hasilly_LB3 [TAX:3076824]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #41:
+Virus(species) name: Achromobacter phage JWAlpha [TAX:1416009]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Jwalphavirus;
+Jwalphavirus jwalpha
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #42:
+Virus(species) name: Achromobacter
+Text Len: 1277
+--------------------------------------------------------------------------------
+ Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #42:
+Virus(species) name: Achromobacter phage JWDelta [TAX:1416008]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Jwalphavirus;
+Jwalphavirus jwalpha
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #43:
+Virus(species) name: Achromobacter phage JWF [TAX:1589748]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #44:
+Virus(species) name: Achromobacter phage JWT [TAX:3070119]
+Virus
+Text Len: 1247
+--------------------------------------------------------------------------------
+698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #44:
+Virus(species) name: Achromobacter phage JWT [TAX:3070119]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #45:
+Virus(species) name: Achromobacter phage JWX [TAX:1589746]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+Steinhofvirus JWX
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #46:
+Virus(species) name: Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviric
+Text Len: 1249
+--------------------------------------------------------------------------------
+ Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #46:
+Virus(species) name: Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #47:
+Virus(species) name: Achromobacter phage kwar_LB4 [TAX:3043589]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #48:
+Virus(species) name: Achromobacter phage maay_LB1 [TAX:3043590]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruh
+Text Len: 1259
+--------------------------------------------------------------------------------
+) name: Achromobacter phage maay_LB1 [TAX:3043590]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #49:
+Virus(species) name: Achromobacter phage Mano [TAX:2767570]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Manovirus;
+Manovirus Mano
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #50:
+Virus(species) name: Achromobacter phage Motura [TAX:2591403]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Moturavirus;
+Moturavirus motura
+Host name: Achromobacter animicus [TAX:1389935]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholder
+Text Len: 1192
+--------------------------------------------------------------------------------
+ Heunggongvirae;
+Uroviricota; Caudoviricetes; Moturavirus;
+Moturavirus motura
+Host name: Achromobacter animicus [TAX:1389935]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #51:
+Virus(species) name: Achromobacter phage nyaak_TL1 [TAX:3043591]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #52:
+Virus(species) name: Achromobacter phage nyashin_LB6 [TAX:3043592]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #53:
+Virus(species)
+Text Len: 1258
+--------------------------------------------------------------------------------
+iricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #53:
+Virus(species) name: Achromobacter phage phiAxp-1 [TAX:1610509]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #54:
+Virus(species) name: Achromobacter phage phiAxp-2 [TAX:1664246]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Fengtaivirus; Fengtaivirus Axp2
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #55:
+Virus(species) name: Achromobacter phage phiAxp-3 [TAX:
+Text Len: 1237
+--------------------------------------------------------------------------------
+X:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #55:
+Virus(species) name: Achromobacter phage phiAxp-3 [TAX:1664247]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Schitoviridae;
+Rothmandenesvirinae; Dongdastvirus;
+Dongdastvirus Axp3
+Host name: Achromobacter xylosoxidans [TAX:85698]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #56:
+Virus(species) name: Achromobacter phage SE2 [TAX:3043584]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Steinhofvirus;
+unclassified Steinhofvirus
+Host name: Achromobacter sp. [TAX:134375]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #57:
+Virus(species) name: Achromobacter phage shaaii_LB5 [TAX:3043593]
+Virus lineage: Viruses;
+Text Len: 1247
+--------------------------------------------------------------------------------
+ Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #57:
+Virus(species) name: Achromobacter phage shaaii_LB5 [TAX:3043593]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #58:
+Virus(species) name: Achromobacter phage tuull [TAX:3074846]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter ruhlandii [TAX:72557]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #59:
+Virus(species) name: Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casj
+Text Len: 1234
+--------------------------------------------------------------------------------
+----------------
+Registro #59:
+Virus(species) name: Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes; Casjensviridae;
+Gediminasvirus; Gediminasvirus AchV4
+Host name: Achromobacter spanius [TAX:217203]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+Registro #60:
+Virus(species) name: Achromobacter phage vB_Ade_ART [TAX:2292880]
+Virus lineage: Viruses; Duplodnaviria; Heunggongvirae;
+Uroviricota; Caudoviricetes;
+unclassified Caudoviricetes
+Host name: Achromobacter denitrificans [TAX:32002]
+Host lineage: Bacteria; Pseudomonadati; Pseudomonadota;
+Betaproteobacteria; Burkholderiales;
+Alcaligenaceae; Achromobacter
+--------------------------------------------------------------------------------
+
+Se omitieron 8 filas con columnas insuficientes.
+Total enlaces encontrados: 68
+Total scrapeados con éxito: 60
+URLs scrapeadas:
+aalivirus A1 [TAX:1482734]
+abaca bunchy top virus [TAX:3158377]
+Abalone herpesvirus Victoria/AUS/2009 [TAX:124
+Text Len: 1173
+--------------------------------------------------------------------------------
+as insuficientes.
+Total enlaces encontrados: 68
+Total scrapeados con éxito: 60
+URLs scrapeadas:
+aalivirus A1 [TAX:1482734]
+abaca bunchy top virus [TAX:3158377]
+Abalone herpesvirus Victoria/AUS/2009 [TAX:1241371]
+Abalone shriveling syndrome-associated virus [TAX:491893]
+Abelson murine leukemia virus [TAX:11788]
+Abisko virus [TAX:2025595]
+Abras virus [TAX:2303487]
+Abu Hammad virus [TAX:248058]
+Abu Mina virus [TAX:248059]
+Abutilon Brazil virus [TAX:665102]
+Abutilon golden mosaic Yucatan virus [TAX:1312723]
+Acanthamoeba castellanii mamavirus [TAX:554168]
+Acanthamoeba castellanii medusavirus [TAX:2080449]
+Acanthamoeba polyphaga mimivirus [TAX:212035]
+Acanthamoeba polyphaga moumouvirus [TAX:1269028]
+Acara virus [TAX:2748201]
+Acartia tonsa copepod circovirus [TAX:1168547]
+Acaryochloris phage A-HIS1 [TAX:645116]
+Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Acetobacter phage phiAO1 [TAX:2860313]
+Acetobacter phage phiAP1 [TAX
+Text Len: 931
+--------------------------------------------------------------------------------
+47]
+Acaryochloris phage A-HIS1 [TAX:645116]
+Acetoanaerobium phage ANDSL2_ph1 [TAX:3141805]
+Acetobacter phage phiAO1 [TAX:2860313]
+Acetobacter phage phiAP1 [TAX:2860312]
+Acetobacter phage phiAX1 [TAX:2860314]
+Acheta domestica densovirus [TAX:185639]
+Acheta domestica mini ambidensovirus [TAX:1404345]
+Acheta domesticus iflavirus [TAX:2812802]
+Acheta domesticus volvovirus [TAX:1291515]
+Achimota virus 1 [TAX:1261100]
+Achimota virus 2 [TAX:1261101]
+Acholeplasma phage MV-L51 [TAX:1977403]
+Achromobacter phage 2-1 [TAX:3061295]
+Achromobacter phage 83-24 [TAX:1589747]
+Achromobacter phage AMA1 [TAX:2723726]
+Achromobacter phage AMA2 [TAX:2723727]
+Achromobacter phage AXY1 [TAX:2884451]
+Achromobacter phage CF418P1 [TAX:3043583]
+Achromobacter phage ehaak_LB5 [TAX:3076822]
+Achromobacter phage emuu_LB7 [TAX:3043586]
+Achromobacter phage ewii_LB8 [TAX:3043587]
+Achromobacter phage e
+Text Len: 875
+--------------------------------------------------------------------------------
+P1 [TAX:3043583]
+Achromobacter phage ehaak_LB5 [TAX:3076822]
+Achromobacter phage emuu_LB7 [TAX:3043586]
+Achromobacter phage ewii_LB8 [TAX:3043587]
+Achromobacter phage ewik_TL4 [TAX:3076823]
+Achromobacter phage hasilly_LB3 [TAX:3076824]
+Achromobacter phage JWAlpha [TAX:1416009]
+Achromobacter phage JWDelta [TAX:1416008]
+Achromobacter phage JWF [TAX:1589748]
+Achromobacter phage JWT [TAX:3070119]
+Achromobacter phage JWX [TAX:1589746]
+Achromobacter phage kuwaak_TL2 [TAX:3076825]
+Achromobacter phage kwar_LB4 [TAX:3043589]
+Achromobacter phage maay_LB1 [TAX:3043590]
+Achromobacter phage Mano [TAX:2767570]
+Achromobacter phage Motura [TAX:2591403]
+Achromobacter phage nyaak_TL1 [TAX:3043591]
+Achromobacter phage nyashin_LB6 [TAX:3043592]
+Achromobacter phage phiAxp-1 [TAX:1610509]
+Achromobacter phage phiAxp-2 [TAX:1664246]
+Achromobacter phage phiAxp-3 [TAX:16
+Text Len: 857
+--------------------------------------------------------------------------------
+chromobacter phage nyashin_LB6 [TAX:3043592]
+Achromobacter phage phiAxp-1 [TAX:1610509]
+Achromobacter phage phiAxp-2 [TAX:1664246]
+Achromobacter phage phiAxp-3 [TAX:1664247]
+Achromobacter phage SE2 [TAX:3043584]
+Achromobacter phage shaaii_LB5 [TAX:3043593]
+Achromobacter phage tuull [TAX:3074846]
+Achromobacter phage vB_AchrS_AchV4 [TAX:2796514]
+Achromobacter phage vB_Ade_ART [TAX:2292880]
+Total fallidos: 0
+URLs fallidas:
+
+
+Text Len: 425
+--------------------------------------------------------------------------------

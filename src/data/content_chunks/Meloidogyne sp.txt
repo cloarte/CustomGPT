@@ -1,0 +1,100 @@
+Crop Knowledge Master
+Meloidogyne sp.
+rootknot nematode (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+O.V. Holtsmann
+McSorley
+(In Wayne Nishijima’s papaya compendium)
+HOSTS
+The focus of this summary is on the affects of the root-knot nematode on papaya. However, the root-knot nematode occurs on a wide variety of hosts. Please consult other summaries discussing this nematode for further host range information.
+DISTRIBUTION
+The root-knot nematode is an economically important plant pathogen and is distributed worldwide.
+SYMPTOMS
+Above-ground symptoms of heavily infected plants appear as moderate to severe leaf chlorosis and plant stunting. Some wilting may occur during periods of peak transpirational stress on the plant. Papaya roots attacked by root-knot nematode shows varying degrees of galling depending on the numbers of the nematode in the soil or the subsequent hatching of eggs, migration of the larvae and reinfection of surrounding tissue. Unlike the reniform nematode, the female root-knot nematode and most of her eggmass are usually completely imbedded in the root tissue. Hence, dissection of the root is mandatory before a positive identification can be made. Root systems may be somewhat reduced because terminal infections of roots cause a slight swelling and cessation of further elongation.
+Severe galling of roots and stunting of papaya due to root-knot nematodes has been observed primarily in sandy soils. Galling may be so extensive on seedlings that they may be killed as a result. In some loam or clay soils, galling is light to moderate without noticeable above-ground symptoms.
+BIOLOGY
+Papaya is susceptible to
+Text Len: 1701
+--------------------------------------------------------------------------------
+.
+Severe galling of roots and stunting of papaya due to root-knot nematodes has been observed primarily in sandy soils. Galling may be so extensive on seedlings that they may be killed as a result. In some loam or clay soils, galling is light to moderate without noticeable above-ground symptoms.
+BIOLOGY
+Papaya is susceptible to the four most common species of root-knot nematodes, especially Meloidogyne incognita (Kofoid and White) Chitwood and M. javanica (Treub) Chitwood. Meloidogyne arenaria (Neal) Chitwood and M. hapla Chitwood are found less often; the latter species prefers cooler temperatures, and may damage papayas grown at higher elevations.
+The second-stage juvenile of the root-knot nematode is less than 500 µm long. Penetration of the root by this juvenile occurs generally near the root tip. When the female juvenile begins feeding in the central cylinder region of the root, giant cells are formed. Surrounding root cells begin to increase in size and number, resulting in the distorted, massive enlargements known as knots or galls. During the process of gall formation, the sedentary female undergoes several molts until her body is flask or pear-shaped, and completely imbedded in root tissue. If several nematodes infect in the same general vicinity, a large gall occurs, which completely encloses all the females and their eggmasses. In single root-knot juvenile infections, there is little or no observable root swelling and the gelatinous matrix exudes to the outside of the root and resembles that of the previously described reniform nematode eggmass. A single female deposits an average of 350 eggs in the eggmass. Under subtropical and tropical conditions, as many as 14 to 17 generations are possible in one year
+Text Len: 1746
+--------------------------------------------------------------------------------
+. In single root-knot juvenile infections, there is little or no observable root swelling and the gelatinous matrix exudes to the outside of the root and resembles that of the previously described reniform nematode eggmass. A single female deposits an average of 350 eggs in the eggmass. Under subtropical and tropical conditions, as many as 14 to 17 generations are possible in one year's time. The debilitating effects of the nematode on the plant may involve: 1) competition for nutrients and food, 2) a reduced root system, 3) impaired uptake of water and nutrients because of a distorted vascular system, and/or 4) predisposition to fungal root rots.
+EPIDEMIOLOGY
+Because of their small size, root-knot nematodes do not traverse distances of more than a few inches in their lifetime. Root-knot nematodes are principally spread through cultivation and surface run-off or irrigation water.
+MANAGEMENT
+CHEMICAL CONTROL
+Preplant fumigation are effective against root-knot nematodes. However, consideration must be given to first allow adequate time for breakdown of heavily galled roots. Moist root tissue is a barrier to the penetration of fumigants. Roots decay readily in moist soils and very slowly in dry ones.
+REFERENCES
+Ayala, A., Acosta, N., and Adsuar, J. A. 1971. A preliminary report on the response of Carica papaya to foliar applications of two systemic nematicides. Nematropica 1:10 (Abstr.).
+Cohn, E., and Duncan, L. W. 1990. Nematode parasites of subtropical and tropical fruit trees. Pages 347-362 in: Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, and J. Bridge, eds. CAB International
+Text Len: 1646
+--------------------------------------------------------------------------------
+atropica 1:10 (Abstr.).
+Cohn, E., and Duncan, L. W. 1990. Nematode parasites of subtropical and tropical fruit trees. Pages 347-362 in: Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, and J. Bridge, eds. CAB International, Wallingford, UK.
+Hine, R. B., Holtzmann, O. V., and Raabe, R. D. 1965. Diseases of papaya (Carica papaya L.) in Hawaii. Hawaii Agric. Exp. Stn. Bull. 136, Univ. of Hawaii, 26 pp.
+Lange, A. H. 1960. The effect of fumigation on the papaya replant problem in two Hawaiian soils. Proc. Amer. Hort. Soc. 75:305-312.
+McSorley, R. 1981. Plant parasitic nematodes associated with tropical and subtropical fruits. Florida Agric. Exp. Stn. Bull. 823, Univ. of Florida, 49 pp.
+    JANUARY 1993
+  3A-MELSP
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 817
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Meloidogyne sp.
+rootknot nematode (Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+O.V. Holtsmann
+McSorley
+(In Wayne Nishijima’s papaya compendium)
+HOSTS
+The focus of this summary is on the affects of the root-knot nematode on papaya. However, the root-knot nematode occurs on a wide variety of hosts. Please consult other summaries discussing this nematode for further host range information.
+DISTRIBUTION
+The root-knot nematode is an economically important plant pathogen and is distributed worldwide.
+SYMPTOMS
+Above-ground symptoms of heavily infected plants appear as moderate to severe leaf chlorosis and plant stunting. Some wilting may occur during periods of peak transpirational stress on the plant. Papaya roots attacked by root-knot nematode shows varying degrees of galling depending on the numbers of the nematode in the soil or the subsequent hatching of eggs, migration of the larvae and reinfection of surrounding tissue. Unlike the reniform nematode, the female root-knot nematode and most of her eggmass are usually completely imbedded in the root tissue. Hence, dissection of the root is mandatory before a positive identification can be made. Root systems may be somewhat reduced because terminal infections of roots cause a slight swelling and cessation of further elongation.
+Severe galling of roots and stunting of papaya due to root-knot nematodes has been observed primarily in sandy soils. Galling may be so extensive on seedlings that they may be killed as a result. In some loam or clay soils, galling is light to moderate without noticeable above-ground symptoms.
+BIOLOGY
+Papaya is susceptible to
+Text Len: 1701
+--------------------------------------------------------------------------------
+.
+Severe galling of roots and stunting of papaya due to root-knot nematodes has been observed primarily in sandy soils. Galling may be so extensive on seedlings that they may be killed as a result. In some loam or clay soils, galling is light to moderate without noticeable above-ground symptoms.
+BIOLOGY
+Papaya is susceptible to the four most common species of root-knot nematodes, especially Meloidogyne incognita (Kofoid and White) Chitwood and M. javanica (Treub) Chitwood. Meloidogyne arenaria (Neal) Chitwood and M. hapla Chitwood are found less often; the latter species prefers cooler temperatures, and may damage papayas grown at higher elevations.
+The second-stage juvenile of the root-knot nematode is less than 500 µm long. Penetration of the root by this juvenile occurs generally near the root tip. When the female juvenile begins feeding in the central cylinder region of the root, giant cells are formed. Surrounding root cells begin to increase in size and number, resulting in the distorted, massive enlargements known as knots or galls. During the process of gall formation, the sedentary female undergoes several molts until her body is flask or pear-shaped, and completely imbedded in root tissue. If several nematodes infect in the same general vicinity, a large gall occurs, which completely encloses all the females and their eggmasses. In single root-knot juvenile infections, there is little or no observable root swelling and the gelatinous matrix exudes to the outside of the root and resembles that of the previously described reniform nematode eggmass. A single female deposits an average of 350 eggs in the eggmass. Under subtropical and tropical conditions, as many as 14 to 17 generations are possible in one year
+Text Len: 1746
+--------------------------------------------------------------------------------
+. In single root-knot juvenile infections, there is little or no observable root swelling and the gelatinous matrix exudes to the outside of the root and resembles that of the previously described reniform nematode eggmass. A single female deposits an average of 350 eggs in the eggmass. Under subtropical and tropical conditions, as many as 14 to 17 generations are possible in one year's time. The debilitating effects of the nematode on the plant may involve: 1) competition for nutrients and food, 2) a reduced root system, 3) impaired uptake of water and nutrients because of a distorted vascular system, and/or 4) predisposition to fungal root rots.
+EPIDEMIOLOGY
+Because of their small size, root-knot nematodes do not traverse distances of more than a few inches in their lifetime. Root-knot nematodes are principally spread through cultivation and surface run-off or irrigation water.
+MANAGEMENT
+CHEMICAL CONTROL
+Preplant fumigation are effective against root-knot nematodes. However, consideration must be given to first allow adequate time for breakdown of heavily galled roots. Moist root tissue is a barrier to the penetration of fumigants. Roots decay readily in moist soils and very slowly in dry ones.
+REFERENCES
+Ayala, A., Acosta, N., and Adsuar, J. A. 1971. A preliminary report on the response of Carica papaya to foliar applications of two systemic nematicides. Nematropica 1:10 (Abstr.).
+Cohn, E., and Duncan, L. W. 1990. Nematode parasites of subtropical and tropical fruit trees. Pages 347-362 in: Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, and J. Bridge, eds. CAB International
+Text Len: 1646
+--------------------------------------------------------------------------------
+atropica 1:10 (Abstr.).
+Cohn, E., and Duncan, L. W. 1990. Nematode parasites of subtropical and tropical fruit trees. Pages 347-362 in: Plant Parasitic Nematodes in Subtropical and Tropical Agriculture. M. Luc, R. A. Sikora, and J. Bridge, eds. CAB International, Wallingford, UK.
+Hine, R. B., Holtzmann, O. V., and Raabe, R. D. 1965. Diseases of papaya (Carica papaya L.) in Hawaii. Hawaii Agric. Exp. Stn. Bull. 136, Univ. of Hawaii, 26 pp.
+Lange, A. H. 1960. The effect of fumigation on the papaya replant problem in two Hawaiian soils. Proc. Amer. Hort. Soc. 75:305-312.
+McSorley, R. 1981. Plant parasitic nematodes associated with tropical and subtropical fruits. Florida Agric. Exp. Stn. Bull. 823, Univ. of Florida, 49 pp.
+    JANUARY 1993
+  3A-MELSP
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 817
+--------------------------------------------------------------------------------

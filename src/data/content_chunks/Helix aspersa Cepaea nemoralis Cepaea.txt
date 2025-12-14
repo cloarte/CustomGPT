@@ -1,0 +1,246 @@
+PPQ Permit Services Mollusk Decision Matrix 
+A guide for USDA Pest Permits for select mollusk species intended for Education 
+               Last revised:  April 2017
+Helix 
+aspersa 
+Cepaea 
+nemoralis 
+Cepaea 
+hortensis 
+Otala  
+lactea 
+Mesodon 
+thyroidus 
+Neohelix 
+albolabris 
+Ariolimax 
+columbianus 
+Monadenia 
+fidelis 
+Deroceras  
+reticulatum, 
+D. laeve
+ 
+Yes = USDA will 
+consider 
+x = USDA will 
+not permit 
+Brown 
+Garden 
+Snail 
+Brown 
+Lipped 
+Snail 
+White 
+Lipped 
+Snail 
+Milk Snail 
+Whitelip 
+Globe 
+Snail 
+Whitelip 
+Snail 
+Pacific Banana 
+Slug 
+Pacific 
+Sideband 
+Snail 
+Grey Garden 
+Slug, 
+Marsh Slug 
+Alabama  x   x   x   x  Yes Yes x x Yes/x
+Alaska  x   x   x   x   x   x  Yes Yes Yes
+Arizona  Yes  x   x  Yes  x   x  Yes x Yes
+Arkansas  x   x   x   x  Yes Yes x x Yes
+California Yes          x  x  Yes  x   x  Yes Yes Yes
+Colorado  x  Yes  x   x   x   x  x x
+Text Len: 872
+--------------------------------------------------------------------------------
+   x  Yes  x   x  Yes x Yes
+Arkansas  x   x   x   x  Yes Yes x x Yes
+California Yes          x  x  Yes  x   x  Yes Yes Yes
+Colorado  x  Yes  x   x   x   x  x x Yes
+Connecticut  x   x   x   x  Yes  x  x x Yes
+Delaware  x   x   x   x  Yes Yes x x x
+Florida  x   x   x   x Yes  x x x Yes
+Georgia  x   x   x    x   x   x x x  x
+Hawaii  x   x   x   x   x   x  x x x
+Idaho  x   x   x   x   x   x  x x Yes
+Illinois  x   x   x   x  Yes Yes x x Yes
+Indiana  x   x   x   x  Yes Yes x x Yes
+Iowa  x   x   x   x  Yes Yes x x Yes
+Kansas  x   x   x   x   x   x  x x Yes
+Kentucky  x  Yes  x   x  Yes Yes x x Yes
+Louisiana  x   x   x   x  Yes Yes x x Yes
+Maine  x   x  Yes  x   x  Yes x x Yes
+Maryland  x   x   x   x  Yes Yes x x Yes
+Massachusetts  x  Yes Yes  x  Yes Yes x x Yes
+Michigan  x   x   x 
+Text Len: 784
+--------------------------------------------------------------------------------
+ x   x   x  Yes Yes x x Yes
+Maine  x   x  Yes  x   x  Yes x x Yes
+Maryland  x   x   x   x  Yes Yes x x Yes
+Massachusetts  x  Yes Yes  x  Yes Yes x x Yes
+Michigan  x   x   x   x  Yes Yes x x Yes
+Minnesota  x   x   x   x  Yes Yes x x Yes
+Mississippi  x   x   x  Yes Yes Yes x x Yes
+Missouri  x   x   x   x  Yes Yes x x Yes
+Montana  x   x   x   x   x   x  x x Yes
+Nebraska  x   x   x   x   x   x  x x Yes
+Nevada  x   x   x   x   x   x  x x Yes
+New Hampshire  x   x  Yes  x   x  Yes x x Yes
+New Jersey  x  Yes Yes  x  Yes Yes x x Yes
+New Mexico Yes  x   x   x   x   x  x x Yes
+New York  x  Yes Yes  x  Yes Yes x x Yes
+North Carolina  x   x   x   x  Yes Yes x x Yes
+North Dakota  x   x   x   x   x  Yes x x Yes
+Ohio  x  Yes  x   x  Yes Yes x x Yes
+Oklahoma  x   x   x   x  Yes Yes x x Yes
+Oregon  x   x   x   x   x   x  Yes Yes Yes
+Pennsylvania  x 
+Text Len: 843
+--------------------------------------------------------------------------------
+   x   x   x  Yes x x Yes
+Ohio  x  Yes  x   x  Yes Yes x x Yes
+Oklahoma  x   x   x   x  Yes Yes x x Yes
+Oregon  x   x   x   x   x   x  Yes Yes Yes
+Pennsylvania  x  Yes  x   x  Yes Yes x x Yes
+Rhode Island  x  Yes Yes  x  Yes  x  x x Yes
+South Carolina  x   x   x   x  Yes Yes x x Yes
+South Dakota  x   x   x   x   x   x  x x Yes
+Tennessee  x  Yes  x   x  Yes Yes x x Yes
+Texas Yes  x   x  Yes Yes Yes x x Yes
+Utah  x  x   x   x   x   x  x x x
+Vermont  x   x   x   x   x  Yes x x x
+Virginia  x  Yes  x   x  Yes Yes x x Yes
+Washington Yes Yes  x   x   x   x  Yes Yes Yes
+West Virginia  x   x   x   x  Yes Yes x x Yes
+Wisconsin  x   x  x   x  Yes Yes x x Yes
+Wyoming  x   x   x   x   x   x  x x Yes
+Wash. DC  x  Yes  x   x  Yes Yes x x Yes 
+Text Len: 737
+--------------------------------------------------------------------------------
+PPQ Permit Services Mollusk Decision Matrix 
+A guide for USDA Pest Permits for select mollusk species intended for Education 
+               Last revised:  April 2017
+Helix 
+aspersa 
+Cepaea 
+nemoralis 
+Cepaea 
+hortensis 
+Otala  
+lactea 
+Mesodon 
+thyroidus 
+Neohelix 
+albolabris 
+Ariolimax 
+columbianus 
+Monadenia 
+fidelis 
+Deroceras  
+reticulatum, 
+D. laeve
+ 
+Yes = USDA will 
+consider 
+x = USDA will 
+not permit 
+Brown 
+Garden 
+Snail 
+Brown 
+Lipped 
+Snail 
+White 
+Lipped 
+Snail 
+Milk Snail 
+Whitelip 
+Globe 
+Snail 
+Whitelip 
+Snail 
+Pacific Banana 
+Slug 
+Pacific 
+Sideband 
+Snail 
+Grey Garden 
+Slug, 
+Marsh Slug 
+Alabama  x   x   x   x  Yes Yes x x Yes/x
+Alaska  x   x   x   x   x   x  Yes Yes Yes
+Arizona  Yes  x   x  Yes  x   x  Yes x Yes
+Arkansas  x   x   x   x  Yes Yes x x Yes
+California Yes          x  x  Yes  x   x  Yes Yes Yes
+Colorado  x  Yes  x   x   x   x  x x
+Text Len: 872
+--------------------------------------------------------------------------------
+   x  Yes  x   x  Yes x Yes
+Arkansas  x   x   x   x  Yes Yes x x Yes
+California Yes          x  x  Yes  x   x  Yes Yes Yes
+Colorado  x  Yes  x   x   x   x  x x Yes
+Connecticut  x   x   x   x  Yes  x  x x Yes
+Delaware  x   x   x   x  Yes Yes x x x
+Florida  x   x   x   x Yes  x x x Yes
+Georgia  x   x   x    x   x   x x x  x
+Hawaii  x   x   x   x   x   x  x x x
+Idaho  x   x   x   x   x   x  x x Yes
+Illinois  x   x   x   x  Yes Yes x x Yes
+Indiana  x   x   x   x  Yes Yes x x Yes
+Iowa  x   x   x   x  Yes Yes x x Yes
+Kansas  x   x   x   x   x   x  x x Yes
+Kentucky  x  Yes  x   x  Yes Yes x x Yes
+Louisiana  x   x   x   x  Yes Yes x x Yes
+Maine  x   x  Yes  x   x  Yes x x Yes
+Maryland  x   x   x   x  Yes Yes x x Yes
+Massachusetts  x  Yes Yes  x  Yes Yes x x Yes
+Michigan  x   x   x 
+Text Len: 784
+--------------------------------------------------------------------------------
+ x   x   x  Yes Yes x x Yes
+Maine  x   x  Yes  x   x  Yes x x Yes
+Maryland  x   x   x   x  Yes Yes x x Yes
+Massachusetts  x  Yes Yes  x  Yes Yes x x Yes
+Michigan  x   x   x   x  Yes Yes x x Yes
+Minnesota  x   x   x   x  Yes Yes x x Yes
+Mississippi  x   x   x  Yes Yes Yes x x Yes
+Missouri  x   x   x   x  Yes Yes x x Yes
+Montana  x   x   x   x   x   x  x x Yes
+Nebraska  x   x   x   x   x   x  x x Yes
+Nevada  x   x   x   x   x   x  x x Yes
+New Hampshire  x   x  Yes  x   x  Yes x x Yes
+New Jersey  x  Yes Yes  x  Yes Yes x x Yes
+New Mexico Yes  x   x   x   x   x  x x Yes
+New York  x  Yes Yes  x  Yes Yes x x Yes
+North Carolina  x   x   x   x  Yes Yes x x Yes
+North Dakota  x   x   x   x   x  Yes x x Yes
+Ohio  x  Yes  x   x  Yes Yes x x Yes
+Oklahoma  x   x   x   x  Yes Yes x x Yes
+Oregon  x   x   x   x   x   x  Yes Yes Yes
+Pennsylvania  x 
+Text Len: 843
+--------------------------------------------------------------------------------
+   x   x   x  Yes x x Yes
+Ohio  x  Yes  x   x  Yes Yes x x Yes
+Oklahoma  x   x   x   x  Yes Yes x x Yes
+Oregon  x   x   x   x   x   x  Yes Yes Yes
+Pennsylvania  x  Yes  x   x  Yes Yes x x Yes
+Rhode Island  x  Yes Yes  x  Yes  x  x x Yes
+South Carolina  x   x   x   x  Yes Yes x x Yes
+South Dakota  x   x   x   x   x   x  x x Yes
+Tennessee  x  Yes  x   x  Yes Yes x x Yes
+Texas Yes  x   x  Yes Yes Yes x x Yes
+Utah  x  x   x   x   x   x  x x x
+Vermont  x   x   x   x   x  Yes x x x
+Virginia  x  Yes  x   x  Yes Yes x x Yes
+Washington Yes Yes  x   x   x   x  Yes Yes Yes
+West Virginia  x   x   x   x  Yes Yes x x Yes
+Wisconsin  x   x  x   x  Yes Yes x x Yes
+Wyoming  x   x   x   x   x   x  x x Yes
+Wash. DC  x  Yes  x   x  Yes Yes x x Yes 
+Text Len: 737
+--------------------------------------------------------------------------------

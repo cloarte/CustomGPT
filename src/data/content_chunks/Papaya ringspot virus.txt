@@ -1,0 +1,124 @@
+Crop Knowledge Master
+Papaya Ringspot Virus (P-strain)
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Dennis Gonsalves
+(In: W.Nishijima’s papaya compendium)
+HOSTS
+The host range of PRV is limited to plants in the families Caricaceae, Cucurbitaceae, and Chenopodiaceae.
+DISTRIBUTION
+Papaya ringspot is one of the most destructive diseases of papaya and occurs in nearly every region where papaya is grown except for Africa. It is particularly severe in areas of Thailand, Taiwan, the Philippines, and the southern region of The People's Republic of China. Additionally, the disease is widespread in the Caribbean islands and South America, and is found in the papaya growing areas of the U.S., including Florida, Hawaii, and Texas.
+Synonyms for this disease on papaya are: papaya distortion ringspot and papaya mosaic (this term occurs in the older literature and should not be confused with a virus disease caused by the papaya mosaic virus which is a potexvirus).
+SYMPTOMS
+Symptoms induced by different isolates of PRV-p may vary in intensity, but dark green, often slightly sunken, rings are diagnostic. The number of rings on fruits can be variable, and the rings become less distinct as the fruit matures and yellows. Fruits often show uneven bumps, especially those fruits that develop after a tree is infected.
+Other key symptoms are intense yellow mosaic on leaf lamina and numerous "oily" streaks on petioles. The leaf canopy becomes smaller as the disease progresses due to the development of smaller leaves and stunting of the plant. Fruit yield and brix levels are markedly lower than fruit from healthy plants. Leaf and fruit symptoms are most intense during the cool
+Text Len: 1735
+--------------------------------------------------------------------------------
+ that develop after a tree is infected.
+Other key symptoms are intense yellow mosaic on leaf lamina and numerous "oily" streaks on petioles. The leaf canopy becomes smaller as the disease progresses due to the development of smaller leaves and stunting of the plant. Fruit yield and brix levels are markedly lower than fruit from healthy plants. Leaf and fruit symptoms are most intense during the cool season. Leaves often develop a shoe-string appearance caused by the extreme reduction of leaf lamina similar to that caused by broad mites.
+Papaya trees of all ages are susceptible and generally will show symptoms two to three weeks after inoculation. Trees infected at a very young stage never produce fruit but rarely die because of the disease. There are, however, some isolates in Taiwan which cause wilting and sometimes death of young trees.
+BIOLOGY
+These viruses typically have long flexuous rod-shaped particles about 800-900 nm long and are transmitted by numerous species of aphids in a nonpersistent manner. Papaya ringspot virus is grouped into two types, PRV-p and PRV-w. The former type infects both papaya and cucurbits while the latter type infects cucurbits but not papaya. In fact, PRV-w causes major damage to cucurbits and was previously referred to as watermelon mosaic virus I. Both types cause local lesions on Chenopodium quinoa and C. amaranticolor.
+EPIDEMIOLOGY
+Papaya ringspot virus can be rapidly spread by several aphid species in a nonpersistent manner. Though many cucurbits are susceptible to PRV-p, they do not serve as an important alternate host. Instead, the dominant strain in cucurbits is PRV-w. Therefore, the spread of the virus (PRV-p) into and within an orchard is primarily from papaya to papaya. There is no evidence that PR
+Text Len: 1771
+--------------------------------------------------------------------------------
+ species in a nonpersistent manner. Though many cucurbits are susceptible to PRV-p, they do not serve as an important alternate host. Instead, the dominant strain in cucurbits is PRV-w. Therefore, the spread of the virus (PRV-p) into and within an orchard is primarily from papaya to papaya. There is no evidence that PRV can be transmitted through seeds from infected papaya or cucurbits.
+The development of the disease in an orchard follows the general pattern of viruses that are spread by aphids in a nonpersistent manner. The amount of primary infection increases as the distance from infected papaya trees decrease. Secondary infection spreads rapidly and an orchard can become totally infected in three to four months. This situation occurs in young orchards located close to infected plants and during periods when populations of winged aphid flights are high.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Efforts to control papaya ringspot in papaya have included roguing, breeding for tolerance to PRV-p, cultural practices, and cross protection. None of these methods, individually, provide ideal control of the disease. In most cases, the best control is achieved by using a combination of these approaches.
+In Hawaii PRV-p has been kept out of the Puna district of Hawaii where nearly 98% of the state's commercial papaya is produced. Their success is due to the regular monitoring and rouging of infected papaya by the State Department of Agriculture in the surrounding areas, and discouraging the movement of seedlings into the Puna district.
+Several obvious cultural practices are useful for reducing crop damage. The most important is to establish orchards with seedlings that are not infected with PRV-p. Secondly, new orchards should be situated as far as feasible from infected orchards. Orchards should not be established by interplanting seedlings among
+Text Len: 1862
+--------------------------------------------------------------------------------
+ and discouraging the movement of seedlings into the Puna district.
+Several obvious cultural practices are useful for reducing crop damage. The most important is to establish orchards with seedlings that are not infected with PRV-p. Secondly, new orchards should be situated as far as feasible from infected orchards. Orchards should not be established by interplanting seedlings among trees that are infected with PRV-p. Additionally, disease incidence can be reduced by planting a non-host crop, such as corn, around the orchard and even between rows. The rationale for this is that aphids flying into the papaya orchard would first land and feed on the alternate crop and lose their ability to transmit the virus to papaya due to the nonpersistent mode of transmission.
+Papaya varieties that are tolerant to PRV-p have been developed from breeding programs in Florida and Taiwan. In both cases, tolerance is obtained from a dioecious papaya variety selected by the late Dr. Richard Conover of the University of Florida. The tolerant character is polygenic and is inherited quantitatively. These tolerant varieties are susceptible to PRV-p but the fruit and leaf symptoms are milder and infected trees produce reasonable quantities of fruit. Commercial tolerant varieties of the Hawaiian solo type papaya have not yet been developed.
+Cross protection has been applied to the control of this disease in different regions of the world with varying degrees of success. From the practical standpoint, cross protection is defined as "the use of a mild strain to protect plants against economic damage caused by infection with a severe strain(s) of the same virus." The basic procedure includes inoculating seedlings with a mild strain prior to planting the trees out into orchards. A nitrous acid mutant of a PRV strain from Hawaii has been used extensively. The level of protection is variable depending on the geographic region where cross protection is used. For example, cross protection is highly
+Text Len: 1998
+--------------------------------------------------------------------------------
+ damage caused by infection with a severe strain(s) of the same virus." The basic procedure includes inoculating seedlings with a mild strain prior to planting the trees out into orchards. A nitrous acid mutant of a PRV strain from Hawaii has been used extensively. The level of protection is variable depending on the geographic region where cross protection is used. For example, cross protection is highly successful in Hawaii, moderately successful in Taiwan, and not successful in Thailand. In Taiwan, the practice of cross protection has been applied to thousands of trees every year since 1984. Cross protection is most effective when protected orchards are isolated from severely infected trees and when rouging is done prior to the flowering stage.
+Although resistance has not been found in Carica papaya, efforts are being made to introduce resistant genes into that species by interspecific cross followed by embryo rescue. Also, genetically engineered papaya containing the coat protein gene of papaya ringspot have been produced and initial results show that these plants are resistant to PRV infection.
+REFERENCES
+Conover, R. A., Litz, R. E., and Malo, S. E. 1986. 'Cariflora'--a papaya ringspot virus tolerant papaya for South Florida and the Caribbean. HortScience 21:1072.
+Fitch, M. M., Manshardt, R. M., Gonsalves, D., Slightom, J. L., and Sanford, J. C. 1990. Stable transformation of papaya via microprojectile bombardment. Plant Cell Rep. 9:189-194.
+Purcifull, D., Edwardson, J., Hiebert, E., and Gonsalves, D. 1984. Papaya ringspot virus. CMI/AAB Descriptions of Plant Viruses No. 292 (No. 84 Revised, July 1984). 8 pp.
+Yeh, S. -D.,
+Text Len: 1654
+--------------------------------------------------------------------------------
+ Plant Cell Rep. 9:189-194.
+Purcifull, D., Edwardson, J., Hiebert, E., and Gonsalves, D. 1984. Papaya ringspot virus. CMI/AAB Descriptions of Plant Viruses No. 292 (No. 84 Revised, July 1984). 8 pp.
+Yeh, S. -D., and Gonsalves, D. 1984. Evaluation of induced mutants of papaya ringspot virus for control by cross protection. Phytopathology 74:1086-1091.
+Yeh, S. -D., Gonsalves, D., Wang, H. -L., Namba, R., and Chiu, R. -J. 1988. Control of papaya ringspot virus by cross protection. Plant Dis. 72:375-382.
+    JANUARY 1993
+  3A-PRSVP
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 593
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Papaya Ringspot Virus (P-strain)
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Dennis Gonsalves
+(In: W.Nishijima’s papaya compendium)
+HOSTS
+The host range of PRV is limited to plants in the families Caricaceae, Cucurbitaceae, and Chenopodiaceae.
+DISTRIBUTION
+Papaya ringspot is one of the most destructive diseases of papaya and occurs in nearly every region where papaya is grown except for Africa. It is particularly severe in areas of Thailand, Taiwan, the Philippines, and the southern region of The People's Republic of China. Additionally, the disease is widespread in the Caribbean islands and South America, and is found in the papaya growing areas of the U.S., including Florida, Hawaii, and Texas.
+Synonyms for this disease on papaya are: papaya distortion ringspot and papaya mosaic (this term occurs in the older literature and should not be confused with a virus disease caused by the papaya mosaic virus which is a potexvirus).
+SYMPTOMS
+Symptoms induced by different isolates of PRV-p may vary in intensity, but dark green, often slightly sunken, rings are diagnostic. The number of rings on fruits can be variable, and the rings become less distinct as the fruit matures and yellows. Fruits often show uneven bumps, especially those fruits that develop after a tree is infected.
+Other key symptoms are intense yellow mosaic on leaf lamina and numerous "oily" streaks on petioles. The leaf canopy becomes smaller as the disease progresses due to the development of smaller leaves and stunting of the plant. Fruit yield and brix levels are markedly lower than fruit from healthy plants. Leaf and fruit symptoms are most intense during the cool
+Text Len: 1735
+--------------------------------------------------------------------------------
+ that develop after a tree is infected.
+Other key symptoms are intense yellow mosaic on leaf lamina and numerous "oily" streaks on petioles. The leaf canopy becomes smaller as the disease progresses due to the development of smaller leaves and stunting of the plant. Fruit yield and brix levels are markedly lower than fruit from healthy plants. Leaf and fruit symptoms are most intense during the cool season. Leaves often develop a shoe-string appearance caused by the extreme reduction of leaf lamina similar to that caused by broad mites.
+Papaya trees of all ages are susceptible and generally will show symptoms two to three weeks after inoculation. Trees infected at a very young stage never produce fruit but rarely die because of the disease. There are, however, some isolates in Taiwan which cause wilting and sometimes death of young trees.
+BIOLOGY
+These viruses typically have long flexuous rod-shaped particles about 800-900 nm long and are transmitted by numerous species of aphids in a nonpersistent manner. Papaya ringspot virus is grouped into two types, PRV-p and PRV-w. The former type infects both papaya and cucurbits while the latter type infects cucurbits but not papaya. In fact, PRV-w causes major damage to cucurbits and was previously referred to as watermelon mosaic virus I. Both types cause local lesions on Chenopodium quinoa and C. amaranticolor.
+EPIDEMIOLOGY
+Papaya ringspot virus can be rapidly spread by several aphid species in a nonpersistent manner. Though many cucurbits are susceptible to PRV-p, they do not serve as an important alternate host. Instead, the dominant strain in cucurbits is PRV-w. Therefore, the spread of the virus (PRV-p) into and within an orchard is primarily from papaya to papaya. There is no evidence that PR
+Text Len: 1771
+--------------------------------------------------------------------------------
+ species in a nonpersistent manner. Though many cucurbits are susceptible to PRV-p, they do not serve as an important alternate host. Instead, the dominant strain in cucurbits is PRV-w. Therefore, the spread of the virus (PRV-p) into and within an orchard is primarily from papaya to papaya. There is no evidence that PRV can be transmitted through seeds from infected papaya or cucurbits.
+The development of the disease in an orchard follows the general pattern of viruses that are spread by aphids in a nonpersistent manner. The amount of primary infection increases as the distance from infected papaya trees decrease. Secondary infection spreads rapidly and an orchard can become totally infected in three to four months. This situation occurs in young orchards located close to infected plants and during periods when populations of winged aphid flights are high.
+MANAGEMENT
+NON-CHEMICAL CONTROL
+Efforts to control papaya ringspot in papaya have included roguing, breeding for tolerance to PRV-p, cultural practices, and cross protection. None of these methods, individually, provide ideal control of the disease. In most cases, the best control is achieved by using a combination of these approaches.
+In Hawaii PRV-p has been kept out of the Puna district of Hawaii where nearly 98% of the state's commercial papaya is produced. Their success is due to the regular monitoring and rouging of infected papaya by the State Department of Agriculture in the surrounding areas, and discouraging the movement of seedlings into the Puna district.
+Several obvious cultural practices are useful for reducing crop damage. The most important is to establish orchards with seedlings that are not infected with PRV-p. Secondly, new orchards should be situated as far as feasible from infected orchards. Orchards should not be established by interplanting seedlings among
+Text Len: 1862
+--------------------------------------------------------------------------------
+ and discouraging the movement of seedlings into the Puna district.
+Several obvious cultural practices are useful for reducing crop damage. The most important is to establish orchards with seedlings that are not infected with PRV-p. Secondly, new orchards should be situated as far as feasible from infected orchards. Orchards should not be established by interplanting seedlings among trees that are infected with PRV-p. Additionally, disease incidence can be reduced by planting a non-host crop, such as corn, around the orchard and even between rows. The rationale for this is that aphids flying into the papaya orchard would first land and feed on the alternate crop and lose their ability to transmit the virus to papaya due to the nonpersistent mode of transmission.
+Papaya varieties that are tolerant to PRV-p have been developed from breeding programs in Florida and Taiwan. In both cases, tolerance is obtained from a dioecious papaya variety selected by the late Dr. Richard Conover of the University of Florida. The tolerant character is polygenic and is inherited quantitatively. These tolerant varieties are susceptible to PRV-p but the fruit and leaf symptoms are milder and infected trees produce reasonable quantities of fruit. Commercial tolerant varieties of the Hawaiian solo type papaya have not yet been developed.
+Cross protection has been applied to the control of this disease in different regions of the world with varying degrees of success. From the practical standpoint, cross protection is defined as "the use of a mild strain to protect plants against economic damage caused by infection with a severe strain(s) of the same virus." The basic procedure includes inoculating seedlings with a mild strain prior to planting the trees out into orchards. A nitrous acid mutant of a PRV strain from Hawaii has been used extensively. The level of protection is variable depending on the geographic region where cross protection is used. For example, cross protection is highly
+Text Len: 1998
+--------------------------------------------------------------------------------
+ damage caused by infection with a severe strain(s) of the same virus." The basic procedure includes inoculating seedlings with a mild strain prior to planting the trees out into orchards. A nitrous acid mutant of a PRV strain from Hawaii has been used extensively. The level of protection is variable depending on the geographic region where cross protection is used. For example, cross protection is highly successful in Hawaii, moderately successful in Taiwan, and not successful in Thailand. In Taiwan, the practice of cross protection has been applied to thousands of trees every year since 1984. Cross protection is most effective when protected orchards are isolated from severely infected trees and when rouging is done prior to the flowering stage.
+Although resistance has not been found in Carica papaya, efforts are being made to introduce resistant genes into that species by interspecific cross followed by embryo rescue. Also, genetically engineered papaya containing the coat protein gene of papaya ringspot have been produced and initial results show that these plants are resistant to PRV infection.
+REFERENCES
+Conover, R. A., Litz, R. E., and Malo, S. E. 1986. 'Cariflora'--a papaya ringspot virus tolerant papaya for South Florida and the Caribbean. HortScience 21:1072.
+Fitch, M. M., Manshardt, R. M., Gonsalves, D., Slightom, J. L., and Sanford, J. C. 1990. Stable transformation of papaya via microprojectile bombardment. Plant Cell Rep. 9:189-194.
+Purcifull, D., Edwardson, J., Hiebert, E., and Gonsalves, D. 1984. Papaya ringspot virus. CMI/AAB Descriptions of Plant Viruses No. 292 (No. 84 Revised, July 1984). 8 pp.
+Yeh, S. -D.,
+Text Len: 1654
+--------------------------------------------------------------------------------
+ Plant Cell Rep. 9:189-194.
+Purcifull, D., Edwardson, J., Hiebert, E., and Gonsalves, D. 1984. Papaya ringspot virus. CMI/AAB Descriptions of Plant Viruses No. 292 (No. 84 Revised, July 1984). 8 pp.
+Yeh, S. -D., and Gonsalves, D. 1984. Evaluation of induced mutants of papaya ringspot virus for control by cross protection. Phytopathology 74:1086-1091.
+Yeh, S. -D., Gonsalves, D., Wang, H. -L., Namba, R., and Chiu, R. -J. 1988. Control of papaya ringspot virus by cross protection. Plant Dis. 72:375-382.
+    JANUARY 1993
+  3A-PRSVP
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 593
+--------------------------------------------------------------------------------

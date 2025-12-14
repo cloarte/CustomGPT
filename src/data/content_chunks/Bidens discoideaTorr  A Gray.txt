@@ -1,0 +1,34 @@
+Family:  ASTERACEAE  ;
+Species:  Bidens discoidea(Torr. & A. Gray) Britton  ;
+Common Name:  Swamp Beggarticks; Small Beggarticks; Few Bract Beggarticks  ;
+Habitat:  Edges of ponds and marshes.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACW (NWI)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 508
+--------------------------------------------------------------------------------
+Family:  ASTERACEAE  ;
+Species:  Bidens discoidea(Torr. & A. Gray) Britton  ;
+Common Name:  Swamp Beggarticks; Small Beggarticks; Few Bract Beggarticks  ;
+Habitat:  Edges of ponds and marshes.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,FACW (NWI)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 508
+--------------------------------------------------------------------------------

@@ -1,0 +1,576 @@
+USDA/NASS-1
+    System Name: Agricultural Survey Records, USDA/NASS-1.
+    Security Classification: None.
+    System Location:    Agricultural survey records are located at the following sites:
+   
+•  NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+•  USDA National Information Technology Center (NIT C) facility at 8930 Ward Parkway, Kansas City, MO
+64114,
+• U.S. Census Bureau National Processing Center (NPC ) facility at 1201 East 10th Street, Jeffersonville, IN
+47132, NASS Field Offices.
+The address of each Field Office (FO) is listed in telephone directories of the respective cities under the heading
+``United States Government, Department of Agriculture, National Agricultural Statistics Service (NASS),'' or
+``USDA's NASS (State) Field Office.''
+Categories of Individuals Covered by the System: Farm and ranch operators and agri-businesses.
+Categories of Records in the System: Information on farm and ranch operators and agri-businesses includes name,
+address, telephone number, and agricultural survey data.
+Authority for Maintenance of the System: 7 U.S.C. 2204, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 
+1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Agricultural Survey Records system provides effective and efficient electronic survey
+management, data entry, data collection, data editing, data analysis, and data summarization or tabulation for
+hundreds of agricultural surveys annually.
+Text Len: 1652
+--------------------------------------------------------------------------------
+ Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 
+1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Agricultural Survey Records system provides effective and efficient electronic survey
+management, data entry, data collection, data editing, data analysis, and data summarization or tabulation for
+hundreds of agricultural surveys annually. These surveys 
+cover topics such as crop production, grain stocks, livestock inventories, prices paid and received by farmers and
+ranchers, farm labor, farm income, farm expenditures, farm numbers, chemical usage, and special follow-on
+surveys to the Census of Agriculture. The program 
+generates county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has confirmed that the security or
+confidentiality of information in the system of records has been compromised; (2) NASS has determined that as a
+result of the suspected or confirmed compromises, there is a risk of harm to economic or property interests, identity
+theft or fraud, or harm to the security or integrity of this system or other systems or programs (whether maintained
+by NASS or another entity) that rely upon the compromised information;
+Text Len: 1886
+--------------------------------------------------------------------------------
+ in the system of records has been compromised; (2) NASS has determined that as a
+result of the suspected or confirmed compromises, there is a risk of harm to economic or property interests, identity
+theft or fraud, or harm to the security or integrity of this system or other systems or programs (whether maintained
+by NASS or another entity) that rely upon the compromised information; and (3) the disclosure made to such
+agencies, entities, and persons is reasonably necessary to assist in connection with NASS' efforts to respond to the
+suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need access to the records
+in order to perform the activity. Recipients 
+shall be required to comply with the requirements of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C.
+552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+Storage: Paper copies are stored inside at the locations identified above. Electronic survey data are stored on NASS
+and NITC file servers. Some survey paper questionnaires are converted to electronic format at NPC and stored
+locally on NPC servers. Backup data are stored on 
+magnetic tapes.
+Retrievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires are stored inside locked file cabinets. Magnetic backup
+Text Len: 1900
+--------------------------------------------------------------------------------
+rievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires are stored inside locked file cabinets. Magnetic backup
+tapes and file servers are secured within areas to which access is limited to authorized personnel only. The NASS
+Memorandums of Understanding with NPC and NITC contain provisions for (1) network data 
+confidentiality, integrity, and availability, and (2) physical security.
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration (NARA) schedules.
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, system of records 
+name, and year that the agricultural survey questionnaire was completed.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager specified above.
+Record Source Categories: Information in this system comes solely from respondents to NASS agricultural surveys.
+Exemptions Claimed for the System: None.
+USDA/NASS-2
+  System Name: List Sampling Frame, USDA/NASS-2.
+  Security Classification: None.
+  System Location: List sampling frame records are located at the USDA National
+Text Len: 1977
+--------------------------------------------------------------------------------
+ above.
+Record Source Categories: Information in this system comes solely from respondents to NASS agricultural surveys.
+Exemptions Claimed for the System: None.
+USDA/NASS-2
+  System Name: List Sampling Frame, USDA/NASS-2.
+  Security Classification: None.
+  System Location: List sampling frame records are located at the USDA National Information Technology Center
+(NITC) facility at 8930 Ward Parkway, Kansas City, MO 64114.
+Categories of Individuals Covered by the System: Current, recent, and potential farmers, ranchers, and
+agri-businesses.
+Categories of Records in the System: Information on farmers, ranchers, and agri-businesses includes: name,
+address, telephone number, age, race or ethnic origin, gender, Social Security Number, Employer Identification
+Number, and some previous survey or census data (called control data) for efficiently selecting agricultural
+samples.
+ Authority for Maintenance of the System: 7 U.S.C. 2204, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 1400 Independence Avenue, SW., Washington,
+DC 20250.
+Purpose(s): The list sampling frame is used to provide samples of farms, ranches, and agri-businesses for the NASS
+annual survey program and to provide the mail list for the Census of Agriculture every 5 
+years. The frame is securely maintained on a database server. The Social Security Number and Employer
+Identification Number are used to assist in identifying duplication of names between various probability
+list samples and NASS area frame surveys. They are also used as part of the NAS
+Text Len: 1725
+--------------------------------------------------------------------------------
+businesses for the NASS
+annual survey program and to provide the mail list for the Census of Agriculture every 5 
+years. The frame is securely maintained on a database server. The Social Security Number and Employer
+Identification Number are used to assist in identifying duplication of names between various probability
+list samples and NASS area frame surveys. They are also used as part of the NASS list building and maintenance
+process when matching names currently on the NASS list sampling frame with lists maintained by other
+governmental agencies.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has 
+confirmed that the security or confidentiality of information in the system of records has been compromised; (2)
+NASS has determined that as a result of the suspected or confirmed compromise there is a risk of harm to economic
+or property interests, identity theft or fraud, or harm to the security or integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally,
+Text Len: 1914
+--------------------------------------------------------------------------------
+ integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C. 552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+ Storage: Machine readable name, address, and control data are located at the USDA NITC facility in Kansas City,
+MO. Data backups are stored on magnetic tapes also located at the NITC facility.
+ Retrievability: Data are retrieved by unique identification numbers internal to the agency. List sampling frame
+records are indexed by a record identifier assigned by each NASS Field Office. Each record also 
+can be accessed by its Social Security Number.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Magnetic backup tapes stored at NITC are secured within areas to which
+access is limited to authorized personnel only. The NASS Memorandum of 
+Understanding with NITC contains provisions for (1) network data confidentiality, integrity, and
+Text Len: 1887
+--------------------------------------------------------------------------------
+ legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Magnetic backup tapes stored at NITC are secured within areas to which
+access is limited to authorized personnel only. The NASS Memorandum of 
+Understanding with NITC contains provisions for (1) network data confidentiality, integrity, and availability and
+(2) physical security.
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, and system of records name.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager 
+specified above.
+Record Source Categories: Names to update the list sampling frame are assembled from a variety of sources. Data
+collected by NASS from the Agricultural Survey Program and Census of Agriculture are also used to update the list
+sampling frame records.  
+Exemptions Claimed for the System: None.
+USDA/NASS-3
+  System Name: Census of Agriculture Records, USDA/NASS-3.
+  Security Classification: None.
+  System Location: Census of Agriculture records are located at the following sites:
+• NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+• USDA National Information Technology Center (NIT C)
+Text Len: 1930
+--------------------------------------------------------------------------------
+USDA/NASS-3
+  System Name: Census of Agriculture Records, USDA/NASS-3.
+  Security Classification: None.
+  System Location: Census of Agriculture records are located at the following sites:
+• NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+• USDA National Information Technology Center (NIT C) facility at 8930 Ward Parkway, Kansas City, MO
+64114,
+• U.S. Census Bureau National Processing Center (NPC ) facility at 1201 East 10th Street, Jeffersonville, IN
+47132.
+Categories of Individuals Covered by the System: Farm and ranch operators.
+  
+Categories of Records in the System: Information on farm and ranch operators includes name, address, telephone
+number, age, race or ethnic origin, gender, and census agricultural data.
+Authority for Maintenance of the System: 7 U.S.C. 2204g, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:Associate Administrator, National Agricultural Statistics
+Service, 1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Census of Agriculture, conducted every 5 years, measures the economic well-being of farm and
+ranch operators. This is achieved by collecting, tabulating, and analyzing data on a range of 
+agricultural issues such as crop production, livestock inventories, labor costs, farm-related expenses, assets, and
+income to provide county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels.
+Text Len: 1685
+--------------------------------------------------------------------------------
+ of 
+agricultural issues such as crop production, livestock inventories, labor costs, farm-related expenses, assets, and
+income to provide county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has 
+confirmed that the security or confidentiality of information in the system of records has been compromised; (2)
+NASS has determined that as a result of the suspected or confirmed compromise there is a risk of harm to economic
+or property interests, identity theft or fraud, or harm to the security or integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of
+Text Len: 1890
+--------------------------------------------------------------------------------
+ confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C. 552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+Storage: Census paper questionnaires are converted into electronic format at NPC and stored locally on NPC
+servers. Electronic copies are transmitted to NASS servers located at NITC for storage and processing. Data
+backups are stored on magnetic tapes.
+Retrievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires at NPC are stored inside secured spaces. Magnetic
+backup tapes stored at NITC and NPC are secured within areas to which 
+access is limited to authorized personnel only. The NASS Memorandums of Understanding with NPC and NITC
+contain provisions for (1) network data confidentiality, integrity, and availability, and (2) physical 
+security.  
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.  
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC
+Text Len: 1896
+--------------------------------------------------------------------------------
+ network data confidentiality, integrity, and availability, and (2) physical 
+security.  
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.  
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, system of records name, and year that the Census ofAgriculture
+questionnaire was completed.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager 
+specified above.  
+Record Source Categories: Information in this system comes solely from responding farmers and ranchers.
+  
+Exemptions Claimed for the System: None.
+Text Len: 1174
+--------------------------------------------------------------------------------
+USDA/NASS-1
+    System Name: Agricultural Survey Records, USDA/NASS-1.
+    Security Classification: None.
+    System Location:    Agricultural survey records are located at the following sites:
+   
+•  NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+•  USDA National Information Technology Center (NIT C) facility at 8930 Ward Parkway, Kansas City, MO
+64114,
+• U.S. Census Bureau National Processing Center (NPC ) facility at 1201 East 10th Street, Jeffersonville, IN
+47132, NASS Field Offices.
+The address of each Field Office (FO) is listed in telephone directories of the respective cities under the heading
+``United States Government, Department of Agriculture, National Agricultural Statistics Service (NASS),'' or
+``USDA's NASS (State) Field Office.''
+Categories of Individuals Covered by the System: Farm and ranch operators and agri-businesses.
+Categories of Records in the System: Information on farm and ranch operators and agri-businesses includes name,
+address, telephone number, and agricultural survey data.
+Authority for Maintenance of the System: 7 U.S.C. 2204, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 
+1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Agricultural Survey Records system provides effective and efficient electronic survey
+management, data entry, data collection, data editing, data analysis, and data summarization or tabulation for
+hundreds of agricultural surveys annually.
+Text Len: 1652
+--------------------------------------------------------------------------------
+ Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 
+1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Agricultural Survey Records system provides effective and efficient electronic survey
+management, data entry, data collection, data editing, data analysis, and data summarization or tabulation for
+hundreds of agricultural surveys annually. These surveys 
+cover topics such as crop production, grain stocks, livestock inventories, prices paid and received by farmers and
+ranchers, farm labor, farm income, farm expenditures, farm numbers, chemical usage, and special follow-on
+surveys to the Census of Agriculture. The program 
+generates county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has confirmed that the security or
+confidentiality of information in the system of records has been compromised; (2) NASS has determined that as a
+result of the suspected or confirmed compromises, there is a risk of harm to economic or property interests, identity
+theft or fraud, or harm to the security or integrity of this system or other systems or programs (whether maintained
+by NASS or another entity) that rely upon the compromised information;
+Text Len: 1886
+--------------------------------------------------------------------------------
+ in the system of records has been compromised; (2) NASS has determined that as a
+result of the suspected or confirmed compromises, there is a risk of harm to economic or property interests, identity
+theft or fraud, or harm to the security or integrity of this system or other systems or programs (whether maintained
+by NASS or another entity) that rely upon the compromised information; and (3) the disclosure made to such
+agencies, entities, and persons is reasonably necessary to assist in connection with NASS' efforts to respond to the
+suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need access to the records
+in order to perform the activity. Recipients 
+shall be required to comply with the requirements of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C.
+552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+Storage: Paper copies are stored inside at the locations identified above. Electronic survey data are stored on NASS
+and NITC file servers. Some survey paper questionnaires are converted to electronic format at NPC and stored
+locally on NPC servers. Backup data are stored on 
+magnetic tapes.
+Retrievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires are stored inside locked file cabinets. Magnetic backup
+Text Len: 1900
+--------------------------------------------------------------------------------
+rievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires are stored inside locked file cabinets. Magnetic backup
+tapes and file servers are secured within areas to which access is limited to authorized personnel only. The NASS
+Memorandums of Understanding with NPC and NITC contain provisions for (1) network data 
+confidentiality, integrity, and availability, and (2) physical security.
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration (NARA) schedules.
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, system of records 
+name, and year that the agricultural survey questionnaire was completed.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager specified above.
+Record Source Categories: Information in this system comes solely from respondents to NASS agricultural surveys.
+Exemptions Claimed for the System: None.
+USDA/NASS-2
+  System Name: List Sampling Frame, USDA/NASS-2.
+  Security Classification: None.
+  System Location: List sampling frame records are located at the USDA National
+Text Len: 1977
+--------------------------------------------------------------------------------
+ above.
+Record Source Categories: Information in this system comes solely from respondents to NASS agricultural surveys.
+Exemptions Claimed for the System: None.
+USDA/NASS-2
+  System Name: List Sampling Frame, USDA/NASS-2.
+  Security Classification: None.
+  System Location: List sampling frame records are located at the USDA National Information Technology Center
+(NITC) facility at 8930 Ward Parkway, Kansas City, MO 64114.
+Categories of Individuals Covered by the System: Current, recent, and potential farmers, ranchers, and
+agri-businesses.
+Categories of Records in the System: Information on farmers, ranchers, and agri-businesses includes: name,
+address, telephone number, age, race or ethnic origin, gender, Social Security Number, Employer Identification
+Number, and some previous survey or census data (called control data) for efficiently selecting agricultural
+samples.
+ Authority for Maintenance of the System: 7 U.S.C. 2204, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:
+Associate Administrator, National Agricultural Statistics Service, 1400 Independence Avenue, SW., Washington,
+DC 20250.
+Purpose(s): The list sampling frame is used to provide samples of farms, ranches, and agri-businesses for the NASS
+annual survey program and to provide the mail list for the Census of Agriculture every 5 
+years. The frame is securely maintained on a database server. The Social Security Number and Employer
+Identification Number are used to assist in identifying duplication of names between various probability
+list samples and NASS area frame surveys. They are also used as part of the NAS
+Text Len: 1725
+--------------------------------------------------------------------------------
+businesses for the NASS
+annual survey program and to provide the mail list for the Census of Agriculture every 5 
+years. The frame is securely maintained on a database server. The Social Security Number and Employer
+Identification Number are used to assist in identifying duplication of names between various probability
+list samples and NASS area frame surveys. They are also used as part of the NASS list building and maintenance
+process when matching names currently on the NASS list sampling frame with lists maintained by other
+governmental agencies.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has 
+confirmed that the security or confidentiality of information in the system of records has been compromised; (2)
+NASS has determined that as a result of the suspected or confirmed compromise there is a risk of harm to economic
+or property interests, identity theft or fraud, or harm to the security or integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally,
+Text Len: 1914
+--------------------------------------------------------------------------------
+ integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C. 552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+ Storage: Machine readable name, address, and control data are located at the USDA NITC facility in Kansas City,
+MO. Data backups are stored on magnetic tapes also located at the NITC facility.
+ Retrievability: Data are retrieved by unique identification numbers internal to the agency. List sampling frame
+records are indexed by a record identifier assigned by each NASS Field Office. Each record also 
+can be accessed by its Social Security Number.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Magnetic backup tapes stored at NITC are secured within areas to which
+access is limited to authorized personnel only. The NASS Memorandum of 
+Understanding with NITC contains provisions for (1) network data confidentiality, integrity, and
+Text Len: 1887
+--------------------------------------------------------------------------------
+ legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Magnetic backup tapes stored at NITC are secured within areas to which
+access is limited to authorized personnel only. The NASS Memorandum of 
+Understanding with NITC contains provisions for (1) network data confidentiality, integrity, and availability and
+(2) physical security.
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, and system of records name.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager 
+specified above.
+Record Source Categories: Names to update the list sampling frame are assembled from a variety of sources. Data
+collected by NASS from the Agricultural Survey Program and Census of Agriculture are also used to update the list
+sampling frame records.  
+Exemptions Claimed for the System: None.
+USDA/NASS-3
+  System Name: Census of Agriculture Records, USDA/NASS-3.
+  Security Classification: None.
+  System Location: Census of Agriculture records are located at the following sites:
+• NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+• USDA National Information Technology Center (NIT C)
+Text Len: 1930
+--------------------------------------------------------------------------------
+USDA/NASS-3
+  System Name: Census of Agriculture Records, USDA/NASS-3.
+  Security Classification: None.
+  System Location: Census of Agriculture records are located at the following sites:
+• NASS Headquarters, 1400 Independen ce Avenue, SW., Washington, DC 20250,
+• USDA National Information Technology Center (NIT C) facility at 8930 Ward Parkway, Kansas City, MO
+64114,
+• U.S. Census Bureau National Processing Center (NPC ) facility at 1201 East 10th Street, Jeffersonville, IN
+47132.
+Categories of Individuals Covered by the System: Farm and ranch operators.
+  
+Categories of Records in the System: Information on farm and ranch operators includes name, address, telephone
+number, age, race or ethnic origin, gender, and census agricultural data.
+Authority for Maintenance of the System: 7 U.S.C. 2204g, 7 U.S.C. 2276, 44 U.S.C. 3501, and the Confidential
+Information Protection and Statistical Efficiency Act (CIPSEA) of 2002.
+Agency Official Responsible for System of Record:Associate Administrator, National Agricultural Statistics
+Service, 1400 Independence Avenue, SW., Washington, DC 20250.
+Purpose(s): The Census of Agriculture, conducted every 5 years, measures the economic well-being of farm and
+ranch operators. This is achieved by collecting, tabulating, and analyzing data on a range of 
+agricultural issues such as crop production, livestock inventories, labor costs, farm-related expenses, assets, and
+income to provide county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels.
+Text Len: 1685
+--------------------------------------------------------------------------------
+ of 
+agricultural issues such as crop production, livestock inventories, labor costs, farm-related expenses, assets, and
+income to provide county, State, regional, and national agricultural statistics.
+Disclosure of Information: Disclosure may be made only to sworn NASS employees for the purpose of compiling
+statistical aggregates at the county, State, regional, and national levels. Data records maintained by NASS are used
+solely for statistical purposes and are confidential under 7 U.S.C. 2204, 7 U.S.C. 2276, and CIPSEA of 2002.
+Publications and special summaries do not contain data that would divulge the identity of any individual operator or
+agri-business.
+Routine Use of Records: To the extent that disclosure will not violate any confidentiality statutes, disclosure will be
+made to appropriate agencies, entities, and persons if (1) NASS suspects or has 
+confirmed that the security or confidentiality of information in the system of records has been compromised; (2)
+NASS has determined that as a result of the suspected or confirmed compromise there is a risk of harm to economic
+or property interests, identity theft or fraud, or harm to the security or integrity of this system or other systems or
+programs (whether maintained by NASS or another entity) that rely upon the compromised information; and (3) the
+disclosure made to such agencies, entities, and persons is reasonably necessary to assist in connection with NASS'
+efforts to respond to the suspected or confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of
+Text Len: 1890
+--------------------------------------------------------------------------------
+ confirmed compromise and prevent, minimize, or remedy such harm.
+Additionally, this system provides for a routine use disclosure to agency contractors who have been engaged by
+NASS to assist in the performance of services related to this system of records and who need 
+access to the records in order to perform the activity. Recipients shall be required to comply with the requirements
+of the Privacy Act of 1974, as amended, pursuant to 5 U.S.C. 552a(m).
+Disclosure to Consumer Reporting Agencies: None.
+Policies and Practices for Storing, Retrieving, Accessing, Retaining, and Disposing of Records in the System
+Storage: Census paper questionnaires are converted into electronic format at NPC and stored locally on NPC
+servers. Electronic copies are transmitted to NASS servers located at NITC for storage and processing. Data
+backups are stored on magnetic tapes.
+Retrievability: Data are retrieved by unique identification numbers internal to the agency.
+Safeguards: All NASS employees are required to sign a pledge of confidentiality that carries severe legal penalties
+for violating the pledge. NASS employs physical security controls, logical access controls, technological controls,
+auditing, and monitoring of controls. Paper questionnaires at NPC are stored inside secured spaces. Magnetic
+backup tapes stored at NITC and NPC are secured within areas to which 
+access is limited to authorized personnel only. The NASS Memorandums of Understanding with NPC and NITC
+contain provisions for (1) network data confidentiality, integrity, and availability, and (2) physical 
+security.  
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.  
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC
+Text Len: 1896
+--------------------------------------------------------------------------------
+ network data confidentiality, integrity, and availability, and (2) physical 
+security.  
+Retention and Disposal: Retention and disposal practices are in accordance with approved National Archives and
+Records Administration schedules.  
+System Manager(s) and Address: Director, Census and Survey Division, National Agricultural Statistics Service,
+1400 Independence Avenue, SW., Washington, DC 20250.
+Notification Procedure: Any individual may request information as to whether the system contains records
+pertaining to him or her by contacting the system manager at the address specified above. The request for
+information should contain name, address, system of records name, and year that the Census ofAgriculture
+questionnaire was completed.
+Record Access Procedures: Same as notification procedure.
+Contesting Record Procedures: Any individual may obtain information as to the procedures for contesting a record
+in this system which pertains to him or her by submitting a request to the system manager 
+specified above.  
+Record Source Categories: Information in this system comes solely from responding farmers and ranchers.
+  
+Exemptions Claimed for the System: None.
+Text Len: 1174
+--------------------------------------------------------------------------------

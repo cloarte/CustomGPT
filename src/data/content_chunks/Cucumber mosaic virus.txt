@@ -1,0 +1,190 @@
+Crop Knowledge Master
+Cucumber Mosaic Virus
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+CMV has a wide range of hosts and attacks a great variety of vegetables, ornamentals, and other plants (as many as 191 host species in 40 families). Among the most important vegetables affected by cucumber mosaic are peppers (Capsicum annuum L.), cucurbits, tomatoes (Lycopersicon esculentum Mill.), and bananas (Musa L. spp.). In Hawaii, CMV occurs on honohono grass (Comellina spp.) - a weed, but apparently is not a local problem.
+Other vegetable hosts include: cucumber, muskmelon, squash, tomato, spinach, celery, peppers, water cress, beet, sweet potato, turnip, chayote, gherkin, watermelon, pumpkin, citron, gourd, lima bean, broad bean, onion, ground-cherry, eggplant, potato, rhubarb, carrot, dill, fennel, parsnip, parsley (Chupp and Sherf, 1960), loofah (Huang et al., 1987), artichoke (Chabbouh and Cherif, 1990).
+Ornamental hosts include: China aster, chrysanthemum, delphinium, salvia, geranium, gilia, gladiolus, heliotrope, hyacinth, larkspur, lily, marigold, morning glory, nasturtium, periwinkle, petunia, phlox, snapdragon, tulip, and zinnia (Chupp
+Text Len: 1377
+--------------------------------------------------------------------------------
+: China aster, chrysanthemum, delphinium, salvia, geranium, gilia, gladiolus, heliotrope, hyacinth, larkspur, lily, marigold, morning glory, nasturtium, periwinkle, petunia, phlox, snapdragon, tulip, and zinnia (Chupp and Sherf, 1960; Agrios, 1978).
+DISTRIBUTION
+World-wide, especially in temperate regions.
+SYMPTOMS
+Many variants of the virus occur, making it difficult to identify the CMV from symptoms alone. In addition, it is often difficult to distinguish CMV isolates from other cucumoviruses (i.e., alfalfa mosaic virus, tomato aspermy virus, peanut stunt virus). Described below are symptoms of common CMV hosts, and luffa, though it has not been reported to be a CMV host in Hawaii.
+Cucumber:
+Seedlings are seldom attacked during the first few weeks, but symptoms occur when the plants are about six weeks old and growing vigorously. Four or five days after infection, the leaves become mottled, distorted, and wrinkled, and their edges begin to curl downward. All subsequent growth is reduced, leaving the plants with a dwarfed appearance: shorter stem internodes and petioles, and underdeveloped leaves. Infected plants produce few runners and also few flowers and fruit. Older leaves develop chlorotic and then necrotic areas along the margins which later spread over the entire leaf. Dead leaves hang limp on the petiole or fall off, leaving part or most of the older vine bare (Agrios, 1978).
+Cucumbers produced after infection have pale green or white areas intermingled with dark green, bumpy areas. Fruit produced by the plants in the later stages of the disease are somewhat mis
+Text Len: 1597
+--------------------------------------------------------------------------------
+ areas along the margins which later spread over the entire leaf. Dead leaves hang limp on the petiole or fall off, leaving part or most of the older vine bare (Agrios, 1978).
+Cucumbers produced after infection have pale green or white areas intermingled with dark green, bumpy areas. Fruit produced by the plants in the later stages of the disease are somewhat mis-shapen but have a smooth gray-white color with some irregular green areas; these are often called "white pickle." Cucumbers with cucumber mosaic may have a bitter taste and make soggy pickles (Agrios, 1978).
+Cucurbits:
+For muskmelons and cucumbers, new leaves may wilt and die while older crown leaves may turn yellow then dry up, resulting in a slow decline of plant health (MacNab et al., 1983).
+Celery:
+CMV causes a mottling on celery leaflets, and sunken, buff-colored streaks and spots on petioles. Symptoms of CMV and celery mosaic virus (CeMV) are similar and may be difficult to distinguish on the basis of symptoms (MacNab et al., 1983).
+Lettuce:
+Infected lettuce plants are stunted, yellowish, and do not head properly. Symptoms are similar to lettuce mosaic virus (LMV) (MacNab et al., 1983).
+Peppers:
+CMV causes severe mosaic on pepper foliage. Older leaves may have large necrotic rings, fruit may be malformed, and conspicuous yellow concentric rings and/or spots are often on the fruit from infected plants (MacNab et al., 1983).
+Tomatoes:
+Plants are often stunted, have short internodes, and may have extremely distorted and malformed leaves, known as fernleaf (MacNab et al., 1983).
+Luffa
+Text Len: 1571
+--------------------------------------------------------------------------------
+ rings, fruit may be malformed, and conspicuous yellow concentric rings and/or spots are often on the fruit from infected plants (MacNab et al., 1983).
+Tomatoes:
+Plants are often stunted, have short internodes, and may have extremely distorted and malformed leaves, known as fernleaf (MacNab et al., 1983).
+Luffa:
+The early stages of the disease usually show a mosaic and chlorotic or irregular mottling of leaves but it becomes mild or disappears later. Four Luffa species have been tested (one species of L. acutangula, and three species of L. cylindrica - one of which was '7 Beauty') for CMV. All species were susceptible although the symptoms were masked at the late stages of growth. CMV is not considered a major virus threat to loofah, which is more threatened by ZYMV and WMV-1 (Huang et al., 1987).
+BIOLOGY
+Synonyms include: Cucumber virus 1; Cucumis virus 1; Marmor cucumeris; Spinach blight virus; and Tomato fern leaf virus.
+Cucumber mosaic virus has three functional pieces of single-stranded RNA, packaged in three icosahedral particles about 28 nm in diameter. The molecular weight of CMV falls in the range of 5.8 to 6.7 million, of which 18 percent is RNA and the remaining 82 percent protein. Cucumber mosaic virus exists in numerous strains that differ somewhat in their hosts, in the symptoms they produce, in the ways they are transmitted, and in other properties and characteristics (Agrios, 1978; Francki et al., 1979).
+CMV produces a systemic infection in most host plants. Older tissues and organs that developed prior to infection usually are not affected by the virus, but newer cells and tissues that develop after infection may be affected with varying severity. The
+Text Len: 1696
+--------------------------------------------------------------------------------
+, in the symptoms they produce, in the ways they are transmitted, and in other properties and characteristics (Agrios, 1978; Francki et al., 1979).
+CMV produces a systemic infection in most host plants. Older tissues and organs that developed prior to infection usually are not affected by the virus, but newer cells and tissues that develop after infection may be affected with varying severity. The concentration of the virus increases for several days following inoculation, then decreases until it levels off or the plant dies (Agrios, 1978). Infectivity is lost within a few days, and in some instances hours. CMV is relatively unstable when it is in plant extracts (sap), unable to withstand temperatures in excess of 70 C for 10 min (Francki et al., 1979).
+EPIDEMIOLOGY
+CMV is transmitted primarily by aphids, and also by seed, cucumber beetles, parasitic plants, humans, and mechanically.
+CMV is transmitted by more than 60 species of aphid, notably Aphis gossypii and Myzus persicae, in the non-persistent manner, and is readily transmissible through plant sap (Francki et al., 1979). CMV can be acquired in 5-10 seconds and transmitted in less than 1 minute. The ability of CMV to be transmitted declines after about 2 minutes and is usually lost within 2 hours. In addition, some isolates can lose their transmissibility by one aphid species but retain their transmissibility by another (Francki et al., 1979).
+Transmission through seed occurs to varying degrees in 19 host species, including some weeds; dissemination and persistence in weed seeds may be important in the epidemiology of CMV (Francki et al., 1979).
+Parasitic plants are able to host and transmit CMV. At least 10 species of Cuscuta (dodder) are able to multiply in and transmit CMV (Francki et al
+Text Len: 1775
+--------------------------------------------------------------------------------
+ through seed occurs to varying degrees in 19 host species, including some weeds; dissemination and persistence in weed seeds may be important in the epidemiology of CMV (Francki et al., 1979).
+Parasitic plants are able to host and transmit CMV. At least 10 species of Cuscuta (dodder) are able to multiply in and transmit CMV (Francki et al., 1979).
+CMV overwinters in many perennial weeds, flowers, and crop plants. Perennial weeds such as white cockle, wild ground cherry, horse nettle, milkweed, ragweed, pokeweed, nightshade, and various mints harbor the virus in their roots during the winter and carry it to their top growth in the spring from which aphids transmit it to susceptible crop plants. Once a few plants have become infected with CMV, insect vectors and humans (during cultivating and handling the plants), readily spread the virus to healthy plants. To illustrate the ease with which CMV is transmittable through sap carried on the hands and clothes of people harvesting fruit, entire fields of cucurbits sometimes begin to turn yellow with mosaic immediately after the first pick has been completed (Agrios, 1978).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+There are some CMV-resistant varieties of vegetable and flowers available, including cucumber and spinach (Agrios, 1978). However, there are some CMV hosts that do not have resistant cultivars established at this time. Management of CMV on lettuce by genetic resistance has not been possible because there is no cultivar both suited to production and resistance to CMV. Resistance has been found in Lactuca saligna L., a wild species from Portugal, and a program to breed this resistance into commercial lettuce is under way (Provvidenti et al., 1980). However, this resistance is not effective against all isolates of CMV, and until a suitable resistant cultiv
+Text Len: 1828
+--------------------------------------------------------------------------------
+ possible because there is no cultivar both suited to production and resistance to CMV. Resistance has been found in Lactuca saligna L., a wild species from Portugal, and a program to breed this resistance into commercial lettuce is under way (Provvidenti et al., 1980). However, this resistance is not effective against all isolates of CMV, and until a suitable resistant cultivar is developed, a disease-management practice is needed (Rist and Lorbeer, 1989).
+Control of CMV weed hosts near cultivated fields is often successful in reducing the incidences of CMV in cucumber and celery, and is likely beneficial in other crop fields as well (Rist and Lorbeer, 1989). Perennial weeds should be eradicated from around greenhouses, gardens and fields to eliminate possible sources of CMV (Agrios, 1978).
+Transplant crops stored in greenhouses should be isolated from other plants that may harbor CMV. When transplanted, they should not be planted near susceptible crops nor non-cultivated areas in which there may be weeds harboring the virus (Agrios, 1978).
+CHEMICAL CONTROL
+The use of insecticides to control aphid populations is neither realistic nor practical. Since most of the early virus infections are initiated by insects feeding on perennial hosts, spraying for those hosts and weeds may be helpful.
+REFERENCES
+Agrios, G.N. 1978. Plant Pathology, 2nd ed. pp.466-470.
+Chabbouh, N. and C. Cherif. 1990. Cucumber mosaic virus in artichoke. FAO Plant Prot. Bull. 38:52-53.
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 267-269. The Ronald Press Company. New York. 693 pp.
+Francki, R.I.B
+Text Len: 1620
+--------------------------------------------------------------------------------
+. Cherif. 1990. Cucumber mosaic virus in artichoke. FAO Plant Prot. Bull. 38:52-53.
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 267-269. The Ronald Press Company. New York. 693 pp.
+Francki, R.I.B., D.W. Mossop, and T. Hatta. 1979. Cucumber mosaic virus. CMI/AAB Descriptions of Plant Viruses, No. 213.
+Huang, C.H., Y.J. Chao, C.A. Chang, S.H. Hseu, and C.H. Hsaio. 1987. Identification and comparison of different viruses on symptom expression in loofah. Journal of Agricultural Research of China. 36:413-420.
+MacNab, A.A., A.F. Sherf, and J.K. Springer. 1983. Identifying Diseases of Vegetables. The Pennsylvania State University.
+Provvidenti, R., R.W. Robinson, and J.W. Shail. 1980. A source of resistance to a strain of cucumber mosaic virus in Lactucia saligna L. HortScience 15:528-529.
+Rist, D.L., and J.W. Lorbeer. 1989. Occurrence and overwintering of cucumber mosaic virus and broad bean wilt virus in weeds growing near commercial lettuce fields in New York. Phytopathology 79:65-69.
+    OCTOBER 1992
+  2A-CUMOV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1113
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Cucumber Mosaic Virus
+(Plant Disease Pathogen)
+Hosts Distribution Symptoms Biology Epidemiology Management Reference
+Authors
+Stephen A. Ferreira, Extension Plant Pathologist
+Rebecca A. Boley, Educational Specialist
+Department of Plant Pathology,CTAHR
+University of Hawaii at Manoa
+HOSTS
+CMV has a wide range of hosts and attacks a great variety of vegetables, ornamentals, and other plants (as many as 191 host species in 40 families). Among the most important vegetables affected by cucumber mosaic are peppers (Capsicum annuum L.), cucurbits, tomatoes (Lycopersicon esculentum Mill.), and bananas (Musa L. spp.). In Hawaii, CMV occurs on honohono grass (Comellina spp.) - a weed, but apparently is not a local problem.
+Other vegetable hosts include: cucumber, muskmelon, squash, tomato, spinach, celery, peppers, water cress, beet, sweet potato, turnip, chayote, gherkin, watermelon, pumpkin, citron, gourd, lima bean, broad bean, onion, ground-cherry, eggplant, potato, rhubarb, carrot, dill, fennel, parsnip, parsley (Chupp and Sherf, 1960), loofah (Huang et al., 1987), artichoke (Chabbouh and Cherif, 1990).
+Ornamental hosts include: China aster, chrysanthemum, delphinium, salvia, geranium, gilia, gladiolus, heliotrope, hyacinth, larkspur, lily, marigold, morning glory, nasturtium, periwinkle, petunia, phlox, snapdragon, tulip, and zinnia (Chupp
+Text Len: 1377
+--------------------------------------------------------------------------------
+: China aster, chrysanthemum, delphinium, salvia, geranium, gilia, gladiolus, heliotrope, hyacinth, larkspur, lily, marigold, morning glory, nasturtium, periwinkle, petunia, phlox, snapdragon, tulip, and zinnia (Chupp and Sherf, 1960; Agrios, 1978).
+DISTRIBUTION
+World-wide, especially in temperate regions.
+SYMPTOMS
+Many variants of the virus occur, making it difficult to identify the CMV from symptoms alone. In addition, it is often difficult to distinguish CMV isolates from other cucumoviruses (i.e., alfalfa mosaic virus, tomato aspermy virus, peanut stunt virus). Described below are symptoms of common CMV hosts, and luffa, though it has not been reported to be a CMV host in Hawaii.
+Cucumber:
+Seedlings are seldom attacked during the first few weeks, but symptoms occur when the plants are about six weeks old and growing vigorously. Four or five days after infection, the leaves become mottled, distorted, and wrinkled, and their edges begin to curl downward. All subsequent growth is reduced, leaving the plants with a dwarfed appearance: shorter stem internodes and petioles, and underdeveloped leaves. Infected plants produce few runners and also few flowers and fruit. Older leaves develop chlorotic and then necrotic areas along the margins which later spread over the entire leaf. Dead leaves hang limp on the petiole or fall off, leaving part or most of the older vine bare (Agrios, 1978).
+Cucumbers produced after infection have pale green or white areas intermingled with dark green, bumpy areas. Fruit produced by the plants in the later stages of the disease are somewhat mis
+Text Len: 1597
+--------------------------------------------------------------------------------
+ areas along the margins which later spread over the entire leaf. Dead leaves hang limp on the petiole or fall off, leaving part or most of the older vine bare (Agrios, 1978).
+Cucumbers produced after infection have pale green or white areas intermingled with dark green, bumpy areas. Fruit produced by the plants in the later stages of the disease are somewhat mis-shapen but have a smooth gray-white color with some irregular green areas; these are often called "white pickle." Cucumbers with cucumber mosaic may have a bitter taste and make soggy pickles (Agrios, 1978).
+Cucurbits:
+For muskmelons and cucumbers, new leaves may wilt and die while older crown leaves may turn yellow then dry up, resulting in a slow decline of plant health (MacNab et al., 1983).
+Celery:
+CMV causes a mottling on celery leaflets, and sunken, buff-colored streaks and spots on petioles. Symptoms of CMV and celery mosaic virus (CeMV) are similar and may be difficult to distinguish on the basis of symptoms (MacNab et al., 1983).
+Lettuce:
+Infected lettuce plants are stunted, yellowish, and do not head properly. Symptoms are similar to lettuce mosaic virus (LMV) (MacNab et al., 1983).
+Peppers:
+CMV causes severe mosaic on pepper foliage. Older leaves may have large necrotic rings, fruit may be malformed, and conspicuous yellow concentric rings and/or spots are often on the fruit from infected plants (MacNab et al., 1983).
+Tomatoes:
+Plants are often stunted, have short internodes, and may have extremely distorted and malformed leaves, known as fernleaf (MacNab et al., 1983).
+Luffa
+Text Len: 1571
+--------------------------------------------------------------------------------
+ rings, fruit may be malformed, and conspicuous yellow concentric rings and/or spots are often on the fruit from infected plants (MacNab et al., 1983).
+Tomatoes:
+Plants are often stunted, have short internodes, and may have extremely distorted and malformed leaves, known as fernleaf (MacNab et al., 1983).
+Luffa:
+The early stages of the disease usually show a mosaic and chlorotic or irregular mottling of leaves but it becomes mild or disappears later. Four Luffa species have been tested (one species of L. acutangula, and three species of L. cylindrica - one of which was '7 Beauty') for CMV. All species were susceptible although the symptoms were masked at the late stages of growth. CMV is not considered a major virus threat to loofah, which is more threatened by ZYMV and WMV-1 (Huang et al., 1987).
+BIOLOGY
+Synonyms include: Cucumber virus 1; Cucumis virus 1; Marmor cucumeris; Spinach blight virus; and Tomato fern leaf virus.
+Cucumber mosaic virus has three functional pieces of single-stranded RNA, packaged in three icosahedral particles about 28 nm in diameter. The molecular weight of CMV falls in the range of 5.8 to 6.7 million, of which 18 percent is RNA and the remaining 82 percent protein. Cucumber mosaic virus exists in numerous strains that differ somewhat in their hosts, in the symptoms they produce, in the ways they are transmitted, and in other properties and characteristics (Agrios, 1978; Francki et al., 1979).
+CMV produces a systemic infection in most host plants. Older tissues and organs that developed prior to infection usually are not affected by the virus, but newer cells and tissues that develop after infection may be affected with varying severity. The
+Text Len: 1696
+--------------------------------------------------------------------------------
+, in the symptoms they produce, in the ways they are transmitted, and in other properties and characteristics (Agrios, 1978; Francki et al., 1979).
+CMV produces a systemic infection in most host plants. Older tissues and organs that developed prior to infection usually are not affected by the virus, but newer cells and tissues that develop after infection may be affected with varying severity. The concentration of the virus increases for several days following inoculation, then decreases until it levels off or the plant dies (Agrios, 1978). Infectivity is lost within a few days, and in some instances hours. CMV is relatively unstable when it is in plant extracts (sap), unable to withstand temperatures in excess of 70 C for 10 min (Francki et al., 1979).
+EPIDEMIOLOGY
+CMV is transmitted primarily by aphids, and also by seed, cucumber beetles, parasitic plants, humans, and mechanically.
+CMV is transmitted by more than 60 species of aphid, notably Aphis gossypii and Myzus persicae, in the non-persistent manner, and is readily transmissible through plant sap (Francki et al., 1979). CMV can be acquired in 5-10 seconds and transmitted in less than 1 minute. The ability of CMV to be transmitted declines after about 2 minutes and is usually lost within 2 hours. In addition, some isolates can lose their transmissibility by one aphid species but retain their transmissibility by another (Francki et al., 1979).
+Transmission through seed occurs to varying degrees in 19 host species, including some weeds; dissemination and persistence in weed seeds may be important in the epidemiology of CMV (Francki et al., 1979).
+Parasitic plants are able to host and transmit CMV. At least 10 species of Cuscuta (dodder) are able to multiply in and transmit CMV (Francki et al
+Text Len: 1775
+--------------------------------------------------------------------------------
+ through seed occurs to varying degrees in 19 host species, including some weeds; dissemination and persistence in weed seeds may be important in the epidemiology of CMV (Francki et al., 1979).
+Parasitic plants are able to host and transmit CMV. At least 10 species of Cuscuta (dodder) are able to multiply in and transmit CMV (Francki et al., 1979).
+CMV overwinters in many perennial weeds, flowers, and crop plants. Perennial weeds such as white cockle, wild ground cherry, horse nettle, milkweed, ragweed, pokeweed, nightshade, and various mints harbor the virus in their roots during the winter and carry it to their top growth in the spring from which aphids transmit it to susceptible crop plants. Once a few plants have become infected with CMV, insect vectors and humans (during cultivating and handling the plants), readily spread the virus to healthy plants. To illustrate the ease with which CMV is transmittable through sap carried on the hands and clothes of people harvesting fruit, entire fields of cucurbits sometimes begin to turn yellow with mosaic immediately after the first pick has been completed (Agrios, 1978).
+MANAGEMENT
+NON-CHEMICAL CONTROL
+There are some CMV-resistant varieties of vegetable and flowers available, including cucumber and spinach (Agrios, 1978). However, there are some CMV hosts that do not have resistant cultivars established at this time. Management of CMV on lettuce by genetic resistance has not been possible because there is no cultivar both suited to production and resistance to CMV. Resistance has been found in Lactuca saligna L., a wild species from Portugal, and a program to breed this resistance into commercial lettuce is under way (Provvidenti et al., 1980). However, this resistance is not effective against all isolates of CMV, and until a suitable resistant cultiv
+Text Len: 1828
+--------------------------------------------------------------------------------
+ possible because there is no cultivar both suited to production and resistance to CMV. Resistance has been found in Lactuca saligna L., a wild species from Portugal, and a program to breed this resistance into commercial lettuce is under way (Provvidenti et al., 1980). However, this resistance is not effective against all isolates of CMV, and until a suitable resistant cultivar is developed, a disease-management practice is needed (Rist and Lorbeer, 1989).
+Control of CMV weed hosts near cultivated fields is often successful in reducing the incidences of CMV in cucumber and celery, and is likely beneficial in other crop fields as well (Rist and Lorbeer, 1989). Perennial weeds should be eradicated from around greenhouses, gardens and fields to eliminate possible sources of CMV (Agrios, 1978).
+Transplant crops stored in greenhouses should be isolated from other plants that may harbor CMV. When transplanted, they should not be planted near susceptible crops nor non-cultivated areas in which there may be weeds harboring the virus (Agrios, 1978).
+CHEMICAL CONTROL
+The use of insecticides to control aphid populations is neither realistic nor practical. Since most of the early virus infections are initiated by insects feeding on perennial hosts, spraying for those hosts and weeds may be helpful.
+REFERENCES
+Agrios, G.N. 1978. Plant Pathology, 2nd ed. pp.466-470.
+Chabbouh, N. and C. Cherif. 1990. Cucumber mosaic virus in artichoke. FAO Plant Prot. Bull. 38:52-53.
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 267-269. The Ronald Press Company. New York. 693 pp.
+Francki, R.I.B
+Text Len: 1620
+--------------------------------------------------------------------------------
+. Cherif. 1990. Cucumber mosaic virus in artichoke. FAO Plant Prot. Bull. 38:52-53.
+Chupp, C., and A.F. Sherf. 1960. Vegetable diseases and their control. Pp. 267-269. The Ronald Press Company. New York. 693 pp.
+Francki, R.I.B., D.W. Mossop, and T. Hatta. 1979. Cucumber mosaic virus. CMI/AAB Descriptions of Plant Viruses, No. 213.
+Huang, C.H., Y.J. Chao, C.A. Chang, S.H. Hseu, and C.H. Hsaio. 1987. Identification and comparison of different viruses on symptom expression in loofah. Journal of Agricultural Research of China. 36:413-420.
+MacNab, A.A., A.F. Sherf, and J.K. Springer. 1983. Identifying Diseases of Vegetables. The Pennsylvania State University.
+Provvidenti, R., R.W. Robinson, and J.W. Shail. 1980. A source of resistance to a strain of cucumber mosaic virus in Lactucia saligna L. HortScience 15:528-529.
+Rist, D.L., and J.W. Lorbeer. 1989. Occurrence and overwintering of cucumber mosaic virus and broad bean wilt virus in weeds growing near commercial lettuce fields in New York. Phytopathology 79:65-69.
+    OCTOBER 1992
+  2A-CUMOV
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1113
+--------------------------------------------------------------------------------

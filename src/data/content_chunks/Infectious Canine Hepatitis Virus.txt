@@ -1,0 +1,1336 @@
+UNCONTROLLED COPY 
+SAM 304.06 
+Page 1 of 11 
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 304 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis 
+Virus in Primary Canine Kidney Cell Culture 
+ 
+Date:                                       August 22, 2023 
+ 
+Number: SAM 304.06 
+ 
+Supersedes: SAM 304.05, October 30, 2014 
+ 
+Standard Requirement:  9 CFR, part 113.305 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2
+Text Len: 1177
+--------------------------------------------------------------------------------
+       Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 3 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying 
+modified-live infectious canine hepatitis (ICH) or canine adenovirus (CAV) type 1 virus 
+vaccines for viral content. ICH endpoint is determined by cytopathic effect (CPE) in primary dog 
+kidney (DKp) cell culture. 
+ 
+ 
+2.  Materials 
+Text Len: 1206
+--------------------------------------------------------------------------------
+ an in vitro test method for assaying 
+modified-live infectious canine hepatitis (ICH) or canine adenovirus (CAV) type 1 virus 
+vaccines for viral content. ICH endpoint is determined by cytopathic effect (CPE) in primary dog 
+kidney (DKp) cell culture. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.2   Water bath, 36°± 2°C 
+ 
+2.1.3   Microscope, inverted light (Model CK, Olympus America Inc.) 
+ 
+2.1.4   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.5 Syringe, 2-mL self-refilling, repetitive 
+ 
+2.1.6 Pipettor with tips and/or motorized microliter pipette 
+ 
+2.1.7 Micropipettor, 300-µL x 12-channel 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   ICH Positive Control, Mirandola strain of ICH virus, type 1 
+ 
+2.2.2   Mon
+Text Len: 1108
+--------------------------------------------------------------------------------
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   ICH Positive Control, Mirandola strain of ICH virus, type 1 
+ 
+2.2.2   Monospecific antisera, free of ICH antibody, that neutralize the non-ICH 
+fractions present in multifraction vaccines, e.g. canine parainfluenza virus (CPI), 
+canine parvovirus (CPV), canine distemper virus (CDV), etc. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 4 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+2.2.3   Primary dog kidney (DKp) cell culture, free of extraneous agents as tested 
+by title 9, Code of Federal Regulations (9 CFR)  
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, heat to 
+60°± 2°C until dissolved, then add to the solution in Step 3 with
+Text Len: 1154
+--------------------------------------------------------------------------------
+1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, heat to 
+60°± 2°C until dissolved, then add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI, and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl).  
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5    Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  50 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+c.  Store at 2°- 7°C. 
+ 
+2.2.6    Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.   8.0 g sodium chloride (NaCl)  
+ 
+2.   0.2 g potassium chloride (KCl) 
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+  
+Center for Veterinary Biologics        SAM 304.06
+Text Len: 885
+--------------------------------------------------------------------------------
+.0 g sodium chloride (NaCl)  
+ 
+2.   0.2 g potassium chloride (KCl) 
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve reagents in Steps 1 through 4 with 900 mL DI. 
+ 
+6.   Add 1.03 g sodium phosphate, dibasic anhydrous (Na2HPO4) to 10 mL 
+DI, heat to 60°± 2°C until dissolved. Add to the solution in Step 5 with 
+constant mixing. 
+ 
+7.   Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI 
+and add slowly to the solution in Step 6 to avoid precipitation. 
+ 
+8.   Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.7 Cell culture plates, 96-well 
+ 
+2.2.8 Polystyrene tubes, 12 x 75
+Text Len: 1001
+--------------------------------------------------------------------------------
+-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.7 Cell culture plates, 96-well 
+ 
+2.2.8 Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.9    Pipettes, 10-mL 
+ 
+2.2.10 Reagent reservoir 
+ 
+2.2.11 Syringe, 1-mL tuberculin  
+ 
+2.2.12 Needles, 18-gauge x 1 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training  
+ 
+Personnel shall have experience in the preparation and maintenance of cell culture as well 
+as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by CPE. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 6 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of DKp cell culture plates (Test Plates)  
+ 
+Cells are prepared
+Text Len: 1064
+--------------------------------------------------------------------------------
+ Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of DKp cell culture plates (Test Plates)  
+ 
+Cells are prepared from healthy, confluent DKp cell cultures at second or third 
+passage. On the day of test initiation, using the 12-channel micropipettor, add  
+200 µL/well of approximately 104.7 to 105.2 cells/mL suspended in Growth 
+Medium into all wells of a 96-well cell culture plate. Prepare 1 Test Plate for the 
+controls and 1 Test Vaccine. Each additional Test Plate allows testing of 3 
+additional Test Vaccines. Incubate at 36°± 2°C in a CO2 incubator and use within 
+4 hours. 
+ 
+3.3.2   Preparation of ICH Virus Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of ICH Virus Positive 
+Control in a water bath.  
+ 
+2.  Dispense 1.8 mL MEM into enough 12 x 75-mm polystyrene tubes to 
+bracket the expected endpoint according to the CVB Reagent Data Sheet, 
+and label (e.g., 8 tubes labeled 10-1 through 10-8, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL  of the ICH Virus Positive 
+Control to the first tube  labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-
+Text Len: 1272
+--------------------------------------------------------------------------------
+-1 through 10-8, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL  of the ICH Virus Positive 
+Control to the first tube  labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL from the previous dilution to the next dilution tube until the tenfold 
+dilution series is completed. 
+ 
+3.3.3   Prepare dilutions of each neutralizing non-ICH antiserum according to the 
+CVB Reagent Data Sheet or manufacturer’s instructions. 
+ 
+3.4   Preparation of the Test Vaccine  
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and 
+an 18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine with the 
+provided diluent by transferring 1.0 mL for a 1.0-mL-dose vaccine, 0.5 mL for a 
+1/2-mL-dose vaccine, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol    
+Text Len: 1208
+--------------------------------------------------------------------------------
+ for a 
+1/2-mL-dose vaccine, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 7 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.2   For multifraction ICH vaccines, neutralize the non-ICH fractions with 
+antiserum specific to each virus fraction.  
+ 
+1.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1 and q.s. with MEM to 1.8 mL. 
+For example, to neutralize the 3 viral non-ICH Virus components of a 
+CDV/ICH/CPI/CPV vaccine, dispense 200 µL of each of the diluted CDV, 
+CPI, and CPV antisera into the tube labeled 10-1; add 1.2 mL of MEM to 
+obtain a final volume of 1.8 mL. 
+ 
+2.  Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+3.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For vaccines containing only the ICH fraction, the 10-1 dilution is prepared 
+by adding 200
+Text Len: 1192
+--------------------------------------------------------------------------------
+stituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+3.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For vaccines containing only the ICH fraction, the 10-1 dilution is prepared 
+by adding 200 µL of the Test Vaccine to 1.8 mL of MEM in a 12 x 75-mm 
+polystyrene tube, labeled 10-1; mix by vortexing.  
+ 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 8 tubes, labeled 10-1 through 10-8, 
+respectively).  
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the next dilution tube labeled 10-2; mix by vortexing. 
+ 
+3.  Repeat Step 2 to the remaining tubes, transferring 200 µL from the 
+previous dilution to the next dilution tube until the tenfold dilution series 
+is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test initiation, label the Test Plates and inoculate each of 8 
+wells/dilution with 25 µL of the Test Vaccine, starting with the highest dilution (most 
+dilute). In a similar manner, inoculate 8 wells of the ICH Virus Positive Control 
+(dilutions 10-8 through 10-5 for the example in Section 3
+Text Len: 1270
+--------------------------------------------------------------------------------
+ initiation, label the Test Plates and inoculate each of 8 
+wells/dilution with 25 µL of the Test Vaccine, starting with the highest dilution (most 
+dilute). In a similar manner, inoculate 8 wells of the ICH Virus Positive Control 
+(dilutions 10-8 through 10-5 for the example in Section 3.3.2[2]). Change tips between 
+each unique sample (i.e., each Test Vaccine and the ICH Virus Positive Control), but tip 
+changes are not necessary between each dilution in a series if pipetting from the most 
+dilute to the most concentrated within that series (e.g., 10-8 through 10-5). 
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.2   Eight uninoculated wells serve as negative cell controls. 
+ 
+4.3   Incubate the inoculated Test Plates in the CO 2 incubator for 11 days ± 1 day. 
+ 
+4.4   After incubation, read at 100X or 200X magnification on an inverted light 
+microscope and examine cells for CPE characterized by cell rounding and lysis. 
+ 
+4.4.1   Wells displaying one or more CPE foci are considered to be positive for 
+ICH Virus. 
+ 
+4.4.2   Record results as the number of CPE-positive wells versus total number of 
+wells examined for each dilution of the Test
+Text Len: 1350
+--------------------------------------------------------------------------------
+ for CPE characterized by cell rounding and lysis. 
+ 
+4.4.1   Wells displaying one or more CPE foci are considered to be positive for 
+ICH Virus. 
+ 
+4.4.2   Record results as the number of CPE-positive wells versus total number of 
+wells examined for each dilution of the Test Vaccine and the ICH Virus Positive 
+Control. 
+ 
+4.5   Calculate the ICH endpoints of the Test Vaccine and the ICH Virus Positive 
+Control using the Spearman-Kärber method as commonly modified by Finney. The titers 
+are expressed as log10, 50% tissue culture infective doses (TCID50). 
+ 
+Example: 
+ 
+10-2 dilution of Test Vaccine = 8/8 wells CPE positive 
+10-3 dilution of Test Vaccine = 5/8 wells CPE positive 
+10-4 dilution of Test Vaccine = 1/8 wells CPE positive 
+10-5 dilution of Test Vaccine = 0/8 wells CPE positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine Titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells CPE positive (2) 
+d = log10 of tenfold dilution factor (1)       
+S = sum of proportion of wells CPE positive for all dilutions tested: 
+ 
+8     5     1     0     14 
+8 +  8 +  8 + 8 =    8 = 1.75 
+ 
+Test Vaccine titer = (
+Text Len: 1148
+--------------------------------------------------------------------------------
+       
+S = sum of proportion of wells CPE positive for all dilutions tested: 
+ 
+8     5     1     0     14 
+8 +  8 +  8 + 8 =    8 = 1.75 
+ 
+Test Vaccine titer = (2 – 1/2) + (1 • 1.75) = 3.25 
+ 
+Adjust the titer to the Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose  
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this 
+ICH test vaccine, the recommended dose is 2 mL)  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 9 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this ICH test vaccine, the inoculation dose is 0.025 mL) 
+ 
+     2 mL dose           = 80 
+ 0.025 mL inoculum 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 80 = 1.9 
+ 
+Test Vaccine titer = 3.25 + 1.9 = 5.15 
+ 
+Therefore the titer of the ICH Test Vaccine is 105
+Text Len: 1082
+--------------------------------------------------------------------------------
+ inoculum 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 80 = 1.9 
+ 
+Test Vaccine titer = 3.25 + 1.9 = 5.15 
+ 
+Therefore the titer of the ICH Test Vaccine is 105.15 TCID50/2mL. 
+ 
+ 
+5. Interpretation of the Test Results 
+ 
+5.1   Valid assay  
+ 
+5.1.1   The calculated titer of the ICH Virus Positive Control must fall within plus 
+or minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The lowest inoculated dilution of the ICH Virus Positive  Control must 
+exhibit a 100% positive CPE reaction (8/8). If an endpoint is not reached (1 or 
+more wells are CPE positive wells at the highest dilution), the titer is expressed as 
+“greater than or equal to” the calculated titer. If an endpoint is critical to testing, 
+the highest (most dilute) must exhibit no positive CPE reaction (0/8). 
+ 
+5.1.3   The uninoculated cell controls must not exhibit any CPE, degradation, or 
+cloudy media that would indicate contamination. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the
+Text Len: 1304
+--------------------------------------------------------------------------------
+cloudy media that would indicate contamination. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the Animal and Plant Health Inspection Service (APHIS) filed Outline of 
+Production for the product under test, the Test Vaccine is considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is lower than the titer contained in 
+the APHIS filed Outline of Production for the product under test, the Test Vaccine may 
+be retested in accordance with 9 CFR, Part 113.8.b.   
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 10 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Report of T est Results 
+ 
+Results are reported as TCID50 per dose of Test Vaccine. 
+ 
+ 
+7. References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.305, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE (Ed.),  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ
+Text Len: 1311
+--------------------------------------------------------------------------------
+, part 113.305, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE (Ed.),  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ, Statistical method in biological assay. Griffin, London, 3rd ed., 1978, 
+pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06  
+ 
+• Coversheet and contact information have been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+• 2.2.4.2  The amount of sodium b
+Text Len: 1316
+--------------------------------------------------------------------------------
+ SAM 304.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+ 
+Text Len: 985
+--------------------------------------------------------------------------------
+UNCONTROLLED COPY 
+SAM 304.06 
+Page 1 of 11 
+ 
+United States Department of Agriculture 
+Center for Veterinary Biologics 
+Testing Protocol 
+ 
+SAM 304 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis 
+Virus in Primary Canine Kidney Cell Culture 
+ 
+Date:                                       August 22, 2023 
+ 
+Number: SAM 304.06 
+ 
+Supersedes: SAM 304.05, October 30, 2014 
+ 
+Standard Requirement:  9 CFR, part 113.305 
+ 
+Contact:  Email:  Methodsrequest.notification@usda.gov 
+Phone:  Center for Veterinary Biologics, 515-337-6100 
+ 
+ 
+ 
+ 
+ 
+United States Department of Agriculture 
+Animal and Plant Health Inspection Service 
+P. O. Box 844 
+Ames, IA  50010 
+ 
+Mention of trademark or proprietary product does not constitute a guarantee or warranty of the product by 
+USDA and does not imply its approval to the exclusion of other products that may be suitable.
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2
+Text Len: 1177
+--------------------------------------------------------------------------------
+       Page 2 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Table of Contents 
+ 
+1.  Introduction 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+2.2   Reagents/supplies 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training 
+3.2 Preparation of equipment/instrumentation 
+3.3 Preparation of reagents/control procedures 
+3.4 Preparation of the Test Vaccine 
+ 
+4.  Performance of the Test 
+ 
+5.  Interpretation of the Test Results 
+ 
+6.  Report of Test Results 
+ 
+7.  References 
+ 
+8.  Summary of Revisions 
+ 
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 3 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+1.  Introduction 
+ 
+This Supplemental Assay Method (SAM) describes an in vitro test method for assaying 
+modified-live infectious canine hepatitis (ICH) or canine adenovirus (CAV) type 1 virus 
+vaccines for viral content. ICH endpoint is determined by cytopathic effect (CPE) in primary dog 
+kidney (DKp) cell culture. 
+ 
+ 
+2.  Materials 
+Text Len: 1206
+--------------------------------------------------------------------------------
+ an in vitro test method for assaying 
+modified-live infectious canine hepatitis (ICH) or canine adenovirus (CAV) type 1 virus 
+vaccines for viral content. ICH endpoint is determined by cytopathic effect (CPE) in primary dog 
+kidney (DKp) cell culture. 
+ 
+ 
+2.  Materials 
+ 
+2.1   Equipment/instrumentation 
+ 
+Equivalent equipment or instrumentation may be substituted for any brand name listed 
+below. 
+ 
+2.1.1   Incubator, 36°± 2°C, high humidity, 5% ± 1% CO2 (Model 3336, Forma 
+Scientific Inc.) 
+ 
+2.1.2   Water bath, 36°± 2°C 
+ 
+2.1.3   Microscope, inverted light (Model CK, Olympus America Inc.) 
+ 
+2.1.4   Vortex mixer (Vortex-2 Genie, Model G-560, Scientific Industries Inc.) 
+ 
+2.1.5 Syringe, 2-mL self-refilling, repetitive 
+ 
+2.1.6 Pipettor with tips and/or motorized microliter pipette 
+ 
+2.1.7 Micropipettor, 300-µL x 12-channel 
+ 
+2.1.8   Pipette-aid 
+ 
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   ICH Positive Control, Mirandola strain of ICH virus, type 1 
+ 
+2.2.2   Mon
+Text Len: 1108
+--------------------------------------------------------------------------------
+2.2   Reagents/supplies 
+ 
+Equivalent reagents or supplies may be substituted for any brand name listed below. All 
+reagents and supplies must be sterile. 
+ 
+2.2.1   ICH Positive Control, Mirandola strain of ICH virus, type 1 
+ 
+2.2.2   Monospecific antisera, free of ICH antibody, that neutralize the non-ICH 
+fractions present in multifraction vaccines, e.g. canine parainfluenza virus (CPI), 
+canine parvovirus (CPV), canine distemper virus (CDV), etc. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 4 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+2.2.3   Primary dog kidney (DKp) cell culture, free of extraneous agents as tested 
+by title 9, Code of Federal Regulations (9 CFR)  
+ 
+2.2.4   Minimum essential medium (MEM) 
+ 
+1.  9.61 g MEM with Earles salts without bicarbonate 
+ 
+2.  1.1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, heat to 
+60°± 2°C until dissolved, then add to the solution in Step 3 with
+Text Len: 1154
+--------------------------------------------------------------------------------
+1 g sodium bicarbonate (NaHCO3) 
+ 
+3.  Dissolve with 900 mL deionized water (DI). 
+ 
+4.  Add 5.0 g lactalbumin hydrolysate or edamine to 10 mL DI, heat to 
+60°± 2°C until dissolved, then add to the solution in Step 3 with constant 
+mixing. 
+ 
+5.  Q.S. to 1000 mL with DI, and adjust pH to 6.8-6.9 with 2N 
+hydrochloric acid (HCl).  
+ 
+6.  Sterilize through a 0.22-µm filter. 
+ 
+7.  Aseptically add 50 µg/mL gentamicin sulfate 
+ 
+8.  Store at 2°- 7°C. 
+ 
+2.2.5    Growth Medium 
+ 
+1.  940 mL MEM 
+ 
+2.  Aseptically add: 
+ 
+a.  50 mL gamma-irradiated fetal bovine serum (FBS)  
+ 
+b.  10 mL L-glutamine (200 mM) 
+ 
+c.  Store at 2°- 7°C. 
+ 
+2.2.6    Dulbecco’s phosphate buffered saline (DPBS) 
+ 
+1.   8.0 g sodium chloride (NaCl)  
+ 
+2.   0.2 g potassium chloride (KCl) 
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+  
+Center for Veterinary Biologics        SAM 304.06
+Text Len: 885
+--------------------------------------------------------------------------------
+.0 g sodium chloride (NaCl)  
+ 
+2.   0.2 g potassium chloride (KCl) 
+ 
+3.   0.2 g potassium phosphate, monobasic, anhydrous (KH2PO4) 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 5 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.   0.1 g magnesium chloride, hexahydrate (MgCl2•6H2O) 
+ 
+5.   Dissolve reagents in Steps 1 through 4 with 900 mL DI. 
+ 
+6.   Add 1.03 g sodium phosphate, dibasic anhydrous (Na2HPO4) to 10 mL 
+DI, heat to 60°± 2°C until dissolved. Add to the solution in Step 5 with 
+constant mixing. 
+ 
+7.   Dissolve 0.1 g calcium chloride, anhydrous (CaCl2) with 10 mL DI 
+and add slowly to the solution in Step 6 to avoid precipitation. 
+ 
+8.   Q.S. to 1000 mL with DI; adjust pH to 7.0-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.7 Cell culture plates, 96-well 
+ 
+2.2.8 Polystyrene tubes, 12 x 75
+Text Len: 1001
+--------------------------------------------------------------------------------
+-7.3 with 2N HCl. 
+ 
+9.   Sterilize through a 0.22-µm filter. 
+ 
+10. Store at 2°- 7°C. 
+ 
+2.2.7 Cell culture plates, 96-well 
+ 
+2.2.8 Polystyrene tubes, 12 x 75-mm 
+ 
+2.2.9    Pipettes, 10-mL 
+ 
+2.2.10 Reagent reservoir 
+ 
+2.2.11 Syringe, 1-mL tuberculin  
+ 
+2.2.12 Needles, 18-gauge x 1 1/2-inch 
+ 
+ 
+3.  Preparation for the Test 
+ 
+3.1   Personnel qualifications/training  
+ 
+Personnel shall have experience in the preparation and maintenance of cell culture as well 
+as in the propagation and maintenance of animal viruses and the quantitation of virus 
+infectivity by CPE. 
+ 
+3.2   Preparation of equipment/instrumentation 
+ 
+On the day of test initiation, set a water bath at 36°± 2°C. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 6 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of DKp cell culture plates (Test Plates)  
+ 
+Cells are prepared
+Text Len: 1064
+--------------------------------------------------------------------------------
+ Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.3   Preparation of reagents/control procedures  
+ 
+3.3.1   Preparation of DKp cell culture plates (Test Plates)  
+ 
+Cells are prepared from healthy, confluent DKp cell cultures at second or third 
+passage. On the day of test initiation, using the 12-channel micropipettor, add  
+200 µL/well of approximately 104.7 to 105.2 cells/mL suspended in Growth 
+Medium into all wells of a 96-well cell culture plate. Prepare 1 Test Plate for the 
+controls and 1 Test Vaccine. Each additional Test Plate allows testing of 3 
+additional Test Vaccines. Incubate at 36°± 2°C in a CO2 incubator and use within 
+4 hours. 
+ 
+3.3.2   Preparation of ICH Virus Positive Control 
+ 
+1.  On the day of test initiation, rapidly thaw a vial of ICH Virus Positive 
+Control in a water bath.  
+ 
+2.  Dispense 1.8 mL MEM into enough 12 x 75-mm polystyrene tubes to 
+bracket the expected endpoint according to the CVB Reagent Data Sheet, 
+and label (e.g., 8 tubes labeled 10-1 through 10-8, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL  of the ICH Virus Positive 
+Control to the first tube  labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-
+Text Len: 1272
+--------------------------------------------------------------------------------
+-1 through 10-8, respectively). 
+ 
+3.  With a 200-µL pipettor, transfer 200 µL  of the ICH Virus Positive 
+Control to the first tube  labeled 10-1; mix by vortexing. 
+ 
+4.  Using a new pipette tip, transfer 200 µL from the 10-1-labeled tube 
+(Step 3) to the 10-2 tube; mix by vortexing. 
+ 
+5.  Repeat Step 4 for each of the subsequent dilutions, transferring 200 
+µL from the previous dilution to the next dilution tube until the tenfold 
+dilution series is completed. 
+ 
+3.3.3   Prepare dilutions of each neutralizing non-ICH antiserum according to the 
+CVB Reagent Data Sheet or manufacturer’s instructions. 
+ 
+3.4   Preparation of the Test Vaccine  
+ 
+3.4.1   Conduct the initial test of a Test Vaccine with a single vial (a single 
+sample from 1 vial). On the day of inoculation, using a sterile 1.0-mL syringe and 
+an 18-gauge x 1 1/2-inch needle, rehydrate a vial of the Test Vaccine with the 
+provided diluent by transferring 1.0 mL for a 1.0-mL-dose vaccine, 0.5 mL for a 
+1/2-mL-dose vaccine, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol    
+Text Len: 1208
+--------------------------------------------------------------------------------
+ for a 
+1/2-mL-dose vaccine, etc., into the vial containing the lyophilized Test Vaccine; 
+mix by vortexing. Incubate for 15 ± 5 minutes at room temperature. 
+ 
+  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 7 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+3.4.2   For multifraction ICH vaccines, neutralize the non-ICH fractions with 
+antiserum specific to each virus fraction.  
+ 
+1.  Dispense 200 µL of each of the required neutralizing antiserum into a 
+12 x 75-mm polystyrene tube labeled 10-1 and q.s. with MEM to 1.8 mL. 
+For example, to neutralize the 3 viral non-ICH Virus components of a 
+CDV/ICH/CPI/CPV vaccine, dispense 200 µL of each of the diluted CDV, 
+CPI, and CPV antisera into the tube labeled 10-1; add 1.2 mL of MEM to 
+obtain a final volume of 1.8 mL. 
+ 
+2.  Pipette 200 µL of the reconstituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+3.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For vaccines containing only the ICH fraction, the 10-1 dilution is prepared 
+by adding 200
+Text Len: 1192
+--------------------------------------------------------------------------------
+stituted Test Vaccine to the labeled tube to 
+yield a 10-1 dilution; mix by vortexing.  
+ 
+3.  Incubate at room temperature for 30 ± 5 minutes. 
+ 
+3.4.3   For vaccines containing only the ICH fraction, the 10-1 dilution is prepared 
+by adding 200 µL of the Test Vaccine to 1.8 mL of MEM in a 12 x 75-mm 
+polystyrene tube, labeled 10-1; mix by vortexing.  
+ 
+3.4.4   Serial tenfold dilutions 
+ 
+1.  Dispense 1.8 mL MEM into sufficient 12 x 75-mm polystyrene tubes 
+to bracket the expected endpoint according to the CVB Reagent Data 
+Sheet; appropriately label (e.g., 8 tubes, labeled 10-1 through 10-8, 
+respectively).  
+ 
+2.  Using a new pipette tip, transfer 200 µL from the tube labeled 10-1 to 
+the next dilution tube labeled 10-2; mix by vortexing. 
+ 
+3.  Repeat Step 2 to the remaining tubes, transferring 200 µL from the 
+previous dilution to the next dilution tube until the tenfold dilution series 
+is completed. 
+ 
+ 
+4.  Performance of the Test 
+ 
+4.1   On the day of test initiation, label the Test Plates and inoculate each of 8 
+wells/dilution with 25 µL of the Test Vaccine, starting with the highest dilution (most 
+dilute). In a similar manner, inoculate 8 wells of the ICH Virus Positive Control 
+(dilutions 10-8 through 10-5 for the example in Section 3
+Text Len: 1270
+--------------------------------------------------------------------------------
+ initiation, label the Test Plates and inoculate each of 8 
+wells/dilution with 25 µL of the Test Vaccine, starting with the highest dilution (most 
+dilute). In a similar manner, inoculate 8 wells of the ICH Virus Positive Control 
+(dilutions 10-8 through 10-5 for the example in Section 3.3.2[2]). Change tips between 
+each unique sample (i.e., each Test Vaccine and the ICH Virus Positive Control), but tip 
+changes are not necessary between each dilution in a series if pipetting from the most 
+dilute to the most concentrated within that series (e.g., 10-8 through 10-5). 
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 8 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+4.2   Eight uninoculated wells serve as negative cell controls. 
+ 
+4.3   Incubate the inoculated Test Plates in the CO 2 incubator for 11 days ± 1 day. 
+ 
+4.4   After incubation, read at 100X or 200X magnification on an inverted light 
+microscope and examine cells for CPE characterized by cell rounding and lysis. 
+ 
+4.4.1   Wells displaying one or more CPE foci are considered to be positive for 
+ICH Virus. 
+ 
+4.4.2   Record results as the number of CPE-positive wells versus total number of 
+wells examined for each dilution of the Test
+Text Len: 1350
+--------------------------------------------------------------------------------
+ for CPE characterized by cell rounding and lysis. 
+ 
+4.4.1   Wells displaying one or more CPE foci are considered to be positive for 
+ICH Virus. 
+ 
+4.4.2   Record results as the number of CPE-positive wells versus total number of 
+wells examined for each dilution of the Test Vaccine and the ICH Virus Positive 
+Control. 
+ 
+4.5   Calculate the ICH endpoints of the Test Vaccine and the ICH Virus Positive 
+Control using the Spearman-Kärber method as commonly modified by Finney. The titers 
+are expressed as log10, 50% tissue culture infective doses (TCID50). 
+ 
+Example: 
+ 
+10-2 dilution of Test Vaccine = 8/8 wells CPE positive 
+10-3 dilution of Test Vaccine = 5/8 wells CPE positive 
+10-4 dilution of Test Vaccine = 1/8 wells CPE positive 
+10-5 dilution of Test Vaccine = 0/8 wells CPE positive 
+ 
+Spearman-Kärber formula: 
+ 
+Test Vaccine Titer = (X - d/2 + [d • S]) where: 
+ 
+X = log10 of highest dilution with all wells CPE positive (2) 
+d = log10 of tenfold dilution factor (1)       
+S = sum of proportion of wells CPE positive for all dilutions tested: 
+ 
+8     5     1     0     14 
+8 +  8 +  8 + 8 =    8 = 1.75 
+ 
+Test Vaccine titer = (
+Text Len: 1148
+--------------------------------------------------------------------------------
+       
+S = sum of proportion of wells CPE positive for all dilutions tested: 
+ 
+8     5     1     0     14 
+8 +  8 +  8 + 8 =    8 = 1.75 
+ 
+Test Vaccine titer = (2 – 1/2) + (1 • 1.75) = 3.25 
+ 
+Adjust the titer to the Test Vaccine dose as follows: 
+ 
+A. divide the Test Vaccine Dose by the Inoculation Dose  
+ 
+Test Vaccine Dose = manufacturer’s recommended vaccination dose (for this 
+ICH test vaccine, the recommended dose is 2 mL)  
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 9 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+Inoculation Dose = amount of diluted Test Vaccine added to each well of the 
+Test Plate (for this ICH test vaccine, the inoculation dose is 0.025 mL) 
+ 
+     2 mL dose           = 80 
+ 0.025 mL inoculum 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 80 = 1.9 
+ 
+Test Vaccine titer = 3.25 + 1.9 = 5.15 
+ 
+Therefore the titer of the ICH Test Vaccine is 105
+Text Len: 1082
+--------------------------------------------------------------------------------
+ inoculum 
+ 
+B. calculate log10 of value in A and add it to the Test Vaccine titer as illustrated 
+below: 
+ 
+Log of 80 = 1.9 
+ 
+Test Vaccine titer = 3.25 + 1.9 = 5.15 
+ 
+Therefore the titer of the ICH Test Vaccine is 105.15 TCID50/2mL. 
+ 
+ 
+5. Interpretation of the Test Results 
+ 
+5.1   Valid assay  
+ 
+5.1.1   The calculated titer of the ICH Virus Positive Control must fall within plus 
+or minus 2 standard deviations (± 2 SD) of its mean titer, as established from a 
+minimum of 10 previously determined titers. 
+ 
+5.1.2   The lowest inoculated dilution of the ICH Virus Positive  Control must 
+exhibit a 100% positive CPE reaction (8/8). If an endpoint is not reached (1 or 
+more wells are CPE positive wells at the highest dilution), the titer is expressed as 
+“greater than or equal to” the calculated titer. If an endpoint is critical to testing, 
+the highest (most dilute) must exhibit no positive CPE reaction (0/8). 
+ 
+5.1.3   The uninoculated cell controls must not exhibit any CPE, degradation, or 
+cloudy media that would indicate contamination. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the
+Text Len: 1304
+--------------------------------------------------------------------------------
+cloudy media that would indicate contamination. 
+ 
+5.2   If the validity requirements are not met, then the assay is considered a NO TEST 
+and can be retested without prejudice. 
+ 
+5.3   In a valid test, if the titer of the Test Vaccine is greater than or equal to the titer 
+contained in the Animal and Plant Health Inspection Service (APHIS) filed Outline of 
+Production for the product under test, the Test Vaccine is considered SATISFACTORY. 
+ 
+5.4   In a valid test, if the titer of the Test Vaccine is lower than the titer contained in 
+the APHIS filed Outline of Production for the product under test, the Test Vaccine may 
+be retested in accordance with 9 CFR, Part 113.8.b.   
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 10 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+6.  Report of T est Results 
+ 
+Results are reported as TCID50 per dose of Test Vaccine. 
+ 
+ 
+7. References 
+ 
+7.1   Title 9, Code of Federal Regulations, part 113.305, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE (Ed.),  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ
+Text Len: 1311
+--------------------------------------------------------------------------------
+, part 113.305, U.S. Government Printing 
+Office, Washington, DC. 
+ 
+7.2   Cottral, GE (Ed.),  Manual of standardized methods for veterinary microbiology. 
+Comstock Publishing Associates, Ithaca and London, 1978, pg. 731. 
+ 
+7.3   Finney, DJ, Statistical method in biological assay. Griffin, London, 3rd ed., 1978, 
+pp. 394-401. 
+ 
+ 
+8.  Summary of Revisions 
+ 
+Version .06  
+ 
+• Coversheet and contact information have been updated. 
+ 
+Version .05 
+ 
+• The Contact information has been updated; however, the Virology Section has elected 
+to keep the same next review date for the document.   
+ 
+Version .04 
+ 
+• The Contact information has been updated. 
+ 
+Version .03 
+ 
+• The term “Reference” has been changed to “Positive Control” throughout the 
+document. 
+ 
+Version .02 
+ 
+This document was revised to clarify the practices currently in use at the Center for Veterinary 
+Biologics and to provide additional detail. While no significant changes were made that impact 
+the outcome of the test, the following changes were made to the document:  
+ 
+Center for Veterinary Biologics        SAM 304.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+• 2.2.4.2  The amount of sodium b
+Text Len: 1316
+--------------------------------------------------------------------------------
+ SAM 304.06 
+Testing Protocol         Page 11 of 11 
+ 
+Supplemental Assay Method for Titration of Infectious Canine Hepatitis Virus  
+in Primary Canine Kidney Cell Culture 
+ 
+UNCONTROLLED COPY 
+• 2.2.4.2  The amount of sodium bicarbonate (NaHCO3) has been changed from 2.2 g 
+to 1.1 g. 
+ 
+• 2.2.4.7  Penicillin and streptomycin have been deleted. 
+ 
+• 4.5  Additional steps have been added to clarify the titer calculations by the 
+Spearman-Kärber formula. 
+ 
+• 5.1.2  Recording the rate of positive reaction for validity requirements. 
+ 
+• The refrigeration temperatures have been changed from 4° ± 2°C to 2°- 7°C. This 
+reflects the parameters established and monitored by the Rees system. 
+ 
+• “Test Serial” has been changed to “Test Vaccine” throughout the document. 
+ 
+• “Reference and Reagent Sheet” has been changed to “Reagent Data Sheet” 
+throughout the document. 
+ 
+• The footnotes have been deleted with any pertinent references now noted next to the 
+individual items. 
+ 
+ 
+Text Len: 985
+--------------------------------------------------------------------------------

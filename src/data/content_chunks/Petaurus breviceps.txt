@@ -1,0 +1,1134 @@
+ANIMALIA CHORDATA VERTEBRATA GNATHOSTOMATA MAMMALIA MARSUPIALIA DIPROTODONTIA PHALANGERIDA PETAUROIDEA PETAURIDAE PETAURINAE Petaurus Petaurus breviceps
+  API
+Petaurus breviceps Waterhouse, 1839
+species Accepted Name authority: AFD
+Sugar Glider
+A-Warpurrh in Ngandi
+Bagu in Gamilaraay / Gamilaroi / Kamilaroi
+Flaing Posom in Kriol
+Jawanngawanngal in Wubuy
+Lambalk in Rembarrnga
+Mernbelgnyin in Alawa
+Mirnbilngi in Marra
+Warpurr' in Ritharrŋu
+Warrpur in Ngalakgan
+Overview
+Gallery
+Names
+Classification
+Charts
+Literature
+Data Partners
++
+Conservation Status
+SARare
+Summary
+The sugar glider (Petaurus breviceps) is a small, omnivorous, arboreal, and nocturnal gliding possum. The common name refers to its predilection for sugary foods such as sap and nectar and its ability to glide through the air, much like a flying squirrel. They have very similar habits and appearance to the flying squirrel, despite not being closely related—an example of convergent evolution. The scientific name, Petaurus breviceps, translates from Latin as "short-headed rope-dancer", a reference to their canopy acrobatics.
+The sugar glider is characterised by its pair of gliding membranes, known as patagia, which extend from its forelegs to its hindlegs. Gliding serves as an efficient means of reaching food and evading predators. The animal is covered in soft, pale grey to light brown
+Text Len: 1365
+--------------------------------------------------------------------------------
+ "short-headed rope-dancer", a reference to their canopy acrobatics.
+The sugar glider is characterised by its pair of gliding membranes, known as patagia, which extend from its forelegs to its hindlegs. Gliding serves as an efficient means of reaching food and evading predators. The animal is covered in soft, pale grey to light brown fur which is countershaded, being lighter in colour on its underside.
+The sugar glider, as strictly defined in a recent analysis, is only native to a small portion of southeastern Australia, corresponding to southern Queensland and most of New South Wales east of the Great Dividing Range; the extended species group, including populations which may or may not belong to P. breviceps, occupies a larger range covering much of coastal eastern and northern Australia, New Guinea, and nearby islands. Members of Petaurus are popular exotic pets; these pet animals are also frequently referred to as "sugar gliders", but recent research indicates, at least for American pets, that they are not P. breviceps but a closely related species, ultimately originating from a single source near Sorong in West Papua. This would possibly make them members of the Krefft's glider (P. notatus), but the taxonomy of Papuan Petaurus populations is still poorly resolved.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Taxonomy and evolution
+The genus Petaurus is believed to have originated in New Guinea during the mid Miocene epoch, approximately 18 to 24 million years ago. The modern Australian Petaurus, along with New Guinean members of what were formerly considered P. breviceps, diverged from their closest living New Guinean relatives ~9-12 mya. They probably dispersed from New Guinea to Australia between 4.8 and ~8.4 mya, with the oldest Petaurus fossils
+Text Len: 1833
+--------------------------------------------------------------------------------
+ Miocene epoch, approximately 18 to 24 million years ago. The modern Australian Petaurus, along with New Guinean members of what were formerly considered P. breviceps, diverged from their closest living New Guinean relatives ~9-12 mya. They probably dispersed from New Guinea to Australia between 4.8 and ~8.4 mya, with the oldest Petaurus fossils in Australia being dated to 4.46 million years. This may have been possible due to sea level lowering from about 7 to 10 mya, resulting in land bridges between New Guinea and Australia.
+The taxonomy of the species is complex, and is still not fully resolved. It was formerly understood to have a wide range across Australia and New Guinea, being the only glider to have this distribution, and to be divided into seven subspecies, with three occurring in Australia and four in New Guinea. This traditional subspecific division was based on small morphological differences, such as colour and body size. However, a 2010 genetic analysis using mitochondrial DNA indicates that these morphologically-defined subspecies may not represent genetically unique populations.
+Further studies have found significant genetic variation within populations traditionally classified in P. breviceps, sufficient to warrant splitting the species into multiple. The subspecies P. b. biacensis, from Biak Island off of New Guinea, was reclassified as a separate species, the Biak glider (Petaurus biacensis). In 2020, a landmark study suggested that P. breviceps actually comprised three cryptic species: the Krefft's glider (Petaurus notatus), found throughout most of eastern Australia and introduced to Tasmania, the savanna glider (Petaurus ariel), native to northern Australia, and a more narrowly defined P. breviceps, restricted to a small section of coastal forest in southern Queensland and most of New South Wales. In addition, other sugar glider populations throughout this range (such as those on New Guinea
+Text Len: 1946
+--------------------------------------------------------------------------------
+ (Petaurus notatus), found throughout most of eastern Australia and introduced to Tasmania, the savanna glider (Petaurus ariel), native to northern Australia, and a more narrowly defined P. breviceps, restricted to a small section of coastal forest in southern Queensland and most of New South Wales. In addition, other sugar glider populations throughout this range (such as those on New Guinea and the Cape York Peninsula) may represent undescribed species or be conspecific with previously described species. This indicates that contrary to previous findings of a large range (which in fact applied to P. notatus and, to a lesser extent, to P. ariel), P. breviceps is a range-restricted species that is sensitive to ecological disasters, such as the 2019-20 Australian bushfires, which significantly affected large portions of its habitat.
+P. breviceps and P. notatus are estimated to have diverged ~1 million years ago, and may have originated from long term geographic isolation. The early-mid Pleistocene saw an uplifting of the Great Dividing Range, contributing to and coinciding with aridification of the interior of Australia, including on the western side of the range. This, as well as other climactic and geographic factors, may have isolated the ancestors of P. breviceps to refugia on the eastern, coastal side of the Great Dividing Range. This would be an example of allopatric speciation.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Distribution and habitat
+Sugar gliders are distributed in the coastal forests of southeastern Queensland and most of New South Wales. Their distribution extends to altitudes of 2000m in the eastern ranges. In parts of its range, it may overlap with Krefft's glider (P. notatus).
+The sugar glider occurs in sympatry with the squirrel
+Text Len: 1833
+--------------------------------------------------------------------------------
+like License 4.0
+Distribution and habitat
+Sugar gliders are distributed in the coastal forests of southeastern Queensland and most of New South Wales. Their distribution extends to altitudes of 2000m in the eastern ranges. In parts of its range, it may overlap with Krefft's glider (P. notatus).
+The sugar glider occurs in sympatry with the squirrel glider and yellow-bellied glider; and their coexistence is permitted through niche partitioning where each species has different patterns of resource use.
+Like all arboreal, nocturnal marsupials, sugar gliders are active at night, and they shelter during the day in tree hollows lined with leafy twigs.
+The average home range of sugar gliders is 0.5 hectares (1.2 acres), and is largely related to the abundance of food sources; density ranges from two to six individuals per hectare (0.8–2.4 per acre).
+Native owls (Ninox sp.) are their primary predators; others in their range include kookaburras, goannas, snakes, and quolls. Feral cats (Felis catus) also represent a significant threat.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Appearance and anatomy
+This male's forehead bald spot is a scent gland. The eyes are adapted for night vision and the ears swivel.
+The sugar glider has a squirrel-like body with a long, partially (weakly) prehensile tail. The length from the nose to the tip of the tail is about 24–30 cm (9–12 in), and males and females weigh 140 and 115 grams (5 and 4 oz) respectively. Heart rate range is 200–300 beats per minute, and respiratory rate is 16–40 breaths per minute. The sugar glider is a sexually dimorphic
+Text Len: 1644
+--------------------------------------------------------------------------------
+weakly) prehensile tail. The length from the nose to the tip of the tail is about 24–30 cm (9–12 in), and males and females weigh 140 and 115 grams (5 and 4 oz) respectively. Heart rate range is 200–300 beats per minute, and respiratory rate is 16–40 breaths per minute. The sugar glider is a sexually dimorphic species, with males typically larger than females. Sexual dimorphism has likely evolved due to increased mate competition arising through social group structure; and is more pronounced in regions of higher latitude, where mate competition is greater due to increased food availability.
+The fur coat on the sugar glider is thick, soft, and is usually blue-grey; although some have been known to be yellow, tan or (rarely) albino. A black stripe is seen from its nose to midway on its back. Its belly, throat, and chest are cream in colour. Males have four scent glands, located on the forehead, chest, and two paracloacal (associated with, but not part of the cloaca, which is the common opening for the intestinal, urinal and genital tracts) that are used for marking of group members and territory. Scent glands on the head and chest of males appear as bald spots. Females also have a paracloacal scent gland and a scent gland in the pouch, but do not have scent glands on the chest or forehead.
+The sugar glider is nocturnal; its large eyes help it to see at night and its ears swivel to help locate prey in the dark. The eyes are set far apart, allowing more precise triangulation from launching to landing locations while gliding. Sugar gliders have demonstrated trichromacy in behavioral testing with sensitivity in the ultraviolet/blue, green, and red ranges. Ultraviolet sensitivity is corroborated by genetic evidence. The physiological source of their middle wavelength sensitivity is not yet
+Text Len: 1813
+--------------------------------------------------------------------------------
+ swivel to help locate prey in the dark. The eyes are set far apart, allowing more precise triangulation from launching to landing locations while gliding. Sugar gliders have demonstrated trichromacy in behavioral testing with sensitivity in the ultraviolet/blue, green, and red ranges. Ultraviolet sensitivity is corroborated by genetic evidence. The physiological source of their middle wavelength sensitivity is not yet confirmed.
+Each foot on the sugar glider has five digits, with an opposable toe on each hind foot. These opposable toes are clawless, and bend such that they can touch all the other digits, like a human thumb, allowing it to firmly grasp branches. The second and third digits of the hind foot are partially syndactylous (fused together), forming a grooming comb. The fourth digit of the forefoot is sharp and elongated, aiding in extraction of insects under the bark of trees.
+The gliding membrane extends from the outside of the fifth digit of each forefoot to the first digit of each hind foot. When the legs are stretched out, this membrane allows the sugar glider to glide a considerable distance. The membrane is supported by well developed tibiocarpalis, humerodorsalis and tibioabdominalis muscles, and its movement is controlled by these supporting muscles in conjunction with trunk, limb and tail movement.
+Lifespan in the wild is up to 9 years; is typically up to 12 years in captivity, and the maximum reported lifespan is 17.8 years.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Biology and behaviour
+Sugar gliders' hind feet are adapted to firmly grasp surfaces such as this rock wall
+Gliding
+The sugar glider is one of a number of volplane (gliding) possums in Australia. It glides with the fore- and hind-limbs extended at right angles to
+Text Len: 1826
+--------------------------------------------------------------------------------
+.
+Creative Commons Attribution-ShareAlike License 4.0
+Biology and behaviour
+Sugar gliders' hind feet are adapted to firmly grasp surfaces such as this rock wall
+Gliding
+The sugar glider is one of a number of volplane (gliding) possums in Australia. It glides with the fore- and hind-limbs extended at right angles to the body, with feet flexed upwards. The animal launches itself from a tree, spreading its limbs to expose the gliding membranes. This creates an aerofoil enabling it to glide 50 metres (55 yards) or more. For every 1.82 m (6 ft 0 in) travelled horizontally when gliding, it falls 1 m (3 ft 3 in). Steering is controlled by moving limbs and adjusting the tension of the gliding membrane; for example, to turn left, the left forearm is lowered below the right.
+This form of arboreal locomotion is typically used to travel from tree to tree; the species rarely descends to the ground. Gliding provides three dimensional avoidance of arboreal predators, and minimal contact with ground dwelling predators; as well as possible benefits in decreasing time and energy consumption spent foraging for nutrient poor foods that are irregularly distributed. Young carried in the pouch of females are protected from landing forces by the septum that separates them within the pouch.
+Torpor
+Sugar gliders can tolerate ambient air temperatures of up to 40 °C (104 °F) through behavioural strategies such as licking their coat and exposing the wet area, as well as drinking small quantities of water. In cold weather, sugar gliders will huddle together to avoid heat loss, and will enter torpor to conserve energy. Huddling as an energy conserving mechanism is not as efficient as torpor. Before entering torpor, a sugar glider will reduce activity and body temperature normally in order to lower energy expenditure and avoid torpor. With
+Text Len: 1839
+--------------------------------------------------------------------------------
+, as well as drinking small quantities of water. In cold weather, sugar gliders will huddle together to avoid heat loss, and will enter torpor to conserve energy. Huddling as an energy conserving mechanism is not as efficient as torpor. Before entering torpor, a sugar glider will reduce activity and body temperature normally in order to lower energy expenditure and avoid torpor. With energetic constraints, the sugar glider will enter into daily torpor for 2–23 hours while in rest phase. Torpor differs from hibernation in that torpor is usually a short-term daily cycle. Entering torpor saves energy for the animal by allowing its body temperature to fall to a minimum of 10.4 °C (50.7 °F) to 19.6 °C (67.3 °F). When food is scarce, as in winter, heat production is lowered in order to reduce energy expenditure. With low energy and heat production, it is important for the sugar glider to peak its body mass by fat content in the autumn (May/June) in order to survive the following cold season. In the wild, sugar gliders enter into daily torpor more often than sugar gliders in captivity. The use of torpor is most frequent during winter, likely in response to low ambient temperature, rainfall, and seasonal fluctuation in food sources.
+Diet and nutrition
+1863 illustration by John Gould
+Sugar gliders are seasonally adaptive omnivores with a wide variety of foods in their diet, and mainly forage in the lower layers of the forest canopy. Sugar gliders may obtain up to half their daily water intake through drinking rainwater, with the remainder obtained through water held in its food. In summer they are primarily insectivorous, and in the winter when insects (and other arthropods) are scarce, they are mostly exudativorous (feeding on acacia gum, eucalyptus sap, man
+Text Len: 1780
+--------------------------------------------------------------------------------
+ the forest canopy. Sugar gliders may obtain up to half their daily water intake through drinking rainwater, with the remainder obtained through water held in its food. In summer they are primarily insectivorous, and in the winter when insects (and other arthropods) are scarce, they are mostly exudativorous (feeding on acacia gum, eucalyptus sap, manna, honeydew or lerp). Sugar gliders have an enlarged caecum to assist in digestion of complex carbohydrates obtained from gum and sap.
+To obtain sap or gum from plants, sugar gliders will strip the bark off trees or open bore holes with their teeth to access stored liquid. Little time is spent foraging for insects, as it is an energetically expensive process, and sugar gliders will wait until insects fly into their habitat, or stop to feed on flowers. Gliders consume approximately 11 g of dry food matter per day. This equates to roughly 8% and 9.5% of body weight for males and females, respectively.
+They are opportunistic feeders and can be carnivorous, preying mostly on lizards and small birds. They eat many other foods when available, such as nectar, acacia seeds, bird eggs, pollen, fungi and native fruits. Pollen can make up a large portion of their diet, therefore sugar gliders are likely to be important pollinators of Banksia species.
+Reproduction
+Like most marsupials, female sugar gliders have two ovaries and two uteri; they are polyestrous, meaning they can go into heat several times a year. The female has a marsupium (pouch) in the middle of her abdomen to carry offspring. The pouch opens anteriorly, and two lateral pockets extend posteriorly when young are present. Four nipples are usually present in the pouch, although reports of individuals with two nipples have been recorded. Male sugar gliders have two
+Text Len: 1791
+--------------------------------------------------------------------------------
+ polyestrous, meaning they can go into heat several times a year. The female has a marsupium (pouch) in the middle of her abdomen to carry offspring. The pouch opens anteriorly, and two lateral pockets extend posteriorly when young are present. Four nipples are usually present in the pouch, although reports of individuals with two nipples have been recorded. Male sugar gliders have two pairs of bulbourethral glands and a bifurcated penis to correspond with the two uteri of females.
+The age of sexual maturity in sugar gliders varies slightly between the males and females. Males reach maturity at 4 to 12 months of age, while females require from 8 to 12 months. In the wild, sugar gliders breed once or twice a year depending on the climate and habitat conditions, while they can breed multiple times a year in captivity as a result of consistent living conditions and proper diet.
+A sugar glider female gives birth to one (19%) or two (81%) babies (joeys) per litter. The gestation period is 15 to 17 days, after which the tiny joey 0.2 g (0.0071 oz) will crawl into a mother's pouch for further development. They are born largely undeveloped and furless, with only the sense of smell being developed. The mother has a scent gland in the external marsupium to attract the sightless joeys from the uterus. Joeys have a continuous arch of cartilage in their shoulder girdle which disappears soon after birth; this supports the forelimbs, assisting the climb into the pouch. Young are completely contained in the pouch for 60 days after birth, wherein mammae provide nourishment during the remainder of development. Eyes first open around 80 days after birth, and young will leave the nest around 110 days after birth. By the time young are weaned, the thermoregulatory system is developed, and in conjunction with a large body
+Text Len: 1831
+--------------------------------------------------------------------------------
+, assisting the climb into the pouch. Young are completely contained in the pouch for 60 days after birth, wherein mammae provide nourishment during the remainder of development. Eyes first open around 80 days after birth, and young will leave the nest around 110 days after birth. By the time young are weaned, the thermoregulatory system is developed, and in conjunction with a large body size and thicker fur, they are able to regulate their own body temperature.
+Breeding is seasonal in southeast Australia, with young only born in winter and spring (June to November). Unlike animals that move along the ground, the sugar glider and other gliding species produce fewer, but heavier, offspring per litter. This allows female sugar gliders to retain the ability to glide when pregnant.
+Socialisation
+Sugar gliders are highly social animals. They live in family groups or colonies consisting of up to seven adults, plus the current season's young. Up to four age classes may exist within each group, although some sugar gliders are solitary, not belonging to a group. They engage in social grooming, which in addition to improving hygiene and health, helps bond the colony and establish group identity.
+Within social communities, there are two codominant males who suppress subordinate males, but show no aggression towards each other. These co-dominant pairs are more related to each other than to subordinates within the group; and share food, nests, mates, and responsibility for scent marking of community members and territories.
+Territory and members of the group are marked with saliva and a scent produced by separate glands on the forehead and chest of male gliders. Intruders who lack the appropriate scent marking are expelled violently. Rank is established through scent marking; and fighting does not occur within groups, but does occur when communities come into contact with each other. Within the colony, no fighting typically takes place beyond threatening behaviour. Each colony defends a territory of about 1 hectare (2
+Text Len: 2040
+--------------------------------------------------------------------------------
+ scent produced by separate glands on the forehead and chest of male gliders. Intruders who lack the appropriate scent marking are expelled violently. Rank is established through scent marking; and fighting does not occur within groups, but does occur when communities come into contact with each other. Within the colony, no fighting typically takes place beyond threatening behaviour. Each colony defends a territory of about 1 hectare (2.5 acres) where eucalyptus trees provide a staple food source.[citation needed]
+Sugar gliders are one of the few species of mammals that exhibit male parental care. The oldest codominant male in a social community shows a high level of parental care, as he is the probable father of any offspring due to his social status. This paternal care evolved in sugar gliders as young are more likely to survive when parental investment is provided by both parents. In the sugar glider, biparental care allows one adult to huddle with the young and prevent hypothermia while the other parent is out foraging, as young sugar gliders aren't able to thermoregulate until they are 100 days old (3.5 months).
+Communication in sugar gliders is achieved through vocalisations, visual signals and complex chemical odours. Chemical odours account for a large part of communication in sugar gliders, similar to many other nocturnal animals. Odours may be used to mark territory, convey health status of an individual, and mark rank of community members. Gliders produce a number of vocalisations including barking and hissing.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Human relations
+Conservation
+Under the prior taxonomy, the sugar glider was not considered endangered, and its conservation rank was "Least Concern (LC)" on the IUCN Red List. However, with newer taxonomic studies indicating that it has a small and restricted range, it is
+Text Len: 1915
+--------------------------------------------------------------------------------
+ Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Human relations
+Conservation
+Under the prior taxonomy, the sugar glider was not considered endangered, and its conservation rank was "Least Concern (LC)" on the IUCN Red List. However, with newer taxonomic studies indicating that it has a small and restricted range, it is now thought to be far more sensitive to potential threats. For example, the species' native range was hit hard by the 2019-20 Australian bushfires, which occurred just a few months prior to the publishing of the study indicating the true extent of its range. Sugar gliders use tree hollows, making them especially sensitive to intense fires. However, despite the loss of natural habitat in Australia over the last 200 years, it is adaptable and capable of living in small patches of remnant bush, particularly if it does not have to cross large expanses of cleared land to reach them. Sugar gliders may persist in areas that have undergone mild-moderate selective logging, as long as three to five hollow bearing trees are retained per hectare. Although not currently threatened by habitat loss, the ability of sugar gliders to forage and avoid predators successfully may be decreased in areas of high light pollution.
+Conservation in Australia is enacted at the federal, state and local levels, where sugar gliders are protected as a native species. The central conservation law in Australia is the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The National Parks and Wildlife Act 1974 is an example of conservation law in the state of South Australia, where it is legal to keep (only) one sugar glider without a permit, provided it was acquired legally from a source with a permit. A permit is required to obtain or possess more than one glider, or if one wants to sell or give away any glider in their possession. It is illegal to capture or sell wild sugar gliders without a
+Text Len: 1967
+--------------------------------------------------------------------------------
+ law in the state of South Australia, where it is legal to keep (only) one sugar glider without a permit, provided it was acquired legally from a source with a permit. A permit is required to obtain or possess more than one glider, or if one wants to sell or give away any glider in their possession. It is illegal to capture or sell wild sugar gliders without a permit.
+In captivity
+In captivity, the sugar glider can suffer from calcium deficiencies if not fed an adequate diet. A lack of calcium in the diet causes the body to leach calcium from the bones, with the hind legs first to show noticeable dysfunction. Calcium to phosphorus ratios should be 2:1 to prevent hypocalcemia, sometimes known as hind leg paralysis (HLP). Their diet should be 50% insects (gut-loaded) or other sources of protein, 25% fruit and 25% vegetables. Some of the more recognised diets are Bourbon's Modified Leadbeaters (BML), High Protein Wombaroo (HPW) and various calcium rich diets with Leadbeaters Mixture (LBM). Iron storage disease (hemochromatosis) is another dietary problem that has been reported in captive gliders and can lead to fatal complications if not diagnosed and treated early.
+A large amount of attention and environmental enrichment may be required for the highly social species, especially for those kept as individuals. Inadequate social interaction can lead to depression and behavioural disorders such as loss of appetite, irritability and self-mutilation.
+As a pet
+In several countries, the sugar glider (or what was formerly considered to be the sugar glider) is popular as an exotic pet, and is sometimes referred to as a pocket pet. In Australia, there is opposition to keeping native animals as pets from Australia's largest wildlife rehabilitation organisation (WIRES), and concerns from Australian wildlife conservation organisations regarding animal welfare risks including neglect, cruelty and abandonment.
+
+Text Len: 1926
+--------------------------------------------------------------------------------
+ several countries, the sugar glider (or what was formerly considered to be the sugar glider) is popular as an exotic pet, and is sometimes referred to as a pocket pet. In Australia, there is opposition to keeping native animals as pets from Australia's largest wildlife rehabilitation organisation (WIRES), and concerns from Australian wildlife conservation organisations regarding animal welfare risks including neglect, cruelty and abandonment.
+In Australia, sugar gliders can be kept in Victoria, South Australia, and the Northern Territory. However, they are not allowed to be kept as pets in Western Australia, New South Wales, the Australian Capital Territory, Queensland or Tasmania.
+DNA analysis indicates that "the USA (sugar) glider population originates from West Papua, Indonesia with no illegal harvesting from other native areas such as Papua New Guinea or Australia". Given that the West Papuan gliders have been tentatively classified as Krefft's gliders (albeit to be changed in the future), this indicates that at least the captive gliders kept in the United States are Krefft's gliders, not sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Notes
+Species notes
+↑ Range in red now thought to largely represent a separate species, Krefft's glider (P. notatus); if this is true, P. breviceps (sensu stricto) occupies only a small coastal region of this range, containing parts of southern Queensland and eastern New South Wales. Range in blue now thought to possibly represent multiple non-P. breviceps species, including Krefft's glider (P. notatus), the mahogany glider (P. gracilis), and/or a species complex associated with P. gracilis.
+↑ It has been recently suggested that P. b. ariel be treated as a separate species, the savanna glider
+Text Len: 1820
+--------------------------------------------------------------------------------
+ possibly represent multiple non-P. breviceps species, including Krefft's glider (P. notatus), the mahogany glider (P. gracilis), and/or a species complex associated with P. gracilis.
+↑ It has been recently suggested that P. b. ariel be treated as a separate species, the savanna glider (P. ariel)
+↑ P. b. flavidus (Tate and Archbold, 1935) considered a synonym of P. b. papuanus (Thomas 1888)
+↑ Tate & Archbold, 1935; subspecies P. b. tafa considered a synonym of species P. breviceps
+1 2 Subspecies (former) P. b. biacensis provisionally considered species: P. biacensis (Biak glider). "Helgen (2007) states that Petaurus biacensis is likely to be conspecific with P. breviceps. P. biacensis appears to differ from the latter mainly by having a higher incidence of melanism (Helgen 2007). We provisionally retain P. biacensis as a separate species pending further taxonomic work, thus following what has become standard treatment (e.g., Flannery 1994, 1995; Groves 2005)."
+Explanatory footnotes
+↑ Domestic in-breeding of recessive genetic phenotype defects can produce other colour variations not found in nature, such as an all-white leucistic heterozygote
+↑ When dried, an exudate (such as sap) becomes crystallized and is referred to as manna, which is consumed by sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+References
+↑ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M. (eds.). Mammal Species
+Text Len: 1466
+--------------------------------------------------------------------------------
+ate (such as sap) becomes crystallized and is referred to as manna, which is consumed by sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+References
+↑ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M. (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Baltimore: Johns Hopkins University Press. p. 55. ISBN 0-801-88221-4. OCLC 62265494.
+1 2 3 Salas, L.; Dickman, C.; Helgen, K.; Winter, J.; Ellis, M.; Denny, M.; Woinarski, J.; Lunney, D.; Oakwood, M.; Menkhorst, P. & Strahan, R. (2016). "Petaurus breviceps". IUCN Red List of Threatened Species. 2016: e.T16731A21959798. doi:10.2305/IUCN.UK.2016-2.RLTS.T16731A21959798.en. Retrieved 19 November 2021.
+↑ Waterhouse, G. R. (1838). "Observations on certain modifications observed in the dentition of the Flying Opossums (the genus Petaurus of authors)". Proceedings of the Zoological Society of London. 4: 149–153. doi:10.1111/j.1096-3642.1838.tb01419.x.
+1 2 3 4 "Petaurus breviceps Waterhouse, 1839". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 3 4 5 Cremona, Teigan; Baker, Andrew M; Cooper, Steven J B; Montague-Drake, Rebecca; Stobo-Wilson, Aly
+Text Len: 1218
+--------------------------------------------------------------------------------
+.1838.tb01419.x.
+1 2 3 4 "Petaurus breviceps Waterhouse, 1839". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 3 4 5 Cremona, Teigan; Baker, Andrew M; Cooper, Steven J B; Montague-Drake, Rebecca; Stobo-Wilson, Alyson M; Carthew, Susan M (13 July 2020). "Integrative taxonomic investigation of Petaurus breviceps (Marsupialia: Petauridae) reveals three distinct species". Zoological Journal of the Linnean Society. 191 (2): 503–527. doi:10.1093/zoolinnean/zlaa060. ISSN 0024-4082.
+↑ Subspecies Sheet | Mammals'Planet Archived 18 August 2016 at the Wayback Machine. Planet-mammiferes.org. Retrieved 2014-04-19.
+↑ Troughton, Ellis (1945). "Diagnoses of New rare mammals from the South-West Pacific". Records of the Australian Museum. 21 (6): 373–374. doi:10.3853/j.0067-1975.21.1945.551.
+1 2 3 "DPIW - Sugar Glider". 28 August 2012. Archived from the original on 28 August 2012.
+↑ "Analogy: Squirrels and Sugar Gliders". Understanding Evolution. The University of California Museum of Paleontology. Retrieved 1 October 2012.
+1 2 "Sugar Glider, Petaurus breviceps". Parks & Wildlife Service, Tasmania Online. Archived from the original on 3 April 2016. Retrieved 7 October 2012.
+1 2 Endo, H; Yokokawa, K; Kurohmaru, M; Hiyashi, Y (1998). "Functional anatomy of gliding membrane muscles in the sugar glider
+Text Len: 1323
+--------------------------------------------------------------------------------
+1 2 "Sugar Glider, Petaurus breviceps". Parks & Wildlife Service, Tasmania Online. Archived from the original on 3 April 2016. Retrieved 7 October 2012.
+1 2 Endo, H; Yokokawa, K; Kurohmaru, M; Hiyashi, Y (1998). "Functional anatomy of gliding membrane muscles in the sugar glider (Petaurus breviceps)". Annals of Anatomy. 180 (1): 93–96. doi:10.1016/S0940-9602(98)80149-0. PMID 9488912.
+1 2 Campbell, Catriona D.; Pecon-Slattery, Jill; Pollak, Rebecca; Joseph, Leo; Holleley, Clare E. (8 January 2019). "The origin of exotic pet sugar gliders (Petaurus breviceps) kept in the United States of America". PeerJ. 7: e6180. doi:10.7717/peerj.6180. ISSN 2167-8359. PMC 6329365. PMID 30643698.
+1 2 "Petaurus notatus W. Peters, 1859". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 Malekian, M; Cooper, S; Norman, J; Christidis, L; Carthew, S (2010). "Molecular systematics and evolutionary origins of the genus Petaurus (Marsupialia: Petauridae) in Australia and New Guinea". Molecular Phylogenetics and Evolution. 54 (1): 122–135. doi:10.1016/j.ympev.2009.07.026. PMID 19647084.
+1 2 3 Malekian, Mansoureh; Cooper, Steven J. B.; Carthew, Susan M. (2010). "Phylogeography of
+Text Len: 1189
+--------------------------------------------------------------------------------
+ and New Guinea". Molecular Phylogenetics and Evolution. 54 (1): 122–135. doi:10.1016/j.ympev.2009.07.026. PMID 19647084.
+1 2 3 Malekian, Mansoureh; Cooper, Steven J. B.; Carthew, Susan M. (2010). "Phylogeography of the Australian sugar glider (Petaurus breviceps): evidence for a new divergent lineage in eastern Australia". Australian Journal of Zoology. 58 (3): 165. doi:10.1071/ZO10016.
+↑ Stobo-Wilson, Alyson; Baker, Andrew; Cooper, Steve; Carthew, Sue; Cremona, Teigan (16 July 2020). "A rare discovery: we found the sugar glider is actually three species, but one is disappearing fast". The Conversation. Retrieved 17 July 2020.
+1 2 3 4 5 6 7 8 9 10 11 Smith, Meredith J. (13 June 1973). "Petaurus breviceps". Mammalian Species (30): 1–5. doi:10.2307/3503785. JSTOR 3503785. S2CID 254011903.
+1 2 Jackson, Stephen M. (2000). "Habitat relationships of the mahogany glider, Petaurus gracilis, and the sugar glider, Petaurus breviceps". Wildlife Research. 27 (1): 39. doi:10.1071/WR98045.
+↑ Wormington, K; Lamb, D; McCallum, H; Moolooney, d (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.
+Text Len: 1246
+--------------------------------------------------------------------------------
+
+↑ Wormington, K; Lamb, D; McCallum, H; Moolooney, d (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.217.
+1 2 3 4 5 Suckling, G.C (1984). "Population ecology of the sugar glider "Petaurus breviceps", in a system of fragmented habitats". Australian Wildlife Research. 11: 49–75. doi:10.1071/WR9840049.
+1 2 "Wildlife – Sugar Glider". Wildlife Queensland. Archived from the original on 23 February 2014. Retrieved 16 February 2014.
+1 2 3 4 Pye, Geoffrey W. "A guide to medicine and surgery in sugar gliders". Hilltop Animal Hospital. Archived from the original on 21 March 2015. Retrieved 2 November 2012.
+↑ "Wildlife Queensland – Sugar Glider". Wildlife Preservation Society of Queensland. Archived from the original on 23 February 2014. Retrieved 24 October 2012.
+↑ "Basic Health Care Information / General Wellness Exam". Sugar Glider Vet. Retrieved 27 October 2012.
+↑ Quin, DG; Smith, AP; Norton, TW (1996). "Eco-graphic variation in size and sexual dimorphism in sugar gliders and squirrel gliders (Marsupialia: Petauridae)". Australian Journal of Zoology. 44: 19–45. doi:10.1071/ZO9960019.
+1 2 3 4 5 Jackson, S. M. (1999). "Glide angle in the genus "Petaurus" and a review of gliding in mammals". Mammal Review. 30: 9–30. doi:10.1046/j.1365-
+Text Len: 1398
+--------------------------------------------------------------------------------
+ of Zoology. 44: 19–45. doi:10.1071/ZO9960019.
+1 2 3 4 5 Jackson, S. M. (1999). "Glide angle in the genus "Petaurus" and a review of gliding in mammals". Mammal Review. 30: 9–30. doi:10.1046/j.1365-2907.2000.00056.x.
+↑ Nielsen, Leah (4 March 2025). "Trichromacy and ultraviolet vision in a nocturnal marsupial". Scientific Reports. 15 (7585): 7585. doi:10.1038/s41598-025-92039-z. PMC 11880520. PMID 40038358.
+↑ de Magalhaes, J. P.; Budovsky, A.; Lehmann, G.; Costa, J.; Li, Y.; Fraifeld, V.; Church, G. M. (2009). "The Human Ageing Genomic Resources: online databases and tools for biogerontologists". Aging Cell. 8 (1): 65–72. doi:10.1111/j.1474-9726.2008.00442.x. PMC 2635494. PMID 18986374. "AnAge entry for Petaurus breviceps".
+↑ Strahan, the Australian Museum (1983). Ronald (ed.). Complete book of Australian mammals : the national photographic index of Australian wildlife (1. publ. ed.). [Sidney]: Angus & Robertson. ISBN 0207144540.
+1 2 3 Nagy, K. A.; Suckling, G. C. (1985). "Field energetics and water balance of sugar gliders, "Petaurus breviceps" (Marsupialia: Petauridae)". Australian Journal of Zoology. 33 (5): 683–691. doi:
+Text Len: 1141
+--------------------------------------------------------------------------------
+ & Robertson. ISBN 0207144540.
+1 2 3 Nagy, K. A.; Suckling, G. C. (1985). "Field energetics and water balance of sugar gliders, "Petaurus breviceps" (Marsupialia: Petauridae)". Australian Journal of Zoology. 33 (5): 683–691. doi:10.1071/ZO9850683.
+↑ Byrnes, G; Spence, A (2011). "Ecological and biomechanical insights into the evolution of gliding in mammals". Integrative and Comparative Biology. 51 (6): 991–1001. doi:10.1093/icb/icr069. PMID 21719434.
+1 2 3 4 5 Kortner, G; Geiser, F (2000). "Torpor and activity patterns in free-ranging sugar gliders "Petaurus breviceps" (Marsupialia)". Oecologia. 123 (3): 350–357. Bibcode:2000Oecol.123..350K. doi:10.1007/s004420051021. PMID 28308589. S2CID 10103980.
+↑ Geiser, Fritz (2004). "Metabolic Rate and Body Temperature Reduction During Hibernation and Daily Torpor". Annual Review of Physiology. 66 (1): 239–274. doi:10.1146/annurev.physiol.66.032102.115105. PMID 14977403. S2CID 22397415.
+1 2 Christian, Nereda; Fritz Geiser (2007). "To use or not to use torpor? Activity and body temperature as predictors". Naturwissenschaften. 94 (6): 483–487. Bibcode:2007NW.....94..483C. doi:10
+Text Len: 1133
+--------------------------------------------------------------------------------
+. PMID 14977403. S2CID 22397415.
+1 2 Christian, Nereda; Fritz Geiser (2007). "To use or not to use torpor? Activity and body temperature as predictors". Naturwissenschaften. 94 (6): 483–487. Bibcode:2007NW.....94..483C. doi:10.1007/s00114-007-0215-5. PMID 17252241. S2CID 24061894.
+1 2 Geiser, Fritz; Joanne C. Holloway; Gerhard Körtner (2007). "Thermal biology, torpor and behaviour in sugar gliders: a laboratory-field comparison". Journal of Comparative Physiology B. 177 (5): 495–501. doi:10.1007/s00360-007-0147-6. PMID 17549496. S2CID 24469410.
+↑ Holloway, JC; Geiser, F (November 2001). "Seasonal changes in the thermoenergetics of the marsupial sugar glider, Petaurus breviceps". J. Comp. Physiol. B. 171 (8): 643–50. doi:10.1007/s003600100215. PMID 11765973. S2CID 1008750.
+1 2 3 Smith, AP (1982). "Diet and feeding strategies of the marsupial glider in temperate Australia". Journal of Animal Ecology. 51 (1): 149–166. doi:10.2307/4316. JSTOR 4316.
+↑ "manna". WordNet Search – 3.1. WordNet. Princeton University. Retrieved 19 December 2012. (n) manna (hardened sugary exudation of various trees) : Synset (semantic) relations, direct hypernym (n
+Text Len: 1155
+--------------------------------------------------------------------------------
+ (1): 149–166. doi:10.2307/4316. JSTOR 4316.
+↑ "manna". WordNet Search – 3.1. WordNet. Princeton University. Retrieved 19 December 2012. (n) manna (hardened sugary exudation of various trees) : Synset (semantic) relations, direct hypernym (n) sap (a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant)
+↑ Pickert, Executive: Joseph P., ed. (1992). The American heritage dictionary of the English language (4th ed.). Boston: Houghton Mifflin. p. 1065. ISBN 0395825172. manna n. 4. The dried exudate of certain plants
+↑ Janine M., DVM. Cianciolo (ed.). "Sugar Glider Nutrition". Past Newsletters. SunCoast Sugar Gliders. Sugar gliders eat manna in the wild. Manna is a crusty sugar left from where sap flowed from a wound in a tree trunk or branch.
+↑ "The Sugar Glider Diet". Sugar Glider Diet Archives. Sugar Glider Cage. Archived from the original on 24 August 2012. Retrieved 6 October 2012.
+↑ Dierenfeld, Ellen (2009). "Feeding behavior and nutrition of the Sugar Glider (Petaurus breviceps)". Veterinary Clinics of North America: Exotic Animal Practice. 12 (2): 209–215. doi:10.1016/j.cvex.2009.01.014. PMID 19341949.
+↑ McLeod, DVM, Lianne. "Feeding Sugar Gliders / Nutritional Needs and Sample Diets". About.com. Archived from the original on 25 August 2012. Retrieved 3 October 2012.
+↑ "Natural Diet". Gliderpedia. SugarGl
+Text Len: 1377
+--------------------------------------------------------------------------------
+10.1016/j.cvex.2009.01.014. PMID 19341949.
+↑ McLeod, DVM, Lianne. "Feeding Sugar Gliders / Nutritional Needs and Sample Diets". About.com. Archived from the original on 25 August 2012. Retrieved 3 October 2012.
+↑ "Natural Diet". Gliderpedia. SugarGlider.com. Retrieved 2 November 2012.
+↑ van Tets, Ian G.; Whelan, Robert J. (1997). "Banksia pollen in the diet of Australian mammals". Ecography. 20 (5): 499–505. doi:10.1111/j.1600-0587.1997.tb00418.x.
+↑ Quesenberry, Katherine; Mans, Christoph; Orcutt, Connie (24 April 2020). Ferrets, Rabbits and Rodents - E-Book: Ferrets, Rabbits and Rodents - E-Book. Elsevier Health Sciences. ISBN 978-0-323-48434-3.
+↑ Morges, Michelle A.; Grant, Krystan R.; MacPhail, Catriona M.; Johnston, Matthew S. (March 2009). "A Novel Technique for Orchiectomy and Scrotal Ablation in the Sugar Glider (Petaurus breviceps)". Journal of Zoo and Wildlife Medicine. 40 (1): 204–206. doi:10.1638/2007-0169.1. PMID 19368264. S2CID 24253225.
+1 2 Tynes, Valarie V., ed. (2010). "Sugar gliders". Behavior of exotic pets (1st ed.). Chichester, West Sussex: Blackwell Pub. ISBN 9780813800783.
+↑ Antinoff, Natalie (August 2009). "Practical anatomy and physical examination: Ferrets, rabbits, rodents, and other selected species
+Text Len: 1245
+--------------------------------------------------------------------------------
+3225.
+1 2 Tynes, Valarie V., ed. (2010). "Sugar gliders". Behavior of exotic pets (1st ed.). Chichester, West Sussex: Blackwell Pub. ISBN 9780813800783.
+↑ Antinoff, Natalie (August 2009). "Practical anatomy and physical examination: Ferrets, rabbits, rodents, and other selected species (Proceedings)". CVC in Kansas City Proceedings. Archived from the original on 24 July 2013. Retrieved 11 November 2012.
+↑ Holloway, Joanne C.; Geiser, Fritz (November 2000). "Development of thermoregulation in the sugar glider Petaurus breviceps (Marsupialia: Petauridae)". Journal of Zoology. 252 (3): 389–397. doi:10.1111/j.1469-7998.2000.tb00634.x.
+↑ Fokidis, H; Risch, T (2008). "The burden of motherhood: gliding locomotion in mammals influences maternal reproductive investment". Journal of Mammalogy. 89 (3): 617–625. doi:10.1644/07-MAMM-A-116R1.1.
+↑ Klettenheimer, B; Temple-Smith, P; Sofrondis, G (1997). "Father and son sugar gliders: more than a genetic coalition?". Journal of Zoology. 242 (4): 741–750. doi:10.1111/j.1469-7998.1997.tb05823.x.
+↑ Pasatta, J. (1999). "Petaurus breviceps" (On-line), Animal Diversity Web. Accessed 10 November 2012
+1 2 3 Goldingay, R. L. (2010). "Direct male parental care observed in wild sugar gliders". Australian Mammalogy. 32 (2): 177–
+Text Len: 1270
+--------------------------------------------------------------------------------
+7998.1997.tb05823.x.
+↑ Pasatta, J. (1999). "Petaurus breviceps" (On-line), Animal Diversity Web. Accessed 10 November 2012
+1 2 3 Goldingay, R. L. (2010). "Direct male parental care observed in wild sugar gliders". Australian Mammalogy. 32 (2): 177–178. doi:10.1071/AM10009.
+↑ Johnson, Dan H. (20 May 2011). "Hedgehogs and Sugar Gliders: Respiratory Anatomy, Physiology, and Disease". Veterinary Clinics of North America: Exotic Animal Practice. 14 (2): 267–85, vi. doi:10.1016/j.cvex.2011.03.006. PMID 21601815.
+↑ Stobo-Wilson, Alyson; Baker, Andrew; Cooper, Steve; Carthew, Sue; Cremona, Teigan (16 July 2020). "A rare discovery: we found the sugar glider is actually three species, but one is disappearing fast". The Conversation. Retrieved 20 June 2021.
+↑ Wormington, K.; Lamb, D.; McCallum, H.; Moolooney, d. (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.217.
+↑ Barber-Myer, SM (2007). "Photopollution impacts on the nocturnal behaviour of the Sugar Glider (Petaurus breviceps)". Pacific Conservation Biology. 13 (3): 171–176. doi:10.1071/PC070171.
+↑ Biodiversity Conservation. Environment.gov.au. Retrieved 2014-04-19.
+Text Len: 1279
+--------------------------------------------------------------------------------
+
+↑ Barber-Myer, SM (2007). "Photopollution impacts on the nocturnal behaviour of the Sugar Glider (Petaurus breviceps)". Pacific Conservation Biology. 13 (3): 171–176. doi:10.1071/PC070171.
+↑ Biodiversity Conservation. Environment.gov.au. Retrieved 2014-04-19.
+↑ South Australian Legislation. Legislation.sa.gov.au. Retrieved 2014-04-19.
+↑ "Hind Leg Paralysis". SugarGlider.com. Retrieved 1 November 2012.
+↑ Lennox, A. M. (2007). "Emergency and Critical Care Procedures in Sugar Gliders (Petaurus breviceps), African Hedgehogs (Atelerix albiventris), and Prairie Dogs (Cynomys spp.)". Veterinary Clinics of North America: Exotic Animal Practice. 10 (2): 533–55. doi:10.1016/j.cvex.2007.01.001. PMID 17577562.
+↑ Conservation and natural resources, 1995 Mammals of Victoria, ed. by Menkhorst. P., Oxford University Press, South Melbourne ISBN 0-19-553733-5
+↑ "Original BML Diet – Bourbon's Modified Leadbeater's Recipe for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 1 October 2012.
+↑ "Sugar Glider HPW Diet – High Protein Wombaroo Recipe". Sweet-Sugar-Gliders.com. Retrieved 1 October 2012.
+↑ "Original Leadbeaters Diet Recipe – Taronga Zoo Diet for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 2 November 2012.
+↑ Hess, Laurie. "Overview of Sugar Gliders - Exotic and Laboratory Animals". Merck Veterinary Manual. Merck Sharp & Dohme. Retrieved 9 May 2018
+Text Len: 1367
+--------------------------------------------------------------------------------
+Gliders.com. Retrieved 1 October 2012.
+↑ "Original Leadbeaters Diet Recipe – Taronga Zoo Diet for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 2 November 2012.
+↑ Hess, Laurie. "Overview of Sugar Gliders - Exotic and Laboratory Animals". Merck Veterinary Manual. Merck Sharp & Dohme. Retrieved 9 May 2018.
+↑ Jepson, Lance (2 November 2015). "7: Sugar gliders". Exotic Animal Medicine: A Quick Reference Guide. Elsevier Health Sciences. p. 234. ISBN 9780323394307.
+↑ "Native Animals are not pets". NSW Wildlife Information Rescue and Education Service Blog January 2019. 25 January 2019. Retrieved 10 March 2019.
+↑ "Sugar Gliders". Wild4Life. Retrieved 10 March 2019.
+↑ "DixiGliders". Archived from the original on 20 January 2011. Retrieved 31 December 2010.
+↑ Wildlife – Queensland Gliders Archived 20 April 2013 at the Wayback Machine. (PDF) . Retrieved 2014-04-19.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+General bibliography
+Morcombe, Michael; Morcombe, Irene (1974). Mammals of Australia. Sydney: Australian Universities Press. ISBN 0-7249-0017-9.
+Ride, W. D. L. (1970). A guide to the native mammals of Australia. Ella Fry (drawings). Melbourne: Oxford University Press. ISBN 0195502523.
+Russel, Rupert (1980). Spotlight on possums. Kay Russel (illustrations). Queensland, St. Lucia: University of Queensland Press. ISBN 0-7022-1478-7.
+Serventy, Vincent (1977). Wildlife of Australia (Rev. ed.). West Melbourne, Vic.: Thomas Nelson (Australia). ISBN 0
+Text Len: 1517
+--------------------------------------------------------------------------------
+ Press. ISBN 0195502523.
+Russel, Rupert (1980). Spotlight on possums. Kay Russel (illustrations). Queensland, St. Lucia: University of Queensland Press. ISBN 0-7022-1478-7.
+Serventy, Vincent (1977). Wildlife of Australia (Rev. ed.). West Melbourne, Vic.: Thomas Nelson (Australia). ISBN 0-17-005168-4.
+Troughton, Ellis (1973). Furred animals of Australia. Neville W. Cayley (colour plates) (Rev. and abridged ed.). Sydney: Angus & Robertson. ISBN 0-207-12256-3.
+Van den Beld, John (1992). of Australia: a portrait of the island continent (Revised ed.). Sydney: Collins Australia. ISBN 0-7333-0241-6.
+Westmacott, Leonard Cronin (1991). Key guide to Australian mammals. Illustrated by Marion. Balgowlah, NSW: Reed Books. ISBN 0-7301-0355-2.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+External links
+Sugar glider—Atlas of Living Australia
+Sugar glider—Wildlife Preservation Society of Queensland
+Gliders in the Spotlight—Wildlife Preservation Society of Queensland
+ITIS report: Petaurus breviceps—Taxon classification verified by ITIS
+Petaurus breviceps—Animal Diversity Web
+VIDEOS: sugar gliders in the wild on ARKive.org—BBC Natural History Unit
+Enlargement of Petaurus breviceps skull—Museum Victoria, Bioinformatics (photo showing sugar gliders' unusual dentition)
+Extant Diprotodontia species
+Kingdom Animalia Phylum Chordata Class Mammalia Infraclass Marsupialia
+Suborder Vombatiformes
+Phasc
+Text Len: 1446
+--------------------------------------------------------------------------------
+ ARKive.org—BBC Natural History Unit
+Enlargement of Petaurus breviceps skull—Museum Victoria, Bioinformatics (photo showing sugar gliders' unusual dentition)
+Extant Diprotodontia species
+Kingdom Animalia Phylum Chordata Class Mammalia Infraclass Marsupialia
+Suborder Vombatiformes
+Phascolarctidae
+Phascolarctos
+Koala (P. cinereus)
+Vombatidae
+(wombats)
+Vombatus
+Common wombat (V. ursinus)
+Lasiorhinus
+Southern hairy-nosed wombat (L. latifrons) Northern hairy-nosed wombat (L. krefftii)
+Suborder Phalangeriformes (possums)
+Phalangeridae
+(including cuscuses)
+Ailurops
+(bear cuscuses)
+Talaud bear cuscus (A. melanotis) Sulawesi bear cuscus (A. ursinus)
+Phalanger
+Gebe cuscus (P. alexandrae) Mountain cuscus (P. carmelitae) Ground cuscus (P. gymnotis) Eastern common cuscus (P. intercastellanus) Woodlark cuscus (P. lullulae) Blue-eyed cuscus (P. matabiru) Telefomin cuscus (P. matanim) Southern common cuscus (P. mimicus) Northern common cuscus (P. orientalis) Ornate cuscus (P. ornatus) Rothschild's cuscus (P. rothschildi) Silky cuscus (P. sericeus) Stein's cuscus (P. vestitus)
+Spilocuscus
+Admiralty Island cus
+Text Len: 1109
+--------------------------------------------------------------------------------
+ cuscus (P. mimicus) Northern common cuscus (P. orientalis) Ornate cuscus (P. ornatus) Rothschild's cuscus (P. rothschildi) Silky cuscus (P. sericeus) Stein's cuscus (P. vestitus)
+Spilocuscus
+Admiralty Island cuscus (S. kraemeri) Common spotted cuscus (S. maculatus) Waigeou cuscus (S. papuensis) Black-spotted cuscus (S. rufoniger) Blue-eyed spotted cuscus (S. wilsoni)
+Strigocuscus
+Sulawesi dwarf cuscus (S. celebensis) Banggai cuscus (S. pelegensis)
+Trichosurus
+(brushtail possums)
+Northern brushtail possum (T. arnhemensis) Short-eared possum (T. caninus) Mountain brushtail possum (T. cunninghami) Coppery brushtail possum (T. johnstonii) Common brushtail possum (T. vulpecula)
+Wyulda
+Scaly-tailed possum (W. squamicaudata)
+Burramyidae
+(pygmy possums)
+Burramys
+Mountain pygmy possum (B. parvus)
+Cercartetus
+Long-tailed pygmy possum (C. caudatus) Western pygmy possum (C. concinnus) Tasmanian pygmy possum (C. lepidus) Eastern pygmy possum (C. nanus)
+Tarsipedidae
+Tarsipes
+Honey possum (T. rostratus)
+Petauridae
+Dactylopsila
+Great-tailed triok
+Text Len: 1047
+--------------------------------------------------------------------------------
+ caudatus) Western pygmy possum (C. concinnus) Tasmanian pygmy possum (C. lepidus) Eastern pygmy possum (C. nanus)
+Tarsipedidae
+Tarsipes
+Honey possum (T. rostratus)
+Petauridae
+Dactylopsila
+Great-tailed triok (D. megalura) Long-fingered triok (D. palpator) Tate's triok (D. tatei) Striped possum (D. trivirgata)
+Gymnobelideus
+Leadbeater's possum (G. leadbeateri)
+Petaurus
+Northern glider (P. abidi) Yellow-bellied glider (P. australis) Biak glider (P. biacensis) Sugar glider (P. breviceps) Mahogany glider (P. gracilis) Squirrel glider (P. norfolcensis)
+Pseudocheiridae
+Hemibelideus
+Lemur-like ringtail possum (H. lemuroides)
+Petauroides
+(greater gliders)
+Central greater glider (P. armillatus) Northern greater glider (P. minor) Southern greater glider (P. volans)
+Petropseudes
+Rock-haunting ringtail possum (P. dahli)
+Pseudocheirus
+Common ringtail possum (P. peregrinus)
+Pseudochirulus
+Lowland ringtail possum (P. canescens) Weyland ringtail possum (P. caroli) Cinereus ringtail possum (P. cinereus) Painted ringtail possum (P. forbesi) Herbert River ringtail possum (P
+Text Len: 1071
+--------------------------------------------------------------------------------
+ possum (P. peregrinus)
+Pseudochirulus
+Lowland ringtail possum (P. canescens) Weyland ringtail possum (P. caroli) Cinereus ringtail possum (P. cinereus) Painted ringtail possum (P. forbesi) Herbert River ringtail possum (P. herbertensis) Masked ringtail possum (P. larvatus) Pygmy ringtail possum (P. mayeri) Vogelkop ringtail possum (P. schlegeli)
+Pseudochirops
+D'Albertis's ringtail possum (P. albertisii) Green ringtail possum (P. archeri) Plush-coated ringtail possum (P. corinnae) Reclusive ringtail possum (P. coronatus) Coppery ringtail possum (P. cupreus)
+Acrobatidae
+Acrobates
+Feathertail glider (A. pygmaeus)
+Distoechurus
+Feather-tailed possum (D. pennatus)
+Suborder Macropodiformes
+Macropodidae
+(includes wallabies)
+Lagostrophus
+Banded hare-wallaby (L. fasciatus)
+Dendrolagus
+(tree-kangaroos)
+Bennett's tree-kangaroo (D. bennettianus) Doria's tree-kangaroo (D. dorianus) Goodfellow's tree-kangaroo (D. goodfellowi) Grizzled tree-kangaroo (D. inustus) Lumholtz's tree-kangaroo (D. lumholtzi) Matschie's tree-kangaroo (D. matschiei) Dingiso (D
+Text Len: 1052
+--------------------------------------------------------------------------------
+'s tree-kangaroo (D. dorianus) Goodfellow's tree-kangaroo (D. goodfellowi) Grizzled tree-kangaroo (D. inustus) Lumholtz's tree-kangaroo (D. lumholtzi) Matschie's tree-kangaroo (D. matschiei) Dingiso (D. mbaiso) Ifola (D. notatus) Golden-mantled tree-kangaroo (D. pulcherrimus) Lowlands tree-kangaroo (D. spadix) Tenkile (D. scottae) Seri's tree-kangaroo (D. stellarum) Ursine tree-kangaroo (D. ursinus)
+Dorcopsis
+Black dorcopsis (D. atrata) White-striped dorcopsis (D. hageni) Gray dorcopsis (D. luctuosa) Brown dorcopsis (D. muelleri)
+Dorcopsulus
+Macleay's dorcopsis (D. macleayi) Small dorcopsis (D. vanheurni)
+Lagorchestes
+(hare-wallabies)
+Spectacled hare-wallaby (L. conspicillatus) Rufous hare-wallaby (L. hirsutus)
+Macropus
+Western grey kangaroo (M. fuliginosus) Eastern grey kangaroo (M. giganteus)
+Notamacropus
+Agile wallaby (N. agilis) Black-striped wallaby (N. dorsalis) Tammar wallaby (N. eugenii) Western brush wallaby (N. irma) Parma wallaby (N. parma) Whiptail wallaby (N. parryi) Red-neck
+Text Len: 1003
+--------------------------------------------------------------------------------
+ giganteus)
+Notamacropus
+Agile wallaby (N. agilis) Black-striped wallaby (N. dorsalis) Tammar wallaby (N. eugenii) Western brush wallaby (N. irma) Parma wallaby (N. parma) Whiptail wallaby (N. parryi) Red-necked wallaby (N. rufogriseus)
+Onychogalea
+(nail-tail wallabies)
+Bridled nail-tail wallaby (O. fraenata) Northern nail-tail wallaby (O. unguifera)
+Osphranter
+Antilopine kangaroo (O. antilopinus) Black wallaroo (O. bernardus) Common wallaroo (O. robustus) Red kangaroo (O. rufus)
+Petrogale
+(rock-wallabies)
+P. brachyotis species group: Short-eared rock-wallaby (P. brachyotis) Monjon (P. burbidgei) Nabarlek (P. concinna) Eastern short-eared rock-wallaby (P. wilkinsi)
+P. xanthopus species group: Proserpine rock-wallaby (P. persephone) Rothschild's rock-wallaby (P. rothschildi) Yellow-footed rock-wallaby (P. xanthopus)
+P. lateralis/penicillata species group: Allied rock-wallaby (P. assimilis) Cape York rock-wallaby (P. coenensis) Godman's rock-wallaby (P. godmani) Herbert's rock-wallaby (P. herberti) Unadorned rock-wallaby (P. inornata) Black-flanked rock-wallaby (
+Text Len: 1077
+--------------------------------------------------------------------------------
+icillata species group: Allied rock-wallaby (P. assimilis) Cape York rock-wallaby (P. coenensis) Godman's rock-wallaby (P. godmani) Herbert's rock-wallaby (P. herberti) Unadorned rock-wallaby (P. inornata) Black-flanked rock-wallaby (P. lateralis) Mareeba rock-wallaby (P. mareeba) Brush-tailed rock-wallaby (P. penicillata) Purple-necked rock-wallaby (P. purpureicollis) Mount Claro rock-wallaby (P. sharmani)
+Setonix
+Quokka (S. brachyurus)
+Thylogale
+(pademelons)
+Tasmanian pademelon (T. billardierii) Brown's pademelon (T. browni) Dusky pademelon (T. brunii) Calaby's pademelon (T. calabyi) Mountain pademelon (T. lanatus) Red-legged pademelon (T. stigmatica) Red-necked pademelon (T. thetis)
+Wallabia
+Swamp wallaby (W. bicolor)
+Potoroidae
+Aepyprymnus
+Rufous rat-kangaroo (A. rufescens)
+Bettongia
+(bettongs)
+Eastern bettong (B. gaimardi) Boodie (B. lesueur) Woylie (B. penicillata) Northern bettong (B. tropica)
+Potorous
+(potoroos)
+Long-footed potoroo (P. longipes) Long-nosed potoroo (P. tridact
+Text Len: 998
+--------------------------------------------------------------------------------
+ongs)
+Eastern bettong (B. gaimardi) Boodie (B. lesueur) Woylie (B. penicillata) Northern bettong (B. tropica)
+Potorous
+(potoroos)
+Long-footed potoroo (P. longipes) Long-nosed potoroo (P. tridactylus) Gilbert's potoroo (P. gilbertii)
+Hypsiprymnodontidae
+Hypsiprymnodon
+Musky rat-kangaroo (H. moschatus)
+Taxon identifiers
+Petaurus breviceps
+Wikidata: Q723435 Wikispecies: Petaurus breviceps AFD: Petaurus_breviceps ARKive: petaurus-breviceps BOLD: 83099 CoL: 4FD5J EoL: 323825 EPPO: PTAUBR GBIF: 2440043 iNaturalist: 42723 IRMNG: 11255148 ITIS: 609841 IUCN: 16731 MDD: 1000344 MSW: 11000157 NCBI: 34899 Observation.org: 86568 Open Tree of Life: 423936 Paleobiology Database: 234627 Xeno-canto: Petaurus-breviceps
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Sounds
+Source: iNaturalist Australia
+View more details of this audio
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Occurrence records map (41,086 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+View more details of this audio
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Occurrence records map (41,086 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+View and download occurrence records
+Record a sighting
+Receive alerts when new records are added
+Datasets
+52 datasets have provided data to the Atlas of Living Australia for this species.
+Browse the list of datasets and find organisations you can join if you are interested in participating in a survey for species like Petaurus breviceps Waterhouse, 1839
+Museums Field Guide apps species profiles – vertebrates
+Brief description Gliding membrane, stripe on head and back, tail tip white.
+Description Body fur grey with a dark stripe along the middle of the head and along the back. Underparts pale grey to cream. End of tail black with a white tip. Gliding membrane of skin between the elbow and the ankle. Body up to 20 cm, tail up to 21 cm.
+Biology Sugar Gliders can glide for 50 m between trees. They have a distinctive 'yip yip' call that sounds like the yapping of a small dog. Young are born between July and August in Victoria, but can occur throughout the year in Queensland. Young are carried on the mother's back until they are able to care for themselves. Sugar Gliders feed on gums, nectar, pollen and invertebrates.
+Habitat Open woodlands and forests.
+Native status Native to Australia
+Diet Omnivore
+Colours grey white
+Distribution Eastern and northern mainland Australia and Tasmania.
+Habitat types Terrestrial
+Commercial species False
+Author credit Museum Victoria Sciences Staff / Museum Victoria
+South Australia : Conservation Status
+commonName Sugar
+Text Len: 1764
+--------------------------------------------------------------------------------
+ums, nectar, pollen and invertebrates.
+Habitat Open woodlands and forests.
+Native status Native to Australia
+Diet Omnivore
+Colours grey white
+Distribution Eastern and northern mainland Australia and Tasmania.
+Habitat types Terrestrial
+Commercial species False
+Author credit Museum Victoria Sciences Staff / Museum Victoria
+South Australia : Conservation Status
+commonName Sugar Glider
+id 3725099
+ambiguous name Petaurus breviceps
+lsid https://biodiversity.org.au/afd/taxa/284a0855-14f4-4da8-9fdc-b53009b65796
+dataResourceUid dr653
+kvpValues [{'key': 'family', 'value': 'Petauridae'}, {'key': 'kingdom', 'value': 'Animalia'}, {'key': 'status', 'value': 'Rare'}, {'key': 'sourceStatus', 'value': 'R'}]
+family Petauridae
+kingdom Animalia
+status Rare
+sourceStatus R
+IUCN_Equivalent_Status Near Threatened
+Text Len: 800
+--------------------------------------------------------------------------------
+ANIMALIA CHORDATA VERTEBRATA GNATHOSTOMATA MAMMALIA MARSUPIALIA DIPROTODONTIA PHALANGERIDA PETAUROIDEA PETAURIDAE PETAURINAE Petaurus Petaurus breviceps
+  API
+Petaurus breviceps Waterhouse, 1839
+species Accepted Name authority: AFD
+Sugar Glider
+A-Warpurrh in Ngandi
+Bagu in Gamilaraay / Gamilaroi / Kamilaroi
+Flaing Posom in Kriol
+Jawanngawanngal in Wubuy
+Lambalk in Rembarrnga
+Mernbelgnyin in Alawa
+Mirnbilngi in Marra
+Warpurr' in Ritharrŋu
+Warrpur in Ngalakgan
+Overview
+Gallery
+Names
+Classification
+Charts
+Literature
+Data Partners
++
+Conservation Status
+SARare
+Summary
+The sugar glider (Petaurus breviceps) is a small, omnivorous, arboreal, and nocturnal gliding possum. The common name refers to its predilection for sugary foods such as sap and nectar and its ability to glide through the air, much like a flying squirrel. They have very similar habits and appearance to the flying squirrel, despite not being closely related—an example of convergent evolution. The scientific name, Petaurus breviceps, translates from Latin as "short-headed rope-dancer", a reference to their canopy acrobatics.
+The sugar glider is characterised by its pair of gliding membranes, known as patagia, which extend from its forelegs to its hindlegs. Gliding serves as an efficient means of reaching food and evading predators. The animal is covered in soft, pale grey to light brown
+Text Len: 1365
+--------------------------------------------------------------------------------
+ "short-headed rope-dancer", a reference to their canopy acrobatics.
+The sugar glider is characterised by its pair of gliding membranes, known as patagia, which extend from its forelegs to its hindlegs. Gliding serves as an efficient means of reaching food and evading predators. The animal is covered in soft, pale grey to light brown fur which is countershaded, being lighter in colour on its underside.
+The sugar glider, as strictly defined in a recent analysis, is only native to a small portion of southeastern Australia, corresponding to southern Queensland and most of New South Wales east of the Great Dividing Range; the extended species group, including populations which may or may not belong to P. breviceps, occupies a larger range covering much of coastal eastern and northern Australia, New Guinea, and nearby islands. Members of Petaurus are popular exotic pets; these pet animals are also frequently referred to as "sugar gliders", but recent research indicates, at least for American pets, that they are not P. breviceps but a closely related species, ultimately originating from a single source near Sorong in West Papua. This would possibly make them members of the Krefft's glider (P. notatus), but the taxonomy of Papuan Petaurus populations is still poorly resolved.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Taxonomy and evolution
+The genus Petaurus is believed to have originated in New Guinea during the mid Miocene epoch, approximately 18 to 24 million years ago. The modern Australian Petaurus, along with New Guinean members of what were formerly considered P. breviceps, diverged from their closest living New Guinean relatives ~9-12 mya. They probably dispersed from New Guinea to Australia between 4.8 and ~8.4 mya, with the oldest Petaurus fossils
+Text Len: 1833
+--------------------------------------------------------------------------------
+ Miocene epoch, approximately 18 to 24 million years ago. The modern Australian Petaurus, along with New Guinean members of what were formerly considered P. breviceps, diverged from their closest living New Guinean relatives ~9-12 mya. They probably dispersed from New Guinea to Australia between 4.8 and ~8.4 mya, with the oldest Petaurus fossils in Australia being dated to 4.46 million years. This may have been possible due to sea level lowering from about 7 to 10 mya, resulting in land bridges between New Guinea and Australia.
+The taxonomy of the species is complex, and is still not fully resolved. It was formerly understood to have a wide range across Australia and New Guinea, being the only glider to have this distribution, and to be divided into seven subspecies, with three occurring in Australia and four in New Guinea. This traditional subspecific division was based on small morphological differences, such as colour and body size. However, a 2010 genetic analysis using mitochondrial DNA indicates that these morphologically-defined subspecies may not represent genetically unique populations.
+Further studies have found significant genetic variation within populations traditionally classified in P. breviceps, sufficient to warrant splitting the species into multiple. The subspecies P. b. biacensis, from Biak Island off of New Guinea, was reclassified as a separate species, the Biak glider (Petaurus biacensis). In 2020, a landmark study suggested that P. breviceps actually comprised three cryptic species: the Krefft's glider (Petaurus notatus), found throughout most of eastern Australia and introduced to Tasmania, the savanna glider (Petaurus ariel), native to northern Australia, and a more narrowly defined P. breviceps, restricted to a small section of coastal forest in southern Queensland and most of New South Wales. In addition, other sugar glider populations throughout this range (such as those on New Guinea
+Text Len: 1946
+--------------------------------------------------------------------------------
+ (Petaurus notatus), found throughout most of eastern Australia and introduced to Tasmania, the savanna glider (Petaurus ariel), native to northern Australia, and a more narrowly defined P. breviceps, restricted to a small section of coastal forest in southern Queensland and most of New South Wales. In addition, other sugar glider populations throughout this range (such as those on New Guinea and the Cape York Peninsula) may represent undescribed species or be conspecific with previously described species. This indicates that contrary to previous findings of a large range (which in fact applied to P. notatus and, to a lesser extent, to P. ariel), P. breviceps is a range-restricted species that is sensitive to ecological disasters, such as the 2019-20 Australian bushfires, which significantly affected large portions of its habitat.
+P. breviceps and P. notatus are estimated to have diverged ~1 million years ago, and may have originated from long term geographic isolation. The early-mid Pleistocene saw an uplifting of the Great Dividing Range, contributing to and coinciding with aridification of the interior of Australia, including on the western side of the range. This, as well as other climactic and geographic factors, may have isolated the ancestors of P. breviceps to refugia on the eastern, coastal side of the Great Dividing Range. This would be an example of allopatric speciation.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Distribution and habitat
+Sugar gliders are distributed in the coastal forests of southeastern Queensland and most of New South Wales. Their distribution extends to altitudes of 2000m in the eastern ranges. In parts of its range, it may overlap with Krefft's glider (P. notatus).
+The sugar glider occurs in sympatry with the squirrel
+Text Len: 1833
+--------------------------------------------------------------------------------
+like License 4.0
+Distribution and habitat
+Sugar gliders are distributed in the coastal forests of southeastern Queensland and most of New South Wales. Their distribution extends to altitudes of 2000m in the eastern ranges. In parts of its range, it may overlap with Krefft's glider (P. notatus).
+The sugar glider occurs in sympatry with the squirrel glider and yellow-bellied glider; and their coexistence is permitted through niche partitioning where each species has different patterns of resource use.
+Like all arboreal, nocturnal marsupials, sugar gliders are active at night, and they shelter during the day in tree hollows lined with leafy twigs.
+The average home range of sugar gliders is 0.5 hectares (1.2 acres), and is largely related to the abundance of food sources; density ranges from two to six individuals per hectare (0.8–2.4 per acre).
+Native owls (Ninox sp.) are their primary predators; others in their range include kookaburras, goannas, snakes, and quolls. Feral cats (Felis catus) also represent a significant threat.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Appearance and anatomy
+This male's forehead bald spot is a scent gland. The eyes are adapted for night vision and the ears swivel.
+The sugar glider has a squirrel-like body with a long, partially (weakly) prehensile tail. The length from the nose to the tip of the tail is about 24–30 cm (9–12 in), and males and females weigh 140 and 115 grams (5 and 4 oz) respectively. Heart rate range is 200–300 beats per minute, and respiratory rate is 16–40 breaths per minute. The sugar glider is a sexually dimorphic
+Text Len: 1644
+--------------------------------------------------------------------------------
+weakly) prehensile tail. The length from the nose to the tip of the tail is about 24–30 cm (9–12 in), and males and females weigh 140 and 115 grams (5 and 4 oz) respectively. Heart rate range is 200–300 beats per minute, and respiratory rate is 16–40 breaths per minute. The sugar glider is a sexually dimorphic species, with males typically larger than females. Sexual dimorphism has likely evolved due to increased mate competition arising through social group structure; and is more pronounced in regions of higher latitude, where mate competition is greater due to increased food availability.
+The fur coat on the sugar glider is thick, soft, and is usually blue-grey; although some have been known to be yellow, tan or (rarely) albino. A black stripe is seen from its nose to midway on its back. Its belly, throat, and chest are cream in colour. Males have four scent glands, located on the forehead, chest, and two paracloacal (associated with, but not part of the cloaca, which is the common opening for the intestinal, urinal and genital tracts) that are used for marking of group members and territory. Scent glands on the head and chest of males appear as bald spots. Females also have a paracloacal scent gland and a scent gland in the pouch, but do not have scent glands on the chest or forehead.
+The sugar glider is nocturnal; its large eyes help it to see at night and its ears swivel to help locate prey in the dark. The eyes are set far apart, allowing more precise triangulation from launching to landing locations while gliding. Sugar gliders have demonstrated trichromacy in behavioral testing with sensitivity in the ultraviolet/blue, green, and red ranges. Ultraviolet sensitivity is corroborated by genetic evidence. The physiological source of their middle wavelength sensitivity is not yet
+Text Len: 1813
+--------------------------------------------------------------------------------
+ swivel to help locate prey in the dark. The eyes are set far apart, allowing more precise triangulation from launching to landing locations while gliding. Sugar gliders have demonstrated trichromacy in behavioral testing with sensitivity in the ultraviolet/blue, green, and red ranges. Ultraviolet sensitivity is corroborated by genetic evidence. The physiological source of their middle wavelength sensitivity is not yet confirmed.
+Each foot on the sugar glider has five digits, with an opposable toe on each hind foot. These opposable toes are clawless, and bend such that they can touch all the other digits, like a human thumb, allowing it to firmly grasp branches. The second and third digits of the hind foot are partially syndactylous (fused together), forming a grooming comb. The fourth digit of the forefoot is sharp and elongated, aiding in extraction of insects under the bark of trees.
+The gliding membrane extends from the outside of the fifth digit of each forefoot to the first digit of each hind foot. When the legs are stretched out, this membrane allows the sugar glider to glide a considerable distance. The membrane is supported by well developed tibiocarpalis, humerodorsalis and tibioabdominalis muscles, and its movement is controlled by these supporting muscles in conjunction with trunk, limb and tail movement.
+Lifespan in the wild is up to 9 years; is typically up to 12 years in captivity, and the maximum reported lifespan is 17.8 years.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Biology and behaviour
+Sugar gliders' hind feet are adapted to firmly grasp surfaces such as this rock wall
+Gliding
+The sugar glider is one of a number of volplane (gliding) possums in Australia. It glides with the fore- and hind-limbs extended at right angles to
+Text Len: 1826
+--------------------------------------------------------------------------------
+.
+Creative Commons Attribution-ShareAlike License 4.0
+Biology and behaviour
+Sugar gliders' hind feet are adapted to firmly grasp surfaces such as this rock wall
+Gliding
+The sugar glider is one of a number of volplane (gliding) possums in Australia. It glides with the fore- and hind-limbs extended at right angles to the body, with feet flexed upwards. The animal launches itself from a tree, spreading its limbs to expose the gliding membranes. This creates an aerofoil enabling it to glide 50 metres (55 yards) or more. For every 1.82 m (6 ft 0 in) travelled horizontally when gliding, it falls 1 m (3 ft 3 in). Steering is controlled by moving limbs and adjusting the tension of the gliding membrane; for example, to turn left, the left forearm is lowered below the right.
+This form of arboreal locomotion is typically used to travel from tree to tree; the species rarely descends to the ground. Gliding provides three dimensional avoidance of arboreal predators, and minimal contact with ground dwelling predators; as well as possible benefits in decreasing time and energy consumption spent foraging for nutrient poor foods that are irregularly distributed. Young carried in the pouch of females are protected from landing forces by the septum that separates them within the pouch.
+Torpor
+Sugar gliders can tolerate ambient air temperatures of up to 40 °C (104 °F) through behavioural strategies such as licking their coat and exposing the wet area, as well as drinking small quantities of water. In cold weather, sugar gliders will huddle together to avoid heat loss, and will enter torpor to conserve energy. Huddling as an energy conserving mechanism is not as efficient as torpor. Before entering torpor, a sugar glider will reduce activity and body temperature normally in order to lower energy expenditure and avoid torpor. With
+Text Len: 1839
+--------------------------------------------------------------------------------
+, as well as drinking small quantities of water. In cold weather, sugar gliders will huddle together to avoid heat loss, and will enter torpor to conserve energy. Huddling as an energy conserving mechanism is not as efficient as torpor. Before entering torpor, a sugar glider will reduce activity and body temperature normally in order to lower energy expenditure and avoid torpor. With energetic constraints, the sugar glider will enter into daily torpor for 2–23 hours while in rest phase. Torpor differs from hibernation in that torpor is usually a short-term daily cycle. Entering torpor saves energy for the animal by allowing its body temperature to fall to a minimum of 10.4 °C (50.7 °F) to 19.6 °C (67.3 °F). When food is scarce, as in winter, heat production is lowered in order to reduce energy expenditure. With low energy and heat production, it is important for the sugar glider to peak its body mass by fat content in the autumn (May/June) in order to survive the following cold season. In the wild, sugar gliders enter into daily torpor more often than sugar gliders in captivity. The use of torpor is most frequent during winter, likely in response to low ambient temperature, rainfall, and seasonal fluctuation in food sources.
+Diet and nutrition
+1863 illustration by John Gould
+Sugar gliders are seasonally adaptive omnivores with a wide variety of foods in their diet, and mainly forage in the lower layers of the forest canopy. Sugar gliders may obtain up to half their daily water intake through drinking rainwater, with the remainder obtained through water held in its food. In summer they are primarily insectivorous, and in the winter when insects (and other arthropods) are scarce, they are mostly exudativorous (feeding on acacia gum, eucalyptus sap, man
+Text Len: 1780
+--------------------------------------------------------------------------------
+ the forest canopy. Sugar gliders may obtain up to half their daily water intake through drinking rainwater, with the remainder obtained through water held in its food. In summer they are primarily insectivorous, and in the winter when insects (and other arthropods) are scarce, they are mostly exudativorous (feeding on acacia gum, eucalyptus sap, manna, honeydew or lerp). Sugar gliders have an enlarged caecum to assist in digestion of complex carbohydrates obtained from gum and sap.
+To obtain sap or gum from plants, sugar gliders will strip the bark off trees or open bore holes with their teeth to access stored liquid. Little time is spent foraging for insects, as it is an energetically expensive process, and sugar gliders will wait until insects fly into their habitat, or stop to feed on flowers. Gliders consume approximately 11 g of dry food matter per day. This equates to roughly 8% and 9.5% of body weight for males and females, respectively.
+They are opportunistic feeders and can be carnivorous, preying mostly on lizards and small birds. They eat many other foods when available, such as nectar, acacia seeds, bird eggs, pollen, fungi and native fruits. Pollen can make up a large portion of their diet, therefore sugar gliders are likely to be important pollinators of Banksia species.
+Reproduction
+Like most marsupials, female sugar gliders have two ovaries and two uteri; they are polyestrous, meaning they can go into heat several times a year. The female has a marsupium (pouch) in the middle of her abdomen to carry offspring. The pouch opens anteriorly, and two lateral pockets extend posteriorly when young are present. Four nipples are usually present in the pouch, although reports of individuals with two nipples have been recorded. Male sugar gliders have two
+Text Len: 1791
+--------------------------------------------------------------------------------
+ polyestrous, meaning they can go into heat several times a year. The female has a marsupium (pouch) in the middle of her abdomen to carry offspring. The pouch opens anteriorly, and two lateral pockets extend posteriorly when young are present. Four nipples are usually present in the pouch, although reports of individuals with two nipples have been recorded. Male sugar gliders have two pairs of bulbourethral glands and a bifurcated penis to correspond with the two uteri of females.
+The age of sexual maturity in sugar gliders varies slightly between the males and females. Males reach maturity at 4 to 12 months of age, while females require from 8 to 12 months. In the wild, sugar gliders breed once or twice a year depending on the climate and habitat conditions, while they can breed multiple times a year in captivity as a result of consistent living conditions and proper diet.
+A sugar glider female gives birth to one (19%) or two (81%) babies (joeys) per litter. The gestation period is 15 to 17 days, after which the tiny joey 0.2 g (0.0071 oz) will crawl into a mother's pouch for further development. They are born largely undeveloped and furless, with only the sense of smell being developed. The mother has a scent gland in the external marsupium to attract the sightless joeys from the uterus. Joeys have a continuous arch of cartilage in their shoulder girdle which disappears soon after birth; this supports the forelimbs, assisting the climb into the pouch. Young are completely contained in the pouch for 60 days after birth, wherein mammae provide nourishment during the remainder of development. Eyes first open around 80 days after birth, and young will leave the nest around 110 days after birth. By the time young are weaned, the thermoregulatory system is developed, and in conjunction with a large body
+Text Len: 1831
+--------------------------------------------------------------------------------
+, assisting the climb into the pouch. Young are completely contained in the pouch for 60 days after birth, wherein mammae provide nourishment during the remainder of development. Eyes first open around 80 days after birth, and young will leave the nest around 110 days after birth. By the time young are weaned, the thermoregulatory system is developed, and in conjunction with a large body size and thicker fur, they are able to regulate their own body temperature.
+Breeding is seasonal in southeast Australia, with young only born in winter and spring (June to November). Unlike animals that move along the ground, the sugar glider and other gliding species produce fewer, but heavier, offspring per litter. This allows female sugar gliders to retain the ability to glide when pregnant.
+Socialisation
+Sugar gliders are highly social animals. They live in family groups or colonies consisting of up to seven adults, plus the current season's young. Up to four age classes may exist within each group, although some sugar gliders are solitary, not belonging to a group. They engage in social grooming, which in addition to improving hygiene and health, helps bond the colony and establish group identity.
+Within social communities, there are two codominant males who suppress subordinate males, but show no aggression towards each other. These co-dominant pairs are more related to each other than to subordinates within the group; and share food, nests, mates, and responsibility for scent marking of community members and territories.
+Territory and members of the group are marked with saliva and a scent produced by separate glands on the forehead and chest of male gliders. Intruders who lack the appropriate scent marking are expelled violently. Rank is established through scent marking; and fighting does not occur within groups, but does occur when communities come into contact with each other. Within the colony, no fighting typically takes place beyond threatening behaviour. Each colony defends a territory of about 1 hectare (2
+Text Len: 2040
+--------------------------------------------------------------------------------
+ scent produced by separate glands on the forehead and chest of male gliders. Intruders who lack the appropriate scent marking are expelled violently. Rank is established through scent marking; and fighting does not occur within groups, but does occur when communities come into contact with each other. Within the colony, no fighting typically takes place beyond threatening behaviour. Each colony defends a territory of about 1 hectare (2.5 acres) where eucalyptus trees provide a staple food source.[citation needed]
+Sugar gliders are one of the few species of mammals that exhibit male parental care. The oldest codominant male in a social community shows a high level of parental care, as he is the probable father of any offspring due to his social status. This paternal care evolved in sugar gliders as young are more likely to survive when parental investment is provided by both parents. In the sugar glider, biparental care allows one adult to huddle with the young and prevent hypothermia while the other parent is out foraging, as young sugar gliders aren't able to thermoregulate until they are 100 days old (3.5 months).
+Communication in sugar gliders is achieved through vocalisations, visual signals and complex chemical odours. Chemical odours account for a large part of communication in sugar gliders, similar to many other nocturnal animals. Odours may be used to mark territory, convey health status of an individual, and mark rank of community members. Gliders produce a number of vocalisations including barking and hissing.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Human relations
+Conservation
+Under the prior taxonomy, the sugar glider was not considered endangered, and its conservation rank was "Least Concern (LC)" on the IUCN Red List. However, with newer taxonomic studies indicating that it has a small and restricted range, it is
+Text Len: 1915
+--------------------------------------------------------------------------------
+ Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Human relations
+Conservation
+Under the prior taxonomy, the sugar glider was not considered endangered, and its conservation rank was "Least Concern (LC)" on the IUCN Red List. However, with newer taxonomic studies indicating that it has a small and restricted range, it is now thought to be far more sensitive to potential threats. For example, the species' native range was hit hard by the 2019-20 Australian bushfires, which occurred just a few months prior to the publishing of the study indicating the true extent of its range. Sugar gliders use tree hollows, making them especially sensitive to intense fires. However, despite the loss of natural habitat in Australia over the last 200 years, it is adaptable and capable of living in small patches of remnant bush, particularly if it does not have to cross large expanses of cleared land to reach them. Sugar gliders may persist in areas that have undergone mild-moderate selective logging, as long as three to five hollow bearing trees are retained per hectare. Although not currently threatened by habitat loss, the ability of sugar gliders to forage and avoid predators successfully may be decreased in areas of high light pollution.
+Conservation in Australia is enacted at the federal, state and local levels, where sugar gliders are protected as a native species. The central conservation law in Australia is the Environment Protection and Biodiversity Conservation Act 1999 (EPBC Act). The National Parks and Wildlife Act 1974 is an example of conservation law in the state of South Australia, where it is legal to keep (only) one sugar glider without a permit, provided it was acquired legally from a source with a permit. A permit is required to obtain or possess more than one glider, or if one wants to sell or give away any glider in their possession. It is illegal to capture or sell wild sugar gliders without a
+Text Len: 1967
+--------------------------------------------------------------------------------
+ law in the state of South Australia, where it is legal to keep (only) one sugar glider without a permit, provided it was acquired legally from a source with a permit. A permit is required to obtain or possess more than one glider, or if one wants to sell or give away any glider in their possession. It is illegal to capture or sell wild sugar gliders without a permit.
+In captivity
+In captivity, the sugar glider can suffer from calcium deficiencies if not fed an adequate diet. A lack of calcium in the diet causes the body to leach calcium from the bones, with the hind legs first to show noticeable dysfunction. Calcium to phosphorus ratios should be 2:1 to prevent hypocalcemia, sometimes known as hind leg paralysis (HLP). Their diet should be 50% insects (gut-loaded) or other sources of protein, 25% fruit and 25% vegetables. Some of the more recognised diets are Bourbon's Modified Leadbeaters (BML), High Protein Wombaroo (HPW) and various calcium rich diets with Leadbeaters Mixture (LBM). Iron storage disease (hemochromatosis) is another dietary problem that has been reported in captive gliders and can lead to fatal complications if not diagnosed and treated early.
+A large amount of attention and environmental enrichment may be required for the highly social species, especially for those kept as individuals. Inadequate social interaction can lead to depression and behavioural disorders such as loss of appetite, irritability and self-mutilation.
+As a pet
+In several countries, the sugar glider (or what was formerly considered to be the sugar glider) is popular as an exotic pet, and is sometimes referred to as a pocket pet. In Australia, there is opposition to keeping native animals as pets from Australia's largest wildlife rehabilitation organisation (WIRES), and concerns from Australian wildlife conservation organisations regarding animal welfare risks including neglect, cruelty and abandonment.
+
+Text Len: 1926
+--------------------------------------------------------------------------------
+ several countries, the sugar glider (or what was formerly considered to be the sugar glider) is popular as an exotic pet, and is sometimes referred to as a pocket pet. In Australia, there is opposition to keeping native animals as pets from Australia's largest wildlife rehabilitation organisation (WIRES), and concerns from Australian wildlife conservation organisations regarding animal welfare risks including neglect, cruelty and abandonment.
+In Australia, sugar gliders can be kept in Victoria, South Australia, and the Northern Territory. However, they are not allowed to be kept as pets in Western Australia, New South Wales, the Australian Capital Territory, Queensland or Tasmania.
+DNA analysis indicates that "the USA (sugar) glider population originates from West Papua, Indonesia with no illegal harvesting from other native areas such as Papua New Guinea or Australia". Given that the West Papuan gliders have been tentatively classified as Krefft's gliders (albeit to be changed in the future), this indicates that at least the captive gliders kept in the United States are Krefft's gliders, not sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Notes
+Species notes
+↑ Range in red now thought to largely represent a separate species, Krefft's glider (P. notatus); if this is true, P. breviceps (sensu stricto) occupies only a small coastal region of this range, containing parts of southern Queensland and eastern New South Wales. Range in blue now thought to possibly represent multiple non-P. breviceps species, including Krefft's glider (P. notatus), the mahogany glider (P. gracilis), and/or a species complex associated with P. gracilis.
+↑ It has been recently suggested that P. b. ariel be treated as a separate species, the savanna glider
+Text Len: 1820
+--------------------------------------------------------------------------------
+ possibly represent multiple non-P. breviceps species, including Krefft's glider (P. notatus), the mahogany glider (P. gracilis), and/or a species complex associated with P. gracilis.
+↑ It has been recently suggested that P. b. ariel be treated as a separate species, the savanna glider (P. ariel)
+↑ P. b. flavidus (Tate and Archbold, 1935) considered a synonym of P. b. papuanus (Thomas 1888)
+↑ Tate & Archbold, 1935; subspecies P. b. tafa considered a synonym of species P. breviceps
+1 2 Subspecies (former) P. b. biacensis provisionally considered species: P. biacensis (Biak glider). "Helgen (2007) states that Petaurus biacensis is likely to be conspecific with P. breviceps. P. biacensis appears to differ from the latter mainly by having a higher incidence of melanism (Helgen 2007). We provisionally retain P. biacensis as a separate species pending further taxonomic work, thus following what has become standard treatment (e.g., Flannery 1994, 1995; Groves 2005)."
+Explanatory footnotes
+↑ Domestic in-breeding of recessive genetic phenotype defects can produce other colour variations not found in nature, such as an all-white leucistic heterozygote
+↑ When dried, an exudate (such as sap) becomes crystallized and is referred to as manna, which is consumed by sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+References
+↑ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M. (eds.). Mammal Species
+Text Len: 1466
+--------------------------------------------------------------------------------
+ate (such as sap) becomes crystallized and is referred to as manna, which is consumed by sugar gliders.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+References
+↑ Groves, C. P. (2005). Wilson, D. E.; Reeder, D. M. (eds.). Mammal Species of the World: A Taxonomic and Geographic Reference (3rd ed.). Baltimore: Johns Hopkins University Press. p. 55. ISBN 0-801-88221-4. OCLC 62265494.
+1 2 3 Salas, L.; Dickman, C.; Helgen, K.; Winter, J.; Ellis, M.; Denny, M.; Woinarski, J.; Lunney, D.; Oakwood, M.; Menkhorst, P. & Strahan, R. (2016). "Petaurus breviceps". IUCN Red List of Threatened Species. 2016: e.T16731A21959798. doi:10.2305/IUCN.UK.2016-2.RLTS.T16731A21959798.en. Retrieved 19 November 2021.
+↑ Waterhouse, G. R. (1838). "Observations on certain modifications observed in the dentition of the Flying Opossums (the genus Petaurus of authors)". Proceedings of the Zoological Society of London. 4: 149–153. doi:10.1111/j.1096-3642.1838.tb01419.x.
+1 2 3 4 "Petaurus breviceps Waterhouse, 1839". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 3 4 5 Cremona, Teigan; Baker, Andrew M; Cooper, Steven J B; Montague-Drake, Rebecca; Stobo-Wilson, Aly
+Text Len: 1218
+--------------------------------------------------------------------------------
+.1838.tb01419.x.
+1 2 3 4 "Petaurus breviceps Waterhouse, 1839". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 3 4 5 Cremona, Teigan; Baker, Andrew M; Cooper, Steven J B; Montague-Drake, Rebecca; Stobo-Wilson, Alyson M; Carthew, Susan M (13 July 2020). "Integrative taxonomic investigation of Petaurus breviceps (Marsupialia: Petauridae) reveals three distinct species". Zoological Journal of the Linnean Society. 191 (2): 503–527. doi:10.1093/zoolinnean/zlaa060. ISSN 0024-4082.
+↑ Subspecies Sheet | Mammals'Planet Archived 18 August 2016 at the Wayback Machine. Planet-mammiferes.org. Retrieved 2014-04-19.
+↑ Troughton, Ellis (1945). "Diagnoses of New rare mammals from the South-West Pacific". Records of the Australian Museum. 21 (6): 373–374. doi:10.3853/j.0067-1975.21.1945.551.
+1 2 3 "DPIW - Sugar Glider". 28 August 2012. Archived from the original on 28 August 2012.
+↑ "Analogy: Squirrels and Sugar Gliders". Understanding Evolution. The University of California Museum of Paleontology. Retrieved 1 October 2012.
+1 2 "Sugar Glider, Petaurus breviceps". Parks & Wildlife Service, Tasmania Online. Archived from the original on 3 April 2016. Retrieved 7 October 2012.
+1 2 Endo, H; Yokokawa, K; Kurohmaru, M; Hiyashi, Y (1998). "Functional anatomy of gliding membrane muscles in the sugar glider
+Text Len: 1323
+--------------------------------------------------------------------------------
+1 2 "Sugar Glider, Petaurus breviceps". Parks & Wildlife Service, Tasmania Online. Archived from the original on 3 April 2016. Retrieved 7 October 2012.
+1 2 Endo, H; Yokokawa, K; Kurohmaru, M; Hiyashi, Y (1998). "Functional anatomy of gliding membrane muscles in the sugar glider (Petaurus breviceps)". Annals of Anatomy. 180 (1): 93–96. doi:10.1016/S0940-9602(98)80149-0. PMID 9488912.
+1 2 Campbell, Catriona D.; Pecon-Slattery, Jill; Pollak, Rebecca; Joseph, Leo; Holleley, Clare E. (8 January 2019). "The origin of exotic pet sugar gliders (Petaurus breviceps) kept in the United States of America". PeerJ. 7: e6180. doi:10.7717/peerj.6180. ISSN 2167-8359. PMC 6329365. PMID 30643698.
+1 2 "Petaurus notatus W. Peters, 1859". ASM Mammal Diversity Database. American Society of Mammalogists.
+1 2 Malekian, M; Cooper, S; Norman, J; Christidis, L; Carthew, S (2010). "Molecular systematics and evolutionary origins of the genus Petaurus (Marsupialia: Petauridae) in Australia and New Guinea". Molecular Phylogenetics and Evolution. 54 (1): 122–135. doi:10.1016/j.ympev.2009.07.026. PMID 19647084.
+1 2 3 Malekian, Mansoureh; Cooper, Steven J. B.; Carthew, Susan M. (2010). "Phylogeography of
+Text Len: 1189
+--------------------------------------------------------------------------------
+ and New Guinea". Molecular Phylogenetics and Evolution. 54 (1): 122–135. doi:10.1016/j.ympev.2009.07.026. PMID 19647084.
+1 2 3 Malekian, Mansoureh; Cooper, Steven J. B.; Carthew, Susan M. (2010). "Phylogeography of the Australian sugar glider (Petaurus breviceps): evidence for a new divergent lineage in eastern Australia". Australian Journal of Zoology. 58 (3): 165. doi:10.1071/ZO10016.
+↑ Stobo-Wilson, Alyson; Baker, Andrew; Cooper, Steve; Carthew, Sue; Cremona, Teigan (16 July 2020). "A rare discovery: we found the sugar glider is actually three species, but one is disappearing fast". The Conversation. Retrieved 17 July 2020.
+1 2 3 4 5 6 7 8 9 10 11 Smith, Meredith J. (13 June 1973). "Petaurus breviceps". Mammalian Species (30): 1–5. doi:10.2307/3503785. JSTOR 3503785. S2CID 254011903.
+1 2 Jackson, Stephen M. (2000). "Habitat relationships of the mahogany glider, Petaurus gracilis, and the sugar glider, Petaurus breviceps". Wildlife Research. 27 (1): 39. doi:10.1071/WR98045.
+↑ Wormington, K; Lamb, D; McCallum, H; Moolooney, d (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.
+Text Len: 1246
+--------------------------------------------------------------------------------
+
+↑ Wormington, K; Lamb, D; McCallum, H; Moolooney, d (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.217.
+1 2 3 4 5 Suckling, G.C (1984). "Population ecology of the sugar glider "Petaurus breviceps", in a system of fragmented habitats". Australian Wildlife Research. 11: 49–75. doi:10.1071/WR9840049.
+1 2 "Wildlife – Sugar Glider". Wildlife Queensland. Archived from the original on 23 February 2014. Retrieved 16 February 2014.
+1 2 3 4 Pye, Geoffrey W. "A guide to medicine and surgery in sugar gliders". Hilltop Animal Hospital. Archived from the original on 21 March 2015. Retrieved 2 November 2012.
+↑ "Wildlife Queensland – Sugar Glider". Wildlife Preservation Society of Queensland. Archived from the original on 23 February 2014. Retrieved 24 October 2012.
+↑ "Basic Health Care Information / General Wellness Exam". Sugar Glider Vet. Retrieved 27 October 2012.
+↑ Quin, DG; Smith, AP; Norton, TW (1996). "Eco-graphic variation in size and sexual dimorphism in sugar gliders and squirrel gliders (Marsupialia: Petauridae)". Australian Journal of Zoology. 44: 19–45. doi:10.1071/ZO9960019.
+1 2 3 4 5 Jackson, S. M. (1999). "Glide angle in the genus "Petaurus" and a review of gliding in mammals". Mammal Review. 30: 9–30. doi:10.1046/j.1365-
+Text Len: 1398
+--------------------------------------------------------------------------------
+ of Zoology. 44: 19–45. doi:10.1071/ZO9960019.
+1 2 3 4 5 Jackson, S. M. (1999). "Glide angle in the genus "Petaurus" and a review of gliding in mammals". Mammal Review. 30: 9–30. doi:10.1046/j.1365-2907.2000.00056.x.
+↑ Nielsen, Leah (4 March 2025). "Trichromacy and ultraviolet vision in a nocturnal marsupial". Scientific Reports. 15 (7585): 7585. doi:10.1038/s41598-025-92039-z. PMC 11880520. PMID 40038358.
+↑ de Magalhaes, J. P.; Budovsky, A.; Lehmann, G.; Costa, J.; Li, Y.; Fraifeld, V.; Church, G. M. (2009). "The Human Ageing Genomic Resources: online databases and tools for biogerontologists". Aging Cell. 8 (1): 65–72. doi:10.1111/j.1474-9726.2008.00442.x. PMC 2635494. PMID 18986374. "AnAge entry for Petaurus breviceps".
+↑ Strahan, the Australian Museum (1983). Ronald (ed.). Complete book of Australian mammals : the national photographic index of Australian wildlife (1. publ. ed.). [Sidney]: Angus & Robertson. ISBN 0207144540.
+1 2 3 Nagy, K. A.; Suckling, G. C. (1985). "Field energetics and water balance of sugar gliders, "Petaurus breviceps" (Marsupialia: Petauridae)". Australian Journal of Zoology. 33 (5): 683–691. doi:
+Text Len: 1141
+--------------------------------------------------------------------------------
+ & Robertson. ISBN 0207144540.
+1 2 3 Nagy, K. A.; Suckling, G. C. (1985). "Field energetics and water balance of sugar gliders, "Petaurus breviceps" (Marsupialia: Petauridae)". Australian Journal of Zoology. 33 (5): 683–691. doi:10.1071/ZO9850683.
+↑ Byrnes, G; Spence, A (2011). "Ecological and biomechanical insights into the evolution of gliding in mammals". Integrative and Comparative Biology. 51 (6): 991–1001. doi:10.1093/icb/icr069. PMID 21719434.
+1 2 3 4 5 Kortner, G; Geiser, F (2000). "Torpor and activity patterns in free-ranging sugar gliders "Petaurus breviceps" (Marsupialia)". Oecologia. 123 (3): 350–357. Bibcode:2000Oecol.123..350K. doi:10.1007/s004420051021. PMID 28308589. S2CID 10103980.
+↑ Geiser, Fritz (2004). "Metabolic Rate and Body Temperature Reduction During Hibernation and Daily Torpor". Annual Review of Physiology. 66 (1): 239–274. doi:10.1146/annurev.physiol.66.032102.115105. PMID 14977403. S2CID 22397415.
+1 2 Christian, Nereda; Fritz Geiser (2007). "To use or not to use torpor? Activity and body temperature as predictors". Naturwissenschaften. 94 (6): 483–487. Bibcode:2007NW.....94..483C. doi:10
+Text Len: 1133
+--------------------------------------------------------------------------------
+. PMID 14977403. S2CID 22397415.
+1 2 Christian, Nereda; Fritz Geiser (2007). "To use or not to use torpor? Activity and body temperature as predictors". Naturwissenschaften. 94 (6): 483–487. Bibcode:2007NW.....94..483C. doi:10.1007/s00114-007-0215-5. PMID 17252241. S2CID 24061894.
+1 2 Geiser, Fritz; Joanne C. Holloway; Gerhard Körtner (2007). "Thermal biology, torpor and behaviour in sugar gliders: a laboratory-field comparison". Journal of Comparative Physiology B. 177 (5): 495–501. doi:10.1007/s00360-007-0147-6. PMID 17549496. S2CID 24469410.
+↑ Holloway, JC; Geiser, F (November 2001). "Seasonal changes in the thermoenergetics of the marsupial sugar glider, Petaurus breviceps". J. Comp. Physiol. B. 171 (8): 643–50. doi:10.1007/s003600100215. PMID 11765973. S2CID 1008750.
+1 2 3 Smith, AP (1982). "Diet and feeding strategies of the marsupial glider in temperate Australia". Journal of Animal Ecology. 51 (1): 149–166. doi:10.2307/4316. JSTOR 4316.
+↑ "manna". WordNet Search – 3.1. WordNet. Princeton University. Retrieved 19 December 2012. (n) manna (hardened sugary exudation of various trees) : Synset (semantic) relations, direct hypernym (n
+Text Len: 1155
+--------------------------------------------------------------------------------
+ (1): 149–166. doi:10.2307/4316. JSTOR 4316.
+↑ "manna". WordNet Search – 3.1. WordNet. Princeton University. Retrieved 19 December 2012. (n) manna (hardened sugary exudation of various trees) : Synset (semantic) relations, direct hypernym (n) sap (a watery solution of sugars, salts, and minerals that circulates through the vascular system of a plant)
+↑ Pickert, Executive: Joseph P., ed. (1992). The American heritage dictionary of the English language (4th ed.). Boston: Houghton Mifflin. p. 1065. ISBN 0395825172. manna n. 4. The dried exudate of certain plants
+↑ Janine M., DVM. Cianciolo (ed.). "Sugar Glider Nutrition". Past Newsletters. SunCoast Sugar Gliders. Sugar gliders eat manna in the wild. Manna is a crusty sugar left from where sap flowed from a wound in a tree trunk or branch.
+↑ "The Sugar Glider Diet". Sugar Glider Diet Archives. Sugar Glider Cage. Archived from the original on 24 August 2012. Retrieved 6 October 2012.
+↑ Dierenfeld, Ellen (2009). "Feeding behavior and nutrition of the Sugar Glider (Petaurus breviceps)". Veterinary Clinics of North America: Exotic Animal Practice. 12 (2): 209–215. doi:10.1016/j.cvex.2009.01.014. PMID 19341949.
+↑ McLeod, DVM, Lianne. "Feeding Sugar Gliders / Nutritional Needs and Sample Diets". About.com. Archived from the original on 25 August 2012. Retrieved 3 October 2012.
+↑ "Natural Diet". Gliderpedia. SugarGl
+Text Len: 1377
+--------------------------------------------------------------------------------
+10.1016/j.cvex.2009.01.014. PMID 19341949.
+↑ McLeod, DVM, Lianne. "Feeding Sugar Gliders / Nutritional Needs and Sample Diets". About.com. Archived from the original on 25 August 2012. Retrieved 3 October 2012.
+↑ "Natural Diet". Gliderpedia. SugarGlider.com. Retrieved 2 November 2012.
+↑ van Tets, Ian G.; Whelan, Robert J. (1997). "Banksia pollen in the diet of Australian mammals". Ecography. 20 (5): 499–505. doi:10.1111/j.1600-0587.1997.tb00418.x.
+↑ Quesenberry, Katherine; Mans, Christoph; Orcutt, Connie (24 April 2020). Ferrets, Rabbits and Rodents - E-Book: Ferrets, Rabbits and Rodents - E-Book. Elsevier Health Sciences. ISBN 978-0-323-48434-3.
+↑ Morges, Michelle A.; Grant, Krystan R.; MacPhail, Catriona M.; Johnston, Matthew S. (March 2009). "A Novel Technique for Orchiectomy and Scrotal Ablation in the Sugar Glider (Petaurus breviceps)". Journal of Zoo and Wildlife Medicine. 40 (1): 204–206. doi:10.1638/2007-0169.1. PMID 19368264. S2CID 24253225.
+1 2 Tynes, Valarie V., ed. (2010). "Sugar gliders". Behavior of exotic pets (1st ed.). Chichester, West Sussex: Blackwell Pub. ISBN 9780813800783.
+↑ Antinoff, Natalie (August 2009). "Practical anatomy and physical examination: Ferrets, rabbits, rodents, and other selected species
+Text Len: 1245
+--------------------------------------------------------------------------------
+3225.
+1 2 Tynes, Valarie V., ed. (2010). "Sugar gliders". Behavior of exotic pets (1st ed.). Chichester, West Sussex: Blackwell Pub. ISBN 9780813800783.
+↑ Antinoff, Natalie (August 2009). "Practical anatomy and physical examination: Ferrets, rabbits, rodents, and other selected species (Proceedings)". CVC in Kansas City Proceedings. Archived from the original on 24 July 2013. Retrieved 11 November 2012.
+↑ Holloway, Joanne C.; Geiser, Fritz (November 2000). "Development of thermoregulation in the sugar glider Petaurus breviceps (Marsupialia: Petauridae)". Journal of Zoology. 252 (3): 389–397. doi:10.1111/j.1469-7998.2000.tb00634.x.
+↑ Fokidis, H; Risch, T (2008). "The burden of motherhood: gliding locomotion in mammals influences maternal reproductive investment". Journal of Mammalogy. 89 (3): 617–625. doi:10.1644/07-MAMM-A-116R1.1.
+↑ Klettenheimer, B; Temple-Smith, P; Sofrondis, G (1997). "Father and son sugar gliders: more than a genetic coalition?". Journal of Zoology. 242 (4): 741–750. doi:10.1111/j.1469-7998.1997.tb05823.x.
+↑ Pasatta, J. (1999). "Petaurus breviceps" (On-line), Animal Diversity Web. Accessed 10 November 2012
+1 2 3 Goldingay, R. L. (2010). "Direct male parental care observed in wild sugar gliders". Australian Mammalogy. 32 (2): 177–
+Text Len: 1270
+--------------------------------------------------------------------------------
+7998.1997.tb05823.x.
+↑ Pasatta, J. (1999). "Petaurus breviceps" (On-line), Animal Diversity Web. Accessed 10 November 2012
+1 2 3 Goldingay, R. L. (2010). "Direct male parental care observed in wild sugar gliders". Australian Mammalogy. 32 (2): 177–178. doi:10.1071/AM10009.
+↑ Johnson, Dan H. (20 May 2011). "Hedgehogs and Sugar Gliders: Respiratory Anatomy, Physiology, and Disease". Veterinary Clinics of North America: Exotic Animal Practice. 14 (2): 267–85, vi. doi:10.1016/j.cvex.2011.03.006. PMID 21601815.
+↑ Stobo-Wilson, Alyson; Baker, Andrew; Cooper, Steve; Carthew, Sue; Cremona, Teigan (16 July 2020). "A rare discovery: we found the sugar glider is actually three species, but one is disappearing fast". The Conversation. Retrieved 20 June 2021.
+↑ Wormington, K.; Lamb, D.; McCallum, H.; Moolooney, d. (2002). "Habitat requirements for the conservation of arboreal marsupials in dry sclerophyll forests of southeast Queensland, Australia". Forest Science. 48 (2): 217–227. doi:10.1093/forestscience/48.2.217.
+↑ Barber-Myer, SM (2007). "Photopollution impacts on the nocturnal behaviour of the Sugar Glider (Petaurus breviceps)". Pacific Conservation Biology. 13 (3): 171–176. doi:10.1071/PC070171.
+↑ Biodiversity Conservation. Environment.gov.au. Retrieved 2014-04-19.
+Text Len: 1279
+--------------------------------------------------------------------------------
+
+↑ Barber-Myer, SM (2007). "Photopollution impacts on the nocturnal behaviour of the Sugar Glider (Petaurus breviceps)". Pacific Conservation Biology. 13 (3): 171–176. doi:10.1071/PC070171.
+↑ Biodiversity Conservation. Environment.gov.au. Retrieved 2014-04-19.
+↑ South Australian Legislation. Legislation.sa.gov.au. Retrieved 2014-04-19.
+↑ "Hind Leg Paralysis". SugarGlider.com. Retrieved 1 November 2012.
+↑ Lennox, A. M. (2007). "Emergency and Critical Care Procedures in Sugar Gliders (Petaurus breviceps), African Hedgehogs (Atelerix albiventris), and Prairie Dogs (Cynomys spp.)". Veterinary Clinics of North America: Exotic Animal Practice. 10 (2): 533–55. doi:10.1016/j.cvex.2007.01.001. PMID 17577562.
+↑ Conservation and natural resources, 1995 Mammals of Victoria, ed. by Menkhorst. P., Oxford University Press, South Melbourne ISBN 0-19-553733-5
+↑ "Original BML Diet – Bourbon's Modified Leadbeater's Recipe for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 1 October 2012.
+↑ "Sugar Glider HPW Diet – High Protein Wombaroo Recipe". Sweet-Sugar-Gliders.com. Retrieved 1 October 2012.
+↑ "Original Leadbeaters Diet Recipe – Taronga Zoo Diet for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 2 November 2012.
+↑ Hess, Laurie. "Overview of Sugar Gliders - Exotic and Laboratory Animals". Merck Veterinary Manual. Merck Sharp & Dohme. Retrieved 9 May 2018
+Text Len: 1367
+--------------------------------------------------------------------------------
+Gliders.com. Retrieved 1 October 2012.
+↑ "Original Leadbeaters Diet Recipe – Taronga Zoo Diet for Sugar Gliders". Sweet-Sugar-Gliders.com. Retrieved 2 November 2012.
+↑ Hess, Laurie. "Overview of Sugar Gliders - Exotic and Laboratory Animals". Merck Veterinary Manual. Merck Sharp & Dohme. Retrieved 9 May 2018.
+↑ Jepson, Lance (2 November 2015). "7: Sugar gliders". Exotic Animal Medicine: A Quick Reference Guide. Elsevier Health Sciences. p. 234. ISBN 9780323394307.
+↑ "Native Animals are not pets". NSW Wildlife Information Rescue and Education Service Blog January 2019. 25 January 2019. Retrieved 10 March 2019.
+↑ "Sugar Gliders". Wild4Life. Retrieved 10 March 2019.
+↑ "DixiGliders". Archived from the original on 20 January 2011. Retrieved 31 December 2010.
+↑ Wildlife – Queensland Gliders Archived 20 April 2013 at the Wayback Machine. (PDF) . Retrieved 2014-04-19.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+General bibliography
+Morcombe, Michael; Morcombe, Irene (1974). Mammals of Australia. Sydney: Australian Universities Press. ISBN 0-7249-0017-9.
+Ride, W. D. L. (1970). A guide to the native mammals of Australia. Ella Fry (drawings). Melbourne: Oxford University Press. ISBN 0195502523.
+Russel, Rupert (1980). Spotlight on possums. Kay Russel (illustrations). Queensland, St. Lucia: University of Queensland Press. ISBN 0-7022-1478-7.
+Serventy, Vincent (1977). Wildlife of Australia (Rev. ed.). West Melbourne, Vic.: Thomas Nelson (Australia). ISBN 0
+Text Len: 1517
+--------------------------------------------------------------------------------
+ Press. ISBN 0195502523.
+Russel, Rupert (1980). Spotlight on possums. Kay Russel (illustrations). Queensland, St. Lucia: University of Queensland Press. ISBN 0-7022-1478-7.
+Serventy, Vincent (1977). Wildlife of Australia (Rev. ed.). West Melbourne, Vic.: Thomas Nelson (Australia). ISBN 0-17-005168-4.
+Troughton, Ellis (1973). Furred animals of Australia. Neville W. Cayley (colour plates) (Rev. and abridged ed.). Sydney: Angus & Robertson. ISBN 0-207-12256-3.
+Van den Beld, John (1992). of Australia: a portrait of the island continent (Revised ed.). Sydney: Collins Australia. ISBN 0-7333-0241-6.
+Westmacott, Leonard Cronin (1991). Key guide to Australian mammals. Illustrated by Marion. Balgowlah, NSW: Reed Books. ISBN 0-7301-0355-2.
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+External links
+Sugar glider—Atlas of Living Australia
+Sugar glider—Wildlife Preservation Society of Queensland
+Gliders in the Spotlight—Wildlife Preservation Society of Queensland
+ITIS report: Petaurus breviceps—Taxon classification verified by ITIS
+Petaurus breviceps—Animal Diversity Web
+VIDEOS: sugar gliders in the wild on ARKive.org—BBC Natural History Unit
+Enlargement of Petaurus breviceps skull—Museum Victoria, Bioinformatics (photo showing sugar gliders' unusual dentition)
+Extant Diprotodontia species
+Kingdom Animalia Phylum Chordata Class Mammalia Infraclass Marsupialia
+Suborder Vombatiformes
+Phasc
+Text Len: 1446
+--------------------------------------------------------------------------------
+ ARKive.org—BBC Natural History Unit
+Enlargement of Petaurus breviceps skull—Museum Victoria, Bioinformatics (photo showing sugar gliders' unusual dentition)
+Extant Diprotodontia species
+Kingdom Animalia Phylum Chordata Class Mammalia Infraclass Marsupialia
+Suborder Vombatiformes
+Phascolarctidae
+Phascolarctos
+Koala (P. cinereus)
+Vombatidae
+(wombats)
+Vombatus
+Common wombat (V. ursinus)
+Lasiorhinus
+Southern hairy-nosed wombat (L. latifrons) Northern hairy-nosed wombat (L. krefftii)
+Suborder Phalangeriformes (possums)
+Phalangeridae
+(including cuscuses)
+Ailurops
+(bear cuscuses)
+Talaud bear cuscus (A. melanotis) Sulawesi bear cuscus (A. ursinus)
+Phalanger
+Gebe cuscus (P. alexandrae) Mountain cuscus (P. carmelitae) Ground cuscus (P. gymnotis) Eastern common cuscus (P. intercastellanus) Woodlark cuscus (P. lullulae) Blue-eyed cuscus (P. matabiru) Telefomin cuscus (P. matanim) Southern common cuscus (P. mimicus) Northern common cuscus (P. orientalis) Ornate cuscus (P. ornatus) Rothschild's cuscus (P. rothschildi) Silky cuscus (P. sericeus) Stein's cuscus (P. vestitus)
+Spilocuscus
+Admiralty Island cus
+Text Len: 1109
+--------------------------------------------------------------------------------
+ cuscus (P. mimicus) Northern common cuscus (P. orientalis) Ornate cuscus (P. ornatus) Rothschild's cuscus (P. rothschildi) Silky cuscus (P. sericeus) Stein's cuscus (P. vestitus)
+Spilocuscus
+Admiralty Island cuscus (S. kraemeri) Common spotted cuscus (S. maculatus) Waigeou cuscus (S. papuensis) Black-spotted cuscus (S. rufoniger) Blue-eyed spotted cuscus (S. wilsoni)
+Strigocuscus
+Sulawesi dwarf cuscus (S. celebensis) Banggai cuscus (S. pelegensis)
+Trichosurus
+(brushtail possums)
+Northern brushtail possum (T. arnhemensis) Short-eared possum (T. caninus) Mountain brushtail possum (T. cunninghami) Coppery brushtail possum (T. johnstonii) Common brushtail possum (T. vulpecula)
+Wyulda
+Scaly-tailed possum (W. squamicaudata)
+Burramyidae
+(pygmy possums)
+Burramys
+Mountain pygmy possum (B. parvus)
+Cercartetus
+Long-tailed pygmy possum (C. caudatus) Western pygmy possum (C. concinnus) Tasmanian pygmy possum (C. lepidus) Eastern pygmy possum (C. nanus)
+Tarsipedidae
+Tarsipes
+Honey possum (T. rostratus)
+Petauridae
+Dactylopsila
+Great-tailed triok
+Text Len: 1047
+--------------------------------------------------------------------------------
+ caudatus) Western pygmy possum (C. concinnus) Tasmanian pygmy possum (C. lepidus) Eastern pygmy possum (C. nanus)
+Tarsipedidae
+Tarsipes
+Honey possum (T. rostratus)
+Petauridae
+Dactylopsila
+Great-tailed triok (D. megalura) Long-fingered triok (D. palpator) Tate's triok (D. tatei) Striped possum (D. trivirgata)
+Gymnobelideus
+Leadbeater's possum (G. leadbeateri)
+Petaurus
+Northern glider (P. abidi) Yellow-bellied glider (P. australis) Biak glider (P. biacensis) Sugar glider (P. breviceps) Mahogany glider (P. gracilis) Squirrel glider (P. norfolcensis)
+Pseudocheiridae
+Hemibelideus
+Lemur-like ringtail possum (H. lemuroides)
+Petauroides
+(greater gliders)
+Central greater glider (P. armillatus) Northern greater glider (P. minor) Southern greater glider (P. volans)
+Petropseudes
+Rock-haunting ringtail possum (P. dahli)
+Pseudocheirus
+Common ringtail possum (P. peregrinus)
+Pseudochirulus
+Lowland ringtail possum (P. canescens) Weyland ringtail possum (P. caroli) Cinereus ringtail possum (P. cinereus) Painted ringtail possum (P. forbesi) Herbert River ringtail possum (P
+Text Len: 1071
+--------------------------------------------------------------------------------
+ possum (P. peregrinus)
+Pseudochirulus
+Lowland ringtail possum (P. canescens) Weyland ringtail possum (P. caroli) Cinereus ringtail possum (P. cinereus) Painted ringtail possum (P. forbesi) Herbert River ringtail possum (P. herbertensis) Masked ringtail possum (P. larvatus) Pygmy ringtail possum (P. mayeri) Vogelkop ringtail possum (P. schlegeli)
+Pseudochirops
+D'Albertis's ringtail possum (P. albertisii) Green ringtail possum (P. archeri) Plush-coated ringtail possum (P. corinnae) Reclusive ringtail possum (P. coronatus) Coppery ringtail possum (P. cupreus)
+Acrobatidae
+Acrobates
+Feathertail glider (A. pygmaeus)
+Distoechurus
+Feather-tailed possum (D. pennatus)
+Suborder Macropodiformes
+Macropodidae
+(includes wallabies)
+Lagostrophus
+Banded hare-wallaby (L. fasciatus)
+Dendrolagus
+(tree-kangaroos)
+Bennett's tree-kangaroo (D. bennettianus) Doria's tree-kangaroo (D. dorianus) Goodfellow's tree-kangaroo (D. goodfellowi) Grizzled tree-kangaroo (D. inustus) Lumholtz's tree-kangaroo (D. lumholtzi) Matschie's tree-kangaroo (D. matschiei) Dingiso (D
+Text Len: 1052
+--------------------------------------------------------------------------------
+'s tree-kangaroo (D. dorianus) Goodfellow's tree-kangaroo (D. goodfellowi) Grizzled tree-kangaroo (D. inustus) Lumholtz's tree-kangaroo (D. lumholtzi) Matschie's tree-kangaroo (D. matschiei) Dingiso (D. mbaiso) Ifola (D. notatus) Golden-mantled tree-kangaroo (D. pulcherrimus) Lowlands tree-kangaroo (D. spadix) Tenkile (D. scottae) Seri's tree-kangaroo (D. stellarum) Ursine tree-kangaroo (D. ursinus)
+Dorcopsis
+Black dorcopsis (D. atrata) White-striped dorcopsis (D. hageni) Gray dorcopsis (D. luctuosa) Brown dorcopsis (D. muelleri)
+Dorcopsulus
+Macleay's dorcopsis (D. macleayi) Small dorcopsis (D. vanheurni)
+Lagorchestes
+(hare-wallabies)
+Spectacled hare-wallaby (L. conspicillatus) Rufous hare-wallaby (L. hirsutus)
+Macropus
+Western grey kangaroo (M. fuliginosus) Eastern grey kangaroo (M. giganteus)
+Notamacropus
+Agile wallaby (N. agilis) Black-striped wallaby (N. dorsalis) Tammar wallaby (N. eugenii) Western brush wallaby (N. irma) Parma wallaby (N. parma) Whiptail wallaby (N. parryi) Red-neck
+Text Len: 1003
+--------------------------------------------------------------------------------
+ giganteus)
+Notamacropus
+Agile wallaby (N. agilis) Black-striped wallaby (N. dorsalis) Tammar wallaby (N. eugenii) Western brush wallaby (N. irma) Parma wallaby (N. parma) Whiptail wallaby (N. parryi) Red-necked wallaby (N. rufogriseus)
+Onychogalea
+(nail-tail wallabies)
+Bridled nail-tail wallaby (O. fraenata) Northern nail-tail wallaby (O. unguifera)
+Osphranter
+Antilopine kangaroo (O. antilopinus) Black wallaroo (O. bernardus) Common wallaroo (O. robustus) Red kangaroo (O. rufus)
+Petrogale
+(rock-wallabies)
+P. brachyotis species group: Short-eared rock-wallaby (P. brachyotis) Monjon (P. burbidgei) Nabarlek (P. concinna) Eastern short-eared rock-wallaby (P. wilkinsi)
+P. xanthopus species group: Proserpine rock-wallaby (P. persephone) Rothschild's rock-wallaby (P. rothschildi) Yellow-footed rock-wallaby (P. xanthopus)
+P. lateralis/penicillata species group: Allied rock-wallaby (P. assimilis) Cape York rock-wallaby (P. coenensis) Godman's rock-wallaby (P. godmani) Herbert's rock-wallaby (P. herberti) Unadorned rock-wallaby (P. inornata) Black-flanked rock-wallaby (
+Text Len: 1077
+--------------------------------------------------------------------------------
+icillata species group: Allied rock-wallaby (P. assimilis) Cape York rock-wallaby (P. coenensis) Godman's rock-wallaby (P. godmani) Herbert's rock-wallaby (P. herberti) Unadorned rock-wallaby (P. inornata) Black-flanked rock-wallaby (P. lateralis) Mareeba rock-wallaby (P. mareeba) Brush-tailed rock-wallaby (P. penicillata) Purple-necked rock-wallaby (P. purpureicollis) Mount Claro rock-wallaby (P. sharmani)
+Setonix
+Quokka (S. brachyurus)
+Thylogale
+(pademelons)
+Tasmanian pademelon (T. billardierii) Brown's pademelon (T. browni) Dusky pademelon (T. brunii) Calaby's pademelon (T. calabyi) Mountain pademelon (T. lanatus) Red-legged pademelon (T. stigmatica) Red-necked pademelon (T. thetis)
+Wallabia
+Swamp wallaby (W. bicolor)
+Potoroidae
+Aepyprymnus
+Rufous rat-kangaroo (A. rufescens)
+Bettongia
+(bettongs)
+Eastern bettong (B. gaimardi) Boodie (B. lesueur) Woylie (B. penicillata) Northern bettong (B. tropica)
+Potorous
+(potoroos)
+Long-footed potoroo (P. longipes) Long-nosed potoroo (P. tridact
+Text Len: 998
+--------------------------------------------------------------------------------
+ongs)
+Eastern bettong (B. gaimardi) Boodie (B. lesueur) Woylie (B. penicillata) Northern bettong (B. tropica)
+Potorous
+(potoroos)
+Long-footed potoroo (P. longipes) Long-nosed potoroo (P. tridactylus) Gilbert's potoroo (P. gilbertii)
+Hypsiprymnodontidae
+Hypsiprymnodon
+Musky rat-kangaroo (H. moschatus)
+Taxon identifiers
+Petaurus breviceps
+Wikidata: Q723435 Wikispecies: Petaurus breviceps AFD: Petaurus_breviceps ARKive: petaurus-breviceps BOLD: 83099 CoL: 4FD5J EoL: 323825 EPPO: PTAUBR GBIF: 2440043 iNaturalist: 42723 IRMNG: 11255148 ITIS: 609841 IUCN: 16731 MDD: 1000344 MSW: 11000157 NCBI: 34899 Observation.org: 86568 Open Tree of Life: 423936 Paleobiology Database: 234627 Xeno-canto: Petaurus-breviceps
+Source: Wikipedia Content may be excluded.
+Creative Commons Attribution-ShareAlike License 4.0
+Sounds
+Source: iNaturalist Australia
+View more details of this audio
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Occurrence records map (41,086 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+
+Text Len: 1139
+--------------------------------------------------------------------------------
+View more details of this audio
+Online Resources
+JSON (data interchange format)
+GBIF
+Biodiversity Heritage Library
+Trove
+Occurrence records map (41,086 records)
++
+-
+500 km
+Leaflet | Atlas of Living Australia, Map data © OpenStreetMap, imagery © CartoDB
+View interactive map in the Spatial Portal
+View and download occurrence records
+Record a sighting
+Receive alerts when new records are added
+Datasets
+52 datasets have provided data to the Atlas of Living Australia for this species.
+Browse the list of datasets and find organisations you can join if you are interested in participating in a survey for species like Petaurus breviceps Waterhouse, 1839
+Museums Field Guide apps species profiles – vertebrates
+Brief description Gliding membrane, stripe on head and back, tail tip white.
+Description Body fur grey with a dark stripe along the middle of the head and along the back. Underparts pale grey to cream. End of tail black with a white tip. Gliding membrane of skin between the elbow and the ankle. Body up to 20 cm, tail up to 21 cm.
+Biology Sugar Gliders can glide for 50 m between trees. They have a distinctive 'yip yip' call that sounds like the yapping of a small dog. Young are born between July and August in Victoria, but can occur throughout the year in Queensland. Young are carried on the mother's back until they are able to care for themselves. Sugar Gliders feed on gums, nectar, pollen and invertebrates.
+Habitat Open woodlands and forests.
+Native status Native to Australia
+Diet Omnivore
+Colours grey white
+Distribution Eastern and northern mainland Australia and Tasmania.
+Habitat types Terrestrial
+Commercial species False
+Author credit Museum Victoria Sciences Staff / Museum Victoria
+South Australia : Conservation Status
+commonName Sugar
+Text Len: 1764
+--------------------------------------------------------------------------------
+ums, nectar, pollen and invertebrates.
+Habitat Open woodlands and forests.
+Native status Native to Australia
+Diet Omnivore
+Colours grey white
+Distribution Eastern and northern mainland Australia and Tasmania.
+Habitat types Terrestrial
+Commercial species False
+Author credit Museum Victoria Sciences Staff / Museum Victoria
+South Australia : Conservation Status
+commonName Sugar Glider
+id 3725099
+ambiguous name Petaurus breviceps
+lsid https://biodiversity.org.au/afd/taxa/284a0855-14f4-4da8-9fdc-b53009b65796
+dataResourceUid dr653
+kvpValues [{'key': 'family', 'value': 'Petauridae'}, {'key': 'kingdom', 'value': 'Animalia'}, {'key': 'status', 'value': 'Rare'}, {'key': 'sourceStatus', 'value': 'R'}]
+family Petauridae
+kingdom Animalia
+status Rare
+sourceStatus R
+IUCN_Equivalent_Status Near Threatened
+Text Len: 800
+--------------------------------------------------------------------------------

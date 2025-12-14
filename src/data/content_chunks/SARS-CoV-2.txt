@@ -1,0 +1,278 @@
+ 
+APHIS Veterinary Services  April 2023 Page 1 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+Background: 
+The World Organisation for Animal Health (WOAH) expects member countries, including the U.S., to report 
+confirmed Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) cases in any animal species 
+because they meet the WOAH definition of “emerging disease.” All confirmatory testing for cases of SARS-
+CoV-2 in animals in the U.S. is conducted at the U.S. Department of Agriculture (USDA) Animal and Plant 
+Health Inspection Service (APHIS) National Veterinary Services Laboratories (NVSL). The first confirmed 
+SARS-CoV-2 case in an animal species in the U.S. was in a tiger (Panthera tigris), which APHIS reported to 
+WOAH, per reporting requirements (Terrestrial Code, Chapter 1.1, Article 1.1.2 and 1.1.3), on April 6, 2020. 
+Since then, SARS-CoV-2 has been confirmed in several additional animal species in the U.S., most of which 
+occurred during the circulation of the delta variant in humans. As additional cases are confirmed at NVSL, 
+APHIS continues to submit routine updates to WOAH and to update the APHIS public dashboard. 
+ 
+Like the approach with other zoonotic diseases, such as highly pathogenic avian influenza, APHIS 
+collaborates with and relies upon the expertise of our veterinary diagnostic laboratories to perform testing 
+and report results quickly and accurately and to partner with us to use our collective resources most 
+efficiently. Monitoring the S
+Text Len: 1510
+--------------------------------------------------------------------------------
+ update the APHIS public dashboard. 
+ 
+Like the approach with other zoonotic diseases, such as highly pathogenic avian influenza, APHIS 
+collaborates with and relies upon the expertise of our veterinary diagnostic laboratories to perform testing 
+and report results quickly and accurately and to partner with us to use our collective resources most 
+efficiently. Monitoring the SARS-CoV-2 in animal populations remains a priority for APHIS. All laboratories 
+are encouraged to submit samples from presumptive cases to NVSL for confirmation and characterization, 
+especially when unexpected morbidity or mortality occurs.  
+ 
+USDA also provides funding specifically to address research questions such as the susceptibility of different 
+animal species, to better understand of viral evolution and the impact of new variants, and to monitor the 
+virus where it might be maintained in animal populations. APHIS collaborates with public health partners by 
+supporting SARS-CoV-2 response activities and sharing information about confirmed cases. 
+ 
+Testing Information:  
+APHIS encourages collaboration with public health and animal health officials, using a One Health approach 
+on the decision to test potentially exposed and clinically ill animals for SARS-CoV-2. Consult these websites 
+to find your appropriate state officials: State Animal Health Official and State Public Health Veterinarian. 
+Refer to additional information at Evaluation for SARS-CoV-2 Testing in Animals | CDC. 
+ 
+Many laboratories perform initial SARS-CoV-2 testing, including members of the National Animal Health 
+Laboratory Network (NAHLN) and private veterinary laboratories. Please communicate with the intended 
+testing animal health laboratory before shipment to receive any specific instruction for packaging samples. 
+All laboratories are responsible for forwarding appropriate samples to NVSL for confirmatory testing as 
+described below. All testing at NAHLN and
+Text Len: 1947
+--------------------------------------------------------------------------------
+CoV-2 testing, including members of the National Animal Health 
+Laboratory Network (NAHLN) and private veterinary laboratories. Please communicate with the intended 
+testing animal health laboratory before shipment to receive any specific instruction for packaging samples. 
+All laboratories are responsible for forwarding appropriate samples to NVSL for confirmatory testing as 
+described below. All testing at NAHLN and other laboratories is completed at the cost of the submitter 
+unless otherwise agreed upon at the State and Federal levels. Confirmatory testing for SARS-CoV-2 is 
+conducted at NVSL and is typically conducted at no charge to the submitter. 
+• Naturally occurring SARS-CoV-2 infections in any animal species are expected to be confirmed at 
+NVSL EXCEPT for those in household cats, household dogs, and white-tailed deer from states, 
+territories, or tribal nations that have previously had a confirmed case in that species. However, 
+NVSL offers virus characterization for these cases at no cost to the submitter and welcomes data to 
+contribute to the national analysis from laboratories that sequence samples from these cases. 
+Please consult the figure at the end of this document for further guidance on when to submit 
+samples to NVSL. 
+  
+ 
+APHIS Veterinary Services  April 2023 Page 2 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+• Ship samples for confirmation to NVSL within 5 business days of the first positive test.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+ 
+Research studies of natural
+Text Len: 1768
+--------------------------------------------------------------------------------
+ within 5 business days of the first positive test.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+ 
+Research studies of natural infection with SARS-CoV-2 
+For research studies in animals with naturally occurring SARS-CoV-2, NVSL confirmation and reporting 
+may be required for cases, except for those in household cats, household dogs, and white-tailed deer. 
+Contact NVSL at NVSL.DVL.Heads@usda.gov for further information.  
+• IMPORTANT: Be sure to retain adequate original collected sample for submission to NVSL to 
+allow for this confirmatory testing (a minimum of 200µl of original sample).  
+• Where whole genome sequencing was conducted, the unaltered data files directly from the 
+sequencer (i.e., FASTQ) should be submitted to NVSL for analysis.  
+• Ship samples for confirmation to NVSL within 5 business days of initial positive PCR test result.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+NOTE: This information may be used for reporting purposes; however, details of the research project and 
+results will remain confidential as laws allow. This guidance does not apply for research studies involving 
+experimental infections. 
+ 
+Reporting Criteria:  
+SARS-CoV-2 is a U.S.-Notifiable disease
+Text Len: 1661
+--------------------------------------------------------------------------------
+ chain using frozen gel ice packs. 
+NOTE: This information may be used for reporting purposes; however, details of the research project and 
+results will remain confidential as laws allow. This guidance does not apply for research studies involving 
+experimental infections. 
+ 
+Reporting Criteria:  
+SARS-CoV-2 is a U.S.-Notifiable disease that is immediately reportable under the APHIS National List of 
+Reportable Animal Diseases (NLRAD). NLRAD reporting is in accordance with the NLRAD Standards for 
+Notifiable diseases and by APHIS to WOAH. 
+ 
+Public Reporting Resources 
+USDA continues to submit routine updates to WOAH and to update the APHIS public dashboard with 
+cases of SARS-CoV-2 infection in animals confirmed at NVSL. 
+ 
+APHIS Veterinary Services  April 2023 Page 3 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+ 
+Which species tested PCR posi�ve ?
+Cat Dog White-tailed
+Deer Any other species
+Has this species already tested
+posi�ve in your state?
+Was there an unexpected
+morbidity or mortality event ?
+Was there a high
+viral load?
+Sample is not requested .
+Contact NVSL if you would
+s�ll like to submit it .
+Sample is requested for
+conﬁrma�on. Please
+no�fy NVSL.
+Ye s No or unsure
+No Ye s
+No Yes or unsure
+Text Len: 1237
+--------------------------------------------------------------------------------
+ 
+APHIS Veterinary Services  April 2023 Page 1 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+Background: 
+The World Organisation for Animal Health (WOAH) expects member countries, including the U.S., to report 
+confirmed Severe Acute Respiratory Syndrome Coronavirus-2 (SARS-CoV-2) cases in any animal species 
+because they meet the WOAH definition of “emerging disease.” All confirmatory testing for cases of SARS-
+CoV-2 in animals in the U.S. is conducted at the U.S. Department of Agriculture (USDA) Animal and Plant 
+Health Inspection Service (APHIS) National Veterinary Services Laboratories (NVSL). The first confirmed 
+SARS-CoV-2 case in an animal species in the U.S. was in a tiger (Panthera tigris), which APHIS reported to 
+WOAH, per reporting requirements (Terrestrial Code, Chapter 1.1, Article 1.1.2 and 1.1.3), on April 6, 2020. 
+Since then, SARS-CoV-2 has been confirmed in several additional animal species in the U.S., most of which 
+occurred during the circulation of the delta variant in humans. As additional cases are confirmed at NVSL, 
+APHIS continues to submit routine updates to WOAH and to update the APHIS public dashboard. 
+ 
+Like the approach with other zoonotic diseases, such as highly pathogenic avian influenza, APHIS 
+collaborates with and relies upon the expertise of our veterinary diagnostic laboratories to perform testing 
+and report results quickly and accurately and to partner with us to use our collective resources most 
+efficiently. Monitoring the S
+Text Len: 1510
+--------------------------------------------------------------------------------
+ update the APHIS public dashboard. 
+ 
+Like the approach with other zoonotic diseases, such as highly pathogenic avian influenza, APHIS 
+collaborates with and relies upon the expertise of our veterinary diagnostic laboratories to perform testing 
+and report results quickly and accurately and to partner with us to use our collective resources most 
+efficiently. Monitoring the SARS-CoV-2 in animal populations remains a priority for APHIS. All laboratories 
+are encouraged to submit samples from presumptive cases to NVSL for confirmation and characterization, 
+especially when unexpected morbidity or mortality occurs.  
+ 
+USDA also provides funding specifically to address research questions such as the susceptibility of different 
+animal species, to better understand of viral evolution and the impact of new variants, and to monitor the 
+virus where it might be maintained in animal populations. APHIS collaborates with public health partners by 
+supporting SARS-CoV-2 response activities and sharing information about confirmed cases. 
+ 
+Testing Information:  
+APHIS encourages collaboration with public health and animal health officials, using a One Health approach 
+on the decision to test potentially exposed and clinically ill animals for SARS-CoV-2. Consult these websites 
+to find your appropriate state officials: State Animal Health Official and State Public Health Veterinarian. 
+Refer to additional information at Evaluation for SARS-CoV-2 Testing in Animals | CDC. 
+ 
+Many laboratories perform initial SARS-CoV-2 testing, including members of the National Animal Health 
+Laboratory Network (NAHLN) and private veterinary laboratories. Please communicate with the intended 
+testing animal health laboratory before shipment to receive any specific instruction for packaging samples. 
+All laboratories are responsible for forwarding appropriate samples to NVSL for confirmatory testing as 
+described below. All testing at NAHLN and
+Text Len: 1947
+--------------------------------------------------------------------------------
+CoV-2 testing, including members of the National Animal Health 
+Laboratory Network (NAHLN) and private veterinary laboratories. Please communicate with the intended 
+testing animal health laboratory before shipment to receive any specific instruction for packaging samples. 
+All laboratories are responsible for forwarding appropriate samples to NVSL for confirmatory testing as 
+described below. All testing at NAHLN and other laboratories is completed at the cost of the submitter 
+unless otherwise agreed upon at the State and Federal levels. Confirmatory testing for SARS-CoV-2 is 
+conducted at NVSL and is typically conducted at no charge to the submitter. 
+• Naturally occurring SARS-CoV-2 infections in any animal species are expected to be confirmed at 
+NVSL EXCEPT for those in household cats, household dogs, and white-tailed deer from states, 
+territories, or tribal nations that have previously had a confirmed case in that species. However, 
+NVSL offers virus characterization for these cases at no cost to the submitter and welcomes data to 
+contribute to the national analysis from laboratories that sequence samples from these cases. 
+Please consult the figure at the end of this document for further guidance on when to submit 
+samples to NVSL. 
+  
+ 
+APHIS Veterinary Services  April 2023 Page 2 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+• Ship samples for confirmation to NVSL within 5 business days of the first positive test.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+ 
+Research studies of natural
+Text Len: 1768
+--------------------------------------------------------------------------------
+ within 5 business days of the first positive test.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+ 
+Research studies of natural infection with SARS-CoV-2 
+For research studies in animals with naturally occurring SARS-CoV-2, NVSL confirmation and reporting 
+may be required for cases, except for those in household cats, household dogs, and white-tailed deer. 
+Contact NVSL at NVSL.DVL.Heads@usda.gov for further information.  
+• IMPORTANT: Be sure to retain adequate original collected sample for submission to NVSL to 
+allow for this confirmatory testing (a minimum of 200µl of original sample).  
+• Where whole genome sequencing was conducted, the unaltered data files directly from the 
+sequencer (i.e., FASTQ) should be submitted to NVSL for analysis.  
+• Ship samples for confirmation to NVSL within 5 business days of initial positive PCR test result.  
+• For submission of samples to NVSL, follow the protocols for packaging and labeling submissions to 
+the NVSL. Diagnostic samples may be shipped as exempt material; UN3373 may be used where the 
+situation warrants. Maintain sample cold chain using frozen gel ice packs. 
+NOTE: This information may be used for reporting purposes; however, details of the research project and 
+results will remain confidential as laws allow. This guidance does not apply for research studies involving 
+experimental infections. 
+ 
+Reporting Criteria:  
+SARS-CoV-2 is a U.S.-Notifiable disease
+Text Len: 1661
+--------------------------------------------------------------------------------
+ chain using frozen gel ice packs. 
+NOTE: This information may be used for reporting purposes; however, details of the research project and 
+results will remain confidential as laws allow. This guidance does not apply for research studies involving 
+experimental infections. 
+ 
+Reporting Criteria:  
+SARS-CoV-2 is a U.S.-Notifiable disease that is immediately reportable under the APHIS National List of 
+Reportable Animal Diseases (NLRAD). NLRAD reporting is in accordance with the NLRAD Standards for 
+Notifiable diseases and by APHIS to WOAH. 
+ 
+Public Reporting Resources 
+USDA continues to submit routine updates to WOAH and to update the APHIS public dashboard with 
+cases of SARS-CoV-2 infection in animals confirmed at NVSL. 
+ 
+APHIS Veterinary Services  April 2023 Page 3 
+SARS-COV-2 IN ANIMALS:  
+Guidance for Testing and Reporting 
+ 
+Which species tested PCR posi�ve ?
+Cat Dog White-tailed
+Deer Any other species
+Has this species already tested
+posi�ve in your state?
+Was there an unexpected
+morbidity or mortality event ?
+Was there a high
+viral load?
+Sample is not requested .
+Contact NVSL if you would
+s�ll like to submit it .
+Sample is requested for
+conﬁrma�on. Please
+no�fy NVSL.
+Ye s No or unsure
+No Ye s
+No Yes or unsure
+Text Len: 1237
+--------------------------------------------------------------------------------

@@ -1,0 +1,500 @@
+      
+      
+   
+        
+            
+       
+               
+            
+         
+  
+  
+              
+            
+             
+         
+            
+        
+ 
+             
+              
+           
+             
+       
+ 
+             
+              
+               
+            
+ 
+ 
+           
+    
+            
+       
+              
+          
+                
+            
+ 
+        
+Text Len: 400
+--------------------------------------------------------------------------------
+     
+       
+              
+          
+                
+            
+ 
+               
+            
+       
+                 
+ 
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+Source Document: Title 9, Code of Federal Regulations, section114.17; Veterinary Services Memorandum 
+No. 800.62; and CVB-SOP-0032, Processing Serial Records 
+Background: 
+These requests must be submitted on an APHIS Form 2008, not via a Mail Log 
+Submission. Each request should have a Form 2008 for the product/serial being 
+rebottled/reprocessed and a letter providing details concerning the reprocessing/rebottling 
+process. 
+Rebottling of biological products is allowed for in accordance with title 9, Code of 
+Federal Regulations (9 CFR), section114.17. This is part of the regulatory flexibility 
+built into the 9 CFR regulations. Additional guidance is found in Veterinary Services 
+Memorandum No. 800.62 (VSM 800.62), “Relabeling, Rebottling, and Reprocessing 
+Veterinary Biological Products, Section V.” The firm disposition on the Form 2008 
+request should be marked as Other - Rebottling. 
+Reprocessing of biological products is allowed for
+Text Len: 1160
+--------------------------------------------------------------------------------
+ found in Veterinary Services 
+Memorandum No. 800.62 (VSM 800.62), “Relabeling, Rebottling, and Reprocessing 
+Veterinary Biological Products, Section V.” The firm disposition on the Form 2008 
+request should be marked as Other - Rebottling. 
+Reprocessing of biological products is allowed for in accordance with 9 CFR 114.18. 
+This is part of the regulatory flexibility built into the 9 CFR regulations. Additional 
+guidance is found in VSM 800.62, “Relabeling, Rebottling, and Reprocessing Veterinary 
+Biological Products, Section VI. A-C.” The firm disposition on the Form 2008 request 
+should be marked as “Reprocess & Retest.” 
+VSM 800.62, Section VI.D, authorizes the reprocessing of product by adding two serials 
+(both prepared in accordance with the filed Outline of Production (OP)) together to adjust 
+antigen content. This is not meant to include a serial of completed product already in 
+final containers. If this is requested, contact an Inspection and Compliance Section 
+Leader. 
+Most steps follow the outline as listed in CVB-SOP-0032, “Processing Serial Records,” 
+with the following additions. 
+A. Biologics Compliance Assistant (BCA) Initial Review: Requests are shown in the 
+Reprocess & Retest section in BCA initial review. 
+1. The BCA reviews the information on the incoming Form 2008 request (hardcopy 
+or NCAH Portal submission) for accuracy and completeness. Important information 
+to check is that the serial number(s) listed that need to be reprocessed are listed in 
+both the firm’s
+Text Len: 1511
+--------------------------------------------------------------------------------
+Reprocess & Retest section in BCA initial review. 
+1. The BCA reviews the information on the incoming Form 2008 request (hardcopy 
+or NCAH Portal submission) for accuracy and completeness. Important information 
+to check is that the serial number(s) listed that need to be reprocessed are listed in 
+both the firm’s Form 2008 and/or letter, and the LSRTIS Entry screen. 
+2. The BCA may audit the submission back in accordance with the current version 
+of CVB-WI-0104, “Serial Release – Audits and Reference Slips for IC Documents,” 
+if the information required is incomplete. 
+3. If the submission is not audited back, route it to the Specialist for review. 
+CVB-WI-0106.04 Page 1 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+      
+      
+   
+        
+            
+               
+ 
+             
+            
+    
+          
+           
+            
+          
+            
+ 
+        
+ 
+          
+     
+Text Len: 957
+--------------------------------------------------------------------------------
+ 
+           
+            
+          
+            
+ 
+        
+ 
+          
+             
+     
+ 
+        
+ 
+      
+ 
+       
+ 
+             
+         
+        
+ 
+            
+             
+        
+ 
+                 
+            
+ 
+                 
+                
+          
+ 
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+B. Specialist Review: The reason for review is listed as “R&R” under the Specialist 
+Review 
+1. Review submission in accordance with the regulations listed in 9 CFR 114.17 or 
+114.18. 
+a. Request should only be considered for product that has not left licensed 
+premises. This is a regulatory requirement for rebottling and common sense for 
+most reprocess
+Text Len: 716
+--------------------------------------------------------------------------------
+ is listed as “R&R” under the Specialist 
+Review 
+1. Review submission in accordance with the regulations listed in 9 CFR 114.17 or 
+114.18. 
+a. Request should only be considered for product that has not left licensed 
+premises. This is a regulatory requirement for rebottling and common sense for 
+most reprocessing requests. 
+b. A letter regarding the rebottling/reprocessing procedures should include all 
+steps and locations where the rebottling/reprocessing will take place. Identity of 
+materials to be used in the reprocessing event is also beneficial. 
+c. The rebottled/reprocessed serial(s) must have a unique identification. This is 
+entered when the request is logged into LSRTIS through the NCAH portal. 
+2. Review the supporting documents submitted. 
+a. This may require reviewing the OP and/or the Facility Documents. 
+b. Determine if the process described is detrimental to the purity of the product 
+or would impact product stability. 
+3. Rebottling or Reprocessing IS NOT GRANTED for the following: 
+a. Products containing a rabies fraction. 
+b. In response to a contamination issue. 
+4. Determine if you will require a “Special Test” of the NEW/rebottled serial or 
+NEW/reprocessed serial. See CVB-WI-0116, “Special Test Requests Initiated by 
+Inspection and Compliance Staff,” for complete directions. 
+Sterility tests would be appropriate for rebottled serials. Sterility and/or potency tests 
+can be considered for reprocessed serials. If the potency test uses animals, requesting 
+potency testing is discouraged but not prohibited. 
+Text Len: 1554
+--------------------------------------------------------------------------------
+16, “Special Test Requests Initiated by 
+Inspection and Compliance Staff,” for complete directions. 
+Sterility tests would be appropriate for rebottled serials. Sterility and/or potency tests 
+can be considered for reprocessed serials. If the potency test uses animals, requesting 
+potency testing is discouraged but not prohibited. 
+5. Autogenous product - If the serial to be reprocessed is from an original first serial 
+autogenous product, the reprocessed serial is no longer considered a first serial. 
+If the firm marks an autogenous serial with “Yes” for first serial and it is requesting to 
+be reprocessed – this should be audited back to the firm with the comments that a 
+reprocessed serial is not considered a first serial any longer. 
+CVB-WI-0106.04 Page 2 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+      
+      
+   
+        
+     
+  
+ 
+    
+   
+ 
+               
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+6. Provide your conclusion in LSRTIS: 
+Rebottling Approved 
+Rebottling DENIED 
+or 
+Reprocessing & Retesting Approved 
+Reprocessing & Retesting DENIED 
+7. Submit to BCA for finalizing by completing the review of the Form 2008. 
+CVB-WI
+Text Len: 1244
+--------------------------------------------------------------------------------
+ASIC 
+6. Provide your conclusion in LSRTIS: 
+Rebottling Approved 
+Rebottling DENIED 
+or 
+Reprocessing & Retesting Approved 
+Reprocessing & Retesting DENIED 
+7. Submit to BCA for finalizing by completing the review of the Form 2008. 
+CVB-WI-0106.04 Page 3 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 351
+--------------------------------------------------------------------------------
+      
+      
+   
+        
+            
+       
+               
+            
+         
+  
+  
+              
+            
+             
+         
+            
+        
+ 
+             
+              
+           
+             
+       
+ 
+             
+              
+               
+            
+ 
+ 
+           
+    
+            
+       
+              
+          
+                
+            
+ 
+        
+Text Len: 400
+--------------------------------------------------------------------------------
+     
+       
+              
+          
+                
+            
+ 
+               
+            
+       
+                 
+ 
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+Source Document: Title 9, Code of Federal Regulations, section114.17; Veterinary Services Memorandum 
+No. 800.62; and CVB-SOP-0032, Processing Serial Records 
+Background: 
+These requests must be submitted on an APHIS Form 2008, not via a Mail Log 
+Submission. Each request should have a Form 2008 for the product/serial being 
+rebottled/reprocessed and a letter providing details concerning the reprocessing/rebottling 
+process. 
+Rebottling of biological products is allowed for in accordance with title 9, Code of 
+Federal Regulations (9 CFR), section114.17. This is part of the regulatory flexibility 
+built into the 9 CFR regulations. Additional guidance is found in Veterinary Services 
+Memorandum No. 800.62 (VSM 800.62), “Relabeling, Rebottling, and Reprocessing 
+Veterinary Biological Products, Section V.” The firm disposition on the Form 2008 
+request should be marked as Other - Rebottling. 
+Reprocessing of biological products is allowed for
+Text Len: 1160
+--------------------------------------------------------------------------------
+ found in Veterinary Services 
+Memorandum No. 800.62 (VSM 800.62), “Relabeling, Rebottling, and Reprocessing 
+Veterinary Biological Products, Section V.” The firm disposition on the Form 2008 
+request should be marked as Other - Rebottling. 
+Reprocessing of biological products is allowed for in accordance with 9 CFR 114.18. 
+This is part of the regulatory flexibility built into the 9 CFR regulations. Additional 
+guidance is found in VSM 800.62, “Relabeling, Rebottling, and Reprocessing Veterinary 
+Biological Products, Section VI. A-C.” The firm disposition on the Form 2008 request 
+should be marked as “Reprocess & Retest.” 
+VSM 800.62, Section VI.D, authorizes the reprocessing of product by adding two serials 
+(both prepared in accordance with the filed Outline of Production (OP)) together to adjust 
+antigen content. This is not meant to include a serial of completed product already in 
+final containers. If this is requested, contact an Inspection and Compliance Section 
+Leader. 
+Most steps follow the outline as listed in CVB-SOP-0032, “Processing Serial Records,” 
+with the following additions. 
+A. Biologics Compliance Assistant (BCA) Initial Review: Requests are shown in the 
+Reprocess & Retest section in BCA initial review. 
+1. The BCA reviews the information on the incoming Form 2008 request (hardcopy 
+or NCAH Portal submission) for accuracy and completeness. Important information 
+to check is that the serial number(s) listed that need to be reprocessed are listed in 
+both the firm’s
+Text Len: 1511
+--------------------------------------------------------------------------------
+Reprocess & Retest section in BCA initial review. 
+1. The BCA reviews the information on the incoming Form 2008 request (hardcopy 
+or NCAH Portal submission) for accuracy and completeness. Important information 
+to check is that the serial number(s) listed that need to be reprocessed are listed in 
+both the firm’s Form 2008 and/or letter, and the LSRTIS Entry screen. 
+2. The BCA may audit the submission back in accordance with the current version 
+of CVB-WI-0104, “Serial Release – Audits and Reference Slips for IC Documents,” 
+if the information required is incomplete. 
+3. If the submission is not audited back, route it to the Specialist for review. 
+CVB-WI-0106.04 Page 1 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+      
+      
+   
+        
+            
+               
+ 
+             
+            
+    
+          
+           
+            
+          
+            
+ 
+        
+ 
+          
+     
+Text Len: 957
+--------------------------------------------------------------------------------
+ 
+           
+            
+          
+            
+ 
+        
+ 
+          
+             
+     
+ 
+        
+ 
+      
+ 
+       
+ 
+             
+         
+        
+ 
+            
+             
+        
+ 
+                 
+            
+ 
+                 
+                
+          
+ 
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+B. Specialist Review: The reason for review is listed as “R&R” under the Specialist 
+Review 
+1. Review submission in accordance with the regulations listed in 9 CFR 114.17 or 
+114.18. 
+a. Request should only be considered for product that has not left licensed 
+premises. This is a regulatory requirement for rebottling and common sense for 
+most reprocess
+Text Len: 716
+--------------------------------------------------------------------------------
+ is listed as “R&R” under the Specialist 
+Review 
+1. Review submission in accordance with the regulations listed in 9 CFR 114.17 or 
+114.18. 
+a. Request should only be considered for product that has not left licensed 
+premises. This is a regulatory requirement for rebottling and common sense for 
+most reprocessing requests. 
+b. A letter regarding the rebottling/reprocessing procedures should include all 
+steps and locations where the rebottling/reprocessing will take place. Identity of 
+materials to be used in the reprocessing event is also beneficial. 
+c. The rebottled/reprocessed serial(s) must have a unique identification. This is 
+entered when the request is logged into LSRTIS through the NCAH portal. 
+2. Review the supporting documents submitted. 
+a. This may require reviewing the OP and/or the Facility Documents. 
+b. Determine if the process described is detrimental to the purity of the product 
+or would impact product stability. 
+3. Rebottling or Reprocessing IS NOT GRANTED for the following: 
+a. Products containing a rabies fraction. 
+b. In response to a contamination issue. 
+4. Determine if you will require a “Special Test” of the NEW/rebottled serial or 
+NEW/reprocessed serial. See CVB-WI-0116, “Special Test Requests Initiated by 
+Inspection and Compliance Staff,” for complete directions. 
+Sterility tests would be appropriate for rebottled serials. Sterility and/or potency tests 
+can be considered for reprocessed serials. If the potency test uses animals, requesting 
+potency testing is discouraged but not prohibited. 
+Text Len: 1554
+--------------------------------------------------------------------------------
+16, “Special Test Requests Initiated by 
+Inspection and Compliance Staff,” for complete directions. 
+Sterility tests would be appropriate for rebottled serials. Sterility and/or potency tests 
+can be considered for reprocessed serials. If the potency test uses animals, requesting 
+potency testing is discouraged but not prohibited. 
+5. Autogenous product - If the serial to be reprocessed is from an original first serial 
+autogenous product, the reprocessed serial is no longer considered a first serial. 
+If the firm marks an autogenous serial with “Yes” for first serial and it is requesting to 
+be reprocessed – this should be audited back to the firm with the comments that a 
+reprocessed serial is not considered a first serial any longer. 
+CVB-WI-0106.04 Page 2 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+      
+      
+   
+        
+     
+  
+ 
+    
+   
+ 
+               
+Serial Release – Rebottling/Reprocessing – Process 
+CONTROLLED//PROPIN//BASIC 
+6. Provide your conclusion in LSRTIS: 
+Rebottling Approved 
+Rebottling DENIED 
+or 
+Reprocessing & Retesting Approved 
+Reprocessing & Retesting DENIED 
+7. Submit to BCA for finalizing by completing the review of the Form 2008. 
+CVB-WI
+Text Len: 1244
+--------------------------------------------------------------------------------
+ASIC 
+6. Provide your conclusion in LSRTIS: 
+Rebottling Approved 
+Rebottling DENIED 
+or 
+Reprocessing & Retesting Approved 
+Reprocessing & Retesting DENIED 
+7. Submit to BCA for finalizing by completing the review of the Form 2008. 
+CVB-WI-0106.04 Page 3 of 3 
+Issue Date: 13Sep2024 
+Controlled by: APHIS Center for Veterinary Biologics, 515-337-6100 
+Text Len: 351
+--------------------------------------------------------------------------------

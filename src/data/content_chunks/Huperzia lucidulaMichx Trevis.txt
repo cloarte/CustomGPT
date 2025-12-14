@@ -1,0 +1,34 @@
+Family:  LYCOPODIACEAE  ;
+Species:  Huperzia lucidula(Michx.) Trevis.  ;
+Common Name:  Shining Clubmoss; Shining Firmoss  ;
+Habitat:  Cool hardwood and coniferous forest.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Shrub  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HULU2  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,S2 (State Rank),G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 515
+--------------------------------------------------------------------------------
+Family:  LYCOPODIACEAE  ;
+Species:  Huperzia lucidula(Michx.) Trevis.  ;
+Common Name:  Shining Clubmoss; Shining Firmoss  ;
+Habitat:  Cool hardwood and coniferous forest.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Shrub  ;
+Duration:  Perennial  ;
+Category:  Vascular  ;
+USDA Symbol:  HULU2  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  **  ;
+Status:  Native,S2 (State Rank),G5 (Global Rank)  ;
+References:  **  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 515
+--------------------------------------------------------------------------------

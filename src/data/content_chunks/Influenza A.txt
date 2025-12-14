@@ -1,0 +1,1240 @@
+ 
+ 
+Influenza A Virus in Swine Surveillance 
+Fiscal Year 2018 Quarterly Report   
+ 
+Surveillance Summary for Second Quarter:  Jan. 1 – Mar. 31, 2018 
+ 
+Report Summary1 
+ This report covers the second quarter (Q2) of FY 2018, from Jan. 1 – Mar. 31, 2018.  
+ Where relevant, the report also includes previous years’ data for historical perspective.  
+ The report provides data from both national and regional levels. 
+ In FY 2018 Q1-Q2, a total of 7,284 samples were submitted for influenza A virus in swine (IAV-S) 
+surveillance from 2,448 accessions.  
+ H1N1 continues to be the predominant subtype reported in USDA data.  
+ Over the past 8 quarters, H1N2 predominated in Regions 1, 3, 4 and 5. H1N1 predominated in 
+Region 2. When regions are recorded as “unknown,” there was an even mix between H1N2 and 
+H1N1. 
+ Limited accessions from a region can skew data and lead to misinterpretation. Therefore, less 
+inference can be applied to results from Regions 3, 4, and 5.  
+ All IAV-S submissions are voluntary and based on clinical case submissions to veterinary 
+diagnostic labs. These data are not a statistically representative sampling of the U.S. swine 
+population. 
+ Due to the voluntary nature of this surveillance, the information in this report cannot be used to 
+determine regional and/or national incidence, prevalence, or other epidemiological measures, 
+but it may help identify I
+Text Len: 1403
+--------------------------------------------------------------------------------
+ submissions to veterinary 
+diagnostic labs. These data are not a statistically representative sampling of the U.S. swine 
+population. 
+ Due to the voluntary nature of this surveillance, the information in this report cannot be used to 
+determine regional and/or national incidence, prevalence, or other epidemiological measures, 
+but it may help identify IAV-S trends.    
+Introduction 
+This report, based on data received as of July 2, 2018, provides a brief update on the status of national 
+surveillance for IAV in swine for producers, swine practitioners, diagnosticians, and the public.  
+Summaries in this report may differ from those in past reports due to the regular addition of data from 
+participating laboratories. Reporting months are based on the month the sample was collected. The 
+USDA-APHIS website provides general information about the IAV-S surveillance program 
+(https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/swine-disease-
+information/influenza-a-virus).  
+                                                           
+1 In November 2016, VS modernized the process that prepares and stages laboratory results data for reporting. Consequently, 
+VS recognizes there is a small difference in previously reported summary numbers for IAV-S surveillance. The results in this 
+report reflect updated and corrected numbers achieved with the modernized data process. 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+Text Len: 1466
+--------------------------------------------------------------------------------
+ November 2016, VS modernized the process that prepares and stages laboratory results data for reporting. Consequently, 
+VS recognizes there is a small difference in previously reported summary numbers for IAV-S surveillance. The results in this 
+report reflect updated and corrected numbers achieved with the modernized data process. 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+July 2018 
+ 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     2 
+The IAV-S surveillance program is voluntary and, as a result, the accessions and samples submitted 
+represent a subset of the swine population. Submitted samples should only be collected from animals 
+displaying influenza-like illness. Due to its voluntary nature, this surveillance system does not entirely 
+represent the total U.S. domestic swine population. Therefore, the data cannot be used to determine 
+IAV-S prevalence or other epidemiologic measures in the swine population. However, the data may help 
+identify trends in influenza in swine.   
+When the submitter does not report relevant information, data are recorded as “unknown.” Summaries 
+in this report may differ from those in past reports due to the ongoing addition of data from 
+participating labs. Reporting months are based on the month when the sample was collected.   
+A laboratory accession is considered a set of samples collected at a single premises on a single day and 
+received at the laboratory. While a nasal swab or lung tissue sample represents a single animal within 
+the herd, a single oral fluid sample may represent one to two pens of animals in a herd. A positive 
+sample status is based on the screening matrix real-
+Text Len: 1735
+--------------------------------------------------------------------------------
+  
+A laboratory accession is considered a set of samples collected at a single premises on a single day and 
+received at the laboratory. While a nasal swab or lung tissue sample represents a single animal within 
+the herd, a single oral fluid sample may represent one to two pens of animals in a herd. A positive 
+sample status is based on the screening matrix real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR). The subtype is based on the rRT-PCR- subtyping assays and sequencing if the sample 
+is sequenced. Virus isolation (VI) and sequencing are only attempted on rRT-PCR positives meeting 
+criteria listed in the testing algorithm posted on the web.    
+On a monthly basis, USDA performs whole genomic sequencing on a selected subset of isolates received 
+through surveillance. On a quarterly basis, a phylogenetic analysis is performed; phylogenetic analyses 
+are based on all successful USDA surveillance sequencing results, with sequences deposited into 
+GenBank®, the public sequence database. 
+ 
+IAV-S Surveillance Objectives 
+USDA’s National Surveillance Plan for Swine Influenza Virus in Pigs (July 2010) describes the current 
+surveillance system for IAV-S in detail. The surveillance objectives are to:  
+1. Monitor genetic evolution of endemic IAV in swine to better understand endemic and 
+emerging influenza virus ecology;  
+2. Make influenza isolates from swine available for research and establish a data management 
+system to facilitate genetic analysis of these isolates and related information; and  
+3. Select proper isolates for the development of relevant diagnostic reagents, updated 
+diagnostic assays, and vaccine seed stock products.  
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018,
+Text Len: 1757
+--------------------------------------------------------------------------------
+ates from swine available for research and establish a data management 
+system to facilitate genetic analysis of these isolates and related information; and  
+3. Select proper isolates for the development of relevant diagnostic reagents, updated 
+diagnostic assays, and vaccine seed stock products.  
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     3 
+ 
+Objective 1.  Monitoring genetic evolution of endemic IAV in swine to better 
+understand endemic and emerging influenza virus ecology 
+Objective 1 is met through the submission of diagnostic laboratory samples to the surveillance system, 
+collection of the viruses that are isolated from the samples, and analysis of the HA and NA sequences 
+that are generated at the NAHLN laboratories and posted into GenBank®. Each month selected viruses 
+undergo whole genomic sequencing by NVSL.  Phylogenic analysis of the genetic sequences is provided 
+through an interagency agreement with the USDA-ARS National Animal Disease Center (NADC).  
+National Surveillance Data Summary 
+From FY 2011 through FY 2016, the total number of accessions and samples submitted rose over time. 
+Changes initiated in FY 2016 have resulted in decreased laboratory accessions and samples, but a higher 
+percentage of accessions that yield a virus that can be sequenced and analyzed. For FY 2018’s second 
+quarter, 7,284 samples have been tested from 2,448 accessions (Figure 1).  Figure 2 shows the overall 
+trends in total accessions, PCR-positive accessions, subtyped accessions, and VI positive accessions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Number of IAV-S laboratory accessions and samples tested in swine,
+Text Len: 1686
+--------------------------------------------------------------------------------
+ from 2,448 accessions (Figure 1).  Figure 2 shows the overall 
+trends in total accessions, PCR-positive accessions, subtyped accessions, and VI positive accessions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Number of IAV-S laboratory accessions and samples tested in swine, FY 2011 through FY 2018 Q2
+
+ 
+Figure 2. Accessions submitted, subtyped accessions, positive accessions, and VI positive accessions over time with trend lines, FY 201 1 through FY 2018 Q2 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     5 
+ 
+ 
+ 
+ 
+ 
+Figure 3 shows the number of subtype detections in FY 2018 Q2. The total number of samples subtyped was 253, including 110 H1N1, 73 H1N2, 53 
+H3N2, 1 H3N1, and 16 mixed. 
+ 
+ 
+ 
+Figure 3. Number of subtype detections in FY 2018 Q2 
+  
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     6 
+Figure 4 breaks down accessions by rRT-PCR subtype from FY 2011 to FY 2018 Q2. H1N1 remains the major subtype over the course of the 
+surveillance; however, H1N2 and H3N2 detections have increased substantially since 2012 and H1N1 was the most predominant subtype in FY 
+2018 (to date, July 2, 2018).  
+ 
+ 
+ 
+
+Text Len: 1226
+--------------------------------------------------------------------------------
+ FY 2011 to FY 2018 Q2. H1N1 remains the major subtype over the course of the 
+surveillance; however, H1N2 and H3N2 detections have increased substantially since 2012 and H1N1 was the most predominant subtype in FY 
+2018 (to date, July 2, 2018).  
+ 
+ 
+ 
+ 
+ 
+Figure 4.  Number of subtypes, FY 2011 through FY 2018 Q2 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     7 
+ 
+ 
+Figure 5 displays the number of VIs attempted in blue, the number of those attempts that were positive in red, and the number of positive VIs that 
+are submitted to GenBank in green. Since the implementation of the June 2016 modifications to the program, almost all VIs attempted now yield a 
+virus and the sequences are submitted to Genbank for analysis. 
+ 
+ 
+Figure 5. Number of virus isolations attempted, positive virus isolations, and GenBank submissions from FY 2014 through FY 2018 Q2 
+  
+0
+100
+200
+300
+400
+500
+600 Number of virus isolations attempted
+Number of virus isolation positive samples
+Number of samples sequenced and sent to GenBank
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     8 
+When accessions were evaluated by age-class for the second quarter, the following observations were noted. H1N2 was the most common 
+subtype among suckling pigs.  H1N1 was the most common subtype among nursery and grower/ finisher pigs. Sow/boar had limited testing
+Text Len: 1455
+--------------------------------------------------------------------------------
+USDA-APHIS-VS     8 
+When accessions were evaluated by age-class for the second quarter, the following observations were noted. H1N2 was the most common 
+subtype among suckling pigs.  H1N1 was the most common subtype among nursery and grower/ finisher pigs. Sow/boar had limited testing, with 
+only four accessions of which one was H1N1, one was H1N2, and two were H3N2. Among accessions for which the age class was unknown or not 
+recorded, H1N1 was the predominant subtype (Table 1). Nasal specimens (swab or wipes) were the most successful at providing positive virus 
+isolation and submission to GenBank (Table 2).  
+ 
+ 
+Table 1. Number of positive accessions tested for IAV-S by age class and by viral subtype, Q2 FY 2018 
+ 
+ 
+ 
+Table 2. Number of positive accessions tested for IAV-S by specimen type and by viral subtype, Q2 FY 2018. 
+ 
+ 
+*Accessions may include samples with multiple specimen types.  In these cases, individual accessions are counted in more than one specimen type category.   
+**Other includes specimen types recorded as swab, mixed tissue, or unknown.
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     9 
+Regional surveillance data  
+In this section, we present data in five different regions (Figure 6) to parse the analysis across regions.  
+These regions are based on current USDA administrative districts for simplicity; these divisions do not 
+represent specific industry distribution. Submissions are voluntary, as is any identifying information 
+accompany
+Text Len: 1542
+--------------------------------------------------------------------------------
+APHIS-VS     9 
+Regional surveillance data  
+In this section, we present data in five different regions (Figure 6) to parse the analysis across regions.  
+These regions are based on current USDA administrative districts for simplicity; these divisions do not 
+represent specific industry distribution. Submissions are voluntary, as is any identifying information 
+accompanying the submission (except the State of animal origin), and therefore no sampling strategies 
+can be applied to the regions.    
+ 
+ 
+  
+Figure 6. A map of the regions 
+for national IAV-S surveillance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of Regional Data from ARS 
+Table 4. Summary of predominant subtypes in each region for FY 2016 Q3 through FY 2018 Q2 
+Most Predominant HA/NA phylo-types overall: 
+H1N1 (Gamma H1/Classical N1)          
+H1N2 (Delta1a H1/2002-N2)                  
+H3N2 (hu-like_2010.1 H3/2002-N2)      
+ 
+Region 1 (Total HA/NA: 274) 
+Gamma H1/Classical N1 
+Delta2 H1/1998-N2 
+Alpha H1/2002-N2 
+ 
+Region 2 (Total HA/NA: 1,146)  
+Most diversity of all regions 
+Gamma H1/Classical N1 
+Delta1a H1/2002-N2 
+Hu-like_2010.1 H3/2002-N2 
+ 
+Region 3 (Total
+Text Len: 1124
+--------------------------------------------------------------------------------
+
+Alpha H1/2002-N2 
+ 
+Region 2 (Total HA/NA: 1,146)  
+Most diversity of all regions 
+Gamma H1/Classical N1 
+Delta1a H1/2002-N2 
+Hu-like_2010.1 H3/2002-N2 
+ 
+Region 3 (Total HA/NA: 137) 
+Delta1a H1/2002-N2 
+Gamma H1/Classical N1 
+Hu-like_2010.1 H3/2002-N2 
+Region 4 (Total HA/NA: 159) 
+Delta1b H1/2002-N2 
+IV-A H3/2002-N2 
+Gamma H1/Classical N1 
+Region 5 (Total HA/NA: 11) 
+Delta 1b H1/2002-N2 
+Hu-like_2010.1 H3/2002 N1 
+Delta1a H1/1998-N2 
+ 
+ 
+ 
+Figure 7 shows the distribution of rRT-PCR subtyped accessions among the five regions for Q2 FY 2016 
+through Q2 FY 2018. Regions 1, 3, 4, and 5 demonstrate H1N2 as the predominant subtype. Region 2 
+demonstrates H1N1 as the predominant subtype. For regions recorded as “unknown,” there was an 
+even mix between H1N2 and H1N1. 
+Region 1 
+Region 2 
+Region 3 
+Region 5 
+Region 5 Region 3 
+Region 4 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     10 
+ 
+Figure 7. Percentage of subty
+Text Len: 980
+--------------------------------------------------------------------------------
+1N2 and H1N1. 
+Region 1 
+Region 2 
+Region 3 
+Region 5 
+Region 5 Region 3 
+Region 4 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     10 
+ 
+Figure 7. Percentage of subtyped accessions by region for FY 2016 Q2 through FY2018 Q2 
+Regional phylogenetic analysis 
+Phylogenetic analysis of sequences from the IAV-S surveillance system 
+Phylogenetic analysis is conducted on gene sequences of the influenza A virus in swine to further 
+examine the genetic changes that occur in HA, NA, and M genes, when available, of this rapidly changing 
+virus. Through collaboration with ARS, a dataset2 of 473 isolates with published sequences in GenBank® 
+was characterized by phylogenetic analysis for the Q2 FY 2018 report. This analysis provides information 
+on the genetic diversity and evolution patterns of influenza in swine and allows for inferences about 
+population and/or vaccine immunity. 
+ 
+The following bar charts parse the data into an approximate 2-year window by quarters and subtypes 
+for each region, followed by charts further parsing the H1 and H3 subtypes into phylogenetic clades. 
+Regional charts depicting the various combinations of HA and NA are available in Appendix 1.   
+ 
+                                                           
+2 The ARS dataset is comprised of IAV-S surveillance isolate sequences that were posted in Genbank. This represents only a
+Text Len: 1421
+--------------------------------------------------------------------------------
+                                                     
+2 The ARS dataset is comprised of IAV-S surveillance isolate sequences that were posted in Genbank. This represents only a 
+subset of the complete IAV-S surveillance dataset that includes PCR diagnostic test-based results as well as sequencing results. 
+Therefore, ARS dataset results, such as subtype percentages, differ from the complete IAV-S dataset results provided in other 
+sections of this report. 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     11 
+ 
+Figure 8. Virus type by region 2-year summary Q3 FY 2016 to Q2 FY 2018 
+ 
+Figure 8 demonstrates the four subtypes H1N1, H1N2, H3N1, H3N2, and mixed subtypes across the five 
+regions.  Regions 1 and 2 reported the most submissions, with a mixture of mostly H1N1, H1N2, and 
+H3N2.  Limited accessions from a region can skew data and lead to misinterpretation and therefore, less 
+inference can be applied to results from Regions 3, 4, and 5.  
+ 
+National phylogenetic HA gene information  
+HA genes from H1 subtype viruses are classified as alpha, beta, gamma, delta-1, delta-2, or pandemic 
+H1N1 2009 (H1N1pdm09) phylogenetic clades based on a previously published nomenclature system.  
+Similarly, H3 subtype viruses are classified as Cluster
+Text Len: 1312
+--------------------------------------------------------------------------------
+etic HA gene information  
+HA genes from H1 subtype viruses are classified as alpha, beta, gamma, delta-1, delta-2, or pandemic 
+H1N1 2009 (H1N1pdm09) phylogenetic clades based on a previously published nomenclature system.  
+Similarly, H3 subtype viruses are classified as Cluster IV, Cluster IV-A, Cluster IV-B, Cluster IV-C, Cluster 
+IV-D, Cluster IV-E, Cluster IV-F, or human-like. In the H1 subtypes (see Figure 9), there continued to be 
+detections of alpha with two aa deletions (n=10). Delta 1a, delta 2, and gamma viruses are the 
+predominant H1.   
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     12 
+ 
+ 
+Figure 9. H1 phylo-cluster by region – 2-year summary Q3 FY 2016 to Q2 FY 2018 
+                                                                                                                                                            
+Text Len: 908
+--------------------------------------------------------------------------------
+                                                                                                                                                                 
+  
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     13 
+ 
+Figure 10. H3 phylo-cluster by region, 2-year summary Q3 FY 2016 to Q2 FY 2018 
+In Q2 FY 2018, there were 60 H3s.  Human-like_2010.2 H3 was detected in Illinois (North Carolina, 
+Oklahoma, Indiana, and Illinois).   Cluster I H3 was detected in Iowa, paired with 1998N2.  Human-
+like_2010.1 H3 is the predominant H3.  
+ 
+National phylogenetic NA gene information  
+Both the N1 and N2 subtypes are found in circulating swine viruses.  Classical N1 continued to be the 
+dominant cluster. The 2002-lineage N2 represents 82 percent of N2 collections.   
+Objective 2. Make influenza isolates from swine available for research and 
+establish a data management system to facilitate genetic analysis of these 
+isolates
+Text Len: 983
+--------------------------------------------------------------------------------
+ N1 and N2 subtypes are found in circulating swine viruses.  Classical N1 continued to be the 
+dominant cluster. The 2002-lineage N2 represents 82 percent of N2 collections.   
+Objective 2. Make influenza isolates from swine available for research and 
+establish a data management system to facilitate genetic analysis of these 
+isolates and related information 
+ 
+A primary goal of IAV-S surveillance is to share selected virus isolates obtained through the surveillance 
+system with public health, animal health, and academic researchers to facilitate genetic analysis and 
+research on viruses of interest.  
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     14 
+The USDA’s National Veterinary Services Laboratories (NVSL) in Ames, IA, receives virus isolates acquired 
+through USDA’s IAV-S surveillance and deposits the isolates into the IAV-S virus repository. NAHLN 
+testing labs post the genomic sequences from the isolates into GenBank®, a publically accessible 
+database maintained by the National Institutes for Health. USDA swine surveillance influenza A virus 
+isolates can be identified in GenBank® by their eight-digit barcode designations in the virus name, e.g. 
+A/swine/NY/A01104005/2011(H3N2). The information in GenBank® will usually list “USDA Swine 
+Surveillance” or similar in the Consortium field. The majority of available isolates will have H and N 
+sequenced, but some will also have full genome sequencing completed, including the M gene. The 
+repository contains over 3,000 viruses.  NVSL makes these viruses available to the public upon request. 
+Text Len: 1629
+--------------------------------------------------------------------------------
+ usually list “USDA Swine 
+Surveillance” or similar in the Consortium field. The majority of available isolates will have H and N 
+sequenced, but some will also have full genome sequencing completed, including the M gene. The 
+repository contains over 3,000 viruses.  NVSL makes these viruses available to the public upon request. 
+Instructions for repository IAV-S isolate requests can be downloaded from here:  
+https://www.aphis.usda.gov/animal_health/lab_info_services/downloads/OrderingIAV-
+SRepositoryIsolates.pdf  
+ 
+In the second quarter of FY 2018, the NVSL Diagnostic Virology Laboratory provided 64 isolates to five 
+institutions: one governmental, two pharmaceutical, and two international (government).  NVSL 
+received 274 isolates into the repository in Q2 for a total of 554 in FY 2018 YTD (Table 4). Table 5 reports 
+the total number of isolates available in the repository by subtype for sharing.   
+                                                           
+Table 4. Virus isolates received in repository                                                                                            
+Text Len: 1115
+--------------------------------------------------------------------------------
+                                                                                 
+Virus isolates in the repository 
+2018 554 
+2017  844 
+2016 1,046 
+2015 883 
+2014 765 
+TOTAL TO DATE 3,818 
+ 
+ 
+Objective 3. Select proper isolates for development of relevant diagnostic 
+reagents, updating diagnostic assays, and vaccine seed stock products 
+ 
+USDA makes IAV-S isolates available in the public domain for further research. ARS-NADC conducts 
+research on isolates obtained from the repository and sequences generated from the surveillance 
+system. Genetic sequencing reported to GenBank is available for private corporations, government 
+entities, academia, and other scientific community partners for research and vaccine strain selection 
+and efficacy testing. NVSL and ARS staff are consulted as subject matter experts when necessary.     
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.  Total number of subtyped 
+isolates available through repository 
+Subtyped isolates available through 
+repository 
+H3N2 1,545 
+H3N1 16 
+H1N1 2,027 
+H1N2 1,828 
+Mixed 298 
+TOTAL 5,714 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     15 
+ 
+Conclusion 
+The
+Text Len: 1169
+--------------------------------------------------------------------------------
+ 
+H3N1 16 
+H1N1 2,027 
+H1N2 1,828 
+Mixed 298 
+TOTAL 5,714 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     15 
+ 
+Conclusion 
+The IAV-S voluntary surveillance system continues to provide insight into the genetic makeup of 
+circulating influenza virus in limited populations of commercial pigs. Genetic information and virus 
+isolates are made publicly available for further research and possible vaccine strain selection and 
+efficacy testing. Influenza A virus in swine remains a dynamic virus with high levels of genetic variability 
+in the hemagglutinin and neuraminidase genes.    
+ 
+ 
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     16 
+Appendix 1.  Regional Charts of HA and NA Combinations by Percentage 
+The following charts present the percentages of combinations of HA and NA on the national and 
+regional scales based on ARS-NADC phylogenetic analyses. The results are reported from April 2016 to 
+March 2018. These “heat maps” represent the percentage of combinations by using a color gradient; a 
+deeper gradient represents a greater percentage occurrence for a particular HA-NA combination.  HA 
+clusters are listed on the left vertical axis of the chart and NA clusters are listed on the bottom 
+horizontal axis.  Line up the HA cluster with the corresponding NA cluster to determine the percentage 
+of occurrence of that particular combination.  
+  
+ 
+ 
+  
+Total HA & NA combinations – 1,721 
+
+ Influenza A Virus
+Text Len: 1538
+--------------------------------------------------------------------------------
+
+clusters are listed on the left vertical axis of the chart and NA clusters are listed on the bottom 
+horizontal axis.  Line up the HA cluster with the corresponding NA cluster to determine the percentage 
+of occurrence of that particular combination.  
+  
+ 
+ 
+  
+Total HA & NA combinations – 1,721 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     17 
+Region 1.  Total HA & NA combinations – 276 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     18 
+Region 2. Total HA & NA combinations – 1,136 
+ 
+ 
+ 
+ 
+  
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     19 
+Region 3.  Total HA & NA combinations – 138 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     20 
+Region 4.  Total HA & NA combinations – 154 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     21 
+Region 5.  Total HA & NA combinations – 11 
+ 
+ 
+
+Text Len: 1119
+--------------------------------------------------------------------------------
+ 
+ 
+Influenza A Virus in Swine Surveillance 
+Fiscal Year 2018 Quarterly Report   
+ 
+Surveillance Summary for Second Quarter:  Jan. 1 – Mar. 31, 2018 
+ 
+Report Summary1 
+ This report covers the second quarter (Q2) of FY 2018, from Jan. 1 – Mar. 31, 2018.  
+ Where relevant, the report also includes previous years’ data for historical perspective.  
+ The report provides data from both national and regional levels. 
+ In FY 2018 Q1-Q2, a total of 7,284 samples were submitted for influenza A virus in swine (IAV-S) 
+surveillance from 2,448 accessions.  
+ H1N1 continues to be the predominant subtype reported in USDA data.  
+ Over the past 8 quarters, H1N2 predominated in Regions 1, 3, 4 and 5. H1N1 predominated in 
+Region 2. When regions are recorded as “unknown,” there was an even mix between H1N2 and 
+H1N1. 
+ Limited accessions from a region can skew data and lead to misinterpretation. Therefore, less 
+inference can be applied to results from Regions 3, 4, and 5.  
+ All IAV-S submissions are voluntary and based on clinical case submissions to veterinary 
+diagnostic labs. These data are not a statistically representative sampling of the U.S. swine 
+population. 
+ Due to the voluntary nature of this surveillance, the information in this report cannot be used to 
+determine regional and/or national incidence, prevalence, or other epidemiological measures, 
+but it may help identify I
+Text Len: 1403
+--------------------------------------------------------------------------------
+ submissions to veterinary 
+diagnostic labs. These data are not a statistically representative sampling of the U.S. swine 
+population. 
+ Due to the voluntary nature of this surveillance, the information in this report cannot be used to 
+determine regional and/or national incidence, prevalence, or other epidemiological measures, 
+but it may help identify IAV-S trends.    
+Introduction 
+This report, based on data received as of July 2, 2018, provides a brief update on the status of national 
+surveillance for IAV in swine for producers, swine practitioners, diagnosticians, and the public.  
+Summaries in this report may differ from those in past reports due to the regular addition of data from 
+participating laboratories. Reporting months are based on the month the sample was collected. The 
+USDA-APHIS website provides general information about the IAV-S surveillance program 
+(https://www.aphis.usda.gov/aphis/ourfocus/animalhealth/animal-disease-information/swine-disease-
+information/influenza-a-virus).  
+                                                           
+1 In November 2016, VS modernized the process that prepares and stages laboratory results data for reporting. Consequently, 
+VS recognizes there is a small difference in previously reported summary numbers for IAV-S surveillance. The results in this 
+report reflect updated and corrected numbers achieved with the modernized data process. 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+Text Len: 1466
+--------------------------------------------------------------------------------
+ November 2016, VS modernized the process that prepares and stages laboratory results data for reporting. Consequently, 
+VS recognizes there is a small difference in previously reported summary numbers for IAV-S surveillance. The results in this 
+report reflect updated and corrected numbers achieved with the modernized data process. 
+ 
+Animal and 
+Plant Health 
+Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+July 2018 
+ 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     2 
+The IAV-S surveillance program is voluntary and, as a result, the accessions and samples submitted 
+represent a subset of the swine population. Submitted samples should only be collected from animals 
+displaying influenza-like illness. Due to its voluntary nature, this surveillance system does not entirely 
+represent the total U.S. domestic swine population. Therefore, the data cannot be used to determine 
+IAV-S prevalence or other epidemiologic measures in the swine population. However, the data may help 
+identify trends in influenza in swine.   
+When the submitter does not report relevant information, data are recorded as “unknown.” Summaries 
+in this report may differ from those in past reports due to the ongoing addition of data from 
+participating labs. Reporting months are based on the month when the sample was collected.   
+A laboratory accession is considered a set of samples collected at a single premises on a single day and 
+received at the laboratory. While a nasal swab or lung tissue sample represents a single animal within 
+the herd, a single oral fluid sample may represent one to two pens of animals in a herd. A positive 
+sample status is based on the screening matrix real-
+Text Len: 1735
+--------------------------------------------------------------------------------
+  
+A laboratory accession is considered a set of samples collected at a single premises on a single day and 
+received at the laboratory. While a nasal swab or lung tissue sample represents a single animal within 
+the herd, a single oral fluid sample may represent one to two pens of animals in a herd. A positive 
+sample status is based on the screening matrix real-time reverse transcriptase polymerase chain 
+reaction (rRT-PCR). The subtype is based on the rRT-PCR- subtyping assays and sequencing if the sample 
+is sequenced. Virus isolation (VI) and sequencing are only attempted on rRT-PCR positives meeting 
+criteria listed in the testing algorithm posted on the web.    
+On a monthly basis, USDA performs whole genomic sequencing on a selected subset of isolates received 
+through surveillance. On a quarterly basis, a phylogenetic analysis is performed; phylogenetic analyses 
+are based on all successful USDA surveillance sequencing results, with sequences deposited into 
+GenBank®, the public sequence database. 
+ 
+IAV-S Surveillance Objectives 
+USDA’s National Surveillance Plan for Swine Influenza Virus in Pigs (July 2010) describes the current 
+surveillance system for IAV-S in detail. The surveillance objectives are to:  
+1. Monitor genetic evolution of endemic IAV in swine to better understand endemic and 
+emerging influenza virus ecology;  
+2. Make influenza isolates from swine available for research and establish a data management 
+system to facilitate genetic analysis of these isolates and related information; and  
+3. Select proper isolates for the development of relevant diagnostic reagents, updated 
+diagnostic assays, and vaccine seed stock products.  
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018,
+Text Len: 1757
+--------------------------------------------------------------------------------
+ates from swine available for research and establish a data management 
+system to facilitate genetic analysis of these isolates and related information; and  
+3. Select proper isolates for the development of relevant diagnostic reagents, updated 
+diagnostic assays, and vaccine seed stock products.  
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     3 
+ 
+Objective 1.  Monitoring genetic evolution of endemic IAV in swine to better 
+understand endemic and emerging influenza virus ecology 
+Objective 1 is met through the submission of diagnostic laboratory samples to the surveillance system, 
+collection of the viruses that are isolated from the samples, and analysis of the HA and NA sequences 
+that are generated at the NAHLN laboratories and posted into GenBank®. Each month selected viruses 
+undergo whole genomic sequencing by NVSL.  Phylogenic analysis of the genetic sequences is provided 
+through an interagency agreement with the USDA-ARS National Animal Disease Center (NADC).  
+National Surveillance Data Summary 
+From FY 2011 through FY 2016, the total number of accessions and samples submitted rose over time. 
+Changes initiated in FY 2016 have resulted in decreased laboratory accessions and samples, but a higher 
+percentage of accessions that yield a virus that can be sequenced and analyzed. For FY 2018’s second 
+quarter, 7,284 samples have been tested from 2,448 accessions (Figure 1).  Figure 2 shows the overall 
+trends in total accessions, PCR-positive accessions, subtyped accessions, and VI positive accessions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Number of IAV-S laboratory accessions and samples tested in swine,
+Text Len: 1686
+--------------------------------------------------------------------------------
+ from 2,448 accessions (Figure 1).  Figure 2 shows the overall 
+trends in total accessions, PCR-positive accessions, subtyped accessions, and VI positive accessions.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Number of IAV-S laboratory accessions and samples tested in swine, FY 2011 through FY 2018 Q2
+
+ 
+Figure 2. Accessions submitted, subtyped accessions, positive accessions, and VI positive accessions over time with trend lines, FY 201 1 through FY 2018 Q2 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     5 
+ 
+ 
+ 
+ 
+ 
+Figure 3 shows the number of subtype detections in FY 2018 Q2. The total number of samples subtyped was 253, including 110 H1N1, 73 H1N2, 53 
+H3N2, 1 H3N1, and 16 mixed. 
+ 
+ 
+ 
+Figure 3. Number of subtype detections in FY 2018 Q2 
+  
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     6 
+Figure 4 breaks down accessions by rRT-PCR subtype from FY 2011 to FY 2018 Q2. H1N1 remains the major subtype over the course of the 
+surveillance; however, H1N2 and H3N2 detections have increased substantially since 2012 and H1N1 was the most predominant subtype in FY 
+2018 (to date, July 2, 2018).  
+ 
+ 
+ 
+
+Text Len: 1226
+--------------------------------------------------------------------------------
+ FY 2011 to FY 2018 Q2. H1N1 remains the major subtype over the course of the 
+surveillance; however, H1N2 and H3N2 detections have increased substantially since 2012 and H1N1 was the most predominant subtype in FY 
+2018 (to date, July 2, 2018).  
+ 
+ 
+ 
+ 
+ 
+Figure 4.  Number of subtypes, FY 2011 through FY 2018 Q2 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     7 
+ 
+ 
+Figure 5 displays the number of VIs attempted in blue, the number of those attempts that were positive in red, and the number of positive VIs that 
+are submitted to GenBank in green. Since the implementation of the June 2016 modifications to the program, almost all VIs attempted now yield a 
+virus and the sequences are submitted to Genbank for analysis. 
+ 
+ 
+Figure 5. Number of virus isolations attempted, positive virus isolations, and GenBank submissions from FY 2014 through FY 2018 Q2 
+  
+0
+100
+200
+300
+400
+500
+600 Number of virus isolations attempted
+Number of virus isolation positive samples
+Number of samples sequenced and sent to GenBank
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     8 
+When accessions were evaluated by age-class for the second quarter, the following observations were noted. H1N2 was the most common 
+subtype among suckling pigs.  H1N1 was the most common subtype among nursery and grower/ finisher pigs. Sow/boar had limited testing
+Text Len: 1455
+--------------------------------------------------------------------------------
+USDA-APHIS-VS     8 
+When accessions were evaluated by age-class for the second quarter, the following observations were noted. H1N2 was the most common 
+subtype among suckling pigs.  H1N1 was the most common subtype among nursery and grower/ finisher pigs. Sow/boar had limited testing, with 
+only four accessions of which one was H1N1, one was H1N2, and two were H3N2. Among accessions for which the age class was unknown or not 
+recorded, H1N1 was the predominant subtype (Table 1). Nasal specimens (swab or wipes) were the most successful at providing positive virus 
+isolation and submission to GenBank (Table 2).  
+ 
+ 
+Table 1. Number of positive accessions tested for IAV-S by age class and by viral subtype, Q2 FY 2018 
+ 
+ 
+ 
+Table 2. Number of positive accessions tested for IAV-S by specimen type and by viral subtype, Q2 FY 2018. 
+ 
+ 
+*Accessions may include samples with multiple specimen types.  In these cases, individual accessions are counted in more than one specimen type category.   
+**Other includes specimen types recorded as swab, mixed tissue, or unknown.
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     9 
+Regional surveillance data  
+In this section, we present data in five different regions (Figure 6) to parse the analysis across regions.  
+These regions are based on current USDA administrative districts for simplicity; these divisions do not 
+represent specific industry distribution. Submissions are voluntary, as is any identifying information 
+accompany
+Text Len: 1542
+--------------------------------------------------------------------------------
+APHIS-VS     9 
+Regional surveillance data  
+In this section, we present data in five different regions (Figure 6) to parse the analysis across regions.  
+These regions are based on current USDA administrative districts for simplicity; these divisions do not 
+represent specific industry distribution. Submissions are voluntary, as is any identifying information 
+accompanying the submission (except the State of animal origin), and therefore no sampling strategies 
+can be applied to the regions.    
+ 
+ 
+  
+Figure 6. A map of the regions 
+for national IAV-S surveillance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Summary of Regional Data from ARS 
+Table 4. Summary of predominant subtypes in each region for FY 2016 Q3 through FY 2018 Q2 
+Most Predominant HA/NA phylo-types overall: 
+H1N1 (Gamma H1/Classical N1)          
+H1N2 (Delta1a H1/2002-N2)                  
+H3N2 (hu-like_2010.1 H3/2002-N2)      
+ 
+Region 1 (Total HA/NA: 274) 
+Gamma H1/Classical N1 
+Delta2 H1/1998-N2 
+Alpha H1/2002-N2 
+ 
+Region 2 (Total HA/NA: 1,146)  
+Most diversity of all regions 
+Gamma H1/Classical N1 
+Delta1a H1/2002-N2 
+Hu-like_2010.1 H3/2002-N2 
+ 
+Region 3 (Total
+Text Len: 1124
+--------------------------------------------------------------------------------
+
+Alpha H1/2002-N2 
+ 
+Region 2 (Total HA/NA: 1,146)  
+Most diversity of all regions 
+Gamma H1/Classical N1 
+Delta1a H1/2002-N2 
+Hu-like_2010.1 H3/2002-N2 
+ 
+Region 3 (Total HA/NA: 137) 
+Delta1a H1/2002-N2 
+Gamma H1/Classical N1 
+Hu-like_2010.1 H3/2002-N2 
+Region 4 (Total HA/NA: 159) 
+Delta1b H1/2002-N2 
+IV-A H3/2002-N2 
+Gamma H1/Classical N1 
+Region 5 (Total HA/NA: 11) 
+Delta 1b H1/2002-N2 
+Hu-like_2010.1 H3/2002 N1 
+Delta1a H1/1998-N2 
+ 
+ 
+ 
+Figure 7 shows the distribution of rRT-PCR subtyped accessions among the five regions for Q2 FY 2016 
+through Q2 FY 2018. Regions 1, 3, 4, and 5 demonstrate H1N2 as the predominant subtype. Region 2 
+demonstrates H1N1 as the predominant subtype. For regions recorded as “unknown,” there was an 
+even mix between H1N2 and H1N1. 
+Region 1 
+Region 2 
+Region 3 
+Region 5 
+Region 5 Region 3 
+Region 4 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     10 
+ 
+Figure 7. Percentage of subty
+Text Len: 980
+--------------------------------------------------------------------------------
+1N2 and H1N1. 
+Region 1 
+Region 2 
+Region 3 
+Region 5 
+Region 5 Region 3 
+Region 4 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     10 
+ 
+Figure 7. Percentage of subtyped accessions by region for FY 2016 Q2 through FY2018 Q2 
+Regional phylogenetic analysis 
+Phylogenetic analysis of sequences from the IAV-S surveillance system 
+Phylogenetic analysis is conducted on gene sequences of the influenza A virus in swine to further 
+examine the genetic changes that occur in HA, NA, and M genes, when available, of this rapidly changing 
+virus. Through collaboration with ARS, a dataset2 of 473 isolates with published sequences in GenBank® 
+was characterized by phylogenetic analysis for the Q2 FY 2018 report. This analysis provides information 
+on the genetic diversity and evolution patterns of influenza in swine and allows for inferences about 
+population and/or vaccine immunity. 
+ 
+The following bar charts parse the data into an approximate 2-year window by quarters and subtypes 
+for each region, followed by charts further parsing the H1 and H3 subtypes into phylogenetic clades. 
+Regional charts depicting the various combinations of HA and NA are available in Appendix 1.   
+ 
+                                                           
+2 The ARS dataset is comprised of IAV-S surveillance isolate sequences that were posted in Genbank. This represents only a
+Text Len: 1421
+--------------------------------------------------------------------------------
+                                                     
+2 The ARS dataset is comprised of IAV-S surveillance isolate sequences that were posted in Genbank. This represents only a 
+subset of the complete IAV-S surveillance dataset that includes PCR diagnostic test-based results as well as sequencing results. 
+Therefore, ARS dataset results, such as subtype percentages, differ from the complete IAV-S dataset results provided in other 
+sections of this report. 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     11 
+ 
+Figure 8. Virus type by region 2-year summary Q3 FY 2016 to Q2 FY 2018 
+ 
+Figure 8 demonstrates the four subtypes H1N1, H1N2, H3N1, H3N2, and mixed subtypes across the five 
+regions.  Regions 1 and 2 reported the most submissions, with a mixture of mostly H1N1, H1N2, and 
+H3N2.  Limited accessions from a region can skew data and lead to misinterpretation and therefore, less 
+inference can be applied to results from Regions 3, 4, and 5.  
+ 
+National phylogenetic HA gene information  
+HA genes from H1 subtype viruses are classified as alpha, beta, gamma, delta-1, delta-2, or pandemic 
+H1N1 2009 (H1N1pdm09) phylogenetic clades based on a previously published nomenclature system.  
+Similarly, H3 subtype viruses are classified as Cluster
+Text Len: 1312
+--------------------------------------------------------------------------------
+etic HA gene information  
+HA genes from H1 subtype viruses are classified as alpha, beta, gamma, delta-1, delta-2, or pandemic 
+H1N1 2009 (H1N1pdm09) phylogenetic clades based on a previously published nomenclature system.  
+Similarly, H3 subtype viruses are classified as Cluster IV, Cluster IV-A, Cluster IV-B, Cluster IV-C, Cluster 
+IV-D, Cluster IV-E, Cluster IV-F, or human-like. In the H1 subtypes (see Figure 9), there continued to be 
+detections of alpha with two aa deletions (n=10). Delta 1a, delta 2, and gamma viruses are the 
+predominant H1.   
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     12 
+ 
+ 
+Figure 9. H1 phylo-cluster by region – 2-year summary Q3 FY 2016 to Q2 FY 2018 
+                                                                                                                                                            
+Text Len: 908
+--------------------------------------------------------------------------------
+                                                                                                                                                                 
+  
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     13 
+ 
+Figure 10. H3 phylo-cluster by region, 2-year summary Q3 FY 2016 to Q2 FY 2018 
+In Q2 FY 2018, there were 60 H3s.  Human-like_2010.2 H3 was detected in Illinois (North Carolina, 
+Oklahoma, Indiana, and Illinois).   Cluster I H3 was detected in Iowa, paired with 1998N2.  Human-
+like_2010.1 H3 is the predominant H3.  
+ 
+National phylogenetic NA gene information  
+Both the N1 and N2 subtypes are found in circulating swine viruses.  Classical N1 continued to be the 
+dominant cluster. The 2002-lineage N2 represents 82 percent of N2 collections.   
+Objective 2. Make influenza isolates from swine available for research and 
+establish a data management system to facilitate genetic analysis of these 
+isolates
+Text Len: 983
+--------------------------------------------------------------------------------
+ N1 and N2 subtypes are found in circulating swine viruses.  Classical N1 continued to be the 
+dominant cluster. The 2002-lineage N2 represents 82 percent of N2 collections.   
+Objective 2. Make influenza isolates from swine available for research and 
+establish a data management system to facilitate genetic analysis of these 
+isolates and related information 
+ 
+A primary goal of IAV-S surveillance is to share selected virus isolates obtained through the surveillance 
+system with public health, animal health, and academic researchers to facilitate genetic analysis and 
+research on viruses of interest.  
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     14 
+The USDA’s National Veterinary Services Laboratories (NVSL) in Ames, IA, receives virus isolates acquired 
+through USDA’s IAV-S surveillance and deposits the isolates into the IAV-S virus repository. NAHLN 
+testing labs post the genomic sequences from the isolates into GenBank®, a publically accessible 
+database maintained by the National Institutes for Health. USDA swine surveillance influenza A virus 
+isolates can be identified in GenBank® by their eight-digit barcode designations in the virus name, e.g. 
+A/swine/NY/A01104005/2011(H3N2). The information in GenBank® will usually list “USDA Swine 
+Surveillance” or similar in the Consortium field. The majority of available isolates will have H and N 
+sequenced, but some will also have full genome sequencing completed, including the M gene. The 
+repository contains over 3,000 viruses.  NVSL makes these viruses available to the public upon request. 
+Text Len: 1629
+--------------------------------------------------------------------------------
+ usually list “USDA Swine 
+Surveillance” or similar in the Consortium field. The majority of available isolates will have H and N 
+sequenced, but some will also have full genome sequencing completed, including the M gene. The 
+repository contains over 3,000 viruses.  NVSL makes these viruses available to the public upon request. 
+Instructions for repository IAV-S isolate requests can be downloaded from here:  
+https://www.aphis.usda.gov/animal_health/lab_info_services/downloads/OrderingIAV-
+SRepositoryIsolates.pdf  
+ 
+In the second quarter of FY 2018, the NVSL Diagnostic Virology Laboratory provided 64 isolates to five 
+institutions: one governmental, two pharmaceutical, and two international (government).  NVSL 
+received 274 isolates into the repository in Q2 for a total of 554 in FY 2018 YTD (Table 4). Table 5 reports 
+the total number of isolates available in the repository by subtype for sharing.   
+                                                           
+Table 4. Virus isolates received in repository                                                                                            
+Text Len: 1115
+--------------------------------------------------------------------------------
+                                                                                 
+Virus isolates in the repository 
+2018 554 
+2017  844 
+2016 1,046 
+2015 883 
+2014 765 
+TOTAL TO DATE 3,818 
+ 
+ 
+Objective 3. Select proper isolates for development of relevant diagnostic 
+reagents, updating diagnostic assays, and vaccine seed stock products 
+ 
+USDA makes IAV-S isolates available in the public domain for further research. ARS-NADC conducts 
+research on isolates obtained from the repository and sequences generated from the surveillance 
+system. Genetic sequencing reported to GenBank is available for private corporations, government 
+entities, academia, and other scientific community partners for research and vaccine strain selection 
+and efficacy testing. NVSL and ARS staff are consulted as subject matter experts when necessary.     
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.  Total number of subtyped 
+isolates available through repository 
+Subtyped isolates available through 
+repository 
+H3N2 1,545 
+H3N1 16 
+H1N1 2,027 
+H1N2 1,828 
+Mixed 298 
+TOTAL 5,714 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     15 
+ 
+Conclusion 
+The
+Text Len: 1169
+--------------------------------------------------------------------------------
+ 
+H3N1 16 
+H1N1 2,027 
+H1N2 1,828 
+Mixed 298 
+TOTAL 5,714 
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     15 
+ 
+Conclusion 
+The IAV-S voluntary surveillance system continues to provide insight into the genetic makeup of 
+circulating influenza virus in limited populations of commercial pigs. Genetic information and virus 
+isolates are made publicly available for further research and possible vaccine strain selection and 
+efficacy testing. Influenza A virus in swine remains a dynamic virus with high levels of genetic variability 
+in the hemagglutinin and neuraminidase genes.    
+ 
+ 
+  
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     16 
+Appendix 1.  Regional Charts of HA and NA Combinations by Percentage 
+The following charts present the percentages of combinations of HA and NA on the national and 
+regional scales based on ARS-NADC phylogenetic analyses. The results are reported from April 2016 to 
+March 2018. These “heat maps” represent the percentage of combinations by using a color gradient; a 
+deeper gradient represents a greater percentage occurrence for a particular HA-NA combination.  HA 
+clusters are listed on the left vertical axis of the chart and NA clusters are listed on the bottom 
+horizontal axis.  Line up the HA cluster with the corresponding NA cluster to determine the percentage 
+of occurrence of that particular combination.  
+  
+ 
+ 
+  
+Total HA & NA combinations – 1,721 
+
+ Influenza A Virus
+Text Len: 1538
+--------------------------------------------------------------------------------
+
+clusters are listed on the left vertical axis of the chart and NA clusters are listed on the bottom 
+horizontal axis.  Line up the HA cluster with the corresponding NA cluster to determine the percentage 
+of occurrence of that particular combination.  
+  
+ 
+ 
+  
+Total HA & NA combinations – 1,721 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     17 
+Region 1.  Total HA & NA combinations – 276 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     18 
+Region 2. Total HA & NA combinations – 1,136 
+ 
+ 
+ 
+ 
+  
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     19 
+Region 3.  Total HA & NA combinations – 138 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     20 
+Region 4.  Total HA & NA combinations – 154 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ Influenza A Virus in Swine Surveillance Quarterly Report for FY 2018, Quarter 2 
+ 
+USDA-APHIS-VS     21 
+Region 5.  Total HA & NA combinations – 11 
+ 
+ 
+
+Text Len: 1119
+--------------------------------------------------------------------------------

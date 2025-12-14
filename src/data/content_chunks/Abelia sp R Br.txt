@@ -1,0 +1,188 @@
+PgenusPspec
+Pvar
+Pcult
+Pcommon
+Pfamily
+NgenusNspec
+Nrace
+Ncommon
+Hstat
+Susc
+Tol
+REFERENCE
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Helicotylenchus erythrinae
+Helicotylenchus; Spiral Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Brito, J. A., R. Kaur, R. Cetintas, J. D. Stanley, M. L. Mendes, T. O. Powers, and D. W. Dickson. 2010. Meloidogyne spp. infecting ornamental plants in Florida. Nematropica 40:87-103.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Goodey, J. B., M. T. Franklin, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root
+Text Len: 1055
+--------------------------------------------------------------------------------
+, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Paratylenchus sp.
+Paratylenchus; Pin Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Helicotylenchus dihystera
+Helicotylenchus; Spiral Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Aphelenchoides fragariae
+Aphelenchoides; Bud Nematode; Strawberry Spring Dwarf Nematode; Fern Nematode; Spring Crimp Nematode;
+
+Text Len: 1241
+--------------------------------------------------------------------------------
+ in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Aphelenchoides fragariae
+Aphelenchoides; Bud Nematode; Strawberry Spring Dwarf Nematode; Fern Nematode; Spring Crimp Nematode;
+H
+U
+U
+McCuiston, J.L., Hudson, L.C., Subbotin, S.A., Davis, E.L., Warfield, C.Y. 2007. J. Nematology 39:343-355.
+Text Len: 386
+--------------------------------------------------------------------------------
+PgenusPspec
+Pvar
+Pcult
+Pcommon
+Pfamily
+NgenusNspec
+Nrace
+Ncommon
+Hstat
+Susc
+Tol
+REFERENCE
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Helicotylenchus erythrinae
+Helicotylenchus; Spiral Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Brito, J. A., R. Kaur, R. Cetintas, J. D. Stanley, M. L. Mendes, T. O. Powers, and D. W. Dickson. 2010. Meloidogyne spp. infecting ornamental plants in Florida. Nematropica 40:87-103.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Goodey, J. B., M. T. Franklin, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root
+Text Len: 1055
+--------------------------------------------------------------------------------
+, and D. J. Hooper. 1965. T. Goodey's: The Nematode Parasites of Plants Catalogued Under Their Hosts. Commonwealth Agricultural Bureaux, Farnham Royal, Bucks, England. Third Edition
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Meloidogyne sp.
+Meloidogyne; Root-knot Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Paratylenchus sp.
+Paratylenchus; Pin Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Helicotylenchus dihystera
+Helicotylenchus; Spiral Nematode
+H
+S
+U
+Siddiqui, I. A., S. A. Sher and A. M. French. 1973. Distribution of Plant Parasitic Nematodes in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Aphelenchoides fragariae
+Aphelenchoides; Bud Nematode; Strawberry Spring Dwarf Nematode; Fern Nematode; Spring Crimp Nematode;
+
+Text Len: 1241
+--------------------------------------------------------------------------------
+ in California. State of California Department of Food and Agriculture, Division of Plant Industry. 324p.
+Abelia sp. R. Br.
+Abelia;
+Caprifoliaceae
+Aphelenchoides fragariae
+Aphelenchoides; Bud Nematode; Strawberry Spring Dwarf Nematode; Fern Nematode; Spring Crimp Nematode;
+H
+U
+U
+McCuiston, J.L., Hudson, L.C., Subbotin, S.A., Davis, E.L., Warfield, C.Y. 2007. J. Nematology 39:343-355.
+Text Len: 386
+--------------------------------------------------------------------------------

@@ -1,0 +1,88 @@
+APA citation
+Song, J., Pacheco Gil, R. A., Alakonya, A., Cruz-Morales, A. S., Muñoz-Zavala, C., Qu, J., Wang, C., Zhang, X., San Vicente Garcia, F. M., & Dhliwayo, T. (2024). Genome-wide association mapping and genomic prediction of stalk rot in two mid-altitude tropical maize populations. The Crop Journal, 12(2), 558-568. https://doi.org/10.1016/j.cj.2024.02.004
+Description
+Maize stalk rot reduces grain yield and quality. Information about the genetics of resistance to maize stalk rot could help breeders design effective breeding strategies for the trait. Genomic prediction may be a more effective breeding strategy for stalk-rot resistance than marker-assisted selection. We performed a genome-wide association study (GWAS) and genomic prediction of resistance in testcross hybrids of 677 inbred lines from the Tuxpeño and non-Tuxpeño heterotic pools grown in three environments and genotyped with 200,681 single-nucleotide polymorphisms (SNPs). Eighteen SNPs associated with stalk rot shared genomic regions with gene families previously associated with plant biotic and abiotic responses. More favorable SNP haplotypes traced to tropical than to temperate progenitors of the inbred lines. Incorporating genotype-by-environment (G × E) interaction increased genomic prediction accuracy.
+URI
+https://hdl.handle.net/10883/23117
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Know
+Text Len: 1626
+--------------------------------------------------------------------------------
+.
+URI
+https://hdl.handle.net/10883/23117
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose
+Journal
+Crop Journal
+Journal volume
+12
+Journal issue
+2
+Place of Publication
+China
+Publisher
+ICS
+DOI
+https://doi.org/10.1016/j.cj.2024.02.004
+AGROVOC
+GENOTYPE ENVIRONMENT INTERACTION; GENOME-WIDE ASSOCIATION STUDIES; FORECASTING; HAPLOTYPE ANALYSIS; MAIZE STALK ROT
+Related Datasets
+Link to the dataset
+CGIAR Initiatives
+Initiative
+Accelerated Breeding
+Donor or Funder
+United States Agency for International Development (USAID)
+CGSpace URL
+https://hdl.handle.net/10568/162518
+Collections
+Genetic Resources
+Maize
+Full item page
+Text Len: 1014
+--------------------------------------------------------------------------------
+APA citation
+Song, J., Pacheco Gil, R. A., Alakonya, A., Cruz-Morales, A. S., Muñoz-Zavala, C., Qu, J., Wang, C., Zhang, X., San Vicente Garcia, F. M., & Dhliwayo, T. (2024). Genome-wide association mapping and genomic prediction of stalk rot in two mid-altitude tropical maize populations. The Crop Journal, 12(2), 558-568. https://doi.org/10.1016/j.cj.2024.02.004
+Description
+Maize stalk rot reduces grain yield and quality. Information about the genetics of resistance to maize stalk rot could help breeders design effective breeding strategies for the trait. Genomic prediction may be a more effective breeding strategy for stalk-rot resistance than marker-assisted selection. We performed a genome-wide association study (GWAS) and genomic prediction of resistance in testcross hybrids of 677 inbred lines from the Tuxpeño and non-Tuxpeño heterotic pools grown in three environments and genotyped with 200,681 single-nucleotide polymorphisms (SNPs). Eighteen SNPs associated with stalk rot shared genomic regions with gene families previously associated with plant biotic and abiotic responses. More favorable SNP haplotypes traced to tropical than to temperate progenitors of the inbred lines. Incorporating genotype-by-environment (G × E) interaction increased genomic prediction accuracy.
+URI
+https://hdl.handle.net/10883/23117
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Know
+Text Len: 1626
+--------------------------------------------------------------------------------
+.
+URI
+https://hdl.handle.net/10883/23117
+Copyright
+CIMMYT manages Intellectual Assets as International Public Goods. The user is free to download, print, store and share this work. In case you want to translate or create any other derivative work and share or distribute such translation/derivative work, please contact CIMMYT-Knowledge-Center@cgiar.org indicating the work you want to use and the kind of use you intend; CIMMYT will contact you with the suitable license for that purpose
+Journal
+Crop Journal
+Journal volume
+12
+Journal issue
+2
+Place of Publication
+China
+Publisher
+ICS
+DOI
+https://doi.org/10.1016/j.cj.2024.02.004
+AGROVOC
+GENOTYPE ENVIRONMENT INTERACTION; GENOME-WIDE ASSOCIATION STUDIES; FORECASTING; HAPLOTYPE ANALYSIS; MAIZE STALK ROT
+Related Datasets
+Link to the dataset
+CGIAR Initiatives
+Initiative
+Accelerated Breeding
+Donor or Funder
+United States Agency for International Development (USAID)
+CGSpace URL
+https://hdl.handle.net/10568/162518
+Collections
+Genetic Resources
+Maize
+Full item page
+Text Len: 1014
+--------------------------------------------------------------------------------

@@ -1,0 +1,570 @@
+
+
+🔬 Nombre científico: Bursaphelenchus xylophilus
+🌍 Distribución: China, Hong Kong, Japan, South Korea, Mexico
+🦠 Hospedantes: Abies alba (silver fir), Abies amabilis (Pacific silver fir), Abies balsamea (balsam fir), Abies firma (momi fir), Abies grandis (grand fir), Abies sachalinensis (Sakhalin fir), Cedrus atlantica (Atlas cedar), Cedrus deodara (Himalayan cedar), Larix decidua (common larch), Larix kaempferi (Japanese larch), Larix laricina (American larch), Larix occidentalis (western larch), Picea abies (common spruce), Picea engelmannii (Engelmann spruce), Picea glauca (white spruce), Picea jezoensis (Yeddo spruce), Picea mariana (black spruce), Picea pungens (blue spruce), Picea rubens (red spruce), Picea sitchensis (Sitka spruce), Pinus (pines), Pinus ayacahuite (Mexican white pine), Pinus banksiana (jack pine), Pinus brutia (brutian pine), Pinus bungeana (lace bark pine), Pinus caribaea (Caribbean pine), Pinus contorta (lodgepole pine), Pinus densiflora (Japanese umbrella pine), Pinus echinata (shortleaf pine), Pinus elliottii (slash pine), Pinus halepensis (Aleppo pine), Pinus hartwegii (Hartweg pine), Pinus jeffreyi (Jeffrey
+Text Len: 1154
+--------------------------------------------------------------------------------
+Caribbean pine), Pinus contorta (lodgepole pine), Pinus densiflora (Japanese umbrella pine), Pinus echinata (shortleaf pine), Pinus elliottii (slash pine), Pinus halepensis (Aleppo pine), Pinus hartwegii (Hartweg pine), Pinus jeffreyi (Jeffrey pine), Pinus koraiensis (fruit pine), Pinus lambertiana (big pine), Pinus leiophylla (smooth-leaved pine), Pinus luchuensis (luchu pine), Pinus massoniana (masson pine), Pinus monticola (western white pine), Pinus mugo (mountain pine), Pinus nigra (black pine), Pinus oocarpa (ocote pine), Pinus palustris (longleaf pine), Pinus pinaster (maritime pine), Pinus pinea (stone pine), Pinus ponderosa (ponderosa pine), Pinus pungens (tabel Mountain pine), Pinus radiata (radiata pine), Pinus resinosa (red pine), Pinus strobiformis (southwestern white pine), Pinus strobus (eastern white pine), Pinus sylvestris (Scots pine), Pinus tabuliformis (chinese pine), Pinus taeda (loblolly pine), Pinus thunbergii (Japanese black pine), Pinus wallichiana (blue pine), Pinus yunnanensis (Yunnan pine), Pseudotsuga menziesii (Douglas-fir), Xanthocyparis nootkatensis (Alaska cedar)
+ Nombres comunes: Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernhol
+Text Len: 1240
+--------------------------------------------------------------------------------
+ensis (Yunnan pine), Pseudotsuga menziesii (Douglas-fir), Xanthocyparis nootkatensis (Alaska cedar)
+ Nombres comunes: Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernholznematode, GermanyKiefernholznematode, BURSXY (Bursaphelenchus xylophilus), Eukaryota
+ Sinonimos: Aphelenchoides xylophilusSteiner & Buhrer, 1934, Bursaphelenchus lignicolusMamiya & Kiyohara, 1972, Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernholznematode, BURSXY (Bursaphelenchus xylophilus), Eukaryota, Metazoa, Nematoda, Parasitaphelenchidae, Bursaphelenchus, Bursaphelenchus xylophilus
+ Invasion: Measurements (afterNickle et al., 1981)
+ Impacto: No encontrado
+ Habitat: No encontrado
+ Reproduccion: The pine wood nematode has a complex life cycle, which includes a fungal feeding phase and a phytophagous phase. This is unusual within the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ;
+Text Len: 1292
+--------------------------------------------------------------------------------
+ the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ; Pimentel et al., 2017 ). The nematodes are always transmitted from one host to the next by flying Monochamus vectors as fourth-stage juveniles. They can enter recently dead or dying trees during oviposition by the female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult to adult and begin laying eggs. The population is composed of males, females and four juvenile stages in this propagative stage of rapid multiplication. At a certain time after the initial invasion by the nematodes, the population ceases to multiply and begins to decline. A different type of third-stage juvenile is produced; this is called the 'dispersal third-stage juvenile' ( Mamiya, 1983 ), although it is more correctly a survival stage, being capable of resisting adverse conditions. It is likely that the population structure of the nematodes changes in reaction to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called
+Text Len: 1858
+--------------------------------------------------------------------------------
+ to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called the 'dauer larvae'. Fungal hyphae also develop around the pupation chambers. The fungus forms long-necked perithecia projecting into the chamber, and the nematodes gather at the tips of the perithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xylophilus just like that of most other species of Bursaphelenchus, that have phoretic relationships with forest beetles. It has been proposed that this is most frequent in areas where healthy pines are resistant to infection by the pathogen, mainly in its native range in North America, which precludes the phytophagous phase ( Wingfield, 1983 ). However, in Eurasia, and also in North America, wherever the nematode comes into contact with non-native or susceptible species of Pinus , the phytophagous stage is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs
+Text Len: 1808
+--------------------------------------------------------------------------------
+ is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs develop physical or biochemical barriers to prevent direct invasion to healthy tissues. In susceptible pine trees, B. xylophilus will multiply within the resin canals the young pine shoots, feeding on their epithelial cells. About 3 weeks later, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain millions of nematodes throughout the trunk, branches and roots. At this stage B. xylophilus switch to the mycophagous phase, feeding on the fungus that invaded the host tissues before boarding a pupa of its insect vector ( Mamiya, 1983 ). In the laboratory, B. xylophilus can be maintained on fungal cultures. It reproduces in 12 days at 15°C, 6 days at 20°C and 3 days at 30°C. Laying starts on the fourth day after hatching, and the eggs hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+ Sintomas: The first indication of the presence of nematodes in the tree is a reduction of oleoresin production in reaction to wounding. Transpiration from the leaves decreases and later stops completely. The first obvious external symptom is the yellowing and wilting of the
+Text Len: 1786
+--------------------------------------------------------------------------------
+ hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+ Sintomas: The first indication of the presence of nematodes in the tree is a reduction of oleoresin production in reaction to wounding. Transpiration from the leaves decreases and later stops completely. The first obvious external symptom is the yellowing and wilting of the needles, leading to eventual death of the tree ( Mamiya, 1983 ). The wilting may first appear on only one branch ('flag'), although the whole tree may later show symptoms ( Malek and Appleby, 1984 ).
+ Organos afectados: Abies alba (silver fir), Pinaceae, Unknown, Braasch (2001)
+ Seccion ambiental: Biology and Ecology The pine wood nematode has a complex life cycle, which includes a fungal feeding phase and a phytophagous phase. This is unusual within the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ; Pimentel et al., 2017 ). The nematodes are always transmitted from one host to the next by flying Monochamus vectors as fourth-stage juveniles. They can enter recently dead or dying trees during oviposition by the female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult
+Text Len: 1711
+--------------------------------------------------------------------------------
+ female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult to adult and begin laying eggs. The population is composed of males, females and four juvenile stages in this propagative stage of rapid multiplication. At a certain time after the initial invasion by the nematodes, the population ceases to multiply and begins to decline. A different type of third-stage juvenile is produced; this is called the 'dispersal third-stage juvenile' ( Mamiya, 1983 ), although it is more correctly a survival stage, being capable of resisting adverse conditions. It is likely that the population structure of the nematodes changes in reaction to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called the 'dauer larvae'. Fungal hyphae also develop around the pupation chambers. The fungus forms long-necked perithecia projecting into the chamber, and the nematodes gather at the tips of the perithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xyloph
+Text Len: 1814
+--------------------------------------------------------------------------------
+ithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xylophilus just like that of most other species of Bursaphelenchus, that have phoretic relationships with forest beetles. It has been proposed that this is most frequent in areas where healthy pines are resistant to infection by the pathogen, mainly in its native range in North America, which precludes the phytophagous phase ( Wingfield, 1983 ). However, in Eurasia, and also in North America, wherever the nematode comes into contact with non-native or susceptible species of Pinus , the phytophagous stage is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs develop physical or biochemical barriers to prevent direct invasion to healthy tissues. In susceptible pine trees, B. xylophilus will multiply within the resin canals the young pine shoots, feeding on their epithelial cells. About 3 weeks later, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain
+Text Len: 1836
+--------------------------------------------------------------------------------
+, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain millions of nematodes throughout the trunk, branches and roots. At this stage B. xylophilus switch to the mycophagous phase, feeding on the fungus that invaded the host tissues before boarding a pupa of its insect vector ( Mamiya, 1983 ). In the laboratory, B. xylophilus can be maintained on fungal cultures. It reproduces in 12 days at 15°C, 6 days at 20°C and 3 days at 30°C. Laying starts on the fourth day after hatching, and the eggs hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+Text Len: 879
+--------------------------------------------------------------------------------
+Skip to main content
+    
+
+
+
+
+An official website of the United States government.
+    Here's how you know.
+
+
+
+
+
+
+
+dot gov icon
+
+
+
+
+Official websites use .gov
+
+        A .gov website belongs to an official government organization in the United States.    
+
+
+
+
+
+
+https icon
+
+
+
+
+Secure .gov websites use HTTPS
+
+        A lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nematode Collection Database
+U.S. Department of Agriculture
+
+
+
+
+
+
+
+menu
+                
+
+
+
+
+Main navigation
+
+Search 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+                  Entry Number: 1
+              
+
+Entry Number: 1
+
+
+Disposition of Sample
+Specimens to USDANC (General)
+
+
+Nematode
+Bursaphelenchus
+xylophilus
+
+
+Host
+Pinus
+spp.
+(Pine (Black, Scotch & Austrian))
+in/on Wood
+
+
+Origin
+USA
+Maryland
+Radcliff, Talbot Co.
+
+
+Collector
+Norman Brady (Brady Tree Service)
+
+
+Date Received
+10/28/19
+
+
+Slides
+
+ 
+G-11208
+
+
+ 
+G-11209
+
+
+
+
+
+Remarks
+No specimens were recovered during remounting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(
+Text Len: 1101
+--------------------------------------------------------------------------------
+ Talbot Co.
+
+
+Collector
+Norman Brady (Brady Tree Service)
+
+
+Date Received
+10/28/19
+
+
+Slides
+
+ 
+G-11208
+
+
+ 
+G-11209
+
+
+
+
+
+Remarks
+No specimens were recovered during remounting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement(link is external)
+Civil Rights Policy(link is external)
+Information Quality(link is external)
+National Agricultural Library(link is external)
+Agricultural Research Service(link is external)
+USDA.gov(link is external)
+USA.gov(link is external)
+WhiteHouse.gov(link is external)
+
+
+Sign up for ARS News updates
+
+
+Your email address
+Text Len: 757
+--------------------------------------------------------------------------------
+
+
+🔬 Nombre científico: Bursaphelenchus xylophilus
+🌍 Distribución: China, Hong Kong, Japan, South Korea, Mexico
+🦠 Hospedantes: Abies alba (silver fir), Abies amabilis (Pacific silver fir), Abies balsamea (balsam fir), Abies firma (momi fir), Abies grandis (grand fir), Abies sachalinensis (Sakhalin fir), Cedrus atlantica (Atlas cedar), Cedrus deodara (Himalayan cedar), Larix decidua (common larch), Larix kaempferi (Japanese larch), Larix laricina (American larch), Larix occidentalis (western larch), Picea abies (common spruce), Picea engelmannii (Engelmann spruce), Picea glauca (white spruce), Picea jezoensis (Yeddo spruce), Picea mariana (black spruce), Picea pungens (blue spruce), Picea rubens (red spruce), Picea sitchensis (Sitka spruce), Pinus (pines), Pinus ayacahuite (Mexican white pine), Pinus banksiana (jack pine), Pinus brutia (brutian pine), Pinus bungeana (lace bark pine), Pinus caribaea (Caribbean pine), Pinus contorta (lodgepole pine), Pinus densiflora (Japanese umbrella pine), Pinus echinata (shortleaf pine), Pinus elliottii (slash pine), Pinus halepensis (Aleppo pine), Pinus hartwegii (Hartweg pine), Pinus jeffreyi (Jeffrey
+Text Len: 1154
+--------------------------------------------------------------------------------
+Caribbean pine), Pinus contorta (lodgepole pine), Pinus densiflora (Japanese umbrella pine), Pinus echinata (shortleaf pine), Pinus elliottii (slash pine), Pinus halepensis (Aleppo pine), Pinus hartwegii (Hartweg pine), Pinus jeffreyi (Jeffrey pine), Pinus koraiensis (fruit pine), Pinus lambertiana (big pine), Pinus leiophylla (smooth-leaved pine), Pinus luchuensis (luchu pine), Pinus massoniana (masson pine), Pinus monticola (western white pine), Pinus mugo (mountain pine), Pinus nigra (black pine), Pinus oocarpa (ocote pine), Pinus palustris (longleaf pine), Pinus pinaster (maritime pine), Pinus pinea (stone pine), Pinus ponderosa (ponderosa pine), Pinus pungens (tabel Mountain pine), Pinus radiata (radiata pine), Pinus resinosa (red pine), Pinus strobiformis (southwestern white pine), Pinus strobus (eastern white pine), Pinus sylvestris (Scots pine), Pinus tabuliformis (chinese pine), Pinus taeda (loblolly pine), Pinus thunbergii (Japanese black pine), Pinus wallichiana (blue pine), Pinus yunnanensis (Yunnan pine), Pseudotsuga menziesii (Douglas-fir), Xanthocyparis nootkatensis (Alaska cedar)
+ Nombres comunes: Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernhol
+Text Len: 1240
+--------------------------------------------------------------------------------
+ensis (Yunnan pine), Pseudotsuga menziesii (Douglas-fir), Xanthocyparis nootkatensis (Alaska cedar)
+ Nombres comunes: Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernholznematode, GermanyKiefernholznematode, BURSXY (Bursaphelenchus xylophilus), Eukaryota
+ Sinonimos: Aphelenchoides xylophilusSteiner & Buhrer, 1934, Bursaphelenchus lignicolusMamiya & Kiyohara, 1972, Englishpine wood nematodepinewood nematode, Frenchnématode des pinsnématode du bois de pin, GermanyKiefernholznematode, BURSXY (Bursaphelenchus xylophilus), Eukaryota, Metazoa, Nematoda, Parasitaphelenchidae, Bursaphelenchus, Bursaphelenchus xylophilus
+ Invasion: Measurements (afterNickle et al., 1981)
+ Impacto: No encontrado
+ Habitat: No encontrado
+ Reproduccion: The pine wood nematode has a complex life cycle, which includes a fungal feeding phase and a phytophagous phase. This is unusual within the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ;
+Text Len: 1292
+--------------------------------------------------------------------------------
+ the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ; Pimentel et al., 2017 ). The nematodes are always transmitted from one host to the next by flying Monochamus vectors as fourth-stage juveniles. They can enter recently dead or dying trees during oviposition by the female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult to adult and begin laying eggs. The population is composed of males, females and four juvenile stages in this propagative stage of rapid multiplication. At a certain time after the initial invasion by the nematodes, the population ceases to multiply and begins to decline. A different type of third-stage juvenile is produced; this is called the 'dispersal third-stage juvenile' ( Mamiya, 1983 ), although it is more correctly a survival stage, being capable of resisting adverse conditions. It is likely that the population structure of the nematodes changes in reaction to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called
+Text Len: 1858
+--------------------------------------------------------------------------------
+ to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called the 'dauer larvae'. Fungal hyphae also develop around the pupation chambers. The fungus forms long-necked perithecia projecting into the chamber, and the nematodes gather at the tips of the perithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xylophilus just like that of most other species of Bursaphelenchus, that have phoretic relationships with forest beetles. It has been proposed that this is most frequent in areas where healthy pines are resistant to infection by the pathogen, mainly in its native range in North America, which precludes the phytophagous phase ( Wingfield, 1983 ). However, in Eurasia, and also in North America, wherever the nematode comes into contact with non-native or susceptible species of Pinus , the phytophagous stage is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs
+Text Len: 1808
+--------------------------------------------------------------------------------
+ is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs develop physical or biochemical barriers to prevent direct invasion to healthy tissues. In susceptible pine trees, B. xylophilus will multiply within the resin canals the young pine shoots, feeding on their epithelial cells. About 3 weeks later, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain millions of nematodes throughout the trunk, branches and roots. At this stage B. xylophilus switch to the mycophagous phase, feeding on the fungus that invaded the host tissues before boarding a pupa of its insect vector ( Mamiya, 1983 ). In the laboratory, B. xylophilus can be maintained on fungal cultures. It reproduces in 12 days at 15°C, 6 days at 20°C and 3 days at 30°C. Laying starts on the fourth day after hatching, and the eggs hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+ Sintomas: The first indication of the presence of nematodes in the tree is a reduction of oleoresin production in reaction to wounding. Transpiration from the leaves decreases and later stops completely. The first obvious external symptom is the yellowing and wilting of the
+Text Len: 1786
+--------------------------------------------------------------------------------
+ hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+ Sintomas: The first indication of the presence of nematodes in the tree is a reduction of oleoresin production in reaction to wounding. Transpiration from the leaves decreases and later stops completely. The first obvious external symptom is the yellowing and wilting of the needles, leading to eventual death of the tree ( Mamiya, 1983 ). The wilting may first appear on only one branch ('flag'), although the whole tree may later show symptoms ( Malek and Appleby, 1984 ).
+ Organos afectados: Abies alba (silver fir), Pinaceae, Unknown, Braasch (2001)
+ Seccion ambiental: Biology and Ecology The pine wood nematode has a complex life cycle, which includes a fungal feeding phase and a phytophagous phase. This is unusual within the plant-parasitic nematodes, which are generally obligatory parasites ( Espada et al., 2016 ). In fact, B. xylophilus can be maintained in laboratory cultures either on fungi or pine tissue and evidence indicates that the nematode can follow one or other life style in nature as an adaptation to environmental conditions ( Wingfield, 1983 ; Espada et al., 2016 ; Pimentel et al., 2017 ). The nematodes are always transmitted from one host to the next by flying Monochamus vectors as fourth-stage juveniles. They can enter recently dead or dying trees during oviposition by the female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult
+Text Len: 1711
+--------------------------------------------------------------------------------
+ female vector, through a hole in the bark cut by the vector to lay its eggs. On this case B. xylophilus will have a strictly mycophagous life cycle feeding on the hyphae of fungi (usually Ceratocystis species) also transmitted to the wood by ovipositing beetles. Immediately on entering the wood the larval nematodes moult to adult and begin laying eggs. The population is composed of males, females and four juvenile stages in this propagative stage of rapid multiplication. At a certain time after the initial invasion by the nematodes, the population ceases to multiply and begins to decline. A different type of third-stage juvenile is produced; this is called the 'dispersal third-stage juvenile' ( Mamiya, 1983 ), although it is more correctly a survival stage, being capable of resisting adverse conditions. It is likely that the population structure of the nematodes changes in reaction to a reduction in the availability of food, when the fungus has fully exploited the wood. The 'dispersal' juveniles gather in the wood surrounding the pupal chamber of the Monochamus vector, possibly under the influence of substances diffusing from the developing pupa. Close to the time of emergence of the beetle, the nematodes moult into the special fourth-stage juveniles, called the 'dauer larvae'. Fungal hyphae also develop around the pupation chambers. The fungus forms long-necked perithecia projecting into the chamber, and the nematodes gather at the tips of the perithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xyloph
+Text Len: 1814
+--------------------------------------------------------------------------------
+ithecia. When the young adult beetle emerges, it brushes against the perithecial necks, picking up the nematodes which settle below the elytra and, in particular, in the tracheae. The immature adult beetle then flies from the wood carrying nematodes. A strictly mycophagous life cycle can be considered the primordial life cycle of B. xylophilus just like that of most other species of Bursaphelenchus, that have phoretic relationships with forest beetles. It has been proposed that this is most frequent in areas where healthy pines are resistant to infection by the pathogen, mainly in its native range in North America, which precludes the phytophagous phase ( Wingfield, 1983 ). However, in Eurasia, and also in North America, wherever the nematode comes into contact with non-native or susceptible species of Pinus , the phytophagous stage is swich on. In this case, the nematodes are transmitted from young adult beetles shortly after emergence from their pupal chambers, when they fly to feed on young Pinus shoots. The nematodes enter the shoots through the feeding wounds. This form of transmission only occurs on susceptible species of Pinus presumably because Pinus species native to the area where B. xylophilus occurs develop physical or biochemical barriers to prevent direct invasion to healthy tissues. In susceptible pine trees, B. xylophilus will multiply within the resin canals the young pine shoots, feeding on their epithelial cells. About 3 weeks later, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain
+Text Len: 1836
+--------------------------------------------------------------------------------
+, the tree shows first symptoms of 'drying out', in the form of reduced oleoresin exudation. The nematodes can now move freely throughout the dying tree which becomes attractive to adult insects which gather on the trunks to mate. At this stage, wilting and yellowing of the needles becomes evident. The tree dies 30-40 days after infection and may then contain millions of nematodes throughout the trunk, branches and roots. At this stage B. xylophilus switch to the mycophagous phase, feeding on the fungus that invaded the host tissues before boarding a pupa of its insect vector ( Mamiya, 1983 ). In the laboratory, B. xylophilus can be maintained on fungal cultures. It reproduces in 12 days at 15°C, 6 days at 20°C and 3 days at 30°C. Laying starts on the fourth day after hatching, and the eggs hatch in 26-32 h at 25°C. The temperature threshold for development is 9.5°C.
+Text Len: 879
+--------------------------------------------------------------------------------
+Skip to main content
+    
+
+
+
+
+An official website of the United States government.
+    Here's how you know.
+
+
+
+
+
+
+
+dot gov icon
+
+
+
+
+Official websites use .gov
+
+        A .gov website belongs to an official government organization in the United States.    
+
+
+
+
+
+
+https icon
+
+
+
+
+Secure .gov websites use HTTPS
+
+        A lock (  ) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nematode Collection Database
+U.S. Department of Agriculture
+
+
+
+
+
+
+
+menu
+                
+
+
+
+
+Main navigation
+
+Search 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+Search
+
+
+                  Entry Number: 1
+              
+
+Entry Number: 1
+
+
+Disposition of Sample
+Specimens to USDANC (General)
+
+
+Nematode
+Bursaphelenchus
+xylophilus
+
+
+Host
+Pinus
+spp.
+(Pine (Black, Scotch & Austrian))
+in/on Wood
+
+
+Origin
+USA
+Maryland
+Radcliff, Talbot Co.
+
+
+Collector
+Norman Brady (Brady Tree Service)
+
+
+Date Received
+10/28/19
+
+
+Slides
+
+ 
+G-11208
+
+
+ 
+G-11209
+
+
+
+
+
+Remarks
+No specimens were recovered during remounting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(
+Text Len: 1101
+--------------------------------------------------------------------------------
+ Talbot Co.
+
+
+Collector
+Norman Brady (Brady Tree Service)
+
+
+Date Received
+10/28/19
+
+
+Slides
+
+ 
+G-11208
+
+
+ 
+G-11209
+
+
+
+
+
+Remarks
+No specimens were recovered during remounting.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government Links
+
+AskUSDA(link is external)
+Policies and Links(link is external)
+Plain Writing(link is external)
+FOIA(link is external)
+Accessibility Statement(link is external)
+Privacy Policy(link is external)
+Non-Discrimination Statement(link is external)
+Civil Rights Policy(link is external)
+Information Quality(link is external)
+National Agricultural Library(link is external)
+Agricultural Research Service(link is external)
+USDA.gov(link is external)
+USA.gov(link is external)
+WhiteHouse.gov(link is external)
+
+
+Sign up for ARS News updates
+
+
+Your email address
+Text Len: 757
+--------------------------------------------------------------------------------

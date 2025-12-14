@@ -1,0 +1,408 @@
+Bovine Tuberculosis Infected Herd Management
+Q3 (April-June 2024) Report 
+ Fiscal Year 2024
+U.S. Department of Agriculture - Animal and Plant Health Inspection Service
+Veterinary Services
+Strategy and Policy - Ruminant Health Center
+Cattle Health Center
+
+Table of Contents
+Brucellosis (B. abortus)
+• Affected herds map and updates
+• National slaughter surveillance samples
+Tuberculosis (M. bovis)
+• Affected herds map and updates
+• Bovine TB cases found through routine slaughter
+• TB terms and definitions
+Brucellosis (B. abortus)
+FY24 Q3 (April-June 2024) Updates
+
+    
+Brucellosis Affected Herds Under Quarantine Q3 (April-June 2024)
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during that year.
+2. Current Montana state statute prevents public disclosure of herd type.
+Herd1 Date Detected Method of Detection Herd Type2 Herd Management 
+Status
+Next Test Tentative 
+Start Date
+MT 10 November 2010 DSA Surveillance 
+Testing Livestock Test and Remove Fall 2024
+MT 19 December 2019 DSA Surveillance Livestock Test and Remove Fall 2024
+WY 23B November 2023 Livestock Market Beef Test and Remove Fall 2024
+Brucellosis Affected Herds Under Quarantine Q3 (April-June 2024)
+• MT 10
+• Herd still under quarantine and management practices are focused on isolating 
+movement of animals between herds/locations for husbandry practices. Fall testing and 
+continued movement to finishing/slaughter channels
+• MT19
+• Herd still under quarantine and management practices are focused on 
+isolatingmovement of animals between herds/locations for husbandry
+Text Len: 1601
+--------------------------------------------------------------------------------
+ MT 10
+• Herd still under quarantine and management practices are focused on isolating 
+movement of animals between herds/locations for husbandry practices. Fall testing and 
+continued movement to finishing/slaughter channels
+• MT19
+• Herd still under quarantine and management practices are focused on 
+isolatingmovement of animals between herds/locations for husbandry practices. Fall 
+testing and continued movement to finishing/slaughter channels
+• WY 23B  
+• Identified through routine market testing surveillance
+• First WHT completed November 2023 and revealed 2 reactors confirmed culture 
+positive
+• Hold order in place November 2023 and quarantined
+• Testing plan is scheduled for May/Nov/Post-calving respectively
+• Herd is in DSA and the epidemiologic investigation is ongoing
+• 27 head still under quarantine. There were some late calvers. The rest of the herd was 
+released. Test the entire herd and WHT 1 for the quarantined herd will be this fall – 
+depending on weather and vet availability.  
+g  p
+Tuberculosis (M. bovis)
+FY24 Q3 (April-June 2024) Updates
+
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+Location1 Date Detected Method of 
+Detection Herd Type Herd Management Status Next Test Tentative 
+Start Date
+NM 22B* July 2022 Epi 
+Investigation Dairy Test and Remove Phase Pending Culture
+TX 22A* July 2022 Movement 
+Testing Dairy Test and Remove Phase Pending Culture
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during 
+that year
+* These herds are under the same ownership
+    
+Affected herds are mapped to the center of their county.
+
+TB
+Text Len: 1633
+--------------------------------------------------------------------------------
+ Culture
+TX 22A* July 2022 Movement 
+Testing Dairy Test and Remove Phase Pending Culture
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during 
+that year
+* These herds are under the same ownership
+    
+Affected herds are mapped to the center of their county.
+
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+• NM 22B still conducting WHTs of herds within complex
+• Confirmed July 2022
+• Test-and-Remove Model completed by CEAH
+• Removal test (5th) Sept. 2023
+• Removal test (6th) completed Dec. 2023- Negative
+• Verification Test June 2024- Cultures pending 
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+• TX 22A  Still conducting WHTs of herds within complex
+• Confirmed July 2022
+• Test-and-Remove Model completed by CEAH
+• Epidemiologically linked to NM 22B
+• Removal test (5th) Sept. 2023
+• Removal test (6th) completed Dec. 2023-Negative
+• Verification Test June 2024- Cultures pending 
+Slaughter Type Month confirmed Slaughter Plant State Slaughter Origin State Outcome/current status
+Beef October 2023 MI MI Assurance Testing Pending
+Beef November 2023 TX MX Investigation Conducted by MX 
+Authorities
+Beef December 2023 NE CO MT origin state.Investigation Complete
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2018 2019 2020 2021 2022 2023 2024
+Case Count
+Fiscal Year
+Cumulative Bovine TB Cases Identified through Routine 
+Slaughter by Fiscal Year
+Tuberculosis (M. bovis) 
+Text Len: 1436
+--------------------------------------------------------------------------------
+Beef December 2023 NE CO MT origin state.Investigation Complete
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2018 2019 2020 2021 2022 2023 2024
+Case Count
+Fiscal Year
+Cumulative Bovine TB Cases Identified through Routine 
+Slaughter by Fiscal Year
+Tuberculosis (M. bovis) 
+Terms and Definitions
+
+Designation of Herds as “Quarantined”
+• Affected herds are considered “quarantined” due to a formal quarantine 
+order of the entire herd or informal hold order for subgroups of exposed 
+animals.
+• Herds under quarantine due to tracing investigations are generally 
+excluded from this report due to the temporary nature of their restrictions.
+• Quarantined herds are removed from this report once the quarantine or 
+hold order is removed, typically after verification testing.
+TB Test-and-Removal Protocol – VS Memo 552.47
+• Consist of 3 stages:
+1) Removal Testing
+2) Verification Testing
+3) Assurance Testing 
+• To release a herd from quarantine:
+• Two consecutive removal tests must be completed without evidence of M.bovis 
+infection. 
+• 2nd removal test must achieve a 95% or greater confidence level the herd is TB-free.
+• Verification test must be conducted and achieve a confidence level of 95% or greater 
+that the herd is TB-free.
+Methods of Detection of TB-Affected Herds
+• Area surveillance: Surveillance in a defined area such as counties in or 
+bordering the modified accredited zone in Michigan.
+• Assurance test: Herds identified during the assurance testing phase of a 
+test and remove herd plan.
+• Epi investigation: Herds identified as part of epidemiologic investigations 
+
+Text Len: 1563
+--------------------------------------------------------------------------------
+
+Methods of Detection of TB-Affected Herds
+• Area surveillance: Surveillance in a defined area such as counties in or 
+bordering the modified accredited zone in Michigan.
+• Assurance test: Herds identified during the assurance testing phase of a 
+test and remove herd plan.
+• Epi investigation: Herds identified as part of epidemiologic investigations 
+associated with TB-affected animals or TB-affected herds.
+• Movement test: Herds identified through testing of animals for routine 
+movements, e.g., export and interstate commerce.
+• Slaughter trace: Herds identified as the source of animals with suspicious 
+lesions during routine slaughter surveillance. Also called “6-35 traces”
+Definitions and Acronyms
+• 6-35 Trace: Tracing of the source of a suspected or confirmed case of TB 
+that was identified during slaughter surveillance and reported on a VS 6-35 
+form; known otherwise as a “slaughter trace.” 
+• DSA: Designated Surveillance Area
+• IFG: Interferon gamma
+• M. bovis: Mycobacterium bovis, known as bovine or zoonotic tuberculosis
+• NGL: No gross lesions on postmortem examination
+• NVSL: National Veterinary Services Laboratories
+• PCR: Polymerase Chain Reaction; A molecular biology method of assessing 
+for presence of segments of generic material, i.e., DNA and RNA
+• WGS: Whole Genome Sequencing of TB bacterial DNA; used to assess 
+relatedness among TB bacterial strains
+Definitions and Acronyms
+• WHT: Whole herd test
+• Q Released: Quarantine released
+Questions?
+• Please contact the Cattle Health Center at:    vs.sp.chc.all@usda.gov
+Text Len: 1554
+--------------------------------------------------------------------------------
+Bovine Tuberculosis Infected Herd Management
+Q3 (April-June 2024) Report 
+ Fiscal Year 2024
+U.S. Department of Agriculture - Animal and Plant Health Inspection Service
+Veterinary Services
+Strategy and Policy - Ruminant Health Center
+Cattle Health Center
+
+Table of Contents
+Brucellosis (B. abortus)
+• Affected herds map and updates
+• National slaughter surveillance samples
+Tuberculosis (M. bovis)
+• Affected herds map and updates
+• Bovine TB cases found through routine slaughter
+• TB terms and definitions
+Brucellosis (B. abortus)
+FY24 Q3 (April-June 2024) Updates
+
+    
+Brucellosis Affected Herds Under Quarantine Q3 (April-June 2024)
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during that year.
+2. Current Montana state statute prevents public disclosure of herd type.
+Herd1 Date Detected Method of Detection Herd Type2 Herd Management 
+Status
+Next Test Tentative 
+Start Date
+MT 10 November 2010 DSA Surveillance 
+Testing Livestock Test and Remove Fall 2024
+MT 19 December 2019 DSA Surveillance Livestock Test and Remove Fall 2024
+WY 23B November 2023 Livestock Market Beef Test and Remove Fall 2024
+Brucellosis Affected Herds Under Quarantine Q3 (April-June 2024)
+• MT 10
+• Herd still under quarantine and management practices are focused on isolating 
+movement of animals between herds/locations for husbandry practices. Fall testing and 
+continued movement to finishing/slaughter channels
+• MT19
+• Herd still under quarantine and management practices are focused on 
+isolatingmovement of animals between herds/locations for husbandry
+Text Len: 1601
+--------------------------------------------------------------------------------
+ MT 10
+• Herd still under quarantine and management practices are focused on isolating 
+movement of animals between herds/locations for husbandry practices. Fall testing and 
+continued movement to finishing/slaughter channels
+• MT19
+• Herd still under quarantine and management practices are focused on 
+isolatingmovement of animals between herds/locations for husbandry practices. Fall 
+testing and continued movement to finishing/slaughter channels
+• WY 23B  
+• Identified through routine market testing surveillance
+• First WHT completed November 2023 and revealed 2 reactors confirmed culture 
+positive
+• Hold order in place November 2023 and quarantined
+• Testing plan is scheduled for May/Nov/Post-calving respectively
+• Herd is in DSA and the epidemiologic investigation is ongoing
+• 27 head still under quarantine. There were some late calvers. The rest of the herd was 
+released. Test the entire herd and WHT 1 for the quarantined herd will be this fall – 
+depending on weather and vet availability.  
+g  p
+Tuberculosis (M. bovis)
+FY24 Q3 (April-June 2024) Updates
+
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+Location1 Date Detected Method of 
+Detection Herd Type Herd Management Status Next Test Tentative 
+Start Date
+NM 22B* July 2022 Epi 
+Investigation Dairy Test and Remove Phase Pending Culture
+TX 22A* July 2022 Movement 
+Testing Dairy Test and Remove Phase Pending Culture
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during 
+that year
+* These herds are under the same ownership
+    
+Affected herds are mapped to the center of their county.
+
+TB
+Text Len: 1633
+--------------------------------------------------------------------------------
+ Culture
+TX 22A* July 2022 Movement 
+Testing Dairy Test and Remove Phase Pending Culture
+1. Herds are named with the last 2 digits of the calendar year and in order of occurrence within a state during 
+that year
+* These herds are under the same ownership
+    
+Affected herds are mapped to the center of their county.
+
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+• NM 22B still conducting WHTs of herds within complex
+• Confirmed July 2022
+• Test-and-Remove Model completed by CEAH
+• Removal test (5th) Sept. 2023
+• Removal test (6th) completed Dec. 2023- Negative
+• Verification Test June 2024- Cultures pending 
+TB Affected Herds Under Quarantine Q3 (April-June 2024)
+• TX 22A  Still conducting WHTs of herds within complex
+• Confirmed July 2022
+• Test-and-Remove Model completed by CEAH
+• Epidemiologically linked to NM 22B
+• Removal test (5th) Sept. 2023
+• Removal test (6th) completed Dec. 2023-Negative
+• Verification Test June 2024- Cultures pending 
+Slaughter Type Month confirmed Slaughter Plant State Slaughter Origin State Outcome/current status
+Beef October 2023 MI MI Assurance Testing Pending
+Beef November 2023 TX MX Investigation Conducted by MX 
+Authorities
+Beef December 2023 NE CO MT origin state.Investigation Complete
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2018 2019 2020 2021 2022 2023 2024
+Case Count
+Fiscal Year
+Cumulative Bovine TB Cases Identified through Routine 
+Slaughter by Fiscal Year
+Tuberculosis (M. bovis) 
+Text Len: 1436
+--------------------------------------------------------------------------------
+Beef December 2023 NE CO MT origin state.Investigation Complete
+0
+2
+4
+6
+8
+10
+12
+14
+16
+2018 2019 2020 2021 2022 2023 2024
+Case Count
+Fiscal Year
+Cumulative Bovine TB Cases Identified through Routine 
+Slaughter by Fiscal Year
+Tuberculosis (M. bovis) 
+Terms and Definitions
+
+Designation of Herds as “Quarantined”
+• Affected herds are considered “quarantined” due to a formal quarantine 
+order of the entire herd or informal hold order for subgroups of exposed 
+animals.
+• Herds under quarantine due to tracing investigations are generally 
+excluded from this report due to the temporary nature of their restrictions.
+• Quarantined herds are removed from this report once the quarantine or 
+hold order is removed, typically after verification testing.
+TB Test-and-Removal Protocol – VS Memo 552.47
+• Consist of 3 stages:
+1) Removal Testing
+2) Verification Testing
+3) Assurance Testing 
+• To release a herd from quarantine:
+• Two consecutive removal tests must be completed without evidence of M.bovis 
+infection. 
+• 2nd removal test must achieve a 95% or greater confidence level the herd is TB-free.
+• Verification test must be conducted and achieve a confidence level of 95% or greater 
+that the herd is TB-free.
+Methods of Detection of TB-Affected Herds
+• Area surveillance: Surveillance in a defined area such as counties in or 
+bordering the modified accredited zone in Michigan.
+• Assurance test: Herds identified during the assurance testing phase of a 
+test and remove herd plan.
+• Epi investigation: Herds identified as part of epidemiologic investigations 
+
+Text Len: 1563
+--------------------------------------------------------------------------------
+
+Methods of Detection of TB-Affected Herds
+• Area surveillance: Surveillance in a defined area such as counties in or 
+bordering the modified accredited zone in Michigan.
+• Assurance test: Herds identified during the assurance testing phase of a 
+test and remove herd plan.
+• Epi investigation: Herds identified as part of epidemiologic investigations 
+associated with TB-affected animals or TB-affected herds.
+• Movement test: Herds identified through testing of animals for routine 
+movements, e.g., export and interstate commerce.
+• Slaughter trace: Herds identified as the source of animals with suspicious 
+lesions during routine slaughter surveillance. Also called “6-35 traces”
+Definitions and Acronyms
+• 6-35 Trace: Tracing of the source of a suspected or confirmed case of TB 
+that was identified during slaughter surveillance and reported on a VS 6-35 
+form; known otherwise as a “slaughter trace.” 
+• DSA: Designated Surveillance Area
+• IFG: Interferon gamma
+• M. bovis: Mycobacterium bovis, known as bovine or zoonotic tuberculosis
+• NGL: No gross lesions on postmortem examination
+• NVSL: National Veterinary Services Laboratories
+• PCR: Polymerase Chain Reaction; A molecular biology method of assessing 
+for presence of segments of generic material, i.e., DNA and RNA
+• WGS: Whole Genome Sequencing of TB bacterial DNA; used to assess 
+relatedness among TB bacterial strains
+Definitions and Acronyms
+• WHT: Whole herd test
+• Q Released: Quarantine released
+Questions?
+• Please contact the Cattle Health Center at:    vs.sp.chc.all@usda.gov
+Text Len: 1554
+--------------------------------------------------------------------------------

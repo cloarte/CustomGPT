@@ -1,0 +1,740 @@
+  
+ 
+2023 Equine Infectious Anemia Cases                 
+in the United States 
+ 
+January 1 – December 31, 2023   
+ 
+ 
+This document summarizes equine infectious anemia (EIA) cases and testing reported in the United 
+States during 2023. Following current guidance, the over 400 EIA-approved laboratories sent monthly 
+summary testing data directly to Animal and Plant Health Inspection Service (APHIS) Veterinary Services 
+(VS). All positive cases were confirmed by the National Veterinary Services Laboratories (NVSL), and the 
+VS Equine Health Team compiled case information in collaboration with State animal health officials. 
+ 
+Reporting of EIA testing is summarized on a calendar-year basis. During 2023, a total of 1,364,247 EIA 
+tests were conducted, resulting in detection of 61 positive horses on 45 premises (Table 1). These 
+results compared to 1,349,759 tests and 96 positives on 45 premises in 2022. Figure 1 is a map depicting 
+reported numbers of horses and premises testing positive for EIA by state and county in 2023. Figure 2 
+presents a summary of EIA testing from 2003–2023. Historical data and additional information on EIA 
+are available online at https://www.aphis.usda.gov/livestock-poultry-disease/equine/infectious-anemia.  
+ 
+Table 1. Test results reported for equine infectious anemia in the United States, 2023 
+State Tests Performed Positive Horses Positive Premises 
+Alabama                    17,605  0 0 
+Alaska              
+Text Len: 1460
+--------------------------------------------------------------------------------
+ 
+ 
+Table 1. Test results reported for equine infectious anemia in the United States, 2023 
+State Tests Performed Positive Horses Positive Premises 
+Alabama                    17,605  0 0 
+Alaska                          923  0 0 
+Arizona                    19,761  4 4 
+Arkansas                    29,342  0 0 
+California                    27,725  6 4 
+Colorado                    23,323  1 1 
+Connecticut                       8,693  0 0 
+Delaware                       3,947  0 0 
+Florida                  100,076  1 1 
+Georgia                    39,919  1 1 
+Hawaii                          380  0 0 
+Idaho                    13,463  0 0 
+Illinois   
+Text Len: 655
+--------------------------------------------------------------------------------
+     39,919  1 1 
+Hawaii                          380  0 0 
+Idaho                    13,463  0 0 
+Illinois                    24,839  1 1 
+Indiana                    16,794  1 1 
+Iowa                    19,952  0 0 
+Kansas                    18,039  0 0 
+Kentucky                    66,898  0 0 
+Louisiana                    26,321  0 0 
+Maine                       5,216  0 0 
+Maryland                    24,715  0 0 
+Massachusetts                    13,408  0 0 
+Michigan                    31,503  0 0 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+June 2024 
+ 
+2023 Summary
+Text Len: 603
+--------------------------------------------------------------------------------
+             13,408  0 0 
+Michigan                    31,503  0 0 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+June 2024 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 2 
+ 
+Minnesota                    27,795  2 1 
+Mississippi                    19,287  2 2 
+Missouri                    54,387  0 0 
+Montana                    17,924  0 0 
+Nebraska                       9,994  0 0 
+Nevada                    14,950  0 0 
+New Hampshire                       5,992  0 0 
+New Jersey                    17,268  0 0 
+New Mexico                    13,476  2 2 
+New York                  
+Text Len: 655
+--------------------------------------------------------------------------------
+ 
+New Jersey                    17,268  0 0 
+New Mexico                    13,476  2 2 
+New York                    41,580  0 0 
+North Carolina                    54,083  5 5 
+North Dakota                       6,914  0 0 
+Ohio                    49,703  0 0 
+Oklahoma                    52,133  7 5 
+Oregon                       4,435  1 1 
+Pennsylvania                    47,995  0 0 
+Rhode Island                       1,771  0 0 
+South Carolina                    29,390  0 0 
+South Dakota                       8,272  0 0 
+Tennessee                    50,234  0 0 
+Texas        
+Text Len: 583
+--------------------------------------------------------------------------------
+   29,390  0 0 
+South Dakota                       8,272  0 0 
+Tennessee                    50,234  0 0 
+Texas                  184,736  27 16 
+Utah                       7,392  0 0 
+Vermont                       5,854  0 0 
+Virginia                    43,734  0 0 
+Washington                       5,728  0 0 
+West Virginia                       9,575  0 0 
+Wisconsin                    31,444  0 0 
+Wyoming                    15,264  0 0 
+Puerto Rico 95 0 0 
+U.S. Virgin Islands 0 0 0 
+U.S. Totals 1,364,247 61 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 3 
+ 
+ 
+
+Text Len: 629
+--------------------------------------------------------------------------------
+
+U.S. Virgin Islands 0 0 0 
+U.S. Totals 1,364,247 61 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 3 
+ 
+ 
+Figure 1. Reported numbers of horses and premises testing positive for EIA  by state and county, 2023 
+ 
+ 
+Although the current prevalence of EIA in the U.S. equine population remains very low, at an estimated 
+national prevalence of around 0.004 percent, the epidemiology of EIA-positive cases has shifted in 
+recent years. Most EIA cases were previously found to occur from natural transmission by biting fly 
+vectors in untested and undertested populations. Increasing cases of iatrogenic transmission (disease 
+resulting from medical activity) are now being identified.  
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 4 
+ 
+ 
+Figure 2. Reported numbers of EIA tests and positive cases in the United States, 2003–2023 
+ 
+In 2023, out of the total 61 confirmed EIA cases identified, there were 40 cases of EIA in either current 
+or former Quarter Horse racehorses where iatrogenic transmission was the method of disease spread. 
+Two of these cases were co-infected with Theileria equi, a causative agent of equine piroplasmosis, 
+which was also transmitted by iatrogenic means. Iatrogenic transmission in this equine population 
+occurs through unhygienic practices by horse trainers and owners. Practices include re-
+Text Len: 1431
+--------------------------------------------------------------------------------
+ method of disease spread. 
+Two of these cases were co-infected with Theileria equi, a causative agent of equine piroplasmosis, 
+which was also transmitted by iatrogenic means. Iatrogenic transmission in this equine population 
+occurs through unhygienic practices by horse trainers and owners. Practices include re-use of needles, 
+syringes, and IV sets; administration of blood transfusions from untested donor horses; use of illegal 
+blood products from other countries; and infectious blood contamination of multi-dose drug vials.  
+ 
+Some of the iatrogenic transmission cases in the Quarter Horse racehorse population are found in 
+horses participating in unsanctioned racing. However, there are also recognized crossover cases 
+between unsanctioned and sanctioned racing in some parts of the United States. Cases in sanctioned 
+Quarter Horse racehorses with no obvious connection to unsanctioned racing have also been identified. 
+EIA-positive cases in this emerging high-risk population are frequently found in clusters, indicating a 
+horse trainer or owner repeatedly using unhygienic practices which caused disease spread to multiple 
+horses. These cases are preventable with good hygienic practices and basic biosecurity measures. Thus, 
+increased education and outreach to trainers and owners of Quarter Horse racehorses are needed to 
+mitigate the continued spread of EIA.  
+ 
+Of the remaining 21 positive EIA cases identified in the United States during 2023, eight (8) originated 
+from untested/undertested herds where natural transmission was likely occurring over a long period, 
+four (4) horses were suspected or confirmed to have been illegally moved into the United States from 
+Mexico, and nine (9) horses were infected from an unknown/
+Text Len: 1755
+--------------------------------------------------------------------------------
+
+Of the remaining 21 positive EIA cases identified in the United States during 2023, eight (8) originated 
+from untested/undertested herds where natural transmission was likely occurring over a long period, 
+four (4) horses were suspected or confirmed to have been illegally moved into the United States from 
+Mexico, and nine (9) horses were infected from an unknown/undetermined source.  
+ 
+0
+500
+1000
+1500
+2000
+2500
+Number of Tests x 1000 Number of Test-positive Horses
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 5 
+ 
+Current APHIS guidance for EIA-approved laboratories now provides more comprehensive EIA testing 
+data than previously existed. Figure 3 captures the number of EIA tests performed in 2023 by month. 
+March, April, and May, respectively, were the busiest months for EIA testing in 2023. 
+ 
+ 
+Figure 3. Reported numbers of EIA tests performed in the United States in 2023 by month 
+ 
+Two EIA test types are authorized for use by approved laboratories in the United States: 1. agar gel 
+immunodiffusion (AGID) tests, commonly called Coggins tests, and 2. enzyme-linked immunosorbent 
+assay (ELISA) tests. Figure 4 depicts the number of AGID tests performed throughout the United States 
+in 2023, compared to the number of ELISA tests performed. Both test assays were used in 2023 with 
+similar frequency.   
+ 
+ 
+Figure 4. Reported numbers of AGID and ELISA EIA tests performed in the United States in 2023 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+
+Text Len: 1510
+--------------------------------------------------------------------------------
+ 2023, compared to the number of ELISA tests performed. Both test assays were used in 2023 with 
+similar frequency.   
+ 
+ 
+Figure 4. Reported numbers of AGID and ELISA EIA tests performed in the United States in 2023 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+140000
+160000
+180000
+200000
+EIA Tests Performed in 2023 by Month
+AGID & ELISA EIA Tests Performed in 2023
+AGID Tests
+ELISA Tests
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 6 
+ 
+0 20000 40000 60000 80000 100000 120000 140000 160000 180000 200000
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+AGID & ELISA EIA Tests Performed in 2023 by State of Horse Residence
+AGID Tests ELISA Tests
+Figure 5. Reported numbers of AGID and ELISA EIA tests performed by state of horse residence in 2023 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+
+Text Len: 1317
+--------------------------------------------------------------------------------
+
+Wyoming
+AGID & ELISA EIA Tests Performed in 2023 by State of Horse Residence
+AGID Tests ELISA Tests
+Figure 5. Reported numbers of AGID and ELISA EIA tests performed by state of horse residence in 2023 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 7 
+ 
+ 
+Figure 5 shows the number and type of EIA assays used to test resident horses in each state. Twenty-
+nine States and Puerto Rico reported fewer than 20,000 EIA tests performed on their horse populations 
+in 2023. Nineteen States reported between 20,000 and 60,000 EIA tests performed on their horse 
+populations in 2023. Three (3) States—Florida, Kentucky, and Texas—reported over 60,000 EIA tests 
+performed on their horse populations in 2023. Horse populations in 24 states were tested more 
+frequently using an ELISA assay than the AGID assay. In comparison, horse populations in 26 states and 
+Puerto Rico were tested more frequently using the AGID assay compared to an ELISA assay. 
+ 
+Text Len: 988
+--------------------------------------------------------------------------------
+  
+ 
+2023 Equine Infectious Anemia Cases                 
+in the United States 
+ 
+January 1 – December 31, 2023   
+ 
+ 
+This document summarizes equine infectious anemia (EIA) cases and testing reported in the United 
+States during 2023. Following current guidance, the over 400 EIA-approved laboratories sent monthly 
+summary testing data directly to Animal and Plant Health Inspection Service (APHIS) Veterinary Services 
+(VS). All positive cases were confirmed by the National Veterinary Services Laboratories (NVSL), and the 
+VS Equine Health Team compiled case information in collaboration with State animal health officials. 
+ 
+Reporting of EIA testing is summarized on a calendar-year basis. During 2023, a total of 1,364,247 EIA 
+tests were conducted, resulting in detection of 61 positive horses on 45 premises (Table 1). These 
+results compared to 1,349,759 tests and 96 positives on 45 premises in 2022. Figure 1 is a map depicting 
+reported numbers of horses and premises testing positive for EIA by state and county in 2023. Figure 2 
+presents a summary of EIA testing from 2003–2023. Historical data and additional information on EIA 
+are available online at https://www.aphis.usda.gov/livestock-poultry-disease/equine/infectious-anemia.  
+ 
+Table 1. Test results reported for equine infectious anemia in the United States, 2023 
+State Tests Performed Positive Horses Positive Premises 
+Alabama                    17,605  0 0 
+Alaska              
+Text Len: 1460
+--------------------------------------------------------------------------------
+ 
+ 
+Table 1. Test results reported for equine infectious anemia in the United States, 2023 
+State Tests Performed Positive Horses Positive Premises 
+Alabama                    17,605  0 0 
+Alaska                          923  0 0 
+Arizona                    19,761  4 4 
+Arkansas                    29,342  0 0 
+California                    27,725  6 4 
+Colorado                    23,323  1 1 
+Connecticut                       8,693  0 0 
+Delaware                       3,947  0 0 
+Florida                  100,076  1 1 
+Georgia                    39,919  1 1 
+Hawaii                          380  0 0 
+Idaho                    13,463  0 0 
+Illinois   
+Text Len: 655
+--------------------------------------------------------------------------------
+     39,919  1 1 
+Hawaii                          380  0 0 
+Idaho                    13,463  0 0 
+Illinois                    24,839  1 1 
+Indiana                    16,794  1 1 
+Iowa                    19,952  0 0 
+Kansas                    18,039  0 0 
+Kentucky                    66,898  0 0 
+Louisiana                    26,321  0 0 
+Maine                       5,216  0 0 
+Maryland                    24,715  0 0 
+Massachusetts                    13,408  0 0 
+Michigan                    31,503  0 0 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+June 2024 
+ 
+2023 Summary
+Text Len: 603
+--------------------------------------------------------------------------------
+             13,408  0 0 
+Michigan                    31,503  0 0 
+Animal and Plant 
+Health Inspection 
+Service 
+ 
+Veterinary 
+Services 
+ 
+June 2024 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 2 
+ 
+Minnesota                    27,795  2 1 
+Mississippi                    19,287  2 2 
+Missouri                    54,387  0 0 
+Montana                    17,924  0 0 
+Nebraska                       9,994  0 0 
+Nevada                    14,950  0 0 
+New Hampshire                       5,992  0 0 
+New Jersey                    17,268  0 0 
+New Mexico                    13,476  2 2 
+New York                  
+Text Len: 655
+--------------------------------------------------------------------------------
+ 
+New Jersey                    17,268  0 0 
+New Mexico                    13,476  2 2 
+New York                    41,580  0 0 
+North Carolina                    54,083  5 5 
+North Dakota                       6,914  0 0 
+Ohio                    49,703  0 0 
+Oklahoma                    52,133  7 5 
+Oregon                       4,435  1 1 
+Pennsylvania                    47,995  0 0 
+Rhode Island                       1,771  0 0 
+South Carolina                    29,390  0 0 
+South Dakota                       8,272  0 0 
+Tennessee                    50,234  0 0 
+Texas        
+Text Len: 583
+--------------------------------------------------------------------------------
+   29,390  0 0 
+South Dakota                       8,272  0 0 
+Tennessee                    50,234  0 0 
+Texas                  184,736  27 16 
+Utah                       7,392  0 0 
+Vermont                       5,854  0 0 
+Virginia                    43,734  0 0 
+Washington                       5,728  0 0 
+West Virginia                       9,575  0 0 
+Wisconsin                    31,444  0 0 
+Wyoming                    15,264  0 0 
+Puerto Rico 95 0 0 
+U.S. Virgin Islands 0 0 0 
+U.S. Totals 1,364,247 61 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 3 
+ 
+ 
+
+Text Len: 629
+--------------------------------------------------------------------------------
+
+U.S. Virgin Islands 0 0 0 
+U.S. Totals 1,364,247 61 45 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 3 
+ 
+ 
+Figure 1. Reported numbers of horses and premises testing positive for EIA  by state and county, 2023 
+ 
+ 
+Although the current prevalence of EIA in the U.S. equine population remains very low, at an estimated 
+national prevalence of around 0.004 percent, the epidemiology of EIA-positive cases has shifted in 
+recent years. Most EIA cases were previously found to occur from natural transmission by biting fly 
+vectors in untested and undertested populations. Increasing cases of iatrogenic transmission (disease 
+resulting from medical activity) are now being identified.  
+ 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 4 
+ 
+ 
+Figure 2. Reported numbers of EIA tests and positive cases in the United States, 2003–2023 
+ 
+In 2023, out of the total 61 confirmed EIA cases identified, there were 40 cases of EIA in either current 
+or former Quarter Horse racehorses where iatrogenic transmission was the method of disease spread. 
+Two of these cases were co-infected with Theileria equi, a causative agent of equine piroplasmosis, 
+which was also transmitted by iatrogenic means. Iatrogenic transmission in this equine population 
+occurs through unhygienic practices by horse trainers and owners. Practices include re-
+Text Len: 1431
+--------------------------------------------------------------------------------
+ method of disease spread. 
+Two of these cases were co-infected with Theileria equi, a causative agent of equine piroplasmosis, 
+which was also transmitted by iatrogenic means. Iatrogenic transmission in this equine population 
+occurs through unhygienic practices by horse trainers and owners. Practices include re-use of needles, 
+syringes, and IV sets; administration of blood transfusions from untested donor horses; use of illegal 
+blood products from other countries; and infectious blood contamination of multi-dose drug vials.  
+ 
+Some of the iatrogenic transmission cases in the Quarter Horse racehorse population are found in 
+horses participating in unsanctioned racing. However, there are also recognized crossover cases 
+between unsanctioned and sanctioned racing in some parts of the United States. Cases in sanctioned 
+Quarter Horse racehorses with no obvious connection to unsanctioned racing have also been identified. 
+EIA-positive cases in this emerging high-risk population are frequently found in clusters, indicating a 
+horse trainer or owner repeatedly using unhygienic practices which caused disease spread to multiple 
+horses. These cases are preventable with good hygienic practices and basic biosecurity measures. Thus, 
+increased education and outreach to trainers and owners of Quarter Horse racehorses are needed to 
+mitigate the continued spread of EIA.  
+ 
+Of the remaining 21 positive EIA cases identified in the United States during 2023, eight (8) originated 
+from untested/undertested herds where natural transmission was likely occurring over a long period, 
+four (4) horses were suspected or confirmed to have been illegally moved into the United States from 
+Mexico, and nine (9) horses were infected from an unknown/
+Text Len: 1755
+--------------------------------------------------------------------------------
+
+Of the remaining 21 positive EIA cases identified in the United States during 2023, eight (8) originated 
+from untested/undertested herds where natural transmission was likely occurring over a long period, 
+four (4) horses were suspected or confirmed to have been illegally moved into the United States from 
+Mexico, and nine (9) horses were infected from an unknown/undetermined source.  
+ 
+0
+500
+1000
+1500
+2000
+2500
+Number of Tests x 1000 Number of Test-positive Horses
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 5 
+ 
+Current APHIS guidance for EIA-approved laboratories now provides more comprehensive EIA testing 
+data than previously existed. Figure 3 captures the number of EIA tests performed in 2023 by month. 
+March, April, and May, respectively, were the busiest months for EIA testing in 2023. 
+ 
+ 
+Figure 3. Reported numbers of EIA tests performed in the United States in 2023 by month 
+ 
+Two EIA test types are authorized for use by approved laboratories in the United States: 1. agar gel 
+immunodiffusion (AGID) tests, commonly called Coggins tests, and 2. enzyme-linked immunosorbent 
+assay (ELISA) tests. Figure 4 depicts the number of AGID tests performed throughout the United States 
+in 2023, compared to the number of ELISA tests performed. Both test assays were used in 2023 with 
+similar frequency.   
+ 
+ 
+Figure 4. Reported numbers of AGID and ELISA EIA tests performed in the United States in 2023 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+
+Text Len: 1510
+--------------------------------------------------------------------------------
+ 2023, compared to the number of ELISA tests performed. Both test assays were used in 2023 with 
+similar frequency.   
+ 
+ 
+Figure 4. Reported numbers of AGID and ELISA EIA tests performed in the United States in 2023 
+0
+20000
+40000
+60000
+80000
+100000
+120000
+140000
+160000
+180000
+200000
+EIA Tests Performed in 2023 by Month
+AGID & ELISA EIA Tests Performed in 2023
+AGID Tests
+ELISA Tests
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 6 
+ 
+0 20000 40000 60000 80000 100000 120000 140000 160000 180000 200000
+Alabama
+Alaska
+Arizona
+Arkansas
+California
+Colorado
+Connecticut
+Delaware
+Florida
+Georgia
+Hawaii
+Idaho
+Illinois
+Indiana
+Iowa
+Kansas
+Kentucky
+Louisiana
+Maine
+Maryland
+Massachusetts
+Michigan
+Minnesota
+Mississippi
+Missouri
+Montana
+Nebraska
+Nevada
+New Hampshire
+New Jersey
+New Mexico
+New York
+North Carolina
+North Dakota
+Ohio
+Oklahoma
+Oregon
+Pennsylvania
+Puerto Rico
+Rhode Island
+South Carolina
+South Dakota
+Tennessee
+Texas
+Utah
+Vermont
+Virgin Islands
+Virginia
+Washington
+West Virginia
+Wisconsin
+Wyoming
+AGID & ELISA EIA Tests Performed in 2023 by State of Horse Residence
+AGID Tests ELISA Tests
+Figure 5. Reported numbers of AGID and ELISA EIA tests performed by state of horse residence in 2023 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+
+Text Len: 1317
+--------------------------------------------------------------------------------
+
+Wyoming
+AGID & ELISA EIA Tests Performed in 2023 by State of Horse Residence
+AGID Tests ELISA Tests
+Figure 5. Reported numbers of AGID and ELISA EIA tests performed by state of horse residence in 2023 
+2023 Summary of Equine Infectious Anemia Cases in the United States 
+ 
+ 
+ 
+USDA-APHIS-VS 7 
+ 
+ 
+Figure 5 shows the number and type of EIA assays used to test resident horses in each state. Twenty-
+nine States and Puerto Rico reported fewer than 20,000 EIA tests performed on their horse populations 
+in 2023. Nineteen States reported between 20,000 and 60,000 EIA tests performed on their horse 
+populations in 2023. Three (3) States—Florida, Kentucky, and Texas—reported over 60,000 EIA tests 
+performed on their horse populations in 2023. Horse populations in 24 states were tested more 
+frequently using an ELISA assay than the AGID assay. In comparison, horse populations in 26 states and 
+Puerto Rico were tested more frequently using the AGID assay compared to an ELISA assay. 
+ 
+Text Len: 988
+--------------------------------------------------------------------------------

@@ -1,0 +1,34 @@
+Family:  GERANIACEAE  ;
+Species:  Geranium pusillumL.  ;
+Common Name:  Small-flowered Crane's-bill  ;
+Habitat:  Roadsides, fields, lawns, and other disturbed areas.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  Reported new for Alabama by England (2018) based on a series of specimens he made from multiple counties in North Alabama in 2018.  However, an earlier specimen exists from Colbert County in the Texas A&M Herbarium (TAMU) as reported in an unpublished master's thesis whose author studied the flora of the Natchez Trace (Phillips 2006).  ;
+Status:  Not Native  ;
+References:  England, J.K. 2018. New to Alabama: Geranium pusillum (Geraniaceae). Phytoneuron 2018-41: 1–4.|||Aedo, C., J.J. Aldasoro and C. Navarro. 1998. Taxonomic Revision of Geranium Sections Batrachioidea and Divaricata (Geraniaceae). Ann. of the Missouri Bot. Gard. 85(4) 594-630.|||Phillips, N.M.M.  2006. Vascular flora and gradient analysis of the Natchez Trace Parkway. M.S. thesis, Texas A&M University, College Station.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1223
+--------------------------------------------------------------------------------
+Family:  GERANIACEAE  ;
+Species:  Geranium pusillumL.  ;
+Common Name:  Small-flowered Crane's-bill  ;
+Habitat:  Roadsides, fields, lawns, and other disturbed areas.  ;
+Associated Ecological Communities:  **  ;
+Growth Habit:  Herb  ;
+Duration:  Annual  ;
+Category:  Vascular  ;
+USDA Symbol:  **  ;
+Plant Notes:  **  ;
+Taxonomic Notes:  Reported new for Alabama by England (2018) based on a series of specimens he made from multiple counties in North Alabama in 2018.  However, an earlier specimen exists from Colbert County in the Texas A&M Herbarium (TAMU) as reported in an unpublished master's thesis whose author studied the flora of the Natchez Trace (Phillips 2006).  ;
+Status:  Not Native  ;
+References:  England, J.K. 2018. New to Alabama: Geranium pusillum (Geraniaceae). Phytoneuron 2018-41: 1–4.|||Aedo, C., J.J. Aldasoro and C. Navarro. 1998. Taxonomic Revision of Geranium Sections Batrachioidea and Divaricata (Geraniaceae). Ann. of the Missouri Bot. Gard. 85(4) 594-630.|||Phillips, N.M.M.  2006. Vascular flora and gradient analysis of the Natchez Trace Parkway. M.S. thesis, Texas A&M University, College Station.  ;
+Specimen:  View specimen details in the Alabama Herbarium Consortium Specimen Database  ;
+
+Text Len: 1223
+--------------------------------------------------------------------------------

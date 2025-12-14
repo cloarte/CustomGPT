@@ -1,0 +1,152 @@
+Crop Knowledge Master
+Technomyrmex albipes (Fr. Smith)
+White-footed Ant
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+T. albipes is a canopy nester, building tents in the crotches of trees or nesting under bark. It also nests in dry, rotting logs. Workers can be found foraging in foliage and on the ground (Wilson & Taylor 1967). In Hawaii, University of Hawaii researchers have found T. albipes associated with aphids and mealybugs in commercial floral ginger and heliconia.
+DISTRIBUTION
+T. albipes is widespread in the Indo-Australian region from India to eastern Australia and throughout the Pacific (Wilson & Taylor 1967). It is listed for the populated Hawaiian Islands except Lanai and Niihau (Hawaiian Terrestrial Arthropod Checklist 1992). Huddleston & Fluker (1968) found T. albipes in forested areas from 1000 to 5000 ft elevations where annual rainfall exceeds 60.
+DAMAGE
+Damage by ants to agricultural commodities is usually indirect. Mealybugs, aphids, soft scales and whiteflies secrete honeydew, which attracts ants. Ants feed on honeydew, driving away the natural enemies of aphids and scale insects. The pests multiply and inflict damage on the plants. In a study conducted on Guam, survival of mealybugs was significantly higher when T. albipes was present due to decreased parasitization of the mealybugs by encyrtid wasps and decreased predation by other arthropods. Ants were observed chasing away parasitic wasps and attacking predatory coccinellids by grabbing the beetles's legs (Nechols & Seibert
+Text Len: 1661
+--------------------------------------------------------------------------------
+ study conducted on Guam, survival of mealybugs was significantly higher when T. albipes was present due to decreased parasitization of the mealybugs by encyrtid wasps and decreased predation by other arthropods. Ants were observed chasing away parasitic wasps and attacking predatory coccinellids by grabbing the beetles's legs (Nechols & Seibert 1985). T. albipes is a tent builder, creating unsightly piles of debris in plant and flower crevices. It is also implicated in the spread of fungal pod rot disease of cocoa (McGregor & Moxon 1985). The white-footed ant can be an indoor nuisance, infesting food and causing electric switches to malfunction. For unknown reasons the ants are attracted to electrical contacts. Electrocuted corpses build up, insulating the contacts and leading to switch failure (Little 1984).
+BIOLOGY
+White-footed ants are social insects. Immatures are fed and cared for throughout development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which damage occurs in extreme heat (Wheeler 1910).
+EGGS
+Eggs are laid, usually by a queen, in the nest they are protected by workers. They may be fertilized or unfertilized. Eggs are tiny (.5 mm), white or yellowish ovals (Wheeler 1910) and have been found, along with other developmental stages, in nests constructed of dirt and plant rubbish in red ginger flowers.
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulb
+Text Len: 1778
+--------------------------------------------------------------------------------
+ be fertilized or unfertilized. Eggs are tiny (.5 mm), white or yellowish ovals (Wheeler 1910) and have been found, along with other developmental stages, in nests constructed of dirt and plant rubbish in red ginger flowers.
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulbous at the bottom and narrow and curled at the head). Adult ants lick the larvae, and the saliva makes them sticky and easily transported in groups when the colony is disturbed (Wheeler 1910). Most ant species have four larval stages. The larvae are attended by adults, usually of the worker caste (Holldobler & Wilson 1990).
+PUPAE
+White-footed ants develop from larvae into pupae without spinning cocoons. The pupae, as well as larvae, are often mistaken for eggs (Wheeler 1910).
+ADULTS
+Adults are polymorphic, i.e., having different body types. Adults of one body type form a social unit called a caste, which is also defined by the role in the community. Queens are usually comparatively large and winged early in life. They are reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Males of T. albipes lack wings and are very similar in appearance to workers, a condition in ants referred to as ergatomorphic (Wheeler 1910). Adult workers are wingless, medium-sized, dull black ants 2 to 4 mm long (less than 1/4 in) (Huddleston et al 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely
+Text Len: 1749
+--------------------------------------------------------------------------------
+ to 4 mm long (less than 1/4 in) (Huddleston et al 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely to be found outside the nest.
+BEHAVIOR
+White-footed ants are canopy residents and can spread from plant to plant where leaves overlap. They are tent builders, using debris to construct nests in plants (McGregor & Moxon 1985). Their status as a pest stems from their habit of inhabiting commercial tropical flower fields at lower elevations.
+MANAGEMENT
+Cultural control
+Introduction of competitive ant species that are less likely to spread disease and build unsightly tents in plants has been suggested as a means of control for T. albipes. In cocoa plantations in New Guinea, Anoplolepis longipes, the longlegged ant, will displace T. albipes, is not a tent-builder, and is less likely to spread black pod disease of cocoa (McGregor & Moxon 1985). The longlegged ant is present in Hawaii. It does, however, tend homopteran insects such as aphids and mealybugs. Although these are not always a problem on cocoa, they may be a problem on other crops, especially as vectors of viral disease. In flower fields sanitation helps with control, since removal of touching branches or leaves between clumps or plants may slow the spread of the ant in the field.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species
+Text Len: 1794
+--------------------------------------------------------------------------------
+ touching branches or leaves between clumps or plants may slow the spread of the ant in the field.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Dominant ant species, such as Anoplolepis longipes, the longlegged ant, will displace T. albipes, and this has been exploited to control the more injurious T. albipes in cocoa plantations (McGregor & Moxon 1985). Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+T. albipes can spread from plant to plant without contacting the ground; therefore, ground spraying as a barrier treatment lacks effectiveness. Entire plants or trees would have to be sprayed in order to control the ant, with frequent reapplication (McGregor & Moxon 1985). In commercial flower fields entire plant spraying is more practical than in orchards.
+REFERENCES
+1992. Hawaiian Terrestrial Arthropod Checklist. Gordon M. Nishida, Ed. Bishop Museum: Honolulu, Hawaii. 262 pp.
+Holldobler, B. & E. O. Wilson. l990. The Ants. The Belknap Press of Harvard University Press: Cambndge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Little, E. C. S
+Text Len: 1570
+--------------------------------------------------------------------------------
+. l990. The Ants. The Belknap Press of Harvard University Press: Cambndge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Little, E. C. S. 1984. Ants in electric switches. New Zealand Entomologist 8: 47.
+McGregor, A. J. & J. E. Moxon. 1985. Potential for biological control of tent building species of ants associated with Phytophthora palmivora pod rot of cocoa in Papua New Guinea. Ann. Appl. Biol. 107: 271-277.
+Nechols, J. R. & T. F. Seibert. 1985. Biological control of the spherical mealybug, Nipaecoccus vastator (Homoptera: Pseudococcidae): assessment by ant exclusion. Env. Entom. 14(1): 45-47.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants of Polynesia (Hymenoptera: Formicidae). Pacific Insects Monograph 14. Bernice P. Bishop Museum Entomology Department: Honolulu. 96 pp.
+      MAR/1992
+  T-ALBIPE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1025
+--------------------------------------------------------------------------------
+Crop Knowledge Master
+Technomyrmex albipes (Fr. Smith)
+White-footed Ant
+Hosts Distribution Damage Biology Behavior Management Reference
+Authors
+Victoria L Tenbrink, Research Associate
+Arnold H. Hara, Entomologist
+Beaumont Research Center
+Hilo, Hawaii
+HOSTS
+T. albipes is a canopy nester, building tents in the crotches of trees or nesting under bark. It also nests in dry, rotting logs. Workers can be found foraging in foliage and on the ground (Wilson & Taylor 1967). In Hawaii, University of Hawaii researchers have found T. albipes associated with aphids and mealybugs in commercial floral ginger and heliconia.
+DISTRIBUTION
+T. albipes is widespread in the Indo-Australian region from India to eastern Australia and throughout the Pacific (Wilson & Taylor 1967). It is listed for the populated Hawaiian Islands except Lanai and Niihau (Hawaiian Terrestrial Arthropod Checklist 1992). Huddleston & Fluker (1968) found T. albipes in forested areas from 1000 to 5000 ft elevations where annual rainfall exceeds 60.
+DAMAGE
+Damage by ants to agricultural commodities is usually indirect. Mealybugs, aphids, soft scales and whiteflies secrete honeydew, which attracts ants. Ants feed on honeydew, driving away the natural enemies of aphids and scale insects. The pests multiply and inflict damage on the plants. In a study conducted on Guam, survival of mealybugs was significantly higher when T. albipes was present due to decreased parasitization of the mealybugs by encyrtid wasps and decreased predation by other arthropods. Ants were observed chasing away parasitic wasps and attacking predatory coccinellids by grabbing the beetles's legs (Nechols & Seibert
+Text Len: 1661
+--------------------------------------------------------------------------------
+ study conducted on Guam, survival of mealybugs was significantly higher when T. albipes was present due to decreased parasitization of the mealybugs by encyrtid wasps and decreased predation by other arthropods. Ants were observed chasing away parasitic wasps and attacking predatory coccinellids by grabbing the beetles's legs (Nechols & Seibert 1985). T. albipes is a tent builder, creating unsightly piles of debris in plant and flower crevices. It is also implicated in the spread of fungal pod rot disease of cocoa (McGregor & Moxon 1985). The white-footed ant can be an indoor nuisance, infesting food and causing electric switches to malfunction. For unknown reasons the ants are attracted to electrical contacts. Electrocuted corpses build up, insulating the contacts and leading to switch failure (Little 1984).
+BIOLOGY
+White-footed ants are social insects. Immatures are fed and cared for throughout development, which takes place in the shelter of the nest. The caste of an adult is established during development and does not change in adulthood. Juvenile stages are usually only a small proportion of the entire life span; individual workers can live for years (Holldobler & Wilson 1990). Development is temperature dependent, being faster at warmer temperatures. There is an upper limit, however, at which damage occurs in extreme heat (Wheeler 1910).
+EGGS
+Eggs are laid, usually by a queen, in the nest they are protected by workers. They may be fertilized or unfertilized. Eggs are tiny (.5 mm), white or yellowish ovals (Wheeler 1910) and have been found, along with other developmental stages, in nests constructed of dirt and plant rubbish in red ginger flowers.
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulb
+Text Len: 1778
+--------------------------------------------------------------------------------
+ be fertilized or unfertilized. Eggs are tiny (.5 mm), white or yellowish ovals (Wheeler 1910) and have been found, along with other developmental stages, in nests constructed of dirt and plant rubbish in red ginger flowers.
+LARVAE
+Young larvae are soft, legless, pale grubs shaped like crook-necked squash (fat and bulbous at the bottom and narrow and curled at the head). Adult ants lick the larvae, and the saliva makes them sticky and easily transported in groups when the colony is disturbed (Wheeler 1910). Most ant species have four larval stages. The larvae are attended by adults, usually of the worker caste (Holldobler & Wilson 1990).
+PUPAE
+White-footed ants develop from larvae into pupae without spinning cocoons. The pupae, as well as larvae, are often mistaken for eggs (Wheeler 1910).
+ADULTS
+Adults are polymorphic, i.e., having different body types. Adults of one body type form a social unit called a caste, which is also defined by the role in the community. Queens are usually comparatively large and winged early in life. They are reproductives, laying fertile and unfertile eggs throughout their lives. Males are usually short-lived and function only in reproduction. Males of T. albipes lack wings and are very similar in appearance to workers, a condition in ants referred to as ergatomorphic (Wheeler 1910). Adult workers are wingless, medium-sized, dull black ants 2 to 4 mm long (less than 1/4 in) (Huddleston et al 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely
+Text Len: 1749
+--------------------------------------------------------------------------------
+ to 4 mm long (less than 1/4 in) (Huddleston et al 1968). Adults recently emerged from the pupal stage are paler (Wheeler 1910). Workers are females which tend all stages of juvenile ants, construct and maintain nests, and forage for food. Commonly, only individuals of the worker caste are encountered because they are the most numerous and the most likely to be found outside the nest.
+BEHAVIOR
+White-footed ants are canopy residents and can spread from plant to plant where leaves overlap. They are tent builders, using debris to construct nests in plants (McGregor & Moxon 1985). Their status as a pest stems from their habit of inhabiting commercial tropical flower fields at lower elevations.
+MANAGEMENT
+Cultural control
+Introduction of competitive ant species that are less likely to spread disease and build unsightly tents in plants has been suggested as a means of control for T. albipes. In cocoa plantations in New Guinea, Anoplolepis longipes, the longlegged ant, will displace T. albipes, is not a tent-builder, and is less likely to spread black pod disease of cocoa (McGregor & Moxon 1985). The longlegged ant is present in Hawaii. It does, however, tend homopteran insects such as aphids and mealybugs. Although these are not always a problem on cocoa, they may be a problem on other crops, especially as vectors of viral disease. In flower fields sanitation helps with control, since removal of touching branches or leaves between clumps or plants may slow the spread of the ant in the field.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species
+Text Len: 1794
+--------------------------------------------------------------------------------
+ touching branches or leaves between clumps or plants may slow the spread of the ant in the field.
+Biological control -- Parasites
+Many external and internal insect and mite parasites of ants live in ant nests. These usually stunt development in the ant. Some wasps and flies lay eggs in worker ants (Wheeler 1910).
+Biological control -- Predators
+The major predators of ant species are often other ant species (Holldobbler & Wilson 1990). Interspecific competition occurs for ants sharing the same habitat. Dominant ant species, such as Anoplolepis longipes, the longlegged ant, will displace T. albipes, and this has been exploited to control the more injurious T. albipes in cocoa plantations (McGregor & Moxon 1985). Birds, reptiles, amphibians, arthropods, and mammals, including humans, consume ants (Wheeler 1910).
+CHEMICAL CONTROL
+T. albipes can spread from plant to plant without contacting the ground; therefore, ground spraying as a barrier treatment lacks effectiveness. Entire plants or trees would have to be sprayed in order to control the ant, with frequent reapplication (McGregor & Moxon 1985). In commercial flower fields entire plant spraying is more practical than in orchards.
+REFERENCES
+1992. Hawaiian Terrestrial Arthropod Checklist. Gordon M. Nishida, Ed. Bishop Museum: Honolulu, Hawaii. 262 pp.
+Holldobler, B. & E. O. Wilson. l990. The Ants. The Belknap Press of Harvard University Press: Cambndge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Little, E. C. S
+Text Len: 1570
+--------------------------------------------------------------------------------
+. l990. The Ants. The Belknap Press of Harvard University Press: Cambndge, Mass. 732 pp.
+Huddleston, E. W. & S. S. Fluker. 1968. Distribution of ant species of Hawaii. Proc. Haw. Entomol. Soc. 20: 45-69.
+Little, E. C. S. 1984. Ants in electric switches. New Zealand Entomologist 8: 47.
+McGregor, A. J. & J. E. Moxon. 1985. Potential for biological control of tent building species of ants associated with Phytophthora palmivora pod rot of cocoa in Papua New Guinea. Ann. Appl. Biol. 107: 271-277.
+Nechols, J. R. & T. F. Seibert. 1985. Biological control of the spherical mealybug, Nipaecoccus vastator (Homoptera: Pseudococcidae): assessment by ant exclusion. Env. Entom. 14(1): 45-47.
+Wheeler, W. M. 1910. Ants. Columbia University Press: New York. 663 pp.
+Wilson, E. O. and R. W. Taylor. 1967. The ants of Polynesia (Hymenoptera: Formicidae). Pacific Insects Monograph 14. Bernice P. Bishop Museum Entomology Department: Honolulu. 96 pp.
+      MAR/1992
+  T-ALBIPE
+Back To:
+Crop Master Menu
+Knowledge Master Home
+Pest Search
+Text Len: 1025
+--------------------------------------------------------------------------------
